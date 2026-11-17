@@ -3,6 +3,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      bootstrap:
+        description: Publish the verified initial public snapshot
+        type: boolean
+        default: false
   schedule:
     - cron: '8,38 * * * *'
 
@@ -20,7 +25,15 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-      - run: python3 build.py
+      - if: ${{ !inputs.bootstrap }}
+        run: python3 build.py
+      - if: ${{ inputs.bootstrap }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download initial-public --pattern public-panel.zip
+          echo '8bc278a453c5da2d0b6de757a541e2ccfde816a2eeae3cc70b5c171e902ff71e  public-panel.zip' | sha256sum --check
+          unzip -q public-panel.zip -d dist
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

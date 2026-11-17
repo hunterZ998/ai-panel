@@ -23,14 +23,17 @@ class NoRedirect(HTTPRedirectHandler):
 
 
 def get(path, mime):
-    req = Request(ORIGIN + path, headers={"Accept": mime})
+    req = Request(ORIGIN + path, headers={
+        "Accept": mime,
+        "User-Agent": "AI-Panel-Publisher/1.0 (+https://github.com/hunterZ998/ai-panel)",
+    })
     with build_opener(NoRedirect()).open(req, timeout=75) as r:
         if r.status != 200 or r.headers.get_content_type() != mime:
             raise ValueError(f"Unexpected response for {path}")
         return r.read().decode()
 
 
-def render(html, payloads, dest):
+def render(html, payloads, dest, snapshot_note=None):
     sector = payloads["sectors"]
     if (len(sector["items"]) != 6 or any("meeting" in s for s in sector["items"])
             or any(a.get("visibility") != "public" for a in sector["atoms"])):
@@ -53,8 +56,8 @@ def render(html, payloads, dest):
     html = html.replace("fetch('/api/ima?'+new URLSearchParams(params),",
                         "fetch('./data/library.json',")
     html = html.replace("<main id=\"main\" tabindex=\"-1\">",
-                        '<main id="main" tabindex="-1"><small>公开只读版 · 数据同步于 '
-                        + stamp + '</small>')
+                        '<main id="main" tabindex="-1"><small>公开只读版 · '
+                        + (snapshot_note or ('数据同步于 ' + stamp)) + '</small>')
     html = html.replace("</head>", "<style>#maintainer-login{display:none!important}</style></head>")
     data = dest / "data"
     data.mkdir(exist_ok=True)
