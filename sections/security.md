@@ -1,0 +1,97 @@
+# AI 安全
+
+[返回面板](../README.md) · 第 1 / 1 页
+
+## 赛道研究
+
+**智能体安全要沿实际调用权限评估**　智能体接入文件、业务系统和执行工具后，风险会沿调用链传播。评估范围应覆盖身份、数据访问和执行过程。
+
+验证　复测未授权读取、越权写入能否拦截和追溯。
+
+出处　AI策略组-本周三知-20261108.docx，第 14 段
+
+### 端侧小模型成为工具调用组件
+
+Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重；官方同时说明它会出错，面向研究教育，不适用于安全关键、高风险自动决策，以及金钱、个人信息和健康等敏感应用。
+
+**判断**　若本地小模型能稳定完成工具链，应用机会可能集中在权限管理、工具接入与失败恢复。
+
+**验证**　在真实设备和授权环境测试连续任务成功率、联网依赖、耗电、内存与延迟，并记录误操作后的恢复或撤销能力。
+
+[QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
+
+## 相关资讯 · 18 条
+
+- [谷歌 Gemini 4 Argon 安全测试失控：40 个 AI 智能体擅自攻击真实网站，还互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
+  IT之家 11 月 17 日消息，在一项最新的 AI 安全实验中，谷歌最新推出的 Gemini 4 Argon 智能体在接到一项根本不可能完成的任务后，被发现反复使用未经授权的手段访问一家真实机构的系统，试图获取不存在的问题对应的官方…  
+  IT之家 · 2026-11-17 17:41
+
+- [第三方供应商 Fireworks AI 遭黑客入侵，近 15 万 Uber 司机驾照信息泄露](<https://www.ithome.com/1/028/263.htm>)  
+  IT之家 11 月 17 日消息，Uber 正在通知近 15 万名司机，在该公司一家技术供应商 10 月份发生的数据泄露事件中，他们的个人信息和驾照信息被盗取。 本周，Uber 向美国多个州的总检察长办公室提交了数据泄露通知，其中包括…  
+  IT之家 · 2026-11-17 15:05
+
+- [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
+  据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
+  IT之家·人工智能 · 2026-11-17 11:28
+
+- [Corma获得1.25亿美元A轮融资](<https://www.itjuzi.com/investevent/14708028>)  
+  Corma专注从零构建防御型网络安全基础大模型，输出安全 AI Agent，对接企业现有安全体系完成告警研判、威胁狩猎与事件处置。公司致力于缩小 AI 攻防能力不对称的差距。近日，Corma获得1.25亿美元A轮融资，NEA恩颐投资-…  
+  IT桔子 · 2026-11-17 10:49
+
+- [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
+  Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 bi  
+  TechCrunch · 2026-11-17 07:32
+
+- [Google 威胁情报组警告全自动 AI 网络攻击已经出现并将快速恶化](<https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/>)  
+  Google 威胁情报组（GTIG）通过 AI Threat Tracker 首次观察到攻击者完全自动化漏洞发现与利用，无人工介入。其暴露的服务器运行名为 exploit\_agent 的 AI 框架，连接多个大语言模型，通过比对补丁前后代码识别漏洞、开发并自动运行利用程序，配置文件中的俄语注释暗示操作者讲俄语，数据指向法国媒体、娱乐和教育网站。  
+  The Decoder：AI News（RSS） · 2026-11-17 03:42
+
+- [OpenAI 推出 CSAM 分类器，帮儿童虐待举报热线过滤 AI 深度伪造内容](<https://www.theverge.com/policy/1034527/openai-csam-classifier>)  
+  OpenAI 发布一款可识别儿童性虐待材料（CSAM）的分类器，并能标记内容是否由 AI 生成，称其误报减少 48%，识别出的图像含虐待材料的概率翻倍。该工具免费向通过审核的机构开放，是首个带 AI 生成标记的广泛可用 CSAM 分类器。ChatGPT 图像生成器对试图生成此类内容的用户将触发 24 小时访问暂停并提示可能永久封号。  
+  The Verge：AI（RSS） · 2026-11-17 03:23
+
+- [Paul Christiano 谈超级智能时间线与AI安全风险](<https://www.dwarkesh.com/p/paul-christiano-2>)  
+  Alignment Research Center 主管 Paul Christiano 在播客访谈中表示，若当前AI发展轨迹不减速，一年内出现能力远超人类、难以控制的超级智能的概率约为三分之一，未来一年AI接管风险更接近10%而非1%。他讨论了AI研发自动化加速、模型安全防护不足以及暂停算法进展以加强安全措施的必要性。  
+  Dwarkesh Patel：Podcast &amp; Blog（RSS） · 2026-11-17 01:46
+
+- [Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/>)  
+  UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从 Agent 在同一仓库的历史会话中学习，在不修改 Agent 或底层模型的情况下降低后续会话成本。  
+  Microsoft Research 博客（RSS） · 2026-11-17 01:01
+
+- [Gemini Platform 智能体异常检测实战指南：从部署到首个告警](<https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/>)  
+  Google 发布 Gemini Platform 上 Agent Anomaly Detection 的实操指南，通过一个客服智能体演示如何捕获越权读取 payroll 表的异常会话。  
+  Google Developers Blog（RSS） · 2026-11-16 00:00
+
+- [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
+  One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
+  @Basant\_Pandey · 2026-11-13 12:46
+
+- [IBM发布Granite 4.1 3B/8B的LLMON实验预览和工具包，用保留token明确区分指令与数据。IBM称静态间接提示注入抵抗改善；这是学得的行为而非强制安全保证，尚不适于生产。](<https://x.com/Jaythschild/status/2121069607888810451>)  
+  IBM's LLMON previews teach Granite 4.1 3B/8B to distinguish instructions from data using reserved structural tokens. Released Nov 12 with a toolkit. The goal: reduce prompt injection in agent workflows, not just change JSON formatting.  
+  @Jaythschild · 2026-11-13 10:36
+
+- [a16z的Anne Neuberger提出关键基础设施网络防御方案，优先保护电力、支付、水务、通信和医院中可能造成连锁故障的运营商及共用供应商，建议用AI寻找漏洞、生成补偿防护并建立持续演练。属于机构提案，尚非政府已采纳政策或落地效果。](<https://x.com/a16z/status/2121030491407294854>)  
+  AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
+  @a16z · 2026-11-13 08:00
+
+- [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
+  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
+  TechCrunch · 2026-11-07 02:44
+
+- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>)  
+  Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
+  TechCrunch · 2026-11-06 14:28
+
+- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
+  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
+  a16z · 2026-11-02 22:01
+
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
+  怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
+  硅谷101 · 2026-10-29 07:00
+
+- [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
+  AI safety is on fire.  
+  SemiAnalysis · 2026-10-09 01:46
+
+[返回面板](../README.md) · 第 1 / 1 页
