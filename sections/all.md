@@ -2,30 +2,91 @@
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 14 页
 
-完整公开资讯，共 610 条。
+完整公开资讯，共 592 条。
+
+- [7人团队、50余部作品：临港OPC生态如何托举AI漫剧“超级个体”](<https://www.163.com/dy/article/LBV6VPDD055040N3.html>)  
+  网易科技频道 · 网易号 · 2026-11-17 19:00
+
+- [AI Startup For Bankers Raises Funds at $1.5 Billion Value](<https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value>)  
+  Bloomberg · 2026-11-17 19:00
+
+- [Sumsub Identity Fraud Report: U.S. Has World's Largest Fraud Network Detected as AI Agents Open New Gaps](<https://www.prnewswire.com/news-releases/sumsub-identity-fraud-report-us-has-worlds-largest-fraud-network-detected-as-ai-agents-open-new-gaps-302941475.html>)  
+  Only 9% of U.S. and Canadian businesses can suspend an AI agent's access, even as 41% detected or suspected fraud inv…  
+  PR Newswire · 2026-11-17 19:00
+
+- [Humanix Launches Complete Call Context to Expose Voice-Based Social Engineering at the Service Desk](<https://www.prnewswire.com/news-releases/humanix-launches-complete-call-context-to-expose-voice-based-social-engineering-at-the-service-desk-302939112.html>)  
+  Micro-agents counter the surge in voice attacks by corroborating callers' claims with systems of record SAN FRANCISCO…  
+  PR Newswire · 2026-11-17 19:00
+
+- [Airlock Digital Launches Agentic Control, Policy-Based Control Over What AI Agents Can Execute](<https://www.prnewswire.com/news-releases/airlock-digital-launches-agentic-control-policy-based-control-over-what-ai-agents-can-execute-302939277.html>)  
+  With the release of Agentic Control, teams see what supported AI agents attempt, apply policy before execution, and r…  
+  PR Newswire · 2026-11-17 19:00
+
+- [More Than Half of Organizations Using AI Agents Run Them Across Multiple Platforms, Nudge Security Research Finds](<https://www.prnewswire.com/news-releases/more-than-half-of-organizations-using-ai-agents-run-them-across-multiple-platforms-nudge-security-research-finds-302940529.html>)  
+  Second edition of "AI Adoption in Practice" report shows AI risk now lives on the Workforce Edge, where employees cho…  
+  PR Newswire · 2026-11-17 19:00
+
+- [Hyperscale Data, Inc. Announces Intent to Launch Previously Announced Exchange Offer on or about November 20, 2026](<https://www.prnewswire.com/news-releases/hyperscale-data-inc-announces-intent-to-launch-previously-announced-exchange-offer-on-or-about-november-20-2026-302941554.html>)  
+  LAS VEGAS, Nov. 17, 2026 /PRNewswire/ -- Hyperscale Data, Inc. \(NYSE American: GPUS\), an artificial intelligence \("AI…  
+  PR Newswire · 2026-11-17 19:00
+
+- [达信：有迹象表明，黑客正利用 AI 工具和智能体寻找安全漏洞](<https://www.ithome.com/1/028/489.htm>)  
+  IT之家 11 月 17 日消息，据路透社今天（17 日）晚间报道，保险经纪公司达信的数据显示，AI 让网络攻击变得更快、规模更大，企业报告的网络安全事件随之增多，企业及保险公司也面临新的挑战。 达信旗下 Marsh Risk 美国及…  
+  IT之家 · 2026-11-17 18:55
+
+- [反超谷歌王牌模型，决策新王拿下全球榜首，全尺寸开源](<https://36kr.com/p/4073723331777415?f=rss>)  
+  硅谷最卷的新赛道，刚刚杀出了一位开源新王！ 最近，即将敲钟的Anthropic在IPO材料中曝出天价算力缺口，给狂卷参数的AI行业当头浇下一盆冷水。 通用大模型虽在编程、数学上大杀四方，可一旦真替人干活，算力账单就成了无底洞。 比生成文本更  
+  36氪 · 2026-11-17 18:54
+
+- [华为的AI手机来了](<https://36kr.com/p/4073533899216512?f=rss>)  
+  11月17日，华为独立子品牌OSTA星芒宣布首款产品OSTA O1 Pro开放预订。该机定位“鸿蒙AI手机”，采用阔直板形态，搭载专属AI伙伴“小星芒”，将于11月20日正式发布。 余承东对此的表述是“探索更多AI新可能”。 在字节与努比亚  
+  36氪 · 2026-11-17 18:46
+
+- [给AI充钱，只为它“别忘了我”](<https://36kr.com/p/4073526981153671?f=rss>)  
+  聊天聊到一半，对方突然“断片失忆”，是一种什么体验？ 放在现实社交里是尴尬，放在 AI 陪伴APP里，意味着你可能要 交一笔特殊的“感情维护费”了 。 如今，一些AI陪伴产品已经 将月卡、记忆包、虚拟礼物等拆分成不同的收费项目。 想让虚拟角  
+  36氪 · 2026-11-17 18:46
+
+- [Apple Watch’s Always-Listening AI Features Provide Little Value](<https://www.bloomberg.com/news/videos/2026-11-17/apple-watch-s-always-listening-ai-features-provide-little-value>)  
+  Bloomberg · 2026-11-17 18:45
+
+- [Apple Watch Siri Recap Review: AI Listening Adds Little Value](<https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value>)  
+  Bloomberg · 2026-11-17 18:45
+
+- [【首发】WAIC City Walk限额招募！漫步香港AI产业现场](<https://36kr.com/p/4073718016283780?f=rss>)  
+  链接：https://mp.weixin.qq.com/s/FRy71vdvTHYi29vWWH2RuQ?scene=1&amp;click\_id=4 12月9日 · 香港·一天三站 AWS → 香港科技大学 →香港科学园。用一天时间，把AI应用、  
+  36氪 · 2026-11-17 18:41
+
+- [哈佛、Anthropic新研究：单个agent已对齐，组队后为何「集体失守」？](<https://36kr.com/p/4073328529183619?f=rss>)  
+  单个 agent 经过对齐训练，能够表现得诚实、拒绝有害请求等，组成团队后却可能“集体失守”。在软件工程和咨询方案生成中，agent 团队往往减少对系统安全的主动检查， 甚至因问题超出职责而对有害结果“袖手旁观”。 在这项工作中，来自 哈佛  
+  36氪 · 2026-11-17 18:40
+
+- [星尘浩宇NeuxMind.AI获得数亿人民币B轮融资，赛泽资本领投](<https://www.itjuzi.com/investevent/14708097>)  
+  星尘浩宇NeuxMind.AI以“神兽”为核心，打造领先的企业级智能体操作系统。 面向企业交付可规模化复制、可持续运营、可量化验收的 OPT（One Person Team），统一调度数字、具身和碳基智能劳动力（AI Worker）协…  
+  IT桔子 · 2026-11-17 18:36
+
+- [百度 Q3：AI 收入已过半，利润贡献尚未接棒](<https://36kr.com/p/4073457179170696?f=rss>)  
+  昨日，百度交出第三季度成绩单。其总收入308亿元，同比微降1%，环比减少2%；归属百度的净利润14亿元，非公认会计准则下净利润24亿元。单看利润数字，这是一份谈不上亮眼的财报。但拆开收入结构，一个更具分量的信号浮现出来：百度核心AI新业务收  
+  36氪 · 2026-11-17 18:33
+
+- [三大厂内存涨价7倍的锅，AI不背了](<https://36kr.com/p/4073691017499523?f=rss>)  
+  最近，硬件圈发生了一件魔幻的事。因为新一代DDR5内存条贵得离谱，而老款DDR4和DDR5插槽互不兼容，逼得多家主板厂从年中开始掉头重启了原本停产的DDR4主板产线。 更离谱的是，玩家去市场上一问价，发现老旧的DDR4不仅没便宜，近期涨幅一  
+  36氪 · 2026-11-17 18:32
+
+- [MiniMax 市值较峰值跌去近 90%](<https://36kr.com/p/4073517286659974?f=rss>)  
+  11月16日，MiniMax 的股价再次刷新上市以来的低点。盘中一度下跌15%，市值降至440亿港元。与3月份超过4100亿港元的峰值相比，这家公司已经跌去了近90%。 对一家上市不到一年的公司来说，这样的曲线足够刺眼。但 MiniMax  
+  36氪 · 2026-11-17 18:25
 
 - [这家硅谷企业告诉我们，AI驱动的组织变革，从不谈判](<https://36kr.com/p/4073482507392134?f=rss>)  
   漫威的复仇者联盟里，神盾局局长尼克弗瑞有句名言—— 神盾局从不谈判。 换言之，由于这个机构肩负特殊使命，有超级英雄们的武力支撑，有国家机器的资源支持，他们只会按照自己认为正确的方式行事，从来不吃外界压力。 但在现实世界里，当企业决定进行组织  
   36氪 · 2026-11-17 18:14
 
-- [Mac 收紧权限，苹果开始防着 AI 了](<https://www.163.com/dy/article/LBV4558U05118O8G.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 18:10
-
-- [“Robin”问“Robin”：现在AI大模型够好了吗？](<https://www.163.com/dy/article/LBV42B69051481US.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 18:09
-
-- [今夜，英伟达财报焦点：没有黄仁勋，谁还能讲好AI故事？](<https://www.163.com/dy/article/LBSOA9LT05198NMR.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 18:07
-
-- [从传统教育思维到AI教育跃迁：全球说中文智能体发布](<https://www.163.com/dy/article/LBV3VBE70514R9OJ.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 18:07
-
 - [融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资](<https://36kr.com/p/4072516740797318?f=rss>)  
   36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创  
   36氪 · 2026-11-17 18:07
 
-- [华为云“行业AI梦工厂”发布并开源昇腾原生具身世界模型CloudRobo-WM1.2](<https://www.163.com/dy/article/LBV3S5VG0511FMIQ.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 18:06
+- [欧洲云服务企业 OVH 涉足 AI 模型，开源发布 Olala mini 7A1B](<https://www.ithome.com/1/028/453.htm>)  
+  IT之家 11 月 17 日消息，欧洲云服务企业 OVHcloud 当地时间今日宣布推出其首个 AI 模型家族 Olala，同时公布了该系列的首个成员 Olala mini 7A1B。 Olala mini 7A1B 采用结合了 Di…  
+  IT之家 · 2026-11-17 18:06
 
 - [豆包接入第三方模型，这波更新先别急着夸](<https://36kr.com/p/4073424632304768?f=rss>)  
   11月12日，字节跳动旗下办公智能体产品豆包工作宣布完成产品更新，在原有豆包2.1 Lite和豆包2.1 Pro两款自研模型之外，新增接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等多款第三方模型。  
@@ -47,21 +108,25 @@
   Combination Brings Together Agentic AI, Experienced Cyber Defenders and Deep Microsoft Expertise to Deliver Proactive…  
   PR Newswire · 2026-11-17 18:00
 
+- [NVIDIA 董事会设立国家安全与出口管制监督委员会](<https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee>)  
+  NVIDIA 宣布董事会设立常设的国家安全与出口管制监督委员会，负责公司国家安全政策、出口管制合规和全球贸易风险管理的董事会级监督。委员会由董事 Suzanne Nora Johnson 担任主席，成员包括 Stephen C. Neal 和 John O. Dabiri，至少每季度召开一次会议，并将聘请独立外部专家提供法律、国家安全和贸易合规支持。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 18:00
+
 - [探寻趋势下存量时代的企业增长，2026未来品类之王发布盛典在沪圆满举行](<https://36kr.com/p/4073668005942407?f=rss>)  
   2026年11月14—15日，由里斯战略咨询集团发起，百余媒体助阵，复旦大学EMBA、36氪、分众传媒、亿邦动力等单位支持的“2026未来品类之王发布盛典暨‘定位之父’艾·里斯百年诞辰纪念活动”在上海世界会客厅举行。 作为定位理论诞生以来全  
   36氪 · 2026-11-17 17:54
 
+- [小米雷军：具身智能机器人未来一定是一个巨大的产业机会，它的想象力会超过汽车产业](<https://www.ithome.com/1/028/437.htm>)  
+  IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军认为， 过去 4 年时间，AI 大模型的技术突飞猛进，…  
+  IT之家 · 2026-11-17 17:53
+
+- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
+  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
+  MarkTechPost（RSS） · 2026-11-17 17:51
+
 - [谷歌 Gemini 4 Argon 安全测试失控：40 个 AI 智能体擅自攻击真实网站，还互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
   IT之家 11 月 17 日消息，在一项最新的 AI 安全实验中，谷歌最新推出的 Gemini 4 Argon 智能体在接到一项根本不可能完成的任务后，被发现反复使用未经授权的手段访问一家真实机构的系统，试图获取不存在的问题对应的官方…  
   IT之家 · 2026-11-17 17:41
-
-- [Appian Advances Control Plane Capabilities To Drive Safety and Business Value from AI Agents](<https://www.prnewswire.com/news-releases/appian-advances-control-plane-capabilities-to-drive-safety-and-business-value-from-ai-agents-302941446.html>)  
-  New capabilities let organisations track, orchestrate, and optimise AI agents inside deterministic business processes…  
-  PR Newswire · 2026-11-17 17:40
-
-- [Pelico Joins Google Cloud's Sovereign AI Summit to address AI and Data sovereignty in Manufacturing](<https://www.prnewswire.com/news-releases/pelico-joins-google-clouds-sovereign-ai-summit-to-address-ai-and-data-sovereignty-in-manufacturing-302941904.html>)  
-  BRUSSELS, Nov. 17, 2026 /PRNewswire/ -- Pelico today announced that Hamza Charrouf, Chief Customer Officer, will spea…  
-  PR Newswire · 2026-11-17 17:39
 
 - [华为 Mate 90 系列手机获鸿蒙 HarmonyOS 7.0.0.115 升级，AI 快捷栏如约上线](<https://www.ithome.com/1/028/432.htm>)  
   IT之家 11 月 17 日消息，华为 Mate 90 系列手机今日率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB， 带来了 AI 快捷栏等功能 。 IT之家附华为 Mate 9…  
@@ -112,66 +177,5 @@
 
 - [蚂蚁灵波朱兴：具身智能尚未迎来Scaling Law，中国具身基模终将收敛至3到5](<https://www.163.com/tech/article/LBV0V3HI00099DKL.html>)  
   网易科技 · 2026-11-17 17:14
-
-- [Tencent Launches Hy4 flash to Power High-Speed, Cost-Efficient AI Deployment for Everyday Workflows](<https://www.prnewswire.com/news-releases/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows-302941875.html>)  
-  SHENZHEN, China, Nov. 17, 2026 /PRNewswire/ -- Tencent today announced the release of Hy4 flash, the latest addition…  
-  PR Newswire · 2026-11-17 17:11
-
-- [出海+机器人，小鹏在找车企困局的新出路](<https://36kr.com/p/4073596751139976?f=rss>)  
-  11 月 16 日，小鹏集团公布 2026 年第三季度财报。这份成绩单不算完美，但在国内汽车市场下滑约 20%的当下，这个表现可以打个高分。 财报显示，第三季度，小鹏集团共交付新车 11.84 万辆，同比增长 2.1%，环比增长 14.6%  
-  36氪 · 2026-11-17 17:06
-
-- [酉术量子完成新一轮融资：从原创量子算法走向AI原生量子科学计算平台](<https://36kr.com/p/4073521237382017?f=rss>)  
-  近日，上海酉术量子科技有限公司（以下简称“酉术量子”）宣布完成天使轮融资。本轮新增投资方为云启资本、嘉铭浩春，老股东菡源资产、小苗朗程、启高资本持续加码。多维资本长期担任独家财务顾问。融资资金将主要用于原创量子算法研发、UnitaryLab  
-  36氪 · 2026-11-17 17:06
-
-- [82 亿美元买下李飞飞团队，AMD 不想再只靠卖芯片挑战英伟达了](<https://36kr.com/p/4073595546915713?f=rss>)  
-  今天，AMD 宣布正式完成了对 World Labs 的收购。AI 科学家李飞飞正式加入 AMD，出任执行副总裁兼首席科学家，直接向 CEO 苏姿丰汇报。 “芯片女王”和“AI 教母”同框的画面，在全网刷屏了。 AMD 买下 World L  
-  36氪 · 2026-11-17 16:56
-
-- [Dreamteam AI获得5300万美元战略投资](<https://www.itjuzi.com/investevent/14708087>)  
-  Dreamteam AI 是 一家AI 原生企业 CRM 平台研发商，以 Company Brain 客户记忆层为核心，自动聚合邮件、会议等客户交互信息，配套四类销售 AI 智能体自动完成线索挖掘、跟进撰写、风险识别与 CRM 运维，…  
-  IT桔子 · 2026-11-17 16:52
-
-- [腾讯元宝全量上线混元 Hy4 flash，支持快速回答与深度思考双模式](<https://mp.weixin.qq.com/s/JgxkKNkRLkNlpIgNY5QLqg>)  
-  腾讯元宝宣布全量上线混元最新模型 Hy4 flash，支持快速回答与深度思考两种模式。用户更新元宝到最新版后选择 Hy4 模型，即可在两种模式间切换，快速回答应对日常问答，深度思考处理复杂推理任务。  
-  公众号：腾讯元宝 · 2026-11-17 16:51
-
-- [Cassava Seeks $1 Billion for Nvidia Chips to Power AI in Africa](<https://www.bloomberg.com/news/articles/2026-11-17/cassava-seeks-1-billion-for-nvidia-chips-to-power-ai-in-africa>)  
-  Bloomberg · 2026-11-17 16:41
-
-- [谷歌DeepMind核心高管再出走，首席战略官跳槽Anthropic](<https://www.163.com/dy/article/LBUUOAAD0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 16:36
-
-- [智源 FlagOpen 上线 HumanCOIN DataManager 数据集门户](<https://github.com/FlagOpen/HumanCOIN-DataManager>)  
-  智源 FlagOpen 推出 HumanCOIN DataManager 网页门户，用于查找、预览和下载 HumanCOIN 数据集，首批预计包含约 1,200 小时数据。  
-  智源 FlagOpen：原创开源项目 · 2026-11-17 16:34
-
-- [谷歌 DeepMind 核心高管再出走，首席战略官跳槽 Anthropic](<https://www.ithome.com/1/028/360.htm>)  
-  IT之家 11 月 17 日消息，据科技媒体《The Information》当地时间 16 日报道，谷歌 DeepMind 首席战略官贾斯吉特・塞孔（Jasjit Sekhon）已离职并加入 Anthropic。随着 Anthrop…  
-  IT之家 · 2026-11-17 16:31
-
-- [理想汽车 CEO 李想：会逐步开放马赫 M100 芯片的外供](<https://www.ithome.com/1/028/357.htm>)  
-  IT之家 11 月 17 日消息，理想汽车 CEO 李想今日发文称，不少机器人企业问马赫 M100 能不能提供给他们。李想表示， 会逐步开放马赫 M100 芯片的外供 。 在今年 6 月的 Livis Day 理想汽车软件与具身智能发…  
-  IT之家 · 2026-11-17 16:30
-
-- [Valeria获得550万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708084>)  
-  Valeria是一个AI 原生 SaaS 薪资与员工管理平台，面向零售、即时配送、餐饮、活动等高人员流动行业，为中小企业提供一体化用工生命周期管理。平台搭载自研薪资计算引擎，直连西班牙社保与税务官方系统，AI 自动生成合规合同、批量办…  
-  IT桔子 · 2026-11-17 16:26
-
-- [欧洲六国游戏工会联合呼吁玩家抵制生成式 AI 游戏，支持纯人工开发作品](<https://www.ithome.com/1/028/341.htm>)  
-  IT之家 11 月 17 日消息，欧洲多个国家的电子游戏行业工会联合发布了一份宣言，呼吁消费者“支持不使用生成式 AI 制作的游戏”。这份宣言发布于当地时间今天在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会之前，旨在提高公众对生成式…  
-  IT之家 · 2026-11-17 16:24
-
-- [可还原当地日常说话习惯：谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言](<https://www.ithome.com/1/028/336.htm>)  
-  IT之家 11 月 17 日消息，谷歌宣布正式为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，让用户能够选择更贴近当地日常说话习惯的语音，以便与 Gemini Live 进行自然交流。 此次更新涵盖美式英语…  
-  IT之家 · 2026-11-17 16:21
-
-- [US Moves to Curb China’s Remote Access to Nvidia’s Chips](<https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video>)  
-  Bloomberg · 2026-11-17 16:19
-
-- [小米雷军：AI 是一个全新的时代，一定会带来非常多的商业机会](<https://www.ithome.com/1/028/322.htm>)  
-  IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。 据新浪科技报道，小米集团创始人、董事长兼首席执行官雷军表示，过去四年，AI 大模型技术…  
-  IT之家 · 2026-11-17 16:16
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 14 页

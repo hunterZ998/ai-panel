@@ -2,72 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 14 页
 
-- [JioStar’s chief architect on AI discovery at 500M-user scale](<https://openai.com/index/jiostar-vijay-seshadri>)  
-  JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking…  
-  OpenAI · 2026-11-11 08:00
-
-- [谷歌最强AI「碳」全球解禁！再现人类首次登月](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652742144&idx=1&sn=d63ffb9f70f7cb25804b5107e77a3c4d>)  
-  新智元 · 2026-11-11 06:45
-
-- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
-  量子位 · 2026-11-11 06:10
-
-- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物系统首次完整曝光](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=2&sn=32ea257fcc98924cf226b76eb6251ce8>)  
-  量子位 · 2026-11-11 06:10
-
-- [Designing for Agents — Zeno Rocha, Resend](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend>)  
-  swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for…  
-  Latent Space · 2026-11-11 04:06
-
-- [Gemini Intelligence: New features, on more devices](<https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/>)  
-  Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.  
-  Google AI · 2026-11-11 03:00
-
-- [Investing in General Translation](<https://www.a16z.news/p/investing-in-general-translation>)  
-  The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
-  a16z · 2026-11-11 00:30
-
-- [Glass Page](<https://www.producthunt.com/products/glass-page>)  
-  A place for people to review an agent's work  
-  Product Hunt · English · 2026-11-11 00:01
-
-- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
-  APPSO · 2026-11-10 23:57
-
-- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
-  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
-  The a16z Show · 2026-11-10 23:29
-
-- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
-  新智元 · 2026-11-10 23:16
-
-- [突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=1&sn=12f09ef75c518a2d6464d9aeda167cee>)  
-  新智元 · 2026-11-10 23:16
-
-- [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](<https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/>)  
-  Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See…  
-  Google AI · 2026-11-10 22:00
-
-- [278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入](<https://www.xiaoyuzhoufm.com/episode/6af316b6b4a4e20202f7cbd2?utm_source=rss>)  
-  🎙【本期嘉宾】小果哥哥 小果哥哥 （AI短剧从业者，《 安徽小木匠 》作者，潘乱亲弟弟） 主播：潘乱（「乱翻书」主理人） 🎬 本期视频播客同步上线于 @潘乱的视频号、哔哩哔哩、微博、小红书、Youtube 等平台。 ⏰【时间线】…  
-  乱翻书 · 2026-11-10 21:12
-
-- [Google Cloud launches Gemini for healthcare.](<https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/>)  
-  Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burn…  
-  Google AI · 2026-11-10 21:00
-
-- [n8n Labs 发布开源个人智能体 Nod 研究预览版，可在本地电脑运行](<https://blog.n8n.io/meet-nod/>)  
-  n8n Labs 发布研究预览版 Nod，一个独立于 n8n 的开源个人智能体应用，可在 Mac 和 Windows 本地运行，自带沙箱和浏览器，能在用户连接的应用（如 Gmail、Slack）及无集成的网站上完成任务。  
-  n8n Blog · 2026-11-10 20:52
-
-- [Cursor Projects 升级为多人协作模式](<https://cursor.com/blog/projects-multiplayer>)  
-  Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。  
-  Cursor Blog · 2026-11-10 20:00
-
-- [Helping caregivers use AI in everyday life](<https://openai.com/index/helping-caregivers-use-ai-in-everyday-life>)  
-  OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build pra…  
-  OpenAI · 2026-11-10 20:00
-
 - [深度｜交互智能背后，一批年轻研究者正在走到台前](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901343&idx=1&sn=c74a749ab4d01b9f10f21b769ed88dba>)  
   Z Finance · 2026-11-10 19:59
 
@@ -150,5 +84,63 @@
 
 - [英伟达逆势大跌，一夜蒸发1.29万亿元/苹果国行AI备案新增iPad和Mac/千问办公2.0发布](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115783&idx=1&sn=76202bc3bb2487fdf9ff0fe4d3477e70>)  
   APPSO · 2026-11-10 07:58
+
+- [E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](<https://sv101.fireside.fm/272>)  
+  HF0正在成为硅谷最难进入的“孵化器”，在旧金山的核心地带，有一栋建于1904年的大主教府邸，如今它是驻地创业加速项目HF0（Hacker Fellowship Zero）的驻扎地。HF0由Dave Fontenot创立，每年只开3期…  
+  硅谷101 · 2026-11-10 07:00
+
+- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
+  APPSO · 2026-11-10 06:42
+
+- [最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741547&idx=1&sn=71d6d9fb635f0ea5b0714b04b7a68bf3>)  
+  新智元 · 2026-11-10 06:41
+
+- [Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942444&idx=1&sn=33f7edd8c7bca1dffbcb94a11b82a34d>)  
+  量子位 · 2026-11-10 05:59
+
+- [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/what_frontier_labs_buy_a_data_deep_dive_with_handshake_ai_garrett_lord_team>)  
+  Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly…  
+  Latent Space · 2026-11-10 00:41
+
+- [Google AI Edge Gallery 新增端侧语音识别与语音合成能力](<https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/>)  
+  Google 在 Google AI Edge Gallery 中推出端侧 ASR 与 TTS 能力，可与 Gemini Nano、Gemma 4 等端侧 SLM 组成完全离线的语音交互管线。  
+  Google Developers Blog（RSS） · 2026-11-10 00:00
+
+- [中国汽车市场，不止一种赢法 \| 极客车间](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116244&idx=1&sn=953ca93be7ad1c997f1334c356d51b88>)  
+  极客公园 · 2026-11-09 22:21
+
+- [ZPedia丨实测字节 TRAE 宝：字节的 Personal agent，从编程场景开始](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901335&idx=1&sn=1fca0e12c9b58714b0b1952bf28ad228>)  
+  Z Finance · 2026-11-09 21:59
+
+- [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115697&idx=1&sn=c5dae711f6551fadf3ac18e7bfb6484e>)  
+  APPSO · 2026-11-09 20:00
+
+- [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116234&idx=1&sn=aef5923de6ccddb6ff81233d7a02597d>)  
+  极客公园 · 2026-11-09 19:03
+
+- [前OpenAI员工看吐！AI研发AI冲线「终极超级智能」，停建全球机房也晚了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=2&sn=39bbdfe4884d81b6ecb8330ff1bf734d>)  
+  新智元 · 2026-11-09 18:30
+
+- [印度自研模型社死！照搬千问，仅塞提示词硬充印度造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=1&sn=47589ca037f06b538a1e1603eaa5f840>)  
+  新智元 · 2026-11-09 18:30
+
+- [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748686&idx=1&sn=52ef8fb842bd446399c52bf45be82a5e>)  
+  AI科技评论 · 2026-11-09 18:29
+
+- [Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=2&sn=3d5312c12d83505cab086e7f5ce11acd>)  
+  量子位 · 2026-11-09 18:19
+
+- [千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=1&sn=7d8135155abf2ea4dd5152eda4a8ef8d>)  
+  量子位 · 2026-11-09 18:19
+
+- [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](<https://guiguzaozhidao.fireside.fm/20240450>)  
+  最近，Personal Agent 开始成为 AI 行业的新热点。它们能够理解用户的个人习惯和需求，连接不同工具，甚至主动替用户处理购物、生活服务和工作中的复杂任务。但当一个通用 Agent 遇到专业任务时，是否什么都能做好？未来的通…  
+  科技早知道 · 2026-11-09 18:00
+
+- [500小时人类视觉-触觉数据，到底能让机器人学到什么？\| GAIR Paper 140](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=2&sn=b1bb761d93a9cf76643161b247f47a27>)  
+  AI科技评论 · 2026-11-09 16:16
+
+- [姚顺雨加入腾讯近一年，混元追上来了？实测 Hy4 比 Kimi K3.1 Pro 快了 28 分钟](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=1&sn=d5cffdc0d0b028234bfba235dc588920>)  
+  AI科技评论 · 2026-11-09 16:16
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 14 页

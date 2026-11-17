@@ -38,14 +38,27 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 115 条
+## 相关资讯 · 113 条
 
-- [“Robin”问“Robin”：现在AI大模型够好了吗？](<https://www.163.com/dy/article/LBV42B69051481US.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 18:09
+- [Hyperscale Data, Inc. Announces Intent to Launch Previously Announced Exchange Offer on or about November 20, 2026](<https://www.prnewswire.com/news-releases/hyperscale-data-inc-announces-intent-to-launch-previously-announced-exchange-offer-on-or-about-november-20-2026-302941554.html>)  
+  LAS VEGAS, Nov. 17, 2026 /PRNewswire/ -- Hyperscale Data, Inc. \(NYSE American: GPUS\), an artificial intelligence \("AI…  
+  PR Newswire · 2026-11-17 19:00
+
+- [反超谷歌王牌模型，决策新王拿下全球榜首，全尺寸开源](<https://36kr.com/p/4073723331777415?f=rss>)  
+  硅谷最卷的新赛道，刚刚杀出了一位开源新王！ 最近，即将敲钟的Anthropic在IPO材料中曝出天价算力缺口，给狂卷参数的AI行业当头浇下一盆冷水。 通用大模型虽在编程、数学上大杀四方，可一旦真替人干活，算力账单就成了无底洞。 比生成文本更  
+  36氪 · 2026-11-17 18:54
 
 - [豆包接入第三方模型，这波更新先别急着夸](<https://36kr.com/p/4073424632304768?f=rss>)  
   11月12日，字节跳动旗下办公智能体产品豆包工作宣布完成产品更新，在原有豆包2.1 Lite和豆包2.1 Pro两款自研模型之外，新增接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等多款第三方模型。  
   36氪 · 2026-11-17 18:03
+
+- [小米雷军：具身智能机器人未来一定是一个巨大的产业机会，它的想象力会超过汽车产业](<https://www.ithome.com/1/028/437.htm>)  
+  IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军认为， 过去 4 年时间，AI 大模型的技术突飞猛进，…  
+  IT之家 · 2026-11-17 17:53
+
+- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
+  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
+  MarkTechPost（RSS） · 2026-11-17 17:51
 
 - [谷歌 Gemini 4 Argon 安全测试失控：40 个 AI 智能体擅自攻击真实网站，还互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
   IT之家 11 月 17 日消息，在一项最新的 AI 安全实验中，谷歌最新推出的 Gemini 4 Argon 智能体在接到一项根本不可能完成的任务后，被发现反复使用未经授权的手段访问一家真实机构的系统，试图获取不存在的问题对应的官方…  
@@ -68,36 +81,16 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   IT之家 · 2026-11-17 16:16
 
 - [材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率](<https://36kr.com/p/4073503237329796?f=rss>)  
-  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一���完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划  
+  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每  
   36氪 · 2026-11-17 15:34
 
-- [每秒输出最高 43 词元：Garlic LLM 可让越狱 PS4 运行 9B 参数本地 AI 模型](<https://www.ithome.com/1/028/266.htm>)  
-  IT之家 11 月 17 日消息，科技媒体 Gigazine 今天（11 月 17 日）发布博文， 报道称开源项目 Garlic LLM 可以让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度可达每…  
-  IT之家 · 2026-11-17 15:12
-
-- [AI4M代表性企业盘点：芯培森落在算力与服务这一侧](<https://36kr.com/p/4073287845270663?f=rss>)  
-  2026年10月，AI for Materials\(AI4M\)接连出现标志性进展：百亿参数材料多模态大模型发布，AI预测材料规模化合成的路径被反复讨论。进展大多落在模型这一层，可模型只回答“哪些材料可能有”，能不能算得动、能不能交得出来，还  
-  36氪 · 2026-11-17 14:05
+- [Garlic LLM 让越狱版 PS4 运行 Qwen3.5-9B 本地模型，最高每秒 43 词元](<https://www.ithome.com/1/028/266.htm>)  
+  开源项目 Garlic LLM 让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度达每秒 43 个词元，无需联网即可完成 AI 聊天与语音对话。  
+  IT之家·人工智能 · 2026-11-17 15:12
 
 - [百度李彦宏在 APEC 峰会警告 AI 泡沫风险，称应用落地成效不及预期](<https://www.ithome.com/1/028/225.htm>)  
   百度董事长兼 CEO 李彦宏在 2026 年 APEC 工商领导人峰会上表示，当前算力和基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。他对 AI 长期趋势保持乐观，并提出 AI 技术栈在芯片、云、模型、应用之上还需配套组织能力，类比电力革命缺少组织变革就难以释放经济价值；此前在百度世界大会 2026 上他称智能组织是 AI 时代新的厂房。  
   IT之家·人工智能 · 2026-11-17 13:01
-
-- [狂揽80亿，前Anthropic员工押注RSI，谷歌英伟达都投了](<https://36kr.com/p/4072499374380166?f=rss>)  
-  智东西11月16日报道，11月13日，美国大模型独角兽Mirendil官宣完成 10亿美元（约合人民币66.72亿元）A轮融资。 官方未公布本轮估值，多家媒体引用a16z内部信息称其估值约为 50亿美元（约合人民币333.59亿元） 。 本  
-  36氪 · 2026-11-17 12:02
-
-- [深扒一下腾讯云的AI存储产品](<https://36kr.com/p/4073300638110599?f=rss>)  
-  过去这一年，整个社会对存储的关注，比以往任何时候都要多。 在AI浪潮的影响下，存储需求激增，价格也一路飙升。 此前，对于发展AI，大家主要关心的是算力和算法，是芯片和大模型。如今，随着AI的不断落地，数据以及数据背后的存储底座，正在不断凸显  
-  36氪 · 2026-11-17 11:49
-
-- [千万token下，比DeepSeek式稀疏注意力再快22倍](<https://36kr.com/p/4073305619190657?f=rss>)  
-  如今，百万 token 上下文已经从卖点变成了标配。4 月，DeepSeek-V4 把 1M 上下文定为所有官方服务的默认规格；8 月，智谱发布的 GLM-5.3-Flash 同样支持 1M 上下文，并首次在 GLM 系列中引入稀疏注意力与  
-  36氪 · 2026-11-17 11:48
-
-- [GPT-6.2 Astra难产真相曝光，OpenAI突然彻查迄今最大RL训练](<https://36kr.com/p/4073249958777989?f=rss>)  
-  传了好久的GPT-6.2 Astra，至今还是没影儿。 就在全网盯着OpenAI憋大招时，硅谷等来了一个更出人意料的消息。 今天， OpenAI竟把四家外部机构，请进了自家内部「查岗」 ！ 他们分别是，METR、Apollo Researc  
-  36氪 · 2026-11-17 11:30
 
 - [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
   据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
@@ -217,5 +210,13 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
   Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
   IT之家·人工智能 · 2026-11-16 09:01
+
+- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
+  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
+  Hugging Face 官方团队博客 · 2026-11-16 08:00
+
+- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
+  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
+  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 3 页

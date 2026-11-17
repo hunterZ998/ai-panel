@@ -2,81 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 14 页
 
-- [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
-  We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
-  OpenAI · 2026-11-17 01:00
-
-- [Databricks AI Runtime 上的表格基础模型：原理、模型对比与落地取舍](<https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime>)  
-  Databricks 发文讲解表格基础模型（TFM）在 Databricks AI Runtime 上的实验与微调支持，这类预训练模型无需针对数据集训练即可直接预测。文章对比了 TabICLv2（约 28M 参数、BSD 3-Clause 许可）、TabFM（约 400M 参数、非商用许可）和 TabPFNv3.5（约 220M 参数）等近期模型，并说明其依赖合成数据预训练与行压缩注意力架构。  
-  Databricks：Blog（RSS） · 2026-11-17 01:00
-
-- [WispOS](<https://www.producthunt.com/products/wispos>)  
-  Free AI game maker with an app store that wants your games  
-  Product Hunt · English · 2026-11-17 00:56
-
-- [阿里发布 Qwen4-Max：2.4 万亿参数 MoE 架构，对标 Opus 5.5、GPT-6 与 Kimi K3.1 Pro 且价格更低](<https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/>)  
-  阿里巴巴发布旗舰模型 Qwen4-Max，采用 Qwen4 系列新混合注意力架构，2.4 万亿参数中每 token 仅激活 710 亿，原生处理图像并支持一百万 token 上下文窗口。  
-  The Decoder：AI News（RSS） · 2026-11-17 00:56
-
-- [The Monday Morning Agent 第三期：NFL 长距离任意球真的变准了吗？](<https://www.oreilly.com/radar/the-monday-morning-agent-are-kickers-too-good-now/>)  
-  The Monday Morning Agent 第三期用 AI 分析核查“踢球手太强了”的说法，发现长距离任意球命中率各赛季大致持平，真正变化的是教练更频繁地尝试。节目为智能体设定 8 条图表规范（含全赛季、零起点、标注样本量），并加入渲染器在绘图前拒绝违规图表。40 码内命中率约 95%，40-49 码约 80%，50-59 码约 70%，60 码以上仅 9 次尝试。  
-  O'Reilly Radar（热点 RSS） · 2026-11-17 00:54
-
-- [Anthropic 上市背后：Azeem Azhar 解析其商业模式与无形资产价值](<https://www.exponentialview.co/p/what-anthropic-is-really-listing>)  
-  Anthropic 将成为西方首家在公开市场上市的真正 AI 公司，Azeem Azhar 认为其核心机会在于用机器智能生产无形资产。他指出，当前 S&amp;P 500 中约 92% 的价值来自品牌、专利、软件和数据等无形资产，Anthropic 的机器智能可在不部署任何机器人前就参与这部分价值竞争。看空观点认为它只是不断贬值的 token 贩卖者，但这忽略了其构建持续进化的机器智能系统。  
-  Azeem Azhar：Exponential View（RSS） · 2026-11-17 00:36
-
-- [Gary Marcus：AI 泡沫是否已经 Game Over](<https://garymarcus.substack.com/p/game-over-man>)  
-  Gary Marcus 评论当前 AI 股票大跌，称当前 AI 泡沫看起来已接近 game over。他提到 Oracle 自其 2025 年 9 月宣布“peak bubble”以来跌约 61%，Ben Thompson 撰写讣告式文章，华尔街日报报道 Nvidia 作为“AI 经济空头支票”的日子屈指可数；他认为核心问题是 LLM 公司缺乏技术护城河、难以盈利。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-17 00:29
-
-- [Claude 支持在 Canvas 图形中构建可交互的真实 HTML 网页](<https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/>)  
-  Anthropic 的 Claude 现在能在 Canvas 图形中嵌入真实可交互的网页元素，文字可选中复制，演示页给出 15 个例子，如针织图案、3D 立方体等风格网站。  
-  The Decoder：AI News（RSS） · 2026-11-17 00:10
-
-- [Microsoft Data Shows Claude Is Stalling Against Copilot in Office](<https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office>)  
-  The Information · 2026-11-17 00:01
-
-- [NVIDIA Vera Rubin 首秀 MLPerf：横扫训练基准，智能体推理能效超 10 倍](<https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/>)  
-  NVIDIA Vera Rubin 平台在首次 MLPerf 亮相中横扫 Training v6.1 全部基准，并首次提交 MLPerf Endpoints，智能体 AI 每瓦吞吐较 GB300 NVL72 提升超 10 倍。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [NVIDIA 扩展 CUDA-X 库，为 AI 智能体提供加速科学发现的工具](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/>)  
-  NVIDIA 扩展 CUDA-X 库，新增 cuPhoton、cuPotential 和 cuSpa，让 AI 智能体协助科研人员加速天体物理、材料科学与单细胞生物学等研究。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [NVIDIA 发布 Rubin HPC GPU：加速科学与工程智能体仿真](<https://blogs.nvidia.com/blog/rubin-hpc/>)  
-  NVIDIA 在 SC26 发布 Vera Rubin 平台新 GPU Rubin HPC，面向科学、工程与分析工作负载加速仿真和数据处理。单颗 GPU 的 CUDA 核心数超过 50,000 创下纪录，并配备稀疏数据加速能力和第七代 NVLink 互连。该 GPU 预计 2028 年上市。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [LG AI Research 在 ICML 2026 提出 LASE：基于可靠性自适应辩论的高效多智能体推理](<https://www.lgresearch.ai/blog/view?seq=751>)  
-  LG AI Research 在 ICML 2026 提出 LASE（Leader-Adaptive Structured Engagement）框架，按需触发多智能体辩论以降低 token 开销。  
-  LG AI Research：官方研究博客 · 2026-11-17 00:00
-
-- [PFN 与 SEMIFIVE 合作开发 AI 推理半导体 MN-Core L2000 系列](<https://www.preferred.jp/ja/news/pr20261116>)  
-  Preferred Networks（PFN）与 SEMIFIVE 宣布在 AI 推理专用半导体 MN-Core L2000 系列的开发上展开合作，该系列是 PFN 计划 2027 年开售的 MN-Core L1000 系列的下一代产品，内存带宽提升至 2 倍以上。  
-  Preferred Networks：AI 研究与产品 · 2026-11-17 00:00
-
-- [NVIDIA 发布 Nemotron for Science，用开源模型和数据集加速科学 Agent 开发](<https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents>)  
-  NVIDIA 推出 Nemotron for Science，整合 Nemotron 3.5 Super VL 开源模型、化学评测与数据集 LitmusBench v0.2（近 5 万道化学推理题）及后训练配方，帮助研究者构建科学发现 Agent。  
-  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
-
-- [NVIDIA 扩展 Vera CPU 平台，加速科学发现](<https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery>)  
-  NVIDIA 发布 Vera CPU 机架级平台，由 192 颗 Vera CPU 通过 Quantum-X800 InfiniBand 互联，面向气候建模、分子动力学等 HPC 负载。  
-  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
-
-- [NVIDIA 携手 IBM 与 Fermilab 推出量子-经典协同设计平台，并发布纠错解码算法突破](<https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing>)  
-  NVIDIA 宣布与 IBM 及美国能源部费米国家加速器实验室（Fermilab）合作，共建模块化量子计算协同设计平台，将 NVIDIA DGX B200 系统与 IBM 量子计算机（含 IBM Quantum Nighthawk）同址部署。  
-  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
-
-- [Audible turns to AI to help users discover audiobooks](<https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/>)  
-  Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to play  
-  TechCrunch · 2026-11-16 23:52
-
-- [Anthropic 谈智能体记忆：关键在于知道该忘什么，而不是存多少](<https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/>)  
-  Anthropic 发布研究文章，探讨 Claude 如何跨会话保留知识，结论是选择性笔记优于全量存档。在 Pokémon Red 测试中，Claude Sonnet 3.7 存了约 413 个文件只拿到 1 枚徽章，而 Claude Fable 5 只记策略和已验证规则，获得 4 枚徽章。  
-  The Decoder：AI News（RSS） · 2026-11-16 23:25
-
 - [US tightens AI chip export controls to deter Chinese companies from accessing compute remotely](<https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/>)  
   Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to Ch  
   TechCrunch · 2026-11-16 23:02
@@ -175,5 +100,80 @@
 - ["No sane person questions whether AI works" — but an AI bubble appears ready to pop.](<https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble>)  
   The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to bur…  
   Axios · 2026-11-16 18:15
+
+- [自媒体作者分享10条指挥Agent最常用的Prompt](<https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA>)  
+  作者让Agent整理出自己近两个月指挥Agent干活最常用的10条Prompt并分享，包括从第一性原理找根因、先对齐喜好再出3版方案、推演改动二阶三阶影响、假设最优方案错误找反例、分析Git历史识别可移除的历史包袱、评估新工程师接手的认知成本、复盘Bug和返工并沉淀成规则或Skill等。作者希望对大家指挥Agent开发有用。  
+  公众号：数字生命卡兹克 · 2026-11-16 18:05
+
+- [Chinese AI Stocks Plunge on Fears of Tougher U.S. Export Controls](<https://www.theinformation.com/briefings/chinese-ai-stocks-plunge-fears-tougher-u-s-export-controls>)  
+  The Information · 2026-11-16 17:57
+
+- [阿里发布 Qwen4-Max：2.4T MoE、71B 激活、1M 上下文](<https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/>)  
+  阿里 Qwen 团队发布 Qwen4 系列首个模型 Qwen4-Max，为专有稀疏 MoE 模型，2.4T 骨干参数、每 token 激活 71B，另有 328B N-gram Embedding 参数，支持文本、图像和视频输入及 1M token 上下文窗口、393K 最大输出。  
+  MarkTechPost（RSS） · 2026-11-16 17:44
+
+- [IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元](<https://www.ithome.com/1/027/861.htm>)  
+  IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。她认为近期市场波动属于有序调整，不太可能演变成系统性风险，但最坏情景下美股可能在 2026 年下跌 20%，2028 年全球经济产出比基准预测低 1.1%。  
+  IT之家·人工智能 · 2026-11-16 17:32
+
+- [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
+  Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
+  OpenAI · 2026-11-16 17:30
+
+- [Kindo获得3000万美元战略投资](<https://www.itjuzi.com/investevent/14708000>)  
+  Kindo是一个AI生产力平台，目标是通过利用任何AI模型的力量来赋能企业，无论是商业的、开源的还是专有的。通过将AI整合到工作流程中，公司可以显著提高生产力，同时确保安全性、合规性和集中化管理。近日，Kindo获得3000万美元战略…  
+  IT桔子 · 2026-11-16 17:21
+
+- [Hark 发布 Handoff²：Hark Pro 内置计算机操作智能体平均提速约 2 倍](<https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/>)  
+  Hark 在 Hark Pro 中发布第二代计算机操作智能体 Handoff²，平均端到端速度约为 v1 的 2 倍，航班预订最高提速 3.8 倍，长研究任务超过 5 倍。  
+  MarkTechPost（RSS） · 2026-11-16 17:08
+
+- [LVMH’s Media Division announces strategic partnership with OpenAI](<https://openai.com/index/lvmh-media-division-partnership>)  
+  LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more…  
+  OpenAI · 2026-11-16 17:00
+
+- [Pydantic AI Harness 推出 AzureDurableTaskDurability，让 Agent 循环具备持久化执行能力](<https://pydantic.dev/articles/azure-durable-task-pydantic-ai>)  
+  Pydantic AI Harness 推出 AzureDurableTaskDurability 能力，把 Agent 循环接入 Azure Durable Task：默认模型请求、工具调用、MCP 调用各作为一个 activity 记录结果，worker 被杀后可由新 worker 重放历史从断点继续。  
+  Pydantic AI 官方文章 · 2026-11-16 17:00
+
+- [北卡 Enfield 镇拟要求数据中心出资清洁能源计划并用余热供暖](<https://www.canarymedia.com/articles/geothermal/data-center-heat-north-carolina-town>)  
+  北卡 Enfield 镇正与 Quiet Data Centers 谈判具法律约束力的社区受益协议，镇长要求该公司出资 1620 万美元清洁能源计划，并让 100,000 平方英尺、88 兆瓦的数据中心接入镇规划的地热能网络以利用余热，若建成将是美国首例。协议尚需数周或数月，夏季余热处理仍需吸收式制冷机等方案。  
+  Canary Media：Data Centers 原创报道 · 2026-11-16 16:30
+
+- [Mosaico获得750万欧元种子轮融资](<https://www.itjuzi.com/investevent/14707994>)  
+  Mosaico是一家开源机器人传感数据平台提供商，推出 Apache 2.0 协议开源的端到端机器人数据管理平台，统一接入 ROS、MCAP 等主流机器人传感数据格式，兼容全版本 ROS、可私有化部署在客户自有基础设施，支持 PB 级…  
+  IT桔子 · 2026-11-16 16:09
+
+- [Our first phase of embedded assessments](<https://openai.com/index/our-first-phase-of-embedded-assessments>)  
+  OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate…  
+  OpenAI · 2026-11-16 16:00
+
+- [Orakl Oncology获得3400万美元A轮融资](<https://www.itjuzi.com/investevent/14707982>)  
+  Orakl Oncology是一家精准肿瘤学临床研究商，公司搭建融合患者来源体外肿瘤模型与深度学习的 AI 预测平台，在抗肿瘤药物临床试验启动前，通过真实肿瘤样本药敏测试结合模型推演，构建虚拟患者队列，预测药物在不同患者亚群中的响应概…  
+  IT桔子 · 2026-11-16 15:29
+
+- [字节跳动火山引擎全面开放 Seedance 2.5 4K 视频生成模型 API](<https://www.ithome.com/1/027/736.htm>)  
+  火山引擎宣布 Seedance 2.5 4K 的 API 全面开放，开发者与企业客户可通过接口调用该 4K 视频生成模型。该模型于 10 月 23 日发布，官方称经专项训练更能呈现人物表情、细微动作与画面细节，支持 Draft 模式先以 480P 样片验证分镜再生成 4K 正片，并具备 10-bit 色深与更好的素材一致性。  
+  IT之家·人工智能 · 2026-11-16 15:23
+
+- [智元发布 WITA-Omni：行业首个具身全模态端到端交互大模型](<https://www.agibot.com.cn/article/315/detail/270.html>)  
+  智元正式发布 WITA-Omni（硅光动语全模态大模型），称其为行业首个具身全模态端到端交互大模型，在音视频之外新增触觉、本体状态输入与动作、表情输出。其交互响应最快约400毫秒、平均约600毫秒，较业内平均水平快近3倍，并登顶 DailyOmni、MMAU、EmbSpatialBench 等四个榜单。该模型已在量产机器人远征 A3-Ultra 本体部署，并在文娱导览等场景开展验证。  
+  AGIBOT 智元（网页） · 2026-11-16 15:11
+
+- [20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](<https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida>)  
+  Diogo Almeida is the Co-Founder and CEO of TypeSafe AI, the company behind Jev. Jev is an AI model that lets software…  
+  20VC · 2026-11-16 15:07
+
+- [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
+  Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
+  Product Hunt 中文 · DecoHack · 2026-11-16 15:00
+
+- [OpenAI 发布 CSAM 图像分类器模型卡](<https://deploymentsafety.openai.com/csam-image-classifier>)  
+  OpenAI 公布 CSAM 图像分类器模型卡，该分类器用受访问控制、人工标注的图像数据集训练和评估，数据存储与处理均在受控环境中进行。同一阈值下，在线评估集的精确率明显低于离线留出集，原因是留出集中 CSAM 占比远高于在线评估集，CSAM 稀少时少量误报即可超过真实检出数。OpenAI 用此前在线评估中经审核的样本多轮迭代改进已识别错误类型，每轮也暴露出新的误报模式。  
+  OpenAI：部署安全与系统卡（网页） · 2026-11-16 15:00
+
+- [虚拟人“方桃子”代言美瞳发布虚假广告，涉事公司被罚 6.82 万余元](<https://www.ithome.com/1/027/711.htm>)  
+  据大河报报道，广州我的影视文化传媒有限公司因在自制虚拟人物“方桃子”账号发布“NUTNUTLOOK 坚果力”美瞳广告，宣称“戴了一天都很舒服”等虚构使用效果，被广州市番禺区市场监督管理局罚款 6.82 万余元。该美瞳属第三类医疗器械，公司未取得《医疗广告审查证明》即发布，违反广告法。  
+  IT之家·人工智能 · 2026-11-16 14:57
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 14 页

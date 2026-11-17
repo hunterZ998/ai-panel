@@ -2,64 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 14 页
 
-- [E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](<https://sv101.fireside.fm/272>)  
-  HF0正在成为硅谷最难进入的“孵化器”，在旧金山的核心地带，有一栋建于1904年的大主教府邸，如今它是驻地创业加速项目HF0（Hacker Fellowship Zero）的驻扎地。HF0由Dave Fontenot创立，每年只开3期…  
-  硅谷101 · 2026-11-10 07:00
-
-- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
-  APPSO · 2026-11-10 06:42
-
-- [最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741547&idx=1&sn=71d6d9fb635f0ea5b0714b04b7a68bf3>)  
-  新智元 · 2026-11-10 06:41
-
-- [Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942444&idx=1&sn=33f7edd8c7bca1dffbcb94a11b82a34d>)  
-  量子位 · 2026-11-10 05:59
-
-- [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/what_frontier_labs_buy_a_data_deep_dive_with_handshake_ai_garrett_lord_team>)  
-  Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly…  
-  Latent Space · 2026-11-10 00:41
-
-- [Google AI Edge Gallery 新增端侧语音识别与语音合成能力](<https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/>)  
-  Google 在 Google AI Edge Gallery 中推出端侧 ASR 与 TTS 能力，可与 Gemini Nano、Gemma 4 等端侧 SLM 组成完全离线的语音交互管线。  
-  Google Developers Blog（RSS） · 2026-11-10 00:00
-
-- [中国汽车市场，不止一种赢法 \| 极客车间](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116244&idx=1&sn=953ca93be7ad1c997f1334c356d51b88>)  
-  极客公园 · 2026-11-09 22:21
-
-- [ZPedia丨实测字节 TRAE 宝：字节的 Personal agent，从编程场景开始](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901335&idx=1&sn=1fca0e12c9b58714b0b1952bf28ad228>)  
-  Z Finance · 2026-11-09 21:59
-
-- [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115697&idx=1&sn=c5dae711f6551fadf3ac18e7bfb6484e>)  
-  APPSO · 2026-11-09 20:00
-
-- [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116234&idx=1&sn=aef5923de6ccddb6ff81233d7a02597d>)  
-  极客公园 · 2026-11-09 19:03
-
-- [前OpenAI员工看吐！AI研发AI冲线「终极超级智能」，停建全球机房也晚了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=2&sn=39bbdfe4884d81b6ecb8330ff1bf734d>)  
-  新智元 · 2026-11-09 18:30
-
-- [印度自研模型社死！照搬千问，仅塞提示词硬充印度造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=1&sn=47589ca037f06b538a1e1603eaa5f840>)  
-  新智元 · 2026-11-09 18:30
-
-- [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748686&idx=1&sn=52ef8fb842bd446399c52bf45be82a5e>)  
-  AI科技评论 · 2026-11-09 18:29
-
-- [Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=2&sn=3d5312c12d83505cab086e7f5ce11acd>)  
-  量子位 · 2026-11-09 18:19
-
-- [千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=1&sn=7d8135155abf2ea4dd5152eda4a8ef8d>)  
-  量子位 · 2026-11-09 18:19
-
-- [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](<https://guiguzaozhidao.fireside.fm/20240450>)  
-  最近，Personal Agent 开始成为 AI 行业的新热点。它们能够理解用户的个人习惯和需求，连接不同工具，甚至主动替用户处理购物、生活服务和工作中的复杂任务。但当一个通用 Agent 遇到专业任务时，是否什么都能做好？未来的通…  
-  科技早知道 · 2026-11-09 18:00
-
-- [500小时人类视觉-触觉数据，到底能让机器人学到什么？\| GAIR Paper 140](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=2&sn=b1bb761d93a9cf76643161b247f47a27>)  
-  AI科技评论 · 2026-11-09 16:16
-
-- [姚顺雨加入腾讯近一年，混元追上来了？实测 Hy4 比 Kimi K3.1 Pro 快了 28 分钟](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=1&sn=d5cffdc0d0b028234bfba235dc588920>)  
-  AI科技评论 · 2026-11-09 16:16
-
 - [创业者做 Personal Agent，有没有一线生机？](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116221&idx=1&sn=ce138b50de491dc2ac7883a2c067a8fb>)  
   极客公园 · 2026-11-09 15:44
 
@@ -148,5 +90,67 @@
 
 - [深度｜中国 AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901330&idx=1&sn=5eb5d1e685a87759c872fe56d7ce6e74>)  
   Z Finance · 2026-11-08 20:05
+
+- [走进李佳琦直播间，AI 迎来它的「商品化时刻」](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115489&idx=1&sn=b279cbaef137b1ff58a2d241ded04a3a>)  
+  APPSO · 2026-11-08 17:58
+
+- [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
+  APPSO · 2026-11-08 15:26
+
+- [Claude创始人的魔幻半生：挺过睾丸癌，逼宫奥特曼，算「几只鸡抵一条人命」](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115485&idx=1&sn=84e052c6984b3ac89f4343ebef4052ae>)  
+  APPSO · 2026-11-08 10:39
+
+- [收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116204&idx=1&sn=e4bed63274b937ce9ebc94df50c39b28>)  
+  极客公园 · 2026-11-08 09:07
+
+- [We Visited China’s Stargate in Inner Mongolia](<https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner>)  
+  Stargate Abilene has become the symbol of America’s AI buildout.  
+  SemiAnalysis · 2026-11-08 03:01
+
+- [「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116191&idx=1&sn=f94145d983bc209d70dc4d76737e4a24>)  
+  极客公园 · 2026-11-07 23:25
+
+- [锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS \| 对谈 Mind Lab 首席科学家骁腾](<https://www.xiaoyuzhoufm.com/episode/6aec6bc06381f0f964c45068?utm_source=rss>)  
+  这期播客中，我们和骁腾探讨了不少颇为尖锐的话题，比如国模到底哪家强，各家又有什么问题？到底该怎么定义 Neo Lab？从 Macaron 到 Neo Lab，再到 RLaaS，Mind Lab 这一路的转型背后有哪些思考，现在又做得怎…  
+  42章经 · 2026-11-07 21:00
+
+- [实测 HY4：腾讯最「夯」大模型，离一线还有多远](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116182&idx=1&sn=d4d45a0cd14d25065292cdc5e195ad7c>)  
+  极客公园 · 2026-11-07 18:00
+
+- [跨越半个地球的追踪：从硅谷到里约，我们为何连续 9 年死磕这场多媒体 AI 顶会？](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748600&idx=1&sn=c5d551c651736a9ad38d34f27e2eb1e7>)  
+  AI科技评论 · 2026-11-07 17:45
+
+- [20VC: From $8BN to $19BN: Inside WashU's Endowment Fund \| SpaceX Made Up 20% of Our AUM \| Why Europe and China Has So Much Opportunity \| The Reckoning That is Coming for AI Companies with Scott Wilson](<https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson>)  
+  Scott Wilson is the CIO of WashU, one of the best-performing endowment funds in the world. Under his leadership, Scot…  
+  20VC · 2026-11-07 15:07
+
+- [深度丨从独占 61% 企业开源账单到巨头分成，开源模型开始商业化下半场](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901322&idx=1&sn=22c8bacf2cbb0c8ca76c37b613407ebe>)  
+  Z Finance · 2026-11-07 13:16
+
+- [为什么「陪伴」，注定是 Personal AI 的核心](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116153&idx=1&sn=6c34d3e74a2612f319a0e2a7d6303243>)  
+  极客公园 · 2026-11-07 11:03
+
+- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](<https://www.youtube.com/watch?v=P735f1xlpL0>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=P735f1xlpL0  
+  Latent Space · 2026-11-07 10:49
+
+- [Crusoe sells troubled Wyoming data center project to Google](<https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/>)  
+  The deal highlights the challenges of developing massive AI data centers.  
+  TechCrunch · 2026-11-07 09:40
+
+- [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116145&idx=1&sn=88085e9684f32488b5481683e798cfa0>)  
+  极客公园 · 2026-11-07 08:46
+
+- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
+  OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
+  TechCrunch · 2026-11-07 06:53
+
+- [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
+  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
+  TechCrunch · 2026-11-07 02:44
+
+- [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>)  
+  Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with th…  
+  TechCrunch · 2026-11-07 02:44
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 14 页

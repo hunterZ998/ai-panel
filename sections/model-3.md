@@ -2,12 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · 第 3 / 3 页
 
-- [Fable 5.2狂刷72项世界纪录，23年黑洞难题告破！科学史又改写了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=1&sn=6c1a2418ed8ea73a9ddbbc31995bba23>)  
-  新智元 · 2026-11-10 08:55
-
-- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
-  APPSO · 2026-11-10 06:42
-
 - [最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741547&idx=1&sn=71d6d9fb635f0ea5b0714b04b7a68bf3>)  
   新智元 · 2026-11-10 06:41
 

@@ -34,6 +34,10 @@
   Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
   Product Hunt 中文 · DecoHack · 2026-11-16 15:00
 
+- [Freebuff](<https://www.producthunt.com/products/freebuff-2>)  
+  The 100% free coding agent  
+  Product Hunt · English · 2026-11-16 01:59
+
 - [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
   HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  
   Product Hunt 中文 · DecoHack · 2026-11-15 15:00
@@ -62,13 +66,13 @@
   Plurai Simulation：一个模拟世界，让你的智能体在每次运行中不断提升。；YouArt Desktop App：创意团队的指南；Omnigraph：开源图形数据库，专为你的人工智能代理设计  
   Product Hunt 中文 · DecoHack · 2026-11-13 15:00
 
-- [Degla AI](<https://www.producthunt.com/products/degla-ai>)  
-  Your intent. Onboard Autonomous Execution.  
-  Product Hunt · English · 2026-11-13 01:20
-
 - [PH今日热榜 \| 2026-11-12](<https://decohack.com/producthunt-daily-2026-11-12/>)  
   ScroogeFrog AI：AI 广告欺诈检测，保护你的营销预算；Nod by n8n：拥有自己计算机的开源个人助手；CALL-E：通过你的AI助手（如Muse、ChatGPT或Claude）拨打电话  
   Product Hunt 中文 · DecoHack · 2026-11-12 15:00
+
+- [AgentWatch](<https://www.producthunt.com/products/agentwatch-ai-traffic-tracker>)  
+  Monitor AI shopping agent sales and visibility on Shopify  
+  Product Hunt · English · 2026-11-12 12:57
 
 - [PH今日热榜 \| 2026-11-11](<https://decohack.com/producthunt-daily-2026-11-11/>)  
   Alsona：将购买信号转化为已预定销售电话的人工智能助手；Maxma：24小时无休的AI助手，助力提升你的付费广告表现；TK by Medium：一本助你提升思维的主动笔记本  

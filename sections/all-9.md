@@ -2,82 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 14 页
 
-- [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
-  Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
-  @SVTrivo · 2026-11-13 12:48
-
-- [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
-  One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
-  @Basant\_Pandey · 2026-11-13 12:46
-
-- [美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型](<https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6>)  
-  美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。  
-  美团 LongCat：HuggingFace 新模型 · 2026-11-13 10:45
-
-- [IBM发布Granite 4.1 3B/8B的LLMON实验预览和工具包，用保留token明确区分指令与数据。IBM称静态间接提示注入抵抗改善；这是学得的行为而非强制安全保证，尚不适于生产。](<https://x.com/Jaythschild/status/2121069607888810451>)  
-  IBM's LLMON previews teach Granite 4.1 3B/8B to distinguish instructions from data using reserved structural tokens. Released Nov 12 with a toolkit. The goal: reduce prompt injection in agent workflows, not just change JSON formatting.  
-  @Jaythschild · 2026-11-13 10:36
-
-- [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
-  World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
-  @Clairef9vu · 2026-11-13 09:45
-
-- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
-  “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
-  晚点聊 · 2026-11-13 09:15
-
-- [a16z的Anne Neuberger提出关键基础设施网络防御方案，优先保护电力、支付、水务、通信和医院中可能造成连锁故障的运营商及共用供应商，建议用AI寻找漏洞、生成补偿防护并建立持续演练。属于机构提案，尚非政府已采纳政策或落地效果。](<https://x.com/a16z/status/2121030491407294854>)  
-  AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
-  @a16z · 2026-11-13 08:00
-
-- [Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用](<https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/>)  
-  Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。  
-  Google Research：Blog（网页） · 2026-11-13 08:00
-
-- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
-  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
-  a16z · 2026-11-13 05:21
-
-- [Jensen Huang's implosion at Nvidia leaves trail of collateral damage](<https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation>)  
-  Jensen Huang's self-destruction has left a trail of collateral damage that threatens to ensnare the board of Nvidia a…  
-  Axios · 2026-11-13 04:02
-
-- [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>)  
-  Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams sh…  
-  OpenAI · 2026-11-13 04:00
-
-- [Google发布Gemini 4 Hydrogen，面向日常编程和Agent执行，提供四档思考强度及100万token上下文。官方API标价为每百万输入token 1.50美元、输出7.50美元，并支持与Carbon/Argon组合使用；速度与评测结果仍属厂商数据。](<https://x.com/Google/status/2120941982004523367>)  
-  Meet Gemini 4 Hydrogen. It brings cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic work. Across 4 thinking levels, it stands on its own or teams up with Carbon and Argon — 2.5X faster than 3.8 Flash, outpacing co…  
-  @Google · 2026-11-13 02:09
-
-- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
-  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
-  SemiAnalysis · 2026-11-13 02:06
-
-- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
-  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
-  @SamuelZengML · 2026-11-13 02:00
-
-- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
-  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
-  Google AI · 2026-11-13 02:00
-
-- [Degla AI](<https://www.producthunt.com/products/degla-ai>)  
-  Your intent. Onboard Autonomous Execution.  
-  Product Hunt · English · 2026-11-13 01:20
-
-- [Replit Agent 新增代购能力和 Google Ads 投放功能](<https://replit.com/blog/replit-agent-ads-commerce>)  
-  Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。  
-  Replit：Blog（RSS） · 2026-11-13 00:45
-
-- [DeepSeek 开放全家桶应用 API：联网搜索、文件输入、阅读链接等能力面向开发者](<https://api-docs.deepseek.com/zh-cn/updates/#%E5%8F%91%E5%B8%83%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8-api>)  
-  DeepSeek 在 API 中开放此前 App 对话服务所用的能力，开发者开启对应参数即可使用，工具调用与上下文拼接由服务端完成。  
-  DeepSeek：API 更新日志 · 2026-11-13 00:00
-
-- [Apple HomeView 正式开售，售价 299 美元并搭载 Siri AI](<https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/>)  
-  Apple 于 11 月 13 日正式开售 HomeView，提供桌面和壁挂两款型号，均售 $299（U.S.），首发澳大利亚、加拿大、印度、新西兰、新加坡、英国和美国市场。  
-  Apple：Newsroom（RSS） · 2026-11-13 00:00
-
 - [Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO](<https://www.axios.com/2026/11/12/nvidia-jensen-huang-out>)  
   Jensen Huang resigned as CEO of Nvidia after he reportedly had two affairs, including one with a purported Chinese sp…  
   Axios · 2026-11-12 23:37
@@ -113,6 +37,10 @@
 - [PH今日热榜 \| 2026-11-12](<https://decohack.com/producthunt-daily-2026-11-12/>)  
   ScroogeFrog AI：AI 广告欺诈检测，保护你的营销预算；Nod by n8n：拥有自己计算机的开源个人助手；CALL-E：通过你的AI助手（如Muse、ChatGPT或Claude）拨打电话  
   Product Hunt 中文 · DecoHack · 2026-11-12 15:00
+
+- [AgentWatch](<https://www.producthunt.com/products/agentwatch-ai-traffic-tracker>)  
+  Monitor AI shopping agent sales and visibility on Shopify  
+  Product Hunt · English · 2026-11-12 12:57
 
 - [Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型](<https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>)  
   Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。  
@@ -178,5 +106,71 @@
 
 - [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
   APPSO · 2026-11-11 08:20
+
+- [JioStar’s chief architect on AI discovery at 500M-user scale](<https://openai.com/index/jiostar-vijay-seshadri>)  
+  JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking…  
+  OpenAI · 2026-11-11 08:00
+
+- [谷歌最强AI「碳」全球解禁！再现人类首次登月](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652742144&idx=1&sn=d63ffb9f70f7cb25804b5107e77a3c4d>)  
+  新智元 · 2026-11-11 06:45
+
+- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
+  量子位 · 2026-11-11 06:10
+
+- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物系统首次完整曝光](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=2&sn=32ea257fcc98924cf226b76eb6251ce8>)  
+  量子位 · 2026-11-11 06:10
+
+- [Designing for Agents — Zeno Rocha, Resend](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend>)  
+  swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for…  
+  Latent Space · 2026-11-11 04:06
+
+- [Gemini Intelligence: New features, on more devices](<https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/>)  
+  Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.  
+  Google AI · 2026-11-11 03:00
+
+- [Investing in General Translation](<https://www.a16z.news/p/investing-in-general-translation>)  
+  The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
+  a16z · 2026-11-11 00:30
+
+- [Glass Page](<https://www.producthunt.com/products/glass-page>)  
+  A place for people to review an agent's work  
+  Product Hunt · English · 2026-11-11 00:01
+
+- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
+  APPSO · 2026-11-10 23:57
+
+- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
+  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
+  The a16z Show · 2026-11-10 23:29
+
+- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
+  新智元 · 2026-11-10 23:16
+
+- [突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=1&sn=12f09ef75c518a2d6464d9aeda167cee>)  
+  新智元 · 2026-11-10 23:16
+
+- [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](<https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/>)  
+  Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See…  
+  Google AI · 2026-11-10 22:00
+
+- [278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入](<https://www.xiaoyuzhoufm.com/episode/6af316b6b4a4e20202f7cbd2?utm_source=rss>)  
+  🎙【本期嘉宾】小果哥哥 小果哥哥 （AI短剧从业者，《 安徽小木匠 》作者，潘乱亲弟弟） 主播：潘乱（「乱翻书」主理人） 🎬 本期视频播客同步上线于 @潘乱的视频号、哔哩哔哩、微博、小红书、Youtube 等平台。 ⏰【时间线】…  
+  乱翻书 · 2026-11-10 21:12
+
+- [Google Cloud launches Gemini for healthcare.](<https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/>)  
+  Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burn…  
+  Google AI · 2026-11-10 21:00
+
+- [n8n Labs 发布开源个人智能体 Nod 研究预览版，可在本地电脑运行](<https://blog.n8n.io/meet-nod/>)  
+  n8n Labs 发布研究预览版 Nod，一个独立于 n8n 的开源个人智能体应用，可在 Mac 和 Windows 本地运行，自带沙箱和浏览器，能在用户连接的应用（如 Gmail、Slack）及无集成的网站上完成任务。  
+  n8n Blog · 2026-11-10 20:52
+
+- [Cursor Projects 升级为多人协作模式](<https://cursor.com/blog/projects-multiplayer>)  
+  Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。  
+  Cursor Blog · 2026-11-10 20:00
+
+- [Helping caregivers use AI in everyday life](<https://openai.com/index/helping-caregivers-use-ai-in-everyday-life>)  
+  OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build pra…  
+  OpenAI · 2026-11-10 20:00
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 14 页

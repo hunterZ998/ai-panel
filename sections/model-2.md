@@ -2,14 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页
 
-- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
-  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
-  Hugging Face 官方团队博客 · 2026-11-16 08:00
-
-- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
-  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
-  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
-
 - [Together AI 分享如何为编码智能体运行平台评测](<https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai>)  
   Together AI 详解其 Agent 评测体系：用任务清单加 Baseline、MCP、Skills 三种配置跑测，以 LLM 判官打分，9 月 30 日 215 次运行通过 192 次。  
   Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
@@ -168,5 +160,11 @@
 
 - [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115784&idx=1&sn=bcf79b8e25245607c5db48587044d3d1>)  
   APPSO · 2026-11-10 08:58
+
+- [Fable 5.2狂刷72项世界纪录，23年黑洞难题告破！科学史又改写了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=1&sn=6c1a2418ed8ea73a9ddbbc31995bba23>)  
+  新智元 · 2026-11-10 08:55
+
+- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
+  APPSO · 2026-11-10 06:42
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页

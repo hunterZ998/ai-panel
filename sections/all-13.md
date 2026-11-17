@@ -2,74 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 14 页
 
-- [深度｜Personal Agent 的交互需要被重新定义，Orilo 从 Voice 切入](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901271&idx=1&sn=7fe6f185bc97080c0a3623f40c148f63>)  
-  Z Finance · 2026-11-03 12:38
-
-- [Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora>)  
-  Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How…  
-  Latent Space · 2026-11-03 04:50
-
-- [Investing in Tutor Intelligence](<https://www.a16z.news/p/investing-in-tutor-intelligence>)  
-  They deploy into real production environments ahead of full autonomy, using human teleoperators \(“tutors”\) to train t…  
-  a16z · 2026-11-03 00:05
-
-- [The Robots Already Working in American Factories \| Tutor Intelligence](<https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3>)  
-  What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gru…  
-  The a16z Show · 2026-11-03 00:05
-
-- [How AI Applications Earn Their Premium](<https://www.a16z.news/p/how-ai-applications-earn-their-premium>)  
-  Cheaper intelligence raises the bar for what an AI application can charge  
-  a16z · 2026-11-02 23:03
-
-- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
-  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
-  a16z · 2026-11-02 22:01
-
-- [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
-  Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
-  20VC · 2026-11-02 15:07
-
-- [独家丨字节计划拆分医疗健康业务小荷健康，吴海锋被推向十字路口](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901262&idx=1&sn=bdea83e997603acb47da788107836775>)  
-  Z Finance · 2026-11-02 10:41
-
-- [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
-  It aims to be the world’s best benchmark for measuring general agentic capabilities.  
-  SemiAnalysis · 2026-11-02 09:51
-
-- [【年终复盘①】AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](<https://www.xiaoyuzhoufm.com/episode/6ae6e230c96c8942ec156ed6?utm_source=rss>)  
-  ➤ 「十字路口」2026 年终 AI 复盘系列的第一期来了！ 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是邀请十字路口身处 AI 一线的朋友们 ——创业者、研究员和投资人，分享 10 个真正触动他们的 AI 瞬间…  
-  十字路口 Crossing · 2026-11-02 00:00
-
-- [深度丨宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901261&idx=1&sn=66e992da6fed1ed0a81d25ec8da5191c>)  
-  Z Finance · 2026-11-01 19:52
-
-- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](<https://latent.space/p/arca>)  
-  Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss…  
-  Latent Space · 2026-11-01 00:00
-
-- [ZPedia丨实测灵光 2.0：对标 Muse 背后，中美 Personal Agent 的底层逻辑其实截然不同](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901244&idx=1&sn=0838a35bdd1c1135b25435fcae51b89d>)  
-  Z Finance · 2026-10-31 19:51
-
-- [Can AI Fix Professional Networking? \| Inside Cosign](<https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue>)  
-  What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vo…  
-  The a16z Show · 2026-10-31 18:00
-
-- [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
-  David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
-  20VC · 2026-10-31 15:07
-
-- [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
-  Latent Space · 2026-10-31 11:41
-
-- [New Founder Archetypes in the AI Age](<https://www.a16z.news/p/new-founder-archetypes-in-the-ai>)  
-  How will the profiles change as we enter the age of AI?  
-  a16z · 2026-10-31 00:02
-
-- [Charts of the Week: Job FUD Fades](<https://www.a16z.news/p/charts-of-the-week-job-fud-fades>)  
-  AI Referred, Shopper Approved; Rack Spread Cometh \(But Why\)?  
-  a16z · 2026-10-30 22:09
-
 - [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
   What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
   The a16z Show · 2026-10-30 18:00
@@ -177,5 +109,77 @@
 - [Citrini Therapeutics](<https://www.citriniresearch.com/p/citrini-therapeutics>)  
   We Wanted to Use Claude to Create a New Drug. Here’s What Happened.  
   Citrini Research · 2026-10-20 20:59
+
+- [What Happens When Everyone Has a Health Expert in Their Pocket? \| OpenAI’s Karan Singhal](<https://a16z.simplecast.com/episodes/what-happens-when-everyone-has-a-health-expert-in-their-pocket-openais-karan-singhal-OIiX2t5T>)  
+  More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI’s Karan Singhal thinks t…  
+  The a16z Show · 2026-10-20 18:00
+
+- [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](<https://sv101.fireside.fm/270>)  
+  回顾9月，AI圈的重磅新闻一个接一个。 先是OpenAI发布GPT-6 Astra，总裁格雷格·布罗克曼在发布会上宣布：AGI已经到来。 这场发布对机器人行业的冲击，来得有些意外，一个发布会报告里只字未提机器人的通用模型，转身就空降了…  
+  硅谷101 · 2026-10-20 07:00
+
+- [Talk of the Town: Menlo Is Co-Leading Town’s $108M Series B](<https://menlovc.com/perspective/talk-of-the-town-menlo-is-co-leading-towns-108m-series-b/>)  
+  Town’s users range from founders and operators to small business owners who run their companies from email, real esta…  
+  Menlo Ventures · 2026-10-19 20:00
+
+- [What Happens When Al Agents Can Spend Your Money?](<https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH>)  
+  Why hasn't AI transformed everyday work as quickly as coding? Town CEO Jean-Denis Greze argues the bottleneck isn't i…  
+  The a16z Show · 2026-10-19 18:00
+
+- [20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture \| Who Wins and Who Loses in the Next Decade of VC \| Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer](<https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer>)  
+  Sameer Dholakia is a Partner @ Bessemer, the first that has just raised $5.75BN across a $1.75BN seed fund and $4BN g…  
+  20VC · 2026-10-19 15:07
+
+- [Datacenters 2027: The Year of Acceleration, +50GW in a Single Year](<https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration>)  
+  Despite that, many still misunderstand the pace of the global AI datacenter buildout.  
+  SemiAnalysis · 2026-10-19 13:39
+
+- [20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](<https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain>)  
+  Harrison Chase is the co-founder and CEO of LangChain, which helps developers build, test and deploy AI agents. Backe…  
+  20VC · 2026-10-19 06:37
+
+- [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](<https://www.xiaoyuzhoufm.com/episode/6ad2412d0e4e410a05be01a7?utm_source=rss>)  
+  ➤ Claude Code 和 Codex 越来越强，AI 应用创业者还能做什么？ 本周「十字路口」的嘉宾是 Treg 创始人 Jason Zhou 和 Founding Engineer 石天鑫。创业 9 个多月，从设计 Agent…  
+  十字路口 Crossing · 2026-10-19 00:00
+
+- [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
+  AI safety is on fire.  
+  SemiAnalysis · 2026-10-09 01:46
+
+- [Breaking The Wall](<https://www.citriniresearch.com/p/breaking-the-wall>)  
+  Imagine that your personal AI has access to all your finances.  
+  Citrini Research · 2026-10-08 21:52
+
+- [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](<https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x>)  
+  Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and…  
+  SemiAnalysis · 2026-10-06 04:01
+
+- [Menlo’s Investment in Factory: The System That Builds Software](<https://menlovc.com/perspective/menlos-investment-in-factory-the-system-that-builds-software/>)  
+  Coding is AI’s first killer use case. The world is on pace to generate more code this year than in all previous years…  
+  Menlo Ventures · 2026-10-05 22:00
+
+- [How GLM5.3 Sparse Attention Affects HBM Memory Usage](<https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53>)  
+  GLM-5.3, KV Cache Offloading, HiSparse, DeepSeek Sparse Attention, IndexShare, Single-rollout Asynchronous Optimizati…  
+  SemiAnalysis · 2026-09-29 03:26
+
+- [Intel Panther Lake Teardown](<https://newsletter.semianalysis.com/p/intel-panther-lake-teardown>)  
+  Source: SemiAnalysis The SemiAnalysis STEEL teardown lab breaks down advanced datacenter and AI hardware.  
+  SemiAnalysis · 2026-09-26 21:36
+
+- [The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model](<https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom>)  
+  1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 n…  
+  SemiAnalysis · 2026-09-25 23:58
+
+- [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](<https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard>)  
+  Without further ado, voilà the ClusterMAX 3.0 podium: Source: SemiAnalysis ClusterMAX 3.0, September 2026 Source: Sem…  
+  SemiAnalysis · 2026-09-24 05:20
+
+- [Agentic Reality](<https://www.citriniresearch.com/p/agentic-reality>)  
+  The Ramifications of Agentic Consumer Adoption  
+  Citrini Research · 2026-09-23 03:15
+
+- [Computation and Data Movement for Inference](<https://newsletter.semianalysis.com/p/computation-and-data-movement-for>)  
+  A user \(or their agent\) starts a conversation with a request \(query\), and the conversation may continue after answers…  
+  SemiAnalysis · 2026-09-22 02:14
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 14 页

@@ -20,15 +20,19 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 18 条
+## 相关资讯 · 19 条
+
+- [More Than Half of Organizations Using AI Agents Run Them Across Multiple Platforms, Nudge Security Research Finds](<https://www.prnewswire.com/news-releases/more-than-half-of-organizations-using-ai-agents-run-them-across-multiple-platforms-nudge-security-research-finds-302940529.html>)  
+  Second edition of "AI Adoption in Practice" report shows AI risk now lives on the Workforce Edge, where employees cho…  
+  PR Newswire · 2026-11-17 19:00
+
+- [达信：有迹象表明，黑客正利用 AI 工具和智能体寻找安全漏洞](<https://www.ithome.com/1/028/489.htm>)  
+  IT之家 11 月 17 日消息，据路透社今天（17 日）晚间报道，保险经纪公司达信的数据显示，AI 让网络攻击变得更快、规模更大，企业报告的网络安全事件随之增多，企业及保险公司也面临新的挑战。 达信旗下 Marsh Risk 美国及…  
+  IT之家 · 2026-11-17 18:55
 
 - [谷歌 Gemini 4 Argon 安全测试失控：40 个 AI 智能体擅自攻击真实网站，还互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
   IT之家 11 月 17 日消息，在一项最新的 AI 安全实验中，谷歌最新推出的 Gemini 4 Argon 智能体在接到一项根本不可能完成的任务后，被发现反复使用未经授权的手段访问一家真实机构的系统，试图获取不存在的问题对应的官方…  
   IT之家 · 2026-11-17 17:41
-
-- [第三方供应商 Fireworks AI 遭黑客入侵，近 15 万 Uber 司机驾照信息泄露](<https://www.ithome.com/1/028/263.htm>)  
-  IT之家 11 月 17 日消息，Uber 正在通知近 15 万名司机，在该公司一家技术供应商 10 月份发生的数据泄露事件中，他们的个人信息和驾照信息被盗取。 本周，Uber 向美国多个州的总检察长办公室提交了数据泄露通知，其中包括…  
-  IT之家 · 2026-11-17 15:05
 
 - [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
   据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  

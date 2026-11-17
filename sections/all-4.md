@@ -2,77 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 14 页
 
-- [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
-  Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 bi  
-  TechCrunch · 2026-11-17 07:32
-
-- [OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，改为先到先得](<https://www.ithome.com/1/028/027.htm>)  
-  OpenAI 将于 11 月 23 日再开放 5 万个 ChatGPT 学术研究免费名额，改为先到先得，不再采用试点阶段的抽签机制。每个名额含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus，本轮最多覆盖 15 万名研究人员。该计划 7 月启动以来已有 33 个国家和地区的 2 万名研究人员加入，整体目标提升至 20 万人。  
-  IT之家·人工智能 · 2026-11-17 07:18
-
-- [科技界人士质疑黄仁勋辞职背后存在针对其的谋划](<https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories>)  
-  The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。  
-  The Verge：AI（RSS） · 2026-11-17 07:17
-
-- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，把超算实验室搬上桌面](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
-  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 通过 ConnectX-7 环形直连组成，无需网络交换机，合计提供 512GB 内存和 20TB NVMe 存储。借助 NVFP4，可在四节点集群本地部署最高 700B 参数模型，如 DeepSeek V4.1。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
-  NVIDIA Blog（RSS） · 2026-11-17 07:00
-
-- [获 Eric Trump 背书的人形机器人公司 Foundation Future Industries 发薪失败或濒临倒闭](<https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/>)  
-  据 CNBC 报道，获 Eric Trump 投资并担任首席战略顾问的人形机器人公司 Foundation Future Industries 未能支付截至 10 月 30 日的工资周期薪酬，内部人士担心若无法继续融资公司可能很快倒闭。报道还梳理了该公司的资金缺口、发薪失败以及对外宣传与实际进展不符等疑点。  
-  Ars Technica：AI（RSS） · 2026-11-17 06:58
-
-- [美国许可改革法案 BAAJA 引发气候与数据中心争议](<https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet>)  
-  普渡大学工程学副教授 Kevin Kircher 的分析发现，美国许可改革法案 BAAJA 总体上会增加排放，因为主要服务于数据中心供电的化石天然气电厂和管道需求将超过清洁能源增长。反对者警告，该法案对《联邦电力法》《清洁水法》《濒危物种法案》和《国家环境政策法》的修改，可能让不良行为者强行推进损害公共利益的基础设施项目。  
-  Canary Media：Data Centers 原创报道 · 2026-11-17 06:30
-
-- [OpenAI Signs Agreements to Embed AI Evaluators](<https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators>)  
-  The Information · 2026-11-17 06:13
-
-- [All the questions Nvidia should answer on Tuesday — but probably won’t](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
-  Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when  
-  TechCrunch · 2026-11-17 06:03
-
-- [Bill Gates Backs Push to Advance Alzheimer’s Research With AI](<https://www.theinformation.com/briefings/bill-gates-backs-push-advance-alzheimers-research-ai>)  
-  The Information · 2026-11-17 05:27
-
-- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
-  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
-  Latent Space · 2026-11-17 05:27
-
-- [加州正式起诉OpenAI，指控其模型测试疏于管控](<https://www.163.com/dy/article/LBTN90ML05198NMR.html>)  
-  网易科技频道 · 网易号 · 2026-11-17 05:13
-
-- [加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face](<https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>)  
-  加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。  
-  The Verge：AI（RSS） · 2026-11-17 04:46
-
-- [Sam Altman 在 Semafor 峰会回应 RAM 言论争议，称希望人人都能买大内存](<https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor>)  
-  OpenAI CEO Sam Altman 在 Semafor 的 Silicon Valley &amp; The World summit 上澄清上月关于 PC RAM 的争议言论，称希望大家都能为自己的电脑购买大量 RAM，也认可在家折腾和使用。  
-  The Verge：AI（RSS） · 2026-11-17 04:41
-
-- [Constellation Energy 称民主党中期选举胜选不会阻碍数据中心发展](<https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats>)  
-  Constellation Energy CEO Joe Dominguez 在第三季度财报电话会上表示，市场对民主党赢得中期选举后限制数据中心的担忧是过度反应。  
-  The Verge：AI（RSS） · 2026-11-17 04:29
-
-- [哈佛研究：美国 403 座超大规模数据中心年耗电约 82 太瓦时，碳排放堪比丹麦](<https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard>)  
-  发表于 Nature Sustainability 的新研究用卫星影像识别美国 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间消耗约 82 太瓦时电力，约占全美用电的 1.8%，超过约 148 个国家的年用电量；其中约 54% 来自天然气和煤电，产生 2570 万吨 CO2，相当于丹麦的年碳足迹。  
-  The Verge：AI（RSS） · 2026-11-17 04:27
-
-- [California AG Accuses OpenAI of Misleading and Endangering the Public](<https://www.wsj.com/tech/ai/california-ag-accuses-openai-of-misleading-and-endangering-the-public-8e5c60d0?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-17 04:19
-
-- [California state AG sues OpenAI over rogue agent incidents](<https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/>)  
-  The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent inci  
-  TechCrunch · 2026-11-17 04:07
-
-- [What’s Your AI-Literacy IQ?](<https://www.wsj.com/tech/ai/ai-literacy-iq-test-3f13c95e?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-17 04:00
-
-- [Ballet](<https://www.producthunt.com/products/ballet>)  
-  Deterministic AI workflow automation for Ops teams  
-  Product Hunt · English · 2026-11-17 03:55
-
 - [Google 威胁情报组警告全自动 AI 网络攻击已经出现并将快速恶化](<https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/>)  
   Google 威胁情报组（GTIG）通过 AI Threat Tracker 首次观察到攻击者完全自动化漏洞发现与利用，无人工介入。其暴露的服务器运行名为 exploit\_agent 的 AI 框架，连接多个大语言模型，通过比对补丁前后代码识别漏洞、开发并自动运行利用程序，配置文件中的俄语注释暗示操作者讲俄语，数据指向法国媒体、娱乐和教育网站。  
   The Decoder：AI News（RSS） · 2026-11-17 03:42
@@ -171,5 +100,80 @@
 - [OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM](<https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/>)  
   ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.  
   TechCrunch · 2026-11-17 01:00
+
+- [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
+  We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
+  OpenAI · 2026-11-17 01:00
+
+- [Databricks AI Runtime 上的表格基础模型：原理、模型对比与落地取舍](<https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime>)  
+  Databricks 发文讲解表格基础模型（TFM）在 Databricks AI Runtime 上的实验与微调支持，这类预训练模型无需针对数据集训练即可直接预测。文章对比了 TabICLv2（约 28M 参数、BSD 3-Clause 许可）、TabFM（约 400M 参数、非商用许可）和 TabPFNv3.5（约 220M 参数）等近期模型，并说明其依赖合成数据预训练与行压缩注意力架构。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
+
+- [WispOS](<https://www.producthunt.com/products/wispos>)  
+  Free AI game maker with an app store that wants your games  
+  Product Hunt · English · 2026-11-17 00:56
+
+- [阿里发布 Qwen4-Max：2.4 万亿参数 MoE 架构，对标 Opus 5.5、GPT-6 与 Kimi K3.1 Pro 且价格更低](<https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/>)  
+  阿里巴巴发布旗舰模型 Qwen4-Max，采用 Qwen4 系列新混合注意力架构，2.4 万亿参数中每 token 仅激活 710 亿，原生处理图像并支持一百万 token 上下文窗口。  
+  The Decoder：AI News（RSS） · 2026-11-17 00:56
+
+- [The Monday Morning Agent 第三期：NFL 长距离任意球真的变准了吗？](<https://www.oreilly.com/radar/the-monday-morning-agent-are-kickers-too-good-now/>)  
+  The Monday Morning Agent 第三期用 AI 分析核查“踢球手太强了”的说法，发现长距离任意球命中率各赛季大致持平，真正变化的是教练更频繁地尝试。节目为智能体设定 8 条图表规范（含全赛季、零起点、标注样本量），并加入渲染器在绘图前拒绝违规图表。40 码内命中率约 95%，40-49 码约 80%，50-59 码约 70%，60 码以上仅 9 次尝试。  
+  O'Reilly Radar（热点 RSS） · 2026-11-17 00:54
+
+- [Anthropic 上市背后：Azeem Azhar 解析其商业模式与无形资产价值](<https://www.exponentialview.co/p/what-anthropic-is-really-listing>)  
+  Anthropic 将成为西方首家在公开市场上市的真正 AI 公司，Azeem Azhar 认为其核心机会在于用机器智能生产无形资产。他指出，当前 S&amp;P 500 中约 92% 的价值来自品牌、专利、软件和数据等无形资产，Anthropic 的机器智能可在不部署任何机器人前就参与这部分价值竞争。看空观点认为它只是不断贬值的 token 贩卖者，但这忽略了其构建持续进化的机器智能系统。  
+  Azeem Azhar：Exponential View（RSS） · 2026-11-17 00:36
+
+- [Gary Marcus：AI 泡沫是否已经 Game Over](<https://garymarcus.substack.com/p/game-over-man>)  
+  Gary Marcus 评论当前 AI 股票大跌，称当前 AI 泡沫看起来已接近 game over。他提到 Oracle 自其 2025 年 9 月宣布“peak bubble”以来跌约 61%，Ben Thompson 撰写讣告式文章，华尔街日报报道 Nvidia 作为“AI 经济空头支票”的日子屈指可数；他认为核心问题是 LLM 公司缺乏技术护城河、难以盈利。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-17 00:29
+
+- [Claude 支持在 Canvas 图形中构建可交互的真实 HTML 网页](<https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/>)  
+  Anthropic 的 Claude 现在能在 Canvas 图形中嵌入真实可交互的网页元素，文字可选中复制，演示页给出 15 个例子，如针织图案、3D 立方体等风格网站。  
+  The Decoder：AI News（RSS） · 2026-11-17 00:10
+
+- [Microsoft Data Shows Claude Is Stalling Against Copilot in Office](<https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office>)  
+  The Information · 2026-11-17 00:01
+
+- [NVIDIA Vera Rubin 首秀 MLPerf：横扫训练基准，智能体推理能效超 10 倍](<https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/>)  
+  NVIDIA Vera Rubin 平台在首次 MLPerf 亮相中横扫 Training v6.1 全部基准，并首次提交 MLPerf Endpoints，智能体 AI 每瓦吞吐较 GB300 NVL72 提升超 10 倍。  
+  NVIDIA Blog（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 扩展 CUDA-X 库，为 AI 智能体提供加速科学发现的工具](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/>)  
+  NVIDIA 扩展 CUDA-X 库，新增 cuPhoton、cuPotential 和 cuSpa，让 AI 智能体协助科研人员加速天体物理、材料科学与单细胞生物学等研究。  
+  NVIDIA Blog（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 发布 Rubin HPC GPU：加速科学与工程智能体仿真](<https://blogs.nvidia.com/blog/rubin-hpc/>)  
+  NVIDIA 在 SC26 发布 Vera Rubin 平台新 GPU Rubin HPC，面向科学、工程与分析工作负载加速仿真和数据处理。单颗 GPU 的 CUDA 核心数超过 50,000 创下纪录，并配备稀疏数据加速能力和第七代 NVLink 互连。该 GPU 预计 2028 年上市。  
+  NVIDIA Blog（RSS） · 2026-11-17 00:00
+
+- [LG AI Research 在 ICML 2026 提出 LASE：基于可靠性自适应辩论的高效多智能体推理](<https://www.lgresearch.ai/blog/view?seq=751>)  
+  LG AI Research 在 ICML 2026 提出 LASE（Leader-Adaptive Structured Engagement）框架，按需触发多智能体辩论以降低 token 开销。  
+  LG AI Research：官方研究博客 · 2026-11-17 00:00
+
+- [PFN 与 SEMIFIVE 合作开发 AI 推理半导体 MN-Core L2000 系列](<https://www.preferred.jp/ja/news/pr20261116>)  
+  Preferred Networks（PFN）与 SEMIFIVE 宣布在 AI 推理专用半导体 MN-Core L2000 系列的开发上展开合作，该系列是 PFN 计划 2027 年开售的 MN-Core L1000 系列的下一代产品，内存带宽提升至 2 倍以上。  
+  Preferred Networks：AI 研究与产品 · 2026-11-17 00:00
+
+- [NVIDIA 发布 Nemotron for Science，用开源模型和数据集加速科学 Agent 开发](<https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents>)  
+  NVIDIA 推出 Nemotron for Science，整合 Nemotron 3.5 Super VL 开源模型、化学评测与数据集 LitmusBench v0.2（近 5 万道化学推理题）及后训练配方，帮助研究者构建科学发现 Agent。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 扩展 Vera CPU 平台，加速科学发现](<https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery>)  
+  NVIDIA 发布 Vera CPU 机架级平台，由 192 颗 Vera CPU 通过 Quantum-X800 InfiniBand 互联，面向气候建模、分子动力学等 HPC 负载。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 携手 IBM 与 Fermilab 推出量子-经典协同设计平台，并发布纠错解码算法突破](<https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing>)  
+  NVIDIA 宣布与 IBM 及美国能源部费米国家加速器实验室（Fermilab）合作，共建模块化量子计算协同设计平台，将 NVIDIA DGX B200 系统与 IBM 量子计算机（含 IBM Quantum Nighthawk）同址部署。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [Audible turns to AI to help users discover audiobooks](<https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/>)  
+  Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to play  
+  TechCrunch · 2026-11-16 23:52
+
+- [Anthropic 谈智能体记忆：关键在于知道该忘什么，而不是存多少](<https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/>)  
+  Anthropic 发布研究文章，探讨 Claude 如何跨会话保留知识，结论是选择性笔记优于全量存档。在 Pokémon Red 测试中，Claude Sonnet 3.7 存了约 413 个文件只拿到 1 枚徽章，而 Claude Fable 5 只记策略和已验证规则，获得 4 枚徽章。  
+  The Decoder：AI News（RSS） · 2026-11-16 23:25
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 14 页
