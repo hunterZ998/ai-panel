@@ -42,6 +42,22 @@ def check_access(access):
         raise ValueError("Expected anonymous reader")
 
 
+def public_radar(radar):
+    """Project entities from both new responses and older, unfiltered snapshots."""
+    entities = []
+    for entity in radar["entities"]:
+        if not all(isinstance(entity.get(key), str) for key in ("id", "name")):
+            raise ValueError("Invalid radar entity identity")
+        projected = {"id": entity["id"], "name": entity["name"]}
+        for key in ("aliases", "sectors"):
+            values = entity.get(key, [])
+            if not isinstance(values, list) or not all(isinstance(value, str) for value in values):
+                raise ValueError(f"Invalid radar entity {key}")
+            projected[key] = values
+        entities.append(projected)
+    return {**radar, "entities": entities}
+
+
 def validate_news(data):
     sectors = data["sectors"]
     if (len(sectors["items"]) != 6 or any("meeting" in row for row in sectors["items"])
@@ -110,6 +126,7 @@ def workbench(project_data):
 
 
 def publish_files(html, data, dest, cached):
+    data = {**data, "radar": public_radar(data["radar"])}
     validate_news(data)
     if ('<main id="main"' not in html or "fetch('./data/feed.json'," not in html
             or "fetch('./data/access.json'," not in html):
