@@ -53,3 +53,48 @@ jobs:
       - name: Publish
         id: publish
         uses: actions/deploy-pages@v4
+  backup:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: generator
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: reader
+          path: published
+      - uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: bundle
+      - name: Build from the same public files as Pages
+        run: |
+          mkdir snapshot
+          tar -xf bundle/artifact.tar -C snapshot
+          python3 generator/build_backup.py --source snapshot --out export
+      - name: Publish the online reader and downloadable panel
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          test -s export/panel.html && test -s export/README.md && test -d export/sections
+          cp export/README.md published/README.md
+          rsync -a --delete export/sections/ published/sections/
+          git -C published config user.name "AI Panel Publisher"
+          git -C published config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C published add -- README.md sections
+          if ! git -C published diff --cached --quiet; then
+            git -C published commit -m "Refresh public research reader"
+            git -C published push origin HEAD:reader
+          fi
+          sha=$(sha256sum export/panel.html | cut -d' ' -f1)
+          current=$(gh release view public-reader -R "$GITHUB_REPOSITORY" --json assets --jq '.assets[] | select(.name=="panel.html") | .digest')
+          if [ "$current" != "sha256:$sha" ]; then
+            cp export/panel.html export/panel-latest.html
+            gh release upload public-reader export/panel-latest.html --clobber -R "$GITHUB_REPOSITORY"
+            gh release upload public-reader export/panel.html --clobber -R "$GITHUB_REPOSITORY" || gh release upload public-reader export/panel.html --clobber -R "$GITHUB_REPOSITORY"
+          fi
