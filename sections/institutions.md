@@ -1,6 +1,10 @@
 # 机构研究
 
-[返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
+[返回面板](../README.md) · 第 1 / 1 页
+
+- [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
+  For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
+  a16z · 2026-11-17 23:10
 
 - [The Dream of the 1990s Is Alive Again in Cybersecurity](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
   Taking the experiences from the first prolific zero-day era and applying it to today, combined with recent conversati…  
@@ -94,10 +98,6 @@
   How will the profiles change as we enter the age of AI?  
   a16z · 2026-10-31 00:02
 
-- [Charts of the Week: Job FUD Fades](<https://www.a16z.news/p/charts-of-the-week-job-fud-fades>)  
-  AI Referred, Shopper Approved; Rack Spread Cometh \(But Why\)?  
-  a16z · 2026-10-30 22:09
-
 - [Amazon’s Trainium Takes a Strike at the Training King](<https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at>)  
   Anthropic is running production inference and RL rollouts on Trainium2 and Trainium3.  
   SemiAnalysis · 2026-10-24 03:06
@@ -182,4 +182,4 @@
   Six weeks later, that thesis had become the spine of the first ever paywalled piece on this newsletter, Artificial In…  
   Citrini Research · 2026-08-27 20:49
 
-[返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
+[返回面板](../README.md) · 第 1 / 1 页

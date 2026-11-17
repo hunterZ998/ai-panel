@@ -1,33 +1,175 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-13.md) · 第 14 / 14 页
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 16 页
 
-- [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](<https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign>)  
-  New Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments  
-  SemiAnalysis · 2026-09-18 22:34
+- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](<https://www.youtube.com/watch?v=P735f1xlpL0>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=P735f1xlpL0  
+  Latent Space · 2026-11-07 10:49
 
-- [Robotics Tipping Point: A Citrini Field Trip](<https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini>)  
-  Under its new branding of “Physical AI” , is robotics evolving from Bay Area backwaters to a true technological renai…  
-  Citrini Research · 2026-09-16 22:34
+- [Crusoe sells troubled Wyoming data center project to Google](<https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/>)  
+  The deal highlights the challenges of developing massive AI data centers.  
+  TechCrunch · 2026-11-07 09:40
 
-- [2026: The State of Consumer AI](<https://menlovc.com/perspective/2026-the-state-of-consumer-ai/>)  
-  Consumer AI Adoption Hardly Grew in 2026, But Spend Tripled Last year, consumer AI broke into the mainstream. This ye…  
-  Menlo Ventures · 2026-09-16 20:00
+- [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116145&idx=1&sn=88085e9684f32488b5481683e798cfa0>)  
+  极客公园 · 2026-11-07 08:46
 
-- [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree](<https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums>)  
-  As AI drives an unprecedented wave of datacenter construction over the last year, concerns over electricity costs, wa…  
-  SemiAnalysis · 2026-09-16 04:54
+- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
+  OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
+  TechCrunch · 2026-11-07 06:53
 
-- [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
-  Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
-  SemiAnalysis · 2026-09-15 06:08
+- [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
+  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
+  TechCrunch · 2026-11-07 02:44
 
-- [Macro Memo: Regime Change](<https://www.citriniresearch.com/p/macro-memo-regime-change>)  
-  Six weeks later, that thesis had become the spine of the first ever paywalled piece on this newsletter, Artificial In…  
-  Citrini Research · 2026-08-27 20:49
+- [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>)  
+  Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with th…  
+  TechCrunch · 2026-11-07 02:44
 
-- [Stripe to Acquire OpenRouter: Why Everyone Is Obsessed With Model Routing](<https://menlovc.com/perspective/stripe-to-acquire-openrouter-why-everyone-is-obsessed-with-model-routing/>)  
-  Today, OpenRouter announced that they have entered into an agreement to be acquired by Stripe, three years from when…  
-  Menlo Ventures · 2026-08-20 01:00
+- [How a Blue Wave midterm might reshape the AI industry](<https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/>)  
+  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
+  TechCrunch · 2026-11-07 02:00
 
-[返回面板](../README.md) · [上一页](all-13.md) · 第 14 / 14 页
+- [After the midterms, is the AI industry in for a rough two years?](<https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/>)  
+  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
+  TechCrunch · 2026-11-07 01:23
+
+- [Defense in Depth, Rebuilt for Machine Speed](<https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine>)  
+  AI systems can search for vulnerabilities by the class and help turn a published fix into a working exploit in hours.  
+  a16z · 2026-11-07 01:00
+
+- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](<https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/>)  
+  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
+  TechCrunch · 2026-11-06 23:54
+
+- [Charts of the Week: Apple Skips Capex, and the Crowd Goes Wild \(Sort Of\)](<https://www.a16z.news/p/charts-of-the-week-apple-skips-capex>)  
+  AI Does Roblox; GLP-1s: The Other GPT; Year of the Maxx  
+  a16z · 2026-11-06 23:02
+
+- [Controlling Biology - Fabian Theis, Helmholtz Munich](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/controlling_biology_-_fabian_theis_helmholtz_munich_1>)  
+  Fabian Theis has been one of the key players in the various iterations of the Virtual Cell concept and initiatives. I…  
+  Latent Space · 2026-11-06 22:48
+
+- [杨植麟的 Taste，梁文锋的克制：Kimi 与 DeepSeek 开始换打法](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748597&idx=1&sn=5646b38ca8930ca4d7659590be6e05b5>)  
+  AI科技评论 · 2026-11-06 18:47
+
+- [OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748586&idx=1&sn=b83628488a5305e4e1df321770fe0dc6>)  
+  AI科技评论 · 2026-11-06 16:50
+
+- [ZPedia｜实测腾讯混元 Hy4：12 项看板 0 个第一，却在实战里进入第一梯队](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901304&idx=1&sn=62a5b1a7b97d221e357307e4069f64b9>)  
+  Z Finance · 2026-11-06 15:35
+
+- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>)  
+  Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
+  TechCrunch · 2026-11-06 14:28
+
+- [佳安智能潘阳：把机器人送进 500 强「打工」，一年挣一个多亿 \| 物理 AI 50人](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748535&idx=1&sn=eaa473df0b6af340440b15b99bd9e042>)  
+  AI科技评论 · 2026-11-06 09:48
+
+- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
+  晚点聊 · 2026-11-06 09:30
+
+- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
+  晚点聊 · 2026-11-06 09:30
+
+- [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
+  Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
+  SemiAnalysis · 2026-11-06 03:03
+
+- [The Exploit Was the Bottleneck](<https://www.a16z.news/p/the-exploit-was-the-bottleneck>)  
+  What 23 Years of Data Say About AI and the Patch Gap  
+  a16z · 2026-11-05 23:01
+
+- [The New CFO: How AI Is Rewriting the Finance Function \| Figma CFO Praveer Melwani](<https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym>)  
+  AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Fi…  
+  The a16z Show · 2026-11-05 19:00
+
+- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
+  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
+  20VC · 2026-11-05 15:07
+
+- [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
+  Z Finance · 2026-11-05 13:05
+
+- [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
+  We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
+  Citrini Research · 2026-11-05 04:28
+
+- [Investing in Phaze](<https://www.a16z.news/p/investing-in-phaze>)  
+  A major lesson in getting productivity out of agents over the last few years has been to give them computers and appl…  
+  a16z · 2026-11-04 22:35
+
+- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
+  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
+  The a16z Show · 2026-11-04 19:00
+
+- [⚡ Behind Latent Space: A Rare Look Inside the Pod \| AIEi Shanghai](<https://www.youtube.com/watch?v=QmDLDy3ZSNE>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=QmDLDy3ZSNE  
+  Latent Space · 2026-11-04 18:32
+
+- [独家｜客单价 2000 美金、5 万人排队，这家 Personal Agent OS 公司 3 个月再拿数千万美元融资](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901281&idx=1&sn=d92db7aea0793de66e0e2edbb0aa7951>)  
+  Z Finance · 2026-11-04 10:02
+
+- [Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud](<https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will>)  
+  We showed exactly how xAI bypassed the grid \(and permitting\!\) with truck-mounted turbines, why the behind-the-meter p…  
+  SemiAnalysis · 2026-11-04 04:44
+
+- [⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev](<https://www.youtube.com/watch?v=LL0YmIyBKSU>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=LL0YmIyBKSU  
+  Latent Space · 2026-11-04 04:16
+
+- [The State of Longevity](<https://www.a16z.news/p/the-state-of-longevity>)  
+  The second was ChatGPT.  
+  a16z · 2026-11-03 23:06
+
+- [2026: The State of Enterprise AI](<https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/>)  
+  Enterprise AI Reaches Scale In 2026, AI became an economy-scale force. Enterprise AI deployment spending surged from…  
+  Menlo Ventures · 2026-11-03 22:00
+
+- [深度｜Personal Agent 的交互需要被重新定义，Orilo 从 Voice 切入](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901271&idx=1&sn=7fe6f185bc97080c0a3623f40c148f63>)  
+  Z Finance · 2026-11-03 12:38
+
+- [Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora>)  
+  Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How…  
+  Latent Space · 2026-11-03 04:50
+
+- [Investing in Tutor Intelligence](<https://www.a16z.news/p/investing-in-tutor-intelligence>)  
+  They deploy into real production environments ahead of full autonomy, using human teleoperators \(“tutors”\) to train t…  
+  a16z · 2026-11-03 00:05
+
+- [The Robots Already Working in American Factories \| Tutor Intelligence](<https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3>)  
+  What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gru…  
+  The a16z Show · 2026-11-03 00:05
+
+- [How AI Applications Earn Their Premium](<https://www.a16z.news/p/how-ai-applications-earn-their-premium>)  
+  Cheaper intelligence raises the bar for what an AI application can charge  
+  a16z · 2026-11-02 23:03
+
+- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
+  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
+  a16z · 2026-11-02 22:01
+
+- [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
+  Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
+  20VC · 2026-11-02 15:07
+
+- [独家丨字节计划拆分医疗健康业务小荷健康，吴海锋被推向十字路口](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901262&idx=1&sn=bdea83e997603acb47da788107836775>)  
+  Z Finance · 2026-11-02 10:41
+
+- [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
+  It aims to be the world’s best benchmark for measuring general agentic capabilities.  
+  SemiAnalysis · 2026-11-02 09:51
+
+- [【年终复盘①】AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](<https://www.xiaoyuzhoufm.com/episode/6ae6e230c96c8942ec156ed6?utm_source=rss>)  
+  ➤ 「十字路口」2026 年终 AI 复盘系列的第一期来了！ 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是邀请十字路口身处 AI 一线的朋友们 ——创业者、研究员和投资人，分享 10 个真正触动他们的 AI 瞬间…  
+  十字路口 Crossing · 2026-11-02 00:00
+
+- [深度丨宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901261&idx=1&sn=66e992da6fed1ed0a81d25ec8da5191c>)  
+  Z Finance · 2026-11-01 19:52
+
+- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](<https://latent.space/p/arca>)  
+  Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss…  
+  Latent Space · 2026-11-01 00:00
+
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 16 页

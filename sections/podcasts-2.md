@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页
 
+- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
+  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
+  Latent Space · 2026-10-29 04:00
+
 - [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
   Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
   The a16z Show · 2026-10-28 18:00
@@ -97,9 +101,5 @@
 - [20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](<https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain>)  
   Harrison Chase is the co-founder and CEO of LangChain, which helps developers build, test and deploy AI agents. Backe…  
   20VC · 2026-10-19 06:37
-
-- [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](<https://www.xiaoyuzhoufm.com/episode/6ad2412d0e4e410a05be01a7?utm_source=rss>)  
-  ➤ Claude Code 和 Codex 越来越强，AI 应用创业者还能做什么？ 本周「十字路口」的嘉宾是 Treg 创始人 Jason Zhou 和 Founding Engineer 石天鑫。创业 9 个多月，从设计 Agent…  
-  十字路口 Crossing · 2026-10-19 00:00
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页

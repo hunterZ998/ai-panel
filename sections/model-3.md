@@ -1,6 +1,103 @@
 # 大模型
 
-[返回面板](../README.md) · [上一页](model-2.md) · 第 3 / 3 页
+[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 4 页
+
+- [Cmpnd 发布 dspy-wsp，把权重空间编程做成 DSPy 优化器](<https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/>)  
+  Cmpnd 发布开源原型优化器 dspy-wsp（MIT 许可，pip install dspy-wsp），让前沿 LLM 直接读取并编辑小模型的权重，无需梯度、训练循环或微调数据。  
+  MarkTechPost（RSS） · 2026-11-15 00:45
+
+- [Anthropic 建议弃用过时提示词习惯以充分发挥 Claude Opus 5.5](<https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/>)  
+  Anthropic 指出许多用户沿用旧习惯反而拖慢 Claude Opus 5.5，建议删除 think hard 等短语，让模型自主调节推理深度，并从 Medium effort 档位起步。  
+  The Decoder：AI News（RSS） · 2026-11-15 00:42
+
+- [手工式 AI 时代即将到来](<https://every.to/context-window/the-age-of-artisanal-ai-is-coming>)  
+  Every 作者 Dan Shipper 在 Thesis: 2027 闭幕演讲中提出，当所有人用同样的模型时，决定差异的是你对"什么算好"的判断力。文中还提到 Fable 5.2 可整夜甚至整个周末无人值守工作，以及把对 AI 输出的每条修改意见转成可复用的对错检查项。  
+  Every：最新文章（网页） · 2026-11-15 00:00
+
+- [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
+  One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
+  @Basant\_Pandey · 2026-11-13 12:46
+
+- [美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型](<https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6>)  
+  美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。  
+  美团 LongCat：HuggingFace 新模型 · 2026-11-13 10:45
+
+- [IBM发布Granite 4.1 3B/8B的LLMON实验预览和工具包，用保留token明确区分指令与数据。IBM称静态间接提示注入抵抗改善；这是学得的行为而非强制安全保证，尚不适于生产。](<https://x.com/Jaythschild/status/2121069607888810451>)  
+  IBM's LLMON previews teach Granite 4.1 3B/8B to distinguish instructions from data using reserved structural tokens. Released Nov 12 with a toolkit. The goal: reduce prompt injection in agent workflows, not just change JSON formatting.  
+  @Jaythschild · 2026-11-13 10:36
+
+- [Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用](<https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/>)  
+  Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。  
+  Google Research：Blog（网页） · 2026-11-13 08:00
+
+- [Google发布Gemini 4 Hydrogen，面向日常编程和Agent执行，提供四档思考强度及100万token上下文。官方API标价为每百万输入token 1.50美元、输出7.50美元，并支持与Carbon/Argon组合使用；速度与评测结果仍属厂商数据。](<https://x.com/Google/status/2120941982004523367>)  
+  Meet Gemini 4 Hydrogen. It brings cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic work. Across 4 thinking levels, it stands on its own or teams up with Carbon and Argon — 2.5X faster than 3.8 Flash, outpacing co…  
+  @Google · 2026-11-13 02:09
+
+- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
+  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
+  @SamuelZengML · 2026-11-13 02:00
+
+- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
+  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
+  Google AI · 2026-11-13 02:00
+
+- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
+  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
+  20VC · 2026-11-12 15:07
+
+- [Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型](<https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>)  
+  Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。  
+  Claude：Blog（网页） · 2026-11-12 08:00
+
+- [a16z 发布 B2A（面向 Agent 的商业）研究框架，把机会分为 Agent、本来难以成立的新产品、适配 Agent 的既有企业及基础设施，强调分发和支付、身份、欺诈等瓶颈。这是投资机构的分析框架，所引第三方流量与代码占比未独立核验，不作为全行业事实。](<https://x.com/a16z/status/2120564069010931746>)  
+  Agents now make up the majority of web traffic, write more than half of new articles published online, and generate most of the code pushed to production. This is what the early stage of a platform shift looks like: adoption is measurable, but the business mod…  
+  @a16z · 2026-11-12 01:07
+
+- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
+  APPSO · 2026-11-11 09:00
+
+- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
+  极客公园 · 2026-11-11 08:43
+
+- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
+  APPSO · 2026-11-11 08:20
+
+- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
+  量子位 · 2026-11-11 06:10
+
+- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
+  新智元 · 2026-11-10 23:16
+
+- [实测Fable 5.2：15秒画完4万年人类艺术史，我还摸清了「满分提示词」套路](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115907&idx=1&sn=bdb6512fb5b8c5670803c67081c1f850>)  
+  APPSO · 2026-11-10 18:04
+
+- [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942809&idx=2&sn=6e947b51ab34901d590c22156c1db720>)  
+  量子位 · 2026-11-10 15:27
+
+- [当美国无法建设数据中心，会对 AI 产生怎样的冲击](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116265&idx=1&sn=a5b1ed31fc644479b961afebac1b76f1>)  
+  极客公园 · 2026-11-10 15:13
+
+- [Fable 5.2首批实测来了！网友：Opus突然不香了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=2&sn=4018cb8697f3c981589e71764a1affa1>)  
+  量子位 · 2026-11-10 13:24
+
+- [Fable 5.2睁眼拼魔方，中国AI闭眼搓麻将！人类「手感」首次Token化](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741625&idx=1&sn=cec9a700b23f53b333cc82b60cb99445>)  
+  新智元 · 2026-11-10 11:38
+
+- [Fable 5.2 还没捂热，Gemini 4 神秘新模型就刷屏了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115835&idx=1&sn=7114821869a486b7b2f3fbf298406182>)  
+  APPSO · 2026-11-10 11:21
+
+- [中国卷大模型，美国缺机器人：在硅谷做具身智能背后的「中国启示录」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748707&idx=2&sn=9961a7f19de98ddc48368a8305639d3b>)  
+  AI科技评论 · 2026-11-10 09:30
+
+- [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115784&idx=1&sn=bcf79b8e25245607c5db48587044d3d1>)  
+  APPSO · 2026-11-10 08:58
+
+- [Fable 5.2狂刷72项世界纪录，23年黑洞难题告破！科学史又改写了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=1&sn=6c1a2418ed8ea73a9ddbbc31995bba23>)  
+  新智元 · 2026-11-10 08:55
+
+- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
+  APPSO · 2026-11-10 06:42
 
 - [最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741547&idx=1&sn=71d6d9fb635f0ea5b0714b04b7a68bf3>)  
   新智元 · 2026-11-10 06:41
@@ -16,6 +113,14 @@
 
 - [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
   量子位 · 2026-11-09 11:05
+
+- [Edge AI Daily 早报（11月9日）](<https://www.tmtpost.com/8197806.html>)  
+  中期选举后美国46项数据中心公投否决扩张，AI基建进入许可时代；纳指单日跌5.5%、费半跌12%，亚洲市场熔断。Anthropic斥34亿美元购1.7GW燃气发电机，伯恩斯坦估OpenAI至2030年算力支出或达6140亿美元。苹果推…  
+  钛媒体 · 2026-11-09 09:28
+
+- [AI会撞上的下一堵墙可能是水](<https://www.tmtpost.com/8197774.html>)  
+  世界经济论坛的报告估计，全球约45%的数据中心设施位于高水压力地区  
+  钛媒体 · 2026-11-09 09:20
 
 - [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
   APPSO · 2026-11-08 15:26
@@ -55,36 +160,4 @@
   Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
   20VC · 2026-11-02 15:07
 
-- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
-  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
-  科技早知道 · 2026-10-30 17:00
-
-- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
-  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
-  20VC · 2026-10-29 15:07
-
-- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
-  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
-  Latent Space · 2026-10-28 02:40
-
-- [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
-  ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  
-  十字路口 Crossing · 2026-10-26 00:00
-
-- [20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO &amp; Modal Raises $750M at $15.75B](<https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b>)  
-  AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sp…  
-  20VC · 2026-10-22 15:07
-
-- [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](<https://sv101.fireside.fm/270>)  
-  回顾9月，AI圈的重磅新闻一个接一个。 先是OpenAI发布GPT-6 Astra，总裁格雷格·布罗克曼在发布会上宣布：AGI已经到来。 这场发布对机器人行业的冲击，来得有些意外，一个发布会报告里只字未提机器人的通用模型，转身就空降了…  
-  硅谷101 · 2026-10-20 07:00
-
-- [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](<https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign>)  
-  New Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments  
-  SemiAnalysis · 2026-09-18 22:34
-
-- [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
-  Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
-  SemiAnalysis · 2026-09-15 06:08
-
-[返回面板](../README.md) · [上一页](model-2.md) · 第 3 / 3 页
+[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 4 页

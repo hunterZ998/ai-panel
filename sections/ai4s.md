@@ -20,15 +20,19 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 7 条
+## 相关资讯 · 8 条
 
-- [瑞士生物科技企业Orbis Medicines研发AI驱动高通量药物发现工艺，设计新型口服大环药物](<https://www.tmtpost.com/8207902.html>)  
-  潜在化学设计空间可达10³⁰种结构组合。  
-  钛媒体 · 2026-11-17 17:21
+- [物理学家如何看待AI冲击：从Suvrat Raju的TheoPhysEval基准被饱和谈起](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
+  Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
+  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
 
-- [AI4S火热，离“ChatGPT时刻”还有多远？](<https://www.tmtpost.com/8207938.html>)  
-  AI走进实验室，但离独立搞科研还很远。  
-  钛媒体 · 2026-11-17 17:21
+- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
+  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
+  NVIDIA Blog（RSS） · 2026-11-17 22:00
+
+- [Alphabet旗下AI制药商Isomorphic Labs完成50亿美元C轮融资](<https://www.itjuzi.com/investevent/14708098>)  
+  Isomorphic Labs是Alphabet旗下AI制药商，将人工智能和计算方法应用于药物发现，并改变医学帮助和治愈人们的方式。公司日前完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本共同领投，Alphabet…  
+  IT桔子 · 2026-11-17 21:17
 
 - [材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率](<https://36kr.com/p/4073503237329796?f=rss>)  
   大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每  

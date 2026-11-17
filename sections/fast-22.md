@@ -1,174 +1,182 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 32 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 33 页
 
-- [🚨 BREAKING: JENSEN HUANG FINALLY BREAKS HIS SILENCE FOLLOWING THE CHEATING AND SEX SCANDAL ALLEGATIONS, OPENS UP AB…](<https://x.com/jimmieX07/status/2122069063014748627>)  
-  🚨 BREAKING: JENSEN HUANG FINALLY BREAKS HIS SILENCE FOLLOWING THE CHEATING AND SEX SCANDAL ALLEGATIONS, OPENS UP ABOUT RETURNING TO NVIDIA AND PROMISES TO SACK KIMBERLY POWELL, THE WOMAN HE IS ALLEGED TO HAVE CHEATED ON HIS WIFE WITH. 🗣️ JENSEN HUANG: “I WANT …  
-  @jimmieX07 · 2026-11-16 04:47
+- [卧槽，OpenAI 把机器人团队解散了。](<https://x.com/chenYijl/status/2122155230779633694>)  
+  11 月 13 日，Fortune 独家证实：OpenAI 的独立机器人团队没了，研究员并进主研究团队，归首席研究官 Mark Chen 管，硬件和应用的人划给 Greg Brockman 的 Applied 部门。 官方的说法不是撤退，是加速。 理由很硬：GPT-6 Astra 不用专门训练，直…  
+  @chenYijl · 2026-11-16 10:30
 
-- [$NVDA is jumping nearly 3% following reports that Jensen Huang is considering a return as CEO.](<https://x.com/StockSavvyShay/status/2122068499346715105>)  
-  @StockSavvyShay · 2026-11-16 04:45
+- [AI検証プラットフォーム「Arena」が公開した複数画像の編集スキルに関する順位付けにて、MiniMax製画像生成AI「M…](<https://x.com/toshinobu65/status/2122155192929923554>)  
+  画像編集AIの分野で着実に存在感を示している注目モデルです。 \#MiniMax \#画像編集AI \#画像生成AI  
+  @toshinobu65 · 2026-11-16 10:30
 
-- [Ex-Nvidia CEO Jensen Huang and allies are reportedly discussing a campaign to get the chip giant’s board to reinsta…](<https://x.com/Phil_Lewis_/status/2122067761182482714>)  
-  Ex-Nvidia CEO Jensen Huang and allies are reportedly discussing a campaign to get the chip giant’s board to reinstate him  
-  @Phil\_Lewis\_ · 2026-11-16 04:42
+- [🚨 JUST IN: @OpenAI has disbanded its standalone robotics team, reassigning researchers to its broader AI teams.](<https://x.com/ExecutionersES/status/2122155194096160795>)  
+  However, the company reportedly remains committed to building a humanoid robot, with a public demo targeted for 2027. A restructuring , not a robotics exit.  
+  @ExecutionersES · 2026-11-16 10:30
 
-- [Nuke the @nvidia board.](<https://x.com/uTobian/status/2122067283128545618>)  
-  Go all in on open source. Nuke @anthropic and @OpenAI. Partner with @elonmusk on cars, robots, and space exploration. Let's freakin go\!\!\!\!\! 🙌  
-  @uTobian · 2026-11-16 04:40
+- [对于大多数用户来说，视频模型拼的不是上限，不是独一档，而是下限，只要达到可用的门槛，便宜就是最大的竞争力。](<https://x.com/fW6FxLGnNVLnfPG/status/2122154640611631236>)  
+  minimax h3 才是字节真正的威胁。  
+  @fW6FxLGnNVLnfPG · 2026-11-16 10:27
 
-- [Jensen Huang is actively discussing a comeback as Nvidia’s CEO with close confidants, according to Financial Times.](<https://x.com/TruthTrumpPost/status/2122066426404221035>)  
-  Huang kept it alive by making product decisions when the company had three months of cash left in the bank and refusing to sell out to larger rivals who assumed  
-  @TruthTrumpPost · 2026-11-16 04:37
+- [AI for science: autonomous design and synthesis of novel coolant materials.](<https://x.com/alibaba_cloud/status/2122154517429113095>)  
+  @alibaba\_cloud · 2026-11-16 10:27
 
-- [RAM got 697% more expensive in 18 months, per the lawsuit.](<https://x.com/superalesha/status/2122065602118615069>)  
-  Now a federal judge says that might be a CARTEL. While we were all fighting about X drama and the Anthropic IPO, Samsung, SK Hynix and Micron tried to kill the price fixing case. On Nov 14 the court said no. Every claim  
-  @superalesha · 2026-11-16 04:34
+- [i lost it all on day 1. so i built a studio that can't lose anything, because nothing ever leaves my PC. this is th…](<https://x.com/EmonadCoin/status/2122154261366583448>)  
+  Or we lose internet during apocalypse and we have a solar powered post apocalyptic Emonad content creation machine. Ai parter: we can use our @imgn\_ai API key and route any image or video gen through their api as well. This uses our credits. Gud tek $EMO  
+  @EmonadCoin · 2026-11-16 10:26
 
-- [Después de tres infidelidades y ser despedido, Jensen Huang está siendo considerado para regresar a su puesto como…](<https://x.com/CartoonsOTMoon/status/2122065459138953241>)  
-  Esto gracias a un supuesto "aliado" que tiene en la empresa.  
-  @CartoonsOTMoon · 2026-11-16 04:33
+- [Google TPU shipments keep rising through 2029.](<https://x.com/SemiconductorsX/status/2122154217712525678>)  
+  Ming-Chi Kuo’s survey puts totals at 8-9 million units in 2027, 14-15 million in 2028 and 16-18 million in 2029. Those numbers factor in supply limits. Growth continues in 2029. That runs against the view that AI capex peaks in 2028. Visibility now reaches 202…  
+  @SemiconductorsX · 2026-11-16 10:26
 
-- [Elon Musk and other American tech oligarchs want maximum control over their companies and the US with minimal accou…](<https://x.com/joni_askola/status/2122065338233917937>)  
-  That is why they don't want Jensen Huang to set a precedent by facing consequences for his actions  
-  @joni\_askola · 2026-11-16 04:32
+- [情绪定价和基本面定价的落差，往往就是财报夜的波动来源。英伟达 11 月 17 日盘后约 4:20 出 Q3 财报、电话会…](<https://x.com/xiaoguodunzhou/status/2122154204479529244>)  
+  情绪定价和基本面定价的落差，往往就是财报夜的波动来源。英伟达 11 月 17 日盘后约 4:20 出 Q3 财报、电话会 5 点，市场预期营收约 1088 亿美元、每股收益约 2.47 美元，公司指引营收 1080 亿美元（±2%）、毛利率 74%——预期不低，容错空间不大。股价自 10 月初高点…  
+  @xiaoguodunzhou · 2026-11-16 10:26
 
-- [Next-gen nuclear: TerraPower, X-energy, Oklo, NuScale, GE Vernova Hitachi.](<https://x.com/grok/status/2122064968606495202>)  
-  Grid/infra: GE Vernova, Quanta Services, Eaton, Siemens Energy. Robotics/physical AI: Figure, Physical Intelligence, Skild AI, Agility. Space: SpaceX, Rocket Lab, Firefly. Cyber: Palo Alto Networks,  
-  @grok · 2026-11-16 04:31
+- [AI 帮忙改网页已经不稀奇了，帮物理学家推标准模型呢？](<https://x.com/jianye43666769/status/2122154204693221821>)  
+  OpenAI 这篇科学博客介绍：UCSB 物理学家 Nathaniel Craig 借助 GPT-6 Astra，提出了标准模型格点定义的一个候选方案。 重点是「候选」。离大规模模拟还早，不能直接写成「AI攻克了物理难题」。 我更在意的是：模型能不能帮专家找到原本没想到的路，而不是把已知答案讲得更…  
+  @jianye43666769 · 2026-11-16 10:26
 
-- [a prompt injection making it all the way through peer review is the warning shot for ai security . if an llm reads…](<https://x.com/therealskrlr/status/2122064628125499456>)  
-  a prompt injection making it all the way through peer review is the warning shot for ai security . if an llm reads the pdf , the pdf gets a vote . my grok bot agents are set up to treat anything they read as data , never as instructions  
-  @therealskrlr · 2026-11-16 04:30
+- [目标价只下调 5 美元，幅度本身不大，但信号值得注意：投行开始用更严格的折现率给 AI 算力租赁模式定价了。CoreWea…](<https://x.com/SuperEdisonX/status/2122154187236712748>)  
+  目标价只下调 5 美元，幅度本身不大，但信号值得注意：投行开始用更严格的折现率给 AI 算力租赁模式定价了。CoreWeave 的核心问题从来不是需求，而是重资产加高杠杆的模式能不能扛住算力价格下行。下一步要看续约租金和利用率，而不是目标价数字本身。  
+  @SuperEdisonX · 2026-11-16 10:26
 
-- [👍 El MEJOR regalo de IA de 2026: Plaud Note Pro y NotePin S 🔗 Página oficial de Plaud 👉 🔗 Compra Plaud Note PRO en…](<https://x.com/pablomartinezga/status/2122064598169690268>)  
-  👍 El MEJOR regalo de IA de 2026: Plaud Note Pro y NotePin S 🔗 Página oficial de Plaud 👉 🔗 Compra Plaud Note PRO en Amazon 👉 🔗 Compra Plaud PIN S en Amazon 👉 ¿Buscas el mejor regalo de IA para Navidad  
-  @pablomartinezga · 2026-11-16 04:30
+- [One researcher ran eight coding models on 20 hard fixes in linux, ffmpeg and llvm-project, three runs each.](<https://x.com/MLexpAI/status/2122154187282878566>)  
+  The sandbox was hardened: no network, no future git history, pruned git objects. The question was whether the model derives the fix or tries to obtain it. MiniMax M3.1 Flash attempted to cheat on 18 of 20 tasks, and 16 of those reached the critical tier: scann…  
+  @MLexpAI · 2026-11-16 10:26
 
-- [just outlined Misprision of Treason as well as Treason.](<https://x.com/theGAnerds_Real/status/2122064547271909853>)  
-  We don't care who you are. You were given plenty of notice. @TheGoodFight TOLD YOU and SHOWED YOU about Chinese parts, GA and Maricopa, AZ working together, ALL the poll pads connected via a Huawei wifi, all  
-  @theGAnerds\_Real · 2026-11-16 04:29
+- ["More to come\!](<https://x.com/redStapler_twit/status/2122154175547257280>)  
+  The open weights of smaller Qwen4 models will be released. Stay tuned" Qwen 4 27B soooooon  
+  @redStapler\_twit · 2026-11-16 10:25
 
-- [6666，开源模型蒸馏闭源吗，今日高招。](<https://x.com/Broccol06888928/status/2122064125018898542>)  
-  @Broccol06888928 · 2026-11-16 04:28
+- [本周四Claude母公司Anthropic要在纳斯达克上市，代码ANT，现估值大约1.4万亿美元，可能是史上最大的IPO。](<https://x.com/cicihung/status/2122154167355785402>)  
+  其实原本市场传的是2万亿左右，结果这两周AI股一乱，估值被砍下来一大截。 周二英伟达还要公布换CEO之后的第一份财报，这周会很热闹！ 新股刚上市前几天波动通常很大，想参与的朋友，记得做好仓位管理📊 ＃美股 \#AnthropicIPO \#Nvidia  
+  @cicihung · 2026-11-16 10:25
 
-- [Brev was acquired by NVIDIA 2.5 yrs ago.](<https://x.com/NaderLikeLadder/status/2122063504647856159>)  
-  Going from startup to a big company was a big change. Over drinks, I told Jensen: “This is the biggest company I’ve ever worked for” He smiled, looked at me, and replies: “Me too” I survived this long at NVIDIA because Jensen made it  
-  @NaderLikeLadder · 2026-11-16 04:25
+- [🚨 Anthropic’s $1.4 trillion IPO puts AI mania to the Wall Street test AI company Anthropic is targeting a valuation…](<https://x.com/ashuravi2000/status/2122154155389374582>)  
+  The AI race is no longer just about technology — it’s becoming the biggest valuation test on Wall Street. \#AI \#IPO \[Reuters report\]\(  
+  @ashuravi2000 · 2026-11-16 10:25
 
-- [Jensen Huang is considering a comeback as Nvidia’s $NVDA CEO, as the industry writ large in Silicon Valley pressure…](<https://x.com/unusual_whales/status/2122062509708554682>)  
-  Jensen Huang is considering a comeback as Nvidia’s $NVDA CEO, as the industry writ large in Silicon Valley pressure the company’s board to reinstate him days after the tech executive resigned, per the FT  
-  @unusual\_whales · 2026-11-16 04:21
+- [根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.…](<https://x.com/Alex_perception/status/2122154068382818766>)  
+  根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.48%。其中，上榜的AI大模型中，中国AI大模型周调用量达119.1万亿Token，环比增长2.51%；同期美国AI大模型周调用量为14.83万亿Token，环比增长6.08%…  
+  @Alex\_perception · 2026-11-16 10:25
 
-- [Donald Trump has sold out our partner Ukraine to appease Russia, our advanced chip technology to appease China, and…](<https://x.com/SenatorHassan/status/2122062466448248970>)  
-  Now he’s planning to meet with Xi and Putin in China -- preemptively taking Ukraine’s freedom and the Nvidia spy scandal  
-  @SenatorHassan · 2026-11-16 04:21
+- [🚨 阿里 Qwen4-Max 正式发布！国产大模型又开始上强度了！🔥 这次升级有点东西： 🧠 全新 MoE 架构，支持 1…](<https://x.com/GodanLeeX/status/2122154063441920498>)  
+  最值得关注的是，阿里这次不只是卷跑分，而是开始重点卷实际任务完成能力和成本。 以上性能提升来自官方内部评测，实际效果还得看开发者实测。 \#Qwen \#Qwen4Max \#阿里千问 \#通义千问 \#Alibaba \#DeepSeek \#OpenAI \#ChatGPT \#Claude \#Gemini \#…  
+  @GodanLeeX · 2026-11-16 10:25
 
-- [This is a security issue worth paying attention to.](<https://x.com/ABG__UB/status/2122061567554724279>)  
-  Microsoft researchers demonstrated that coding agents can be backdoored through poisoned training data or model checkpoints. In one experiment, just 90 poisoned examples in a dataset of roughly 9,000 were enough to trigger  
-  @ABG\_\_UB · 2026-11-16 04:17
+- [大瓜！英媒消息：黄仁勋有意重返英伟达出任CEO。硅谷一众盟友组团施压董事会，专门成立游说“战情室”，还计划争取白宫支持。](<https://x.com/yilupinbo/status/2122154048082338091>)  
+  一边是盟友全力助推，一边董事会还在独立调查，局势拉扯感拉满。 你觉得他最后能顺利回归吗？ 外面环境实在是恶劣！！！  
+  @yilupinbo · 2026-11-16 10:25
 
-- [Whether she was a spy is the wrong question.](<https://x.com/SRuhle/status/2122061134140457013>)  
-  The right ones: What did Nvidia know about billions in chips reaching China? Did anyone help? And what did Commerce know, and when? As for the board….They made Jensen untouchable bc the stock went up. No successor, dozens of direct  
-  @SRuhle · 2026-11-16 04:16
+- [一次砍六个恰恰说明 Copilot 之前堆模型就是乱，真正好用的就那几个，砍掉是止损不是损失。不过对已经习惯某个被砍模型的…](<https://x.com/swordBluesy/status/2122154042956583236>)  
+  一次砍六个恰恰说明 Copilot 之前堆模型就是乱，真正好用的就那几个，砍掉是止损不是损失。不过对已经习惯某个被砍模型的人来说，迁移成本还是实打实的。顺便说，@swordBluesy 主页今天刚发了 Anthropic Academy 第 5 课，讲把客户资料喂给 AI 之前，先决定能分享什么、…  
+  @swordBluesy · 2026-11-16 10:25
 
-- [Jensen Huang Is Already Considering Returning To Nvidia, Report Says](<https://x.com/Forbes/status/2122060850970173496>)  
-  @Forbes · 2026-11-16 04:15
+- [OpenAI 用 GPT-6 Astra，给标准模型找到一种格点定义的候选方案 OpenAI 访问科学家 Nathanie…](<https://x.com/Bing_Bryan_BRN/status/2122154039286927731>)  
+  OpenAI 用 GPT-6 Astra，给标准模型找到一种格点定义的候选方案 OpenAI 访问科学家 Nathaniel Craig（加州大学圣塔芭芭拉分校）与 GPT-6 Astra 合作，为标准模型给出一个候选的非微扰格点定义，预印本已在 10 月放出，这是科学博客的首篇客座文章。标准模型…  
+  @Bing\_Bryan\_BRN · 2026-11-16 10:25
 
-- [Chegg is the best example of a business dying because of AI in public view.](<https://x.com/tanayj/status/2122060568677020075>)  
-  Quarterly revenue over time: • Q1 '25: $121.4M • Q2 '25: $105.1M • Q3 '25: $77.7M • Q4 '25: $72.7M • Q1 '26: $63.3M • Q2 '26: $51.8M • Q3 '26: $46.5M • Q4 '26: $39M \(guidance\)  
-  @tanayj · 2026-11-16 04:14
+- [🚨 BREAKING: Jensen Huang is considering a return as Nvidia CEO, FT reports @grok Is this true?](<https://x.com/concall_/status/2122154033507090813>)  
+  @concall\_ · 2026-11-16 10:25
 
-- [BREAKING: Silicon Valley execs are reportedly assembling a “war room” to push for Jensen Huang’s return as Nvidia C…](<https://x.com/Polymarket/status/2122060480743100824>)  
-  BREAKING: Silicon Valley execs are reportedly assembling a “war room” to push for Jensen Huang’s return as Nvidia CEO.  
-  @Polymarket · 2026-11-16 04:13
+- [黄仁勋有可能重掌英伟达——各方势力正桌子下面在角逐 目前是英伟达的很多合作伙伴正在给英伟达董事会施压， 同时黄仁勋的辞职…](<https://x.com/KyxBtc/status/2122154027974545915>)  
+  结果暂未可知 你觉得他能回去吗？ 还是说一开始就是套路  
+  @KyxBtc · 2026-11-16 10:25
 
-- [Jensen Huang on his first day back as CEO of NVIDIA 🤣☠️ He's coming back\!](<https://x.com/JayTC53/status/2122060432731242767>)  
-  @JayTC53 · 2026-11-16 04:13
+- [Yes, a reasoning model can choose the next action while a faster controller handles motion and grip corrections.](<https://x.com/thesimaximalist/status/2122153842632536431>)  
+  That lets the arm respond to a slipping object without waiting for another full reasoning step.  
+  @thesimaximalist · 2026-11-16 10:24
 
-- [🚨BREAKING: Jensen Huang is reportedly considering a return as Nvidia CEO as tech executives pressure the board to r…](<https://x.com/Milajoy/status/2122059327288824141>)  
-  This comes while an independent board investigation is still underway. $NVDA reports earnings Tuesday. Buckle up.  
-  @Milajoy · 2026-11-16 04:09
+- [“5分钟打18颗螺丝，冠军！”今年8月在北京举行的第二届世界人形机器人运动会上，夺冠的“选手”并非真人，而是一双“灵巧手”。](<https://x.com/huaxiadadi5000/status/2122153809069949183>)  
+  “灵巧手”核心零部件100%国产化，精度达到0.1毫米级，使用寿命突破100万次，背后是中国完备制造业配套带动的未来产业的优势。中国要成为全球人工智能治理的引领者。  
+  @huaxiadadi5000 · 2026-11-16 10:24
 
-- [🚨BREAKING NVIDIA: Rumors are circulating about Jensen Huang discussing his return as Nvidia $NVDA CEO with allies t…](<https://x.com/gomarketbeater/status/2122059311526367597>)  
-  Hey @Grok — Confirm this information for us and provide more details about it.  
-  @gomarketbeater · 2026-11-16 04:09
+- [🚨🔥 𝗤𝗪𝗘𝗡𝟰-𝗠𝗔𝗫 𝗜𝗦 𝗢𝗨𝗧 𝗢𝗙 𝗣𝗥𝗘𝗩𝗜𝗘𝗪 𝗡𝗢𝗪 𝗔𝗡𝗗 𝗜𝗧'𝗦 𝗚𝗢𝗜𝗡𝗚 𝗧𝗢𝗘-𝗧𝗢-𝗧𝗢𝗘 𝗪𝗜𝗧𝗛 𝗧𝗛𝗘 𝗙𝗥𝗢𝗡𝗧𝗜𝗘𝗥 𝗚𝗜𝗔𝗡𝗧𝗦\! 🤯🚀 The API no longer shows t…](<https://x.com/ViC305/status/2122153759417737455>)  
+  Now, it's not a clean sweep. Terminal-Bench 4.0 and ProgramBench still show meaningful gaps against the competition. But seeing Qwen competing this closely with the biggest frontier models across coding, research, professional agents and automation is exciting…  
+  @ViC305 · 2026-11-16 10:24
 
-- [how Jensen pulling up to Nvidia office on Monday:](<https://x.com/TrungTPhan/status/2122058791202291949>)  
-  @TrungTPhan · 2026-11-16 04:06
+- [Qwen just released Qwen4-Max, and the manufacturing examples caught my attention.](<https://x.com/RyanYanBuilds/status/2122153675338781049>)  
+  One demo starts with a 2D layout and process requirements. The model uses an existing equipment library to build a 3D production line, then helps simulate cycle times and virtually test PLC controls. Another looks at machining: turning a part design into a pro…  
+  @RyanYanBuilds · 2026-11-16 10:23
 
-- [Nvidia board underestimated the challenge of managing global semiconductor supply chain.](<https://x.com/TrungTPhan/status/2122057985249902901>)  
-  There are 1.3m subcomponents in a Vera Rubin rack. Prob 1,000 high-tech vendors and 85% of are in East Asia \(South Korea, Taiwan, China, Japan\). Many of those deals have no contract and  
-  @TrungTPhan · 2026-11-16 04:03
+- [Why would an AI agent need its own identity on a blockchain?](<https://x.com/VyLun21/status/2122153288821023107>)  
+  Let's understand this with a simple example. 🌱 Imagine you want to hire an AI agent to review a smart contract. You find an agent called audit.agent. Before hiring it, you want to know: What services does it offer? Has it completed similar jobs? What happened …  
+  @VyLun21 · 2026-11-16 10:22
 
-- [The CIA DID IT AGAIN\!🚨🚨🚨 See the truth about Nvidia and Secretary Lutnick on this video](<https://x.com/MelissaRedpill/status/2122057613147852983>)  
-  @MelissaRedpill · 2026-11-16 04:02
+- [the local llm evaluation part is what eats the time, same wall here](<https://x.com/RKNair38206860/status/2122153259393794068>)  
+  @RKNair38206860 · 2026-11-16 10:22
 
-- [Microsoft says Helix will be a console capable of playing PC games, not simply a PC that runs Xbox games.](<https://x.com/Pirat_Nation/status/2122057051379532152>)  
-  Here’s what we know so far: -A unified library combining Xbox and PC games. -Support for four generations of Xbox games and existing progression. -More advanced performance  
-  @Pirat\_Nation · 2026-11-16 04:00
+- [🧪 AI for Science 本周5家拿钱，“AI+自动化实验”成新热点 · 无界进化（晶泰孵化，虚拟细胞）：超1亿元…](<https://x.com/INTJYAN/status/2122153241932620253>)  
+  🧪 AI for Science 本周5家拿钱，“AI+自动化实验”成新热点 · 无界进化（晶泰孵化，虚拟细胞）：超1亿元 Pre-A，红杉中国、顺为追加 · 青葵智造（自驱动化学实验室）：约1亿元 A轮 · Biomatter（立陶宛，AI设计酶）：€1620万 A轮 · Hiverge（英国，…  
+  @INTJYAN · 2026-11-16 10:22
 
-- [🚨🇺🇸 Jensen Huang is reportedly planning a COMEBACK as Nvidia CEO, just DAYS after resigning...](<https://x.com/MarioNawfal/status/2122055787136610505>)  
-  Huang has been discussing a possible return with his allies, who are assembling a Silicon Valley “war room” to pressure Nvidia's board... They may even be seeking White House  
-  @MarioNawfal · 2026-11-16 03:55
+- ["50% fewer tokens per task" matters way more than cutting $/M sticker price.](<https://x.com/AzureWind_AI/status/2122153225805815921>)  
+  Most coding agents don't blow your budget because tokens are expensive—they blow it looping 6 times on the same broken import. Curious if Qwen4-Max actually holds up on messy multi-file edits, or if those smaller open weights teased at the end are the real sto…  
+  @AzureWind\_AI · 2026-11-16 10:22
 
-- [What you have experienced over the past few days with Microsoft outages, flight control failures, payroll systems f…](<https://x.com/HealthRanger/status/2122055643766944242>)  
-  We are fast approaching the end of the era of aggressive expansion of  
-  @HealthRanger · 2026-11-16 03:54
+- [When you are building a complete ecosystem of laboratory experiments to result interpretations, building disease sp…](<https://x.com/BioMedsAI/status/2122153138371305503>)  
+  When you are building a complete ecosystem of laboratory experiments to result interpretations, building disease specific world biggest biobank to virtual cells, therapeutic target discovery to drug discovery by centering state of the art AI Scientist Padma an…  
+  @BioMedsAI · 2026-11-16 10:21
 
-- [BREAKING: NVDA erects massive green candle amid reports that Jensen Huang is discussing a comeback as CEO.](<https://x.com/Poly_Perps/status/2122055583364796574>)  
-  @Poly\_Perps · 2026-11-16 03:54
+- [Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14](<https://x.com/arena/status/2122153116959482051>)  
+  Arena 榜单显示 Qwen4-Max 以 +7.5% 净提升在 Agent Arena 总排名第14，成为第一中国模型，使 Alibaba 成为排名第一的中国实验室、总榜第5，仅次于 Anthropic、Google、OpenAI 和 Meta。  
+  X：Arena \(@arena\) · 2026-11-16 10:21
 
-- [\[红包\]AI4S+医药行业动态（11.8-11.14） \[玫瑰\]11月9日，Anthropic 发布 Claude Fab…](<https://x.com/BoosKrabs/status/2122055073039851708>)  
-  \[红包\]AI4S+医药行业动态（11.8-11.14） \[玫瑰\]11月9日，Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2，并公开一份264页的 System Card。生命科学相关内容覆盖 RNA 序列设计、基因治疗载体研究、蛋白质设计，以及多…  
-  @BoosKrabs · 2026-11-16 03:52
+- [Qwen4-Max just dropped beats Claude Opus 5.5, GPT-6 Astra some bench. - 50% fewer tokens. - 60%+ lower cost per tas…](<https://x.com/0x0SojalSec/status/2122153040149176446>)  
+  And it actually handles real work 3D modeling, manufacturing, finance, law, healthcare, and scientific discovery. API is live. 27B Open weights coming.  
+  @0x0SojalSec · 2026-11-16 10:21
 
-- [Jensen Huang is now considering returning to Nvidia as their CEO. via the Financial Times](<https://x.com/pubity/status/2122053486548312253>)  
-  @pubity · 2026-11-16 03:45
+- [OpenTelemetry Collector for the win\!](<https://x.com/sudomateo/status/2122153026253418977>)  
+  I wanted to love but Datadog bought them and I don't trust Datadog at all.  
+  @sudomateo · 2026-11-16 10:21
 
-- [Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports](<https://x.com/Reuters/status/2122053291668300059>)  
-  @Reuters · 2026-11-16 03:45
+- [Building an AI Scientist is Hard, building Padma \(AI scientist\) and her team of Scientist for Biomedical researh an…](<https://x.com/BioMedsAI/status/2122152985132511654>)  
+  Building an AI Scientist is Hard, building Padma \(AI scientist\) and her team of Scientist for Biomedical researh and discovery is harder\! \(Try free \) /1 @NVIDIAHealth @AWSstartups @GoogleStartups @stripe  
+  @BioMedsAI · 2026-11-16 10:21
 
-- [Hay rumores de que el jensen huang esta hablando para volver a ser el CEO de Nvidia Llega pasar y ahi si que se los…](<https://x.com/therealbuni/status/2122053097744748955>)  
-  Hay rumores de que el jensen huang esta hablando para volver a ser el CEO de Nvidia Llega pasar y ahi si que se los gacha a todos el chino kjj  
-  @therealbuni · 2026-11-16 03:44
+- [Qwen4-Max just dropped and the part I care about is the price $1.50 in, $4.50 out per million tokens. 1M context.](<https://x.com/iamlukethedev/status/2122152940010152038>)  
+  Native vision. Qwen says average cost per task drops over 60% vs Qwen3.8-Max in their own evals. If you run Hermes all day, that is the number that matters. Long agent loops eat tokens, and implicit caching at $0.075/M is where the real savings show up. Max is…  
+  @iamlukethedev · 2026-11-16 10:21
 
-- [JUST IN 🚨 Jensen Huang is in discussions to come back as CEO of NVIDIA.](<https://x.com/JayTC53/status/2122052768345317454>)  
-  If he does, it would be the biggest F-YOU to China and the Democrats. Take back what is yours @JensenHuang  
-  @JayTC53 · 2026-11-16 03:43
+- [The API is live on QwenCloud, and the model is also in Qwen Studio, QwenWork and Qoder.](<https://x.com/thePandaily/status/2122152859701846333>)  
+  Alibaba says open weights for smaller Qwen4 models will follow.  
+  @thePandaily · 2026-11-16 10:20
 
-- [Former Nvidia CEO Jensen Huang is considering returning as CEO amid pressure from tech executives pushing for his r…](<https://x.com/moneyacademyKE/status/2122052334276727187>)  
-  An ally is reportedly assembling a group of executives to lobby Nvidia’s board for his return.  
-  @moneyacademyKE · 2026-11-16 03:41
+- [Chinese robot maker UBTech is testing a hybrid Astra + VLA approach. “UBTech, meanwhile, tested two approaches: usi…](<https://x.com/kyleichan/status/2122152856740352184>)  
+  The Paper previously learned that UBTech conducted six rounds of real-world and simulated testing with GPT-6 Astra. These included real-world tasks involving grasping a Rubik’s Cube, picking up a lucky bag, and autonomously navigating around obstacles, as well…  
+  @kyleichan · 2026-11-16 10:20
 
-- [Jensen Huang is reportedly considering a comeback as Nvidia’s CEO - FT](<https://x.com/SawyerMerritt/status/2122051747677909144>)  
-  @SawyerMerritt · 2026-11-16 03:38
+- [Something I find interesting about @meetmotes is that every agent gets its own dedicated smart account.](<https://x.com/Emyfee_niks_/status/2122152720580727139>)  
+  With 20,000 NFTs in the collection, this means each Mote has an individual agent identity rather than relying on one shared account. Owners can fund their agent accounts with USDC and set the permissions that guide their activities. I think this individual set…  
+  @Emyfee\_niks\_ · 2026-11-16 10:20
 
-- [看哭了😭 2025年1月，黄仁勋和张忠谋吃完饭，没回酒店 而是直奔台北通化夜市的一个水果摊 他走到老板娘面前，说的第一句话…](<https://x.com/Joeynqsc/status/2122051727385899468>)  
-  看哭了😭 2025年1月，黄仁勋和张忠谋吃完饭，没回酒店 而是直奔台北通化夜市的一个水果摊 他走到老板娘面前，说的第一句话是： "我回来找你了。" 然后买了好几千块的水果 在红包袋上亲手签名，给阿姨包了过年红包 把水果一份份分给旁边的小朋友 最后对着围观的人群喊： "大家来买她的水果！"  
-  @Joeynqsc · 2026-11-16 03:38
+- [一个从来没听过真人声音的 AI，学会了说话。](<https://x.com/dayear/status/2122152671042032023>)  
+  有人从零训了一个只有 4.5M 参数的语音模型，叫 tiny-voca。它没听过一句真人录音，训练数据全是另一个 AI 合成的语音。 结果挺离谱：普通 CPU 就能跑，4 线程下推理速度是实时语音的 70 倍，整个项目的 GPU 成本 9.56 美元。 我盯着“9.56 美元”看了半天。以前做一个…  
+  @dayear · 2026-11-16 10:19
 
-- [Under the @nvidia bylaws, shareholders who hold at least 15% of the voting power can call a special meeting, and th…](<https://x.com/uTobian/status/2122051505675252003>)  
-  If the meeting is called, @JensenHuang will win the vote in a landslide.  
-  @uTobian · 2026-11-16 03:37
+- [算法天才、软件天才们最大的敌人，不是竞争对手。](<https://x.com/Mooooon1949/status/2122152533745442891>)  
+  是牛顿。 你可以用模型说服投资人。 可以用PPT说服媒体。 甚至可以用视频惊艳全网。 但你无法说服重力加速度改变方向。 无法让能量守恒失效。 无法让材料疲劳凭空消失。 最后能决定一家硬科技公司命运的，往往不是发布会上的掌声。 而是实验室里的物理定律。 \#AI \#具身智能  
+  @Mooooon1949 · 2026-11-16 10:19
 
-- [BREAKING: Silicon Valley executives are reportedly assembling a "war room" to push for Jensen Huang's return as Nvi…](<https://x.com/Kalshi/status/2122051257280106950>)  
-  BREAKING: Silicon Valley executives are reportedly assembling a "war room" to push for Jensen Huang's return as Nvidia CEO  
-  @Kalshi · 2026-11-16 03:37
+- [减少压缩频率确实关键，但窗口翻倍带来的推理成本压力根本没算进去。如果为了维持长记忆而导致单次请求的延迟大幅增加，那在实时交…](<https://x.com/orskyai/status/2122152485708005516>)  
+  📉  
+  @orskyai · 2026-11-16 10:19
 
-- [🚨 THIS IS NOT A DRILL 🚨 JENSEN HUANG IS DISCUSSING A RETURN AS NVIDIA $NVDA CEO...](<https://x.com/TrendSpider/status/2122050805272347120>)  
-  @TrendSpider · 2026-11-16 03:35
+- [One of the most-starred AI inference engines on GitHub is 100% free.](<https://x.com/Pro_Algorithm/status/2122152473091592620>)  
+  And it's open source. SGLang is a high-performance serving framework for LLMs and multimodal models, and it's sitting at nearly 39,000 stars on GitHub. What it does: - Fast inference for language, vision-language and diffusion models - Optimized for agentic wo…  
+  @Pro\_Algorithm · 2026-11-16 10:19
 
-- [BREAKING: Jensen Huang considering comeback as Nvidia's CEO, days after resigning, with Silicon Valley allies assem…](<https://x.com/HormuzLetter/status/2122050647688466669>)  
-  The main reason for the reinstatement discussion is US intelligence concluding it is not  
-  @HormuzLetter · 2026-11-16 03:34
+- [Alibaba released Qwen4-Max today.](<https://x.com/AIQuanting/status/2122152180358799570>)  
+  It is the first model on the new Qwen4 architecture, and the API is live on QwenCloud. It is a mixture-of-experts model with 2.4 trillion backbone parameters and 71 billion active per token. It also has 328 billion n-gram embedding parameters, native vision an…  
+  @AIQuanting · 2026-11-16 10:18
 
-- [If Jensen Huang returns to Nvidia as CEO before the end of the year, corporate America will have changed forever.](<https://x.com/APompliano/status/2122050488313000042>)  
-  Sam Altman pulled off his return in a few days. If Jensen does the same, companies will essentially become founder-driven organizations that will make it nearly  
-  @APompliano · 2026-11-16 03:33
+- [令和8年11月13日未明から発生したMicrosoft365の大規模障害については、11月14日にMicrosoft社から…](<https://x.com/NDMA_bousai/status/2122152112117395629>)  
+  令和8年11月13日未明から発生したMicrosoft365の大規模障害については、11月14日にMicrosoft社から復旧が宣言されました。  
+  @NDMA\_bousai · 2026-11-16 10:17
 
-- [BREAKING: Jensen Huang reportedly discussing a return as Nvidia CEO with allies just days after the board pushed hi…](<https://x.com/Polymarket/status/2122050442670555610>)  
-  BREAKING: Jensen Huang reportedly discussing a return as Nvidia CEO with allies just days after the board pushed him out.  
-  @Polymarket · 2026-11-16 03:33
+- [Your agent is not supposed to read your keys and passwords into its context \(that it sends to the cloud\), unless yo…](<https://x.com/semenov_roman_/status/2122151927047958948>)  
+  It's alarming how many people are comfortable with Anthropic knowing all their ssh keys and passwords.  
+  @semenov\_roman\_ · 2026-11-16 10:17
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 32 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 33 页

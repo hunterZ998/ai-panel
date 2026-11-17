@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [Can AI Learn to Improve Itself? \| Recursive Self-Improvement](<https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ>)  
+  For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers…  
+  The a16z Show · 2026-11-18 01:44
+
 - [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
   What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
   Latent Space · 2026-11-17 05:27
@@ -177,9 +181,5 @@
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
   怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
   硅谷101 · 2026-10-29 07:00
-
-- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
-  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
-  Latent Space · 2026-10-29 04:00
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

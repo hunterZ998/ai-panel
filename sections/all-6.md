@@ -1,181 +1,176 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 14 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 16 页
 
-- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
-  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
-  IT之家·人工智能 · 2026-11-16 14:54
+- [科技界人士质疑黄仁勋辞职背后存在针对其的谋划](<https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories>)  
+  The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。  
+  The Verge：AI（RSS） · 2026-11-17 07:17
 
-- [火山引擎开放 Seedance 2.5 4K API](<https://mp.weixin.qq.com/s/c6pWJXD6YXf8lcwLdNu5zA>)  
-  火山引擎宣布 Seedance 2.5 4K API 全面开放，可通过文末链接获取 API 入口。Seedance 官方优质作品及公开提示词可在火山方舟 Gallery 查看，网址 https://ark.volcengine.com/ark/gallery。  
-  公众号：火山引擎 · 2026-11-16 14:03
+- [Anthropic Faces a Longer Wait Than SpaceX to Join Indexes](<https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes>)  
+  Bloomberg · 2026-11-17 07:06
 
-- [More ways to move care forward with ChatGPT for Healthcare](<https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare>)  
-  Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare so…  
-  OpenAI · 2026-11-16 14:00
+- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
+  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
+  NVIDIA Blog（RSS） · 2026-11-17 07:00
 
-- [Advancing computer-use agents for healthcare teams](<https://openai.com/index/advancing-computer-use-for-healthcare-teams>)  
-  OpenAI · 2026-11-16 14:00
+- [获 Eric Trump 背书的人形机器人公司 Foundation Future Industries 发薪失败或濒临倒闭](<https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/>)  
+  据 CNBC 报道，获 Eric Trump 投资并担任首席战略顾问的人形机器人公司 Foundation Future Industries 未能支付截至 10 月 30 日的工资周期薪酬，内部人士担心若无法继续融资公司可能很快倒闭。报道还梳理了该公司的资金缺口、发薪失败以及对外宣传与实际进展不符等疑点。  
+  Ars Technica：AI（RSS） · 2026-11-17 06:58
 
-- [腾讯混元发布 Hy4 flash：224B 总参、12B 激活，单任务成本约 Hy4 的 5%](<https://www.ithome.com/1/027/630.htm>)  
-  腾讯混元团队宣布正式推出 Hy4 flash，总参数量 224B（含 64B Engram 参数），每 token 激活 12B，支持多模态输入与 100 万 token 上下文，官方定位为性价比最高的 Hy 模型。  
-  IT之家·人工智能 · 2026-11-16 13:09
+- [美国许可改革法案 BAAJA 引发气候与数据中心争议](<https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet>)  
+  普渡大学工程学副教授 Kevin Kircher 的分析发现，美国许可改革法案 BAAJA 总体上会增加排放，因为主要服务于数据中心供电的化石天然气电厂和管道需求将超过清洁能源增长。反对者警告，该法案对《联邦电力法》《清洁水法》《濒危物种法案》和《国家环境政策法》的修改，可能让不良行为者强行推进损害公共利益的基础设施项目。  
+  Canary Media：Data Centers 原创报道 · 2026-11-17 06:30
 
-- [腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的高性价比日常模型](<https://mp.weixin.qq.com/s/5yBbf-ctYziM5r0i6Y17lA>)  
-  腾讯混元正式推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格相比 Hy4 大幅降低。  
-  公众号：腾讯混元 · 2026-11-16 13:06
+- [OpenAI Signs Agreements to Embed AI Evaluators](<https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators>)  
+  The Information · 2026-11-17 06:13
 
-- [作者逆向分析 Windows 11 MissionControlAggregator，发现系统收集编码智能体使用数据并上传](<https://xusheng.dev/posts/windows-coding-agent-telemetry/>)  
-  作者逆向 Windows 11 的 MissionControlAggregator.dll，发现其内置 copilot.exe、claude.exe、codex.exe、cursor.exe 等编码智能体与开发工具名单，通过 ETW 事件记录使用位图并生成 Segments.SubCohorts 报告。  
-  Hacker News：AI 热帖 · 2026-11-16 13:00
+- [All the questions Nvidia should answer on Tuesday — but probably won’t](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
+  Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when  
+  TechCrunch · 2026-11-17 06:03
 
-- [无界进化完成超亿元 Pre-A 轮融资，称刷新中国虚拟细胞企业单笔融资纪录](<https://www.ithome.com/1/027/609.htm>)  
-  无界进化（INFevo）11 月 16 日宣布完成超亿元 Pre-A 轮融资，由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等联合投资，老股东顺为资本、红杉中国和松禾资本追加，距 6 月天使轮仅五个月。  
-  IT之家·人工智能 · 2026-11-16 12:42
+- [Bill Gates Backs Push to Advance Alzheimer’s Research With AI](<https://www.theinformation.com/briefings/bill-gates-backs-push-advance-alzheimers-research-ai>)  
+  The Information · 2026-11-17 05:27
 
-- [阿里巴巴发布 Qwen4-Max：总参数 2.4T，支持百万上下文](<https://mp.weixin.qq.com/s/Osjnqqa62HLFl3JoseUt8A>)  
-  阿里巴巴于 11 月 16 日发布新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。官方称其基于新架构和训练优化，在智能体和编程等关键能力上持续进化，可在金融、法律等专业领域从信息检索走向专业交付。上线期间千问APP会员可限免体验，使用 Qwen4-Max 不消耗会员额度，活动时间以产品端页面为准。  
-  公众号：千问APP（阿里） · 2026-11-16 12:30
+- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
+  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
+  Latent Space · 2026-11-17 05:27
 
-- [腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型](<https://hunyuan.tencent.com/research/100145?langVersion=zh>)  
-  腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。  
-  腾讯混元：Research（API） · 2026-11-16 12:29
+- [加州正式起诉OpenAI，指控其模型测试疏于管控](<https://www.163.com/dy/article/LBTN90ML05198NMR.html>)  
+  网易科技频道 · 网易号 · 2026-11-17 05:13
 
-- [豆包工作上线「工作台」功能，首批覆盖金融、医疗、教育等 21 个专业场景](<https://www.ithome.com/1/027/608.htm>)  
-  豆包工作宣布独家上线「工作台」功能，为专业工作场景提供预配置技能和工具的 AI 工作空间，首批覆盖金融、医疗、教育等 21 个场景。金融投研工作台提供公告解读、业绩分析等任务入口，可通过插件链接万得、同花顺、国泰海通等数据服务；用户还可自建并分享个人专属工作台。  
-  IT之家·人工智能 · 2026-11-16 12:27
+- [加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face](<https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>)  
+  加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。  
+  The Verge：AI（RSS） · 2026-11-17 04:46
 
-- [中国与东盟宣布将 2027 年定为人工智能合作年](<https://www.ithome.com/1/027/607.htm>)  
-  中国与东盟宣布将 2027 年定为人工智能合作年，中国－东盟自贸区 3.0 版升级议定书将于 2026 年 12 月 1 日生效。  
-  IT之家·人工智能 · 2026-11-16 12:17
+- [Sam Altman 在 Semafor 峰会回应 RAM 言论争议，称希望人人都能买大内存](<https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor>)  
+  OpenAI CEO Sam Altman 在 Semafor 的 Silicon Valley &amp; The World summit 上澄清上月关于 PC RAM 的争议言论，称希望大家都能为自己的电脑购买大量 RAM，也认可在家折腾和使用。  
+  The Verge：AI（RSS） · 2026-11-17 04:41
 
-- [国家统计局：人工智能快速发展带动电子、电气机械等行业需求回升、价格上涨](<https://www.ithome.com/1/027/602.htm>)  
-  国家统计局新闻发言人王冠华在国新办发布会上表示，人工智能快速发展带动部分装备行业价格上行。10 月份电气机械和器材制造业、计算机通信和其他电子设备制造业价格环比均上涨 0.1%，同比分别上涨 6.2% 和 5.9%，两行业合计影响 PPI 同比上涨约 1.18 个百分点。  
-  IT之家·人工智能 · 2026-11-16 11:59
+- [Constellation Energy 称民主党中期选举胜选不会阻碍数据中心发展](<https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats>)  
+  Constellation Energy CEO Joe Dominguez 在第三季度财报电话会上表示，市场对民主党赢得中期选举后限制数据中心的担忧是过度反应。  
+  The Verge：AI（RSS） · 2026-11-17 04:29
 
-- [Trump Administration to Name Nvidia Among AI ‘National Champions’](<https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-16 11:59
+- [哈佛研究：美国 403 座超大规模数据中心年耗电约 82 太瓦时，碳排放堪比丹麦](<https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard>)  
+  发表于 Nature Sustainability 的新研究用卫星影像识别美国 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间消耗约 82 太瓦时电力，约占全美用电的 1.8%，超过约 148 个国家的年用电量；其中约 54% 来自天然气和煤电，产生 2570 万吨 CO2，相当于丹麦的年碳足迹。  
+  The Verge：AI（RSS） · 2026-11-17 04:27
 
-- [Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered](<https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-16 10:21
+- [California AG Accuses OpenAI of Misleading and Endangering the Public](<https://www.wsj.com/tech/ai/california-ag-accuses-openai-of-misleading-and-endangering-the-public-8e5c60d0?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-17 04:19
 
-- [阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60%](<https://www.ithome.com/1/027/512.htm>)  
-  阿里通义千问团队发布新一代旗舰模型 Qwen4-Max，采用 2.4 万亿参数稀疏 MoE 架构，原生支持视觉理解，提供 100 万 token 上下文窗口。  
-  IT之家·人工智能 · 2026-11-16 10:07
+- [California state AG sues OpenAI over rogue agent incidents](<https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/>)  
+  The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent inci  
+  TechCrunch · 2026-11-17 04:07
 
-- [腾讯公布总办 LinkTime 播客原文，号召所有业务面向 AI 时代再创业](<https://www.ithome.com/1/027/509.htm>)  
-  腾讯在 28 周年生日当天将年度总办 LinkTime 做成播客，并公布现场笔记原文，回应外界猜测。内容提出智能革命是不进则退的生死问题，所有核心业务要面向 AI 时代再创业、组织扁平化、打破山头主义；称 AI 金字塔核心模型已进入国内第一梯队，WorkBuddy 在 8 个月内成为中国提供最多 token 的单一 AI 产品，元宝定位决策资讯参谋，小微目标是让大家实现 token 自由。  
-  IT之家·人工智能 · 2026-11-16 10:03
+- [What’s Your AI-Literacy IQ?](<https://www.wsj.com/tech/ai/ai-literacy-iq-test-3f13c95e?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-17 04:00
 
-- [Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力](<https://qwen.ai/blog?id=qwen4-max>)  
-  Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。  
-  Qwen：Blog Retrieval（API） · 2026-11-16 10:00
+- [Ballet](<https://www.producthunt.com/products/ballet>)  
+  Deterministic AI workflow automation for Ops teams  
+  Product Hunt · English · 2026-11-17 03:55
 
-- [Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题](<https://www.ithome.com/1/027/505.htm>)  
-  Anthropic CEO 达里奥·阿莫迪上周五在纽约与摩根大通 CEO 杰米·戴蒙公开对谈，称算力是公司面临的最深层商业难题，并表示上市的重要原因就是增加现金储备，为高度不确定的算力需求提供缓冲。  
-  IT之家·人工智能 · 2026-11-16 09:52
+- [Google 威胁情报组警告全自动 AI 网络攻击已经出现并将快速恶化](<https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/>)  
+  Google 威胁情报组（GTIG）通过 AI Threat Tracker 首次观察到攻击者完全自动化漏洞发现与利用，无人工介入。其暴露的服务器运行名为 exploit\_agent 的 AI 框架，连接多个大语言模型，通过比对补丁前后代码识别漏洞、开发并自动运行利用程序，配置文件中的俄语注释暗示操作者讲俄语，数据指向法国媒体、娱乐和教育网站。  
+  The Decoder：AI News（RSS） · 2026-11-17 03:42
 
-- [借鉴 Claude 常驻智能体指南的省 token 提示词技巧](<https://mp.weixin.qq.com/s/Zt7GxF84UxSHMEJmn6qRzQ>)  
-  作者把 Anthropic 常驻智能体指南的五组件（事件收件箱、定时器、记忆、权限、发件箱）翻译成一段提示词写入自己的 Grok bot，解决定时任务空转浪费额度的问题。  
-  公众号：卡尔的AI沃茨 · 2026-11-16 09:36
+- [California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents](<https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents>)  
+  The Information · 2026-11-17 03:25
 
-- [Apple launches new app to study how people use AI for health](<https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>)  
-  Apple's new app for a study will answer everyday medical questions.  
-  TechCrunch · 2026-11-16 09:30
+- [Apple 在 iOS 27.3 等测试版中测试 Siri AI 和 Apple Intelligence 每日使用上限](<https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription>)  
+  Apple 发布 iOS 27.3、iPadOS 27.3 和 macOS 27.3 测试版，据 MacRumors 报道正在测试部分 Siri AI 和 Apple Intelligence 功能的每设备每日使用上限。  
+  The Verge：AI（RSS） · 2026-11-17 03:24
 
-- [Apple 联合 OpenEvidence 启动 Health AI Usage Study，招募至多 20 万人评估健康 AI 工具](<https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools>)  
-  Apple 宣布与临床 AI 平台 OpenEvidence 合作开展 Apple Health AI Usage Study，旨在了解人们如何使用对话式健康 AI 工具并评估回答的准确性、细节和相关性。  
-  The Verge：AI（RSS） · 2026-11-16 09:26
+- [OpenAI 推出 CSAM 分类器，帮儿童虐待举报热线过滤 AI 深度伪造内容](<https://www.theverge.com/policy/1034527/openai-csam-classifier>)  
+  OpenAI 发布一款可识别儿童性虐待材料（CSAM）的分类器，并能标记内容是否由 AI 生成，称其误报减少 48%，识别出的图像含虐待材料的概率翻倍。该工具免费向通过审核的机构开放，是首个带 AI 生成标记的广泛可用 CSAM 分类器。ChatGPT 图像生成器对试图生成此类内容的用户将触发 24 小时访问暂停并提示可能永久封号。  
+  The Verge：AI（RSS） · 2026-11-17 03:23
 
-- [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
-  Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
-  IT之家·人工智能 · 2026-11-16 09:01
+- [GPT-6 Astra 助力解决格点上的粒子物理标准模型难题](<https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/>)  
+  OpenAI 的 GPT-6 Astra 帮助产出一份证明，有望解决粒子物理标准模型格点化中存在 50 年的难题，论文作者为 UC Santa Barbara 物理学家 Nathaniel Craig，预印本和 OpenAI 博客均已发布。  
+  The Decoder：AI News（RSS） · 2026-11-17 03:19
 
-- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
-  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
-  Hugging Face 官方团队博客 · 2026-11-16 08:00
+- [Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security](<https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/>)  
+  Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese s  
+  TechCrunch · 2026-11-17 03:12
 
-- [Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent](<https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces>)  
-  Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。  
-  Conductor 官方更新 · 2026-11-16 08:00
+- [PwC on where AI can help drive revenue](<https://www.theinformation.com/articles/pwc-ai-can-help-drive-revenue>)  
+  The Information · 2026-11-17 03:10
 
-- [The King’s Trust and OpenAI launch £1m partnership](<https://openai.com/index/the-kings-trust-and-openai>)  
-  The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical…  
-  OpenAI · 2026-11-16 08:00
+- [美国拟收紧规则，限制中国远程租用数据中心AI芯片](<https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/>)  
+  美国商务部宣布修改出口管制规则，要求总部位于被评估为存在较高转运风险国家的企业，在向中国、俄罗斯和伊朗等转移大量高端芯片时申请许可并接受严格的客户尽职调查，同时提交月度交易报告。新规在联邦公报发布90天后生效，并为仅用于商业推荐系统的算力提供豁免。有分析认为，该政策可能加速中国企业转向国产AI芯片。  
+  Ars Technica：AI（RSS） · 2026-11-17 03:10
 
-- [At Holiday Extras, dots get to work before anyone asks](<https://openai.com/business/customer-stories/holiday-extras-dots>)  
-  Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the comm…  
-  OpenAI · 2026-11-16 08:00
+- [Moonshot AI 将 Kimi 模型从编码转向生物与化学等科研领域](<https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/>)  
+  Moonshot AI 国际总监 Giacomo Ficari 在里斯本 Web Summit 表示，因编码领域收益递减，公司将把 Kimi 模型转向生物、化学和制药研究。  
+  The Decoder：AI News（RSS） · 2026-11-17 02:52
 
-- [AI 笔记应用 Mem 宣布 2027 年 1 月 15 日关闭](<https://get.mem.ai/blog/mem-is-shutting-down>)  
-  AI 笔记应用 Mem 官方宣布将于 2027 年 1 月 15 日关闭。2026 年 12 月 18 日起笔记转为只读，可继续阅读和导出，付费已暂停且不再扣费。官方提供了迁移指南，支持把笔记导出到 Apple Notes、Notion、Google Docs、Obsidian、OneNote 等应用，并提醒注意附件、Collections 和会议转录等内容的核对。  
-  Hacker News：AI 热帖 · 2026-11-16 08:00
+- [Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs](<https://www.theinformation.com/briefings/microsoft-debut-products-aimed-reducing-customers-ai-costs>)  
+  The Information · 2026-11-17 02:38
 
-- [Together AI 复盘 megakernels 经历并介绍 Together Compiler 的构建之路](<https://www.together.ai/blog/road-to-together-compiler>)  
-  Together AI 介绍其推理优化框架 Together Compiler 的构建历程。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+- [LangChain：从任务到目标，智能体设计需要哪些转变](<https://www.langchain.com/blog/from-tasks-to-goals>)  
+  LangChain 发文提出智能体正从执行单个任务转向追求持续目标，核心是从指定动作转向指定结果、从有限任务转向长期职责。文章给出六个实践要点：让智能体自己拆解任务、预留工具调用控制权、建立后台提问渠道、设计便于反馈的进度评估机制、配置心跳或 cron 等触发与停止规则，并用记忆让反馈跨轮次累积。  
+  LangChain：Blog（RSS） · 2026-11-17 02:28
 
-- [Anthropic 占 94% SOTA token 份额、OpenAI 靠 Luna 降价拿下低端市场](<https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai/>)  
-  Tomasz Tunguz 基于 Databricks AI Index 上万家企业数据撰文分析：Anthropic 占据 94.1% 的 SOTA 级 token 份额，OpenAI 则占低端 81%。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-16 08:00
+- [infaiw](<https://www.producthunt.com/products/infaiw>)  
+  Delegate work to sidecar agents that pass an approval script  
+  Product Hunt · English · 2026-11-17 02:23
 
-- [Together AI 与 Ollama 讲解如何让开源模型支撑长程智能体工作负载](<https://www.together.ai/blog/making-open-models-work-for-long-horizon-agentic-workloads>)  
-  Together AI 与 Ollama 联合发文，讲解如何让开源模型高效支撑长程智能体工作负载，核心是保护 KV 前缀缓存。harness 侧建议：工具定义加载到提示词末尾、系统提示保持不变、中途不改 reasoning effort、截断工具结果时告知模型、合理设计子代理上下文。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+- [Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’](<https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>)  
+  OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately th  
+  TechCrunch · 2026-11-17 02:11
 
-- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
-  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
-  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
+- [LangSmith 重构为以 Agent 为核心的平台，新增 agent record 与注册治理](<https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent>)  
+  LangChain 宣布在宣布 C 轮融资的同时推出重构后的 LangSmith Agent Platform，让 agent 成为核心对象，支持 build、run、improve、govern 全生命周期。  
+  LangChain：Blog（RSS） · 2026-11-17 02:00
 
-- [Mastra 推出 Custom Factory 计划：为你的代码库共建软件工厂](<https://mastra.ai/blog/introducing-custom-factory-program>)  
-  Mastra 推出 Custom Factory 计划，由前置部署工程师嵌入客户团队，在客户自有技术栈上基于 Mastra 共建软件工厂。Mastra 自用的软件工厂已处理其 70% 的 issue，上线以来 PR 数量增长 6 倍，多数工作从 Slack 智能体 Shipyard 接单开始，一路推进到可供评审的 PR。  
-  Mastra Blog · 2026-11-16 08:00
+- [Paul Christiano 谈超级智能时间线与AI安全风险](<https://www.dwarkesh.com/p/paul-christiano-2>)  
+  Alignment Research Center 主管 Paul Christiano 在播客访谈中表示，若当前AI发展轨迹不减速，一年内出现能力远超人类、难以控制的超级智能的概率约为三分之一，未来一年AI接管风险更接近10%而非1%。他讨论了AI研发自动化加速、模型安全防护不足以及暂停算法进展以加强安全措施的必要性。  
+  Dwarkesh Patel：Podcast &amp; Blog（RSS） · 2026-11-17 01:46
 
-- [Together AI 分享如何为编码智能体运行平台评测](<https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai>)  
-  Together AI 详解其 Agent 评测体系：用任务清单加 Baseline、MCP、Skills 三种配置跑测，以 LLM 判官打分，9 月 30 日 215 次运行通过 192 次。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+- [FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’](<https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/>)  
+  The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean f  
+  TechCrunch · 2026-11-17 01:36
 
-- [Browser Use 智能体接入 Evervault，结账时无需接触真实卡号](<https://browser-use.com/posts/browser-use-evervault>)  
-  Browser Use 智能体现可借助 Evervault 完成结账，全程不接触真实卡号。Evervault 生成 Luhn 校验通过、长度与 BIN 均与真实卡一致的 token，仅在发往白名单主机的请求中替换为真实卡值，真实号码不会到达模型、智能体或浏览器。  
-  Browser Use · 2026-11-16 08:00
+- [用 Databricks Feature Views 构建实时 next-best-offer 推荐系统](<https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views>)  
+  Databricks 发布开源 Solution Accelerator，用 Feature Views 为金融服务业构建实时 next-best-offer 推荐器，特征定义一次即可同时用于训练与在线服务。该方案包含批量特征推荐器和增加流式会话内意图的扩展两部分，均以可运行 notebook 端到端构建在 Databricks 上。基准测试中流式事件约 0.1 秒即可对模型可见。  
+  Databricks：Blog（RSS） · 2026-11-17 01:30
 
-- [Genie One 技能（Skills）使用指南：把团队工作流教给 AI](<https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one>)  
-  Databricks 发布 Genie One 技能（Skills）使用指南，技能是以开放 Agent Skills 格式写下的工作流配方，可让 Genie One 按团队固定步骤、检查和格式产出结果。  
-  Databricks：Blog（RSS） · 2026-11-16 08:00
+- [Redwood Research：Gemini 4 安全报告未能证明失控风险低](<https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate>)  
+  Redwood Research 发文批评 Google DeepMind 的 Gemini 4 Argon 与 Carbon 安全报告，认为其基于控制措施的安全论证存在严重弱点，不足以证明部署风险已可靠缓解。  
+  Redwood Research：Blog（RSS） · 2026-11-17 01:21
 
-- [Datasette 发布地理空间插件 datasette-maplibre 0.1a0，结合 MapLibre GL 与 OpenFreeMap](<https://simonwillison.net/2026/Nov/15/datasette-maplibre/>)  
-  Datasette 推出新地理空间插件 datasette-maplibre 0.1a0，将 MapLibre GL 库与 Zsolt Ero 运营的免费矢量地图服务 OpenFreeMap 结合。  
-  Simon Willison 博客 · 2026-11-16 07:58
+- [Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’](<https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/>)  
+  Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it  
+  TechCrunch · 2026-11-17 01:10
 
-- [AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板](<https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg>)  
-  作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。  
-  公众号：数字生命卡兹克 · 2026-11-16 07:56
+- [OpenAI will embed safety researchers to investigate AI subversion](<https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/>)  
+  OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but  
+  TechCrunch · 2026-11-17 01:02
 
-- [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](<https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/>)  
-  Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomi  
-  TechCrunch · 2026-11-16 07:30
+- [Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/>)  
+  UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从 Agent 在同一仓库的历史会话中学习，在不修改 Agent 或底层模型的情况下降低后续会话成本。  
+  Microsoft Research 博客（RSS） · 2026-11-17 01:01
 
-- [Datasette 1.0a43 发布：输出渲染器支持流式输出](<https://simonwillison.net/2026/Nov/15/datasette/>)  
-  Datasette 1.0a43 发布，内置 TSV 和 CSV 导出已改用流式输出，插件可通过新的 Response.stream\(\) 方法一次性流式输出表中每一行。该版本还修复了私有存储查询可能泄露标题和 SQL 的安全问题，并新增行页面 JSON 设计、copy-schema Web Component 和 CSS 多页视图过渡。1.0 里程碑目前完成 53%。  
-  Simon Willison 博客 · 2026-11-16 07:20
+- [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
+  Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
 
-- [Nvidia’s Earnings on Deck; Anthropic’s Public Debut](<https://www.theinformation.com/articles/nvidias-earnings-deck-anthropics-public-debut>)  
-  The Information · 2026-11-16 07:00
+- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
+  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
+  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
 
-- [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>)  
-  Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea…  
-  OpenAI · 2026-11-16 06:00
+- [OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM](<https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/>)  
+  ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.  
+  TechCrunch · 2026-11-17 01:00
 
-- [Our new blog for science](<https://openai.com/index/our-new-blog-for-science>)  
-  The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to a…  
-  OpenAI · 2026-11-16 06:00
+- [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
+  We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
+  OpenAI · 2026-11-17 01:00
 
-- [Is bad news for Jensen Huang also bad news for the AI industry?](<https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/>)  
-  "Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."  
-  TechCrunch · 2026-11-16 05:56
+- [Databricks AI Runtime 上的表格基础模型：原理、模型对比与落地取舍](<https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime>)  
+  Databricks 发文讲解表格基础模型（TFM）在 Databricks AI Runtime 上的实验与微调支持，这类预训练模型无需针对数据集训练即可直接预测。文章对比了 TabICLv2（约 28M 参数、BSD 3-Clause 许可）、TabFM（约 400M 参数、非商用许可）和 TabPFNv3.5（约 220M 参数）等近期模型，并说明其依赖合成数据预训练与行压缩注意力架构。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
 
-- [美国国会寻求收紧AI芯片出口规则](<https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china>)  
-  在涉及Nvidia高管的争议事件后，美国国会正寻求进一步收紧AI芯片出口。民主党和共和党均对收紧相关规则的法案表示支持，并要求Nvidia高管出席国会作证。参议院银行委员会主席Tim Scott已致函Nvidia高管和商务部长Howard Lutnick，要求其公开作证。众议院议长Mike Johnson表示，国会内部在限制对华芯片出口问题上正形成共识。  
-  The Verge：AI（RSS） · 2026-11-16 03:15
+- [WispOS](<https://www.producthunt.com/products/wispos>)  
+  Free AI game maker with an app store that wants your games  
+  Product Hunt · English · 2026-11-17 00:56
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 14 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 16 页
