@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#163b48">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="description" content="按研究目的、证据、判断与后续行动查看 AI 应用研究项目。">
+  <title>投研工作台 · AI应用面板</title>
+  <!--WORKBENCH_STYLE-->
+</head>
+<body>
+  <a class="skip-link" href="#content">跳到项目内容</a>
+  <header class="mast">
+    <div class="mast-inner">
+      <a class="brand" href="#projects" aria-label="AI应用面板首页"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>AI应用面板</a>
+      <nav class="primary" aria-label="面板视图">
+        <a href="#projects" aria-current="page">投研工作台</a>
+        <a href="./news.html#sectors" data-news="sectors">六赛道观察</a>
+        <a href="./news.html#fast" data-news="fast">主题快讯</a>
+        <a href="./news.html#home" data-news="home">精选资讯</a>
+      </nav>
+      <div class="mast-tools">
+        <span class="visibility" id="visibility"></span>
+        <details class="mobile-sources">
+          <summary>信源</summary>
+          <div>
+            <a href="./news.html#stream" data-news="stream">全信源</a>
+            <a href="./news.html#xradar" data-news="xradar">X 雷达</a>
+            <a href="./news.html#wechat" data-news="wechat">微信公众号</a>
+            <a href="./news.html#institutions" data-news="institutions">机构研究</a>
+            <a href="./news.html#shows" data-news="shows">中英文播客</a>
+            <p class="news-stamp" id="mobile-news-stamp"></p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </header>
+  <div class="workspace">
+    <aside class="index" aria-label="研究项目与资讯入口">
+      <div class="index-inner">
+        <div class="index-head"><h2>研究项目</h2><span id="case-count"></span></div>
+        <nav id="case-list" class="case-list" aria-label="选择研究项目"></nav>
+        <select id="case-select" aria-label="选择研究项目"></select>
+        <div class="file-tools" id="file-tools" hidden>
+          <button type="button" id="open-workbook" title="文件仅在当前页面内读取">打开本机 Excel</button>
+          <input type="file" id="workbook-file" accept=".xlsx" aria-label="选择七模块项目工作簿" hidden>
+          <button type="button" id="back-public" hidden>返回公开案例</button>
+          <p id="file-feedback" role="status" aria-live="polite"></p>
+        </div>
+        <nav class="source-links" aria-label="资讯来源">
+          <h2>资讯来源</h2>
+          <a href="./news.html#stream" data-news="stream">全信源</a>
+          <a href="./news.html#xradar" data-news="xradar">X 雷达</a>
+          <a href="./news.html#wechat" data-news="wechat">微信公众号</a>
+          <a href="./news.html#institutions" data-news="institutions">机构研究</a>
+          <a href="./news.html#shows" data-news="shows">中英文播客</a>
+          <p class="news-stamp" id="news-stamp"></p>
+        </nav>
+      </div>
+    </aside>
+    <main id="content" tabindex="-1">
+      <noscript>请启用 JavaScript 查看项目数据，或直接从上方导航打开资讯。</noscript>
+      <div id="empty-message" role="status" hidden></div>
+      <article id="project" hidden>
+        <header class="case-head">
+          <div class="case-meta"><span id="sector"></span><span id="market"></span><span id="case-status"></span></div>
+          <div class="headline"><h1 id="case-name"></h1><span class="asof" id="asof"></span></div>
+        </header>
+        <section class="brief" aria-labelledby="question-label">
+          <div class="question">
+            <h2 id="question-label">研究问题</h2>
+            <p id="question"></p>
+          </div>
+          <div class="brief-bottom">
+            <section><h2><span class="ind judgment-mark" aria-hidden="true"></span>当前判断</h2><p id="judgment"></p></section>
+            <section><h2><span class="ind action-mark" aria-hidden="true"></span>下一步</h2><p id="next-action"></p></section>
+          </div>
+        </section>
+        <section class="research" aria-labelledby="research-title">
+          <div class="research-head"><h2 id="research-title">研究过程</h2><a id="related-news" href="./news.html#stream">查看全信源资讯</a></div>
+          <nav id="stage-nav" class="stage-nav" aria-label="研究环节"></nav>
+          <section id="stage-panel" class="stage-panel" aria-labelledby="stage-name">
+            <header><h3 id="stage-name"></h3><span id="stage-count"></span></header>
+            <p class="stage-summary" id="stage-summary"></p>
+            <div class="entries" id="stage-items"></div>
+          </section>
+        </section>
+        <details class="all-sources" id="sources-section">
+          <summary><span>项目来源</span><span id="source-count"></span></summary>
+          <ul id="sources-list"></ul>
+        </details>
+      </article>
+    </main>
+  </div>
+  <script type="application/json" id="project-data"><!--PROJECT_DATA--></script>
+  <!--WORKBENCH_SCRIPT-->
+</body>
+</html>

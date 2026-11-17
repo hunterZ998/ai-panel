@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-11-17",
+  "visibility": "public",
+  "cases": [
+    {
+      "id": "cvlt",
+      "name": "Commvault（CVLT）",
+      "sector": "AI 安全",
+      "market": "美股二级",
+      "status": "财报已核",
+      "question": "订阅增长里，有多少可以归因于 AI 安全？",
+      "judgment": "截至 2026 年 9 月底，订阅 ARR 同比增长 20%。财报列出了订阅总量，AI 安全的单独贡献仍待披露。",
+      "nextAction": "下季复核订阅收入、期末 ARR 和现金流，并查看公司是否新增分产品披露。",
+      "stages": [
+        {
+          "key": "purpose",
+          "label": "目的",
+          "summary": "观察客户对数据保护与恢复产品的持续付费。",
+          "items": [
+            {
+              "title": "研究问题",
+              "text": "增长来自客户增加订阅，还是某类新产品已形成可单列的收入？先确定财报能回答哪一层。",
+              "sourceIds": [
+                "ir",
+                "sec"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "standards",
+          "label": "标准",
+          "summary": "把期间收入、期末 ARR 和现金流分开。",
+          "items": [
+            {
+              "title": "比较口径",
+              "text": "收入对应一个季度。ARR 是公司按期末合同计算的年度经常性收入指标。做同比时采用本期公告列出的比较口径。",
+              "sourceIds": [
+                "ir",
+                "sec"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "evidence",
+          "label": "知识库",
+          "summary": "季报给出订阅收入、ARR 和现金流三项数字。",
+          "items": [
+            {
+              "title": "订阅收入",
+              "text": "FY2027 第二季度（截至 2026 年 9 月 30 日）订阅收入约 2.69 亿美元，同比增长 21%。",
+              "sourceIds": [
+                "sec",
+                "ir"
+              ]
+            },
+            {
+              "title": "期末 ARR 与现金",
+              "text": "期末订阅 ARR 为 11.04 亿美元，同比增长 20%。季度经营现金流约 7,500 万美元，自由现金流约 7,100 万美元，后者为公司披露的非 GAAP 指标。",
+              "sourceIds": [
+                "ir"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "judgment",
+          "label": "判断",
+          "summary": "公开数据支持订阅增长，产品归因仍待补证。",
+          "items": [
+            {
+              "title": "支持",
+              "text": "收入与期末合同指标分别增长，支持公司整体订阅业务扩张的判断。",
+              "sourceIds": [
+                "ir",
+                "sec"
+              ]
+            },
+            {
+              "title": "归因缺口",
+              "text": "本次披露将订阅收入按许可、支持和 SaaS 等口径列示，表中没有单列 AI 安全收入。需要单项披露才能判断其具体贡献。",
+              "sourceIds": [
+                "sec"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "strategy",
+          "label": "策略",
+          "summary": "等可比较的下季披露，再检验增长来源。",
+          "items": [
+            {
+              "title": "验证条件",
+              "text": "如有分产品净增 ARR，记录指标定义和比较期。只有组合订阅数据时，将结论停在整体订阅业务。",
+              "sourceIds": [
+                "ir",
+                "sec"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "execution",
+          "label": "执行",
+          "summary": "已核对公司业绩公告和 SEC 季报。",
+          "items": [
+            {
+              "title": "已完成的核验",
+              "text": "对照 10 月 27 日公告与截至 9 月 30 日的 10-Q，核对季度订阅收入、期末 ARR 以及两者的口径。",
+              "sourceIds": [
+                "ir",
+                "sec"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "review",
+          "label": "复盘及优化",
+          "summary": "保留 9 月底这一期作为比较基准。",
+          "items": [
+            {
+              "title": "下一次复盘",
+              "text": "使用下期季报的同比数据和原始定义复算变化；如果发生重列，采用重列后的比较期。",
+              "sourceIds": [
+                "ir",
+                "sec"
+              ]
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "ir",
+          "label": "Commvault · FY2027 Q2 业绩公告",
+          "locator": "2026-10-27，业绩摘要及 ARR 定义",
+          "url": "https://ir.commvault.com/news-releases/news-release-details/commvault-announces-second-quarter-fiscal-2027-financial-results"
+        },
+        {
+          "id": "sec",
+          "label": "美国 SEC · Commvault Form 10-Q",
+          "locator": "截至 2026-09-30，合并利润表与管理层讨论",
+          "url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000035/cvlt-20260930.htm"
+        }
+      ]
+    },
+    {
+      "id": "commerce-example",
+      "name": "Shopify Sidekick",
+      "sector": "AI 新兴应用",
+      "market": "公开方法示例",
+      "status": "产品文档已核",
+      "question": "商家能否用一句话生成可用的客户分群？",
+      "judgment": "商家可用自然语言生成分群条件，核对匹配人数后保存。文档可证明这条流程可用，实际节省工时仍需测量。",
+      "nextAction": "用同一条营销条件比较人工与 Sidekick 的建群时间、命中人数和返工量。",
+      "stages": [
+        {
+          "key": "purpose",
+          "label": "目的",
+          "summary": "从一个商家能完成的任务开始。",
+          "items": [
+            {
+              "title": "观察任务",
+              "text": "商家描述目标客户，查看哪些人符合条件，再将分群保存供后续使用。",
+              "sourceIds": [
+                "segments"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "standards",
+          "label": "标准",
+          "summary": "同时检查分群正确性和完成成本。",
+          "items": [
+            {
+              "title": "验收口径",
+              "text": "事先确定筛选条件，用相同客户数据比对查询逻辑、命中人数、更正次数和完成时间。",
+              "sourceIds": [
+                "segments"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "evidence",
+          "label": "知识库",
+          "summary": "帮助中心展示了生成分群、复核和保存流程。",
+          "items": [
+            {
+              "title": "产品能力",
+              "text": "Sidekick 能将自然语言转成 ShopifyQL 查询，展示匹配人数。商家可以打开结果，复核后保存。",
+              "sourceIds": [
+                "segments"
+              ]
+            },
+            {
+              "title": "商家权限",
+              "text": "Shopify 说明，Sidekick 修改线上商店前需要商家批准。",
+              "sourceIds": [
+                "setup"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "judgment",
+          "label": "判断",
+          "summary": "分群工作已能在商家后台完成，效率收益要靠实测。",
+          "items": [
+            {
+              "title": "证据与缺口",
+              "text": "官方步骤支持产品可用性判断；创建分群的耗时、误选客户比例及商家重复使用率，仍需单独观察。",
+              "sourceIds": [
+                "segments",
+                "setup"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "strategy",
+          "label": "策略",
+          "summary": "先测试常见分群，再增加复杂条件。",
+          "items": [
+            {
+              "title": "实验设计",
+              "text": "在同一组测试数据上分别执行人工查询和 AI 生成查询，记录需要商家修正的条件。",
+              "sourceIds": [
+                "segments"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "execution",
+          "label": "执行",
+          "summary": "已逐步核对两个官方帮助页面。",
+          "items": [
+            {
+              "title": "核验进度",
+              "text": "从分群查询生成追到保存操作，并核对商家对修改的批准权限。商家账号实操和计时待做。",
+              "sourceIds": [
+                "segments",
+                "setup"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "review",
+          "label": "复盘及优化",
+          "summary": "保留输入条件，复查版本变化后是否减少返工。",
+          "items": [
+            {
+              "title": "复盘标准",
+              "text": "如果生成更快但误选率上升，应同时记录两项结果，再判断商家是否实际受益。",
+              "sourceIds": [
+                "segments"
+              ]
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "segments",
+          "label": "Shopify 帮助中心 · 创建客户分群",
+          "locator": "Sidekick、复核匹配人数与保存分群",
+          "url": "https://help.shopify.com/en/manual/customers/customer-segmentation/create-customer-segments"
+        },
+        {
+          "id": "setup",
+          "label": "Shopify 帮助中心 · 开始使用 Sidekick",
+          "locator": "权限和批准规则",
+          "url": "https://help.shopify.com/en/manual/ai-powered-tools/sidekick/set-up"
+        }
+      ]
+    },
+    {
+      "id": "edge-device-example",
+      "name": "Google ML Kit",
+      "sector": "端侧 AI",
+      "market": "公开方法示例",
+      "status": "开发文档已核",
+      "question": "哪些设备能在本地生成可用摘要？",
+      "judgment": "Google 已提供设备端摘要接口，官方文档仍标为 Beta。各机型在同一任务上的速度和质量，需要真机验证。",
+      "nextAction": "对照文档选择支持机型，以同一组文章测量耗时、关键事实遗漏和失败次数。",
+      "stages": [
+        {
+          "key": "purpose",
+          "label": "目的",
+          "summary": "以文章摘要检验端侧生成能力。",
+          "items": [
+            {
+              "title": "观察任务",
+              "text": "在目标设备本机把一篇文章压成要点，观察摘要的关键信息保留情况。",
+              "sourceIds": [
+                "summary"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "standards",
+          "label": "标准",
+          "summary": "同文、同机型、同版本，分别记录质量和耗时。",
+          "items": [
+            {
+              "title": "测试标准",
+              "text": "预先列出每篇文章应保留的事实；记录模型是否可用、完成时间和事实遗漏。支持设备名单作为选样依据。",
+              "sourceIds": [
+                "overview",
+                "summary"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "evidence",
+          "label": "知识库",
+          "summary": "官方列明端侧运行方式、接口用途与发布状态。",
+          "items": [
+            {
+              "title": "端侧架构",
+              "text": "ML Kit 的 GenAI 接口基于 Android AICore 和 Gemini Nano 在本机推理。官方概览列有设备兼容范围。",
+              "sourceIds": [
+                "overview"
+              ]
+            },
+            {
+              "title": "接口范围",
+              "text": "摘要接口可把文章、对话生成为要点。文档把该接口标为 Beta。",
+              "sourceIds": [
+                "summary"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "judgment",
+          "label": "判断",
+          "summary": "开发者有可调用的接口，部署效果仍需按机型验证。",
+          "items": [
+            {
+              "title": "支持及边界",
+              "text": "文档能确认开发路径和适用范围；实际时延、摘要完整度需要用相同样本在设备上测量。",
+              "sourceIds": [
+                "overview",
+                "summary"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "strategy",
+          "label": "策略",
+          "summary": "先做有明确验收项的小规模设备测试。",
+          "items": [
+            {
+              "title": "可执行方案",
+              "text": "选择文档支持的机型，对照同一任务的本地和线上完成结果；记录性能差距与不可用原因。",
+              "sourceIds": [
+                "overview",
+                "summary"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "execution",
+          "label": "执行",
+          "summary": "已查阅开发者概览与 Android 摘要指南。",
+          "items": [
+            {
+              "title": "核验进度",
+              "text": "核对接口用途、运行位置和 Beta 状态。当前证据限于文档，真机测试待做。",
+              "sourceIds": [
+                "overview",
+                "summary"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "review",
+          "label": "复盘及优化",
+          "summary": "接口升级或设备范围变化时回测同一组样本。",
+          "items": [
+            {
+              "title": "复测条件",
+              "text": "记录设备、系统及接口版本，保留原样本及评分口径，比较新旧版本的质量和速度。",
+              "sourceIds": [
+                "overview",
+                "summary"
+              ]
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "overview",
+          "label": "Google for Developers · ML Kit GenAI",
+          "locator": "架构、能力与设备兼容列表",
+          "url": "https://developers.google.com/ml-kit/genai"
+        },
+        {
+          "id": "summary",
+          "label": "Google for Developers · Android 摘要接口",
+          "locator": "API 状态和任务说明",
+          "url": "https://developers.google.com/ml-kit/genai/summarization/android"
+        }
+      ]
+    }
+  ]
+}
