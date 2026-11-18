@@ -23,16 +23,12 @@
   Product Hunt · English · 2026-11-18 06:03
 
 - [Incredible Agents](<https://www.producthunt.com/products/incredible>)  
-  Proactive AIs that do work directly on your computer, 24/7  
+  Fast Voice AI that sees your screen and runs your agents  
   Product Hunt · English · 2026-11-18 06:02
 
 - [Microsoft IQ](<https://www.producthunt.com/products/microsoft-365>)  
   Give AI agents a shared understanding of your business  
   Product Hunt · English · 2026-11-18 03:34
-
-- [MAI Cyber 2 Flash](<https://www.producthunt.com/products/mai-image-2-3>)  
-  Microsoft’s low-cost security AI with a 1M-token context  
-  Product Hunt · English · 2026-11-18 02:39
 
 - [Arcade](<https://www.producthunt.com/products/arcade>)  
   AI video generator for marketing teams  
@@ -59,7 +55,7 @@
   Product Hunt · English · 2026-11-17 16:08
 
 - [KaDeep AI](<https://www.producthunt.com/products/kadeep-ai>)  
-  AI QA, localization and accessibility to know when to ship  
+  Agentic QA, localization &amp; accessibility: know when to ship  
   Product Hunt · English · 2026-11-17 16:00
 
 - [LinkBit](<https://www.producthunt.com/products/linkbit>)  
@@ -70,10 +66,6 @@
   Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
   Product Hunt 中文 · DecoHack · 2026-11-17 15:00
 
-- [Agents API by Recall.ai](<https://www.producthunt.com/products/recall-ai>)  
-  Send your agent to meetings  
-  Product Hunt · English · 2026-11-17 08:38
-
 - [Ody Ai Business Phone](<https://www.producthunt.com/products/ody-ai-business-phone>)  
   Shared workspace + manageable AI agents  
   Product Hunt · English · 2026-11-17 02:36
@@ -81,6 +73,10 @@
 - [canfit](<https://www.producthunt.com/products/canfit>)  
   The top command for people running local LLMs and apps  
   Product Hunt · English · 2026-11-17 01:42
+
+- [WispOS](<https://www.producthunt.com/products/wispos>)  
+  Free AI game maker with an app store that wants your games  
+  Product Hunt · English · 2026-11-17 00:56
 
 - [Qwen4-Max](<https://www.producthunt.com/products/qwen3>)  
   Qwen's new flagship for long-running agent work  

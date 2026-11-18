@@ -1,6 +1,121 @@
 # 大模型
 
-[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 4 页
+[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页
+
+- [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
+  作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
+  公众号：卡尔的AI沃茨 · 2026-11-18 11:52
+
+- [观壹智能获得数千万元A轮投资](<https://www.itjuzi.com/investevent/14707347>)  
+  观壹智能（OneX Intelligence）成立于2025年，是一家专注AI与生命科学的AI4S创业公司，致力于打造多智能体循证推理引擎与生命科学模型，为罕见病诊断、药物发现和临床决策提供可溯源、可验证的AI解决方案。近日，观壹智能…  
+  IT桔子 · 2026-11-18 11:46
+
+- [Anthropic 上市，三个预测](<https://36kr.com/p/4074702021252740?f=rss>)  
+  11 月 19 日，Anthropic 在纳斯达克挂牌。发行 8.25 亿股，区间 70 到 78 美元，投行已经在讨论把定价抬到 80 美元以上，完全摊薄 1.5 万亿到 1.6 万亿。合并私募，一共募 904 亿，史上最多。 01 An  
+  36氪 · 2026-11-18 11:41
+
+- [AMD 完成对 Taalas 的收购，计划将其 AI 推理芯片技术整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
+  AMD 当地时间昨日宣布完成对专用 AI 推理芯片开发商 Taalas 的收购，表示此举将加强其全栈 AI 产品组合和长期推理路线图。AMD 计划将 Taalas 技术整合进加速器路线图，结合 Instinct GPU 共同开发系统级解决方案。Taalas 采用把 AI 模型固化到 ASIC 上的路线，针对特定模型工作负载优化，牺牲通用性以显著提升推理效率。  
+  IT之家·人工智能 · 2026-11-18 10:06
+
+- [深微芯创获得近亿元融资](<https://www.itjuzi.com/investevent/14708106>)  
+  深微芯创是一家专注于AI算力芯片与高带宽集成技术的硬科技型企业，面向高性能芯片封装、光电共封装（CPO）及下一代数据中心互联需求，提供半导体先进封装制造装备、光电材料器件与成套工艺一体化解决方案。公司围绕玻璃基板、TGV三维互连、光通…  
+  IT桔子 · 2026-11-18 09:55
+
+- [Anthropic纳斯达克IPO获准](<https://www.pedaily.cn/first/193041.shtml>)  
+  Anthropic表示，已获准在纳斯达克全球精选市场上市A类普通股，股票代码为“ANT”。（投资界）  
+  投资界 · 2026-11-18 08:49
+
+- [Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70\~78 美元](<https://www.ithome.com/1/028/599.htm>)  
+  根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。  
+  IT之家·人工智能 · 2026-11-18 08:12
+
+- [在 32GB Mac 上运行 180B MoE：Transformers 专家流式加载实战与 Strata 对比](<https://huggingface.co/blog/moe-expert-streaming>)  
+  作者在 Transformers 中实现 MoE 专家权重流式加载，让 Qwen3.8-Flash-Next（121GB FP8 专家权重）能在 32GB 内存 MacBook 上运行，方法是将专家量化到 3bit 存盘、用槽位池缓存配合 grouped\_mm，并通过预取和 Metal 内核优化。  
+  Hugging Face 官方团队博客 · 2026-11-18 08:00
+
+- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
+  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
+  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
+
+- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
+  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
+  vLLM 官方博客（RSS） · 2026-11-18 08:00
+
+- [微软发布 Microsoft-Decision-1.1 决策模型，基准得分领先 GPT-6 Luna 与 Gemini](<https://www.ithome.com/1/028/593.htm>)  
+  微软于 11 月 17 日正式推出 Microsoft-Decision-1.1 决策 AI 模型，已在 Microsoft Foundry、OpenRouter 和 Vercel 上线，面向路由、分类、优先级排序、内容核验和工作流控制等企业决策场景。  
+  IT之家·人工智能 · 2026-11-18 07:40
+
+- [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
+  微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
+  IT之家·人工智能 · 2026-11-18 07:06
+
+- [Perplexity Computer 新增 Multiagent 档位：最多 16 个 AI 智能体交叉检查工作](<https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/>)  
+  Perplexity 为 Computer 新增高于 Ultra 的 Multiagent 档位，主智能体最多调度 16 个并行智能体，直接共享发现、编辑共享文件并互相检查，默认团队由 Claude Opus 5.5、GPT 6.1 Sol 和 Gemini 4 Carbon 组成。  
+  MarkTechPost（RSS） · 2026-11-18 06:52
+
+- [微软发布 MAI Code 2 与 MAI Code 2 Flash，5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
+  微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
+  IT之家·人工智能 · 2026-11-18 06:42
+
+- [Simon Willison 实测 OpenAI 新模型 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/>)  
+  OpenAI 发布 GPT-6.2 Astra（面向高难度项目的旗舰模型）和 GPT-6.2 Sol（面向日常工作的通用模型），API 名称分别为 gpt-6.2-astra 和 gpt-6.2-sol。  
+  Simon Willison 博客 · 2026-11-18 06:38
+
+- [深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯](<https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA>)  
+  OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。  
+  公众号：数字生命卡兹克 · 2026-11-18 06:36
+
+- [Amazon and Google will together own nearly 30% of Anthropic after its IPO](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
+  Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w  
+  TechCrunch · 2026-11-18 06:29
+
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  
+  IT之家·人工智能 · 2026-11-18 06:23
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol，Astra API 降价 20%](<https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款闭源模型，面向专业与智能体工作，API 名为 gpt-6.2-astra 和 gpt-6.2-sol。  
+  MarkTechPost（RSS） · 2026-11-18 06:07
+
+- [Redwood Research 如何为 AI 发展节奏管控定义“能力活动”](<https://blog.redwoodresearch.org/p/how-should-we-define-capabilities>)  
+  Redwood Research 提出一套用于“节奏管控”的算力分类标准，将 AI 公司的活动默认视为“能力活动”，仅豁免闲置算力、狭义产品开发、客户服务和狭义安全活动四类。该定义遵循“假阳性优于假阴性”原则，并要求第三方审计以确保执行。  
+  Redwood Research：Blog（RSS） · 2026-11-18 05:36
+
+- [Anthropic IPO Yields 10X Returns for Venture Firms](<https://www.theinformation.com/articles/anthropics-vc-investors-hit-10x-returns-ipo>)  
+  The Information · 2026-11-18 05:01
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol，API 降价并公布多项基准表现](<https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，面向专业与日常场景，已在 ChatGPT Work 和 Codex 向 Plus、Pro、Enterprise、Edu 用户开放，并可通过 API 调用。  
+  The Decoder：AI News（RSS） · 2026-11-18 04:30
+
+- [Google 将 Spark 智能体更名为 Gemini Tasks 并向多国用户免费开放](<https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free>)  
+  Google 将此前仅限 AI Pro 和 Ultra 订阅用户的 Spark 智能体更名为 Tasks 并免费开放，由 Gemini 4 Hydrogen 模型驱动，可制定膳食计划、管理日程、筛查邮件中的重复支出。  
+  The Verge：AI（RSS） · 2026-11-18 02:58
+
+- [微软推出 MAI Licensed Weights：可在自有 Azure 环境部署定制前沿模型](<https://microsoft.ai/news/introducing-mai-licensed-weights/>)  
+  微软发布 MAI Licensed Weights，允许企业在自有 Azure 环境中部署并定制微软前沿 AI 模型，数据和定制成果归企业所有。AT&amp;T 用 MAI 模型分析 5G 网络，标准任务上以 GPT-6.1 Sol 的 1/50 成本取得更优表现；Woven by Toyota 在 44% 原本需人工介入的代码修复场景中直接产出可合并修复，成本不到十分之一。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:17
+
+- [Microsoft 发布安全专用模型 MAI Cyber 2 Flash，以更低成本匹配 GPT 6 Astra](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
+  Microsoft 发布专用安全模型 MAI Cyber 2 Flash，面向漏洞发现、修复建议和威胁调查。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
+  Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。MAI Code 2 在四项基准平均下达到 GPT 6.1 Sol 98% 的性能但成本仅 40%，达到 Claude Opus 5.5 96% 的性能而成本仅 5%；盲测前端评审中 64% 的情况下胜过 GPT-6 Sol。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights](<https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/>)  
+  Microsoft MAI 在 Ignite 2026 主题演讲中发布多款模型：MAI Code 2 在四项日常编码基准上达到 GPT 6.1 Sol 98% 的性能、成本仅 40%；MAI Cyber 2 Flash 在 Cyber Gym 上超过 GPT 6 Astra、每任务成本不到 2%；MAI Image 2.7 称为全球第一的图像编辑模型，成本为竞品五分之一。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:14
+
+- [决策模型用量激增，TechCrunch 探讨定制化是否成为下一个竞争前沿](<https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/>)  
+  TechCrunch 报道，10 月 Vercel 的 AI 模型路由上超过四分之一的请求流向了决策模型，这类不产出 token、专用于在预设选项间快速判断的 LLM 诞生仅一个月。  
+  TechCrunch：AI（RSS） · 2026-11-18 02:10
+
+- [GPT-6.2 Astra and Sol](<https://www.producthunt.com/products/openai>)  
+  Two new OpenAI models: frontier Astra and efficient Sol  
+  Product Hunt · English · 2026-11-18 02:06
 
 - [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)  
   Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower co…  
@@ -29,8 +144,13 @@
   Pragmatic Engineer 访谈 Modal、Fireworks AI 和 Baseten 三家推理供应商，讲解软件工程师如何从前沿实验室 API 迁移到开源模型以控制成本。  
   Pragmatic Engineer（RSS） · 2026-11-18 00:11
 
-- [Anthropic Expected to Price Above $1.4 Trillion Valuation](<https://www.theinformation.com/briefings/anthropic-expected-price-1-4-trillion-valuation>)  
-  The Information · 2026-11-17 23:52
+- [在 Modal 上为玛雅碑铭研究构建新工具](<https://modal.com/blog/scaling-intelligence-asya>)  
+  斯坦福讲师 Miguel Novelo 在 Modal 上搭建了一条将 2D 玛雅字形图像转为 3D 模型的快速流水线，起点是约 100 个玛雅音节符号。他在 Gray Area 展出的装置 \(Φ ᆺ Φ\) asya 让观众在沙上作画并生成新字形，汇入不断增长的集体抄本。Novelo 表示，通用大模型缺乏尤卡坦本地知识，因此需要理解字形外观与语境的小型专用模型。  
+  Modal 官方工程博客（RSS） · 2026-11-18 00:00
+
+- [用两条提示词在 NVIDIA Cosmos 中构建可训练物理 AI 数据集](<https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/>)  
+  NVIDIA 介绍如何用两条提示词在 Cosmos 中完成物理 AI 训练数据集的整理与增强。Cosmos Data Factory 包含五个云原生 blueprint 和六个可组合 skill，由前沿 AI 智能体编排，实现 prompt-to-data。文章演示了自动驾驶场景生成、图像属性增强、视频天气光照变换、罕见事件视频与缺陷图像生成五类用例。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-18 00:00
 
 - [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
   生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
@@ -60,124 +180,4 @@
   Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
   MarkTechPost（RSS） · 2026-11-17 17:51
 
-- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
-  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
-  IT之家·人工智能 · 2026-11-17 17:41
-
-- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
-  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
-  IT之家·人工智能 · 2026-11-17 16:16
-
-- [Garlic LLM 让越狱版 PS4 运行 Qwen3.5-9B 本地模型，最高每秒 43 词元](<https://www.ithome.com/1/028/266.htm>)  
-  开源项目 Garlic LLM 让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度达每秒 43 个词元，无需联网即可完成 AI 聊天与语音对话。  
-  IT之家·人工智能 · 2026-11-17 15:12
-
-- [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)  
-  OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。  
-  OpenAI：部署安全与系统卡（网页） · 2026-11-17 15:00
-
-- [百度李彦宏在 APEC 峰会警告 AI 泡沫风险，称应用落地成效不及预期](<https://www.ithome.com/1/028/225.htm>)  
-  百度董事长兼 CEO 李彦宏在 2026 年 APEC 工商领导人峰会上表示，当前算力和基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。他对 AI 长期趋势保持乐观，并提出 AI 技术栈在芯片、云、模型、应用之上还需配套组织能力，类比电力革命缺少组织变革就难以释放经济价值；此前在百度世界大会 2026 上他称智能组织是 AI 时代新的厂房。  
-  IT之家·人工智能 · 2026-11-17 13:01
-
-- [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
-  据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
-  IT之家·人工智能 · 2026-11-17 11:28
-
-- [谷歌 Ironwood TPU 提交 MLPerf Training v6.1 成绩，8192 颗约 102 秒达标 DeepSeek-V3 预训练](<https://www.ithome.com/1/028/065.htm>)  
-  谷歌云在 MLPerf Training v6.1 第一轮提交了覆盖第七代 Ironwood TPU 与英伟达 Grace Blackwell GPU 的 10 项结果。  
-  IT之家·人工智能 · 2026-11-17 09:46
-
-- [奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过](<https://www.ithome.com/1/028/052.htm>)  
-  据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。  
-  IT之家·人工智能 · 2026-11-17 09:03
-
-- [Anthropic IPO 后要求员工提前 30 天制定 10b5-1 书面售股计划](<https://www.ithome.com/1/028/040.htm>)  
-  据 Business Insider 报道，Anthropic 计划在 IPO 后要求员工通过 10b5-1 交易计划出售股票，须书面预先确定数量、价格条件和至少 30 天后的出售日期。  
-  IT之家·人工智能 · 2026-11-17 08:20
-
-- [Gemini 3.5 Transcribe 新增语音编辑功能](<https://ai.google.dev/gemini-api/docs/changelog#11-17-2026>)  
-  gemini-3.5-transcribe 和 gemini-3.5-transcribe-live 现已支持语音驱动的编辑、改写与格式化，可作用于口述语音或已有文本（source\_text）。相关用法见音频转写与实时转写指南。  
-  Gemini API：更新日志（网页） · 2026-11-17 08:00
-
-- [Cerebras 推出分离式推理：GPU 负责预填充、Cerebras 系统负责解码，每兆瓦吞吐提升 5 倍](<https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference>)  
-  Cerebras 宣布分离式推理方案已投入生产，用 AMD Instinct GPU 处理 prompt（prefill），由 Cerebras CS-3 系统生成响应（decode）。  
-  Cerebras：Blog（网页） · 2026-11-17 08:00
-
-- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
-  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
-  NVIDIA Blog（RSS） · 2026-11-17 07:00
-
-- [Google 威胁情报组警告全自动 AI 网络攻击已经出现并将快速恶化](<https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/>)  
-  Google 威胁情报组（GTIG）通过 AI Threat Tracker 首次观察到攻击者完全自动化漏洞发现与利用，无人工介入。其暴露的服务器运行名为 exploit\_agent 的 AI 框架，连接多个大语言模型，通过比对补丁前后代码识别漏洞、开发并自动运行利用程序，配置文件中的俄语注释暗示操作者讲俄语，数据指向法国媒体、娱乐和教育网站。  
-  The Decoder：AI News（RSS） · 2026-11-17 03:42
-
-- [GPT-6 Astra 助力解决格点上的粒子物理标准模型难题](<https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/>)  
-  OpenAI 的 GPT-6 Astra 帮助产出一份证明，有望解决粒子物理标准模型格点化中存在 50 年的难题，论文作者为 UC Santa Barbara 物理学家 Nathaniel Craig，预印本和 OpenAI 博客均已发布。  
-  The Decoder：AI News（RSS） · 2026-11-17 03:19
-
-- [美国拟收紧规则，限制中国远程租用数据中心AI芯片](<https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/>)  
-  美国商务部宣布修改出口管制规则，要求总部位于被评估为存在较高转运风险国家的企业，在向中国、俄罗斯和伊朗等转移大量高端芯片时申请许可并接受严格的客户尽职调查，同时提交月度交易报告。新规在联邦公报发布90天后生效，并为仅用于商业推荐系统的算力提供豁免。有分析认为，该政策可能加速中国企业转向国产AI芯片。  
-  Ars Technica：AI（RSS） · 2026-11-17 03:10
-
-- [Sam Altman 回应 Jensen Huang 离职：没有他 AI 行业也会很好](<https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>)  
-  Sam Altman 在 Semafor 活动上首次公开回应 Nvidia CEO Jensen Huang 离职，称 AI 需求和收入增长强劲，行业会很好。他称 Huang 为英雄但英雄有缺点，未表态是否应回归；Nvidia 曾同意为 OpenAI 俄亥俄数据中心提供最高 $105 billion 担保，Altman 表示不担心 Nvidia 资金枯竭。  
-  TechCrunch：AI（RSS） · 2026-11-17 02:11
-
-- [canfit](<https://www.producthunt.com/products/canfit>)  
-  The top command for people running local LLMs and apps  
-  Product Hunt · English · 2026-11-17 01:42
-
-- [Redwood Research：Gemini 4 安全报告未能证明失控风险低](<https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate>)  
-  Redwood Research 发文批评 Google DeepMind 的 Gemini 4 Argon 与 Carbon 安全报告，认为其基于控制措施的安全论证存在严重弱点，不足以证明部署风险已可靠缓解。  
-  Redwood Research：Blog（RSS） · 2026-11-17 01:21
-
-- [Databricks AI Runtime 上的表格基础模型：原理、模型对比与落地取舍](<https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime>)  
-  Databricks 发文讲解表格基础模型（TFM）在 Databricks AI Runtime 上的实验与微调支持，这类预训练模型无需针对数据集训练即可直接预测。文章对比了 TabICLv2（约 28M 参数、BSD 3-Clause 许可）、TabFM（约 400M 参数、非商用许可）和 TabPFNv3.5（约 220M 参数）等近期模型，并说明其依赖合成数据预训练与行压缩注意力架构。  
-  Databricks：Blog（RSS） · 2026-11-17 01:00
-
-- [阿里发布 Qwen4-Max：2.4 万亿参数 MoE 架构，对标 Opus 5.5、GPT-6 与 Kimi K3.1 Pro 且价格更低](<https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/>)  
-  阿里巴巴发布旗舰模型 Qwen4-Max，采用 Qwen4 系列新混合注意力架构，2.4 万亿参数中每 token 仅激活 710 亿，原生处理图像并支持一百万 token 上下文窗口。  
-  The Decoder：AI News（RSS） · 2026-11-17 00:56
-
-- [Anthropic 上市背后：Azeem Azhar 解析其商业模式与无形资产价值](<https://www.exponentialview.co/p/what-anthropic-is-really-listing>)  
-  Anthropic 将成为西方首家在公开市场上市的真正 AI 公司，Azeem Azhar 认为其核心机会在于用机器智能生产无形资产。他指出，当前 S&amp;P 500 中约 92% 的价值来自品牌、专利、软件和数据等无形资产，Anthropic 的机器智能可在不部署任何机器人前就参与这部分价值竞争。看空观点认为它只是不断贬值的 token 贩卖者，但这忽略了其构建持续进化的机器智能系统。  
-  Azeem Azhar：Exponential View（RSS） · 2026-11-17 00:36
-
-- [Gary Marcus：AI 泡沫是否已经 Game Over](<https://garymarcus.substack.com/p/game-over-man>)  
-  Gary Marcus 评论当前 AI 股票大跌，称当前 AI 泡沫看起来已接近 game over。他提到 Oracle 自其 2025 年 9 月宣布“peak bubble”以来跌约 61%，Ben Thompson 撰写讣告式文章，华尔街日报报道 Nvidia 作为“AI 经济空头支票”的日子屈指可数；他认为核心问题是 LLM 公司缺乏技术护城河、难以盈利。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-17 00:29
-
-- [NVIDIA 扩展 CUDA-X 库，为 AI 智能体提供加速科学发现的工具](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/>)  
-  NVIDIA 扩展 CUDA-X 库，新增 cuPhoton、cuPotential 和 cuSpa，让 AI 智能体协助科研人员加速天体物理、材料科学与单细胞生物学等研究。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [NVIDIA 发布 Rubin HPC GPU：加速科学与工程智能体仿真](<https://blogs.nvidia.com/blog/rubin-hpc/>)  
-  NVIDIA 在 SC26 发布 Vera Rubin 平台新 GPU Rubin HPC，面向科学、工程与分析工作负载加速仿真和数据处理。单颗 GPU 的 CUDA 核心数超过 50,000 创下纪录，并配备稀疏数据加速能力和第七代 NVLink 互连。该 GPU 预计 2028 年上市。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [Google AI Studio 集成 Gemini 4 Carbon 与 Hydrogen 支持构建全栈 Android 应用并发布到 Google Play](<https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/>)  
-  Google AI Studio 结合 Gemini 4 Carbon 和 Hydrogen，可从单个提示词生成生产级 Kotlin Android 应用，并在几分钟内发布到个人 Google Play 库。  
-  Google Developers Blog（RSS） · 2026-11-17 00:00
-
-- [Vibe Check：GPT-6.2 Astra 与 GPT-6.2 Sol 评测，表现亮眼但仍让人期待更多](<https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more>)  
-  Every 的 Vibe Check 评测了 OpenAI 两款新模型 GPT-6.2 Astra 和 GPT-6.2 Sol，它们在主题训练课程、分钟级演出流程和面向高管的练习等此前基本未解决的任务上全部过关。Every 评测负责人 Mike Taylor 称，这些任务年初还基本无人能解，如今 Codex 已接近饱和，成绩值得肯定但仍让人想要更多。  
-  Every：最新文章（网页） · 2026-11-17 00:00
-
-- [Zyphra 将 ZHA 稀疏注意力扩展至 2.4 万亿参数模型](<https://www.zyphra.com/our-work/scaling-zha>)  
-  Zyphra 将此前发布的 ZHA 层级稀疏注意力转换到四个前沿开源权重模型，包括 2.4 万亿参数的 Qwen3.8-2.4T-A95B、Nemotron-3.5-Super、GPT-OSS-120B 和 MiMo-V2.6-Pro，骨干完全冻结、仅训练少量参考查询。  
-  Zyphra Research（网页） · 2026-11-17 00:00
-
-- [Fireworks 评测 MiniMax M3.1 Flash：编码性价比高，但银行、临床和税务场景不及对比模型](<https://fireworks.ai/blog/what-minimax-m3-1-flash-reveals-about-choosing-and-combining-models/>)  
-  Fireworks 基于Specialized Intelligence Index评测MiniMax M3.1 Flash，在DeepSWE v1.1上以约92%更低的模型成本获得高于Gemini 3.8 Flash的任务完成率，每任务约0.35美元。  
-  Fireworks AI（网页） · 2026-11-17 00:00
-
-- [Artificial Analysis 评测 GPT-6.2 Astra 和 Sol：智能指数升至第二](<https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol>)  
-  Artificial Analysis 评测 OpenAI 发布的 GPT-6.2 Astra 和 GPT-6.2 Sol，两者在 Artificial Analysis Intelligence Index 中位列第二，仅次于 Claude Fable 5.2。  
-  Artificial Analysis 完整文章（网页） · 2026-11-17 00:00
-
-- [Google 发布 Gemini 4 Hydrogen 并推出 Antigravity Robotics 插件](<https://developers.googleblog.com/gemini-hydrogen-for-robotics/>)  
-  Google 发布面向机器人场景的 Gemini 4 Hydrogen，主打更快的空间与具身推理，ERQA 平均分 84.8，超过 Gemini Robotics ER 2 的 75.5；在 Artificial Analysis Robotics 0.1 基准上得 58 分，接近 Argon 且每 token 成本更低。  
-  Google Developers Blog（RSS） · 2026-11-17 00:00
-
-[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 4 页
+[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页

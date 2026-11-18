@@ -10,14 +10,27 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 14 条
+## 相关资讯 · 18 条
+
+- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
+  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
+  NVIDIA Blog（RSS） · 2026-11-18 22:00
+
+- [小米的MiMo人才激励考题](<https://36kr.com/p/4075104005116800?f=rss>)  
+  随着大模型研发投入持续增长，将AI业务独立出来融资，正在成为科技公司探索的一种资本运作方式。 今年以来，快手旗下可灵AI完成独立增资，阿里巴巴也宣布拟分拆旗下AI芯片企业平头哥赴港上市。对于拥有核心技术团队的大厂而言，引入外部资本不仅有助于  
+  36氪 · 2026-11-18 20:33
+
+- [曾妍的新论文，就是字节 “10万亿”路线图](<https://36kr.com/p/4075099096258182?f=rss>)  
+  95后的曾妍，正在快速晋升。 曾妍于1997年出生，2021年以校招的方式进入字节，后来成为了Seedance的预训练负责人。字母AI在文章 《字节的“罗福莉”，撑起了Seedance的半边天》 中曾对她进行过详细报道。 如今有传言称，曾妍  
+  36氪 · 2026-11-18 19:48
+
+- [Suno 推出 Visuals 功能，为 AI 音乐生成视频和图像](<https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature>)  
+  Suno 推出 Visuals 功能，可将平台歌曲转为最长 15 秒、自动对口型歌词的 AI 视频片段，也可通过提示词生成缩略图和专辑封面图像，覆盖 web、iOS 和 Android。  
+  The Verge：AI（RSS） · 2026-11-18 19:16
 
 - [Suno 推出 Visuals 功能，为 AI 生成歌曲配套图像和视频](<https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/>)  
   AI 音乐生成器 Suno 推出新功能 Visuals，可为歌曲生成配套图像和视频片段。该功能基于 H3 Move（MiniMax 视频模型 H3 的定制安全过滤版），片段最长 15 秒，跟随歌曲结构、呼应歌词并支持唇形同步，可从参考照片、提示词或预设角色起步。  
   The Decoder：AI News（RSS） · 2026-11-18 18:22
-
-- [可灵AI全新一代图像创作模型Kling Image 4.0正式上线](<https://www.163.com/tech/article/LC0R47OU00098IEO.html>)  
-  网易科技 · 2026-11-18 10:10
 
 - [卡尔的AI沃茨上线图像和视频Token监控，并给出数据页面视觉升级提示语](<https://mp.weixin.qq.com/s/UV4QQZ3P_B-rZlZt9yMwjQ>)  
   作者宣布把AI HOT的Token羊毛监控扩展到图片生成和视频生成四大类，每条标注可用模型、领取方式、刷新周期和折算价值。文中总结了他踩过的单位混乱、免费边界模糊和额度频繁变动三个坑，并给出一条只改渲染层不动业务逻辑的提示语，称用Fable5.2或Opus5.5两三轮迭代就做出了全息卡面、ASCII字符海洋和3D透视图谱效果。  
@@ -42,6 +55,10 @@
 - [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
   Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
   Suno：Blog（网页） · 2026-11-17 23:00
+
+- [Recraft Studio 上线 Seedance 2.5 Flash：速度约为 Seedance 2.5 两倍](<https://www.recraft.ai/blog/seedance-2-5-flash>)  
+  字节跳动 Seedance 2.5 的轻量快速版本 Seedance 2.5 Flash 已在 Recraft Studio 上线，官方称生成速度约为 Seedance 2.5 的两倍。  
+  Recraft 自有模型与设计产品 · 2026-11-17 08:00
 
 - [蚂蚁 inclusionAI 发布 Invoker-Render 1.0 可控视频渲染模型权重](<https://huggingface.co/inclusionAI/invoker-render-1.0>)  
   蚂蚁 inclusionAI 在 Hugging Face 发布 Invoker-Render 1.0 因果流式 DiT 权重，属于 Code World Model 2.0 的视频渲染模型，以结构 Proxy、外观参考图和文本为输入，由上游引擎维护世界状态再生成外观。  

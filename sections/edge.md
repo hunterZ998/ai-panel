@@ -20,11 +20,19 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 6 条
+## 相关资讯 · 8 条
 
-- [瑞芯微 RK1860 规格曝光：64TOPS 稠密 INT8 算力，集成至多 10GB DRAM](<https://www.ithome.com/1/028/874.htm>)  
-  IT之家 11 月 18 日消息，开源硬件制造商 Radxa 此前分享了瑞芯微 \(Rockchip\) 端侧 AI 协处理器 RK1860 的规格信息。 这一芯片的 NPU 单元具备 64TOPS 稠密 INT8 算力 ，集成至多 10…  
-  IT之家 · 2026-11-18 16:08
+- [苹果2027年产品路线图曝光：18款新品覆盖全品类，首款AI眼镜+20周年iPhone齐登场](<https://36kr.com/p/4075102265070473?f=rss>)  
+  11月17日，科技媒体MacRumors综合彭博社记者马克·古尔曼及多条产业链信源，发布苹果2027年新品完整前瞻。报告显示，苹果明年将推出至少18款新品，覆盖智能手机、平板、电脑、智能穿戴及智能家居全品类，既是iPhone问世20周年的产  
+  36氪 · 2026-11-18 20:38
+
+- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
+  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
+  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
+
+- [微信私人 AI 助理小微 DAU 达 3000 万，部分推理任务未来将在设备端运行](<https://www.ithome.com/1/029/018.htm>)  
+  腾讯在 2026 年第三季度财报发布当日，微信官方宣布私人 AI 助理小微用户测试范围扩大，日活跃用户数已达 3000 万，正逐步融入聊天、朋友圈、公众号、视频号等场景。小微采用针对成本效率优化的 WeLM 定制模型，推理成本极低且持续下降，官方预计未来部分推理任务将在用户设备端运行；小微依托支付及小程序生态构建智能体能力，官方称其将对微信商业化能力产生倍增效应。  
+  IT之家·人工智能 · 2026-11-18 18:59
 
 - [Meta 个人 AI 智能体 Muse 在澳大利亚上线](<https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/>)  
   Meta 宣布个人 AI 智能体 Muse 在澳大利亚上线，可通过 iOS、Android、muse.ai 和 Mac 应用使用，并将登陆 AI 眼镜。  

@@ -2,7 +2,7 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
-雷达观测时间（北京时间）　2026-11-18 08:18
+雷达观测时间（北京时间）　2026-11-18 19:09
 
 - [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
   Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
@@ -31,9 +31,5 @@
 - [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
   Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
   @SamuelZengML · 2026-11-13 02:00
-
-- [a16z 发布 B2A（面向 Agent 的商业）研究框架，把机会分为 Agent、本来难以成立的新产品、适配 Agent 的既有企业及基础设施，强调分发和支付、身份、欺诈等瓶颈。这是投资机构的分析框架，所引第三方流量与代码占比未独立核验，不作为全行业事实。](<https://x.com/a16z/status/2120564069010931746>)  
-  Agents now make up the majority of web traffic, write more than half of new articles published online, and generate most of the code pushed to production. This is what the early stage of a platform shift looks like: adoption is measurable, but the business mod…  
-  @a16z · 2026-11-12 01:07
 
 [返回面板](../README.md) · 第 1 / 1 页

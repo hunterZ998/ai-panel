@@ -1,145 +1,184 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 17 页
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页
 
-- [实测Fable 5.2：15秒画完4万年人类艺术史，我还摸清了「满分提示词」套路](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115907&idx=1&sn=bdb6512fb5b8c5670803c67081c1f850>)  
-  APPSO · 2026-11-10 18:04
+- [马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务](<https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/>)  
+  要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。  
+  TechCrunch：AI（RSS） · 2026-11-15 05:41
 
-- [从「看别人做」到「自己会做」：人类视频能教会机器人多少？\| GAIR Live 预告](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748734&idx=2&sn=610e7c0f9dd348052a7d9691d56da522>)  
-  AI科技评论 · 2026-11-10 17:05
+- [Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难](<https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/>)  
+  Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。  
+  The Decoder：AI News（RSS） · 2026-11-15 03:05
 
-- [姚期智杨植麟首次联手给 AI 出的博士级题目，Kimi 多画出了「关键一条边」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748734&idx=1&sn=ef977ad26301b4ab3701e9afc1e66fa2>)  
-  AI科技评论 · 2026-11-10 17:05
+- [ICONS](<https://www.producthunt.com/products/icons-2>)  
+  Where brands book creators, or license their AI likeness  
+  Product Hunt · English · 2026-11-15 01:43
 
-- [从芯片到千比特整机，超导量子计算还有一场硬仗](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942809&idx=1&sn=30c9582979e16de5bd1a534c8364c199>)  
-  量子位 · 2026-11-10 15:27
+- [AI 坟场：那些关停、转型或未达预期的 AI 项目与初创公司盘点](<https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>)  
+  TechCrunch 汇总了一份 AI 项目"坟场"名单，记录已关停、转型或大幅低于预期的产品与初创公司。S&amp;P Global 数据显示约 42% 的企业 AI 项目最终被母公司放弃；Character.ai 在 10 月申请破产，Ollie 于 11 月 6 日关停，OpenAI 也关停了 ChatGPT Atlas、Operator 和 Sora 等产品。  
+  TechCrunch：AI（RSS） · 2026-11-15 01:30
 
-- [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942809&idx=2&sn=6e947b51ab34901d590c22156c1db720>)  
-  量子位 · 2026-11-10 15:27
+- [Gemini 4 Carbon 登顶 MathArena 数学基准，成本约为 GPT-6.1 Sol 的 15 倍](<https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/>)  
+  The Decoder 报道，Google 的 Gemini 4 Carbon（high）以 85.4%±3.0% 的预期成绩登顶 MathArena 数学基准，取代 GPT-6.1 Sol，Claude Fable 5.2 以 82.8% 位居第二。  
+  The Decoder：AI News（RSS） · 2026-11-15 00:48
 
-- [当美国无法建设数据中心，会对 AI 产生怎样的冲击](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116265&idx=1&sn=a5b1ed31fc644479b961afebac1b76f1>)  
-  极客公园 · 2026-11-10 15:13
+- [Cmpnd 发布 dspy-wsp，把权重空间编程做成 DSPy 优化器](<https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/>)  
+  Cmpnd 发布开源原型优化器 dspy-wsp（MIT 许可，pip install dspy-wsp），让前沿 LLM 直接读取并编辑小模型的权重，无需梯度、训练循环或微调数据。  
+  MarkTechPost（RSS） · 2026-11-15 00:45
 
-- [Token卷到触觉了！机器人终于有了通用手感](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=1&sn=8fa8b6872870888a01b478c05b7bbaac>)  
-  量子位 · 2026-11-10 13:24
+- [Anthropic 建议弃用过时提示词习惯以充分发挥 Claude Opus 5.5](<https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/>)  
+  Anthropic 指出许多用户沿用旧习惯反而拖慢 Claude Opus 5.5，建议删除 think hard 等短语，让模型自主调节推理深度，并从 Medium effort 档位起步。  
+  The Decoder：AI News（RSS） · 2026-11-15 00:42
 
-- [Fable 5.2首批实测来了！网友：Opus突然不香了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=2&sn=4018cb8697f3c981589e71764a1affa1>)  
-  量子位 · 2026-11-10 13:24
+- [How I Used AI to Make My Grandson a Children’s Book for Less Than $200](<https://www.wsj.com/tech/ai/how-ai-childrens-book-aa480255?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-15 00:00
 
-- [Fable 5.2睁眼拼魔方，中国AI闭眼搓麻将！人类「手感」首次Token化](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741625&idx=1&sn=cec9a700b23f53b333cc82b60cb99445>)  
-  新智元 · 2026-11-10 11:38
+- [Apple 联合 OpenEvidence 启动 Apple Health AI Usage Study 探索健康 AI 使用](<https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/>)  
+  Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。  
+  Apple：Newsroom（RSS） · 2026-11-15 00:00
 
-- [让机器人理解「抓哪里」：把「三维可供性」引入操作数据生成](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741625&idx=3&sn=23d08fe7fcb417740a6ff32e6302eb62>)  
-  新智元 · 2026-11-10 11:38
+- [斯坦福 AI Index 新数据揭示 AI 投资破万亿与公众情绪、就业影响的落差](<https://hai.stanford.edu/news/the-jagged-edge-of-the-ai-boom>)  
+  Stanford HAI 发布 AI Index 阶段性新发现，2026 年全球企业 AI 投资已超 $1 trillion，超出 2025 年全年总额 46%。  
+  Stanford HAI News（网页） · 2026-11-15 00:00
 
-- [1500万美元！OpenAI联手Anthropic，请数学家给AI「验卷」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741625&idx=2&sn=7e85097eb21e4e059d1e9f257aa0b18b>)  
-  新智元 · 2026-11-10 11:38
+- [手工式 AI 时代即将到来](<https://every.to/context-window/the-age-of-artisanal-ai-is-coming>)  
+  Every 作者 Dan Shipper 在 Thesis: 2027 闭幕演讲中提出，当所有人用同样的模型时，决定差异的是你对"什么算好"的判断力。文中还提到 Fable 5.2 可整夜甚至整个周末无人值守工作，以及把对 AI 输出的每条修改意见转成可复用的对错检查项。  
+  Every：最新文章（网页） · 2026-11-15 00:00
 
-- [Fable 5.2 还没捂热，Gemini 4 神秘新模型就刷屏了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115835&idx=1&sn=7114821869a486b7b2f3fbf298406182>)  
-  APPSO · 2026-11-10 11:21
+- [LangChain 提出 Goal Engineering：按反馈易度设计智能体目标范围](<https://www.langchain.com/blog/goal-engineering>)  
+  LangChain 发文提出 goal engineering 理念，认为设计智能体范围时应让人类反馈尽可能容易给出，因为智能体出错常源于缺乏只存在于专家脑中的隐性上下文。  
+  LangChain：Blog（RSS） · 2026-11-15 00:00
 
-- [Agent自演进驶入“双轨时代”！openJiuwen RSI再升级，首发TTSE经验学习框架](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=2&sn=6ad1860f6959a61a672accae3830d639>)  
-  量子位 · 2026-11-10 10:22
+- [Bluedot Phone Calls](<https://www.producthunt.com/products/bluedot-2>)  
+  AI note taker for phone calls  
+  Product Hunt · English · 2026-11-14 22:21
 
-- [100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=1&sn=18eb40f983ce6f226d5e91685b655b10>)  
-  量子位 · 2026-11-10 10:22
+- [复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛](<https://www.xiaoyuzhoufm.com/episode/6af6678d14d01a26f8a916f6?utm_source=rss>)  
+  在前几期播客中，我们聊过 Personal Agent，聊过 RLaaS，这期的嘉宾贺嘉琛做的事情有点像是两者的结合，他把 Personal Agent 运用在 2B 领域，并给这些企业训练私有模型。 嘉琛原本研究深度学习与天体物理学…  
+  42章经 · 2026-11-14 21:00
 
-- [一图生成不穿模的驾驶视频，物理合理性Waymo实测第一丨港科广新框架已开源](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=3&sn=daa8c5e19b4475029e89910f836ad72a>)  
-  量子位 · 2026-11-10 10:22
+- [AI's four colliding crises](<https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks>)  
+  AI's titans were handed an extraordinary mandate: Police yourselves. But the industry faces a four-pronged crisis of…  
+  Axios · 2026-11-14 20:35
 
-- [倒计时一周｜量子位2026人工智能年度榜单征集即将截止！](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=4&sn=74475428acb666bbc7a98fa9949affb2>)  
-  量子位 · 2026-11-10 10:22
+- [Alpha School 年收费 7.5 万美元，其内部数据显示约半数学生未达数学提速目标](<https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/>)  
+  Fortune 报道称，年收费高达 7.5 万美元的 AI 私立学校网络 Alpha School 内部数据显示，仅 42% 学生在数学和阅读上同时实现其承诺的 2 倍学习速度目标，其中约半数 K-8 学生未达数学目标。报道还指出，其 TimeBack 应用正进入德州和南卡罗来纳 2600 多名公立学校学生，另有研究提示 AI 使用方式影响学习效果。  
+  Hacker News：AI 热帖 · 2026-11-14 20:10
 
-- [中国卷大模型，美国缺机器人：在硅谷做具身智能背后的「中国启示录」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748707&idx=2&sn=9961a7f19de98ddc48368a8305639d3b>)  
-  AI科技评论 · 2026-11-10 09:30
+- [20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](<https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin>)  
+  Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI mode…  
+  20VC · 2026-11-14 15:07
 
-- [24 小时，34 项第一，这家中国 AI 交互视频公司凭什么登顶英伟达算子榜？](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748707&idx=1&sn=f1efaf6f59e101e9248dbd11e5efd40d>)  
-  AI科技评论 · 2026-11-10 09:30
+- [PH今日热榜 \| 2026-11-14](<https://decohack.com/producthunt-daily-2026-11-14/>)  
+  Templify AI：强大的内容编辑工具，专为非专业编辑的人士设计。；Filament by Galaxy：通过终端或代理快速移动数据，且是开源的。；Claude Meetings：把Claude添加到你的电话会议中，边聊边开始工作。  
+  Product Hunt 中文 · DecoHack · 2026-11-14 15:00
 
-- [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115784&idx=1&sn=bcf79b8e25245607c5db48587044d3d1>)  
-  APPSO · 2026-11-10 08:58
+- [Sierra 发布 Personal Agent Protocol（Poppy）v1.0](<https://sierra.ai/blog/releasing-poppy>)  
+  Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。  
+  Sierra：Blog（RSS） · 2026-11-14 01:00
 
-- [Fable 5.2狂刷72项世界纪录，23年黑洞难题告破！科学史又改写了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=1&sn=6c1a2418ed8ea73a9ddbbc31995bba23>)  
-  新智元 · 2026-11-10 08:55
+- [Hacker News「Who is Hiring」帖子数徘徊12年低位，AI 已出现在过半职位帖中](<https://www.hntrends.com/2026/november.html>)  
+  Hacker News「Who is Hiring」月度趋势更新显示，2026年11月帖子仅244条，同比降37%，8月的224条为2014年1月以来最少，2026年月均287条为2013年以来最低。AI 出现在51.6%的帖子中，2026年6月首次过半；AI Agents 占14.8%，MCP 从一年前的0.3%升至4.5%，Front End 占比从2022年初的27%降至6.6%。  
+  Hacker News：AI 热帖 · 2026-11-14 00:00
 
-- [突发！特朗普自曝警告某AI巨头CEO：准备坐牢吧](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=2&sn=44053bfb790666822d415a6d14842c24>)  
-  新智元 · 2026-11-10 08:55
+- [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
+  AI Will Make Pharma Even Bigger  
+  a16z · 2026-11-13 23:03
 
-- [英伟达发布机器人基模GR00T 2，12月开源，Jim Fan：机器人要有自己的System 1 \| CoRL 2026](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748704&idx=1&sn=28f5e4dcb815a399be5c177f64da458f>)  
-  AI科技评论 · 2026-11-10 08:21
+- [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>)  
+  Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user…  
+  OpenAI · 2026-11-13 23:00
 
-- [ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116254&idx=1&sn=c9dc85bbf3ec50ac61961dd08592ae00>)  
-  极客公园 · 2026-11-10 08:17
+- [Dream by Smart Jelly](<https://www.producthunt.com/products/smart-jelly>)  
+  An AI agent that works through your tasks overnight  
+  Product Hunt · English · 2026-11-13 20:34
 
-- [英伟达逆势大跌，一夜蒸发1.29万亿元/苹果国行AI备案新增iPad和Mac/千问办公2.0发布](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115783&idx=1&sn=76202bc3bb2487fdf9ff0fe4d3477e70>)  
-  APPSO · 2026-11-10 07:58
+- [Every Day Is Zero Day \| Wiz CTO Ami Luttwak](<https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ>)  
+  AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them f…  
+  The a16z Show · 2026-11-13 19:00
 
-- [E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](<https://sv101.fireside.fm/272>)  
-  HF0正在成为硅谷最难进入的“孵化器”，在旧金山的核心地带，有一栋建于1904年的大主教府邸，如今它是驻地创业加速项目HF0（Hacker Fellowship Zero）的驻扎地。HF0由Dave Fontenot创立，每年只开3期…  
-  硅谷101 · 2026-11-10 07:00
+- [Doctors want liability shield from AI mistakes](<https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield>)  
+  The rapid deployment of artificial intelligence in hospitals and clinics is leading the nation's biggest physicians g…  
+  Axios · 2026-11-13 18:30
 
-- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
-  APPSO · 2026-11-10 06:42
+- [The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill](<https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia>)  
+  The AI boom without Jensen Huang will test a hard truth: Even if the tech world has grown somewhat less reliant on Nv…  
+  Axios · 2026-11-13 17:45
 
-- [最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741547&idx=1&sn=71d6d9fb635f0ea5b0714b04b7a68bf3>)  
-  新智元 · 2026-11-10 06:41
+- [Shield helps technicians hand off legacy portal work with OpenAI](<https://openai.com/business/customer-stories/shield>)  
+  Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so techn…  
+  OpenAI · 2026-11-13 16:00
 
-- [Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942444&idx=1&sn=33f7edd8c7bca1dffbcb94a11b82a34d>)  
-  量子位 · 2026-11-10 05:59
+- [PH今日热榜 \| 2026-11-13](<https://decohack.com/producthunt-daily-2026-11-13/>)  
+  Plurai Simulation：一个模拟世界，让你的智能体在每次运行中不断提升。；YouArt Desktop App：创意团队的指南；Omnigraph：开源图形数据库，专为你的人工智能代理设计  
+  Product Hunt 中文 · DecoHack · 2026-11-13 15:00
 
-- [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/what_frontier_labs_buy_a_data_deep_dive_with_handshake_ai_garrett_lord_team>)  
-  Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly…  
-  Latent Space · 2026-11-10 00:41
+- [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
+  Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
+  @SVTrivo · 2026-11-13 12:48
 
-- [中国汽车市场，不止一种赢法 \| 极客车间](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116244&idx=1&sn=953ca93be7ad1c997f1334c356d51b88>)  
-  极客公园 · 2026-11-09 22:21
+- [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
+  One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
+  @Basant\_Pandey · 2026-11-13 12:46
 
-- [ZPedia丨实测字节 TRAE 宝：字节的 Personal agent，从编程场景开始](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901335&idx=1&sn=1fca0e12c9b58714b0b1952bf28ad228>)  
-  Z Finance · 2026-11-09 21:59
+- [美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型](<https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6>)  
+  美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。  
+  美团 LongCat：HuggingFace 新模型 · 2026-11-13 10:45
 
-- [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115697&idx=1&sn=c5dae711f6551fadf3ac18e7bfb6484e>)  
-  APPSO · 2026-11-09 20:00
+- [IBM发布Granite 4.1 3B/8B的LLMON实验预览和工具包，用保留token明确区分指令与数据。IBM称静态间接提示注入抵抗改善；这是学得的行为而非强制安全保证，尚不适于生产。](<https://x.com/Jaythschild/status/2121069607888810451>)  
+  IBM's LLMON previews teach Granite 4.1 3B/8B to distinguish instructions from data using reserved structural tokens. Released Nov 12 with a toolkit. The goal: reduce prompt injection in agent workflows, not just change JSON formatting.  
+  @Jaythschild · 2026-11-13 10:36
 
-- [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116234&idx=1&sn=aef5923de6ccddb6ff81233d7a02597d>)  
-  极客公园 · 2026-11-09 19:03
+- [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
+  World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
+  @Clairef9vu · 2026-11-13 09:45
 
-- [前OpenAI员工看吐！AI研发AI冲线「终极超级智能」，停建全球机房也晚了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=2&sn=39bbdfe4884d81b6ecb8330ff1bf734d>)  
-  新智元 · 2026-11-09 18:30
+- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
+  “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
+  晚点聊 · 2026-11-13 09:15
 
-- [印度自研模型社死！照搬千问，仅塞提示词硬充印度造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=1&sn=47589ca037f06b538a1e1603eaa5f840>)  
-  新智元 · 2026-11-09 18:30
+- [a16z的Anne Neuberger提出关键基础设施网络防御方案，优先保护电力、支付、水务、通信和医院中可能造成连锁故障的运营商及共用供应商，建议用AI寻找漏洞、生成补偿防护并建立持续演练。属于机构提案，尚非政府已采纳政策或落地效果。](<https://x.com/a16z/status/2121030491407294854>)  
+  AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
+  @a16z · 2026-11-13 08:00
 
-- [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748686&idx=1&sn=52ef8fb842bd446399c52bf45be82a5e>)  
-  AI科技评论 · 2026-11-09 18:29
+- [Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用](<https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/>)  
+  Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。  
+  Google Research：Blog（网页） · 2026-11-13 08:00
 
-- [Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=2&sn=3d5312c12d83505cab086e7f5ce11acd>)  
-  量子位 · 2026-11-09 18:19
+- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
+  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
+  a16z · 2026-11-13 05:21
 
-- [千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=1&sn=7d8135155abf2ea4dd5152eda4a8ef8d>)  
-  量子位 · 2026-11-09 18:19
+- [Jensen Huang's implosion at Nvidia leaves trail of collateral damage](<https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation>)  
+  Jensen Huang's self-destruction has left a trail of collateral damage that threatens to ensnare the board of Nvidia a…  
+  Axios · 2026-11-13 04:02
 
-- [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](<https://guiguzaozhidao.fireside.fm/20240450>)  
-  最近，Personal Agent 开始成为 AI 行业的新热点。它们能够理解用户的个人习惯和需求，连接不同工具，甚至主动替用户处理购物、生活服务和工作中的复杂任务。但当一个通用 Agent 遇到专业任务时，是否什么都能做好？未来的通…  
-  科技早知道 · 2026-11-09 18:00
+- [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>)  
+  Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams sh…  
+  OpenAI · 2026-11-13 04:00
 
-- [500小时人类视觉-触觉数据，到底能让机器人学到什么？\| GAIR Paper 140](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=2&sn=b1bb761d93a9cf76643161b247f47a27>)  
-  AI科技评论 · 2026-11-09 16:16
+- [Google发布Gemini 4 Hydrogen，面向日常编程和Agent执行，提供四档思考强度及100万token上下文。官方API标价为每百万输入token 1.50美元、输出7.50美元，并支持与Carbon/Argon组合使用；速度与评测结果仍属厂商数据。](<https://x.com/Google/status/2120941982004523367>)  
+  Meet Gemini 4 Hydrogen. It brings cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic work. Across 4 thinking levels, it stands on its own or teams up with Carbon and Argon — 2.5X faster than 3.8 Flash, outpacing co…  
+  @Google · 2026-11-13 02:09
 
-- [姚顺雨加入腾讯近一年，混元追上来了？实测 Hy4 比 Kimi K3.1 Pro 快了 28 分钟](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=1&sn=d5cffdc0d0b028234bfba235dc588920>)  
-  AI科技评论 · 2026-11-09 16:16
+- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
+  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
+  SemiAnalysis · 2026-11-13 02:06
 
-- [创业者做 Personal Agent，有没有一线生机？](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116221&idx=1&sn=ce138b50de491dc2ac7883a2c067a8fb>)  
-  极客公园 · 2026-11-09 15:44
+- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
+  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
+  @SamuelZengML · 2026-11-13 02:00
 
-- [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115625&idx=1&sn=5c60f9caed20fc1741a5bd18de6c45e4>)  
-  APPSO · 2026-11-09 15:41
+- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
+  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
+  Google AI · 2026-11-13 02:00
 
-- [千问办公2.0发布，为首个支持多人与Agent协作的Team Agent](<https://36kr.com/newsflashes/4062206154298505?f=rss>)  
-  36氪获悉，11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服…  
-  36氪 · 2026-11-09 15:29
+- [Replit Agent 新增代购能力和 Google Ads 投放功能](<https://replit.com/blog/replit-agent-ads-commerce>)  
+  Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。  
+  Replit：Blog（RSS） · 2026-11-13 00:45
 
-- [SpaceX拟在得州建设240亿美元超级计算设施](<https://36kr.com/newsflashes/4062199706997895?f=rss>)  
-  SpaceX计划在得克萨斯州建设一座配备独立天然气发电厂的人工智能超级计算设施，项目总投资达240亿美元，约为该公司比特币持仓价值的17倍。持有比特币的SpaceX于今年6月完成了历史上规模最大的首次公开募股（IPO），如今该公司计划…  
-  36氪 · 2026-11-09 15:23
+- [uRun](<https://www.producthunt.com/products/urun>)  
+  Real-time decisions for voice and video agents  
+  Product Hunt · English · 2026-11-13 00:38
 
-[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 17 页
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页

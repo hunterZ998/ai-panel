@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页
 
+- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
+  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
+  科技早知道 · 2026-10-30 17:00
+
+- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
+  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
+  20VC · 2026-10-29 15:07
+
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
   怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
   硅谷101 · 2026-10-29 07:00

@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
+  2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
+  a16z · 2026-11-19 01:05
+
+- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
+  Much has been written about AI’s potential to disrupt it.  
+  a16z · 2026-11-18 23:00
+
 - [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
   For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
   a16z · 2026-11-17 23:10
@@ -86,17 +94,9 @@
   Cheaper intelligence raises the bar for what an AI application can charge  
   a16z · 2026-11-02 23:03
 
-- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
-  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
-  a16z · 2026-11-02 22:01
-
 - [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
   It aims to be the world’s best benchmark for measuring general agentic capabilities.  
   SemiAnalysis · 2026-11-02 09:51
-
-- [New Founder Archetypes in the AI Age](<https://www.a16z.news/p/new-founder-archetypes-in-the-ai>)  
-  How will the profiles change as we enter the age of AI?  
-  a16z · 2026-10-31 00:02
 
 - [Amazon’s Trainium Takes a Strike at the Training King](<https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at>)  
   Anthropic is running production inference and RL rollouts on Trainium2 and Trainium3.  

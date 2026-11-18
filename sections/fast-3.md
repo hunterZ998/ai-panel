@@ -1,172 +1,177 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 34 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 37 页
 
-- [Timeline of Events: • Nov. 12: Microsoft 365 hit with a major service outage. • Nov. 13: FAA issues a nationwide gr…](<https://x.com/WatcherGuru/status/2122823889306673198>)  
-  Timeline of Events: • Nov. 12: Microsoft 365 hit with a major service outage. • Nov. 13: FAA issues a nationwide ground stop, suspending all US flights. • Nov. 16: Major US banks, including Bank of America, JPMorgan Chase, and Wells Fargo, hit with widespread …  
-  @WatcherGuru · 2026-11-18 06:47
+- [The "regret" vibe works surprisingly well with PixVerse.](<https://x.com/JunJun0321A/status/2123007274377752818>)  
+  @JunJun0321A · 2026-11-18 18:55
 
-- [Doom and Quake veteran Sandy Petersen has defended Gabe Newell, praising Steam for protecting PC gamers from corpor…](<https://x.com/Pirat_Nation/status/2122822560052130269>)  
-  Petersen says Newell is “literally guarding the gates of Hell” by keeping companies like Disney, EA, and Microsoft from controlling the PC gaming  
-  @Pirat\_Nation · 2026-11-18 06:41
+- [The feedback loop between execution and memory is a promising step for embodied AI.](<https://x.com/MeharQuotes/status/2123007255566332048>)  
+  @MeharQuotes · 2026-11-18 18:55
 
-- [Gemini 4 Hydrogen 全面上线 Google Search](<https://x.com/Google/status/2122820914777845813>)  
-  Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，称为 Search 迄今最大的一次模型升级。升级包括更好地理解用户意图、更智能的 query fan-out 与链接、更可视化自适应的回复，以及更强的多语言能力。  
-  X：Google \(@Google\) · 2026-11-18 06:35
+- [พี่ Huawei กำลังไลฟ์จับ Lucky Fans มีคุณพรีเซนเตอร์ไปร่วมลุ้นด้วย เพราะอยากไปเจอพี่ฟอสมากกกก บุ๊คไม่เอาอะไรแล้ว ตัว…](<https://x.com/bookfamily_/status/2123005554440253894>)  
+  พี่ Huawei กำลังไลฟ์จับ Lucky Fans มีคุณพรีเซนเตอร์ไปร่วมลุ้นด้วย เพราะอยากไปเจอพี่ฟอสมากกกก บุ๊คไม่เอาอะไรแล้ว ตัวเองก็ไม่เอา มาฟ้อกก็ไม่เอา จะไปหาฟอสอย่างเดียว 🍅 : จับโดนหนูที่ค่ะ อยากไปเจอพี่ฟอส 🍅 : คนขวาข้างหลังชื่ออะไรหรอค่ะ หล่อใจเหลวแล้วค่ะ \#HUAWEIFreeB…  
+  @bookfamily\_ · 2026-11-18 18:49
 
-- [🚨🇺🇸 WHAT THE HELL IS HAPPENING TO AMERICA'S CRITICAL INFRASTRUCTURE?\!](<https://x.com/MarioNawfal/status/2122819803085754411>)  
-  Banks. Airports. NSA. Apple. Gmail. All hit by disruptions in just SIX DAYS\! Thursday: Microsoft Outlook and Teams suffer a global outage. Friday: FAA communications fail, grounding flights nationwide.  
-  @MarioNawfal · 2026-11-18 06:30
+- [The people building the most powerful AI systems are warning us about what's coming.](<https://x.com/ActionModelAI/status/2122990830122090707>)  
+  Dario Amodei. Geoffrey Hinton. Sam Altman. Different voices. One increasingly important question: What happens when AI becomes more intelligent, autonomous and powerful than anything we've  
+  @ActionModelAI · 2026-11-18 17:50
 
-- [BREAKING: SANTA CLARA, Calif. \(AP\) - Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO.](<https://x.com/kylegriffin1/status/2122819690867089819>)  
-  @kylegriffin1 · 2026-11-18 06:30
+- [If you have an NVIDIA GPU do not idle your pc.](<https://x.com/ggsarzi/status/2122964374310515072>)  
+  First it was AMD now NVIDIA as well, your driver might be hammering your SSD. A user measured 515 MB written every 5 minutes at idle on driver 621.14. That's about 6 GB an hour. Another reports 30 GB an hour on 621.24. These  
+  @ggsarzi · 2026-11-18 16:05
 
-- [OpenAI 用 GPT-6 Cyber 发现 Java 漏洞](<https://x.com/gdb/status/2122819528858161322>)  
-  GPT-6 Cyber 助力进一步保障互联网安全，Calif 在 Java 中发现一个重大安全漏洞，这是我们"Patch the Planet"计划的一部分：  
-  X：Greg Brockman \(@gdb\) · 2026-11-18 06:29
+- [Equity Group CEO James Mwangi says all 12,000 employees have completed two courses from Huawei and the first series…](<https://x.com/moneyacademyKE/status/2122949217932959817>)  
+  Equity Group CEO James Mwangi says all 12,000 employees have completed two courses from Huawei and the first series of three coding courses, adding that “everybody in Equity can code.” He added that 5,000 employees have already been admitted to master's degree…  
+  @moneyacademyKE · 2026-11-18 15:05
 
-- [🚨 BREAKING: NVIDIA’s board just REFUSED to reinstate Jensen Huang as CEO, despite his willingness to return.](<https://x.com/RyanAFournier/status/2122818781118427141>)  
-  WHAT AN ABSOLUTE DISGRACE\! The man built NVIDIA into an AI powerhouse, and the board wants to move on without him. A MASSIVE mistake\!  
-  @RyanAFournier · 2026-11-18 06:26
+- [Miss South Africa James Bond Water Shortage Joburg Mayor Stars And Vows Love Is Blind Baboons UNISA Lawyers Nvidia…](<https://x.com/sboshmafu/status/2122948023374278866>)  
+  Miss South Africa James Bond Water Shortage Joburg Mayor Stars And Vows Love Is Blind Baboons UNISA Lawyers Nvidia Nonsense Tatjana Swimming Gun Violence Rassie Grammys Tyla  
+  @sboshmafu · 2026-11-18 15:00
 
-- [Google AI Studio 更新：支持自定义域名并在应用内构建安卓 App](<https://x.com/OfficialLoganK/status/2122818500763009273>)  
-  Logan Kilpatrick 宣布 Google AI Studio 今日迎来重大更新。新增三项能力：支持自定义域名（可直接在 AI Studio 购买）、构建安卓 App 并通过 Google Play 商店下载到手机（目前仅限美国）、以及在 AI Studio 中为安卓 App 安全接入…  
-  X：Logan Kilpatrick \(@OfficialLoganK\) · 2026-11-18 06:25
+- [Microsoft 365 ล่มทั่วโลกเมื่อ 12 พ.ย. 2026 Microsoft เปิดเผยสาเหตุแล้ว ไม่ได้เกิดจากเรื่องเดียว แต่เป็น 3 เรื่องที่…](<https://x.com/KaMaiT4Chi/status/2122942360208449605>)  
+  Microsoft 365 ล่มทั่วโลกเมื่อ 12 พ.ย. 2026 Microsoft เปิดเผยสาเหตุแล้ว ไม่ได้เกิดจากเรื่องเดียว แต่เป็น 3 เรื่องที่เกิดพร้อมกันพอดี🫠 1️⃣ บั๊กแฝงจากอัปเดตที่ปล่อยตั้งแต่เดือน ก.ค. อยู่มา 3 เดือนไม่มีปัญหา เพราะแล็บทดสอบใช้ฮาร์ดแวร์เก่าที่คอร์น้อย  
+  @KaMaiT4Chi · 2026-11-18 14:37
 
-- [OpenAI 推出 ChatGPT for Sales 销售体验](<https://x.com/ChatGPT/status/2122818162995634504>)  
-  OpenAI 推出新的 ChatGPT for Sales 体验，整合新的 Sales 插件与 30 多个新增和增强的合作伙伴插件，把销售工具和客户上下文投入实际工作，帮助销售团队减少事务性工作、推进成单。详情见  
-  X：ChatGPT \(@ChatGPT\) · 2026-11-18 06:24
+- [DeepSeek 因长上下文限流遭差评](<https://x.com/thexpin/status/2122941104052187529>)  
+  DeepSeek 此前免费，因大量用户用它做角色扮演和写小说、频繁触发超长上下文，现已开始限制使用额度。日常使用不受影响，但引发一波应用商店差评，最极端者向政府投诉称不解决就自杀，惊动警方和急救。推文以“升米恩，斗米仇”感慨梁文锋开源免费模型仍招致不满。  
+  X：X.PIN \(@thexpin\) · 2026-11-18 14:32
 
-- [Nvidia Board: As you can see from the financial results, the company is doing great\!](<https://x.com/wholemars/status/2122817904618197097>)  
-  Me: But you just fired the guy who delivered those results Nvidia Board: We won't be taking any questions on that  
-  @wholemars · 2026-11-18 06:23
+- [Anthropic wants Jensen out Anthropic signs a deal with AMD Jensen is working on a free Anthropic competitor A count…](<https://x.com/MK_007/status/2122940828226347255>)  
+  NVIDIA makes a $10 billion investment in Anthropic. They are not even trying to hide it  
+  @MK\_007 · 2026-11-18 14:31
 
-- [Treg AI 推出求职 API，Jev 模型评分](<https://x.com/rohanpaul_ai/status/2122816899755172025>)  
-  决策模型的漂亮用例。 求职智能体越来越擅长解读招聘信号，而这些信号往往在职位发布之前就已出现。 @treg\_ai 推出了一个 jobs API，让 AI 智能体可以搜索空缺职位、评估匹配度并找到招聘经理。 智能体从雇主看板拉取免费职位列表，TypeSafe AI 的决策模型 Jev 会针对简历对每…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 06:19
+- [【速報】人気コスプレイヤーの伊織もえさん、Anthropic IPOに約2,800万円を申込み ・自身のXでIPOへの申込…](<https://x.com/SOU_BTC/status/2122939029675241817>)  
+  【速報】人気コスプレイヤーの伊織もえさん、Anthropic IPOに約2,800万円を申込み ・自身のXでIPOへの申込みを報告 ・申込株数は2,250株、仮条件は1株70〜78ドル ・「Claudeをたくさん使ってるのでポチりました」と投稿  
+  @SOU\_BTC · 2026-11-18 14:24
 
-- [\*NVIDIA NO LONGER SHIPPING LICENSED PRODUCTS TO CHINA](<https://x.com/zerohedge/status/2122816460812857363>)  
-  @zerohedge · 2026-11-18 06:17
+- [I’m MS, not Microsoft 🤝 And you ?](<https://x.com/iam_ms2dwrld/status/2122937522972140013>)  
+  @iam\_ms2dwrld · 2026-11-18 14:18
 
-- [Perplexity 上线 GPT-6.2 Astra 与 GPT-6.2 Sol，WANDR 成绩较前代提升](<https://x.com/AravSrinivas/status/2122815321958695096>)  
-  Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search and Computer 中可用。在 WANDR 基准上，GPT-6.2 Astra 得分 0.783，每任务约 $12.54，较 GPT-6 Astra 提升 0.095…  
-  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-18 06:13
+- [NVIDIAの営業チームが2022年の対中半導体輸出規制の施行前に、🇨🇳アリババとハニトラスパイのアリス・フアンを引き合わ…](<https://x.com/2022meimei3/status/2122936563680293032>)  
+  NVIDIAの営業チームが2022年の対中半導体輸出規制の施行前に、🇨🇳アリババとハニトラスパイのアリス・フアンを引き合わせ、東南アジア経由でチップにアクセスする迂回ルートを仲介したと報じられてます。  
+  @2022meimei3 · 2026-11-18 14:14
 
-- [GPT-6.2 Sol 与 Astra 上线 Conductor](<https://x.com/charlieholtz/status/2122815071726469159>)  
-  GPT-6.2 Sol 和 Astra 现已在 Conductor 上线 🫡  
-  X：Charlie Holtz（@charlieholtz） · 2026-11-18 06:12
+- [Anthropic researcher Tao Lin believes we are just 15 months away from superhuman AI.](<https://x.com/ndtv/status/2122934700335575096>)  
+  He even predicts humans will eventually become permanently unemployable and dependent on government welfare. NDTV's AI Editor @ramarkosg explains.  
+  @ndtv · 2026-11-18 14:07
 
-- [\#BREAKING Nvidia board will not reinstate Jensen Huang as chief: chairman](<https://x.com/AFP/status/2122814929296073096>)  
-  @AFP · 2026-11-18 06:11
+- [OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异](<https://x.com/thsottiaux/status/2122929634916679820>)  
+  Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反…  
+  X：Tibo \(@thsottiaux\) · 2026-11-18 13:47
 
-- [BREAKING: Nvidia, $NVDA, raises its revenue growth guidance for FY2028 to +75% year-over-year, up from +70%.](<https://x.com/KobeissiLetter/status/2122814668548854078>)  
-  This implies annual revenue of \~$728 billion, up over +1,100% from levels seen just 4 years ago. That's an average of $182 billion per quarter.  
-  @KobeissiLetter · 2026-11-18 06:10
+- [funny how the moment jensen huang steps out of the picture, Nvidia immediately drops 10 billion dollars into anthro…](<https://x.com/BetterCallMedhi/status/2122927334269571532>)  
+  funny how the moment jensen huang steps out of the picture, Nvidia immediately drops 10 billion dollars into anthropic shares, jensen spent the last few years championing an open ai ecosystem and open models that directly threatened closed frontier labs like a…  
+  @BetterCallMedhi · 2026-11-18 13:38
 
-- [SANTA CLARA, Calif. \(AP\) — Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO.](<https://x.com/Phil_Lewis_/status/2122814600840368481>)  
-  @Phil\_Lewis\_ · 2026-11-18 06:10
+- [証券口座作って本当にたまにしかログインしてないけど、AnthropicのIPOはClaudeをたくさん使ってるのでポチりま…](<https://x.com/iorimoe_five/status/2122926452228469234>)  
+  証券口座作って本当にたまにしかログインしてないけど、AnthropicのIPOはClaudeをたくさん使ってるのでポチりました🌞 明日どうなるかな〜！  
+  @iorimoe\_five · 2026-11-18 13:34
 
-- [BREAKING: Nvidia’s chair officially declares “the board does not intend to reinstate Jensen Huang as CEO.”](<https://x.com/Polymarket/status/2122814552416915645>)  
-  @Polymarket · 2026-11-18 06:10
+- [Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务](<https://x.com/rohanpaul_ai/status/2122925474485870983>)  
+  Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。此前董事 Harvey Jones 在昨天的首次财报电话会上表示，董事会一致接受其辞职且无意让其复任。完整采访…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 13:30
 
-- [Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩](<https://x.com/perplexity_ai/status/2122814545639223348>)  
-  Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search 和 Computer 中可用。在其 WANDR 基准上，GPT-6.2 Astra 得分 0.783、单任务约 $12.54，较 GPT-6 Astra 提升 0.095；…  
-  X：Perplexity \(@perplexity\_ai\) · 2026-11-18 06:10
+- [One of my students said “Jensen Huang is tweeting like he’s a graduating or recently cancelled VTuber” I can’t unse…](<https://x.com/Harumi_Minnie/status/2122925101826158640>)  
+  One of my students said “Jensen Huang is tweeting like he’s a graduating or recently cancelled VTuber” I can’t unsee it…  
+  @Harumi\_Minnie · 2026-11-18 13:29
 
-- [JUST IN: Nvidia $NVDA board says it has no plans to reinstate Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2122814050488701076>)  
-  @WatcherGuru · 2026-11-18 06:08
+- [BREAKING: "A faction" of Nvidia, $NVDA, board members is pushing for Jensen Huang to return as CEO, despite the boa…](<https://x.com/KobeissiLetter/status/2122923179572072706>)  
+  Jensen Huang has reportedly met with numerous tech executives and spoken with at least one  
+  @KobeissiLetter · 2026-11-18 13:21
 
-- [BREAKING WSJ: The Securities and Exchange Commission is investigating Nvidia.](<https://x.com/kylegriffin1/status/2122813457397666252>)  
-  @kylegriffin1 · 2026-11-18 06:05
+- [Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认](<https://x.com/rohanpaul_ai/status/2122922693662245298>)  
+  Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致接受黄仁勋的辞职且无意让他复任 CEO，部分董事仍在推动其回归。黄仁勋在周二财报发布前与至少 1 名董事讨论过回归事宜；该投票仅针对辞职本身，Nvidia 章程允许剩余 10 名董事以简单多数任命 CEO…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 13:19
 
-- [BREAKING: NVIDIA $NVDA's board does not intend to reinstate Jensen Huang as CEO, per their CHAIRMAN HARVEY JONES on…](<https://x.com/unusual_whales/status/2122813368415531173>)  
-  BREAKING: NVIDIA $NVDA's board does not intend to reinstate Jensen Huang as CEO, per their CHAIRMAN HARVEY JONES on the earnings call right now Big drop.  
-  @unusual\_whales · 2026-11-18 06:05
+- [英伟达CFO否认扶持高风险neocloud客户](<https://x.com/rohanpaul_ai/status/2122921519974322630>)  
+  英伟达临时CEO兼CFO Colette Kress 在 CNBC《Mad Money》节目中明确否认公司正在扶持可能不具备投资级的 neocloud 客户。面对 Jim Cramer 关于英伟达因失去大型 hyperscaler 业务而转向这类客户的质疑，Kress 称该说法完全不实，并表示 h…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 13:15
 
-- [BREAKING: Nvidia's, $NVDA, Board of Directors announces it does not intend to reinstate Jensen Huang as CEO of the…](<https://x.com/KobeissiLetter/status/2122813215172166133>)  
-  The board also says they will not be accepting any questions regarding Jensen Huang on their earnings call.  
-  @KobeissiLetter · 2026-11-18 06:04
+- [【🌸お知らせ🌸】 \#さくらのAIEngine で 「GLM-5.3-Flash」 「DeepSeek-V4.1-Flash…](<https://x.com/sakura_AI_pr/status/2122917556550070510>)  
+  【🌸お知らせ🌸】 \#さくらのAIEngine で 「GLM-5.3-Flash」 「DeepSeek-V4.1-Flash-1017」 のパブリックプレビューを開始しました❗️ 🔹画像も扱えるマルチモーダルモデル 🔹Chat Completions APIに対応 🔹月3,000リクエストまで無償…  
+  @sakura\_AI\_pr · 2026-11-18 12:59
 
-- [I have been keeping a close eye on Nvidia for years guys that’s why I can spot any subtle, yet critical change, ver…](<https://x.com/DarioCpx/status/2122813027309273213>)  
-  Period.  
-  @DarioCpx · 2026-11-18 06:04
+- [absolute insanity. anthropic is valued at 50% more than a stable, consistently profitable company with vastly less…](<https://x.com/GaryMarcus/status/2122916159368691842>)  
+  absolute insanity. anthropic is valued at 50% more than a stable, consistently profitable company with vastly less debt that has 60 times more revenue.  
+  @GaryMarcus · 2026-11-18 12:53
 
-- ["THE BOARD DOES NOT INTEND TO REINSTATE JENSEN HUANG AS CEO" - NVDA CALL](<https://x.com/zerohedge/status/2122812901908259067>)  
-  @zerohedge · 2026-11-18 06:03
+- [斯坦福发现 8 款 LLM 评审医疗答案时偏袒自身](<https://x.com/rohanpaul_ai/status/2122915748477587474>)  
+  斯坦福论文测试的 8 款 OpenAI、Anthropic、Google 和 Qwen 模型，在 620 道真实临床问题的匿名答案排序中全部偏向自己的回答，平均高出 1.22 个名次，GPT-5.6 Sol 接近 3 个名次。去掉评分标准后偏袒依旧存在，公开模型名也只让偏差缩小 0.094 个名次…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 12:52
 
-- [Nvidia 第三财季营收 $115.8B 超预期，数据中心占 93%](<https://x.com/rohanpaul_ai/status/2122812619379900579>)  
-  Nvidia 第三财季营收 $115.8B，同比增长 103%，其中数据中心收入 $107.6B 占 93%，季度利润 $65.3B 翻倍。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 06:02
+- [腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本](<https://x.com/TencentHunyuan/status/2122912575302119554>)  
+  腾讯混元宣布 Hy4 flash 开放权重，包含 Hy4 flash-FP8 和 Hy4 flash-Base 两个版本。模型为 224B 参数（激活 12B），支持 1M 上下文，原生多模态，定位高效日常生产力场景。模型以 Tencent Hy License 发布，可在 Hugging Fac…  
+  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-18 12:39
 
-- [It cost Anthropic $1.63m to destroy \~$1.5T of Nvidia’s market cap and &amp;gt;$5T of the entire AI technology sector. ‘…](<https://x.com/PresentWitness_/status/2122812525553307704>)  
-  It cost Anthropic $1.63m to destroy \~$1.5T of Nvidia’s market cap and &amp;gt;$5T of the entire AI technology sector. ‘Anthropic paid $1.63 million to two lobbying firms tied to Secretary of State Marco Rubio and former White House chief of staff Susie Wiles.’  
-  @PresentWitness\_ · 2026-11-18 06:02
+- [“Jensen Huang was building Anthropic's worst nightmare.](<https://x.com/BrianRoemmele/status/2122910300659966026>)  
+  Then he was ousted.” How coincidental?  
+  @BrianRoemmele · 2026-11-18 12:30
 
-- [If mega corporations like Apple, Chase, Microsoft, Marriott, etc.](<https://x.com/nicksortor/status/2122811415996022913>)  
-  ALL faced MAJOR outages after “internal software updates,” we need to know WHAT they’re updating. There’s CLEARLY a vulnerability somewhere. And I doubt they’re all unrelated.  
-  @nicksortor · 2026-11-18 05:57
+- [他们根本不知道自己今晚引爆了多大一颗雷。](<https://x.com/ZondarkAI/status/2122909998179291172>)  
+  英伟达董事会主席 Harvey C. Jones 在财报电话会开场傲慢地拒绝黄仁勋回归，临时管理层还对着麦克风轻松放话没他我们也行，这真是自1985年苹果董事会投票驱逐乔布斯以来，科技史上最愚蠢、最致命的一次企业自杀。  
+  @ZondarkAI · 2026-11-18 12:29
 
-- [Jensen is 1 on 1 His return to NVIDIA is in all of our best interest.](<https://x.com/tobi/status/2122811342423826728>)  
-  @tobi · 2026-11-18 05:57
+- [indigo 拆解《The Commanding Heights》：AI 时代利润流向制高点层的五大模型](<https://x.com/indigox/status/2122909375136505954>)  
+  indigo 基于上月发布的 145 页长文《The Commanding Heights》，将 AI 时代价值捕获逻辑拆解为五个相互咬合的子模型：模型同质化与推理价格每年约 13 倍暴跌下利润流向制高点层、AI 资本开支与科技股估值的一线绑定、美中双极双轨格局、稳定币承接美债的新美元循环，以及白…  
+  X：indigo \(@indigox\) · 2026-11-18 12:26
 
-- [Apple🍎 おまえもか‼️ アメリカの4大銀行が止まったって伝えた ばっかりだげんど、今朝はさらにとんでもねぇ通信・決済…](<https://x.com/triple_326/status/2122809843878855133>)  
-  Apple🍎 おまえもか‼️ アメリカの4大銀行が止まったって伝えた ばっかりだげんど、今朝はさらにとんでもねぇ通信・決済の同時障害が起きてるっペ👨‍🌾 アメリカでいま ・Apple Pay / iCloud / App Store ・Gmail ・Microsoft Outlook / 365…  
-  @triple\_326 · 2026-11-18 05:51
+- [Who the F is she talking about when she says "our" customers and "our" employees?](<https://x.com/HealthRanger/status/2122905856203509819>)  
+  THIS WOMAN IS NOT NVIDIA\! As Obama once said, "You didn't build that\!" lol Nvidia sucks without Jensen Huang. And if they don't bring him back, Nvidia will decline.  
+  @HealthRanger · 2026-11-18 12:12
 
-- [OpenClaw 的 Sign in with ChatGPT 结束测试，支持 ChatGPT Business 及 GP…](<https://x.com/openclaw/status/2122809472271958517>)  
-  OpenClaw 宣布 Sign in with ChatGPT 功能结束测试，用户可在 OpenClaw 中使用自己的 ChatGPT 套餐，包括 ChatGPT Business。作者还确认支持新模型 GPT-6.2 Astra 和 Sol。引用的 @OpenAIDevs 内容显示，ChatG…  
-  X：OpenClaw \(@openclaw\) · 2026-11-18 05:49
+- [JUST IN: Some Nvidia directors are pushing to bring Jensen Huang back despite opposition from the board.](<https://x.com/HerryNews/status/2122905663827497362>)  
+  @HerryNews · 2026-11-18 12:12
 
-- [🚨 JUST IN: Nvidia SMASHES earnings expectations, posting a RECORD $65.3 BILLION quarterly profit as revenue more th…](<https://x.com/EricLDaugh/status/2122809061045584225>)  
-  🚨 JUST IN: Nvidia SMASHES earnings expectations, posting a RECORD $65.3 BILLION quarterly profit as revenue more than doubles to $115.8 billion Revenue rose 103% from a year ago and beat Wall Street's $109.1 billion estimate NVIDIA now projects $130 BILLION ne…  
-  @EricLDaugh · 2026-11-18 05:48
+- [Jeff Dean 祝贺前实习生、Anthropic 联合创始人 Chris Olah](<https://x.com/JeffDean/status/2122905202760249514>)  
+  Jeff Dean 转发并祝贺自己的前实习生 Chris Olah（@ch402）。被引用的推文回顾了 Olah 的经历：多伦多大学读一年后 18 岁辍学，2012 年获 Peter Thiel 10 万美元资助，因个人博客上的机器学习科普文章在各大实验室传播，2015 年加入 Google Br…  
+  X：Jeff Dean \(@JeffDean\) · 2026-11-18 12:10
 
-- [JUST IN: Nvidia $NVDA projects $130,000,000,000 in revenue for Q4.](<https://x.com/WatcherGuru/status/2122805888281145536>)  
-  @WatcherGuru · 2026-11-18 05:35
+- [Claude 与 GPT 分别构建 GTA VI 迈阿密场景](<https://x.com/ArtificialAnlys/status/2122904331276177768>)  
+  去不了迈阿密参加 GTA VI 发售？两个 AI 模型为你建好了这座城市 我们让 @AnthropicAI 的 Claude Fable 5.2 和 @OpenAI 的 GPT-6.2 Astra 构建本周迈阿密的样子，并装扮成 GTA VI 发售时的罪恶都市风格 ➤ 各用一条提示词，在无网络访问…  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 12:06
 
-- [$NVDA NVIDIA Q3 FY27 \(Oct. quarter\). • Revenue +103% Y/Y to $115.8B \($7.1B beat\). • Operating margin 67% \(+4pp Y/Y\)…](<https://x.com/EconomyApp/status/2122805536165093464>)  
-  Q4 FY27 guidance: • Revenue $130.0B \($5.1B beat\).  
-  @EconomyApp · 2026-11-18 05:34
+- [Anthropic is an apocalyptic death cult with essentially the same core ideology as Aum Shinrikyo.](<https://x.com/jimstewartson/status/2122903652692353379>)  
+  The fact we’re letting these glassy-eyed freaks go public for a trillion dollars is a sign that every single financial backstop has failed.  
+  @jimstewartson · 2026-11-18 12:04
 
-- [NEWS: NVIDIA announces financial results for third quarter fiscal 2027. ➡️ Revenue of $115.8 billion, up 103% from…](<https://x.com/nvidianewsroom/status/2122805252533670248>)  
-  NEWS: NVIDIA announces financial results for third quarter fiscal 2027. ➡️ Revenue of $115.8 billion, up 103% from a year ago ➡️ Data Center revenue of $107.6 billion, up 110% from a year ago Read more:  
-  @nvidianewsroom · 2026-11-18 05:33
+- [美国商务部新规管制AI芯片远程访问，马来西亚等五国需申领出口许可](<https://x.com/rohanpaul_ai/status/2122901050894283040>)  
+  美国商务部工业与安全局发布临时最终规则，将出口管制从实体芯片扩展到远程访问，向马来西亚、泰国、印尼、新加坡和巴西出货AI芯片需申领许可。规则由财政部和国家安全委员会起草，全球任何数据中心向中国总部企业出售超过12M总处理性能（约760块Nvidia H100）即需许可；消息公布后AMD和CoreW…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 11:53
 
-- [Nvidia CFO Colette Kress on neoclouds: “Neoclouds and frontier labs are seeing extraordinary demand for AI infrastr…](<https://x.com/wallstengine/status/2122805098996961564>)  
-  Nvidia CFO Colette Kress on neoclouds: “Neoclouds and frontier labs are seeing extraordinary demand for AI infrastructure, yet many are growing faster than their balance sheets and long-term credit profiles can support.” Nvidia says securing land, power, and d…  
-  @wallstengine · 2026-11-18 05:32
+- [Nvidia founder Jensen Huang's ouster removes a major threat to AI company Anthropic as it prepares to go public thi…](<https://x.com/AFpost/status/2122900747733914070>)  
+  The two have clashed for years over China. Anthropic CEO Dario Amodei wants advanced US  
+  @AFpost · 2026-11-18 11:52
 
-- [JUST IN: Nvidia $NVDA delivers one of its best quarters in company history: • Record revenue of $115.8B • Record Da…](<https://x.com/Kalshi_Finance/status/2122804396715282850>)  
-  JUST IN: Nvidia $NVDA delivers one of its best quarters in company history: • Record revenue of $115.8B • Record Data Center revenue of $107.6B • Record net income of $65.3B • Q4 revenue guidance of $130B • Announces a $150B share buyback  
-  @Kalshi\_Finance · 2026-11-18 05:29
+- [Bloomberg：Nvidia 将在投资 AI 公司前执行更严格的审查](<https://x.com/rohanpaul_ai/status/2122898087735923189>)  
+  Bloomberg 报道，Nvidia interim CEO Colette Kress 表示将在投资 AI 公司前执行更严格的审查。Nvidia 目前已在 OpenAI、Anthropic、CoreWeave 等公司持有约 $100B 的股权和兜底安排。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 11:42
 
-- [JUST IN: Nvidia $NVDA surges over 5% after reporting $115.84 billion in revenue for Q3, beating expectations.](<https://x.com/WatcherGuru/status/2122804209628402010>)  
-  @WatcherGuru · 2026-11-18 05:28
+- [If this is who is leading Nvidia from here on instead of Jensen then it's totally over](<https://x.com/beffjezos/status/2122895355029373302>)  
+  @beffjezos · 2026-11-18 11:31
 
-- [WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任](<https://x.com/rohanpaul_ai/status/2122804149503033606>)  
-  据 WSJ，SEC 正以民事调查核实 Nvidia 的披露是否误导投资者，图片中的 WSJ 标题显示此事发生于 CEO 黄仁勋离任之际。Nvidia 在截至 2025 年 7 月的季度后停止单独披露新加坡收入，该季度新加坡账单达 $10.2B、占总数 22%，公司称客户通过新加坡开票而芯片几乎都发…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 05:28
+- [Nvidia is cooked 💀](<https://x.com/5149jamesli/status/2122894368579440994>)  
+  @5149jamesli · 2026-11-18 11:27
 
-- [【速報】NVIDIA、過去最高の売上高1,158億ドル 株価は時間外で上昇 ・売上高 1,158億ドル｜市場予想 1,09…](<https://x.com/polymarketjapan/status/2122804048843989040>)  
-  【速報】NVIDIA、過去最高の売上高1,158億ドル 株価は時間外で上昇 ・売上高 1,158億ドル｜市場予想 1,091.5億ドル ・調整後EPS 2.68ドル｜市場予想 2.47ドル ・次四半期の売上見通しは1,300億ドルとの速報  
-  @polymarketjapan · 2026-11-18 05:28
+- [Scoop: Nvidia played matchmaking between Alibaba and Alice Huang to help the Chinese tech giant find workarounds on…](<https://x.com/jingyanghk/status/2122892475539038397>)  
+  Scoop: Nvidia played matchmaking between Alibaba and Alice Huang to help the Chinese tech giant find workarounds on U.S. export controls, by @JuroOsawa @QianerLiu via @theinformation $NVDA $BABA  
+  @jingyanghk · 2026-11-18 11:19
 
-- [Nvidia, $NVDA, Q3 Earnings Summary: 1.](<https://x.com/KobeissiLetter/status/2122803839694938566>)  
-  Record quarterly revenue of $115.8 billion, above expectations 2. Record data center revenue of $107.6 billion, above expectations 3. Record net income of $65.3 billion, above expectations 4. Record Q4 revenue guidance of $130 billion,  
-  @KobeissiLetter · 2026-11-18 05:27
+- [JUST IN: Nvidia $NVDA to buy $10,000,000,000 in Anthropic shares.](<https://x.com/WatcherGuru/status/2122892171435020351>)  
+  @WatcherGuru · 2026-11-18 11:18
 
-- [Los detalles del acuerdo entre Lincolao y OpenAI: confidencialidad, reunión mensual y uso de datos](<https://x.com/biobio/status/2122803679195516954>)  
-  @biobio · 2026-11-18 05:26
+- [Trump should be impeached and convicted for NVIDIAgate.](<https://x.com/commons96055467/status/2122891103095677039>)  
+  It’s not difficult to understand. 1\) NVIDIA chips were under the highest national security protection where the sales of it to China was restricted by Biden. 2\) China wanted those chips, so they offered a honeypot for  
+  @commons96055467 · 2026-11-18 11:14
 
-- [BREAKING: Nvidia stock, $NVDA, rises +5% after reporting record quarterly revenue of $115.8 billion, topping expect…](<https://x.com/KobeissiLetter/status/2122802555788902633>)  
-  The company is now guiding $130 billion in revenue for the next quarter, also above expectations.  
-  @KobeissiLetter · 2026-11-18 05:22
+- [Many of us who have worked corporate jobs and have seen such cold &amp;amp; soulless management know how suffocating th…](<https://x.com/hashurtag/status/2122888648030867491>)  
+  No way you’re inspiring anyone or retaining talent with that tone, look and callous attitude. What do you think Nvidia talent feels like  
+  @hashurtag · 2026-11-18 11:04
 
-- [$NVDA \*NVIDIA BOARD APPROVED AN BOOST OF $150B SHARE BUYBACK](<https://x.com/DeItaone/status/2122802516610179569>)  
-  @DeItaone · 2026-11-18 05:22
+- [Nvidia is absolutely cooked unless whatever this is changes and fast.](<https://x.com/AutismCapital/status/2122888380518416715>)  
+  @AutismCapital · 2026-11-18 11:03
 
-- [NVIDIA $NVDA Q3’27 EARNINGS HIGHLIGHTS 🔹 Revenue: $115.8B \(Est. $109.3B\) 🟢; +103% YoY 🔹 Adj.](<https://x.com/wallstengine/status/2122802301182017948>)  
-  EPS: $2.68 \(Est. $2.47\) 🟢; +111% YoY 🔹 Data Center: $107.6B \(Est. $101.9B\) 🟢; +110% YoY 🔹 Adj Gross Margin: 74.9% \(Est. 74%\) 🟢; +140 bps YoY Q4 Guide: 🔹 Revenue: $130.0B +/- 3%  
-  @wallstengine · 2026-11-18 05:21
+- [🚨 Rahul Patil, a computer science graduate at PES University in Bengaluru, has become the CTO of Anthropic.](<https://x.com/IndianTechGuide/status/2122887650369490988>)  
+  No IIT... No Ivy League...  
+  @IndianTechGuide · 2026-11-18 11:00
 
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 34 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 37 页

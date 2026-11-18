@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
+  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
+  科技早知道 · 2026-11-18 20:00
+
+- [The Missing Layer for Personal AI \| First Person Labs’ Ken Liu](<https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00>)  
+  AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, prioriti…  
+  The a16z Show · 2026-11-18 19:00
+
 - [157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](<https://www.xiaoyuzhoufm.com/episode/6afd12c6a4a79edf137afd61?utm_source=rss>)  
   今天的嘉宾是蚂蚁灵光负责人蔡伟。我们一起聊了聊正在成为中美AI共同焦点的Personal Agent。 Muse掀起热潮之后，Personal Agent在过去三个月迅速成为AI行业的新赛场。Grok Bot、Instinct、Ope…  
   张小珺商业访谈录 · 2026-11-18 11:08
@@ -173,13 +181,5 @@
 - [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
   What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
   The a16z Show · 2026-10-30 18:00
-
-- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
-  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
-  科技早知道 · 2026-10-30 17:00
-
-- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
-  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
-  20VC · 2026-10-29 15:07
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

@@ -22,6 +22,13 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 ## 相关资讯 · 22 条
 
+- [Citi 等多家银行声明客户使用第三方 AI 智能体造成的损失自担](<https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/>)  
+  TechCrunch 报道，美国第三大商业银行 Citi 本周更新服务条款，声明客户授权第三方 AI 智能体访问账户后的一切后果自负，即使凭据泄露或遭黑客入侵也由客户负责。JPMorgan 和 Bank of America 上月已宣布类似政策，PNC 和 Citizens 也在近期跟进。Anthropic 本月推出的个人理财工具则定位为只读，不能动用或管理资金，银行还将 AI 工具视为竞争威胁。  
+  TechCrunch：AI（RSS） · 2026-11-19 01:32
+
+- [Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations](<https://www.theinformation.com/articles/anthropics-ipo-making-philanthropist-craig-newmark-hold-back-ai-safety-donations>)  
+  The Information · 2026-11-18 23:01
+
 - [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
   微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
   IT之家·人工智能 · 2026-11-18 07:06
@@ -30,13 +37,9 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   Simon Willison 与 AI 研究实验室 Prime Radiant 合作，介绍面向编码智能体的外部沙箱模式，智能体在沙箱外运行、待执行代码在专用沙箱内运行，目标是让本地模型实验更安全，避免提示词注入等攻击造成破坏。  
   Simon Willison 博客 · 2026-11-18 06:52
 
-- [404 Media 分析近期连环宕机：不是单一黑客攻击，而是系统性脆弱](<https://www.404media.co/breaking-everything/>)  
-  404 Media 作者 Jason Koebler 从自己因 Apple Pay 宕机租不到 Lime 单车写起，指出近期 Apple Pay、银行、微软、航空等一连串故障并非都源于黑客或 AI，而是疫情以来科技裁员、AI 辅助与 vibe coding 产品大规模部署、政府专业能力流失、基础设施与冗余投入不足等系统性问题的共同症状。  
+- [苹果 Apple Pay 等服务接连宕机：故障频发背后的系统性隐忧](<https://www.404media.co/breaking-everything/>)  
+  作者在租 Lime 单车时遭遇 Apple Pay 宕机，随后发现 Uber 支付同样失效，DownDetector 显示 Apple Pay 大面积故障。近几周飞机、银行、Microsoft 等服务接连崩溃，公众普遍猜测是网络攻击或 AI 失控所致，但作者认为这些故障多无直接关联，是基础设施系统性问题的共同症状。  
   404 Media（RSS） · 2026-11-18 05:58
-
-- [MAI Cyber 2 Flash](<https://www.producthunt.com/products/mai-image-2-3>)  
-  Microsoft’s low-cost security AI with a 1M-token context  
-  Product Hunt · English · 2026-11-18 02:39
 
 - [Childlight 报告：AI 生成儿童性虐待材料举报量两年激增超 8,400%](<https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/>)  
   爱丁堡 Childlight Institute 报告显示，AI 生成儿童性虐待材料的举报量两年间增长超 8,400%，从 2023 年约 4,700 张升至 2025 年超 40 万张，数据来自科技公司向 NCMEC 提交的举报。  
@@ -97,10 +100,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>)  
   Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
   TechCrunch · 2026-11-06 14:28
-
-- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
-  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
-  a16z · 2026-11-02 22:01
 
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
   怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  

@@ -20,7 +20,7 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 15 条
+## 相关资讯 · 14 条
 
 - [诺奖得主做AI制药，20个月狂揽550亿](<https://www.tmtpost.com/8209976.html>)  
   Isomorphic Labs完成C轮融资。  
@@ -41,10 +41,6 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [Alphabet旗下AI制药商Isomorphic Labs完成50亿美元C轮融资](<https://www.itjuzi.com/investevent/14708098>)  
   Isomorphic Labs是Alphabet旗下AI制药商，将人工智能和计算方法应用于药物发现，并改变医学帮助和治愈人们的方式。公司日前完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本共同领投，Alphabet…  
   IT桔子 · 2026-11-18 09:58
-
-- [百亿美金入场，谁在给AI4S定价](<https://36kr.com/p/4074537665418116?f=rss>)  
-  近日，海外AI4S（AI for Science）赛道的资本消息密集落地。 无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿  
-  36氪 · 2026-11-18 09:56
 
 - [AI药物研发公司Isomorphic Labs完成50亿美元C轮融资](<https://www.pedaily.cn/first/193057.shtml>)  
   11月18日，英国AI药物研发公司Isomorphic Labs完成50亿美元C轮融资，超额认购，刷新自身单轮融资纪录，或创全球AI制药单轮融资新纪录。此轮由Greenoaks、红杉资本领投，Alphabet跟投，各投资方悉数参与。资…  
