@@ -1,50 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 17 页
-
-- [澳大利亚央行研究：AI 就业冲击最先落在年轻劳动者，软件客服岗位降幅最大](<https://www.ithome.com/1/027/432.htm>)  
-  据 THE DECODER 报道，澳大利亚储备银行研究显示，自 2022 年底 ChatGPT 推出以来各职业招聘量均下降，AI 影响程度最高的编程、文职和客服岗位降幅最大，15 至 24 岁年轻劳动者就业率更低、失业率更高。  
-  IT之家·人工智能 · 2026-11-15 19:03
-
-- [澳大利亚央行分析发现 AI 冲击集中在年轻劳动者，软件开发和客服岗位尤甚](<https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/>)  
-  澳大利亚央行（RBA）的分析构建了针对入门级岗位和高 AI 暴露职业的监测系统，发现自 ChatGPT 于 2022 年底发布以来各岗位招聘均有下降，其中暴露度最高组降幅最大，15 至 24 岁工人和年轻大学毕业生就业率更弱、失业率更高。  
-  The Decoder：AI News（RSS） · 2026-11-15 18:45
-
-- [Gartner 预测到 2030 年 AI 将使全球净增约 170 万个工作岗位](<https://www.ithome.com/1/027/427.htm>)  
-  Gartner 预测 2025 至 2030 年间 AI 将在全球创造 1060 万个新岗位、取代 890 万个岗位，净增约 170 万个。分析师 John Lovelock 表示企业目前处于观望阶段，超过 20% 即约 4.355 亿劳动者需适应 AI 带来的工作方式变化，政府部门更易出现岗位流失，服务业则可能因收益增加而扩招。  
-  IT之家·人工智能 · 2026-11-15 18:27
-
-- [谷歌 Project Zero 宣布将分阶段把漏洞披露期限从 90 天缩短至 30 天](<https://www.ithome.com/1/027/423.htm>)  
-  谷歌 Project Zero 于当地时间 11 月 13 日发布全新漏洞披露政策，称 AI 辅助漏洞挖掘与利用技术的兴起使现有 90+30 天政策难以适应需求。  
-  IT之家·人工智能 · 2026-11-15 18:12
-
-- [前 OpenAI 研究员 Paul Christiano 称 AI 失控可能是当代人最可能的死因](<https://www.ithome.com/1/027/419.htm>)  
-  前 OpenAI 研究员、人工智能对齐研究中心负责人 Paul Christiano 在希尔顿讲座上表示，在座大多数人最可能的死因将是一次 AI 意外事故，并称未来三年内发生 AI 接管事件的风险很高。  
-  IT之家·人工智能 · 2026-11-15 18:09
-
-- [Bland 发布 Tofu-1 全双工语音到语音通话模型](<https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/>)  
-  Bland 发布全双工语音到语音模型 Tofu-1，处于研究预览阶段，面向车载、病房和弱信号线路等嘈杂通话场景，直接处理音频输入输出、无需中间转写文本。该模型支持说话人跟踪、噪声分离与副语言识别，可在通话中被中途打断并边处理任务边继续对话。目前仅向有限企业开放，未公布参数量、延迟、定价和基准分数。  
-  MarkTechPost（RSS） · 2026-11-15 18:06
-
-- [美团开源 1.6 万亿参数智能体模型 LongCat-2.5，训练全程未用 Nvidia GPU](<https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/>)  
-  美团开放 LongCat-2.5 权重，这是一款面向智能体的 1.6 万亿参数 MoE 模型，每 token 激活约 480 亿参数，采用 MIT 许可证，官方部署方案基于 194 片华为 Ascend 加速器，全程未使用 Nvidia GPU。  
-  The Decoder：AI News（RSS） · 2026-11-15 18:06
-
-- [开发者用 Claude 编写 97KB 浏览器水下探索模拟项目 Abyssal Garden](<https://www.ithome.com/1/027/406.htm>)  
-  开发者 Any-Reputation8118 借助 Anthropic Claude 编写代码，做出浏览器水下探索模拟项目 Abyssal Garden，体积仅 97KB，所有视觉元素均由代码在页面加载时实时生成。  
-  IT之家·人工智能 · 2026-11-15 16:58
-
-- [7 人利用 AI 生成国漫角色淫秽图片牟利获刑，均适用缓刑](<https://www.ithome.com/1/027/395.htm>)  
-  金华市婺城区检察院对陈某等 7 名“黄图画师”提起公诉，法院以制作、复制、贩卖、传播淫秽物品牟利罪判处有期徒刑二年至八个月不等，均适用缓刑，判决已生效。涉案人员通过数十个漫画爱好者群以每份 5 元至 20 元售卖 AI 生成的国漫角色淫秽图片，一年多销售 13 万余张、获利 16 万余元。  
-  IT之家·人工智能 · 2026-11-15 16:21
-
-- [SK 海力士加快 HBM4 设备投资，清州 P&amp;T6 厂拟明年上半年投产](<https://www.ithome.com/1/027/392.htm>)  
-  SK 海力士正与设备供应商商讨追加采购 HBM4 生产设备，重点覆盖键合、切割和检测等后道工序，部分设备要求供应商在第一季度前交付，目标明年上半年完成进场和安装调试。新增产能可能落在韩国忠清北道清州的 P&amp;T6 封装测试厂，该厂全面运转后按晶圆计算每月可额外生产 2 万片以上 HBM。SK 海力士上月称，截至 2029 年未来三年 DRAM 和 HBM 产能实际上已全部售罄。  
-  IT之家·人工智能 · 2026-11-15 16:15
-
-- [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
-  HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  
-  Product Hunt 中文 · DecoHack · 2026-11-15 15:00
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页
 
 - [韩国税务师考试榜一考生自首，承认用微型摄像头与生成式 AI 作弊](<https://www.ithome.com/1/027/303.htm>)  
   韩国 2026 年第 63 届税务师考试第一名考生 A 某自首，承认用微型摄像头拍摄考题并发给生成式 AI 获取答案，已在 4 月和 7 月的第一轮、第二轮考试中实施作弊。他已向首尔警察厅提交自首书并将设备作为证据上交；因其在第一轮 160 题仅错 1 题、多科满分的高分过于异常，此前曾被网友怀疑使用 AI 作弊。  
@@ -125,10 +81,6 @@
   LangChain 发文提出 goal engineering 理念，认为设计智能体范围时应让人类反馈尽可能容易给出，因为智能体出错常源于缺乏只存在于专家脑中的隐性上下文。  
   LangChain：Blog（RSS） · 2026-11-15 00:00
 
-- [The Verge 访谈曾投票罢免 Sam Altman 的 OpenAI 前董事 Helen Toner：AI CEO 仍不可信任](<https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview>)  
-  The Verge Decoder 节目访谈 CSET 执行总监 Helen Toner，她曾作为 OpenAI 董事会四人之一投票罢免 Sam Altman，并表示若未来希望寄托在任何一个人值得信任上就麻烦了。访谈谈及 AGI 概念已无帮助、对齐按用户意图执行的路径看不到被解决的迹象、可选的安全工作积压庞大，以及 Anthropic 上市可能让董事会独立委员会具备更强法律约束。  
-  The Verge：AI（RSS） · 2026-11-14 23:00
-
 - [seshka](<https://www.producthunt.com/products/seshka>)  
   Kill what Claude Code left behind  
   Product Hunt · English · 2026-11-14 22:28
@@ -161,6 +113,10 @@
   Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。  
   Sierra：Blog（RSS） · 2026-11-14 01:00
 
+- [Hacker News「Who is Hiring」帖子数徘徊12年低位，AI 已出现在过半职位帖中](<https://www.hntrends.com/2026/november.html>)  
+  Hacker News「Who is Hiring」月度趋势更新显示，2026年11月帖子仅244条，同比降37%，8月的224条为2014年1月以来最少，2026年月均287条为2013年以来最低。AI 出现在51.6%的帖子中，2026年6月首次过半；AI Agents 占14.8%，MCP 从一年前的0.3%升至4.5%，Front End 占比从2022年初的27%降至6.6%。  
+  Hacker News：AI 热帖 · 2026-11-14 00:00
+
 - [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
   AI Will Make Pharma Even Bigger  
   a16z · 2026-11-13 23:03
@@ -181,4 +137,48 @@
   The AI boom without Jensen Huang will test a hard truth: Even if the tech world has grown somewhat less reliant on Nv…  
   Axios · 2026-11-13 17:45
 
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 17 页
+- [n8n 2.47.0 新增 Public API 每 API key 限流功能](<https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/>)  
+  n8n 在 2.47.0 版本为所有计划（Cloud 和自托管）推出 Public API 限流，管理员可按 API key 设置读写、全局及按端点的请求上限，防止单个失控工作流阻塞同实例上的其他团队。  
+  n8n Blog · 2026-11-13 17:29
+
+- [AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO](<https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/>)  
+  Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。  
+  Latent Space（RSS） · 2026-11-13 17:04
+
+- [腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力](<https://www.ithome.com/1/026/825.htm>)  
+  腾讯混元发布实时语音模型 Hy Realtime，在语音理解、指令遵循和拟人化表达上有提升，并新增 Agentic 工具调用与唱歌能力，唱歌功能依托与腾讯音乐 TME 灵音 AI 团队的合作，支持按歌手、曲风、年份等组合点歌演唱。模型已在元宝语音通话、腾讯客服上线，近期将登陆腾讯云提供 API 服务，后续将重点提升双工交互、长期个性化记忆和前后台 Agent 交互。  
+  IT之家·人工智能 · 2026-11-13 16:41
+
+- [腾讯元宝语音通话升级，混元实时语音模型 Hy Realtime 上线](<https://mp.weixin.qq.com/s/2jwI0hm4rn-vxX836LMyRw>)  
+  腾讯元宝宣布语音通话升级，腾讯混元实时语音模型 Hy Realtime 已上线。新能力包括听得懂不完整表达、接续此前话题、回溯聊天内容，以及切换「初语」音色后点歌即唱。用户更新元宝App后点击右上角电话图标，场景选「自由对话」、音色选「初语」即可免费体验。  
+  公众号：腾讯元宝 · 2026-11-13 16:39
+
+- [百度沈抖：智能组织需要智能云](<https://mp.weixin.qq.com/s/l5DV65vnD_MpBEPhCF6zeQ>)  
+  百度集团执行副总裁、百度智能云事业群总裁沈抖在百度世界2026大会演讲中提出，智能组织需要智能云，智能云服务的是具体任务而非企业IT系统。百度智能云围绕“组织进化三原则”重新组织产品和服务，支持企业建设通用、专业与定制三类智能体。会上还发布百度天池1024卡超节点，单套可支撑5万亿参数模型训练，将于明年推向市场。  
+  公众号：百度智能云（文心） · 2026-11-13 16:39
+
+- [腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力](<https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg>)  
+  腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。  
+  公众号：腾讯混元 · 2026-11-13 16:32
+
+- [蚂蚁 inclusionAI 发布 Duo-1.0-distill-quant：Duo 1.0 的 FP8 量化四步蒸馏权重](<https://huggingface.co/inclusionAI/Duo-1.0-distill-quant>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 Duo-1.0-distill-quant，即全双工音视频交互世界模型 Duo 1.0 的 FP8 量化四步蒸馏 Realization 权重。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-13 16:09
+
+- [Shield helps technicians hand off legacy portal work with OpenAI](<https://openai.com/business/customer-stories/shield>)  
+  Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so techn…  
+  OpenAI · 2026-11-13 16:00
+
+- [Apache Spark Real-Time Mode 详解：从微批到毫秒级流式延迟](<https://www.databricks.com/blog/what-is-real-time-mode>)  
+  Databricks 详解 Apache Spark Structured Streaming 的 Real-Time Mode，以长任务、流水线调度和流式 shuffle 取代微批调度，把端到端延迟从秒级降到毫秒级。  
+  Databricks：Blog（RSS） · 2026-11-13 15:49
+
+- [不用显卡：玩家用停产英特尔傲腾内存跑通 2.8 万亿参数 Kimi K3，每秒输出 1.5 词元](<https://www.ithome.com/1/026/759.htm>)  
+  网友 u/IndividualSurvival 在 Reddit 分享家庭实验室尝试，不配显卡、仅用已停产的英特尔傲腾持久内存 200 系列，通过 llama.cpp 成功运行 2.8 万亿参数的月之暗面 Kimi K3。1 比特量化下初始生成速度约每秒 0.85 个词元，关闭 DAX 后提升至每秒 1.50 个词元；3 比特量化仅每秒 0.75 个词元，生成 5 万个词元约需 18.5 小时。  
+  IT之家·人工智能 · 2026-11-13 15:14
+
+- [PH今日热榜 \| 2026-11-13](<https://decohack.com/producthunt-daily-2026-11-13/>)  
+  Plurai Simulation：一个模拟世界，让你的智能体在每次运行中不断提升。；YouArt Desktop App：创意团队的指南；Omnigraph：开源图形数据库，专为你的人工智能代理设计  
+  Product Hunt 中文 · DecoHack · 2026-11-13 15:00
+
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页

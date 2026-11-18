@@ -1,50 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 17 页
-
-- [Claude Code 团队如何设计 Agent 验证与测试流程](<https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/>)  
-  Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。  
-  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-16 20:00
-
-- [AI 能写代码后，程序员该做什么：用 AI 起草规格、维护本体并搭建审查 harness](<https://www.oreilly.com/radar/when-ai-can-code-what-is-left-for-programmers-to-do/>)  
-  作者提出一种人机分工的开发流程：让 Plaud、Granola 等 AI 工具记录并分析客户对话来起草规格，人类负责写带证明的 guardrail、维护机器可校验的本体（ontology）以及搭建确定性 CLI、代码前闸门、二次重生成比对、每周漂移审计等审查 harness。  
-  O'Reilly Radar（热点 RSS） · 2026-11-16 19:54
-
-- [ChinaTalk 解读商务部新规：从盾构机到光伏设备，中国寻找稀土之外的贸易杠杆](<https://www.chinatalk.media/p/mofcoms-new-weapons-of-mass-construction>)  
-  ChinaTalk 分析中国商务部2026年10月针对盾构机、挖泥船部件、光伏制造设备、生物技术和无人机的新出口管制，认为这些是继稀土之后识别出的新潜在杠杆。  
-  ChinaTalk（RSS） · 2026-11-16 19:33
-
-- [Alex Imas &amp; Tyler Cowen \| AI Is Moving Fast. Why Isn’t the Economy?](<https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY>)  
-  AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
-  The a16z Show · 2026-11-16 19:30
-
-- [Pinecall](<https://www.producthunt.com/products/pinecall>)  
-  The open-source platform for voice AI agents  
-  Product Hunt · English · 2026-11-16 18:54
-
-- [Meta JiTTests 用 LLM 生成测试在风险代码合入前捕获隐私缺陷](<https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/>)  
-  MarkTechPost 介绍 Meta 将 LLM 测试生成系统 JiTTests 从研究原型推进到生产基础设施，该系统编写旨在对风险 diff 失败的可执行测试，2026 年上半年在 diff 阶段捕获 74 起隐私 SEV，隐私 SEV 发生率下降 20%。  
-  MarkTechPost（RSS） · 2026-11-16 18:39
-
-- [n8n 博客分析 Agent 时代集成负担如何转移给供应商](<https://blog.n8n.io/ai-made-integrations-the-vendors-problem/>)  
-  n8n 博客作者在第二版 AI Agent 开发工具报告基础上，重新审视 MCP 兴起后集成形态的变化：供应商需自行维护 MCP server 并承担版本跟进、发现和安全传输负担，消费方只需认证后由模型决定调用。  
-  n8n Blog · 2026-11-16 18:17
-
-- ["No sane person questions whether AI works" — but an AI bubble appears ready to pop.](<https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble>)  
-  The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to bur…  
-  Axios · 2026-11-16 18:15
-
-- [自媒体作者分享10条指挥Agent最常用的Prompt](<https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA>)  
-  作者让Agent整理出自己近两个月指挥Agent干活最常用的10条Prompt并分享，包括从第一性原理找根因、先对齐喜好再出3版方案、推演改动二阶三阶影响、假设最优方案错误找反例、分析Git历史识别可移除的历史包袱、评估新工程师接手的认知成本、复盘Bug和返工并沉淀成规则或Skill等。作者希望对大家指挥Agent开发有用。  
-  公众号：数字生命卡兹克 · 2026-11-16 18:05
-
-- [阿里发布 Qwen4-Max：2.4T MoE、71B 激活、1M 上下文](<https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/>)  
-  阿里 Qwen 团队发布 Qwen4 系列首个模型 Qwen4-Max，为专有稀疏 MoE 模型，2.4T 骨干参数、每 token 激活 71B，另有 328B N-gram Embedding 参数，支持文本、图像和视频输入及 1M token 上下文窗口、393K 最大输出。  
-  MarkTechPost（RSS） · 2026-11-16 17:44
-
-- [IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元](<https://www.ithome.com/1/027/861.htm>)  
-  IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。她认为近期市场波动属于有序调整，不太可能演变成系统性风险，但最坏情景下美股可能在 2026 年下跌 20%，2028 年全球经济产出比基准预测低 1.1%。  
-  IT之家·人工智能 · 2026-11-16 17:32
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页
 
 - [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
   Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
@@ -180,4 +136,48 @@
   Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
   IT之家·人工智能 · 2026-11-16 09:01
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 17 页
+- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
+  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
+  Hugging Face 官方团队博客 · 2026-11-16 08:00
+
+- [Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent](<https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces>)  
+  Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。  
+  Conductor 官方更新 · 2026-11-16 08:00
+
+- [The King’s Trust and OpenAI launch £1m partnership](<https://openai.com/index/the-kings-trust-and-openai>)  
+  The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical…  
+  OpenAI · 2026-11-16 08:00
+
+- [At Holiday Extras, dots get to work before anyone asks](<https://openai.com/business/customer-stories/holiday-extras-dots>)  
+  Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the comm…  
+  OpenAI · 2026-11-16 08:00
+
+- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
+  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
+  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
+
+- [SpaceXSI 分享用 Grok Bot 搭建五岗位会计团队的方法](<https://x.ai/news/grok-bot-accounting>)  
+  SpaceXSI 分享如何用 Grok Bot 组建由五个 Bot 组成的会计团队，分别负责开户、开票、账单支持、收款对账和催收，并称这些工作若由人工承担需将团队人数翻倍以上。  
+  xAI：News（网页） · 2026-11-16 08:00
+
+- [OpenRouter 为管理密钥新增只读与工作区范围权限控制](<https://openrouter.ai/blog/announcements/scoped-management-keys/>)  
+  OpenRouter 的管理密钥新增范围与访问级别两项设置，可限定为单个工作区或整个组织，并选择只读或读写，现已向所有组织、所有套餐开放。只读密钥可查看 API 密钥、活动与用量，读写密钥还可创建、更新和删除 API 密钥；工作区管理员可为自己的工作区创建密钥，无需再持有覆盖全组织的权限。两项设置在创建密钥时固定，如需变更只能新建密钥并删除旧密钥。  
+  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
+
+- [AI 笔记应用 Mem 宣布 2027 年 1 月 15 日关闭](<https://get.mem.ai/blog/mem-is-shutting-down>)  
+  AI 笔记应用 Mem 官方宣布将于 2027 年 1 月 15 日关闭。2026 年 12 月 18 日起笔记转为只读，可继续阅读和导出，付费已暂停且不再扣费。官方提供了迁移指南，支持把笔记导出到 Apple Notes、Notion、Google Docs、Obsidian、OneNote 等应用，并提醒注意附件、Collections 和会议转录等内容的核对。  
+  Hacker News：AI 热帖 · 2026-11-16 08:00
+
+- [Together AI 复盘 megakernels 经历并介绍 Together Compiler 的构建之路](<https://www.together.ai/blog/road-to-together-compiler>)  
+  Together AI 介绍其推理优化框架 Together Compiler 的构建历程。  
+  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+
+- [Anthropic 占 94% SOTA token 份额、OpenAI 靠 Luna 降价拿下低端市场](<https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai/>)  
+  Tomasz Tunguz 基于 Databricks AI Index 上万家企业数据撰文分析：Anthropic 占据 94.1% 的 SOTA 级 token 份额，OpenAI 则占低端 81%。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-16 08:00
+
+- [Together AI 与 Ollama 讲解如何让开源模型支撑长程智能体工作负载](<https://www.together.ai/blog/making-open-models-work-for-long-horizon-agentic-workloads>)  
+  Together AI 与 Ollama 联合发文，讲解如何让开源模型高效支撑长程智能体工作负载，核心是保护 KV 前缀缓存。harness 侧建议：工具定义加载到提示词末尾、系统提示保持不变、中途不改 reasoning effort、截断工具结果时告知模型、合理设计子代理上下文。  
+  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页

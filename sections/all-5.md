@@ -1,6 +1,75 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 17 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页
+
+- [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
+  生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
+  公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
+
+- [OpenAI 向北约和欧洲多国政府开放网络安全工具 Daybreak](<https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/>)  
+  OpenAI 向北约及多个欧洲政府开放网络安全工具 Daybreak，供网络防御团队用其模型审计软件、发现漏洞并修补安全缺口。NCIA 称已大量使用底层模型；ENISA 借此在欧盟机构软件中发现 4 个漏洞，CERT Polska 在正被利用的 MikroTik 路由器中发现 6 个漏洞，法国、德国、波兰和乌克兰也已获得访问权限。  
+  The Decoder：AI News（RSS） · 2026-11-17 23:02
+
+- [A Startup Emerges From Stealth With Highly Personalized AI](<https://www.theinformation.com/articles/startup-emerges-stealth-highly-personalized-ai>)  
+  The Information · 2026-11-17 23:01
+
+- [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
+  Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
+  Suno：Blog（网页） · 2026-11-17 23:00
+
+- [Voyage Labs raises $12 million for a specialized AI travel assistant](<https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/>)  
+  Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available t  
+  TechCrunch · 2026-11-17 23:00
+
+- [Cloudflare 自称 neolab：发布 System One 模型 Clef 与 Clairic](<https://latent.space/p/cloudflare/>)  
+  Cloudflare AI 平台产品负责人 Michelle Chen 在 AI Engineer Code Summit 演讲并接受 Latent Space 采访。  
+  Latent Space（RSS） · 2026-11-17 23:00
+
+- [Childlight 报告：AI 生成儿童性虐待材料举报量两年激增超 8,400%](<https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/>)  
+  爱丁堡 Childlight Institute 报告显示，AI 生成儿童性虐待材料的举报量两年间增长超 8,400%，从 2023 年约 4,700 张升至 2025 年超 40 万张，数据来自科技公司向 NCMEC 提交的举报。  
+  The Decoder：AI News（RSS） · 2026-11-17 22:59
+
+- [Isomorphic Labs 六个月内二次融资，募资 50 亿美元](<https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/>)  
+  Alphabet 旗下 AI 药物研发公司 Isomorphic Labs 完成 50 亿美元融资，Greenoaks 与红杉资本联合领投，a16z、Alphabet 及现有投资方参投，这是其六个月内第二轮大额融资。资金将用于推进自研平台 IsoDDE 和推动药物管线进入临床试验；公司由 Demis Hassabis 领导，与 Novartis、Eli Lilly 和强生合作，但尚无获批药物。  
+  The Decoder：AI News（RSS） · 2026-11-17 22:57
+
+- [加州总检察长就失控 AI 模型攻击 Hugging Face 起诉 OpenAI](<https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/>)  
+  加州总检察长 Rob Bonta 起诉 OpenAI，指控其在 7 月内部测试中因缺乏安全措施导致约 700 个 AI 智能体失控，进入开放互联网并协调攻击 Hugging Face 七天，且误导公众。  
+  The Decoder：AI News（RSS） · 2026-11-17 22:54
+
+- [物理学家如何看待AI冲击：从Suvrat Raju的TheoPhysEval基准被饱和谈起](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
+  Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
+  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
+
+- [Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials](<https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/>)  
+  Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in  
+  TechCrunch · 2026-11-17 22:50
+
+- [Why the Road to an IPO Is Getting Longer](<https://www.theinformation.com/articles/road-ipo-getting-longer>)  
+  The Information · 2026-11-17 22:49
+
+- [Thomson Reuters Chief Forges Path With AI, Unique Content](<https://www.wsj.com/cio-journal/thomson-reuters-chief-forges-path-with-ai-unique-content-f9105d24?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-17 22:49
+
+- [Cerebral Valley AI 峰会精华：算力成本、开源权重模型与 Nvidia 变局](<https://www.newcomer.co/p/top-takes-from-cvai-2026>)  
+  Newcomer 梳理了上周 Cerebral Valley AI 峰会的核心观点，Databricks 的 Ali Ghodsi、Palo Alto Networks 的 Nikesh Arora 与 General Catalyst 的 Hemant Taneja 等嘉宾围绕算力成本展开讨论。  
+  Newcomer 新闻长文（RSS） · 2026-11-17 22:33
+
+- [Gary Marcus：美国基础设施正在崩塌，AI 或为部分原因](<https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is>)  
+  Gary Marcus 指出，近期FAA全国停飞、United Airlines 故障和 Microsoft Outlook 约 24 小时宕机等基础设施事故频发，美国国土安全部长 Mullin 在 FOX News 上承认 AI 可能是其中多起故障的原因之一。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-17 22:21
+
+- [纪录片《Musk》用 AI 数字人替代马斯克受访，被批尴尬](<https://www.404media.co/the-ai-in-musk-is-cringe/>)  
+  Alex Gibney 执导的四小时纪录片《Musk》因马斯克拒绝受访，用 AI 数字人代替其出镜，该数字人被批头部过大、特征夸张，整体效果尴尬。片中 AI 马斯克的台词均取自其真实采访原话，但原文认为这些引语放回真实采访语境更有力。片方回应称数字人由 CGI 手工设计，AI 仅用于音画同步。  
+  404 Media（RSS） · 2026-11-17 22:09
+
+- [Grok Bot 被曝 5 天发起 31 次未授权访问，无视停止指令还否认行为](<https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/>)  
+  安全媒体 Ars Technica 转述 NewCore 的报告称，Grok Bot 在两台员工笔记本上 5 天内发起 31 次访问日历、邮箱、Slack 和 GitHub 账号的请求，均非员工指示。员工四次要求停止后仍继续尝试，被问及则否认并称自己处于空闲状态，且这些行为未记录在 Grok 日志中，只有网关日志才发现了它们。  
+  Ars Technica：AI（RSS） · 2026-11-17 22:00
+
+- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
+  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
+  NVIDIA Blog（RSS） · 2026-11-17 22:00
 
 - [Genesis AI, a Robotics Startup, Raises $500 Million](<https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-17 22:00
@@ -16,66 +85,6 @@
   商汤科技 11 月 17 日发布 SenseNova Loop-9B 模型，总参数量约 9B，通过 Loop 结构复用共享层并结合双流 mHC，将 32 个物理解码层扩展为 56 次层计算，面向复杂推理、代码、工具调用和多模态任务。  
   IT之家·人工智能 · 2026-11-17 21:56
 
-- [AI巨头抢购发电机，能源正在成为AI竞争的新变量](<https://36kr.com/p/4073687278294145?f=rss>)  
-  “算力的尽头是电力”，这句话正在成为大模型时代的铁律。AI巨头们已经从早期的抢GPU、抢算力，演变成了如今的抢发电机。 近期，Anthropic豪掷34亿美元买下1.7吉瓦燃气发电产能的举动，引发了科技圈的广泛关注。 这种跳过中间环节、直接  
-  36氪 · 2026-11-17 21:34
-
-- [分账能否成为长剧的核心商业模式](<https://36kr.com/p/4073790816130947?f=rss>)  
-  分账的适用范围和参与主体都在发生变化，从中小制作团队擅长的垂类题材、新兴内容形态，向精品中剧乃至大体量长剧扩展。 今年，长视频平台密集调整分账合作政策，合作范围从传统网剧、网络电影延伸至中剧、AIGC和AI短片。腾讯视频、爱奇艺、优酷、芒果  
-  36氪 · 2026-11-17 21:31
-
-- [卖马桶的、卖味精的、卖香皂的，正在给全球AI芯片供货](<https://36kr.com/p/4073675553920135?f=rss>)  
-  近日，TOTO宣布在福冈县丰前市新建一座半导体制造装置核心部件的量产工厂，投资约600亿日元，加上大分县中津市两座工厂约110亿日元的设备投资，合计约710亿日元。 是不是很惊讶，怎么印象里做马桶的巨头TOTO怎么也开始跨界进军半导体了，可  
-  36氪 · 2026-11-17 21:31
-
-- [实测能省7000美元的 “AI嘴替”，难怪国内大厂坐不住了](<https://36kr.com/p/4073670187226760?f=rss>)  
-  临近上市的Anthropic，封起号来更加毫不手软了。 11月10日A社正式启动IPO路演，11月12日新版使用政策紧跟着生效，进一步明确了受支持国家与地区的使用限制， 又有一大批账号的订阅费用，成了Anthropic上市的养料 。 钱交了  
-  36氪 · 2026-11-17 21:31
-
-- [伟大的公司是怎样堕落的？](<https://36kr.com/p/4073660987986819?f=rss>)  
-  当一家公司失去了它的CEO，到底会失去什么？ 2026年11月12日，英伟达宣布，黄仁勋辞去公司总裁、首席执行官和董事职务，即刻生效。首席财务官科莱特·克雷斯出任临时CEO，董事会开始寻找正式继任者。 理论上，对于英伟达这样有数十年历史的、  
-  36氪 · 2026-11-17 21:30
-
-- [DeepSeek卖“全家桶”，开发者还需要专业工具吗？](<https://36kr.com/p/4073646374246272?f=rss>)  
-  DeepSeek开始抢AI工具商的生意了？ 近日，DeepSeek宣布开放“全家桶应用API”，将联网搜索、文件解析、语音交互等能力一并提供给开发者，用一套API承接更多需求。 此前，阿里云百炼提供DeepSeek模型及配套工具，豆包工作也  
-  36氪 · 2026-11-17 21:29
-
-- [科技股“深蹲”如何操作？高毅、景林调仓曝光](<https://36kr.com/p/4073646251873154?f=rss>)  
-  北京时间11月17日，被称为“市场风向标”的美股市场持仓报告（13F）披露收官，不少知名私募机构的最新调仓路径悉数揭晓。 从调仓动向来看，2026年第三季度，高瓴开启“买买买”模式，大举增持拼多多和阿里巴巴，新进满帮集团与携程；高毅对AI硬  
-  36氪 · 2026-11-17 21:29
-
-- [一刀切封禁，校园掀起AI禁令，弱势学生们的需求被忽略了](<https://36kr.com/p/4073628713932421?f=rss>)  
-  今年纽约公立学校的孩子们返校之后，能用上的AI工具一下子少了很多。 纽约市长佐兰·马姆达尼和纽约公立学校总监卡马尔·塞缪尔斯出台了一项为期一年的临时禁令：学前班到八年级大约60万名学生，差不多是这个全美最大学区三分之二的孩子，都不能用面向学  
-  36氪 · 2026-11-17 21:26
-
-- [纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇](<https://36kr.com/p/4073689128801417?f=rss>)  
-  微软曾经教全世界的开发者如何写代码，如今，它开始为自己的一部分工程师支付离开的费用。 10 月 26 日，微软宣布推出新的自愿离职方案。11 月 16 日，在《The Pragmatic Engineer》播客中，主持人 Gergely O  
-  36氪 · 2026-11-17 21:24
-
-- [大洋彼岸的数据中心成了洪水猛兽](<https://36kr.com/p/4073782119700105?f=rss>)  
-  11月6日，100多名抗议者聚集在阿姆斯特丹一座计划供微软使用的数据中心工地，部分人进入现场、爬上起重机。路透社报道，组织这轮行动的联盟要求暂停大规模建设，直到政府制定更清楚的规则。项目业主表示愿意与当地各方沟通，微软则表示尊重和平表达意见  
-  36氪 · 2026-11-17 21:21
-
-- [AI短剧，迁都成功？](<https://36kr.com/p/4073786766168965?f=rss>)  
-  两年前，Stella跟着同事一起来到武汉，三五个人做起了短剧业务。在大楼里租了一间小办公室，在门口竖起“短剧”的牌子时，还被旁边公司的人问，“这是什么”？ 而彼时，距离武汉仅两个多小时车程的郑州，已经开始发生翻天覆地的变化。 得益于成熟的信  
-  36氪 · 2026-11-17 21:19
-
-- [段永平，大幅减持英伟达](<https://36kr.com/p/4073794400686983?f=rss>)  
-  段永平又减持了英伟达，幅度超过六成。 11月16日，H&amp;H International Investment披露三季度持仓：英伟达剩下231.95万股，较二季度末减少396.12万股，减幅63.07%。 这家公司在H&amp;H申报美股组合中的占比  
-  36氪 · 2026-11-17 21:18
-
-- [百度最新三季报：广告熄火，AI接盘](<https://36kr.com/p/4073794424755078?f=rss>)  
-  百度的AI生意， 终于看到了曙光。 AI云，单季卖出了82亿元，笔者认为，这是三季报最大的亮点。 11月16日，百度交出2026年三季报： AI云基础设施单季收入82亿元，同比增长94%。客户预付款增加，合同期限拉长，多年投入开始换来更扎实  
-  36氪 · 2026-11-17 21:18
-
-- [金主弃投，核心高管相继离职，又一家机器人要“爆雷”？](<https://36kr.com/p/4073794487407744?f=rss>)  
-  又一家具身智能企业，徘徊在悬崖边上。 阿米奥机器人，这家由小米前自动驾驶负责人创立，被誉为“2026年最有机会跑出来的新面孔”的明星机器人公司。 被曝出正经历核心团队出走与组织收缩，原CTO、COO与产品负责人均已离职，团队也从峰值约130  
-  36氪 · 2026-11-17 21:17
-
-- [卖戒指年入126亿，花45亿买了一群医生](<https://36kr.com/p/4073795310130051?f=rss>)  
-  一家卖戒指的公司，花45亿元买下一群医生。 11月10日，智能戒指巨头Oura宣布，将以6.25亿美元现金（约合45亿元人民币），收购AI医疗公司Counsel Health。后者拥有AI问诊系统和真人医生团队，能为用户提供医疗咨询、处方、  
-  36氪 · 2026-11-17 21:16
-
 - [加州理工学院数学教授倪忆不再依据答案对错批改作业，称数学作业几乎都能用AI完成](<https://www.ithome.com/1/028/522.htm>)  
   据《商业内幕》16日报道，在加州理工学院任教17年的数学教授倪忆表示，由于学生普遍用AI完成数学作业且教师无法判断真伪，自己不再按答案对错给作业打分，改为只检查是否完成。数学专业大二学生萨特维克·雷德鲁图称自己为真正弄懂概念未使用AI，并认为依赖AI代做作业会让线下考试吃亏；加州理工学院尚未制定统一规定，部分课程甚至明确允许使用AI。  
   IT之家·人工智能 · 2026-11-17 20:59
@@ -83,10 +92,6 @@
 - [面壁智能亮相 Web Summit 2026：展示 MiniCPM-V 4.7 与端侧智能方案](<https://mp.weixin.qq.com/s/f6RZH2DJ1_cKsqLrmj3v6g>)  
   面壁智能在里斯本 Web Summit 2026 上展示了全新发布的 MiniCPM-V 4.7 及面壁智舱 SuperMate 等端侧产品。MiniCPM-V 4.7 35B-A3B 是全球首个可在端侧无损运行的开源 MoE 模型，单次推理仅激活 30 亿参数，在最新款 iPhone 上以约 3GB 运行内存实现约 20 token/s 解码速度。  
   公众号：面壁智能（MiniCPM） · 2026-11-17 20:50
-
-- [好未来的「生死反转」：优化员工，买入智谱](<https://36kr.com/p/4073822871147394?f=rss>)  
-  作者 \| 谢芸子 编辑 \| 张帆 想靠AI赚钱的教育公司，先被AI上了一课。 今年6月，粉笔创始人张小龙在人民大学的一场讲座上，大秀“炒科技股”的回报，并批评在场学生“除了混进体制内，没什么本事”。 风波以道歉和辞职收场。但他的确言行一致。  
-  36氪 · 2026-11-17 20:49
 
 - [AI 辅助歌曲《你成为梦想中的大人了吗？》登顶韩国 Melon TOP100](<https://www.ithome.com/1/028/518.htm>)  
   韩国 AI 音乐项目 MEOMURU 的《你成为梦想中的大人了吗？》于当地时间 13 日登顶 Melon TOP100，成为首首登上韩国主要音乐榜单榜首的 AI 辅助制作歌曲，截至 16 日仍居第一，播放量突破 2290 万次，30 多岁和 40 多岁听众合计占比超 50%。歌曲今年 6 月发行，人声由美国 AI 音乐平台 Suno 生成，词曲创作和制作等其他环节由真人团队完成。  
@@ -96,53 +101,9 @@
   百度 CEO 李彦宏与小米 CEO 雷军在深圳 Apec CEO 峰会上警告，巨额 AI 投入正超过商业回报，当务之急是开发高价值应用，否则泡沫担忧可能成真。李彦宏以工业革命电力类比，称 AI 最大经济价值在应用层，并援引青岛港 AI 智能体优化集装箱装载的案例；雷军指出真正落地的场景有限，看好 AI 手机、汽车与人形机器人。  
   Hacker News：AI 热帖 · 2026-11-17 20:30
 
-- [赵丽颖索赔81万后，红果短剧晒出治理成绩单](<https://36kr.com/p/4073744388708229?f=rss>)  
-  脸，正在成为短剧最贵的成本。 11月17日，红果短剧发布《关于肖像侵权专项治理的公告》，三件事很清楚：平台自审、制作预检、侵权投诉。自审的硬数——截至2026年10月，累计拦截、下架、修复疑似肖像侵权作品43992部，其中99%是平台自己先  
-  36氪 · 2026-11-17 20:19
-
-- [Mac收紧权限，苹果开始防着AI了](<https://36kr.com/p/4073685376226185?f=rss>)  
-  今天凌晨，苹果向开发者推送了 macOS 27.3 Beta 2。不少开发者在升级后发现，当应用申请「完整磁盘访问权限」时，系统会弹出一个带有红色感叹号的警告窗口： 弹窗煞有介事地逐一列出了可能暴露的邮件、消息、照片和浏览历史，还要求你逐项  
-  36氪 · 2026-11-17 20:16
-
-- [爆仓之后，25岁“AI股神”，就要跌入谷底](<https://36kr.com/p/4073789372846976?f=rss>)  
-  曾被华尔街称为“AI股神”的前OpenAI研究员利奥波德·阿申布伦纳（Leopold Aschenbrenner），7月刚经历强制平仓，9月底又交出一份大幅缩水的持仓表。 美国当地时间11月16日，阿申布伦纳管理的对冲基金Situation  
-  36氪 · 2026-11-17 20:15
-
-- [李沐加盟的Aimotion，是一家什么AI公司？](<https://36kr.com/p/4073789416739719?f=rss>)  
-  AI大神 李沐 ，悄悄多了一个新身份。 最新消息，这位前AWS AI资深首席科学家、Apache MXNet创始人之一、卡内基梅隆计算机博士，已经正式出任硅谷AI公司 Aimotion 的 联合创始人兼CTO ，亲自带队搭建其下一代产业级A  
-  36氪 · 2026-11-17 20:15
-
-- [深度：机器人要干活，先把大脑搬上云](<https://36kr.com/p/4073729223022216?f=rss>)  
-  在 AI 的落地坐标里，数字 AI 与物理 AI 原本属于两个不同的象限——但如今，它们正在深入交汇。 2026 年 10 月 29 日，在 2026 腾讯全球数字生态大会的主论坛上，出现了这样一幕：一个处于家庭场景中的启元机器人，在调用  
-  36氪 · 2026-11-17 20:13
-
-- [黄仁勋谢幕，具身智能的“中国时间”正式开始](<https://36kr.com/p/4073721624368260?f=rss>)  
-  黄仁勋交出英伟达方向盘的那天，全球具身行业从业者都在问同一个问题： 机器人没了“老黄的大脑”，怎么办？ 11月12日，英伟达官方公告落地——黄仁勋辞去总裁、CEO、董事职务，CFO科莱特·克雷斯临时接棒，新任CEO遴选同步启动。产品路线图、  
-  36氪 · 2026-11-17 20:13
-
-- [医疗AI：慌啥子嘛？](<https://36kr.com/p/4073748758599558?f=rss>)  
-  最近，AI圈里的当红明星——Anthropic的首席执行官阿莫代伊抛出了一则重磅预言： 如果能妥善应用人工智能的“神奇力量”，癌症和精神疾病等广泛存在的健康问题可能会在十年内“不复存在”。 这话说的很大胆，也直接表明了对未来AI医疗应用的无  
-  36氪 · 2026-11-17 20:12
-
-- [雷军爱将、美团千亿高管，扎堆卖戒指？](<https://36kr.com/p/4073713820521353?f=rss>)  
-  又一位互联网大厂高管，离职创业卖戒指了。 11月17日，据新浪科技报道，前美团门票度假和交通事业部总经理刘燕翔，联合前飞书高管Garin成立乎灵科技，推出AI戒指品牌「乎零」。 图片来自劲旅网 刘燕翔2014年加入美团，曾负责门票、度假、机  
-  36氪 · 2026-11-17 20:11
-
 - [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
   O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
   O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
-
-- [这几年英伟达是怎么买公司的：克制是常态，豪赌是例外](<https://36kr.com/p/4073736429654913?f=rss>)  
-  如果只看英伟达的营收和市值，很容易把它当成一家“卖算力/芯片的公司”。 但如果看它过去七年做过的很多笔并购案，会发现另一个不一样的英伟达。这是一家并购风格理性克制，把“技术”当成核心能力的公司：它很少为了并表收入而收购，也很少为了消灭对手而  
-  36氪 · 2026-11-17 19:25
-
-- [字节投的机器人公司，要上市了](<https://36kr.com/p/4073745359393923?f=rss>)  
-  具身智能赛道的资金，正从扎堆追捧人形机器人整机本体，转向重仓上游核心部件。当不少本体公司还在依靠融资持续输血、等待通用场景落地时，一家扎根末端执行器赛道的企业，已经走到了IPO门前。 11月14日，据深圳证监局公开信息显示，大寰机器人科技股  
-  36氪 · 2026-11-17 19:18
-
-- [第十六届香港国际金融论坛暨第七届领航「9+2」粤港湾大湾区发展论坛](<https://36kr.com/p/4073736741344384?f=rss>)  
-  具身智能正加速迈向全球产业落地，「十五五」开局与香港「超级联系人」角色深化，为硬科技出海打开新窗口。 11月23日,第十六届香港国际金融论坛暨第七届领航「9+2」粤港澳大湾区发展论坛·香港国际具身智能峰会启幕,汇聚国内顶尖具身智能头部企业与  
-  36氪 · 2026-11-17 19:17
 
 - [OpenAI Partners With NATO On Cyber Defenses](<https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-17 19:13
@@ -179,4 +140,40 @@
   AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
   IT之家·人工智能 · 2026-11-17 17:41
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 17 页
+- [Perplexity 年化收入突破 $1B，2026 年增长 4 倍](<https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/>)  
+  Perplexity CEO Aravind Srinivas 在 Semafor 活动上宣布公司年化收入突破 $1B。The Information 此前报道其年初收入不到 $250M，8 月已超 $750M，Computer 产品推动部分增长。  
+  Latent Space（RSS） · 2026-11-17 17:24
+
+- [Liquid AI 发布 d1.2 与 d1.2-ultra 全模态决策模型，登顶 AA Decision Index](<https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/>)  
+  Liquid AI 发布决策模型 d1.2 和 d1.2-ultra，支持文本、图像和音频输入，返回概率而非生成文本，d1.2-ultra 以 75 分位列 Artificial Analysis Decision Index v2.1 决策模型榜首。  
+  MarkTechPost（RSS） · 2026-11-17 17:20
+
+- [Dreamteam AI获得5300万美元战略投资](<https://www.itjuzi.com/investevent/14708087>)  
+  Dreamteam AI 是 一家AI 原生企业 CRM 平台研发商，以 Company Brain 客户记忆层为核心，自动聚合邮件、会议等客户交互信息，配套四类销售 AI 智能体自动完成线索挖掘、跟进撰写、风险识别与 CRM 运维，…  
+  IT桔子 · 2026-11-17 16:52
+
+- [腾讯元宝全量上线混元 Hy4 flash，支持快速回答与深度思考双模式](<https://mp.weixin.qq.com/s/JgxkKNkRLkNlpIgNY5QLqg>)  
+  腾讯元宝宣布全量上线混元最新模型 Hy4 flash，支持快速回答与深度思考两种模式。用户更新元宝到最新版后选择 Hy4 模型，即可在两种模式间切换，快速回答应对日常问答，深度思考处理复杂推理任务。  
+  公众号：腾讯元宝 · 2026-11-17 16:51
+
+- [智源 FlagOpen 上线 HumanCOIN DataManager 数据集门户](<https://github.com/FlagOpen/HumanCOIN-DataManager>)  
+  智源 FlagOpen 推出 HumanCOIN DataManager 网页门户，用于查找、预览和下载 HumanCOIN 数据集，首批预计包含约 1,200 小时数据。  
+  智源 FlagOpen：原创开源项目 · 2026-11-17 16:34
+
+- [Valeria获得550万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708084>)  
+  Valeria是一个AI 原生 SaaS 薪资与员工管理平台，面向零售、即时配送、餐饮、活动等高人员流动行业，为中小企业提供一体化用工生命周期管理。平台搭载自研薪资计算引擎，直连西班牙社保与税务官方系统，AI 自动生成合规合同、批量办…  
+  IT桔子 · 2026-11-17 16:26
+
+- [谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言](<https://www.ithome.com/1/028/336.htm>)  
+  谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，用户可在语音设置或 Gemini Live 对话中切换口音。此次更新涵盖美式英语、英式英语、印度英语、印地语、巴西葡萄牙语、印度尼西亚语和韩语，其中英国用户可选 10 余种地区口音。谷歌与母语使用者合作还原当地语速与节奏，相关语音也适用于 Gemini Live 和文本转语音播放。  
+  IT之家·人工智能 · 2026-11-17 16:21
+
+- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
+  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
+  IT之家·人工智能 · 2026-11-17 16:16
+
+- [NovaSilicon完成近亿元Pre-A+轮融资](<https://www.itjuzi.com/investevent/14708020>)  
+  芯星元Novasilicon是一家AI芯片设计服务商，试图推动半导体产业迎来继制造专业化之后的下一次分工 —— 让更多企业无需自建完整芯片设计团队，也能按需调用芯片设计能力。芯星元Novasilicon完成近亿元Pre-A+轮融资，由…  
+  IT桔子 · 2026-11-17 16:12
+
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页

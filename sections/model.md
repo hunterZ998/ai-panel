@@ -1,6 +1,6 @@
 # 大模型
 
-[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页
+[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页
 
 ## 赛道研究
 
@@ -38,15 +38,49 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 160 条
+## 相关资讯 · 197 条
+
+- [GPT-6没拆掉的护城河，具身智能务实派先一步在服务场景找到答案](<https://36kr.com/p/4073722831508612?f=rss>)  
+  具身智能行业，正在经历一场微妙而又深刻的变化。 过去，机器人公司热衷于展示自己的技术上限：能跳多高、跑多快，又能完成多少复杂动作。但到了下半年，行业开始出现另一种声音。比起证明机器人有多聪明，越来越多人开始关心它们走进真实场景后的表现。 最  
+  36氪 · 2026-11-18 10:42
+
+- [商汤科技发布SenseNova Loop-9B大模型](<https://www.163.com/dy/article/LC0SGKRC0519DFFO.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 10:36
+
+- [Anthropic估值或升至1.6万亿美元，亚马逊谷歌合持近三成股份](<https://www.163.com/dy/article/LC0S69DU0550WHYR.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 10:29
+
+- [刚领完“青年科学家奖”，谢伟迪就融了数亿](<https://36kr.com/p/4074635892872066?f=rss>)  
+  近日，投中网获悉，生命模型智能公司观壹智能（OneX Intelligence）宣布完成首轮数亿元融资，由IDG资本领投，创世伙伴创投\(CCV\)、沄柏资本、交大菡源资产、云启资本跟投，财务顾问为棕榈资本。本轮资金将主要用于生命智能基础模型研  
+  36氪 · 2026-11-18 10:28
+
+- [大洋彼岸的数据中心成了洪水猛兽](<https://www.tmtpost.com/8208735.html>)  
+  AI算力需求激增，数据中心却因噪声、用水、电价及土地占用引发海外居民抵制。美国多地收紧审批，并要求开发商承担扩网风险。中国则以机房上架率约束新增建设，探索绿电直连和算力跨区域调度。数据中心扩张正从争抢投资转向衡量资源成本与实际需求。  
+  钛媒体 · 2026-11-18 10:09
+
+- [AMD 完成对 Taalas 收购，计划将后者芯片整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
+  IT之家 11 月 18 日消息，AMD 当地时间昨日宣布 完成对专用 AI 推理芯片开发商 Taalas 的收购 。这家初创企业带来了差异化的技术和世界一流的工程专业知识。 AMD 表示此举将进一步加强其全栈 AI 产品组合和长期推…  
+  IT之家 · 2026-11-18 10:06
+
+- [GPT-6.2 Astra终于上线，从PPT做到发动机](<https://www.tmtpost.com/8209040.html>)  
+  新模型什么活都想干，但很难伺候。  
+  钛媒体 · 2026-11-18 09:58
 
 - [深微芯创获得近亿元融资](<https://www.itjuzi.com/investevent/14708106>)  
   深微芯创是一家专注于AI算力芯片与高带宽集成技术的硬科技型企业，面向高性能芯片封装、光电共封装（CPO）及下一代数据中心互联需求，提供半导体先进封装制造装备、光电材料器件与成套工艺一体化解决方案。公司围绕玻璃基板、TGV三维互连、光通…  
   IT桔子 · 2026-11-18 09:55
 
+- [Anthropic IPO尚未落地，已获“买入”评级](<https://www.tmtpost.com/8209054.html>)  
+  预计 Anthropic 的股票将于周四开始交易。华尔街一家机构已率先对该股作出初始评级，给出“买入”建议。  
+  钛媒体 · 2026-11-18 08:55
+
 - [Anthropic纳斯达克IPO获准](<https://www.pedaily.cn/first/193041.shtml>)  
   Anthropic表示，已获准在纳斯达克全球精选市场上市A类普通股，股票代码为“ANT”。（投资界）  
   投资界 · 2026-11-18 08:49
+
+- [Edge AI Daily 早报（11月18日）](<https://www.tmtpost.com/8208923.html>)  
+  Anthropic IPO由亚马逊与谷歌合计持股近三成，估值1.405万亿美元，公开市场检验现金流与算力成本。OpenAI发布GPT-6.2双模型，推进企业分层商业化，并携北约网络防御、签约AMD算力。英伟达遭SEC调查、创始人辞任、…  
+  钛媒体 · 2026-11-18 08:48
 
 - [GPT-6.2Astra与Sol突袭发布，OpenAI狙击Anthropic上市日，任务成本仅为Claude的5%](<https://36kr.com/p/4074370835977092?f=rss>)  
   就在 Anthropic 敲钟上市的同一天，OpenAI 端出了它的“贺礼”。 11 月 18 日凌晨消息，OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款新模型： 在复杂专业任务上，GPT-6.2 As  
@@ -91,9 +125,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。  
   公众号：数字生命卡兹克 · 2026-11-18 06:36
 
-- [Anthropic IPO 后 Amazon 与 Google 将合计持股近 30%](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
-  Anthropic 披露 IPO 相关投资细节：Amazon 持股将达 14.7%，全部转换可转债可至 23.8%；Google 持股 13.7%，均为无投票权股份。  
-  TechCrunch：AI（RSS） · 2026-11-18 06:29
+- [Amazon and Google will together own nearly 30% of Anthropic after its IPO](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
+  Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w  
+  TechCrunch · 2026-11-18 06:29
 
 - [Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录](<https://www.ithome.com/1/028/577.htm>)  
   IT之家 11 月 18 日消息，就在 Anthropic IPO 定价前一天，OpenAI 突然毫无预兆地送上了一份“惊喜”。 OpenAI 今日正式发布了最新的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重点提…  
@@ -179,40 +213,4 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
   Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
 
-- [Cerebral Valley AI 峰会精华：算力成本、开源权重模型与 Nvidia 变局](<https://www.newcomer.co/p/top-takes-from-cvai-2026>)  
-  Newcomer 梳理了上周 Cerebral Valley AI 峰会的核心观点，Databricks 的 Ali Ghodsi、Palo Alto Networks 的 Nikesh Arora 与 General Catalyst 的 Hemant Taneja 等嘉宾围绕算力成本展开讨论。  
-  Newcomer 新闻长文（RSS） · 2026-11-17 22:33
-
-- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
-  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
-  NVIDIA Blog（RSS） · 2026-11-17 22:00
-
-- [AI巨头抢购发电机，能源正在成为AI竞争的新变量](<https://36kr.com/p/4073687278294145?f=rss>)  
-  “算力的尽头是电力”，这句话正在成为大模型时代的铁律。AI巨头们已经从早期的抢GPU、抢算力，演变成了如今的抢发电机。 近期，Anthropic豪掷34亿美元买下1.7吉瓦燃气发电产能的举动，引发了科技圈的广泛关注。 这种跳过中间环节、直接  
-  36氪 · 2026-11-17 21:34
-
-- [实测能省7000美元的 “AI嘴替”，难怪国内大厂坐不住了](<https://36kr.com/p/4073670187226760?f=rss>)  
-  临近上市的Anthropic，封起号来更加毫不手软了。 11月10日A社正式启动IPO路演，11月12日新版使用政策紧跟着生效，进一步明确了受支持国家与地区的使用限制， 又有一大批账号的订阅费用，成了Anthropic上市的养料 。 钱交了  
-  36氪 · 2026-11-17 21:31
-
-- [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
-  O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
-  O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
-
-- [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
-  ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
-  ChinaTalk（RSS） · 2026-11-17 19:03
-
-- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
-  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
-  MarkTechPost（RSS） · 2026-11-17 17:51
-
-- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
-  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
-  IT之家·人工智能 · 2026-11-17 17:41
-
-- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
-  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
-  IT之家·人工智能 · 2026-11-17 16:16
-
-[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页
+[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页

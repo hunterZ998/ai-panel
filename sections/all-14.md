@@ -1,154 +1,180 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 17 页
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页
 
-- [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115697&idx=1&sn=c5dae711f6551fadf3ac18e7bfb6484e>)  
-  APPSO · 2026-11-09 20:00
+- [PH今日热榜 \| 2026-11-12](<https://decohack.com/producthunt-daily-2026-11-12/>)  
+  ScroogeFrog AI：AI 广告欺诈检测，保护你的营销预算；Nod by n8n：拥有自己计算机的开源个人助手；CALL-E：通过你的AI助手（如Muse、ChatGPT或Claude）拨打电话  
+  Product Hunt 中文 · DecoHack · 2026-11-12 15:00
 
-- [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116234&idx=1&sn=aef5923de6ccddb6ff81233d7a02597d>)  
-  极客公园 · 2026-11-09 19:03
+- [OpenAI 分享 OpenClaw 持久化智能体的安全部署实践](<https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai>)  
+  OpenAI 介绍其公司内部数百个 OpenClaw 持久化智能体的安全部署控制方案，核心包括把 Gateway 等可信确定性逻辑与不可信的智能体执行分离、通过 codex 内置沙箱限制网络、文件、进程和密钥访问，并用 Auto-review 让第二个模型审查主智能体的操作。  
+  OpenAI Developers：Blog（网页） · 2026-11-12 15:00
 
-- [前OpenAI员工看吐！AI研发AI冲线「终极超级智能」，停建全球机房也晚了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=2&sn=39bbdfe4884d81b6ecb8330ff1bf734d>)  
-  新智元 · 2026-11-09 18:30
+- [蚂蚁 inclusionAI 发布 Duo-1.0-causal-base 全双工交互世界模型权重](<https://huggingface.co/inclusionAI/Duo-1.0-causal-base>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 Duo 1.0 的 causal-base 变体权重，Duo 是面向实时音视频交互的全双工多模态世界模型。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-12 14:32
 
-- [印度自研模型社死！照搬千问，仅塞提示词硬充印度造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=1&sn=47589ca037f06b538a1e1603eaa5f840>)  
-  新智元 · 2026-11-09 18:30
+- [蚂蚁 inclusionAI 发布 SingVL-4B GGUF 量化版本](<https://huggingface.co/inclusionAI/SingVL_S1_4B_GGUF>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 SingVL-4B 的 GGUF 版本，这是基于 Qwen3.5 的 4B 参数多模态决策模型 Sing VL S1 的量化发布。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-12 10:58
 
-- [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748686&idx=1&sn=52ef8fb842bd446399c52bf45be82a5e>)  
-  AI科技评论 · 2026-11-09 18:29
+- [Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型](<https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>)  
+  Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。  
+  Claude：Blog（网页） · 2026-11-12 08:00
 
-- [Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=2&sn=3d5312c12d83505cab086e7f5ce11acd>)  
-  量子位 · 2026-11-09 18:19
+- [Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议](<https://claude.com/blog/claude-meetings>)  
+  Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。  
+  Claude：Blog（网页） · 2026-11-12 08:00
 
-- [千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=1&sn=7d8135155abf2ea4dd5152eda4a8ef8d>)  
-  量子位 · 2026-11-09 18:19
+- [Supporting research on AI and children’s safety](<https://openai.com/index/children-first-declaration>)  
+  OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks an…  
+  OpenAI · 2026-11-12 08:00
 
-- [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](<https://guiguzaozhidao.fireside.fm/20240450>)  
-  最近，Personal Agent 开始成为 AI 行业的新热点。它们能够理解用户的个人习惯和需求，连接不同工具，甚至主动替用户处理购物、生活服务和工作中的复杂任务。但当一个通用 Agent 遇到专业任务时，是否什么都能做好？未来的通…  
-  科技早知道 · 2026-11-09 18:00
+- [ChatGPT Ads increases its market presence in 44 countries](<https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence>)  
+  Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and loc…  
+  OpenAI · 2026-11-12 08:00
 
-- [500小时人类视觉-触觉数据，到底能让机器人学到什么？\| GAIR Paper 140](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=2&sn=b1bb761d93a9cf76643161b247f47a27>)  
-  AI科技评论 · 2026-11-09 16:16
+- [Gilbert + Tobin rethinks the business of law with AI](<https://openai.com/index/gilbert-tobin-sam-nickless>)  
+  A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.  
+  OpenAI · 2026-11-12 08:00
 
-- [姚顺雨加入腾讯近一年，混元追上来了？实测 Hy4 比 Kimi K3.1 Pro 快了 28 分钟](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=1&sn=d5cffdc0d0b028234bfba235dc588920>)  
-  AI科技评论 · 2026-11-09 16:16
+- [Brave Search API 支持 x402 协议的智能体按次付费](<https://brave.com/blog/search-api-agentic-payments/>)  
+  Brave Search API 接入开源 x402 支付协议，开发者和自主智能体可按次付费查询 Brave 独立搜索索引，无需注册账号或管理 API key。  
+  Hacker News：AI 热帖 · 2026-11-12 08:00
 
-- [创业者做 Personal Agent，有没有一线生机？](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116221&idx=1&sn=ce138b50de491dc2ac7883a2c067a8fb>)  
-  极客公园 · 2026-11-09 15:44
+- [OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故](<https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/>)  
+  OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。  
+  OpenAI：失准报告与通报（网页） · 2026-11-12 08:00
 
-- [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115625&idx=1&sn=5c60f9caed20fc1741a5bd18de6c45e4>)  
-  APPSO · 2026-11-09 15:41
+- [vLLM 在 Vera Rubin NVL72 上跑 DeepSeek-V4.1-Flash：吞吐达 GB300 NVL72 的 58 倍，单用户 387 tokens/s](<https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin>)  
+  vLLM 在单台 NVIDIA Vera Rubin NVL72 机架上部署 DeepSeek-V4.1-Flash，每 GPU 吞吐 1.7M tokens/s、单用户 387 tokens/s，为 GB300 NVL72 的 58 倍，峰值吞吐 2.52M tokens/s、单用户最高 1,810 tokens/s。  
+  vLLM 官方博客（RSS） · 2026-11-12 08:00
 
-- [千问办公2.0发布，为首个支持多人与Agent协作的Team Agent](<https://36kr.com/newsflashes/4062206154298505?f=rss>)  
-  36氪获悉，11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服…  
-  36氪 · 2026-11-09 15:29
+- [vLLM Day-0 支持 Thinking Machines 的 Inkling 2 Small](<https://vllm.ai/blog/2026-11-12-inkling2-small>)  
+  vLLM 宣布 Day-0 支持 Thinking Machines 的 Inkling 2 Small，这是一款 594B 总参数、17B 激活的多模态 MoE 模型，上下文最长 1M tokens，并带原生 DSpark 推测解码。  
+  vLLM 官方博客（RSS） · 2026-11-12 08:00
 
-- [SpaceX拟在得州建设240亿美元超级计算设施](<https://36kr.com/newsflashes/4062199706997895?f=rss>)  
-  SpaceX计划在得克萨斯州建设一座配备独立天然气发电厂的人工智能超级计算设施，项目总投资达240亿美元，约为该公司比特币持仓价值的17倍。持有比特币的SpaceX于今年6月完成了历史上规模最大的首次公开募股（IPO），如今该公司计划…  
-  36氪 · 2026-11-09 15:23
+- [Claude Meetings beta 上线：可加入 Google Meet 会议做笔记和生成文档](<https://support.claude.com/en/articles/12138966-release-notes#h_2d03630102>)  
+  Claude Meetings 在 Team 和 Enterprise 套餐的 Claude 与 Claude Desktop 中以 beta 形式推出。它可作为可见参与者加入 Google Meet 通话，在会中做笔记、回答问题，并生成 docs、whiteboards、slides 等 artifacts。  
+  Claude 应用发布说明 · 2026-11-12 08:00
 
-- [倒计时一周｜量子位2026人工智能年度榜单征集即将截止！](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940695&idx=3&sn=3fe2b8d780d0091262575114c364962a>)  
-  量子位 · 2026-11-09 15:07
+- [Gemini 4 Hydrogen \(gemini-4-hydrogen\) 正式可用并成为 Antigravity 智能体默认模型](<https://ai.google.dev/gemini-api/docs/changelog#11-12-2026>)  
+  Google 在 Gemini API 更新日志中宣布 Gemini 4 Hydrogen \(gemini-4-hydrogen\) 正式可用 \(GA\)，面向日常编码和智能体工作流提供速度与效率。  
+  Gemini API：更新日志（网页） · 2026-11-12 08:00
 
-- [量子位编辑作者招聘](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940695&idx=4&sn=7723d4dc7ce883ecdbab790be64552a3>)  
-  量子位 · 2026-11-09 15:07
+- [Jensen Huang 辞任 Nvidia CEO 后对 AI 经济的五点影响分析](<https://tomtunguz.com/the-impact-of-jensens-resignation/>)  
+  Tomasz Tunguz 分析 Jensen Huang 即日辞任 Nvidia 总裁、CEO 及董事后对 AI 行业的影响，CFO Colette Kress 出任临时 CEO。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-12 08:00
 
-- [具身智能出海，物流先行](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940695&idx=2&sn=6c551886ee57dd136d7f99371d2c7fb0>)  
-  量子位 · 2026-11-09 15:07
+- [Mastra 推出 Private Model Gateways 支持 Agent 调用自托管开源模型](<https://mastra.ai/blog/introducing-private-model-gateways>)  
+  Mastra 发布 Private Model Gateways，可将 Agent 请求路由到自托管开源权重模型，示例用 Ollama 运行 gpt-oss:20b，模型引用格式为 private/ollama/gpt-oss:20b。  
+  Mastra Blog · 2026-11-12 08:00
 
-- [“AI毁了我的计算机学位”](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940695&idx=1&sn=e873b5044046306d4cd2d73987d1f4da>)  
-  量子位 · 2026-11-09 15:07
+- [Amp 移除 Dial 四档模式，改用模型选择器并支持线程内切换模型](<https://ampcode.com/news/bye-bye-dial>)  
+  Amp 宣布移除 Dial 及其 low、medium、high、ultra 四档模式，改用模型选择器，可逐线程选择模型与 effort，并支持线程中途切换，切换后会显示记录（如 "Switched to GPT-6.1 Sol · High"）。  
+  Amp Chronicle · 2026-11-12 08:00
 
-- [20VC: Mistral CEO on Why Energy Is Not the Bottleneck to AI \| Why OpenAI and Anthropic Will Come for Your Business \| The Future of the Inference Market \| Are Chinese Open-Source Models Truly Safe?](<https://thetwentyminutevc.libsyn.com/20vc-mistral-ceo-on-why-energy-is-not-the-bottleneck-to-ai-why-openai-and-anthropic-will-come-for-your-business-the-future-of-the-inference-market-are-chinese-open-source-models-truly-safe>)  
-  Arthur Mensch is the Co-Founder and CEO @ Mistral, the last remaining hope for frontier intelligence in Europe. Mistr…  
-  20VC · 2026-11-09 15:07
+- [语言模型对齐的理论极限：KL 预算下奖励提升的上界与 reward hacking 分析](<https://machinelearning.apple.com/research/theoretical-limits-alignment>)  
+  Apple 研究团队推导出 KL 正则化对齐在固定 KL 预算下可实现的最大期望奖励增益的闭式解，其由 Jeffreys 散度项而非此前分析使用的 √KL 决定。  
+  Apple Machine Learning Research（RSS） · 2026-11-12 08:00
 
-- [前歌尔、华为团队做全彩3D拼装DIY创作平台，拿下元禾、梅花等天使系列融资｜硬氪首发](<https://36kr.com/p/4053486898418569?f=rss>)  
-  作者｜黄楠 编辑｜袁斯来 硬氪获悉，全彩3D拼装DIY软硬件创作平台「睿岭智能」近日连续完成两轮数千万元融资，天使轮由元禾原点领投、天使+轮梅花创投领投，高秉强教授及旗下Brizan Venture基金、麟阁创投、某全球头部IP企业创…  
-  36氪 · 2026-11-09 13:04
+- [Factory 推出 Cyber Defense Network，联合 Snyk、Palo Alto Networks 等将安全发现接入 Security Factory](<https://factory.com/news/cyber-defense-network>)  
+  Factory 推出 Cyber Defense Network，由 Snyk、Palo Alto Networks、Semgrep、Cogent、Casco、DepthFirst、Detail 等安全公司组成，合作伙伴的漏洞发现直接流入 Security Factory。  
+  Factory 研究 / 产品（RSS） · 2026-11-12 08:00
 
-- [GreenCore Solutions Rebrands as WeFetch.ai for the AI Shopping Market: gtinfetch.ai lead product](<https://www.prnewswire.com/news-releases/greencore-solutions-rebrands-as-wefetchai-for-the-ai-shopping-market-gtinfetchai-lead-product-302932958.html>)  
-  AI sector in 2026: 3 billion AI users, half of consumers AI shopping, 8 in 10 buyers in leading sectors on AI agents,…  
-  PR Newswire · 2026-11-09 13:01
+- [Anthropic 推出 Claude for Manufacturing 插件，内置 17 项制造技能](<https://claude.com/blog/claude-for-manufacturing>)  
+  Anthropic 发布 Claude for Manufacturing 插件，内置 17 项覆盖销售、质量、运营、供应链、设计与装调的技能，可从报价、排查质检失败到诊断设备故障。  
+  Claude：Blog（网页） · 2026-11-12 08:00
 
-- [ChatGPT一秒画出个人秘密，全网疯转「空房间」测试！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=2&sn=caf428a0dfd694d7682c03a12afdb794>)  
-  新智元 · 2026-11-09 12:56
+- [Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown](<https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls>)  
+  President Trump on Thursday authorized a crack down on companies suspected of diverting Nvidia's advanced AI chips to…  
+  Axios · 2026-11-12 04:59
 
-- [视频生成不再反复抽卡！清华开源，给模型装上「三维空间大脑」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=3&sn=5112b6645bbbec5d670fb8d97636f63d>)  
-  新智元 · 2026-11-09 12:56
+- [Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/>)  
+  Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。  
+  Google Blog：AI（RSS） · 2026-11-12 02:00
 
-- [GPT-6.2首测！网友：终于有个能压倒Opus 5.5的了？？](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=1&sn=9e5afce079bbaa1db52ccabdc4bc8f2c>)  
-  新智元 · 2026-11-09 12:56
+- [a16z 发布 B2A（面向 Agent 的商业）研究框架，把机会分为 Agent、本来难以成立的新产品、适配 Agent 的既有企业及基础设施，强调分发和支付、身份、欺诈等瓶颈。这是投资机构的分析框架，所引第三方流量与代码占比未独立核验，不作为全行业事实。](<https://x.com/a16z/status/2120564069010931746>)  
+  Agents now make up the majority of web traffic, write more than half of new articles published online, and generate most of the code pushed to production. This is what the early stage of a platform shift looks like: adoption is measurable, but the business mod…  
+  @a16z · 2026-11-12 01:07
 
-- [Talogy links leadership assessment to development, offering AI simulations for the first time](<https://www.prnewswire.com/news-releases/talogy-links-leadership-assessment-to-development-offering-ai-simulations-for-the-first-time-302932034.html>)  
-  New Talogy InView Leadership® helps organisations assess, select and develop leaders at every level DUBAI, UAE, Nov.…  
-  PR Newswire · 2026-11-09 12:03
+- [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](<https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/>)  
+  Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets…  
+  Google AI · 2026-11-12 00:00
 
-- [Qwen 4疑似偷跑！游戏开发超越Opus 5.5，成本暴降85%](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=1&sn=210b20c50f8aa2e46e67cb7ef169a42f>)  
-  量子位 · 2026-11-09 11:05
+- [取证分析称 DeepSeek、Moonshot AI、MiniMax、蚂蚁集团六款模型带有受出口管制的 NVIDIA Blackwell 芯片指纹](<https://unemploymentlabs.com/checkpoint-forensics>)  
+  Unemployment Labs 发布取证报告，通过恢复模型权重的初始化种子和 GPU 线程布局，发现 DeepSeek-V4-Flash、DeepSeek-V4-Pro、Kimi K3、Kimi K3.1-Pro、MiniMax-M3 和 Ling-3.1-flash 六款模型的起始权重与 NVIDIA Blackwell 硬件布局匹配。  
+  Hacker News：AI 热帖 · 2026-11-12 00:00
 
-- [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
-  量子位 · 2026-11-09 11:05
+- [SGLang-Neuron v0.1.0 开源发布：SGLang 推理栈登陆 AWS Trainium](<https://www.lmsys.org/blog/2026-11-12-sglang-neuron-v0.1.0>)  
+  SGLang 团队与 AWS Annapurna Labs 联合发布并开源 SGLang-Neuron v0.1.0，一个 PyTorch 原生插件，可在 AWS Trainium 上以公共预览形式服务 LLM 和扩散模型。  
+  LMSYS Blog · 2026-11-12 00:00
 
-- [刚刚，马斯克评论黄仁勋出轨事件](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115550&idx=1&sn=c416c5ae77963842e1e914f466907965>)  
-  APPSO · 2026-11-09 10:46
+- [Google 工程师演示用 Gemini 4 Argon 加 Z3 约束求解器捕获 Go 模糊测试漏掉的边界 bug](<https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/>)  
+  Google agent skills 项目负责人介绍一套用 Gemini 4 Argon 把 Go 源码和 RISC-V 反汇编翻译成 Z3 约束、再以 go test 重放崩溃输入的 bug 挖掘流程，并开源了检查 SKILL.md 的 Go CLI skill-lint。  
+  Google Developers Blog（RSS） · 2026-11-12 00:00
 
-- [超1.3万人共赴出海之约：GTC2026 全球流量大会（上海）圆满收官](<https://36kr.com/p/4061893184754565?f=rss>)  
-  11月5日，为期两天的GTC2026 全球流量大会（上海）在上海世博��览馆H3馆圆满落下帷幕。 作为本年度跨境出海领域的重磅盛会，本届大会交出了一份亮眼的成绩单： 两日入场总人数突破13000人，总人次超25000。 在7500平米…  
-  36氪 · 2026-11-09 10:12
+- [Google 公布 Agent Anomaly Detection 在五个第三方 Agent 安全基准上的成绩](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)  
+  Google 介绍 9 月在 Gemini Enterprise Agent Platform 上进入 Private Preview 的 Agent Anomaly Detection。  
+  Google Developers Blog（RSS） · 2026-11-12 00:00
 
-- [四足机器人，又翻过了一座大山](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748609&idx=1&sn=5db19a5c4ec6cfd586c49a55b1da3ef4>)  
-  AI科技评论 · 2026-11-09 09:58
+- [AI 采用的下两个层级：从编排走向模拟](<https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption>)  
+  Every 在 6 月提出的 AI 采用八级框架之后补充了第 9、10 级：第 9 级让不同策略相互竞争以找出最优解，第 10 级反复运行这一竞争以识别能稳定胜出的策略。作者称多数工程师已在同时运行多个长任务智能体并把协调交给编排器，Codex 和 Claude 桌面应用让非技术团队也能更快推进编排。这两级仍处于实验阶段，消耗的 token 远多于低层级，且更高层级并不保证当下就有更好结果。  
+  Every：最新文章（网页） · 2026-11-12 00:00
 
-- [OpenAI破译数论百年悬案，揭开P≠NP重大线索！千禧年神题逼近了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741377&idx=2&sn=01c64561413e9f77452a03418e94b34e>)  
-  新智元 · 2026-11-09 09:57
+- [Google 发布 Gemini 4 Hydrogen，主打快速执行与多模型协作](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/>)  
+  Google 发布 Gemini 4 Hydrogen，定位为面向日常编码与智能体工作流的快速执行模型，与主打深度推理的 Gemini 4 Carbon 和 Argon 互补，现已覆盖 AI Studio、Gemini API、Gemini 应用、Google Search 等全部层级。  
+  Hacker News：AI 热帖 · 2026-11-12 00:00
 
-- [OpenAI、Anthropic接连出手！中国黑马把实验室变成AI「进化训练场」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741377&idx=1&sn=df10cbb86d7fd7e8916d5d862a1ab925>)  
-  新智元 · 2026-11-09 09:57
+- [LMSYS 联合 NVIDIA、AMD、Intel 等成立 SGLang Consortium 推进开源推理](<https://www.lmsys.org/blog/2026-11-12-sglang-consortium>)  
+  LMSYS Org 于 2026 年 11 月 12 日在旧金山首届 SGLang Summit 开幕主题演讲上宣布成立 SGLang Consortium，创始成员包括 NVIDIA、AMD、Intel、Google、Meta、Cloudflare、Modal 和 RadixArk。  
+  LMSYS Blog · 2026-11-12 00:00
 
-- [联友科技高亮：我们还在探讨设置墨西哥、泰国据点\| 最前线](<https://36kr.com/p/4061852643775360?f=rss>)  
-  “车企出海，正面临海外制造与供应链协同难、本地营销获客效率低、售后服务响应慢、财务与HR合规流程繁琐等痛点。”联友科技海外事业BU总监付司纬这样总结车企出海所面临的难题。 针对这些痛点，联友科技推出AI原生的汽车出海全链路数智化解决方…  
-  36氪 · 2026-11-09 09:49
+- [Hark 发布 Handoff² 智能体，平均速度提升 2 倍](<https://hark.com/articles/introducing-hark-handoff-now-2x-faster>)  
+  Hark 发布 Handoff²，其 computer-use agent 平均速度为初版 2 倍，模型本身快 46%，今日起向所有 Hark Pro 用户推送。  
+  Hark 官方动态 · 2026-11-12 00:00
 
-- [Edge AI Daily 早报（11月9日）](<https://www.tmtpost.com/8197806.html>)  
-  中期选举后美国46项数据中心公投否决扩张，AI基建进入许可时代；纳指单日跌5.5%、费半跌12%，亚洲市场熔断。Anthropic斥34亿美元购1.7GW燃气发电机，伯恩斯坦估OpenAI至2030年算力支出或达6140亿美元。苹果推…  
-  钛媒体 · 2026-11-09 09:28
+- [Welcome to the B2A Economy](<https://www.a16z.news/p/welcome-to-the-b2a-economy>)  
+  They’re AI agents.  
+  a16z · 2026-11-11 23:02
 
-- [AI会撞上的下一堵墙可能是水](<https://www.tmtpost.com/8197774.html>)  
-  世界经济论坛的报告估计，全球约45%的数据中心设施位于高水压力地区  
-  钛媒体 · 2026-11-09 09:20
+- [What the Internet Boom Teaches Us About the AI Buildout \| Mike Volpi](<https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG>)  
+  The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strateg…  
+  The a16z Show · 2026-11-11 19:00
 
-- [黄仁勋承认「婚外情」英伟达启动调查；ChatGPT 陷封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈AI公司护城河：在产品层而不是模型层](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116214&idx=1&sn=44f51a7368dc153eb96a6f011ebaf38b>)  
-  极客公园 · 2026-11-09 08:57
+- [The AI industry's week from hell](<https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms>)  
+  A week of political upheaval , financial turmoil and salacious scandal delivered one final indignity to the AI indust…  
+  Axios · 2026-11-11 18:20
 
-- [价值判断：跌停板的投资机会和风险提示（11月6日）｜上市公司观察](<https://www.tmtpost.com/8197864.html>)  
-  高争民爆的溢价是矿资产注入的期权，预案还要过几道审批，跨界采矿是全新课题；大业股份的溢价是一根还没量产的腱绳，钢丝主业在价格下行里亏损扩大；襄阳轴承的溢价是机器人轴承的想象，那项收入占比几乎为零，创新高当天就被砸到跌停。  
-  钛媒体 · 2026-11-09 08:32
+- [Pharen Hub](<https://www.producthunt.com/products/pharen-hub>)  
+  One AI workspace for your whole company  
+  Product Hunt · English · 2026-11-11 17:03
 
-- [量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940494&idx=2&sn=9db07334ac7280256ec75aacf999ddd4>)  
-  量子位 · 2026-11-09 08:18
+- [Experience the art and legacy of Dr. Esther Mahlangu](<https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/>)  
+  A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.  
+  Google AI · 2026-11-11 17:00
 
-- [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
-  APPSO · 2026-11-09 07:59
+- [ChatGPT Plus for veterans and servicemembers](<https://openai.com/index/chatgpt-plus-for-veterans>)  
+  More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they us…  
+  OpenAI · 2026-11-11 16:00
 
-- [\[One Million AI Engineer Special\] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco>)  
-  What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s…  
-  Latent Space · 2026-11-09 05:23
+- [PH今日热榜 \| 2026-11-11](<https://decohack.com/producthunt-daily-2026-11-11/>)  
+  Alsona：将购买信号转化为已预定销售电话的人工智能助手；Maxma：24小时无休的AI助手，助力提升你的付费广告表现；TK by Medium：一本助你提升思维的主动笔记本  
+  Product Hunt 中文 · DecoHack · 2026-11-11 15:00
 
-- [【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨](<https://www.xiaoyuzhoufm.com/episode/6af00645b4a4e20202f67440?utm_source=rss>)  
-  ➤ 「十字路口」2026 年终 AI 复盘系列第二期，我们邀请到在硅谷做 NeoLab 的谷雨（NeoCognition 联合创始人，种子轮融资 4000 万美金）。 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是…  
-  十字路口 Crossing · 2026-11-09 00:00
+- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
+  APPSO · 2026-11-11 09:00
 
-- [深度｜中国 AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901330&idx=1&sn=5eb5d1e685a87759c872fe56d7ce6e74>)  
-  Z Finance · 2026-11-08 20:05
+- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
+  极客公园 · 2026-11-11 08:43
 
-- [走进李佳琦直播间，AI 迎来它的「商品化时刻」](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115489&idx=1&sn=b279cbaef137b1ff58a2d241ded04a3a>)  
-  APPSO · 2026-11-08 17:58
+- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
+  APPSO · 2026-11-11 08:20
 
-- [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
-  APPSO · 2026-11-08 15:26
+- [谷歌最强AI「碳」全球解禁！再现人类首次登月](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652742144&idx=1&sn=d63ffb9f70f7cb25804b5107e77a3c4d>)  
+  新智元 · 2026-11-11 06:45
 
-- [Claude创始人的魔幻半生：挺过睾丸癌，逼宫奥特曼，算「几只鸡抵一条人命」](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115485&idx=1&sn=84e052c6984b3ac89f4343ebef4052ae>)  
-  APPSO · 2026-11-08 10:39
+- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
+  量子位 · 2026-11-11 06:10
 
-[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 17 页
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页

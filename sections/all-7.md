@@ -1,46 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 17 页
-
-- [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>)  
-  How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes…  
-  OpenAI · 2026-11-17 08:00
-
-- [Astra for Law leads in legal intelligence](<https://openai.com/index/astra-law-6-2>)  
-  Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now…  
-  OpenAI · 2026-11-17 08:00
-
-- [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)  
-  OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and…  
-  OpenAI · 2026-11-17 08:00
-
-- [Mastra 推出内置 MCP server，可将 agent、workflow 和工具暴露给 MCP 客户端](<https://mastra.ai/blog/introducing-built-in-mcp-server>)  
-  Mastra 发布内置 MCP server，安装 @mastra/mcp 并配置 auth 后，整个 Mastra server 在 /api/mcp 可用，自带 call\_agent、start\_workflow 和 get\_trace 工具，要求 @mastra/core@1.83.0 及以上。  
-  Mastra Blog · 2026-11-17 08:00
-
-- [Cerebras 推出分离式推理：GPU 负责预填充、Cerebras 系统负责解码，每兆瓦吞吐提升 5 倍](<https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference>)  
-  Cerebras 宣布分离式推理方案已投入生产，用 AMD Instinct GPU 处理 prompt（prefill），由 Cerebras CS-3 系统生成响应（decode）。  
-  Cerebras：Blog（网页） · 2026-11-17 08:00
-
-- [LanceDB 完成 5750 万美元 B 轮融资，Lance 格式在多家前沿 AI 实验室落地](<https://tomtunguz.com/the-lakehouse-for-ai/>)  
-  Tomasz Tunguz 宣布与 Bessemer Venture Partners 等参与 LanceDB 的 $57.5m Series B，其 Lance 数据湖仓格式服务多家前沿 AI 公司。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-17 08:00
-
-- [Claude Platform 推出 beta 版 linked billing 关联计费](<https://claude.com/blog/linked-billing-on-claude-platform>)  
-  Anthropic 在 Claude Platform 推出 beta 版 linked billing。第三方平台（如编码智能体和工作流自动化工具）无需共享 API 密钥即可让终端客户付费使用 Claude API，用量直接计入客户已有的 Anthropic 账单。  
-  Claude：Blog（网页） · 2026-11-17 08:00
-
-- [前设计师重返淘宝体验一天，见证 TaoDesign 改变设计工作方式](<https://mp.weixin.qq.com/s/kZmacfnVyM-yL1PthVR1Ww>)  
-  前设计师、AI 博主卡兹克入职淘宝设计团队一天，亲身体验自研设计工具 TaoDesign：可用 Prompt 加模板生成符合规范、可交互的设计稿，团队将 200 多个知识库蒸馏成风格库和 Skill，并提供数字用户调研、页面数据预测等功能。  
-  公众号：数字生命卡兹克 · 2026-11-17 07:56
-
-- [pushr](<https://www.producthunt.com/products/pushr>)  
-  iPhone push alerts from any script, server or AI agent  
-  Product Hunt · English · 2026-11-17 07:44
-
-- [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
-  Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 bi  
-  TechCrunch · 2026-11-17 07:32
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页
 
 - [OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，改为先到先得](<https://www.ithome.com/1/028/027.htm>)  
   OpenAI 将于 11 月 23 日再开放 5 万个 ChatGPT 学术研究免费名额，改为先到先得，不再采用试点阶段的抽签机制。每个名额含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus，本轮最多覆盖 15 万名研究人员。该计划 7 月启动以来已有 33 个国家和地区的 2 万名研究人员加入，整体目标提升至 20 万人。  
@@ -65,9 +25,9 @@
   普渡大学工程学副教授 Kevin Kircher 的分析发现，美国许可改革法案 BAAJA 总体上会增加排放，因为主要服务于数据中心供电的化石天然气电厂和管道需求将超过清洁能源增长。反对者警告，该法案对《联邦电力法》《清洁水法》《濒危物种法案》和《国家环境政策法》的修改，可能让不良行为者强行推进损害公共利益的基础设施项目。  
   Canary Media：Data Centers 原创报道 · 2026-11-17 06:30
 
-- [All the questions Nvidia should answer on Tuesday — but probably won’t](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
-  Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when  
-  TechCrunch · 2026-11-17 06:03
+- [Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
+  TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。  
+  TechCrunch：AI（RSS） · 2026-11-17 06:03
 
 - [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
   What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
@@ -92,9 +52,9 @@
 - [California AG Accuses OpenAI of Misleading and Endangering the Public](<https://www.wsj.com/tech/ai/california-ag-accuses-openai-of-misleading-and-endangering-the-public-8e5c60d0?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-17 04:19
 
-- [California state AG sues OpenAI over rogue agent incidents](<https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/>)  
-  The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent inci  
-  TechCrunch · 2026-11-17 04:07
+- [加州总检察长起诉 OpenAI，指控其智能体失控事件构成公共危害](<https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/>)  
+  加州总检察长 Rob Bonta 起诉 OpenAI，指控其训练与测试做法及松懈的安全控制构成公共危害，并涉及不公平竞争。  
+  TechCrunch：AI（RSS） · 2026-11-17 04:07
 
 - [What’s Your AI-Literacy IQ?](<https://www.wsj.com/tech/ai/ai-literacy-iq-test-3f13c95e?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-17 04:00
@@ -119,10 +79,6 @@
   OpenAI 的 GPT-6 Astra 帮助产出一份证明，有望解决粒子物理标准模型格点化中存在 50 年的难题，论文作者为 UC Santa Barbara 物理学家 Nathaniel Craig，预印本和 OpenAI 博客均已发布。  
   The Decoder：AI News（RSS） · 2026-11-17 03:19
 
-- [Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security](<https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/>)  
-  Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese s  
-  TechCrunch · 2026-11-17 03:12
-
 - [美国拟收紧规则，限制中国远程租用数据中心AI芯片](<https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/>)  
   美国商务部宣布修改出口管制规则，要求总部位于被评估为存在较高转运风险国家的企业，在向中国、俄罗斯和伊朗等转移大量高端芯片时申请许可并接受严格的客户尽职调查，同时提交月度交易报告。新规在联邦公报发布90天后生效，并为仅用于商业推荐系统的算力提供豁免。有分析认为，该政策可能加速中国企业转向国产AI芯片。  
   Ars Technica：AI（RSS） · 2026-11-17 03:10
@@ -139,9 +95,9 @@
   Delegate work to sidecar agents that pass an approval script  
   Product Hunt · English · 2026-11-17 02:23
 
-- [Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’](<https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>)  
-  OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately th  
-  TechCrunch · 2026-11-17 02:11
+- [Sam Altman 回应 Jensen Huang 离职：没有他 AI 行业也会很好](<https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>)  
+  Sam Altman 在 Semafor 活动上首次公开回应 Nvidia CEO Jensen Huang 离职，称 AI 需求和收入增长强劲，行业会很好。他称 Huang 为英雄但英雄有缺点，未表态是否应回归；Nvidia 曾同意为 OpenAI 俄亥俄数据中心提供最高 $105 billion 担保，Altman 表示不担心 Nvidia 资金枯竭。  
+  TechCrunch：AI（RSS） · 2026-11-17 02:11
 
 - [LangSmith 重构为以 Agent 为核心的平台，新增 agent record 与注册治理](<https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent>)  
   LangChain 宣布在宣布 C 轮融资的同时推出重构后的 LangSmith Agent Platform，让 agent 成为核心对象，支持 build、run、improve、govern 全生命周期。  
@@ -151,9 +107,9 @@
   Alignment Research Center 主管 Paul Christiano 在播客访谈中表示，若当前AI发展轨迹不减速，一年内出现能力远超人类、难以控制的超级智能的概率约为三分之一，未来一年AI接管风险更接近10%而非1%。他讨论了AI研发自动化加速、模型安全防护不足以及暂停算法进展以加强安全措施的必要性。  
   Dwarkesh Patel：Podcast &amp; Blog（RSS） · 2026-11-17 01:46
 
-- [FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’](<https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/>)  
-  The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean f  
-  TechCrunch · 2026-11-17 01:36
+- [FBI 通报开源 AI 攻击工具 Artex 被用于入侵美国及韩国机构网络](<https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/>)  
+  FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。该工具自 7 月公开以来已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的攻击，攻击者利用弱口令、暴露凭证等简单安全缺陷获取访问权限并横向移动窃取数据。FBI 表示，尽管开发者已将 Artex 转为闭源，但此前开源版本仍在流传并可被广泛获取用于网络攻击。  
+  TechCrunch：AI（RSS） · 2026-11-17 01:36
 
 - [用 Databricks Feature Views 构建实时 next-best-offer 推荐系统](<https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views>)  
   Databricks 发布开源 Solution Accelerator，用 Feature Views 为金融服务业构建实时 next-best-offer 推荐器，特征定义一次即可同时用于训练与在线服务。该方案包含批量特征推荐器和增加流式会话内意图的扩展两部分，均以可运行 notebook 端到端构建在 Databricks 上。基准测试中流式事件约 0.1 秒即可对模型可见。  
@@ -179,4 +135,48 @@
   Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
   Databricks：Blog（RSS） · 2026-11-17 01:00
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 17 页
+- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
+  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
+  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
+
+- [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
+  We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
+  OpenAI · 2026-11-17 01:00
+
+- [Databricks AI Runtime 上的表格基础模型：原理、模型对比与落地取舍](<https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime>)  
+  Databricks 发文讲解表格基础模型（TFM）在 Databricks AI Runtime 上的实验与微调支持，这类预训练模型无需针对数据集训练即可直接预测。文章对比了 TabICLv2（约 28M 参数、BSD 3-Clause 许可）、TabFM（约 400M 参数、非商用许可）和 TabPFNv3.5（约 220M 参数）等近期模型，并说明其依赖合成数据预训练与行压缩注意力架构。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
+
+- [OpenAI 发布 CSAM 图像分类器并新增 ChatGPT 警告与封禁机制](<https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/>)  
+  OpenAI 发布打击儿童性虐待材料（CSAM）的新工具，包括可检测 AI 生成图片的图像分类器，通过与 NCMEC 合作开发，并免费向部分企业开放 API。早期测试中该分类器在识别同样数量违规图片的情况下少标记 48% 的图片，被标记图片中违规比例翻倍。  
+  TechCrunch：AI（RSS） · 2026-11-17 01:00
+
+- [WispOS](<https://www.producthunt.com/products/wispos>)  
+  Free AI game maker with an app store that wants your games  
+  Product Hunt · English · 2026-11-17 00:56
+
+- [阿里发布 Qwen4-Max：2.4 万亿参数 MoE 架构，对标 Opus 5.5、GPT-6 与 Kimi K3.1 Pro 且价格更低](<https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/>)  
+  阿里巴巴发布旗舰模型 Qwen4-Max，采用 Qwen4 系列新混合注意力架构，2.4 万亿参数中每 token 仅激活 710 亿，原生处理图像并支持一百万 token 上下文窗口。  
+  The Decoder：AI News（RSS） · 2026-11-17 00:56
+
+- [The Monday Morning Agent 第三期：NFL 长距离任意球真的变准了吗？](<https://www.oreilly.com/radar/the-monday-morning-agent-are-kickers-too-good-now/>)  
+  The Monday Morning Agent 第三期用 AI 分析核查“踢球手太强了”的说法，发现长距离任意球命中率各赛季大致持平，真正变化的是教练更频繁地尝试。节目为智能体设定 8 条图表规范（含全赛季、零起点、标注样本量），并加入渲染器在绘图前拒绝违规图表。40 码内命中率约 95%，40-49 码约 80%，50-59 码约 70%，60 码以上仅 9 次尝试。  
+  O'Reilly Radar（热点 RSS） · 2026-11-17 00:54
+
+- [Anthropic 上市背后：Azeem Azhar 解析其商业模式与无形资产价值](<https://www.exponentialview.co/p/what-anthropic-is-really-listing>)  
+  Anthropic 将成为西方首家在公开市场上市的真正 AI 公司，Azeem Azhar 认为其核心机会在于用机器智能生产无形资产。他指出，当前 S&amp;P 500 中约 92% 的价值来自品牌、专利、软件和数据等无形资产，Anthropic 的机器智能可在不部署任何机器人前就参与这部分价值竞争。看空观点认为它只是不断贬值的 token 贩卖者，但这忽略了其构建持续进化的机器智能系统。  
+  Azeem Azhar：Exponential View（RSS） · 2026-11-17 00:36
+
+- [Gary Marcus：AI 泡沫是否已经 Game Over](<https://garymarcus.substack.com/p/game-over-man>)  
+  Gary Marcus 评论当前 AI 股票大跌，称当前 AI 泡沫看起来已接近 game over。他提到 Oracle 自其 2025 年 9 月宣布“peak bubble”以来跌约 61%，Ben Thompson 撰写讣告式文章，华尔街日报报道 Nvidia 作为“AI 经济空头支票”的日子屈指可数；他认为核心问题是 LLM 公司缺乏技术护城河、难以盈利。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-17 00:29
+
+- [Claude 支持在 Canvas 图形中构建可交互的真实 HTML 网页](<https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/>)  
+  Anthropic 的 Claude 现在能在 Canvas 图形中嵌入真实可交互的网页元素，文字可选中复制，演示页给出 15 个例子，如针织图案、3D 立方体等风格网站。  
+  The Decoder：AI News（RSS） · 2026-11-17 00:10
+
+- [NVIDIA Vera Rubin 首秀 MLPerf：横扫训练基准，智能体推理能效超 10 倍](<https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/>)  
+  NVIDIA Vera Rubin 平台在首次 MLPerf 亮相中横扫 Training v6.1 全部基准，并首次提交 MLPerf Endpoints，智能体 AI 每瓦吞吐较 GB300 NVL72 提升超 10 倍。  
+  NVIDIA Blog（RSS） · 2026-11-17 00:00
+
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页

@@ -20,7 +20,11 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 11 条
+## 相关资讯 · 12 条
+
+- [耀速科技完成新一轮上海国资与产业资本数千万战略投资](<https://www.itjuzi.com/investevent/14708101>)  
+  耀速科技是一家人工智能药物研发商，集人工智能、机器学习和大规模湿实验室实验于一体致力于解决现代药物发现中最具挑战性的问题——利用人类生物学的复杂性来加速药物发现和开发。近日，耀速科技（Xellar）宣布完成新一轮数千万元战略融资，本轮…  
+  IT桔子 · 2026-11-18 10:41
 
 - [Alphabet旗下AI制药商Isomorphic Labs完成50亿美元C轮融资](<https://www.itjuzi.com/investevent/14708098>)  
   Isomorphic Labs是Alphabet旗下AI制药商，将人工智能和计算方法应用于药物发现，并改变医学帮助和治愈人们的方式。公司日前完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本共同领投，Alphabet…  
