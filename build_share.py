@@ -73,6 +73,12 @@ def public_snapshots(data):
 def render_original(news, data):
     """Keep the original application and replace only its data transport."""
     snapshots = public_snapshots(data)
+    # A live origin may append its own Cloudflare challenge iframe. It belongs
+    # to that host, not the dashboard, and must not follow a public snapshot.
+    news = re.sub(r'<script\b[^>]*>.*?</script>',
+                  lambda match: "" if "__CF$cv$params" in match.group(0)
+                  and "/cdn-cgi/challenge-platform/" in match.group(0) else match.group(0),
+                  news, flags=re.S | re.I)
     file_mode = "const fileMode=location.protocol==='file:';"
     if news.count(file_mode) != 1 or '<main id="main"' not in news:
         raise ValueError("Unrecognized original dashboard; refusing a partial replacement")

@@ -55,6 +55,13 @@ class PublicShareTest(unittest.TestCase):
         self.assertNotIn(malicious,page)
         self.assertEqual(unpack(page)['feed.json']['items'][0]['title'],malicious)
 
+    def test_origin_challenge_does_not_follow_the_shared_application(self):
+        injected = '<script>window.__CF$cv$params={};load("/cdn-cgi/challenge-platform/scripts/jsd/main.js");</script>'
+        page = render_original(ORIGINAL.replace('</body>',injected+'</body>'),fixture())
+        self.assertNotIn('__CF$cv$params',page)
+        self.assertNotIn('/cdn-cgi/challenge-platform/',page)
+        self.assertIn('searchWechatIndex',page)
+
     def test_only_public_access_and_library_snapshots_allowed(self):
         for key,value in [('access',{'authenticated':True,'canMaintain':True}),
                           ('workspace',{'status':'ready','secret':'PRIVATE'}),
