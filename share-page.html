@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="description" content="AI应用面板：六赛道资讯、研究观点与公开依据。无需登录，只读浏览。">
+  <title>AI应用面板 · 六赛道与研究观点</title>
+  <!--SHARE_STYLE-->
+</head>
+<body>
+  <a class="skip-link" href="#news">跳到资讯</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#tracks" aria-label="AI应用面板首页"><span class="brand-symbol" aria-hidden="true"><i></i><i></i><i></i></span><span>AI应用面板</span></a>
+      <nav class="main-nav" aria-label="页面导航"><a href="#tracks">六赛道</a><a href="#news">资讯</a><a href="#opinions">研究观点</a></nav>
+      <button class="share-button" id="copy-link" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8H6a4 4 0 0 0 0 8h3m6-8h3a4 4 0 0 1 0 8h-3M8 12h8"/></svg><span>复制分享链接</span></button>
+    </div>
+  </header>
+  <main class="page-shell">
+    <section class="intro" aria-labelledby="page-title">
+      <div><h1 id="page-title">跟踪变化，检验判断。</h1><p>从六个研究方向，连接资讯、观点与依据。</p></div>
+      <div class="snapshot"><span class="readonly-label"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 10s3-5 8-5 8 5 8 5-3 5-8 5-8-5-8-5Z"/><circle cx="10" cy="10" r="2"/></svg>公开只读</span><time id="source-time">读取资料时间…</time><time id="snapshot-time">读取页面时间…</time></div>
+    </section>
+
+    <section class="tracks-section" id="tracks" aria-labelledby="tracks-title">
+      <div class="section-heading"><h2 id="tracks-title">六赛道观察</h2><button id="reset-track" class="text-button" type="button">查看全部赛道</button></div>
+      <div id="track-list" class="track-list" role="group" aria-label="选择研究赛道"></div>
+      <div id="track-framework" class="track-framework" aria-live="polite"></div>
+    </section>
+
+    <section class="search-section" aria-label="内容搜索">
+      <label class="search-box" for="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="搜索资讯、观点或公司" autocomplete="off"><span class="search-hint" aria-hidden="true">搜索</span></label>
+      <button id="clear-filters" class="text-button" type="button">重置筛选</button>
+    </section>
+
+    <div class="content-columns">
+      <section class="news-section" id="news" aria-labelledby="news-title">
+        <div class="section-heading news-heading"><h2 id="news-title">赛道资讯 <span class="count" id="article-count">0</span></h2><div class="mode-switch" role="group" aria-label="资讯筛选强度"><button type="button" data-mode="signal" aria-pressed="true">主题快讯</button><button type="button" data-mode="selected" aria-pressed="false">精选</button></div></div>
+        <p class="mode-explanation" id="mode-explanation">相关主题的公开信息与线索；核验状态随文标注。</p>
+        <div class="filter-bar">
+          <label for="source-filter">来源<select id="source-filter"><option value="">全部来源</option></select></label>
+          <label for="time-filter">时间<select id="time-filter"><option value="all">全部时间</option><option value="1">最近 24 小时</option><option value="7">最近 7 天</option><option value="30">最近 30 天</option></select></label>
+          <span class="sort-label">按发布时间排序</span>
+        </div>
+        <div id="article-list" class="article-list" aria-live="polite" aria-busy="false"></div>
+        <button id="load-more" class="load-more" type="button" hidden>加载更多</button>
+      </section>
+
+      <aside class="opinion-section" id="opinions" aria-labelledby="opinions-title">
+        <div class="section-heading"><h2 id="opinions-title">研究观点 <span class="count" id="opinion-count">0</span></h2><span class="pilot-label">持续检验</span></div>
+        <p class="opinion-intro">判断保留适用条件。新信息是否支持或削弱，以逐条依据为准。</p>
+        <div id="opinion-list" class="opinion-list" aria-live="polite"></div>
+      </aside>
+    </div>
+    <footer class="page-footer"><div class="footer-content"><p id="snapshot-note">本页展示已公开的研究内容，资讯与判断以各自标注时间为准。</p><details class="source-times"><summary>各信源更新时间</summary><ul id="source-times-list"></ul></details></div><a href="#tracks">回到六赛道</a></footer>
+  </main>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  <noscript><p class="noscript-message">请启用浏览器 JavaScript，以查看六赛道、筛选和研究观点。</p></noscript>
+  <script id="share-data" type="application/json"><!--SHARE_DATA--></script>
+  <!--SHARE_SCRIPT-->
+</body>
+</html>

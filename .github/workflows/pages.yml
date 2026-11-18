@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-      - run: python3 -m unittest test_public_reader
+      - run: python3 -m unittest test_public_reader test_share_panel
       - if: ${{ !inputs.bootstrap }}
         run: python3 build.py
       - if: ${{ inputs.bootstrap }}
@@ -37,6 +37,7 @@ jobs:
           unzip -q public-panel.zip -d initial-snapshot
           python3 build.py --snapshot-dir initial-snapshot
       - run: python3 public_rss.py
+      - run: python3 build_share.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
