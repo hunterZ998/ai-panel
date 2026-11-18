@@ -10,7 +10,7 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 12 条
+## 相关资讯 · 11 条
 
 - [可灵AI全新一代图像创作模型Kling Image 4.0正式上线](<https://www.163.com/tech/article/LC0R47OU00098IEO.html>)  
   网易科技 · 2026-11-18 10:10
@@ -47,13 +47,9 @@
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
 
-- [字节火山引擎发布 Seedance 2.5 flash 视频模型：速度翻倍、价格降低约 34%](<https://www.ithome.com/1/026/069.htm>)  
-  字节火山引擎发布 Seedance 2.5 flash 视频模型，生成速度提升一倍，720P 文生视频、图生视频价格约 0.99 元/秒，较 Seedance 2.5 降低约 34%。  
-  IT之家·人工智能 · 2026-11-12 14:33
-
-- [火山引擎发布 Seedance 2.5 flash 视频生成模型，速度翻倍价格降低约34%](<https://mp.weixin.qq.com/s/lTZS2oV6BuORvK_Shgb-Ag>)  
-  火山引擎正式推出 Seedance 2.5 flash，生成速度较 Seedance 2.5 提升一倍，720P 下文生视频、图生视频价格约 0.99元/秒，降低约34%。  
-  公众号：火山引擎 · 2026-11-12 14:11
+- [消息称字节跳动计划推出类似 Meta Muse 的 AI 助手，张一鸣称需到 2029 或 2030 年追平美国顶尖实验室](<https://www.ithome.com/1/025/726.htm>)  
+  据彭博社报道，字节跳动计划未来几周内推出一款类似 Meta Muse 的 AI 助手，以巩固其在 AI 视频生成领域的优势。张一鸣在面向 AI 团队的会议上表示，Seed 系列模型的预训练数据集比美国顶尖对手小好几个数量级，真正追平 Anthropic、OpenAI 等公司至少要到 2029 年或 2030 年。  
+  IT之家·人工智能 · 2026-11-11 18:45
 
 - [视频生成不再反复抽卡！清华开源，给模型装上「三维空间大脑」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=3&sn=5112b6645bbbec5d670fb8d97636f63d>)  
   新智元 · 2026-11-09 12:56

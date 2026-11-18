@@ -20,7 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 27 条
+## 相关资讯 · 25 条
 
 - [Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年](<https://www.tmtpost.com/8209258.html>)  
   到2028年，25%的企业安全漏洞事件可追溯至AI智能体滥用。  
@@ -70,10 +70,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   OpenAI 发布一款可识别儿童性虐待材料（CSAM）的分类器，并能标记内容是否由 AI 生成，称其误报减少 48%，识别出的图像含虐待材料的概率翻倍。该工具免费向通过审核的机构开放，是首个带 AI 生成标记的广泛可用 CSAM 分类器。ChatGPT 图像生成器对试图生成此类内容的用户将触发 24 小时访问暂停并提示可能永久封号。  
   The Verge：AI（RSS） · 2026-11-17 03:23
 
-- [Paul Christiano 谈超级智能时间线与AI安全风险](<https://www.dwarkesh.com/p/paul-christiano-2>)  
-  Alignment Research Center 主管 Paul Christiano 在播客访谈中表示，若当前AI发展轨迹不减速，一年内出现能力远超人类、难以控制的超级智能的概率约为三分之一，未来一年AI接管风险更接近10%而非1%。他讨论了AI研发自动化加速、模型安全防护不足以及暂停算法进展以加强安全措施的必要性。  
-  Dwarkesh Patel：Podcast &amp; Blog（RSS） · 2026-11-17 01:46
-
 - [FBI 通报开源 AI 攻击工具 Artex 被用于入侵美国及韩国机构网络](<https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/>)  
   FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。该工具自 7 月公开以来已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的攻击，攻击者利用弱口令、暴露凭证等简单安全缺陷获取访问权限并横向移动窃取数据。FBI 表示，尽管开发者已将 Artex 转为闭源，但此前开源版本仍在流传并可被广泛获取用于网络攻击。  
   TechCrunch：AI（RSS） · 2026-11-17 01:36
@@ -98,17 +94,13 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
   @a16z · 2026-11-13 08:00
 
-- [Norwest 新设 40 亿美元基金，加大 AI 投资](<https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/>)  
-  Norwest 募集 40 亿美元新基金，为其第 18 只基金、规模史上最大，将重点扩大 AI 领域投资。该基金覆盖消费、医疗健康和科技等行业，并继续加码 physical AI、语音 AI、智能体网络安全与航空航天。自 2024 年第 17 只 30 亿美元基金关闭以来，Norwest 已完成 87 笔以上投资。  
-  TechCrunch：AI（RSS） · 2026-11-12 23:18
+- [Grok Build 分享链接漏洞导致 SpaceXSI 内部资料及数千用户数据公开暴露](<https://www.ithome.com/1/025/790.htm>)  
+  网络安全公司 Claroc 发现，AI 编程工具 Grok Build 生成的应用分享链接可经被动 DNS 服务被公开检索，导致数千名用户敏感数据泄露，SpaceXSI 内部资料也未能幸免。  
+  IT之家·人工智能 · 2026-11-11 21:08
 
-- [Fireworks AI 遭网络攻击，黑客窃取 Notion 部分客户的聊天记录](<https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/>)  
-  Fireworks AI 确认遭网络攻击，攻击者入侵其云服务商进入开发系统，窃取了客户的账单信息和部分数据集。受影响客户 Notion 披露约 1% 自身客户受波及，黑客获取了使用 Insights 功能的 Notion AI 客户的聊天记录；Notion 已于 11 月 3 日断开与 Fireworks 的连接并删除相关数据。  
-  TechCrunch：AI（RSS） · 2026-11-12 23:02
-
-- [澳大利亚拟议 AI 安全法案将强制前沿模型接受独立测试](<https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/>)  
-  澳大利亚总理 Anthony Albanese 领导的政府宣布一项法律，将首次对在该国运营的前沿 AI 公司实施强制性安全规则。要求包括开放独立审计、持续安全检查、公布安全框架并立即向政府报告安全事件，新监管机构将与 Australian AI Safety Institute 共同执行并对违规者处以高额罚款；更多细节将在咨询结束后公布。  
-  The Decoder：AI News（RSS） · 2026-11-12 18:09
+- [美退役海军上将 Michael Rogers 与前 CIA 站长 Tom Moran 出任 Sakana AI 高级顾问](<https://sakana.ai/michael-tom/>)  
+  Sakana AI 宣布美国退役海军上将 Michael Rogers 与前 CIA 支局长 Tom Moran 出任高级顾问，围绕防务能力与网络安全两条线提供建议。  
+  Sakana AI：Blog（网页） · 2026-11-10 23:00
 
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
   Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  

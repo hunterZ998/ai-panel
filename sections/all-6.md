@@ -1,26 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页
-
-- [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)  
-  OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。  
-  OpenAI：部署安全与系统卡（网页） · 2026-11-17 15:00
-
-- [FlagOpen 开源 HumanCOIN：基于 LeRobot 的多传感器多频率数据集扩展](<https://github.com/FlagOpen/HumanCOIN>)  
-  智源 FlagOpen 开源 HumanCOIN，一个基于 LeRobot 的多传感器、多频率数据集扩展，每个传感器按各自采样率独立存为 parquet 文件，查询时按时间窗口动态对齐，无需预先重采样。  
-  智源 FlagOpen：原创开源项目 · 2026-11-17 14:19
-
-- [穗升科技完成数千万元Pre-A轮融资](<https://www.itjuzi.com/investevent/14703493>)  
-  穗升科技是一家AI记忆公司，由前安克创新全球 CMO、中国区总裁王时远创立。基于AI生态构建结构化、可调用的用户个人记忆，能作为上下文（context）为AI提供支撑，让Agent更精准地服务用户。通过软硬件协同，穗升科技希望帮助用户…  
-  IT桔子 · 2026-11-17 14:18
-
-- [EDRA获得1000万美元战略投资](<https://www.itjuzi.com/investevent/14708046>)  
-  EDRA是一家美企业人工智能技术研发商，该公司的平台能够接入企业现有系统，逆向解析业务运行流程，并把流程转化为AI智能体可以执行的指令。并实现IT服务管理、技术支持、合规等场景的自动化。近日，EDRA获得1000万美元战略投资，EQT…  
-  IT桔子 · 2026-11-17 14:05
-
-- [鹰瞰智翼获得数千万人民币Pre-B轮融资](<https://www.itjuzi.com/investevent/14708034>)  
-  鹰瞰智翼致力于研发全球首款具身智能仿生扑翼机器人及其流体仿真引擎。通过分阶段的产品布局，团队构建技术与商业双重壁垒，目标在低空经济的万亿级全球市场中占据重要位置，推动具身智能机器人技术在城市近人低空物流、影视拍摄、安防等场景的应用。近…  
-  IT桔子 · 2026-11-17 13:58
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 18 页
 
 - [百度李彦宏在 APEC 峰会警告 AI 泡沫风险，称应用落地成效不及预期](<https://www.ithome.com/1/028/225.htm>)  
   百度董事长兼 CEO 李彦宏在 2026 年 APEC 工商领导人峰会上表示，当前算力和基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。他对 AI 长期趋势保持乐观，并提出 AI 技术栈在芯片、云、模型、应用之上还需配套组织能力，类比电力革命缺少组织变革就难以释放经济价值；此前在百度世界大会 2026 上他称智能组织是 AI 时代新的厂房。  
@@ -181,4 +161,24 @@
   普渡大学工程学副教授 Kevin Kircher 的分析发现，美国许可改革法案 BAAJA 总体上会增加排放，因为主要服务于数据中心供电的化石天然气电厂和管道需求将超过清洁能源增长。反对者警告，该法案对《联邦电力法》《清洁水法》《濒危物种法案》和《国家环境政策法》的修改，可能让不良行为者强行推进损害公共利益的基础设施项目。  
   Canary Media：Data Centers 原创报道 · 2026-11-17 06:30
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页
+- [Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
+  TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。  
+  TechCrunch：AI（RSS） · 2026-11-17 06:03
+
+- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
+  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
+  Latent Space · 2026-11-17 05:27
+
+- [加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face](<https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>)  
+  加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。  
+  The Verge：AI（RSS） · 2026-11-17 04:46
+
+- [Sam Altman 在 Semafor 峰会回应 RAM 言论争议，称希望人人都能买大内存](<https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor>)  
+  OpenAI CEO Sam Altman 在 Semafor 的 Silicon Valley &amp; The World summit 上澄清上月关于 PC RAM 的争议言论，称希望大家都能为自己的电脑购买大量 RAM，也认可在家折腾和使用。  
+  The Verge：AI（RSS） · 2026-11-17 04:41
+
+- [Constellation Energy 称民主党中期选举胜选不会阻碍数据中心发展](<https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats>)  
+  Constellation Energy CEO Joe Dominguez 在第三季度财报电话会上表示，市场对民主党赢得中期选举后限制数据中心的担忧是过度反应。  
+  The Verge：AI（RSS） · 2026-11-17 04:29
+
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 18 页

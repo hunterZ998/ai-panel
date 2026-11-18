@@ -66,17 +66,17 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
   在前几期播客中，我们聊过 Personal Agent，聊过 RLaaS，这期的嘉宾贺嘉琛做的事情有点像是两者的结合，他把 Personal Agent 运用在 2B 领域，并给这些企业训练私有模型。 嘉琛原本研究深度学习与天体物理学…  
   42章经 · 2026-11-14 21:00
 
-- [Google DeepMind 发布 AlphaGenome 2，将基因组 AI 从组织级预测推进到单细胞类型分辨率](<https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/>)  
-  Google DeepMind 发布基因组研究 AI 模型 AlphaGenome 2，可预测 DNA 变异对特定人类细胞类型的影响。该模型以特定生物状态为额外输入的条件模型，基于来自 68 种组织的超过 1.07 亿个单细胞图谱训练；在 TenK10K 基准上识别约 30% 的因果变异，微调版前代仅 16%。  
-  The Decoder：AI News（RSS） · 2026-11-12 20:09
+- [谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型，识别致病变异能力提升近一倍](<https://www.ithome.com/1/025/822.htm>)  
+  谷歌 DeepMind 发布新一代 DNA 序列模型 AlphaGenome 2，可将预测从宽泛组织缩小到单个细胞类型与状态，识别可改变基因表达的变异数量较初代接近翻倍。  
+  IT之家·人工智能 · 2026-11-11 23:28
 
-- [Google DeepMind 发布 AlphaGenome 2：深入单细胞分析，识别基因表达变异能力接近翻倍](<https://www.ithome.com/1/025/840.htm>)  
-  Google DeepMind 于 11 月 11 日发布新一代基因组 AI 模型 AlphaGenome 2，可将组织、细胞类型或状态作为输入，预测 DNA 序列及变异对特定细胞的影响。  
-  IT之家·人工智能 · 2026-11-12 07:28
+- [Google DeepMind 发布 AlphaGenome 2，预测基因变异对特定细胞类型的影响](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>)  
+  Google DeepMind 发布下一代 DNA 序列模型 AlphaGenome 2，可预测 DNA 变异如何影响数百种人类细胞类型中的基因表达。模型改为条件式架构，训练数据超过 1.07 亿个单细胞样本、覆盖 68 种组织，在 TenK10K 数据集上识别的因果变异数量接近上一代的两倍（30% vs 16%），并能在不重新训练的情况下泛化到新的单细胞实验。  
+  Google DeepMind：Blog（RSS） · 2026-11-11 23:00
 
-- [Google DeepMind 发布 AlphaGenome 2，按细胞类型预测 DNA 变异效应](<https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/>)  
-  Google DeepMind 发布 DNA 模型 AlphaGenome 2，可输入 1 Mb DNA 加目标细胞状态，按细胞类型预测变异效应，通过 AlphaGenome API 向非商业研究开放。  
-  MarkTechPost（RSS） · 2026-11-12 04:51
+- [Google DeepMind 发布 AlphaGenome 2，预测基因变异对不同细胞状态的影响](<https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model>)  
+  Google DeepMind 发布基因组预测模型 AlphaGenome 2，用于捕捉基因变异在不同细胞类型和状态下的差异效应。该模型基于超过 1 亿个细胞档案和 68 种组织训练，识别可改变基因表达的变异数量接近前代最优模型的两倍，还能对未见过的细胞类型做出预测并指出实验数据缺口。  
+  The Verge：AI（RSS） · 2026-11-11 23:00
 
 - [深度｜中国 AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901330&idx=1&sn=5eb5d1e685a87759c872fe56d7ce6e74>)  
   Z Finance · 2026-11-08 20:05

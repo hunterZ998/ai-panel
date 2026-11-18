@@ -1,21 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 19 页
-
-- [微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%](<https://www.ithome.com/1/028/585.htm>)  
-  IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修…  
-  IT之家 · 2026-11-18 07:06
-
-- [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](<https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/>)  
-  Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's su  
-  TechCrunch · 2026-11-18 07:04
-
-- [谷歌更新Gemini隐私控制，可保留聊天记录且不参与AI训练](<https://www.163.com/dy/article/LC0GBSIS0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-18 07:03
-
-- [“全球第一修图 AI 模型”：微软 MAI Image 2.7 登场，用 1/5 价格击败 GPT Image 2.6 登顶](<https://www.ithome.com/1/028/582.htm>)  
-  IT之家 11 月 18 日消息，微软昨日（11 月 17 日）发布推出 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，并上线由 Flash 驱动的交互式创作空间 Canvas。 费用方面…  
-  IT之家 · 2026-11-18 06:55
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 18 页
 
 - [Simon Willison 发布编码智能体外部沙箱模式及三套实现](<https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/>)  
   Simon Willison 与 AI 研究实验室 Prime Radiant 合作，介绍面向编码智能体的外部沙箱模式，智能体在沙箱外运行、待执行代码在专用沙箱内运行，目标是让本地模型实验更安全，避免提示词注入等攻击造成破坏。  
@@ -173,4 +158,20 @@
   Microsoft AI 发布 MAI Image 2.7 和 MAI Image 2.7 Flash，定位低成本的前沿图像生成与编辑，并在 MAI Labs 推出由 Flash 驱动的 Canvas 交互工作区。  
   Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 19 页
+- [Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起](<https://microsoft.ai/news/introducing-mai-realtime-1/>)  
+  Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 每分钟音频，称其在 Big Bench Audio 和 τ-Voice 基准上于质量、速度和价格上超过 GPT Realtime 2.1。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
+
+- [Microsoft MAI 发布七个新模型，主打可扩展的性价比](<https://microsoft.ai/news/microsoft-ignite-2026/>)  
+  Microsoft MAI 在 Ignite 2026 发布七个新模型及 Maia 200 加速器。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
+
+- [Microsoft 发布安全专用模型 MAI Cyber 2 Flash，以更低成本匹配 GPT 6 Astra](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
+  Microsoft 发布专用安全模型 MAI Cyber 2 Flash，面向漏洞发现、修复建议和威胁调查。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
+  Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。MAI Code 2 在四项基准平均下达到 GPT 6.1 Sol 98% 的性能但成本仅 40%，达到 Claude Opus 5.5 96% 的性能而成本仅 5%；盲测前端评审中 64% 的情况下胜过 GPT-6 Sol。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 18 页

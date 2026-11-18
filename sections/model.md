@@ -38,7 +38,7 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 209 条
+## 相关资讯 · 192 条
 
 - [刚刚，OpenAI发布GPT-6.2 Astra和Sol](<https://www.163.com/dy/article/LC0RSIMM0511AQHO.html>)  
   网易科技频道 · 网易号 · 2026-11-18 10:58

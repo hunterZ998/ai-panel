@@ -1,26 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页
-
-- [Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
-  TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。  
-  TechCrunch：AI（RSS） · 2026-11-17 06:03
-
-- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
-  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
-  Latent Space · 2026-11-17 05:27
-
-- [加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face](<https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>)  
-  加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。  
-  The Verge：AI（RSS） · 2026-11-17 04:46
-
-- [Sam Altman 在 Semafor 峰会回应 RAM 言论争议，称希望人人都能买大内存](<https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor>)  
-  OpenAI CEO Sam Altman 在 Semafor 的 Silicon Valley &amp; The World summit 上澄清上月关于 PC RAM 的争议言论，称希望大家都能为自己的电脑购买大量 RAM，也认可在家折腾和使用。  
-  The Verge：AI（RSS） · 2026-11-17 04:41
-
-- [Constellation Energy 称民主党中期选举胜选不会阻碍数据中心发展](<https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats>)  
-  Constellation Energy CEO Joe Dominguez 在第三季度财报电话会上表示，市场对民主党赢得中期选举后限制数据中心的担忧是过度反应。  
-  The Verge：AI（RSS） · 2026-11-17 04:29
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 18 页
 
 - [哈佛研究：美国 403 座超大规模数据中心年耗电约 82 太瓦时，碳排放堪比丹麦](<https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard>)  
   发表于 Nature Sustainability 的新研究用卫星影像识别美国 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间消耗约 82 太瓦时电力，约占全美用电的 1.8%，超过约 148 个国家的年用电量；其中约 54% 来自天然气和煤电，产生 2570 万吨 CO2，相当于丹麦的年碳足迹。  
@@ -79,10 +59,6 @@
 - [LangSmith 重构为以 Agent 为核心的平台，新增 agent record 与注册治理](<https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent>)  
   LangChain 宣布在宣布 C 轮融资的同时推出重构后的 LangSmith Agent Platform，让 agent 成为核心对象，支持 build、run、improve、govern 全生命周期。  
   LangChain：Blog（RSS） · 2026-11-17 02:00
-
-- [Paul Christiano 谈超级智能时间线与AI安全风险](<https://www.dwarkesh.com/p/paul-christiano-2>)  
-  Alignment Research Center 主管 Paul Christiano 在播客访谈中表示，若当前AI发展轨迹不减速，一年内出现能力远超人类、难以控制的超级智能的概率约为三分之一，未来一年AI接管风险更接近10%而非1%。他讨论了AI研发自动化加速、模型安全防护不足以及暂停算法进展以加强安全措施的必要性。  
-  Dwarkesh Patel：Podcast &amp; Blog（RSS） · 2026-11-17 01:46
 
 - [FBI 通报开源 AI 攻击工具 Artex 被用于入侵美国及韩国机构网络](<https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/>)  
   FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。该工具自 7 月公开以来已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的攻击，攻击者利用弱口令、暴露凭证等简单安全缺陷获取访问权限并横向移动窃取数据。FBI 表示，尽管开发者已将 Artex 转为闭源，但此前开源版本仍在流传并可被广泛获取用于网络攻击。  
@@ -180,4 +156,28 @@
   Fireworks 基于Specialized Intelligence Index评测MiniMax M3.1 Flash，在DeepSWE v1.1上以约92%更低的模型成本获得高于Gemini 3.8 Flash的任务完成率，每任务约0.35美元。  
   Fireworks AI（网页） · 2026-11-17 00:00
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页
+- [Fireworks 评测 Kimi K3.1 Pro：智能体场景下该替换还是组合使用](<https://fireworks.ai/blog/should-you-switch-your-agents-to-kimi-k3-1-pro/>)  
+  Fireworks AI 基于 Specialized Intelligence Index 的 21 个基准榜单，从任务表现、模型成本和执行时间三方面评测 Kimi K3.1 Pro 是否适合替换现有智能体模型。  
+  Fireworks AI（网页） · 2026-11-17 00:00
+
+- [Artificial Analysis 评测 GPT-6.2 Astra 和 Sol：智能指数升至第二](<https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol>)  
+  Artificial Analysis 评测 OpenAI 发布的 GPT-6.2 Astra 和 GPT-6.2 Sol，两者在 Artificial Analysis Intelligence Index 中位列第二，仅次于 Claude Fable 5.2。  
+  Artificial Analysis 完整文章（网页） · 2026-11-17 00:00
+
+- [Google 发布 Gemini 4 Hydrogen 并推出 Antigravity Robotics 插件](<https://developers.googleblog.com/gemini-hydrogen-for-robotics/>)  
+  Google 发布面向机器人场景的 Gemini 4 Hydrogen，主打更快的空间与具身推理，ERQA 平均分 84.8，超过 Gemini Robotics ER 2 的 75.5；在 Artificial Analysis Robotics 0.1 基准上得 58 分，接近 Argon 且每 token 成本更低。  
+  Google Developers Blog（RSS） · 2026-11-17 00:00
+
+- [Google 开源 ABFS，将 AOSP 检出时间从约 36 分钟降至 8 秒内](<https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/>)  
+  Google 发布并开源了 Another Build File Service（ABFS），用于加速 Android 等超大规模 Git 仓库的开发，含 CASFS 内核文件系统模块、Ninja-go 和服务端 CAS 基础设施。  
+  Google Developers Blog（RSS） · 2026-11-17 00:00
+
+- [Goodfire Research 发现大语言模型中的神经元社区](<https://www.goodfire.com/research/neuron-communities>)  
+  Goodfire Research 发布研究，提出无需预设功能的无监督方法，在 Llama-3.1-8B 上用梯度归因、神经元图和社区检测，从 1000 万条 prompt 中发现协作实现常见模型行为的小型神经元社区，并在 Qwen 3.6 35B-A3B 上复现。  
+  Goodfire Research（网页） · 2026-11-17 00:00
+
+- [首届 SGLang Summit 2026 举办，SGLang Consortium 成立并宣布 SGLang v1.0 与 Miles v0.2](<https://www.lmsys.org/blog/2026-11-17-sglang-summit-recap>)  
+  SGLang 团队复盘 11 月 12–13 日在旧金山 Fort Mason 举办的首届 SGLang Summit，超过 2000 名开发者参加。  
+  LMSYS Blog · 2026-11-17 00:00
+
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 18 页

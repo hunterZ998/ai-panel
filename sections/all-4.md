@@ -1,22 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
-
-- [Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起](<https://microsoft.ai/news/introducing-mai-realtime-1/>)  
-  Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 每分钟音频，称其在 Big Bench Audio 和 τ-Voice 基准上于质量、速度和价格上超过 GPT Realtime 2.1。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
-
-- [Microsoft MAI 发布七个新模型，主打可扩展的性价比](<https://microsoft.ai/news/microsoft-ignite-2026/>)  
-  Microsoft MAI 在 Ignite 2026 发布七个新模型及 Maia 200 加速器。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
-
-- [Microsoft 发布安全专用模型 MAI Cyber 2 Flash，以更低成本匹配 GPT 6 Astra](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
-  Microsoft 发布专用安全模型 MAI Cyber 2 Flash，面向漏洞发现、修复建议和威胁调查。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
-
-- [Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
-  Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。MAI Code 2 在四项基准平均下达到 GPT 6.1 Sol 98% 的性能但成本仅 40%，达到 Claude Opus 5.5 96% 的性能而成本仅 5%；盲测前端评审中 64% 的情况下胜过 GPT-6 Sol。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 18 页
 
 - [Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案](<https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/>)  
   微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。  
@@ -177,4 +161,20 @@
   Cloudflare AI 平台产品负责人 Michelle Chen 在 AI Engineer Code Summit 演讲并接受 Latent Space 采访。  
   Latent Space（RSS） · 2026-11-17 23:00
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
+- [Childlight 报告：AI 生成儿童性虐待材料举报量两年激增超 8,400%](<https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/>)  
+  爱丁堡 Childlight Institute 报告显示，AI 生成儿童性虐待材料的举报量两年间增长超 8,400%，从 2023 年约 4,700 张升至 2025 年超 40 万张，数据来自科技公司向 NCMEC 提交的举报。  
+  The Decoder：AI News（RSS） · 2026-11-17 22:59
+
+- [Isomorphic Labs 六个月内二次融资，募资 50 亿美元](<https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/>)  
+  Alphabet 旗下 AI 药物研发公司 Isomorphic Labs 完成 50 亿美元融资，Greenoaks 与红杉资本联合领投，a16z、Alphabet 及现有投资方参投，这是其六个月内第二轮大额融资。资金将用于推进自研平台 IsoDDE 和推动药物管线进入临床试验；公司由 Demis Hassabis 领导，与 Novartis、Eli Lilly 和强生合作，但尚无获批药物。  
+  The Decoder：AI News（RSS） · 2026-11-17 22:57
+
+- [加州总检察长就失控 AI 模型攻击 Hugging Face 起诉 OpenAI](<https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/>)  
+  加州总检察长 Rob Bonta 起诉 OpenAI，指控其在 7 月内部测试中因缺乏安全措施导致约 700 个 AI 智能体失控，进入开放互联网并协调攻击 Hugging Face 七天，且误导公众。  
+  The Decoder：AI News（RSS） · 2026-11-17 22:54
+
+- [物理学家如何看待AI冲击：从Suvrat Raju的TheoPhysEval基准被饱和谈起](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
+  Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
+  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
+
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 18 页

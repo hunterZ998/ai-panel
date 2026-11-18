@@ -146,40 +146,40 @@
   We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
   Google AI · 2026-11-13 02:00
 
-- [借助 AI 编程智能体，不到一周将 SGLang 集成进 IBM Spyre](<https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai/>)  
-  两人团队借助 AI 编程智能体，在不到一周内用约 1,500 行代码的插件把 SGLang 集成进 IBM Spyre。SGLang 在 Spyre 上的吞吐量约为 torch-spyre 参考 PyTorch 推理实现的 3.6 倍，在 Granite 3.3 8B 和 Gemma 4 26B A4B 的实测负载上与 vLLM 持平。  
-  PyTorch：Blog（RSS） · 2026-11-12 22:45
+- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
+  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
+  20VC · 2026-11-12 15:07
 
-- [黄仁勋辞任 Nvidia CEO，CFO Colette Kress 接任临时负责人](<https://garymarcus.substack.com/p/jensen-huang-resigns>)  
-  Gary Marcus 称黄仁勋已辞去 Nvidia CEO 职务，董事会推动其离任，由 CFO Colette Kress 出任临时负责人。他表示消息公布后 Nvidia 股价跌幅从盘前 8% 扩大到开盘时的 13%，并担心黄仁勋主导的循环融资可能崩塌，以及此前承诺投入 Anthropic 的数十亿美元 IPO 资金是否兑现成为焦点。他同时列举了国会调查、中国市场影响和政治层面的后续不确定性。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-12 22:44
+- [Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型](<https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>)  
+  Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。  
+  Claude：Blog（网页） · 2026-11-12 08:00
 
-- [科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言](<https://www.ithome.com/1/026/386.htm>)  
-  科大讯飞宣布星火语音基座大模型 SparkAudio 1.0 在讯飞开放平台上线 API 服务，开发者可直接接入调用。该模型支持文本和语音双模态输入、文本输出，可处理语音转写、多语言翻译、多方言识别、说话人分离、情感分析和音频问答等任务。  
-  IT之家·人工智能 · 2026-11-12 21:07
+- [a16z 发布 B2A（面向 Agent 的商业）研究框架，把机会分为 Agent、本来难以成立的新产品、适配 Agent 的既有企业及基础设施，强调分发和支付、身份、欺诈等瓶颈。这是投资机构的分析框架，所引第三方流量与代码占比未独立核验，不作为全行业事实。](<https://x.com/a16z/status/2120564069010931746>)  
+  Agents now make up the majority of web traffic, write more than half of new articles published online, and generate most of the code pushed to production. This is what the early stage of a platform shift looks like: adoption is measurable, but the business mod…  
+  @a16z · 2026-11-12 01:07
 
-- [Gary Marcus 批评 Dario Amodei 的医疗承诺，Eli Lilly CEO 加入反驳](<https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest>)  
-  Gary Marcus 撰文批评 Anthropic CEO Dario Amodei 在 IPO 相关视频中关于治愈癌症和精神疾病的说法，认为时间线不现实。Eli Lilly CEO Dave Ricks 等多位专家在 X 上反驳，指出临床试验速度无法如此压缩；作者还批评主流媒体未对此事进行追问。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-12 20:25
+- [OpenAI 季度营收据称首次突破 100 亿美元，年化收入达 500 亿美元](<https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/>)  
+  据 Bloomberg 援引匿名消息源报道，OpenAI 季度营收首次突破 100 亿美元，较上一季度约 67 亿美元增长近 50%，年化收入运行率达 500 亿美元；经调整经营利润率从二季度的 -150% 收窄至三季度的 -109%。文章指出 Anthropic 在企业市场收入增长领先，其年化运行率截至 10 月底达 810 亿美元，但两家公司计算年化收入的口径不同。  
+  TechCrunch：AI（RSS） · 2026-11-12 00:14
 
-- [美团 LongCat 团队谈为何选择 LongCat：LongCat-2.5 开源与国产算力训练幕后](<https://mp.weixin.qq.com/s/860KzgLplV735K7ZBku9Og>)  
-  美团 LongCat 正式发布并开源面向长程智能体任务的原生多模态模型 LongCat-2.5，在国产算力上完成全流程训练与推理，并在 LongCat-2.0 基础上强化原生视觉理解与智能体编程能力。  
-  公众号：龙猫LongCat（美团） · 2026-11-12 20:18
+- [Marktechpost 推出 GPU Leaderboard 云 GPU 比价平台及 Deploy It Chrome 扩展](<https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/>)  
+  Marktechpost 上线 GPU Leaderboard，按 $/GPU-hr 对 24 家供应商的 201 个实时 GPU 报价排序，并提供按整次运行计价的推理成本计算器。  
+  MarkTechPost（RSS） · 2026-11-11 23:51
 
-- [Google DeepMind 发布 AlphaGenome 2，将基因组 AI 从组织级预测推进到单细胞类型分辨率](<https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/>)  
-  Google DeepMind 发布基因组研究 AI 模型 AlphaGenome 2，可预测 DNA 变异对特定人类细胞类型的影响。该模型以特定生物状态为额外输入的条件模型，基于来自 68 种组织的超过 1.07 亿个单细胞图谱训练；在 TenK10K 基准上识别约 30% 的因果变异，微调版前代仅 16%。  
-  The Decoder：AI News（RSS） · 2026-11-12 20:09
+- [Anthropic IPO 路演视频披露多芯片策略与算力乘数细节](<https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/>)  
+  Simon Willison 整理了 Anthropic IPO 路演视频的转录稿，称其中包含此前未公开的业务信息。  
+  Simon Willison 博客 · 2026-11-11 23:11
 
-- [EUROPA 用 PyTorch 与 TorchTitan 在 JUPITER 公有机群训练 1T 参数 MoE](<https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/>)  
-  EUROPA 联盟借助 PyTorch 与 TorchTitan，在 EuroHPC 的 JUPITER 超算上把约 1T 参数 MoE 的预训练吞吐从每 GPU 90 tokens/s 提升到约 1,300 tokens/s，使用 384 块 NVIDIA GH200（96 节点）。  
-  PyTorch：Blog（RSS） · 2026-11-12 20:00
+- [Google DeepMind 发布 AlphaGenome 2，预测基因变异对特定细胞类型的影响](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>)  
+  Google DeepMind 发布下一代 DNA 序列模型 AlphaGenome 2，可预测 DNA 变异如何影响数百种人类细胞类型中的基因表达。模型改为条件式架构，训练数据超过 1.07 亿个单细胞样本、覆盖 68 种组织，在 TenK10K 数据集上识别的因果变异数量接近上一代的两倍（30% vs 16%），并能在不重新训练的情况下泛化到新的单细胞实验。  
+  Google DeepMind：Blog（RSS） · 2026-11-11 23:00
 
-- [文心5.5 Flash Preview、闪电深度思考和一镜微表情三款模型上线百度千帆](<https://mp.weixin.qq.com/s/86RwPSRG7antHF0SHS3K-g>)  
-  百度宣布文心5.5 Flash Preview、文心闪电深度思考模型和文心一镜微表情大模型三款模型正式上线百度千帆，全面开放使用。  
-  公众号：百度智能云（文心） · 2026-11-12 18:04
+- [Anthropic 称 Claude 用三天完成 AMD GPU 移植，AI 正在削弱 Nvidia CUDA 优势](<https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/>)  
+  Anthropic 在投资者演示中称，其前沿模型 Mythos 几乎无人干预地将 Claude 移植到 AMD MI355X GPU，三天可用，传统工程方式需 6 到 12 个月，近 100% 的 kernel 由模型自行移植或编写。  
+  The Decoder：AI News（RSS） · 2026-11-11 22:25
 
-- [李彦宏：人工智能的下一幕是智能组织，将迎来三大机会](<https://mp.weixin.qq.com/s/NXxYRrDmbaJeBNYxlI3htA>)  
-  李彦宏在百度世界2026提出“人工智能的下一幕是智能组织”，并首次提出打破岗位边界、沉淀隐性知识、设计流程闭环的“组织进化三原则”。百度同时正式推出大模型交易平台词元所，定位为大模型的交易所。他还判断推理将成为AI芯片长期持续增长的主要推动力，智能组织将带来轻资产运营、构建新护城河、创造和发现新市场三大机会。  
-  公众号：百度智能云（文心） · 2026-11-12 18:04
+- [OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic](<https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/>)  
+  据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。  
+  The Decoder：AI News（RSS） · 2026-11-11 20:12
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页

@@ -20,7 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 8 条
+## 相关资讯 · 7 条
 
 - [Edge AI Daily 早报（11月18日）](<https://www.tmtpost.com/8208923.html>)  
   Anthropic IPO由亚马逊与谷歌合计持股近三成，估值1.405万亿美元，公开市场检验现金流与算力成本。OpenAI发布GPT-6.2双模型，推进企业分层商业化，并携北约网络防御、签约AMD算力。英伟达遭SEC调查、创始人辞任、…  
@@ -42,13 +42,9 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
   @SamuelZengML · 2026-11-13 02:00
 
-- [Google 与 Samsung、Gentle Monster、Warby Parker 合作推出 Gemini 智能眼镜，起价 395 美元](<https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/>)  
-  Google 联合 Samsung、Gentle Monster 和 Warby Parker 推出首批 Gemini 智能眼镜，今日起开放预售，起价 395 美元。  
-  Ars Technica：AI（RSS） · 2026-11-12 22:50
-
-- [韩国公布端侧 AI 半导体路线图：8,002 亿韩元项目，2030 年前完成 10 款芯片开发验证](<https://www.ithome.com/1/026/284.htm>)  
-  韩国产业通商资源部公布端侧 AI 半导体技术开发项目路线图，计划通过总额 8,002 亿韩元的项目，到 2030 年完成 10 款 AI 芯片的开发和验证。这十款芯片覆盖智能家电、自动驾驶、协作机器人、类人机器人、农业机器人、无人机等领域，另含先进制程和极端场景项目。三星电子等晶圆代工企业将优先向本国项目分配 MPW 等测试流片资源。  
-  IT之家·人工智能 · 2026-11-12 17:30
+- [Tether AI Research 发布 BotPsy 0.8B 端侧智能体模型](<https://huggingface.co/blog/qvac/botpsy>)  
+  Tether AI Research 在 Hugging Face 博客介绍 BotPsy，一个基于 Qwen3.5-0.8B 的 0.8B 参数函数调用与智能体模型，面向端侧部署。  
+  Hugging Face 社区博客（混合发现） · 2026-11-11 13:01
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

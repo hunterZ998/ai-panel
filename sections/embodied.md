@@ -20,6 +20,9 @@
 
 ## 相关资讯 · 30 条
 
+- [小米雷军：“AI+手机”“AI+具身智能机器人”等有很大想象空间，未来三四年](<https://www.163.com/dy/article/LC0U97MT0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 11:06
+
 - [第一批打工的人形机器人，有的已经失业了](<https://36kr.com/p/4074655957030791?f=rss>)  
   人形机器人，天生劳碌命？ 人形机器人打工，竟然也会被辞退。 不久前，智元机器人在一家便利店试岗直播时，就出现了六名选手淘汰两名的事儿，以为是HE结局的观众，亲眼见证了BE时刻。 另一边，银河通用、宇树科技等具身智能厂商，也在把自家产品送入便  
   36氪 · 2026-11-18 10:46
@@ -97,10 +100,6 @@
 - [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
-
-- [Runway 开源机器人模型 Praxis-1，速度比 GPT-6 Astra 机械臂快 15.6 倍](<https://www.ithome.com/1/026/104.htm>)  
-  Runway 于 11 月 11 日推出机器人模型 Praxis-1，将视频预训练知识用于真实机器人控制，模型以 Apache 2.0 许可证开放权重，权重和代码分别在 Hugging Face 和 GitHub 公开。  
-  IT之家·人工智能 · 2026-11-12 15:26
 
 - [Token卷到触觉了！机器人终于有了通用手感](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=1&sn=8fa8b6872870888a01b478c05b7bbaac>)  
   量子位 · 2026-11-10 13:24

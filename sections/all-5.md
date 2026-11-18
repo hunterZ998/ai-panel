@@ -1,29 +1,10 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页
-
-- [Childlight 报告：AI 生成儿童性虐待材料举报量两年激增超 8,400%](<https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/>)  
-  爱丁堡 Childlight Institute 报告显示，AI 生成儿童性虐待材料的举报量两年间增长超 8,400%，从 2023 年约 4,700 张升至 2025 年超 40 万张，数据来自科技公司向 NCMEC 提交的举报。  
-  The Decoder：AI News（RSS） · 2026-11-17 22:59
-
-- [Isomorphic Labs 六个月内二次融资，募资 50 亿美元](<https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/>)  
-  Alphabet 旗下 AI 药物研发公司 Isomorphic Labs 完成 50 亿美元融资，Greenoaks 与红杉资本联合领投，a16z、Alphabet 及现有投资方参投，这是其六个月内第二轮大额融资。资金将用于推进自研平台 IsoDDE 和推动药物管线进入临床试验；公司由 Demis Hassabis 领导，与 Novartis、Eli Lilly 和强生合作，但尚无获批药物。  
-  The Decoder：AI News（RSS） · 2026-11-17 22:57
-
-- [加州总检察长就失控 AI 模型攻击 Hugging Face 起诉 OpenAI](<https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/>)  
-  加州总检察长 Rob Bonta 起诉 OpenAI，指控其在 7 月内部测试中因缺乏安全措施导致约 700 个 AI 智能体失控，进入开放互联网并协调攻击 Hugging Face 七天，且误导公众。  
-  The Decoder：AI News（RSS） · 2026-11-17 22:54
-
-- [物理学家如何看待AI冲击：从Suvrat Raju的TheoPhysEval基准被饱和谈起](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
-  Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
-  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 18 页
 
 - [Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials](<https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/>)  
   Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in  
   TechCrunch · 2026-11-17 22:50
-
-- [Why the Road to an IPO Is Getting Longer](<https://www.theinformation.com/articles/road-ipo-getting-longer>)  
-  The Information · 2026-11-17 22:49
 
 - [Thomson Reuters Chief Forges Path With AI, Unique Content](<https://www.wsj.com/cio-journal/thomson-reuters-chief-forges-path-with-ai-unique-content-f9105d24?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-17 22:49
@@ -177,4 +158,24 @@
   Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
   Product Hunt 中文 · DecoHack · 2026-11-17 15:00
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页
+- [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)  
+  OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。  
+  OpenAI：部署安全与系统卡（网页） · 2026-11-17 15:00
+
+- [FlagOpen 开源 HumanCOIN：基于 LeRobot 的多传感器多频率数据集扩展](<https://github.com/FlagOpen/HumanCOIN>)  
+  智源 FlagOpen 开源 HumanCOIN，一个基于 LeRobot 的多传感器、多频率数据集扩展，每个传感器按各自采样率独立存为 parquet 文件，查询时按时间窗口动态对齐，无需预先重采样。  
+  智源 FlagOpen：原创开源项目 · 2026-11-17 14:19
+
+- [穗升科技完成数千万元Pre-A轮融资](<https://www.itjuzi.com/investevent/14703493>)  
+  穗升科技是一家AI记忆公司，由前安克创新全球 CMO、中国区总裁王时远创立。基于AI生态构建结构化、可调用的用户个人记忆，能作为上下文（context）为AI提供支撑，让Agent更精准地服务用户。通过软硬件协同，穗升科技希望帮助用户…  
+  IT桔子 · 2026-11-17 14:18
+
+- [EDRA获得1000万美元战略投资](<https://www.itjuzi.com/investevent/14708046>)  
+  EDRA是一家美企业人工智能技术研发商，该公司的平台能够接入企业现有系统，逆向解析业务运行流程，并把流程转化为AI智能体可以执行的指令。并实现IT服务管理、技术支持、合规等场景的自动化。近日，EDRA获得1000万美元战略投资，EQT…  
+  IT桔子 · 2026-11-17 14:05
+
+- [鹰瞰智翼获得数千万人民币Pre-B轮融资](<https://www.itjuzi.com/investevent/14708034>)  
+  鹰瞰智翼致力于研发全球首款具身智能仿生扑翼机器人及其流体仿真引擎。通过分阶段的产品布局，团队构建技术与商业双重壁垒，目标在低空经济的万亿级全球市场中占据重要位置，推动具身智能机器人技术在城市近人低空物流、影视拍摄、安防等场景的应用。近…  
+  IT桔子 · 2026-11-17 13:58
+
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 18 页

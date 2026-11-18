@@ -1,6 +1,10 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 18 页
+
+- [京东、淘宝、拼多多扎堆入局短剧赛道，背后有何深意？](<https://36kr.com/p/4074569103397768?f=rss>)  
+  近日，京东独立短剧产品“京东追剧福利社”小程序上线微信，产品介绍里提到免费看剧、领取福利，剧中同款直接买由京东发货。 经过实测，目前小程序界面很简单，只有“刷一刷”“我的”两个板块内容，其中的短剧也并非原创，可同时在其他短剧平台观看。同款购  
+  36氪 · 2026-11-18 09:23
 
 - [小米雷军 APEC 现场挨个发名片，参会时给台下朋友拍合影](<https://www.ithome.com/1/028/617.htm>)  
   IT之家 11 月 18 日消息，据广东广播电视台报道，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会， 现场社交发名片 。网友调侃“不管身价多少亿，该发名片还得发！” 雷军还在峰会上发言 ，表示…  
@@ -91,22 +95,6 @@
   IT之家 11 月 18 日消息，微软今日在 Ignite 大会上宣布启动 AI 透明度计划（AI Transparency Initiative），与埃森哲、Adobe、毕马威、万事达卡、沃尔沃汽车等 40 多家组织合作，共同推动制…  
   IT之家 · 2026-11-18 08:37
 
-- [刚刚，从黄任勋走后首份财报发布及说明会，我们看到了什么](<https://36kr.com/p/4074482719724681?f=rss>)  
-  这是黄仁勋辞去英伟达职务的第七天。 刚刚，英伟达发布2026年第三季度财报（2027财年第三财季），这是公司创始人黄仁勋11月12日辞职后的首份财报，由CFO、临时CEO科莱特·克雷斯（Colette Kress）主持财报电话会。 如果只看  
-  36氪 · 2026-11-18 08:35
-
-- [AI 越聪明，世界越单调](<https://36kr.com/p/4074430985114503?f=rss>)  
-  我们对 AI 的信任，正在达到史无前例的高度。 无论是在屏幕前码字，还是在生活中做决策，我们都习惯向 AI 寻求那个「完美建议」。用得多了，你甚至会发现它总是精准地踩中我们预期中的最优解。 这种顺滑，很可能是一种被精心设计的心理按摩。 哥伦  
-  36氪 · 2026-11-18 08:30
-
-- [英伟达，段永平的投资压力测试](<https://36kr.com/p/4074033252619907?f=rss>)  
-  段永平开始大幅卖出英伟达。 但奇怪的是，黄仁勋刚离开英伟达那会，段永平并没有卖。 股价大跌，他甚至还准备买回此前被Call走的部分股票。 段永平给出的理由是：我觉得我买NVDA的大部分理由都还在，只是黄不在了。 一句话，把问题挑明了。一家公  
-  36氪 · 2026-11-18 08:25
-
-- [AI行业里，被高薪叙事平均掉的人](<https://36kr.com/p/4073955303019398?f=rss>)  
-  晚上11点，杨涵合上电脑，12小时连轴转暂告一段落。但人下班了，神经没下，一旦数据有问题，她要24小时待命。 杨涵毕业已经3年，是985计算机本科、QS前20院校硕士，始终在AI这条线上，在几家大厂攒过实习和履历，还当过初创公司AI方向负责  
-  36氪 · 2026-11-18 08:24
-
 - [Nvidia promises that revenue will keep soaring — for now](<https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/>)  
   Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projecte  
   TechCrunch · 2026-11-18 08:16
@@ -117,10 +105,6 @@
 
 - [Nvidia Stops Selling AI Chips to China Despite US Approval](<https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china>)  
   Bloomberg · 2026-11-18 08:09
-
-- [8点1氪丨李飞飞率World Labs正式加入AMD，苏姿丰主导庆祝仪式；360集团副总裁涉及大额贪腐被警方带走调查；高盛预测金价2年后才能重回高位](<https://36kr.com/p/4074508571104132?f=rss>)  
-  今日热点导览 李飞飞率World Labs正式加入AMD，苏姿丰主导庆祝仪式 京东集团：第三季度营收3096亿元，同比增长3.5% OPPO Reno17系列正式发布 Siri AI每日限额，订阅后可获得最高20倍的额外使用额度 红果短剧有  
-  36氪 · 2026-11-18 08:04
 
 - [Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO](<https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo>)  
   Bloomberg · 2026-11-18 07:53
@@ -176,4 +160,19 @@
   Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
   Axios · 2026-11-18 07:15
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
+- [微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%](<https://www.ithome.com/1/028/585.htm>)  
+  IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修…  
+  IT之家 · 2026-11-18 07:06
+
+- [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](<https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/>)  
+  Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's su  
+  TechCrunch · 2026-11-18 07:04
+
+- [谷歌更新Gemini隐私控制，可保留聊天记录且不参与AI训练](<https://www.163.com/dy/article/LC0GBSIS0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 07:03
+
+- [“全球第一修图 AI 模型”：微软 MAI Image 2.7 登场，用 1/5 价格击败 GPT Image 2.6 登顶](<https://www.ithome.com/1/028/582.htm>)  
+  IT之家 11 月 18 日消息，微软昨日（11 月 17 日）发布推出 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，并上线由 Flash 驱动的交互式创作空间 Canvas。 费用方面…  
+  IT之家 · 2026-11-18 06:55
+
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 18 页
