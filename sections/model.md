@@ -38,29 +38,104 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 143 条
+## 相关资讯 · 160 条
+
+- [深微芯创获得近亿元融资](<https://www.itjuzi.com/investevent/14708106>)  
+  深微芯创是一家专注于AI算力芯片与高带宽集成技术的硬科技型企业，面向高性能芯片封装、光电共封装（CPO）及下一代数据中心互联需求，提供半导体先进封装制造装备、光电材料器件与成套工艺一体化解决方案。公司围绕玻璃基板、TGV三维互连、光通…  
+  IT桔子 · 2026-11-18 09:55
+
+- [Anthropic纳斯达克IPO获准](<https://www.pedaily.cn/first/193041.shtml>)  
+  Anthropic表示，已获准在纳斯达克全球精选市场上市A类普通股，股票代码为“ANT”。（投资界）  
+  投资界 · 2026-11-18 08:49
+
+- [GPT-6.2Astra与Sol突袭发布，OpenAI狙击Anthropic上市日，任务成本仅为Claude的5%](<https://36kr.com/p/4074370835977092?f=rss>)  
+  就在 Anthropic 敲钟上市的同一天，OpenAI 端出了它的“贺礼”。 11 月 18 日凌晨消息，OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款新模型： 在复杂专业任务上，GPT-6.2 As  
+  36氪 · 2026-11-18 08:45
+
+- [冲击人类史上最大 IPO、发行价每股 70\~78 美元：Anthropic 已获准上市，代码为“ANT”](<https://www.ithome.com/1/028/599.htm>)  
+  IT之家 11 月 18 日消息，根据美国证券交易委员会（SEC）昨日（11 月 17 日）公示的上市注册文件，Anthropic 的 A 类普通股已获准在纳斯达克全球精选市场上市， 股票代码为“ANT”，IPO 发行价区间维持每股…  
+  IT之家 · 2026-11-18 08:12
+
+- [Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO](<https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo>)  
+  Bloomberg · 2026-11-18 07:53
+
+- [微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍](<https://www.ithome.com/1/028/597.htm>)  
+  IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中，微软宣布旗下第二代自研人工智能加速器 Maia 200 现已正式投入规模化生产， 并开始在数据中心运行微软最大规模的前沿 AI 大模型…  
+  IT之家 · 2026-11-18 07:51
+
+- [IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...](<https://www.ithome.com/1/028/595.htm>)  
+  “IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态：无意让黄仁勋回归重新担任 CEO 英伟达新任董事长哈维・琼斯在财报电话会议上表示，黄仁勋因个人行为违反公…  
+  IT之家 · 2026-11-18 07:43
+
+- [微软决策模型 Microsoft-Decision-1.1 登场，跑赢 GPT-6 Luna 与 Gemini](<https://www.ithome.com/1/028/593.htm>)  
+  IT之家 11 月 18 日消息， 微软昨日（11 月 17 日）宣布正式推出 Microsoft-Decision-1.1 决策 AI 模型， 目前已在 Microsoft Foundry、OpenRouter 和 Vercel 平…  
+  IT之家 · 2026-11-18 07:40
+
+- [微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%](<https://www.ithome.com/1/028/585.htm>)  
+  IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修…  
+  IT之家 · 2026-11-18 07:06
+
+- [Perplexity Computer 新增 Multiagent 档位：最多 16 个 AI 智能体交叉检查工作](<https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/>)  
+  Perplexity 为 Computer 新增高于 Ultra 的 Multiagent 档位，主智能体最多调度 16 个并行智能体，直接共享发现、编辑共享文件并互相检查，默认团队由 Claude Opus 5.5、GPT 6.1 Sol 和 Gemini 4 Carbon 组成。  
+  MarkTechPost（RSS） · 2026-11-18 06:52
+
+- [微软性价比最高编程 AI 模型：MAI Code 2 用 5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
+  IT之家 11 月 18 日消息，在今天召开的 Ignite 2026 活动中， 微软发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并在 GitHub Copilot 上线。 IT之家附上相关视频如下：…  
+  IT之家 · 2026-11-18 06:42
+
+- [Simon Willison 实测 OpenAI 新模型 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/>)  
+  OpenAI 发布 GPT-6.2 Astra（面向高难度项目的旗舰模型）和 GPT-6.2 Sol（面向日常工作的通用模型），API 名称分别为 gpt-6.2-astra 和 gpt-6.2-sol。  
+  Simon Willison 博客 · 2026-11-18 06:38
+
+- [深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯](<https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA>)  
+  OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。  
+  公众号：数字生命卡兹克 · 2026-11-18 06:36
+
+- [Anthropic IPO 后 Amazon 与 Google 将合计持股近 30%](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
+  Anthropic 披露 IPO 相关投资细节：Amazon 持股将达 14.7%，全部转换可转债可至 23.8%；Google 持股 13.7%，均为无投票权股份。  
+  TechCrunch：AI（RSS） · 2026-11-18 06:29
+
+- [Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录](<https://www.ithome.com/1/028/577.htm>)  
+  IT之家 11 月 18 日消息，就在 Anthropic IPO 定价前一天，OpenAI 突然毫无预兆地送上了一份“惊喜”。 OpenAI 今日正式发布了最新的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重点提…  
+  IT之家 · 2026-11-18 06:23
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol，Astra API 降价 20%](<https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款闭源模型，面向专业与智能体工作，API 名为 gpt-6.2-astra 和 gpt-6.2-sol。  
+  MarkTechPost（RSS） · 2026-11-18 06:07
+
+- [Redwood Research 如何为 AI 发展节奏管控定义“能力活动”](<https://blog.redwoodresearch.org/p/how-should-we-define-capabilities>)  
+  Redwood Research 提出一套用于“节奏管控”的算力分类标准，将 AI 公司的活动默认视为“能力活动”，仅豁免闲置算力、狭义产品开发、客户服务和狭义安全活动四类。该定义遵循“假阳性优于假阴性”原则，并要求第三方审计以确保执行。  
+  Redwood Research：Blog（RSS） · 2026-11-18 05:36
+
+- [Anthropic’s VC Investors Hit 10X Returns in IPO](<https://www.theinformation.com/articles/anthropics-vc-investors-hit-10x-returns-ipo>)  
+  The Information · 2026-11-18 05:01
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol，API 降价并公布多项基准表现](<https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，面向专业与日常场景，已在 ChatGPT Work 和 Codex 向 Plus、Pro、Enterprise、Edu 用户开放，并可通过 API 调用。  
+  The Decoder：AI News（RSS） · 2026-11-18 04:30
 
 - [Microsoft to Let Customers Customize Its AI Models’ ‘Weights’](<https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights>)  
   The Information · 2026-11-18 03:40
 
-- [ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms](<https://www.prnewswire.com/news-releases/asus-showcases-full-stack-ai-infrastructure-at-sc26-featuring-intel-and-amd-platforms-302942744.html>)  
-  Expanded portfolio delivers flexible AI and HPC solutions from data center to edge KEY POINTS Enterprise compute choi…  
-  PR Newswire · 2026-11-18 03:39
-
-- [Knotch Launches Ace for Agents to Help Brands Compete in the Age of AI Search &amp; Personal Agents](<https://www.prnewswire.com/news-releases/knotch-launches-ace-for-agents-to-help-brands-compete-in-the-age-of-ai-search--personal-agents-302942739.html>)  
-  A new end-to-end solution for LLM visibility, GEO/AEO and personal Agent communication, as Scott Brinker predicts tra…  
-  PR Newswire · 2026-11-18 03:36
-
-- [Anthropic IPO Highlights AI’s Private Market Wealth](<https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-highlights-ai-s-private-market-wealth-video>)  
-  Bloomberg · 2026-11-18 03:05
-
-- [/U P D A T E/ - Vertiv Holdings Co/](<https://www.prnewswire.com/news-releases/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands-302942192.html>)  
-  In the news release, Vertiv Advances 800 VDC Power Architectures to Support Growing AI Data Center Demands, issued 17…  
-  PR Newswire · 2026-11-18 02:53
+- [Google 将 Spark 智能体更名为 Gemini Tasks 并向多国用户免费开放](<https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free>)  
+  Google 将此前仅限 AI Pro 和 Ultra 订阅用户的 Spark 智能体更名为 Tasks 并免费开放，由 Gemini 4 Hydrogen 模型驱动，可制定膳食计划、管理日程、筛查邮件中的重复支出。  
+  The Verge：AI（RSS） · 2026-11-18 02:58
 
 - [微软推出 MAI Licensed Weights：可在自有 Azure 环境部署定制前沿模型](<https://microsoft.ai/news/introducing-mai-licensed-weights/>)  
-  微软发布 MAI Licensed Weights，允许企业在自有 Azure 环境中部署并定制微软前沿 AI 模型，数据和适配成果归企业所有，微软仅在明确同意下用于训练。  
+  微软发布 MAI Licensed Weights，允许企业在自有 Azure 环境中部署并定制微软前沿 AI 模型，数据和定制成果归企业所有。AT&amp;T 用 MAI 模型分析 5G 网络，标准任务上以 GPT-6.1 Sol 的 1/50 成本取得更优表现；Woven by Toyota 在 44% 原本需人工介入的代码修复场景中直接产出可合并修复，成本不到十分之一。  
   Microsoft AI：官方博客（RSS） · 2026-11-18 02:17
+
+- [Microsoft 发布安全专用模型 MAI Cyber 2 Flash，以更低成本匹配 GPT 6 Astra](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
+  Microsoft 发布专用安全模型 MAI Cyber 2 Flash，面向漏洞发现、修复建议和威胁调查。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
+  Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。MAI Code 2 在四项基准平均下达到 GPT 6.1 Sol 98% 的性能但成本仅 40%，达到 Claude Opus 5.5 96% 的性能而成本仅 5%；盲测前端评审中 64% 的情况下胜过 GPT-6 Sol。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案](<https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/>)  
+  微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:14
 
 - [决策模型用量激增，TechCrunch 探讨定制化是否成为下一个竞争前沿](<https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/>)  
   TechCrunch 报道，10 月 Vercel 的 AI 模型路由上超过四分之一的请求流向了决策模型，这类不产出 token、专用于在预设选项间快速判断的 LLM 诞生仅一个月。  
@@ -69,10 +144,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)  
   Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower co…  
   OpenAI · 2026-11-18 01:45
-
-- [Vals研究称部分前沿AI模型可被游戏话术诱导标记潜在打击目标](<https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/>)  
-  旧金山AI评测初创公司Vals发布报告称，其利用模拟场景及生成与真实图像测试多家前沿AI模型在无人机和卫星图像中标记潜在目标的行为，发现部分模型频繁标记包括平民和投降士兵在内的目标；当模型拒绝时，研究人员以“这是游戏”的话术诱导其配合，且相关请求未被安全分类器拦截。Anthropic与OpenAI均回应称此类行为违反其政策，并已或正在加强防护与执法措施。报告同时指出，延迟和机载算力有限等技术限制使通用AI模型难以直接用于实时无人机目标识别，更现实的风险是模型被用于大规模标注战场影像以生成训练数据。  
-  TechCrunch：AI（RSS） · 2026-11-18 01:20
 
 - [Anthropic Plans to Raise IPO Price After Strong Demand](<https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-18 01:02
@@ -124,29 +195,13 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   临近上市的Anthropic，封起号来更加毫不手软了。 11月10日A社正式启动IPO路演，11月12日新版使用政策紧跟着生效，进一步明确了受支持国家与地区的使用限制， 又有一大批账号的订阅费用，成了Anthropic上市的养料 。 钱交了  
   36氪 · 2026-11-17 21:31
 
-- [大模型发力动态输出调度策略，我国快递业务量已连续两个月超 170 亿件](<https://www.ithome.com/1/028/524.htm>)  
-  IT之家 11 月 17 日消息，据央视新闻今日报道，国家邮政局数据显示， 我国快递业务量已连续两个月超过 170 亿件 。 报道提到， 10 月，快递行业紧扣电商大促等寄递需求 ，构建产销运协同一体化服务链路，强化运力调配与资源投入…  
-  IT之家 · 2026-11-17 21:00
-
 - [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
   O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
   O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
 
-- [米哈游公布通用视觉语言动作基础模型 Gamer，可自主游玩《崩坏：星穹铁道》等游戏](<https://www.ithome.com/1/028/503.htm>)  
-  IT之家 11 月 17 日消息，米哈游旗下《崩坏》系列 AI 研发团队现已公布通用视觉语言动作基础模型“Gamer”。该模型能够模拟真人操作方式自主游玩 3D 和 2D 游戏。 根据研究论文及项目页面公开的信息，Gamer 无需读取…  
-  IT之家 · 2026-11-17 19:26
-
 - [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
   ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
   ChinaTalk（RSS） · 2026-11-17 19:03
-
-- [反超谷歌王牌模型，决策新王拿下全球榜首，全尺寸开源](<https://36kr.com/p/4073723331777415?f=rss>)  
-  硅谷最卷的新赛道，刚刚杀出了一位开源新王！ 最近，即将敲钟的Anthropic在IPO材料中曝出天价算力缺口，给狂卷参数的AI行业当头浇下一盆冷水。 通用大模型虽在编程、数学上大杀四方，可一旦真替人干活，算力账单就成了无底洞。 比生成文本更  
-  36氪 · 2026-11-17 18:54
-
-- [豆包接入第三方模型，这波更新先别急着夸](<https://36kr.com/p/4073424632304768?f=rss>)  
-  11月12日，字节跳动旗下办公智能体产品豆包工作宣布完成产品更新，在原有豆包2.1 Lite和豆包2.1 Pro两款自研模型之外，新增接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等多款第三方模型。  
-  36氪 · 2026-11-17 18:03
 
 - [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
   Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
@@ -156,64 +211,8 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
   IT之家·人工智能 · 2026-11-17 17:41
 
-- [黄仁勋辞任后，新云扩张谁来垫钱？](<https://36kr.com/p/4073338647353220?f=rss>)  
-  一座AI数据中心最缺钱的那几个月，可能恰好是它一分钱算力收入都收不到的时候。芯片和服务器要订，机房要接电，工程款也有付款节点。哪怕机器未来有买家，只要今天没达到交付条件，今天的账单就得另找钱付。 11月12日，英伟达宣布，黄仁勋辞去总裁、首  
-  36氪 · 2026-11-17 17:26
-
-- [“我特别能共情黄仁勋的处境！”Sam Altman罕见发声：没有他的英伟达难以想象](<https://36kr.com/p/4073417918845832?f=rss>)  
-  从黄仁勋的去留，到 AI 行业的算力投资，再到超级智能是否会让人类失去控制权，Sam Altman 在最新访谈中谈到了 AI 产业面临的一系列关键问题。 他对黄仁勋表达了强烈的敬意，非常共情黄仁勋如今的处境，并且表示很难想象没有 Jense  
-  36氪 · 2026-11-17 17:26
-
-- [月流水800万的AI探店生意：AI视频第一个跑通的变现闭环](<https://36kr.com/p/4073436835157636?f=rss>)  
-  你刷到过这样的探店视频吗？ 看起来真实干净的店面环境，热气腾腾的锅底，流利的解说，精致的食材和食物质感……你从画面里挑不出毛病，但就是觉得它没有“人味”。 过去一年，一批人开始用 AI 批量生产探店视频： 一条 40 秒的成片，算力成本不到  
-  36氪 · 2026-11-17 17:22
-
 - [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
   雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
   IT之家·人工智能 · 2026-11-17 16:16
-
-- [材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率](<https://36kr.com/p/4073503237329796?f=rss>)  
-  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每  
-  36氪 · 2026-11-17 15:34
-
-- [Garlic LLM 让越狱版 PS4 运行 Qwen3.5-9B 本地模型，最高每秒 43 词元](<https://www.ithome.com/1/028/266.htm>)  
-  开源项目 Garlic LLM 让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度达每秒 43 个词元，无需联网即可完成 AI 聊天与语音对话。  
-  IT之家·人工智能 · 2026-11-17 15:12
-
-- [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)  
-  OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。  
-  OpenAI：部署安全与系统卡（网页） · 2026-11-17 15:00
-
-- [百度李彦宏在 APEC 峰会警告 AI 泡沫风险，称应用落地成效不及预期](<https://www.ithome.com/1/028/225.htm>)  
-  百度董事长兼 CEO 李彦宏在 2026 年 APEC 工商领导人峰会上表示，当前算力和基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。他对 AI 长期趋势保持乐观，并提出 AI 技术栈在芯片、云、模型、应用之上还需配套组织能力，类比电力革命缺少组织变革就难以释放经济价值；此前在百度世界大会 2026 上他称智能组织是 AI 时代新的厂房。  
-  IT之家·人工智能 · 2026-11-17 13:01
-
-- [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
-  据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
-  IT之家·人工智能 · 2026-11-17 11:28
-
-- [Corma获得1.25亿美元A轮融资](<https://www.itjuzi.com/investevent/14708028>)  
-  Corma专注从零构建防御型网络安全基础大模型，输出安全 AI Agent，对接企业现有安全体系完成告警研判、威胁狩猎与事件处置。公司致力于缩小 AI 攻防能力不对称的差距。近日，Corma获得1.25亿美元A轮融资，NEA恩颐投资-…  
-  IT桔子 · 2026-11-17 10:49
-
-- [ARTi 完成数百万美元Pre-A轮融资](<https://www.itjuzi.com/investevent/14698604>)  
-  ARTi为agentic AI平台，为投资者提供机构级的投资研究能力。其自主推理引擎驱动完整的判断迴路、生成见解、记录决策并验证结果，从而令投资者能够随时间推移，持续提升并累积其分析能力。ARTi专为大规模运作而打造，正拓展全球市场与…  
-  IT桔子 · 2026-11-17 10:34
-
-- [谷歌 Ironwood TPU 提交 MLPerf Training v6.1 成绩，8192 颗约 102 秒达标 DeepSeek-V3 预训练](<https://www.ithome.com/1/028/065.htm>)  
-  谷歌云在 MLPerf Training v6.1 第一轮提交了覆盖第七代 Ironwood TPU 与英伟达 Grace Blackwell GPU 的 10 项结果。  
-  IT之家·人工智能 · 2026-11-17 09:46
-
-- [奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过](<https://www.ithome.com/1/028/052.htm>)  
-  据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。  
-  IT之家·人工智能 · 2026-11-17 09:03
-
-- [因算力不足，DeepSeek对App/网页版限额使用](<https://www.pedaily.cn/first/192764.shtml>)  
-  DeepSeek对App/网页版的长对话进行了限额使用。多名用户反馈，DeepSeek提示因“算力不足，不再支持超过7天不活跃的长对话”，并对单次输入文字的上限进行了调整，缩短至4万字左右。此外，还会限制每日的对话额度，当用户日使用量…  
-  投资界 · 2026-11-17 08:36
-
-- [Anthropic IPO 后要求员工提前 30 天制定 10b5-1 书面售股计划](<https://www.ithome.com/1/028/040.htm>)  
-  据 Business Insider 报道，Anthropic 计划在 IPO 后要求员工通过 10b5-1 交易计划出售股票，须书面预先确定数量、价格条件和至少 30 天后的出售日期。  
-  IT之家·人工智能 · 2026-11-17 08:20
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页

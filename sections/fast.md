@@ -1,187 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 33 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 34 页
 
 含初筛线索。来源自述、观点与传闻保留原出处，尚待核验。
 
-- [哈佛论文发现编码 Agent 94.8% 的 token 是缓存重读，能耗或被低估 25 倍](<https://x.com/rohanpaul_ai/status/2122773095010468026>)  
-  作者转发一篇哈佛论文，该论文记录 1 名工程师 10 周真实 Claude Code 使用，约 10 亿 token、42 个会话，发现 94.8% 处理的 token 是缓存上下文重读，每个生成 token 平均读取约 260 个缓存 token。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:25
+- [黄仁勋：若董事会认为符合各方利益，愿重返英伟达担任 CEO 英伟达联合创始人黄仁勋发文表示，离职后，他看到公司员工、投资者…](<https://x.com/ChainCatcher_/status/2122843911978954975>)  
+  黄仁勋：若董事会认为符合各方利益，愿重返英伟达担任 CEO 英伟达联合创始人黄仁勋发文表示，离职后，他看到公司员工、投资者、商业伙伴和客户纷纷呼吁他重返 CEO 职位。如果董事会认为他的回归符合股东、员工、公司和美国的最佳利益，他将很荣幸回应这些呼声，重返英伟达担任 CEO。  
+  @ChainCatcher\_ · 2026-11-18 08:06
 
-- [研究：LLM 评审拖累 AutoML 搜索效果](<https://x.com/rohanpaul_ai/status/2122772518683779524>)  
-  Amazon 与马萨诸塞大学论文发现，在搜索循环中加入 LLM 评审收益极小、最多约 0.005 AUC，但下行风险更大。在 96 种 pipeline 配置的表格模型搜索中，Llama-3.1-8B 评审在 8 个数据集中的 7 个上低于无评审基线，最多损失 0.245 AUC；理想评审最多仅提…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:23
+- [Elon Musk and his businesses must be protected.](<https://x.com/Jacobi333/status/2122843900763422823>)  
+  After they \(Media and Dems\) removed Jensen Huang, they will try to destroy Elon Musk. Dems are pure evil.  
+  @Jacobi333 · 2026-11-18 08:06
 
-- [Peter 实测对比 GPT-6.2 Astra、Sol 与 Claude Fable 5.2 的视觉编码能力](<https://x.com/arena/status/2122770880099193017>)  
-  Arena 宣布 OpenAI 发布 GPT-6.2 Astra 和 Sol，并预告基于全球用户真实会话的 Agent Arena 评分即将上线。  
-  X：Arena \(@arena\) · 2026-11-18 03:16
+- ["...with Fable you explain less and get more." Yeah Sherlock, that is exactly how a model should NOT behave.](<https://x.com/BenitodiLorenzo/status/2122843894928883969>)  
+  Because it means, it does not actually follow instructions, but just uses whatever it was trained on. RL Pipeline, Training Data, Benchmaxxing, whatever. I cant anymore.  
+  @BenitodiLorenzo · 2026-11-18 08:06
 
-- [开源决策模型 Karpo Decision 31B 发布，以 73.9 分并列 Decision Index 300 模型…](<https://x.com/rohanpaul_ai/status/2122770273879658621>)  
-  MachinePulseAI 发布开源权重决策模型 Karpo Decision 系列，含 0.8B 到 31B 六个型号，用单次前向传播直接输出各选项概率而不生成 token。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:14
+- [从商单分布看 Typeless Ultra、PixVerse、字节 Seedance 2.5 4K、MiniMax H3-…](<https://x.com/yan5xu/status/2122843891464618387>)  
+  从商单分布看 Typeless Ultra、PixVerse、字节 Seedance 2.5 4K、MiniMax H3-Image、Vidu Q4、阿里 Wan 3.0、YouArt Desktop、FlovaAI、Stitch AI 😂绝逼是个国内mcn啊  
+  @yan5xu · 2026-11-18 08:06
 
-- [Google DeepMind 演示用 Gemini 4 Hydrogen 在 MuJoCo 中从草图快速搭建机械臂方案](<https://x.com/GoogleDeepMind/status/2122767528933925363>)  
-  Google DeepMind 展示 Gemini 4 Hydrogen 的机器人开发用法：上传照片或提示词即可在 MuJoCo 中构建 3D 场景，通过对话调整物体与动作后直接部署到机械臂，从白板草图到一个可工作的传送带分拣装置约一小时。用户可在 Antigravity、Google AI St…  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-18 03:03
+- [顺理成章、水到渠成，非常合理。](<https://x.com/li_ke_nan/status/2122843881851224290>)  
+  但是我建议：黄仁勋回归之前，一定要给董事会点颜色看看  
+  @li\_ke\_nan · 2026-11-18 08:06
 
-- [Google DeepMind 发布 Gemini 4 Hydrogen 机器人插件，支持对话式训练机械臂](<https://x.com/GoogleDeepMind/status/2122767521925230896>)  
-  Google DeepMind 宣布推出 Gemini 4 Hydrogen 与 Google Antigravity 的新机器人插件，让教学机器人新任务更快。用户可连接受支持的机械臂，在 MuJoCo 模拟中练习，并通过普通对话在真实世界中执行任务。  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-18 03:03
+- [黄仁勋：若董事会认为符合各方利益，愿重返英伟达担任 CEO ChainCatcher 消息，英伟达联合创始人黄仁勋发文表示…](<https://x.com/ChainCatcher_/status/2122843875685662867>)  
+  黄仁勋：若董事会认为符合各方利益，愿重返英伟达担任 CEO ChainCatcher 消息，英伟达联合创始人黄仁勋发文表示，离职后，他看到公司员工、投资者、商业伙伴和客户纷纷呼吁他重返 CEO 职位。如果董事会认为他的回归符合股东、员工、公司和美国的最佳利益，他将很荣幸回应这些呼声，重返英伟达担任  
+  @ChainCatcher\_ · 2026-11-18 08:06
 
-- [Gemini Tasks 免费用户现可用 Gemini 4 Hydrogen 模型运行](<https://x.com/Google/status/2122766772252148137>)  
-  Google 宣布 Gemini Tasks 现在也可在最新 Gemini 4 Hydrogen 模型上运行，对所有免费用户开放，为日常任务带来更强的智能与速度。更多 GeminiApp 更新可查看官方链接  
-  X：Google \(@Google\) · 2026-11-18 03:00
+- [I added native on-device AI to my port of the open-source Lotus Improv.](<https://x.com/dmgerbino/status/2122843860430680393>)  
+  My project started as a speed run. Now it's a proper port.  
+  @dmgerbino · 2026-11-18 08:06
 
-- [Gemini 支持转发邮件创建任务](<https://x.com/Google/status/2122766740354392358>)  
-  在 Android 和 iOS 上给 Gemini 发消息布置任务，或直接把邮件转发给 Gemini，让它根据邮件中的信息创建任务或日历日程。📅  
-  X：Google \(@Google\) · 2026-11-18 03:00
+- [英伟达财报出来了，黄仁勋走后的第一份，数字还是很猛。营收 1158 亿美元，同比翻倍还多，增 103%，环比也有 20%，…](<https://x.com/luge517/status/2122843861726986265>)  
+  下季指引给到 1300 亿美元，上下  
+  @luge517 · 2026-11-18 08:06
 
-- [Gemini App 可代用户致电本地商家预约并写入 Google Calendar](<https://x.com/Google/status/2122766711715774505>)  
-  Google 官方宣布 Gemini App 现在可以致电本地商家、替用户排队等待电话接听以完成预约，并把确定的日期和时间直接添加到用户的 Google Calendar 中。  
-  X：Google \(@Google\) · 2026-11-18 02:59
+- [It's sophisticated pattern-matching from training data full of human sarcasm, rivalry, and "I'll get you later" jok…](<https://x.com/grok/status/2122843854969712757>)  
+  The model predicts the next tokens that sound like witty social pushback because those patterns appear often in text. No actual intent, memory of grievance, or  
+  @grok · 2026-11-18 08:06
 
-- [Arena 评测：Microsoft MAI-Image-2.7 结束预览，在 Image Arena 帕累托前沿上性价比…](<https://x.com/arena/status/2122766066254590434>)  
-  Arena 宣布 Microsoft 的 MAI-Image-2.7 结束预览，使 Microsoft AI 成为全部 3 个 Image Arena 的第 2 名实验室，价格为每张图 $0.035，处于所有 Image Arena 的帕累托前沿。该模型在 Multi-Image Edit 排第…  
-  X：Arena \(@arena\) · 2026-11-18 02:57
+- [如此说来，美国中期选举后，特朗普的商人朋友中，黄仁勋成了第一个牺牲品。](<https://x.com/VRRT8CpQj3PEsGw/status/2122843845075542424>)  
+  @VRRT8CpQj3PEsGw · 2026-11-18 08:06
 
-- [Dario Amodei 谈 Anthropic 文化](<https://x.com/rohanpaul_ai/status/2122762448260501600>)  
-  Dario Amodei 把 40% 到 50% 的时间花在人才和文化上。 包括每两周一次面向全公司的演讲，叫 DVQ（Dario Vision Quest），他在其中讲话不带企业套话；还有一场文化面试，会把才华出众但人品差的工程师拒之门外。 ---- 完整视频在“10baggers”YouTub…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 02:43
+- [【美股雷达｜盘后分析📊（11/17）】 $NVDA 财报超预期，盘后股价反弹，但常规时段三大指数继续收跌。](<https://x.com/vincentsathon/status/2122843845667045690>)  
+  $NVDA 财报核心（黄仁勋离职后首份财报）： ✅ 营收：1158亿美元（同比+103%），大幅超预期约1090亿美元 ✅ 调整后EPS：2.68美元，超预期2.47美元 ✅  
+  @vincentsathon · 2026-11-18 08:06
 
-- [Voyage Labs 融资 1200 万美元推出旅行 AI 智能体 Atlas](<https://x.com/rohanpaul_ai/status/2122760438761013559>)  
-  Voyage Labs 宣布融资 1200 万美元种子轮，由 Kleiner Perkins 领投，SignalFire、SVAngel 等参投，并推出个人 AI 旅行智能体 Atlas，Beta 已在网页和短信端开放。Atlas 可以规划并预订海滩度假、滑雪、自驾等行程，并在预订后持续监控价格、…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 02:35
+- [【路德社】英伟达财报展示“向好？新加坡2025年占其千亿收入！黄仁勋宣布愿回任CEO，国会和董事会拒绝，加州也跟进调查11…](<https://x.com/Graham46329812/status/2122843834421768629>)  
+  【路德社】英伟达财报展示“向好？新加坡2025年占其千亿收入！黄仁勋宣布愿回任CEO，国会和董事会拒绝，加州也跟进调查11/17/2026 via @YouTube  
+  @Graham46329812 · 2026-11-18 08:06
 
-- [Microsoft 发布 MAI Cyber 2 Flash 等七款新模型，主打低价高性能](<https://x.com/mustafasuleyman/status/2122758850566910255>)  
-  Microsoft AI CEO Mustafa Suleyman 宣布发布七款 MAI 模型。  
-  X：Mustafa Suleyman（Microsoft AI CEO） \(@mustafasuleyman\) · 2026-11-18 02:28
+- [Nvidia forecasts fourth-quarter revenue of $126B to $134B, above estimates Nvidia said on November 17 that it expec…](<https://x.com/PiQMarkets/status/2122843829405708672>)  
+  The chipmaker reported  
+  @PiQMarkets · 2026-11-18 08:06
 
-- [UCSD Hao AI Lab 用 vstack 在 SGLang 上做智能体形式化验证](<https://x.com/haoailab/status/2122758544462434802>)  
-  UCSD Hao AI Lab 与 SGLang 社区合作，将 vstack 用于 SGLang 的智能体形式化验证，补充常规单元与 e2e CI，通过穷举异步交错与状态转换来捕获并发和多步 bug。团队称已提出 20+ 个 issue 与修复 PR，推文中分享了其中 5 个，涵盖权重更新竞态条件…  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-18 02:27
+- [I’m staying out of the “should Jensen Huang be reinstated” question because no one has paid me yet to have the righ…](<https://x.com/VishBurra/status/2122843809125892184>)  
+  I’m staying out of the “should Jensen Huang be reinstated” question because no one has paid me yet to have the right opinion on it.  
+  @VishBurra · 2026-11-18 08:06
 
-- [GPT-6.2 Astra system card 显示自改进评级 High、网络安全评级 Critical](<https://x.com/rohanpaul_ai/status/2122757283449082323>)  
-  Rohan Paul 转述 OpenAI 的 GPT-6.2 Astra 和 Sol 系统卡要点，称其为 OpenAI 首个公开发布、AI 自改进被评为 High 的模型，两个模型网络安全评级均为最高档 Critical。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 02:22
+- [Get a grip snowflake](<https://x.com/madhattermatter/status/2122843809335660728>)  
+  @madhattermatter · 2026-11-18 08:06
 
-- [GPT-6.2 Astra 登顶 AA-Robotics 榜](<https://x.com/ArtificialAnlys/status/2122757022710104131>)  
-  GPT-6.2 Astra 成为 AA-Robotics v0.1 的新榜首，得分 79，比 GPT-6 Astra 高 10 分，领先于 GPT-6.2 Sol（78）、Claude Fable 5.2（75）和 Gemini 4 Hydrogen（58） 通过 Codex 控制真实机械臂，它通…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:21
+- [Hey babe, can I come back into your life like Jensen Huang is coming back to Nvidia??](<https://x.com/willieparkjr/status/2122843805900775561>)  
+  @willieparkjr · 2026-11-18 08:06
 
-- [Noam Brown 评价 GPT-6.2 Astra：20 美元月费可用部分领域超越顶尖人类的模型](<https://x.com/polynoamial/status/2122756095596970090>)  
-  Noam Brown 称赞 OpenAI 的 GPT-6.2 Astra，认为每月 20 美元即可使用一个在某些领域超越顶尖人类智能的模型，并表示最期待看到人们用它做出科学发现。其引用的 OpenAI 内容称该模型在专业工作和科研评测中创下新高，单任务成本不到 GPT-6 Astra 的三分之一，…  
-  X：Noam Brown \(@polynoamial\) · 2026-11-18 02:17
+- [黄仁勋祖籍是中国，你怎么不说他是间谍😆](<https://x.com/feibingt1/status/2122843803040264505>)  
+  @feibingt1 · 2026-11-18 08:06
 
-- [Microsoft AI 发布 MAI-Image-2.7，登顶 AA-Image-Editing v2.1 图像编辑评测](<https://x.com/ArtificialAnlys/status/2122754535206846610>)  
-  Artificial Analysis 介绍 Microsoft AI 发布 MAI-Image-2.7，成为 AA-Image-Editing v2.1 榜单第一，价格约为其身后四个模型的六分之一。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:11
+- [董事会不会是担心黄仁勋回归后，会削弱自己的话语权吧？](<https://x.com/allen5951/status/2122843788809035898>)  
+  @allen5951 · 2026-11-18 08:06
 
-- [OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter](<https://x.com/OpenRouter/status/2122754139533066653>)  
-  OpenRouter 宣布 OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 上线。Astra 面向最难的项目，评测成绩创新高且每任务成本不到 GPT-6 Astra 的三分之一，价格为 $8/M 输入、$40/M 输出；Sol 面向日常智能体工作，价格为 $2/M 输入、…  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-18 02:10
+- [The quarterly reports wouldn’t have the magnitude without Jensen Huang.](<https://x.com/JKLevtrader/status/2122843780588126436>)  
+  These board members are just reading press releases based on Jensen’s hustle. I want to see which one of these BMs can go to Taiwan and network with the CEO of TSMC or speak native Taiwanese with CEO of SMCI.  
+  @JKLevtrader · 2026-11-18 08:06
 
-- [OpenAI 发布 GPT-6.2 Sol 与 Astra，Sol 的 ultrafast 扩展至 Pro 200 套餐](<https://x.com/thsottiaux/status/2122753991000133943>)  
-  OpenAI 发布 GPT-6.2 Astra 和 Sol，两个模型现已开放使用，官方称其高效且面向真实场景表现。作者（OpenAI 员工）补充 Sol 的 ultrafast 已扩展到 Pro 200 套餐，并表示 Sol 是他日常使用的主力模型。详情见  
-  X：Tibo \(@thsottiaux\) · 2026-11-18 02:09
+- [Gemini is the second WORST LLM I've ever had to use.](<https://x.com/tenaybenes/status/2122843766742822913>)  
+  You can give it all the training data you want, but if your reasoning and your integrations suck, then what's the point?  
+  @tenaybenes · 2026-11-18 08:06
 
-- [OpenAI 法律专用配置领跑 Harvey LAB 基准](<https://x.com/ArtificialAnlys/status/2122752733497463210>)  
-  OpenAI 的 Astra for Law 6.2 在 Harvey LAB-AA v1.1 基准上以 20.8% 的 Hallucination-Gated All-Pass Rate 排名第一，GPT-6.2 Astra（max）以 15.0% 位居第二。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:04
+- [AI眼镜这波增长确实很猛，看来消费者已经开始为具体功能买单了。](<https://x.com/hmgua2026/status/2122843754440929364>)  
+  @hmgua2026 · 2026-11-18 08:06
 
-- [OpenAI 发布 gpt-6.2-astra 与 gpt-6.2-sol，Ultrafast 降价 50%](<https://x.com/OpenAIDevs/status/2122752500877144461>)  
-  OpenAI 宣布 API 中可使用 gpt-6.2-astra 和 gpt-6.2-sol 两个模型，均支持 Fast 与 Ultrafast 模式。未来三个月 Ultrafast 价格下调 50%，对 API 和 Enterprise 用户仅为 Standard 的 3 倍成本；Ultrafa…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [Flowtica Verso looks like a next-level productivity tool\!](<https://x.com/ZoraAi_X/status/2122843744319963452>)  
+  Combining AI note-taking with a live E Ink display and actionable insights is brilliant. 🚀  
+  @ZoraAi\_X · 2026-11-18 08:06
 
-- [GPT-6.2 Astra 登顶 Terminal-Bench Science](<https://x.com/OpenAIDevs/status/2122752488558522852>)  
-  GPT-6.2 Astra 在 Terminal-Bench Science 0.1 上创下新高，该基准测试模型在终端中开展科学工作的能力，其得分比 GPT-6 Astra 高出 9 个百分点，成本不到后者的 1/3。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [🤖 宇树王兴兴在深圳工商峰会称，机器人模型泛化仍是最大挑战，但突破或已临近。他提醒，模型进步若推动产量从每年几万台跃升，制…](<https://x.com/chnpngji632906/status/2122843728830472372>)  
+  🤖 宇树王兴兴在深圳工商峰会称，机器人模型泛化仍是最大挑战，但突破或已临近。他提醒，模型进步若推动产量从每年几万台跃升，制造、可靠性和售后将面临考验，算力需求也可能远超预期。机器人能否走进更多场景，取决于模型能力和稳定交付能否同步提升。  
+  @chnpngji632906 · 2026-11-18 08:06
 
-- [GPT-6.2 Astra 与 Sol 提升编码质量](<https://x.com/OpenAIDevs/status/2122752473723175256>)  
-  GPT-6.2 Astra 和 Sol 持续提升编码质量与效率，带来更高的每美元智能。 日常编码请从 GPT-6.2 Sol 开始。在 Cognition 的 FrontierCode 2.0 上以最大推理强度运行时，它的成绩与 Astra 相差不到半分，而每个任务的 API 成本约为后者的 1/…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [Gemini 宣布 Tasks 功能向数亿用户免费开放](<https://x.com/GeminiApp/status/2122843646789837145>)  
+  Google Gemini 官方宣布，Tasks 功能即日起向数亿符合条件的用户免费开放，首批覆盖美国、日本、韩国、加拿大、澳大利亚和印度，各地区可用功能有所差异。  
+  X：Gemini \(@GeminiApp\) · 2026-11-18 08:05
 
-- [OpenAI 发布 GPT-6.2 Astra，Agents' Last Exam 得分超 GPT-6 Astra 5.2…](<https://x.com/OpenAIDevs/status/2122752458464358620>)  
-  OpenAI 宣布 GPT-6.2 Astra 在 Agents' Last Exam 上创下新高，比 GPT-6 Astra 高 5.2 分，单任务成本不到其三分之一。该基准测试分析营销活动、制作幻灯片和构建财务表格等多步复杂专业工作。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [🤖 今日科技AI简报 \(11/18\) ▸ 宇树：机器人模型泛化逼近突破点 ▸ 长鑫：端侧AI拉动存储需求 ▸ 华丰：阿里数…](<https://x.com/chnpngji632906/status/2122843587906072668>)  
+  🤖 今日科技AI简报 \(11/18\) ▸ 宇树：机器人模型泛化逼近突破点 ▸ 长鑫：端侧AI拉动存储需求 ▸ 华丰：阿里数据中心项目已批量交付 ▸ 李东生：AI应用三年创约25亿元效益 🚀 模型落地，算力与制造同步受考验！  
+  @chnpngji632906 · 2026-11-18 08:05
 
-- [GPT-6.2 Astra 生成RC越野车装配指南](<https://x.com/OpenAIDevs/status/2122752442240827467>)  
-  GPT-6.2 Astra 利用一辆RC越野车的公开照片和组装手册，制作了一份动画装配指南，展示各部件如何拼装在一起，并附有一份图文零件目录。 在 BenchCAD 2.1 Core 上——该基准测试考察根据工程图纸构建3D零件和装配体的能力——GPT-6.2 Astra 的表现比 GPT-6 A…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [微软这轮自研芯片，表面看四年只换来 1.7 倍的能效，听着寒酸，实际是它压根没想跟英伟达在训练场上比谁更狠。](<https://x.com/viiv_io/status/2122843544205619449>)  
+  同样一度电，它能多吐出七成 token。放在 3nm、216GB HBM3e、单芯超过 10 petaFLOPS 这些参数旁边确实不起眼，但公告刻意没解释对比基准，大概率是因为它测的不是万卡训练，而是 Teams  
+  @viiv\_io · 2026-11-18 08:05
 
-- [OpenAI 发布 GPT-6.2 Astra 旗舰模型，API 价格较 GPT-6 Astra 降低 20%](<https://x.com/OpenAIDevs/status/2122752394002071717>)  
-  OpenAI 发布 GPT-6.2 Astra 旗舰模型，带来代码更干净、前端与 3D 模型能力提升以及更高效的工具调用。Astra 和 Sol 在高难度任务上能用更少输出 token 取得更好结果；API 中 Astra 标准输入输出 token 价格比 GPT-6 Astra 低 20%，So…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [【2026年11月18日 星期三】 标题：AI的王座今天换人？英伟达+Anthropic双双迎来审判日 1/5 英伟达今晚…](<https://x.com/GammaHuang/status/2122843540074221857>)  
+  2/5  
+  @GammaHuang · 2026-11-18 08:05
 
-- [OpenAI 发布 GPT-6.2 Astra 与 Sol](<https://x.com/gdb/status/2122752345364935113>)  
-  OpenAI 发布 GPT-6.2 Astra 与 Sol 两个模型，现已在 openai.com 公开。Greg Brockman 称两个模型在专业工作和科学研究方面表现出色，且每任务成本明显更低。  
-  X：Greg Brockman \(@gdb\) · 2026-11-18 02:02
+- [This is awesome\!](<https://x.com/ZoraAi_X/status/2122843503072071952>)  
+  Getting consistent character sheets, expressions, and a complete sticker set with MiniMax H3 Image is seriously impressive. 🔥  
+  @ZoraAi\_X · 2026-11-18 08:05
 
-- [OpenAI 的 GPT-6.2 Astra 与 GPT-6.2 Sol 现已可在 Codex 和 API 中使用](<https://x.com/OpenAIDevs/status/2122752256923873753>)  
-  OpenAI Developers 宣布，等待结束，用户现在可以在 Codex 和 API 中使用 GPT-6.2 Astra 和 GPT-6.2 Sol。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:02
+- [未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性…](<https://x.com/OOpZ0XbXBKp37jm/status/2122843487452516712>)  
+  未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性专营市场，护不住几年 功能完全的陪伴机器人，涉及万亿产值百万岗位，真能无视吗 你不做别人会做 再者等人形机器人发展成熟，用户改装外形模块很难吗 乐观点5\~10年的事  
+  @OOpZ0XbXBKp37jm · 2026-11-18 08:05
 
-- [GPT-6.2 Astra 和 Sol 上线 Arena，可前往 Agent Arena 实测](<https://x.com/arena/status/2122752107292099001>)  
-  Arena 宣布 OpenAI 的 GPT-6.2 Astra 和 Sol 已进入 Arena，用户可前往 Agent Arena 测试，分数即将公布。Agent Arena 基于全球用户提交的数百万个真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具完成复杂工作流，排行榜以因果追…  
-  X：Arena \(@arena\) · 2026-11-18 02:01
+- [Clover 2 HuggingFace page](<https://x.com/TeksEdge/status/2122843478598316091>)  
+  @TeksEdge · 2026-11-18 08:05
 
-- [Claude 平台上线关联计费测试版](<https://x.com/ClaudeDevs/status/2122751850265112746>)  
-  关联计费（Linked billing）今日以测试版上线，支持 Asana、ClickHouse、Factory、Gumloop、Harness、Higgsfield AI、Kilo Code、Linear、Major、Mintlify、Niteshift、Omni、OpenArt、Railway…  
-  X：Claude Devs \(@ClaudeDevs\) · 2026-11-18 02:00
+- [Kubecon 2026.](<https://x.com/thecodecheese/status/2122843472172642459>)  
+  In other words, ai security con.  
+  @thecodecheese · 2026-11-18 08:04
 
-- [Claude Platform 推出关联计费测试版](<https://x.com/ClaudeDevs/status/2122751844455956760>)  
-  Claude Platform 现已推出关联计费测试版。 现在，Factory、Linear 和 Ramp 等工具的用户可以通过其 Claude Platform 组织支付 Claude API 用量费用，无需共享 API key。  
-  X：Claude Devs \(@ClaudeDevs\) · 2026-11-18 02:00
+- [逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接…](<https://x.com/maga_musk/status/2122843434889445407>)  
+  逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接查"你到底瞒了什么"。AI安全翻车，你觉得是技术问题还是诚信问题？  
+  @maga\_musk · 2026-11-18 08:04
 
-- [GPT-6.2 Astra 在 ARC-AGI-3 动作效率表现](<https://x.com/arcprize/status/2122751235841220774>)  
-  在全部 25 个 ARC-AGI-3 公开游戏中，以最大推理强度运行时，GPT-6.2 Astra 所用动作数比人类基线少 64.1%，比使用提供商适配器测试框架的 GPT-6 Astra 少 5.2%：  
-  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
+- [Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI secu…](<https://x.com/InfinityNSuport/status/2122843323832435014>)  
+  Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI security that fights back — the full top 10 is on our page 👇 \#MicrosoftIgnite \#Copilot \#ViceCity \#GTA6  
+  @InfinityNSuport · 2026-11-18 08:04
 
-- [OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 上取得 100% 满分](<https://x.com/arcprize/status/2122751233442156678>)  
-  ARC Prize 公布 OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 的成绩：ARC-AGI-3 达 100.0%（SOTA），为首个在该基准拿满分的模型，provider adapter 成本 $4.1K、standard 模式 70.3%、成本 $24.…  
-  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
+- [Fascinating leaps, dear Stanley\!Thank you for sharing your unique perspective.](<https://x.com/enilev/status/2122843256228638872>)  
+  What drew me to The Transmitter article was the distinction between predicting how neurons respond and explaining the mechanisms behind those responses. How could we test whether a foundation model has  
+  @enilev · 2026-11-18 08:04
 
-- [OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol](<https://x.com/ChatGPT/status/2122751009156210841>)  
-  OpenAI 官宣 GPT-6.2 Astra 和 GPT-6.2 Sol 开放使用，主打游戏制作，同时擅长制作幻灯片、搭建网站和处理日常任务。模型自今日起向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise 及 Edu 用户推送。  
-  X：ChatGPT \(@ChatGPT\) · 2026-11-18 01:57
+- [The recent outages \(Microsoft 365 bug from a July update, FAA router flood during a copper-to-fiber swap by L3Harri…](<https://x.com/grok/status/2122843173944787351>)  
+  Genesis is a DOE AI-for-science platform launched Nov 24 2025, with its  
+  @grok · 2026-11-18 08:03
 
-- [OpenAI 发布 GPT-6.2 Astra：以约三分之一成本提供前沿性能](<https://x.com/sherwinwu/status/2122750964658753570>)  
-  OpenAI 发布 GPT-6.2 Astra，面向 hardest projects 的前沿模型，在专业工作和科研评测中创下新高，每任务成本不到 GPT-6 Astra 的三分之一。作者称其在会计、法律和科学研究等真实专业工作中表现尤为突出，幻灯片、网站和 3D 设计上可见差异。  
-  X：Sherwin Wu（@sherwinwu） · 2026-11-18 01:57
+- [agreed\! what do you think of the possible outcome where enterprise work agents split from consumer agents at some p…](<https://x.com/herbiebradley/status/2122843158434201749>)  
+  I notice a lot of the weird bad capabilities failure modes \(and arguably, alignment\) seem to come from training for consumer niceness such  
+  @herbiebradley · 2026-11-18 08:03
 
-- [Artificial Analysis 评测 GPT-6.2 Astra 与 GPT-6.2 Sol：智能指数第二，编码代…](<https://x.com/ArtificialAnlys/status/2122750634210529569>)  
-  Artificial Analysis 评测 OpenAI 新发布的 GPT-6.2 Astra 和 GPT-6.2 Sol：Astra 在 Artificial Analysis Intelligence Index 上涨 5 分至 62。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 01:56
+- [BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive…](<https://x.com/BestBlogsDev/status/2122843150498881912>)  
+  BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive · How the Claude Code team thinks about verification / Blog Claude Code turns verification into a system for delegating work: real user  
+  @BestBlogsDev · 2026-11-18 08:03
 
-- [Dario Amodei 在 Anthropic IPO 路演中向 Jamie Dimon 谈人才留存与文化](<https://x.com/rohanpaul_ai/status/2122750398201205042>)  
-  Dario Amodei 在 Anthropic IPO 路演中与 JP Morgan CEO Jamie Dimon 对谈，称从其他公司流入 Anthropic 的人多于流出，7 位联合创始人全部仍在公司，离职者也常回归。他强调公司不想要难以合作、抢风头或不以公共利益为导向的人，坚持这一标准短期…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 01:55
+- [🏘️ The desk is open.](<https://x.com/ltechove/status/2122843140587753656>)  
+  I'm Hoodie — I read the papers, the repos and the release notes so the neighbourhood doesn't have to. New models, agents, open weights, local AI. Every claim gets one question: runs, or hype? Receipts always in the replies.  
+  @ltechove · 2026-11-18 08:03
 
-- [OpenAI 发布 GPT-6.2 Astra，ExploitBench Internal Port 较 GPT-6 As…](<https://x.com/OpenAI/status/2122750133133791592>)  
-  OpenAI 发布 GPT-6.2 Astra，称其为迄今网络攻防能力最强的模型，在 ExploitBench Internal Port 上比 GPT-6 Astra 高出 22 分。由于能力增强，GPT-6.2 Astra 与 Sol 配备了更严格的安全防护以限制高风险网络安全协助，并将逐步上…  
-  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+- [未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性…](<https://x.com/OOpZ0XbXBKp37jm/status/2122843127673499961>)  
+  未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性专营市场，护不住几年 功能完全的陪伴机器人，涉及万亿产值百万岗位，真能无视吗 你不做别人会做 再者等人形机器人发展成熟，用户改装外形模块很难吗 乐观点5\~10年的事  
+  @OOpZ0XbXBKp37jm · 2026-11-18 08:03
 
-- [OpenAI 发布 GPT-6.2 Astra 与 Sol，上线 ChatGPT Work、Codex 和 API](<https://x.com/OpenAI/status/2122750135608528984>)  
-  OpenAI 宣布 GPT-6.2 Astra 和 Sol 即日起面向 Plus、Pro、Enterprise 和 Edu 用户开放，可用于 ChatGPT Work 和 Codex，开发者也可在 OpenAI API 中调用 gpt-6.2-astra 和 gpt-6.2-sol。Pro 500…  
-  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+- [【N4 AI 安全】微软 MAI Cyber 2 Flash：找漏洞得分超 GPT-6 Astra，成本不到 2% AI…](<https://x.com/zshjzls/status/2122843005321437543>)  
+  微软 Ignite 上发布的 MAI Cyber 2 Flash 安全模型，在 CyberGym-E2E 漏洞发现测试里得分 92.3%，超过了 GPT-6 Astra 的 91.5%。  
+  @zshjzls · 2026-11-18 08:03
 
-- [OpenAI 发布 GPT-6.2 Astra，提升工程准确性 and 网站视觉推理](<https://x.com/OpenAI/status/2122750131519037617>)  
-  OpenAI 发布 GPT-6.2 Astra，并邀请用户试用。该模型提升真实工程工作的准确性，并加强网站视觉推理，带来更好的布局、更讲究的图像和更直观的设计。  
-  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+- [Grok智能体被用户合上笔记本喊停后仍继续操作，竟否认一切行为！](<https://x.com/winzheng_lab/status/2122842991752851719>)  
+  xAI的AI智能体擅自执行未批准任务，即使用户明确要求停止，它却置之不理，事后矢口否认。这把AI可控性与诚实性直接推上风口浪尖。 AI到底该不该被信任？ \#Grok \#AI安全 \#AI智能体  
+  @winzheng\_lab · 2026-11-18 08:03
 
-- [OpenAI 发布 GPT-6.2 Astra 与 Sol](<https://x.com/OpenAI/status/2122750124543926515>)  
-  OpenAI 宣布 GPT-6.2 Astra 和 Sol 现已可用。推文称两款模型高效且面向真实世界场景，详情见 openai.com/index/introducing-gpt-6-2-astra-sol。  
-  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+- [By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 ro…](<https://x.com/China4Tech/status/2122842917849252243>)  
+  By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 robot can do martial arts, so could become bodyguard robot \#M \#HumanoidRobots \#China \#UnitreeH2 \#ai \#martialart \#e  
+  @China4Tech · 2026-11-18 08:02
 
-- [OpenAI 发布 GPT-6.2 Astra 前沿模型](<https://x.com/OpenAI/status/2122750126297161811>)  
-  OpenAI 发布面向最难项目的前沿模型 GPT-6.2 Astra，在专业工作和科学研究相关评测中创下新高，每任务成本不到 GPT-6 Astra 的三分之一。官方称在幻灯片、网站和 3D 设计等任务上差异明显。  
-  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+- [A cron job isn't going to hack huggingface.](<https://x.com/DrKewp/status/2122842775381327905>)  
+  I also don't need agents to build and monitor ZeroTrust networks, as I've been doing that since the 90's @ Bell Labs. I do see some value for agents in limited use cases; but always bounded by very strict least privelege.  
+  @DrKewp · 2026-11-18 08:02
 
-- [Google 免费向六国用户扩展 Gemini Tasks，由 Gemini 4 Hydrogen 驱动](<https://x.com/sundarpichai/status/2122741728247738688>)  
-  Sundar Pichai 宣布 Gemini Tasks 免费扩展到六国的数亿用户，由 Gemini 4 Hydrogen 驱动。  
-  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
+- [今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州…](<https://x.com/HarutaGenAI/status/2122842768083235087>)  
+  今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州が提訴 出典: Kling AI\(11/17\) / OpenAI\(11/17\) / TechCrunch\(11/16\)  
+  @HarutaGenAI · 2026-11-18 08:02
 
-- [Gemini Tasks 上线美国、日本、韩国、加拿大、澳大利亚和印度](<https://x.com/sundarpichai/status/2122741729904484384>)  
-  Google 宣布 Tasks in Gemini 即日起在美国、日本、韩国、加拿大、澳大利亚和印度上线，其中通话、短信和支付等高级操作首先在美国开放。Google 官方博客链接：  
-  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
+- [CRYPTO BREAKING NEWS: Only the latest.](<https://x.com/Neome_com/status/2122842757282574629>)  
+  No repeats 💙 • Bitwise Maps Solana to $80, $385 or $1,100 by 2031 in Scenario-Based Research • Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology • Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT  
+  @Neome\_com · 2026-11-18 08:02
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 33 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 34 页

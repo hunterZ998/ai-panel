@@ -10,7 +10,14 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 9 条
+## 相关资讯 · 10 条
+
+- [可灵AI全新一代图像创作模型Kling Image 4.0正式上线](<https://www.163.com/tech/article/LC0R47OU00098IEO.html>)  
+  网易科技 · 2026-11-18 10:10
+
+- [Meta 首席 AI 官 Alexandr Wang 发布 Sam Altman AI 换脸视频推广 Muse](<https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake>)  
+  The Verge 报道，Meta 首席 AI 官 Alexandr Wang 近日在 Instagram 分支一段 AI 生成视频推广消费级 AI 智能体 Muse，画面中 Sam Altman 身穿吉祥物 Jolly 的毛绒连帽服参加四方视频通话。  
+  The Verge：AI（RSS） · 2026-11-18 05:00
 
 - [快手可灵全新一代图像创作模型 Kling Image 4.0 上线：首次支持原生 8K，单图内可生成 2000 字](<https://www.ithome.com/1/028/563.htm>)  
   IT之家 11 月 17 日消息，快手可灵 AI 今天（17 日）深夜宣布，全新一代图像创作模型 Kling Image 4.0 正式上线，同时面向企业客户与开发者开放 API 接入。 新模型采用「理解生成统一」架构，探索将视觉理解与…  
@@ -23,10 +30,6 @@
 - [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
   Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
   Suno：Blog（网页） · 2026-11-17 23:00
-
-- [月流水800万的AI探店生意：AI视频第一个跑通的变现闭环](<https://36kr.com/p/4073436835157636?f=rss>)  
-  你刷到过这样的探店视频吗？ 看起来真实干净的店面环境，热气腾腾的锅底，流利的解说，精致的食材和食物质感……你从画面里挑不出毛病，但就是觉得它没有“人味”。 过去一年，一批人开始用 AI 批量生产探店视频： 一条 40 秒的成片，算力成本不到  
-  36氪 · 2026-11-17 17:22
 
 - [字节跳动火山引擎全面开放 Seedance 2.5 4K 视频生成模型 API](<https://www.ithome.com/1/027/736.htm>)  
   火山引擎宣布 Seedance 2.5 4K 的 API 全面开放，开发者与企业客户可通过接口调用该 4K 视频生成模型。该模型于 10 月 23 日发布，官方称经专项训练更能呈现人物表情、细微动作与画面细节，支持 Draft 模式先以 480P 样片验证分镜再生成 4K 正片，并具备 10-bit 色深与更好的素材一致性。  

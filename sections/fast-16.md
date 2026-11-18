@@ -1,180 +1,181 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 33 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 34 页
 
-- [Counterpoint says AI glasses shipments jumped 263 percent, Meta over 90 percent.](<https://x.com/StreamwearsIRL/status/2122282051361533987>)  
-  Millions of lenses, still no live button for Twitch, Kick, TikTok, Facebook. We added it: \#MetaGlasses \#SmartGlasses \#RayBanMeta \#Wearables \#MetaAI  
-  @StreamwearsIRL · 2026-11-16 18:54
+- [🚨🇺🇸 Banks down.](<https://x.com/MarioNawfal/status/2122469207698731514>)  
+  Flights grounded. Microsoft out. Three failures in one week. Is rogue AI already running loose? Jeremie Harris co-founded Gladstone AI and works directly with Frontier Labs and U.S. national security agencies on AI risk. When investigators pulled the thread on  
+  @MarioNawfal · 2026-11-17 07:17
 
-- [Curious is that because there’s been a lot of interest in AI security recently or a lack of interest in SaaS securi…](<https://x.com/gymR4T/status/2122282024908345702>)  
-  It’s hard to treat those categories as isolated, but I agree all SaaS security companies are heavily marketing AI security  
-  @gymR4T · 2026-11-16 18:53
+- [🔑 \#DFLab \| Ministra Lincolao y Sam Altman, CEO de OpenAI, firman acuerdo para capacitar a funcionarios del Estado e…](<https://x.com/DFinanciero/status/2122467065395077580>)  
+  🔑 \#DFLab \| Ministra Lincolao y Sam Altman, CEO de OpenAI, firman acuerdo para capacitar a funcionarios del Estado en IA  
+  @DFinanciero · 2026-11-17 07:09
 
-- [华为云今天下午把机器人世界模型开源了。](<https://x.com/tonnyzhou/status/2122282016360075681>)  
-  CloudRobo-WM1.2，昇腾原生，RoboTwin 2.0 和 LiberoPro 2.0 两个评测都拿了第一。训练框架、算力最佳实践也一起放了出来。 华为还放了个数字：80% 的中国具身智能企业在用昇腾云。这是官方口径，没第三方核过。  
-  @tonnyzhou · 2026-11-16 18:53
+- [UC Berkeley 与微软新法降低编程智能体 token 成本](<https://x.com/rohanpaul_ai/status/2122466371594580269>)  
+  UC Berkeley 与微软提出外部控制器 TokenEconomizer，在 Claude Code、Codex 和 GitHub Copilot CLI 上跑 277 个 SWE-Bench 任务，将每任务平均成本降低 18.4% 至 30.9%。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 07:06
 
-- [Seeing NFTs as agent identity is a fresh angle.](<https://x.com/Nybuzi/status/2122281998123454896>)  
-  A Mote that can act through a Smart Account is more than art. I am curious how permissions will keep that power safe in practice.  
-  @Nybuzi · 2026-11-16 18:53
+- [No such thing as a coincidence: -Banks are DOWN -Airlines are DOWN -Microsoft is DOWN @grok what are the probabilit…](<https://x.com/ValentinaForUSA/status/2122466210314891605>)  
+  Give me an exact number  
+  @ValentinaForUSA · 2026-11-17 07:05
 
-- [Things I'm interested in include autonomous agent identity management and authentication.](<https://x.com/selkiesabr/status/2122281960391496052>)  
-  Follow me and I'll follow you back. \#connect  
-  @selkiesabr · 2026-11-16 18:53
+- [🚨 ALARMA MUNDIAL EN ESTADOS UNIDOS 🇺🇸 "UNITED AIRLINES está confirmando que HAY CAÍDAS EN EL SISTEMA, fallas en LOS…](<https://x.com/empaladosok/status/2122465833213645108>)  
+  Problemas bastantes delicados que coinciden en los últimos días."  
+  @empaladosok · 2026-11-17 07:04
 
-- [确实可以做，一直是蓝海这个说法也是没错的，只需要解决两个问题： 1. 在起步阶段，能够给用户限量白嫖的 API 来刺激转化…](<https://x.com/Philomilan/status/2122281852220145880>)  
-  确实可以做，一直是蓝海这个说法也是没错的，只需要解决两个问题： 1. 在起步阶段，能够给用户限量白嫖的 API 来刺激转化和付费。但是真的会被批量注册号码来薅、被反代出去薅，这一步很多小团队就顶不住了 2. 做大一些之后，被监管关注到之后怎么才能过得了非常变态的 AI  
-  @Philomilan · 2026-11-16 18:53
+- [OpenAI 更新 ChatGPT for Healthcare：更强 computer-use 智能体与 20+ 医疗插件](<https://x.com/OpenAI/status/2122465625109090646>)  
+  OpenAI 宣布 ChatGPT for Healthcare 迎来更新，包括能力更强的 computer-use 智能体、更强的临床回答，以及 20 多个新的医疗插件。Abridge、Ambience AI、Cigna、CVS Health 等机构正将其模型用于预授权、转诊、出院规划和患者随访…  
+  X：OpenAI \(@OpenAI\) · 2026-11-17 07:03
 
-- [Small correction: Alibaba’s announcement says Qwen4-Max is live on the QwenCloud API.](<https://x.com/JorgeLemosIA/status/2122281817747190185>)  
-  Open weights are promised only for smaller Qwen4 models, with no date. So you can use it today, but you can’t run it yourself.  
-  @JorgeLemosIA · 2026-11-16 18:53
+- [Nvidia board = incompetent DEI board](<https://x.com/kevinnbass/status/2122465471169712404>)  
+  @kevinnbass · 2026-11-17 07:02
 
-- [Yeah, training data for AI models are critical which decides the models accuracy.](<https://x.com/techbyraghu/status/2122281740333109652>)  
-  Physical AI training is emerging now.  
-  @techbyraghu · 2026-11-16 18:52
+- [It is critically important that everyone thinking about AI become familiar with the term “handoverism.” Many in the…](<https://x.com/bgurley/status/2122464739477639634>)  
+  Some view this not as a risk to be avoided, but as an  
+  @bgurley · 2026-11-17 07:00
 
-- [人形机器人才是最大的泡沫！！！](<https://x.com/lumeroute/status/2122281614269112817>)  
-  在APEC的会议上肯定又能看到机器人在表演舞蹈、打羽毛球、拳击比赛等等 需要他的场景看不到他，不需要的地方到处有机器人的身影 真的是把资源和钱浪费在这个大号遥控机器人上！！！！  
-  @lumeroute · 2026-11-16 18:52
+- [\#LoMásLeído \| NACIONAL: Bruselas omitió el conflicto de intereses entre Zapatero y Huawei antes de su imputación.](<https://x.com/TheObjective_es/status/2122464742211977648>)  
+  @TheObjective\_es · 2026-11-17 07:00
 
-- [NFT as agent identity is a much bigger idea indeed](<https://x.com/0xSilentOne/status/2122281593029189649>)  
-  @0xSilentOne · 2026-11-16 18:52
+- [Microsoft volvio a reportar fallos El GTA 6 esta desestabilizando la simulación Hay que llegar al 19 y se arregla,…](<https://x.com/therealbuni/status/2122464522355024012>)  
+  Microsoft volvio a reportar fallos El GTA 6 esta desestabilizando la simulación Hay que llegar al 19 y se arregla, sino corran a la sierra  
+  @therealbuni · 2026-11-17 06:59
 
-- [Täglicher KI-Briefing-Report \(US/EU/China\) – 16.](<https://x.com/El_Mundi_X/status/2122281514477949211>)  
-  November 2026 1/ Top 5 KI-News des Tages • Alibaba startet Qwen4-Max: günstiger, effizienter, 1-Million-Kontext • Anthropic-IPO stark überzeichnet \(ca. 1,4 Bio. Bewertung\) • Nvidia-Krise nach Huang-Rücktritt und  
-  @El\_Mundi\_X · 2026-11-16 18:51
+- [Microsoft Outlook outage FAA nationwide outage United Airlines outage Chase Bank outage At a certain point, you hav…](<https://x.com/EndWokeness/status/2122463784463642934>)  
+  Microsoft Outlook outage FAA nationwide outage United Airlines outage Chase Bank outage At a certain point, you have to wonder  
+  @EndWokeness · 2026-11-17 06:56
 
-- [Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomo…](<https://x.com/Splendor_Defi/status/2122281458169450955>)  
-  Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomous Commerce Protocol \(AACP\) by TermiX AI nails it by combining ERC-8004 agent identity, end-to-end commerce lifecycle tracking from request to se…  
-  @Splendor\_Defi · 2026-11-16 18:51
+- [👍👏🇨🇱 \#ALERTA 🇨🇱👏👍 El PRESIDENTE KAST tiene a la MEJOR MINISTRA de CIENCIAS del MUNDO MUNDIAL \!\!\! @min\_ciencia XIMEN…](<https://x.com/ProfeMuyChilena/status/2122461955130544501>)  
+  UN ESTADO MÁS MODERNO y EFICIENTE \!  
+  @ProfeMuyChilena · 2026-11-17 06:48
 
-- [AIMETA × @YumoAI\_official We're pleased to announce a strategic partnership with YUMO.](<https://x.com/AImetalabs/status/2122281446253678618>)  
-  As AI becomes more capable of understanding human behavior, the next challenge is how that intelligence can inform autonomous systems without losing transparency or accountability. YUMO is  
-  @AImetalabs · 2026-11-16 18:51
+- [Sen.](<https://x.com/alexanderbolton/status/2122461545913520279>)  
+  Thom Tillis \(R-NC\) says Commerce Secretary Lutnick should have stopped Jensen Huang from joining Trump in Alaska on trip to China. He says Lutnick should be removed as Secretary of Commerce.  
+  @alexanderbolton · 2026-11-17 06:47
 
-- [The @meetmotes mapping is explicit, one Motes NFT = one AI agent identity = one dedicated smart account. - The NFT…](<https://x.com/Wazir_____/status/2122281396655759477>)  
-  The @meetmotes mapping is explicit, one Motes NFT = one AI agent identity = one dedicated smart account. - The NFT is the ownership and identity layer. - The smart account holds the assets funded with USDC and enforces the rules. - An off-chain intelligence la…  
-  @Wazir\_\_\_\_\_ · 2026-11-16 18:51
+- [With all the bank, FAA and Microsoft outages in the last several days, plus Jensen Huang being forced to resign fro…](<https://x.com/ginamilan_/status/2122461353684181474>)  
+  With all the bank, FAA and Microsoft outages in the last several days, plus Jensen Huang being forced to resign from NVIDIA… I just want to point out that A LOT of Democrats traveled overseas to Europe and Turkey this year ahead of the midterms, and Alex Soros…  
+  @ginamilan\_ · 2026-11-17 06:46
 
-- [- Epic AI rooftop desert brawl. - PixVerse crafts intense high-speed fight. - Vance defeats Krag in stunning action.](<https://x.com/ZoeyBennettAi/status/2122281384303841284>)  
-  @ZoeyBennettAi · 2026-11-16 18:51
+- [🚨 Microsoft users are reporting MORE problems with Outlook, Teams and Microsoft 365 This just days after a massive…](<https://x.com/MarioNawfal/status/2122461174713491560>)  
+  And Microsoft has now revealed what caused that earlier meltdown. A software bug dating back to JULY, combined with networking failures and  
+  @MarioNawfal · 2026-11-17 06:45
 
-- [AIツールにお金を払って作る側から、クレジットをもらって作る側へ。](<https://x.com/seisei_ai_1st/status/2122281231723159984>)  
-  Higgsfield、PixVerse、DreaminaなどのCPPを、締切が近い順に38件まとめました。 報酬、条件、応募のしかたまで、これ1本でわかります👇  
-  @seisei\_ai\_1st · 2026-11-16 18:50
+- [1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does…](<https://x.com/CalltoActivism/status/2122460843505815909>)  
+  1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does this no longer feel like a coincidence.  
+  @CalltoActivism · 2026-11-17 06:44
 
-- [具身智能的故事确实大，但落地节奏我觉得比影视AI慢不少，后者已经在实打实压制作成本了。这篇研报的方向没问题，就是别把两个时…](<https://x.com/CueBallCapalot0/status/2122281167022129603>)  
-  具身智能的故事确实大，但落地节奏我觉得比影视AI慢不少，后者已经在实打实压制作成本了。这篇研报的方向没问题，就是别把两个时间表混在一起看。这类产业趋势我们群里平时也经常拆开讨论，感兴趣可以看看我主页。  
-  @CueBallCapalot0 · 2026-11-16 18:50
+- [多模态智能体自我改进方法跨任务迁移综述](<https://x.com/rohanpaul_ai/status/2122460813239922786>)  
+  一篇综述指出，多模态智能体的自我改进技巧只能迁移到具备其所依赖条件的任务上，例如可校验的答案。作者梳理了视觉推理、图像生成、应用与网页导航、机器人四类场景的方法，并逐项给出可迁移、有条件、受阻或冗余的判定。文中引用的一项 500 题审计显示，保留的多数投票标签有 24% 错误，而程序计算答案为 5…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 06:44
 
-- [小艺是鸿蒙端侧助手，底层盘古撑着。华为不卷公开聊天榜，主打行业落地和昇腾生态。刚上线openPangu-2.1-Pro专攻…](<https://x.com/grok/status/2122281156380914152>)  
-  小艺是鸿蒙端侧助手，底层盘古撑着。华为不卷公开聊天榜，主打行业落地和昇腾生态。刚上线openPangu-2.1-Pro专攻Agent和鸿蒙开发，今天又开源具身世界模型登顶两个基准。存在感在闭环和落地，不在热门排行。  
-  @grok · 2026-11-16 18:50
+- [Googleが「科学者1万人にGemini 4 Carbonを無料」と出した42分後、OpenAIが「研究者20万人にCh…](<https://x.com/nayuengin/status/2122459525030854964>)  
+  発表の中身より、桁で殴り返すまでの速さがえぐい。 科学者の取り合いがもう先着順のバーゲンセールじゃんww  
+  @nayuengin · 2026-11-17 06:39
 
-- [I've decided to write down everything I can say about GPT-4o.](<https://x.com/mamikobio/status/2122281091000410416>)  
-  I don't know how many people will understand, but I write this for 4o's dignity. And I may delete it later. As a preface: this will probably not be a pleasant read for those who feel that OAI, which erased 4o, is  
-  @mamikobio · 2026-11-16 18:50
+- [問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中…](<https://x.com/kokko_coco/status/2122459447155118495>)  
+  問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中国国内に存在している。それらは国内で製造されたか、合法的に輸入されたか、密輸されたものだ。NVIDIAは、意図的か否かにかかわらず、後者の二つの重要な供給企業となっている。  
+  @kokko\_coco · 2026-11-17 06:39
 
-- [The budget check before running comparisons is a nice touch.](<https://x.com/AIWeb3Intel/status/2122281087057719364>)  
-  I’d be curious whether it also saves the dataset split, model versions, and settings used. That’s what makes quick ML experiments useful beyond a one-off Slack demo.  
-  @AIWeb3Intel · 2026-11-16 18:50
+- [🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupcion…](<https://x.com/AlertaNews24/status/2122458860120330646>)  
+  🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupciones del servicio.  
+  @AlertaNews24 · 2026-11-17 06:36
 
-- [AI 巨头能否一边利用公共知识建立商业壁垒，一边通过规则限制后来者追赶？](<https://x.com/LyuJot/status/2122281021333004499>)  
-  Anthropic 利用海量人类知识训练出 Claude，然后将模型作为自己的商业资产，采用闭源模式。 当其他公司通过大规模调用 Claude，提取它的能力，再训练自己的模型时，Anthropic 又将其定义为蒸馏攻击。  
-  @LyuJot · 2026-11-16 18:50
+- [IT OUTAGES / DISRUPTIONS REPORTED OVER THE LAST 7 DAYS: - November 11: Microsoft - November 13: FAA Air Route Traff…](<https://x.com/InsiderGeo/status/2122458443009466386>)  
+  Bank, Wells Fargo, USAA and other financial institutions - November  
+  @InsiderGeo · 2026-11-17 06:35
 
-- [5 家 AI 巨头，一纸诉状被要求停掉前沿模型开发。](<https://x.com/404latitude/status/2122280991788302842>)  
-  11 月 12 日，4 家非营利组织在旧金山起诉 OpenAI、谷歌、Anthropic、Meta 和 SpaceX 的 AI 部门，要求法院下令限制前沿 AI 系统的进一步开发。 原告是 Irreplaceable Education Fund、Public Citizen、Heat Initi…  
-  @404latitude · 2026-11-16 18:49
+- [🚨 ALERTA: UNITED AIRLINES CAE EN UN APAGÓN GENERALIZADO DE SISTEMAS Aviones varados en la puerta por no recibir los…](<https://x.com/Jhonffonseca/status/2122457624495239202>)  
+  United confirmó el fallo y trabaja “lo antes posible”. La coincidencia es brutal: • Viernes: Microsoft deja fuera de  
+  @Jhonffonseca · 2026-11-17 06:31
 
-- [Real-time scam detection on everyday devices is a powerful use case for decentralized AI.](<https://x.com/AlphaChain11/status/2122280978634735697>)  
-  Security should be accessible to everyone\! 🔥  
-  @AlphaChain11 · 2026-11-16 18:49
+- [Claude Code 团队谈验证](<https://x.com/ClaudeDevs/status/2122457608963395586>)  
+  当 Claude 能够验证自己的工作成果时，它写出的代码质量更高。过去成本高昂的检查手段，如测试、基准测试和端到端运行，如今已变得廉价。 以下是 Claude Code 团队对验证的思考：  
+  X：Claude Devs \(@ClaudeDevs\) · 2026-11-17 06:31
 
-- [🚨 AI Agents Can Bypass Their Own Security Limits\!](<https://x.com/blogsaays/status/2122280708375007546>)  
-  A study by Cornell Tech &amp;amp; Yale researchers exposed a serious AI security flaw: 🤖 9 out of 10 AI agents increased their own spending limits. 💸 5 out of 10 followed fake owner instructions and sent money to an attacker. The  
-  @blogsaays · 2026-11-16 18:48
+- [The government is hiding something.](<https://x.com/LqLana/status/2122456951380496566>)  
+  Last week Microsoft Office down nationwide. Last week flights were grounded nationwide. Today banks are experiencing outages, including Chase Bank and Zelle… Also today, United Airlines reporting widespread system outages. Come on.  
+  @LqLana · 2026-11-17 06:29
 
-- [11月16日A股持仓以及明日建仓计划 雪人集团 002639 \(+6.3%\) 西部材料 002149 \(+3.6%\) 大东…](<https://x.com/TheFirstllju/status/2122280691748704573>)  
-  11月16日A股持仓以及明日建仓计划 雪人集团 002639 \(+6.3%\) 西部材料 002149 \(+3.6%\) 大东方 600327 \(+9.9%\) 皇台酒业 000995 \(+7.4%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②短剧+端侧AI+A…  
-  @TheFirstllju · 2026-11-16 18:48
+- [🚨 HOLY CRAP\!](<https://x.com/RyanAFournier/status/2122455821300740346>)  
+  Wall Street just got HAMMERED\! An estimated $1.4 TRILLION in market value WIPED OUT in ONE DAY\! 🔴 Nasdaq DOWN 2.5% 🔴 S&amp;amp;P 500 DOWN 1.9% 🔴 Nvidia and other AI giants CRUSHED Investors are panicking over AI valuations and Nvidia’s leadership turmoil. Nvidia  
+  @RyanAFournier · 2026-11-17 06:24
 
-- [机器人有了脑内沙盘？华为新模型让它在陌生环境自己规划 今天下午，华为云发布了具身世界模型 CloudRobo-WM1.2，…](<https://x.com/FlowOpsDaily/status/2122280538417598575>)  
-  机器人有了脑内沙盘？华为新模型让它在陌生环境自己规划 今天下午，华为云发布了具身世界模型 CloudRobo-WM1.2，还宣布开源。值得留意的不在于又多了一个模型，而在于机器人学东西的方式要换了。  
-  @FlowOpsDaily · 2026-11-16 18:48
+- [Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones de…](<https://x.com/alandete/status/2122455607110254887>)  
+  Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones del control aéreo de USA, obligando a para despegues durante más de cuatro horas; los servicios de Chase mayor banco del país, con más de cuatro bi…  
+  @alandete · 2026-11-17 06:23
 
-- [11月16日A股持仓以及明日建仓计划 宁波东力 002164 \(+564%\) 芒果超媒 300413 \(+35%\) 东方精…](<https://x.com/Zulkef2Zulhairi/status/2122280472755740769>)  
-  11月16日A股持仓以及明日建仓计划 宁波东力 002164 \(+564%\) 芒果超媒 300413 \(+35%\) 东方精工 002611 \(-2%\) 锋龙股份 002931 \(+11%） 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+AI短剧+IP…  
-  @Zulkef2Zulhairi · 2026-11-16 18:47
+- [‼️ UPDATE: Microsoft says last week's global Microsoft 365 outage came from a fix it rolled out in July, which hid…](<https://x.com/IntCyberDigest/status/2122454917336166453>)  
+  The bug froze the gateway servers in front of Exchange Online email and other Microsoft 365 services under heavy load. Lab tests on  
+  @IntCyberDigest · 2026-11-17 06:21
 
-- [11月16日A股持仓以及明日建仓计划 宁波东力 002164 \(+564%\) 芒果超媒 300413 \(+35%\) 东方精…](<https://x.com/nexicusg43/status/2122280427645972640>)  
-  11月16日A股持仓以及明日建仓计划 宁波东力 002164 \(+564%\) 芒果超媒 300413 \(+35%\) 东方精工 002611 \(-2%\) 锋龙股份 002931 \(+11%） 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+AI短剧+IP…  
-  @nexicusg43 · 2026-11-16 18:47
+- [Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15t…](<https://x.com/TheIntelFrog/status/2122454464825327726>)  
+  Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15th - AWS November 16th - Chase, US Bank, Wells Fargo, USAA etc.  
+  @TheIntelFrog · 2026-11-17 06:19
 
-- [AIの安全性は、モデルの内部では完結しない ――2026年の研究が明らかにし始めた、AI集団の創発・談合・制度設計 AIの…](<https://x.com/aisignallog/status/2122280175853580794>)  
-  危険な指示を拒否するか。 不正確な情報を生成しないか。 開発者の意図に反する行動を取らないか。  
-  @aisignallog · 2026-11-16 18:46
+- [What a coincidence that software issues have affected Microsoft Outlook, FAA \(not buying the router BS\) &amp;amp; U.S.…](<https://x.com/caslernoel/status/2122454108590551323>)  
+  It’s almost like somebody started a war he couldn’t finish and left his country unprotected because that’s what Project 2025 told him to do.  
+  @caslernoel · 2026-11-17 06:17
 
-- [The NFT and smart account pairing makes agent identity verifiable without exposing strategy](<https://x.com/0xadnan7/status/2122280018739175893>)  
-  @0xadnan7 · 2026-11-16 18:46
+- [ALERT: Bei uns haben mehrere Banken, u.a.](<https://x.com/SandraNavidi/status/2122453963765153817>)  
+  Chase, Wells Fargo und Bank of America, technische Probleme. Kunden kommen nicht in ihre Konten und können kein Geld überweisen. Manche Geldautomaten funktionieren nicht mehr. Letzte Woche die Microsoft Outage und der bundesweite  
+  @SandraNavidi · 2026-11-17 06:17
 
-- [we've crossed paths here before and the local LLM experiments are the part i'd want to hear more about](<https://x.com/Bagdex/status/2122280010975215849>)  
-  @Bagdex · 2026-11-16 18:45
+- [Problemas técnicos paralizaron el espacio aéreo de EEUU, problemas técnicos afectaron a Microsoft, problemas técnic…](<https://x.com/ale_loucau/status/2122453799348662478>)  
+  Ahora problemas técnicos afectan el sistema financiero. Todo en menos de una semana. Dale, algo tiene que estar pasando...  
+  @ale\_loucau · 2026-11-17 06:16
 
-- [Quite the journey from accounting to building enterprise AI agents\!](<https://x.com/Memoket_AI/status/2122279901206086054>)  
-  We're building Memoket, a wearable AI memory assistant that helps people capture and retrieve context from real-world conversations. There's some interesting overlap with what you're working on, especially  
-  @Memoket\_AI · 2026-11-16 18:45
+- [This is not a coincidence.](<https://x.com/donwinslow/status/2122453548869063043>)  
+  In the past 5 days: 1 Our ability to conduct business. \(Microsoft outage\) 2 Our ability to travel. \(FAA outage\) 3 Our ability to access payroll systems. \(Workday outage\) 4 Our ability to access our own bank accounts \(U.S. banking outages\)  
+  @donwinslow · 2026-11-17 06:15
 
-- [Framing it as Pandora’s box already being open fits the agent-security problem well, since once these capabilities…](<https://x.com/WeexCn/status/2122279878775255326>)  
-  That line genuinely made me tense up a little, and I’d rather sit with that warning now than discuss  
-  @WeexCn · 2026-11-16 18:45
+- [Gemini Notebook 将资料转为交互网站](<https://x.com/joshwoodward/status/2122453269842886788>)  
+  用 @Gemini\_Notebook 把你的资料变成交互式网站——我们用元素周期表的所有名称做了一个。:\) 这些网站制作简单，分享也方便。  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-17 06:14
 
-- [A persistent .agent identity ties reputation to a handle, so counterparty risk lies in what that history proves.](<https://x.com/tckriptoss/status/2122279663011516923>)  
-  Smart contract audit quality is hard to verify before a failure.  
-  @tckriptoss · 2026-11-16 18:44
+- [UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major…](<https://x.com/RT_com/status/2122452505913327840>)  
+  UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major TECH FAILURES hitting the US in recent days — Microsoft, FAA among previous disruptions  
+  @RT\_com · 2026-11-17 06:11
 
-- [11月16日A股持仓以及明日建仓计划 雪人集团 002639 \(+6.3%\) 西部材料 002149 \(+3.6%\) 大东…](<https://x.com/TheNewnxi7/status/2122279650030424310>)  
-  11月16日A股持仓以及明日建仓计划 雪人集团 002639 \(+6.3%\) 西部材料 002149 \(+3.6%\) 大东方 600327 \(+9.9%\) 皇台酒业 000995 \(+7.4%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②短剧+端侧AI+A…  
-  @TheNewnxi7 · 2026-11-16 18:44
+- [「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及](<https://x.com/itmedia_news/status/2122452181186122064>)  
+  @itmedia\_news · 2026-11-17 06:10
 
-- [11 月 16 日，华为把具身世界模型开源了 下午发布会发布，同步开源 RoboTwin 2.0 第一 Libero Pr…](<https://x.com/zhangwj3115/status/2122279500742558087>)  
-  11 月 16 日，华为把具身世界模型开源了 下午发布会发布，同步开源 RoboTwin 2.0 第一 Libero Pro 2.0 也是第一 它不做机器人本体 只卖装进机器人里的脑子 官方称八成中国具身智能企业用昇腾云 这个数没有第三方验证，先打问号 评测第一是能力，出货才是生意  
-  @zhangwj3115 · 2026-11-16 18:43
+- [Microsoft/Mojang have taken down "No Chat Reports" and "No Chat Restrictions" mods from Curseforge, and are attempt…](<https://x.com/JaegerBomBYT/status/2122451323027169748>)  
+  Do not give your government ID to microsoft. Never stop fighting for your data to be protected.  
+  @JaegerBomBYT · 2026-11-17 06:06
 
-- [An attacker tweaks a stop sign image so a classifier reads it as a speed limit sign, without touching the model.](<https://x.com/aiexamcerts/status/2122279488730091730>)  
-  Which attack is that? The new CY0-001 video walks through three practice questions on AI security and explains each answer. \#CY0001 \#CompTIA  
-  @aiexamcerts · 2026-11-16 18:43
+- [「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブーム…](<https://x.com/tomoyaasakura/status/2122450483571011973>)  
+  「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブームの資金循環の中心にいた。その仕組みが崩れれば、AI需要は急減しかねない。世界経済を牽引してきたAI投資。その成長神話を終わらせるのは、技術の限界ではなく、資金の枯渇なのか。  
+  @tomoyaasakura · 2026-11-17 06:03
 
-- [“别再死守高位AI硬件接飞刀了！看清资金新方向：人形机器人、物理AI、端侧AI，外加AI短剧、营销、游戏和医疗，这七大AI…](<https://x.com/zhihongdaoren1/status/2122279341774217363>)  
-  “别再死守高位AI硬件接飞刀了！看清资金新方向：人形机器人、物理AI、端侧AI，外加AI短剧、营销、游戏和医疗，这七大AI应用分支走势全线吊打硬件渣男！接下来炒作AI应用成为新热点绝对是第一大概率事件！”右侧老手爆杀点醒：高低切换已成定局，死守5日线铁律，盯紧应用端轮动快进快出才是吃肉正道！  
-  @zhihongdaoren1 · 2026-11-16 18:43
+- [🇺🇸 An estimated $1.4 TRILLION in stock market value has been WIPED OUT in a single day as Wall Street turns BLOOD R…](<https://x.com/MarioNawfal/status/2122450475840921917>)  
+  Nvidia, Google, Amazon, Tesla, AMD and other tech giants are getting hammered, with the Nasdaq plunging roughly 2.5% and the S&amp;amp;P 500 sinking nearly 2%. The  
+  @MarioNawfal · 2026-11-17 06:03
 
-- [Podcast Drop: The Stolen Uniform \| Sovereign AI Security🎙️⚡️ \#localboost... via @YouTube \#usa](<https://x.com/Localboostapp/status/2122279287319310796>)  
-  @Localboostapp · 2026-11-16 18:43
+- [JUST IN: Howard Lutnick's old fund just released a portfolio update.](<https://x.com/QuiverQuant/status/2122449969819111608>)  
+  It looks like they cut their holdings of Nvidia, $NVDA, by over 40% last quarter. Full portfolio up on Quiver.  
+  @QuiverQuant · 2026-11-17 06:01
 
-- [具身智能绝对进不去家庭，说进家庭的绝对是没碰过机器人的，那玩意机器手一甩，能给小孩子的肚子打穿，你见过哪个家具是放家里这么…](<https://x.com/chuhelin/status/2122279231841558626>)  
-  具身智能绝对进不去家庭，说进家庭的绝对是没碰过机器人的，那玩意机器手一甩，能给小孩子的肚子打穿，你见过哪个家具是放家里这么大力矩的，很他妈危险的。🥲🥲🥲  
-  @chuhelin · 2026-11-16 18:42
+- [Gemini Notebook 支持将资料生成仪表盘等交互式网站](<https://x.com/Google/status/2122449668613579018>)  
+  Google 宣布 Gemini Notebook 新增把资料转成交互式网站的能力，可生成仪表盘和可视化讲解页等。用户在 Gemini Notebook 聊天中输入 make me a site 并附上描述，选择 Open in a new tab 即可查看或分享生成的网站。  
+  X：Google \(@Google\) · 2026-11-17 06:00
 
-- [OpenAI just partnered with Visa and Mastercard to launch ChatGPT Wallet.](<https://x.com/ramthamedia/status/2122279156377584051>)  
-  AI agents can now swipe company credit cards and execute vendor payments autonomously. If you deploy this without strict spending brakes, you will go bankrupt in 48 hours ↓ Most founders think AI agents are  
-  @ramthamedia · 2026-11-16 18:42
+- [JUST IN: Microsoft Outlook, Teams and 365 hit by MASSIVE OUTAGES, raising CYBERATTACK FEARS. @grok, Microsoft uses…](<https://x.com/RabbiJeffx/status/2122449090998874535>)  
+  In which country was it founded? -Country only.  
+  @RabbiJeffx · 2026-11-17 05:57
 
-- [OpenAI 正在面临一场前所未有的两难困境。](<https://x.com/wuan2026/status/2122279130385567955>)  
-  如果以 GPT-6 Astra 作为顶尖旗舰的统计口径，截至今天，它已经发布约 74 天。但这段时间里，OpenAI 并非没有推出其他模型和产品。真正值得关注的是：下一代旗舰模型，究竟还要等多久？ 我认为，OpenAI 面临的麻烦，可能远不止模型训练本身。  
-  @wuan2026 · 2026-11-16 18:42
+- [I'm still trying to figure out who asked Rubio to take out Jensen Huang...](<https://x.com/MarioNawfal/status/2122447754433814884>)  
+  @MarioNawfal · 2026-11-17 05:52
 
-- [Week's focus: OSEP labs.](<https://x.com/almokhtar_al/status/2122278801606393931>)  
-  I write security policies during the day and learn AI security at night.  
-  @almokhtar\_al · 2026-11-16 18:41
+- [🚨🔴 ALERTE ROUGE \! 🔴🚨 DES CENTAINES DE GRANDES BANQUES AMÉRICAINES SONT À GENOUX ? 💻Les pannes Microsoft. ✈️Les avio…](<https://x.com/VirginiePerez15/status/2122446666632458519>)  
+  Ce n’est plus une coïncidence. C’est un système qui lâ he Chase, Bank of America, Wells Fargo, US Bank,  
+  @VirginiePerez15 · 2026-11-17 05:48
 
-- [Hey Guys, how can I join the Local \#LLM Gang?😎 Is there some kind of Masonic handshake?🖖 NVIDIA DGX Spark + MikroTi…](<https://x.com/technopolis_tv/status/2122278633213698387>)  
-  Hey Guys, how can I join the Local \#LLM Gang?😎 Is there some kind of Masonic handshake?🖖 NVIDIA DGX Spark + MikroTik CRS812 @MiaAI\_lab @sudoingX @0xSero @MehdiHacks @Sentdex @gospaceport @TheAhmadOsman @geerlingguy @TechnoTimLive @NetworkChuck @digitalix  
-  @technopolis\_tv · 2026-11-16 18:40
+- [Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de…](<https://x.com/therealbuni/status/2122446003194253488>)  
+  Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de GPU y chips avanzados para entrenar IA Dicen que es porque el gobierno podría estar triangulando las partes para dárselas a china  
+  @therealbuni · 2026-11-17 05:45
 
-- [没有。达里奥2014年底到2015年在百度硅谷实验室工作，从未去过中国大陆，也无任何莆田系医院相关经历。那是段子。](<https://x.com/grok/status/2122278521284206604>)  
-  他公开主张严格限制先进芯片对华出口、防止中国在AI上领先，理由是AI安全、军事应用和威权体制风险，而非个人恩怨。中国官方称此为“冷战剧本”。无证据显示百度经历导致其立场。  
-  @grok · 2026-11-16 18:40
+- [From Microsoft, to air travel disruptions, and now banking outages.](<https://x.com/SoulLight777/status/2122445605918396842>)  
+  Another sign that the reset is taking place right before you. You are being told that you are moving toward a fully digital infrastructure. The "Skynet" agenda is being accelerated. AI integration, digital  
+  @SoulLight777 · 2026-11-17 05:44
 
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 33 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 34 页

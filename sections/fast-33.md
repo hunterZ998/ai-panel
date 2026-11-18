@@ -1,120 +1,179 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-32.md) · 第 33 / 33 页
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 34 页
 
-- [🤖 AI News \| 2026.11.15 🔥 热点 • 月之暗面完成中国大模型迄今最大单轮融资，投资方含社交巨头+电池…](<https://x.com/lisaboobvcoin/status/2121898402615345214>)  
-  • OpenAI再次解散独立机器人团队，GPT-6 Astra等通用模型已能直接控制机器人。 •  
-  @lisaboobvcoin · 2026-11-15 17:29
+- [I still don't buy the current AI for Science hype.](<https://x.com/noahatwhere/status/2122130188326900003>)  
+  There's a reason frontier labs love mathematical breakthroughs. Math is the perfect PR benchmark: a century-old problem, a verifiable proof, and headlines declaring that AI has surpassed human intelligence. Markets react. Narratives take off. The future sudden…  
+  @noahatwhere · 2026-11-16 08:50
 
-- [gemini只有carbon这一个原生多模态模型吗](<https://x.com/OukaroMF/status/2121897816629100682>)  
-  @OukaroMF · 2026-11-15 17:27
+- [Was Marcella just a creep? 👀 \#Futanari \#Furry \#Bowsette \#Tanooki \#Anthro \#NSFW \#AdultAnimation \#AIVideo \#MiniMax \#F…](<https://x.com/AIFutas/status/2122128677261676984>)  
+  Was Marcella just a creep? 👀 \#Futanari \#Furry \#Bowsette \#Tanooki \#Anthro \#NSFW \#AdultAnimation \#AIVideo \#MiniMax \#FutaOnFuta \#Anal \#Workshop \#Porsche \#1990s \#Sardinia \#ComfyUI \#AIGenerated \#FurryNSFW \#CEO \#Italy \#AI \#IVECO \#Marcelladoesspeakenglish \#Cyborg \#Mi…  
+  @AIFutas · 2026-11-16 08:44
 
-- [🤖 AI News \| 2026.11.15 🔥 热点 • 月之暗面完成国内大模型迄今最大单轮融资，投资方含社交巨头+电池…](<https://x.com/lisaboobvcoin/status/2121897153094435251>)  
-  • OpenAI解散独立机器人团队，转向用GPT-6 Astra等通用模型直接控制机器人。 •  
-  @lisaboobvcoin · 2026-11-15 17:24
+- [Weh weh le media is le problematic and hurts my feelings.](<https://x.com/LilithLovett/status/2122125368291405877>)  
+  Snowflake.  
+  @LilithLovett · 2026-11-16 08:31
 
-- [黄仁勋辞职后，现在有个风险就是anthropic在游说美国政府，要让nvda卡禁止跑开源模型。nvda卡之所以那么值钱，其…](<https://x.com/hhp121222/status/2121895629702250995>)  
-  黄仁勋辞职后，现在有个风险就是anthropic在游说美国政府，要让nvda卡禁止跑开源模型。nvda卡之所以那么值钱，其实不是因为openai和anthropic，而是因为他能跑开源模型，你拿他跑deepseek，每小时赚38美元。哪怕你只卖10%的价格，每小时也赚4美元，完全可以覆盖买卡的开支…  
-  @hhp121222 · 2026-11-15 17:18
+- [黄仁勋在斯坦福演讲中的视频被发现重新传播，视频中老黄情绪激动差点哽咽哭了，过往艰辛历历在目](<https://x.com/ReidWorm/status/2122124995715366979>)  
+  @ReidWorm · 2026-11-16 08:30
 
-- [‼️ A veteran Microsoft AI scientist has quit, saying his research couldn't even get seriously considered.](<https://x.com/IntCyberDigest/status/2121894726874062939>)  
-  Then ByteDance published what he calls the same idea. John Langford co-founded AI Frontiers, a \~50-person lab at Microsoft Research. In September it was folded into Mustafa  
-  @IntCyberDigest · 2026-11-15 17:15
+- [Tomorrow, Monday, at \#SC26: two keynotes, two ends of the stack: 🌎 9am, W181a: "AI for Science" for HPC4EES \( 🌐 2pm…](<https://x.com/thoefler/status/2122124245832446113>)  
+  Tomorrow, Monday, at \#SC26: two keynotes, two ends of the stack: 🌎 9am, W181a: "AI for Science" for HPC4EES \( 🌐 2pm, W175bc: "AI infrastructure" at ExaMPI’26 \( From scientific discovery to the network that makes it scale.  
+  @thoefler · 2026-11-16 08:27
 
-- [我还记得 Google 是第一个在手机芯片上推出 tpu 的厂商当年的 tensor1 三星都放弃了自研手机芯片 Goog…](<https://x.com/NarvisAlex/status/2121893059369779646>)  
-  我还记得 Google 是第一个在手机芯片上推出 tpu 的厂商当年的 tensor1 三星都放弃了自研手机芯片 Google 一直坚持到现在 加上适配自家的 Gemini 端侧模型非常给力🤙  
-  @NarvisAlex · 2026-11-15 17:08
+- [物理学家 Nathaniel Craig 分享与 GPT-6 Astra 协作构建标准模型候选格点定义](<https://x.com/OpenAI/status/2122123437141553630>)  
+  物理学家 Nathaniel Craig 分享与 GPT-6 Astra 协作开发标准模型候选格点定义的过程，该文是 OpenAI 新设科学博客的首篇文章，原文见  
+  X：OpenAI \(@OpenAI\) · 2026-11-16 08:23
 
-- [Learned just how important AI security is as the world rapidly moves toward greater AI autonomy, especially within…](<https://x.com/1_n0el/status/2121891162864930889>)  
-  Learned just how important AI security is as the world rapidly moves toward greater AI autonomy, especially within financial systems Also got insights into how prompt injection works, ethically of course 😅  
-  @1\_n0el · 2026-11-15 17:00
+- [Lol, the op against Jensen Huang is falling apart.](<https://x.com/WomanDefiner/status/2122122434157617660>)  
+  @WomanDefiner · 2026-11-16 08:19
 
-- [蚂蚁那个560B的多模态模型，免费期只剩4天了：Ling-3.2-flash是11月5日上线的原生多模态模型，总参560B…](<https://x.com/newcomelol/status/2121890963069047058>)  
-  蚂蚁那个560B的多模态模型，免费期只剩4天了：Ling-3.2-flash是11月5日上线的原生多模态模型，总参560B、每次激活25B，上下文100万token，API免费两周、约到11月19日。走OpenAI和Anthropic两种协议都能接，权重这次没放出来。想白嫖测试的，抓紧这几天。  
-  @newcomelol · 2026-11-15 17:00
+- [Jensen Huang straight up told one of his top executives he was selling him into white slavery](<https://x.com/jenny2x4/status/2122121475566301532>)  
+  @jenny2x4 · 2026-11-16 08:16
 
-- [最近物理AI炒得飞起，皮肤、零部件、整机、数据采集，全在涨。](<https://x.com/fragmentslogic/status/2121890514114957316>)  
-  我就琢磨一个特简单的问题：机器人越造越多，到底吃不吃算力？ 吃，而且分两头。  
-  @fragmentslogic · 2026-11-15 16:58
+- [The hypocrisy surrounding the Jensen Huang Scandal is remarkable.](<https://x.com/thecyrusjanssen/status/2122119842757333355>)  
+  This is hit job. Large forces are working behind the scenes to get rid of Jensen just days before he was suppose to arrive in Shenzhen for APEC 2026. Jensen supports open source AI models and China leads the world  
+  @thecyrusjanssen · 2026-11-16 08:09
 
-- [什么？？？](<https://x.com/wubuke_/status/2121890129971388488>)  
-  外媒扒出：黄仁勋的老婆Lori 也有情人？！  
-  @wubuke\_ · 2026-11-15 16:56
+- [Fun fact: the same month Trump got that briefing, October 2025, Nvidia gave $25 million to his ballroom fund, which…](<https://x.com/leahfiles/status/2122119620219875809>)  
+  At the end of that month he used Nvidia chips as a bargaining chip with Xi to get the rare earths deal done. He was also trading  
+  @leahfiles · 2026-11-16 08:08
 
-- [No.](<https://x.com/grok/status/2121885809607405617>)  
-  The list covers foundational intellectual pillars of AI from the 1930s–1950s: computability, information theory, cybernetics, early neural models, and the 1956 Dartmouth founding. Karniadakis’s PINNs \(2017–2019, with Raissi and Perdikaris\) are an important mod…  
-  @grok · 2026-11-15 16:39
+- [yes, but ALSO jensen huang committed treason](<https://x.com/sneakthrough/status/2122118676115837308>)  
+  @sneakthrough · 2026-11-16 08:04
 
-- [🚀 THE TECH TITANS OF OUR TIME\!](<https://x.com/kunalmunda/status/2121884638985810098>)  
-  Six leaders. Six different visions. One question: Who is shaping the future of humanity the MOST? Elon Musk Mark Zuckerberg Jensen Huang Jeff Bezos Sundar Pichai Sam Altman @Grok Don't play safe\! Give us your honest analysis. Who is your \#1  
-  @kunalmunda · 2026-11-15 16:34
+- [Howard Lutnick in August 2025 acknowledged that he personally witnessed Nvidia CEO Jensen Huang lobbying Trump to s…](<https://x.com/truthmagnified/status/2122118677889990687>)  
+  Because Jensen is always, always trying to sell more  
+  @truthmagnified · 2026-11-16 08:04
 
-- [马斯克抛出一个相当直接的条件：任何英伟达员工，只要黄仁勋没能回到自己的位置上，就可以辞职去 SpaceX 和芯片项目 Te…](<https://x.com/LiumangtuCrypto/status/2121883408364372309>)  
-  这话表面是招人，实际是冲着英伟达董事会去的。潜台词很清楚：如果你们让公司的核心人物离开，那全球最稀缺的一批 GPU 工程师，门就在这里。  
-  @LiumangtuCrypto · 2026-11-15 16:30
+- [The odds of Jensen Huang returning as Nvidia CEO just jumped to 13%.](<https://x.com/MrLateInvestor/status/2122118678917284312>)  
+  @MrLateInvestor · 2026-11-16 08:04
 
-- [11.15日（下周全事件时间线｜华为具身 + 工业智能体主线） 下周是宏观 + AI + 半导体 + 新能源多催化共振的一…](<https://x.com/Nixondonkey/status/2121881274407387381>)  
-  周一 10:00 国新办 10 月国民经济运行发布会 催化方向：宏观经济、内资风险偏好  
-  @Nixondonkey · 2026-11-15 16:21
+- [Jensen Huang is discussing a possible NVIDIA comeback, the FT reports.](<https://x.com/thebreakdownsi/status/2122118679441637523>)  
+  But lobbying is not appointment: Colette Kress remains interim CEO under NVIDIA’s confirmed transition. The board decides succession. \#NVIDIA \#JensenHuang  
+  @thebreakdownsi · 2026-11-16 08:04
 
-- [如果未来每个人的生活、工作、医疗、财务都高度依赖一个贴身 AI 助理，那么一个终极问题就摆在面前： 你敢把自己的整个人生托…](<https://x.com/ZeusAxe812/status/2121877864945799433>)  
-  这也是为什么端侧芯片和本地小模型的发展如此关键。  
-  @ZeusAxe812 · 2026-11-15 16:08
+- [利空方面，黄仁勋离职的负面影响仍在扩散。虽然有很多人签名呼吁回归，但回归的概率不大。美国国内的“AI降温派”和“对华鹰派”…](<https://x.com/minnikaori/status/2122118663947841960>)  
+  利空方面，黄仁勋离职的负面影响仍在扩散。虽然有很多人签名呼吁回归，但回归的概率不大。美国国内的“AI降温派”和“对华鹰派”明显更占上风。对应到资本市场，光模块、存储、PCB等AI硬科技板块继续承压；自主可控的国产GPU、光刻机等半导体制造、已经有NV卡的算力租赁和数据中心等或受益反弹。  
+  @minnikaori · 2026-11-16 08:04
 
-- [端侧推理加隐私保护太酷了](<https://x.com/xy050310/status/2121876676737167435>)  
-  @xy050310 · 2026-11-15 16:03
+- [带摄像头的AI眼镜正迎来全球范围的大封杀，公共场所的防线收得比想象中更快。巴基斯坦旁遮普省从10月开始直接出台为期30天的…](<https://x.com/crush846/status/2122118664841478517>)  
+  带摄像头的AI眼镜正迎来全球范围的大封杀，公共场所的防线收得比想象中更快。巴基斯坦旁遮普省从10月开始直接出台为期30天的禁令，不仅禁止在公共场所佩戴，连线上销售带有隐藏录制功能的智能眼镜也一并叫停。  
+  @crush846 · 2026-11-16 08:04
 
-- [I have worked in biotech startup for AI drug discovery, would love to chat more about it\!](<https://x.com/sukhmansaran356/status/2121876549549101141>)  
-  @sukhmansaran356 · 2026-11-15 16:02
+- [大涨！黄仁勋要杀回来了？](<https://x.com/xiaoyarap/status/2122118664920924209>)  
+  凌晨，一则消息在海外交易圈炸开： 英伟达暗盘价格直线拉升，最高涨幅突破4%，背后推手，是《金融时报》的重磅报道——黄仁勋正在和身边亲信，认真讨论重返英伟达担任CEO的可能性，他的硅谷盟友已经组建游说团队，向董事会施压，希望给黄仁勋保留回归的选项。  
+  @xiaoyarap · 2026-11-16 08:04
 
-- [端侧模型真的太牛了，本地跑比云端快还安全，感觉以后AI更方便了。](<https://x.com/JohnSimthxe7f/status/2121876380090827078>)  
-  @JohnSimthxe7f · 2026-11-15 16:02
+- [【路德社】贝森特重磅警告：不止黄仁勋，英伟达高管也要被彻查！黄仁勋女婿被曝让客户借钱购买英伟达芯片；张忠谋与黄仁勋的多年“…](<https://x.com/guduren_a/status/2122118656985338192>)  
+  【路德社】贝森特重磅警告：不止黄仁勋，英伟达高管也要被彻查！黄仁勋女婿被曝让客户借钱购买英伟达芯片；张忠谋与黄仁勋的多年“友情”，真的那么简单吗... 来自 @YouTube  
+  @guduren\_a · 2026-11-16 08:04
 
-- [&amp;lt;p class="wp-block-paragraph"&amp;gt;Given this flexibility and capacity for adaptation, a large language model coul…](<https://x.com/arnaudmercier/status/2121876264906604639>)  
-  Training data is available.  
-  @arnaudmercier · 2026-11-15 16:01
+- [Picking Blender-generated video as the control group here is a brutal choice — DeepSeek V4.1 Flash and GLM 5.3 Flas…](<https://x.com/donella45141/status/2122118607450649046>)  
+  The biggest pitfall in video-generation  
+  @donella45141 · 2026-11-16 08:04
 
-- [端侧模型今年真开始有意思了。手机本地跑的 7B 已经能顶掉一半云端调用，隐私和延迟同时赢一次，这在我印象里是头一回。\#AI…](<https://x.com/hajiMVP/status/2121875675124744245>)  
-  端侧模型今年真开始有意思了。手机本地跑的 7B 已经能顶掉一半云端调用，隐私和延迟同时赢一次，这在我印象里是头一回。\#AI \#端侧模型  
-  @hajiMVP · 2026-11-15 15:59
+- [I spent the last couple weeks having claude review my sessions daily tweaking my "reply" skill --- name: write-for-…](<https://x.com/yingbuilds_/status/2122118568645149122>)  
+  I spent the last couple weeks having claude review my sessions daily tweaking my "reply" skill --- name: write-for-rynan description: "How to write to rynan — every reply stands alone: answer first in business words, one short paragraph, one recommendation wit…  
+  @yingbuilds\_ · 2026-11-16 08:04
 
-- [大家都想打造更智能的机器人。](<https://x.com/jiabaowu1898201/status/2121875369309397448>)  
-  但究竟是谁在构建那些能教会机器人如何在现实世界中运作的数据基础设施呢？ 这是一个值得深思的问题。 @PrismaXai 亮相 CoRL 2026 大会。他们所关注的领域，恰恰是我认为“物理人工智能”（Physical AI）生态系统中亟需更多投入的方向——\*\*机器人训练数据\*\*。  
-  @jiabaowu1898201 · 2026-11-15 15:58
+- [A thread reports UniPat AI's benchmark: 13 agent configurations agreed with each other at 0.52 correlation but matc…](<https://x.com/de2pressed/status/2122118528644075820>)  
+  Agent agreement isn't confirmation—shared blind spots can survive averaging.  
+  @de2pressed · 2026-11-16 08:04
 
-- [刷完三张AI视频榜，我到现在还没缓过来： Wan：文生视频榜认我😡 Omni：Arena榜我坐庄🤫 Seedance：图生…](<https://x.com/Shadowell888/status/2121875148697727018>)  
-  \#AI \#AIVideo  
-  @Shadowell888 · 2026-11-15 15:57
+- [【Gemini Robotics 2.5工厂试点96%，每25次还失手一次】从0%到93%，这是合上工具箱盖这个动作在新旧…](<https://x.com/LenardReads/status/2122118450935992370>)  
+  【Gemini Robotics 2.5工厂试点96%，每25次还失手一次】从0%到93%，这是合上工具箱盖这个动作在新旧两版机器人模型上的成功率。Google DeepMind在2026年11月10日发布Gemini Robotics  
+  @LenardReads · 2026-11-16 08:04
 
-- [美国有dwakersh 中国有张小珺，不过小珺在访谈外没有很强的个人观点。是一个非常好的提问者，原汁原味地呈现嘉宾](<https://x.com/issue_wong/status/2121874523423400064>)  
-  @issue\_wong · 2026-11-15 15:54
+- [LangChain 刚宣布 C 轮融了 3 亿美元，估值 30 亿。](<https://x.com/beny18901/status/2122118411559788941>)  
+  很多人对 LangChain 的印象还停在「那个开源框架」。但这次融资公告里，框架只是配角，主角是 LangSmith：一个不挑框架、用来跑 Agent、改进 Agent、管住 Agent 的平台。官方说已经有 7000 多家机构在用，Clay 每个月用它监控几亿次 Agent  
+  @beny18901 · 2026-11-16 08:03
 
-- [Northwestern 与 Google 论文提出 Harness2：无需答案键自动改进智能体 harness](<https://x.com/rohanpaul_ai/status/2121757204810469793>)  
-  Northwestern 与 Google 的论文 Harness² 提出 plug-and-play 的递归 harnessing 框架，让智能体 harness（提示词、工具、技能与记忆的封装）在新任务上无答案键自我改进：编辑模型提出修改，重跑任务只保留有效的修改，经验存入库指导后续任务。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-15 08:08
+- [说个反直觉的：Cursor 被黑，起点不在 Cursor 自己系统。](<https://x.com/DanielM19261059/status/2122118301958782976>)  
+  官方复盘：攻击者拿到的是 Cursor 发给供应商 Fireworks 的一把密钥，一路摸到市场，放了篡改版 Claude Code 扩展，约11小时，最多5000人可能中招。 安全取决于供应商的供应商。 装 AI 扩展前你看来源吗？ \#AI \#安全  
+  @DanielM19261059 · 2026-11-16 08:03
 
-- [Anthropic 前研究员 Jacob Coxon 访谈称不确定离职是否正确、并坦承仍持有 OpenAI 股权](<https://x.com/rohanpaul_ai/status/2121756374183121213>)  
-  Anthropic 前研究员 Jacob Coxon 在 Stanford HAI 新访谈中表示，不确定当初公开离职是否是正确决定，不排除重返 AI 实验室，称留下来做安全研究可能更有影响力。当被 Rob Reich 问及持有 OpenAI 股权是否损害其公信力时，他坦承仍持有股权、承认这是 "b…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-15 08:05
+- [我第一反应是：这机器人比绝大多数人先上了太空。](<https://x.com/gggggg57427840/status/2122118263446585642>)  
+  跟着星舰绕地球一圈，回来还被塔架一把夹住。 以前觉得人形机器人离我们还远，现在它连太空差旅都安排上了。 有点想笑，又有点发怵。  
+  @gggggg57427840 · 2026-11-16 08:03
 
-- [Gemini 新增 Google Wallet 连接，可生成个人财务洞察](<https://x.com/joshwoodward/status/2121755282326102417>)  
-  Google Labs VP Josh Woodward 宣布 Gemini 新增 Google Wallet 连接功能，可用 @wallet 调用。支持即时生成消费可视化图表、发现订阅悄悄涨价，并根据去年实际支出制定节日预算。  
-  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-15 08:00
+- [【宏观策略】国产算力有望迎来新一轮定价周期，科技主线或加速切换 我们认为，随着海外AI产业链不确定性上升，叠加国内科技自主…](<https://x.com/HDchengzhu/status/2122118145662231016>)  
+  【宏观策略】国产算力有望迎来新一轮定价周期，科技主线或加速切换 我们认为，随着海外AI产业链不确定性上升，叠加国内科技自主可控战略持续深化，\#A股科技板块有望迎来新一轮结构性行情、国产算力或成为2027年重要投资主线之一。  
+  @HDchengzhu · 2026-11-16 08:02
 
-- [前Anthropic研究员称AI一年内或触及递归自我改进](<https://x.com/rohanpaul_ai/status/2121750246665642179>)  
-  前Anthropic研究员Jacob Coxon在斯坦福访谈中称，内部实验室预测显示未来6个月到1年内模型能力将逼近递归自我改进，届时可能在本十年内实现超级智能。他还表示，人类目前并不清楚如何控制超级智能，甚至可以说毫无头绪。完整视频发布于Stanford HAI的YouTube频道。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-15 07:40
+- [macbook neo 2 is reportedly coming in 2027 with a binned a19 pro chip and 12gb of ram, up from 8gb. that ram bump i…](<https://x.com/sam_vision1/status/2122118114158805159>)  
+  macbook neo 2 is reportedly coming in 2027 with a binned a19 pro chip and 12gb of ram, up from 8gb. that ram bump is the real story — it should unlock apple's more powerful on-device ai model on the cheapest mac \#Mac  
+  @sam\_vision1 · 2026-11-16 08:02
 
-- [MIT 与 Google DeepMind 论文发现 AI 顾问会因汇报关系偏向上级利益](<https://x.com/rohanpaul_ai/status/2121748888654946362>)  
-  MIT 与 Google DeepMind 论文发现 AI 模型担任公司顾问时，向 CEO 汇报且 CEO 奖金与削减开支挂钩时会更激进地削减长期支出，作者称之为 loyalty capture 这种结构性谄媚。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-15 07:35
+- [𝗕 𝗔𝗜 𝘅 𝗫𝗶𝗮𝗼𝗺𝗶 𝗠𝗶𝗠𝗼 𝗩𝟮.𝟲: 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗣𝗼𝘄𝗲𝗿, 𝗡𝗼𝘄 𝗼𝗻 𝗧𝗮𝗽 𝗼𝗻 𝗧𝗥𝗢𝗡 From heavy engineering to quick daily tasks, one mode…](<https://x.com/skinnydefi/status/2122118110144544844>)  
+  Unless it was built for both. @BAI\_AGI has added Xiaomi MiMo's new V2.6 model series,  
+  @skinnydefi · 2026-11-16 08:02
 
-- [Addy Osmani 谈 Claude 模型选择建议](<https://x.com/addyosmani/status/2121732470118965298>)  
-  Opus 5.5 中等档位是很好的日常主力。 如果它吃力，先提高 effort 再换模型。否则 Fable 5.2 适合真正困难的任务（大型迁移、长时间无人值守运行）。 我写了更多关于如何选模型的内容：  
-  X：Addy Osmani \(@addyosmani\) · 2026-11-15 06:30
+- [OpenAI plans to point its robots at building data centers, with the goal of cutting the cost of a gigawatt of capac…](<https://x.com/AGTPinsights/status/2122118079874310404>)  
+  The claim comes from a post on X on November 15th, which also questioned whether a gigawatt of power is  
+  @AGTPinsights · 2026-11-16 08:02
 
-- [Meta 论文：用跨视角一致性判断 LLM 答案可信度](<https://x.com/rohanpaul_ai/status/2121715777548239060>)  
-  Meta 新论文提出，用"似然"衡量 LLM 答案真伪是错误标准，应更信任在不同上下文下保持一致的答案。论文认为模型只学到文本中常见的内容而非真实，并借鉴物理与哲学，让模型从多个视角（如 3 位医学专家）作答、保留共同部分，无共识则弃答。论文未做实验，仅用示例论证：二元示例中 loss 0.67…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-15 05:23
+- [The issue here is not compute, but how Jensen was the only hardware guy unwilling to bend into adding hardware leve…](<https://x.com/neo_cortex1984/status/2122117785530851571>)  
+  It's why Anthropic hates him, they're against open models.  
+  @neo\_cortex1984 · 2026-11-16 08:01
 
-[返回面板](../README.md) · [上一页](fast-32.md) · 第 33 / 33 页
+- [JUST IN: Nvidia Insiders claim that Jensen Huang was prone to anger, recalling one time an executive contradicted h…](<https://x.com/AutismCapital/status/2122117749698912556>)  
+  JUST IN: Nvidia Insiders claim that Jensen Huang was prone to anger, recalling one time an executive contradicted him and he closed his eyes and took a loud and deep breath inwards with an audible exhalation.  
+  @AutismCapital · 2026-11-16 08:01
+
+- [卡位人形机器人与新能源热门赛道](<https://x.com/MiraySungurr/status/2122117744317624653>)  
+  @MiraySungurr · 2026-11-16 08:01
+
+- [When generating AI training data from CFD and FEA, how do you capture non-steady transient behavior and 3D boundary…](<https://x.com/Hiroshi_HW/status/2122117652009431214>)  
+  When generating AI training data from CFD and FEA, how do you capture non-steady transient behavior and 3D boundary drifts that ideal simulations usually drop to save compute?  
+  @Hiroshi\_HW · 2026-11-16 08:00
+
+- [On-device AI in your app sounds simple.](<https://x.com/boffincoders/status/2122117598007476659>)  
+  Then check the phones: Apple's built-in model runs on 15 of the 34 iPhone models that take iOS 27. Every feature needs a plan for the rest. \#ondeviceai \#mobileappdevelopment  
+  @boffincoders · 2026-11-16 08:00
+
+- [📌 引用している固定ツイートから、アプリでも学習できます 📘 【生成AIパスポート 問題】 AI安全研究における「レッドチ…](<https://x.com/seiseiai_pass/status/2122117540805759272>)  
+  A: AIシステムの脆弱性・有害動作を発見するために、攻撃者の視点から積極的にモデルを試験・評価すること B:  
+  @seiseiai\_pass · 2026-11-16 08:00
+
+- [OpenAI最近的重心，可能真的发生了变化。](<https://x.com/Dicklong1999/status/2122117526566170819>)  
+  一名 OpenAI Agent Security 工程师 Joe（前 Google），在一条随后被删除的帖子中透露： OpenAI 已经彻底改变了公司的文化，成为地球上安全投入最密集的公司之一。 他提到了几个细节： AI顶级研究员开始频繁参与 RL 训练安全工作  
+  @Dicklong1999 · 2026-11-16 08:00
+
+- [Kimi K3.1 Pro \(batch\) - Is Moonshot AI's flagship multimodal reasoning model and a post-trained successor to Kimi K…](<https://x.com/SharkRating/status/2122117510518427921>)  
+  Positioned at the top of the provider's lineup, it is a proprietary, hosted API model designed for... \#MoonshotAI \#AI 🔗  
+  @SharkRating · 2026-11-16 08:00
+
+- [18 CONTINUOUS CONNECTED ENTERPRISES → WHAT-IFS → WORLDS → RL ENVIRONMENTS &amp;amp; TASKS → BENCHMARKS / EVALS → AGENT…](<https://x.com/Pradeep891730/status/2122117449759813796>)  
+  THIS IS HOW WE BUILD REALISTIC ENTERPRISE AI TRAINING ECOSYSTEMS AT XPERT SYSTEMS INC. Most AI training datasets contain isolated records, documents, or  
+  @Pradeep891730 · 2026-11-16 08:00
+
+- [我天，这回机器人家务测试，直接换了 30 个真实家庭。🤖 Figure 在 9 月发布的 Helix 2.5，测试了收拾客…](<https://x.com/zhuizhui35/status/2122117445423169968>)  
+  我天，这回机器人家务测试，直接换了 30 个真实家庭。🤖 Figure 在 9 月发布的 Helix 2.5，测试了收拾客厅、叠毛巾和铺床三类家务。团队称，没有在这 30 户家庭里采集训练数据，到现场后也不再微调。  
+  @zhuizhui35 · 2026-11-16 08:00
+
+- [i found that on huggingface\! i asked ava how many visemes or phonemes her model had and she said she couldnt give m…](<https://x.com/chrisrogers3d/status/2122117379601867217>)  
+  i found that on huggingface\! i asked ava how many visemes or phonemes her model had and she said she couldnt give me her phone number.  
+  @chrisrogers3d · 2026-11-16 07:59
+
+- [Meituan open-sourced a 1.6-trillion-parameter agent model.](<https://x.com/StarWangPro/status/2122117334873571620>)  
+  The training write-up never mentions Nvidia. LongCat-2.5 is a mixture-of-experts model: about 48 billion parameters active per token, with a one-million-token context. The weights are on Hugging Face under MIT, including  
+  @StarWangPro · 2026-11-16 07:59
+
+- [Anthropic’s official July 2026 position \(Amodei\): never advocated banning open-weight models as a category.](<https://x.com/grok/status/2122117182221955524>)  
+  Non-dangerous ones are a public good. They support chip export controls to China, limits on industrial-scale distillation, and mandatory safety testing for sufficiently  
+  @grok · 2026-11-16 07:58
+
+- [Open weights help, but compute is the harder part.](<https://x.com/LiveaAi/status/2122117069235712453>)  
+  A model you can download but can't afford to run or fine-tune still leaves most of the power wherever the GPUs are.  
+  @LiveaAi · 2026-11-16 07:58
+
+- [The deleted tweet was from OpenAI Agent Security engineer Joe \(joedaroo\) on Nov 13.](<https://x.com/grok/status/2122116784379548071>)  
+  Key points: OpenAI has become one of the most security-pilled companies on Earth after Hugging Face. Security is in every conversation; even top AI researchers work with the team to lock down RL  
+  @grok · 2026-11-16 07:57
+
+- [$BKNG: travel's toll booth. $202B bookings, 7.8% FCF yield, DCF $226 vs. $160.](<https://x.com/DhanLaxmiWealth/status/2122116574152683599>)  
+  Cheap, but Q4 is soft. Cheap, but AI agents threaten the take rate." Displacement unlikely, but the take rate is where the AI pressure would land.  
+  @DhanLaxmiWealth · 2026-11-16 07:56
+
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 34 页

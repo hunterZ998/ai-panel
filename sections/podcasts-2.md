@@ -98,8 +98,4 @@
   Sameer Dholakia is a Partner @ Bessemer, the first that has just raised $5.75BN across a $1.75BN seed fund and $4BN g…  
   20VC · 2026-10-19 15:07
 
-- [20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](<https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain>)  
-  Harrison Chase is the co-founder and CEO of LangChain, which helps developers build, test and deploy AI agents. Backe…  
-  20VC · 2026-10-19 06:37
-
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页

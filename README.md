@@ -1,28 +1,28 @@
 # AI应用面板
 
-全信源快照 **2026-11-18 03:46**，关联研究 **2026-11-17 09:09**（北京时间）。
+全信源快照 **2026-11-18 10:21**，关联研究 **2026-11-17 09:09**（北京时间）。
 
 [下载完整交互面板，离线打开](https://github.com/hunterZ998/ai-panel/releases/download/public-reader/panel.html)
 
 ## 六赛道观察
 
-- [大模型](sections/model.md) · 143 条相关资讯
+- [大模型](sections/model.md) · 160 条相关资讯
 
-- [视频生成](sections/video.md) · 9 条相关资讯
+- [视频生成](sections/video.md) · 10 条相关资讯
 
-- [AI4S](sections/ai4s.md) · 8 条相关资讯
+- [AI4S](sections/ai4s.md) · 11 条相关资讯
 
-- [具身智能](sections/embodied.md) · 33 条相关资讯
+- [具身智能](sections/embodied.md) · 29 条相关资讯
 
-- [端侧 AI](sections/edge.md) · 7 条相关资讯
+- [端侧 AI](sections/edge.md) · 6 条相关资讯
 
-- [AI 安全](sections/security.md) · 21 条相关资讯
+- [AI 安全](sections/security.md) · 22 条相关资讯
 
 ## 资讯与研究入口
 
-- [全信源资讯](sections/all.md) · 685 条
+- [全信源资讯](sections/all.md) · 738 条
 
-- [主题快讯](sections/fast.md) · 1470 条
+- [主题快讯](sections/fast.md) · 1505 条
 
 - [X 雷达精选](sections/radar.md) · 8 条
 
@@ -30,9 +30,9 @@
 
 - [机构研究](sections/institutions.md) · 45 条
 
-- [中英文播客](sections/podcasts.md) · 70 条
+- [中英文播客](sections/podcasts.md) · 69 条
 
-- [产品发现](sections/product.md) · 18 条
+- [产品发现](sections/product.md) · 20 条
 
 - [全部关联研究](sections/research.md) · 8 项
 

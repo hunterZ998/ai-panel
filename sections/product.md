@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [PH今日热榜 \| 2026-11-17](<https://decohack.com/producthunt-daily-2026-11-17/>)  
+  Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
+  Product Hunt 中文 · DecoHack · 2026-11-17 15:00
+
 - [GatherHQ Agent Research](<https://www.producthunt.com/products/gatherhq-agent-research>)  
   Let your agent take surveys for you  
   Product Hunt · English · 2026-11-17 11:18
@@ -33,6 +37,10 @@
 - [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
   Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
   Product Hunt 中文 · DecoHack · 2026-11-16 15:00
+
+- [Freebuff](<https://www.producthunt.com/products/freebuff-2>)  
+  The 100% free coding agent  
+  Product Hunt · English · 2026-11-16 01:59
 
 - [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
   HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  

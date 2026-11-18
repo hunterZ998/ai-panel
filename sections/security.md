@@ -20,22 +20,27 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 21 条
+## 相关资讯 · 22 条
 
-- [Microsoft AI 发布安全专用模型 MAI Cyber 2 Flash](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
-  Microsoft AI 发布专用安全模型 MAI Cyber 2 Flash，主打以更低成本完成漏洞发现与威胁调查。在 CyberGym‑E2E 上取得 92.3% 任务成功率，超过 GPT‑6 Astra 的 91.5%，成本不到后者的 2%；上下文窗口达 100 万 token，是 MAI Cyber 1.1 Flash 的四倍。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+- [微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%](<https://www.ithome.com/1/028/585.htm>)  
+  IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修…  
+  IT之家 · 2026-11-18 07:06
 
-- [Brockman Pushes OpenAI Toward Cybersecurity—and a Showdown Over AI Safety](<https://www.theinformation.com/articles/brockman-pushes-openai-toward-cybersecurity-and-showdown-ai-safety>)  
-  The Information · 2026-11-18 00:46
+- [Simon Willison 发布编码智能体外部沙箱模式及三套实现](<https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/>)  
+  Simon Willison 与 AI 研究实验室 Prime Radiant 合作，介绍面向编码智能体的外部沙箱模式，智能体在沙箱外运行、待执行代码在专用沙箱内运行，目标是让本地模型实验更安全，避免提示词注入等攻击造成破坏。  
+  Simon Willison 博客 · 2026-11-18 06:52
+
+- [404 Media 分析近期连环宕机：不是单一黑客攻击，而是系统性脆弱](<https://www.404media.co/breaking-everything/>)  
+  404 Media 作者 Jason Koebler 从自己因 Apple Pay 宕机租不到 Lime 单车写起，指出近期 Apple Pay、银行、微软、航空等一连串故障并非都源于黑客或 AI，而是疫情以来科技裁员、AI 辅助与 vibe coding 产品大规模部署、政府专业能力流失、基础设施与冗余投入不足等系统性问题的共同症状。  
+  404 Media（RSS） · 2026-11-18 05:58
 
 - [Childlight 报告：AI 生成儿童性虐待材料举报量两年激增超 8,400%](<https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/>)  
   爱丁堡 Childlight Institute 报告显示，AI 生成儿童性虐待材料的举报量两年间增长超 8,400%，从 2023 年约 4,700 张升至 2025 年超 40 万张，数据来自科技公司向 NCMEC 提交的举报。  
   The Decoder：AI News（RSS） · 2026-11-17 22:59
 
-- [达信：有迹象表明，黑客正利用 AI 工具和智能体寻找安全漏洞](<https://www.ithome.com/1/028/489.htm>)  
-  IT之家 11 月 17 日消息，据路透社今天（17 日）晚间报道，保险经纪公司达信的数据显示，AI 让网络攻击变得更快、规模更大，企业报告的网络安全事件随之增多，企业及保险公司也面临新的挑战。 达信旗下 Marsh Risk 美国及…  
-  IT之家 · 2026-11-17 18:55
+- [达信：有迹象表明黑客正利用 AI 工具和智能体寻找安全漏洞](<https://www.ithome.com/1/028/489.htm>)  
+  据路透社报道，保险经纪公司达信称有迹象表明黑客正利用 AI 工具和 AI 智能体寻找安全漏洞，其客户 10 月最后两周报告 105 起网络安全事件，较 5 月同期的 48 起增加一倍多。  
+  IT之家·人工智能 · 2026-11-17 18:55
 
 - [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
   AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  

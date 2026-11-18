@@ -20,7 +20,27 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 8 条
+## 相关资讯 · 11 条
+
+- [Alphabet旗下AI制药商Isomorphic Labs完成50亿美元C轮融资](<https://www.itjuzi.com/investevent/14708098>)  
+  Isomorphic Labs是Alphabet旗下AI制药商，将人工智能和计算方法应用于药物发现，并改变医学帮助和治愈人们的方式。公司日前完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本共同领投，Alphabet…  
+  IT桔子 · 2026-11-18 09:58
+
+- [百亿美金入场，谁在给AI4S定价](<https://36kr.com/p/4074537665418116?f=rss>)  
+  近日，海外AI4S（AI for Science）赛道的资本消息密集落地。 无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿  
+  36氪 · 2026-11-18 09:56
+
+- [AI药物研发公司Isomorphic Labs完成50亿美元C轮融资](<https://www.pedaily.cn/first/193057.shtml>)  
+  11月18日，英国AI药物研发公司Isomorphic Labs完成50亿美元C轮融资，超额认购，刷新自身单轮融资纪录，或创全球AI制药单轮融资新纪录。此轮由Greenoaks、红杉资本领投，Alphabet跟投，各投资方悉数参与。资…  
+  投资界 · 2026-11-18 09:04
+
+- [投资界24h\| 董事会拒绝黄仁勋复职；全球最大AI制药融资诞生；国创启程基金启动投资运作](<https://www.pedaily.cn/first/193051.shtml>)  
+  英伟达联合创始人黄仁勋于11月18日凌晨表示，若董事会认为他回归符合公司及股东利益，愿意再次出任CEO。但英伟达董事会主席琼斯称，不打算仓促任命正式CEO，将先找到最合适人选。（投资界） 原文链接  
+  投资界 · 2026-11-18 08:57
+
+- [全球最大AI制药融资诞生](<https://www.pedaily.cn/first/193046.shtml>)  
+  由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成50亿美元（约合人民币333亿元）C轮融资，融资获得超额认购。 结合公开数据不完…  
+  投资界 · 2026-11-18 08:53
 
 - [物理学家如何看待AI冲击：从Suvrat Raju的TheoPhysEval基准被饱和谈起](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
   Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
@@ -29,14 +49,6 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
   NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
   NVIDIA Blog（RSS） · 2026-11-17 22:00
-
-- [Alphabet旗下AI制药商Isomorphic Labs完成50亿美元C轮融资](<https://www.itjuzi.com/investevent/14708098>)  
-  Isomorphic Labs是Alphabet旗下AI制药商，将人工智能和计算方法应用于药物发现，并改变医学帮助和治愈人们的方式。公司日前完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本共同领投，Alphabet…  
-  IT桔子 · 2026-11-17 21:17
-
-- [材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率](<https://36kr.com/p/4073503237329796?f=rss>)  
-  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每  
-  36氪 · 2026-11-17 15:34
 
 - [NVIDIA 扩展 CUDA-X 库，为 AI 智能体提供加速科学发现的工具](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/>)  
   NVIDIA 扩展 CUDA-X 库，新增 cuPhoton、cuPotential 和 cuSpa，让 AI 智能体协助科研人员加速天体物理、材料科学与单细胞生物学等研究。  

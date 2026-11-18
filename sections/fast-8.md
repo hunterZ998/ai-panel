@@ -1,182 +1,172 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 33 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 34 页
 
-- [Microsoft volvio a reportar fallos El GTA 6 esta desestabilizando la simulación Hay que llegar al 19 y se arregla,…](<https://x.com/therealbuni/status/2122464522355024012>)  
-  Microsoft volvio a reportar fallos El GTA 6 esta desestabilizando la simulación Hay que llegar al 19 y se arregla, sino corran a la sierra  
-  @therealbuni · 2026-11-17 06:59
+- [Microsoft?](<https://x.com/CynicalPublius/status/2122738500890186007>)  
+  The FAA? The banks? Zelle? United Airlines? The NSA? NOW APPLE?????  
+  @CynicalPublius · 2026-11-18 01:07
 
-- [Microsoft Outlook outage FAA nationwide outage United Airlines outage Chase Bank outage At a certain point, you hav…](<https://x.com/EndWokeness/status/2122463784463642934>)  
-  Microsoft Outlook outage FAA nationwide outage United Airlines outage Chase Bank outage At a certain point, you have to wonder  
-  @EndWokeness · 2026-11-17 06:56
+- [Microsoft, United, banks, the FAA, and now the NSA "Unrelated" is getting harder to believe](<https://x.com/EndWokeness/status/2122738027554623765>)  
+  @EndWokeness · 2026-11-18 01:05
 
-- [👍👏🇨🇱 \#ALERTA 🇨🇱👏👍 El PRESIDENTE KAST tiene a la MEJOR MINISTRA de CIENCIAS del MUNDO MUNDIAL \!\!\! @min\_ciencia XIMEN…](<https://x.com/ProfeMuyChilena/status/2122461955130544501>)  
-  UN ESTADO MÁS MODERNO y EFICIENTE \!  
-  @ProfeMuyChilena · 2026-11-17 06:48
+- [Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dir…](<https://x.com/lorenzoramirez/status/2122737856259166617>)  
+  Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dirigido desde el Departamento de Estado de Marco Rubio y la inestimable ayuda de Dario Amodei \(Anthropic\)  
+  @lorenzoramirez · 2026-11-18 01:05
 
-- [Sen.](<https://x.com/alexanderbolton/status/2122461545913520279>)  
-  Thom Tillis \(R-NC\) says Commerce Secretary Lutnick should have stopped Jensen Huang from joining Trump in Alaska on trip to China. He says Lutnick should be removed as Secretary of Commerce.  
-  @alexanderbolton · 2026-11-17 06:47
+- [Anthropic 因投资者需求旺盛计划上调 IPO 发行价](<https://x.com/KateClarkTweets/status/2122737640306884838>)  
+  记者 Kate Clark 引述 WSJ 报道，Nvidia 相关风波并未拖慢 Anthropic 的 IPO 进程，由于投资者需求旺盛，公司计划上调发行价。报道由 Kate Clark 与 WSJ 记者 @cdriebusch、@BenDummett 合作完成。  
+  X：Kate Clark \(@KateClarkTweets\) · 2026-11-18 01:04
 
-- [With all the bank, FAA and Microsoft outages in the last several days, plus Jensen Huang being forced to resign fro…](<https://x.com/ginamilan_/status/2122461353684181474>)  
-  With all the bank, FAA and Microsoft outages in the last several days, plus Jensen Huang being forced to resign from NVIDIA… I just want to point out that A LOT of Democrats traveled overseas to Europe and Turkey this year ahead of the midterms, and Alex Soros…  
-  @ginamilan\_ · 2026-11-17 06:46
+- [Devin Bots 智能体团队发布](<https://x.com/cognition/status/2122737511684587551>)  
+  认识 Devin Bots。 从编写固件到每周合并数千个 PR，一个 Devin Bot 带领一支智能体团队完成任务。  
+  X：Cognition \(@cognition\) · 2026-11-18 01:03
 
-- [🚨 Microsoft users are reporting MORE problems with Outlook, Teams and Microsoft 365 This just days after a massive…](<https://x.com/MarioNawfal/status/2122461174713491560>)  
-  And Microsoft has now revealed what caused that earlier meltdown. A software bug dating back to JULY, combined with networking failures and  
-  @MarioNawfal · 2026-11-17 06:45
+- [Gemini 基于新模型 Gemini 4 Hydrogen 在六国免费提供任务代办功能](<https://x.com/joshwoodward/status/2122737427970425171>)  
+  Google Labs 宣布 Gemini 现可在美日韩加澳印六国免费为用户执行任务，底层运行于新模型 Gemini 4 Hydrogen，覆盖数亿用户。同步推出多项功能：通过 Google Duplex 致电本地商家、Google Pay 支付结账、RCS 发短信、Gmail 转发邮件、Goog…  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-18 01:03
 
-- [1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does…](<https://x.com/CalltoActivism/status/2122460843505815909>)  
-  1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does this no longer feel like a coincidence.  
-  @CalltoActivism · 2026-11-17 06:44
+- [Google Labs 负责人介绍 Gemini tasks 功能并征集用户用例](<https://x.com/joshwoodward/status/2122737429476253889>)  
+  Josh Woodward 发推表示，回复分享 Gemini 为你完成的任务，并附上 Google 官方博客链接： Gemini 免费版提供 tasks 及新功能。  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-18 01:03
 
-- [多模态智能体自我改进方法跨任务迁移综述](<https://x.com/rohanpaul_ai/status/2122460813239922786>)  
-  一篇综述指出，多模态智能体的自我改进技巧只能迁移到具备其所依赖条件的任务上，例如可校验的答案。作者梳理了视觉推理、图像生成、应用与网页导航、机器人四类场景的方法，并逐项给出可迁移、有条件、受阻或冗余的判定。文中引用的一项 500 题审计显示，保留的多数投票标签有 24% 错误，而程序计算答案为 5…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 06:44
+- [🚨🇺🇸 Six days.](<https://x.com/MarioNawfal/status/2122736536320139511>)  
+  Six MAJOR IT disruptions. And some VERY important systems are on that list. Microsoft, FAA air traffic control centers, AWS, major U.S. banks, United Airlines and now the NSA's NETWORK. The incidents span aviation, finance, cloud infrastructure and now nationa…  
+  @MarioNawfal · 2026-11-18 01:00
 
-- [Googleが「科学者1万人にGemini 4 Carbonを無料」と出した42分後、OpenAIが「研究者20万人にCh…](<https://x.com/nayuengin/status/2122459525030854964>)  
-  発表の中身より、桁で殴り返すまでの速さがえぐい。 科学者の取り合いがもう先着順のバーゲンセールじゃんww  
-  @nayuengin · 2026-11-17 06:39
+- [Fun Fact: NVIDIA is Trump's largest single investment](<https://x.com/theliamnissan/status/2122736368392564780>)  
+  @theliamnissan · 2026-11-18 00:59
 
-- [問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中…](<https://x.com/kokko_coco/status/2122459447155118495>)  
-  問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中国国内に存在している。それらは国内で製造されたか、合法的に輸入されたか、密輸されたものだ。NVIDIAは、意図的か否かにかかわらず、後者の二つの重要な供給企業となっている。  
-  @kokko\_coco · 2026-11-17 06:39
+- [🇺🇸 DEVELOPING: MULTIPLE MAJOR US SERVICES REPORTING DISRUPTIONS Downdetector has flagged user-reported problems aff…](<https://x.com/CoffeReport/status/2122736223693218179>)  
+  🇺🇸 DEVELOPING: MULTIPLE MAJOR US SERVICES REPORTING DISRUPTIONS Downdetector has flagged user-reported problems affecting several major services on November 17, including: • National Weather Service • Apple App Store and Apple Support • Microsoft Outlook • Gma…  
+  @CoffeReport · 2026-11-18 00:58
 
-- [🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupcion…](<https://x.com/AlertaNews24/status/2122458860120330646>)  
-  🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupciones del servicio.  
-  @AlertaNews24 · 2026-11-17 06:36
+- [Rep.](<https://x.com/geraldcelente/status/2122735701343244583>)  
+  Brian Mast, who once wore an IDF uniform to Capitol Hill in honor of serving both the U.S. and the Israeli militaries, wants Jensen Huang to appear before Congress to see where his loyalty lies You can't write this shit  
+  @geraldcelente · 2026-11-18 00:56
 
-- [IT OUTAGES / DISRUPTIONS REPORTED OVER THE LAST 7 DAYS: - November 11: Microsoft - November 13: FAA Air Route Traff…](<https://x.com/InsiderGeo/status/2122458443009466386>)  
-  Bank, Wells Fargo, USAA and other financial institutions - November  
-  @InsiderGeo · 2026-11-17 06:35
+- [Founders who were fired \(or forced out\) of their own companies: Steve Jobs: Apple \(1985\) Travis Kalanick: Uber \(201…](<https://x.com/stats_feed/status/2122735572800217188>)  
+  Founders who were fired \(or forced out\) of their own companies: Steve Jobs: Apple \(1985\) Travis Kalanick: Uber \(2017\) Sam Altman: OpenAI \(2023, briefly\) Jack Dorsey: Twitter \(2008\) Noah Glass: Twitter \(2006\) Andrew Mason: Groupon \(2013\) Adam Neumann: WeWork \(2…  
+  @stats\_feed · 2026-11-18 00:56
 
-- [🚨 ALERTA: UNITED AIRLINES CAE EN UN APAGÓN GENERALIZADO DE SISTEMAS Aviones varados en la puerta por no recibir los…](<https://x.com/Jhonffonseca/status/2122457624495239202>)  
-  United confirmó el fallo y trabaja “lo antes posible”. La coincidencia es brutal: • Viernes: Microsoft deja fuera de  
-  @Jhonffonseca · 2026-11-17 06:31
+- [Cómo me mira la idea de meterle todos mis ahorros a Nvidia después de este tuitín de Jose Juan](<https://x.com/Scorvalue/status/2122735211284774991>)  
+  @Scorvalue · 2026-11-18 00:54
 
-- [Claude Code 团队谈验证](<https://x.com/ClaudeDevs/status/2122457608963395586>)  
-  当 Claude 能够验证自己的工作成果时，它写出的代码质量更高。过去成本高昂的检查手段，如测试、基准测试和端到端运行，如今已变得廉价。 以下是 Claude Code 团队对验证的思考：  
-  X：Claude Devs \(@ClaudeDevs\) · 2026-11-17 06:31
+- [Jensen Huang just broke his silence, and in 30 minutes it already has almost 2 million views and over 100K likes.](<https://x.com/ginamilan_/status/2122734996419194952>)  
+  Truly insane.  
+  @ginamilan\_ · 2026-11-18 00:53
 
-- [The government is hiding something.](<https://x.com/LqLana/status/2122456951380496566>)  
-  Last week Microsoft Office down nationwide. Last week flights were grounded nationwide. Today banks are experiencing outages, including Chase Bank and Zelle… Also today, United Airlines reporting widespread system outages. Come on.  
-  @LqLana · 2026-11-17 06:29
+- [AS AN NVIDIA SHAREHOLDER, I HAVE BELIEVED IN YOUR COMPANY SINCE THE DAY IT WAS FOUNDED.](<https://x.com/RassvetAsks/status/2122734724724490650>)  
+  AND LET ME MAKE ONE THING ABSOLUTELY CLEAR: TO HELL WITH THE BOARD, JENSEN. COME BACK. The world needs you. LOCAL AI NEEDS A DEFENDER. With all due respect, Mr. Huang, this is no longer  
+  @RassvetAsks · 2026-11-18 00:52
 
-- [🚨 HOLY CRAP\!](<https://x.com/RyanAFournier/status/2122455821300740346>)  
-  Wall Street just got HAMMERED\! An estimated $1.4 TRILLION in market value WIPED OUT in ONE DAY\! 🔴 Nasdaq DOWN 2.5% 🔴 S&amp;amp;P 500 DOWN 1.9% 🔴 Nvidia and other AI giants CRUSHED Investors are panicking over AI valuations and Nvidia’s leadership turmoil. Nvidia  
-  @RyanAFournier · 2026-11-17 06:24
+- [Nvidia's board should act now.](<https://x.com/KobeissiLetter/status/2122734524517728527>)  
+  We believe Jensen Huang's newly released statement is only further evidence that he resigned from his position as CEO of Nvidia, $NVDA, in the heat of the moment. Today, Jensen made it clear that he is willing to return, calling it an "honor" to  
+  @KobeissiLetter · 2026-11-18 00:52
 
-- [Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones de…](<https://x.com/alandete/status/2122455607110254887>)  
-  Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones del control aéreo de USA, obligando a para despegues durante más de cuatro horas; los servicios de Chase mayor banco del país, con más de cuatro bi…  
-  @alandete · 2026-11-17 06:23
+- [Jensen Huang is soo back 😭](<https://x.com/MRJEM0306/status/2122733024013918242>)  
+  @MRJEM0306 · 2026-11-18 00:46
 
-- [‼️ UPDATE: Microsoft says last week's global Microsoft 365 outage came from a fix it rolled out in July, which hid…](<https://x.com/IntCyberDigest/status/2122454917336166453>)  
-  The bug froze the gateway servers in front of Exchange Online email and other Microsoft 365 services under heavy load. Lab tests on  
-  @IntCyberDigest · 2026-11-17 06:21
+- [Jensen Huang just played his hand publicly, and the timing is no accident.](<https://x.com/Kekius_Sage/status/2122732685126959239>)  
+  Right as Nvidia’s board holds the line against his return and interim CEO Colette Kress prepares to face Wall Street on Q3 earnings, Jensen goes straight over the boardroom’s head to appeal directly to  
+  @Kekius\_Sage · 2026-11-18 00:44
 
-- [Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15t…](<https://x.com/TheIntelFrog/status/2122454464825327726>)  
-  Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15th - AWS November 16th - Chase, US Bank, Wells Fargo, USAA etc.  
-  @TheIntelFrog · 2026-11-17 06:19
+- [You let the whole world see how disgusting and immoral the NYT, BBC, WSJ, the Economist can be.](<https://x.com/XH_Lee23/status/2122732631481811189>)  
+  The support for Jensen Huang is a boycott of these dirty legacy media.  
+  @XH\_Lee23 · 2026-11-18 00:44
 
-- [What a coincidence that software issues have affected Microsoft Outlook, FAA \(not buying the router BS\) &amp;amp; U.S.…](<https://x.com/caslernoel/status/2122454108590551323>)  
-  It’s almost like somebody started a war he couldn’t finish and left his country unprotected because that’s what Project 2025 told him to do.  
-  @caslernoel · 2026-11-17 06:17
+- [&amp;gt; Microsoft “outage” on Thursday &amp;gt; FAA “outage” on Friday &amp;gt; Banking and airline “outage” yesterday &amp;gt; NS…](<https://x.com/ImperiumFirst/status/2122732575391207528>)  
+  &amp;gt; Microsoft “outage” on Thursday &amp;gt; FAA “outage” on Friday &amp;gt; Banking and airline “outage” yesterday &amp;gt; NSA “outage” today &amp;gt; Iran “plotting” a dirty bomb attack on DC  
+  @ImperiumFirst · 2026-11-18 00:44
 
-- [ALERT: Bei uns haben mehrere Banken, u.a.](<https://x.com/SandraNavidi/status/2122453963765153817>)  
-  Chase, Wells Fargo und Bank of America, technische Probleme. Kunden kommen nicht in ihre Konten und können kein Geld überweisen. Manche Geldautomaten funktionieren nicht mehr. Letzte Woche die Microsoft Outage und der bundesweite  
-  @SandraNavidi · 2026-11-17 06:17
+- [By the way, in the unlikely event that the @nvidia board doesn’t immediately restore Jensen as CEO…there’s actually…](<https://x.com/balajis/status/2122731871331320161>)  
+  Why? Given the likely cyberattacks on Microsoft, flights, banks, and now NSA, it’s arguably a  
+  @balajis · 2026-11-18 00:41
 
-- [Problemas técnicos paralizaron el espacio aéreo de EEUU, problemas técnicos afectaron a Microsoft, problemas técnic…](<https://x.com/ale_loucau/status/2122453799348662478>)  
-  Ahora problemas técnicos afectan el sistema financiero. Todo en menos de una semana. Dale, algo tiene que estar pasando...  
-  @ale\_loucau · 2026-11-17 06:16
+- [Jensen Huang says he would return as Nvidia boss if asked by the board, in first statement since resigning](<https://x.com/BBCBreaking/status/2122731322821009898>)  
+  @BBCBreaking · 2026-11-18 00:39
 
-- [This is not a coincidence.](<https://x.com/donwinslow/status/2122453548869063043>)  
-  In the past 5 days: 1 Our ability to conduct business. \(Microsoft outage\) 2 Our ability to travel. \(FAA outage\) 3 Our ability to access payroll systems. \(Workday outage\) 4 Our ability to access our own bank accounts \(U.S. banking outages\)  
-  @donwinslow · 2026-11-17 06:15
+- [TokenWave AI 发布 SWE-CoWork 编码智能体协作基准](<https://x.com/rohanpaul_ai/status/2122730768317476944>)  
+  TokenWave AI 发布 SWE-CoWork，用于测试 AI 编码智能体能否像真实团队成员一样协作。该基准覆盖 101 个真实开源仓库、26 个模拟队友、11 种编程语言，82% 的需求掌握在队友手中，智能体需主动询问才能获知要构建什么。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 00:37
 
-- [Gemini Notebook 将资料转为交互网站](<https://x.com/joshwoodward/status/2122453269842886788>)  
-  用 @Gemini\_Notebook 把你的资料变成交互式网站——我们用元素周期表的所有名称做了一个。:\) 这些网站制作简单，分享也方便。  
-  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-17 06:14
+- [Jensen Huang right now:](<https://x.com/Telcier/status/2122730483406786598>)  
+  @Telcier · 2026-11-18 00:36
 
-- [UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major…](<https://x.com/RT_com/status/2122452505913327840>)  
-  UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major TECH FAILURES hitting the US in recent days — Microsoft, FAA among previous disruptions  
-  @RT\_com · 2026-11-17 06:11
+- [Perplexity 推出 Multiagent：Fable 5.2 可编排 Gemini 4 Carbon 等多个模型并…](<https://x.com/AravSrinivas/status/2122730413743567240>)  
+  Perplexity CEO Aravind Srinivas 宣布推出 Multiagent 功能，可在 Computer 和 Teammates（打开 Effort level 开关）中使用。由 Fable 5.2 编排 Gemini 4 Carbon、GPT 6.1 Sol、Opus 5.5…  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-18 00:35
 
-- [「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及](<https://x.com/itmedia_news/status/2122452181186122064>)  
-  @itmedia\_news · 2026-11-17 06:10
+- [BREAKING: Jensen Huang returns to 𝕏 in first public statement after being ousted from Nvidia Nvidia adds nearly $10…](<https://x.com/Kalshi/status/2122730309284429977>)  
+  BREAKING: Jensen Huang returns to 𝕏 in first public statement after being ousted from Nvidia Nvidia adds nearly $100,000,000,000.00  
+  @Kalshi · 2026-11-18 00:35
 
-- [Microsoft/Mojang have taken down "No Chat Reports" and "No Chat Restrictions" mods from Curseforge, and are attempt…](<https://x.com/JaegerBomBYT/status/2122451323027169748>)  
-  Do not give your government ID to microsoft. Never stop fighting for your data to be protected.  
-  @JaegerBomBYT · 2026-11-17 06:06
+- [Humble, apologetic, aware.](<https://x.com/skel/status/2122729375703396732>)  
+  Humans make mistakes. Humans are also forgiving and this man has earned a second chance to lead the company he spent 33 years building. Please bring back Jensen Huang 🙌🏻 The market has spoken.  
+  @skel · 2026-11-18 00:31
 
-- [「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブーム…](<https://x.com/tomoyaasakura/status/2122450483571011973>)  
-  「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブームの資金循環の中心にいた。その仕組みが崩れれば、AI需要は急減しかねない。世界経済を牽引してきたAI投資。その成長神話を終わらせるのは、技術の限界ではなく、資金の枯渇なのか。  
-  @tomoyaasakura · 2026-11-17 06:03
+- [Jensen Huang just tweeted\!](<https://x.com/Mr_Derivatives/status/2122729161265705388>)  
+  @Mr\_Derivatives · 2026-11-18 00:30
 
-- [🇺🇸 An estimated $1.4 TRILLION in stock market value has been WIPED OUT in a single day as Wall Street turns BLOOD R…](<https://x.com/MarioNawfal/status/2122450475840921917>)  
-  Nvidia, Google, Amazon, Tesla, AMD and other tech giants are getting hammered, with the Nasdaq plunging roughly 2.5% and the S&amp;amp;P 500 sinking nearly 2%. The  
-  @MarioNawfal · 2026-11-17 06:03
+- [黄仁勋发声明回应离职风波，称若董事会决定可回归 NVIDIA CEO](<https://x.com/rohanpaul_ai/status/2122729098879598698>)  
+  黄仁勋发布个人声明，承认在个人生活中犯了严重错误并给董事会造成了问题，承诺配合董事会的独立调查。他表示离职以来收到 NVIDIA 员工、投资者、合作伙伴和客户的回归呼吁，若董事会认为回归符合股东、员工、公司和美国的最佳利益，他将荣幸地回归担任 CEO。Rohan Paul 引用该声明并追问“Is…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 00:30
 
-- [JUST IN: Howard Lutnick's old fund just released a portfolio update.](<https://x.com/QuiverQuant/status/2122449969819111608>)  
-  It looks like they cut their holdings of Nvidia, $NVDA, by over 40% last quarter. Full portfolio up on Quiver.  
-  @QuiverQuant · 2026-11-17 06:01
+- [JUST IN: AMD CEO Lisa Su praises rival Jensen Huang hours after he says he'd be honored to return as Nvidia CEO.](<https://x.com/PolymarketMoney/status/2122728977139941483>)  
+  @PolymarketMoney · 2026-11-18 00:30
 
-- [Gemini Notebook 支持将资料生成仪表盘等交互式网站](<https://x.com/Google/status/2122449668613579018>)  
-  Google 宣布 Gemini Notebook 新增把资料转成交互式网站的能力，可生成仪表盘和可视化讲解页等。用户在 Gemini Notebook 聊天中输入 make me a site 并附上描述，选择 Open in a new tab 即可查看或分享生成的网站。  
-  X：Google \(@Google\) · 2026-11-17 06:00
+- [The American dream exists because America celebrates its individuals and gives them second chances as well as due p…](<https://x.com/NaderLikeLadder/status/2122728932852322674>)  
+  Jensen deserves that as well. It is in all of our best interest to have him back. I, alongside thousands of other employees at NVIDIA, urge the board to  
+  @NaderLikeLadder · 2026-11-18 00:29
 
-- [JUST IN: Microsoft Outlook, Teams and 365 hit by MASSIVE OUTAGES, raising CYBERATTACK FEARS. @grok, Microsoft uses…](<https://x.com/RabbiJeffx/status/2122449090998874535>)  
-  In which country was it founded? -Country only.  
-  @RabbiJeffx · 2026-11-17 05:57
+- [I stand with Jensen Huang](<https://x.com/greg16676935420/status/2122728676752261604>)  
+  @greg16676935420 · 2026-11-18 00:28
 
-- [I'm still trying to figure out who asked Rubio to take out Jensen Huang...](<https://x.com/MarioNawfal/status/2122447754433814884>)  
-  @MarioNawfal · 2026-11-17 05:52
+- [JENSEN HUANG BREAKS HIS SILENCE "I would be honored to answer these calls and return as CEO." $NVDA](<https://x.com/TrendSpider/status/2122728537849229765>)  
+  @TrendSpider · 2026-11-18 00:28
 
-- [🚨🔴 ALERTE ROUGE \! 🔴🚨 DES CENTAINES DE GRANDES BANQUES AMÉRICAINES SONT À GENOUX ? 💻Les pannes Microsoft. ✈️Les avio…](<https://x.com/VirginiePerez15/status/2122446666632458519>)  
-  Ce n’est plus une coïncidence. C’est un système qui lâ he Chase, Bank of America, Wells Fargo, US Bank,  
-  @VirginiePerez15 · 2026-11-17 05:48
+- [🚨🇺🇸🇨🇳 Jensen Huang had Trump's ear.](<https://x.com/MarioNawfal/status/2122727725647745097>)  
+  But Marco RUBIO wouldn't even give him a meeting. Not once. Not twice. THREE times. According to The Washington Post, Huang tried repeatedly to meet Rubio while lobbying to keep Nvidia's AI chip business with China alive. Rubio never made  
+  @MarioNawfal · 2026-11-18 00:25
 
-- [Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de…](<https://x.com/therealbuni/status/2122446003194253488>)  
-  Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de GPU y chips avanzados para entrenar IA Dicen que es porque el gobierno podría estar triangulando las partes para dárselas a china  
-  @therealbuni · 2026-11-17 05:45
+- [BREAKING: Jensen Huang has said: Over the past week, I’ve been overwhelmed by the love and support of friends, indu…](<https://x.com/unusual_whales/status/2122727211778343105>)  
+  Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States  
+  @unusual\_whales · 2026-11-18 00:23
 
-- [From Microsoft, to air travel disruptions, and now banking outages.](<https://x.com/SoulLight777/status/2122445605918396842>)  
-  Another sign that the reset is taking place right before you. You are being told that you are moving toward a fully digital infrastructure. The "Skynet" agenda is being accelerated. AI integration, digital  
-  @SoulLight777 · 2026-11-17 05:44
+- [Jensen Huang 发声明回应离职风波并表态愿在董事会决定下回归 NVIDIA CEO](<https://x.com/DrJimFan/status/2122727208754254245>)  
+  Jim Fan 转发并附 💚💚💚 FTW。Jensen Huang 发文感谢外界支持，承认个人生活中犯了严重错误、给董事会造成问题，并承诺配合董事会独立调查。他表示自离开以来收到员工、投资者、合作伙伴和客户的大量回归呼声，若董事会认为回归符合股东、员工、公司和美国的最佳利益，他将荣幸地回归 CEO…  
+  X：Jim Fan \(@DrJimFan\) · 2026-11-18 00:22
 
-- [JUST IN: Ashton Kutcher’s venture firm's $435M Anthropic investment now worth roughly $7,000,000,000.00.](<https://x.com/Polymarket/status/2122445042941899174>)  
-  @Polymarket · 2026-11-17 05:41
+- [🚨 WOW\!](<https://x.com/EricLDaugh/status/2122727136406769798>)  
+  Jensen Huang just publicly offered to make a COMEBACK as Nvidia CEO and OWNED UP to his mistakes "If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answe…  
+  @EricLDaugh · 2026-11-18 00:22
 
-- [OpenAI Chief Executive Sam Altman said he can't imagine the AI revolution without former Nvidia CEO Jensen Huang, d…](<https://x.com/Reuters/status/2122444599104815339>)  
-  OpenAI Chief Executive Sam Altman said he can't imagine the AI revolution without former Nvidia CEO Jensen Huang, describing him as a 'hero,' adding that 'heroes have flaws'  
-  @Reuters · 2026-11-17 05:40
+- [Google DeepMind 与芝加哥大学论文：多元智能体可扩展 AI 政策公众输入](<https://x.com/rohanpaul_ai/status/2122727027015057436>)  
+  Google DeepMind 与芝加哥大学的论文提出多元智能体，通过访谈个人后代表其观点与其他智能体商议 AI 安全预算，以扩展 AI 政策的公众输入。在数千次智能体商议和 746 人预注册研究中，智能体会把预算拉向所代表个人的观点，且被要求写更长或更少合作的讯息时影响力更大；参与者认为其比向单…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 00:22
 
-- [🇧🇷🇨🇳🇺🇸 Os EUA veem o Brasil como uma potência adversária capaz de se desenvolver e competir contra os interesses de…](<https://x.com/AnaliseGeopol/status/2122444423439306821>)  
-  Trump restringiu o acesso de chips avançados de IA e GPUs da Nvidia ao Brasil, justificando que empresas locais atuariam como fornecedoras  
-  @AnaliseGeopol · 2026-11-17 05:39
+- [Lorsqu’une ministre déléguée auprès de la ministre des Armées s’exprime au micro avec le ton, le rythme et le vocab…](<https://x.com/Thinker_View/status/2122726106146963962>)  
+  Ce décalage n’est pas  
+  @Thinker\_View · 2026-11-18 00:18
 
-- [Antonio Gracias has invested with Elon since PayPal.](<https://x.com/stark0xbt/status/2122444425087295548>)  
-  He sat on Tesla's board through the Model 3 crisis. He says one night explains Elon better than anything. It's 2018, 3 AM, in the body shop. By Elon's own account, Tesla was about a month from bankruptcy. Elon sits down with  
-  @stark0xbt · 2026-11-17 05:39
+- [ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเ…](<https://x.com/longtunman/status/2122725849753616878>)  
+  ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเห็นชอบ “นับตั้งแต่ผมออกจากตำแหน่ง ผมได้รับเสียงเรียกร้องอย่างท่วมท้นจากพนักงาน นักลงทุน พันธมิตรทางธุรกิจ และลูกค้าของ NVIDIA ให้กลับมาเป็น CEO อ…  
+  @longtunman · 2026-11-18 00:17
 
-- [As Ugandans we are in great danger.](<https://x.com/kirya_ug/status/2122444238981861674>)  
-  This is the biggest double standard in Uganda's tax system. YOU: If you import a container, you MUST use a licensed clearing agent. You MUST wait for URA to verify. You MUST wait months. If your invoice is $1 off, URA uplifts your value,  
-  @kirya\_ug · 2026-11-17 05:38
+- [\*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRI…](<https://x.com/RealNickMugalli/status/2122724714984481005>)  
+  \*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRIOT \*BAKER: JENSEN AND ELON ARE TWO OF TWO \*BAKER: WE’RE AHEAD OF CHINA IN SEMICONDUCTOR BECAUSE OF JENSEN \*BAKER: THE BOARD NEEDS TO TAKE ITS TIM…  
+  @RealNickMugalli · 2026-11-18 00:13
 
-- [First Microsoft had an outage, then an FAA ground stop, and now banking disruptions all within days?](<https://x.com/patrickbetdavid/status/2122442653711135173>)  
-  Chase says it wasn’t a cyberattack. Microsoft says the same. The FAA says there’s no indication of one. No proven link. Either the enemy is shaking things up, the government is  
-  @patrickbetdavid · 2026-11-17 05:32
+- [BREAKING: Jensen Huang says he is willing to return as Nvidia CEO.](<https://x.com/GlobeEyeNews/status/2122724477897461917>)  
+  @GlobeEyeNews · 2026-11-18 00:12
 
-- [Nan c'était pas une cyberattaque de Bill.](<https://x.com/mmtchi/status/2122442309232926817>)  
-  C'est beaucoup moins sexy. Donc la coupure massive de Microsoft qui a cassé Microsoft 365 \(les versions cloud de Outlook, Office, Teams, Sharepoint, etc\) partout dans le monde le 12-13 novembre a une explication: ce serait une  
-  @mmtchi · 2026-11-17 05:30
+- [Jensen Huang returning back to Nvidia as CEO](<https://x.com/Nostre_damus/status/2122723835380375888>)  
+  @Nostre\_damus · 2026-11-18 00:09
 
-- [Ministerio de Ciencia y OpenAI se unen para capacitar en inteligencia artificial y modernizar los servicios del Est…](<https://x.com/latercera/status/2122441700123856979>)  
-  Ministerio de Ciencia y OpenAI se unen para capacitar en inteligencia artificial y modernizar los servicios del Estado  
-  @latercera · 2026-11-17 05:28
+- [BREAKING: Jensen Huang says he would be willing to return as Nvidia CEO if the board wants him back](<https://x.com/FoxNews/status/2122723147724226737>)  
+  @FoxNews · 2026-11-18 00:06
 
-- [11/12 - cyberattack on Microsoft 11/13 - cyberattack on US transportation 11/16 - cyberattack on major US banks we…](<https://x.com/Nostre_damus/status/2122439412458099175>)  
-  11/12 - cyberattack on Microsoft 11/13 - cyberattack on US transportation 11/16 - cyberattack on major US banks we all know what their next target is  
-  @Nostre\_damus · 2026-11-17 05:19
+- [BREAKING: Jensen Huang releases his first public statement since resigning as CEO of Nvidia, $NVDA, and says he is…](<https://x.com/KobeissiLetter/status/2122722496667398408>)  
+  Jensen Huang specifically says he will return as CEO if the board asks him to. Full statement: “Since my departure, I’ve seen an  
+  @KobeissiLetter · 2026-11-18 00:04
 
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 33 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 34 页

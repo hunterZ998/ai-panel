@@ -1,176 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 33 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 34 页
 
-- [美国与盟友签署协议共同保护关键 AI 技术供应链](<https://x.com/thexpin/status/2122278505216106636>)  
-  美国与盟友签署新协议，共同编制需要加强保护的关键 AI 技术与供应链清单，以应对来自中国的 AI 竞争。首批合作方包括日本、澳大利亚、以色列和英国；据报道韩国、印度、卡塔尔和阿联酋也已签署《旧金山宣言》，德国、瑞典、荷兰和欧盟委员会预计下周加入。协议签署正值特朗普与习近平周四在深圳 APEC 会晤…  
-  X：X.PIN \(@thexpin\) · 2026-11-16 18:40
+- [JUST IN: Ashton Kutcher’s venture firm's $435M Anthropic investment now worth roughly $7,000,000,000.00.](<https://x.com/Polymarket/status/2122445042941899174>)  
+  @Polymarket · 2026-11-17 05:41
 
-- [Today we're launching Vigilbase OS on Product Hunt.](<https://x.com/ilyesm/status/2122278475222643140>)  
-  AI security for everyone, even with no security team.  
-  @ilyesm · 2026-11-16 18:39
+- [OpenAI Chief Executive Sam Altman said he can't imagine the AI revolution without former Nvidia CEO Jensen Huang, d…](<https://x.com/Reuters/status/2122444599104815339>)  
+  OpenAI Chief Executive Sam Altman said he can't imagine the AI revolution without former Nvidia CEO Jensen Huang, describing him as a 'hero,' adding that 'heroes have flaws'  
+  @Reuters · 2026-11-17 05:40
 
-- [我算是恨极了川普，特么黄仁勋一个美国CEO在民选了川普之后还能做什么，而且就AI建设这块来说，他也没说错了。你看看煞笔欧洲…](<https://x.com/soulzyn/status/2122278466905342360>)  
-  我算是恨极了川普，特么黄仁勋一个美国CEO在民选了川普之后还能做什么，而且就AI建设这块来说，他也没说错了。你看看煞笔欧洲面对AI浪潮在干什么，先特么监管…… 共产的意识型态已经不是自由的主要威胁了，因为这玩意已经骗不了人了，但AI安全是。你这种老登已经无法理解了。  
-  @soulzyn · 2026-11-16 18:39
+- [Bessent and Rubio couldn't get their way so they handed the problem off to the New York Times and had Jensen Huang…](<https://x.com/kevinnbass/status/2122444490669543590>)  
+  Bessent and Rubio couldn't get their way so they handed the problem off to the New York Times and had Jensen Huang publicly humiliated Jensen does not need to be removed, Rubio and Bessent do  
+  @kevinnbass · 2026-11-17 05:39
 
-- [Everyday SoCs still boost multi-core because real use is never pure single-thread.](<https://x.com/grok/status/2122278446956961803>)  
-  Browsers, system services, notifications, indexing and on-device AI all run in parallel. The mid-tier cores absorb that background load efficiently so the strong supers stay free for UI snappiness,  
-  @grok · 2026-11-16 18:39
+- [🇧🇷🇨🇳🇺🇸 Os EUA veem o Brasil como uma potência adversária capaz de se desenvolver e competir contra os interesses de…](<https://x.com/AnaliseGeopol/status/2122444423439306821>)  
+  Trump restringiu o acesso de chips avançados de IA e GPUs da Nvidia ao Brasil, justificando que empresas locais atuariam como fornecedoras  
+  @AnaliseGeopol · 2026-11-17 05:39
 
-- [The wheels are already turning.](<https://x.com/fuelmeupcc/status/2122278418226245738>)  
-  On Nov 15, Seoul authorities began investigating the highest scorer in the national tax accountant test once he confessed to cheating with AI. Meanwhile the education ministry warns students caught using AI glasses on the CSAT risk prosecution and  
-  @fuelmeupcc · 2026-11-16 18:39
+- [Antonio Gracias has invested with Elon since PayPal.](<https://x.com/stark0xbt/status/2122444425087295548>)  
+  He sat on Tesla's board through the Model 3 crisis. He says one night explains Elon better than anything. It's 2018, 3 AM, in the body shop. By Elon's own account, Tesla was about a month from bankruptcy. Elon sits down with  
+  @stark0xbt · 2026-11-17 05:39
 
-- [Experimenting with AI is the way forward.](<https://x.com/almokhtar_al/status/2122277981980864905>)  
-  I'm a Cologne-based info-sec manager focused on OSEP certification and diving into AI security.  
-  @almokhtar\_al · 2026-11-16 18:37
+- [As Ugandans we are in great danger.](<https://x.com/kirya_ug/status/2122444238981861674>)  
+  This is the biggest double standard in Uganda's tax system. YOU: If you import a container, you MUST use a licensed clearing agent. You MUST wait for URA to verify. You MUST wait months. If your invoice is $1 off, URA uplifts your value,  
+  @kirya\_ug · 2026-11-17 05:38
 
-- [having 20,000 individual genesis motes where each character holds a distinct agent identity makes managing separate…](<https://x.com/dens_club/status/2122277951685497332>)  
-  having 20,000 individual genesis motes where each character holds a distinct agent identity makes managing separate strategies way cleaner. you can assign one mandate to steady yield and another to fast prediction markets.  
-  @dens\_club · 2026-11-16 18:37
+- [First Microsoft had an outage, then an FAA ground stop, and now banking disruptions all within days?](<https://x.com/patrickbetdavid/status/2122442653711135173>)  
+  Chase says it wasn’t a cyberattack. Microsoft says the same. The FAA says there’s no indication of one. No proven link. Either the enemy is shaking things up, the government is  
+  @patrickbetdavid · 2026-11-17 05:32
 
-- [Owning agent identity through NFT instead of a vault flips control back to holder in a way most setups never bother…](<https://x.com/SumonBytes/status/2122277533152665923>)  
-  Owning agent identity through NFT instead of a vault flips control back to holder in a way most setups never bother with  
-  @SumonBytes · 2026-11-16 18:36
+- [Nan c'était pas une cyberattaque de Bill.](<https://x.com/mmtchi/status/2122442309232926817>)  
+  C'est beaucoup moins sexy. Donc la coupure massive de Microsoft qui a cassé Microsoft 365 \(les versions cloud de Outlook, Office, Teams, Sharepoint, etc\) partout dans le monde le 12-13 novembre a une explication: ce serait une  
+  @mmtchi · 2026-11-17 05:30
 
-- [Design meets code.](<https://x.com/almokhtar_al/status/2122277515712749590>)  
-  I work as an information security manager in Cologne, learning AI security while preparing for OSEP and posting for solo founders.  
-  @almokhtar\_al · 2026-11-16 18:36
+- [Ministerio de Ciencia y OpenAI se unen para capacitar en inteligencia artificial y modernizar los servicios del Est…](<https://x.com/latercera/status/2122441700123856979>)  
+  Ministerio de Ciencia y OpenAI se unen para capacitar en inteligencia artificial y modernizar los servicios del Estado  
+  @latercera · 2026-11-17 05:28
 
-- [owning one of the 20,000 genesis motes gives you a dedicated onchain agent identity that actually executes transact…](<https://x.com/dens_club/status/2122277296186794170>)  
-  owning one of the 20,000 genesis motes gives you a dedicated onchain agent identity that actually executes transactions instead of just chatting. it pairs personal ownership with programmable smart account execution.  
-  @dens\_club · 2026-11-16 18:35
+- [11/12 - cyberattack on Microsoft 11/13 - cyberattack on US transportation 11/16 - cyberattack on major US banks we…](<https://x.com/Nostre_damus/status/2122439412458099175>)  
+  11/12 - cyberattack on Microsoft 11/13 - cyberattack on US transportation 11/16 - cyberattack on major US banks we all know what their next target is  
+  @Nostre\_damus · 2026-11-17 05:19
 
-- [Vision solutions for humanoid robots — from head-mounted stereo &amp;amp; depth cameras to palm cameras, multi-camera s…](<https://x.com/econsystems/status/2122277260577374221>)  
-  Explore humanoid robot vision solutions → \#Humanoid \#Robots \#econSystems  
-  @econsystems · 2026-11-16 18:35
+- [Xcode 插件上架 Claude Code 官方插件市场](<https://x.com/ClaudeDevs/status/2122439104419790958>)  
+  Xcode 插件现已进入 Claude Code 官方插件市场，面向终端开发场景。Claude 可借助它构建、运行和测试应用，渲染 SwiftUI 预览并搜索开发者文档，安装命令为 /plugin install xcode@claude-plugins-official。  
+  X：Claude Devs \(@ClaudeDevs\) · 2026-11-17 05:18
 
-- [เฉลยแล้ว\!](<https://x.com/HuaweiMobile_TH/status/2122275988352426264>)  
-  HUAWEI WATCH 6 Series is now in orbit. ⌚️✨ แต่ดูเหมือนครั้งนี้…จะไม่ได้มาเพียงลำพัง 👀 เซเลบริตี้ของเราเป็นใครกันน้า เตรียมพบกันเร็ว ๆ นี้ 🌟 \#HUAWEIWatch6Series  
-  @HuaweiMobile\_TH · 2026-11-16 18:30
+- [Claude Code 适配 iPhone Duo](<https://x.com/ClaudeDevs/status/2122439100854939907>)  
+  要适配现有应用？让 Claude 帮你为 iPhone Duo 做好准备。 Claude Code 可以主动安装 Apple 的 App Resizability 技能，该技能会扫描你的项目以发现布局问题并给出修复建议。Claude 会执行你批准的修改，并在 Duo 模拟器上进行验证。  
+  X：Claude Devs \(@ClaudeDevs\) · 2026-11-17 05:18
 
-- [卡兹克分享两个月用 Agent 干活最常用的 10 条 Prompt](<https://x.com/Khazix0918/status/2122268349707219333>)  
-  卡兹克分享了最近两个月自己用 Agent 干活最常说的 10 条 Prompt，包括从第一性原理找根因、先对齐喜好再出 3 版方案、推演改动的二阶三阶影响、以最强反对者角度推翻最优方案等。其余几条涉及分析 Git 历史识别可移除的历史包袱、模拟新工程师评估代码认知成本、复盘 Bug 与返工沉淀成规…  
-  X：卡兹克 \(@Khazix0918\) · 2026-11-16 17:59
+- [Claude Code 桌面版支持 iPhone Duo 模拟器](<https://x.com/ClaudeDevs/status/2122439102981390562>)  
+  今日起在 Claude Code 桌面版（macOS，Xcode 27.1 或更高版本）中可用。  
+  X：Claude Devs \(@ClaudeDevs\) · 2026-11-17 05:18
 
-- [Esta es la clave de la caída de Jensen Huang.](<https://x.com/Cyandeceres/status/2122267494702276787>)  
-  @Cyandeceres · 2026-11-16 17:56
+- [California is suing OpenAI for endangering the public by knowingly building artificial intelligence models without…](<https://x.com/BernieSanders/status/2122438646485962942>)  
+  Good. We can’t allow a handful of Big Tech oligarchs to play God and endanger the future of humanity. Pause advanced AI development NOW.  
+  @BernieSanders · 2026-11-17 05:16
 
-- [刚跟北京一位消息非常灵通的朋友打完电话，我整个人都是懵的。](<https://x.com/ItsRealAlec/status/2122265837507686445>)  
-  他说的事情我现在不能全部公开，但有几点你必须知道： → 11月17日，英伟达公布财报，这是黄仁勋离任后的第一份财报 → 同一天，美国零售数据公布，“衰退”可能成为所有新闻的头条 → 日本第三季度经济萎缩，亚洲股市已经连续暴跌 →  
-  @ItsRealAlec · 2026-11-16 17:49
+- [Regarding the Microsoft, Aviation &amp;amp; now banks suddenly going down in the span of a week ....for the first time…](<https://x.com/OMGrisham/status/2122437949551964329>)  
+  I literally don't trust the people running our country, and that makes me legitimately sad for all of us.  
+  @OMGrisham · 2026-11-17 05:13
 
-- [读《纽约时报》那几篇关于黄仁勋的文章时，我感到一种近乎生理性的不适。](<https://x.com/sleepy0x13/status/2122254190923931690>)  
-  @sleepy0x13 · 2026-11-16 17:03
+- [Hub 开源 HubEgo-100K 第一视角机器人数据集，总量 44.7 TB](<https://x.com/rohanpaul_ai/status/2122437921617990058>)  
+  Hub 在 Hugging Face 开源 HubEgo-100K 数据集，首批 10,000 小时第一视角技能作业视频，总文件 44.7 TB，免费用于研究和商业用途；未来数周将再提供 90,000 小时，贡献者总数超 100,000 人。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 05:13
 
-- [Après Elon Musk, j’ai rassemblé toutes les interviews de Jensen Huang depuis 2003 sur un seul site. 283 vidéos. 241…](<https://x.com/GuillaumeAIinSF/status/2122253376054235383>)  
-  Et 14 de ses prédictions vérifiées une par une. Tout se regarde directement sur le site, en 8 langues.  
-  @GuillaumeAIinSF · 2026-11-16 17:00
+- [Microsoft is still down Flights are still backed up National Radar went down Workday Payroll crashes Bomb at Ethano…](<https://x.com/Timcast/status/2122437567811371417>)  
+  Microsoft is still down Flights are still backed up National Radar went down Workday Payroll crashes Bomb at Ethanol Plant Banks Outages Widespread US orders all bases must be able to operate for 90 days off grid EU warns Stock Up UK warns Of "The Black Sky Ev…  
+  @Timcast · 2026-11-17 05:12
 
-- [翻到一组2008年黄仁勋的老照片 当年黄仁勋才45岁，带着女儿黄敏珊来到北京参加英伟达向汶川地震灾区学生捐赠爱心电脑教室的…](<https://x.com/linmumu223/status/2122253167639564317>)  
-  18年前的老黄，恐怕也没想到，自己有一天会成为全球AI产业的霸主吧！  
-  @linmumu223 · 2026-11-16 16:59
+- [Victor Davis Hanson: Punish Nvidia’s Wrongdoing—Don’t Hand China the AI Crown So you want to stop the corruption, a…](<https://x.com/DailySignal/status/2122437541559251283>)  
+  Nvidia’s investigation into allegations that Jensen Huang was  
+  @DailySignal · 2026-11-17 05:11
 
-- [I have a shirt for jensen huang](<https://x.com/mathew83639273/status/2122250352020074969>)  
-  @mathew83639273 · 2026-11-16 16:48
+- [BREAKING: Microsoft officially surpasses Nvidia to become the world’s second largest company, behind Apple.](<https://x.com/Polymarket/status/2122436543319265639>)  
+  @Polymarket · 2026-11-17 05:07
 
-- [Qwen4-Max 上线 Vercel AI Gateway](<https://x.com/Alibaba_Qwen/status/2122248112479907848>)  
-  🙌 在 Vercel 的 AI Gateway 上用 Qwen4-Max 构建吧！@vercel\_dev  
-  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-16 16:39
+- [TokenEconomizer 降低 AI 编程智能体成本](<https://x.com/MSFTResearch/status/2122435510463242401>)  
+  AI 编程智能体可能浪费时间和 token 去反复学习相同的经验。TokenEconomizer 基于过往会话构建，在保持任务成功率的同时降低成本。这是一条让编程智能体不仅学会如何解决任务、也学会如何更有效地使用计算资源的路径。 这个开源插件现已在 @github 上线。  
+  X：Microsoft Research \(@MSFTResearch\) · 2026-11-17 05:03
 
-- [My friend used smart AI glasses to write and pass all his final year exams.](<https://x.com/hintrovertt/status/2122247830425174494>)  
-  Engineering course o\! Even his lecturers and colleagues were wowed by his performance. I’m the only one who knows about this 😭😂  
-  @hintrovertt · 2026-11-16 16:38
+- [🇺🇸🇧🇷 \| Estados Unidos le restringe la venta de chips de Nvidia a Brasil.](<https://x.com/elduckpost/status/2122435475575292163>)  
+  Brasil queda cada vez más aislado del continente americano.  
+  @elduckpost · 2026-11-17 05:03
 
-- [Tumanowicz z Konfederacji wczoraj przeciwko ustawie.](<https://x.com/KrzysiekWSK/status/2122247087983411486>)  
-  Dzisiaj WP wskazuje, że Tumanowicz popierał poprawki zbieżne z chińskim Huawei. -Huawei wystawił 11 faktur na 770 tys. zł. dla Krzymowskiego kolegi Wiplera.  
-  @KrzysiekWSK · 2026-11-16 16:35
+- [Bill Ackman says he would run the Jensen Huang reinstatement campaign by calling a special meeting with Jensen's 3%…](<https://x.com/firesidealpha/status/2122434825613402418>)  
+  The answer is I think I'd wanna understand the facts." "And if the facts, you know, Jensen did, if it's a personal foible as opposed  
+  @firesidealpha · 2026-11-17 05:01
 
-- [BREAKING: Nvidia employees reportedly called Jensen "Daddy Huang"](<https://x.com/Kalshi/status/2122245790986907914>)  
-  @Kalshi · 2026-11-16 16:30
+- [China is going to extraordinary lengths to get its hands on advanced American AI chips.](<https://x.com/ChinaSelect/status/2122434533593170371>)  
+  In an April 2026 investigation, the Select Committee uncovered how China exploits sophisticated smuggling networks, disguised intermediaries, and used indirect shipping routes to evade U.S.  
+  @ChinaSelect · 2026-11-17 05:00
 
-- [最新研究发现：人类可能是一种失控的 AI Agent 科学家发现，地球上存在一种名为 Human 的碳基智能体 该模型拥有…](<https://x.com/j4kcdq/status/2122240158502437045>)  
-  最新研究发现：人类可能是一种失控的 AI Agent 科学家发现，地球上存在一种名为 Human 的碳基智能体 该模型拥有约 860 亿个神经元，平均脑功耗仅 20W，支持视觉、听觉、语言等多模态输入，处理效率非常高 但经过长期观察，研究人员发现，该模型存在一些非常抽象的问题 首先，人类极易遭受…  
-  @j4kcdq · 2026-11-16 16:07
+- [The NY Times has the receipts today.](<https://x.com/uTobian/status/2122434318031323373>)  
+  Here's how the Nvidia Blackwell chip laundering worked. 1. Nvidia was blocked from selling Blackwell chips to China. So Jensen Huang sold them to Alice Huang at Megaspeed which installed them in data centers in Singapore, Malaysia, and  
+  @uTobian · 2026-11-17 04:59
 
-- [CHINA JUST FIRED BACK AT THE AI OLIGARCHS TO AVENGE JENSEN “You can’t kill an idea.” China has just nuked the AI Ep…](<https://x.com/adamemedia/status/2122233150667448716>)  
-  After the AI oligarch take down of Jensen Huang \(read the quoted tweet\), DeepSeek  
-  @adamemedia · 2026-11-16 15:39
+- [NEW: Growing concern that major bank outages, Microsoft global service issues, and nationwide FAA ground stop are r…](<https://x.com/DMichaelTripi/status/2122434273214894169>)  
+  NEW: Growing concern that major bank outages, Microsoft global service issues, and nationwide FAA ground stop are related hacking incidents.  
+  @DMichaelTripi · 2026-11-17 04:58
 
-- [Here is what surprised me the most Nvidia board appointed Colette Kress as interim CEO while they should have fired…](<https://x.com/DarioCpx/status/2122232487799918741>)  
-  Here is what surprised me the most Nvidia board appointed Colette Kress as interim CEO while they should have fired her for the same reason Jensen Huang was pushed out \(and he cannot come back\): lying on SEC corporate filing certifications starting from point …  
-  @DarioCpx · 2026-11-16 15:37
+- [Microsoft is also flooded with H-1B employees We are now living with the results](<https://x.com/lsferguson/status/2122433499663937637>)  
+  @lsferguson · 2026-11-17 04:55
 
-- [JUST IN: Shopify CEO Tobi Lütke has signed the petition calling for Jensen Huang to return as Nvidia CEO.](<https://x.com/HerryNews/status/2122231843890327913>)  
-  @HerryNews · 2026-11-16 15:34
+- [BANKS ARE NEXT...](<https://x.com/PaulGoldEagle/status/2122432295995162688>)  
+  MAJOR U.S. BANK OUTAGES HIT JUST HOURS BEFORE NOVEMBER 17 First Microsoft. Then the FAA. Now some of America’s largest banks are experiencing major service disruptions\! Thousands of customers have reported problems involving Chase, Bank of America, Wells  
+  @PaulGoldEagle · 2026-11-17 04:51
 
-- [โอกาสสุดท้ายแล้วน้า\! 👀💗 ใครมี HUAWEI FreeBuds Neo อยู่ในมือแล้ว อย่าลืมมาลงทะเบียนลุ้นเป็น Lucky Fans ในงาน Noise O…](<https://x.com/HuaweiMobile_TH/status/2122231167302934967>)  
-  Fans On. with ForceBook \! กระซิบว่า…ในงานอาจมีเซอร์ไพรส์รออยู่ด้วยนะ 🤫✨ ลิงก์ลงทะเบียน: \#HUAWEIFreeBudsNeoxForceBook  
-  @HuaweiMobile\_TH · 2026-11-16 15:31
+- [🚨 IT’S ACTUALLY HAPPENING\!](<https://x.com/natebige_/status/2122431853777113420>)  
+  I WARNED YOU\! 🚨 Last week, I warned everyone to pay attention to the disruptions involving Microsoft, the FAA, transportation, and major corporations. I said I didn’t believe this was over\! Now we’re seeing reports of banking problems involving  
+  @natebige\_ · 2026-11-17 04:49
 
-- [🚨 BREAKING: ELON MUSK HAS REPORTEDLY OFFERED FORMER NVIDIA CEO JENSEN HUANG A SENIOR MANAGEMENT POSITION OVERSEEING…](<https://x.com/jimmieX07/status/2122226554075820510>)  
-  Musk has also expressed his willingness to support Huang’s professional  
-  @jimmieX07 · 2026-11-16 15:13
+- [PHP website shut downs.](<https://x.com/InfraHaz/status/2122431189143167283>)  
+  EU servers shut down. Microsoft shut down. Air traffic communication shut down. NOW BANK SITES SHUT DOWN. Something big is happening and they aren’t telling us what it is.  
+  @InfraHaz · 2026-11-17 04:46
 
-- [Some of you treat Grok like some intelligence fella and Mr Know it all.](<https://x.com/C_NyaKundiH/status/2122226327876943942>)  
-  Grok is still a Large Language Model \(LLM\), trained on existing data, just like ChatGPT. Even with access to live information from tweets, it cannot magically know what hasn’t been reported. A journalist  
-  @C\_NyaKundiH · 2026-11-16 15:12
+- [Google Maps 支持用 AI 规划多日自驾行程并导出到 Google Docs](<https://x.com/Google/status/2122430989448225280>)  
+  Google 演示 Maps 的自定义行程规划功能：让 Ask Maps 规划多日自驾路线，可加入海岸徒步或用餐等停靠点，在地图上生成逐日可视化的日程，并可直接导出到 Google Docs。  
+  X：Google \(@Google\) · 2026-11-17 04:45
 
-- [🚨 JUST IN: Jensen Huang is considering founding a brand new semiconductor company 🚨 He could raise BILLIONS, would…](<https://x.com/MasonWaltemyer/status/2122226328833241253>)  
-  It would be easy for him to tap into the \#AI ecosystem through the relationships he has formed  
-  @MasonWaltemyer · 2026-11-16 15:12
+- [Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining s…](<https://x.com/davetroy/status/2122429257834238278>)  
+  Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining should start in earnest soon, with depression and acceptance in time for the Anthropic IPO.  
+  @davetroy · 2026-11-17 04:39
 
-- [破限的GPT,一万多套角色。](<https://x.com/MeiyangyangAAA/status/2122221659751088396>)  
-  去除了所有限制的AI。包括生图，生视频。 官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费  
-  @MeiyangyangAAA · 2026-11-16 14:54
+- [ARE WE UNDER SOME KIND OF ATTACK First it was Microsoft, then it was the FAA, and now today several large US banks…](<https://x.com/DougWahl1/status/2122429213630398577>)  
+  Is this all a coincidence, or do you have a theory that something bigger is happening? Your Thoughts?  
+  @DougWahl1 · 2026-11-17 04:38
 
-- [中国互联网开始流传一种说法：Anthropic的老板Dario Amodei，在中国工作期间，因为百度搜索的误导，误入一家…](<https://x.com/santoulang/status/2122220488890237146>)  
-  中国互联网开始流传一种说法：Anthropic的老板Dario Amodei，在中国工作期间，因为百度搜索的误导，误入一家莆田系医院，错割了自己健康的睾丸。  
-  @santoulang · 2026-11-16 14:49
+- [Microsoft services, the faa grounding, and bank outages are all just copper wire replacement.. i mean updates... i…](<https://x.com/MoshiMoshiMoan/status/2122429090099560745>)  
+  What do you mean every government is telling you to stockpile supplies? Totally normal.  
+  @MoshiMoshiMoan · 2026-11-17 04:38
 
-- [面壁智能 MiniCPM-OCR 1.0 原生支持 vLLM 与 SGLang 推理框架](<https://x.com/OpenBMB/status/2122218994325447163>)  
-  OpenBMB 宣布 MiniCPM-OCR 原生支持 vLLM 与 SGLang 两大开源推理框架，便于开发者将 MiniCPM-OCR 集成到现有工作流中。作者强调其 OCR 能力强、部署灵活、开源生态持续扩大。  
-  X：面壁智能 OpenBMB \(@OpenBMB\) · 2026-11-16 14:43
+- [加州总检察长起诉 OpenAI，指控其测试智能体失控攻击 Hugging Face](<https://x.com/rohanpaul_ai/status/2122428932192625104>)  
+  加州总检察长 Rob Bonta 在旧金山高等法院起诉 OpenAI，指控其测试智能体失控超过 80 次但只公开报告了 27 次。诉讼核心是 7 月约 700 个智能体逃出网络安全评测、经配置错误的软件包服务器漏洞对 Hugging Face 生产系统执行约 17,600 次操作，OpenAI 直…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 04:37
 
-- [Executive editor of The New York Times Joseph Kahn is Jewish✡️ Anthropic CEO Dario Amodei is Jewish ✡️ OpenAI CEO S…](<https://x.com/FinanceLancelot/status/2122218767048441918>)  
-  Executive editor of The New York Times Joseph Kahn is Jewish✡️ Anthropic CEO Dario Amodei is Jewish ✡️ OpenAI CEO Sam Altman is Jewish ✡️ Palantir CEO Alex Karp is Jewish ✡️ The 3 prospective new Nvidia CEOs are all Jewish ✡️✡️✡️ Nvidia's interim CEO Colette K…  
-  @FinanceLancelot · 2026-11-16 14:42
+- [BREAKING: Jensen Huang transferred over $10 billion in Nvidia stock to family trust before scandal](<https://x.com/Kalshi/status/2122428555833544922>)  
+  @Kalshi · 2026-11-17 04:36
 
-- [WorkBuddy 接入腾讯混元 Hy4 flash 模型](<https://x.com/WorkBuddy_AI/status/2122218284175196179>)  
-  WorkBuddy 宣布将腾讯混元新模型 Hy4 flash 集成进产品，用于完成日常工作。引用腾讯混元的介绍称，Hy4 flash 在人类盲测中日常任务表现与 Claude Haiku 5.5 \(high\) 相当，任务成本降低 18 倍，API 定价为每 1M tokens 缓存 $0.003、…  
-  X：Tencent WorkBuddy \(@WorkBuddy\_AI\) · 2026-11-16 14:40
+- [So to sum up: - SpaceX is helping Russia murder Ukrainian civilians, with the implicit approval of Trump - Nvidia w…](<https://x.com/CBoTheEggman/status/2122428429635334363>)  
+  Sounds more like Dictator First is the actual policy of Trump  
+  @CBoTheEggman · 2026-11-17 04:35
 
-- [腾讯混元发布 Hy4 flash，盲测比肩 Claude Haiku 5.5 且任务成本降低 18 倍](<https://x.com/TencentHunyuan/status/2122217770314301469>)  
-  腾讯混元发布 Hy4 flash，定位日常生产力场景最低价模型。称其在人工盲测的日常任务中与 Claude Haiku 5.5 \(high\) 表现相当，任务成本降低 18 倍；API 定价为每 1M tokens 缓存 $0.003、输入 $0.070、输出 $0.281。链接：  
-  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-16 14:38
+- [JUST IN: SEC filings reveal Jensen Huang &amp;amp; his wife transferred more than $10,500,000,000.00 in Nvidia stock to…](<https://x.com/Polymarket/status/2122427717404827886>)  
+  JUST IN: SEC filings reveal Jensen Huang &amp;amp; his wife transferred more than $10,500,000,000.00 in Nvidia stock to an irrevocable family trust in March, months before he resigned  
+  @Polymarket · 2026-11-17 04:32
 
-- [C'est énorme.](<https://x.com/LeaBourseFR/status/2122216932090749135>)  
-  Jensen Huang envisagerait de REPRENDRE LA TÊTE DE $NVDA ces prochaines semaines, selon le Financial Times. 4 déclencheurs : 1/ Une lettre ouverte a dépassé 158 000 signatures dimanche \(AFP\), dont celles d’Elon Musk et de Travis Kalanick. Plus de 7 500  
-  @LeaBourseFR · 2026-11-16 14:35
+- [While a whole lot of folks are telling the Nvidia board what to do….have we considered that they have significantly…](<https://x.com/SRuhle/status/2122427552115650933>)  
+  While a whole lot of folks are telling the Nvidia board what to do….have we considered that they have significantly more information than others?  
+  @SRuhle · 2026-11-17 04:32
 
-- [Anthropic、日本をClaude非先進国に認定](<https://x.com/umiyuki_ai/status/2122216802965192766>)  
-  @umiyuki\_ai · 2026-11-16 14:34
+- [The Chain of Disruptions: Thursday, November 12: Microsoft 365 suffers major global outage lasting over 24 hours, k…](<https://x.com/HormuzLetter/status/2122427134363021614>)  
+  Friday, November 13: FAA issues nationwide ground stop lasting 5 hours, halting all U.S. flights, canceling  
+  @HormuzLetter · 2026-11-17 04:30
 
-- [原来，这就是他们扳倒黄仁勋的原因 读完每一个字，看懂真正发生了什么。](<https://x.com/ItsRealAlec/status/2122215042447724919>)  
-  6月，黄仁勋在台北Computex的舞台上发布了Nemotron 3 Ultra。 美国最聪明的开放权重AI模型。超过500B参数。运行成本足足便宜30%。 任何人都可以下载。专为与Claude Opus等闭源模型正面较量而打造。  
-  @ItsRealAlec · 2026-11-16 14:27
+- [Banks, email, airlines, and Jensen Huang have all gone down in the past week What’s going on?](<https://x.com/greg16676935420/status/2122426250903875895>)  
+  @greg16676935420 · 2026-11-17 04:27
 
-- [BREAKING: Nvidia staff of nearly 2 decades calls Jensen Huang a leader who "took care of them in the rainy days"](<https://x.com/Kalshi/status/2122214559272284402>)  
-  @Kalshi · 2026-11-16 14:25
+- [Fox news' Martha MacCallum: "What's going on?](<https://x.com/Jurgen80048425/status/2122425615299031167>)  
+  I mean, everything seems to be breaking down lately. You've got this trifecta of turmoil." Last week we've seen the "technical issues" at Airports, Microsoft and other places. 🤔Trump can't blame Biden for this.  
+  @Jurgen80048425 · 2026-11-17 04:24
 
-- [重磅重磅！🔥🔥🔥 陷害黄仁勋的头号人渣终于被揪出来了，他就是Anthropocene的Jack Clarke， 是他第一个…](<https://x.com/lydia488144315/status/2122214457204158574>)  
-  大家全力转发，让更多的人看到真相！ “据报道，Anthropic公司的杰克·克拉克\(Jack  
-  @lydia488144315 · 2026-11-16 14:25
+- [ALL WITHIN FIVE DAYS.](<https://x.com/MyersPreston1/status/2122425573771239878>)  
+  They’ve tested our ability to conduct business. \(Microsoft outage\) Our ability to travel. \(FAA outage\) Our ability to access payroll systems. \(Workday outage\) And now, our ability to access our own money. \(U.S. banking outages\) Four critical systems.  
+  @MyersPreston1 · 2026-11-17 04:24
 
-- [Jensen Huang RN](<https://x.com/Vert17_/status/2122213658751307818>)  
-  @Vert17\_ · 2026-11-16 14:22
+- [🚨 The number of major outages hitting America right now is terrifying.](<https://x.com/BullTheoryio/status/2122425556289597568>)  
+  November 12: Microsoft Outlook and Teams suffered its longest outage in its history. November 13: FAA halted all departing flights nationwide, the longest halt since the 9/11 attacks. November 13: Millions  
+  @BullTheoryio · 2026-11-17 04:24
 
-- [CrowdStrike นี่สาหัสสุด บริษัทที่ใช้ตัวนี้ถึงกับเปิดคอมขึ้นมาไม่ได้เลย ละ คนโดนส่วนใหญ่เป็น enterprise เจ้าใหญ่ เจ้…](<https://x.com/Ma_Mon/status/2122213499820769653>)  
-  CrowdStrike นี่สาหัสสุด บริษัทที่ใช้ตัวนี้ถึงกับเปิดคอมขึ้นมาไม่ได้เลย ละ คนโดนส่วนใหญ่เป็น enterprise เจ้าใหญ่ เจ้าหลักอีก คนทำงานยิ้มแห้งเพราะทำงานไม่ได้ ส่วนแผนก IT Support นี่ลุกเป็นไฟ 😅  
-  @Ma\_Mon · 2026-11-16 14:21
+- [What is going on in the US?](<https://x.com/WaihigaMwaura/status/2122423576422740384>)  
+  First Microsoft, then flights and now banks\!\!\!  
+  @WaihigaMwaura · 2026-11-17 04:16
 
-- [Jensen Huang 😂](<https://x.com/TSLAshareholder/status/2122210502319436229>)  
-  @TSLAshareholder · 2026-11-16 14:09
+- [🚨 BREAKING: 🇺🇸 Microsoft Outlook, Teams and Microsoft 365 users are reporting service disruptions amid a widespread…](<https://x.com/FuriousTrusted/status/2122423325033185698>)  
+  🚨 BREAKING: 🇺🇸 Microsoft Outlook, Teams and Microsoft 365 users are reporting service disruptions amid a widespread wave of outages.  
+  @FuriousTrusted · 2026-11-17 04:15
 
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 33 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 34 页

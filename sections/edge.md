@@ -20,11 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 7 条
-
-- [Legato Frames with femtoAI Delivers Award-Winning AI Smart Glasses](<https://www.prnewswire.com/news-releases/legato-frames-with-femtoai-delivers-award-winning-ai-smart-glasses-302942676.html>)  
-  The femtoAI fully integrated AI silicon and compression platform uniquely enables Legato SpeechSense™ AI SAN BRUNO, C…  
-  PR Newswire · 2026-11-18 02:48
+## 相关资讯 · 6 条
 
 - [Meta 个人 AI 智能体 Muse 在澳大利亚上线](<https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/>)  
   Meta 宣布个人 AI 智能体 Muse 在澳大利亚上线，可通过 iOS、Android、muse.ai 和 Mac 应用使用，并将登陆 AI 眼镜。  
