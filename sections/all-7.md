@@ -2,29 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页
 
-- [OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，改为先到先得](<https://www.ithome.com/1/028/027.htm>)  
-  OpenAI 将于 11 月 23 日再开放 5 万个 ChatGPT 学术研究免费名额，改为先到先得，不再采用试点阶段的抽签机制。每个名额含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus，本轮最多覆盖 15 万名研究人员。该计划 7 月启动以来已有 33 个国家和地区的 2 万名研究人员加入，整体目标提升至 20 万人。  
-  IT之家·人工智能 · 2026-11-17 07:18
-
-- [科技界人士质疑黄仁勋辞职背后存在针对其的谋划](<https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories>)  
-  The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。  
-  The Verge：AI（RSS） · 2026-11-17 07:17
-
-- [Anthropic Faces a Longer Wait Than SpaceX to Join Indexes](<https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes>)  
-  Bloomberg · 2026-11-17 07:06
-
-- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
-  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
-  NVIDIA Blog（RSS） · 2026-11-17 07:00
-
-- [获 Eric Trump 背书的人形机器人公司 Foundation Future Industries 发薪失败或濒临倒闭](<https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/>)  
-  据 CNBC 报道，获 Eric Trump 投资并担任首席战略顾问的人形机器人公司 Foundation Future Industries 未能支付截至 10 月 30 日的工资周期薪酬，内部人士担心若无法继续融资公司可能很快倒闭。报道还梳理了该公司的资金缺口、发薪失败以及对外宣传与实际进展不符等疑点。  
-  Ars Technica：AI（RSS） · 2026-11-17 06:58
-
-- [美国许可改革法案 BAAJA 引发气候与数据中心争议](<https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet>)  
-  普渡大学工程学副教授 Kevin Kircher 的分析发现，美国许可改革法案 BAAJA 总体上会增加排放，因为主要服务于数据中心供电的化石天然气电厂和管道需求将超过清洁能源增长。反对者警告，该法案对《联邦电力法》《清洁水法》《濒危物种法案》和《国家环境政策法》的修改，可能让不良行为者强行推进损害公共利益的基础设施项目。  
-  Canary Media：Data Centers 原创报道 · 2026-11-17 06:30
-
 - [Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
   TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。  
   TechCrunch：AI（RSS） · 2026-11-17 06:03
@@ -178,5 +155,29 @@
 - [NVIDIA Vera Rubin 首秀 MLPerf：横扫训练基准，智能体推理能效超 10 倍](<https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/>)  
   NVIDIA Vera Rubin 平台在首次 MLPerf 亮相中横扫 Training v6.1 全部基准，并首次提交 MLPerf Endpoints，智能体 AI 每瓦吞吐较 GB300 NVL72 提升超 10 倍。  
   NVIDIA Blog（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 扩展 CUDA-X 库，为 AI 智能体提供加速科学发现的工具](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/>)  
+  NVIDIA 扩展 CUDA-X 库，新增 cuPhoton、cuPotential 和 cuSpa，让 AI 智能体协助科研人员加速天体物理、材料科学与单细胞生物学等研究。  
+  NVIDIA Blog（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 发布 Rubin HPC GPU：加速科学与工程智能体仿真](<https://blogs.nvidia.com/blog/rubin-hpc/>)  
+  NVIDIA 在 SC26 发布 Vera Rubin 平台新 GPU Rubin HPC，面向科学、工程与分析工作负载加速仿真和数据处理。单颗 GPU 的 CUDA 核心数超过 50,000 创下纪录，并配备稀疏数据加速能力和第七代 NVLink 互连。该 GPU 预计 2028 年上市。  
+  NVIDIA Blog（RSS） · 2026-11-17 00:00
+
+- [Google AI Studio 集成 Gemini 4 Carbon 与 Hydrogen 支持构建全栈 Android 应用并发布到 Google Play](<https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/>)  
+  Google AI Studio 结合 Gemini 4 Carbon 和 Hydrogen，可从单个提示词生成生产级 Kotlin Android 应用，并在几分钟内发布到个人 Google Play 库。  
+  Google Developers Blog（RSS） · 2026-11-17 00:00
+
+- [Vibe Check：GPT-6.2 Astra 与 GPT-6.2 Sol 评测，表现亮眼但仍让人期待更多](<https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more>)  
+  Every 的 Vibe Check 评测了 OpenAI 两款新模型 GPT-6.2 Astra 和 GPT-6.2 Sol，它们在主题训练课程、分钟级演出流程和面向高管的练习等此前基本未解决的任务上全部过关。Every 评测负责人 Mike Taylor 称，这些任务年初还基本无人能解，如今 Codex 已接近饱和，成绩值得肯定但仍让人想要更多。  
+  Every：最新文章（网页） · 2026-11-17 00:00
+
+- [Zyphra 将 ZHA 稀疏注意力扩展至 2.4 万亿参数模型](<https://www.zyphra.com/our-work/scaling-zha>)  
+  Zyphra 将此前发布的 ZHA 层级稀疏注意力转换到四个前沿开源权重模型，包括 2.4 万亿参数的 Qwen3.8-2.4T-A95B、Nemotron-3.5-Super、GPT-OSS-120B 和 MiMo-V2.6-Pro，骨干完全冻结、仅训练少量参考查询。  
+  Zyphra Research（网页） · 2026-11-17 00:00
+
+- [Fireworks 评测 MiniMax M3.1 Flash：编码性价比高，但银行、临床和税务场景不及对比模型](<https://fireworks.ai/blog/what-minimax-m3-1-flash-reveals-about-choosing-and-combining-models/>)  
+  Fireworks 基于Specialized Intelligence Index评测MiniMax M3.1 Flash，在DeepSWE v1.1上以约92%更低的模型成本获得高于Gemini 3.8 Flash的任务完成率，每任务约0.35美元。  
+  Fireworks AI（网页） · 2026-11-17 00:00
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页

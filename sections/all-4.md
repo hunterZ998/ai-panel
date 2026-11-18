@@ -2,26 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
 
-- [Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布](<https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/>)  
-  Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。  
-  Microsoft：Official Blog（RSS） · 2026-11-18 02:36
-
-- [GitHub 与微软用 Codename MDASH 为 6 个开源项目提交 99 份带修复的安全报告](<https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/>)  
-  GitHub 与微软用微软的 Codename MDASH 智能体扫描系统（基于 MAI Cyber 模型）在 AutoGPT、Caddy、Express、FastMCP、ImageMagick、Netty 六个开源项目中扫描漏洞。  
-  GitHub Blog · 2026-11-18 02:29
-
-- [GitHub 工程师详解 Agent Host Protocol 如何让 agent 会话跨设备延续](<https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/>)  
-  GitHub 工程师介绍 GitHub Copilot 跨设备会话连续性背后的 Agent Host Protocol（AHP），一个从 VS Code 起步、已在 GitHub 各端采用的开放标准。  
-  GitHub Blog · 2026-11-18 02:20
-
-- [微软推出 MAI Licensed Weights：可在自有 Azure 环境部署定制前沿模型](<https://microsoft.ai/news/introducing-mai-licensed-weights/>)  
-  微软发布 MAI Licensed Weights，允许企业在自有 Azure 环境中部署并定制微软前沿 AI 模型，数据和定制成果归企业所有。AT&amp;T 用 MAI 模型分析 5G 网络，标准任务上以 GPT-6.1 Sol 的 1/50 成本取得更优表现；Woven by Toyota 在 44% 原本需人工介入的代码修复场景中直接产出可合并修复，成本不到十分之一。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:17
-
-- [Microsoft AI 发布 MAI Image 2.7 与 Flash，并推出 Canvas 交互工作区](<https://microsoft.ai/news/introducing-mai-image-2-7/>)  
-  Microsoft AI 发布 MAI Image 2.7 和 MAI Image 2.7 Flash，定位低成本的前沿图像生成与编辑，并在 MAI Labs 推出由 Flash 驱动的 Canvas 交互工作区。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
-
 - [Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起](<https://microsoft.ai/news/introducing-mai-realtime-1/>)  
   Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 每分钟音频，称其在 Big Bench Audio 和 τ-Voice 基准上于质量、速度和价格上超过 GPT Realtime 2.1。  
   Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
@@ -73,10 +53,6 @@
 - [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](<https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/>)  
   Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, wit  
   TechCrunch · 2026-11-18 01:32
-
-- [华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同](<https://www.ithome.com/1/028/571.htm>)  
-  IT之家 11 月 18 日消息，华为 Mate 90 系列手机昨晚率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据IT之家用户 @秋叶寒 反馈，…  
-  IT之家 · 2026-11-18 01:22
 
 - [AI models can be tricked into identifying civilians as military targets by telling them it’s a game](<https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/>)  
   Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participat  
@@ -177,5 +153,28 @@
 - [可灵 AI 发布 Kling Image 4.0 图像模型并开放 API](<https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w>)  
   快手可灵 AI 发布新一代图像创作模型 Kling Image 4.0，现已全量上线并面向企业客户与开发者开放 API。模型采用「理解生成统一」架构，首次支持原生 8K 图像生成，内置 110+ 种预设影调风格和 70+ 种商用字体，支持最高 15000 tokens 文本输入、单图最多生成 2000 字，以及一次描述生成最多 10 张风格连贯的组图和电商详情页等超长画幅长图。  
   公众号：可灵AI（快手·视频） · 2026-11-17 23:10
+
+- [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
+  生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
+  公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
+
+- [OpenAI 向北约和欧洲多国政府开放网络安全工具 Daybreak](<https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/>)  
+  OpenAI 向北约及多个欧洲政府开放网络安全工具 Daybreak，供网络防御团队用其模型审计软件、发现漏洞并修补安全缺口。NCIA 称已大量使用底层模型；ENISA 借此在欧盟机构软件中发现 4 个漏洞，CERT Polska 在正被利用的 MikroTik 路由器中发现 6 个漏洞，法国、德国、波兰和乌克兰也已获得访问权限。  
+  The Decoder：AI News（RSS） · 2026-11-17 23:02
+
+- [A Startup Emerges From Stealth With Highly Personalized AI](<https://www.theinformation.com/articles/startup-emerges-stealth-highly-personalized-ai>)  
+  The Information · 2026-11-17 23:01
+
+- [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
+  Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
+  Suno：Blog（网页） · 2026-11-17 23:00
+
+- [Voyage Labs raises $12 million for a specialized AI travel assistant](<https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/>)  
+  Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available t  
+  TechCrunch · 2026-11-17 23:00
+
+- [Cloudflare 自称 neolab：发布 System One 模型 Clef 与 Clairic](<https://latent.space/p/cloudflare/>)  
+  Cloudflare AI 平台产品负责人 Michelle Chen 在 AI Engineer Code Summit 演讲并接受 Latent Space 采访。  
+  Latent Space（RSS） · 2026-11-17 23:00
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页

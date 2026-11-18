@@ -20,7 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 26 条
+## 相关资讯 · 27 条
 
 - [Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年](<https://www.tmtpost.com/8209258.html>)  
   到2028年，25%的企业安全漏洞事件可追溯至AI智能体滥用。  
@@ -98,13 +98,17 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
   @a16z · 2026-11-13 08:00
 
-- [美联航以网络安全风险为由封禁 AI 智能体订票](<https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/>)  
-  美联航宣布将限制第三方个人 AI 智能体代用户订票和管理预订，理由是网络安全风险和可能违反联邦法规。航空公司将在其数字平台以及旅行社和聚合平台渠道直接和间接禁止未授权 AI 助手访问，并更新预订、出票和分销政策。  
-  TechCrunch：AI（RSS） · 2026-11-13 01:17
+- [Norwest 新设 40 亿美元基金，加大 AI 投资](<https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/>)  
+  Norwest 募集 40 亿美元新基金，为其第 18 只基金、规模史上最大，将重点扩大 AI 领域投资。该基金覆盖消费、医疗健康和科技等行业，并继续加码 physical AI、语音 AI、智能体网络安全与航空航天。自 2024 年第 17 只 30 亿美元基金关闭以来，Norwest 已完成 87 笔以上投资。  
+  TechCrunch：AI（RSS） · 2026-11-12 23:18
 
-- [OpenAI 分析显示前沿模型隐藏推理过程源于开发者对能力与算力的取舍](<https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/>)  
-  OpenAI 安全团队新分析追踪 GPT-5 至 GPT-6 Astra，归纳出链式思维（CoT）可监控性退化的四个主要训练因素，包括预训练能力提升带来的无声推理、 favoring 无声推理的架构选择、RL 训练增强的 CoT 可控性，以及师生模型间的继承效应。  
-  The Decoder：AI News（RSS） · 2026-11-13 00:58
+- [Fireworks AI 遭网络攻击，黑客窃取 Notion 部分客户的聊天记录](<https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/>)  
+  Fireworks AI 确认遭网络攻击，攻击者入侵其云服务商进入开发系统，窃取了客户的账单信息和部分数据集。受影响客户 Notion 披露约 1% 自身客户受波及，黑客获取了使用 Insights 功能的 Notion AI 客户的聊天记录；Notion 已于 11 月 3 日断开与 Fireworks 的连接并删除相关数据。  
+  TechCrunch：AI（RSS） · 2026-11-12 23:02
+
+- [澳大利亚拟议 AI 安全法案将强制前沿模型接受独立测试](<https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/>)  
+  澳大利亚总理 Anthony Albanese 领导的政府宣布一项法律，将首次对在该国运营的前沿 AI 公司实施强制性安全规则。要求包括开放独立审计、持续安全检查、公布安全框架并立即向政府报告安全事件，新监管机构将与 Australian AI Safety Institute 共同执行并对违规者处以高额罚款；更多细节将在咨询结束后公布。  
+  The Decoder：AI News（RSS） · 2026-11-12 18:09
 
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
   Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  

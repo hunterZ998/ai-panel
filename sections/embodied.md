@@ -18,7 +18,15 @@
 
 - 削弱 · [Genie Sim 的 22 组配对测试中，仿真与真机得分高度一致](<https://arxiv.org/html/2611.15020v1>) · 局部反例。研究者用真机数据微调策略并对齐场景，在 22 组机器人和任务配对上测得评分相关系数 0.9686、平均绝对误差 0.0405。对这些已经校准的任务，仿真可以较好预测真机评分。该结果未检验向新材质、新设备或新生产线迁移。
 
-## 相关资讯 · 27 条
+## 相关资讯 · 30 条
+
+- [第一批打工的人形机器人，有的已经失业了](<https://36kr.com/p/4074655957030791?f=rss>)  
+  人形机器人，天生劳碌命？ 人形机器人打工，竟然也会被辞退。 不久前，智元机器人在一家便利店试岗直播时，就出现了六名选手淘汰两名的事儿，以为是HE结局的观众，亲眼见证了BE时刻。 另一边，银河通用、宇树科技等具身智能厂商，也在把自家产品送入便  
+  36氪 · 2026-11-18 10:46
+
+- [小米雷军：“AI+ 手机”“AI+ 具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻](<https://www.ithome.com/1/028/669.htm>)  
+  IT之家 11 月 18 日消息，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会。今日（11 月 18 日），雷军接受了人民日报采访。 谈及人工智能，雷军坦言，人工智能浪潮席卷各行各业， 作为 A…  
+  IT之家 · 2026-11-18 10:45
 
 - [GPT-6没拆掉的护城河，具身智能务实派先一步在服务场景找到答案](<https://36kr.com/p/4073722831508612?f=rss>)  
   具身智能行业，正在经历一场微妙而又深刻的变化。 过去，机器人公司热衷于展示自己的技术上限：能跳多高、跑多快，又能完成多少复杂动作。但到了下半年，行业开始出现另一种声音。比起证明机器人有多聪明，越来越多人开始关心它们走进真实场景后的表现。 最  
@@ -89,6 +97,10 @@
 - [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
+
+- [Runway 开源机器人模型 Praxis-1，速度比 GPT-6 Astra 机械臂快 15.6 倍](<https://www.ithome.com/1/026/104.htm>)  
+  Runway 于 11 月 11 日推出机器人模型 Praxis-1，将视频预训练知识用于真实机器人控制，模型以 Apache 2.0 许可证开放权重，权重和代码分别在 Hugging Face 和 GitHub 公开。  
+  IT之家·人工智能 · 2026-11-12 15:26
 
 - [Token卷到触觉了！机器人终于有了通用手感](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=1&sn=8fa8b6872870888a01b478c05b7bbaac>)  
   量子位 · 2026-11-10 13:24

@@ -2,6 +2,28 @@
 
 [返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 19 页
 
+- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
+  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
+  a16z · 2026-11-02 22:01
+
+- [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
+  Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
+  20VC · 2026-11-02 15:07
+
+- [独家丨字节计划拆分医疗健康业务小荷健康，吴海锋被推向十字路口](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901262&idx=1&sn=bdea83e997603acb47da788107836775>)  
+  Z Finance · 2026-11-02 10:41
+
+- [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
+  It aims to be the world’s best benchmark for measuring general agentic capabilities.  
+  SemiAnalysis · 2026-11-02 09:51
+
+- [【年终复盘①】AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](<https://www.xiaoyuzhoufm.com/episode/6ae6e230c96c8942ec156ed6?utm_source=rss>)  
+  ➤ 「十字路口」2026 年终 AI 复盘系列的第一期来了！ 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是邀请十字路口身处 AI 一线的朋友们 ——创业者、研究员和投资人，分享 10 个真正触动他们的 AI 瞬间…  
+  十字路口 Crossing · 2026-11-02 00:00
+
+- [深度丨宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901261&idx=1&sn=66e992da6fed1ed0a81d25ec8da5191c>)  
+  Z Finance · 2026-11-01 19:52
+
 - [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](<https://latent.space/p/arca>)  
   Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss…  
   Latent Space · 2026-11-01 00:00
@@ -156,29 +178,5 @@
 - [Datacenters 2027: The Year of Acceleration, +50GW in a Single Year](<https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration>)  
   Despite that, many still misunderstand the pace of the global AI datacenter buildout.  
   SemiAnalysis · 2026-10-19 13:39
-
-- [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
-  AI safety is on fire.  
-  SemiAnalysis · 2026-10-09 01:46
-
-- [Breaking The Wall](<https://www.citriniresearch.com/p/breaking-the-wall>)  
-  Imagine that your personal AI has access to all your finances.  
-  Citrini Research · 2026-10-08 21:52
-
-- [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](<https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x>)  
-  Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and…  
-  SemiAnalysis · 2026-10-06 04:01
-
-- [Menlo’s Investment in Factory: The System That Builds Software](<https://menlovc.com/perspective/menlos-investment-in-factory-the-system-that-builds-software/>)  
-  Coding is AI’s first killer use case. The world is on pace to generate more code this year than in all previous years…  
-  Menlo Ventures · 2026-10-05 22:00
-
-- [How GLM5.3 Sparse Attention Affects HBM Memory Usage](<https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53>)  
-  GLM-5.3, KV Cache Offloading, HiSparse, DeepSeek Sparse Attention, IndexShare, Single-rollout Asynchronous Optimizati…  
-  SemiAnalysis · 2026-09-29 03:26
-
-- [Intel Panther Lake Teardown](<https://newsletter.semianalysis.com/p/intel-panther-lake-teardown>)  
-  Source: SemiAnalysis The SemiAnalysis STEEL teardown lab breaks down advanced datacenter and AI hardware.  
-  SemiAnalysis · 2026-09-26 21:36
 
 [返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 19 页

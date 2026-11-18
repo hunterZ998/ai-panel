@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页
 
+- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
+  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
+  IT之家·人工智能 · 2026-11-16 14:54
+
+- [阿里巴巴发布 Qwen4-Max：总参数 2.4T，支持百万上下文](<https://mp.weixin.qq.com/s/Osjnqqa62HLFl3JoseUt8A>)  
+  阿里巴巴于 11 月 16 日发布新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。官方称其基于新架构和训练优化，在智能体和编程等关键能力上持续进化，可在金融、法律等专业领域从信息检索走向专业交付。上线期间千问APP会员可限免体验，使用 Qwen4-Max 不消耗会员额度，活动时间以产品端页面为准。  
+  公众号：千问APP（阿里） · 2026-11-16 12:30
+
 - [阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60%](<https://www.ithome.com/1/027/512.htm>)  
   阿里通义千问团队发布新一代旗舰模型 Qwen4-Max，采用 2.4 万亿参数稀疏 MoE 架构，原生支持视觉理解，提供 100 万 token 上下文窗口。  
   IT之家·人工智能 · 2026-11-16 10:07
@@ -114,10 +122,6 @@
   One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
   @Basant\_Pandey · 2026-11-13 12:46
 
-- [Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产](<https://www.ithome.com/1/026/544.htm>)  
-  Axelera AI 公布第三代 AIPU 芯片 Titania 架构，瞄准数据中心推理市场，预计 2027 年第 3 季度量产，已获超 3 亿美元订单。Titania 设计功耗 400W，由 2 个第三代 D-IMC 架构计算芯粒组成，针对稀疏 MoE 模型优化，FP8 算力可达 2.5PFLOPS，SiP 集成 128GB LPDDR6 内存。  
-  IT之家·人工智能 · 2026-11-13 10:56
-
 - [美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型](<https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6>)  
   美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。  
   美团 LongCat：HuggingFace 新模型 · 2026-11-13 10:45
@@ -130,56 +134,52 @@
   Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。  
   Google Research：Blog（网页） · 2026-11-13 08:00
 
-- [Google 发布 Gemini 4 Hydrogen，Simon Willison 梳理 Gemini 4 定价并实测对比](<https://simonwillison.net/2026/Nov/12/llm-gemini/>)  
-  Google 发布 Gemini 4 家族最低价型号 Gemini 4 Hydrogen，定价 $1.50/$7.50（每 M token 输入/输出），作者 Simon Willison 称 Gemini 4 定价令人困惑。  
-  Simon Willison 博客 · 2026-11-13 06:55
-
-- [SpaceX 宣布投入超 740 亿美元在得州和亚利桑那州建设两座 AI 超级计算数据中心园区](<https://www.ithome.com/1/026/455.htm>)  
-  SpaceX 于 11 月 12 日宣布，计划投入超 740 亿美元在得克萨斯州和亚利桑那州建设两座面向 AI 的超级计算数据中心园区。  
-  IT之家·人工智能 · 2026-11-13 06:52
-
-- [Google 发布 Gemini 4 Hydrogen，提升复杂问题理解并成为 AI Mode 默认模型](<https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen>)  
-  Google 发布 Gemini 4 Hydrogen 模型，称其能更好地处理多部分问题、难以理解的拼写错误和高度具体请求，可拆解问题并逐部分回答。  
-  The Verge：AI（RSS） · 2026-11-13 05:55
-
-- [Google 发布 Gemini 4 Hydrogen，评测得分超过更大的 Argon](<https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/>)  
-  Google 发布 Gemini 4 Hydrogen，主打快速低价处理日常任务，在 Artificial Analysis Intelligence Index 上默认 high 档得 51 分、最高 xhigh 档得 54 分，超过 Gemini 4 Argon 的 50 分。  
-  The Decoder：AI News（RSS） · 2026-11-13 03:58
-
-- [Newcomer 与 Bessemer 发布首届 AI 100 榜单，Anthropic 位列第一](<https://www.newcomer.co/p/the-ai-100>)  
-  Newcomer 与 Bessemer Venture Partners 在 Cerebral Valley AI Summit 上发布首届 AI 100 榜单，评选 100 家最具前景的私人 AI 公司，Anthropic、OpenAI、Databricks 排名前三，Anthropic 在其预期下周 IPO 之前夺冠。  
-  Newcomer 新闻长文（RSS） · 2026-11-13 03:28
-
-- [Google 发布 Gemini 4 Hydrogen 并将其接入 Search 提升复杂问题回答](<https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/>)  
-  Google 发布 Gemini 4 Hydrogen 模型并将其接入 Search，称这是 Search 迄今最大的一次模型改进。  
-  TechCrunch：AI（RSS） · 2026-11-13 03:27
-
-- [Google 发布 Gemini 4 Hydrogen，取代 Gemini 3.8 Flash](<https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/>)  
-  Google 发布 Gemini 4 Hydrogen，取代生态内广泛使用的 Gemini 3.8 Flash，且开放程度远高于此前 Argon、Carbon 的分阶段策略，上线即对用户开放。  
-  Ars Technica：AI（RSS） · 2026-11-13 03:23
-
-- [IBM 发布 LLMON 标记语言及 granite-4.1-3b/8b-LLMON-preview 预览模型](<https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite>)  
-  IBM 发布 LLMON（LLM Object Notation）标记语言及基于 Granite 4.1 的两个实验预览模型 granite-4.1-3b-LLMON-preview 和 granite-4.1-8b-LLMON-preview，用保留的特殊 token 显式标记指令、数据和约束并绑定执行关系。  
-  Hugging Face 社区博客（混合发现） · 2026-11-13 03:07
-
-- [谷歌发布 Gemini 4 Hydrogen 模型，主打日常编程与智能体工作流](<https://www.ithome.com/1/026/446.htm>)  
-  谷歌推出 Gemini 4 Hydrogen 模型，面向日常编码和智能体工作流，输入每百万 Tokens 1.50 美元、输出 7.50 美元，覆盖 100 万 Token 上下文无阶梯计价。  
-  IT之家·人工智能 · 2026-11-13 02:50
-
-- [Runway 详解如何用 LLM 缩小内容审核政策与实践的差距](<https://runwayml.com/news/safety/closing-the-gap>)  
-  Runway 用 LLM 重构内容审核系统，让政策制定与执行更贴合创作场景。相比两年前只能依赖第三方分类器按"血液""武器"等固定类别打分，新系统可基于自有政策判断，政策更新最快只需数分钟，并能区分奇幻战斗与真实暴力。Runway 称审核在两个方向上都更准确：误拦减少、漏拦也减少，但仍存在第三方模型自带审核、LLM 误判和上下文缺失等限制。  
-  Runway：News（网页） · 2026-11-13 02:50
-
-- [黄仁勋辞职引发对 Nvidia 开源 AI 战略延续性的疑问](<https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/>)  
-  Nvidia CEO 黄仁勋周四因婚外情风波辞职，引发对其开源 AI 支持路线能否延续的疑问。他此前推动 Nemotron 开源模型、支持收购 Hugging Face 的 130 亿美元交易，并牵头的 25 家公司联名信反对政府过度限制开源权重模型；CFO Colette Kress 已出任临时 CEO。  
-  TechCrunch：AI（RSS） · 2026-11-13 02:39
-
 - [Google发布Gemini 4 Hydrogen，面向日常编程和Agent执行，提供四档思考强度及100万token上下文。官方API标价为每百万输入token 1.50美元、输出7.50美元，并支持与Carbon/Argon组合使用；速度与评测结果仍属厂商数据。](<https://x.com/Google/status/2120941982004523367>)  
-  Google 发布 Gemini 4 Hydrogen，面向日常编码和智能体工作，强调速度与效率。该模型提供 4 个思考级别，可独立使用或与 Carbon 和 Argon 协同，比 3.8 Flash 快 2.5X，官方称在其同级中领先竞争模型。  
-  X：Google \(@Google\) · 2026-11-13 02:09
+  Meet Gemini 4 Hydrogen. It brings cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic work. Across 4 thinking levels, it stands on its own or teams up with Carbon and Argon — 2.5X faster than 3.8 Flash, outpacing co…  
+  @Google · 2026-11-13 02:09
 
-- [Google DeepMind 发布 Gemini 4 Hydrogen](<https://deepmind.google/blog/introducing-gemini-4-hydrogen/>)  
-  Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。  
-  Google DeepMind：Blog（RSS） · 2026-11-13 02:00
+- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
+  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
+  @SamuelZengML · 2026-11-13 02:00
+
+- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
+  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
+  Google AI · 2026-11-13 02:00
+
+- [借助 AI 编程智能体，不到一周将 SGLang 集成进 IBM Spyre](<https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai/>)  
+  两人团队借助 AI 编程智能体，在不到一周内用约 1,500 行代码的插件把 SGLang 集成进 IBM Spyre。SGLang 在 Spyre 上的吞吐量约为 torch-spyre 参考 PyTorch 推理实现的 3.6 倍，在 Granite 3.3 8B 和 Gemma 4 26B A4B 的实测负载上与 vLLM 持平。  
+  PyTorch：Blog（RSS） · 2026-11-12 22:45
+
+- [黄仁勋辞任 Nvidia CEO，CFO Colette Kress 接任临时负责人](<https://garymarcus.substack.com/p/jensen-huang-resigns>)  
+  Gary Marcus 称黄仁勋已辞去 Nvidia CEO 职务，董事会推动其离任，由 CFO Colette Kress 出任临时负责人。他表示消息公布后 Nvidia 股价跌幅从盘前 8% 扩大到开盘时的 13%，并担心黄仁勋主导的循环融资可能崩塌，以及此前承诺投入 Anthropic 的数十亿美元 IPO 资金是否兑现成为焦点。他同时列举了国会调查、中国市场影响和政治层面的后续不确定性。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-12 22:44
+
+- [科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言](<https://www.ithome.com/1/026/386.htm>)  
+  科大讯飞宣布星火语音基座大模型 SparkAudio 1.0 在讯飞开放平台上线 API 服务，开发者可直接接入调用。该模型支持文本和语音双模态输入、文本输出，可处理语音转写、多语言翻译、多方言识别、说话人分离、情感分析和音频问答等任务。  
+  IT之家·人工智能 · 2026-11-12 21:07
+
+- [Gary Marcus 批评 Dario Amodei 的医疗承诺，Eli Lilly CEO 加入反驳](<https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest>)  
+  Gary Marcus 撰文批评 Anthropic CEO Dario Amodei 在 IPO 相关视频中关于治愈癌症和精神疾病的说法，认为时间线不现实。Eli Lilly CEO Dave Ricks 等多位专家在 X 上反驳，指出临床试验速度无法如此压缩；作者还批评主流媒体未对此事进行追问。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-12 20:25
+
+- [美团 LongCat 团队谈为何选择 LongCat：LongCat-2.5 开源与国产算力训练幕后](<https://mp.weixin.qq.com/s/860KzgLplV735K7ZBku9Og>)  
+  美团 LongCat 正式发布并开源面向长程智能体任务的原生多模态模型 LongCat-2.5，在国产算力上完成全流程训练与推理，并在 LongCat-2.0 基础上强化原生视觉理解与智能体编程能力。  
+  公众号：龙猫LongCat（美团） · 2026-11-12 20:18
+
+- [Google DeepMind 发布 AlphaGenome 2，将基因组 AI 从组织级预测推进到单细胞类型分辨率](<https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/>)  
+  Google DeepMind 发布基因组研究 AI 模型 AlphaGenome 2，可预测 DNA 变异对特定人类细胞类型的影响。该模型以特定生物状态为额外输入的条件模型，基于来自 68 种组织的超过 1.07 亿个单细胞图谱训练；在 TenK10K 基准上识别约 30% 的因果变异，微调版前代仅 16%。  
+  The Decoder：AI News（RSS） · 2026-11-12 20:09
+
+- [EUROPA 用 PyTorch 与 TorchTitan 在 JUPITER 公有机群训练 1T 参数 MoE](<https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/>)  
+  EUROPA 联盟借助 PyTorch 与 TorchTitan，在 EuroHPC 的 JUPITER 超算上把约 1T 参数 MoE 的预训练吞吐从每 GPU 90 tokens/s 提升到约 1,300 tokens/s，使用 384 块 NVIDIA GH200（96 节点）。  
+  PyTorch：Blog（RSS） · 2026-11-12 20:00
+
+- [文心5.5 Flash Preview、闪电深度思考和一镜微表情三款模型上线百度千帆](<https://mp.weixin.qq.com/s/86RwPSRG7antHF0SHS3K-g>)  
+  百度宣布文心5.5 Flash Preview、文心闪电深度思考模型和文心一镜微表情大模型三款模型正式上线百度千帆，全面开放使用。  
+  公众号：百度智能云（文心） · 2026-11-12 18:04
+
+- [李彦宏：人工智能的下一幕是智能组织，将迎来三大机会](<https://mp.weixin.qq.com/s/NXxYRrDmbaJeBNYxlI3htA>)  
+  李彦宏在百度世界2026提出“人工智能的下一幕是智能组织”，并首次提出打破岗位边界、沉淀隐性知识、设计流程闭环的“组织进化三原则”。百度同时正式推出大模型交易平台词元所，定位为大模型的交易所。他还判断推理将成为AI芯片长期持续增长的主要推动力，智能组织将带来轻资产运营、构建新护城河、创造和发现新市场三大机会。  
+  公众号：百度智能云（文心） · 2026-11-12 18:04
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页

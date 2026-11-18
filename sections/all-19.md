@@ -2,6 +2,30 @@
 
 [返回面板](../README.md) · [上一页](all-18.md) · 第 19 / 19 页
 
+- [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
+  AI safety is on fire.  
+  SemiAnalysis · 2026-10-09 01:46
+
+- [Breaking The Wall](<https://www.citriniresearch.com/p/breaking-the-wall>)  
+  Imagine that your personal AI has access to all your finances.  
+  Citrini Research · 2026-10-08 21:52
+
+- [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](<https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x>)  
+  Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and…  
+  SemiAnalysis · 2026-10-06 04:01
+
+- [Menlo’s Investment in Factory: The System That Builds Software](<https://menlovc.com/perspective/menlos-investment-in-factory-the-system-that-builds-software/>)  
+  Coding is AI’s first killer use case. The world is on pace to generate more code this year than in all previous years…  
+  Menlo Ventures · 2026-10-05 22:00
+
+- [How GLM5.3 Sparse Attention Affects HBM Memory Usage](<https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53>)  
+  GLM-5.3, KV Cache Offloading, HiSparse, DeepSeek Sparse Attention, IndexShare, Single-rollout Asynchronous Optimizati…  
+  SemiAnalysis · 2026-09-29 03:26
+
+- [Intel Panther Lake Teardown](<https://newsletter.semianalysis.com/p/intel-panther-lake-teardown>)  
+  Source: SemiAnalysis The SemiAnalysis STEEL teardown lab breaks down advanced datacenter and AI hardware.  
+  SemiAnalysis · 2026-09-26 21:36
+
 - [The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model](<https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom>)  
   1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 n…  
   SemiAnalysis · 2026-09-25 23:58

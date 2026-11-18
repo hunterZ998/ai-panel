@@ -2,30 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页
 
-- [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)  
-  Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitch…  
-  OpenAI · 2026-11-17 16:00
-
-- [Take-Two CEO 批评 Anthropic、OpenAI 放任用户用 AI 克隆游戏](<https://www.ithome.com/1/028/287.htm>)  
-  Take-Two CEO 泽尔尼克近日接受 IGN 采访时批评 Anthropic、OpenAI 放任用户利用生成式 AI 逆向仿制《马力欧卡丁车 Wii》《塞尔达传说：织梦岛》等游戏，称所有公司都应保护知识产权。此前 Steam 部分开发者因担心作品被 AI 仿制抢先上架而取消试玩。Anthropic 已修改 Claude 底层代码，禁止用其重制他人特定游戏，并称此类行为违反使用政策。  
-  IT之家·人工智能 · 2026-11-17 15:55
-
-- [哈佛研究：美国 403 座超大规模数据中心年排放量与丹麦全国水平相当](<https://www.ithome.com/1/028/282.htm>)  
-  哈佛大学研究人员在《自然 · 可持续发展》期刊发表论文称，美国 403 座超大规模数据中心在 2024 年 5 月至 2025 年 4 月间共排放 2570 万吨二氧化碳，相当于丹麦全国一年的排放总量，较 2018 年上一次同行评审研究增加至三倍。研究还发现弗吉尼亚州、俄勒冈州、俄亥俄州和艾奥瓦州四州占这些数据中心用电总量的一半以上，且大多数数据中心使用天然气发电提供的电力。  
-  IT之家·人工智能 · 2026-11-17 15:41
-
-- [TestDynamics获得900万美元A轮融资](<https://www.itjuzi.com/investevent/14708073>)  
-  TestDynamics是一家供应商中立医学影像 AI 集成平台开发商，打造 Satori 融合智能平台，依托 Amalgamated Intelligence™框架，可无偏向接入多家第三方放射影像 AI 模型，将分散的 AI 检测结…  
-  IT桔子 · 2026-11-17 15:35
-
-- [Garlic LLM 让越狱版 PS4 运行 Qwen3.5-9B 本地模型，最高每秒 43 词元](<https://www.ithome.com/1/028/266.htm>)  
-  开源项目 Garlic LLM 让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度达每秒 43 个词元，无需联网即可完成 AI 聊天与语音对话。  
-  IT之家·人工智能 · 2026-11-17 15:12
-
-- [PH今日热榜 \| 2026-11-17](<https://decohack.com/producthunt-daily-2026-11-17/>)  
-  Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
-  Product Hunt 中文 · DecoHack · 2026-11-17 15:00
-
 - [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)  
   OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。  
   OpenAI：部署安全与系统卡（网页） · 2026-11-17 15:00
@@ -181,5 +157,28 @@
 - [AI 网络安全初创公司 Corma 产品发布约 3 个月后估值达 10 亿美元](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
   AI 网络安全初创公司 Corma 在产品推出约 3 个月后完成 1.25 亿美元 A 轮融资，估值 10 亿美元，由 NEA 领投，累计融资达 1.85 亿美元，投资方包括 Sequoia Capital、Khosla Ventures 和 Coatue。  
   TechCrunch：AI（RSS） · 2026-11-17 07:32
+
+- [OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，改为先到先得](<https://www.ithome.com/1/028/027.htm>)  
+  OpenAI 将于 11 月 23 日再开放 5 万个 ChatGPT 学术研究免费名额，改为先到先得，不再采用试点阶段的抽签机制。每个名额含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus，本轮最多覆盖 15 万名研究人员。该计划 7 月启动以来已有 33 个国家和地区的 2 万名研究人员加入，整体目标提升至 20 万人。  
+  IT之家·人工智能 · 2026-11-17 07:18
+
+- [科技界人士质疑黄仁勋辞职背后存在针对其的谋划](<https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories>)  
+  The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。  
+  The Verge：AI（RSS） · 2026-11-17 07:17
+
+- [Anthropic Faces a Longer Wait Than SpaceX to Join Indexes](<https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes>)  
+  Bloomberg · 2026-11-17 07:06
+
+- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
+  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
+  NVIDIA Blog（RSS） · 2026-11-17 07:00
+
+- [获 Eric Trump 背书的人形机器人公司 Foundation Future Industries 发薪失败或濒临倒闭](<https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/>)  
+  据 CNBC 报道，获 Eric Trump 投资并担任首席战略顾问的人形机器人公司 Foundation Future Industries 未能支付截至 10 月 30 日的工资周期薪酬，内部人士担心若无法继续融资公司可能很快倒闭。报道还梳理了该公司的资金缺口、发薪失败以及对外宣传与实际进展不符等疑点。  
+  Ars Technica：AI（RSS） · 2026-11-17 06:58
+
+- [美国许可改革法案 BAAJA 引发气候与数据中心争议](<https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet>)  
+  普渡大学工程学副教授 Kevin Kircher 的分析发现，美国许可改革法案 BAAJA 总体上会增加排放，因为主要服务于数据中心供电的化石天然气电厂和管道需求将超过清洁能源增长。反对者警告，该法案对《联邦电力法》《清洁水法》《濒危物种法案》和《国家环境政策法》的修改，可能让不良行为者强行推进损害公共利益的基础设施项目。  
+  Canary Media：Data Centers 原创报道 · 2026-11-17 06:30
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页

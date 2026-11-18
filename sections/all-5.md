@@ -2,29 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页
 
-- [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
-  生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
-  公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
-
-- [OpenAI 向北约和欧洲多国政府开放网络安全工具 Daybreak](<https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/>)  
-  OpenAI 向北约及多个欧洲政府开放网络安全工具 Daybreak，供网络防御团队用其模型审计软件、发现漏洞并修补安全缺口。NCIA 称已大量使用底层模型；ENISA 借此在欧盟机构软件中发现 4 个漏洞，CERT Polska 在正被利用的 MikroTik 路由器中发现 6 个漏洞，法国、德国、波兰和乌克兰也已获得访问权限。  
-  The Decoder：AI News（RSS） · 2026-11-17 23:02
-
-- [A Startup Emerges From Stealth With Highly Personalized AI](<https://www.theinformation.com/articles/startup-emerges-stealth-highly-personalized-ai>)  
-  The Information · 2026-11-17 23:01
-
-- [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
-  Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
-  Suno：Blog（网页） · 2026-11-17 23:00
-
-- [Voyage Labs raises $12 million for a specialized AI travel assistant](<https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/>)  
-  Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available t  
-  TechCrunch · 2026-11-17 23:00
-
-- [Cloudflare 自称 neolab：发布 System One 模型 Clef 与 Clairic](<https://latent.space/p/cloudflare/>)  
-  Cloudflare AI 平台产品负责人 Michelle Chen 在 AI Engineer Code Summit 演讲并接受 Latent Space 采访。  
-  Latent Space（RSS） · 2026-11-17 23:00
-
 - [Childlight 报告：AI 生成儿童性虐待材料举报量两年激增超 8,400%](<https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/>)  
   爱丁堡 Childlight Institute 报告显示，AI 生成儿童性虐待材料的举报量两年间增长超 8,400%，从 2023 年约 4,700 张升至 2025 年超 40 万张，数据来自科技公司向 NCMEC 提交的举报。  
   The Decoder：AI News（RSS） · 2026-11-17 22:59
@@ -175,5 +152,29 @@
 - [NovaSilicon完成近亿元Pre-A+轮融资](<https://www.itjuzi.com/investevent/14708020>)  
   芯星元Novasilicon是一家AI芯片设计服务商，试图推动半导体产业迎来继制造专业化之后的下一次分工 —— 让更多企业无需自建完整芯片设计团队，也能按需调用芯片设计能力。芯星元Novasilicon完成近亿元Pre-A+轮融资，由…  
   IT桔子 · 2026-11-17 16:12
+
+- [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)  
+  Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitch…  
+  OpenAI · 2026-11-17 16:00
+
+- [Take-Two CEO 批评 Anthropic、OpenAI 放任用户用 AI 克隆游戏](<https://www.ithome.com/1/028/287.htm>)  
+  Take-Two CEO 泽尔尼克近日接受 IGN 采访时批评 Anthropic、OpenAI 放任用户利用生成式 AI 逆向仿制《马力欧卡丁车 Wii》《塞尔达传说：织梦岛》等游戏，称所有公司都应保护知识产权。此前 Steam 部分开发者因担心作品被 AI 仿制抢先上架而取消试玩。Anthropic 已修改 Claude 底层代码，禁止用其重制他人特定游戏，并称此类行为违反使用政策。  
+  IT之家·人工智能 · 2026-11-17 15:55
+
+- [哈佛研究：美国 403 座超大规模数据中心年排放量与丹麦全国水平相当](<https://www.ithome.com/1/028/282.htm>)  
+  哈佛大学研究人员在《自然 · 可持续发展》期刊发表论文称，美国 403 座超大规模数据中心在 2024 年 5 月至 2025 年 4 月间共排放 2570 万吨二氧化碳，相当于丹麦全国一年的排放总量，较 2018 年上一次同行评审研究增加至三倍。研究还发现弗吉尼亚州、俄勒冈州、俄亥俄州和艾奥瓦州四州占这些数据中心用电总量的一半以上，且大多数数据中心使用天然气发电提供的电力。  
+  IT之家·人工智能 · 2026-11-17 15:41
+
+- [TestDynamics获得900万美元A轮融资](<https://www.itjuzi.com/investevent/14708073>)  
+  TestDynamics是一家供应商中立医学影像 AI 集成平台开发商，打造 Satori 融合智能平台，依托 Amalgamated Intelligence™框架，可无偏向接入多家第三方放射影像 AI 模型，将分散的 AI 检测结…  
+  IT桔子 · 2026-11-17 15:35
+
+- [Garlic LLM 让越狱版 PS4 运行 Qwen3.5-9B 本地模型，最高每秒 43 词元](<https://www.ithome.com/1/028/266.htm>)  
+  开源项目 Garlic LLM 让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度达每秒 43 个词元，无需联网即可完成 AI 聊天与语音对话。  
+  IT之家·人工智能 · 2026-11-17 15:12
+
+- [PH今日热榜 \| 2026-11-17](<https://decohack.com/producthunt-daily-2026-11-17/>)  
+  Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
+  Product Hunt 中文 · DecoHack · 2026-11-17 15:00
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页

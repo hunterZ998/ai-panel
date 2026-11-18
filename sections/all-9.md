@@ -2,30 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页
 
-- [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
-  Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
-  OpenAI · 2026-11-16 17:30
-
-- [Hark 发布 Handoff²：Hark Pro 内置计算机操作智能体平均提速约 2 倍](<https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/>)  
-  Hark 在 Hark Pro 中发布第二代计算机操作智能体 Handoff²，平均端到端速度约为 v1 的 2 倍，航班预订最高提速 3.8 倍，长研究任务超过 5 倍。  
-  MarkTechPost（RSS） · 2026-11-16 17:08
-
-- [LVMH’s Media Division announces strategic partnership with OpenAI](<https://openai.com/index/lvmh-media-division-partnership>)  
-  LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more…  
-  OpenAI · 2026-11-16 17:00
-
-- [Pydantic AI Harness 推出 AzureDurableTaskDurability，让 Agent 循环具备持久化执行能力](<https://pydantic.dev/articles/azure-durable-task-pydantic-ai>)  
-  Pydantic AI Harness 推出 AzureDurableTaskDurability 能力，把 Agent 循环接入 Azure Durable Task：默认模型请求、工具调用、MCP 调用各作为一个 activity 记录结果，worker 被杀后可由新 worker 重放历史从断点继续。  
-  Pydantic AI 官方文章 · 2026-11-16 17:00
-
-- [北卡 Enfield 镇拟要求数据中心出资清洁能源计划并用余热供暖](<https://www.canarymedia.com/articles/geothermal/data-center-heat-north-carolina-town>)  
-  北卡 Enfield 镇正与 Quiet Data Centers 谈判具法律约束力的社区受益协议，镇长要求该公司出资 1620 万美元清洁能源计划，并让 100,000 平方英尺、88 兆瓦的数据中心接入镇规划的地热能网络以利用余热，若建成将是美国首例。协议尚需数周或数月，夏季余热处理仍需吸收式制冷机等方案。  
-  Canary Media：Data Centers 原创报道 · 2026-11-16 16:30
-
-- [Our first phase of embedded assessments](<https://openai.com/index/our-first-phase-of-embedded-assessments>)  
-  OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate…  
-  OpenAI · 2026-11-16 16:00
-
 - [字节跳动火山引擎全面开放 Seedance 2.5 4K 视频生成模型 API](<https://www.ithome.com/1/027/736.htm>)  
   火山引擎宣布 Seedance 2.5 4K 的 API 全面开放，开发者与企业客户可通过接口调用该 4K 视频生成模型。该模型于 10 月 23 日发布，官方称经专项训练更能呈现人物表情、细微动作与画面细节，支持 Draft 模式先以 480P 样片验证分镜再生成 4K 正片，并具备 10-bit 色深与更好的素材一致性。  
   IT之家·人工智能 · 2026-11-16 15:23
@@ -179,5 +155,29 @@
 - [Together AI 与 Ollama 讲解如何让开源模型支撑长程智能体工作负载](<https://www.together.ai/blog/making-open-models-work-for-long-horizon-agentic-workloads>)  
   Together AI 与 Ollama 联合发文，讲解如何让开源模型高效支撑长程智能体工作负载，核心是保护 KV 前缀缓存。harness 侧建议：工具定义加载到提示词末尾、系统提示保持不变、中途不改 reasoning effort、截断工具结果时告知模型、合理设计子代理上下文。  
   Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+
+- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
+  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
+  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
+
+- [Mastra 推出 Custom Factory 计划：为你的代码库共建软件工厂](<https://mastra.ai/blog/introducing-custom-factory-program>)  
+  Mastra 推出 Custom Factory 计划，由前置部署工程师嵌入客户团队，在客户自有技术栈上基于 Mastra 共建软件工厂。Mastra 自用的软件工厂已处理其 70% 的 issue，上线以来 PR 数量增长 6 倍，多数工作从 Slack 智能体 Shipyard 接单开始，一路推进到可供评审的 PR。  
+  Mastra Blog · 2026-11-16 08:00
+
+- [Together AI 分享如何为编码智能体运行平台评测](<https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai>)  
+  Together AI 详解其 Agent 评测体系：用任务清单加 Baseline、MCP、Skills 三种配置跑测，以 LLM 判官打分，9 月 30 日 215 次运行通过 192 次。  
+  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+
+- [Browser Use 智能体接入 Evervault，结账时无需接触真实卡号](<https://browser-use.com/posts/browser-use-evervault>)  
+  Browser Use 智能体现可借助 Evervault 完成结账，全程不接触真实卡号。Evervault 生成 Luhn 校验通过、长度与 BIN 均与真实卡一致的 token，仅在发往白名单主机的请求中替换为真实卡值，真实号码不会到达模型、智能体或浏览器。  
+  Browser Use · 2026-11-16 08:00
+
+- [Genie One 技能（Skills）使用指南：把团队工作流教给 AI](<https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one>)  
+  Databricks 发布 Genie One 技能（Skills）使用指南，技能是以开放 Agent Skills 格式写下的工作流配方，可让 Genie One 按团队固定步骤、检查和格式产出结果。  
+  Databricks：Blog（RSS） · 2026-11-16 08:00
+
+- [Datasette 发布地理空间插件 datasette-maplibre 0.1a0，结合 MapLibre GL 与 OpenFreeMap](<https://simonwillison.net/2026/Nov/15/datasette-maplibre/>)  
+  Datasette 推出新地理空间插件 datasette-maplibre 0.1a0，将 MapLibre GL 库与 Zsolt Ero 运营的免费矢量地图服务 OpenFreeMap 结合。  
+  Simon Willison 博客 · 2026-11-16 07:58
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页

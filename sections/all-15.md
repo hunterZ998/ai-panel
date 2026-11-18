@@ -13,6 +13,22 @@
   The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
   a16z · 2026-11-11 00:30
 
+- [SGLang 统一内存：所有 token 生命周期共用一个 arena](<https://www.lmsys.org/blog/2026-11-11-unified-memory>)  
+  SGLang 推出 --enable-unified-memory，让全注意力 KV、滑动窗口 KV 与循环状态共用一个 GPU 内存 arena，容量随需求动态分配，无需在启动时设定切分比例。  
+  LMSYS Blog · 2026-11-11 00:00
+
+- [LlamaParse 如何针对敏感文档强化 AI 应用安全测试](<https://www.llamaindex.ai/blog/how-we-harden-application-testing-for-the-most-sensitive-documents>)  
+  LlamaParse 介绍如何用 Trace 的 agentic DAST 对 LlamaParse 的 AI 功能做渗透测试，覆盖全部十类 OWASP LLM 风险及标准 Web 风险，灰盒方式持续 4 天。测试发现白底白字隐藏行发票能让提取返回篡改后的总额和银行账号，团队据此划分平台与客户的安全职责边界，并建议对第三方文档限制共享索引权限、对高敏文件使用 do\_not\_cache=true。  
+  LlamaIndex：产品、工程与评测 · 2026-11-11 00:00
+
+- [软件工厂：梦想工厂还是跑步机？AI 智能体三种循环解析](<https://tessl.io/blog/your-software-factory-dream-factory-or-treadmill>)  
+  Tessl 博客将 AI 智能体驱动的软件工厂拆为三种循环：跑步机循环只维持当下工作流转，学习循环把一次调查沉淀为下次可复用的知识，梦想循环则腾出空间尝试长期搁置的改造。  
+  Tessl：产品与工程博客 · 2026-11-11 00:00
+
+- [NVIDIA AICR 集成 k8s-aibom，为 GPU 平台提供运行时 AI 资产清单](<https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/>)  
+  NVIDIA AI Cluster Runtime（AICR）新增经过验证的 AIBOM 组件，集成 Google 开源的 k8s-aibom，用于追踪 Kubernetes 集群上实际运行的 AI 工作负载。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-11 00:00
+
 - [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
   APPSO · 2026-11-10 23:57
 
@@ -102,6 +118,14 @@
 - [ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116254&idx=1&sn=c9dc85bbf3ec50ac61961dd08592ae00>)  
   极客公园 · 2026-11-10 08:17
 
+- [研究揭示门控机制如何导致 SSM 先记忆后上下文学习](<https://machinelearning.apple.com/research/gating-memorization-in-context>)  
+  研究者通过理论与实验发现，现代循环网络中的门控机制会让 SSM 先学到权重内的“记忆”解法，延迟甚至阻止其收敛到正确的上下文学习解法，即使架构与记忆容量并无根本限制。门控同时有助于提升对长序列长度的泛化能力。该结果揭示了门控在 SSM 训练动态与泛化中的关键作用。  
+  Apple Machine Learning Research（RSS） · 2026-11-10 08:00
+
+- [苹果研究：LLM 评审在个性化写作风格评估中的可靠性](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>)  
+  苹果研究团队评估了 LLM 评审在个性化写作任务中的表现，用 4 个 LLM 生成 3 类长文写作任务的文本，并收集人类成对偏好标注与评审 LLM 的成对排序标注进行对比。  
+  Apple Machine Learning Research（RSS） · 2026-11-10 08:00
+
 - [英伟达逆势大跌，一夜蒸发1.29万亿元/苹果国行AI备案新增iPad和Mac/千问办公2.0发布](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115783&idx=1&sn=76202bc3bb2487fdf9ff0fe4d3477e70>)  
   APPSO · 2026-11-10 07:58
 
@@ -124,23 +148,5 @@
 
 - [中国汽车市场，不止一种赢法 \| 极客车间](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116244&idx=1&sn=953ca93be7ad1c997f1334c356d51b88>)  
   极客公园 · 2026-11-09 22:21
-
-- [ZPedia丨实测字节 TRAE 宝：字节的 Personal agent，从编程场景开始](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901335&idx=1&sn=1fca0e12c9b58714b0b1952bf28ad228>)  
-  Z Finance · 2026-11-09 21:59
-
-- [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115697&idx=1&sn=c5dae711f6551fadf3ac18e7bfb6484e>)  
-  APPSO · 2026-11-09 20:00
-
-- [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116234&idx=1&sn=aef5923de6ccddb6ff81233d7a02597d>)  
-  极客公园 · 2026-11-09 19:03
-
-- [前OpenAI员工看吐！AI研发AI冲线「终极超级智能」，停建全球机房也晚了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=2&sn=39bbdfe4884d81b6ecb8330ff1bf734d>)  
-  新智元 · 2026-11-09 18:30
-
-- [印度自研模型社死！照搬千问，仅塞提示词硬充印度造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=1&sn=47589ca037f06b538a1e1603eaa5f840>)  
-  新智元 · 2026-11-09 18:30
-
-- [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748686&idx=1&sn=52ef8fb842bd446399c52bf45be82a5e>)  
-  AI科技评论 · 2026-11-09 18:29
 
 [返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 19 页

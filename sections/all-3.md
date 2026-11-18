@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 19 页
 
-- [多语言错误率直降 50%：微软升级医患对话 AI 转录引擎，已覆盖全美 1/3 医师](<https://www.ithome.com/1/028/590.htm>)  
-  IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中， 微软宣布其医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcri…  
-  IT之家 · 2026-11-18 07:27
-
-- [Claude Code v2.1.327 发布：新增安装确认与 MCP JSON 读取等修复](<https://github.com/anthropics/claude-code/releases/tag/v2.1.327>)  
-  Claude Code v2.1.327 发布，为 /install-github-app 修改仓库前增加确认步骤，并新增 claude mcp add-json 从 stdin 读取服务器 JSON，避免 token 出现在命令行。  
-  Claude Code：GitHub Releases（RSS） · 2026-11-18 07:17
-
-- [微软首款语音对语音模型：MAI Realtime 1 登场，起价每分钟 0.01 美元](<https://www.ithome.com/1/028/588.htm>)  
-  IT之家 11 月 18 日消息，在昨日（11 月 17 日）召开的 Ignite 2026 大会上， 微软宣布其首款语音对语音模型 MAI Realtime 1，定位为面向真实企业场景的实时语音 AI 。该模型可处理打断、快速确认和…  
-  IT之家 · 2026-11-18 07:15
-
-- ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
-  Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
-  Axios · 2026-11-18 07:15
-
 - [微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%](<https://www.ithome.com/1/028/585.htm>)  
   IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修…  
   IT之家 · 2026-11-18 07:06
@@ -45,9 +29,9 @@
   IT之家 11 月 18 日消息，谷歌昨日发布公告，宣布更新 Gemini 应用程序的控制选项， 允许用户自行决定是否将 Gemini 聊天记录用于 AI 模型训练 。 谷歌表示，新增的设置选项允许用户在保留 Gemini 聊天记录的…  
   IT之家 · 2026-11-18 06:51
 
-- [微软性价比最高编程 AI 模型：MAI Code 2 用 5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
-  IT之家 11 月 18 日消息，在今天召开的 Ignite 2026 活动中， 微软发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并在 GitHub Copilot 上线。 IT之家附上相关视频如下：…  
-  IT之家 · 2026-11-18 06:42
+- [微软发布 MAI Code 2 与 MAI Code 2 Flash，5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
+  微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
+  IT之家·人工智能 · 2026-11-18 06:42
 
 - [Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO](<https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/>)  
   The former CEO offered to return to his top role at the company after his resignation last week.  
@@ -64,9 +48,6 @@
 - [Microsoft Executive Says Nvidia Drama Could Boost Rival Chips](<https://www.bloomberg.com/news/articles/2026-11-17/microsoft-executive-says-nvidia-drama-could-boost-rival-chips>)  
   Bloomberg · 2026-11-18 06:34
 
-- [Pushback to OKXICE, Anthropic Perpetual Futures, 'Problem Gamblers'](<https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-crypto-11-17-2026-video>)  
-  Bloomberg · 2026-11-18 06:33
-
 - [Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）](<https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk>)  
   2026 年 11 月 17 日披露的 OpenJDK 关键 RCE 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码的汇编代码在处理结尾填充字符时输出数组边界计算下溢，导致堆内存越界写入，已证实可对 Jenkins、Confluence、Apache Tomcat 等实现远程利用。  
   Wiz：Research（安全研究） · 2026-11-18 06:29
@@ -75,9 +56,9 @@
   Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w  
   TechCrunch · 2026-11-18 06:29
 
-- [Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录](<https://www.ithome.com/1/028/577.htm>)  
-  IT之家 11 月 18 日消息，就在 Anthropic IPO 定价前一天，OpenAI 突然毫无预兆地送上了一份“惊喜”。 OpenAI 今日正式发布了最新的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重点提…  
-  IT之家 · 2026-11-18 06:23
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  
+  IT之家·人工智能 · 2026-11-18 06:23
 
 - [NVIDIA 扩大与 Kinsus、三星电机、SPIL、Amkor、富士康等供应链伙伴的长期产能承诺](<https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout>)  
   NVIDIA 宣布扩大与 Amkor、富士康、Kinsus、三星电机、SPIL、TSMC 等供应链伙伴的长期承诺，覆盖基板、先进封装、晶圆与代工产能。  
@@ -171,5 +152,25 @@
 - [Google to keep Gemini chats for 2 months, up from 72 hours, even with history off](<https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/>)  
   Google's Gemini update extending chat retention will roll out globally over the coming weeks.  
   TechCrunch · 2026-11-18 02:48
+
+- [Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布](<https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/>)  
+  Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。  
+  Microsoft：Official Blog（RSS） · 2026-11-18 02:36
+
+- [GitHub 与微软用 Codename MDASH 为 6 个开源项目提交 99 份带修复的安全报告](<https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/>)  
+  GitHub 与微软用微软的 Codename MDASH 智能体扫描系统（基于 MAI Cyber 模型）在 AutoGPT、Caddy、Express、FastMCP、ImageMagick、Netty 六个开源项目中扫描漏洞。  
+  GitHub Blog · 2026-11-18 02:29
+
+- [GitHub 工程师详解 Agent Host Protocol 如何让 agent 会话跨设备延续](<https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/>)  
+  GitHub 工程师介绍 GitHub Copilot 跨设备会话连续性背后的 Agent Host Protocol（AHP），一个从 VS Code 起步、已在 GitHub 各端采用的开放标准。  
+  GitHub Blog · 2026-11-18 02:20
+
+- [微软推出 MAI Licensed Weights：可在自有 Azure 环境部署定制前沿模型](<https://microsoft.ai/news/introducing-mai-licensed-weights/>)  
+  微软发布 MAI Licensed Weights，允许企业在自有 Azure 环境中部署并定制微软前沿 AI 模型，数据和定制成果归企业所有。AT&amp;T 用 MAI 模型分析 5G 网络，标准任务上以 GPT-6.1 Sol 的 1/50 成本取得更优表现；Woven by Toyota 在 44% 原本需人工介入的代码修复场景中直接产出可合并修复，成本不到十分之一。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:17
+
+- [Microsoft AI 发布 MAI Image 2.7 与 Flash，并推出 Canvas 交互工作区](<https://microsoft.ai/news/introducing-mai-image-2-7/>)  
+  Microsoft AI 发布 MAI Image 2.7 和 MAI Image 2.7 Flash，定位低成本的前沿图像生成与编辑，并在 MAI Labs 推出由 Flash 驱动的 Canvas 交互工作区。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 19 页

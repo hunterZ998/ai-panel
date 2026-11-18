@@ -20,7 +20,7 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 12 条
+## 相关资讯 · 15 条
 
 - [耀速科技完成新一轮上海国资与产业资本数千万战略投资](<https://www.itjuzi.com/investevent/14708101>)  
   耀速科技是一家人工智能药物研发商，集人工智能、机器学习和大规模湿实验室实验于一体致力于解决现代药物发现中最具挑战性的问题——利用人类生物学的复杂性来加速药物发现和开发。近日，耀速科技（Xellar）宣布完成新一轮数千万元战略融资，本轮…  
@@ -65,6 +65,18 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛](<https://www.xiaoyuzhoufm.com/episode/6af6678d14d01a26f8a916f6?utm_source=rss>)  
   在前几期播客中，我们聊过 Personal Agent，聊过 RLaaS，这期的嘉宾贺嘉琛做的事情有点像是两者的结合，他把 Personal Agent 运用在 2B 领域，并给这些企业训练私有模型。 嘉琛原本研究深度学习与天体物理学…  
   42章经 · 2026-11-14 21:00
+
+- [Google DeepMind 发布 AlphaGenome 2，将基因组 AI 从组织级预测推进到单细胞类型分辨率](<https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/>)  
+  Google DeepMind 发布基因组研究 AI 模型 AlphaGenome 2，可预测 DNA 变异对特定人类细胞类型的影响。该模型以特定生物状态为额外输入的条件模型，基于来自 68 种组织的超过 1.07 亿个单细胞图谱训练；在 TenK10K 基准上识别约 30% 的因果变异，微调版前代仅 16%。  
+  The Decoder：AI News（RSS） · 2026-11-12 20:09
+
+- [Google DeepMind 发布 AlphaGenome 2：深入单细胞分析，识别基因表达变异能力接近翻倍](<https://www.ithome.com/1/025/840.htm>)  
+  Google DeepMind 于 11 月 11 日发布新一代基因组 AI 模型 AlphaGenome 2，可将组织、细胞类型或状态作为输入，预测 DNA 序列及变异对特定细胞的影响。  
+  IT之家·人工智能 · 2026-11-12 07:28
+
+- [Google DeepMind 发布 AlphaGenome 2，按细胞类型预测 DNA 变异效应](<https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/>)  
+  Google DeepMind 发布 DNA 模型 AlphaGenome 2，可输入 1 Mb DNA 加目标细胞状态，按细胞类型预测变异效应，通过 AlphaGenome API 向非商业研究开放。  
+  MarkTechPost（RSS） · 2026-11-12 04:51
 
 - [深度｜中国 AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901330&idx=1&sn=5eb5d1e685a87759c872fe56d7ce6e74>)  
   Z Finance · 2026-11-08 20:05

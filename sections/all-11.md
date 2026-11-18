@@ -2,30 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页
 
-- [韩国税务师考试榜一考生自首，承认用微型摄像头与生成式 AI 作弊](<https://www.ithome.com/1/027/303.htm>)  
-  韩国 2026 年第 63 届税务师考试第一名考生 A 某自首，承认用微型摄像头拍摄考题并发给生成式 AI 获取答案，已在 4 月和 7 月的第一轮、第二轮考试中实施作弊。他已向首尔警察厅提交自首书并将设备作为证据上交；因其在第一轮 160 题仅错 1 题、多科满分的高分过于异常，此前曾被网友怀疑使用 AI 作弊。  
-  IT之家·人工智能 · 2026-11-15 12:35
-
-- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
-  「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
-  晚点聊 · 2026-11-15 12:15
-
-- [SK 集团会长崔泰源：所有子公司都要蜕变为 AI 企业](<https://www.ithome.com/1/027/277.htm>)  
-  SK 集团会长崔泰源在“2026 CEO 研讨会”上表示，集团必须打破现有框架、重新定位为 AI 公司，所有子公司都要找到新定位，打造连接 AI 服务与 Token 经济的“AI 飞轮”。他提出将业务范围从 AI 半导体、基础设施和能源扩展至服务领域，并强调 AI 时代没有公司能独自完成所有事情。  
-  IT之家·人工智能 · 2026-11-15 10:13
-
-- [从 M-VAVE FM-1 固件开源看 AI Agent 如何推动硬件开放](<https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/>)  
-  作者以售价约 $70 的 M-VAVE FM-1 口袋 FM 合成器为例分析行业趋势：用户 9 月起用 AI 编码工具为其编写多种自制固件，M-Vave 于 10 月以 GPLv3 开源官方固件并附开发套件和浏览器模拟器，Behringer、Akai、Erica Synths 等随后也宣布开放部分固件。  
-  Hacker News：AI 热帖 · 2026-11-15 08:00
-
-- [Browser Use 教程：用 profile 跨运行复用登录状态](<https://browser-use.com/posts/browser-use-profiles>)  
-  Browser Use 发布教程，演示如何让云端浏览器跨运行复用登录：登录后停止浏览器以保存 profile 的 cookies 和本地存储，再用同一 profile ID 启动新运行访问受保护页面。  
-  Browser Use · 2026-11-15 08:00
-
-- [datasette-llm 0.1a11 发布：支持 OpenAI 兼容端点](<https://simonwillison.net/2026/Nov/14/datasette-llm/>)  
-  Datasette 的中间插件 datasette-llm 发布 0.1a11，新增对 OpenAI 兼容端点的支持，可将 Datasette 配置为使用任何遵循该协议的 LLM 服务。这意味着用 LM Studio、Ollama 或刚发布 v1.0.0 的 llama.cpp 跑本地模型的用户，可通过 uvx 启动由本地模型驱动的 Datasette Agent 实例。  
-  Simon Willison 博客 · 2026-11-15 07:59
-
 - [超聚变深交所创业板 IPO 过会，前身是华为 X86 服务器业务](<https://www.ithome.com/1/027/255.htm>)  
   深交所上市审核委员会 11 月 12 日审议通过超聚变数字技术创业板首发，从受理到过会仅用时 174 天。  
   IT之家·人工智能 · 2026-11-15 07:38
@@ -137,48 +113,72 @@
   The AI boom without Jensen Huang will test a hard truth: Even if the tech world has grown somewhat less reliant on Nv…  
   Axios · 2026-11-13 17:45
 
-- [n8n 2.47.0 新增 Public API 每 API key 限流功能](<https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/>)  
-  n8n 在 2.47.0 版本为所有计划（Cloud 和自托管）推出 Public API 限流，管理员可按 API key 设置读写、全局及按端点的请求上限，防止单个失控工作流阻塞同实例上的其他团队。  
-  n8n Blog · 2026-11-13 17:29
-
-- [AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO](<https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/>)  
-  Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。  
-  Latent Space（RSS） · 2026-11-13 17:04
-
-- [腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力](<https://www.ithome.com/1/026/825.htm>)  
-  腾讯混元发布实时语音模型 Hy Realtime，在语音理解、指令遵循和拟人化表达上有提升，并新增 Agentic 工具调用与唱歌能力，唱歌功能依托与腾讯音乐 TME 灵音 AI 团队的合作，支持按歌手、曲风、年份等组合点歌演唱。模型已在元宝语音通话、腾讯客服上线，近期将登陆腾讯云提供 API 服务，后续将重点提升双工交互、长期个性化记忆和前后台 Agent 交互。  
-  IT之家·人工智能 · 2026-11-13 16:41
-
-- [腾讯元宝语音通话升级，混元实时语音模型 Hy Realtime 上线](<https://mp.weixin.qq.com/s/2jwI0hm4rn-vxX836LMyRw>)  
-  腾讯元宝宣布语音通话升级，腾讯混元实时语音模型 Hy Realtime 已上线。新能力包括听得懂不完整表达、接续此前话题、回溯聊天内容，以及切换「初语」音色后点歌即唱。用户更新元宝App后点击右上角电话图标，场景选「自由对话」、音色选「初语」即可免费体验。  
-  公众号：腾讯元宝 · 2026-11-13 16:39
-
-- [百度沈抖：智能组织需要智能云](<https://mp.weixin.qq.com/s/l5DV65vnD_MpBEPhCF6zeQ>)  
-  百度集团执行副总裁、百度智能云事业群总裁沈抖在百度世界2026大会演讲中提出，智能组织需要智能云，智能云服务的是具体任务而非企业IT系统。百度智能云围绕“组织进化三原则”重新组织产品和服务，支持企业建设通用、专业与定制三类智能体。会上还发布百度天池1024卡超节点，单套可支撑5万亿参数模型训练，将于明年推向市场。  
-  公众号：百度智能云（文心） · 2026-11-13 16:39
-
-- [腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力](<https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg>)  
-  腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。  
-  公众号：腾讯混元 · 2026-11-13 16:32
-
-- [蚂蚁 inclusionAI 发布 Duo-1.0-distill-quant：Duo 1.0 的 FP8 量化四步蒸馏权重](<https://huggingface.co/inclusionAI/Duo-1.0-distill-quant>)  
-  蚂蚁 inclusionAI 在 HuggingFace 发布 Duo-1.0-distill-quant，即全双工音视频交互世界模型 Duo 1.0 的 FP8 量化四步蒸馏 Realization 权重。  
-  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-13 16:09
-
 - [Shield helps technicians hand off legacy portal work with OpenAI](<https://openai.com/business/customer-stories/shield>)  
   Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so techn…  
   OpenAI · 2026-11-13 16:00
 
-- [Apache Spark Real-Time Mode 详解：从微批到毫秒级流式延迟](<https://www.databricks.com/blog/what-is-real-time-mode>)  
-  Databricks 详解 Apache Spark Structured Streaming 的 Real-Time Mode，以长任务、流水线调度和流式 shuffle 取代微批调度，把端到端延迟从秒级降到毫秒级。  
-  Databricks：Blog（RSS） · 2026-11-13 15:49
-
-- [不用显卡：玩家用停产英特尔傲腾内存跑通 2.8 万亿参数 Kimi K3，每秒输出 1.5 词元](<https://www.ithome.com/1/026/759.htm>)  
-  网友 u/IndividualSurvival 在 Reddit 分享家庭实验室尝试，不配显卡、仅用已停产的英特尔傲腾持久内存 200 系列，通过 llama.cpp 成功运行 2.8 万亿参数的月之暗面 Kimi K3。1 比特量化下初始生成速度约每秒 0.85 个词元，关闭 DAX 后提升至每秒 1.50 个词元；3 比特量化仅每秒 0.75 个词元，生成 5 万个词元约需 18.5 小时。  
-  IT之家·人工智能 · 2026-11-13 15:14
-
 - [PH今日热榜 \| 2026-11-13](<https://decohack.com/producthunt-daily-2026-11-13/>)  
   Plurai Simulation：一个模拟世界，让你的智能体在每次运行中不断提升。；YouArt Desktop App：创意团队的指南；Omnigraph：开源图形数据库，专为你的人工智能代理设计  
   Product Hunt 中文 · DecoHack · 2026-11-13 15:00
+
+- [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
+  Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
+  @SVTrivo · 2026-11-13 12:48
+
+- [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
+  One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
+  @Basant\_Pandey · 2026-11-13 12:46
+
+- [美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型](<https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6>)  
+  美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。  
+  美团 LongCat：HuggingFace 新模型 · 2026-11-13 10:45
+
+- [IBM发布Granite 4.1 3B/8B的LLMON实验预览和工具包，用保留token明确区分指令与数据。IBM称静态间接提示注入抵抗改善；这是学得的行为而非强制安全保证，尚不适于生产。](<https://x.com/Jaythschild/status/2121069607888810451>)  
+  IBM's LLMON previews teach Granite 4.1 3B/8B to distinguish instructions from data using reserved structural tokens. Released Nov 12 with a toolkit. The goal: reduce prompt injection in agent workflows, not just change JSON formatting.  
+  @Jaythschild · 2026-11-13 10:36
+
+- [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
+  World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
+  @Clairef9vu · 2026-11-13 09:45
+
+- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
+  “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
+  晚点聊 · 2026-11-13 09:15
+
+- [a16z的Anne Neuberger提出关键基础设施网络防御方案，优先保护电力、支付、水务、通信和医院中可能造成连锁故障的运营商及共用供应商，建议用AI寻找漏洞、生成补偿防护并建立持续演练。属于机构提案，尚非政府已采纳政策或落地效果。](<https://x.com/a16z/status/2121030491407294854>)  
+  AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
+  @a16z · 2026-11-13 08:00
+
+- [Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用](<https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/>)  
+  Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。  
+  Google Research：Blog（网页） · 2026-11-13 08:00
+
+- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
+  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
+  a16z · 2026-11-13 05:21
+
+- [Jensen Huang's implosion at Nvidia leaves trail of collateral damage](<https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation>)  
+  Jensen Huang's self-destruction has left a trail of collateral damage that threatens to ensnare the board of Nvidia a…  
+  Axios · 2026-11-13 04:02
+
+- [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>)  
+  Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams sh…  
+  OpenAI · 2026-11-13 04:00
+
+- [Google发布Gemini 4 Hydrogen，面向日常编程和Agent执行，提供四档思考强度及100万token上下文。官方API标价为每百万输入token 1.50美元、输出7.50美元，并支持与Carbon/Argon组合使用；速度与评测结果仍属厂商数据。](<https://x.com/Google/status/2120941982004523367>)  
+  Meet Gemini 4 Hydrogen. It brings cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic work. Across 4 thinking levels, it stands on its own or teams up with Carbon and Argon — 2.5X faster than 3.8 Flash, outpacing co…  
+  @Google · 2026-11-13 02:09
+
+- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
+  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
+  SemiAnalysis · 2026-11-13 02:06
+
+- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
+  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
+  @SamuelZengML · 2026-11-13 02:00
+
+- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
+  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
+  Google AI · 2026-11-13 02:00
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页

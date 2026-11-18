@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
 
+- [小米雷军 APEC 现场挨个发名片，参会时给台下朋友拍合影](<https://www.ithome.com/1/028/617.htm>)  
+  IT之家 11 月 18 日消息，据广东广播电视台报道，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会， 现场社交发名片 。网友调侃“不管身价多少亿，该发名片还得发！” 雷军还在峰会上发言 ，表示…  
+  IT之家 · 2026-11-18 09:15
+
 - [OpenAI Model Helps Find Security Bug in Widely Used Code Language](<https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language>)  
   The Information · 2026-11-18 09:15
 
@@ -34,10 +38,6 @@
 - [Dario最期待的AI使命，Anthropic生物医药布局复盘](<https://36kr.com/p/4074508479124610?f=rss>)  
   01.Key Takeaways ⁠ • 生物医药是 Anthropic 在 Coding 之后，下一个集中投入的高价值方向。药物研发本身要求最顶级的智能，而药物研发过程中每一次关键进展，都能形成可观的资产价值，使 AI 的收费模式从 AP  
   36氪 · 2026-11-18 08:56
-
-- [Anthropic IPO尚未落地，已获“买入”评级](<https://www.tmtpost.com/8209054.html>)  
-  预计 Anthropic 的股票将于周四开始交易。华尔街一家机构已率先对该股作出初始评级，给出“买入”建议。  
-  钛媒体 · 2026-11-18 08:55
 
 - [全球最大AI制药融资诞生](<https://www.pedaily.cn/first/193046.shtml>)  
   由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成50亿美元（约合人民币333亿元）C轮融资，融资获得超额认购。 结合公开数据不完…  
@@ -79,6 +79,10 @@
   IT之家 11 月 18 日消息，据路透社报道，法国通用机器人公司 Genesis AI 现已完成 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） A 轮融资， 估值达 35 亿美元 （现汇率约合 233.8 亿元人民币…  
   IT之家 · 2026-11-18 08:44
 
+- [黄仁勋事变之后，AI算力建设进入垃圾时间了吗？](<https://www.tmtpost.com/8208765.html>)  
+  AI算力的黄金时代，是不是结束了？  
+  钛媒体 · 2026-11-18 08:44
+
 - [除了黄仁勋，这些CEO也曾被扫地出门](<https://36kr.com/p/4073916660881026?f=rss>)  
   黄仁勋走了，员工和投资者却想让他回来。 据《连线》报道，一名英伟达的资深工程师在公司内网发帖，呼吁董事会听取员工意见。帖子已获得 1600 多条评论，多数支持黄仁勋回来。一条热门评论写道：“如果你相信这家公司的使命，就把老板还回来。” 有人  
   36氪 · 2026-11-18 08:43
@@ -118,28 +122,8 @@
   今日热点导览 李飞飞率World Labs正式加入AMD，苏姿丰主导庆祝仪式 京东集团：第三季度营收3096亿元，同比增长3.5% OPPO Reno17系列正式发布 Siri AI每日限额，订阅后可获得最高20倍的额外使用额度 红果短剧有  
   36氪 · 2026-11-18 08:04
 
-- [AI应用淘汰潮来了？13款明星产品折戟，关停、调整或退场](<https://36kr.com/p/4073881046750339?f=rss>)  
-  智东西11月17日消息，据TechCrunch昨日报道，截至目前， 美国至少有13款行业知名、曾被寄予厚望的AI应用或项目相继停止运营、进行重大调整，或陷入发展困境 。其中既有OpenAI、苹果、微软等科技巨头的产品，也有曾经风光无限的AI  
-  36氪 · 2026-11-18 07:59
-
-- [我们用AI做游戏，把开发成本打到了20块](<https://36kr.com/p/4073850877547393?f=rss>)  
-  上周，朋友给我发了一大段网页链接，说在办公室“摸鱼”已经摸疯了。 本来，像我这样经历过Flash游戏时代、爱玩独立游戏的老登是不屑于看这种小游戏一眼的。直到我打开了一个够得上3A制作的离谱游戏。 熟悉FPS类游戏的玩家都知道，最近几年最火的  
-  36氪 · 2026-11-18 07:55
-
-- [一张6.8万罚单关掉了AI带货最大的漏洞：不是出镜，是编体验](<https://36kr.com/p/4073799420793728?f=rss>)  
-  2026年11月13日，广州市番禺区市场监督管理局对广州我的影视文化传媒有限公司开出罚单，罚款6.82万余元，11月16日对外公开，违法事实是“发布医疗广告违法行为”。这家公司是AI短剧《被裁掉的女孩》的出品方，也是虚拟女主角“方桃子”的运  
-  36氪 · 2026-11-18 07:54
-
-- [大厂AI对照系：李彦宏布道，马化腾预警](<https://36kr.com/p/4073829658678153?f=rss>)  
-  2026 年 11 月，中国互联网最有权势的两位创始人，把各自对 AI 的判断，同时摆到了台面上。 一边是李彦宏。11月12日的百度世界大会上，他重申了自己十年前的判断——“下一步是人工智能”，并给 AI 的下一幕下了定义——“智能组织”。  
-  36氪 · 2026-11-18 07:53
-
 - [Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO](<https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo>)  
   Bloomberg · 2026-11-18 07:53
-
-- [腾讯版Muse？LightVela新版实测：越来越像个人Agent，但还不够完美](<https://36kr.com/p/4073960952141449?f=rss>)  
-  很奇怪，一款几个月前上线的AI产品，为什么又受到了很多人的关注。 最近这段时间，腾讯的云端AI Agent产品LightVela重新出现在不少人的视线范围内。实际上，LightVela早在今年4月就开启了公测，并在9月底正式面向所有用户开放  
-  36氪 · 2026-11-18 07:51
 
 - [微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍](<https://www.ithome.com/1/028/597.htm>)  
   IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中，微软宣布旗下第二代自研人工智能加速器 Maia 200 现已正式投入规模化生产， 并开始在数据中心运行微软最大规模的前沿 AI 大模型…  
@@ -175,5 +159,21 @@
 - [Exclusive: Donald Trump Jr. signals investors underestimated AI pushback](<https://www.axios.com/2026/11/17/donald-trump-jr-data-centers>)  
   Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview at…  
   Axios · 2026-11-18 07:28
+
+- [多语言错误率直降 50%：微软升级医患对话 AI 转录引擎，已覆盖全美 1/3 医师](<https://www.ithome.com/1/028/590.htm>)  
+  IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中， 微软宣布其医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcri…  
+  IT之家 · 2026-11-18 07:27
+
+- [Claude Code v2.1.327 发布：新增安装确认与 MCP JSON 读取等修复](<https://github.com/anthropics/claude-code/releases/tag/v2.1.327>)  
+  Claude Code v2.1.327 发布，为 /install-github-app 修改仓库前增加确认步骤，并新增 claude mcp add-json 从 stdin 读取服务器 JSON，避免 token 出现在命令行。  
+  Claude Code：GitHub Releases（RSS） · 2026-11-18 07:17
+
+- [微软首款语音对语音模型：MAI Realtime 1 登场，起价每分钟 0.01 美元](<https://www.ithome.com/1/028/588.htm>)  
+  IT之家 11 月 18 日消息，在昨日（11 月 17 日）召开的 Ignite 2026 大会上， 微软宣布其首款语音对语音模型 MAI Realtime 1，定位为面向真实企业场景的实时语音 AI 。该模型可处理打断、快速确认和…  
+  IT之家 · 2026-11-18 07:15
+
+- ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
+  Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
+  Axios · 2026-11-18 07:15
 
 [返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页

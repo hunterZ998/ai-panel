@@ -38,17 +38,23 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 197 条
+## 相关资讯 · 209 条
+
+- [刚刚，OpenAI发布GPT-6.2 Astra和Sol](<https://www.163.com/dy/article/LC0RSIMM0511AQHO.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 10:58
+
+- [英伟达Q3日赚7亿美元？AI叙事强化国产链，算力芯片、半导体设备再度走强！](<https://www.163.com/dy/article/LC0TNA9005199NPP.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 10:56
+
+- [Anthropic上市前夕，OpenAI发布GPT-6.2：成本大降，3D能力再突破](<https://www.163.com/dy/article/LC0STE3E05119734.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 10:55
+
+- [OpenAI翻车！GPT-6.2 Astra被批「史上最差」，内部员工连夜弃用](<https://www.163.com/dy/article/LC0T7MR90511ABV6.html>)  
+  网易科技频道 · 网易号 · 2026-11-18 10:48
 
 - [GPT-6没拆掉的护城河，具身智能务实派先一步在服务场景找到答案](<https://36kr.com/p/4073722831508612?f=rss>)  
   具身智能行业，正在经历一场微妙而又深刻的变化。 过去，机器人公司热衷于展示自己的技术上限：能跳多高、跑多快，又能完成多少复杂动作。但到了下半年，行业开始出现另一种声音。比起证明机器人有多聪明，越来越多人开始关心它们走进真实场景后的表现。 最  
   36氪 · 2026-11-18 10:42
-
-- [商汤科技发布SenseNova Loop-9B大模型](<https://www.163.com/dy/article/LC0SGKRC0519DFFO.html>)  
-  网易科技频道 · 网易号 · 2026-11-18 10:36
-
-- [Anthropic估值或升至1.6万亿美元，亚马逊谷歌合持近三成股份](<https://www.163.com/dy/article/LC0S69DU0550WHYR.html>)  
-  网易科技频道 · 网易号 · 2026-11-18 10:29
 
 - [刚领完“青年科学家奖”，谢伟迪就融了数亿](<https://36kr.com/p/4074635892872066?f=rss>)  
   近日，投中网获悉，生命模型智能公司观壹智能（OneX Intelligence）宣布完成首轮数亿元融资，由IDG资本领投，创世伙伴创投\(CCV\)、沄柏资本、交大菡源资产、云启资本跟投，财务顾问为棕榈资本。本轮资金将主要用于生命智能基础模型研  
@@ -70,10 +76,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   深微芯创是一家专注于AI算力芯片与高带宽集成技术的硬科技型企业，面向高性能芯片封装、光电共封装（CPO）及下一代数据中心互联需求，提供半导体先进封装制造装备、光电材料器件与成套工艺一体化解决方案。公司围绕玻璃基板、TGV三维互连、光通…  
   IT桔子 · 2026-11-18 09:55
 
-- [Anthropic IPO尚未落地，已获“买入”评级](<https://www.tmtpost.com/8209054.html>)  
-  预计 Anthropic 的股票将于周四开始交易。华尔街一家机构已率先对该股作出初始评级，给出“买入”建议。  
-  钛媒体 · 2026-11-18 08:55
-
 - [Anthropic纳斯达克IPO获准](<https://www.pedaily.cn/first/193041.shtml>)  
   Anthropic表示，已获准在纳斯达克全球精选市场上市A类普通股，股票代码为“ANT”。（投资界）  
   投资界 · 2026-11-18 08:49
@@ -85,6 +87,10 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [GPT-6.2Astra与Sol突袭发布，OpenAI狙击Anthropic上市日，任务成本仅为Claude的5%](<https://36kr.com/p/4074370835977092?f=rss>)  
   就在 Anthropic 敲钟上市的同一天，OpenAI 端出了它的“贺礼”。 11 月 18 日凌晨消息，OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款新模型： 在复杂专业任务上，GPT-6.2 As  
   36氪 · 2026-11-18 08:45
+
+- [黄仁勋事变之后，AI算力建设进入垃圾时间了吗？](<https://www.tmtpost.com/8208765.html>)  
+  AI算力的黄金时代，是不是结束了？  
+  钛媒体 · 2026-11-18 08:44
 
 - [冲击人类史上最大 IPO、发行价每股 70\~78 美元：Anthropic 已获准上市，代码为“ANT”](<https://www.ithome.com/1/028/599.htm>)  
   IT之家 11 月 18 日消息，根据美国证券交易委员会（SEC）昨日（11 月 17 日）公示的上市注册文件，Anthropic 的 A 类普通股已获准在纳斯达克全球精选市场上市， 股票代码为“ANT”，IPO 发行价区间维持每股…  
@@ -113,9 +119,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Perplexity 为 Computer 新增高于 Ultra 的 Multiagent 档位，主智能体最多调度 16 个并行智能体，直接共享发现、编辑共享文件并互相检查，默认团队由 Claude Opus 5.5、GPT 6.1 Sol 和 Gemini 4 Carbon 组成。  
   MarkTechPost（RSS） · 2026-11-18 06:52
 
-- [微软性价比最高编程 AI 模型：MAI Code 2 用 5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
-  IT之家 11 月 18 日消息，在今天召开的 Ignite 2026 活动中， 微软发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并在 GitHub Copilot 上线。 IT之家附上相关视频如下：…  
-  IT之家 · 2026-11-18 06:42
+- [微软发布 MAI Code 2 与 MAI Code 2 Flash，5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
+  微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
+  IT之家·人工智能 · 2026-11-18 06:42
 
 - [Simon Willison 实测 OpenAI 新模型 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/>)  
   OpenAI 发布 GPT-6.2 Astra（面向高难度项目的旗舰模型）和 GPT-6.2 Sol（面向日常工作的通用模型），API 名称分别为 gpt-6.2-astra 和 gpt-6.2-sol。  
@@ -129,9 +135,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w  
   TechCrunch · 2026-11-18 06:29
 
-- [Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录](<https://www.ithome.com/1/028/577.htm>)  
-  IT之家 11 月 18 日消息，就在 Anthropic IPO 定价前一天，OpenAI 突然毫无预兆地送上了一份“惊喜”。 OpenAI 今日正式发布了最新的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重点提…  
-  IT之家 · 2026-11-18 06:23
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  
+  IT之家·人工智能 · 2026-11-18 06:23
 
 - [OpenAI 发布 GPT-6.2 Astra 与 Sol，Astra API 降价 20%](<https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/>)  
   OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款闭源模型，面向专业与智能体工作，API 名为 gpt-6.2-astra 和 gpt-6.2-sol。  
@@ -204,13 +210,5 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 - [Anthropic Expected to Price Above $1.4 Trillion Valuation](<https://www.theinformation.com/briefings/anthropic-expected-price-1-4-trillion-valuation>)  
   The Information · 2026-11-17 23:52
-
-- [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
-  生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
-  公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
-
-- [物理学家如何看待AI冲击：从Suvrat Raju的TheoPhysEval基准被饱和谈起](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
-  Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
-  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页

@@ -2,30 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 19 页
 
-- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
-  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
-  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
-
-- [Mastra 推出 Custom Factory 计划：为你的代码库共建软件工厂](<https://mastra.ai/blog/introducing-custom-factory-program>)  
-  Mastra 推出 Custom Factory 计划，由前置部署工程师嵌入客户团队，在客户自有技术栈上基于 Mastra 共建软件工厂。Mastra 自用的软件工厂已处理其 70% 的 issue，上线以来 PR 数量增长 6 倍，多数工作从 Slack 智能体 Shipyard 接单开始，一路推进到可供评审的 PR。  
-  Mastra Blog · 2026-11-16 08:00
-
-- [Together AI 分享如何为编码智能体运行平台评测](<https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai>)  
-  Together AI 详解其 Agent 评测体系：用任务清单加 Baseline、MCP、Skills 三种配置跑测，以 LLM 判官打分，9 月 30 日 215 次运行通过 192 次。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
-
-- [Browser Use 智能体接入 Evervault，结账时无需接触真实卡号](<https://browser-use.com/posts/browser-use-evervault>)  
-  Browser Use 智能体现可借助 Evervault 完成结账，全程不接触真实卡号。Evervault 生成 Luhn 校验通过、长度与 BIN 均与真实卡一致的 token，仅在发往白名单主机的请求中替换为真实卡值，真实号码不会到达模型、智能体或浏览器。  
-  Browser Use · 2026-11-16 08:00
-
-- [Genie One 技能（Skills）使用指南：把团队工作流教给 AI](<https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one>)  
-  Databricks 发布 Genie One 技能（Skills）使用指南，技能是以开放 Agent Skills 格式写下的工作流配方，可让 Genie One 按团队固定步骤、检查和格式产出结果。  
-  Databricks：Blog（RSS） · 2026-11-16 08:00
-
-- [Datasette 发布地理空间插件 datasette-maplibre 0.1a0，结合 MapLibre GL 与 OpenFreeMap](<https://simonwillison.net/2026/Nov/15/datasette-maplibre/>)  
-  Datasette 推出新地理空间插件 datasette-maplibre 0.1a0，将 MapLibre GL 库与 Zsolt Ero 运营的免费矢量地图服务 OpenFreeMap 结合。  
-  Simon Willison 博客 · 2026-11-16 07:58
-
 - [AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板](<https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg>)  
   作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。  
   公众号：数字生命卡兹克 · 2026-11-16 07:56
@@ -180,5 +156,29 @@
 - [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
   HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  
   Product Hunt 中文 · DecoHack · 2026-11-15 15:00
+
+- [韩国税务师考试榜一考生自首，承认用微型摄像头与生成式 AI 作弊](<https://www.ithome.com/1/027/303.htm>)  
+  韩国 2026 年第 63 届税务师考试第一名考生 A 某自首，承认用微型摄像头拍摄考题并发给生成式 AI 获取答案，已在 4 月和 7 月的第一轮、第二轮考试中实施作弊。他已向首尔警察厅提交自首书并将设备作为证据上交；因其在第一轮 160 题仅错 1 题、多科满分的高分过于异常，此前曾被网友怀疑使用 AI 作弊。  
+  IT之家·人工智能 · 2026-11-15 12:35
+
+- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
+  「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
+  晚点聊 · 2026-11-15 12:15
+
+- [SK 集团会长崔泰源：所有子公司都要蜕变为 AI 企业](<https://www.ithome.com/1/027/277.htm>)  
+  SK 集团会长崔泰源在“2026 CEO 研讨会”上表示，集团必须打破现有框架、重新定位为 AI 公司，所有子公司都要找到新定位，打造连接 AI 服务与 Token 经济的“AI 飞轮”。他提出将业务范围从 AI 半导体、基础设施和能源扩展至服务领域，并强调 AI 时代没有公司能独自完成所有事情。  
+  IT之家·人工智能 · 2026-11-15 10:13
+
+- [从 M-VAVE FM-1 固件开源看 AI Agent 如何推动硬件开放](<https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/>)  
+  作者以售价约 $70 的 M-VAVE FM-1 口袋 FM 合成器为例分析行业趋势：用户 9 月起用 AI 编码工具为其编写多种自制固件，M-Vave 于 10 月以 GPLv3 开源官方固件并附开发套件和浏览器模拟器，Behringer、Akai、Erica Synths 等随后也宣布开放部分固件。  
+  Hacker News：AI 热帖 · 2026-11-15 08:00
+
+- [Browser Use 教程：用 profile 跨运行复用登录状态](<https://browser-use.com/posts/browser-use-profiles>)  
+  Browser Use 发布教程，演示如何让云端浏览器跨运行复用登录：登录后停止浏览器以保存 profile 的 cookies 和本地存储，再用同一 profile ID 启动新运行访问受保护页面。  
+  Browser Use · 2026-11-15 08:00
+
+- [datasette-llm 0.1a11 发布：支持 OpenAI 兼容端点](<https://simonwillison.net/2026/Nov/14/datasette-llm/>)  
+  Datasette 的中间插件 datasette-llm 发布 0.1a11，新增对 OpenAI 兼容端点的支持，可将 Datasette 配置为使用任何遵循该协议的 LLM 服务。这意味着用 LM Studio、Ollama 或刚发布 v1.0.0 的 llama.cpp 跑本地模型的用户，可通过 uvx 启动由本地模型驱动的 Datasette Agent 实例。  
+  Simon Willison 博客 · 2026-11-15 07:59
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 19 页
