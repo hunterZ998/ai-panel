@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](<https://www.xiaoyuzhoufm.com/episode/6afd12c6a4a79edf137afd61?utm_source=rss>)  
+  今天的嘉宾是蚂蚁灵光负责人蔡伟。我们一起聊了聊正在成为中美AI共同焦点的Personal Agent。 Muse掀起热潮之后，Personal Agent在过去三个月迅速成为AI行业的新赛场。Grok Bot、Instinct、Ope…  
+  张小珺商业访谈录 · 2026-11-18 11:08
+
 - [Can AI Learn to Improve Itself? \| Recursive Self-Improvement](<https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ>)  
   For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers…  
   The a16z Show · 2026-11-18 01:44
@@ -177,9 +181,5 @@
 - [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
   AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
   20VC · 2026-10-29 15:07
-
-- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
-  怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
-  硅谷101 · 2026-10-29 07:00
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

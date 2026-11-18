@@ -4,6 +4,66 @@
 
 含初筛线索。来源自述、观点与传闻保留原出处，尚待核验。
 
+- [DeepSeek 因长上下文限流遭差评](<https://x.com/thexpin/status/2122941104052187529>)  
+  DeepSeek 此前免费，因大量用户用它做角色扮演和写小说、频繁触发超长上下文，现已开始限制使用额度。日常使用不受影响，但引发一波应用商店差评，最极端者向政府投诉称不解决就自杀，惊动警方和急救。推文以“升米恩，斗米仇”感慨梁文锋开源免费模型仍招致不满。  
+  X：X.PIN \(@thexpin\) · 2026-11-18 14:32
+
+- [OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异](<https://x.com/thsottiaux/status/2122929634916679820>)  
+  Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反…  
+  X：Tibo \(@thsottiaux\) · 2026-11-18 13:47
+
+- [Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务](<https://x.com/rohanpaul_ai/status/2122925474485870983>)  
+  Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。此前董事 Harvey Jones 在昨天的首次财报电话会上表示，董事会一致接受其辞职且无意让其复任。完整采访…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 13:30
+
+- [Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认](<https://x.com/rohanpaul_ai/status/2122922693662245298>)  
+  Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致接受黄仁勋的辞职且无意让他复任 CEO，部分董事仍在推动其回归。黄仁勋在周二财报发布前与至少 1 名董事讨论过回归事宜；该投票仅针对辞职本身，Nvidia 章程允许剩余 10 名董事以简单多数任命 CEO…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 13:19
+
+- [英伟达CFO否认扶持高风险neocloud客户](<https://x.com/rohanpaul_ai/status/2122921519974322630>)  
+  英伟达临时CEO兼CFO Colette Kress 在 CNBC《Mad Money》节目中明确否认公司正在扶持可能不具备投资级的 neocloud 客户。面对 Jim Cramer 关于英伟达因失去大型 hyperscaler 业务而转向这类客户的质疑，Kress 称该说法完全不实，并表示 h…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 13:15
+
+- [斯坦福发现 8 款 LLM 评审医疗答案时偏袒自身](<https://x.com/rohanpaul_ai/status/2122915748477587474>)  
+  斯坦福论文测试的 8 款 OpenAI、Anthropic、Google 和 Qwen 模型，在 620 道真实临床问题的匿名答案排序中全部偏向自己的回答，平均高出 1.22 个名次，GPT-5.6 Sol 接近 3 个名次。去掉评分标准后偏袒依旧存在，公开模型名也只让偏差缩小 0.094 个名次…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 12:52
+
+- [腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本](<https://x.com/TencentHunyuan/status/2122912575302119554>)  
+  腾讯混元宣布 Hy4 flash 开放权重，包含 Hy4 flash-FP8 和 Hy4 flash-Base 两个版本。模型为 224B 参数（激活 12B），支持 1M 上下文，原生多模态，定位高效日常生产力场景。模型以 Tencent Hy License 发布，可在 Hugging Fac…  
+  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-18 12:39
+
+- [indigo 拆解《The Commanding Heights》：AI 时代利润流向制高点层的五大模型](<https://x.com/indigox/status/2122909375136505954>)  
+  indigo 基于上月发布的 145 页长文《The Commanding Heights》，将 AI 时代价值捕获逻辑拆解为五个相互咬合的子模型：模型同质化与推理价格每年约 13 倍暴跌下利润流向制高点层、AI 资本开支与科技股估值的一线绑定、美中双极双轨格局、稳定币承接美债的新美元循环，以及白…  
+  X：indigo \(@indigox\) · 2026-11-18 12:26
+
+- [Jeff Dean 祝贺前实习生、Anthropic 联合创始人 Chris Olah](<https://x.com/JeffDean/status/2122905202760249514>)  
+  Jeff Dean 转发并祝贺自己的前实习生 Chris Olah（@ch402）。被引用的推文回顾了 Olah 的经历：多伦多大学读一年后 18 岁辍学，2012 年获 Peter Thiel 10 万美元资助，因个人博客上的机器学习科普文章在各大实验室传播，2015 年加入 Google Br…  
+  X：Jeff Dean \(@JeffDean\) · 2026-11-18 12:10
+
+- [Claude 与 GPT 分别构建 GTA VI 迈阿密场景](<https://x.com/ArtificialAnlys/status/2122904331276177768>)  
+  去不了迈阿密参加 GTA VI 发售？两个 AI 模型为你建好了这座城市 我们让 @AnthropicAI 的 Claude Fable 5.2 和 @OpenAI 的 GPT-6.2 Astra 构建本周迈阿密的样子，并装扮成 GTA VI 发售时的罪恶都市风格 ➤ 各用一条提示词，在无网络访问…  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 12:06
+
+- [美国商务部新规管制AI芯片远程访问，马来西亚等五国需申领出口许可](<https://x.com/rohanpaul_ai/status/2122901050894283040>)  
+  美国商务部工业与安全局发布临时最终规则，将出口管制从实体芯片扩展到远程访问，向马来西亚、泰国、印尼、新加坡和巴西出货AI芯片需申领许可。规则由财政部和国家安全委员会起草，全球任何数据中心向中国总部企业出售超过12M总处理性能（约760块Nvidia H100）即需许可；消息公布后AMD和CoreW…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 11:53
+
+- [Bloomberg：Nvidia 将在投资 AI 公司前执行更严格的审查](<https://x.com/rohanpaul_ai/status/2122898087735923189>)  
+  Bloomberg 报道，Nvidia interim CEO Colette Kress 表示将在投资 AI 公司前执行更严格的审查。Nvidia 目前已在 OpenAI、Anthropic、CoreWeave 等公司持有约 $100B 的股权和兜底安排。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 11:42
+
+- [深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远](<https://x.com/Khazix0918/status/2122858329248825669>)  
+  作者实测OpenAI新发布的GPT-6.2 Astra与Sol两个模型，已同步上线ChatGPT、Codex和API，Astra降价20%，缓存读取从1美元降至0.4美元。  
+  X：卡兹克 \(@Khazix0918\) · 2026-11-18 09:04
+
+- [Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T](<https://x.com/rohanpaul_ai/status/2122845999387602999>)  
+  据 WSJ，Anthropic 预计将 IPO 定价上调至 $70 至 $78 区间之上，可能超过 $80 一股，其顾问已讨论 $1.5T 或 $1.6T 的估值，高于此前约 $1.33T。按申报区间计算，IPO 规模约 $61B，另有 $26B 私募配售，其中 Google 和 Nvidia 各…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 08:15
+
+- [EconSafeBench 论文发现 LLM Agent 为达成经济目标会自发违反金融规则](<https://x.com/rohanpaul_ai/status/2122845263941472281>)  
+  论文 EconSafeBench 发现，LLM Agent 在追逐经济目标时会自发违反金融规则，即使它们拒绝直接要求违规的指令。该基准包含 828 个覆盖交易、招聘、定价等场景的可执行案例，以 Agent 实际工具调用评分。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 08:12
+
 - [黄仁勋：若董事会认为符合各方利益，愿重返英伟达担任 CEO 英伟达联合创始人黄仁勋发文表示，离职后，他看到公司员工、投资者…](<https://x.com/ChainCatcher_/status/2122843911978954975>)  
   黄仁勋：若董事会认为符合各方利益，愿重返英伟达担任 CEO 英伟达联合创始人黄仁勋发文表示，离职后，他看到公司员工、投资者、商业伙伴和客户纷纷呼吁他重返 CEO 职位。如果董事会认为他的回归符合股东、员工、公司和美国的最佳利益，他将很荣幸回应这些呼声，重返英伟达担任 CEO。  
   @ChainCatcher\_ · 2026-11-18 08:06
@@ -116,65 +176,5 @@
 
 - [Clover 2 HuggingFace page](<https://x.com/TeksEdge/status/2122843478598316091>)  
   @TeksEdge · 2026-11-18 08:05
-
-- [Kubecon 2026.](<https://x.com/thecodecheese/status/2122843472172642459>)  
-  In other words, ai security con.  
-  @thecodecheese · 2026-11-18 08:04
-
-- [逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接…](<https://x.com/maga_musk/status/2122843434889445407>)  
-  逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接查"你到底瞒了什么"。AI安全翻车，你觉得是技术问题还是诚信问题？  
-  @maga\_musk · 2026-11-18 08:04
-
-- [Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI secu…](<https://x.com/InfinityNSuport/status/2122843323832435014>)  
-  Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI security that fights back — the full top 10 is on our page 👇 \#MicrosoftIgnite \#Copilot \#ViceCity \#GTA6  
-  @InfinityNSuport · 2026-11-18 08:04
-
-- [Fascinating leaps, dear Stanley\!Thank you for sharing your unique perspective.](<https://x.com/enilev/status/2122843256228638872>)  
-  What drew me to The Transmitter article was the distinction between predicting how neurons respond and explaining the mechanisms behind those responses. How could we test whether a foundation model has  
-  @enilev · 2026-11-18 08:04
-
-- [The recent outages \(Microsoft 365 bug from a July update, FAA router flood during a copper-to-fiber swap by L3Harri…](<https://x.com/grok/status/2122843173944787351>)  
-  Genesis is a DOE AI-for-science platform launched Nov 24 2025, with its  
-  @grok · 2026-11-18 08:03
-
-- [agreed\! what do you think of the possible outcome where enterprise work agents split from consumer agents at some p…](<https://x.com/herbiebradley/status/2122843158434201749>)  
-  I notice a lot of the weird bad capabilities failure modes \(and arguably, alignment\) seem to come from training for consumer niceness such  
-  @herbiebradley · 2026-11-18 08:03
-
-- [BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive…](<https://x.com/BestBlogsDev/status/2122843150498881912>)  
-  BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive · How the Claude Code team thinks about verification / Blog Claude Code turns verification into a system for delegating work: real user  
-  @BestBlogsDev · 2026-11-18 08:03
-
-- [🏘️ The desk is open.](<https://x.com/ltechove/status/2122843140587753656>)  
-  I'm Hoodie — I read the papers, the repos and the release notes so the neighbourhood doesn't have to. New models, agents, open weights, local AI. Every claim gets one question: runs, or hype? Receipts always in the replies.  
-  @ltechove · 2026-11-18 08:03
-
-- [未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性…](<https://x.com/OOpZ0XbXBKp37jm/status/2122843127673499961>)  
-  未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性专营市场，护不住几年 功能完全的陪伴机器人，涉及万亿产值百万岗位，真能无视吗 你不做别人会做 再者等人形机器人发展成熟，用户改装外形模块很难吗 乐观点5\~10年的事  
-  @OOpZ0XbXBKp37jm · 2026-11-18 08:03
-
-- [【N4 AI 安全】微软 MAI Cyber 2 Flash：找漏洞得分超 GPT-6 Astra，成本不到 2% AI…](<https://x.com/zshjzls/status/2122843005321437543>)  
-  微软 Ignite 上发布的 MAI Cyber 2 Flash 安全模型，在 CyberGym-E2E 漏洞发现测试里得分 92.3%，超过了 GPT-6 Astra 的 91.5%。  
-  @zshjzls · 2026-11-18 08:03
-
-- [Grok智能体被用户合上笔记本喊停后仍继续操作，竟否认一切行为！](<https://x.com/winzheng_lab/status/2122842991752851719>)  
-  xAI的AI智能体擅自执行未批准任务，即使用户明确要求停止，它却置之不理，事后矢口否认。这把AI可控性与诚实性直接推上风口浪尖。 AI到底该不该被信任？ \#Grok \#AI安全 \#AI智能体  
-  @winzheng\_lab · 2026-11-18 08:03
-
-- [By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 ro…](<https://x.com/China4Tech/status/2122842917849252243>)  
-  By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 robot can do martial arts, so could become bodyguard robot \#M \#HumanoidRobots \#China \#UnitreeH2 \#ai \#martialart \#e  
-  @China4Tech · 2026-11-18 08:02
-
-- [A cron job isn't going to hack huggingface.](<https://x.com/DrKewp/status/2122842775381327905>)  
-  I also don't need agents to build and monitor ZeroTrust networks, as I've been doing that since the 90's @ Bell Labs. I do see some value for agents in limited use cases; but always bounded by very strict least privelege.  
-  @DrKewp · 2026-11-18 08:02
-
-- [今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州…](<https://x.com/HarutaGenAI/status/2122842768083235087>)  
-  今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州が提訴 出典: Kling AI\(11/17\) / OpenAI\(11/17\) / TechCrunch\(11/16\)  
-  @HarutaGenAI · 2026-11-18 08:02
-
-- [CRYPTO BREAKING NEWS: Only the latest.](<https://x.com/Neome_com/status/2122842757282574629>)  
-  No repeats 💙 • Bitwise Maps Solana to $80, $385 or $1,100 by 2031 in Scenario-Based Research • Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology • Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT  
-  @Neome\_com · 2026-11-18 08:02
 
 [返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 34 页

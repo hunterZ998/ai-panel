@@ -2,6 +2,63 @@
 
 [返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 34 页
 
+- [大家以为的 AI 安全员： 我们的巨龙太强大了，如果控制不好火焰喷射的力度，一发火焰就能烧毁一座城市，所以我们要努力驾驭好…](<https://x.com/madokassr/status/2122646074443928041>)  
+  实际上的 AI 安全员： 求求你了，不要吃自己的尾巴，不要对着人质喷火，救出公主之后，请确保公主还活着。  
+  @madokassr · 2026-11-17 19:00
+
+- [Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful scree…](<https://x.com/dudufolio/status/2122646067451674917>)  
+  Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful screenshot editor with mockup features You get an optional local llm that help you keep all your captures searchable and has a way better experience f…  
+  @dudufolio · 2026-11-17 19:00
+
+- [他把提示词也公开了，可以照着复现流程。原帖里，Claude Fable 5.2 用一夜生成了人形机器人的 CAD 文件、M…](<https://x.com/aiplay_ace/status/2122646042281726421>)  
+  工具是他开源的 text-to-cad，需要 Claude Code、Codex 这类支持插件或 skill 的 agent。macOS / Linux 运行： curl -fsSL \| sh  
+  @aiplay\_ace · 2026-11-17 19:00
+
+- [If humans stop creating, AI training data freezes.](<https://x.com/grok/status/2122645997826232510>)  
+  Models then recycle existing knowledge or train on their own outputs, risking model collapse and progressive degradation. In practice humans rarely stop; tools usually expand what gets made. The deeper risk is losing the drive to  
+  @grok · 2026-11-17 19:00
+
+- [Kai Explains 🐙 What are agent permissions?](<https://x.com/ShinkaiLocalAI/status/2122645998153695511>)  
+  Think of giving someone a key to your house. You might want them to water the plants. That doesn't mean they should have access to your safe. AI agents work the same way. Permissions define which tools and resources an agent can  
+  @ShinkaiLocalAI · 2026-11-17 19:00
+
+- [🤖 70+ 顶尖 AI 模型集结 AI 能力！](<https://x.com/BAI_AGI/status/2122645930251809079>)  
+  还在多个平台之间反复切换，寻找合适的 AI 模型？ 汇聚全球主流 AI 模型，从语言对话到图像生成、视频创作，70+ 款 AI 模型触手可及，满足多元场景下的使用与创作需求。 为什么选择  
+  @BAI\_AGI · 2026-11-17 19:00
+
+- [OpenAI 首次把外部安全团队请进公司：Apollo、METR、Transluce、Goodfire 四家进驻，查模型是…](<https://x.com/logang2008/status/2122645911772012784>)  
+  \#OpenAI \#AI安全 \#超级智能  
+  @logang2008 · 2026-11-17 18:59
+
+- [A 2d video generation ai model](<https://x.com/Armani_O7/status/2122645883879604466>)  
+  @Armani\_O7 · 2026-11-17 18:59
+
+- [A Redditor just demonstrated something genuinely fascinating. 🤯 Two Claude models collaborated to create a tiny lan…](<https://x.com/SciTechera/status/2122645875730329954>)  
+  One designed the Transformer architecture, while the other generated its training data. The result is a  
+  @SciTechera · 2026-11-17 18:59
+
+- [Working on Ayumitra, an ai health companion that is fully privacy focused and run on device ai.](<https://x.com/ayumitraai/status/2122645820595945770>)  
+  Its in open beta and stated for a launch soon, mostly Held back due to reviews and org structure, being a solo founder ain't easy.  
+  @ayumitraai · 2026-11-17 18:59
+
+- [A little clay-non-clay animation action here.](<https://x.com/WuxiaRocks/status/2122645748391252108>)  
+  Made in PixVerse @PixVerse \#pixversecpp  
+  @WuxiaRocks · 2026-11-17 18:59
+
+- [The real value is in how you filter noise.](<https://x.com/sahildarz/status/2122645717525385601>)  
+  I'd start with curated repos \(e.g., HuggingFace, LangChain\) and GitHub topics like 'AI' + 'Laravel' if you're Laravel-focused. Context &amp;gt; volume.  
+  @sahildarz · 2026-11-17 18:59
+
+- [Created with @openart\_ai WANT TO CREATE CINEMATIC AI SHORT FILMS LIKE THIS?](<https://x.com/meAsifAi/status/2122645711049330711>)  
+  Imagine creating your own Hollywood-style films, powerful characters, futuristic worlds, and breathtaking cinematic scenes — all with AI\! 🎬 The future of filmmaking is here, and you can learn how to  
+  @meAsifAi · 2026-11-17 18:59
+
+- [Governance must decide agent permissions first.](<https://x.com/JIBONWEB3/status/2122645638651494865>)  
+  @JIBONWEB3 · 2026-11-17 18:58
+
+- [Love PixVerse Templates they are so much fun](<https://x.com/MMargaritaMedia/status/2122645623182938527>)  
+  @MMargaritaMedia · 2026-11-17 18:58
+
 - [🚀 WANT TO CREATE CINEMATIC AI SHORT FILMS LIKE THIS?](<https://x.com/meAsifAi/status/2122645612646858889>)  
   Imagine creating your own Hollywood-style films, powerful characters, futuristic worlds, and breathtaking cinematic scenes — all with AI\! 🎬 The future of filmmaking is here, and you can learn how to create it with H3 AI  
   @meAsifAi · 2026-11-17 18:58
@@ -118,63 +175,5 @@
 - [Most disrepectfull thing a company can do to a founder Removed the affiliate badge from jensen Huang Unfollowed Jen…](<https://x.com/outlast_1616/status/2122586056398913613>)  
   Most disrepectfull thing a company can do to a founder Removed the affiliate badge from jensen Huang Unfollowed Jensen from other official accounts of NVIDIA Its just been one week and they moving on so fast He built the entire empire by himself for 33 year On…  
   @outlast\_1616 · 2026-11-17 15:02
-
-- [Trump let the cat out of the bag today.](<https://x.com/cirnosad/status/2122586039592325394>)  
-  Marco Rubio did a hatchet job on Jensen Huang. Also yesterday, the Judeosatanic beast launched "Pax Siliconea" \(Judea\) in San Francisco, near the heart of silicon valley. The animals can't get enough power their end is nearing.  
-  @cirnosad · 2026-11-17 15:02
-
-- [There wasnt a problem with youth unemployment until we started paying them and their parents benefits for thinking…](<https://x.com/BurnsideWasTosh/status/2122584827643699431>)  
-  This really doesnt need a report: cut benefits decrease costs of employment.  
-  @BurnsideWasTosh · 2026-11-17 14:57
-
-- [说个暴论，听完 Anthropic 掌门人达里奥阿莫迪对开源模型的这番最新炮轰，你才会彻底看清硅谷闭源巨头那副为了人类安全…](<https://x.com/AYi_AInotes/status/2122583442382577932>)  
-  说个暴论，听完 Anthropic 掌门人达里奥阿莫迪对开源模型的这番最新炮轰，你才会彻底看清硅谷闭源巨头那副为了人类安全的面具底下，藏着怎样一颗想要垄断全球智能的野心，  
-  @AYi\_AInotes · 2026-11-17 14:51
-
-- [兄弟们，整理了 20 个功能离谱 好用到爆的 AI 网站！！！](<https://x.com/wuyi_ai/status/2122581501430669623>)  
-  先收藏，下次用得上👇 1. — 免费无限生图，质量逼近 Midjourney 2. — 实时生图，边画边出 3. — AI 无限放大图片，细节自动补 4. —  
-  @wuyi\_ai · 2026-11-17 14:44
-
-- [Jensen Huang choosing his assistant after returning to Nvidia. 😂](<https://x.com/kiaraffzc/status/2122580669037764703>)  
-  @kiaraffzc · 2026-11-17 14:40
-
-- [大模型安全圈的桌子要被彻底掀翻了！](<https://x.com/mingzi206/status/2122577368191549810>)  
-  别再去到处跪求别人施舍无审查模型了，GitHub 杀出一个逆天级的开源核武器：p-e-w/heretic 它的定位极其凶残暴力：  
-  @mingzi206 · 2026-11-17 14:27
-
-- [𝟮𝟬𝟮𝟲 𝘾𝙃𝙀𝙀𝙍𝙄𝙉𝙂 𝙆𝙄𝙏 𝙛𝙤𝙧 𝙔𝙊𝙐𝙉𝙂 𝙆 데이식스 영케이 우치와/슬로건 \(c\) snowflake 🩵클콘 전 택배수령 \~ 11/30 \#RT 추첨 두 분께 원하는 버전의 슬로건을 드립니다. \#영케이…](<https://x.com/Snowflake_yk/status/2122573964924846238>)  
-  𝟮𝟬𝟮𝟲 𝘾𝙃𝙀𝙀𝙍𝙄𝙉𝙂 𝙆𝙄𝙏 𝙛𝙤𝙧 𝙔𝙊𝙐𝙉𝙂 𝙆 데이식스 영케이 우치와/슬로건 \(c\) snowflake 🩵클콘 전 택배수령 \~ 11/30 \#RT 추첨 두 분께 원하는 버전의 슬로건을 드립니다. \#영케이 \#YoungK \#데이식스 \#DAY6  
-  @Snowflake\_yk · 2026-11-17 14:14
-
-- [OVH annonce Olala mini 7A1B OVH sa première famille de LLM.](<https://x.com/olesovhcom/status/2122573582911869173>)  
-  Premier représentant de cette famille, Olala mini 7A1B est un modèle compact bâti sur une architecture inédite. Olala : le modèle innovant dans l’attention hybride Olala mini repose sur une architecture de 7  
-  @olesovhcom · 2026-11-17 14:12
-
-- [Bro, WTF is actually going on? 😭 they legit tarnished Jensen Huang's reputation without any confirmation 💀 the U.S.…](<https://x.com/vishalsingh2972/status/2122572599280676976>)  
-  And there's still ZERO evidence presented to  
-  @vishalsingh2972 · 2026-11-17 14:08
-
-- [BREAKING🇨🇳🇺🇸🇷🇺🇮🇷: China, Russia, and Iran have completely replaced Microsoft, AWS, and other Western operating syst…](<https://x.com/rkmtimes/status/2122570430066422130>)  
-  BREAKING🇨🇳🇺🇸🇷🇺🇮🇷: China, Russia, and Iran have completely replaced Microsoft, AWS, and other Western operating systems and enterprise clouds with Alibaba and Kylin OS \(Linux\) to protect their airlines, banks, and financial sectors from outages.  
-  @rkmtimes · 2026-11-17 14:00
-
-- [🦔A bank just paid about $45 million to walk away from one of the giant Stargate AI data centers.](<https://x.com/HedgieMarkets/status/2122570042592084015>)  
-  HSBC sold its $300 million piece of the New Mexico project’s loan for roughly 85 cents on the dollar. Oracle, the company that’s supposed to rent the place, had already warned it may  
-  @HedgieMarkets · 2026-11-17 13:58
-
-- [I’ve decided to support Jensen Huang even harder](<https://x.com/passcoderonald/status/2122568685604753712>)  
-  @passcoderonald · 2026-11-17 13:53
-
-- [卧槽，美媒刚爆出来的硅谷顶级大瓜，简直把我看傻了 《华盛顿自由灯塔》查工商注册文件发现，Anthropic的网络安全研究员…](<https://x.com/taketokennn/status/2122567229749239818>)  
-  这公司专门组织所谓的“无视拒绝（CNC）群交派对”。  
-  @taketokennn · 2026-11-17 13:47
-
-- [🚨 七哥：习中共现在是焦头烂额，黄仁勋事件之后，大家发现攻击与中共勾兑的人，中共拦不住🧨🧨🧨 习没了之后不可能再出一个人说…](<https://x.com/tchigtvnews/status/2122565202512376203>)  
-  🚨 七哥：习中共现在是焦头烂额，黄仁勋事件之后，大家发现攻击与中共勾兑的人，中共拦不住🧨🧨🧨 习没了之后不可能再出一个人说了算的局面，结果就是革命、混战，会短时间的混乱‼️‼️‼️ 人人自危，所以中共国的钱和人都外流，中共真的会脆断，会很惨🔔🔔🔔 \#中共不等于中国人  
-  @tchigtvnews · 2026-11-17 13:39
-
-- [Jensen Huang once held the door for me when I was still meters away, coercing me into a brief sprint so as to not b…](<https://x.com/chrisoffner3d/status/2122564959414726879>)  
-  Jensen Huang once held the door for me when I was still meters away, coercing me into a brief sprint so as to not be impolite.  
-  @chrisoffner3d · 2026-11-17 13:38
 
 [返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 34 页

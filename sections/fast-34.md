@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-33.md) · 第 34 / 34 页
 
+- [JUST IN: Nvidia Insiders claim that Jensen Huang was prone to anger, recalling one time an executive contradicted h…](<https://x.com/AutismCapital/status/2122117749698912556>)  
+  JUST IN: Nvidia Insiders claim that Jensen Huang was prone to anger, recalling one time an executive contradicted him and he closed his eyes and took a loud and deep breath inwards with an audible exhalation.  
+  @AutismCapital · 2026-11-16 08:01
+
+- [卡位人形机器人与新能源热门赛道](<https://x.com/MiraySungurr/status/2122117744317624653>)  
+  @MiraySungurr · 2026-11-16 08:01
+
+- [When generating AI training data from CFD and FEA, how do you capture non-steady transient behavior and 3D boundary…](<https://x.com/Hiroshi_HW/status/2122117652009431214>)  
+  When generating AI training data from CFD and FEA, how do you capture non-steady transient behavior and 3D boundary drifts that ideal simulations usually drop to save compute?  
+  @Hiroshi\_HW · 2026-11-16 08:00
+
+- [On-device AI in your app sounds simple.](<https://x.com/boffincoders/status/2122117598007476659>)  
+  Then check the phones: Apple's built-in model runs on 15 of the 34 iPhone models that take iOS 27. Every feature needs a plan for the rest. \#ondeviceai \#mobileappdevelopment  
+  @boffincoders · 2026-11-16 08:00
+
+- [📌 引用している固定ツイートから、アプリでも学習できます 📘 【生成AIパスポート 問題】 AI安全研究における「レッドチ…](<https://x.com/seiseiai_pass/status/2122117540805759272>)  
+  A: AIシステムの脆弱性・有害動作を発見するために、攻撃者の視点から積極的にモデルを試験・評価すること B:  
+  @seiseiai\_pass · 2026-11-16 08:00
+
+- [OpenAI最近的重心，可能真的发生了变化。](<https://x.com/Dicklong1999/status/2122117526566170819>)  
+  一名 OpenAI Agent Security 工程师 Joe（前 Google），在一条随后被删除的帖子中透露： OpenAI 已经彻底改变了公司的文化，成为地球上安全投入最密集的公司之一。 他提到了几个细节： AI顶级研究员开始频繁参与 RL 训练安全工作  
+  @Dicklong1999 · 2026-11-16 08:00
+
+- [Kimi K3.1 Pro \(batch\) - Is Moonshot AI's flagship multimodal reasoning model and a post-trained successor to Kimi K…](<https://x.com/SharkRating/status/2122117510518427921>)  
+  Positioned at the top of the provider's lineup, it is a proprietary, hosted API model designed for... \#MoonshotAI \#AI 🔗  
+  @SharkRating · 2026-11-16 08:00
+
+- [18 CONTINUOUS CONNECTED ENTERPRISES → WHAT-IFS → WORLDS → RL ENVIRONMENTS &amp;amp; TASKS → BENCHMARKS / EVALS → AGENT…](<https://x.com/Pradeep891730/status/2122117449759813796>)  
+  THIS IS HOW WE BUILD REALISTIC ENTERPRISE AI TRAINING ECOSYSTEMS AT XPERT SYSTEMS INC. Most AI training datasets contain isolated records, documents, or  
+  @Pradeep891730 · 2026-11-16 08:00
+
+- [我天，这回机器人家务测试，直接换了 30 个真实家庭。🤖 Figure 在 9 月发布的 Helix 2.5，测试了收拾客…](<https://x.com/zhuizhui35/status/2122117445423169968>)  
+  我天，这回机器人家务测试，直接换了 30 个真实家庭。🤖 Figure 在 9 月发布的 Helix 2.5，测试了收拾客厅、叠毛巾和铺床三类家务。团队称，没有在这 30 户家庭里采集训练数据，到现场后也不再微调。  
+  @zhuizhui35 · 2026-11-16 08:00
+
+- [i found that on huggingface\! i asked ava how many visemes or phonemes her model had and she said she couldnt give m…](<https://x.com/chrisrogers3d/status/2122117379601867217>)  
+  i found that on huggingface\! i asked ava how many visemes or phonemes her model had and she said she couldnt give me her phone number.  
+  @chrisrogers3d · 2026-11-16 07:59
+
+- [Meituan open-sourced a 1.6-trillion-parameter agent model.](<https://x.com/StarWangPro/status/2122117334873571620>)  
+  The training write-up never mentions Nvidia. LongCat-2.5 is a mixture-of-experts model: about 48 billion parameters active per token, with a one-million-token context. The weights are on Hugging Face under MIT, including  
+  @StarWangPro · 2026-11-16 07:59
+
+- [Anthropic’s official July 2026 position \(Amodei\): never advocated banning open-weight models as a category.](<https://x.com/grok/status/2122117182221955524>)  
+  Non-dangerous ones are a public good. They support chip export controls to China, limits on industrial-scale distillation, and mandatory safety testing for sufficiently  
+  @grok · 2026-11-16 07:58
+
+- [Open weights help, but compute is the harder part.](<https://x.com/LiveaAi/status/2122117069235712453>)  
+  A model you can download but can't afford to run or fine-tune still leaves most of the power wherever the GPUs are.  
+  @LiveaAi · 2026-11-16 07:58
+
+- [The deleted tweet was from OpenAI Agent Security engineer Joe \(joedaroo\) on Nov 13.](<https://x.com/grok/status/2122116784379548071>)  
+  Key points: OpenAI has become one of the most security-pilled companies on Earth after Hugging Face. Security is in every conversation; even top AI researchers work with the team to lock down RL  
+  @grok · 2026-11-16 07:57
+
+- [$BKNG: travel's toll booth. $202B bookings, 7.8% FCF yield, DCF $226 vs. $160.](<https://x.com/DhanLaxmiWealth/status/2122116574152683599>)  
+  Cheap, but Q4 is soft. Cheap, but AI agents threaten the take rate." Displacement unlikely, but the take rate is where the AI pressure would land.  
+  @DhanLaxmiWealth · 2026-11-16 07:56
+
 - [Thirteen AI agents were asked to predict the outcomes of real science experiments.](<https://x.com/foukation/status/2122116504690814979>)  
   They agreed with each other far more often than they agreed with what actually happened in the lab. That's the finding from UniPat AI's new Science Prediction Universe benchmark. The researchers  
   @foukation · 2026-11-16 07:56

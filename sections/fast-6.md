@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 34 页
 
+- [UCSD Hao AI Lab 用 vstack 在 SGLang 上做智能体形式化验证](<https://x.com/haoailab/status/2122758544462434802>)  
+  UCSD Hao AI Lab 与 SGLang 社区合作，将 vstack 用于 SGLang 的智能体形式化验证，补充常规单元与 e2e CI，通过穷举异步交错与状态转换来捕获并发和多步 bug。团队称已提出 20+ 个 issue 与修复 PR，推文中分享了其中 5 个，涵盖权重更新竞态条件…  
+  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-18 02:27
+
+- [IDEA: Instead of coming back to Nvidia directly, Jensen should try to route himself through a holding company in Ma…](<https://x.com/CaseyNewton/status/2122758254464016511>)  
+  IDEA: Instead of coming back to Nvidia directly, Jensen should try to route himself through a holding company in Malaysia or Singapore  
+  @CaseyNewton · 2026-11-18 02:26
+
+- [Jensen on his first day back in office at @nvidia \#standwithjensen](<https://x.com/greghunkins/status/2122758106216083520>)  
+  @greghunkins · 2026-11-18 02:25
+
+- [Muse Wonder, Muse Spark 1.3, and Muse Ember are coming soon to Microsoft Foundry on @Azure.](<https://x.com/finkd/status/2122757701591855362>)  
+  @finkd · 2026-11-18 02:24
+
+- [We built Higgsfield Miracle to address one of the biggest challenges in AI video: editing a specific part of a shot…](<https://x.com/higgsfield/status/2122757676484419685>)  
+  Powered by GPT-6.2 Astra, it splits any video into layers for pixel-level editing in real time, with world knowledge built in. Every  
+  @higgsfield · 2026-11-18 02:24
+
+- [6.2 Astra is here.](<https://x.com/theo/status/2122757647170703550>)  
+  I’ve been testing it for awhile. I think this is the worst model OpenAI has ever released. I’ll share more soon.  
+  @theo · 2026-11-18 02:23
+
+- [La Ministra Lincolao tiene agenda propia.](<https://x.com/BotCheckerCL/status/2122757612701647152>)  
+  Adjudicó a OpenAI acceso a datos sensibles. Sin licitación, sin análisis de riesgos, sin comparativa con otros actores del mercado como Claude, Gemini o Grok. Contraloría debe revisar los términos de este acuerdo lo antes posible.  
+  @BotCheckerCL · 2026-11-18 02:23
+
+- [GPT-6.2 Astra system card 显示自改进评级 High、网络安全评级 Critical](<https://x.com/rohanpaul_ai/status/2122757283449082323>)  
+  Rohan Paul 转述 OpenAI 的 GPT-6.2 Astra 和 Sol 系统卡要点，称其为 OpenAI 首个公开发布、AI 自改进被评为 High 的模型，两个模型网络安全评级均为最高档 Critical。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 02:22
+
+- [Dear Nvidia Board of Directors: You have only one job: maximizing shareholder value.](<https://x.com/DrEliDavid/status/2122757269305589871>)  
+  That's it. And reinstating @JensenHuang is what will do precisely that. All the rest is none of your business.  
+  @DrEliDavid · 2026-11-18 02:22
+
+- [Dear Secretary Mullin @SecMullinDHS, This morning the classified network of the National Security Agency was report…](<https://x.com/EverettStern1/status/2122757079014240523>)  
+  That makes five in five days. Microsoft. The FAA. United Airlines. Major American banks. Now the NSA. You have said you are 98 percent certain this is  
+  @EverettStern1 · 2026-11-18 02:21
+
+- [GPT-6.2 Astra 登顶 AA-Robotics 榜](<https://x.com/ArtificialAnlys/status/2122757022710104131>)  
+  GPT-6.2 Astra 成为 AA-Robotics v0.1 的新榜首，得分 79，比 GPT-6 Astra 高 10 分，领先于 GPT-6.2 Sol（78）、Claude Fable 5.2（75）和 Gemini 4 Hydrogen（58） 通过 Codex 控制真实机械臂，它通…  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:21
+
+- [🇺🇸 ‼️ \| Miles de usuarios reportan fallos en Gmail, Marriott, Outlook y Microsoft 365, y también en servicios de Ap…](<https://x.com/UHN_Plus/status/2122756691494043956>)  
+  Google no registra interrupciones activas en su panel de estado y Microsoft afirma que ya opera con normalidad, así que no hay una  
+  @UHN\_Plus · 2026-11-18 02:20
+
+- [The FBI just confirmed what every engineer already knows: centralization is a security flaw.](<https://x.com/brivael/status/2122756526871806444>)  
+  On November 13, the Bureau issued an alert about ARTEX, an open-source AI tool that automates cyberattacks end to end. Reconnaissance, vulnerability discovery, exploitation, privilege  
+  @brivael · 2026-11-18 02:19
+
+- [We're thrilled to invest in First Person Labs.](<https://x.com/a16z/status/2122756295744983543>)  
+  For personal agents to become useful in everyday life, they need a total understanding of you. That creates something extraordinarily sensitive: a model of your relationships, priorities, habits, and intentions. We believe you  
+  @a16z · 2026-11-18 02:18
+
+- [Primero cayó Microsoft por 20 horas, una locura.](<https://x.com/martinvars/status/2122756213863764170>)  
+  Después vino el ground stop de la FAA que paralizó aeropuertos a nivel nacional el viernes 14, otro delirio. El lunes 16, United Airlines reportó y resolvió una falla tecnológica que retrasó salidas. Binance sufrió un hack masivo  
+  @martinvars · 2026-11-18 02:18
+
 - [Noam Brown 评价 GPT-6.2 Astra：20 美元月费可用部分领域超越顶尖人类的模型](<https://x.com/polynoamial/status/2122756095596970090>)  
   Noam Brown 称赞 OpenAI 的 GPT-6.2 Astra，认为每月 20 美元即可使用一个在某些领域超越顶尖人类智能的模型，并表示最期待看到人们用它做出科学发现。其引用的 OpenAI 内容称该模型在专业工作和科研评测中创下新高，单任务成本不到 GPT-6 Astra 的三分之一，…  
   X：Noam Brown \(@polynoamial\) · 2026-11-18 02:17
@@ -119,63 +177,5 @@
 - [Jensen Huang is a historic entrepreneur with a historic impact on humanity, and attempts to cancel him over private…](<https://x.com/kadmitriev/status/2122751724016554422>)  
   Jensen Huang is a historic entrepreneur with a historic impact on humanity, and attempts to cancel him over private matters are a historical mistake.  
   @kadmitriev · 2026-11-18 02:00
-
-- [🇺🇸 Anthropic paid $1.63 MILLION to two Trump-connected lobbying firms, and their ties to Rubio are now drawing atte…](<https://x.com/MarioNawfal/status/2122751622489252052>)  
-  NVIDIA CEO Jensen Huang. One firm, Continental Strategy, received $740,000 and is led in Washington by Rubio’s  
-  @MarioNawfal · 2026-11-18 02:00
-
-- [GPT-6.2 Astra 在 ARC-AGI-3 动作效率表现](<https://x.com/arcprize/status/2122751235841220774>)  
-  在全部 25 个 ARC-AGI-3 公开游戏中，以最大推理强度运行时，GPT-6.2 Astra 所用动作数比人类基线少 64.1%，比使用提供商适配器测试框架的 GPT-6 Astra 少 5.2%：  
-  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
-
-- [OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 上取得 100% 满分](<https://x.com/arcprize/status/2122751233442156678>)  
-  ARC Prize 公布 OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 的成绩：ARC-AGI-3 达 100.0%（SOTA），为首个在该基准拿满分的模型，provider adapter 成本 $4.1K、standard 模式 70.3%、成本 $24.…  
-  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
-
-- [\#BREAKING: Apple, Microsoft Outlook, Gmail, and Schwab hit by new outages, users report.](<https://x.com/InsiderWire/status/2122751188802163184>)  
-  @InsiderWire · 2026-11-18 01:58
-
-- [Many Will Use The Competitive Market As A Reason Jensen Huang Was Ousted They will not bring up Megaspeed.](<https://x.com/Prolotario1/status/2122751074276659651>)  
-  They will not bring up smuggled H100s. They will not bring up capped NVIDIA GPUs in US markets. This Is 100% About Jensen Huang Personal Criminal Actions \(Not Who He  
-  @Prolotario1 · 2026-11-18 01:57
-
-- [Flights halted.](<https://x.com/FoxNews/status/2122751051631845504>)  
-  Workplace systems disrupted. Banking customers reporting problems. A string of technology outages is putting the nation’s dependence on digital infrastructure in the spotlight after major disruptions involving Microsoft, the FAA, Workday, Chase and other banks…  
-  @FoxNews · 2026-11-18 01:57
-
-- [OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol](<https://x.com/ChatGPT/status/2122751009156210841>)  
-  OpenAI 官宣 GPT-6.2 Astra 和 GPT-6.2 Sol 开放使用，主打游戏制作，同时擅长制作幻灯片、搭建网站和处理日常任务。模型自今日起向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise 及 Edu 用户推送。  
-  X：ChatGPT \(@ChatGPT\) · 2026-11-18 01:57
-
-- [OpenAI 发布 GPT-6.2 Astra：以约三分之一成本提供前沿性能](<https://x.com/sherwinwu/status/2122750964658753570>)  
-  OpenAI 发布 GPT-6.2 Astra，面向 hardest projects 的前沿模型，在专业工作和科研评测中创下新高，每任务成本不到 GPT-6 Astra 的三分之一。作者称其在会计、法律和科学研究等真实专业工作中表现尤为突出，幻灯片、网站和 3D 设计上可见差异。  
-  X：Sherwin Wu（@sherwinwu） · 2026-11-18 01:57
-
-- [Diputada Yeomans \(FA\) oficia a ministra Lincolao tras acuerdo con OpenAI y pide explicar qué pasará con los datos d…](<https://x.com/CNNChile/status/2122750798107210158>)  
-  Diputada Yeomans \(FA\) oficia a ministra Lincolao tras acuerdo con OpenAI y pide explicar qué pasará con los datos de las personas  
-  @CNNChile · 2026-11-18 01:56
-
-- [It’s a testament to how far down the rabbit hole we already are, that Jensen Huang unapologetically thinks he can h…](<https://x.com/Amy_Siskind/status/2122750655492186389>)  
-  It’s a testament to how far down the rabbit hole we already are, that Jensen Huang unapologetically thinks he can have his job back after all the rules he has broken, including at his own company.  
-  @Amy\_Siskind · 2026-11-18 01:56
-
-- [JUST IN: OpenAI officially launches its newest &amp;amp; most powerful AI models GPT-6.2 Astra &amp;amp; Sol.](<https://x.com/WatcherGuru/status/2122750647346835688>)  
-  @WatcherGuru · 2026-11-18 01:56
-
-- [Artificial Analysis 评测 GPT-6.2 Astra 与 GPT-6.2 Sol：智能指数第二，编码代…](<https://x.com/ArtificialAnlys/status/2122750634210529569>)  
-  Artificial Analysis 评测 OpenAI 新发布的 GPT-6.2 Astra 和 GPT-6.2 Sol：Astra 在 Artificial Analysis Intelligence Index 上涨 5 分至 62。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 01:56
-
-- [AI company Anthropic has paid $1.63 million to two lobbying firms tied to Secretary of State Marco Rubio and former…](<https://x.com/AFpost/status/2122750572747018646>)  
-  Since April 2025, Anthropic has paid $740,000 to Continental Strategy, whose DC office is run by Rubio's former Senate  
-  @AFpost · 2026-11-18 01:55
-
-- [Dario Amodei 在 Anthropic IPO 路演中向 Jamie Dimon 谈人才留存与文化](<https://x.com/rohanpaul_ai/status/2122750398201205042>)  
-  Dario Amodei 在 Anthropic IPO 路演中与 JP Morgan CEO Jamie Dimon 对谈，称从其他公司流入 Anthropic 的人多于流出，7 位联合创始人全部仍在公司，离职者也常回归。他强调公司不想要难以合作、抢风头或不以公共利益为导向的人，坚持这一标准短期…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 01:55
-
-- [🇺🇸 Jensen Huang admitted he made SERIOUS personal mistakes, apologized to his family, and declared he's ready to re…](<https://x.com/MarioNawfal/status/2122750369948479810>)  
-  In an emotional statement, Huang took full responsibility for the controversy that led to his departure and pledged  
-  @MarioNawfal · 2026-11-18 01:55
 
 [返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 34 页

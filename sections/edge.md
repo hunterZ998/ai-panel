@@ -20,11 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 7 条
+## 相关资讯 · 6 条
 
-- [Edge AI Daily 早报（11月18日）](<https://www.tmtpost.com/8208923.html>)  
-  Anthropic IPO由亚马逊与谷歌合计持股近三成，估值1.405万亿美元，公开市场检验现金流与算力成本。OpenAI发布GPT-6.2双模型，推进企业分层商业化，并携北约网络防御、签约AMD算力。英伟达遭SEC调查、创始人辞任、…  
-  钛媒体 · 2026-11-18 08:48
+- [瑞芯微 RK1860 规格曝光：64TOPS 稠密 INT8 算力，集成至多 10GB DRAM](<https://www.ithome.com/1/028/874.htm>)  
+  IT之家 11 月 18 日消息，开源硬件制造商 Radxa 此前分享了瑞芯微 \(Rockchip\) 端侧 AI 协处理器 RK1860 的规格信息。 这一芯片的 NPU 单元具备 64TOPS 稠密 INT8 算力 ，集成至多 10…  
+  IT之家 · 2026-11-18 16:08
 
 - [Meta 个人 AI 智能体 Muse 在澳大利亚上线](<https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/>)  
   Meta 宣布个人 AI 智能体 Muse 在澳大利亚上线，可通过 iOS、Android、muse.ai 和 Mac 应用使用，并将登陆 AI 眼镜。  
@@ -41,10 +41,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
   Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
   @SamuelZengML · 2026-11-13 02:00
-
-- [Tether AI Research 发布 BotPsy 0.8B 端侧智能体模型](<https://huggingface.co/blog/qvac/botpsy>)  
-  Tether AI Research 在 Hugging Face 博客介绍 BotPsy，一个基于 Qwen3.5-0.8B 的 0.8B 参数函数调用与智能体模型，面向端侧部署。  
-  Hugging Face 社区博客（混合发现） · 2026-11-11 13:01
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

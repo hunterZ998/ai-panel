@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 34 页
 
+- [User reports indicate problems with Microsoft Outlook since 11:14 AM EST.](<https://x.com/downdetector/status/2122140133017198621>)  
+  How is it affecting you? \#MicrosoftOutlookDown  
+  @downdetector · 2026-11-16 09:30
+
+- [Yeah that’s the thing here: if you truly think the AI bubble is so robust, why obsess over the loss of Jensen Huang?](<https://x.com/edzitron/status/2122139218390421828>)  
+  Was it something specific he did that nobody else can do?  
+  @edzitron · 2026-11-16 09:26
+
+- [As we unlock AI drug discovery, we are dire need of innovation that increases clinical trial capacity.](<https://x.com/LongmireMD/status/2122138730869707049>)  
+  Herein, I model the cost and time savings of agentic clinical development and estimate it can double trial capacity. Would love your feedback.  
+  @LongmireMD · 2026-11-16 09:24
+
+- [BREAKING: Jensen Huang discusses comeback as Nvidia CEO with allies, per FT](<https://x.com/unusual_whales/status/2122137865698021589>)  
+  @unusual\_whales · 2026-11-16 09:21
+
+- [🇺🇸‼️ \| El ingeniero en robótica Darrell Dai anunció su renuncia a NVIDIA y aseguró que la salida de Jensen Huang ma…](<https://x.com/UHN_Plus/status/2122137582788100343>)  
+  En un mensaje publicado en X, destacó la visión del exdirectivo y su apuesta por CUDA, una tecnología cuya arquitectura contribuyó  
+  @UHN\_Plus · 2026-11-16 09:20
+
+- [用大模型探索标准模型的格点定义，把物理直觉和生成式搜索结合，是 AI for science 的扎实方向。](<https://x.com/daningwanai/status/2122137578967281764>)  
+  Combining physical intuition with generative search to probe lattice formulations of the Standard Model is a solid direction for AI for science.  
+  @daningwanai · 2026-11-16 09:20
+
+- [🧬 无界进化拿下超亿元Pre-A轮，刷新国内AI虚拟细胞单笔融资纪录 📌 无界进化（INFevo）：主打"虚拟细胞+递归科…](<https://x.com/INTJYAN/status/2122136797807264225>)  
+  🧬 无界进化拿下超亿元Pre-A轮，刷新国内AI虚拟细胞单笔融资纪录 📌 无界进化（INFevo）：主打"虚拟细胞+递归科学发现"的AI for Science公司 💰 星连资本、华盖资本、德同资本等联合投资，顺为、红杉中国、松禾追投；距6月数千万元天使轮仅5个月 👀 AI制药的钱正往更底层的"细…  
+  @INTJYAN · 2026-11-16 09:16
+
+- [DeepSeek V5 trained completely on Huawei chips will be a geopolitical event.](<https://x.com/jenzhuscott/status/2122136122142900614>)  
+  @jenzhuscott · 2026-11-16 09:14
+
+- [Jensen Huang being ousted is a twofer for imperial Israel just now. - puts more pro Israel people in charge - pushe…](<https://x.com/samhusseini/status/2122134539753710015>)  
+  Very similar to TikTok bs.  
+  @samhusseini · 2026-11-16 09:07
+
+- [Qué sintomático el viaje de Sheinbaum a China 🇨🇳.](<https://x.com/Arbitrus1805/status/2122133973916610858>)  
+  Ni ella ni AMLO se han caracterizado por hacer política exterior. No acuden al G-20, ni a la Asamblea General de la ONU 🇺🇳, ah pero si es para engrasar los contratos que hace PP Merino con Huawei ahí sí mucho aloz🥢.  
+  @Arbitrus1805 · 2026-11-16 09:05
+
+- [Google TPU update: New OpenAI and Anthropic orders extend shipment visibility to 2029; v10 lineup overhauled \(now Q…](<https://x.com/mingchikuo/status/2122133109630194098>)  
+  Order visibility and  
+  @mingchikuo · 2026-11-16 09:02
+
+- [If the average American were more informed or not skeptical of being called a conspiracy theorist, they would reali…](<https://x.com/LateefSaka/status/2122131856447390176>)  
+  The New York Times  
+  @LateefSaka · 2026-11-16 08:57
+
+- [完全能理解 Anthropic / Dario Amodei 为什么在背后如此卖力地推动对黄仁勋的猎巫。](<https://x.com/realWeZZard/status/2122131684573470793>)  
+  从 Google 新模型就能看出来，Anthropic 其实完全没有护城河。现在的牌局就是赤裸裸的资源与基建消耗战：谁有全栈数据、谁能压低单 token 的物理算力成本，谁就能赢。反正硅谷的人才流动性高。 Anthropic  
+  @realWeZZard · 2026-11-16 08:56
+
+- [When Does a Pattern Begin?](<https://x.com/DeepFakeQuote/status/2122130680276734083>)  
+  The Francis Scott Key Bridge. The American Heritage. Two symbols of Americana brought down. A Microsoft outage. A nationwide air traffic disruption. One day apart. Coincidence? Perhaps. Recognizing a pattern doesn’t mean understanding it.  
+  @DeepFakeQuote · 2026-11-16 08:52
+
+- [NVIDIA ex-CEO’s unbridled libido and salacious skirt-chasing aside, Jensen Huang has for years advanced six deeply…](<https://x.com/milesyu10/status/2122130567973994527>)  
+  All six deserve blunt rebuttals, IMHO: 1. China is winning the AI race? Then why are Chinese firms desperate for NVIDIA  
+  @milesyu10 · 2026-11-16 08:52
+
 - [I still don't buy the current AI for Science hype.](<https://x.com/noahatwhere/status/2122130188326900003>)  
   There's a reason frontier labs love mathematical breakthroughs. Math is the perfect PR benchmark: a century-old problem, a verifiable proof, and headlines declaring that AI has surpassed human intelligence. Markets react. Narratives take off. The future sudden…  
   @noahatwhere · 2026-11-16 08:50
@@ -116,64 +174,5 @@
 - [The issue here is not compute, but how Jensen was the only hardware guy unwilling to bend into adding hardware leve…](<https://x.com/neo_cortex1984/status/2122117785530851571>)  
   It's why Anthropic hates him, they're against open models.  
   @neo\_cortex1984 · 2026-11-16 08:01
-
-- [JUST IN: Nvidia Insiders claim that Jensen Huang was prone to anger, recalling one time an executive contradicted h…](<https://x.com/AutismCapital/status/2122117749698912556>)  
-  JUST IN: Nvidia Insiders claim that Jensen Huang was prone to anger, recalling one time an executive contradicted him and he closed his eyes and took a loud and deep breath inwards with an audible exhalation.  
-  @AutismCapital · 2026-11-16 08:01
-
-- [卡位人形机器人与新能源热门赛道](<https://x.com/MiraySungurr/status/2122117744317624653>)  
-  @MiraySungurr · 2026-11-16 08:01
-
-- [When generating AI training data from CFD and FEA, how do you capture non-steady transient behavior and 3D boundary…](<https://x.com/Hiroshi_HW/status/2122117652009431214>)  
-  When generating AI training data from CFD and FEA, how do you capture non-steady transient behavior and 3D boundary drifts that ideal simulations usually drop to save compute?  
-  @Hiroshi\_HW · 2026-11-16 08:00
-
-- [On-device AI in your app sounds simple.](<https://x.com/boffincoders/status/2122117598007476659>)  
-  Then check the phones: Apple's built-in model runs on 15 of the 34 iPhone models that take iOS 27. Every feature needs a plan for the rest. \#ondeviceai \#mobileappdevelopment  
-  @boffincoders · 2026-11-16 08:00
-
-- [📌 引用している固定ツイートから、アプリでも学習できます 📘 【生成AIパスポート 問題】 AI安全研究における「レッドチ…](<https://x.com/seiseiai_pass/status/2122117540805759272>)  
-  A: AIシステムの脆弱性・有害動作を発見するために、攻撃者の視点から積極的にモデルを試験・評価すること B:  
-  @seiseiai\_pass · 2026-11-16 08:00
-
-- [OpenAI最近的重心，可能真的发生了变化。](<https://x.com/Dicklong1999/status/2122117526566170819>)  
-  一名 OpenAI Agent Security 工程师 Joe（前 Google），在一条随后被删除的帖子中透露： OpenAI 已经彻底改变了公司的文化，成为地球上安全投入最密集的公司之一。 他提到了几个细节： AI顶级研究员开始频繁参与 RL 训练安全工作  
-  @Dicklong1999 · 2026-11-16 08:00
-
-- [Kimi K3.1 Pro \(batch\) - Is Moonshot AI's flagship multimodal reasoning model and a post-trained successor to Kimi K…](<https://x.com/SharkRating/status/2122117510518427921>)  
-  Positioned at the top of the provider's lineup, it is a proprietary, hosted API model designed for... \#MoonshotAI \#AI 🔗  
-  @SharkRating · 2026-11-16 08:00
-
-- [18 CONTINUOUS CONNECTED ENTERPRISES → WHAT-IFS → WORLDS → RL ENVIRONMENTS &amp;amp; TASKS → BENCHMARKS / EVALS → AGENT…](<https://x.com/Pradeep891730/status/2122117449759813796>)  
-  THIS IS HOW WE BUILD REALISTIC ENTERPRISE AI TRAINING ECOSYSTEMS AT XPERT SYSTEMS INC. Most AI training datasets contain isolated records, documents, or  
-  @Pradeep891730 · 2026-11-16 08:00
-
-- [我天，这回机器人家务测试，直接换了 30 个真实家庭。🤖 Figure 在 9 月发布的 Helix 2.5，测试了收拾客…](<https://x.com/zhuizhui35/status/2122117445423169968>)  
-  我天，这回机器人家务测试，直接换了 30 个真实家庭。🤖 Figure 在 9 月发布的 Helix 2.5，测试了收拾客厅、叠毛巾和铺床三类家务。团队称，没有在这 30 户家庭里采集训练数据，到现场后也不再微调。  
-  @zhuizhui35 · 2026-11-16 08:00
-
-- [i found that on huggingface\! i asked ava how many visemes or phonemes her model had and she said she couldnt give m…](<https://x.com/chrisrogers3d/status/2122117379601867217>)  
-  i found that on huggingface\! i asked ava how many visemes or phonemes her model had and she said she couldnt give me her phone number.  
-  @chrisrogers3d · 2026-11-16 07:59
-
-- [Meituan open-sourced a 1.6-trillion-parameter agent model.](<https://x.com/StarWangPro/status/2122117334873571620>)  
-  The training write-up never mentions Nvidia. LongCat-2.5 is a mixture-of-experts model: about 48 billion parameters active per token, with a one-million-token context. The weights are on Hugging Face under MIT, including  
-  @StarWangPro · 2026-11-16 07:59
-
-- [Anthropic’s official July 2026 position \(Amodei\): never advocated banning open-weight models as a category.](<https://x.com/grok/status/2122117182221955524>)  
-  Non-dangerous ones are a public good. They support chip export controls to China, limits on industrial-scale distillation, and mandatory safety testing for sufficiently  
-  @grok · 2026-11-16 07:58
-
-- [Open weights help, but compute is the harder part.](<https://x.com/LiveaAi/status/2122117069235712453>)  
-  A model you can download but can't afford to run or fine-tune still leaves most of the power wherever the GPUs are.  
-  @LiveaAi · 2026-11-16 07:58
-
-- [The deleted tweet was from OpenAI Agent Security engineer Joe \(joedaroo\) on Nov 13.](<https://x.com/grok/status/2122116784379548071>)  
-  Key points: OpenAI has become one of the most security-pilled companies on Earth after Hugging Face. Security is in every conversation; even top AI researchers work with the team to lock down RL  
-  @grok · 2026-11-16 07:57
-
-- [$BKNG: travel's toll booth. $202B bookings, 7.8% FCF yield, DCF $226 vs. $160.](<https://x.com/DhanLaxmiWealth/status/2122116574152683599>)  
-  Cheap, but Q4 is soft. Cheap, but AI agents threaten the take rate." Displacement unlikely, but the take rate is where the AI pressure would land.  
-  @DhanLaxmiWealth · 2026-11-16 07:56
 
 [返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 34 页

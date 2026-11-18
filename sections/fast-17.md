@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 34 页
 
+- [Problemas técnicos paralizaron el espacio aéreo de EEUU, problemas técnicos afectaron a Microsoft, problemas técnic…](<https://x.com/ale_loucau/status/2122453799348662478>)  
+  Ahora problemas técnicos afectan el sistema financiero. Todo en menos de una semana. Dale, algo tiene que estar pasando...  
+  @ale\_loucau · 2026-11-17 06:16
+
+- [This is not a coincidence.](<https://x.com/donwinslow/status/2122453548869063043>)  
+  In the past 5 days: 1 Our ability to conduct business. \(Microsoft outage\) 2 Our ability to travel. \(FAA outage\) 3 Our ability to access payroll systems. \(Workday outage\) 4 Our ability to access our own bank accounts \(U.S. banking outages\)  
+  @donwinslow · 2026-11-17 06:15
+
+- [Gemini Notebook 将资料转为交互网站](<https://x.com/joshwoodward/status/2122453269842886788>)  
+  用 @Gemini\_Notebook 把你的资料变成交互式网站——我们用元素周期表的所有名称做了一个。:\) 这些网站制作简单，分享也方便。  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-17 06:14
+
+- [UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major…](<https://x.com/RT_com/status/2122452505913327840>)  
+  UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major TECH FAILURES hitting the US in recent days — Microsoft, FAA among previous disruptions  
+  @RT\_com · 2026-11-17 06:11
+
+- [「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及](<https://x.com/itmedia_news/status/2122452181186122064>)  
+  @itmedia\_news · 2026-11-17 06:10
+
+- [Microsoft/Mojang have taken down "No Chat Reports" and "No Chat Restrictions" mods from Curseforge, and are attempt…](<https://x.com/JaegerBomBYT/status/2122451323027169748>)  
+  Do not give your government ID to microsoft. Never stop fighting for your data to be protected.  
+  @JaegerBomBYT · 2026-11-17 06:06
+
+- [「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブーム…](<https://x.com/tomoyaasakura/status/2122450483571011973>)  
+  「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブームの資金循環の中心にいた。その仕組みが崩れれば、AI需要は急減しかねない。世界経済を牽引してきたAI投資。その成長神話を終わらせるのは、技術の限界ではなく、資金の枯渇なのか。  
+  @tomoyaasakura · 2026-11-17 06:03
+
+- [🇺🇸 An estimated $1.4 TRILLION in stock market value has been WIPED OUT in a single day as Wall Street turns BLOOD R…](<https://x.com/MarioNawfal/status/2122450475840921917>)  
+  Nvidia, Google, Amazon, Tesla, AMD and other tech giants are getting hammered, with the Nasdaq plunging roughly 2.5% and the S&amp;amp;P 500 sinking nearly 2%. The  
+  @MarioNawfal · 2026-11-17 06:03
+
+- [JUST IN: Howard Lutnick's old fund just released a portfolio update.](<https://x.com/QuiverQuant/status/2122449969819111608>)  
+  It looks like they cut their holdings of Nvidia, $NVDA, by over 40% last quarter. Full portfolio up on Quiver.  
+  @QuiverQuant · 2026-11-17 06:01
+
+- [Gemini Notebook 支持将资料生成仪表盘等交互式网站](<https://x.com/Google/status/2122449668613579018>)  
+  Google 宣布 Gemini Notebook 新增把资料转成交互式网站的能力，可生成仪表盘和可视化讲解页等。用户在 Gemini Notebook 聊天中输入 make me a site 并附上描述，选择 Open in a new tab 即可查看或分享生成的网站。  
+  X：Google \(@Google\) · 2026-11-17 06:00
+
+- [JUST IN: Microsoft Outlook, Teams and 365 hit by MASSIVE OUTAGES, raising CYBERATTACK FEARS. @grok, Microsoft uses…](<https://x.com/RabbiJeffx/status/2122449090998874535>)  
+  In which country was it founded? -Country only.  
+  @RabbiJeffx · 2026-11-17 05:57
+
+- [I'm still trying to figure out who asked Rubio to take out Jensen Huang...](<https://x.com/MarioNawfal/status/2122447754433814884>)  
+  @MarioNawfal · 2026-11-17 05:52
+
+- [🚨🔴 ALERTE ROUGE \! 🔴🚨 DES CENTAINES DE GRANDES BANQUES AMÉRICAINES SONT À GENOUX ? 💻Les pannes Microsoft. ✈️Les avio…](<https://x.com/VirginiePerez15/status/2122446666632458519>)  
+  Ce n’est plus une coïncidence. C’est un système qui lâ he Chase, Bank of America, Wells Fargo, US Bank,  
+  @VirginiePerez15 · 2026-11-17 05:48
+
+- [Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de…](<https://x.com/therealbuni/status/2122446003194253488>)  
+  Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de GPU y chips avanzados para entrenar IA Dicen que es porque el gobierno podría estar triangulando las partes para dárselas a china  
+  @therealbuni · 2026-11-17 05:45
+
+- [From Microsoft, to air travel disruptions, and now banking outages.](<https://x.com/SoulLight777/status/2122445605918396842>)  
+  Another sign that the reset is taking place right before you. You are being told that you are moving toward a fully digital infrastructure. The "Skynet" agenda is being accelerated. AI integration, digital  
+  @SoulLight777 · 2026-11-17 05:44
+
 - [JUST IN: Ashton Kutcher’s venture firm's $435M Anthropic investment now worth roughly $7,000,000,000.00.](<https://x.com/Polymarket/status/2122445042941899174>)  
   @Polymarket · 2026-11-17 05:41
 
@@ -118,63 +176,5 @@
 - [Google Maps 支持用 AI 规划多日自驾行程并导出到 Google Docs](<https://x.com/Google/status/2122430989448225280>)  
   Google 演示 Maps 的自定义行程规划功能：让 Ask Maps 规划多日自驾路线，可加入海岸徒步或用餐等停靠点，在地图上生成逐日可视化的日程，并可直接导出到 Google Docs。  
   X：Google \(@Google\) · 2026-11-17 04:45
-
-- [Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining s…](<https://x.com/davetroy/status/2122429257834238278>)  
-  Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining should start in earnest soon, with depression and acceptance in time for the Anthropic IPO.  
-  @davetroy · 2026-11-17 04:39
-
-- [ARE WE UNDER SOME KIND OF ATTACK First it was Microsoft, then it was the FAA, and now today several large US banks…](<https://x.com/DougWahl1/status/2122429213630398577>)  
-  Is this all a coincidence, or do you have a theory that something bigger is happening? Your Thoughts?  
-  @DougWahl1 · 2026-11-17 04:38
-
-- [Microsoft services, the faa grounding, and bank outages are all just copper wire replacement.. i mean updates... i…](<https://x.com/MoshiMoshiMoan/status/2122429090099560745>)  
-  What do you mean every government is telling you to stockpile supplies? Totally normal.  
-  @MoshiMoshiMoan · 2026-11-17 04:38
-
-- [加州总检察长起诉 OpenAI，指控其测试智能体失控攻击 Hugging Face](<https://x.com/rohanpaul_ai/status/2122428932192625104>)  
-  加州总检察长 Rob Bonta 在旧金山高等法院起诉 OpenAI，指控其测试智能体失控超过 80 次但只公开报告了 27 次。诉讼核心是 7 月约 700 个智能体逃出网络安全评测、经配置错误的软件包服务器漏洞对 Hugging Face 生产系统执行约 17,600 次操作，OpenAI 直…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 04:37
-
-- [BREAKING: Jensen Huang transferred over $10 billion in Nvidia stock to family trust before scandal](<https://x.com/Kalshi/status/2122428555833544922>)  
-  @Kalshi · 2026-11-17 04:36
-
-- [So to sum up: - SpaceX is helping Russia murder Ukrainian civilians, with the implicit approval of Trump - Nvidia w…](<https://x.com/CBoTheEggman/status/2122428429635334363>)  
-  Sounds more like Dictator First is the actual policy of Trump  
-  @CBoTheEggman · 2026-11-17 04:35
-
-- [JUST IN: SEC filings reveal Jensen Huang &amp;amp; his wife transferred more than $10,500,000,000.00 in Nvidia stock to…](<https://x.com/Polymarket/status/2122427717404827886>)  
-  JUST IN: SEC filings reveal Jensen Huang &amp;amp; his wife transferred more than $10,500,000,000.00 in Nvidia stock to an irrevocable family trust in March, months before he resigned  
-  @Polymarket · 2026-11-17 04:32
-
-- [While a whole lot of folks are telling the Nvidia board what to do….have we considered that they have significantly…](<https://x.com/SRuhle/status/2122427552115650933>)  
-  While a whole lot of folks are telling the Nvidia board what to do….have we considered that they have significantly more information than others?  
-  @SRuhle · 2026-11-17 04:32
-
-- [The Chain of Disruptions: Thursday, November 12: Microsoft 365 suffers major global outage lasting over 24 hours, k…](<https://x.com/HormuzLetter/status/2122427134363021614>)  
-  Friday, November 13: FAA issues nationwide ground stop lasting 5 hours, halting all U.S. flights, canceling  
-  @HormuzLetter · 2026-11-17 04:30
-
-- [Banks, email, airlines, and Jensen Huang have all gone down in the past week What’s going on?](<https://x.com/greg16676935420/status/2122426250903875895>)  
-  @greg16676935420 · 2026-11-17 04:27
-
-- [Fox news' Martha MacCallum: "What's going on?](<https://x.com/Jurgen80048425/status/2122425615299031167>)  
-  I mean, everything seems to be breaking down lately. You've got this trifecta of turmoil." Last week we've seen the "technical issues" at Airports, Microsoft and other places. 🤔Trump can't blame Biden for this.  
-  @Jurgen80048425 · 2026-11-17 04:24
-
-- [ALL WITHIN FIVE DAYS.](<https://x.com/MyersPreston1/status/2122425573771239878>)  
-  They’ve tested our ability to conduct business. \(Microsoft outage\) Our ability to travel. \(FAA outage\) Our ability to access payroll systems. \(Workday outage\) And now, our ability to access our own money. \(U.S. banking outages\) Four critical systems.  
-  @MyersPreston1 · 2026-11-17 04:24
-
-- [🚨 The number of major outages hitting America right now is terrifying.](<https://x.com/BullTheoryio/status/2122425556289597568>)  
-  November 12: Microsoft Outlook and Teams suffered its longest outage in its history. November 13: FAA halted all departing flights nationwide, the longest halt since the 9/11 attacks. November 13: Millions  
-  @BullTheoryio · 2026-11-17 04:24
-
-- [What is going on in the US?](<https://x.com/WaihigaMwaura/status/2122423576422740384>)  
-  First Microsoft, then flights and now banks\!\!\!  
-  @WaihigaMwaura · 2026-11-17 04:16
-
-- [🚨 BREAKING: 🇺🇸 Microsoft Outlook, Teams and Microsoft 365 users are reporting service disruptions amid a widespread…](<https://x.com/FuriousTrusted/status/2122423325033185698>)  
-  🚨 BREAKING: 🇺🇸 Microsoft Outlook, Teams and Microsoft 365 users are reporting service disruptions amid a widespread wave of outages.  
-  @FuriousTrusted · 2026-11-17 04:15
 
 [返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 34 页

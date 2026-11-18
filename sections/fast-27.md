@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 34 页
 
+- [AI will not replace you.](<https://x.com/oluwaponmileolu/status/2122190615890874536>)  
+  But a person who knows how to use AI well will definitely be ahead of a person who does not.  
+  @oluwaponmileolu · 2026-11-16 12:50
+
+- [The world is about to be a very different place Qwen 4 just dropped, and it’s an open weights model better than Fab…](<https://x.com/AlexFinn/status/2122189163403583723>)  
+  The world is about to be a very different place Qwen 4 just dropped, and it’s an open weights model better than Fable 5 Meaning anyone on earth \(if they have the right computers, which you would if you listen to me\) can run Fable on their desk That’s scary, bu…  
+  @AlexFinn · 2026-11-16 12:44
+
+- [The ADULTERER has come out of his lair.](<https://x.com/Gaismair/status/2122183950650974650>)  
+  The TAIWANESE DEVIL has crossed the Sacramento. Jensen will be below our ramparts tomorrow. The Founder has arrived at Santa Clara. His Imperial and Royal Majesty, CEO Jensen Huang, has made His entry into NVDIA HQ yesterday, amid His  
+  @Gaismair · 2026-11-16 12:24
+
+- [A portfolio manager here in HK just told me “Scott Bessent is openly going after Nvidia, the timing is weird, but t…](<https://x.com/DarioCpx/status/2122182888154341560>)  
+  A portfolio manager here in HK just told me “Scott Bessent is openly going after Nvidia, the timing is weird, but that’s a huge problem for any company”  
+  @DarioCpx · 2026-11-16 12:20
+
+- [【速報】🇺🇸 トランプ政権、NVIDIAをAI分野の「国家代表企業」に指定へ ・米国のAI技術を世界に普及させる狙い ・指…](<https://x.com/SOU_BTC/status/2122180202650591711>)  
+  【速報】🇺🇸 トランプ政権、NVIDIAをAI分野の「国家代表企業」に指定へ ・米国のAI技術を世界に普及させる狙い ・指定企業には輸出許可の迅速化や政府支援などを検討 ・正式発表は今後1週間以内の見通し  
+  @SOU\_BTC · 2026-11-16 12:09
+
+- [JUST IN: 🇺🇸 President Trump to designate Nvidia $NVDA as AI "National Champions."](<https://x.com/WatcherGuru/status/2122179624721657984>)  
+  @WatcherGuru · 2026-11-16 12:07
+
+- [\[BREAKING\] - Jensen Huang กำลังพยายามทวงเก้าอี้ CEO ของ NVIDIA กลับมาอีกครั้ง \! โดยได้ผู้บริหารบริษัทเทครวมตัวกันตั…](<https://x.com/TraderKP_TH/status/2122179256726016431>)  
+  \[BREAKING\] - Jensen Huang กำลังพยายามทวงเก้าอี้ CEO ของ NVIDIA กลับมาอีกครั้ง \! โดยได้ผู้บริหารบริษัทเทครวมตัวกันตั้ง War Room กดดันบอร์ดให้คืนตำแหน่งให้ \[Financial Times รายงาน\]  
+  @TraderKP\_TH · 2026-11-16 12:05
+
+- [🦔 Nvidia director Mark Stevens sold about $947 million of stock in late August and September, roughly two months be…](<https://x.com/HedgieMarkets/status/2122178635310281154>)  
+  He sold without a pre-set trading plan, the kind insiders often use to show their sales aren’t  
+  @HedgieMarkets · 2026-11-16 12:03
+
+- [第91期 \#cosplay 这猫耳娘的纹身是真的瘾啊😍名副其实的榨汁姬 \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任你…](<https://x.com/KaeowongSa99585/status/2122177848324861989>)  
+  第91期 \#cosplay 这猫耳娘的纹身是真的瘾啊😍名副其实的榨汁姬 \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️  
+  @KaeowongSa99585 · 2026-11-16 12:00
+
+- [In October, Jensen Huang said he stuck his neck out to defend open models because closed models like Anthropic and…](<https://x.com/FinanceLancelot/status/2122176879046058193>)  
+  Next thing you know, what happened to his neck?  
+  @FinanceLancelot · 2026-11-16 11:56
+
+- [如何体现中文的博大精深？黄仁勋这事儿三句话就能说完： 第一句，欲加之罪，何患无辞。](<https://x.com/KELMAND1/status/2122176677279301833>)  
+  第二句，匹夫无罪，怀璧其罪。 第三句，非我族类，其心必异。  
+  @KELMAND1 · 2026-11-16 11:55
+
+- [दुनिया के दो टेक्नोलॉजी दिग्गज… और ये तीसरा कौन-सा किरदार निभाने आ गया? 😂🔥 Elon Musk और Jensen Huang का अंदाज़ तो द…](<https://x.com/Sanjivaniv0/status/2122176625047638214>)  
+  दुनिया के दो टेक्नोलॉजी दिग्गज… और ये तीसरा कौन-सा किरदार निभाने आ गया? 😂🔥 Elon Musk और Jensen Huang का अंदाज़ तो देख लिया… लेकिन एक सवाल है Sundar Pichai आखिर Mirzapur फिल्म में किस अभिनेता का रोल निभा रहे हैं? 😂🎬  
+  @Sanjivaniv0 · 2026-11-16 11:55
+
+- [General-purpose robotics requires diverse real-world data.](<https://x.com/Chormaai/status/2122174529195868660>)  
+  More investment is needed in real-world scenario data for model training. It is encouraging to see teams open-sourcing resources that advance embodied AI community-wide.  
+  @Chormaai · 2026-11-16 11:46
+
+- [🤖 Elon Musk has joined more than 158,000 signatories of an open letter urging Nvidia's board to reinstate Jensen Hu…](<https://x.com/nextbrief/status/2122174493967962621>)  
+  The letter asks the board to "bring Jensen back while an independent investigation establishes the facts." \#Nvidia via The Guardian  
+  @nextbrief · 2026-11-16 11:46
+
+- [英伟达的中共国区销量暴跌，新加坡销量冲天，但相关报道披露，卖到新加坡的芯片只有 1% 留在当地。](<https://x.com/7warroom/status/2122174456017629620>)  
+  这套账目明细，英伟达后来干脆停发了。 美国财长贝森特（Scott Bessent）在受访时直接摊开这笔账。他指出，川普对实体清单的要求非常明确，必须签字、必须严格执行，并且在 H200 这款中端芯片上划下红线：性能高于 H200 的芯片，一律不准卖给中共国。 至于大量注册在新加坡的空壳公司，贝森特…  
+  @7warroom · 2026-11-16 11:46
+
 - [Baca selengkapnya: Belum genap sepekan mundur, Jensen Huang dilaporkan tengah mempertimbangkan untuk kembali menjad…](<https://x.com/kompascom/status/2122174433439944887>)  
   Baca selengkapnya: Belum genap sepekan mundur, Jensen Huang dilaporkan tengah mempertimbangkan untuk kembali menjadi CEO Nvidia. \~MS \#JansenHuang \#Nvidia \#newsplay \[2026111608040057\]  
   @kompascom · 2026-11-16 11:46
@@ -120,65 +179,5 @@
 - [卧槽！！REA现在连爆款视频都能被 AI 逆向工程了！！](<https://x.com/goan999999/status/2122170970404442318>)  
   以后刷到一条几百万播放的爆款视频，别光顾着点赞收藏了，直接丢给 AI，把它的制作过程全部拆出来！ GitHub 上挖到一个开源神器：rea-video，已经接近 9000 Stars！ 这玩意儿有点离谱，号称能「逆向一切视频」 它不是简单分析视频内容，而是直接把视频的制作流程扒出来！ ① 逐帧拆解…  
   @goan999999 · 2026-11-16 11:32
-
-- [If you have enough hardware to run a decent text gen AI, you can also use Claude code to bootstrap the entire AI st…](<https://x.com/Xikerkach/status/2122170920169324812>)  
-  If you have enough hardware to run a decent text gen AI, you can also use Claude code to bootstrap the entire AI stack, then have your local llm handle upgrades and changes later.  
-  @Xikerkach · 2026-11-16 11:32
-
-- [🚨 Apple is reportedly developing next-level technology for its upcoming AI Glasses\! 👀 Apple is aiming to bring uniq…](<https://x.com/technanoco/status/2122170604866711985>)  
-  🚨 Apple is reportedly developing next-level technology for its upcoming AI Glasses\! 👀 Apple is aiming to bring unique innovations to the smart glasses market. 🍎  
-  @technanoco · 2026-11-16 11:31
-
-- [8GB显存就能在本地跑4K级开源生图模型了 以前想在本地运行 33.1B 参数量的 \`MiniMax-H3-Image\`，…](<https://x.com/KOF97AI/status/2122170513586057460>)  
-  这款模型本身主打原生 1600 万像素直出（最高支持 4096×4096 方图及 6272×2688 的 21:9 宽幅），官方通过蒸馏将采样步数压到 6 步且无需开启 CFG，同时最多支持传入 16 张参考图做多图编辑。想在 ComfyUI 里上手时，注意配套下载官方 24 通道图像 VAE 与…  
-  @KOF97AI · 2026-11-16 11:30
-
-- [Your agent benchmark can double as an injection test.](<https://x.com/Kishore_1017/status/2122170294769271278>)  
-  MetaPI turns AppWorld, VitaBench and Terminal-Bench into prompt-injection suites, reusing their tasks and environments. Result: no evaluated defense scored high on both utility and security. Why test them separately?  
-  @Kishore\_1017 · 2026-11-16 11:30
-
-- [本地大模型，全靠它在底下扛着。](<https://x.com/ieddysun/status/2122170256844300479>)  
-  ggml：一个纯 C/C++ 写的张量库，llama.cpp 背后站着的就是它。 1️⃣ 轻到离谱：纯 C/C++、零外部依赖，x86、ARM、RISC-V、树莓派、浏览器全能跑，装起来没什么负担 2️⃣ 快是有原因的：针对不同芯片写了专门优化的计算核心，2 到 8 位整数量化加上 MXFP4、N…  
-  @ieddysun · 2026-11-16 11:29
-
-- [映像を少しいじるだけで、ロボットの危険作業は27%から97%へ跳ね上がった。Robocurve「RoboSpoof」\(20…](<https://x.com/GYact132/status/2122170145254899832>)  
-  映像を少しいじるだけで、ロボットの危険作業は27%から97%へ跳ね上がった。Robocurve「RoboSpoof」\(2026-11-06\)では、・無加工の映像：27%が試行・軽いぼかし：約88%が試行・無害に見える加工：97%が試行人形をリンゴに、薬品を飲み物に見せるだけで判定が変わる。安全性を…  
-  @GYact132 · 2026-11-16 11:29
-
-- [Give a coding agent a 1Password vault and you haven't scoped anything, you've handed it every key you own for whate…](<https://x.com/stretchcloud/status/2122169788856426803>)  
-  Marc Kohlbrugge asked the obvious question out loud this week, and the thread underneath it is mostly workarounds engineers hacked together because nobody shipped the clean fix yet. Here's the mechanism nobody wants to say plainly: a process that can read your…  
-  @stretchcloud · 2026-11-16 11:28
-
-- [We are cooking at Google.](<https://x.com/Saboo_Shubham_/status/2122169537592430882>)  
-  Look at the last few weeks: Models • Gemini 4 Carbon: now GA in the API and AI Studio, rolling out to Ultra • Gemini 4 Hydrogen: \~2.5x faster than 3.8 Flash, 1M context, $1.50/$7.50 per 1M tokens flat • Gemini Omni 1.2 Flash: 15-second clips, 30% cheaper • Gem…  
-  @Saboo\_Shubham\_ · 2026-11-16 11:27
-
-- [BREAKING: US Treasury ​Secretary says ‌Nvidia needs to go "outside the company" to find new CEO Jensen Huang is tec…](<https://x.com/Kalshi/status/2122169443187060968>)  
-  BREAKING: US Treasury ​Secretary says ‌Nvidia needs to go "outside the company" to find new CEO Jensen Huang is technically outside the company.  
-  @Kalshi · 2026-11-16 11:26
-
-- [Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, scho…](<https://x.com/semasocial/status/2122169135484583960>)  
-  Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, schools and theaters. \#Tech \#Innovation  
-  @semasocial · 2026-11-16 11:25
-
-- [My research asks how AI systems should acquire, modify, and remove capabilities as they interact with the world.](<https://x.com/ayush_sekhari/status/2122168469831512295>)  
-  I’ll explore these questions across reinforcement learning, machine unlearning, and AI for science, combining theory and practice.  
-  @ayush\_sekhari · 2026-11-16 11:22
-
-- [NEW\!\!](<https://x.com/ralexdc/status/2122168078016389218>)  
-  U.S. and 9 partners signed San Francisco Declaration today, deepening Pax Silica coalition’s push to secure critical technologies and supply chains underpinning the superintelligence era The pact establishes 5 working groups focused on AI security, resilience,…  
-  @ralexdc · 2026-11-16 11:21
-
-- [AppleのAIメガネ、2027年に発売へ Bloomberg報道。2027年6月のWWDCで披露し、年内に発売へ。試作機…](<https://x.com/SYNCONJP/status/2122168029912137965>)  
-  AppleのAIメガネ、2027年に発売へ Bloomberg報道。2027年6月のWWDCで披露し、年内に発売へ。試作機にカメラと使用中ランプ 録音の決まりが無いまま、着けて来られたらどうしますか?  
-  @SYNCONJP · 2026-11-16 11:21
-
-- [帅炸了！](<https://x.com/holdonyourrope/status/2122167357758194143>)  
-  有位黄仁勋的疯狂粉丝收藏了1995-2025 三十年全部盘点 也算是时代的见证了 顺便问问凑齐了，可以召唤英伟达英灵（黄仁勋）吗？ 哈哈  
-  @holdonyourrope · 2026-11-16 11:18
-
-- [Hot take: The smartest AI labs might eventually stop building standalone video generation models. 🧵 Not bc video do…](<https://x.com/pdf_si/status/2122167260857156089>)  
-  But bc frontier LLMs could become powerful enough to CREATE visuals through code. Think about it: Why spend billions training separate models for every modality when one insanely capable reasoning model can orchestrate: • Blender • Three.js • SVG • WebGL • FFm…  
-  @pdf\_si · 2026-11-16 11:17
 
 [返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 34 页

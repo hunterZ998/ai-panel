@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页
 
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
+  怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
+  硅谷101 · 2026-10-29 07:00
+
 - [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
   AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
   Latent Space · 2026-10-29 04:00
@@ -89,13 +93,5 @@
 - [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](<https://sv101.fireside.fm/270>)  
   回顾9月，AI圈的重磅新闻一个接一个。 先是OpenAI发布GPT-6 Astra，总裁格雷格·布罗克曼在发布会上宣布：AGI已经到来。 这场发布对机器人行业的冲击，来得有些意外，一个发布会报告里只字未提机器人的通用模型，转身就空降了…  
   硅谷101 · 2026-10-20 07:00
-
-- [What Happens When Al Agents Can Spend Your Money?](<https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH>)  
-  Why hasn't AI transformed everyday work as quickly as coding? Town CEO Jean-Denis Greze argues the bottleneck isn't i…  
-  The a16z Show · 2026-10-19 18:00
-
-- [20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture \| Who Wins and Who Loses in the Next Decade of VC \| Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer](<https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer>)  
-  Sameer Dholakia is a Partner @ Bessemer, the first that has just raised $5.75BN across a $1.75BN seed fund and $4BN g…  
-  20VC · 2026-10-19 15:07
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页

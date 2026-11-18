@@ -22,6 +22,18 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 ## 相关资讯 · 15 条
 
+- [诺奖得主做AI制药，20个月狂揽550亿](<https://www.tmtpost.com/8209976.html>)  
+  Isomorphic Labs完成C轮融资。  
+  钛媒体 · 2026-11-18 17:51
+
+- [Odaia获得1500万美元C轮融资](<https://www.itjuzi.com/investevent/14708140>)  
+  Odaia是一家AI制药商业洞察SaaS平台研发商，搭建预测式商业智能平台，整合药企碎片化商业数据构建 HCP 动态画像，通过 PowerScore 预测模型推荐最优触达时机与内容，配套个性化营销编排与实时处方归因能力，帮助药企提升销…  
+  IT桔子 · 2026-11-18 14:53
+
+- [观壹智能获得数千万元A轮投资](<https://www.itjuzi.com/investevent/14707347>)  
+  观壹智能（OneX Intelligence）成立于2025年，是一家专注AI与生命科学的AI4S创业公司，致力于打造多智能体循证推理引擎与生命科学模型，为罕见病诊断、药物发现和临床决策提供可溯源、可验证的AI解决方案。近日，观壹智能…  
+  IT桔子 · 2026-11-18 11:46
+
 - [耀速科技完成新一轮上海国资与产业资本数千万战略投资](<https://www.itjuzi.com/investevent/14708101>)  
   耀速科技是一家人工智能药物研发商，集人工智能、机器学习和大规模湿实验室实验于一体致力于解决现代药物发现中最具挑战性的问题——利用人类生物学的复杂性来加速药物发现和开发。近日，耀速科技（Xellar）宣布完成新一轮数千万元战略融资，本轮…  
   IT桔子 · 2026-11-18 10:41
@@ -65,18 +77,6 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛](<https://www.xiaoyuzhoufm.com/episode/6af6678d14d01a26f8a916f6?utm_source=rss>)  
   在前几期播客中，我们聊过 Personal Agent，聊过 RLaaS，这期的嘉宾贺嘉琛做的事情有点像是两者的结合，他把 Personal Agent 运用在 2B 领域，并给这些企业训练私有模型。 嘉琛原本研究深度学习与天体物理学…  
   42章经 · 2026-11-14 21:00
-
-- [谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型，识别致病变异能力提升近一倍](<https://www.ithome.com/1/025/822.htm>)  
-  谷歌 DeepMind 发布新一代 DNA 序列模型 AlphaGenome 2，可将预测从宽泛组织缩小到单个细胞类型与状态，识别可改变基因表达的变异数量较初代接近翻倍。  
-  IT之家·人工智能 · 2026-11-11 23:28
-
-- [Google DeepMind 发布 AlphaGenome 2，预测基因变异对特定细胞类型的影响](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>)  
-  Google DeepMind 发布下一代 DNA 序列模型 AlphaGenome 2，可预测 DNA 变异如何影响数百种人类细胞类型中的基因表达。模型改为条件式架构，训练数据超过 1.07 亿个单细胞样本、覆盖 68 种组织，在 TenK10K 数据集上识别的因果变异数量接近上一代的两倍（30% vs 16%），并能在不重新训练的情况下泛化到新的单细胞实验。  
-  Google DeepMind：Blog（RSS） · 2026-11-11 23:00
-
-- [Google DeepMind 发布 AlphaGenome 2，预测基因变异对不同细胞状态的影响](<https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model>)  
-  Google DeepMind 发布基因组预测模型 AlphaGenome 2，用于捕捉基因变异在不同细胞类型和状态下的差异效应。该模型基于超过 1 亿个细胞档案和 68 种组织训练，识别可改变基因表达的变异数量接近前代最优模型的两倍，还能对未见过的细胞类型做出预测并指出实验数据缺口。  
-  The Verge：AI（RSS） · 2026-11-11 23:00
 
 - [深度｜中国 AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901330&idx=1&sn=5eb5d1e685a87759c872fe56d7ce6e74>)  
   Z Finance · 2026-11-08 20:05

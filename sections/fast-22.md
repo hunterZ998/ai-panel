@@ -2,6 +2,61 @@
 
 [返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 34 页
 
+- [🚨NEW: We just uncovered a covert influence operation using right-wing creators to promote Nvidia chip sales to Chin…](<https://x.com/TheMidasProj/status/2122347323380683100>)  
+  Earlier this year, we reported on similar campaigns, and Republican lawmakers went after Nvidia. But the story didn’t end there. 🧵  
+  @TheMidasProj · 2026-11-16 23:13
+
+- [The president's comments DO matter.](<https://x.com/jimcramer/status/2122346936418381897>)  
+  The president can do a pre-pardon, say that Jensen is a too important to Nvidia and Nvidia is a national treasure. That's how it would go.  
+  @jimcramer · 2026-11-16 23:11
+
+- [The Jensen Huang story is falling apart.](<https://x.com/ConservativeTht/status/2122346117530894779>)  
+  Could all have this been a behind the scenes operation by powerful people who simply did not like Jensen Huang &amp;amp; @nvidia’s success? Who stands to benefit from Nvidia's troubles? Anthropic, set to make its initial public offering later  
+  @ConservativeTht · 2026-11-16 23:08
+
+- [🚨Brasil 🇧🇷/EUA 🇺🇸: O Brasil entrou para a lista de países que necessitam de autorização do governo americano para c…](<https://x.com/lordivan22/status/2122344764578136274>)  
+  A medida busca limitar o acesso da China e de outros adversários dos EUA a poder  
+  @lordivan22 · 2026-11-16 23:03
+
+- [🚨🇺🇸🇨🇳 Trump on Alice Huang: "Any beautiful woman coming to the country from China, they say she is a spy.](<https://x.com/MarioNawfal/status/2122343940229841283>)  
+  I don't know if the woman involved with Jensen Huang was a spy at all." They supposedly have the best intel in the world, and they don’t know if she was a spy? Writer:  
+  @MarioNawfal · 2026-11-16 23:00
+
+- [Trump dice ahora mismo que no tiene indicios de que la amante de Jensen Huang fuera una espía y que ve con buenos o…](<https://x.com/alandete/status/2122343874450358446>)  
+  Puede que se encuentre con Kim Jong Un. También dice que pondrá aranceles a México si no detiene las caravanas de migrantes.  
+  @alandete · 2026-11-16 22:59
+
+- [Anthropic has passed the US government as SpaceX's top customer, per YF.](<https://x.com/unusual_whales/status/2122343180968641019>)  
+  @unusual\_whales · 2026-11-16 22:57
+
+- [JUST IN: Trump declares Jensen Huang has “learned a big lesson” &amp;amp; Nvidia should consider reinstating him as CEO.](<https://x.com/Polymarket/status/2122342985694367822>)  
+  @Polymarket · 2026-11-16 22:56
+
+- [NVIDIA Globe and Mail by @deAdder Substack:](<https://x.com/deAdder/status/2122342419828199717>)  
+  @deAdder · 2026-11-16 22:53
+
+- [亲爱的挺黄仁勋、持有英伟达股票的网友们 英伟达和黄仁勋的麻烦才刚开始 这不仅仅是商业问题和丑闻问题 沾上共产党没有好下场](<https://x.com/threerights1/status/2122341747657150657>)  
+  @threerights1 · 2026-11-16 22:51
+
+- [NEW: President Trump says Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent have “two differen…](<https://x.com/FoxNews/status/2122341685409550405>)  
+  Trump also says he is not considering replacing Lutnick.  
+  @FoxNews · 2026-11-16 22:51
+
+- [JUST IN: 🇺🇸 President Trump says Nvidia $NVDA CEO Jensen Huang did not put US national security at risk.](<https://x.com/WatcherGuru/status/2122341569680515362>)  
+  @WatcherGuru · 2026-11-16 22:50
+
+- [Receipts are nice but none of of this matters if the Trump Admin doesn’t extract a price Is there a civil rights in…](<https://x.com/AuronMacintyre/status/2122341466425143786>)  
+  Without a fine in the billions Microsoft will barely notice  
+  @AuronMacintyre · 2026-11-16 22:50
+
+- [OpenRouter 数据：上周全球大模型 token 用量达 211 万亿，中国模型连续 29 周领先美国](<https://x.com/thexpin/status/2122341419985649901>)  
+  据 OpenRouter 统计，上周（11 月 9–15 日）全球大模型 token 用量达 211 万亿，环比增长 0.48%。中国模型周用量 119.1 万亿（环比增 2.51%），美国模型为 14.83 万亿（环比增 6.08%），中国模型已连续 29 周周用量领先。  
+  X：X.PIN \(@thexpin\) · 2026-11-16 22:50
+
+- [🚨🇺🇸🇨🇳 Trump on Jensen Huang: "Huang learned a lesson.](<https://x.com/MarioNawfal/status/2122340719339659286>)  
+  I would not mind him becoming CEO of Nvidia again." I think MANY people would support that idea... Writer: Samuel  
+  @MarioNawfal · 2026-11-16 22:47
+
 - [A recalibrated, juiced up, newly medicated Trump is speaking to the press now, extolling the helipad, ballroom, and…](<https://x.com/OurShallowState/status/2122340571381641565>)  
   Of course, as we know,  
   @OurShallowState · 2026-11-16 22:46
@@ -114,61 +169,5 @@
 
 - [The METR graph, updated:](<https://x.com/ben_j_todd/status/2122318704260403562>)  
   @ben\_j\_todd · 2026-11-16 21:19
-
-- [Picking the next tool shouldn’t take a paragraph.](<https://x.com/LeahW_2077/status/2122318031162647001>)  
-  We built Karpo Decision. A family of six open-weight models, from 0.8B to 31B.Give it the context, a question, and the options. It returns a probability for each option in one forward pass. Karpo Decision 31B 🏆 73.9 on  
-  @LeahW\_2077 · 2026-11-16 21:17
-
-- [AI video creators dream come true 🤩 TWO FREE AI VIDEO GENERATION TOOLS you can use without paying a single penny Sa…](<https://x.com/herfarmercist/status/2122315455943815516>)  
-  AI video creators dream come true 🤩 TWO FREE AI VIDEO GENERATION TOOLS you can use without paying a single penny Save this.  
-  @herfarmercist · 2026-11-16 21:06
-
-- [New in PN: Trump and Jensen Huang are bonded by toxic masculinity "Trump stood with Huang in part because Huang gre…](<https://x.com/atrupar/status/2122314583155052958>)  
-  But he also stood with him because he has a principled belief that powerful men should get whatever they want \(including women\) and  
-  @atrupar · 2026-11-16 21:03
-
-- [EMO MOTHERFUCKERS HAVE SNOWFLAKE FUN](<https://x.com/unheee_e/status/2122313327305273529>)  
-  @unheee\_e · 2026-11-16 20:58
-
-- [Been seeing a lot of talk about decentralized compute, but I think @Acurast has a pretty interesting way of showing…](<https://x.com/BJauhi/status/2122311278161190922>)  
-  Meet Laya. It's an open AI decision model from ConvAI Innovations, running on Android phones connected to the Acurast network.  
-  @BJauhi · 2026-11-16 20:50
-
-- [BREAKING: Indonesian police found empty server racks at Megaspeed, a company linked to the Jensen Huang scandal, du…](<https://x.com/BullTheoryio/status/2122310412536533063>)  
-  Investigators suspect the chips were secretly shipped to China, possibly by private jets.  
-  @BullTheoryio · 2026-11-16 20:46
-
-- [BREAKING: Nvidia has reportedly named Juan Huango as its new CEO, replacing Jensen Huang effective immediately](<https://x.com/alifarhat79/status/2122309585457320420>)  
-  @alifarhat79 · 2026-11-16 20:43
-
-- [Stop starting over with AI that forgets you.](<https://x.com/cheatingncucks/status/2122309206942597596>)  
-  OurDream gives you persistent memory + fully custom characters, plus image/video generation and live voice calls — no extra paywalls. Free coins waiting →  
-  @cheatingncucks · 2026-11-16 20:42
-
-- [Artificial Analysis：GTA VI 延期期间 AI 指数翻倍](<https://x.com/ArtificialAnlys/status/2122305411659497870>)  
-  Artificial Analysis 指出，自 2023 年 12 月首支 GTA VI 预告片以来，其 Progress Index 最高分从 160 涨到 358，翻了一倍多。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-16 20:26
-
-- [Obituaries The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, t…](<https://x.com/stratechery/status/2122299423451656284>)  
-  Obituaries The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.  
-  @stratechery · 2026-11-16 20:03
-
-- [Jensen Huang allies campaign to reinstate former Nvidia boss](<https://x.com/BBCWorld/status/2122295979663564813>)  
-  @BBCWorld · 2026-11-16 19:49
-
-- [BREAKING: 🇺🇸 Jensen Huang is considering a comeback as Nvidia's chief executive, per FT](<https://x.com/Megatron_ron/status/2122295760943505683>)  
-  @Megatron\_ron · 2026-11-16 19:48
-
-- [Anthropic's IPO could make history.](<https://x.com/ActionModelAI/status/2122294153954435580>)  
-  Big Tech is investing billions, but who gets to own AI's future? What about the people helping build it? Should ownership be bought, earned through contribution, or both? Read the article and share your thoughts.  
-  @ActionModelAI · 2026-11-16 19:42
-
-- [‼️ The EU's open AI model, EUROPA, is being tested at nearly 1 trillion parameters, more than twice the size the EU…](<https://x.com/IntCyberDigest/status/2122288571579289758>)  
-  Domyn, the Milan company the European Commission picked in June to build it, ran the trials on Germany's JUPITER, Europe's first exascale supercomputer.  
-  @IntCyberDigest · 2026-11-16 19:20
-
-- [Qwen4-Max 上线 Novita AI 平台](<https://x.com/Alibaba_Qwen/status/2122286761883959700>)  
-  通义千问（Qwen）官方宣布 Qwen4-Max 从第一天起即在 Novita AI 上线。引用内容介绍其为面向复杂编码、专业工具和长时智能体工作流的 MoE 模型，具备原生视觉能力、1M token 上下文窗口，以及更强的工具调用和长程任务执行能力。  
-  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-16 19:12
 
 [返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 34 页

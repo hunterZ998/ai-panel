@@ -2,6 +2,62 @@
 
 [返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 34 页
 
+- [Vision solutions for humanoid robots — from head-mounted stereo &amp;amp; depth cameras to palm cameras, multi-camera s…](<https://x.com/econsystems/status/2122277260577374221>)  
+  Explore humanoid robot vision solutions → \#Humanoid \#Robots \#econSystems  
+  @econsystems · 2026-11-16 18:35
+
+- [เฉลยแล้ว\!](<https://x.com/HuaweiMobile_TH/status/2122275988352426264>)  
+  HUAWEI WATCH 6 Series is now in orbit. ⌚️✨ แต่ดูเหมือนครั้งนี้…จะไม่ได้มาเพียงลำพัง 👀 เซเลบริตี้ของเราเป็นใครกันน้า เตรียมพบกันเร็ว ๆ นี้ 🌟 \#HUAWEIWatch6Series  
+  @HuaweiMobile\_TH · 2026-11-16 18:30
+
+- [卡兹克分享两个月用 Agent 干活最常用的 10 条 Prompt](<https://x.com/Khazix0918/status/2122268349707219333>)  
+  卡兹克分享了最近两个月自己用 Agent 干活最常说的 10 条 Prompt，包括从第一性原理找根因、先对齐喜好再出 3 版方案、推演改动的二阶三阶影响、以最强反对者角度推翻最优方案等。其余几条涉及分析 Git 历史识别可移除的历史包袱、模拟新工程师评估代码认知成本、复盘 Bug 与返工沉淀成规…  
+  X：卡兹克 \(@Khazix0918\) · 2026-11-16 17:59
+
+- [Esta es la clave de la caída de Jensen Huang.](<https://x.com/Cyandeceres/status/2122267494702276787>)  
+  @Cyandeceres · 2026-11-16 17:56
+
+- [刚跟北京一位消息非常灵通的朋友打完电话，我整个人都是懵的。](<https://x.com/ItsRealAlec/status/2122265837507686445>)  
+  他说的事情我现在不能全部公开，但有几点你必须知道： → 11月17日，英伟达公布财报，这是黄仁勋离任后的第一份财报 → 同一天，美国零售数据公布，“衰退”可能成为所有新闻的头条 → 日本第三季度经济萎缩，亚洲股市已经连续暴跌 →  
+  @ItsRealAlec · 2026-11-16 17:49
+
+- [读《纽约时报》那几篇关于黄仁勋的文章时，我感到一种近乎生理性的不适。](<https://x.com/sleepy0x13/status/2122254190923931690>)  
+  @sleepy0x13 · 2026-11-16 17:03
+
+- [Après Elon Musk, j’ai rassemblé toutes les interviews de Jensen Huang depuis 2003 sur un seul site. 283 vidéos. 241…](<https://x.com/GuillaumeAIinSF/status/2122253376054235383>)  
+  Et 14 de ses prédictions vérifiées une par une. Tout se regarde directement sur le site, en 8 langues.  
+  @GuillaumeAIinSF · 2026-11-16 17:00
+
+- [翻到一组2008年黄仁勋的老照片 当年黄仁勋才45岁，带着女儿黄敏珊来到北京参加英伟达向汶川地震灾区学生捐赠爱心电脑教室的…](<https://x.com/linmumu223/status/2122253167639564317>)  
+  18年前的老黄，恐怕也没想到，自己有一天会成为全球AI产业的霸主吧！  
+  @linmumu223 · 2026-11-16 16:59
+
+- [I have a shirt for jensen huang](<https://x.com/mathew83639273/status/2122250352020074969>)  
+  @mathew83639273 · 2026-11-16 16:48
+
+- [Qwen4-Max 上线 Vercel AI Gateway](<https://x.com/Alibaba_Qwen/status/2122248112479907848>)  
+  🙌 在 Vercel 的 AI Gateway 上用 Qwen4-Max 构建吧！@vercel\_dev  
+  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-16 16:39
+
+- [My friend used smart AI glasses to write and pass all his final year exams.](<https://x.com/hintrovertt/status/2122247830425174494>)  
+  Engineering course o\! Even his lecturers and colleagues were wowed by his performance. I’m the only one who knows about this 😭😂  
+  @hintrovertt · 2026-11-16 16:38
+
+- [Tumanowicz z Konfederacji wczoraj przeciwko ustawie.](<https://x.com/KrzysiekWSK/status/2122247087983411486>)  
+  Dzisiaj WP wskazuje, że Tumanowicz popierał poprawki zbieżne z chińskim Huawei. -Huawei wystawił 11 faktur na 770 tys. zł. dla Krzymowskiego kolegi Wiplera.  
+  @KrzysiekWSK · 2026-11-16 16:35
+
+- [BREAKING: Nvidia employees reportedly called Jensen "Daddy Huang"](<https://x.com/Kalshi/status/2122245790986907914>)  
+  @Kalshi · 2026-11-16 16:30
+
+- [最新研究发现：人类可能是一种失控的 AI Agent 科学家发现，地球上存在一种名为 Human 的碳基智能体 该模型拥有…](<https://x.com/j4kcdq/status/2122240158502437045>)  
+  最新研究发现：人类可能是一种失控的 AI Agent 科学家发现，地球上存在一种名为 Human 的碳基智能体 该模型拥有约 860 亿个神经元，平均脑功耗仅 20W，支持视觉、听觉、语言等多模态输入，处理效率非常高 但经过长期观察，研究人员发现，该模型存在一些非常抽象的问题 首先，人类极易遭受…  
+  @j4kcdq · 2026-11-16 16:07
+
+- [CHINA JUST FIRED BACK AT THE AI OLIGARCHS TO AVENGE JENSEN “You can’t kill an idea.” China has just nuked the AI Ep…](<https://x.com/adamemedia/status/2122233150667448716>)  
+  After the AI oligarch take down of Jensen Huang \(read the quoted tweet\), DeepSeek  
+  @adamemedia · 2026-11-16 15:39
+
 - [Here is what surprised me the most Nvidia board appointed Colette Kress as interim CEO while they should have fired…](<https://x.com/DarioCpx/status/2122232487799918741>)  
   Here is what surprised me the most Nvidia board appointed Colette Kress as interim CEO while they should have fired her for the same reason Jensen Huang was pushed out \(and he cannot come back\): lying on SEC corporate filing certifications starting from point …  
   @DarioCpx · 2026-11-16 15:37
@@ -114,64 +170,5 @@
 - [我他妈终于看明白Anthropic的Dario Amodei为啥这么卖力在背后搞黄仁勋了 说白了根本不是什么狗屁“AI安全…](<https://x.com/taketokennn/status/2122191231619113233>)  
   Google新模型一出来，Anthropic那点技术优势直接被扒光了，自己又没本事自研芯片，融来的钱全给英伟达交了算力税......  
   @taketokennn · 2026-11-16 12:53
-
-- [AI will not replace you.](<https://x.com/oluwaponmileolu/status/2122190615890874536>)  
-  But a person who knows how to use AI well will definitely be ahead of a person who does not.  
-  @oluwaponmileolu · 2026-11-16 12:50
-
-- [The world is about to be a very different place Qwen 4 just dropped, and it’s an open weights model better than Fab…](<https://x.com/AlexFinn/status/2122189163403583723>)  
-  The world is about to be a very different place Qwen 4 just dropped, and it’s an open weights model better than Fable 5 Meaning anyone on earth \(if they have the right computers, which you would if you listen to me\) can run Fable on their desk That’s scary, bu…  
-  @AlexFinn · 2026-11-16 12:44
-
-- [The ADULTERER has come out of his lair.](<https://x.com/Gaismair/status/2122183950650974650>)  
-  The TAIWANESE DEVIL has crossed the Sacramento. Jensen will be below our ramparts tomorrow. The Founder has arrived at Santa Clara. His Imperial and Royal Majesty, CEO Jensen Huang, has made His entry into NVDIA HQ yesterday, amid His  
-  @Gaismair · 2026-11-16 12:24
-
-- [A portfolio manager here in HK just told me “Scott Bessent is openly going after Nvidia, the timing is weird, but t…](<https://x.com/DarioCpx/status/2122182888154341560>)  
-  A portfolio manager here in HK just told me “Scott Bessent is openly going after Nvidia, the timing is weird, but that’s a huge problem for any company”  
-  @DarioCpx · 2026-11-16 12:20
-
-- [【速報】🇺🇸 トランプ政権、NVIDIAをAI分野の「国家代表企業」に指定へ ・米国のAI技術を世界に普及させる狙い ・指…](<https://x.com/SOU_BTC/status/2122180202650591711>)  
-  【速報】🇺🇸 トランプ政権、NVIDIAをAI分野の「国家代表企業」に指定へ ・米国のAI技術を世界に普及させる狙い ・指定企業には輸出許可の迅速化や政府支援などを検討 ・正式発表は今後1週間以内の見通し  
-  @SOU\_BTC · 2026-11-16 12:09
-
-- [JUST IN: 🇺🇸 President Trump to designate Nvidia $NVDA as AI "National Champions."](<https://x.com/WatcherGuru/status/2122179624721657984>)  
-  @WatcherGuru · 2026-11-16 12:07
-
-- [\[BREAKING\] - Jensen Huang กำลังพยายามทวงเก้าอี้ CEO ของ NVIDIA กลับมาอีกครั้ง \! โดยได้ผู้บริหารบริษัทเทครวมตัวกันตั…](<https://x.com/TraderKP_TH/status/2122179256726016431>)  
-  \[BREAKING\] - Jensen Huang กำลังพยายามทวงเก้าอี้ CEO ของ NVIDIA กลับมาอีกครั้ง \! โดยได้ผู้บริหารบริษัทเทครวมตัวกันตั้ง War Room กดดันบอร์ดให้คืนตำแหน่งให้ \[Financial Times รายงาน\]  
-  @TraderKP\_TH · 2026-11-16 12:05
-
-- [🦔 Nvidia director Mark Stevens sold about $947 million of stock in late August and September, roughly two months be…](<https://x.com/HedgieMarkets/status/2122178635310281154>)  
-  He sold without a pre-set trading plan, the kind insiders often use to show their sales aren’t  
-  @HedgieMarkets · 2026-11-16 12:03
-
-- [第91期 \#cosplay 这猫耳娘的纹身是真的瘾啊😍名副其实的榨汁姬 \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任你…](<https://x.com/KaeowongSa99585/status/2122177848324861989>)  
-  第91期 \#cosplay 这猫耳娘的纹身是真的瘾啊😍名副其实的榨汁姬 \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️  
-  @KaeowongSa99585 · 2026-11-16 12:00
-
-- [In October, Jensen Huang said he stuck his neck out to defend open models because closed models like Anthropic and…](<https://x.com/FinanceLancelot/status/2122176879046058193>)  
-  Next thing you know, what happened to his neck?  
-  @FinanceLancelot · 2026-11-16 11:56
-
-- [如何体现中文的博大精深？黄仁勋这事儿三句话就能说完： 第一句，欲加之罪，何患无辞。](<https://x.com/KELMAND1/status/2122176677279301833>)  
-  第二句，匹夫无罪，怀璧其罪。 第三句，非我族类，其心必异。  
-  @KELMAND1 · 2026-11-16 11:55
-
-- [दुनिया के दो टेक्नोलॉजी दिग्गज… और ये तीसरा कौन-सा किरदार निभाने आ गया? 😂🔥 Elon Musk और Jensen Huang का अंदाज़ तो द…](<https://x.com/Sanjivaniv0/status/2122176625047638214>)  
-  दुनिया के दो टेक्नोलॉजी दिग्गज… और ये तीसरा कौन-सा किरदार निभाने आ गया? 😂🔥 Elon Musk और Jensen Huang का अंदाज़ तो देख लिया… लेकिन एक सवाल है Sundar Pichai आखिर Mirzapur फिल्म में किस अभिनेता का रोल निभा रहे हैं? 😂🎬  
-  @Sanjivaniv0 · 2026-11-16 11:55
-
-- [General-purpose robotics requires diverse real-world data.](<https://x.com/Chormaai/status/2122174529195868660>)  
-  More investment is needed in real-world scenario data for model training. It is encouraging to see teams open-sourcing resources that advance embodied AI community-wide.  
-  @Chormaai · 2026-11-16 11:46
-
-- [🤖 Elon Musk has joined more than 158,000 signatories of an open letter urging Nvidia's board to reinstate Jensen Hu…](<https://x.com/nextbrief/status/2122174493967962621>)  
-  The letter asks the board to "bring Jensen back while an independent investigation establishes the facts." \#Nvidia via The Guardian  
-  @nextbrief · 2026-11-16 11:46
-
-- [英伟达的中共国区销量暴跌，新加坡销量冲天，但相关报道披露，卖到新加坡的芯片只有 1% 留在当地。](<https://x.com/7warroom/status/2122174456017629620>)  
-  这套账目明细，英伟达后来干脆停发了。 美国财长贝森特（Scott Bessent）在受访时直接摊开这笔账。他指出，川普对实体清单的要求非常明确，必须签字、必须严格执行，并且在 H200 这款中端芯片上划下红线：性能高于 H200 的芯片，一律不准卖给中共国。 至于大量注册在新加坡的空壳公司，贝森特…  
-  @7warroom · 2026-11-16 11:46
 
 [返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 34 页

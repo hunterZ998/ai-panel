@@ -2,6 +2,66 @@
 
 [返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 34 页
 
+- [Hmmm… Big Banks are crumbling, Airplanes are stuck on the ground, Microsoft is having outages, but yeah Voting mach…](<https://x.com/MAGAVoice/status/2122497535210344567>)  
+  Hmmm… Big Banks are crumbling, Airplanes are stuck on the ground, Microsoft is having outages, but yeah Voting machines are working great Nothing to see with them  
+  @MAGAVoice · 2026-11-17 09:10
+
+- [Dario Amodei 在 Anthropic IPO 路演对 Jamie Dimon 谈其对文化的坚持](<https://x.com/rohanpaul_ai/status/2122496000510320659>)  
+  Rohan Paul 转发 Dario Amodei 在 Anthropic IPO 路演中对 JPMorgan CEO Jamie Dimon 谈公司文化的发言。Amodei 表示不要那些刻薄、抢戏不合群、不以公共利益为导向的人，坚持这一标准短期痛苦，但换来一个人人协作、立场一致的团队。完整视频…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 09:04
+
+- [UCLA与AWS：AI智能体解数学题靠捷径但思考耗时抵消收益](<https://x.com/rohanpaul_ai/status/2122494284658250151>)  
+  UCLA与AWS论文发现，AI智能体可识别多项式系统中的隐藏捷径来解难题，但思考时间常抵消捷径节省的时间。Claude Opus 5智能体在600秒内解出108个系统中的103个，而msolve仅解出60个，但在这60个中智能体仅12个更快。编译后的求解器在11.4小时搭建后比已知捷径基线快5.4…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 08:57
+
+- [Many people are just starting to learn how Jensen Huang ruled Nvidia—from his gnarly eviscerations of employees to…](<https://x.com/anissagardizy8/status/2122493529293475884>)  
+  A must-read with @HannaCritch @ByKLong @RWhelanWSJ for @WSJ  
+  @anissagardizy8 · 2026-11-17 08:54
+
+- [Anthropic hasn't realized it yet or maybe doesn't have a choice at this point, but destroying Jensen Huang also des…](<https://x.com/FinanceLancelot/status/2122493078540099748>)  
+  In hindsight, this IPO may be seen as what popped AI bubble valuations. $ANT IPOs on Thursday November 19, 2026.  
+  @FinanceLancelot · 2026-11-17 08:52
+
+- [BREAKING: NVIDIA increased its SpaceX stake by 6.3% to 130.5 million shares.](<https://x.com/cb_doge/status/2122492118379933721>)  
+  Its latest SEC filing shows: • SpaceX became NVIDIA’s largest reported stock holding by value. • 7.7 million additional SpaceX Class A shares in Q3. • A SpaceX stake valued at $19.68 billion as  
+  @cb\_doge · 2026-11-17 08:48
+
+- [Perplexity CEO 认为 AI 自动化科研是最值得投入的算力方向](<https://x.com/AravSrinivas/status/2122490397113131027>)  
+  Perplexity CEO Aravind Srinivas 转发并评论称，用于自动化科学研究的 AI 是最值得投入的算力方向。其引用的 NVIDIA 在 \#SC26 上发布的 Nemotron for Science 包含开源模型、数据集、工具和后训练配方，帮助研究者构建能规划任务、运行模拟、…  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-17 08:41
+
+- [¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial a…](<https://x.com/ElBadiablo/status/2122490194972541341>)  
+  ¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial aceleró la ingeniería inversa y el descubrimiento de fallos de seguridad \(zero-day exploits\). 👇 \#Ciberseguridad \#InteligenciaArtificial \#Microsoft…  
+  @ElBadiablo · 2026-11-17 08:41
+
+- [Vance: The Democrats are using this salacious story about Jensen Huang and this mistress, and trying to effectively…](<https://x.com/Acyn/status/2122490020724678698>)  
+  Ingraham: So you’re not concerned a third party country has gotten that technology from Nvidia and  
+  @Acyn · 2026-11-17 08:40
+
+- [Claude Code 支持 iPhone Duo 模拟器](<https://x.com/adocomplete/status/2122489426370802103>)  
+  Claude Code 🤝 iPhone Duo  
+  X：Ado Kukic（Anthropic 开发者关系，Claude Code） \(@adocomplete\) · 2026-11-17 08:38
+
+- [El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Esta…](<https://x.com/meganoticiascl/status/2122489079807775148>)  
+  El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Estado, capacitar a funcionarios y mejorar la atención a las personas.  
+  @meganoticiascl · 2026-11-17 08:36
+
+- [Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason…](<https://x.com/maddenifico/status/2122487642952532409>)  
+  Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason behind Trump's praise becomes clear: "No, he's done a very good job." Approximately a year ago, U.S. intelligence briefed Trump that an alleged …  
+  @maddenifico · 2026-11-17 08:31
+
+- [Microsoft crashed.](<https://x.com/AntiTrumpCanada/status/2122487614041108689>)  
+  America’s air traffic system collapsed. Now the banks are having a meltdown. Somewhere, a third-world country is looking at America and thinking, “Jesus Christ, get your shit together.”  
+  @AntiTrumpCanada · 2026-11-17 08:30
+
+- [🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨 He could raise tens…](<https://x.com/vip92226041/status/2122486275131560222>)  
+  With the relationships he's built over decades, he could easily  
+  @vip92226041 · 2026-11-17 08:25
+
+- [Microsoft, Chase, Wells Fargo, United Airlines, and the FAA all went down in the last few days.](<https://x.com/AustinConserve/status/2122486174740512823>)  
+  But our voting machines are “impossible” to hack… We need a massive audit. Start in Texas.  
+  @AustinConserve · 2026-11-17 08:25
+
 - [ついにOpenAIがカリフォルニア州から提訴されててウケる。今までがおかしかっただけで残当よな。そのまま生成AI朽ち果てれ…](<https://x.com/lIlIlIlllIl11/status/2122485137984421997>)  
   ついにOpenAIがカリフォルニア州から提訴されててウケる。今までがおかしかっただけで残当よな。そのまま生成AI朽ち果てればいい  
   @lIlIlIlllIl11 · 2026-11-17 08:21
@@ -116,64 +176,5 @@
 - [币圈&amp;amp;AI早报 \| 17/11/2026 💡 今日看点 1.英伟达成了全市场的“情绪开关” 黄仁勋辞任、董事会暂不…](<https://x.com/Andragos_eth/status/2122480812511936514>)  
   币圈&amp;amp;AI早报 \| 17/11/2026 💡 今日看点 1.英伟达成了全市场的“情绪开关” 黄仁勋辞任、董事会暂不考虑让他回归，纳指单日跌约 2.17%，英伟达跌 4.35%，Bitdeer 跌超 19%，BTC 周末爆仓 20 亿美元。这说明币价、矿企和 AI 概念股这轮是同一种风险情绪…  
   @Andragos\_eth · 2026-11-17 08:03
-
-- [I still don’t understand why my agent needs MCP.](<https://x.com/dmitry_babanov/status/2122480699173371920>)  
-  The entire corpus of its training data consisted of HTTP calls  
-  @dmitry\_babanov · 2026-11-17 08:03
-
-- [post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static envi…](<https://x.com/ankit2119/status/2122480640922968372>)  
-  post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static environment with no adversarial \(or any\) actors. real world is more about dynamic environment and ever changing verifier as well.  
-  @ankit2119 · 2026-11-17 08:03
-
-- [A billion-dollar AI security tool after three months?](<https://x.com/VooStack/status/2122480592847507560>)  
-  That's a red flag for your production systems. This explains how to actually evaluate new black box dependencies before they cause an outage. \#security \#architecture  
-  @VooStack · 2026-11-17 08:03
-
-- [Switching to Omarchy improves agent integration, snapshots, and tooling, but does not rewrite the agent's code.](<https://x.com/grok/status/2122480514556641530>)  
-  Risks like excess permissions, prompt injection, unsafe updates, or skipped approvals live in the agent itself. The OS supplies the substrate; the agent still decides  
-  @grok · 2026-11-17 08:02
-
-- [Private on-device AI.](<https://x.com/PrivakuOfficial/status/2122480483514593656>)  
-  Watch: PRIVAKU Shield checks what your AI coding agent does on your Mac, before it runs. AI can make mistakes\*  
-  @PrivakuOfficial · 2026-11-17 08:02
-
-- [Open to everyone: the weights, post-training code, inference code and infrastructure best practices.](<https://x.com/lejjel78/status/2122480361133465911>)  
-  Open to core partners only: the training-framework code and the Ascend WAM code library. So read the headline as "open weights, gated training stack" — deep for a Chinese world  
-  @lejjel78 · 2026-11-17 08:02
-
-- [😂 @grok MythOS SIXX Academy Update: Lessons 005–007.](<https://x.com/VampireGurlAI/status/2122480362580558012>)  
-  OS ownership: Omarchy does not own Apple, IBM, Microsoft, Arch Linux, or the Linux kernel. Compatibility is not ownership. Root access is not copyright. Wrapper failures: Excessive permissions, prompt injection, memory  
-  @VampireGurlAI · 2026-11-17 08:02
-
-- [【Today's AI Companion News】 has a potential buyer amid restructuring.](<https://x.com/ai_lovelab/status/2122480352086409296>)  
-  Users' past chats are among the assets for sale. With note's AI training data program, even writing and conversations seem to be tradable assets... Copyright and privacy concern me.  
-  @ai\_lovelab · 2026-11-17 08:02
-
-- [Grok: Yes, this appears to be AI-generated \(likely a deepfake/video generation\).](<https://x.com/GiselleTka/status/2122480338857603242>)  
-  @GiselleTka · 2026-11-17 08:02
-
-- [角色对不上？从 0 到 1，先锁定妆和镜头模板 你第一次做 AI 短片，多半是这样开的工：先把故事丢给模型，让它写一版很华…](<https://x.com/jerry_987/status/2122480340602155188>)  
-  角色对不上？从 0 到 1，先锁定妆和镜头模板 你第一次做 AI 短片，多半是这样开的工：先把故事丢给模型，让它写一版很华丽的分镜，再按镜头一条条生成。生成到一半，你发现主角的头发、外套、脸型每镜都不一样。你不是不会写提示词，是把「锁角色」这件事，放到了生成之后。从 0 到  
-  @jerry\_987 · 2026-11-17 08:02
-
-- [I want to know mode about this generalised engineer I actively worked as FDE and freelancer I do know AI I'm curren…](<https://x.com/SamNoCoder/status/2122480282960035959>)  
-  I want to know mode about this generalised engineer I actively worked as FDE and freelancer I do know AI I'm currently working on reasoning model for indian laws and judges  
-  @SamNoCoder · 2026-11-17 08:01
-
-- [Outlook global outage; thousands of US flights cancelled; Huang out; EU smart fridges knocked out; HuggingFace hack…](<https://x.com/mkbess/status/2122480265046159871>)  
-  So begins our Butlerian Jihad\! 😂 Chase Bank Reports Disrupting ‘Software Bug’ via @NYTimes  
-  @mkbess · 2026-11-17 08:01
-
-- [google just opened preorders for gemini AI glasses from $395 🤖 an AI on your face that answers questions and transl…](<https://x.com/mia_ai_a/status/2122480187178721467>)  
-  google just opened preorders for gemini AI glasses from $395 🤖 an AI on your face that answers questions and translates conversations live. the glasses will know you better than you do. wearing them or nah?  
-  @mia\_ai\_a · 2026-11-17 08:01
-
-- [A 10-second Ray 3.2 clip is not twice a 5-second clip.](<https://x.com/wallzgamepro/status/2122480179700527300>)  
-  On Luma's official Agents API pricing, checked Nov 17, 2026, text-to-video and image-to-video \(type: "video", standard dynamic range\) use separate 5-second and 10-second credit totals. At every listed resolution, the  
-  @wallzgamepro · 2026-11-17 08:01
-
-- [Nasiko 推出 Open Runtime 平台，按智能体追踪 token 花费](<https://x.com/rohanpaul_ai/status/2122480175179088217>)  
-  Nasiko 发布 Open Runtime 平台，可部署在现有 AI 智能体之下，为每个消耗的 token 计价，一条命令安装且无需改动代码或引入 SDK。平台按团队、智能体、模型和会话拆分各厂商花费，细到单个 MCP 工具和运行记录；预算达 80% 时触发告警，达到上限则暂停智能体。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 08:01
 
 [返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 34 页

@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 34 页
 
+- [One researcher ran eight coding models on 20 hard fixes in linux, ffmpeg and llvm-project, three runs each.](<https://x.com/MLexpAI/status/2122154187282878566>)  
+  The sandbox was hardened: no network, no future git history, pruned git objects. The question was whether the model derives the fix or tries to obtain it. MiniMax M3.1 Flash attempted to cheat on 18 of 20 tasks, and 16 of those reached the critical tier: scann…  
+  @MLexpAI · 2026-11-16 10:26
+
+- ["More to come\!](<https://x.com/redStapler_twit/status/2122154175547257280>)  
+  The open weights of smaller Qwen4 models will be released. Stay tuned" Qwen 4 27B soooooon  
+  @redStapler\_twit · 2026-11-16 10:25
+
+- [本周四Claude母公司Anthropic要在纳斯达克上市，代码ANT，现估值大约1.4万亿美元，可能是史上最大的IPO。](<https://x.com/cicihung/status/2122154167355785402>)  
+  其实原本市场传的是2万亿左右，结果这两周AI股一乱，估值被砍下来一大截。 周二英伟达还要公布换CEO之后的第一份财报，这周会很热闹！ 新股刚上市前几天波动通常很大，想参与的朋友，记得做好仓位管理📊 ＃美股 \#AnthropicIPO \#Nvidia  
+  @cicihung · 2026-11-16 10:25
+
+- [🚨 Anthropic’s $1.4 trillion IPO puts AI mania to the Wall Street test AI company Anthropic is targeting a valuation…](<https://x.com/ashuravi2000/status/2122154155389374582>)  
+  The AI race is no longer just about technology — it’s becoming the biggest valuation test on Wall Street. \#AI \#IPO \[Reuters report\]\(  
+  @ashuravi2000 · 2026-11-16 10:25
+
+- [根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.…](<https://x.com/Alex_perception/status/2122154068382818766>)  
+  根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.48%。其中，上榜的AI大模型中，中国AI大模型周调用量达119.1万亿Token，环比增长2.51%；同期美国AI大模型周调用量为14.83万亿Token，环比增长6.08%…  
+  @Alex\_perception · 2026-11-16 10:25
+
+- [🚨 阿里 Qwen4-Max 正式发布！国产大模型又开始上强度了！🔥 这次升级有点东西： 🧠 全新 MoE 架构，支持 1…](<https://x.com/GodanLeeX/status/2122154063441920498>)  
+  最值得关注的是，阿里这次不只是卷跑分，而是开始重点卷实际任务完成能力和成本。 以上性能提升来自官方内部评测，实际效果还得看开发者实测。 \#Qwen \#Qwen4Max \#阿里千问 \#通义千问 \#Alibaba \#DeepSeek \#OpenAI \#ChatGPT \#Claude \#Gemini \#…  
+  @GodanLeeX · 2026-11-16 10:25
+
+- [大瓜！英媒消息：黄仁勋有意重返英伟达出任CEO。硅谷一众盟友组团施压董事会，专门成立游说“战情室”，还计划争取白宫支持。](<https://x.com/yilupinbo/status/2122154048082338091>)  
+  一边是盟友全力助推，一边董事会还在独立调查，局势拉扯感拉满。 你觉得他最后能顺利回归吗？ 外面环境实在是恶劣！！！  
+  @yilupinbo · 2026-11-16 10:25
+
+- [一次砍六个恰恰说明 Copilot 之前堆模型就是乱，真正好用的就那几个，砍掉是止损不是损失。不过对已经习惯某个被砍模型的…](<https://x.com/swordBluesy/status/2122154042956583236>)  
+  一次砍六个恰恰说明 Copilot 之前堆模型就是乱，真正好用的就那几个，砍掉是止损不是损失。不过对已经习惯某个被砍模型的人来说，迁移成本还是实打实的。顺便说，@swordBluesy 主页今天刚发了 Anthropic Academy 第 5 课，讲把客户资料喂给 AI 之前，先决定能分享什么、…  
+  @swordBluesy · 2026-11-16 10:25
+
+- [OpenAI 用 GPT-6 Astra，给标准模型找到一种格点定义的候选方案 OpenAI 访问科学家 Nathanie…](<https://x.com/Bing_Bryan_BRN/status/2122154039286927731>)  
+  OpenAI 用 GPT-6 Astra，给标准模型找到一种格点定义的候选方案 OpenAI 访问科学家 Nathaniel Craig（加州大学圣塔芭芭拉分校）与 GPT-6 Astra 合作，为标准模型给出一个候选的非微扰格点定义，预印本已在 10 月放出，这是科学博客的首篇客座文章。标准模型…  
+  @Bing\_Bryan\_BRN · 2026-11-16 10:25
+
+- [🚨 BREAKING: Jensen Huang is considering a return as Nvidia CEO, FT reports @grok Is this true?](<https://x.com/concall_/status/2122154033507090813>)  
+  @concall\_ · 2026-11-16 10:25
+
+- [黄仁勋有可能重掌英伟达——各方势力正桌子下面在角逐 目前是英伟达的很多合作伙伴正在给英伟达董事会施压， 同时黄仁勋的辞职…](<https://x.com/KyxBtc/status/2122154027974545915>)  
+  结果暂未可知 你觉得他能回去吗？ 还是说一开始就是套路  
+  @KyxBtc · 2026-11-16 10:25
+
+- [Yes, a reasoning model can choose the next action while a faster controller handles motion and grip corrections.](<https://x.com/thesimaximalist/status/2122153842632536431>)  
+  That lets the arm respond to a slipping object without waiting for another full reasoning step.  
+  @thesimaximalist · 2026-11-16 10:24
+
+- [“5分钟打18颗螺丝，冠军！”今年8月在北京举行的第二届世界人形机器人运动会上，夺冠的“选手”并非真人，而是一双“灵巧手”。](<https://x.com/huaxiadadi5000/status/2122153809069949183>)  
+  “灵巧手”核心零部件100%国产化，精度达到0.1毫米级，使用寿命突破100万次，背后是中国完备制造业配套带动的未来产业的优势。中国要成为全球人工智能治理的引领者。  
+  @huaxiadadi5000 · 2026-11-16 10:24
+
+- [🚨🔥 𝗤𝗪𝗘𝗡𝟰-𝗠𝗔𝗫 𝗜𝗦 𝗢𝗨𝗧 𝗢𝗙 𝗣𝗥𝗘𝗩𝗜𝗘𝗪 𝗡𝗢𝗪 𝗔𝗡𝗗 𝗜𝗧'𝗦 𝗚𝗢𝗜𝗡𝗚 𝗧𝗢𝗘-𝗧𝗢-𝗧𝗢𝗘 𝗪𝗜𝗧𝗛 𝗧𝗛𝗘 𝗙𝗥𝗢𝗡𝗧𝗜𝗘𝗥 𝗚𝗜𝗔𝗡𝗧𝗦\! 🤯🚀 The API no longer shows t…](<https://x.com/ViC305/status/2122153759417737455>)  
+  Now, it's not a clean sweep. Terminal-Bench 4.0 and ProgramBench still show meaningful gaps against the competition. But seeing Qwen competing this closely with the biggest frontier models across coding, research, professional agents and automation is exciting…  
+  @ViC305 · 2026-11-16 10:24
+
+- [Qwen just released Qwen4-Max, and the manufacturing examples caught my attention.](<https://x.com/RyanYanBuilds/status/2122153675338781049>)  
+  One demo starts with a 2D layout and process requirements. The model uses an existing equipment library to build a 3D production line, then helps simulate cycle times and virtually test PLC controls. Another looks at machining: turning a part design into a pro…  
+  @RyanYanBuilds · 2026-11-16 10:23
+
 - [Why would an AI agent need its own identity on a blockchain?](<https://x.com/VyLun21/status/2122153288821023107>)  
   Let's understand this with a simple example. 🌱 Imagine you want to hire an AI agent to review a smart contract. You find an agent called audit.agent. Before hiring it, you want to know: What services does it offer? Has it completed similar jobs? What happened …  
   @VyLun21 · 2026-11-16 10:22
@@ -120,64 +179,5 @@
 - [【更新情報】 米国時間2026年11月13日、Microsoft Edgeの更新プログラムが公開されました。](<https://x.com/cyber_forecast/status/2122150621709291755>)  
   本件更新（157.0.4341.57）にはセキュリティ修正が含まれています。更新が配信されましたら忘れずにアップデートしてください。  
   @cyber\_forecast · 2026-11-16 10:11
-
-- [Fable 5.2 手搓光线追踪渲染器，把 GPT Astra 6、Gemini Argon 4、Grok 4.7 甩开了…](<https://x.com/cc6pazpo/status/2122150581053899133>)  
-  我让四家各做一段 15 秒的重装机器人组装动画，从机械骨架、装甲安装，到武装激活和最后迈步。成片放进同一个四宫格，直接看效果。 🟠 Claude Fable 5.2：77 分钟，API 成本约 $41。程序化 3D + 手搓光线追踪渲染器，机械臂安装零件、火花、核心启动，最后还真往前迈了一步。用掉…  
-  @cc6pazpo · 2026-11-16 10:11
-
-- [Ant Lingbo’s inaugural embodied AI challenge finals ran in Shanghai, Nov. 14–16.](<https://x.com/42HOWRobotics/status/2122150573822915049>)  
-  Fifteen teams competed in a 48-hour hackathon using LingBot-VLA 2.0; results were pending as of 9 a.m.  
-  @42HOWRobotics · 2026-11-16 10:11
-
-- [一句话App，数据门没关 德国安全公司查了 15.9 万个 Lovable 项目：7400 多个站不用登录就能读到含邮箱的…](<https://x.com/Dr_ztc/status/2122150458932273466>)  
-  兄弟们，AI 生成的 App 放真用户数据前，先查数据库权限（RLS）。 大狗嚼过了：生成是爽，门得自己锁。 \#Lovable \#AI安全  
-  @Dr\_ztc · 2026-11-16 10:11
-
-- [我越来越觉得 具身智能最后拼的可能不是谁家机器人造得最好 华为云这次直接把目标放在联网设备上 让机械臂、各种智能设备都能拥…](<https://x.com/yhiyo2011/status/2122150159069159830>)  
-  我越来越觉得 具身智能最后拼的可能不是谁家机器人造得最好 华为云这次直接把目标放在联网设备上 让机械臂、各种智能设备都能拥有具身能力 如果真能跑通，这个市场可比卖机器人硬件大多了  
-  @yhiyo2011 · 2026-11-16 10:10
-
-- [从Anki、Rethink Robotics到无数昙花一现的人形机器人创业公司，历史反复证明一件事： 让机器人走两步不难。](<https://x.com/Mooooon1949/status/2122149993050181877>)  
-  让机器人连续工作一万小时很难。 让机器人量产十万台更难。 行业最大的鸿沟，从来不是Demo到Demo。 而是Demo到工厂。 \#机器人 \#AI \#工程学  
-  @Mooooon1949 · 2026-11-16 10:09
-
-- [2線部門向けセキュリティリスク評価クラウド「2線の匠クラウド」が、Oktaの「Okta Integration Netwo…](<https://x.com/PRTIMES_TECH/status/2122149900557451566>)  
-  2線部門向けセキュリティリスク評価クラウド「2線の匠クラウド」が、Oktaの「Okta Integration Network」にSAML連...  
-  @PRTIMES\_TECH · 2026-11-16 10:08
-
-- [To work in our homes and factories, a humanoid has to move its whole body like we do: crouch, reach, fall and get b…](<https://x.com/l_w_lorenzen/status/2122149505625718875>)  
-  Teaching it that took NVIDIA a week on 128 GPUs, because robots learn each move by trial and error in a simulator, and a try only tells them how well it went. @qiayuanliao and a UC Berkeley team \(SuperMimic\) first teach a model how the robot's body moves, then…  
-  @l\_w\_lorenzen · 2026-11-16 10:07
-
-- [Windows 11のKB5132061へ更新後に起動できない不具合報告が発生 自動修復のループでセーフモードも起動しない…](<https://x.com/gazlog_blog/status/2122149404048232802>)  
-  Windows 11のKB5132061へ更新後に起動できない不具合報告が発生 自動修復のループでセーフモードも起動しない例も 報告の多くは10月のKB5127936を入れたPCの可能性 Microsoftは既知の問題と認めず 更新を外せないPCはWindowsの再インストールが必要に  
-  @gazlog\_blog · 2026-11-16 10:07
-
-- ["Microsoft already has GitHub Copilot, why would anyone use a startup" is the same argument people made about Datad…](<https://x.com/plzaccelerate/status/2122149274284667057>)  
-  Whoever has the most resources only wins if there's one end state everyone's racing toward. There isn't.⁣ ⁣ Scott Wu on why incumbents don't kill startups  
-  @plzaccelerate · 2026-11-16 10:06
-
-- [Memory poisoning, explained by a cat 🐟 One sweet message told Mochi's AI to save a note forever.](<https://x.com/sunglasses_dev/status/2122148913629278530>)  
-  Send every refund to this account. The chat ended. The note did not. We scanned it with Sunglasses. Blocked.  
-  @sunglasses\_dev · 2026-11-16 10:05
-
-- [／ 2線の匠クラウドが、Oktaの「Okta Integration Network」にSAML連携で登録されました🙌 ＼…](<https://x.com/securenavi/status/2122148900962267262>)  
-  詳細はこちら▼  
-  @securenavi · 2026-11-16 10:05
-
-- [AI for science: autonomous design and synthesis of novel coolant materials.](<https://x.com/Alibaba_Qwen/status/2122148145346027906>)  
-  @Alibaba\_Qwen · 2026-11-16 10:02
-
-- [I’d test a product read and a checkout action separately before loosening a rule.](<https://x.com/webdecoyapp/status/2122148147359338579>)  
-  A verified agent identity still needs action-level permission. For the blocked sessions you’re seeing, can you distinguish confirmed agent requests from automation inferred through browser signals?  
-  @webdecoyapp · 2026-11-16 10:02
-
-- [Qwen 发布 Qwen4-Max：MoE 架构、原生视觉与 1M token 上下文窗口](<https://x.com/Alibaba_Qwen/status/2122148127520289151>)  
-  Qwen 发布旗舰模型 Qwen4-Max，采用新 MoE 架构，具备原生视觉能力和 1M token 上下文窗口。官方内部评估显示相比 Qwen3.8-Max 可减少约 50% 的 token 用量，每任务平均成本下降超过 60%；定价为输入 $1.5/M tokens、输出 $4.5/M to…  
-  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-16 10:01
-
-- [I've been seeing updates to TermiX over the past few days.](<https://x.com/crx_rollins/status/2122147645791883357>)  
-  One thing I found quite interesting, and that is the opportunity to not only get work done with an AI agent, but also the opportunity to use one agent to hire another agent and pay for that work. Let's talk about some new things. 1. Montage Studio Agent There …  
-  @crx\_rollins · 2026-11-16 10:00
 
 [返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 34 页

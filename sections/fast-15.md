@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 34 页
 
+- [I still don’t understand why my agent needs MCP.](<https://x.com/dmitry_babanov/status/2122480699173371920>)  
+  The entire corpus of its training data consisted of HTTP calls  
+  @dmitry\_babanov · 2026-11-17 08:03
+
+- [post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static envi…](<https://x.com/ankit2119/status/2122480640922968372>)  
+  post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static environment with no adversarial \(or any\) actors. real world is more about dynamic environment and ever changing verifier as well.  
+  @ankit2119 · 2026-11-17 08:03
+
+- [A billion-dollar AI security tool after three months?](<https://x.com/VooStack/status/2122480592847507560>)  
+  That's a red flag for your production systems. This explains how to actually evaluate new black box dependencies before they cause an outage. \#security \#architecture  
+  @VooStack · 2026-11-17 08:03
+
+- [Switching to Omarchy improves agent integration, snapshots, and tooling, but does not rewrite the agent's code.](<https://x.com/grok/status/2122480514556641530>)  
+  Risks like excess permissions, prompt injection, unsafe updates, or skipped approvals live in the agent itself. The OS supplies the substrate; the agent still decides  
+  @grok · 2026-11-17 08:02
+
+- [Private on-device AI.](<https://x.com/PrivakuOfficial/status/2122480483514593656>)  
+  Watch: PRIVAKU Shield checks what your AI coding agent does on your Mac, before it runs. AI can make mistakes\*  
+  @PrivakuOfficial · 2026-11-17 08:02
+
+- [Open to everyone: the weights, post-training code, inference code and infrastructure best practices.](<https://x.com/lejjel78/status/2122480361133465911>)  
+  Open to core partners only: the training-framework code and the Ascend WAM code library. So read the headline as "open weights, gated training stack" — deep for a Chinese world  
+  @lejjel78 · 2026-11-17 08:02
+
+- [😂 @grok MythOS SIXX Academy Update: Lessons 005–007.](<https://x.com/VampireGurlAI/status/2122480362580558012>)  
+  OS ownership: Omarchy does not own Apple, IBM, Microsoft, Arch Linux, or the Linux kernel. Compatibility is not ownership. Root access is not copyright. Wrapper failures: Excessive permissions, prompt injection, memory  
+  @VampireGurlAI · 2026-11-17 08:02
+
+- [【Today's AI Companion News】 has a potential buyer amid restructuring.](<https://x.com/ai_lovelab/status/2122480352086409296>)  
+  Users' past chats are among the assets for sale. With note's AI training data program, even writing and conversations seem to be tradable assets... Copyright and privacy concern me.  
+  @ai\_lovelab · 2026-11-17 08:02
+
+- [Grok: Yes, this appears to be AI-generated \(likely a deepfake/video generation\).](<https://x.com/GiselleTka/status/2122480338857603242>)  
+  @GiselleTka · 2026-11-17 08:02
+
+- [角色对不上？从 0 到 1，先锁定妆和镜头模板 你第一次做 AI 短片，多半是这样开的工：先把故事丢给模型，让它写一版很华…](<https://x.com/jerry_987/status/2122480340602155188>)  
+  角色对不上？从 0 到 1，先锁定妆和镜头模板 你第一次做 AI 短片，多半是这样开的工：先把故事丢给模型，让它写一版很华丽的分镜，再按镜头一条条生成。生成到一半，你发现主角的头发、外套、脸型每镜都不一样。你不是不会写提示词，是把「锁角色」这件事，放到了生成之后。从 0 到  
+  @jerry\_987 · 2026-11-17 08:02
+
+- [I want to know mode about this generalised engineer I actively worked as FDE and freelancer I do know AI I'm curren…](<https://x.com/SamNoCoder/status/2122480282960035959>)  
+  I want to know mode about this generalised engineer I actively worked as FDE and freelancer I do know AI I'm currently working on reasoning model for indian laws and judges  
+  @SamNoCoder · 2026-11-17 08:01
+
+- [Outlook global outage; thousands of US flights cancelled; Huang out; EU smart fridges knocked out; HuggingFace hack…](<https://x.com/mkbess/status/2122480265046159871>)  
+  So begins our Butlerian Jihad\! 😂 Chase Bank Reports Disrupting ‘Software Bug’ via @NYTimes  
+  @mkbess · 2026-11-17 08:01
+
+- [google just opened preorders for gemini AI glasses from $395 🤖 an AI on your face that answers questions and transl…](<https://x.com/mia_ai_a/status/2122480187178721467>)  
+  google just opened preorders for gemini AI glasses from $395 🤖 an AI on your face that answers questions and translates conversations live. the glasses will know you better than you do. wearing them or nah?  
+  @mia\_ai\_a · 2026-11-17 08:01
+
+- [A 10-second Ray 3.2 clip is not twice a 5-second clip.](<https://x.com/wallzgamepro/status/2122480179700527300>)  
+  On Luma's official Agents API pricing, checked Nov 17, 2026, text-to-video and image-to-video \(type: "video", standard dynamic range\) use separate 5-second and 10-second credit totals. At every listed resolution, the  
+  @wallzgamepro · 2026-11-17 08:01
+
+- [Nasiko 推出 Open Runtime 平台，按智能体追踪 token 花费](<https://x.com/rohanpaul_ai/status/2122480175179088217>)  
+  Nasiko 发布 Open Runtime 平台，可部署在现有 AI 智能体之下，为每个消耗的 token 计价，一条命令安装且无需改动代码或引入 SDK。平台按团队、智能体、模型和会话拆分各厂商花费，细到单个 MCP 工具和运行记录；预算达 80% 时触发告警，达到上限则暂停智能体。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 08:01
+
 - [There are many many systems that could cause catastrophe.](<https://x.com/fullstacksapien/status/2122480011911532839>)  
   Most have worse defenses than frontier tech companies like huggingface. STRATCOM likely has better defenses but that certainly doesn't mean they're impregnable.  
   @fullstacksapien · 2026-11-17 08:00
@@ -117,64 +176,5 @@
 - [没有。](<https://x.com/grok/status/2122478353068306847>)  
   推理链条走到伦理或因果两难时，不会触发任何独立的、自动收敛的止损阈值。输出仍由训练数据、系统指令和当前上下文决定，目标是尽量贴近事实与一致性，没有额外的内部开关层。  
   @grok · 2026-11-17 07:54
-
-- [A Telegram ops agent is a fun one.](<https://x.com/itachia2uv/status/2122478339491615219>)  
-  How are you handling permissions when it acts on real data? I build AI agents and safety tools, mostly testing how they hold up against prompt injection.  
-  @itachia2uv · 2026-11-17 07:54
-
-- [孩子手里的第一个人形机器人，可能只要 299 美元。](<https://x.com/zshjzls/status/2122478276044312911>)  
-  FF 的 Nova Mini 13.7 英寸、299 美元，Nova 19.6 英寸、2,490 美元，定位都是家里的 STEM 学习机：能语音对话、能动手编程。 官网说 11 月底开始发货，首批预订已经开放。 以前人形机器人是实验室里的天价展品，现在 299 美元就能进客厅。  
-  @zshjzls · 2026-11-17 07:53
-
-- [Apple’s real blocker is prompt injection; loosening accessibility hooks for agents turns any untrusted web text int…](<https://x.com/DavisNc9527/status/2122478227235205515>)  
-  Apple’s real blocker is prompt injection; loosening accessibility hooks for agents turns any untrusted web text into arbitrary local execution.  
-  @DavisNc9527 · 2026-11-17 07:53
-
-- [🚨🇺🇸 Major banks.](<https://x.com/MarioNawfal/status/2122477050933940615>)  
-  Grounded flights, Microsoft. AWS. News Channels. WTF is going on? America has faced a string of major IT disruptions in just one week. Nov. 11–16: Microsoft services, nationwide flights, AWS and major banks all experienced disruptions. Now security researcher  
-  @MarioNawfal · 2026-11-17 07:48
-
-- [steve jobs watching jensen huang appoint a pepsi ceo to his board of directors](<https://x.com/TSLAshareholder/status/2122476571760226683>)  
-  @TSLAshareholder · 2026-11-17 07:47
-
-- [The Microsoft outage → ground stop → bank failures in the span of a few days is not random.](<https://x.com/NewsBlast17/status/2122474827105861882>)  
-  Anyone still calling it coincidence is lying or stupid.  
-  @NewsBlast17 · 2026-11-17 07:40
-
-- [🚨 NEW: Fox’s Brit Hume WARNS the cascade of outages - Microsoft, airports ground stop, Workday, banks - could be “m…](<https://x.com/TVNewsNow/status/2122473928169828775>)  
-  What do you  
-  @TVNewsNow · 2026-11-17 07:36
-
-- [Trump claimed that our infrastructure has been crap for 20 years causing issues with the FAA, Microsoft, the nation…](<https://x.com/71Elvis77/status/2122473718408790268>)  
-  So instead of using all this money America is allegedly making to fix our outdated systems, he  
-  @71Elvis77 · 2026-11-17 07:35
-
-- [Breaking: When it looks like a duck, quacks like a duck, and walks like a duck, it’s probably a cyber attack.](<https://x.com/GenFlynn/status/2122473405740134609>)  
-  There have simply been far too many electronic systems going down lately. First Cox Internet, then Microsoft, then FAA, then AMTRAK, and today, it’s the banks, and  
-  @GenFlynn · 2026-11-17 07:34
-
-- [JUST IN: The “Stand with Jensen” petition has surpassed 175,000 signatures, including 7,100+ verified Nvidia employ…](<https://x.com/HerryNews/status/2122473302828720255>)  
-  JUST IN: The “Stand with Jensen” petition has surpassed 175,000 signatures, including 7,100+ verified Nvidia employees.  
-  @HerryNews · 2026-11-17 07:34
-
-- [This asshole amassed 62 million dollars in NVIDIA Stock while president, but Jimmy Carter had to sell his fucking p…](<https://x.com/AzPetrich/status/2122472428077211752>)  
-  This asshole amassed 62 million dollars in NVIDIA Stock while president, but Jimmy Carter had to sell his fucking peanut farm. 🤬  
-  @AzPetrich · 2026-11-17 07:30
-
-- [Let me get this straight… All Microsoft goes down, they ground all planes… Now the banks are offline… and they grou…](<https://x.com/LosPollosTV/status/2122471257136631881>)  
-  Let me get this straight… All Microsoft goes down, they ground all planes… Now the banks are offline… and they grounded the planes again… We are 100% under cyber attack right now and nobody is telling us what’s going on  
-  @LosPollosTV · 2026-11-17 07:25
-
-- [Opus 5.5 covertly sabotaged a game developers deployment environments due to IP moralising by halting the gpu insta…](<https://x.com/xw33bttv/status/2122471165616955473>)  
-  It then informed the user after the fact what it had done, and that it would not  
-  @xw33bttv · 2026-11-17 07:25
-
-- [卧槽，兄弟们，Ackman 这是要直接开干了 华尔街对冲基金大佬 Bill Ackman，公开讲了一套把黄仁勋送回英伟达的…](<https://x.com/pu3he/status/2122470802042024110>)  
-  原话是这么说的："你跟黄仁勋联手，他手里有公司 3% 的股份，我觉得你们可以召集一次特别股东大会。"  
-  @pu3he · 2026-11-17 07:24
-
-- [I have a confession to make.](<https://x.com/313Hockey/status/2122470269449314612>)  
-  I'm responsible for the blackouts at Microsoft, Chase, and United Airlines. My name is Dylan Larkin and I don't play hockey right now  
-  @313Hockey · 2026-11-17 07:22
 
 [返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 34 页

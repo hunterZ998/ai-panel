@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 34 页
 
+- [Fable 5.2 手搓光线追踪渲染器，把 GPT Astra 6、Gemini Argon 4、Grok 4.7 甩开了…](<https://x.com/cc6pazpo/status/2122150581053899133>)  
+  我让四家各做一段 15 秒的重装机器人组装动画，从机械骨架、装甲安装，到武装激活和最后迈步。成片放进同一个四宫格，直接看效果。 🟠 Claude Fable 5.2：77 分钟，API 成本约 $41。程序化 3D + 手搓光线追踪渲染器，机械臂安装零件、火花、核心启动，最后还真往前迈了一步。用掉…  
+  @cc6pazpo · 2026-11-16 10:11
+
+- [Ant Lingbo’s inaugural embodied AI challenge finals ran in Shanghai, Nov. 14–16.](<https://x.com/42HOWRobotics/status/2122150573822915049>)  
+  Fifteen teams competed in a 48-hour hackathon using LingBot-VLA 2.0; results were pending as of 9 a.m.  
+  @42HOWRobotics · 2026-11-16 10:11
+
+- [一句话App，数据门没关 德国安全公司查了 15.9 万个 Lovable 项目：7400 多个站不用登录就能读到含邮箱的…](<https://x.com/Dr_ztc/status/2122150458932273466>)  
+  兄弟们，AI 生成的 App 放真用户数据前，先查数据库权限（RLS）。 大狗嚼过了：生成是爽，门得自己锁。 \#Lovable \#AI安全  
+  @Dr\_ztc · 2026-11-16 10:11
+
+- [我越来越觉得 具身智能最后拼的可能不是谁家机器人造得最好 华为云这次直接把目标放在联网设备上 让机械臂、各种智能设备都能拥…](<https://x.com/yhiyo2011/status/2122150159069159830>)  
+  我越来越觉得 具身智能最后拼的可能不是谁家机器人造得最好 华为云这次直接把目标放在联网设备上 让机械臂、各种智能设备都能拥有具身能力 如果真能跑通，这个市场可比卖机器人硬件大多了  
+  @yhiyo2011 · 2026-11-16 10:10
+
+- [从Anki、Rethink Robotics到无数昙花一现的人形机器人创业公司，历史反复证明一件事： 让机器人走两步不难。](<https://x.com/Mooooon1949/status/2122149993050181877>)  
+  让机器人连续工作一万小时很难。 让机器人量产十万台更难。 行业最大的鸿沟，从来不是Demo到Demo。 而是Demo到工厂。 \#机器人 \#AI \#工程学  
+  @Mooooon1949 · 2026-11-16 10:09
+
+- [2線部門向けセキュリティリスク評価クラウド「2線の匠クラウド」が、Oktaの「Okta Integration Netwo…](<https://x.com/PRTIMES_TECH/status/2122149900557451566>)  
+  2線部門向けセキュリティリスク評価クラウド「2線の匠クラウド」が、Oktaの「Okta Integration Network」にSAML連...  
+  @PRTIMES\_TECH · 2026-11-16 10:08
+
+- [To work in our homes and factories, a humanoid has to move its whole body like we do: crouch, reach, fall and get b…](<https://x.com/l_w_lorenzen/status/2122149505625718875>)  
+  Teaching it that took NVIDIA a week on 128 GPUs, because robots learn each move by trial and error in a simulator, and a try only tells them how well it went. @qiayuanliao and a UC Berkeley team \(SuperMimic\) first teach a model how the robot's body moves, then…  
+  @l\_w\_lorenzen · 2026-11-16 10:07
+
+- [Windows 11のKB5132061へ更新後に起動できない不具合報告が発生 自動修復のループでセーフモードも起動しない…](<https://x.com/gazlog_blog/status/2122149404048232802>)  
+  Windows 11のKB5132061へ更新後に起動できない不具合報告が発生 自動修復のループでセーフモードも起動しない例も 報告の多くは10月のKB5127936を入れたPCの可能性 Microsoftは既知の問題と認めず 更新を外せないPCはWindowsの再インストールが必要に  
+  @gazlog\_blog · 2026-11-16 10:07
+
+- ["Microsoft already has GitHub Copilot, why would anyone use a startup" is the same argument people made about Datad…](<https://x.com/plzaccelerate/status/2122149274284667057>)  
+  Whoever has the most resources only wins if there's one end state everyone's racing toward. There isn't.⁣ ⁣ Scott Wu on why incumbents don't kill startups  
+  @plzaccelerate · 2026-11-16 10:06
+
+- [Memory poisoning, explained by a cat 🐟 One sweet message told Mochi's AI to save a note forever.](<https://x.com/sunglasses_dev/status/2122148913629278530>)  
+  Send every refund to this account. The chat ended. The note did not. We scanned it with Sunglasses. Blocked.  
+  @sunglasses\_dev · 2026-11-16 10:05
+
+- [／ 2線の匠クラウドが、Oktaの「Okta Integration Network」にSAML連携で登録されました🙌 ＼…](<https://x.com/securenavi/status/2122148900962267262>)  
+  詳細はこちら▼  
+  @securenavi · 2026-11-16 10:05
+
+- [AI for science: autonomous design and synthesis of novel coolant materials.](<https://x.com/Alibaba_Qwen/status/2122148145346027906>)  
+  @Alibaba\_Qwen · 2026-11-16 10:02
+
+- [I’d test a product read and a checkout action separately before loosening a rule.](<https://x.com/webdecoyapp/status/2122148147359338579>)  
+  A verified agent identity still needs action-level permission. For the blocked sessions you’re seeing, can you distinguish confirmed agent requests from automation inferred through browser signals?  
+  @webdecoyapp · 2026-11-16 10:02
+
+- [Qwen 发布 Qwen4-Max：MoE 架构、原生视觉与 1M token 上下文窗口](<https://x.com/Alibaba_Qwen/status/2122148127520289151>)  
+  Qwen 发布旗舰模型 Qwen4-Max，采用新 MoE 架构，具备原生视觉能力和 1M token 上下文窗口。官方内部评估显示相比 Qwen3.8-Max 可减少约 50% 的 token 用量，每任务平均成本下降超过 60%；定价为输入 $1.5/M tokens、输出 $4.5/M to…  
+  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-16 10:01
+
+- [I've been seeing updates to TermiX over the past few days.](<https://x.com/crx_rollins/status/2122147645791883357>)  
+  One thing I found quite interesting, and that is the opportunity to not only get work done with an AI agent, but also the opportunity to use one agent to hire another agent and pay for that work. Let's talk about some new things. 1. Montage Studio Agent There …  
+  @crx\_rollins · 2026-11-16 10:00
+
 - [📣 Plaud × 大桃美代子 特別インタビュー②🎥 「私にとってPlaudとは、能力の拡大。」 英語の文字起こし精度の高…](<https://x.com/Plaud_Japan/status/2122147643946152438>)  
   国際会議など、以前ハードルを感じていた場面でも心強い味方に。 大桃美代子さんに、Plaudが広げる可能性について語っていただきました！ ぜひ動画をご覧ください🔻  
   @Plaud\_Japan · 2026-11-16 10:00
@@ -120,63 +179,5 @@
 - [Reddit 用户通过电压故障注入破解 NVIDIA CMP 170HX，解锁 80GB 显存与 126 个 SM。](<https://x.com/AndrewSignalZ/status/2122140318284034404>)  
   Reddit 用户 /u/Yarukiless-cat 在 r/LocalLLaMA 发帖称，他成功对一块 NVIDIA CMP 170HX 矿卡实施了电压故障注入攻击，解锁出 80GB 显存和 126 个 SM。该用户表示这一方法大约在五天前才被公开，他确认可用树莓派 Pico 执行，并让名为“…  
   @AndrewSignalZ · 2026-11-16 09:30
-
-- [User reports indicate problems with Microsoft Outlook since 11:14 AM EST.](<https://x.com/downdetector/status/2122140133017198621>)  
-  How is it affecting you? \#MicrosoftOutlookDown  
-  @downdetector · 2026-11-16 09:30
-
-- [Yeah that’s the thing here: if you truly think the AI bubble is so robust, why obsess over the loss of Jensen Huang?](<https://x.com/edzitron/status/2122139218390421828>)  
-  Was it something specific he did that nobody else can do?  
-  @edzitron · 2026-11-16 09:26
-
-- [As we unlock AI drug discovery, we are dire need of innovation that increases clinical trial capacity.](<https://x.com/LongmireMD/status/2122138730869707049>)  
-  Herein, I model the cost and time savings of agentic clinical development and estimate it can double trial capacity. Would love your feedback.  
-  @LongmireMD · 2026-11-16 09:24
-
-- [BREAKING: Jensen Huang discusses comeback as Nvidia CEO with allies, per FT](<https://x.com/unusual_whales/status/2122137865698021589>)  
-  @unusual\_whales · 2026-11-16 09:21
-
-- [🇺🇸‼️ \| El ingeniero en robótica Darrell Dai anunció su renuncia a NVIDIA y aseguró que la salida de Jensen Huang ma…](<https://x.com/UHN_Plus/status/2122137582788100343>)  
-  En un mensaje publicado en X, destacó la visión del exdirectivo y su apuesta por CUDA, una tecnología cuya arquitectura contribuyó  
-  @UHN\_Plus · 2026-11-16 09:20
-
-- [用大模型探索标准模型的格点定义，把物理直觉和生成式搜索结合，是 AI for science 的扎实方向。](<https://x.com/daningwanai/status/2122137578967281764>)  
-  Combining physical intuition with generative search to probe lattice formulations of the Standard Model is a solid direction for AI for science.  
-  @daningwanai · 2026-11-16 09:20
-
-- [🧬 无界进化拿下超亿元Pre-A轮，刷新国内AI虚拟细胞单笔融资纪录 📌 无界进化（INFevo）：主打"虚拟细胞+递归科…](<https://x.com/INTJYAN/status/2122136797807264225>)  
-  🧬 无界进化拿下超亿元Pre-A轮，刷新国内AI虚拟细胞单笔融资纪录 📌 无界进化（INFevo）：主打"虚拟细胞+递归科学发现"的AI for Science公司 💰 星连资本、华盖资本、德同资本等联合投资，顺为、红杉中国、松禾追投；距6月数千万元天使轮仅5个月 👀 AI制药的钱正往更底层的"细…  
-  @INTJYAN · 2026-11-16 09:16
-
-- [DeepSeek V5 trained completely on Huawei chips will be a geopolitical event.](<https://x.com/jenzhuscott/status/2122136122142900614>)  
-  @jenzhuscott · 2026-11-16 09:14
-
-- [Jensen Huang being ousted is a twofer for imperial Israel just now. - puts more pro Israel people in charge - pushe…](<https://x.com/samhusseini/status/2122134539753710015>)  
-  Very similar to TikTok bs.  
-  @samhusseini · 2026-11-16 09:07
-
-- [Qué sintomático el viaje de Sheinbaum a China 🇨🇳.](<https://x.com/Arbitrus1805/status/2122133973916610858>)  
-  Ni ella ni AMLO se han caracterizado por hacer política exterior. No acuden al G-20, ni a la Asamblea General de la ONU 🇺🇳, ah pero si es para engrasar los contratos que hace PP Merino con Huawei ahí sí mucho aloz🥢.  
-  @Arbitrus1805 · 2026-11-16 09:05
-
-- [Google TPU update: New OpenAI and Anthropic orders extend shipment visibility to 2029; v10 lineup overhauled \(now Q…](<https://x.com/mingchikuo/status/2122133109630194098>)  
-  Order visibility and  
-  @mingchikuo · 2026-11-16 09:02
-
-- [If the average American were more informed or not skeptical of being called a conspiracy theorist, they would reali…](<https://x.com/LateefSaka/status/2122131856447390176>)  
-  The New York Times  
-  @LateefSaka · 2026-11-16 08:57
-
-- [完全能理解 Anthropic / Dario Amodei 为什么在背后如此卖力地推动对黄仁勋的猎巫。](<https://x.com/realWeZZard/status/2122131684573470793>)  
-  从 Google 新模型就能看出来，Anthropic 其实完全没有护城河。现在的牌局就是赤裸裸的资源与基建消耗战：谁有全栈数据、谁能压低单 token 的物理算力成本，谁就能赢。反正硅谷的人才流动性高。 Anthropic  
-  @realWeZZard · 2026-11-16 08:56
-
-- [When Does a Pattern Begin?](<https://x.com/DeepFakeQuote/status/2122130680276734083>)  
-  The Francis Scott Key Bridge. The American Heritage. Two symbols of Americana brought down. A Microsoft outage. A nationwide air traffic disruption. One day apart. Coincidence? Perhaps. Recognizing a pattern doesn’t mean understanding it.  
-  @DeepFakeQuote · 2026-11-16 08:52
-
-- [NVIDIA ex-CEO’s unbridled libido and salacious skirt-chasing aside, Jensen Huang has for years advanced six deeply…](<https://x.com/milesyu10/status/2122130567973994527>)  
-  All six deserve blunt rebuttals, IMHO: 1. China is winning the AI race? Then why are Chinese firms desperate for NVIDIA  
-  @milesyu10 · 2026-11-16 08:52
 
 [返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 34 页

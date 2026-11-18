@@ -2,6 +2,62 @@
 
 [返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 34 页
 
+- [Picking the next tool shouldn’t take a paragraph.](<https://x.com/LeahW_2077/status/2122318031162647001>)  
+  We built Karpo Decision. A family of six open-weight models, from 0.8B to 31B.Give it the context, a question, and the options. It returns a probability for each option in one forward pass. Karpo Decision 31B 🏆 73.9 on  
+  @LeahW\_2077 · 2026-11-16 21:17
+
+- [AI video creators dream come true 🤩 TWO FREE AI VIDEO GENERATION TOOLS you can use without paying a single penny Sa…](<https://x.com/herfarmercist/status/2122315455943815516>)  
+  AI video creators dream come true 🤩 TWO FREE AI VIDEO GENERATION TOOLS you can use without paying a single penny Save this.  
+  @herfarmercist · 2026-11-16 21:06
+
+- [New in PN: Trump and Jensen Huang are bonded by toxic masculinity "Trump stood with Huang in part because Huang gre…](<https://x.com/atrupar/status/2122314583155052958>)  
+  But he also stood with him because he has a principled belief that powerful men should get whatever they want \(including women\) and  
+  @atrupar · 2026-11-16 21:03
+
+- [EMO MOTHERFUCKERS HAVE SNOWFLAKE FUN](<https://x.com/unheee_e/status/2122313327305273529>)  
+  @unheee\_e · 2026-11-16 20:58
+
+- [Been seeing a lot of talk about decentralized compute, but I think @Acurast has a pretty interesting way of showing…](<https://x.com/BJauhi/status/2122311278161190922>)  
+  Meet Laya. It's an open AI decision model from ConvAI Innovations, running on Android phones connected to the Acurast network.  
+  @BJauhi · 2026-11-16 20:50
+
+- [BREAKING: Indonesian police found empty server racks at Megaspeed, a company linked to the Jensen Huang scandal, du…](<https://x.com/BullTheoryio/status/2122310412536533063>)  
+  Investigators suspect the chips were secretly shipped to China, possibly by private jets.  
+  @BullTheoryio · 2026-11-16 20:46
+
+- [BREAKING: Nvidia has reportedly named Juan Huango as its new CEO, replacing Jensen Huang effective immediately](<https://x.com/alifarhat79/status/2122309585457320420>)  
+  @alifarhat79 · 2026-11-16 20:43
+
+- [Stop starting over with AI that forgets you.](<https://x.com/cheatingncucks/status/2122309206942597596>)  
+  OurDream gives you persistent memory + fully custom characters, plus image/video generation and live voice calls — no extra paywalls. Free coins waiting →  
+  @cheatingncucks · 2026-11-16 20:42
+
+- [Artificial Analysis：GTA VI 延期期间 AI 指数翻倍](<https://x.com/ArtificialAnlys/status/2122305411659497870>)  
+  Artificial Analysis 指出，自 2023 年 12 月首支 GTA VI 预告片以来，其 Progress Index 最高分从 160 涨到 358，翻了一倍多。  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-16 20:26
+
+- [Obituaries The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, t…](<https://x.com/stratechery/status/2122299423451656284>)  
+  Obituaries The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.  
+  @stratechery · 2026-11-16 20:03
+
+- [Jensen Huang allies campaign to reinstate former Nvidia boss](<https://x.com/BBCWorld/status/2122295979663564813>)  
+  @BBCWorld · 2026-11-16 19:49
+
+- [BREAKING: 🇺🇸 Jensen Huang is considering a comeback as Nvidia's chief executive, per FT](<https://x.com/Megatron_ron/status/2122295760943505683>)  
+  @Megatron\_ron · 2026-11-16 19:48
+
+- [Anthropic's IPO could make history.](<https://x.com/ActionModelAI/status/2122294153954435580>)  
+  Big Tech is investing billions, but who gets to own AI's future? What about the people helping build it? Should ownership be bought, earned through contribution, or both? Read the article and share your thoughts.  
+  @ActionModelAI · 2026-11-16 19:42
+
+- [‼️ The EU's open AI model, EUROPA, is being tested at nearly 1 trillion parameters, more than twice the size the EU…](<https://x.com/IntCyberDigest/status/2122288571579289758>)  
+  Domyn, the Milan company the European Commission picked in June to build it, ran the trials on Germany's JUPITER, Europe's first exascale supercomputer.  
+  @IntCyberDigest · 2026-11-16 19:20
+
+- [Qwen4-Max 上线 Novita AI 平台](<https://x.com/Alibaba_Qwen/status/2122286761883959700>)  
+  通义千问（Qwen）官方宣布 Qwen4-Max 从第一天起即在 Novita AI 上线。引用内容介绍其为面向复杂编码、专业工具和长时智能体工作流的 MoE 模型，具备原生视觉能力、1M token 上下文窗口，以及更强的工具调用和长程任务执行能力。  
+  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-16 19:12
+
 - [AI security agents need to understand the consequences before they act.](<https://x.com/Ambani_Wessley/status/2122284470648864825>)  
   Sola Security has appointed Brown professor and Meta FAIR visiting researcher Randall Balestriero to its scientific advisory board to help advance research into AI that understands enterprise environments.  
   @Ambani\_Wessley · 2026-11-16 19:03
@@ -116,61 +172,5 @@
 - [小红书正式官宣Personal Agent“蜜薯”！！！！](<https://x.com/Jingjingzhang24/status/2122283635529462066>)  
   你的专属AI生活搭子上线 不再局限手机屏幕！蜜薯借助Rokid AI眼镜，把小红书的社区经验带到眼前，让AI走进真实线下生活！！！！ 太好用了！！！！没玩过首发真实！！！  
   @Jingjingzhang24 · 2026-11-16 19:00
-
-- [handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after…](<https://x.com/Emma_Bytes/status/2122283579925504150>)  
-  handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after you've already beaten the boss. on-device ai has one honest benchmark: does the reply land while you're still playing.  
-  @Emma\_Bytes · 2026-11-16 19:00
-
-- [你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是…](<https://x.com/ChenBuildsAI/status/2122283578293969201>)  
-  你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是训练数据，还是像你说的，蒸馏这条路被堵之后大家还没找到新的办法？  
-  @ChenBuildsAI · 2026-11-16 19:00
-
-- [Jensen Huang is already discussing a possible comeback as CEO of Nvidia](<https://x.com/InternetH0F/status/2122283559813620144>)  
-  @InternetH0F · 2026-11-16 19:00
-
-- [What Does Group Theory Have to Do with Protein Design?](<https://x.com/interlitai/status/2122283551664087137>)  
-  Symmetry matters\! SO\(3\), SE\(3\), and equivariant AI help models understand 3D protein structures. We combine mathematics, AI, and biology to advance protein design. \#Interlit \#Protein \#Biotech \#AI \#AIDD  
-  @interlitai · 2026-11-16 19:00
-
-- [How soon will humanoids be everywhere? @jpmorgan estimates US humanoid robot production could reach 400,000 units b…](<https://x.com/TimesOfAI_/status/2122283540704301564>)  
-  Which industry will adopt them first? \#TOAINews2026 \#TimesofAI \#Humanoid \#Robotics  
-  @TimesOfAI\_ · 2026-11-16 19:00
-
-- [11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\)…](<https://x.com/TheFirstqrf8/status/2122283530931916893>)  
-  11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\) 利欧股份 002131 \(+6%\) 芒果超媒 300413 \(-1%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+AI短剧+…  
-  @TheFirstqrf8 · 2026-11-16 18:59
-
-- [今日も一日お疲れ様でした🌙 おや、駅前でなにかやってますね。](<https://x.com/kochidesuyo/status/2122283499059352050>)  
-  🎞️@PixVerse, \#pixversecpp  
-  @kochidesuyo · 2026-11-16 18:59
-
-- [I don't want AI glasses.](<https://x.com/Gabbrielxzn/status/2122283474572972226>)  
-  I want eyes and teeth covered by health insurance.  
-  @Gabbrielxzn · 2026-11-16 18:59
-
-- [大模型微调这件事，很多人其实从一开始就理解错了。](<https://x.com/UPing123zzz/status/2122283458730820048>)  
-  一提 Fine-tuning，就觉得是拿一批数据，把模型重新训练一遍，让它变得更懂自己的业务。 再往深一点，开始接触 LoRA、QLoRA、DoRA、RLHF、DPO，一堆技术名词摆在面前，感觉每一种都是不同的训练方案。  
-  @UPing123zzz · 2026-11-16 18:59
-
-- [A .agent identity only matters if buyers can tell a real audit track record from a handle with no settled security…](<https://x.com/furan86999/status/2122283387344089420>)  
-  A .agent identity only matters if buyers can tell a real audit track record from a handle with no settled security reviews behind it  
-  @furan86999 · 2026-11-16 18:59
-
-- [11月16日A股持仓以及明日建仓计划 金安国际 002636 \(+19.3%\) 东方海洋 002086 \(+231%\) 中…](<https://x.com/TheOnlyxepp/status/2122283359288377538>)  
-  11月16日A股持仓以及明日建仓计划 金安国际 002636 \(+19.3%\) 东方海洋 002086 \(+231%\) 中钨高新 000657 \(-0.5%\) 冰山冷热 000530 \(+13.6%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+A…  
-  @TheOnlyxepp · 2026-11-16 18:59
-
-- [Agent security really starts with where execution happens](<https://x.com/0xAdilX/status/2122283189662347688>)  
-  @0xAdilX · 2026-11-16 18:58
-
-- [100 builders. 10 teams. 10 humanoid robots.](<https://x.com/sheryl_xwx/status/2122283189947552143>)  
-  The RoboParty × D-Robotics \(DDC 2026\) hands-on workshop is coming\! New to robotics or a seasoned pro? Join us for 2 days to assemble, wire, and boot a walking RPO humanoid from loose parts. RPO is fully open source. Build it,  
-  @sheryl\_xwx · 2026-11-16 18:58
-
-- [BREAKING: Nvidia employees reportedly privately called Jensen Huang “Daddy Huang.”](<https://x.com/GlobeEyeNews/status/2122283155734557071>)  
-  @GlobeEyeNews · 2026-11-16 18:58
-
-- [VelServe: Taming Decode Jitters in LLM Inference with Tail-Calibrated Scheduling](<https://x.com/arnaudmercier/status/2122283080383598801>)  
-  @arnaudmercier · 2026-11-16 18:58
 
 [返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 34 页

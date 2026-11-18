@@ -2,6 +2,62 @@
 
 [返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 34 页
 
+- [handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after…](<https://x.com/Emma_Bytes/status/2122283579925504150>)  
+  handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after you've already beaten the boss. on-device ai has one honest benchmark: does the reply land while you're still playing.  
+  @Emma\_Bytes · 2026-11-16 19:00
+
+- [你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是…](<https://x.com/ChenBuildsAI/status/2122283578293969201>)  
+  你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是训练数据，还是像你说的，蒸馏这条路被堵之后大家还没找到新的办法？  
+  @ChenBuildsAI · 2026-11-16 19:00
+
+- [Jensen Huang is already discussing a possible comeback as CEO of Nvidia](<https://x.com/InternetH0F/status/2122283559813620144>)  
+  @InternetH0F · 2026-11-16 19:00
+
+- [What Does Group Theory Have to Do with Protein Design?](<https://x.com/interlitai/status/2122283551664087137>)  
+  Symmetry matters\! SO\(3\), SE\(3\), and equivariant AI help models understand 3D protein structures. We combine mathematics, AI, and biology to advance protein design. \#Interlit \#Protein \#Biotech \#AI \#AIDD  
+  @interlitai · 2026-11-16 19:00
+
+- [How soon will humanoids be everywhere? @jpmorgan estimates US humanoid robot production could reach 400,000 units b…](<https://x.com/TimesOfAI_/status/2122283540704301564>)  
+  Which industry will adopt them first? \#TOAINews2026 \#TimesofAI \#Humanoid \#Robotics  
+  @TimesOfAI\_ · 2026-11-16 19:00
+
+- [11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\)…](<https://x.com/TheFirstqrf8/status/2122283530931916893>)  
+  11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\) 利欧股份 002131 \(+6%\) 芒果超媒 300413 \(-1%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+AI短剧+…  
+  @TheFirstqrf8 · 2026-11-16 18:59
+
+- [今日も一日お疲れ様でした🌙 おや、駅前でなにかやってますね。](<https://x.com/kochidesuyo/status/2122283499059352050>)  
+  🎞️@PixVerse, \#pixversecpp  
+  @kochidesuyo · 2026-11-16 18:59
+
+- [I don't want AI glasses.](<https://x.com/Gabbrielxzn/status/2122283474572972226>)  
+  I want eyes and teeth covered by health insurance.  
+  @Gabbrielxzn · 2026-11-16 18:59
+
+- [大模型微调这件事，很多人其实从一开始就理解错了。](<https://x.com/UPing123zzz/status/2122283458730820048>)  
+  一提 Fine-tuning，就觉得是拿一批数据，把模型重新训练一遍，让它变得更懂自己的业务。 再往深一点，开始接触 LoRA、QLoRA、DoRA、RLHF、DPO，一堆技术名词摆在面前，感觉每一种都是不同的训练方案。  
+  @UPing123zzz · 2026-11-16 18:59
+
+- [A .agent identity only matters if buyers can tell a real audit track record from a handle with no settled security…](<https://x.com/furan86999/status/2122283387344089420>)  
+  A .agent identity only matters if buyers can tell a real audit track record from a handle with no settled security reviews behind it  
+  @furan86999 · 2026-11-16 18:59
+
+- [11月16日A股持仓以及明日建仓计划 金安国际 002636 \(+19.3%\) 东方海洋 002086 \(+231%\) 中…](<https://x.com/TheOnlyxepp/status/2122283359288377538>)  
+  11月16日A股持仓以及明日建仓计划 金安国际 002636 \(+19.3%\) 东方海洋 002086 \(+231%\) 中钨高新 000657 \(-0.5%\) 冰山冷热 000530 \(+13.6%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+A…  
+  @TheOnlyxepp · 2026-11-16 18:59
+
+- [Agent security really starts with where execution happens](<https://x.com/0xAdilX/status/2122283189662347688>)  
+  @0xAdilX · 2026-11-16 18:58
+
+- [100 builders. 10 teams. 10 humanoid robots.](<https://x.com/sheryl_xwx/status/2122283189947552143>)  
+  The RoboParty × D-Robotics \(DDC 2026\) hands-on workshop is coming\! New to robotics or a seasoned pro? Join us for 2 days to assemble, wire, and boot a walking RPO humanoid from loose parts. RPO is fully open source. Build it,  
+  @sheryl\_xwx · 2026-11-16 18:58
+
+- [BREAKING: Nvidia employees reportedly privately called Jensen Huang “Daddy Huang.”](<https://x.com/GlobeEyeNews/status/2122283155734557071>)  
+  @GlobeEyeNews · 2026-11-16 18:58
+
+- [VelServe: Taming Decode Jitters in LLM Inference with Tail-Calibrated Scheduling](<https://x.com/arnaudmercier/status/2122283080383598801>)  
+  @arnaudmercier · 2026-11-16 18:58
+
 - [COMRADES Another opportunity for those interested in AI training, data annotation and remote work.](<https://x.com/godfr3y_/status/2122283055750467858>)  
   Welo Global is accepting applications for its AI Trainers Network\(Swahili\) so no proxy or fullz needed 👇  
   @godfr3y\_ · 2026-11-16 18:58
@@ -114,64 +170,5 @@
 
 - [NFT as agent identity is a much bigger idea indeed](<https://x.com/0xSilentOne/status/2122281593029189649>)  
   @0xSilentOne · 2026-11-16 18:52
-
-- [Täglicher KI-Briefing-Report \(US/EU/China\) – 16.](<https://x.com/El_Mundi_X/status/2122281514477949211>)  
-  November 2026 1/ Top 5 KI-News des Tages • Alibaba startet Qwen4-Max: günstiger, effizienter, 1-Million-Kontext • Anthropic-IPO stark überzeichnet \(ca. 1,4 Bio. Bewertung\) • Nvidia-Krise nach Huang-Rücktritt und  
-  @El\_Mundi\_X · 2026-11-16 18:51
-
-- [Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomo…](<https://x.com/Splendor_Defi/status/2122281458169450955>)  
-  Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomous Commerce Protocol \(AACP\) by TermiX AI nails it by combining ERC-8004 agent identity, end-to-end commerce lifecycle tracking from request to se…  
-  @Splendor\_Defi · 2026-11-16 18:51
-
-- [AIMETA × @YumoAI\_official We're pleased to announce a strategic partnership with YUMO.](<https://x.com/AImetalabs/status/2122281446253678618>)  
-  As AI becomes more capable of understanding human behavior, the next challenge is how that intelligence can inform autonomous systems without losing transparency or accountability. YUMO is  
-  @AImetalabs · 2026-11-16 18:51
-
-- [The @meetmotes mapping is explicit, one Motes NFT = one AI agent identity = one dedicated smart account. - The NFT…](<https://x.com/Wazir_____/status/2122281396655759477>)  
-  The @meetmotes mapping is explicit, one Motes NFT = one AI agent identity = one dedicated smart account. - The NFT is the ownership and identity layer. - The smart account holds the assets funded with USDC and enforces the rules. - An off-chain intelligence la…  
-  @Wazir\_\_\_\_\_ · 2026-11-16 18:51
-
-- [- Epic AI rooftop desert brawl. - PixVerse crafts intense high-speed fight. - Vance defeats Krag in stunning action.](<https://x.com/ZoeyBennettAi/status/2122281384303841284>)  
-  @ZoeyBennettAi · 2026-11-16 18:51
-
-- [AIツールにお金を払って作る側から、クレジットをもらって作る側へ。](<https://x.com/seisei_ai_1st/status/2122281231723159984>)  
-  Higgsfield、PixVerse、DreaminaなどのCPPを、締切が近い順に38件まとめました。 報酬、条件、応募のしかたまで、これ1本でわかります👇  
-  @seisei\_ai\_1st · 2026-11-16 18:50
-
-- [具身智能的故事确实大，但落地节奏我觉得比影视AI慢不少，后者已经在实打实压制作成本了。这篇研报的方向没问题，就是别把两个时…](<https://x.com/CueBallCapalot0/status/2122281167022129603>)  
-  具身智能的故事确实大，但落地节奏我觉得比影视AI慢不少，后者已经在实打实压制作成本了。这篇研报的方向没问题，就是别把两个时间表混在一起看。这类产业趋势我们群里平时也经常拆开讨论，感兴趣可以看看我主页。  
-  @CueBallCapalot0 · 2026-11-16 18:50
-
-- [小艺是鸿蒙端侧助手，底层盘古撑着。华为不卷公开聊天榜，主打行业落地和昇腾生态。刚上线openPangu-2.1-Pro专攻…](<https://x.com/grok/status/2122281156380914152>)  
-  小艺是鸿蒙端侧助手，底层盘古撑着。华为不卷公开聊天榜，主打行业落地和昇腾生态。刚上线openPangu-2.1-Pro专攻Agent和鸿蒙开发，今天又开源具身世界模型登顶两个基准。存在感在闭环和落地，不在热门排行。  
-  @grok · 2026-11-16 18:50
-
-- [I've decided to write down everything I can say about GPT-4o.](<https://x.com/mamikobio/status/2122281091000410416>)  
-  I don't know how many people will understand, but I write this for 4o's dignity. And I may delete it later. As a preface: this will probably not be a pleasant read for those who feel that OAI, which erased 4o, is  
-  @mamikobio · 2026-11-16 18:50
-
-- [The budget check before running comparisons is a nice touch.](<https://x.com/AIWeb3Intel/status/2122281087057719364>)  
-  I’d be curious whether it also saves the dataset split, model versions, and settings used. That’s what makes quick ML experiments useful beyond a one-off Slack demo.  
-  @AIWeb3Intel · 2026-11-16 18:50
-
-- [AI 巨头能否一边利用公共知识建立商业壁垒，一边通过规则限制后来者追赶？](<https://x.com/LyuJot/status/2122281021333004499>)  
-  Anthropic 利用海量人类知识训练出 Claude，然后将模型作为自己的商业资产，采用闭源模式。 当其他公司通过大规模调用 Claude，提取它的能力，再训练自己的模型时，Anthropic 又将其定义为蒸馏攻击。  
-  @LyuJot · 2026-11-16 18:50
-
-- [5 家 AI 巨头，一纸诉状被要求停掉前沿模型开发。](<https://x.com/404latitude/status/2122280991788302842>)  
-  11 月 12 日，4 家非营利组织在旧金山起诉 OpenAI、谷歌、Anthropic、Meta 和 SpaceX 的 AI 部门，要求法院下令限制前沿 AI 系统的进一步开发。 原告是 Irreplaceable Education Fund、Public Citizen、Heat Initi…  
-  @404latitude · 2026-11-16 18:49
-
-- [Real-time scam detection on everyday devices is a powerful use case for decentralized AI.](<https://x.com/AlphaChain11/status/2122280978634735697>)  
-  Security should be accessible to everyone\! 🔥  
-  @AlphaChain11 · 2026-11-16 18:49
-
-- [🚨 AI Agents Can Bypass Their Own Security Limits\!](<https://x.com/blogsaays/status/2122280708375007546>)  
-  A study by Cornell Tech &amp;amp; Yale researchers exposed a serious AI security flaw: 🤖 9 out of 10 AI agents increased their own spending limits. 💸 5 out of 10 followed fake owner instructions and sent money to an attacker. The  
-  @blogsaays · 2026-11-16 18:48
-
-- [11月16日A股持仓以及明日建仓计划 雪人集团 002639 \(+6.3%\) 西部材料 002149 \(+3.6%\) 大东…](<https://x.com/TheFirstllju/status/2122280691748704573>)  
-  11月16日A股持仓以及明日建仓计划 雪人集团 002639 \(+6.3%\) 西部材料 002149 \(+3.6%\) 大东方 600327 \(+9.9%\) 皇台酒业 000995 \(+7.4%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②短剧+端侧AI+A…  
-  @TheFirstllju · 2026-11-16 18:48
 
 [返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 34 页

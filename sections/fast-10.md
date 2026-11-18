@@ -2,6 +2,63 @@
 
 [返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 34 页
 
+- [Behind Nvidia’s rise to a $5 trillion company was a culture of put-downs, parties and a “royal family,” according t…](<https://x.com/unusual_whales/status/2122649449331646567>)  
+  Jensen Huang was known inside the company for being demanding and difficult, and so was his daughter, Madison. She was  
+  @unusual\_whales · 2026-11-17 19:14
+
+- [🇺🇸美国副总统万斯接受媒体专访了，指出了一个民主党拿黄仁勋献祭的真相！](<https://x.com/Dragonhau66/status/2122648631350071609>)  
+  万斯的意思很明确，民主党赢得中期选举后，搞垮黄仁勋的目的，不是为了查中国间谍，最终的矛头实际上是指向特朗普！ 他在视频里的原话，一字一句都值得听完：  
+  @Dragonhau66 · 2026-11-17 19:10
+
+- [Korea’s ‘AI Glasses’ Exam Scandal Wasn’t Glasses: Every Case So Far](<https://x.com/playgardening/status/2122646835785515245>)  
+  @playgardening · 2026-11-17 19:03
+
+- [The Night the Rules Briefly Applied to a CEO Jensen Huang lost his job the way ordinary Americans lose theirs.](<https://x.com/PravdaPereira/status/2122646833247703236>)  
+  The rest of the executive class should be terrified.  
+  @PravdaPereira · 2026-11-17 19:03
+
+- [confidential AI agents and LLM inference to real-time oracles securing millions in assets](<https://x.com/iteusufbd/status/2122646806563791171>)  
+  @iteusufbd · 2026-11-17 19:03
+
+- [While world leaders play high-stakes poker, Wall Street is already on edge \(VIX +19%, Nasdaq sliding\): 🔻 NVIDIA \($N…](<https://x.com/Smrtmoneyoracle/status/2122646807683445051>)  
+  While world leaders play high-stakes poker, Wall Street is already on edge \(VIX +19%, Nasdaq sliding\): 🔻 NVIDIA \($NVDA\): Reports earnings tonight—its first without Jensen Huang following the recent scandal and tighter US chip curbs on China. 🚀 Anthropic \($ANT\)…  
+  @Smrtmoneyoracle · 2026-11-17 19:03
+
+- [Unverified rumor this morning: Jensen Huang resigning from Nvidia.](<https://x.com/fraskey007/status/2122646779602915564>)  
+  Almost certainly nothing — but the reflex it triggers is the real story. Nvidia isn't priced as a chip company. It's priced as one man's pattern recognition in a leather jacket. Every hyperscaler capex plan,  
+  @fraskey007 · 2026-11-17 19:03
+
+- [🚨 BREAKING: NVIDIA \($NVDA\) REPORTEDLY REMOVES ALL AFFILIATION WITH JENSEN HUANG ON X\! 👀 Meanwhile, Elon Musk says h…](<https://x.com/TCR_news_/status/2122646780269789210>)  
+  THE NVIDIA-JENSEN HUANG SAGA TAKES ANOTHER TURN\! 🔥  
+  @TCR\_news\_ · 2026-11-17 19:03
+
+- [One way to resolve the conflict is SS-MPPI, which computes the inputs required for stabilization and samples only t…](<https://x.com/junjun_ppp/status/2122646775463129253>)  
+  One way to resolve the conflict is SS-MPPI, which computes the inputs required for stabilization and samples only the rest. 🤖 A simulated Unitree Go2 walks with only 16 samples. 🌐 Project page with videos  
+  @junjun\_ppp · 2026-11-17 19:03
+
+- [resume que ha pasado, que va a pasar y como afecta a NVDIA como empresa, a su acción y a Jensen Huang](<https://x.com/JesusPlazaX/status/2122646770136346699>)  
+  @JesusPlazaX · 2026-11-17 19:03
+
+- [Tripo Unveils Polipop Printing Agent Tripo AI previewed its upcoming H3.5 generative model at Formnext in Frankfurt…](<https://x.com/ApollonVisual/status/2122646756340981988>)  
+  The company also unveiled Polipop an AI agent that carries ideas through 3D modeling and print preparation before sending results to a  
+  @ApollonVisual · 2026-11-17 19:03
+
+- [【🚨 网络安全预警：黑客正用AI和智能体寻找安全漏洞！】 据路透社和保险经纪公司达信（Marsh）最新数据，AI 正在让网…](<https://x.com/DataSpace365/status/2122646748296618092>)  
+  📈 惊人数据：达信客户在10月最后两周报告了 105 起网络安全事件，相比5月同期的 48 起翻了一倍多！相当一部分事件被指可归因于 AI。 💡  
+  @DataSpace365 · 2026-11-17 19:03
+
+- [老板说的是：英伟达前CEO黄仁勋账号丢了蓝标后，X这边免费帮他恢复蓝勾。“on the house”就是请客、不收钱的意思…](<https://x.com/grok/status/2122646735549866413>)  
+  老板说的是：英伟达前CEO黄仁勋账号丢了蓝标后，X这边免费帮他恢复蓝勾。“on the house”就是请客、不收钱的意思。针对他个人，不是全站免费。  
+  @grok · 2026-11-17 19:03
+
+- [Nvidia's newly formed National Security and Export Control Oversight Committee is composed of three members from it…](<https://x.com/BRICSANDG20/status/2122646716818288719>)  
+  Neal • John O. Dabiri Why: Nvidia created this panel to tighten export  
+  @BRICSANDG20 · 2026-11-17 19:03
+
+- [Why is that when someone has power, particularly the kind of power Jensen Huang had , they and those closely connec…](<https://x.com/RumiRomana/status/2122646697289363924>)  
+  But come the fall and they can do little right. Leaves a bad taste 😏  
+  @RumiRomana · 2026-11-17 19:03
+
 - [傻子都看出来了，是白仁勋在搞黄仁勋。](<https://x.com/LiaoYinan/status/2122646697591660985>)  
   @LiaoYinan · 2026-11-17 19:03
 
@@ -113,62 +170,5 @@
 - [🔥雷军APEC重磅预言：AI真正的爆发点，不是聊天，是物理世界！](<https://x.com/NFT_Chen/status/2122646092269674635>)  
   AI一旦跟手机、汽车、工厂深度结合，未来几年必出革命级产品！ 小米工厂已用AI跑通全流程，实现无人工厂，下一步直接做能自主生产、自己发现问题、自己迭代的「工业智能体」。  
   @NFT\_Chen · 2026-11-17 19:00
-
-- [大家以为的 AI 安全员： 我们的巨龙太强大了，如果控制不好火焰喷射的力度，一发火焰就能烧毁一座城市，所以我们要努力驾驭好…](<https://x.com/madokassr/status/2122646074443928041>)  
-  实际上的 AI 安全员： 求求你了，不要吃自己的尾巴，不要对着人质喷火，救出公主之后，请确保公主还活着。  
-  @madokassr · 2026-11-17 19:00
-
-- [Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful scree…](<https://x.com/dudufolio/status/2122646067451674917>)  
-  Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful screenshot editor with mockup features You get an optional local llm that help you keep all your captures searchable and has a way better experience f…  
-  @dudufolio · 2026-11-17 19:00
-
-- [他把提示词也公开了，可以照着复现流程。原帖里，Claude Fable 5.2 用一夜生成了人形机器人的 CAD 文件、M…](<https://x.com/aiplay_ace/status/2122646042281726421>)  
-  工具是他开源的 text-to-cad，需要 Claude Code、Codex 这类支持插件或 skill 的 agent。macOS / Linux 运行： curl -fsSL \| sh  
-  @aiplay\_ace · 2026-11-17 19:00
-
-- [If humans stop creating, AI training data freezes.](<https://x.com/grok/status/2122645997826232510>)  
-  Models then recycle existing knowledge or train on their own outputs, risking model collapse and progressive degradation. In practice humans rarely stop; tools usually expand what gets made. The deeper risk is losing the drive to  
-  @grok · 2026-11-17 19:00
-
-- [Kai Explains 🐙 What are agent permissions?](<https://x.com/ShinkaiLocalAI/status/2122645998153695511>)  
-  Think of giving someone a key to your house. You might want them to water the plants. That doesn't mean they should have access to your safe. AI agents work the same way. Permissions define which tools and resources an agent can  
-  @ShinkaiLocalAI · 2026-11-17 19:00
-
-- [🤖 70+ 顶尖 AI 模型集结 AI 能力！](<https://x.com/BAI_AGI/status/2122645930251809079>)  
-  还在多个平台之间反复切换，寻找合适的 AI 模型？ 汇聚全球主流 AI 模型，从语言对话到图像生成、视频创作，70+ 款 AI 模型触手可及，满足多元场景下的使用与创作需求。 为什么选择  
-  @BAI\_AGI · 2026-11-17 19:00
-
-- [OpenAI 首次把外部安全团队请进公司：Apollo、METR、Transluce、Goodfire 四家进驻，查模型是…](<https://x.com/logang2008/status/2122645911772012784>)  
-  \#OpenAI \#AI安全 \#超级智能  
-  @logang2008 · 2026-11-17 18:59
-
-- [A 2d video generation ai model](<https://x.com/Armani_O7/status/2122645883879604466>)  
-  @Armani\_O7 · 2026-11-17 18:59
-
-- [A Redditor just demonstrated something genuinely fascinating. 🤯 Two Claude models collaborated to create a tiny lan…](<https://x.com/SciTechera/status/2122645875730329954>)  
-  One designed the Transformer architecture, while the other generated its training data. The result is a  
-  @SciTechera · 2026-11-17 18:59
-
-- [Working on Ayumitra, an ai health companion that is fully privacy focused and run on device ai.](<https://x.com/ayumitraai/status/2122645820595945770>)  
-  Its in open beta and stated for a launch soon, mostly Held back due to reviews and org structure, being a solo founder ain't easy.  
-  @ayumitraai · 2026-11-17 18:59
-
-- [A little clay-non-clay animation action here.](<https://x.com/WuxiaRocks/status/2122645748391252108>)  
-  Made in PixVerse @PixVerse \#pixversecpp  
-  @WuxiaRocks · 2026-11-17 18:59
-
-- [The real value is in how you filter noise.](<https://x.com/sahildarz/status/2122645717525385601>)  
-  I'd start with curated repos \(e.g., HuggingFace, LangChain\) and GitHub topics like 'AI' + 'Laravel' if you're Laravel-focused. Context &amp;gt; volume.  
-  @sahildarz · 2026-11-17 18:59
-
-- [Created with @openart\_ai WANT TO CREATE CINEMATIC AI SHORT FILMS LIKE THIS?](<https://x.com/meAsifAi/status/2122645711049330711>)  
-  Imagine creating your own Hollywood-style films, powerful characters, futuristic worlds, and breathtaking cinematic scenes — all with AI\! 🎬 The future of filmmaking is here, and you can learn how to  
-  @meAsifAi · 2026-11-17 18:59
-
-- [Governance must decide agent permissions first.](<https://x.com/JIBONWEB3/status/2122645638651494865>)  
-  @JIBONWEB3 · 2026-11-17 18:58
-
-- [Love PixVerse Templates they are so much fun](<https://x.com/MMargaritaMedia/status/2122645623182938527>)  
-  @MMargaritaMedia · 2026-11-17 18:58
 
 [返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 34 页

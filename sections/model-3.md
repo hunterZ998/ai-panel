@@ -1,6 +1,46 @@
 # 大模型
 
-[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页
+[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 4 页
+
+- [Goodfire Research 发现大语言模型中的神经元社区](<https://www.goodfire.com/research/neuron-communities>)  
+  Goodfire Research 发布研究，提出无需预设功能的无监督方法，在 Llama-3.1-8B 上用梯度归因、神经元图和社区检测，从 1000 万条 prompt 中发现协作实现常见模型行为的小型神经元社区，并在 Qwen 3.6 35B-A3B 上复现。  
+  Goodfire Research（网页） · 2026-11-17 00:00
+
+- [FrontierHarness Eval v1.1：27,280 次编码智能体运行中 64% 推理花费流向失败任务](<https://runta.com/blog/introducing-frontierharness-eval-v1-1/>)  
+  Runta 与 Baseten 合作发布 FrontierHarness Eval v1.1，用 83B tokens 跑了 27,280 次智能体运行，覆盖 22 个 harness × 5 个模型 × 62 个任务 × 4 次尝试，规模是 v1.0 的 76 倍。  
+  Hacker News：AI 热帖 · 2026-11-17 00:00
+
+- [Anthropic 谈智能体记忆：关键在于知道该忘什么，而不是存多少](<https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/>)  
+  Anthropic 发布研究文章，探讨 Claude 如何跨会话保留知识，结论是选择性笔记优于全量存档。在 Pokémon Red 测试中，Claude Sonnet 3.7 存了约 413 个文件只拿到 1 枚徽章，而 Claude Fable 5 只记策略和已验证规则，获得 4 枚徽章。  
+  The Decoder：AI News（RSS） · 2026-11-16 23:25
+
+- [美国收紧 AI 芯片出口管制，限制中国企业远程获取算力](<https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/>)  
+  美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。  
+  TechCrunch：AI（RSS） · 2026-11-16 23:02
+
+- [Qwen4-Max](<https://www.producthunt.com/products/qwen3>)  
+  Qwen's new flagship for long-running agent work  
+  Product Hunt · English · 2026-11-16 20:32
+
+- [Meta JiTTests 用 LLM 生成测试在风险代码合入前捕获隐私缺陷](<https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/>)  
+  MarkTechPost 介绍 Meta 将 LLM 测试生成系统 JiTTests 从研究原型推进到生产基础设施，该系统编写旨在对风险 diff 失败的可执行测试，2026 年上半年在 diff 阶段捕获 74 起隐私 SEV，隐私 SEV 发生率下降 20%。  
+  MarkTechPost（RSS） · 2026-11-16 18:39
+
+- [阿里发布 Qwen4-Max：2.4T MoE、71B 激活、1M 上下文](<https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/>)  
+  阿里 Qwen 团队发布 Qwen4 系列首个模型 Qwen4-Max，为专有稀疏 MoE 模型，2.4T 骨干参数、每 token 激活 71B，另有 328B N-gram Embedding 参数，支持文本、图像和视频输入及 1M token 上下文窗口、393K 最大输出。  
+  MarkTechPost（RSS） · 2026-11-16 17:44
+
+- [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
+  Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
+  OpenAI · 2026-11-16 17:30
+
+- [蚂蚁 inclusionAI 发布 Invoker-Render 1.0 可控视频渲染模型权重](<https://huggingface.co/inclusionAI/invoker-render-1.0>)  
+  蚂蚁 inclusionAI 在 Hugging Face 发布 Invoker-Render 1.0 因果流式 DiT 权重，属于 Code World Model 2.0 的视频渲染模型，以结构 Proxy、外观参考图和文本为输入，由上游引擎维护世界状态再生成外观。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-16 15:24
+
+- [智元发布 WITA-Omni：行业首个具身全模态端到端交互大模型](<https://www.agibot.com.cn/article/315/detail/270.html>)  
+  智元正式发布 WITA-Omni（硅光动语全模态大模型），称其为行业首个具身全模态端到端交互大模型，在音视频之外新增触觉、本体状态输入与动作、表情输出。其交互响应最快约400毫秒、平均约600毫秒，较业内平均水平快近3倍，并登顶 DailyOmni、MMAU、EmbSpatialBench 等四个榜单。该模型已在量产机器人远征 A3-Ultra 本体部署，并在文娱导览等场景开展验证。  
+  AGIBOT 智元（网页） · 2026-11-16 15:11
 
 - [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
   据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
@@ -142,44 +182,4 @@
   Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
   @SamuelZengML · 2026-11-13 02:00
 
-- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
-  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
-  Google AI · 2026-11-13 02:00
-
-- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
-  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
-  20VC · 2026-11-12 15:07
-
-- [Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型](<https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>)  
-  Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。  
-  Claude：Blog（网页） · 2026-11-12 08:00
-
-- [a16z 发布 B2A（面向 Agent 的商业）研究框架，把机会分为 Agent、本来难以成立的新产品、适配 Agent 的既有企业及基础设施，强调分发和支付、身份、欺诈等瓶颈。这是投资机构的分析框架，所引第三方流量与代码占比未独立核验，不作为全行业事实。](<https://x.com/a16z/status/2120564069010931746>)  
-  Agents now make up the majority of web traffic, write more than half of new articles published online, and generate most of the code pushed to production. This is what the early stage of a platform shift looks like: adoption is measurable, but the business mod…  
-  @a16z · 2026-11-12 01:07
-
-- [OpenAI 季度营收据称首次突破 100 亿美元，年化收入达 500 亿美元](<https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/>)  
-  据 Bloomberg 援引匿名消息源报道，OpenAI 季度营收首次突破 100 亿美元，较上一季度约 67 亿美元增长近 50%，年化收入运行率达 500 亿美元；经调整经营利润率从二季度的 -150% 收窄至三季度的 -109%。文章指出 Anthropic 在企业市场收入增长领先，其年化运行率截至 10 月底达 810 亿美元，但两家公司计算年化收入的口径不同。  
-  TechCrunch：AI（RSS） · 2026-11-12 00:14
-
-- [Marktechpost 推出 GPU Leaderboard 云 GPU 比价平台及 Deploy It Chrome 扩展](<https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/>)  
-  Marktechpost 上线 GPU Leaderboard，按 $/GPU-hr 对 24 家供应商的 201 个实时 GPU 报价排序，并提供按整次运行计价的推理成本计算器。  
-  MarkTechPost（RSS） · 2026-11-11 23:51
-
-- [Anthropic IPO 路演视频披露多芯片策略与算力乘数细节](<https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/>)  
-  Simon Willison 整理了 Anthropic IPO 路演视频的转录稿，称其中包含此前未公开的业务信息。  
-  Simon Willison 博客 · 2026-11-11 23:11
-
-- [Google DeepMind 发布 AlphaGenome 2，预测基因变异对特定细胞类型的影响](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>)  
-  Google DeepMind 发布下一代 DNA 序列模型 AlphaGenome 2，可预测 DNA 变异如何影响数百种人类细胞类型中的基因表达。模型改为条件式架构，训练数据超过 1.07 亿个单细胞样本、覆盖 68 种组织，在 TenK10K 数据集上识别的因果变异数量接近上一代的两倍（30% vs 16%），并能在不重新训练的情况下泛化到新的单细胞实验。  
-  Google DeepMind：Blog（RSS） · 2026-11-11 23:00
-
-- [Anthropic 称 Claude 用三天完成 AMD GPU 移植，AI 正在削弱 Nvidia CUDA 优势](<https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/>)  
-  Anthropic 在投资者演示中称，其前沿模型 Mythos 几乎无人干预地将 Claude 移植到 AMD MI355X GPU，三天可用，传统工程方式需 6 到 12 个月，近 100% 的 kernel 由模型自行移植或编写。  
-  The Decoder：AI News（RSS） · 2026-11-11 22:25
-
-- [OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic](<https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/>)  
-  据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。  
-  The Decoder：AI News（RSS） · 2026-11-11 20:12
-
-[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页
+[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 4 页

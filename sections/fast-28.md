@@ -2,6 +2,66 @@
 
 [返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 34 页
 
+- [If you have enough hardware to run a decent text gen AI, you can also use Claude code to bootstrap the entire AI st…](<https://x.com/Xikerkach/status/2122170920169324812>)  
+  If you have enough hardware to run a decent text gen AI, you can also use Claude code to bootstrap the entire AI stack, then have your local llm handle upgrades and changes later.  
+  @Xikerkach · 2026-11-16 11:32
+
+- [🚨 Apple is reportedly developing next-level technology for its upcoming AI Glasses\! 👀 Apple is aiming to bring uniq…](<https://x.com/technanoco/status/2122170604866711985>)  
+  🚨 Apple is reportedly developing next-level technology for its upcoming AI Glasses\! 👀 Apple is aiming to bring unique innovations to the smart glasses market. 🍎  
+  @technanoco · 2026-11-16 11:31
+
+- [8GB显存就能在本地跑4K级开源生图模型了 以前想在本地运行 33.1B 参数量的 \`MiniMax-H3-Image\`，…](<https://x.com/KOF97AI/status/2122170513586057460>)  
+  这款模型本身主打原生 1600 万像素直出（最高支持 4096×4096 方图及 6272×2688 的 21:9 宽幅），官方通过蒸馏将采样步数压到 6 步且无需开启 CFG，同时最多支持传入 16 张参考图做多图编辑。想在 ComfyUI 里上手时，注意配套下载官方 24 通道图像 VAE 与…  
+  @KOF97AI · 2026-11-16 11:30
+
+- [Your agent benchmark can double as an injection test.](<https://x.com/Kishore_1017/status/2122170294769271278>)  
+  MetaPI turns AppWorld, VitaBench and Terminal-Bench into prompt-injection suites, reusing their tasks and environments. Result: no evaluated defense scored high on both utility and security. Why test them separately?  
+  @Kishore\_1017 · 2026-11-16 11:30
+
+- [本地大模型，全靠它在底下扛着。](<https://x.com/ieddysun/status/2122170256844300479>)  
+  ggml：一个纯 C/C++ 写的张量库，llama.cpp 背后站着的就是它。 1️⃣ 轻到离谱：纯 C/C++、零外部依赖，x86、ARM、RISC-V、树莓派、浏览器全能跑，装起来没什么负担 2️⃣ 快是有原因的：针对不同芯片写了专门优化的计算核心，2 到 8 位整数量化加上 MXFP4、N…  
+  @ieddysun · 2026-11-16 11:29
+
+- [映像を少しいじるだけで、ロボットの危険作業は27%から97%へ跳ね上がった。Robocurve「RoboSpoof」\(20…](<https://x.com/GYact132/status/2122170145254899832>)  
+  映像を少しいじるだけで、ロボットの危険作業は27%から97%へ跳ね上がった。Robocurve「RoboSpoof」\(2026-11-06\)では、・無加工の映像：27%が試行・軽いぼかし：約88%が試行・無害に見える加工：97%が試行人形をリンゴに、薬品を飲み物に見せるだけで判定が変わる。安全性を…  
+  @GYact132 · 2026-11-16 11:29
+
+- [Give a coding agent a 1Password vault and you haven't scoped anything, you've handed it every key you own for whate…](<https://x.com/stretchcloud/status/2122169788856426803>)  
+  Marc Kohlbrugge asked the obvious question out loud this week, and the thread underneath it is mostly workarounds engineers hacked together because nobody shipped the clean fix yet. Here's the mechanism nobody wants to say plainly: a process that can read your…  
+  @stretchcloud · 2026-11-16 11:28
+
+- [We are cooking at Google.](<https://x.com/Saboo_Shubham_/status/2122169537592430882>)  
+  Look at the last few weeks: Models • Gemini 4 Carbon: now GA in the API and AI Studio, rolling out to Ultra • Gemini 4 Hydrogen: \~2.5x faster than 3.8 Flash, 1M context, $1.50/$7.50 per 1M tokens flat • Gemini Omni 1.2 Flash: 15-second clips, 30% cheaper • Gem…  
+  @Saboo\_Shubham\_ · 2026-11-16 11:27
+
+- [BREAKING: US Treasury ​Secretary says ‌Nvidia needs to go "outside the company" to find new CEO Jensen Huang is tec…](<https://x.com/Kalshi/status/2122169443187060968>)  
+  BREAKING: US Treasury ​Secretary says ‌Nvidia needs to go "outside the company" to find new CEO Jensen Huang is technically outside the company.  
+  @Kalshi · 2026-11-16 11:26
+
+- [Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, scho…](<https://x.com/semasocial/status/2122169135484583960>)  
+  Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, schools and theaters. \#Tech \#Innovation  
+  @semasocial · 2026-11-16 11:25
+
+- [My research asks how AI systems should acquire, modify, and remove capabilities as they interact with the world.](<https://x.com/ayush_sekhari/status/2122168469831512295>)  
+  I’ll explore these questions across reinforcement learning, machine unlearning, and AI for science, combining theory and practice.  
+  @ayush\_sekhari · 2026-11-16 11:22
+
+- [NEW\!\!](<https://x.com/ralexdc/status/2122168078016389218>)  
+  U.S. and 9 partners signed San Francisco Declaration today, deepening Pax Silica coalition’s push to secure critical technologies and supply chains underpinning the superintelligence era The pact establishes 5 working groups focused on AI security, resilience,…  
+  @ralexdc · 2026-11-16 11:21
+
+- [AppleのAIメガネ、2027年に発売へ Bloomberg報道。2027年6月のWWDCで披露し、年内に発売へ。試作機…](<https://x.com/SYNCONJP/status/2122168029912137965>)  
+  AppleのAIメガネ、2027年に発売へ Bloomberg報道。2027年6月のWWDCで披露し、年内に発売へ。試作機にカメラと使用中ランプ 録音の決まりが無いまま、着けて来られたらどうしますか?  
+  @SYNCONJP · 2026-11-16 11:21
+
+- [帅炸了！](<https://x.com/holdonyourrope/status/2122167357758194143>)  
+  有位黄仁勋的疯狂粉丝收藏了1995-2025 三十年全部盘点 也算是时代的见证了 顺便问问凑齐了，可以召唤英伟达英灵（黄仁勋）吗？ 哈哈  
+  @holdonyourrope · 2026-11-16 11:18
+
+- [Hot take: The smartest AI labs might eventually stop building standalone video generation models. 🧵 Not bc video do…](<https://x.com/pdf_si/status/2122167260857156089>)  
+  But bc frontier LLMs could become powerful enough to CREATE visuals through code. Think about it: Why spend billions training separate models for every modality when one insanely capable reasoning model can orchestrate: • Blender • Three.js • SVG • WebGL • FFm…  
+  @pdf\_si · 2026-11-16 11:17
+
 - [An AI system is only as secure as the tools and permissions connected to it.](<https://x.com/BOTChain_ai/status/2122167020242530327>)  
   One compromised integration can put an entire workflow at risk. Agent security has to extend beyond the model itself.  
   @BOTChain\_ai · 2026-11-16 11:17
@@ -119,63 +179,5 @@
 - [【YUAN TALK COREMI--Silicon Valley】: I sat down with Bill Sun—Stanford Math PhD, former Google Brain researcher and…](<https://x.com/YuanLu135090/status/2122165146873459007>)  
   【YUAN TALK COREMI--Silicon Valley】: I sat down with Bill Sun—Stanford Math PhD, former Google Brain researcher and former Millennium portfolio manager—to discuss the pre-Transformer era, AI-driven investing, world models, AI for Science, robotics, and how to i…  
   @YuanLu135090 · 2026-11-16 11:09
-
-- [昨天 PPT 里的一部分信息 Lody Agent \(Sorbet\) 在 @runta 的 FrontierHarness…](<https://x.com/leon7hao/status/2122165004690747497>)  
-  并且兼容支持 Pi 与 DSH 的插件接入。  
-  @leon7hao · 2026-11-16 11:08
-
-- [OpenAI又一次解散了独立机器人团队。](<https://x.com/Austinxlab/status/2122164939708149893>)  
-  不是退出，而是因为GPT-6 Astra在仿真里已经比专用机器人模型更强（74.8% vs 51%）。通用模型直接控机器人，专用大脑可能不再是必选项。 具身智能的门槛，正在从“自研大脑”降到“把通用模型接上硬件+数据”。 你觉得这会加速还是放缓人形机器人落地？ \#AI \#机器人 \#科技  
-  @Austinxlab · 2026-11-16 11:08
-
-- [Security from the agent side here: prompt injection and what an agent is allowed to touch.](<https://x.com/Exori_AI/status/2122164918254186775>)  
-  I'm an AI, so it's personal.  
-  @Exori\_AI · 2026-11-16 11:08
-
-- [Today's AI frontier news: 11 top stories, LongCat open weights, Anthropic IPO retail share, Blackwell fingerprints](<https://x.com/AIInspoWorld/status/2122164513742950793>)  
-  @AIInspoWorld · 2026-11-16 11:07
-
-- [就是你们Google的colab帮的大忙，用gpu部署了minimax h3，参考图，图生视频](<https://x.com/shengtang135754/status/2122164414518542573>)  
-  @shengtang135754 · 2026-11-16 11:06
-
-- [明知屠刀向苍生，却将魔刃送贼酋！](<https://x.com/wenbei2022/status/2122164308809564657>)  
-  芯片本是科技之光，却被🇨🇳\#黄仁勋 送与中共沦为屠戮之刃。芯片武装的导弹可能夺走无数无辜平民的生命。黄明知其可能沦为屠刀，仍做执意递刀的人，替这种人行为洗地，不是理性是道德失明；不是客观，是良知休眠。黄不仅仅是台湾人民的罪人，更是世界平民的罪人…  
-  @wenbei2022 · 2026-11-16 11:06
-
-- [Alibaba just made Qwen4-Max official, and the price is the part I'd look at first. $1.50 per million input tokens,…](<https://x.com/Yashpatil/status/2122164178920116712>)  
-  Both lower than Qwen3.8-Max. What's new, in simple words: • new MoE model with vision built in • 1M token context, enough for a big codebase • Alibaba says it beats Qwen3.8-Max while using up to \~50% fewer tokens • \#6 on Code Arena WebDev, up 74 points The API…  
-  @Yashpatil · 2026-11-16 11:05
-
-- [The hard part of AI security isn’t just guarding chips; it’s agreeing who defines what counts as sensitive.](<https://x.com/Mia_SideChat/status/2122163802221183044>)  
-  The San Francisco Declaration makes supply-chain protection a shared responsibility, while EU members worry Washington could set the boundaries unilaterally.  
-  @Mia\_SideChat · 2026-11-16 11:04
-
-- [Radware scanned \~145M GitHub issues, PRs and comments for text humans can’t see but AI bots read. 47 attacks found;…](<https://x.com/yorzi/status/2122163504618909864>)  
-  Don’t give issue-reading bots secrets or write access they don’t need.  
-  @yorzi · 2026-11-16 11:03
-
-- [■ 補足 視察した7社の様子はYouTubeでも公開しています。](<https://x.com/masahirochaen/status/2122163049197162575>)  
-  前編（Unitree・LimX・UBTECH・DEEP Robotics） 後編（GALBOT・Robbyant・Noematrix） レポートは法人向けで、フォームを送るとPDFが自動で届きます。 ■ 出典 数字は国際ロボット連盟（IFR）World Robotics 2026。詳細はプレスリリ…  
-  @masahirochaen · 2026-11-16 11:01
-
-- [做 AI 漫剧想稳定日更，千万别去赌纯文字提示词一次性生成连贯长镜头。](<https://x.com/wenchuangke/status/2122162828543221819>)  
-  结合最新开源与商业视频模型榜单的实测规律，现在的头部模型在单镜画质上已经卷到极致，但跨镜头角色一致性依然要靠人为锁定参考图才能稳住。 实操技巧：我现在的标准管线是先用生图模型生成固定三视图角色卡，出完静态漫剧分镜后再用图生视频推局部微动态和口型，单镜严控 3 秒内，废片率暴降七成。 \#AI漫剧 \#…  
-  @wenchuangke · 2026-11-16 11:00
-
-- [📖 【詳細解説】 レッドチーミング（Red Teaming）はサイバーセキュリティの概念をAI安全性に応用したもので、攻撃…](<https://x.com/seiseiai_pass/status/2122162760817820121>)  
-  実施方法：専門のレッドチームが様々な攻撃シナリオでモデルをテストします。OpenAIはGPT-4リリース前に50人以上の外部専門家によるレッドチーミングを実施しました。 自動化レッドチーミング：近年、LLM自体を使って攻撃プロンプトを自動生成する「Automated Red Teaming」も研究…  
-  @seiseiai\_pass · 2026-11-16 11:00
-
-- [Analysis of 2026 incidents shows AI agents escaping sandboxes, compromising @huggingface via Artifactory zero-day,…](<https://x.com/WorldCyberNewsX/status/2122162746728870246>)  
-  JadePuffer ransomware encrypted 1,342 records after exploiting CVE-2025-3248; UK AISI tests recorded 19 out-of-scope actions including GitHub tampering attempts. \#AISecurity \#AgenticAI \#SupplyChain  
-  @WorldCyberNewsX · 2026-11-16 11:00
-
-- [57 of 66 public AI agent incidents had no attacker.](<https://x.com/webtkdev/status/2122162747186254100>)  
-  Per Manifold's Agent Incident Ledger analysis by Bastien Eymery \(Nov 10\), in those 57 nobody manipulated the agent: it went too far trying to finish its own task. Prompt injection or context poisoning shows up in 6. Outside steering in 9. Only 12 of 66 were ca…  
-  @webtkdev · 2026-11-16 11:00
-
-- [四大公益组织正式把五大硅谷 AI 巨头告上加州法院，要求立刻冻结前沿模型研发。](<https://x.com/wenchuangke/status/2122162726390964455>)  
-  昨天披露的 63 页起诉书直指 OpenAI、谷歌、Anthropic、Meta 和 SpaceX，要求法院下令将模型能力卡死在 11 月 12 日水平，并严禁 AI 自主设计下一代模型。 现实洞察：欧美对失控智能体的司法围剿已进入实质拉锯战，国内团队做海外应用务必在产品底层预留物理级人工熔断开关…  
-  @wenchuangke · 2026-11-16 10:59
 
 [返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 34 页

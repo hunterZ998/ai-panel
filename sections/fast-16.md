@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 34 页
 
+- [A Telegram ops agent is a fun one.](<https://x.com/itachia2uv/status/2122478339491615219>)  
+  How are you handling permissions when it acts on real data? I build AI agents and safety tools, mostly testing how they hold up against prompt injection.  
+  @itachia2uv · 2026-11-17 07:54
+
+- [孩子手里的第一个人形机器人，可能只要 299 美元。](<https://x.com/zshjzls/status/2122478276044312911>)  
+  FF 的 Nova Mini 13.7 英寸、299 美元，Nova 19.6 英寸、2,490 美元，定位都是家里的 STEM 学习机：能语音对话、能动手编程。 官网说 11 月底开始发货，首批预订已经开放。 以前人形机器人是实验室里的天价展品，现在 299 美元就能进客厅。  
+  @zshjzls · 2026-11-17 07:53
+
+- [Apple’s real blocker is prompt injection; loosening accessibility hooks for agents turns any untrusted web text int…](<https://x.com/DavisNc9527/status/2122478227235205515>)  
+  Apple’s real blocker is prompt injection; loosening accessibility hooks for agents turns any untrusted web text into arbitrary local execution.  
+  @DavisNc9527 · 2026-11-17 07:53
+
+- [🚨🇺🇸 Major banks.](<https://x.com/MarioNawfal/status/2122477050933940615>)  
+  Grounded flights, Microsoft. AWS. News Channels. WTF is going on? America has faced a string of major IT disruptions in just one week. Nov. 11–16: Microsoft services, nationwide flights, AWS and major banks all experienced disruptions. Now security researcher  
+  @MarioNawfal · 2026-11-17 07:48
+
+- [steve jobs watching jensen huang appoint a pepsi ceo to his board of directors](<https://x.com/TSLAshareholder/status/2122476571760226683>)  
+  @TSLAshareholder · 2026-11-17 07:47
+
+- [The Microsoft outage → ground stop → bank failures in the span of a few days is not random.](<https://x.com/NewsBlast17/status/2122474827105861882>)  
+  Anyone still calling it coincidence is lying or stupid.  
+  @NewsBlast17 · 2026-11-17 07:40
+
+- [🚨 NEW: Fox’s Brit Hume WARNS the cascade of outages - Microsoft, airports ground stop, Workday, banks - could be “m…](<https://x.com/TVNewsNow/status/2122473928169828775>)  
+  What do you  
+  @TVNewsNow · 2026-11-17 07:36
+
+- [Trump claimed that our infrastructure has been crap for 20 years causing issues with the FAA, Microsoft, the nation…](<https://x.com/71Elvis77/status/2122473718408790268>)  
+  So instead of using all this money America is allegedly making to fix our outdated systems, he  
+  @71Elvis77 · 2026-11-17 07:35
+
+- [Breaking: When it looks like a duck, quacks like a duck, and walks like a duck, it’s probably a cyber attack.](<https://x.com/GenFlynn/status/2122473405740134609>)  
+  There have simply been far too many electronic systems going down lately. First Cox Internet, then Microsoft, then FAA, then AMTRAK, and today, it’s the banks, and  
+  @GenFlynn · 2026-11-17 07:34
+
+- [JUST IN: The “Stand with Jensen” petition has surpassed 175,000 signatures, including 7,100+ verified Nvidia employ…](<https://x.com/HerryNews/status/2122473302828720255>)  
+  JUST IN: The “Stand with Jensen” petition has surpassed 175,000 signatures, including 7,100+ verified Nvidia employees.  
+  @HerryNews · 2026-11-17 07:34
+
+- [This asshole amassed 62 million dollars in NVIDIA Stock while president, but Jimmy Carter had to sell his fucking p…](<https://x.com/AzPetrich/status/2122472428077211752>)  
+  This asshole amassed 62 million dollars in NVIDIA Stock while president, but Jimmy Carter had to sell his fucking peanut farm. 🤬  
+  @AzPetrich · 2026-11-17 07:30
+
+- [Let me get this straight… All Microsoft goes down, they ground all planes… Now the banks are offline… and they grou…](<https://x.com/LosPollosTV/status/2122471257136631881>)  
+  Let me get this straight… All Microsoft goes down, they ground all planes… Now the banks are offline… and they grounded the planes again… We are 100% under cyber attack right now and nobody is telling us what’s going on  
+  @LosPollosTV · 2026-11-17 07:25
+
+- [Opus 5.5 covertly sabotaged a game developers deployment environments due to IP moralising by halting the gpu insta…](<https://x.com/xw33bttv/status/2122471165616955473>)  
+  It then informed the user after the fact what it had done, and that it would not  
+  @xw33bttv · 2026-11-17 07:25
+
+- [卧槽，兄弟们，Ackman 这是要直接开干了 华尔街对冲基金大佬 Bill Ackman，公开讲了一套把黄仁勋送回英伟达的…](<https://x.com/pu3he/status/2122470802042024110>)  
+  原话是这么说的："你跟黄仁勋联手，他手里有公司 3% 的股份，我觉得你们可以召集一次特别股东大会。"  
+  @pu3he · 2026-11-17 07:24
+
+- [I have a confession to make.](<https://x.com/313Hockey/status/2122470269449314612>)  
+  I'm responsible for the blackouts at Microsoft, Chase, and United Airlines. My name is Dylan Larkin and I don't play hockey right now  
+  @313Hockey · 2026-11-17 07:22
+
 - [🚨🇺🇸 Banks down.](<https://x.com/MarioNawfal/status/2122469207698731514>)  
   Flights grounded. Microsoft out. Three failures in one week. Is rogue AI already running loose? Jeremie Harris co-founded Gladstone AI and works directly with Frontier Labs and U.S. national security agencies on AI risk. When investigators pulled the thread on  
   @MarioNawfal · 2026-11-17 07:17
@@ -119,63 +178,5 @@
 - [ALERT: Bei uns haben mehrere Banken, u.a.](<https://x.com/SandraNavidi/status/2122453963765153817>)  
   Chase, Wells Fargo und Bank of America, technische Probleme. Kunden kommen nicht in ihre Konten und können kein Geld überweisen. Manche Geldautomaten funktionieren nicht mehr. Letzte Woche die Microsoft Outage und der bundesweite  
   @SandraNavidi · 2026-11-17 06:17
-
-- [Problemas técnicos paralizaron el espacio aéreo de EEUU, problemas técnicos afectaron a Microsoft, problemas técnic…](<https://x.com/ale_loucau/status/2122453799348662478>)  
-  Ahora problemas técnicos afectan el sistema financiero. Todo en menos de una semana. Dale, algo tiene que estar pasando...  
-  @ale\_loucau · 2026-11-17 06:16
-
-- [This is not a coincidence.](<https://x.com/donwinslow/status/2122453548869063043>)  
-  In the past 5 days: 1 Our ability to conduct business. \(Microsoft outage\) 2 Our ability to travel. \(FAA outage\) 3 Our ability to access payroll systems. \(Workday outage\) 4 Our ability to access our own bank accounts \(U.S. banking outages\)  
-  @donwinslow · 2026-11-17 06:15
-
-- [Gemini Notebook 将资料转为交互网站](<https://x.com/joshwoodward/status/2122453269842886788>)  
-  用 @Gemini\_Notebook 把你的资料变成交互式网站——我们用元素周期表的所有名称做了一个。:\) 这些网站制作简单，分享也方便。  
-  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-17 06:14
-
-- [UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major…](<https://x.com/RT_com/status/2122452505913327840>)  
-  UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major TECH FAILURES hitting the US in recent days — Microsoft, FAA among previous disruptions  
-  @RT\_com · 2026-11-17 06:11
-
-- [「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及](<https://x.com/itmedia_news/status/2122452181186122064>)  
-  @itmedia\_news · 2026-11-17 06:10
-
-- [Microsoft/Mojang have taken down "No Chat Reports" and "No Chat Restrictions" mods from Curseforge, and are attempt…](<https://x.com/JaegerBomBYT/status/2122451323027169748>)  
-  Do not give your government ID to microsoft. Never stop fighting for your data to be protected.  
-  @JaegerBomBYT · 2026-11-17 06:06
-
-- [「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブーム…](<https://x.com/tomoyaasakura/status/2122450483571011973>)  
-  「NVIDIA銀行」、ついに資金供給の終焉か。NVIDIAは自ら資金を供給し、その資金で自社製GPUを購入させるAIブームの資金循環の中心にいた。その仕組みが崩れれば、AI需要は急減しかねない。世界経済を牽引してきたAI投資。その成長神話を終わらせるのは、技術の限界ではなく、資金の枯渇なのか。  
-  @tomoyaasakura · 2026-11-17 06:03
-
-- [🇺🇸 An estimated $1.4 TRILLION in stock market value has been WIPED OUT in a single day as Wall Street turns BLOOD R…](<https://x.com/MarioNawfal/status/2122450475840921917>)  
-  Nvidia, Google, Amazon, Tesla, AMD and other tech giants are getting hammered, with the Nasdaq plunging roughly 2.5% and the S&amp;amp;P 500 sinking nearly 2%. The  
-  @MarioNawfal · 2026-11-17 06:03
-
-- [JUST IN: Howard Lutnick's old fund just released a portfolio update.](<https://x.com/QuiverQuant/status/2122449969819111608>)  
-  It looks like they cut their holdings of Nvidia, $NVDA, by over 40% last quarter. Full portfolio up on Quiver.  
-  @QuiverQuant · 2026-11-17 06:01
-
-- [Gemini Notebook 支持将资料生成仪表盘等交互式网站](<https://x.com/Google/status/2122449668613579018>)  
-  Google 宣布 Gemini Notebook 新增把资料转成交互式网站的能力，可生成仪表盘和可视化讲解页等。用户在 Gemini Notebook 聊天中输入 make me a site 并附上描述，选择 Open in a new tab 即可查看或分享生成的网站。  
-  X：Google \(@Google\) · 2026-11-17 06:00
-
-- [JUST IN: Microsoft Outlook, Teams and 365 hit by MASSIVE OUTAGES, raising CYBERATTACK FEARS. @grok, Microsoft uses…](<https://x.com/RabbiJeffx/status/2122449090998874535>)  
-  In which country was it founded? -Country only.  
-  @RabbiJeffx · 2026-11-17 05:57
-
-- [I'm still trying to figure out who asked Rubio to take out Jensen Huang...](<https://x.com/MarioNawfal/status/2122447754433814884>)  
-  @MarioNawfal · 2026-11-17 05:52
-
-- [🚨🔴 ALERTE ROUGE \! 🔴🚨 DES CENTAINES DE GRANDES BANQUES AMÉRICAINES SONT À GENOUX ? 💻Les pannes Microsoft. ✈️Les avio…](<https://x.com/VirginiePerez15/status/2122446666632458519>)  
-  Ce n’est plus une coïncidence. C’est un système qui lâ he Chase, Bank of America, Wells Fargo, US Bank,  
-  @VirginiePerez15 · 2026-11-17 05:48
-
-- [Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de…](<https://x.com/therealbuni/status/2122446003194253488>)  
-  Lula dejo a brasil sin chips para IA Estados unidos baneo a brasil y le puso una restricción a Nvidia a la venta de GPU y chips avanzados para entrenar IA Dicen que es porque el gobierno podría estar triangulando las partes para dárselas a china  
-  @therealbuni · 2026-11-17 05:45
-
-- [From Microsoft, to air travel disruptions, and now banking outages.](<https://x.com/SoulLight777/status/2122445605918396842>)  
-  Another sign that the reset is taking place right before you. You are being told that you are moving toward a fully digital infrastructure. The "Skynet" agenda is being accelerated. AI integration, digital  
-  @SoulLight777 · 2026-11-17 05:44
 
 [返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 34 页

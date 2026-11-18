@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 34 页
 
+- [Google 将 Gemini Tasks 个人智能体免费开放至六国，由 Gemini 4 Hydrogen 驱动](<https://x.com/rohanpaul_ai/status/2122778044326908369>)  
+  Google 宣布把 Gemini 中的 Tasks 个人智能体免费开放给美国、日本、韩国、加拿大、澳大利亚和印度的数亿用户，由 Gemini 4 Hydrogen 驱动。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:44
+
+- [FYI: ARTEX is open-source code that does not run on its own.](<https://x.com/BrianRoemmele/status/2122776495315947748>)  
+  It has no language model inside it. Read that 5 times. The framework sends goals written in plain language to external models and receives the steps those models generate. The FBI advisory lists the models it  
+  @BrianRoemmele · 2026-11-18 03:38
+
+- ["Jensen Huang was building an open AI ecosystem that threatened Anthropic's business model.](<https://x.com/unusual_whales/status/2122776032956596227>)  
+  His ouster changes the stakes of its IPO," per BI  
+  @unusual\_whales · 2026-11-18 03:37
+
+- [美国新许可规则冻结字节跳动马来西亚 Nvidia GPU 采购的 4.8 亿美元贷款](<https://x.com/rohanpaul_ai/status/2122775745042997380>)  
+  据 Bloomberg，美国新的许可规则冻结了一笔 4.8 亿美元贷款，该贷款原计划用于字节跳动在马来西亚购买 Nvidia GPU，新加坡 neocloud 厂商 Aolani Cloud 正通过 DBS Group 安排这笔 3 年期贷款。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:35
+
+- [\#ÚLTIMAHORA ‼️ Reportan fallos en servicios de Apple, Microsoft y Google](<https://x.com/RTultimahora/status/2122775218951254197>)  
+  @RTultimahora · 2026-11-18 03:33
+
+- [Versine 让 AI 通过 MCP 代理收发资金，可信联系人可免审批支付](<https://x.com/rohanpaul_ai/status/2122774990311637213>)  
+  Rohan Paul 转述 Versine（YC F26）的做法：把已充值的支付账户接入 ChatGPT、Claude、Muse、Instinct 等 MCP 客户端，让智能体以普通工具调用发送和请求资金。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:32
+
+- [FT Exclusive: Nvidia stopped disclosing the scale of its business in Singapore last year when the city-state accoun…](<https://x.com/FT/status/2122773872550232111>)  
+  FT Exclusive: Nvidia stopped disclosing the scale of its business in Singapore last year when the city-state accounted for almost half of the US chip group's worldwide revenues.  
+  @FT · 2026-11-18 03:28
+
+- [THE LAST 6 DAYS: NOV 17: NSA's highly classified internal communications network goes offline NOV 17: FBI warns AI-…](<https://x.com/NicHulscher/status/2122773336946069710>)  
+  THE LAST 6 DAYS: NOV 17: NSA's highly classified internal communications network goes offline NOV 17: FBI warns AI-powered hackers can breach networks in under 3 hours NOV 17: Widespread APPLE OUTAGES disrupt iCloud, Apple Pay, App Store NOV 16: Massive softwa…  
+  @NicHulscher · 2026-11-18 03:26
+
+- [JUST IN: New OpenAI model discovers 35 vulnerabilities in Apple devices, including flaws allowing hackers to take c…](<https://x.com/WatcherGuru/status/2122773273595576700>)  
+  JUST IN: New OpenAI model discovers 35 vulnerabilities in Apple devices, including flaws allowing hackers to take control of iPhones and Macs.  
+  @WatcherGuru · 2026-11-18 03:26
+
+- [哈佛论文发现编码 Agent 94.8% 的 token 是缓存重读，能耗或被低估 25 倍](<https://x.com/rohanpaul_ai/status/2122773095010468026>)  
+  作者转发一篇哈佛论文，该论文记录 1 名工程师 10 周真实 Claude Code 使用，约 10 亿 token、42 个会话，发现 94.8% 处理的 token 是缓存上下文重读，每个生成 token 平均读取约 260 个缓存 token。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:25
+
+- [It’s hard to put into words just how far ahead Anthropic is right now](<https://x.com/theo/status/2122772624489300305>)  
+  @theo · 2026-11-18 03:23
+
+- [Since Friday: 1.⁠ ⁠Microsoft down. 2.⁠ ⁠All US flights grounded. 3.⁠ ⁠⁠Major US bank service disruptions. 4.⁠ ⁠⁠NSA…](<https://x.com/tomhfh/status/2122772528598843453>)  
+  Since Friday: 1.⁠ ⁠Microsoft down. 2.⁠ ⁠All US flights grounded. 3.⁠ ⁠⁠Major US bank service disruptions. 4.⁠ ⁠⁠NSA internal classified network down. 5.⁠ ⁠⁠Apple outages. 6.⁠ ⁠Magic Circle law firm ⁠Clifford Chance hit by major cyber attack. 7.⁠ ⁠⁠A separate  
+  @tomhfh · 2026-11-18 03:23
+
+- [研究：LLM 评审拖累 AutoML 搜索效果](<https://x.com/rohanpaul_ai/status/2122772518683779524>)  
+  Amazon 与马萨诸塞大学论文发现，在搜索循环中加入 LLM 评审收益极小、最多约 0.005 AUC，但下行风险更大。在 96 种 pipeline 配置的表格模型搜索中，Llama-3.1-8B 评审在 8 个数据集中的 7 个上低于无评审基线，最多损失 0.245 AUC；理想评审最多仅提…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:23
+
+- [⚡️BREAKING: The FBI is now Warning that state-tied hackers are using the ARTEX AI framework to launch cyberattacks…](<https://x.com/IranObserver0/status/2122771964645331193>)  
+  ⚡️BREAKING: The FBI is now Warning that state-tied hackers are using the ARTEX AI framework to launch cyberattacks The U.S. has faced major outages and cyberattacks in recent days: - Microsoft 365 - FAA ground stop - Major U.S. banks - NSA network - Apple  
+  @IranObserver0 · 2026-11-18 03:20
+
+- [BREAKING: Top AI models regularly misidentify civilians and civilian infrastructure as military targets in tests, p…](<https://x.com/unusual_whales/status/2122770999938826491>)  
+  Models from Anthropic and other leading AI companies were among those that flagged civilian targets during testing, the report says. It comes as  
+  @unusual\_whales · 2026-11-18 03:17
+
 - [Peter 实测对比 GPT-6.2 Astra、Sol 与 Claude Fable 5.2 的视觉编码能力](<https://x.com/arena/status/2122770880099193017>)  
   Arena 宣布 OpenAI 发布 GPT-6.2 Astra 和 Sol，并预告基于全球用户真实会话的 Agent Arena 评分即将上线。  
   X：Arena \(@arena\) · 2026-11-18 03:16
@@ -119,63 +177,5 @@
 
 - [Jensen returning to NVIDIA HQ](<https://x.com/greghunkins/status/2122758664033390682>)  
   @greghunkins · 2026-11-18 02:27
-
-- [UCSD Hao AI Lab 用 vstack 在 SGLang 上做智能体形式化验证](<https://x.com/haoailab/status/2122758544462434802>)  
-  UCSD Hao AI Lab 与 SGLang 社区合作，将 vstack 用于 SGLang 的智能体形式化验证，补充常规单元与 e2e CI，通过穷举异步交错与状态转换来捕获并发和多步 bug。团队称已提出 20+ 个 issue 与修复 PR，推文中分享了其中 5 个，涵盖权重更新竞态条件…  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-18 02:27
-
-- [IDEA: Instead of coming back to Nvidia directly, Jensen should try to route himself through a holding company in Ma…](<https://x.com/CaseyNewton/status/2122758254464016511>)  
-  IDEA: Instead of coming back to Nvidia directly, Jensen should try to route himself through a holding company in Malaysia or Singapore  
-  @CaseyNewton · 2026-11-18 02:26
-
-- [Jensen on his first day back in office at @nvidia \#standwithjensen](<https://x.com/greghunkins/status/2122758106216083520>)  
-  @greghunkins · 2026-11-18 02:25
-
-- [Muse Wonder, Muse Spark 1.3, and Muse Ember are coming soon to Microsoft Foundry on @Azure.](<https://x.com/finkd/status/2122757701591855362>)  
-  @finkd · 2026-11-18 02:24
-
-- [We built Higgsfield Miracle to address one of the biggest challenges in AI video: editing a specific part of a shot…](<https://x.com/higgsfield/status/2122757676484419685>)  
-  Powered by GPT-6.2 Astra, it splits any video into layers for pixel-level editing in real time, with world knowledge built in. Every  
-  @higgsfield · 2026-11-18 02:24
-
-- [6.2 Astra is here.](<https://x.com/theo/status/2122757647170703550>)  
-  I’ve been testing it for awhile. I think this is the worst model OpenAI has ever released. I’ll share more soon.  
-  @theo · 2026-11-18 02:23
-
-- [La Ministra Lincolao tiene agenda propia.](<https://x.com/BotCheckerCL/status/2122757612701647152>)  
-  Adjudicó a OpenAI acceso a datos sensibles. Sin licitación, sin análisis de riesgos, sin comparativa con otros actores del mercado como Claude, Gemini o Grok. Contraloría debe revisar los términos de este acuerdo lo antes posible.  
-  @BotCheckerCL · 2026-11-18 02:23
-
-- [GPT-6.2 Astra system card 显示自改进评级 High、网络安全评级 Critical](<https://x.com/rohanpaul_ai/status/2122757283449082323>)  
-  Rohan Paul 转述 OpenAI 的 GPT-6.2 Astra 和 Sol 系统卡要点，称其为 OpenAI 首个公开发布、AI 自改进被评为 High 的模型，两个模型网络安全评级均为最高档 Critical。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 02:22
-
-- [Dear Nvidia Board of Directors: You have only one job: maximizing shareholder value.](<https://x.com/DrEliDavid/status/2122757269305589871>)  
-  That's it. And reinstating @JensenHuang is what will do precisely that. All the rest is none of your business.  
-  @DrEliDavid · 2026-11-18 02:22
-
-- [Dear Secretary Mullin @SecMullinDHS, This morning the classified network of the National Security Agency was report…](<https://x.com/EverettStern1/status/2122757079014240523>)  
-  That makes five in five days. Microsoft. The FAA. United Airlines. Major American banks. Now the NSA. You have said you are 98 percent certain this is  
-  @EverettStern1 · 2026-11-18 02:21
-
-- [GPT-6.2 Astra 登顶 AA-Robotics 榜](<https://x.com/ArtificialAnlys/status/2122757022710104131>)  
-  GPT-6.2 Astra 成为 AA-Robotics v0.1 的新榜首，得分 79，比 GPT-6 Astra 高 10 分，领先于 GPT-6.2 Sol（78）、Claude Fable 5.2（75）和 Gemini 4 Hydrogen（58） 通过 Codex 控制真实机械臂，它通…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:21
-
-- [🇺🇸 ‼️ \| Miles de usuarios reportan fallos en Gmail, Marriott, Outlook y Microsoft 365, y también en servicios de Ap…](<https://x.com/UHN_Plus/status/2122756691494043956>)  
-  Google no registra interrupciones activas en su panel de estado y Microsoft afirma que ya opera con normalidad, así que no hay una  
-  @UHN\_Plus · 2026-11-18 02:20
-
-- [The FBI just confirmed what every engineer already knows: centralization is a security flaw.](<https://x.com/brivael/status/2122756526871806444>)  
-  On November 13, the Bureau issued an alert about ARTEX, an open-source AI tool that automates cyberattacks end to end. Reconnaissance, vulnerability discovery, exploitation, privilege  
-  @brivael · 2026-11-18 02:19
-
-- [We're thrilled to invest in First Person Labs.](<https://x.com/a16z/status/2122756295744983543>)  
-  For personal agents to become useful in everyday life, they need a total understanding of you. That creates something extraordinarily sensitive: a model of your relationships, priorities, habits, and intentions. We believe you  
-  @a16z · 2026-11-18 02:18
-
-- [Primero cayó Microsoft por 20 horas, una locura.](<https://x.com/martinvars/status/2122756213863764170>)  
-  Después vino el ground stop de la FAA que paralizó aeropuertos a nivel nacional el viernes 14, otro delirio. El lunes 16, United Airlines reportó y resolvió una falla tecnológica que retrasó salidas. Binance sufrió un hack masivo  
-  @martinvars · 2026-11-18 02:18
 
 [返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 34 页

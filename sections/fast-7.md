@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 34 页
 
+- [🇺🇸 Anthropic paid $1.63 MILLION to two Trump-connected lobbying firms, and their ties to Rubio are now drawing atte…](<https://x.com/MarioNawfal/status/2122751622489252052>)  
+  NVIDIA CEO Jensen Huang. One firm, Continental Strategy, received $740,000 and is led in Washington by Rubio’s  
+  @MarioNawfal · 2026-11-18 02:00
+
+- [GPT-6.2 Astra 在 ARC-AGI-3 动作效率表现](<https://x.com/arcprize/status/2122751235841220774>)  
+  在全部 25 个 ARC-AGI-3 公开游戏中，以最大推理强度运行时，GPT-6.2 Astra 所用动作数比人类基线少 64.1%，比使用提供商适配器测试框架的 GPT-6 Astra 少 5.2%：  
+  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
+
+- [OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 上取得 100% 满分](<https://x.com/arcprize/status/2122751233442156678>)  
+  ARC Prize 公布 OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 的成绩：ARC-AGI-3 达 100.0%（SOTA），为首个在该基准拿满分的模型，provider adapter 成本 $4.1K、standard 模式 70.3%、成本 $24.…  
+  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
+
+- [\#BREAKING: Apple, Microsoft Outlook, Gmail, and Schwab hit by new outages, users report.](<https://x.com/InsiderWire/status/2122751188802163184>)  
+  @InsiderWire · 2026-11-18 01:58
+
+- [Many Will Use The Competitive Market As A Reason Jensen Huang Was Ousted They will not bring up Megaspeed.](<https://x.com/Prolotario1/status/2122751074276659651>)  
+  They will not bring up smuggled H100s. They will not bring up capped NVIDIA GPUs in US markets. This Is 100% About Jensen Huang Personal Criminal Actions \(Not Who He  
+  @Prolotario1 · 2026-11-18 01:57
+
+- [Flights halted.](<https://x.com/FoxNews/status/2122751051631845504>)  
+  Workplace systems disrupted. Banking customers reporting problems. A string of technology outages is putting the nation’s dependence on digital infrastructure in the spotlight after major disruptions involving Microsoft, the FAA, Workday, Chase and other banks…  
+  @FoxNews · 2026-11-18 01:57
+
+- [OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol](<https://x.com/ChatGPT/status/2122751009156210841>)  
+  OpenAI 官宣 GPT-6.2 Astra 和 GPT-6.2 Sol 开放使用，主打游戏制作，同时擅长制作幻灯片、搭建网站和处理日常任务。模型自今日起向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise 及 Edu 用户推送。  
+  X：ChatGPT \(@ChatGPT\) · 2026-11-18 01:57
+
+- [OpenAI 发布 GPT-6.2 Astra：以约三分之一成本提供前沿性能](<https://x.com/sherwinwu/status/2122750964658753570>)  
+  OpenAI 发布 GPT-6.2 Astra，面向 hardest projects 的前沿模型，在专业工作和科研评测中创下新高，每任务成本不到 GPT-6 Astra 的三分之一。作者称其在会计、法律和科学研究等真实专业工作中表现尤为突出，幻灯片、网站和 3D 设计上可见差异。  
+  X：Sherwin Wu（@sherwinwu） · 2026-11-18 01:57
+
+- [Diputada Yeomans \(FA\) oficia a ministra Lincolao tras acuerdo con OpenAI y pide explicar qué pasará con los datos d…](<https://x.com/CNNChile/status/2122750798107210158>)  
+  Diputada Yeomans \(FA\) oficia a ministra Lincolao tras acuerdo con OpenAI y pide explicar qué pasará con los datos de las personas  
+  @CNNChile · 2026-11-18 01:56
+
+- [It’s a testament to how far down the rabbit hole we already are, that Jensen Huang unapologetically thinks he can h…](<https://x.com/Amy_Siskind/status/2122750655492186389>)  
+  It’s a testament to how far down the rabbit hole we already are, that Jensen Huang unapologetically thinks he can have his job back after all the rules he has broken, including at his own company.  
+  @Amy\_Siskind · 2026-11-18 01:56
+
+- [JUST IN: OpenAI officially launches its newest &amp;amp; most powerful AI models GPT-6.2 Astra &amp;amp; Sol.](<https://x.com/WatcherGuru/status/2122750647346835688>)  
+  @WatcherGuru · 2026-11-18 01:56
+
+- [Artificial Analysis 评测 GPT-6.2 Astra 与 GPT-6.2 Sol：智能指数第二，编码代…](<https://x.com/ArtificialAnlys/status/2122750634210529569>)  
+  Artificial Analysis 评测 OpenAI 新发布的 GPT-6.2 Astra 和 GPT-6.2 Sol：Astra 在 Artificial Analysis Intelligence Index 上涨 5 分至 62。  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 01:56
+
+- [AI company Anthropic has paid $1.63 million to two lobbying firms tied to Secretary of State Marco Rubio and former…](<https://x.com/AFpost/status/2122750572747018646>)  
+  Since April 2025, Anthropic has paid $740,000 to Continental Strategy, whose DC office is run by Rubio's former Senate  
+  @AFpost · 2026-11-18 01:55
+
+- [Dario Amodei 在 Anthropic IPO 路演中向 Jamie Dimon 谈人才留存与文化](<https://x.com/rohanpaul_ai/status/2122750398201205042>)  
+  Dario Amodei 在 Anthropic IPO 路演中与 JP Morgan CEO Jamie Dimon 对谈，称从其他公司流入 Anthropic 的人多于流出，7 位联合创始人全部仍在公司，离职者也常回归。他强调公司不想要难以合作、抢风头或不以公共利益为导向的人，坚持这一标准短期…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 01:55
+
+- [🇺🇸 Jensen Huang admitted he made SERIOUS personal mistakes, apologized to his family, and declared he's ready to re…](<https://x.com/MarioNawfal/status/2122750369948479810>)  
+  In an emotional statement, Huang took full responsibility for the controversy that led to his departure and pledged  
+  @MarioNawfal · 2026-11-18 01:55
+
 - [OpenAI 发布 GPT-6.2 Astra，ExploitBench Internal Port 较 GPT-6 As…](<https://x.com/OpenAI/status/2122750133133791592>)  
   OpenAI 发布 GPT-6.2 Astra，称其为迄今网络攻防能力最强的模型，在 ExploitBench Internal Port 上比 GPT-6 Astra 高出 22 分。由于能力增强，GPT-6.2 Astra 与 Sol 配备了更严格的安全防护以限制高风险网络安全协助，并将逐步上…  
   X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
@@ -119,64 +177,5 @@
 - [NEW: Users are reporting outages affecting several major services, including Gmail, Marriott, Microsoft Outlook and…](<https://x.com/Breaking911/status/2122744084523864087>)  
   Reports are also surging for Apple Support, the App Store, iCloud and Apple Pay.  
   @Breaking911 · 2026-11-18 01:30
-
-- [By the way, in the unlikely event that the @nvidia board doesn’t immediately restore Jensen as CEO…there’s actually…](<https://x.com/balajis/status/2122743376512766374>)  
-  Why? Given the likely cyberattacks on Microsoft, flights, banks, and now NSA, it’s arguably a  
-  @balajis · 2026-11-18 01:27
-
-- [The NSA’s top-secret communications network is down, according to CNN.](<https://x.com/Complex/status/2122743122144722971>)  
-  November 11th - Microsoft November 13th - FAA ARTCCs November 15th - AWS November 16th - Chase, US Bank, Wells Fargo, USAA November 16th - United Airlines November 17th - NSA Net  
-  @Complex · 2026-11-18 01:26
-
-- [NEW and BIG Nvidia booked $104bn of revenue through its Singapore subsidiary in 2025, up 72% in a year and almost h…](<https://x.com/ArashMassoudi/status/2122742840094499097>)  
-  That was the same year it stopped breaking Singapore out in its results. By @OwenWalker and @AntoineGara  
-  @ArashMassoudi · 2026-11-18 01:25
-
-- [Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage pa…](<https://x.com/JohnSun33348514/status/2122742508430205351>)  
-  Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage payroll systems 11/13 - outage at Claude 11/16 - major US banks go down 11/17 - outage at NSA’s classified internal network Officials say none were…  
-  @JohnSun33348514 · 2026-11-18 01:23
-
-- [AI video generation is getting more accessible, and that's a win for creators.](<https://x.com/AiwithZohaib/status/2122742453077962977>)  
-  Lower costs mean more room to experiment without worrying about every second.  
-  @AiwithZohaib · 2026-11-18 01:23
-
-- [Google 免费向六国用户扩展 Gemini Tasks，由 Gemini 4 Hydrogen 驱动](<https://x.com/sundarpichai/status/2122741728247738688>)  
-  Sundar Pichai 宣布 Gemini Tasks 免费扩展到六国的数亿用户，由 Gemini 4 Hydrogen 驱动。  
-  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
-
-- [Gemini Tasks 上线美国、日本、韩国、加拿大、澳大利亚和印度](<https://x.com/sundarpichai/status/2122741729904484384>)  
-  Google 宣布 Tasks in Gemini 即日起在美国、日本、韩国、加拿大、澳大利亚和印度上线，其中通话、短信和支付等高级操作首先在美国开放。Google 官方博客链接：  
-  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
-
-- [Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage pa…](<https://x.com/pelositracker/status/2122741601713770823>)  
-  Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage payroll systems 11/13 - outage at Claude 11/16 - major US banks go down 11/17 - outage at NSA’s classified internal network Officials say none were…  
-  @pelositracker · 2026-11-18 01:20
-
-- [State-aligned hackers.](<https://x.com/SpencerGuard/status/2122741159458132263>)  
-  The last few weeks have had too many coincidences \(military grocery stores, Microsoft, entire airline control network, United, Chase, and others\).  
-  @SpencerGuard · 2026-11-18 01:18
-
-- [NVIDIAファン氏「CEO喜んで復帰」と声明 支持広がり受け](<https://x.com/nikkei/status/2122740789621018990>)  
-  @nikkei · 2026-11-18 01:16
-
-- [Gemini Tasks 向免费用户开放 Gemini 4 Hydrogen 模型](<https://x.com/Google/status/2122740719559278830>)  
-  Google 宣布 GeminiApp 的 Tasks 功能现在也可运行最新的 Gemini 4 Hydrogen 模型，对所有免费用户开放，为日常使用带来更先进的智能和速度。官方称这是 GeminiApp 最新更新的一部分，详情见  
-  X：Google \(@Google\) · 2026-11-18 01:16
-
-- [Google 向美日韩等更多地区免费开放 Gemini Tasks](<https://x.com/Google/status/2122740715633426666>)  
-  Google 宣布即日起在美国、日本、韩国、加拿大、澳大利亚和印度免费向数亿更多用户开放 Gemini Tasks。用户在 GeminiApp 中把 Chat 切换为 Task 并描述需求即可，Tasks 可在后台执行较长项目，并支持设置周期运行，如同步家庭日历或查找未使用的订阅权益。  
-  X：Google \(@Google\) · 2026-11-18 01:16
-
-- [Everything from Microsoft to air traffic control to the NSA’s comms has broken.](<https://x.com/zeteo_news/status/2122740635316765097>)  
-  The only two systems in the U.S. still running without a single glitch are unconditional U.S. support for Israel’s war crimes and Democrats’ commitment to Hakeem Jeffries.  
-  @zeteo\_news · 2026-11-18 01:16
-
-- [El Ministerio de Ciencia encabezado por Lincolao se negó a compartir lo firmado con OpenAI Algo huele muy mal Al pa…](<https://x.com/threaeae/status/2122739381194858865>)  
-  El Ministerio de Ciencia encabezado por Lincolao se negó a compartir lo firmado con OpenAI Algo huele muy mal Al parecer nuevamente el Gobierno está vulnerando nuestros derechos  
-  @threaeae · 2026-11-18 01:11
-
-- [Eight US infrastructure failures in six days.](<https://x.com/Darkfibr3/status/2122738838485324177>)  
-  Microsoft, the FAA, Chase and half the banking system, United, Schwab this morning, and now the NSA's classified internal network. Nobody got hacked. I've been following this for DAYS. I've tracked down every story and I haven't  
-  @Darkfibr3 · 2026-11-18 01:09
 
 [返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 34 页

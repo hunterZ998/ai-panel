@@ -20,15 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 25 条
+## 相关资讯 · 22 条
 
-- [Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年](<https://www.tmtpost.com/8209258.html>)  
-  到2028年，25%的企业安全漏洞事件可追溯至AI智能体滥用。  
-  钛媒体 · 2026-11-18 10:30
-
-- [微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%](<https://www.ithome.com/1/028/585.htm>)  
-  IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修…  
-  IT之家 · 2026-11-18 07:06
+- [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
+  微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
+  IT之家·人工智能 · 2026-11-18 07:06
 
 - [Simon Willison 发布编码智能体外部沙箱模式及三套实现](<https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/>)  
   Simon Willison 与 AI 研究实验室 Prime Radiant 合作，介绍面向编码智能体的外部沙箱模式，智能体在沙箱外运行、待执行代码在专用沙箱内运行，目标是让本地模型实验更安全，避免提示词注入等攻击造成破坏。  
@@ -37,6 +33,10 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [404 Media 分析近期连环宕机：不是单一黑客攻击，而是系统性脆弱](<https://www.404media.co/breaking-everything/>)  
   404 Media 作者 Jason Koebler 从自己因 Apple Pay 宕机租不到 Lime 单车写起，指出近期 Apple Pay、银行、微软、航空等一连串故障并非都源于黑客或 AI，而是疫情以来科技裁员、AI 辅助与 vibe coding 产品大规模部署、政府专业能力流失、基础设施与冗余投入不足等系统性问题的共同症状。  
   404 Media（RSS） · 2026-11-18 05:58
+
+- [MAI Cyber 2 Flash](<https://www.producthunt.com/products/mai-image-2-3>)  
+  Microsoft’s low-cost security AI with a 1M-token context  
+  Product Hunt · English · 2026-11-18 02:39
 
 - [Childlight 报告：AI 生成儿童性虐待材料举报量两年激增超 8,400%](<https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/>)  
   爱丁堡 Childlight Institute 报告显示，AI 生成儿童性虐待材料的举报量两年间增长超 8,400%，从 2023 年约 4,700 张升至 2025 年超 40 万张，数据来自科技公司向 NCMEC 提交的举报。  
@@ -53,10 +53,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
   据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
   IT之家·人工智能 · 2026-11-17 11:28
-
-- [Corma获得1.25亿美元A轮融资](<https://www.itjuzi.com/investevent/14708028>)  
-  Corma专注从零构建防御型网络安全基础大模型，输出安全 AI Agent，对接企业现有安全体系完成告警研判、威胁狩猎与事件处置。公司致力于缩小 AI 攻防能力不对称的差距。近日，Corma获得1.25亿美元A轮融资，NEA恩颐投资-…  
-  IT桔子 · 2026-11-17 10:49
 
 - [AI 网络安全初创公司 Corma 产品发布约 3 个月后估值达 10 亿美元](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
   AI 网络安全初创公司 Corma 在产品推出约 3 个月后完成 1.25 亿美元 A 轮融资，估值 10 亿美元，由 NEA 领投，累计融资达 1.85 亿美元，投资方包括 Sequoia Capital、Khosla Ventures 和 Coatue。  
@@ -93,14 +89,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [a16z的Anne Neuberger提出关键基础设施网络防御方案，优先保护电力、支付、水务、通信和医院中可能造成连锁故障的运营商及共用供应商，建议用AI寻找漏洞、生成补偿防护并建立持续演练。属于机构提案，尚非政府已采纳政策或落地效果。](<https://x.com/a16z/status/2121030491407294854>)  
   AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
   @a16z · 2026-11-13 08:00
-
-- [Grok Build 分享链接漏洞导致 SpaceXSI 内部资料及数千用户数据公开暴露](<https://www.ithome.com/1/025/790.htm>)  
-  网络安全公司 Claroc 发现，AI 编程工具 Grok Build 生成的应用分享链接可经被动 DNS 服务被公开检索，导致数千名用户敏感数据泄露，SpaceXSI 内部资料也未能幸免。  
-  IT之家·人工智能 · 2026-11-11 21:08
-
-- [美退役海军上将 Michael Rogers 与前 CIA 站长 Tom Moran 出任 Sakana AI 高级顾问](<https://sakana.ai/michael-tom/>)  
-  Sakana AI 宣布美国退役海军上将 Michael Rogers 与前 CIA 支局长 Tom Moran 出任高级顾问，围绕防务能力与网络安全两条线提供建议。  
-  Sakana AI：Blog（网页） · 2026-11-10 23:00
 
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
   Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  

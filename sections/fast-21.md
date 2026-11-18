@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 34 页
 
+- [This is the reality of the Jensen Huang situation: it's pure, unadulterated greed with absolutely no regard for Ame…](<https://x.com/maddenifico/status/2122373838130339848>)  
+  The tech bros sucking up to Huang just to protect their own Nvidia bags have completely lost their fucking minds. Trump, Howard Lutnick,  
+  @maddenifico · 2026-11-17 00:58
+
+- [Uh.](<https://x.com/jimstewartson/status/2122371899800142028>)  
+  Holy shit. The conspiracy to smuggle Nvidia chips to China had a full psyops campaign behind it. When “Diamond and Silk” are promoting your Chinese chip sales… This whole thing needs to be uncovered. Who paid this firm? Was it Nvidia? The government? They all …  
+  @jimstewartson · 2026-11-17 00:51
+
+- [Trump reported trades this year that suggest he held between $13 million and $62 million in Nvidia stock as of the…](<https://x.com/John_Hudson/status/2122371493317185982>)  
+  The figure is dramatically higher than the $615,000 to $1.3 million in Nvidia shares that Trump had at the end of 2024  
+  @John\_Hudson · 2026-11-17 00:49
+
+- [Nvidia is the tip of the iceberg.](<https://x.com/mikepompeo/status/2122371432772403427>)  
+  How many hundreds of American businesses and government institutions have been infiltrated by CCP spies? We owe it to the American people to raise awareness of this risk and do everything necessary to counter it.  
+  @mikepompeo · 2026-11-17 00:49
+
+- [OpenAI 启动首轮嵌入式评估，邀请外部专家审查模型安全](<https://x.com/gdb/status/2122371202169905639>)  
+  OpenAI 宣布启动首轮嵌入式评估（embedded assessments），与 Apollo Research、METR、TransluceAI 和 GoodfireAI 合作，让外部专家深入接触其内部模型与系统，调查对齐问题并测试安全防护措施。Greg Brockman 转发了这一公告，评…  
+  X：Greg Brockman \(@gdb\) · 2026-11-17 00:48
+
+- [Silicon Valley leaders back call for Jensen Huang's return to Nvidia](<https://x.com/Reuters/status/2122370410826080711>)  
+  @Reuters · 2026-11-17 00:45
+
+- [Fuck it make him NVIDIA ceo too](<https://x.com/esjesjesj/status/2122370370447544710>)  
+  @esjesjesj · 2026-11-17 00:45
+
+- [From every angle.](<https://x.com/AstonMartinF1/status/2122370155598782729>)  
+  See more of our \#LasVegasGP livery with @CoreWeave.  
+  @AstonMartinF1 · 2026-11-17 00:44
+
+- [Ashton Kutcher after his $435m investment in Anthropic will be $7B at IPO \(15x\) and his $30m early check into OpenA…](<https://x.com/TrungTPhan/status/2122369601095016887>)  
+  Ashton Kutcher after his $435m investment in Anthropic will be $7B at IPO \(15x\) and his $30m early check into OpenAI now worth $1.2B+ \(40x\)  
+  @TrungTPhan · 2026-11-17 00:41
+
+- [What a strange week for @JensenHuang and @nvidia.](<https://x.com/PavloMolchanov/status/2122368161785999739>)  
+  It all feels orchestrated and targeted, and I hope we get to the bottom of it. I’ve been at NVIDIA for 12.5 years, started as an intern and made it to Research Director thanks to incredible colleagues and especially Research  
+  @PavloMolchanov · 2026-11-17 00:36
+
+- [AlphaProof 用 AI 验证 Signal 加密代码](<https://x.com/GoogleDeepMind/status/2122366994708124098>)  
+  🔘 它驱动 AlphaProof Code 智能体，在数周而非数年内从数学上证明了 @Signalapp 加密代码的安全性。 🔘 直接从实验室笔记本和原始数据中发现了细微的湿实验错误和数据异常。 🔘 在大型数据库中找到了 40 倍多的相关蛋白质序列，以帮助建模难以预测的蛋白质。  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-17 00:31
+
+- [Google 展示用 Gemini 4 Hydrogen 生成的视觉 ASMR 视频](<https://x.com/Google/status/2122366286659289502>)  
+  Google 发布一段用 Gemini 4 Hydrogen 在 Gemini App 中生成的视觉 ASMR 演示视频。Gemini 4 Hydrogen 已向所有人开放，用户可在 Gemini App、Google Search、Google AI Studio 等入口使用。  
+  X：Google \(@Google\) · 2026-11-17 00:28
+
+- [Fuck, this is absolutely insane.](<https://x.com/Mohiniuni/status/2122364321036468682>)  
+  Dario Amodei, CEO of Anthropic, was asked what a young person who has just finished high school should do today. His answer: «AI already knows how to do a junior lawyer’s job. A junior financial analyst’s. A junior consultant’s. We can’t deny  
+  @Mohiniuni · 2026-11-17 00:21
+
+- [Gemini 4 Hydrogen 了解更多](<https://x.com/Google/status/2122362271426916496>)  
+  了解更多关于 Gemini 4 Hydrogen 的信息 ↓  
+  X：Google \(@Google\) · 2026-11-17 00:12
+
+- [$NVDA ANNOUNCES QUANTUM COMPUTING BREAKTHROUGH Nvidia says its new CUDA-Q algorithm delivers up to 13,000x faster d…](<https://x.com/wallstengine/status/2122362083140637157>)  
+  Alongside the breakthrough, Nvidia announced a  
+  @wallstengine · 2026-11-17 00:12
+
 - [Google 用 Gemini 4 Hydrogen 演示视觉 ASMR 视频生成](<https://x.com/Google/status/2122362040400371712>)  
   Google 发布一段由 Gemini 4 Hydrogen 在 Gemini App 中生成的视觉 ASMR 视频，演示其视频生成效果。文中称 Hydrogen 已向所有人开放，可在 Gemini、Google Search、Google AI Studio 等产品中使用。  
   X：Google \(@Google\) · 2026-11-17 00:11
@@ -119,60 +177,5 @@
 - [URGENTE\!](<https://x.com/pharaujo/status/2122350172520800576>)  
   EUA restringem venda de chips da NVidia ao Brasil por auxílio à China  
   @pharaujo · 2026-11-16 23:24
-
-- [🚨NEW: We just uncovered a covert influence operation using right-wing creators to promote Nvidia chip sales to Chin…](<https://x.com/TheMidasProj/status/2122347323380683100>)  
-  Earlier this year, we reported on similar campaigns, and Republican lawmakers went after Nvidia. But the story didn’t end there. 🧵  
-  @TheMidasProj · 2026-11-16 23:13
-
-- [The president's comments DO matter.](<https://x.com/jimcramer/status/2122346936418381897>)  
-  The president can do a pre-pardon, say that Jensen is a too important to Nvidia and Nvidia is a national treasure. That's how it would go.  
-  @jimcramer · 2026-11-16 23:11
-
-- [The Jensen Huang story is falling apart.](<https://x.com/ConservativeTht/status/2122346117530894779>)  
-  Could all have this been a behind the scenes operation by powerful people who simply did not like Jensen Huang &amp;amp; @nvidia’s success? Who stands to benefit from Nvidia's troubles? Anthropic, set to make its initial public offering later  
-  @ConservativeTht · 2026-11-16 23:08
-
-- [🚨Brasil 🇧🇷/EUA 🇺🇸: O Brasil entrou para a lista de países que necessitam de autorização do governo americano para c…](<https://x.com/lordivan22/status/2122344764578136274>)  
-  A medida busca limitar o acesso da China e de outros adversários dos EUA a poder  
-  @lordivan22 · 2026-11-16 23:03
-
-- [🚨🇺🇸🇨🇳 Trump on Alice Huang: "Any beautiful woman coming to the country from China, they say she is a spy.](<https://x.com/MarioNawfal/status/2122343940229841283>)  
-  I don't know if the woman involved with Jensen Huang was a spy at all." They supposedly have the best intel in the world, and they don’t know if she was a spy? Writer:  
-  @MarioNawfal · 2026-11-16 23:00
-
-- [Trump dice ahora mismo que no tiene indicios de que la amante de Jensen Huang fuera una espía y que ve con buenos o…](<https://x.com/alandete/status/2122343874450358446>)  
-  Puede que se encuentre con Kim Jong Un. También dice que pondrá aranceles a México si no detiene las caravanas de migrantes.  
-  @alandete · 2026-11-16 22:59
-
-- [Anthropic has passed the US government as SpaceX's top customer, per YF.](<https://x.com/unusual_whales/status/2122343180968641019>)  
-  @unusual\_whales · 2026-11-16 22:57
-
-- [JUST IN: Trump declares Jensen Huang has “learned a big lesson” &amp;amp; Nvidia should consider reinstating him as CEO.](<https://x.com/Polymarket/status/2122342985694367822>)  
-  @Polymarket · 2026-11-16 22:56
-
-- [NVIDIA Globe and Mail by @deAdder Substack:](<https://x.com/deAdder/status/2122342419828199717>)  
-  @deAdder · 2026-11-16 22:53
-
-- [亲爱的挺黄仁勋、持有英伟达股票的网友们 英伟达和黄仁勋的麻烦才刚开始 这不仅仅是商业问题和丑闻问题 沾上共产党没有好下场](<https://x.com/threerights1/status/2122341747657150657>)  
-  @threerights1 · 2026-11-16 22:51
-
-- [NEW: President Trump says Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent have “two differen…](<https://x.com/FoxNews/status/2122341685409550405>)  
-  Trump also says he is not considering replacing Lutnick.  
-  @FoxNews · 2026-11-16 22:51
-
-- [JUST IN: 🇺🇸 President Trump says Nvidia $NVDA CEO Jensen Huang did not put US national security at risk.](<https://x.com/WatcherGuru/status/2122341569680515362>)  
-  @WatcherGuru · 2026-11-16 22:50
-
-- [Receipts are nice but none of of this matters if the Trump Admin doesn’t extract a price Is there a civil rights in…](<https://x.com/AuronMacintyre/status/2122341466425143786>)  
-  Without a fine in the billions Microsoft will barely notice  
-  @AuronMacintyre · 2026-11-16 22:50
-
-- [OpenRouter 数据：上周全球大模型 token 用量达 211 万亿，中国模型连续 29 周领先美国](<https://x.com/thexpin/status/2122341419985649901>)  
-  据 OpenRouter 统计，上周（11 月 9–15 日）全球大模型 token 用量达 211 万亿，环比增长 0.48%。中国模型周用量 119.1 万亿（环比增 2.51%），美国模型为 14.83 万亿（环比增 6.08%），中国模型已连续 29 周周用量领先。  
-  X：X.PIN \(@thexpin\) · 2026-11-16 22:50
-
-- [🚨🇺🇸🇨🇳 Trump on Jensen Huang: "Huang learned a lesson.](<https://x.com/MarioNawfal/status/2122340719339659286>)  
-  I would not mind him becoming CEO of Nvidia again." I think MANY people would support that idea... Writer: Samuel  
-  @MarioNawfal · 2026-11-16 22:47
 
 [返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 34 页

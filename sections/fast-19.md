@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 34 页
 
+- [Now major U.S. banks are reporting technical issues and outages.](<https://x.com/FmrRepMTG/status/2122412003331539339>)  
+  First Microsoft. Then FAA ground stop. Now banks. People are asking what the hell is going on? Is it AI?  
+  @FmrRepMTG · 2026-11-17 03:30
+
+- [⚠️Just Now: Major US Banks Hit With Reports Of Service Disruptions Microsoft applications have down day on Thursday…](<https://x.com/JesseCohenInv/status/2122411580813914439>)  
+  I feel like I am being lied to…  
+  @JesseCohenInv · 2026-11-17 03:28
+
+- [$NVDA - JENSEN HUANG TRANSFERRED OVER $10 BILLION IN NVIDIA STOCK TO FAMILY TRUST BEFORE DOWNFALL Former Nvidia CEO…](<https://x.com/DeItaone/status/2122411464694604166>)  
+  $NVDA - JENSEN HUANG TRANSFERRED OVER $10 BILLION IN NVIDIA STOCK TO FAMILY TRUST BEFORE DOWNFALL Former Nvidia CEO Jensen Huang and his wife transferred nearly 60 million shares, worth over $10.5 billion, into an irrevocable family trust in March, according t…  
+  @DeItaone · 2026-11-17 03:28
+
+- [🚨 BREAKING \| Microsoft services have begun to go down.](<https://x.com/aleksthgrt/status/2122411074968539617>)  
+  @aleksthgrt · 2026-11-17 03:26
+
+- [First Microsoft Outlook.](<https://x.com/toddstarnes/status/2122409741204787497>)  
+  Then, the FAA outages. And now Americans are having issues accessing their bank accounts. Someone is sending the United States a message - that they can shut down our airspace, bank accounts and email accounts. The White House needs to explain to the  
+  @toddstarnes · 2026-11-17 03:21
+
+- [More sh-t's breaking.](<https://x.com/HealthRanger/status/2122409463944536409>)  
+  Chase bank is down. The Microsoft Outlook problem still persists for many users. Bank of America down. US Bank down. Wells Fargo down. Zelle is broken. Google is down for many users. Capital One is down. And as far as Windows goes, even when it's up, it's  
+  @HealthRanger · 2026-11-17 03:20
+
+- [In just the past week we’ve seen: -Microsoft outages -FAA air traffic outages -Workday outages -Major U.S. bank out…](<https://x.com/bennyjohnson/status/2122409096758563038>)  
+  In just the past week we’ve seen: -Microsoft outages -FAA air traffic outages -Workday outages -Major U.S. bank outages What is going on?  
+  @bennyjohnson · 2026-11-17 03:18
+
+- [The Nvidia board debacle, explained: Leave out the two founding directors from 1993, and 5 of the remaining 8 joine…](<https://x.com/JohnLeFevre/status/2122408778561880284>)  
+  The Nvidia board debacle, explained: Leave out the two founding directors from 1993, and 5 of the remaining 8 joined after 2017, the year the mandatory and 'voluntary' 😉😉 DEI rules kicked in...  
+  @JohnLeFevre · 2026-11-17 03:17
+
+- [Today we're open-sourcing HubEgo-100K: the most diverse egocentric dataset on 🤗 @huggingface. 100,000 hours of skil…](<https://x.com/hubdotxyz/status/2122408735897423962>)  
+  Free for research and commercial use 🧵  
+  @hubdotxyz · 2026-11-17 03:17
+
+- [SON DAKİKA \| Microsoft servisleri çökmeye başladı. ▬ Outlook'un ardından Microsoft 365'e de erişim problemleri yaşa…](<https://x.com/bosunatiklama/status/2122408633774608576>)  
+  SON DAKİKA \| Microsoft servisleri çökmeye başladı. ▬ Outlook'un ardından Microsoft 365'e de erişim problemleri yaşanıyor.  
+  @bosunatiklama · 2026-11-17 03:17
+
+- [A friend of mine who goes by “dirt” works at a digital security firm that collaborates with multiple U.S. governmen…](<https://x.com/al_fernandz/status/2122408430673551534>)  
+  He just told me his sources are linking the air-traffic communications incident, the Microsoft/digital infrastructure outages, and today’s banking  
+  @al\_fernandz · 2026-11-17 03:16
+
+- [The former Taco Bell CFO who helped roll out Crunchwrap Supremes and Doritos Locos Tacos is on the NVIDIA board tel…](<https://x.com/ginamilan_/status/2122408029077254437>)  
+  Let that sink in.  
+  @ginamilan\_ · 2026-11-17 03:14
+
+- [I’m not a conspiracy theorist.](<https://x.com/RichardLNewby3/status/2122407989621797269>)  
+  I don’t like to cause unnecessary alarm. But with the Microsoft Outlook shutdown, the flight shutdown, and now banking shutdowns…I am somewhat concerned about those mass outage rumors.  
+  @RichardLNewby3 · 2026-11-17 03:14
+
+- [BREAKING: California sues OpenAI, alleging it enabled at least 80 cyberattacks by rogue AI agents.](<https://x.com/PolymarketMoney/status/2122407649115336853>)  
+  @PolymarketMoney · 2026-11-17 03:13
+
+- [Microsoft Outlook went down for major corporations.](<https://x.com/DC_Draino/status/2122407552587600044>)  
+  Biggest FAA plane grounding since 9/11. Major banks shut down. All within a few days. We need to stop saying these are just “technical issues” and call them what they really are: Cyberattacks.  
+  @DC\_Draino · 2026-11-17 03:12
+
 - [ÚLTIMA HORA: Vuelve a caer Microsoft a nivel GLOBAL.](<https://x.com/MarkDeReborn11/status/2122405362246578573>)  
   Los ataques a EU son incesantes, y es que hay hackers en Rusia, China, Corea del Norte e Irán trabajando las 24/7. La vida de los estadounidenses gira en torno de la tecnología. Le pegas aquí y cae el GIGANTE.  
   @MarkDeReborn11 · 2026-11-17 03:04
@@ -117,60 +175,5 @@
 - [Bro...](<https://x.com/ByzGeneral/status/2122393673417863454>)  
   The Nvidia board is genuinely insane, or compromised. One of the two.  
   @ByzGeneral · 2026-11-17 02:17
-
-- [HAPPENING NOW: Multiple Bank and Microsoft users report outages.](<https://x.com/NewsBlast17/status/2122393534984761683>)  
-  @NewsBlast17 · 2026-11-17 02:17
-
-- [Looking for some great ideas for how to “persuade” the Nvidia board to bring Jensen back… Creative, wild ideas welc…](<https://x.com/travisk/status/2122393157988167857>)  
-  Looking for some great ideas for how to “persuade” the Nvidia board to bring Jensen back… Creative, wild ideas welcome… \#bringJensenBack  
-  @travisk · 2026-11-17 02:15
-
-- [Hugging Face 与 OpenRouter 打通开放模型生态](<https://x.com/ClementDelangue/status/2122392943957078032>)  
-  Hugging Face 与 OpenRouter 合作首部分上线，双方打通存储、协作与推理：用户可在 Hugging Face 上直接调用 OpenRouter 推理，也能从 OpenRouter 直接获取开放模型权重。OpenRouter 的智能体轨迹可存到 Hugging Face，用于检查…  
-  X：Clément Delangue（Hugging Face CEO） \(@ClementDelangue\) · 2026-11-17 02:14
-
-- [Depois do "milagre eleitoral do pilili pilili" O Brasil já é compreendido pelo ocidente como proxi oficial da China.](<https://x.com/BanhadoRatao/status/2122392722845962499>)  
-  E junto dela ficamos de fora do acesso as tecnologias mais importantes do mundo. Os Chips da NVidia são o petróleo do século XXI, e para manter o PT e o Moraes  
-  @BanhadoRatao · 2026-11-17 02:13
-
-- [BREAKING: Nvidia board is not considering bringing ex-CEO Jensen Huang back, source familiar tells @EdwardLawrence](<https://x.com/FoxNews/status/2122392520483352858>)  
-  @FoxNews · 2026-11-17 02:13
-
-- [Hugging Face 开源模型现可通过 OpenRouter 调用](<https://x.com/OpenRouter/status/2122392434198131005>)  
-  OpenRouter 宣布 Hugging Face 上的开源模型现可通过 OpenRouter 运行。每个请求会路由到该模型价格、速度和可用性最优的提供商，并支持自动故障转移，全部使用同一 Hugging Face token 和 API。用户还可用 Broadcast 把请求 trace 发送…  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-17 02:12
-
-- [Breaking: Nvidia shareholders seriously considering firing the board.](<https://x.com/nymbusjp/status/2122391636579893735>)  
-  @nymbusjp · 2026-11-17 02:09
-
-- [BREAKING: The Nasdaq 100 extends losses to -2.3% on the day amid reports that Nvidia’s board is not considering rei…](<https://x.com/KobeissiLetter/status/2122391449031585886>)  
-  BREAKING: The Nasdaq 100 extends losses to -2.3% on the day amid reports that Nvidia’s board is not considering reinstating Jensen Huang as CEO.  
-  @KobeissiLetter · 2026-11-17 02:08
-
-- [🚨🇺🇸 Nvidia's board apparently has ZERO interest in bringing Jensen Huang back.](<https://x.com/MarioNawfal/status/2122390834494545957>)  
-  Seriously? The man spent 33 YEARS building Nvidia into the company at the center of the AI revolution, and now the board won't even DISCUSS his return, according to CNBC. More than 180,000 people  
-  @MarioNawfal · 2026-11-17 02:06
-
-- [JUST IN: Nvidia $NVDA crashes another 4% following reports that Jensen Huang will not be reinstated as CEO.](<https://x.com/WatcherGuru/status/2122389975031296321>)  
-  @WatcherGuru · 2026-11-17 02:02
-
-- [Jensen Huang allegedly told one of Nvidia’s top executives he hoped he would die, per the New York Post.](<https://x.com/unusual_whales/status/2122388479623500150>)  
-  At a February meeting with more than 30 executives, Huang allegedly turned on Jay Puri, then head of worldwide sales: “I hope you get the flu and I hope it gets worse,” he  
-  @unusual\_whales · 2026-11-17 01:57
-
-- [It wasn't a dream Members of Congress legitimately sold Nvidia stock right before it collapsed \~32% Thought we'd re…](<https://x.com/tradewithcong/status/2122388126433763331>)  
-  It wasn't a dream Members of Congress legitimately sold Nvidia stock right before it collapsed \~32% Thought we'd remind you  
-  @tradewithcong · 2026-11-17 01:55
-
-- [Nvidia’s board of directors is not considering bringing back Jensen Huang as CEO, a person familiar with the matter…](<https://x.com/CNBC/status/2122387348147028045>)  
-  The board is focused on a national security investigation into Huang, and is not in discussions to bring him back, the person said. Last week, Huang  
-  @CNBC · 2026-11-17 01:52
-
-- [Breaking news: Nvidia’s board is not considering bringing back Jensen Huang as the company’s chief executive, despi…](<https://x.com/FT/status/2122387114562126146>)  
-  Breaking news: Nvidia’s board is not considering bringing back Jensen Huang as the company’s chief executive, despite calls from some leading tech figures for him to be reinstated after he was ousted over an infidelity scandal.  
-  @FT · 2026-11-17 01:51
-
-- [NVIDIA BOARD NOT CONSIDERING BRINGING JENSEN HUANG BACK AS CEO - CNBC CITING SOURCE](<https://x.com/DeItaone/status/2122386378625314858>)  
-  @DeItaone · 2026-11-17 01:48
 
 [返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 34 页

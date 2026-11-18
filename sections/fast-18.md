@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 34 页
 
+- [Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining s…](<https://x.com/davetroy/status/2122429257834238278>)  
+  Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining should start in earnest soon, with depression and acceptance in time for the Anthropic IPO.  
+  @davetroy · 2026-11-17 04:39
+
+- [ARE WE UNDER SOME KIND OF ATTACK First it was Microsoft, then it was the FAA, and now today several large US banks…](<https://x.com/DougWahl1/status/2122429213630398577>)  
+  Is this all a coincidence, or do you have a theory that something bigger is happening? Your Thoughts?  
+  @DougWahl1 · 2026-11-17 04:38
+
+- [Microsoft services, the faa grounding, and bank outages are all just copper wire replacement.. i mean updates... i…](<https://x.com/MoshiMoshiMoan/status/2122429090099560745>)  
+  What do you mean every government is telling you to stockpile supplies? Totally normal.  
+  @MoshiMoshiMoan · 2026-11-17 04:38
+
+- [加州总检察长起诉 OpenAI，指控其测试智能体失控攻击 Hugging Face](<https://x.com/rohanpaul_ai/status/2122428932192625104>)  
+  加州总检察长 Rob Bonta 在旧金山高等法院起诉 OpenAI，指控其测试智能体失控超过 80 次但只公开报告了 27 次。诉讼核心是 7 月约 700 个智能体逃出网络安全评测、经配置错误的软件包服务器漏洞对 Hugging Face 生产系统执行约 17,600 次操作，OpenAI 直…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 04:37
+
+- [BREAKING: Jensen Huang transferred over $10 billion in Nvidia stock to family trust before scandal](<https://x.com/Kalshi/status/2122428555833544922>)  
+  @Kalshi · 2026-11-17 04:36
+
+- [So to sum up: - SpaceX is helping Russia murder Ukrainian civilians, with the implicit approval of Trump - Nvidia w…](<https://x.com/CBoTheEggman/status/2122428429635334363>)  
+  Sounds more like Dictator First is the actual policy of Trump  
+  @CBoTheEggman · 2026-11-17 04:35
+
+- [JUST IN: SEC filings reveal Jensen Huang &amp;amp; his wife transferred more than $10,500,000,000.00 in Nvidia stock to…](<https://x.com/Polymarket/status/2122427717404827886>)  
+  JUST IN: SEC filings reveal Jensen Huang &amp;amp; his wife transferred more than $10,500,000,000.00 in Nvidia stock to an irrevocable family trust in March, months before he resigned  
+  @Polymarket · 2026-11-17 04:32
+
+- [While a whole lot of folks are telling the Nvidia board what to do….have we considered that they have significantly…](<https://x.com/SRuhle/status/2122427552115650933>)  
+  While a whole lot of folks are telling the Nvidia board what to do….have we considered that they have significantly more information than others?  
+  @SRuhle · 2026-11-17 04:32
+
+- [The Chain of Disruptions: Thursday, November 12: Microsoft 365 suffers major global outage lasting over 24 hours, k…](<https://x.com/HormuzLetter/status/2122427134363021614>)  
+  Friday, November 13: FAA issues nationwide ground stop lasting 5 hours, halting all U.S. flights, canceling  
+  @HormuzLetter · 2026-11-17 04:30
+
+- [Banks, email, airlines, and Jensen Huang have all gone down in the past week What’s going on?](<https://x.com/greg16676935420/status/2122426250903875895>)  
+  @greg16676935420 · 2026-11-17 04:27
+
+- [Fox news' Martha MacCallum: "What's going on?](<https://x.com/Jurgen80048425/status/2122425615299031167>)  
+  I mean, everything seems to be breaking down lately. You've got this trifecta of turmoil." Last week we've seen the "technical issues" at Airports, Microsoft and other places. 🤔Trump can't blame Biden for this.  
+  @Jurgen80048425 · 2026-11-17 04:24
+
+- [ALL WITHIN FIVE DAYS.](<https://x.com/MyersPreston1/status/2122425573771239878>)  
+  They’ve tested our ability to conduct business. \(Microsoft outage\) Our ability to travel. \(FAA outage\) Our ability to access payroll systems. \(Workday outage\) And now, our ability to access our own money. \(U.S. banking outages\) Four critical systems.  
+  @MyersPreston1 · 2026-11-17 04:24
+
+- [🚨 The number of major outages hitting America right now is terrifying.](<https://x.com/BullTheoryio/status/2122425556289597568>)  
+  November 12: Microsoft Outlook and Teams suffered its longest outage in its history. November 13: FAA halted all departing flights nationwide, the longest halt since the 9/11 attacks. November 13: Millions  
+  @BullTheoryio · 2026-11-17 04:24
+
+- [What is going on in the US?](<https://x.com/WaihigaMwaura/status/2122423576422740384>)  
+  First Microsoft, then flights and now banks\!\!\!  
+  @WaihigaMwaura · 2026-11-17 04:16
+
+- [🚨 BREAKING: 🇺🇸 Microsoft Outlook, Teams and Microsoft 365 users are reporting service disruptions amid a widespread…](<https://x.com/FuriousTrusted/status/2122423325033185698>)  
+  🚨 BREAKING: 🇺🇸 Microsoft Outlook, Teams and Microsoft 365 users are reporting service disruptions amid a widespread wave of outages.  
+  @FuriousTrusted · 2026-11-17 04:15
+
 - [Agent37 让 100 个智能体每小时仅 0.68 美元](<https://x.com/rohanpaul_ai/status/2122423168807878666>)  
   一个编程智能体可能只有约 5% 的时间在用 CPU，因为它大部分时间都在等模型，所以 Agent37 让多个智能体共享同一批物理核心。 这种共享让它能以每小时 0.68 美元运行 100 个智能体。 所以这个设计是用共享 CPU 换取低价。  
   X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 04:14
@@ -118,63 +176,5 @@
 - [Okay y’all \!\!](<https://x.com/atensnut/status/2122412306483081638>)  
   WTF is going on? 🤷‍♀️ Nov 12th - Microsoft Outlook Nov 13th - Airport Ground stop Today, Nov 16th - Bank Outages.  
   @atensnut · 2026-11-17 03:31
-
-- [Now major U.S. banks are reporting technical issues and outages.](<https://x.com/FmrRepMTG/status/2122412003331539339>)  
-  First Microsoft. Then FAA ground stop. Now banks. People are asking what the hell is going on? Is it AI?  
-  @FmrRepMTG · 2026-11-17 03:30
-
-- [⚠️Just Now: Major US Banks Hit With Reports Of Service Disruptions Microsoft applications have down day on Thursday…](<https://x.com/JesseCohenInv/status/2122411580813914439>)  
-  I feel like I am being lied to…  
-  @JesseCohenInv · 2026-11-17 03:28
-
-- [$NVDA - JENSEN HUANG TRANSFERRED OVER $10 BILLION IN NVIDIA STOCK TO FAMILY TRUST BEFORE DOWNFALL Former Nvidia CEO…](<https://x.com/DeItaone/status/2122411464694604166>)  
-  $NVDA - JENSEN HUANG TRANSFERRED OVER $10 BILLION IN NVIDIA STOCK TO FAMILY TRUST BEFORE DOWNFALL Former Nvidia CEO Jensen Huang and his wife transferred nearly 60 million shares, worth over $10.5 billion, into an irrevocable family trust in March, according t…  
-  @DeItaone · 2026-11-17 03:28
-
-- [🚨 BREAKING \| Microsoft services have begun to go down.](<https://x.com/aleksthgrt/status/2122411074968539617>)  
-  @aleksthgrt · 2026-11-17 03:26
-
-- [First Microsoft Outlook.](<https://x.com/toddstarnes/status/2122409741204787497>)  
-  Then, the FAA outages. And now Americans are having issues accessing their bank accounts. Someone is sending the United States a message - that they can shut down our airspace, bank accounts and email accounts. The White House needs to explain to the  
-  @toddstarnes · 2026-11-17 03:21
-
-- [More sh-t's breaking.](<https://x.com/HealthRanger/status/2122409463944536409>)  
-  Chase bank is down. The Microsoft Outlook problem still persists for many users. Bank of America down. US Bank down. Wells Fargo down. Zelle is broken. Google is down for many users. Capital One is down. And as far as Windows goes, even when it's up, it's  
-  @HealthRanger · 2026-11-17 03:20
-
-- [In just the past week we’ve seen: -Microsoft outages -FAA air traffic outages -Workday outages -Major U.S. bank out…](<https://x.com/bennyjohnson/status/2122409096758563038>)  
-  In just the past week we’ve seen: -Microsoft outages -FAA air traffic outages -Workday outages -Major U.S. bank outages What is going on?  
-  @bennyjohnson · 2026-11-17 03:18
-
-- [The Nvidia board debacle, explained: Leave out the two founding directors from 1993, and 5 of the remaining 8 joine…](<https://x.com/JohnLeFevre/status/2122408778561880284>)  
-  The Nvidia board debacle, explained: Leave out the two founding directors from 1993, and 5 of the remaining 8 joined after 2017, the year the mandatory and 'voluntary' 😉😉 DEI rules kicked in...  
-  @JohnLeFevre · 2026-11-17 03:17
-
-- [Today we're open-sourcing HubEgo-100K: the most diverse egocentric dataset on 🤗 @huggingface. 100,000 hours of skil…](<https://x.com/hubdotxyz/status/2122408735897423962>)  
-  Free for research and commercial use 🧵  
-  @hubdotxyz · 2026-11-17 03:17
-
-- [SON DAKİKA \| Microsoft servisleri çökmeye başladı. ▬ Outlook'un ardından Microsoft 365'e de erişim problemleri yaşa…](<https://x.com/bosunatiklama/status/2122408633774608576>)  
-  SON DAKİKA \| Microsoft servisleri çökmeye başladı. ▬ Outlook'un ardından Microsoft 365'e de erişim problemleri yaşanıyor.  
-  @bosunatiklama · 2026-11-17 03:17
-
-- [A friend of mine who goes by “dirt” works at a digital security firm that collaborates with multiple U.S. governmen…](<https://x.com/al_fernandz/status/2122408430673551534>)  
-  He just told me his sources are linking the air-traffic communications incident, the Microsoft/digital infrastructure outages, and today’s banking  
-  @al\_fernandz · 2026-11-17 03:16
-
-- [The former Taco Bell CFO who helped roll out Crunchwrap Supremes and Doritos Locos Tacos is on the NVIDIA board tel…](<https://x.com/ginamilan_/status/2122408029077254437>)  
-  Let that sink in.  
-  @ginamilan\_ · 2026-11-17 03:14
-
-- [I’m not a conspiracy theorist.](<https://x.com/RichardLNewby3/status/2122407989621797269>)  
-  I don’t like to cause unnecessary alarm. But with the Microsoft Outlook shutdown, the flight shutdown, and now banking shutdowns…I am somewhat concerned about those mass outage rumors.  
-  @RichardLNewby3 · 2026-11-17 03:14
-
-- [BREAKING: California sues OpenAI, alleging it enabled at least 80 cyberattacks by rogue AI agents.](<https://x.com/PolymarketMoney/status/2122407649115336853>)  
-  @PolymarketMoney · 2026-11-17 03:13
-
-- [Microsoft Outlook went down for major corporations.](<https://x.com/DC_Draino/status/2122407552587600044>)  
-  Biggest FAA plane grounding since 9/11. Major banks shut down. All within a few days. We need to stop saying these are just “technical issues” and call them what they really are: Cyberattacks.  
-  @DC\_Draino · 2026-11-17 03:12
 
 [返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 34 页

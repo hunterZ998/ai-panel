@@ -2,6 +2,63 @@
 
 [返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 34 页
 
+- [Nvidia CEO Jensen Huang flew with Trump on Air Force One to China.](<https://x.com/CREWcrew/status/2122540253156118943>)  
+  Nvidia got the deal it wanted to sell chips to China. Meanwhile, as the value of Nvidia stock was rising, Trump personally held millions in their stocks. Yes, that's an ethics issue.  
+  @CREWcrew · 2026-11-17 12:00
+
+- [Esport game tournament \#GamerLife \#PixVerseTrend @PixVerse](<https://x.com/suggestpinit/status/2122538610851483832>)  
+  @suggestpinit · 2026-11-17 11:53
+
+- [🚨 NVIDIA's director of developer technology sent a warning letter to all 10 board members and Jensen Huang's \~60 di…](<https://x.com/ns123abc/status/2122537889468649664>)  
+  🚨 NVIDIA's director of developer technology sent a warning letter to all 10 board members and Jensen Huang's \~60 direct reports: &amp;gt;"Irreplaceable talent at Nvidia is now contemplating departing" &amp;gt;employees are now discussing a protest on campus NVIDIA is …  
+  @ns123abc · 2026-11-17 11:50
+
+- [Jensen Huang has now removed Nvidia CEO from his bio on X 😥](<https://x.com/StockMKTNewz/status/2122536438550180324>)  
+  @StockMKTNewz · 2026-11-17 11:44
+
+- [&amp;gt;playing world of warcraft &amp;gt;take a break to stretch &amp;gt;open tiktok &amp;gt;november 17th blackout &amp;gt;dirty bomb…](<https://x.com/serinide/status/2122536090812948485>)  
+  &amp;gt;playing world of warcraft &amp;gt;take a break to stretch &amp;gt;open tiktok &amp;gt;november 17th blackout &amp;gt;dirty bomb &amp;gt;banks are broken &amp;gt;flights are broken &amp;gt;microsoft is broken &amp;gt;keep playing world of warcraft  
+  @serinide · 2026-11-17 11:43
+
+- [The Nvidia laundering scheme is the biggest scandal since Iran Contra.](<https://x.com/RoguePOTUSStaff/status/2122535650155180222>)  
+  There is a lot of criminal liability in the White House over this.  
+  @RoguePOTUSStaff · 2026-11-17 11:41
+
+- [NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Deve…](<https://x.com/gigazine/status/2122534768654819473>)  
+  NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能  
+  @gigazine · 2026-11-17 11:38
+
+- [通义千问宣布 Qwen4-Max 上线 you.com Inference Router](<https://x.com/Alibaba_Qwen/status/2122534590611099749>)  
+  通义千问（Qwen）宣布 Qwen4-Max 已上线 you.com Inference Router。据 you.com 介绍，这是 Qwen4 系列首个模型，面向编码、办公和长程智能体任务，支持 1M token 上下文窗口，原生支持文本、图像和视频输入。试用入口：  
+  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-17 11:37
+
+- [BREAKING: Nvidia employees are reportedly weighing a “campus demonstration” in support of Jensen Huang.](<https://x.com/Polymarket/status/2122532570500042915>)  
+  @Polymarket · 2026-11-17 11:29
+
+- [达里奥·阿莫迪（Dario Amodei）谈开源模型： 智能不应该掌握在大众人群手中； 这比之前山姆·奥特曼讲的：人们不应…](<https://x.com/leo114119/status/2122528987335606713>)  
+  达里奥·阿莫迪（Dario Amodei）谈开源模型： 智能不应该掌握在大众人群手中； 这比之前山姆·奥特曼讲的：人们不应该拥有内存更恶劣 不管 anthropic 还是 OpenAI, 他们都想要垄断 AI 智能来控制全世界； 幸好中国有 Deepseek......  
+  @leo114119 · 2026-11-17 11:15
+
+- [For months, @SecScottBessent defended selling limited Nvidia chips to China as a way to preserve American technolog…](<https://x.com/NahasNewman/status/2122528698414825742>)  
+  He wanted American technology to remain the standard “across the world or even in China,” and dismissed national-security objections: “There are no  
+  @NahasNewman · 2026-11-17 11:14
+
+- [今後は、AIに新作のゲームを先に遊ばせるようになるかもしれません。](<https://x.com/ai_database/status/2122527687868903850>)  
+  「原神」開発元miHoYoが、"人間と同じように「画面を見て」「キーボードとマウスで」ゲームを遊べる"AIを開発したそうです。 たとえば、「崩壊:スターレイル」のサブクエストで、途中の課題の8割以上を達成しています。  
+  @ai\_database · 2026-11-17 11:10
+
+- [🚨 BREAKING: DHS Secretary Markwayne Mullin says a major tech insider believes AI could be responsible for the recen…](<https://x.com/RyanAFournier/status/2122526356567175340>)  
+  Microsoft. Airlines. Banks. ALL disrupted within days. Mullin says there’s NO evidence of coordinated cyberattacks. If AI is overwhelming  
+  @RyanAFournier · 2026-11-17 11:04
+
+- [OpenAI is being taken to court in Canada over alleged copyright violations.](<https://x.com/Pirat_Nation/status/2122525633922142326>)  
+  Five major news publishers accuse ChatGPT of using their articles without permission to train its AI. Canada has different copyright rules from the US., Canadian law has no specific exception allowing  
+  @Pirat\_Nation · 2026-11-17 11:02
+
+- [This Pax Silica Declaration puts the assassination strike on Nvidia CEO Jensen Huang into a clearer, larger context.](<https://x.com/Kathleen_Tyson_/status/2122525511234507036>)  
+  Israel is shaping control of AI as its best shot at global technological hegemony, just as Netanyahu declared. “Within this framework, Israel will play a central  
+  @Kathleen\_Tyson\_ · 2026-11-17 11:01
+
 - [人走茶凉。英伟达创始人黄仁勋的 X 账号，刚刚显示企业认证标识，已经被取消，同时老哥的简介从英伟达 CEO、创始人，变为仅…](<https://x.com/_FORAB/status/2122522528233251265>)  
   他简介内，个人的英伟达介绍页入口，也一同被删除。  
   @\_FORAB · 2026-11-17 10:49
@@ -117,65 +174,5 @@
 - [Falla en Microsoft Outlook.](<https://x.com/eduardomenoni/status/2122497706065306032>)  
   Falla a nivel nacional de la Aviación Federal. Falla en United Airlines y American Airlines. Falla en Chase Bank y varios bancos en EEUU. Esto no tiene nada de normal, Estados Unidos está bajo ataque. 🇺🇸  
   @eduardomenoni · 2026-11-17 09:11
-
-- [Hmmm… Big Banks are crumbling, Airplanes are stuck on the ground, Microsoft is having outages, but yeah Voting mach…](<https://x.com/MAGAVoice/status/2122497535210344567>)  
-  Hmmm… Big Banks are crumbling, Airplanes are stuck on the ground, Microsoft is having outages, but yeah Voting machines are working great Nothing to see with them  
-  @MAGAVoice · 2026-11-17 09:10
-
-- [Dario Amodei 在 Anthropic IPO 路演对 Jamie Dimon 谈其对文化的坚持](<https://x.com/rohanpaul_ai/status/2122496000510320659>)  
-  Rohan Paul 转发 Dario Amodei 在 Anthropic IPO 路演中对 JPMorgan CEO Jamie Dimon 谈公司文化的发言。Amodei 表示不要那些刻薄、抢戏不合群、不以公共利益为导向的人，坚持这一标准短期痛苦，但换来一个人人协作、立场一致的团队。完整视频…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 09:04
-
-- [UCLA与AWS：AI智能体解数学题靠捷径但思考耗时抵消收益](<https://x.com/rohanpaul_ai/status/2122494284658250151>)  
-  UCLA与AWS论文发现，AI智能体可识别多项式系统中的隐藏捷径来解难题，但思考时间常抵消捷径节省的时间。Claude Opus 5智能体在600秒内解出108个系统中的103个，而msolve仅解出60个，但在这60个中智能体仅12个更快。编译后的求解器在11.4小时搭建后比已知捷径基线快5.4…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 08:57
-
-- [Many people are just starting to learn how Jensen Huang ruled Nvidia—from his gnarly eviscerations of employees to…](<https://x.com/anissagardizy8/status/2122493529293475884>)  
-  A must-read with @HannaCritch @ByKLong @RWhelanWSJ for @WSJ  
-  @anissagardizy8 · 2026-11-17 08:54
-
-- [Anthropic hasn't realized it yet or maybe doesn't have a choice at this point, but destroying Jensen Huang also des…](<https://x.com/FinanceLancelot/status/2122493078540099748>)  
-  In hindsight, this IPO may be seen as what popped AI bubble valuations. $ANT IPOs on Thursday November 19, 2026.  
-  @FinanceLancelot · 2026-11-17 08:52
-
-- [BREAKING: NVIDIA increased its SpaceX stake by 6.3% to 130.5 million shares.](<https://x.com/cb_doge/status/2122492118379933721>)  
-  Its latest SEC filing shows: • SpaceX became NVIDIA’s largest reported stock holding by value. • 7.7 million additional SpaceX Class A shares in Q3. • A SpaceX stake valued at $19.68 billion as  
-  @cb\_doge · 2026-11-17 08:48
-
-- [Perplexity CEO 认为 AI 自动化科研是最值得投入的算力方向](<https://x.com/AravSrinivas/status/2122490397113131027>)  
-  Perplexity CEO Aravind Srinivas 转发并评论称，用于自动化科学研究的 AI 是最值得投入的算力方向。其引用的 NVIDIA 在 \#SC26 上发布的 Nemotron for Science 包含开源模型、数据集、工具和后训练配方，帮助研究者构建能规划任务、运行模拟、…  
-  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-17 08:41
-
-- [¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial a…](<https://x.com/ElBadiablo/status/2122490194972541341>)  
-  ¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial aceleró la ingeniería inversa y el descubrimiento de fallos de seguridad \(zero-day exploits\). 👇 \#Ciberseguridad \#InteligenciaArtificial \#Microsoft…  
-  @ElBadiablo · 2026-11-17 08:41
-
-- [Vance: The Democrats are using this salacious story about Jensen Huang and this mistress, and trying to effectively…](<https://x.com/Acyn/status/2122490020724678698>)  
-  Ingraham: So you’re not concerned a third party country has gotten that technology from Nvidia and  
-  @Acyn · 2026-11-17 08:40
-
-- [Claude Code 支持 iPhone Duo 模拟器](<https://x.com/adocomplete/status/2122489426370802103>)  
-  Claude Code 🤝 iPhone Duo  
-  X：Ado Kukic（Anthropic 开发者关系，Claude Code） \(@adocomplete\) · 2026-11-17 08:38
-
-- [El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Esta…](<https://x.com/meganoticiascl/status/2122489079807775148>)  
-  El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Estado, capacitar a funcionarios y mejorar la atención a las personas.  
-  @meganoticiascl · 2026-11-17 08:36
-
-- [Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason…](<https://x.com/maddenifico/status/2122487642952532409>)  
-  Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason behind Trump's praise becomes clear: "No, he's done a very good job." Approximately a year ago, U.S. intelligence briefed Trump that an alleged …  
-  @maddenifico · 2026-11-17 08:31
-
-- [Microsoft crashed.](<https://x.com/AntiTrumpCanada/status/2122487614041108689>)  
-  America’s air traffic system collapsed. Now the banks are having a meltdown. Somewhere, a third-world country is looking at America and thinking, “Jesus Christ, get your shit together.”  
-  @AntiTrumpCanada · 2026-11-17 08:30
-
-- [🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨 He could raise tens…](<https://x.com/vip92226041/status/2122486275131560222>)  
-  With the relationships he's built over decades, he could easily  
-  @vip92226041 · 2026-11-17 08:25
-
-- [Microsoft, Chase, Wells Fargo, United Airlines, and the FAA all went down in the last few days.](<https://x.com/AustinConserve/status/2122486174740512823>)  
-  But our voting machines are “impossible” to hack… We need a massive audit. Start in Texas.  
-  @AustinConserve · 2026-11-17 08:25
 
 [返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 34 页

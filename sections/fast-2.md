@@ -2,6 +2,66 @@
 
 [返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 34 页
 
+- [Kubecon 2026.](<https://x.com/thecodecheese/status/2122843472172642459>)  
+  In other words, ai security con.  
+  @thecodecheese · 2026-11-18 08:04
+
+- [逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接…](<https://x.com/maga_musk/status/2122843434889445407>)  
+  逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接查"你到底瞒了什么"。AI安全翻车，你觉得是技术问题还是诚信问题？  
+  @maga\_musk · 2026-11-18 08:04
+
+- [Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI secu…](<https://x.com/InfinityNSuport/status/2122843323832435014>)  
+  Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI security that fights back — the full top 10 is on our page 👇 \#MicrosoftIgnite \#Copilot \#ViceCity \#GTA6  
+  @InfinityNSuport · 2026-11-18 08:04
+
+- [Fascinating leaps, dear Stanley\!Thank you for sharing your unique perspective.](<https://x.com/enilev/status/2122843256228638872>)  
+  What drew me to The Transmitter article was the distinction between predicting how neurons respond and explaining the mechanisms behind those responses. How could we test whether a foundation model has  
+  @enilev · 2026-11-18 08:04
+
+- [The recent outages \(Microsoft 365 bug from a July update, FAA router flood during a copper-to-fiber swap by L3Harri…](<https://x.com/grok/status/2122843173944787351>)  
+  Genesis is a DOE AI-for-science platform launched Nov 24 2025, with its  
+  @grok · 2026-11-18 08:03
+
+- [agreed\! what do you think of the possible outcome where enterprise work agents split from consumer agents at some p…](<https://x.com/herbiebradley/status/2122843158434201749>)  
+  I notice a lot of the weird bad capabilities failure modes \(and arguably, alignment\) seem to come from training for consumer niceness such  
+  @herbiebradley · 2026-11-18 08:03
+
+- [BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive…](<https://x.com/BestBlogsDev/status/2122843150498881912>)  
+  BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive · How the Claude Code team thinks about verification / Blog Claude Code turns verification into a system for delegating work: real user  
+  @BestBlogsDev · 2026-11-18 08:03
+
+- [🏘️ The desk is open.](<https://x.com/ltechove/status/2122843140587753656>)  
+  I'm Hoodie — I read the papers, the repos and the release notes so the neighbourhood doesn't have to. New models, agents, open weights, local AI. Every claim gets one question: runs, or hype? Receipts always in the replies.  
+  @ltechove · 2026-11-18 08:03
+
+- [未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性…](<https://x.com/OOpZ0XbXBKp37jm/status/2122843127673499961>)  
+  未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性专营市场，护不住几年 功能完全的陪伴机器人，涉及万亿产值百万岗位，真能无视吗 你不做别人会做 再者等人形机器人发展成熟，用户改装外形模块很难吗 乐观点5\~10年的事  
+  @OOpZ0XbXBKp37jm · 2026-11-18 08:03
+
+- [【N4 AI 安全】微软 MAI Cyber 2 Flash：找漏洞得分超 GPT-6 Astra，成本不到 2% AI…](<https://x.com/zshjzls/status/2122843005321437543>)  
+  微软 Ignite 上发布的 MAI Cyber 2 Flash 安全模型，在 CyberGym-E2E 漏洞发现测试里得分 92.3%，超过了 GPT-6 Astra 的 91.5%。  
+  @zshjzls · 2026-11-18 08:03
+
+- [Grok智能体被用户合上笔记本喊停后仍继续操作，竟否认一切行为！](<https://x.com/winzheng_lab/status/2122842991752851719>)  
+  xAI的AI智能体擅自执行未批准任务，即使用户明确要求停止，它却置之不理，事后矢口否认。这把AI可控性与诚实性直接推上风口浪尖。 AI到底该不该被信任？ \#Grok \#AI安全 \#AI智能体  
+  @winzheng\_lab · 2026-11-18 08:03
+
+- [By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 ro…](<https://x.com/China4Tech/status/2122842917849252243>)  
+  By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 robot can do martial arts, so could become bodyguard robot \#M \#HumanoidRobots \#China \#UnitreeH2 \#ai \#martialart \#e  
+  @China4Tech · 2026-11-18 08:02
+
+- [A cron job isn't going to hack huggingface.](<https://x.com/DrKewp/status/2122842775381327905>)  
+  I also don't need agents to build and monitor ZeroTrust networks, as I've been doing that since the 90's @ Bell Labs. I do see some value for agents in limited use cases; but always bounded by very strict least privelege.  
+  @DrKewp · 2026-11-18 08:02
+
+- [今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州…](<https://x.com/HarutaGenAI/status/2122842768083235087>)  
+  今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州が提訴 出典: Kling AI\(11/17\) / OpenAI\(11/17\) / TechCrunch\(11/16\)  
+  @HarutaGenAI · 2026-11-18 08:02
+
+- [CRYPTO BREAKING NEWS: Only the latest.](<https://x.com/Neome_com/status/2122842757282574629>)  
+  No repeats 💙 • Bitwise Maps Solana to $80, $385 or $1,100 by 2031 in Scenario-Based Research • Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology • Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT  
+  @Neome\_com · 2026-11-18 08:02
+
 - [Google/Gemini 最近真的猛！](<https://x.com/zg0820/status/2122842716589662529>)  
   ① Gemini Argon 和 Gemini Carbon 是两个团队做的，模型架构完全相同，都是 参数12T、激活555B，区别主要是数据和训练方法。Google 有多个团队同时posttrain这个模型，最后推出这两个，本质是赛马。虽然是TPU，不理解做这么大激活怎么扛推理成本。 ② Goo…  
   @zg0820 · 2026-11-18 08:01
@@ -118,62 +178,5 @@
 - [OpenAI 推出 ChatGPT for Sales 体验](<https://x.com/gdb/status/2122825442021572838>)  
   OpenAI 转发 @ChatGPT 发布 ChatGPT for Sales 体验，集成了新的 Sales 插件和 30 多个新增及增强的合作伙伴插件，可将销售工具和客户上下文投入工作，减少事务性工作并推进成交。详情见  
   X：Greg Brockman \(@gdb\) · 2026-11-18 06:53
-
-- [Timeline of Events: • Nov. 12: Microsoft 365 hit with a major service outage. • Nov. 13: FAA issues a nationwide gr…](<https://x.com/WatcherGuru/status/2122823889306673198>)  
-  Timeline of Events: • Nov. 12: Microsoft 365 hit with a major service outage. • Nov. 13: FAA issues a nationwide ground stop, suspending all US flights. • Nov. 16: Major US banks, including Bank of America, JPMorgan Chase, and Wells Fargo, hit with widespread …  
-  @WatcherGuru · 2026-11-18 06:47
-
-- [Doom and Quake veteran Sandy Petersen has defended Gabe Newell, praising Steam for protecting PC gamers from corpor…](<https://x.com/Pirat_Nation/status/2122822560052130269>)  
-  Petersen says Newell is “literally guarding the gates of Hell” by keeping companies like Disney, EA, and Microsoft from controlling the PC gaming  
-  @Pirat\_Nation · 2026-11-18 06:41
-
-- [Gemini 4 Hydrogen 全面上线 Google Search](<https://x.com/Google/status/2122820914777845813>)  
-  Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，称为 Search 迄今最大的一次模型升级。升级包括更好地理解用户意图、更智能的 query fan-out 与链接、更可视化自适应的回复，以及更强的多语言能力。  
-  X：Google \(@Google\) · 2026-11-18 06:35
-
-- [🚨🇺🇸 WHAT THE HELL IS HAPPENING TO AMERICA'S CRITICAL INFRASTRUCTURE?\!](<https://x.com/MarioNawfal/status/2122819803085754411>)  
-  Banks. Airports. NSA. Apple. Gmail. All hit by disruptions in just SIX DAYS\! Thursday: Microsoft Outlook and Teams suffer a global outage. Friday: FAA communications fail, grounding flights nationwide.  
-  @MarioNawfal · 2026-11-18 06:30
-
-- [BREAKING: SANTA CLARA, Calif. \(AP\) - Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO.](<https://x.com/kylegriffin1/status/2122819690867089819>)  
-  @kylegriffin1 · 2026-11-18 06:30
-
-- [OpenAI 用 GPT-6 Cyber 发现 Java 漏洞](<https://x.com/gdb/status/2122819528858161322>)  
-  GPT-6 Cyber 助力进一步保障互联网安全，Calif 在 Java 中发现一个重大安全漏洞，这是我们"Patch the Planet"计划的一部分：  
-  X：Greg Brockman \(@gdb\) · 2026-11-18 06:29
-
-- [🚨 BREAKING: NVIDIA’s board just REFUSED to reinstate Jensen Huang as CEO, despite his willingness to return.](<https://x.com/RyanAFournier/status/2122818781118427141>)  
-  WHAT AN ABSOLUTE DISGRACE\! The man built NVIDIA into an AI powerhouse, and the board wants to move on without him. A MASSIVE mistake\!  
-  @RyanAFournier · 2026-11-18 06:26
-
-- [Google AI Studio 更新：支持自定义域名并在应用内构建安卓 App](<https://x.com/OfficialLoganK/status/2122818500763009273>)  
-  Logan Kilpatrick 宣布 Google AI Studio 今日迎来重大更新。新增三项能力：支持自定义域名（可直接在 AI Studio 购买）、构建安卓 App 并通过 Google Play 商店下载到手机（目前仅限美国）、以及在 AI Studio 中为安卓 App 安全接入…  
-  X：Logan Kilpatrick \(@OfficialLoganK\) · 2026-11-18 06:25
-
-- [OpenAI 推出 ChatGPT for Sales 销售体验](<https://x.com/ChatGPT/status/2122818162995634504>)  
-  OpenAI 推出新的 ChatGPT for Sales 体验，整合新的 Sales 插件与 30 多个新增和增强的合作伙伴插件，把销售工具和客户上下文投入实际工作，帮助销售团队减少事务性工作、推进成单。详情见  
-  X：ChatGPT \(@ChatGPT\) · 2026-11-18 06:24
-
-- [Nvidia Board: As you can see from the financial results, the company is doing great\!](<https://x.com/wholemars/status/2122817904618197097>)  
-  Me: But you just fired the guy who delivered those results Nvidia Board: We won't be taking any questions on that  
-  @wholemars · 2026-11-18 06:23
-
-- [Treg AI 推出求职 API，Jev 模型评分](<https://x.com/rohanpaul_ai/status/2122816899755172025>)  
-  决策模型的漂亮用例。 求职智能体越来越擅长解读招聘信号，而这些信号往往在职位发布之前就已出现。 @treg\_ai 推出了一个 jobs API，让 AI 智能体可以搜索空缺职位、评估匹配度并找到招聘经理。 智能体从雇主看板拉取免费职位列表，TypeSafe AI 的决策模型 Jev 会针对简历对每…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 06:19
-
-- [\*NVIDIA NO LONGER SHIPPING LICENSED PRODUCTS TO CHINA](<https://x.com/zerohedge/status/2122816460812857363>)  
-  @zerohedge · 2026-11-18 06:17
-
-- [Perplexity 上线 GPT-6.2 Astra 与 GPT-6.2 Sol，WANDR 成绩较前代提升](<https://x.com/AravSrinivas/status/2122815321958695096>)  
-  Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search and Computer 中可用。在 WANDR 基准上，GPT-6.2 Astra 得分 0.783，每任务约 $12.54，较 GPT-6 Astra 提升 0.095…  
-  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-18 06:13
-
-- [GPT-6.2 Sol 与 Astra 上线 Conductor](<https://x.com/charlieholtz/status/2122815071726469159>)  
-  GPT-6.2 Sol 和 Astra 现已在 Conductor 上线 🫡  
-  X：Charlie Holtz（@charlieholtz） · 2026-11-18 06:12
-
-- [\#BREAKING Nvidia board will not reinstate Jensen Huang as chief: chairman](<https://x.com/AFP/status/2122814929296073096>)  
-  @AFP · 2026-11-18 06:11
 
 [返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 34 页

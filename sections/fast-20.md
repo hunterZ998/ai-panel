@@ -2,6 +2,61 @@
 
 [返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 34 页
 
+- [HAPPENING NOW: Multiple Bank and Microsoft users report outages.](<https://x.com/NewsBlast17/status/2122393534984761683>)  
+  @NewsBlast17 · 2026-11-17 02:17
+
+- [Looking for some great ideas for how to “persuade” the Nvidia board to bring Jensen back… Creative, wild ideas welc…](<https://x.com/travisk/status/2122393157988167857>)  
+  Looking for some great ideas for how to “persuade” the Nvidia board to bring Jensen back… Creative, wild ideas welcome… \#bringJensenBack  
+  @travisk · 2026-11-17 02:15
+
+- [Hugging Face 与 OpenRouter 打通开放模型生态](<https://x.com/ClementDelangue/status/2122392943957078032>)  
+  Hugging Face 与 OpenRouter 合作首部分上线，双方打通存储、协作与推理：用户可在 Hugging Face 上直接调用 OpenRouter 推理，也能从 OpenRouter 直接获取开放模型权重。OpenRouter 的智能体轨迹可存到 Hugging Face，用于检查…  
+  X：Clément Delangue（Hugging Face CEO） \(@ClementDelangue\) · 2026-11-17 02:14
+
+- [Depois do "milagre eleitoral do pilili pilili" O Brasil já é compreendido pelo ocidente como proxi oficial da China.](<https://x.com/BanhadoRatao/status/2122392722845962499>)  
+  E junto dela ficamos de fora do acesso as tecnologias mais importantes do mundo. Os Chips da NVidia são o petróleo do século XXI, e para manter o PT e o Moraes  
+  @BanhadoRatao · 2026-11-17 02:13
+
+- [BREAKING: Nvidia board is not considering bringing ex-CEO Jensen Huang back, source familiar tells @EdwardLawrence](<https://x.com/FoxNews/status/2122392520483352858>)  
+  @FoxNews · 2026-11-17 02:13
+
+- [Hugging Face 开源模型现可通过 OpenRouter 调用](<https://x.com/OpenRouter/status/2122392434198131005>)  
+  OpenRouter 宣布 Hugging Face 上的开源模型现可通过 OpenRouter 运行。每个请求会路由到该模型价格、速度和可用性最优的提供商，并支持自动故障转移，全部使用同一 Hugging Face token 和 API。用户还可用 Broadcast 把请求 trace 发送…  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-17 02:12
+
+- [Breaking: Nvidia shareholders seriously considering firing the board.](<https://x.com/nymbusjp/status/2122391636579893735>)  
+  @nymbusjp · 2026-11-17 02:09
+
+- [BREAKING: The Nasdaq 100 extends losses to -2.3% on the day amid reports that Nvidia’s board is not considering rei…](<https://x.com/KobeissiLetter/status/2122391449031585886>)  
+  BREAKING: The Nasdaq 100 extends losses to -2.3% on the day amid reports that Nvidia’s board is not considering reinstating Jensen Huang as CEO.  
+  @KobeissiLetter · 2026-11-17 02:08
+
+- [🚨🇺🇸 Nvidia's board apparently has ZERO interest in bringing Jensen Huang back.](<https://x.com/MarioNawfal/status/2122390834494545957>)  
+  Seriously? The man spent 33 YEARS building Nvidia into the company at the center of the AI revolution, and now the board won't even DISCUSS his return, according to CNBC. More than 180,000 people  
+  @MarioNawfal · 2026-11-17 02:06
+
+- [JUST IN: Nvidia $NVDA crashes another 4% following reports that Jensen Huang will not be reinstated as CEO.](<https://x.com/WatcherGuru/status/2122389975031296321>)  
+  @WatcherGuru · 2026-11-17 02:02
+
+- [Jensen Huang allegedly told one of Nvidia’s top executives he hoped he would die, per the New York Post.](<https://x.com/unusual_whales/status/2122388479623500150>)  
+  At a February meeting with more than 30 executives, Huang allegedly turned on Jay Puri, then head of worldwide sales: “I hope you get the flu and I hope it gets worse,” he  
+  @unusual\_whales · 2026-11-17 01:57
+
+- [It wasn't a dream Members of Congress legitimately sold Nvidia stock right before it collapsed \~32% Thought we'd re…](<https://x.com/tradewithcong/status/2122388126433763331>)  
+  It wasn't a dream Members of Congress legitimately sold Nvidia stock right before it collapsed \~32% Thought we'd remind you  
+  @tradewithcong · 2026-11-17 01:55
+
+- [Nvidia’s board of directors is not considering bringing back Jensen Huang as CEO, a person familiar with the matter…](<https://x.com/CNBC/status/2122387348147028045>)  
+  The board is focused on a national security investigation into Huang, and is not in discussions to bring him back, the person said. Last week, Huang  
+  @CNBC · 2026-11-17 01:52
+
+- [Breaking news: Nvidia’s board is not considering bringing back Jensen Huang as the company’s chief executive, despi…](<https://x.com/FT/status/2122387114562126146>)  
+  Breaking news: Nvidia’s board is not considering bringing back Jensen Huang as the company’s chief executive, despite calls from some leading tech figures for him to be reinstated after he was ousted over an infidelity scandal.  
+  @FT · 2026-11-17 01:51
+
+- [NVIDIA BOARD NOT CONSIDERING BRINGING JENSEN HUANG BACK AS CEO - CNBC CITING SOURCE](<https://x.com/DeItaone/status/2122386378625314858>)  
+  @DeItaone · 2026-11-17 01:48
+
 - [BREAKING: Nvidia’s board is not considering bringing Jensen Huang back as CEO despite a petition backed by Silicon…](<https://x.com/Polymarket/status/2122386187625304456>)  
   BREAKING: Nvidia’s board is not considering bringing Jensen Huang back as CEO despite a petition backed by Silicon Valley tech leaders. — CNBC  
   @Polymarket · 2026-11-17 01:47
@@ -117,63 +172,5 @@
 - [🇺🇸 \| AHORA: El presidente Trump dice que apoyaría traer de vuelta a Jensen Huang como CEO de Nvidia, sugiriendo que…](<https://x.com/AlertaNews24/status/2122374928867758347>)  
   🇺🇸 \| AHORA: El presidente Trump dice que apoyaría traer de vuelta a Jensen Huang como CEO de Nvidia, sugiriendo que Huang ha aprendido una lección importante.  
   @AlertaNews24 · 2026-11-17 01:03
-
-- [This is the reality of the Jensen Huang situation: it's pure, unadulterated greed with absolutely no regard for Ame…](<https://x.com/maddenifico/status/2122373838130339848>)  
-  The tech bros sucking up to Huang just to protect their own Nvidia bags have completely lost their fucking minds. Trump, Howard Lutnick,  
-  @maddenifico · 2026-11-17 00:58
-
-- [Uh.](<https://x.com/jimstewartson/status/2122371899800142028>)  
-  Holy shit. The conspiracy to smuggle Nvidia chips to China had a full psyops campaign behind it. When “Diamond and Silk” are promoting your Chinese chip sales… This whole thing needs to be uncovered. Who paid this firm? Was it Nvidia? The government? They all …  
-  @jimstewartson · 2026-11-17 00:51
-
-- [Trump reported trades this year that suggest he held between $13 million and $62 million in Nvidia stock as of the…](<https://x.com/John_Hudson/status/2122371493317185982>)  
-  The figure is dramatically higher than the $615,000 to $1.3 million in Nvidia shares that Trump had at the end of 2024  
-  @John\_Hudson · 2026-11-17 00:49
-
-- [Nvidia is the tip of the iceberg.](<https://x.com/mikepompeo/status/2122371432772403427>)  
-  How many hundreds of American businesses and government institutions have been infiltrated by CCP spies? We owe it to the American people to raise awareness of this risk and do everything necessary to counter it.  
-  @mikepompeo · 2026-11-17 00:49
-
-- [OpenAI 启动首轮嵌入式评估，邀请外部专家审查模型安全](<https://x.com/gdb/status/2122371202169905639>)  
-  OpenAI 宣布启动首轮嵌入式评估（embedded assessments），与 Apollo Research、METR、TransluceAI 和 GoodfireAI 合作，让外部专家深入接触其内部模型与系统，调查对齐问题并测试安全防护措施。Greg Brockman 转发了这一公告，评…  
-  X：Greg Brockman \(@gdb\) · 2026-11-17 00:48
-
-- [Silicon Valley leaders back call for Jensen Huang's return to Nvidia](<https://x.com/Reuters/status/2122370410826080711>)  
-  @Reuters · 2026-11-17 00:45
-
-- [Fuck it make him NVIDIA ceo too](<https://x.com/esjesjesj/status/2122370370447544710>)  
-  @esjesjesj · 2026-11-17 00:45
-
-- [From every angle.](<https://x.com/AstonMartinF1/status/2122370155598782729>)  
-  See more of our \#LasVegasGP livery with @CoreWeave.  
-  @AstonMartinF1 · 2026-11-17 00:44
-
-- [Ashton Kutcher after his $435m investment in Anthropic will be $7B at IPO \(15x\) and his $30m early check into OpenA…](<https://x.com/TrungTPhan/status/2122369601095016887>)  
-  Ashton Kutcher after his $435m investment in Anthropic will be $7B at IPO \(15x\) and his $30m early check into OpenAI now worth $1.2B+ \(40x\)  
-  @TrungTPhan · 2026-11-17 00:41
-
-- [What a strange week for @JensenHuang and @nvidia.](<https://x.com/PavloMolchanov/status/2122368161785999739>)  
-  It all feels orchestrated and targeted, and I hope we get to the bottom of it. I’ve been at NVIDIA for 12.5 years, started as an intern and made it to Research Director thanks to incredible colleagues and especially Research  
-  @PavloMolchanov · 2026-11-17 00:36
-
-- [AlphaProof 用 AI 验证 Signal 加密代码](<https://x.com/GoogleDeepMind/status/2122366994708124098>)  
-  🔘 它驱动 AlphaProof Code 智能体，在数周而非数年内从数学上证明了 @Signalapp 加密代码的安全性。 🔘 直接从实验室笔记本和原始数据中发现了细微的湿实验错误和数据异常。 🔘 在大型数据库中找到了 40 倍多的相关蛋白质序列，以帮助建模难以预测的蛋白质。  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-17 00:31
-
-- [Google 展示用 Gemini 4 Hydrogen 生成的视觉 ASMR 视频](<https://x.com/Google/status/2122366286659289502>)  
-  Google 发布一段用 Gemini 4 Hydrogen 在 Gemini App 中生成的视觉 ASMR 演示视频。Gemini 4 Hydrogen 已向所有人开放，用户可在 Gemini App、Google Search、Google AI Studio 等入口使用。  
-  X：Google \(@Google\) · 2026-11-17 00:28
-
-- [Fuck, this is absolutely insane.](<https://x.com/Mohiniuni/status/2122364321036468682>)  
-  Dario Amodei, CEO of Anthropic, was asked what a young person who has just finished high school should do today. His answer: «AI already knows how to do a junior lawyer’s job. A junior financial analyst’s. A junior consultant’s. We can’t deny  
-  @Mohiniuni · 2026-11-17 00:21
-
-- [Gemini 4 Hydrogen 了解更多](<https://x.com/Google/status/2122362271426916496>)  
-  了解更多关于 Gemini 4 Hydrogen 的信息 ↓  
-  X：Google \(@Google\) · 2026-11-17 00:12
-
-- [$NVDA ANNOUNCES QUANTUM COMPUTING BREAKTHROUGH Nvidia says its new CUDA-Q algorithm delivers up to 13,000x faster d…](<https://x.com/wallstengine/status/2122362083140637157>)  
-  Alongside the breakthrough, Nvidia announced a  
-  @wallstengine · 2026-11-17 00:12
 
 [返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 34 页

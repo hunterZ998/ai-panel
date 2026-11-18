@@ -2,6 +2,64 @@
 
 [返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 34 页
 
+- [Trump let the cat out of the bag today.](<https://x.com/cirnosad/status/2122586039592325394>)  
+  Marco Rubio did a hatchet job on Jensen Huang. Also yesterday, the Judeosatanic beast launched "Pax Siliconea" \(Judea\) in San Francisco, near the heart of silicon valley. The animals can't get enough power their end is nearing.  
+  @cirnosad · 2026-11-17 15:02
+
+- [There wasnt a problem with youth unemployment until we started paying them and their parents benefits for thinking…](<https://x.com/BurnsideWasTosh/status/2122584827643699431>)  
+  This really doesnt need a report: cut benefits decrease costs of employment.  
+  @BurnsideWasTosh · 2026-11-17 14:57
+
+- [说个暴论，听完 Anthropic 掌门人达里奥阿莫迪对开源模型的这番最新炮轰，你才会彻底看清硅谷闭源巨头那副为了人类安全…](<https://x.com/AYi_AInotes/status/2122583442382577932>)  
+  说个暴论，听完 Anthropic 掌门人达里奥阿莫迪对开源模型的这番最新炮轰，你才会彻底看清硅谷闭源巨头那副为了人类安全的面具底下，藏着怎样一颗想要垄断全球智能的野心，  
+  @AYi\_AInotes · 2026-11-17 14:51
+
+- [兄弟们，整理了 20 个功能离谱 好用到爆的 AI 网站！！！](<https://x.com/wuyi_ai/status/2122581501430669623>)  
+  先收藏，下次用得上👇 1. — 免费无限生图，质量逼近 Midjourney 2. — 实时生图，边画边出 3. — AI 无限放大图片，细节自动补 4. —  
+  @wuyi\_ai · 2026-11-17 14:44
+
+- [Jensen Huang choosing his assistant after returning to Nvidia. 😂](<https://x.com/kiaraffzc/status/2122580669037764703>)  
+  @kiaraffzc · 2026-11-17 14:40
+
+- [大模型安全圈的桌子要被彻底掀翻了！](<https://x.com/mingzi206/status/2122577368191549810>)  
+  别再去到处跪求别人施舍无审查模型了，GitHub 杀出一个逆天级的开源核武器：p-e-w/heretic 它的定位极其凶残暴力：  
+  @mingzi206 · 2026-11-17 14:27
+
+- [𝟮𝟬𝟮𝟲 𝘾𝙃𝙀𝙀𝙍𝙄𝙉𝙂 𝙆𝙄𝙏 𝙛𝙤𝙧 𝙔𝙊𝙐𝙉𝙂 𝙆 데이식스 영케이 우치와/슬로건 \(c\) snowflake 🩵클콘 전 택배수령 \~ 11/30 \#RT 추첨 두 분께 원하는 버전의 슬로건을 드립니다. \#영케이…](<https://x.com/Snowflake_yk/status/2122573964924846238>)  
+  𝟮𝟬𝟮𝟲 𝘾𝙃𝙀𝙀𝙍𝙄𝙉𝙂 𝙆𝙄𝙏 𝙛𝙤𝙧 𝙔𝙊𝙐𝙉𝙂 𝙆 데이식스 영케이 우치와/슬로건 \(c\) snowflake 🩵클콘 전 택배수령 \~ 11/30 \#RT 추첨 두 분께 원하는 버전의 슬로건을 드립니다. \#영케이 \#YoungK \#데이식스 \#DAY6  
+  @Snowflake\_yk · 2026-11-17 14:14
+
+- [OVH annonce Olala mini 7A1B OVH sa première famille de LLM.](<https://x.com/olesovhcom/status/2122573582911869173>)  
+  Premier représentant de cette famille, Olala mini 7A1B est un modèle compact bâti sur une architecture inédite. Olala : le modèle innovant dans l’attention hybride Olala mini repose sur une architecture de 7  
+  @olesovhcom · 2026-11-17 14:12
+
+- [Bro, WTF is actually going on? 😭 they legit tarnished Jensen Huang's reputation without any confirmation 💀 the U.S.…](<https://x.com/vishalsingh2972/status/2122572599280676976>)  
+  And there's still ZERO evidence presented to  
+  @vishalsingh2972 · 2026-11-17 14:08
+
+- [BREAKING🇨🇳🇺🇸🇷🇺🇮🇷: China, Russia, and Iran have completely replaced Microsoft, AWS, and other Western operating syst…](<https://x.com/rkmtimes/status/2122570430066422130>)  
+  BREAKING🇨🇳🇺🇸🇷🇺🇮🇷: China, Russia, and Iran have completely replaced Microsoft, AWS, and other Western operating systems and enterprise clouds with Alibaba and Kylin OS \(Linux\) to protect their airlines, banks, and financial sectors from outages.  
+  @rkmtimes · 2026-11-17 14:00
+
+- [🦔A bank just paid about $45 million to walk away from one of the giant Stargate AI data centers.](<https://x.com/HedgieMarkets/status/2122570042592084015>)  
+  HSBC sold its $300 million piece of the New Mexico project’s loan for roughly 85 cents on the dollar. Oracle, the company that’s supposed to rent the place, had already warned it may  
+  @HedgieMarkets · 2026-11-17 13:58
+
+- [I’ve decided to support Jensen Huang even harder](<https://x.com/passcoderonald/status/2122568685604753712>)  
+  @passcoderonald · 2026-11-17 13:53
+
+- [卧槽，美媒刚爆出来的硅谷顶级大瓜，简直把我看傻了 《华盛顿自由灯塔》查工商注册文件发现，Anthropic的网络安全研究员…](<https://x.com/taketokennn/status/2122567229749239818>)  
+  这公司专门组织所谓的“无视拒绝（CNC）群交派对”。  
+  @taketokennn · 2026-11-17 13:47
+
+- [🚨 七哥：习中共现在是焦头烂额，黄仁勋事件之后，大家发现攻击与中共勾兑的人，中共拦不住🧨🧨🧨 习没了之后不可能再出一个人说…](<https://x.com/tchigtvnews/status/2122565202512376203>)  
+  🚨 七哥：习中共现在是焦头烂额，黄仁勋事件之后，大家发现攻击与中共勾兑的人，中共拦不住🧨🧨🧨 习没了之后不可能再出一个人说了算的局面，结果就是革命、混战，会短时间的混乱‼️‼️‼️ 人人自危，所以中共国的钱和人都外流，中共真的会脆断，会很惨🔔🔔🔔 \#中共不等于中国人  
+  @tchigtvnews · 2026-11-17 13:39
+
+- [Jensen Huang once held the door for me when I was still meters away, coercing me into a brief sprint so as to not b…](<https://x.com/chrisoffner3d/status/2122564959414726879>)  
+  Jensen Huang once held the door for me when I was still meters away, coercing me into a brief sprint so as to not be impolite.  
+  @chrisoffner3d · 2026-11-17 13:38
+
 - [🚨 BREAKING: Jensen Huang is reportedly considering starting a brand-new chip company. 🚨 Meanwhile, the Financial Ti…](<https://x.com/Derek__Whitmore/status/2122562416114634959>)  
   He could raise tens of billions on day one, keep full control as founder, and move  
   @Derek\_\_Whitmore · 2026-11-17 13:28
@@ -113,62 +171,5 @@
 - [The "Sovereign Indian AI" playbook: ​1.](<https://x.com/karansingh010/status/2122540274807341552>)  
   Get picked by the govt as India's chosen frontier lab ​2. Collect GPU subsidies \(sponsored by taxpayers\) ​3. Raise Millions \(234\) at a Billion valuation \(1.5\) ​4. Launch a LLM inference service \(Token Factory\) that mostly serves Chinese  
   @karansingh010 · 2026-11-17 12:00
-
-- [Nvidia CEO Jensen Huang flew with Trump on Air Force One to China.](<https://x.com/CREWcrew/status/2122540253156118943>)  
-  Nvidia got the deal it wanted to sell chips to China. Meanwhile, as the value of Nvidia stock was rising, Trump personally held millions in their stocks. Yes, that's an ethics issue.  
-  @CREWcrew · 2026-11-17 12:00
-
-- [Esport game tournament \#GamerLife \#PixVerseTrend @PixVerse](<https://x.com/suggestpinit/status/2122538610851483832>)  
-  @suggestpinit · 2026-11-17 11:53
-
-- [🚨 NVIDIA's director of developer technology sent a warning letter to all 10 board members and Jensen Huang's \~60 di…](<https://x.com/ns123abc/status/2122537889468649664>)  
-  🚨 NVIDIA's director of developer technology sent a warning letter to all 10 board members and Jensen Huang's \~60 direct reports: &amp;gt;"Irreplaceable talent at Nvidia is now contemplating departing" &amp;gt;employees are now discussing a protest on campus NVIDIA is …  
-  @ns123abc · 2026-11-17 11:50
-
-- [Jensen Huang has now removed Nvidia CEO from his bio on X 😥](<https://x.com/StockMKTNewz/status/2122536438550180324>)  
-  @StockMKTNewz · 2026-11-17 11:44
-
-- [&amp;gt;playing world of warcraft &amp;gt;take a break to stretch &amp;gt;open tiktok &amp;gt;november 17th blackout &amp;gt;dirty bomb…](<https://x.com/serinide/status/2122536090812948485>)  
-  &amp;gt;playing world of warcraft &amp;gt;take a break to stretch &amp;gt;open tiktok &amp;gt;november 17th blackout &amp;gt;dirty bomb &amp;gt;banks are broken &amp;gt;flights are broken &amp;gt;microsoft is broken &amp;gt;keep playing world of warcraft  
-  @serinide · 2026-11-17 11:43
-
-- [The Nvidia laundering scheme is the biggest scandal since Iran Contra.](<https://x.com/RoguePOTUSStaff/status/2122535650155180222>)  
-  There is a lot of criminal liability in the White House over this.  
-  @RoguePOTUSStaff · 2026-11-17 11:41
-
-- [NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Deve…](<https://x.com/gigazine/status/2122534768654819473>)  
-  NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能  
-  @gigazine · 2026-11-17 11:38
-
-- [通义千问宣布 Qwen4-Max 上线 you.com Inference Router](<https://x.com/Alibaba_Qwen/status/2122534590611099749>)  
-  通义千问（Qwen）宣布 Qwen4-Max 已上线 you.com Inference Router。据 you.com 介绍，这是 Qwen4 系列首个模型，面向编码、办公和长程智能体任务，支持 1M token 上下文窗口，原生支持文本、图像和视频输入。试用入口：  
-  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-17 11:37
-
-- [BREAKING: Nvidia employees are reportedly weighing a “campus demonstration” in support of Jensen Huang.](<https://x.com/Polymarket/status/2122532570500042915>)  
-  @Polymarket · 2026-11-17 11:29
-
-- [达里奥·阿莫迪（Dario Amodei）谈开源模型： 智能不应该掌握在大众人群手中； 这比之前山姆·奥特曼讲的：人们不应…](<https://x.com/leo114119/status/2122528987335606713>)  
-  达里奥·阿莫迪（Dario Amodei）谈开源模型： 智能不应该掌握在大众人群手中； 这比之前山姆·奥特曼讲的：人们不应该拥有内存更恶劣 不管 anthropic 还是 OpenAI, 他们都想要垄断 AI 智能来控制全世界； 幸好中国有 Deepseek......  
-  @leo114119 · 2026-11-17 11:15
-
-- [For months, @SecScottBessent defended selling limited Nvidia chips to China as a way to preserve American technolog…](<https://x.com/NahasNewman/status/2122528698414825742>)  
-  He wanted American technology to remain the standard “across the world or even in China,” and dismissed national-security objections: “There are no  
-  @NahasNewman · 2026-11-17 11:14
-
-- [今後は、AIに新作のゲームを先に遊ばせるようになるかもしれません。](<https://x.com/ai_database/status/2122527687868903850>)  
-  「原神」開発元miHoYoが、"人間と同じように「画面を見て」「キーボードとマウスで」ゲームを遊べる"AIを開発したそうです。 たとえば、「崩壊:スターレイル」のサブクエストで、途中の課題の8割以上を達成しています。  
-  @ai\_database · 2026-11-17 11:10
-
-- [🚨 BREAKING: DHS Secretary Markwayne Mullin says a major tech insider believes AI could be responsible for the recen…](<https://x.com/RyanAFournier/status/2122526356567175340>)  
-  Microsoft. Airlines. Banks. ALL disrupted within days. Mullin says there’s NO evidence of coordinated cyberattacks. If AI is overwhelming  
-  @RyanAFournier · 2026-11-17 11:04
-
-- [OpenAI is being taken to court in Canada over alleged copyright violations.](<https://x.com/Pirat_Nation/status/2122525633922142326>)  
-  Five major news publishers accuse ChatGPT of using their articles without permission to train its AI. Canada has different copyright rules from the US., Canadian law has no specific exception allowing  
-  @Pirat\_Nation · 2026-11-17 11:02
-
-- [This Pax Silica Declaration puts the assassination strike on Nvidia CEO Jensen Huang into a clearer, larger context.](<https://x.com/Kathleen_Tyson_/status/2122525511234507036>)  
-  Israel is shaping control of AI as its best shot at global technological hegemony, just as Netanyahu declared. “Within this framework, Israel will play a central  
-  @Kathleen\_Tyson\_ · 2026-11-17 11:01
 
 [返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 34 页

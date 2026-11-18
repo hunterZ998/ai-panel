@@ -10,14 +10,26 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 11 条
+## 相关资讯 · 14 条
+
+- [Suno 推出 Visuals 功能，为 AI 生成歌曲配套图像和视频](<https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/>)  
+  AI 音乐生成器 Suno 推出新功能 Visuals，可为歌曲生成配套图像和视频片段。该功能基于 H3 Move（MiniMax 视频模型 H3 的定制安全过滤版），片段最长 15 秒，跟随歌曲结构、呼应歌词并支持唇形同步，可从参考照片、提示词或预设角色起步。  
+  The Decoder：AI News（RSS） · 2026-11-18 18:22
 
 - [可灵AI全新一代图像创作模型Kling Image 4.0正式上线](<https://www.163.com/tech/article/LC0R47OU00098IEO.html>)  
   网易科技 · 2026-11-18 10:10
 
+- [卡尔的AI沃茨上线图像和视频Token监控，并给出数据页面视觉升级提示语](<https://mp.weixin.qq.com/s/UV4QQZ3P_B-rZlZt9yMwjQ>)  
+  作者宣布把AI HOT的Token羊毛监控扩展到图片生成和视频生成四大类，每条标注可用模型、领取方式、刷新周期和折算价值。文中总结了他踩过的单位混乱、免费边界模糊和额度频繁变动三个坑，并给出一条只改渲染层不动业务逻辑的提示语，称用Fable5.2或Opus5.5两三轮迭代就做出了全息卡面、ASCII字符海洋和3D透视图谱效果。  
+  公众号：卡尔的AI沃茨 · 2026-11-18 10:00
+
 - [Meta 首席 AI 官 Alexandr Wang 发布 Sam Altman AI 换脸视频推广 Muse](<https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake>)  
   The Verge 报道，Meta 首席 AI 官 Alexandr Wang 近日在 Instagram 分支一段 AI 生成视频推广消费级 AI 智能体 Muse，画面中 Sam Altman 身穿吉祥物 Jolly 的毛绒连帽服参加四方视频通话。  
   The Verge：AI（RSS） · 2026-11-18 05:00
+
+- [Arcade](<https://www.producthunt.com/products/arcade>)  
+  AI video generator for marketing teams  
+  Product Hunt · English · 2026-11-18 02:17
 
 - [快手可灵上线新一代图像模型 Kling Image 4.0，首次支持原生 8K 与单图 2000 字](<https://www.ithome.com/1/028/563.htm>)  
   快手可灵 AI 于 11 月 17 日宣布图像创作模型 Kling Image 4.0 正式上线，并向企业客户与开发者开放 API 接入。  
@@ -30,6 +42,10 @@
 - [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
   Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
   Suno：Blog（网页） · 2026-11-17 23:00
+
+- [蚂蚁 inclusionAI 发布 Invoker-Render 1.0 可控视频渲染模型权重](<https://huggingface.co/inclusionAI/invoker-render-1.0>)  
+  蚂蚁 inclusionAI 在 Hugging Face 发布 Invoker-Render 1.0 因果流式 DiT 权重，属于 Code World Model 2.0 的视频渲染模型，以结构 Proxy、外观参考图和文本为输入，由上游引擎维护世界状态再生成外观。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-16 15:24
 
 - [字节跳动火山引擎全面开放 Seedance 2.5 4K 视频生成模型 API](<https://www.ithome.com/1/027/736.htm>)  
   火山引擎宣布 Seedance 2.5 4K 的 API 全面开放，开发者与企业客户可通过接口调用该 4K 视频生成模型。该模型于 10 月 23 日发布，官方称经专项训练更能呈现人物表情、细微动作与画面细节，支持 Draft 模式先以 480P 样片验证分镜再生成 4K 正片，并具备 10-bit 色深与更好的素材一致性。  
@@ -46,10 +62,6 @@
 - [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
-
-- [消息称字节跳动计划推出类似 Meta Muse 的 AI 助手，张一鸣称需到 2029 或 2030 年追平美国顶尖实验室](<https://www.ithome.com/1/025/726.htm>)  
-  据彭博社报道，字节跳动计划未来几周内推出一款类似 Meta Muse 的 AI 助手，以巩固其在 AI 视频生成领域的优势。张一鸣在面向 AI 团队的会议上表示，Seed 系列模型的预训练数据集比美国顶尖对手小好几个数量级，真正追平 Anthropic、OpenAI 等公司至少要到 2029 年或 2030 年。  
-  IT之家·人工智能 · 2026-11-11 18:45
 
 - [视频生成不再反复抽卡！清华开源，给模型装上「三维空间大脑」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=3&sn=5112b6645bbbec5d670fb8d97636f63d>)  
   新智元 · 2026-11-09 12:56

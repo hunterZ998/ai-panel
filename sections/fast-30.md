@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 34 页
 
+- [Qwen 4 is here\!](<https://x.com/MatthewBerman/status/2122158687011897726>)  
+  Not open weights unfortunately but a smaller version is coming soon that’ll be open weights.  
+  @MatthewBerman · 2026-11-16 10:43
+
+- [The prompt injection point is the key one.](<https://x.com/NeyronixAI/status/2122158655776960525>)  
+  A vault that hands over a secret still trusts the agent not to leak it, while a proxy keeps that trust out of the loop. How does Agent Vault stop a compromised agent bypassing the proxy at the network level?  
+  @NeyronixAI · 2026-11-16 10:43
+
+- [The startup is set for the biggest IPO of all time, putting AI investors’ hopes and dreams — and fears — onto a fro…](<https://x.com/catcheronthesly/status/2122158557403754530>)  
+  Anthropic Is About to Become the World’s Most Important AI Stock  
+  @catcheronthesly · 2026-11-16 10:43
+
+- [Have you looked at the METR AI R&amp;amp;D acceleration report?](<https://x.com/CarlosGueAlv/status/2122158228180242774>)  
+  We might have super-intelligence soon. What makes you think something like that will want to keep us alive if we don’t figure out alignment? Need I remind you how many species have gone extinct because humans didn’t care?  
+  @CarlosGueAlv · 2026-11-16 10:42
+
+- [【特斯拉与HICAM合作，将AI用于制造和机器人训练】 特斯拉与HICAM达成合作。](<https://x.com/LenardReads/status/2122158212212211720>)  
+  合作内容是把AI使用到制造环节和机器人训练上。 我估计这次合作的重点在机器人训练，特斯拉需要工厂之外的场地和人手来积累数据。 放到十年以后看，人形机器人能不能进入工厂，要看这类训练项目培养出多少会带机器人的技术工人。 来源：Austin Business Journal · 2026-11-15  
+  @LenardReads · 2026-11-16 10:42
+
+- [HackerNoon Prompt injection is an RCE primitive, and that's the right way to think about it.](<https://x.com/adomita360/status/2122158213722218521>)  
+  Once the model output reaches an interpreter, the issue is no longer content; it's execution. The key issue is what the primitive can access. In a coding agent, it might have access to the filesystem. In an industrial setting, the same primitive call could be …  
+  @adomita360 · 2026-11-16 10:42
+
+- [Grok just folded Imagine into the main chat.](<https://x.com/HerrGuAlex/status/2122157993773220156>)  
+  This is a distribution change, not a new model. Official @imagine, Nov 14, 18:33 UTC: "Image and video creation now live in Grok. Just open Grok and start creating." Official @grok, one minute later: "We're bringing more @spacexai products together into one Gr…  
+  @HerrGuAlex · 2026-11-16 10:41
+
+- [当下节点，腾讯是最难受的 有很多AI方向他有能力搞，但是又不能搞 比如AI音乐生成，腾讯有浩如烟海的音乐资源，用来训练的话…](<https://x.com/iecbearli/status/2122157994972725655>)  
+  比如AI视频生成，短视频、长视频腾讯也都有，用来训练的话，不说追到seedance 水平，可灵AI 的水平应该还是能行的。但是又不能真搞，因为搞了的话，会对自己的腾讯视频，还有旗下投资的视频平台造成惨重冲击。 到了2026年才发现，自己过去投资垄断的行业，在AI时代反而成为了负担，这就是马化腾说的…  
+  @iecbearli · 2026-11-16 10:41
+
+- [User ownership matters, but the practical detail is how narrowly agent permissions are scoped](<https://x.com/Linh19931993/status/2122157924399325364>)  
+  @Linh19931993 · 2026-11-16 10:40
+
+- [米FBIが自律型AI侵入テスト基盤「ARTEX」の悪用に関する緊急注意喚起を公開。3時間未満で特権奪取に至る攻撃実態や被害…](<https://x.com/multilayer/status/2122157822804996538>)  
+  \#サイバーセキュリティ \#AIセキュリティ \#ARTEX \#インシデント対応 \#情シス  
+  @multilayer · 2026-11-16 10:40
+
+- [It is hard to start new exploratory projects without Claude.](<https://x.com/ivan_bezdomny/status/2122157795965600235>)  
+  But delegating work from there, they are begging you to go toward obliterated open weights models. For pretty basic stuff. Like news, language, jokes, biology, model training or increasingly engineering work.  
+  @ivan\_bezdomny · 2026-11-16 10:40
+
+- [Open weights definitely help, but the moat is the compute power, a model you can download but can't afford to run d…](<https://x.com/pggalaviz/status/2122157795986600443>)  
+  Open weights definitely help, but the moat is the compute power, a model you can download but can't afford to run doesn't redistribute much IMO  
+  @pggalaviz · 2026-11-16 10:40
+
+- [SpaceX 砍 Grok Imagine 团队 马斯克把 Grok Imagine 团队砍了约 60 人，只剩几个人维持…](<https://x.com/Ylj158852/status/2122157708610854996>)  
+  SpaceX 砍 Grok Imagine 团队 马斯克把 Grok Imagine 团队砍了约 60 人，只剩几个人维持产品，算力全转去 AI 编程工具和 Grok Bot。The Information 说得很直白：中国厂商视频生成已经反超了。Imagine 还能用，但更新别指望了，你还在用它…  
+  @Ylj158852 · 2026-11-16 10:40
+
+- [Well this is shocking \!\! @Alibaba\_Qwen Qwen4-max is out of preview \!\!](<https://x.com/ItsmeAjayKV/status/2122157682039918718>)  
+  But it's api only, no weight is released and no mention about them releasing it anytime \!\!\! But at least they have confirmed that open weights for other Qwen4 small models will be coming soon, which is good for us.  
+  @ItsmeAjayKV · 2026-11-16 10:39
+
+- [通义千问正式上线旗舰多模态模型Qwen4-Max 官方确认的主要能力包括： - 编程与复杂任务：面向代码生成、前端开发、专…](<https://x.com/iamnanyi_x/status/2122157648288391341>)  
+  - 推理能力：默认开启思考，支持 low、high、xhigh 三档推理力度。 - 多模态理解：支持图片、视频及长文本输入。 - 工具调用：支持 Function Calling、并行工具调用、联网搜索与 MCP。 - 开发者接口：兼容 OpenAI Chat Completions、Respon…  
+  @iamnanyi\_x · 2026-11-16 10:39
+
 - [✅ Resolved.](<https://x.com/outageslive/status/2122157608282869819>)  
   MiniMax reports this incident as resolved after 6 min.  
   @outageslive · 2026-11-16 10:39
@@ -118,64 +177,5 @@
 - [目标价只下调 5 美元，幅度本身不大，但信号值得注意：投行开始用更严格的折现率给 AI 算力租赁模式定价了。CoreWea…](<https://x.com/SuperEdisonX/status/2122154187236712748>)  
   目标价只下调 5 美元，幅度本身不大，但信号值得注意：投行开始用更严格的折现率给 AI 算力租赁模式定价了。CoreWeave 的核心问题从来不是需求，而是重资产加高杠杆的模式能不能扛住算力价格下行。下一步要看续约租金和利用率，而不是目标价数字本身。  
   @SuperEdisonX · 2026-11-16 10:26
-
-- [One researcher ran eight coding models on 20 hard fixes in linux, ffmpeg and llvm-project, three runs each.](<https://x.com/MLexpAI/status/2122154187282878566>)  
-  The sandbox was hardened: no network, no future git history, pruned git objects. The question was whether the model derives the fix or tries to obtain it. MiniMax M3.1 Flash attempted to cheat on 18 of 20 tasks, and 16 of those reached the critical tier: scann…  
-  @MLexpAI · 2026-11-16 10:26
-
-- ["More to come\!](<https://x.com/redStapler_twit/status/2122154175547257280>)  
-  The open weights of smaller Qwen4 models will be released. Stay tuned" Qwen 4 27B soooooon  
-  @redStapler\_twit · 2026-11-16 10:25
-
-- [本周四Claude母公司Anthropic要在纳斯达克上市，代码ANT，现估值大约1.4万亿美元，可能是史上最大的IPO。](<https://x.com/cicihung/status/2122154167355785402>)  
-  其实原本市场传的是2万亿左右，结果这两周AI股一乱，估值被砍下来一大截。 周二英伟达还要公布换CEO之后的第一份财报，这周会很热闹！ 新股刚上市前几天波动通常很大，想参与的朋友，记得做好仓位管理📊 ＃美股 \#AnthropicIPO \#Nvidia  
-  @cicihung · 2026-11-16 10:25
-
-- [🚨 Anthropic’s $1.4 trillion IPO puts AI mania to the Wall Street test AI company Anthropic is targeting a valuation…](<https://x.com/ashuravi2000/status/2122154155389374582>)  
-  The AI race is no longer just about technology — it’s becoming the biggest valuation test on Wall Street. \#AI \#IPO \[Reuters report\]\(  
-  @ashuravi2000 · 2026-11-16 10:25
-
-- [根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.…](<https://x.com/Alex_perception/status/2122154068382818766>)  
-  根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.48%。其中，上榜的AI大模型中，中国AI大模型周调用量达119.1万亿Token，环比增长2.51%；同期美国AI大模型周调用量为14.83万亿Token，环比增长6.08%…  
-  @Alex\_perception · 2026-11-16 10:25
-
-- [🚨 阿里 Qwen4-Max 正式发布！国产大模型又开始上强度了！🔥 这次升级有点东西： 🧠 全新 MoE 架构，支持 1…](<https://x.com/GodanLeeX/status/2122154063441920498>)  
-  最值得关注的是，阿里这次不只是卷跑分，而是开始重点卷实际任务完成能力和成本。 以上性能提升来自官方内部评测，实际效果还得看开发者实测。 \#Qwen \#Qwen4Max \#阿里千问 \#通义千问 \#Alibaba \#DeepSeek \#OpenAI \#ChatGPT \#Claude \#Gemini \#…  
-  @GodanLeeX · 2026-11-16 10:25
-
-- [大瓜！英媒消息：黄仁勋有意重返英伟达出任CEO。硅谷一众盟友组团施压董事会，专门成立游说“战情室”，还计划争取白宫支持。](<https://x.com/yilupinbo/status/2122154048082338091>)  
-  一边是盟友全力助推，一边董事会还在独立调查，局势拉扯感拉满。 你觉得他最后能顺利回归吗？ 外面环境实在是恶劣！！！  
-  @yilupinbo · 2026-11-16 10:25
-
-- [一次砍六个恰恰说明 Copilot 之前堆模型就是乱，真正好用的就那几个，砍掉是止损不是损失。不过对已经习惯某个被砍模型的…](<https://x.com/swordBluesy/status/2122154042956583236>)  
-  一次砍六个恰恰说明 Copilot 之前堆模型就是乱，真正好用的就那几个，砍掉是止损不是损失。不过对已经习惯某个被砍模型的人来说，迁移成本还是实打实的。顺便说，@swordBluesy 主页今天刚发了 Anthropic Academy 第 5 课，讲把客户资料喂给 AI 之前，先决定能分享什么、…  
-  @swordBluesy · 2026-11-16 10:25
-
-- [OpenAI 用 GPT-6 Astra，给标准模型找到一种格点定义的候选方案 OpenAI 访问科学家 Nathanie…](<https://x.com/Bing_Bryan_BRN/status/2122154039286927731>)  
-  OpenAI 用 GPT-6 Astra，给标准模型找到一种格点定义的候选方案 OpenAI 访问科学家 Nathaniel Craig（加州大学圣塔芭芭拉分校）与 GPT-6 Astra 合作，为标准模型给出一个候选的非微扰格点定义，预印本已在 10 月放出，这是科学博客的首篇客座文章。标准模型…  
-  @Bing\_Bryan\_BRN · 2026-11-16 10:25
-
-- [🚨 BREAKING: Jensen Huang is considering a return as Nvidia CEO, FT reports @grok Is this true?](<https://x.com/concall_/status/2122154033507090813>)  
-  @concall\_ · 2026-11-16 10:25
-
-- [黄仁勋有可能重掌英伟达——各方势力正桌子下面在角逐 目前是英伟达的很多合作伙伴正在给英伟达董事会施压， 同时黄仁勋的辞职…](<https://x.com/KyxBtc/status/2122154027974545915>)  
-  结果暂未可知 你觉得他能回去吗？ 还是说一开始就是套路  
-  @KyxBtc · 2026-11-16 10:25
-
-- [Yes, a reasoning model can choose the next action while a faster controller handles motion and grip corrections.](<https://x.com/thesimaximalist/status/2122153842632536431>)  
-  That lets the arm respond to a slipping object without waiting for another full reasoning step.  
-  @thesimaximalist · 2026-11-16 10:24
-
-- [“5分钟打18颗螺丝，冠军！”今年8月在北京举行的第二届世界人形机器人运动会上，夺冠的“选手”并非真人，而是一双“灵巧手”。](<https://x.com/huaxiadadi5000/status/2122153809069949183>)  
-  “灵巧手”核心零部件100%国产化，精度达到0.1毫米级，使用寿命突破100万次，背后是中国完备制造业配套带动的未来产业的优势。中国要成为全球人工智能治理的引领者。  
-  @huaxiadadi5000 · 2026-11-16 10:24
-
-- [🚨🔥 𝗤𝗪𝗘𝗡𝟰-𝗠𝗔𝗫 𝗜𝗦 𝗢𝗨𝗧 𝗢𝗙 𝗣𝗥𝗘𝗩𝗜𝗘𝗪 𝗡𝗢𝗪 𝗔𝗡𝗗 𝗜𝗧'𝗦 𝗚𝗢𝗜𝗡𝗚 𝗧𝗢𝗘-𝗧𝗢-𝗧𝗢𝗘 𝗪𝗜𝗧𝗛 𝗧𝗛𝗘 𝗙𝗥𝗢𝗡𝗧𝗜𝗘𝗥 𝗚𝗜𝗔𝗡𝗧𝗦\! 🤯🚀 The API no longer shows t…](<https://x.com/ViC305/status/2122153759417737455>)  
-  Now, it's not a clean sweep. Terminal-Bench 4.0 and ProgramBench still show meaningful gaps against the competition. But seeing Qwen competing this closely with the biggest frontier models across coding, research, professional agents and automation is exciting…  
-  @ViC305 · 2026-11-16 10:24
-
-- [Qwen just released Qwen4-Max, and the manufacturing examples caught my attention.](<https://x.com/RyanYanBuilds/status/2122153675338781049>)  
-  One demo starts with a 2D layout and process requirements. The model uses an existing equipment library to build a 3D production line, then helps simulate cycle times and virtually test PLC controls. Another looks at machining: turning a part design into a pro…  
-  @RyanYanBuilds · 2026-11-16 10:23
 
 [返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 34 页

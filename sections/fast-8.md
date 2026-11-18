@@ -2,6 +2,65 @@
 
 [返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 34 页
 
+- [By the way, in the unlikely event that the @nvidia board doesn’t immediately restore Jensen as CEO…there’s actually…](<https://x.com/balajis/status/2122743376512766374>)  
+  Why? Given the likely cyberattacks on Microsoft, flights, banks, and now NSA, it’s arguably a  
+  @balajis · 2026-11-18 01:27
+
+- [The NSA’s top-secret communications network is down, according to CNN.](<https://x.com/Complex/status/2122743122144722971>)  
+  November 11th - Microsoft November 13th - FAA ARTCCs November 15th - AWS November 16th - Chase, US Bank, Wells Fargo, USAA November 16th - United Airlines November 17th - NSA Net  
+  @Complex · 2026-11-18 01:26
+
+- [NEW and BIG Nvidia booked $104bn of revenue through its Singapore subsidiary in 2025, up 72% in a year and almost h…](<https://x.com/ArashMassoudi/status/2122742840094499097>)  
+  That was the same year it stopped breaking Singapore out in its results. By @OwenWalker and @AntoineGara  
+  @ArashMassoudi · 2026-11-18 01:25
+
+- [Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage pa…](<https://x.com/JohnSun33348514/status/2122742508430205351>)  
+  Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage payroll systems 11/13 - outage at Claude 11/16 - major US banks go down 11/17 - outage at NSA’s classified internal network Officials say none were…  
+  @JohnSun33348514 · 2026-11-18 01:23
+
+- [AI video generation is getting more accessible, and that's a win for creators.](<https://x.com/AiwithZohaib/status/2122742453077962977>)  
+  Lower costs mean more room to experiment without worrying about every second.  
+  @AiwithZohaib · 2026-11-18 01:23
+
+- [Google 免费向六国用户扩展 Gemini Tasks，由 Gemini 4 Hydrogen 驱动](<https://x.com/sundarpichai/status/2122741728247738688>)  
+  Sundar Pichai 宣布 Gemini Tasks 免费扩展到六国的数亿用户，由 Gemini 4 Hydrogen 驱动。  
+  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
+
+- [Gemini Tasks 上线美国、日本、韩国、加拿大、澳大利亚和印度](<https://x.com/sundarpichai/status/2122741729904484384>)  
+  Google 宣布 Tasks in Gemini 即日起在美国、日本、韩国、加拿大、澳大利亚和印度上线，其中通话、短信和支付等高级操作首先在美国开放。Google 官方博客链接：  
+  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
+
+- [Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage pa…](<https://x.com/pelositracker/status/2122741601713770823>)  
+  Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage payroll systems 11/13 - outage at Claude 11/16 - major US banks go down 11/17 - outage at NSA’s classified internal network Officials say none were…  
+  @pelositracker · 2026-11-18 01:20
+
+- [State-aligned hackers.](<https://x.com/SpencerGuard/status/2122741159458132263>)  
+  The last few weeks have had too many coincidences \(military grocery stores, Microsoft, entire airline control network, United, Chase, and others\).  
+  @SpencerGuard · 2026-11-18 01:18
+
+- [NVIDIAファン氏「CEO喜んで復帰」と声明 支持広がり受け](<https://x.com/nikkei/status/2122740789621018990>)  
+  @nikkei · 2026-11-18 01:16
+
+- [Gemini Tasks 向免费用户开放 Gemini 4 Hydrogen 模型](<https://x.com/Google/status/2122740719559278830>)  
+  Google 宣布 GeminiApp 的 Tasks 功能现在也可运行最新的 Gemini 4 Hydrogen 模型，对所有免费用户开放，为日常使用带来更先进的智能和速度。官方称这是 GeminiApp 最新更新的一部分，详情见  
+  X：Google \(@Google\) · 2026-11-18 01:16
+
+- [Google 向美日韩等更多地区免费开放 Gemini Tasks](<https://x.com/Google/status/2122740715633426666>)  
+  Google 宣布即日起在美国、日本、韩国、加拿大、澳大利亚和印度免费向数亿更多用户开放 Gemini Tasks。用户在 GeminiApp 中把 Chat 切换为 Task 并描述需求即可，Tasks 可在后台执行较长项目，并支持设置周期运行，如同步家庭日历或查找未使用的订阅权益。  
+  X：Google \(@Google\) · 2026-11-18 01:16
+
+- [Everything from Microsoft to air traffic control to the NSA’s comms has broken.](<https://x.com/zeteo_news/status/2122740635316765097>)  
+  The only two systems in the U.S. still running without a single glitch are unconditional U.S. support for Israel’s war crimes and Democrats’ commitment to Hakeem Jeffries.  
+  @zeteo\_news · 2026-11-18 01:16
+
+- [El Ministerio de Ciencia encabezado por Lincolao se negó a compartir lo firmado con OpenAI Algo huele muy mal Al pa…](<https://x.com/threaeae/status/2122739381194858865>)  
+  El Ministerio de Ciencia encabezado por Lincolao se negó a compartir lo firmado con OpenAI Algo huele muy mal Al parecer nuevamente el Gobierno está vulnerando nuestros derechos  
+  @threaeae · 2026-11-18 01:11
+
+- [Eight US infrastructure failures in six days.](<https://x.com/Darkfibr3/status/2122738838485324177>)  
+  Microsoft, the FAA, Chase and half the banking system, United, Schwab this morning, and now the NSA's classified internal network. Nobody got hacked. I've been following this for DAYS. I've tracked down every story and I haven't  
+  @Darkfibr3 · 2026-11-18 01:09
+
 - [Microsoft?](<https://x.com/CynicalPublius/status/2122738500890186007>)  
   The FAA? The banks? Zelle? United Airlines? The NSA? NOW APPLE?????  
   @CynicalPublius · 2026-11-18 01:07
@@ -113,60 +172,5 @@
 
 - [JUST IN: AMD CEO Lisa Su praises rival Jensen Huang hours after he says he'd be honored to return as Nvidia CEO.](<https://x.com/PolymarketMoney/status/2122728977139941483>)  
   @PolymarketMoney · 2026-11-18 00:30
-
-- [The American dream exists because America celebrates its individuals and gives them second chances as well as due p…](<https://x.com/NaderLikeLadder/status/2122728932852322674>)  
-  Jensen deserves that as well. It is in all of our best interest to have him back. I, alongside thousands of other employees at NVIDIA, urge the board to  
-  @NaderLikeLadder · 2026-11-18 00:29
-
-- [I stand with Jensen Huang](<https://x.com/greg16676935420/status/2122728676752261604>)  
-  @greg16676935420 · 2026-11-18 00:28
-
-- [JENSEN HUANG BREAKS HIS SILENCE "I would be honored to answer these calls and return as CEO." $NVDA](<https://x.com/TrendSpider/status/2122728537849229765>)  
-  @TrendSpider · 2026-11-18 00:28
-
-- [🚨🇺🇸🇨🇳 Jensen Huang had Trump's ear.](<https://x.com/MarioNawfal/status/2122727725647745097>)  
-  But Marco RUBIO wouldn't even give him a meeting. Not once. Not twice. THREE times. According to The Washington Post, Huang tried repeatedly to meet Rubio while lobbying to keep Nvidia's AI chip business with China alive. Rubio never made  
-  @MarioNawfal · 2026-11-18 00:25
-
-- [BREAKING: Jensen Huang has said: Over the past week, I’ve been overwhelmed by the love and support of friends, indu…](<https://x.com/unusual_whales/status/2122727211778343105>)  
-  Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States  
-  @unusual\_whales · 2026-11-18 00:23
-
-- [Jensen Huang 发声明回应离职风波并表态愿在董事会决定下回归 NVIDIA CEO](<https://x.com/DrJimFan/status/2122727208754254245>)  
-  Jim Fan 转发并附 💚💚💚 FTW。Jensen Huang 发文感谢外界支持，承认个人生活中犯了严重错误、给董事会造成问题，并承诺配合董事会独立调查。他表示自离开以来收到员工、投资者、合作伙伴和客户的大量回归呼声，若董事会认为回归符合股东、员工、公司和美国的最佳利益，他将荣幸地回归 CEO…  
-  X：Jim Fan \(@DrJimFan\) · 2026-11-18 00:22
-
-- [🚨 WOW\!](<https://x.com/EricLDaugh/status/2122727136406769798>)  
-  Jensen Huang just publicly offered to make a COMEBACK as Nvidia CEO and OWNED UP to his mistakes "If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answe…  
-  @EricLDaugh · 2026-11-18 00:22
-
-- [Google DeepMind 与芝加哥大学论文：多元智能体可扩展 AI 政策公众输入](<https://x.com/rohanpaul_ai/status/2122727027015057436>)  
-  Google DeepMind 与芝加哥大学的论文提出多元智能体，通过访谈个人后代表其观点与其他智能体商议 AI 安全预算，以扩展 AI 政策的公众输入。在数千次智能体商议和 746 人预注册研究中，智能体会把预算拉向所代表个人的观点，且被要求写更长或更少合作的讯息时影响力更大；参与者认为其比向单…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 00:22
-
-- [Lorsqu’une ministre déléguée auprès de la ministre des Armées s’exprime au micro avec le ton, le rythme et le vocab…](<https://x.com/Thinker_View/status/2122726106146963962>)  
-  Ce décalage n’est pas  
-  @Thinker\_View · 2026-11-18 00:18
-
-- [ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเ…](<https://x.com/longtunman/status/2122725849753616878>)  
-  ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเห็นชอบ “นับตั้งแต่ผมออกจากตำแหน่ง ผมได้รับเสียงเรียกร้องอย่างท่วมท้นจากพนักงาน นักลงทุน พันธมิตรทางธุรกิจ และลูกค้าของ NVIDIA ให้กลับมาเป็น CEO อ…  
-  @longtunman · 2026-11-18 00:17
-
-- [\*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRI…](<https://x.com/RealNickMugalli/status/2122724714984481005>)  
-  \*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRIOT \*BAKER: JENSEN AND ELON ARE TWO OF TWO \*BAKER: WE’RE AHEAD OF CHINA IN SEMICONDUCTOR BECAUSE OF JENSEN \*BAKER: THE BOARD NEEDS TO TAKE ITS TIM…  
-  @RealNickMugalli · 2026-11-18 00:13
-
-- [BREAKING: Jensen Huang says he is willing to return as Nvidia CEO.](<https://x.com/GlobeEyeNews/status/2122724477897461917>)  
-  @GlobeEyeNews · 2026-11-18 00:12
-
-- [Jensen Huang returning back to Nvidia as CEO](<https://x.com/Nostre_damus/status/2122723835380375888>)  
-  @Nostre\_damus · 2026-11-18 00:09
-
-- [BREAKING: Jensen Huang says he would be willing to return as Nvidia CEO if the board wants him back](<https://x.com/FoxNews/status/2122723147724226737>)  
-  @FoxNews · 2026-11-18 00:06
-
-- [BREAKING: Jensen Huang releases his first public statement since resigning as CEO of Nvidia, $NVDA, and says he is…](<https://x.com/KobeissiLetter/status/2122722496667398408>)  
-  Jensen Huang specifically says he will return as CEO if the board asks him to. Full statement: “Since my departure, I’ve seen an  
-  @KobeissiLetter · 2026-11-18 00:04
 
 [返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 34 页
