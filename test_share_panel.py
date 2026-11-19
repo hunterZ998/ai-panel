@@ -18,6 +18,11 @@ const fileMode=location.protocol==='file:';
 function draw(){return searchWechatIndex(feed.items,wx);}
 async function run(){let result; result=searchWechatIndex(feed.items,args);}
 $('refresh').addEventListener('click',()=>refresh(true));
+function render(){
+    renderKnowledgeRail();
+  }
+window.addEventListener('hashchange',()=>{const next=routeFromHash();if(next!==view)selectView(next);});
+  render();openViewData();refresh();
 </script></body></html>"""
 
 
@@ -38,6 +43,39 @@ def unpack(html):
 
 
 class PublicShareTest(unittest.TestCase):
+    def test_seven_module_shell_retains_read_only_transport_and_routes(self):
+        page=render_original(ORIGINAL,fixture())
+        self.assertIn('id="seven-module-app"',page)
+        self.assertIn('id="seven-module-style"',page)
+        self.assertIn('AI应用人机台',page)
+        self.assertIn("if(location.hash.startsWith('#work-'))return",page)
+        self.assertIn('window.__humanWorkbenchBridge',page)
+        self.assertIn('routeSectorEvidence(atom,[...feed.items,...fastRows]',page)
+        self.assertIn("['review','复盘及优化'",page)
+        self.assertIn("['xradar','X 雷达']",page)
+        self.assertIn("['wechat','公众号']",page)
+        self.assertEqual(unpack(page)['access.json'],{'authenticated':False,'canMaintain':False})
+
+    def test_changed_original_engine_fails_before_publishing_partial_ui(self):
+        with self.assertRaisesRegex(ValueError,'research engine changed'):
+            render_original(ORIGINAL.replace('  render();openViewData();refresh();','  differentStartup();'),fixture())
+
+    def test_source_formatting_does_not_break_render_bridge(self):
+        page=render_original(ORIGINAL.replace('renderKnowledgeRail();\n  }','renderKnowledgeRail();\n\n  }'),fixture())
+        self.assertEqual(page.count("window.dispatchEvent(new Event('human-workbench-source-rendered'))"),1)
+
+    def test_root_opens_same_workbench_and_keeps_old_project_links(self):
+        with TemporaryDirectory() as tmp:
+            root=Path(tmp);(root/'data').mkdir()
+            for name,value in fixture().items():
+                (root/'data'/(name+'.json')).write_text(json.dumps(value),encoding='utf-8')
+            (root/'news.html').write_text(ORIGINAL,encoding='utf-8')
+            (root/'index.html').write_text('<div id="project-data">AI应用面板</div>',encoding='utf-8')
+            build(root,root/'share')
+            self.assertIn('AI应用人机台',(root/'projects.html').read_text(encoding='utf-8'))
+            self.assertIn("location.hash.startsWith('#project/')",(root/'index.html').read_text(encoding='utf-8'))
+            self.assertIn('./share/',(root/'index.html').read_text(encoding='utf-8'))
+
     def test_original_style_and_navigation_are_preserved(self):
         page=render_original(ORIGINAL,fixture())
         for pattern in [r'<style>.*?</style>',r'<nav>.*?</nav>']:

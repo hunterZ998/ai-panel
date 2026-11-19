@@ -9,7 +9,6 @@ from pathlib import Path
 from urllib.parse import quote, urlsplit
 
 from build import ROUTES, check_access, public_radar, validate_news
-from offline_panel import write_offline_panel
 
 
 DOWNLOAD = "https://github.com/hunterZ998/ai-panel/releases/download/public-reader/panel.html"
@@ -115,12 +114,22 @@ def main(source, out):
     data["radar"] = public_radar(data["radar"])
     if data["workspace"].get("status") != "unavailable" or data["library"].get("status") != "unconfigured":
         raise ValueError("Unexpected library/workspace contents on the public reader")
-    home = (source / "index.html").read_text(encoding="utf-8")
-    news = (source / "news.html").read_text(encoding="utf-8")
+    # The primary entry now redirects into the seven-module share. Project
+    # metadata stays in its explicit secondary page, not the root redirect.
+    project_page = source / "projects.html"
+    if not project_page.exists():
+        project_page = source / "index.html"
+    home = project_page.read_text(encoding="utf-8")
     match = re.search(r'<script type="application/json" id="project-data">(.*?)</script>', home, re.S)
     project = json.loads(match.group(1)) if match else {}
     if project.get("visibility") != "public":
         raise ValueError("Expected the public workbench")
+    share_file = source / "share" / "index.html"
+    if not share_file.is_file():
+        raise ValueError("Missing self-contained public share")
+    share = share_file.read_bytes()
+    if b'id="original-share-transport"' not in share or b'id="seven-module-app"' not in share:
+        raise ValueError("Expected the read-only seven-module share")
 
     feed, daily, radar, watch = (data[k] for k in ("feed", "daily", "radar", "watch"))
     rss = data.get("public-rss", {}).get("items", [])
@@ -131,7 +140,7 @@ def main(source, out):
     article_sectors = classify(articles)
     research_sectors = classify([{"title": r["title"], "summary": r["fact"], "originalText": r["judgment"]}
                                  for r in daily["items"]])
-    site = ["# AI应用面板", f"全信源快照 **{feed_at}**，关联研究 **{daily_at}**（北京时间）。",
+    site = ["# AI应用人机台", f"全信源快照 **{feed_at}**，关联研究 **{daily_at}**（北京时间）。",
             f"[下载完整交互面板，离线打开]({DOWNLOAD})", "## 六赛道观察"]
     for key, name in SECTORS.items():
         relevant = [r for hit, r in zip(article_sectors, articles) if key in hit]
@@ -177,7 +186,9 @@ def main(source, out):
         cases.append("\n\n".join(filter(None, parts)))
     site.append("- " + write_sections(sections, "projects", "项目研究", cases, "公开研究工作台，七个模块。"))
     (out / "README.md").write_text("\n\n".join(site) + "\n", encoding="utf-8")
-    write_offline_panel(home, news, {k + ".json": v for k, v in data.items()}, out / "panel.html")
+    # Reuse the exact published page: its embedded snapshots, CSP and denied
+    # writes work both over HTTPS and when this file is opened locally.
+    (out / "panel.html").write_bytes(share)
     print(f"Built GitHub reader: {len(articles)} articles, {len(fast)} fast signals, {len(daily['items'])} research items")
 
 

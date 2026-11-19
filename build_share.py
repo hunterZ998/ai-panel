@@ -25,6 +25,37 @@ PUBLIC_POLICY = ("default-src 'none'; script-src 'unsafe-inline'; style-src 'uns
                  "base-uri 'none'; form-action 'none'")
 
 
+def install_workbench(news):
+    """Add seven-module navigation while retaining the original research engine."""
+    news = news.replace("const productName='AI应用面板';", "const productName='AI应用人机台';")
+    news = news.replace('<title>AI应用面板</title>', '<title>AI应用人机台</title>')
+    news = news.replace('aria-label="AI应用面板首页"', 'aria-label="AI应用人机台首页"')
+    news = news.replace('<b>AI应用面板</b>', '<b>AI应用人机台</b>')
+    news = news.replace('<h1 id="page-title">AI应用面板</h1>', '<h1 id="page-title">AI应用人机台</h1>')
+    # New module routes are handled by the new shell. Do not let the legacy
+    # router translate an unknown route back to #sectors.
+    listener = "window.addEventListener('hashchange',()=>{const next=routeFromHash();"
+    render_end = r'    renderKnowledgeRail\(\);\s*\n  \}'
+    if news.count(listener) != 1 or news.count('  render();openViewData();refresh();') != 1 or len(re.findall(render_end, news)) != 1:
+        raise ValueError('Original research engine changed; refusing incomplete seven-module integration')
+    news = news.replace(listener, "window.addEventListener('hashchange',()=>{if(location.hash.startsWith('#work-'))return;const next=routeFromHash();", 1)
+    # Reuse exactly the original classifier and evidence review function.
+    ready = '  render();openViewData();refresh();'
+    api = """  window.__humanWorkbenchBridge = {
+      evidence: atom => routeSectorEvidence(atom,[...feed.items,...fastRows],atom.savedReviews||[]),
+      sector: () => sectorChoice,
+      setSector: id => { sectorChoice=(id==='other'||SECTORS.some(s=>s.id===id))?id:''; if(view==='sectors')render(); }
+    };
+"""
+    news = news.replace(ready, api + ready, 1)
+    news = re.sub(render_end,
+                  "    renderKnowledgeRail();\n    window.dispatchEvent(new Event('human-workbench-source-rendered'));\n  }", news, count=1)
+    css = (ROOT / 'seven-module.css').read_text(encoding='utf-8')
+    js = (ROOT / 'seven-module.js').read_text(encoding='utf-8')
+    news = news.replace('</head>', '<style id="seven-module-style">\n'+css+'\n</style></head>', 1)
+    return news.replace('</body>', '<script id="seven-module-app">\n'+js+'\n</script></body>', 1)
+
+
 def _record_key(row):
     value = row.get("canonicalUrl") or row.get("originalUrl") or row.get("url") or row.get("id")
     if not isinstance(value, str):
@@ -167,7 +198,7 @@ def render_original(news, data):
     </script>""".replace("PAYLOAD", encoded)
     if "<head>" not in news:
         raise ValueError("Original dashboard head missing")
-    return news.replace("<head>", "<head>" + policy + marker + shim, 1)
+    return install_workbench(news.replace("<head>", "<head>" + policy + marker + shim, 1))
 
 
 def build(source, dest):
@@ -184,6 +215,20 @@ def build(source, dest):
     payload = public_snapshots(data)
     dest.mkdir(parents=True, exist_ok=True)
     (dest / "index.html").write_text(html, encoding="utf-8")
+    # Root now opens the same workbench. Keep the older project workbook view
+    # as an explicit secondary destination, including existing #project links.
+    root_page = source / 'index.html'
+    if root_page.exists():
+        old = root_page.read_text(encoding='utf-8')
+        if 'id="project-data"' in old:
+            (source / 'projects.html').write_text(old.replace('AI应用面板','AI应用人机台'), encoding='utf-8')
+    root_page.write_text('''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>AI应用人机台</title>
+<meta name="description" content="AI应用人机台：目的、标准、知识库、判断、策略、执行、复盘及优化。">
+</head><body><p><a href="./share/">打开 AI应用人机台</a></p><script>
+const target=location.hash.startsWith('#project/')?'./projects.html':'./share/';
+location.replace(target+location.search+location.hash);
+</script></body></html>''', encoding='utf-8')
     print(json.dumps({"output": str(dest / "index.html"), "tracks": len(payload["sectors"]["items"]),
                       "articles": len(payload["feed"]["items"]), "opinions": len(payload["sectors"]["atoms"]),
                       "bytes": len(html.encode("utf-8"))}, ensure_ascii=False))
