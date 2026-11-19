@@ -20,17 +20,20 @@
 
 ## 相关资讯 · 26 条
 
+- [波士顿动力人形机器人落地半导体制造厂](<https://www.163.com/dy/article/LC3A9VTG0550WHYR.html>)  
+  网易科技频道 · 网易号 · 2026-11-19 09:14
+
+- [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
+  MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  
+  MIT News（RSS） · 2026-11-19 03:00
+
 - [消息称三星电子计划在 CES 2027 发布 2 款人形机器人](<https://www.ithome.com/1/029/087.htm>)  
   IT之家 11 月 18 日消息，韩媒《韩民族日报》当地时间昨日报道称，三星电子计划在明年 1 月举行的 CES 2027 消费电子展上发布 2 款人形机器人。 这两款产品的 名称分别为 HR \(Human Reference\) 和…  
   IT之家 · 2026-11-18 21:51
 
-- [印度 Humyn Labs 融资 4700 万美元，为美国机器人公司提供训练数据](<https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/>)  
-  印度 Humyn Labs 完成 4700 万美元 A 轮融资，其中 2600 万美元股权由 Accel 领投，2100 万美元为 Lighthouse Canton 领投的创业债务。该公司用自研双摄像头硬件记录日常任务，再通过软件标注手部动作与物体交互，在拉美和亚洲 20 多个国家采集数据，目前有 12 家付费客户，约 90% 收入来自美国。  
-  TechCrunch：AI（RSS） · 2026-11-18 19:30
-
-- [这30家企业，撑起了灵巧手的半边天](<https://36kr.com/p/4075019280406408?f=rss>)  
-  11月16日，星动纪元宣布推出五指灵巧手XHAND 1 Pro-U。与单纯增加关节不同，这款产品围绕英伟达GEAR实验室的DexUMI外骨骼调整了手部结构，让人类示范动作更直接地映射到机器人手上。 两个月前，韩国Wonik Robotics  
-  36氪 · 2026-11-18 18:04
+- [India’s Humyn Labs raises $47M to feed US robotics companies the data they need](<https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/>)  
+  Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming f  
+  TechCrunch · 2026-11-18 19:30
 
 - [第一批打工的人形机器人，有的已经失业了](<https://www.tmtpost.com/8209375.html>)  
   辞退原因是什么？  
@@ -39,10 +42,6 @@
 - [柏川数据完成5000万元Pre-A轮融资，打造物理AI全栈数据基座](<https://www.pedaily.cn/first/193109.shtml>)  
   苏州柏川数据科技有限公司完成5000万元Pre-A轮融资，投资方包括元禾厚望、毅峰资本等顶级具身智能产业机构。（投资界讯） 原文链接  
   投资界 · 2026-11-18 13:31
-
-- [雷军、王兴兴、李彦宏，在APEC讲了什么？](<https://36kr.com/p/4074664257017729?f=rss>)  
-  雷军披露，小米具身智能机器人已经能在工厂完成8小时工作；王兴兴认为，机器人模型泛化能力接近突破临界点；李彦宏则提醒，AI应用如果迟迟不能带来收入和利润增长，行业就可能面临泡沫风险。 11月17日，2026年亚太经合组织（APEC）工商领导人  
-  36氪 · 2026-11-18 11:46
 
 - [柏川数据宣布完成5000万元Pre-A轮融资](<https://www.itjuzi.com/investevent/14708118>)  
   柏川数据是一家物理AI数据基座服务商。最初主要提供自动驾驶数据服务，目前已服务近百家车企及智能驾驶厂商。2025年下半年，公司开始拓展具身智能数据业务。截至目前，柏川已服务智元、自变量、优必选、它石智航、星海图、优理奇等近20家具身智…  

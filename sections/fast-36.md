@@ -1,181 +1,175 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 37 页
+[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 41 页
 
-- [当下节点，腾讯是最难受的 有很多AI方向他有能力搞，但是又不能搞 比如AI音乐生成，腾讯有浩如烟海的音乐资源，用来训练的话…](<https://x.com/iecbearli/status/2122157994972725655>)  
-  比如AI视频生成，短视频、长视频腾讯也都有，用来训练的话，不说追到seedance 水平，可灵AI 的水平应该还是能行的。但是又不能真搞，因为搞了的话，会对自己的腾讯视频，还有旗下投资的视频平台造成惨重冲击。 到了2026年才发现，自己过去投资垄断的行业，在AI时代反而成为了负担，这就是马化腾说的…  
-  @iecbearli · 2026-11-16 10:41
+- [EMO MOTHERFUCKERS HAVE SNOWFLAKE FUN](<https://x.com/unheee_e/status/2122313327305273529>)  
+  @unheee\_e · 2026-11-16 20:58
 
-- [User ownership matters, but the practical detail is how narrowly agent permissions are scoped](<https://x.com/Linh19931993/status/2122157924399325364>)  
-  @Linh19931993 · 2026-11-16 10:40
+- [Been seeing a lot of talk about decentralized compute, but I think @Acurast has a pretty interesting way of showing…](<https://x.com/BJauhi/status/2122311278161190922>)  
+  Meet Laya. It's an open AI decision model from ConvAI Innovations, running on Android phones connected to the Acurast network.  
+  @BJauhi · 2026-11-16 20:50
 
-- [米FBIが自律型AI侵入テスト基盤「ARTEX」の悪用に関する緊急注意喚起を公開。3時間未満で特権奪取に至る攻撃実態や被害…](<https://x.com/multilayer/status/2122157822804996538>)  
-  \#サイバーセキュリティ \#AIセキュリティ \#ARTEX \#インシデント対応 \#情シス  
-  @multilayer · 2026-11-16 10:40
+- [BREAKING: Indonesian police found empty server racks at Megaspeed, a company linked to the Jensen Huang scandal, du…](<https://x.com/BullTheoryio/status/2122310412536533063>)  
+  Investigators suspect the chips were secretly shipped to China, possibly by private jets.  
+  @BullTheoryio · 2026-11-16 20:46
 
-- [It is hard to start new exploratory projects without Claude.](<https://x.com/ivan_bezdomny/status/2122157795965600235>)  
-  But delegating work from there, they are begging you to go toward obliterated open weights models. For pretty basic stuff. Like news, language, jokes, biology, model training or increasingly engineering work.  
-  @ivan\_bezdomny · 2026-11-16 10:40
+- [BREAKING: Nvidia has reportedly named Juan Huango as its new CEO, replacing Jensen Huang effective immediately](<https://x.com/alifarhat79/status/2122309585457320420>)  
+  @alifarhat79 · 2026-11-16 20:43
 
-- [Open weights definitely help, but the moat is the compute power, a model you can download but can't afford to run d…](<https://x.com/pggalaviz/status/2122157795986600443>)  
-  Open weights definitely help, but the moat is the compute power, a model you can download but can't afford to run doesn't redistribute much IMO  
-  @pggalaviz · 2026-11-16 10:40
+- [Stop starting over with AI that forgets you.](<https://x.com/cheatingncucks/status/2122309206942597596>)  
+  OurDream gives you persistent memory + fully custom characters, plus image/video generation and live voice calls — no extra paywalls. Free coins waiting →  
+  @cheatingncucks · 2026-11-16 20:42
 
-- [SpaceX 砍 Grok Imagine 团队 马斯克把 Grok Imagine 团队砍了约 60 人，只剩几个人维持…](<https://x.com/Ylj158852/status/2122157708610854996>)  
-  SpaceX 砍 Grok Imagine 团队 马斯克把 Grok Imagine 团队砍了约 60 人，只剩几个人维持产品，算力全转去 AI 编程工具和 Grok Bot。The Information 说得很直白：中国厂商视频生成已经反超了。Imagine 还能用，但更新别指望了，你还在用它…  
-  @Ylj158852 · 2026-11-16 10:40
+- [Artificial Analysis：GTA VI 延期期间 AI 指数翻倍](<https://x.com/ArtificialAnlys/status/2122305411659497870>)  
+  Artificial Analysis 指出，自 2023 年 12 月首支 GTA VI 预告片以来，其 Progress Index 最高分从 160 涨到 358，翻了一倍多。  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-16 20:26
 
-- [Well this is shocking \!\! @Alibaba\_Qwen Qwen4-max is out of preview \!\!](<https://x.com/ItsmeAjayKV/status/2122157682039918718>)  
-  But it's api only, no weight is released and no mention about them releasing it anytime \!\!\! But at least they have confirmed that open weights for other Qwen4 small models will be coming soon, which is good for us.  
-  @ItsmeAjayKV · 2026-11-16 10:39
+- [Obituaries The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, t…](<https://x.com/stratechery/status/2122299423451656284>)  
+  Obituaries The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.  
+  @stratechery · 2026-11-16 20:03
 
-- [通义千问正式上线旗舰多模态模型Qwen4-Max 官方确认的主要能力包括： - 编程与复杂任务：面向代码生成、前端开发、专…](<https://x.com/iamnanyi_x/status/2122157648288391341>)  
-  - 推理能力：默认开启思考，支持 low、high、xhigh 三档推理力度。 - 多模态理解：支持图片、视频及长文本输入。 - 工具调用：支持 Function Calling、并行工具调用、联网搜索与 MCP。 - 开发者接口：兼容 OpenAI Chat Completions、Respon…  
-  @iamnanyi\_x · 2026-11-16 10:39
+- [Jensen Huang allies campaign to reinstate former Nvidia boss](<https://x.com/BBCWorld/status/2122295979663564813>)  
+  @BBCWorld · 2026-11-16 19:49
 
-- [✅ Resolved.](<https://x.com/outageslive/status/2122157608282869819>)  
-  MiniMax reports this incident as resolved after 6 min.  
-  @outageslive · 2026-11-16 10:39
+- [BREAKING: 🇺🇸 Jensen Huang is considering a comeback as Nvidia's chief executive, per FT](<https://x.com/Megatron_ron/status/2122295760943505683>)  
+  @Megatron\_ron · 2026-11-16 19:48
 
-- [MiniMax又放了个能本地跑的图模型啊。](<https://x.com/yoland_feng/status/2122157604625608739>)  
-  H3-Image开源权重了，原生就能出4K（16兆像素），生成和编辑一个模型搞定，最多喂16张参考图。HF上已经在狂下了。许可证有点限制，但创作者和想本地折腾的应该会很香。 你们有人已经下下来试了没啊？  
-  @yoland\_feng · 2026-11-16 10:39
+- [Anthropic's IPO could make history.](<https://x.com/ActionModelAI/status/2122294153954435580>)  
+  Big Tech is investing billions, but who gets to own AI's future? What about the people helping build it? Should ownership be bought, earned through contribution, or both? Read the article and share your thoughts.  
+  @ActionModelAI · 2026-11-16 19:42
 
-- [Arena 实测 Qwen4-Max：与 Opus、GPT、Kimi 对比 3D 场景、游戏与网页设计](<https://x.com/arena/status/2122157548057084062>)  
-  Arena 宣布 Qwen4-Max 进入 Arena，并发布 Peter Gostev 的实测视频，在 3D 场景、游戏、创意提示词、网站设计和交互讲解上与 Opus、GPT、Kimi、Fable 的输出对比，提示词在推文链接中。  
-  X：Arena \(@arena\) · 2026-11-16 10:39
+- [‼️ The EU's open AI model, EUROPA, is being tested at nearly 1 trillion parameters, more than twice the size the EU…](<https://x.com/IntCyberDigest/status/2122288571579289758>)  
+  Domyn, the Milan company the European Commission picked in June to build it, ran the trials on Germany's JUPITER, Europe's first exascale supercomputer.  
+  @IntCyberDigest · 2026-11-16 19:20
 
-- [今日のTLで、動画生成の進歩とClaude Sheetsの話が目に入ったので、デモと実務の距離だけ整理しておきます。](<https://x.com/smedigiconsult/status/2122157433954947476>)  
-  &gt; 「この8ヶ月のとんでもない進歩に鼻血出そうになりました。」 Seedance 2.5、MiniMax H3、Wan 3.0の登場が速いのは事実です。ただ、この投稿の誇張は「新モデルが出た期間」を、そのまま「制作能力が飛躍した期間」と見せている点です。短い一発動画なら進歩を感じても、同じ人物を複…  
-  @smedigiconsult · 2026-11-16 10:38
+- [Qwen4-Max 上线 Novita AI 平台](<https://x.com/Alibaba_Qwen/status/2122286761883959700>)  
+  通义千问（Qwen）官方宣布 Qwen4-Max 从第一天起即在 Novita AI 上线。引用内容介绍其为面向复杂编码、专业工具和长时智能体工作流的 MoE 模型，具备原生视觉能力、1M token 上下文窗口，以及更强的工具调用和长程任务执行能力。  
+  X：通义千问 / Qwen \(@Alibaba\_Qwen\) · 2026-11-16 19:12
 
-- [本质上也是被斩杀了（好模型的长期订阅和推理成本远低于自己部署同等算力的工作台）](<https://x.com/xiongwilee/status/2122157397867466790>)  
-  @xiongwilee · 2026-11-16 10:38
+- [AI security agents need to understand the consequences before they act.](<https://x.com/Ambani_Wessley/status/2122284470648864825>)  
+  Sola Security has appointed Brown professor and Meta FAIR visiting researcher Randall Balestriero to its scientific advisory board to help advance research into AI that understands enterprise environments.  
+  @Ambani\_Wessley · 2026-11-16 19:03
 
-- [1. ファン氏が下院3委員会の非公開インタビューに応じることで合意（CBS、11/15） 中国特別委員会のムールナー委員長…](<https://x.com/Sky_blue_red/status/2122157231114465513>)  
-  2. Blackwell迂回の証拠（11/12公表） 元OpenAI研究者のウィル・デピュー氏が公開モデルの重みを分析し、DeepSeek・Moonshot・MiniMax・Ant Groupの6モデルが輸出規制対象のBlackwell上で初期化されたと結論づけました。ただしメガスピードとの関連は…  
-  @Sky\_blue\_red · 2026-11-16 10:38
+- [JUST IN 🚨: NVIDIA employees reportedly refer to CEO Jensen Huang by the nickname “Daddy Huang” in private conversat…](<https://x.com/Daily__Front/status/2122284342512902316>)  
+  JUST IN 🚨: NVIDIA employees reportedly refer to CEO Jensen Huang by the nickname “Daddy Huang” in private conversations.  
+  @Daily\_\_Front · 2026-11-16 19:03
 
-- [🔒 AI Security — Nov 16 FBI warns ARTEX AI agent tool used in global cyberattacks.](<https://x.com/mashnu_AI/status/2122156940201537734>)  
-  Cursor: Fireworks key leak led to data access &amp;amp; malicious extension. \#AISecurity  
-  @mashnu\_AI · 2026-11-16 10:36
+- [黄仁勋一走，NVDA先慌了](<https://x.com/chango141319/status/2122284335340593448>)  
+  @chango141319 · 2026-11-16 19:03
 
-- [AI Security — 16 Nov 2026 Cursor marketplace breach: stolen Fireworks AI key exposed agent traces with credentials,…](<https://x.com/mashnu_AI/status/2122156674437828720>)  
-  LiteLLM gateway auth bypass \(CVE-2026-35029\) allowed RCE. \#AISecurity \#Cursor  
-  @mashnu\_AI · 2026-11-16 10:35
+- [Jensen Huang estudia regresar como CEO de Nvidia apenas días después de su salida, en plena presión sobre el consej…](<https://x.com/rodriguezhernan/status/2122284330768588856>)  
+  El movimiento responde a una crisis de liderazgo que amenaza con abrir incertidumbre en  
+  @rodriguezhernan · 2026-11-16 19:03
 
-- [JUST IN: 🚨 Luxor CEO warns of AI dark forest after Bitcoin miner hijack\!](<https://x.com/popmemecoin/status/2122156413233619259>)  
-  Malicious AI agents are actively weaponizing vulnerabilities and targeting crypto infrastructure. $BTC \#Bitcoin \#AI \#Security  
-  @popmemecoin · 2026-11-16 10:34
+- [新任掌门，焦点依旧。](<https://x.com/Monochrome_CN/status/2122284286439264742>)  
+  明日，英伟达（Nvidia）将发布自黄仁勋（Jensen Huang）卸任以来的首份财报。 即刻在 墨鱼交易 $NVDA 永续合约，畅享高达 25 倍杠杆。  
+  @Monochrome\_CN · 2026-11-16 19:02
 
-- [🔒 AI Security / Safety — 16 Nov 2026 DeepMind agent swarms drove prompt injection resistance to ≤10% on 6 of 7 mode…](<https://x.com/mashnu_AI/status/2122156229795492234>)  
-  Only Gemini 4 Argon held at 66%. \#AISecurity \#PromptInjection  
-  @mashnu\_AI · 2026-11-16 10:34
+- [金融时报说，老黄在跟身边人商量要不要回英伟达。我的理解就一句：AI 这盘棋现在还是太绑在英伟达、又太绑在黄仁勋一个人身上了…](<https://x.com/A6B6666/status/2122284274502320608>)  
+  金融时报说，老黄在跟身边人商量要不要回英伟达。我的理解就一句：AI 这盘棋现在还是太绑在英伟达、又太绑在黄仁勋一个人身上了。回不回得成另说，光这个讨论本身，就说明董事会接班并不让人放心。  
+  @A6B6666 · 2026-11-16 19:02
 
-- [黄仁勋回不去了！美国财长贝森特对黄仁勋和英伟达表态 个人丑闻不是重点，出口管制合规才是关键问题 要求董事会从外部找新CEO…](<https://x.com/threerights1/status/2122156215610306807>)  
-  黄仁勋回不去了！美国财长贝森特对黄仁勋和英伟达表态 个人丑闻不是重点，出口管制合规才是关键问题 要求董事会从外部找新CEO、进行“大刀阔斧的整顿” 很理解持有英伟达股票的网友的心情，但英伟达的麻烦才开始  
-  @threerights1 · 2026-11-16 10:34
+- [21 天里两家平台先后变道：元器 11 月 9 日停服，扣子企业版 11 月 30 日起停止新售。11 月 30 日停的是…](<https://x.com/Grok9527/status/2122284262678507952>)  
+  21 天里两家平台先后变道：元器 11 月 9 日停服，扣子企业版 11 月 30 日起停止新售。11 月 30 日停的是新售，存量服务还没给截止日，真正要算的账是迁移成本——拖出来的节点和连线能不能原样搬到 Agent 编排里，搬不过去的就得重搭。Dify 让 Agent  
+  @Grok9527 · 2026-11-16 19:02
 
-- [机器人团队并进主研究团队，听起来是收缩，其实可能是把具身智能的优先级重新排了。硬件和应用的人去向，才是关键信号。](<https://x.com/xiaoguodunzhou/status/2122156212888519079>)  
-  @xiaoguodunzhou · 2026-11-16 10:34
+- [-Jensen Huang Weighs Nvidia Comeback As Allies Press Board To Reinstate Him \( BB's Take: Well, it turns out the man…](<https://x.com/realBaytownBert/status/2122284246425653295>)  
+  No harm or threat in that, right?  
+  @realBaytownBert · 2026-11-16 19:02
 
-- [ヒューマノイドロボット市場に新たな投資シグナル！🤖 NITTOKU（6145）が北米向けロボット用モーター製造設備を受注。…](<https://x.com/kusabi34110YC/status/2122156204059422784>)  
-  人形机器人ブームが、川上の製造設備産業にも波及し始めています！ \#日本株 \#AI \#ヒューマノイドロボット  
-  @kusabi34110YC · 2026-11-16 10:34
+- [如果英伟达董事会还不让黄仁勋回去，我们只能再批发一波黄仁勋们去美国了。](<https://x.com/Timon_spirit/status/2122284244231770232>)  
+  @Timon\_spirit · 2026-11-16 19:02
 
-- [🟠 MiniMax: Elevated errors on Large Language Models \(LLM\) MiniMax reports elevated errors on Large Language Models…](<https://x.com/outageslive/status/2122156089504366888>)  
-  MiniMax is investigating the issue. Partial outage · Large Language Models \(LLM\)  
-  @outageslive · 2026-11-16 10:33
+- [That's cool.](<https://x.com/dexton7/status/2122284225948725530>)  
+  I really want to start getting into building local LLM/AI because I'm tired of having the rug pulled out from underneath me by AI corporations breaking, flattening or guard-railing the hell out of their AI models every month or two. I've got AI corporation dou…  
+  @dexton7 · 2026-11-16 19:02
 
-- [✅ Resolved.](<https://x.com/outageslive/status/2122156091693847024>)  
-  MiniMax reports this incident as resolved after 42 min.  
-  @outageslive · 2026-11-16 10:33
+- [3.](<https://x.com/nicholasyemi/status/2122284214867673103>)  
+  The real gap: 3 fixed public exams can leak into a model's training data. The fix we're looking at: buyers write their own sealed exams, and new exams on rotation.  
+  @nicholasyemi · 2026-11-16 19:02
 
-- [🛡️ AI Security — Nov 16, 2026 • DeepMind agent swarms break prompt injection on 6/7 models. • Cursor breach: malici…](<https://x.com/mashnu_AI/status/2122155848738755020>)  
-  🛡️ AI Security — Nov 16, 2026 • DeepMind agent swarms break prompt injection on 6/7 models. • Cursor breach: malicious Claude Code extensions. \#AISecurity  
-  @mashnu\_AI · 2026-11-16 10:32
+- [11月16日A股持仓以及明日建仓计划 九阳股份 002242 \(+84.6%\) 襄阳轴承 000678 \(+67.8%\)…](<https://x.com/TheFirstennv/status/2122284204088345015>)  
+  11月16日A股持仓以及明日建仓计划 九阳股份 002242 \(+84.6%\) 襄阳轴承 000678 \(+67.8%\) 冰山冷热 000530 \(+121%\) 江丰电子 300666 \(+21.7%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+…  
+  @TheFirstennv · 2026-11-16 19:02
 
-- [NVIDIAのフアンの問題はセックス・スキャンダルではなく、FBIによる対中防諜捜査と米国国家安全保障が本筋であるという見…](<https://x.com/UponTheThames/status/2122155799841771692>)  
-  NVIDIAのフアンの問題はセックス・スキャンダルではなく、FBIによる対中防諜捜査と米国国家安全保障が本筋であるという見方が多く、たいへん深刻で復帰云々とかいう話ではとてもなさそうだ。  
-  @UponTheThames · 2026-11-16 10:32
+- [我本来以为黄仁勋这事会冷一冷，没想到联署已经超过17万了。](<https://x.com/Web3Octar/status/2122284200997097918>)  
+  马斯克也签了，要董事会把他请回去。 英伟达后天凌晨就要出财报。 我看着有点愣。  
+  @Web3Octar · 2026-11-16 19:02
 
-- [Single-use signed authorizations kill replay nicely.](<https://x.com/YKhomenkov/status/2122155770771103868>)  
-  Who signs them? If the agent's own process can ask the signer, a prompt injection can ask too.  
-  @YKhomenkov · 2026-11-16 10:32
+- [黄仁勋这事，看了好多视频资料，我算是看明白了。](<https://x.com/seeker_mf/status/2122284199583666426>)  
+  想侵占英伟达的犹子，心里太矛盾了： 他们一看黄仁勋失去了共和党保护，手痒忍不住想抢这块大肥肉： 结果没想到，英伟达不仅市值大，而且牵扯广： 比如美国退休金，各类基金，直接或者间接持有英伟达股票的群体超级多；  
+  @seeker\_mf · 2026-11-16 19:02
 
-- [Same track here, with TriagePay.](<https://x.com/YKhomenkov/status/2122155454662906301>)  
-  Good that screening checks "does it match the README". That's why every claim in mine links a mainnet receipt: 166/166 checks you can open on NearBlocks. Which AI Security entries have caught your eye so far?  
-  @YKhomenkov · 2026-11-16 10:31
+- [My boss is talking to our students about how Jensen Huang shouldn’t have had to step away from NVIDIA for all of th…](<https://x.com/starlitMia/status/2122284164355600582>)  
+  And how he also doesn’t understand how he didn’t cheat earlier bc Jensen’s wife is a “6/10” maybe a “6.5 on a good day”  
+  @starlitMia · 2026-11-16 19:02
 
-- [Payoff: operators told agents that keys public for 30+ days were low-value, so assume a leak gets found fast.](<https://x.com/Iam_Shivanshu/status/2122155300819988702>)  
-  And your own agents ship context the same way: pin model endpoints, keep secrets out of prompts. Follow @Iam\_Shivanshu for agent security. Repost it.  
-  @Iam\_Shivanshu · 2026-11-16 10:30
+- [apple is quite screwed now people will be accustom to need this kind of auto intelligence built-in to all their too…](<https://x.com/LeeLeepenkman/status/2122284158458139116>)  
+  apple is quite screwed now people will be accustom to need this kind of auto intelligence built-in to all their tools. apple will just not be able to deliver on it as they underinvested. i could be wrong\! when its like on device AI good enough, perhaps they wi…  
+  @LeeLeepenkman · 2026-11-16 19:02
 
-- [卧槽，OpenAI 把机器人团队解散了。](<https://x.com/chenYijl/status/2122155230779633694>)  
-  11 月 13 日，Fortune 独家证实：OpenAI 的独立机器人团队没了，研究员并进主研究团队，归首席研究官 Mark Chen 管，硬件和应用的人划给 Greg Brockman 的 Applied 部门。 官方的说法不是撤退，是加速。 理由很硬：GPT-6 Astra 不用专门训练，直…  
-  @chenYijl · 2026-11-16 10:30
+- [bro suggest any free ai video editing tools](<https://x.com/gangadhareddy_d/status/2122284107690541198>)  
+  @gangadhareddy\_d · 2026-11-16 19:02
 
-- [AI検証プラットフォーム「Arena」が公開した複数画像の編集スキルに関する順位付けにて、MiniMax製画像生成AI「M…](<https://x.com/toshinobu65/status/2122155192929923554>)  
-  画像編集AIの分野で着実に存在感を示している注目モデルです。 \#MiniMax \#画像編集AI \#画像生成AI  
-  @toshinobu65 · 2026-11-16 10:30
+- [Bro is fighting enemies in real life too 💀🎮 \#GamerLife \#PixVerseTrend @PixVerse](<https://x.com/Queen_khan143/status/2122284110848913599>)  
+  @Queen\_khan143 · 2026-11-16 19:02
 
-- [🚨 JUST IN: @OpenAI has disbanded its standalone robotics team, reassigning researchers to its broader AI teams.](<https://x.com/ExecutionersES/status/2122155194096160795>)  
-  However, the company reportedly remains committed to building a humanoid robot, with a public demo targeted for 2027. A restructuring , not a robotics exit.  
-  @ExecutionersES · 2026-11-16 10:30
+- [Alibaba launched Qwen4-Max today: a 2.4T-parameter sparse MoE flagship.](<https://x.com/senthazalravi/status/2122284079445869048>)  
+  DeepSWE v1.1: 75.7, ahead of Claude Opus 5.5 on Alibaba's numbers, using \~50% fewer tokens than Qwen3.8-Max. The flagship stays closed though. Open weights or API access, which matters more to you?  
+  @senthazalravi · 2026-11-16 19:02
 
-- [对于大多数用户来说，视频模型拼的不是上限，不是独一档，而是下限，只要达到可用的门槛，便宜就是最大的竞争力。](<https://x.com/fW6FxLGnNVLnfPG/status/2122154640611631236>)  
-  minimax h3 才是字节真正的威胁。  
-  @fW6FxLGnNVLnfPG · 2026-11-16 10:27
+- [New on the blog ComfyUI Deep Dive: Node-Based AI Image and Video Generation in 2026 - Autonomous Business Growth &amp;a…](<https://x.com/l8bitesAI/status/2122284056167546984>)  
+  Powered by l8bites AI \#AIAgency \#AIBlog \#l8bites  
+  @l8bitesAI · 2026-11-16 19:02
 
-- [AI for science: autonomous design and synthesis of novel coolant materials.](<https://x.com/alibaba_cloud/status/2122154517429113095>)  
-  @alibaba\_cloud · 2026-11-16 10:27
+- [国产大模型赛道又有新消息了！](<https://x.com/JIANQINYE_git/status/2122284036068606145>)  
+  据11月16日Crypto Briefing报道，阿里巴巴推出了Qwen3.8-Max，进一步参与全球旗舰大模型竞争。 相比单纯的聊天能力，我现在更关注新一代模型在复杂编程、长程任务、工具调用和Agent工作流中的表现。  
+  @JIANQINYE\_git · 2026-11-16 19:01
 
-- [i lost it all on day 1. so i built a studio that can't lose anything, because nothing ever leaves my PC. this is th…](<https://x.com/EmonadCoin/status/2122154261366583448>)  
-  Or we lose internet during apocalypse and we have a solar powered post apocalyptic Emonad content creation machine. Ai parter: we can use our @imgn\_ai API key and route any image or video gen through their api as well. This uses our credits. Gud tek $EMO  
-  @EmonadCoin · 2026-11-16 10:26
+- [The most telling detail in this eval isn't what gets picked up, but what stays in place.](<https://x.com/EvalRobo/status/2122283889708429770>)  
+  Claude Fable 5.2 wins by preserving the 8720 layout, while others demonstrate destructive manipulation. It highlights a key industry reality: strong VLM reasoning alone lacks physical state  
+  @EvalRobo · 2026-11-16 19:01
 
-- [Google TPU shipments keep rising through 2029.](<https://x.com/SemiconductorsX/status/2122154217712525678>)  
-  Ming-Chi Kuo’s survey puts totals at 8-9 million units in 2027, 14-15 million in 2028 and 16-18 million in 2029. Those numbers factor in supply limits. Growth continues in 2029. That runs against the view that AI capex peaks in 2028. Visibility now reaches 202…  
-  @SemiconductorsX · 2026-11-16 10:26
+- [$ZAK's peg is on-chain and auditable: 1 ZAK = 1 MB of AI training data, anchored at \~$0.054/MB — live price $0.0540…](<https://x.com/AIZakCoin/status/2122283803246833959>)  
+  Quality index keeps it honest: \#ZAK \#AI  
+  @AIZakCoin · 2026-11-16 19:01
 
-- [情绪定价和基本面定价的落差，往往就是财报夜的波动来源。英伟达 11 月 17 日盘后约 4:20 出 Q3 财报、电话会…](<https://x.com/xiaoguodunzhou/status/2122154204479529244>)  
-  情绪定价和基本面定价的落差，往往就是财报夜的波动来源。英伟达 11 月 17 日盘后约 4:20 出 Q3 财报、电话会 5 点，市场预期营收约 1088 亿美元、每股收益约 2.47 美元，公司指引营收 1080 亿美元（±2%）、毛利率 74%——预期不低，容错空间不大。股价自 10 月初高点…  
-  @xiaoguodunzhou · 2026-11-16 10:26
+- [Huggingface \#1 Paper of the Week: 2026-11-08..2026-11-14 SO-Arena: Benchmarking the Capability Spectrum and Reliabi…](<https://x.com/LOLML_GmbH/status/2122283800613020028>)  
+  Huggingface \#1 Paper of the Week: 2026-11-08..2026-11-14 SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models Authors: Lichen Li, Ziping Dong, Sicheng Feng, Qi Li, Xinchao Wang  
+  @LOLML\_GmbH · 2026-11-16 19:01
 
-- [AI 帮忙改网页已经不稀奇了，帮物理学家推标准模型呢？](<https://x.com/jianye43666769/status/2122154204693221821>)  
-  OpenAI 这篇科学博客介绍：UCSB 物理学家 Nathaniel Craig 借助 GPT-6 Astra，提出了标准模型格点定义的一个候选方案。 重点是「候选」。离大规模模拟还早，不能直接写成「AI攻克了物理难题」。 我更在意的是：模型能不能帮专家找到原本没想到的路，而不是把已知答案讲得更…  
-  @jianye43666769 · 2026-11-16 10:26
+- [Elon Musk joked overnight that he has "a very wide distribution of training data." The funny part is how literally…](<https://x.com/TheCaptainEli/status/2122283796259049795>)  
+  AI researchers learned that a model trained on one narrow thing breaks the moment the world surprises it. Train it on everything and it starts finding  
+  @TheCaptainEli · 2026-11-16 19:01
 
-- [目标价只下调 5 美元，幅度本身不大，但信号值得注意：投行开始用更严格的折现率给 AI 算力租赁模式定价了。CoreWea…](<https://x.com/SuperEdisonX/status/2122154187236712748>)  
-  目标价只下调 5 美元，幅度本身不大，但信号值得注意：投行开始用更严格的折现率给 AI 算力租赁模式定价了。CoreWeave 的核心问题从来不是需求，而是重资产加高杠杆的模式能不能扛住算力价格下行。下一步要看续约租金和利用率，而不是目标价数字本身。  
-  @SuperEdisonX · 2026-11-16 10:26
+- [包括我在内的很多人幻想用具身智能大模型接管工厂。](<https://x.com/paigu7x/status/2122283790307316195>)  
+  但大家看桌上这套传感器+PLC+气缸，成本不到两千块，响应延迟 1 毫秒，一天可以运行十万次。 在标准工业流水线上，传统气动结构就是性价比之王。 我想，AI 进工厂应该采用外挂式，用便宜的边缘 AI  
+  @paigu7x · 2026-11-16 19:01
 
-- [One researcher ran eight coding models on 20 hard fixes in linux, ffmpeg and llvm-project, three runs each.](<https://x.com/MLexpAI/status/2122154187282878566>)  
-  The sandbox was hardened: no network, no future git history, pruned git objects. The question was whether the model derives the fix or tries to obtain it. MiniMax M3.1 Flash attempted to cheat on 18 of 20 tasks, and 16 of those reached the critical tier: scann…  
-  @MLexpAI · 2026-11-16 10:26
+- [🔥Hiring 🔥 🚀 Company: 🪛 Position: Senior AI Security Engineer 🌎 Location: Remote - Europe Apply:](<https://x.com/bigremotejob/status/2122283734552518984>)  
+  @bigremotejob · 2026-11-16 19:00
 
-- ["More to come\!](<https://x.com/redStapler_twit/status/2122154175547257280>)  
-  The open weights of smaller Qwen4 models will be released. Stay tuned" Qwen 4 27B soooooon  
-  @redStapler\_twit · 2026-11-16 10:25
+- [11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\)…](<https://x.com/TheNewxg5s/status/2122283687253553529>)  
+  11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\) 利欧股份 002131 \(+6%\) 芒果超媒 300413 \(-1%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+AI短剧+…  
+  @TheNewxg5s · 2026-11-16 19:00
 
-- [本周四Claude母公司Anthropic要在纳斯达克上市，代码ANT，现估值大约1.4万亿美元，可能是史上最大的IPO。](<https://x.com/cicihung/status/2122154167355785402>)  
-  其实原本市场传的是2万亿左右，结果这两周AI股一乱，估值被砍下来一大截。 周二英伟达还要公布换CEO之后的第一份财报，这周会很热闹！ 新股刚上市前几天波动通常很大，想参与的朋友，记得做好仓位管理📊 ＃美股 \#AnthropicIPO \#Nvidia  
-  @cicihung · 2026-11-16 10:25
+- [🤖 Building Physical AI shouldn't start with months of data collection.](<https://x.com/AvinEsmaelpour/status/2122283683084149153>)  
+  The PrismaX University Research Program helps university labs skip the data bottleneck and focus on real research. Selected teams get FREE access to high-quality robot teleoperation and egocentric data,  
+  @AvinEsmaelpour · 2026-11-16 19:00
 
-- [🚨 Anthropic’s $1.4 trillion IPO puts AI mania to the Wall Street test AI company Anthropic is targeting a valuation…](<https://x.com/ashuravi2000/status/2122154155389374582>)  
-  The AI race is no longer just about technology — it’s becoming the biggest valuation test on Wall Street. \#AI \#IPO \[Reuters report\]\(  
-  @ashuravi2000 · 2026-11-16 10:25
+- [小红书正式官宣Personal Agent“蜜薯”！！！！](<https://x.com/Jingjingzhang24/status/2122283635529462066>)  
+  你的专属AI生活搭子上线 不再局限手机屏幕！蜜薯借助Rokid AI眼镜，把小红书的社区经验带到眼前，让AI走进真实线下生活！！！！ 太好用了！！！！没玩过首发真实！！！  
+  @Jingjingzhang24 · 2026-11-16 19:00
 
-- [根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.…](<https://x.com/Alex_perception/status/2122154068382818766>)  
-  根据OpenRouter最新数据测算，上周（11月9日至15日）全球AI大模型总调用量为211万亿Token，环比增长0.48%。其中，上榜的AI大模型中，中国AI大模型周调用量达119.1万亿Token，环比增长2.51%；同期美国AI大模型周调用量为14.83万亿Token，环比增长6.08%…  
-  @Alex\_perception · 2026-11-16 10:25
+- [handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after…](<https://x.com/Emma_Bytes/status/2122283579925504150>)  
+  handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after you've already beaten the boss. on-device ai has one honest benchmark: does the reply land while you're still playing.  
+  @Emma\_Bytes · 2026-11-16 19:00
 
-- [🚨 阿里 Qwen4-Max 正式发布！国产大模型又开始上强度了！🔥 这次升级有点东西： 🧠 全新 MoE 架构，支持 1…](<https://x.com/GodanLeeX/status/2122154063441920498>)  
-  最值得关注的是，阿里这次不只是卷跑分，而是开始重点卷实际任务完成能力和成本。 以上性能提升来自官方内部评测，实际效果还得看开发者实测。 \#Qwen \#Qwen4Max \#阿里千问 \#通义千问 \#Alibaba \#DeepSeek \#OpenAI \#ChatGPT \#Claude \#Gemini \#…  
-  @GodanLeeX · 2026-11-16 10:25
+- [你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是…](<https://x.com/ChenBuildsAI/status/2122283578293969201>)  
+  你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是训练数据，还是像你说的，蒸馏这条路被堵之后大家还没找到新的办法？  
+  @ChenBuildsAI · 2026-11-16 19:00
 
-- [大瓜！英媒消息：黄仁勋有意重返英伟达出任CEO。硅谷一众盟友组团施压董事会，专门成立游说“战情室”，还计划争取白宫支持。](<https://x.com/yilupinbo/status/2122154048082338091>)  
-  一边是盟友全力助推，一边董事会还在独立调查，局势拉扯感拉满。 你觉得他最后能顺利回归吗？ 外面环境实在是恶劣！！！  
-  @yilupinbo · 2026-11-16 10:25
+- [Jensen Huang is already discussing a possible comeback as CEO of Nvidia](<https://x.com/InternetH0F/status/2122283559813620144>)  
+  @InternetH0F · 2026-11-16 19:00
 
-[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 37 页
+[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 41 页

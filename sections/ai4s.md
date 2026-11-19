@@ -22,9 +22,9 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 ## 相关资讯 · 14 条
 
-- [诺奖得主做AI制药，20个月狂揽550亿](<https://www.tmtpost.com/8209976.html>)  
-  Isomorphic Labs完成C轮融资。  
-  钛媒体 · 2026-11-18 17:51
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
+  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
+  晚点聊 · 2026-11-19 08:00
 
 - [Odaia获得1500万美元C轮融资](<https://www.itjuzi.com/investevent/14708140>)  
   Odaia是一家AI制药商业洞察SaaS平台研发商，搭建预测式商业智能平台，整合药企碎片化商业数据构建 HCP 动态画像，通过 PowerScore 预测模型推荐最优触达时机与内容，配套个性化营销编排与实时处方归因能力，帮助药企提升销…  
@@ -54,8 +54,8 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
   由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成50亿美元（约合人民币333亿元）C轮融资，融资获得超额认购。 结合公开数据不完…  
   投资界 · 2026-11-18 08:53
 
-- [物理学家如何看待AI冲击：从Suvrat Raju的TheoPhysEval基准被饱和谈起](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
-  Understanding AI采访Suvrat Raju等七位理论物理学家，探讨AI对理论物理的影响。Raju构建的TheoPhysEval基准未发布即被饱和，GPT-6 Astra以平均不到3美元的计算成本答对50题中的49题；arXiv hep-th分类今年1至10月投稿比去年同期多约30%，远超此前最高8%的年增幅。  
+- [七位物理学家谈 AI 如何重塑理论物理研究](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
+  Understanding AI 作者采访 Suvrat Raju 等七位理论物理学家，探讨 AI 对理论物理的冲击。Raju 团队用未公开的真实难题构建 TheoPhysEval 基准，GPT-6 Astra 在 50 题中答对 49 题，每题计算成本不到 3 美元，基准在发布前即被饱和。  
   Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
 
 - [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  

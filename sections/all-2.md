@@ -1,182 +1,169 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 20 页
 
-- [The Verge 分析前沿 AI 放缓风声为何未冲击芯片公司业绩](<https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models>)  
-  The Verge 撰文分析，今夏 OpenAI 暂停前沿训练和 Anthropic 呼吁减速引发的担忧并未在芯片公司业绩中兑现。  
-  The Verge：AI（RSS） · 2026-11-18 23:44
+- [Anthropic Prices IPO at $83 a Share on Strong Demand](<https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 07:49
 
-- [消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元](<https://www.ithome.com/1/029/121.htm>)  
-  IT之家 11 月 18 日消息，北京时间今天（18 日）晚间，据美国 CNBC 援引知情人士消息称，Anthropic 考虑扩大 IPO 发行规模，并可能将发行价定在 远高于 80 美元 （IT之家注：现汇率约合 534.4 元人民…  
-  IT之家 · 2026-11-18 23:35
+- [Satya Nadella 在 DealBook Summit 谈 AI 时代大量关键基础设施固件无法修补](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
+  Microsoft CEO Satya Nadella 在 The New York Times DealBook Summit 上表示，美国大量关键基础设施（包括数据中心冷却设备、HVAC 和交通系统）存在无法修补的软件漏洞，且都联网运行，在 AI 辅助网络攻击时代极易被利用。  
+  TechCrunch：AI（RSS） · 2026-11-19 07:45
 
-- [Modem 2.0 发布客户产品图，可从 Claude Code、ChatGPT、Cursor 经 MCP 调用](<https://modem.ai/blog/modem-2-0-customer-product-graph>)  
-  Modem 发布 Modem 2.0，把客户反馈聚合为连接工单和代码变更的客户产品图。  
-  Modem：Blog（RSS） · 2026-11-18 23:30
+- [定价83美元、估值1.5万亿：Anthropic IPO规模超SpaceX](<https://www.163.com/tech/article/LC34SFB600097U7T.html>)  
+  网易科技 · 2026-11-19 07:39
 
-- [哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责](<https://www.ithome.com/1/029/117.htm>)  
-  IT之家 11 月 18 日消息，据蓝鲸汽车从哈啰方面确认，哈啰 Robotaxi 近期完成了一轮内部组织架构调整。 原智能车-模型开发、系统方案与评测以及 AI Infra-数据平台等相关团队被 整合成立“模型开发与数据闭环部” ，…  
-  IT之家 · 2026-11-18 23:15
+- [马斯克、奥尔特曼、纳德拉等人出席 DealBook 峰会，回应热点问题](<https://www.ithome.com/1/029/143.htm>)  
+  IT之家 11 月 19 日消息，当地时间 11 月 18 日，2026 年度 DealBook 峰会在美国纽约举行。《纽约时报》财经专栏作家、DealBook 创始人安德鲁・罗斯・索尔金主持了此次活动。 OpenAI CEO 萨姆・…  
+  IT之家 · 2026-11-19 07:39
 
-- [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](<https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities>)  
-  Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
-  Wiz：Research（安全研究） · 2026-11-18 23:13
+- [马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容](<https://www.163.com/dy/article/LC34N1C30514R9P4.html>)  
+  网易科技频道 · 网易号 · 2026-11-19 07:37
 
-- [马斯克“怒怼”奥尔特曼：SpaceX 预计不会从 OpenAI 处获得任何收入](<https://www.ithome.com/1/029/116.htm>)  
-  IT之家 11 月 18 日消息，SpaceX CEO 埃隆 · 马斯克出人意料地透露，公司在业务预测中 并未考虑来自 OpenAI 的任何收入 。此前，OpenAI CEO 萨姆 · 奥尔特曼谈及半导体行业可能重复计算 AI 芯片需…  
-  IT之家 · 2026-11-18 23:09
+- [2GB 内存的手机也能流畅用 AI，谷歌降低安卓 Gemini App 使用门槛](<https://www.ithome.com/1/029/141.htm>)  
+  IT之家 11 月 19 日消息，谷歌昨日（11 月 18 日）发布博文， 宣布面向 Android Go 设备开放 Gemini 应用，让内存较小的安卓手机（英文原文中并未提及具体内存容量）也能使用其个人 AI 助手。 谷歌表示通过…  
+  IT之家 · 2026-11-19 07:32
 
-- [SpaceXAI 在美国密西西比州的 AI 数据中心泄漏约 20m³ 丙二醇](<https://www.ithome.com/1/029/115.htm>)  
-  IT之家 11 月 18 日消息，据 tom's hardware 报道，埃隆 · 马斯克（Elon Musk）旗下的 SpaceXAI（SpaceXSI）在美国密西西比州的 AI 数据中心发生化学品泄漏事件。 承包商在连接移动储罐时…  
-  IT之家 · 2026-11-18 23:01
+- [地平线发布 LoFT 原生视频几何基础模型，多项指标达到 SoTA](<https://www.ithome.com/1/029/140.htm>)  
+  IT之家 11 月 19 日消息，11 月 18 日，地平线机器人实验室发布原生视频几何基础模型 LoFT（Looped Foundation Transformer for Video Geometry）。据介绍，该模型能够从 RG…  
+  IT之家 · 2026-11-19 07:30
 
-- [Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations](<https://www.theinformation.com/articles/anthropics-ipo-making-philanthropist-craig-newmark-hold-back-ai-safety-donations>)  
-  The Information · 2026-11-18 23:01
+- [【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点](<https://www.tmtpost.com/8210449.html>)  
+  英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBudd…  
+  钛媒体 · 2026-11-19 07:20
 
-- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
-  Much has been written about AI’s potential to disrupt it.  
-  a16z · 2026-11-18 23:00
+- [纽约、洛杉矶和芝加哥学区考虑弃用 Google Search](<https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google>)  
+  据《纽约时报》报道，纽约、洛杉矶和芝加哥学区在 Google 表示将禁用拒绝其 AI 功能学校的 Search 后，开始考虑替代方案。明年起学校无法单独关闭 Gemini 功能而保留 Search，Google 教育副总裁 Chris Phillips 称 Search 与 AI 已深度整合。  
+  The Verge：AI（RSS） · 2026-11-19 07:18
 
-- [LangSmith for Coding Agents 开启公测：按 pull request 追踪编码 Agent 花费](<https://www.langchain.com/blog/langsmith-coding-agents-roi>)  
-  LangChain 宣布 LangSmith 推出面向编码 Agent 的报告功能，进入 LangSmith Cloud 公测，可自动把 Claude Code、OpenAI Codex、Cursor、GitHub Copilot 和 Deep Agents 等编码 Agent 的每条 trace 花费归因到其产出的 pull request。  
-  LangChain：Blog（RSS） · 2026-11-18 23:00
+- [微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/>)  
+  英伟达CEO黄仁勋在任职33年后于上周卸任，微软CEO萨提亚·纳德拉在纽约时报DealBook峰会上表示此事令人惋惜，并称仍对英伟达及其临时CEO科莱特·克雷斯带领的团队充满信心。纳德拉提到克雷斯曾在微软长期工作，自己与她相识已久。  
+  TechCrunch：AI（RSS） · 2026-11-19 07:17
 
-- [Mistral 发布 Vibe 智能体桌面应用，支持并行多任务](<https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/>)  
-  Mistral 的智能体 Vibe（原 Le Chat）推出桌面应用 Vibe Desktop，用户可同时下达多个任务并观察智能体并行执行。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:40
+- [谷歌推出 Stitch Loop：定位永远不下班的“产品进化器”，替你盯着产品改 Bug](<https://www.ithome.com/1/029/137.htm>)  
+  IT之家 11 月 19 日消息，谷歌旗下 Google Labs 昨日（11 月 18 日）推出实验性产品智能体 Stitch Loop，可连接代码库与线上实时数据，在软件发布后持续发现问题、提出改进方案并编写代码。 与完成单次任务…  
+  IT之家 · 2026-11-19 07:15
 
-- [OpenAI 首次向 Apollo Research 等四家机构开放现场审计其 AI 系统](<https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/>)  
-  OpenAI 宣布首次允许四家独立机构在其办公室现场审计内部 AI 系统，合作方为 Apollo Research、METR、Transluce 和 Goodfire，审计范围包括未发布模型、源代码、训练数据和监控系统。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:36
+- [OpenAI 发布芯片设计最新成果：AMD 旗舰 GPU PPA 最高提升 14%，自研芯片 Jalapeño 面积最高减少 13%](<https://www.ithome.com/1/029/135.htm>)  
+  IT之家 11 月 19 日消息，OpenAI 于当地时间 11 月 18 日发布最新技术报告《Advancing chip design with OpenAI models》，披露了利用 AI 模型辅助芯片设计的最新进展。 据介绍…  
+  IT之家 · 2026-11-19 07:07
 
-- [Hugging Face Inference Providers 改经 OpenRouter 路由语言模型请求](<https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/>)  
-  Hugging Face 宣布其 Inference Providers 服务改经 OpenRouter 路由语言模型请求，默认按价格、速度和可靠性综合选择供应商，故障时自动切换。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:33
+- [How Anthropic Can Capture $30 Trillion](<https://www.bloomberg.com/news/videos/2026-11-18/opinion-how-anthropic-can-capture-30-trillion-video>)  
+  Bloomberg · 2026-11-19 07:01
 
-- [哈佛研究：美国最大 400 座数据中心的电力过半来自天然气和煤炭](<https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/>)  
-  哈佛大学发表于 Nature Sustainability 的研究用卫星图像识别 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间年耗电 68 至 99 TWh。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:25
+- [Meta Pauses New Stock Plan Amid Legal Challenge](<https://www.theinformation.com/briefings/meta-pauses-new-stock-plan-amid-legal-challenge>)  
+  The Information · 2026-11-19 07:01
 
-- [微星 RTX Spark 迷你主机 EdgeMesa N AI+ 上市：64GB + 1TB 售 33999 元](<https://www.ithome.com/1/029/111.htm>)  
-  IT之家 11 月 18 日消息，NVIDIA（英伟达）今日正式解禁了 RTX Spark 迷你主机的销售，而与华硕 ProArt GR1X 一道进入市场的还有微星 \(MSI\) 的 EdgeMesa N AI+。 这一机型同样提供两档…  
-  IT之家 · 2026-11-18 22:24
+- [Satya Nadella 预测 AI Agent 将重塑互联网经济格局](<https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/>)  
+  Microsoft CEO Satya Nadella 在 The New York Times Dealbook Summit 上表示，Agent Web 的兴起将重塑互联网经济，依赖广告和“人类 Web”流量的聚合商商业模式会被洗牌，变现可能转向按点击付费或交易型模式。  
+  TechCrunch：AI（RSS） · 2026-11-19 06:58
 
-- [腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上](<https://www.ithome.com/1/029/110.htm>)  
-  IT之家 11 月 18 日消息，据腾讯公司公关总监张军分享，在今晚的分析师会上，Martin（腾讯总裁刘炽平）透露 WorkBuddy 最近七天的收入按年化折算超过 5 亿美元 （IT之家注：现汇率约合 33.34 亿元人民币） ，…  
-  IT之家 · 2026-11-18 22:15
+- [字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满](<https://www.ithome.com/1/029/133.htm>)  
+  IT之家 11 月 19 日消息，据《The Information》今日报道，字节跳动正与微软进行深入谈判，计划额外采购约 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） 的 Azure 云服务，其中大部分支出将用于调…  
+  IT之家 · 2026-11-19 06:47
 
-- [Nvidia Results Show AI Demand Remains Robust](<https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-18 22:08
+- [New Work Foundation CEO on Helping Young Workers in an AI World](<https://www.bloomberg.com/news/videos/2026-11-18/how-young-workers-are-building-careers-in-an-ai-world-video>)  
+  Bloomberg · 2026-11-19 06:43
 
-- [铭凡 5L 台式机 T5 Max-388 上市：48GB + 1TB，到手价 9699 元](<https://www.ithome.com/1/029/093.htm>)  
-  IT之家 11 月 18 日消息，MINISFORUM（铭凡）现已通过国行电商渠道销售 5L 紧凑台式整机 T5 Max-388。 该机型 基于 AMD 锐龙 AI Max+ 388 处理器 ， 配备 48GB 的 LPDDR5-64…  
-  IT之家 · 2026-11-18 22:04
+- [Opinion \| Congrats on Your Anthropic Shares](<https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 06:42
 
-- [Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI](<https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai>)  
-  The Information · 2026-11-18 22:00
+- [史诗级进化！谷歌 Genie 4 世界模型开放体验：支持边玩边改天气、召唤角色，所见皆可互动](<https://www.ithome.com/1/029/129.htm>)  
+  IT之家 11 月 19 日消息， 今年早些时候，谷歌推出了实验性研究原型 Project Genie，可让用户生成并探索交互式虚拟世界。 早期测试用户反馈，希望能对世界内发生的内容有更强控制力，同时拥有更便捷的建造、分享方式。 如今…  
+  IT之家 · 2026-11-19 06:39
 
-- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
-  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
-  NVIDIA Blog（RSS） · 2026-11-18 22:00
+- [史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX](<https://www.ithome.com/1/029/132.htm>)  
+  IT之家 11 月 19 日消息，据彭博社今日报道，Anthropic PBC 已将首次公开募股（IPO）发行价定为每股 83 美元，高于此前公布的 70 至 78 美元发行区间。 以此计算，Anthropic 完全稀释估值约 1.5…  
+  IT之家 · 2026-11-19 06:36
 
-- [KPMG 首次对 FTSE 250 公司运行百个 AI 智能体参与平行审计](<https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/>)  
-  KPMG 今年首次对一家 FTSE 250 公司运行全流程 AI 平行审计，投入超过 100 个 AI 智能体配合传统团队完成年度审计各阶段，正式审计意见仍基于常规审计。  
-  The Decoder：AI News（RSS） · 2026-11-18 21:55
+- [Anthropic IPO Signals Strong AI Appetite, Harbor Capital's Menne Says](<https://www.bloomberg.com/news/videos/2026-11-18/anthropic-ipo-signals-strong-ai-appetite-harbor-capital-video>)  
+  Bloomberg · 2026-11-19 06:24
 
-- [商汤 2026 年前三季度营收 37.92 亿元，同比增长 30.4%](<https://www.ithome.com/1/029/088.htm>)  
-  IT之家 11 月 18 日消息，商汤今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：37.92 亿元，同比增长 30.4% 毛利润…  
-  IT之家 · 2026-11-18 21:52
+- [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
+  Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
+  Axios · 2026-11-19 06:16
 
-- [消息称三星电子计划在 CES 2027 发布 2 款人形机器人](<https://www.ithome.com/1/029/087.htm>)  
-  IT之家 11 月 18 日消息，韩媒《韩民族日报》当地时间昨日报道称，三星电子计划在明年 1 月举行的 CES 2027 消费电子展上发布 2 款人形机器人。 这两款产品的 名称分别为 HR \(Human Reference\) 和…  
-  IT之家 · 2026-11-18 21:51
+- [Anthropic IPO 定价每股 $83，高于 70 至 78 美元区间](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
+  据报道 Anthropic 将 IPO 发行价定为每股 $83，高于 $70 至 $78 的初始区间，完全稀释估值达 1.5 万亿美元，股票将于周四在纳斯达克以代码 ANT 开始交易。  
+  TechCrunch：AI（RSS） · 2026-11-19 06:11
 
-- [张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情](<https://www.ithome.com/1/029/086.htm>)  
-  IT之家 11 月 18 日消息，据光明日报消息，搜狐张朝阳再次回应搜狐“躺平”相关话题。 对于如今外界认为搜狐“躺平”的看法，张朝阳称一个公司肯定要根据自己的资源来决定做什么。 大模型投入太大，搜狐没资源来做这个事情 。 推荐算法和…  
-  IT之家 · 2026-11-18 21:46
+- [OpenAI Says Its Models Accelerated Chip Design For AMD, Jalapeño](<https://www.theinformation.com/briefings/openai-says-models-accelerated-chip-design-amd-jalapeno>)  
+  The Information · 2026-11-19 06:05
 
-- [一份看空中际旭创的报告，戳中了AI硬件的最大软肋](<https://36kr.com/p/4075210942354560?f=rss>)  
-  一份看空中际旭创的估值测算，几乎把整个AI硬件资产的估值困境摆到了台面上。 11月17日，一份关于中际旭创的看空测算在投资圈迅速传播。按照这份材料的预测，到2029年，中际旭创的年净利润大约只有300亿元，对应合理市值3000亿至4500亿  
-  36氪 · 2026-11-18 21:39
+- [Nvidia created a weird bit of intrigue by not filing a routine SEC report](<https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/>)  
+  One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarte  
+  TechCrunch · 2026-11-19 05:57
 
-- [李想表态马赫M100将逐步开放外供，已有机器人企业问询，理想芯片业务寻找新市场](<https://36kr.com/p/4075207322440578?f=rss>)  
-  11月17日，理想汽车董事长兼CEO（首席执行官）李想在社交平台发文表示，不少机器人企业询问马赫M100能否向其供货，理想将逐步开放这款自研芯片的外供。 这一表态，延续了理想芯片业务近期的商业化动作。10月，理想旗下芯片及域控制器业务主体上  
-  36氪 · 2026-11-18 21:35
+- [Anthropic Is Positive for IPO Market, Fraser Says](<https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-positive-for-ipo-market-fraser-says-video>)  
+  Bloomberg · 2026-11-19 05:54
 
-- [GPU吃不饱，CPU忙不过来，DPU能否“抢班夺权”？](<https://36kr.com/p/4075200113153157?f=rss>)  
-  2019年3月，英伟达以69亿美元的价格击败英特尔、微软、赛灵思等巨头，将服务器与网络芯片厂商Mellanox收入囊中。 一年半以后，英伟达正式将Mellanox的BlueField“智能网卡”命名为DPU，与CPU、GPU并列为数据中心“  
-  36氪 · 2026-11-18 21:33
+- [Anthropic Raises $81 Billion in Upsized IPO](<https://www.theinformation.com/briefings/anthropic-prices-ipo-83-share>)  
+  The Information · 2026-11-19 05:51
 
-- [腾讯高管：预计 2028 年 AI 投入产出效率改善，得益于基础设施复用、硬件降价与算力效率提升](<https://www.ithome.com/1/029/080.htm>)  
-  IT之家 11 月 18 日消息，据科创板日报报道，腾讯高管在业绩会上表示， 公司当前的资本开支主要用于 AI 基础设施建设 ，这类投入并非一次性消耗，而是能够形成可持续使用的基础设施，既可用于新一代模型训练，也能持续支撑 Token…  
-  IT之家 · 2026-11-18 21:31
+- [Anthropic IPO 是否对投资者和社会都是坏赌注？](<https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both>)  
+  Gary Marcus 对即将到来的 Anthropic IPO 高估值提出质疑，认为其收入已不再像 Q2 那样高速增长，中国模型追赶上后用户开始更谨慎地控制 token 支出，收入趋于平缓。他还认为 Dario 在医疗等领域的激进承诺不切实际，并呼吁为人类福祉考虑不要购买 Anthropic 股票。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-19 05:45
 
-- [会用AI的人，更容易找到工作？](<https://36kr.com/p/4075158282212232?f=rss>)  
-  AI已经广泛融入游戏开发的多个环节。这个趋势也影响了厂商对人才的需求。一份腾讯IEG2026年的实习生招聘材料里显示，游戏AI相关岗位的需求明显提升，部分岗位开设了AI面试或AI Coding考察。 这一趋势在世界范围内也是共通的。GDC在  
-  36氪 · 2026-11-18 21:30
+- [Google DeepMind 发布 Gemini 4 Neon](<https://deepmind.google/blog/introducing-gemini-4-neon/>)  
+  Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。模型在 Artificial Analysis Intelligence Index 得 61 分排第 3，Vals Index 排第 2，Agent Arena Index 以 1336 分全球第 2。  
+  Google DeepMind：Blog（RSS） · 2026-11-19 05:35
 
-- [美团“妙手到店餐饮版”：让AI帮商家分担琐事，把时间留给菜品和顾客](<https://36kr.com/p/4075299959608452?f=rss>)  
-  近日，美团发布“妙手到店餐饮版·智能掌柜”，面向全国餐饮商家开放。商家可通过“妙手到店餐饮版”使用智能掌柜AI服务，生成经营报告、梳理顾客评价，及时发现门店需要跟进的问题。 据餐饮行业人士介绍，餐饮商家在日常经营中面临不同类型的管理成本：大  
-  36氪 · 2026-11-18 21:30
+- [Palmer Luckey 警告：AI 驱动的网络攻击正超越防御能力，“该跑起来了”](<https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/>)  
+  Palmer Luckey 在《纽约时报》DealBook 峰会上警告，AI 驱动的网络攻击速度已超过老旧系统的防御能力，攻击者与防御方之间存在明显错配。他称美国对手正利用这一差距发动兼具战略与财务目的的攻击，朝鲜参与尤为突出。他认为长期看优势将属于最有效运用 AI 防御的一方，但防御方必须加快节奏，“该跑起来了”。  
+  TechCrunch：AI（RSS） · 2026-11-19 05:34
 
-- [SEC就未披露的对华相关芯片销售对英伟达展开民事调查](<https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/>)  
-  据《华尔街日报》报道，美国证券交易委员会（SEC）已对英伟达展开民事调查，核查其是否违反披露规则并误导投资者，调查重点涉及其在亚洲的芯片销售。报道称，美国商务部、司法部及国会也在进行相关调查，英伟达股价自事件发酵以来下跌超过10%。  
-  The Decoder：AI News（RSS） · 2026-11-18 21:28
+- [Understanding AI 用19张图表解析AI行业现状](<https://www.understandingai.org/p/19-charts-that-explain-the-state>)  
+  Understanding AI 发布19张图表，量化AI对美国经济和就业的影响。文中提到 Anthropic 即将上市，估值或超万亿美元，OpenAI 预计明年跟进；五大科技公司2026年第三季度资本支出达2300亿美元，AI收入年化运行率达3450亿美元，但新增企业采用放缓，年轻软件工程师就业明显下滑。  
+  Timothy B. Lee：Understanding AI（RSS） · 2026-11-19 05:34
 
-- [AI音乐的数据标注生意](<https://36kr.com/p/4075157923567490?f=rss>)  
-  学音乐，得先听懂节奏、和弦和乐器。AI也一样。 10月，一首AI歌曲《过来人》爆火，杜甫、苏轼、刘邦等数位历史和神话人物用说唱聊房贷、职场和中年困境，戳中不少人心声。也有人直言，一听就是AI，听得浑身难受。 AI也进入了专业音乐创作舞台。江  
-  36氪 · 2026-11-18 21:27
+- [Palmer Luckey 就 Nvidia CEO 人事变动发表看法](<https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/>)  
+  TechCrunch 报道，Anduril CEO Palmer Luckey 在纽约时报 DealBook Summit 上就 Nvidia 领导层变动发表看法，认为相关变动可能影响美国产业竞争力，并呼吁 Nvidia 恢复创始人黄仁勋的 CEO 职位。报道称，已有超过 20 万人联署请愿，包括马斯克及多家科技公司 CEO；Nvidia 临时 CEO Colette Kress 在财报电话会上表示，公司暂无重新任命黄仁勋的计划。  
+  TechCrunch：AI（RSS） · 2026-11-19 05:31
 
-- [英伟达澄清新云厂商融资担保规则：担保有生效条件，后续筛选对象将更加审慎](<https://www.ithome.com/1/029/079.htm>)  
-  IT之家 11 月 18 日消息，周末，约 19.7 万人签署了一份请愿书，呼吁英伟达重新任命离职的 CEO 黄仁勋（Jensen Huang），其中甚至包括埃隆 · 马斯克（Elon Musk）。支持者力挺黄仁勋的原因之一，不仅在于…  
-  IT之家 · 2026-11-18 21:26
+- [Palo Alto Networks to Acquire AI Firm Applied Compute for $4.5 Billion](<https://www.theinformation.com/briefings/palo-alto-networks-acquire-ai-firm-applied-compute-4-5-billion>)  
+  The Information · 2026-11-19 05:25
 
-- [始终将水瓶、文件夹误认为枪支，美国一高中停用 AI 武器探测系统](<https://www.ithome.com/1/029/078.htm>)  
-  IT之家 11 月 18 日消息，据外媒 TechSpot 今天（18 日）晚间报道，因屡次将普通物品误判为潜在威胁，美国宾夕法尼亚州亨普菲尔德地区高中最终决定 停用 AI 武器探测系统 。 该校高中是当地参与 Wi-AI 系统训练的…  
-  IT之家 · 2026-11-18 21:25
+- [Anthropic IPO Raises $107.3 Billion to Top SpaceX’s Record Debut](<https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share>)  
+  Bloomberg · 2026-11-19 05:09
 
-- [防止考生利用 AI 作弊，韩国临时屏蔽高考考场及周边 100 米内公共 WiFi](<https://www.ithome.com/1/029/075.htm>)  
-  IT之家 11 月 18 日消息，据韩联社报道，韩国 2027 学年度大学修学能力考试（高考）开考在即，为防范考生利用人工智能技术作弊，自当地时间 18 日下午 6 时起，全国高考考点及周边地区临时屏蔽公共 WiFi 信号。 据韩国政…  
-  IT之家 · 2026-11-18 21:23
+- [Google 发布 Gemini 4 Neon，一个月内第四个新 Gemini 模型](<https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/>)  
+  Google 发布 Gemini 4 Neon，定位复杂软件工程、知识工作和科学工作流的快速端到端任务完成。API 定价为每百万输入 token 3 美元、输出 15 美元，高于 Carbon 和 Argon 的 $2/$10（12 月 1 日起翻倍至 $4/$20）及 Hydrogen 的 $1.50/$7.50。  
+  The Decoder：AI News（RSS） · 2026-11-19 05:03
 
-- [放弃搜索也不接受AI，芝加哥学区硬刚谷歌：捆绑AI不如不用](<https://36kr.com/p/4075096733505417?f=rss>)  
-  谷歌最近推出的一条新规，把美国多个公立学区惹炸了。 主要内容是，从2027年初开始，面向中小学的教育账号，再也不能单独关闭谷歌搜索里的AI功能。 想用搜索，就必须接受内置的AI概览，想彻底不用AI？那连搜索服务一块儿都别用。 据媒体报道，这  
-  36氪 · 2026-11-18 21:19
+- [Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion](<https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 05:00
 
-- [Claude Code新模式来了，不换模型，Token消耗最高砍掉77%](<https://36kr.com/p/4075148096066440?f=rss>)  
-  用过 Claude Code 的开发者，几乎都有过同一种体验：干活确实爽，但看着后台飞速跳动的 Token 消耗和账单，心也在滴血。 过去想让 AI 智能体跑得更快、花钱更少，用户通常只有两条路：要么苦等厂商发布更便宜的新模型，要么手动把主  
-  36氪 · 2026-11-18 21:07
+- [Databricks 推出 Genie Migrate for Serverless，用智能体把经典工作负载迁到 Serverless](<https://www.databricks.com/blog/introducing-genie-migrate-serverless>)  
+  Databricks 发布 Beta 版 Genie Migrate for Serverless，这个智能体可把作业和 notebook 从经典计算迁移到 Serverless 计算。它先评估哪些工作负载可迁移，再把计算配置、库与 Spark 配置、代码改动以 diff 形式提交审核，确认后才应用并支持回退。用户可在 Genie 中用 /compute migrate 命令启动，无需额外配置。  
+  Databricks：Blog（RSS） · 2026-11-19 05:00
 
-- [腾讯 WorkBuddy 日活破千万，一个什么信号？](<https://36kr.com/p/4075162266735752?f=rss>)  
-  刚刚，腾讯宣布其旗下的 AI Agent 产品 WorkBuddy 日活跃用户突破千万，日均 Token 消耗量超 100 亿，成为中国大语言模型 Token 用量最高 AI 产品。 WorkBuddy 不是传统意义上的 AI 聊天机器人，  
-  36氪 · 2026-11-18 21:05
+- [US Alleges Russian Agent Stalked, Harassed Palantir Workers](<https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers>)  
+  Bloomberg · 2026-11-19 04:44
 
-- [多台Mac组成算力集群，苹果或进入数据中心市场](<https://36kr.com/p/4075167490184323?f=rss>)  
-  在本地部署大模型，从而实现Token自由、隐私安全和自主可控，这是一个AI圈子里的经典meme（模因）。为了满足这类用户的需要，英伟达做了DGX Spark、AMD推出Strix Halo，现在苹果似乎也准备入局了。 日前有消息显示，苹果旗  
-  36氪 · 2026-11-18 21:01
+- [Sam Altman 回应 Andrew Garfield 在新片《Artificial》中饰演自己](<https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/>)  
+  Sam Altman 在纽约时报 DealBook 峰会上回应 Andrew Garfield 将在圣诞档上映的传记喜剧剧情片《Artificial》中饰演自己，称若 20 年前有人说要拍他的电影会觉得非常奇怪，如今已排不进他人生最怪的前十件事。该片讲述 OpenAI 的崛起以及他 2023 年被短暂罢免引发的内部动荡。  
+  TechCrunch：AI（RSS） · 2026-11-19 04:07
 
-- [Nvidia 停止向中国发货 H200 AI 芯片](<https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling>)  
-  Nvidia 临时 CEO Colette Kress 在周二财报电话会上宣布，公司已停止向中国发货获许可的 Hopper 架构 H200 数据中心芯片，业绩指引也不再包含相关产品。尽管白宫去年 12 月批准对华销售，此前路透报道约 600,000 颗 H200 芯片因北京未批准大规模进口滞留香港；文章还提到 Huang 上周卸任 CEO 及芯片审查担忧，但 Kress 未解释停售原因。  
-  The Verge：AI（RSS） · 2026-11-18 21:01
+- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
+  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
+  Axios · 2026-11-19 04:00
 
-- [Nvidia 澄清对 neocloud 贷款担保何时生效、何时失效](<https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/>)  
-  Nvidia 临时 CEO、CFO Colette Kress 在财报电话会上澄清，公司为 neocloud 和数据中心客户提供的贷款担保并非直接出资，只有在客户筹齐融资、建成设施并装好 Nvidia 设备后才生效，否则担保不存在，并以 OpenAI 俄亥俄州 PORTS-Pike 园区 1050 亿美元担保为例。  
-  TechCrunch：AI（RSS） · 2026-11-18 21:00
+- [Snapchat 推出 Easy Lens CLI，开发者可用 Claude Code、Cursor 等 AI 编码助手构建 AR Lenses](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>)  
+  Snapchat 宣布推出 Easy Lens CLI，让 Lens 创作者用 Claude Code、Cursor、Codex 等 AI 编码助手以自然语言构建 AR Lenses。  
+  TechCrunch：AI（RSS） · 2026-11-19 03:56
 
-- [从腾讯AI到AI腾讯](<https://36kr.com/p/4075202762904708?f=rss>)  
-  又到腾讯交AI成绩单的时候。 刚刚发布的2026年Q3财报，腾讯对外界备受关注的混元HY4，WorkBuddy、小微等关键业务或产品，给出新的进展和数据。 其中首次披露WorkBuddy核心运营数据，日活已经超千万，是目前中国大语言模型To  
-  36氪 · 2026-11-18 20:59
+- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
+  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
+  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
 
-- [黄仁勋接班人，是他？](<https://36kr.com/p/4075211268969600?f=rss>)  
-  封面图｜铅笔道制图 黄仁勋想回来，英伟达董事会却不想给机会。 11月17日，黄仁勋在社交平台X上表示，如果董事会认为符合公司、股东及员工的最佳利益，他愿意重新执掌这家亲手创办的芯片巨头。 然而，几小时后，英伟达董事会就给他泼了一盆冷水。 在  
-  36氪 · 2026-11-18 20:56
+- [Bret Taylor’s Sierra in Talks to Raise at $30 Billion Valuation](<https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation>)  
+  The Information · 2026-11-19 03:47
 
-- [腾讯：受芯片限制影响，训练下一代模型将需要更长时间](<https://www.ithome.com/1/029/066.htm>)  
-  IT之家 11 月 18 日消息，据金融界报道，腾讯控股在 2026 年第三季度财报沟通中披露，受芯片限制影响，训练下一代模型将需要更长时间。 今日腾讯发布 2026 年三季报，本季度， 腾讯实现营收 2073 亿元 ，同比增长 8%…  
-  IT之家 · 2026-11-18 20:56
+- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
+  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
+  The Verge：AI（RSS） · 2026-11-19 03:40
 
-- [豆包工作上线三个月，日活跃用户（DAU）突破 800 万](<https://www.ithome.com/1/029/064.htm>)  
-  IT之家 11 月 18 日消息，豆包工作官方今日宣布，产品上线 3 个月， 日活跃用户（DAU）突破 800 万 ，企业客户年度经常性收入（ARR）突破 20 亿元。 IT之家注：豆包工作是豆包面向生产力场景打造的 AI 产品及品牌…  
-  IT之家 · 2026-11-18 20:55
+- [The Verge 可视化解读 Nvidia 的利润增长](<https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang>)  
+  The Verge 用图表解读 Nvidia 的盈利规模：平均每天净赚约 7 亿美元，每秒约 8300 美元，季度利润达 653 亿美元。文章将当前利润与加密热潮和 GPU 缺货时期对比，并提及公司管理层变动后的业务展望。  
+  The Verge：AI（RSS） · 2026-11-19 03:30
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 20 页

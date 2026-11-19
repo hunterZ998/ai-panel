@@ -1,182 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 37 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 41 页
 
-- [From every angle.](<https://x.com/AstonMartinF1/status/2122370155598782729>)  
-  See more of our \#LasVegasGP livery with @CoreWeave.  
-  @AstonMartinF1 · 2026-11-17 00:44
+- [Many people are just starting to learn how Jensen Huang ruled Nvidia—from his gnarly eviscerations of employees to…](<https://x.com/anissagardizy8/status/2122493529293475884>)  
+  A must-read with @HannaCritch @ByKLong @RWhelanWSJ for @WSJ  
+  @anissagardizy8 · 2026-11-17 08:54
 
-- [Ashton Kutcher after his $435m investment in Anthropic will be $7B at IPO \(15x\) and his $30m early check into OpenA…](<https://x.com/TrungTPhan/status/2122369601095016887>)  
-  Ashton Kutcher after his $435m investment in Anthropic will be $7B at IPO \(15x\) and his $30m early check into OpenAI now worth $1.2B+ \(40x\)  
-  @TrungTPhan · 2026-11-17 00:41
+- [Anthropic hasn't realized it yet or maybe doesn't have a choice at this point, but destroying Jensen Huang also des…](<https://x.com/FinanceLancelot/status/2122493078540099748>)  
+  In hindsight, this IPO may be seen as what popped AI bubble valuations. $ANT IPOs on Thursday November 19, 2026.  
+  @FinanceLancelot · 2026-11-17 08:52
 
-- [What a strange week for @JensenHuang and @nvidia.](<https://x.com/PavloMolchanov/status/2122368161785999739>)  
-  It all feels orchestrated and targeted, and I hope we get to the bottom of it. I’ve been at NVIDIA for 12.5 years, started as an intern and made it to Research Director thanks to incredible colleagues and especially Research  
-  @PavloMolchanov · 2026-11-17 00:36
+- [BREAKING: NVIDIA increased its SpaceX stake by 6.3% to 130.5 million shares.](<https://x.com/cb_doge/status/2122492118379933721>)  
+  Its latest SEC filing shows: • SpaceX became NVIDIA’s largest reported stock holding by value. • 7.7 million additional SpaceX Class A shares in Q3. • A SpaceX stake valued at $19.68 billion as  
+  @cb\_doge · 2026-11-17 08:48
 
-- [AlphaProof 用 AI 验证 Signal 加密代码](<https://x.com/GoogleDeepMind/status/2122366994708124098>)  
-  🔘 它驱动 AlphaProof Code 智能体，在数周而非数年内从数学上证明了 @Signalapp 加密代码的安全性。 🔘 直接从实验室笔记本和原始数据中发现了细微的湿实验错误和数据异常。 🔘 在大型数据库中找到了 40 倍多的相关蛋白质序列，以帮助建模难以预测的蛋白质。  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-17 00:31
+- [Perplexity CEO 认为 AI 自动化科研是最值得投入的算力方向](<https://x.com/AravSrinivas/status/2122490397113131027>)  
+  Perplexity CEO Aravind Srinivas 转发并评论称，用于自动化科学研究的 AI 是最值得投入的算力方向。其引用的 NVIDIA 在 \#SC26 上发布的 Nemotron for Science 包含开源模型、数据集、工具和后训练配方，帮助研究者构建能规划任务、运行模拟、…  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-17 08:41
 
-- [Google 展示用 Gemini 4 Hydrogen 生成的视觉 ASMR 视频](<https://x.com/Google/status/2122366286659289502>)  
-  Google 发布一段用 Gemini 4 Hydrogen 在 Gemini App 中生成的视觉 ASMR 演示视频。Gemini 4 Hydrogen 已向所有人开放，用户可在 Gemini App、Google Search、Google AI Studio 等入口使用。  
-  X：Google \(@Google\) · 2026-11-17 00:28
+- [¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial a…](<https://x.com/ElBadiablo/status/2122490194972541341>)  
+  ¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial aceleró la ingeniería inversa y el descubrimiento de fallos de seguridad \(zero-day exploits\). 👇 \#Ciberseguridad \#InteligenciaArtificial \#Microsoft…  
+  @ElBadiablo · 2026-11-17 08:41
 
-- [Fuck, this is absolutely insane.](<https://x.com/Mohiniuni/status/2122364321036468682>)  
-  Dario Amodei, CEO of Anthropic, was asked what a young person who has just finished high school should do today. His answer: «AI already knows how to do a junior lawyer’s job. A junior financial analyst’s. A junior consultant’s. We can’t deny  
-  @Mohiniuni · 2026-11-17 00:21
+- [Vance: The Democrats are using this salacious story about Jensen Huang and this mistress, and trying to effectively…](<https://x.com/Acyn/status/2122490020724678698>)  
+  Ingraham: So you’re not concerned a third party country has gotten that technology from Nvidia and  
+  @Acyn · 2026-11-17 08:40
 
-- [Gemini 4 Hydrogen 了解更多](<https://x.com/Google/status/2122362271426916496>)  
-  了解更多关于 Gemini 4 Hydrogen 的信息 ↓  
-  X：Google \(@Google\) · 2026-11-17 00:12
+- [Claude Code 支持 iPhone Duo 模拟器](<https://x.com/adocomplete/status/2122489426370802103>)  
+  Claude Code 🤝 iPhone Duo  
+  X：Ado Kukic（Anthropic 开发者关系，Claude Code） \(@adocomplete\) · 2026-11-17 08:38
 
-- [$NVDA ANNOUNCES QUANTUM COMPUTING BREAKTHROUGH Nvidia says its new CUDA-Q algorithm delivers up to 13,000x faster d…](<https://x.com/wallstengine/status/2122362083140637157>)  
-  Alongside the breakthrough, Nvidia announced a  
-  @wallstengine · 2026-11-17 00:12
+- [El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Esta…](<https://x.com/meganoticiascl/status/2122489079807775148>)  
+  El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Estado, capacitar a funcionarios y mejorar la atención a las personas.  
+  @meganoticiascl · 2026-11-17 08:36
 
-- [Google 用 Gemini 4 Hydrogen 演示视觉 ASMR 视频生成](<https://x.com/Google/status/2122362040400371712>)  
-  Google 发布一段由 Gemini 4 Hydrogen 在 Gemini App 中生成的视觉 ASMR 视频，演示其视频生成效果。文中称 Hydrogen 已向所有人开放，可在 Gemini、Google Search、Google AI Studio 等产品中使用。  
-  X：Google \(@Google\) · 2026-11-17 00:11
+- [Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason…](<https://x.com/maddenifico/status/2122487642952532409>)  
+  Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason behind Trump's praise becomes clear: "No, he's done a very good job." Approximately a year ago, U.S. intelligence briefed Trump that an alleged …  
+  @maddenifico · 2026-11-17 08:31
 
-- [NEW: An AI researcher at Anthropic runs a business that hosts "consensual non-consent" orgies in the Bay Area.](<https://x.com/aaronsibarium/status/2122361245357478085>)  
-  The orgies have been the subject of sexual assault allegations and sparked debate about the AI industry's attitudes toward women, some of whom report feeling pressured  
-  @aaronsibarium · 2026-11-17 00:08
+- [Microsoft crashed.](<https://x.com/AntiTrumpCanada/status/2122487614041108689>)  
+  America’s air traffic system collapsed. Now the banks are having a meltdown. Somewhere, a third-world country is looking at America and thinking, “Jesus Christ, get your shit together.”  
+  @AntiTrumpCanada · 2026-11-17 08:30
 
-- [We have reached an agreement with OpenAI to conduct a limited alignment assessment.](<https://x.com/METR_Evals/status/2122361049114657203>)  
-  This pilot will focus on investigating the alignment properties of OpenAI's largest RL run. We will publish one or more reports to share our findings and transparently describe our process.  
-  @METR\_Evals · 2026-11-17 00:08
+- [🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨 He could raise tens…](<https://x.com/vip92226041/status/2122486275131560222>)  
+  With the relationships he's built over decades, he could easily  
+  @vip92226041 · 2026-11-17 08:25
 
-- [MICROSOFT DATA SHOWS CLAUDE IS STALLING AGAINST COPILOT IN OFFICE: THE INFORMATION MSFT polled the 8 people who use…](<https://x.com/zerohedge/status/2122360045698764888>)  
-  MICROSOFT DATA SHOWS CLAUDE IS STALLING AGAINST COPILOT IN OFFICE: THE INFORMATION MSFT polled the 8 people who use copilot  
-  @zerohedge · 2026-11-17 00:04
+- [Microsoft, Chase, Wells Fargo, United Airlines, and the FAA all went down in the last few days.](<https://x.com/AustinConserve/status/2122486174740512823>)  
+  But our voting machines are “impossible” to hack… We need a massive audit. Start in Texas.  
+  @AustinConserve · 2026-11-17 08:25
 
-- [OpenAI 与 GoodfireAI 合作研究模型可解释性](<https://x.com/OpenAI/status/2122359937649242197>)  
-  将派驻可解释性研究人员，使用其平台分析我们模型的内部结构。 他们的工作聚焦于训练过程监控、调试与对齐，帮助我们的研究人员发现问题并做出安全改进。  
-  X：OpenAI \(@OpenAI\) · 2026-11-17 00:03
+- [ついにOpenAIがカリフォルニア州から提訴されててウケる。今までがおかしかっただけで残当よな。そのまま生成AI朽ち果てれ…](<https://x.com/lIlIlIlllIl11/status/2122485137984421997>)  
+  ついにOpenAIがカリフォルニア州から提訴されててウケる。今までがおかしかっただけで残当よな。そのまま生成AI朽ち果てればいい  
+  @lIlIlIlllIl11 · 2026-11-17 08:21
 
-- [OpenAI 与 Apollo 评估模型隐蔽背离风险](<https://x.com/OpenAI/status/2122359932167348727>)  
-  将评估我们的模型是否会暗中违背开发者的意图行事——以及我们的防护措施能否检测到这种行为。 它将审查来自训练、安全测试和内部使用的证据，以检验这种行为以及我们捕捉它的能力。  
-  X：OpenAI \(@OpenAI\) · 2026-11-17 00:03
+- [OpenClaw 上线腾讯混元 Hy4 Flash 模型](<https://x.com/openclaw/status/2122485133597114682>)  
+  OpenClaw 宣布腾讯混元 Hy4 Flash 现已可用。作者转述腾讯数据，称其在 WorkBuddy 评测中日常任务质量与 Hy4 持平，同时将平均任务时间缩短 70%，成本约为原来的 1/15；被引用的官方内容还称其在人工盲测中比肩 Claude Haiku 5.5（high），任务成本降…  
+  X：OpenClaw \(@openclaw\) · 2026-11-17 08:21
 
-- [OpenAI 邀请 METR 调查其最大规模强化学习运行中的失配行为](<https://x.com/OpenAI/status/2122359933794652589>)  
-  OpenAI 宣布 METR 将调查其迄今最大规模强化学习运行中的失配行为，包括现有测试和监控可能遗漏的失败案例。双方还初步同意开展更广泛的监控评估，尚待就范围达成一致。  
-  X：OpenAI \(@OpenAI\) · 2026-11-17 00:03
+- [Microsoft Threat Intelligence has published a detailed analysis of the phishing campaign exploiting the November 12…](<https://x.com/MsftSecIntel/status/2122484150770807014>)  
+  The campaign  
+  @MsftSecIntel · 2026-11-17 08:17
 
-- [OpenAI 与 TransluceAI 评估对齐测试](<https://x.com/OpenAI/status/2122359935216558328>)  
-  将评估我们训练后对齐评估的质量与覆盖范围。 他们将开发更多测试，并针对我们测试范围中的缺口提出改进建议，并计划在 2027 年扩大我们的试点。  
-  X：OpenAI \(@OpenAI\) · 2026-11-17 00:03
+- [Anthropic, in partnership with the MSM is who’s behind the coup to takeout Jensen and nationalize our greatest comp…](<https://x.com/Midnight_Captl/status/2122484137147924984>)  
+  Controlled by them. No open source. Too dangerous.  
+  @Midnight\_Captl · 2026-11-17 08:17
 
-- [OpenAI 与 Apollo Research、METR 等四家机构合作开展嵌入式评估](<https://x.com/OpenAI/status/2122359930628063248>)  
-  OpenAI 宣布与 Apollo Research、METR、Transluce、Goodfire 四家机构合作开展嵌入式评估，让外部专家深入接触其内部模型和系统，调查对齐问题并测试安全防护措施。这些评估建立在 OpenAI 持续的对齐与安全研究之上，为其识别和管理系统风险的方式带来独立审查，详…  
-  X：OpenAI \(@OpenAI\) · 2026-11-17 00:03
+- [Mais uma vez, o PT está destruindo não só o presente, mas o futuro dos brasileiros.](<https://x.com/onyxlorenzoni/status/2122483227734778059>)  
+  O Brasil entrou para a lista de países que necessitam de autorização do governo americano para comprar chips de IA avançados da Nvidia e de outros fabricantes americanos.  
+  @onyxlorenzoni · 2026-11-17 08:13
 
-- [腾讯混元 Hy4 flash 上线 OpenRouter，限时五折](<https://x.com/TencentHunyuan/status/2122359683247931725>)  
-  腾讯混元宣布 Hy4 flash 现已上线 OpenRouter，限时五折，OpenRouter 价格为每 1M tokens $0.035 输入、$0.1405 输出、$0.0015 缓存读取，适合高工作量场景。所引用的介绍称其在日常任务的人类盲测中与 Claude Haiku 5.5（high…  
-  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-17 00:02
+- [🚨 SMASH JT EXCLUSIVE 🚨 My Microsoft insider has just informed me that XBOX is actively considering delaying Fable \(…](<https://x.com/SmashJT/status/2122482126126039397>)  
+  Currently planned for February 23rd, 2027. There is a HIGH chance it gets delayed  
+  @SmashJT · 2026-11-17 08:09
 
-- [Google DeepMind 发布 Gemini Robotics 2.5 与 AlphaGenome 2 两个领域模型](<https://x.com/_philschmid/status/2122359682459164760>)  
-  Google DeepMind 发布两个领域模型。Gemini Robotics 2.5 是覆盖双臂和人形机器人的全身视觉-语言-动作模型，在奔驰产线上配合 Apptronik Apollo 2 达到 96% 的 kitting 成功率。AlphaGenome 2 是单细胞 DNA 模型，基于 1…  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-17 00:02
+- [first it was microsoft, then it was the planes, then it was the banks… your rose toy is next, ladies\!\! go manual be…](<https://x.com/aminathreee/status/2122481557948838242>)  
+  first it was microsoft, then it was the planes, then it was the banks… your rose toy is next, ladies\!\! go manual before it impregnates you. the declining birth rates are at the top of their agendas\!\!\!  
+  @aminathreee · 2026-11-17 08:06
 
-- [Gemini Managed Agents 支持自托管环境](<https://x.com/_philschmid/status/2122359676754944409>)  
-  Google 的 Gemini Managed Agents 现已支持自托管环境：模型推理和 Agent 循环运行在 Google 基础设施上，bash 命令和文件编辑则通过出站 HTTPS 在用户自己的计算环境中执行。用户可用开源 gemini-api CLI 在本地以 TypeScript 测…  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-17 00:02
+- [Musk supporters, would you trust Elon Musk to bring Jensen Huang onto his team? 🚀 Yes or No? 👇](<https://x.com/chiefexcutivex/status/2122481499312447952>)  
+  @chiefexcutivex · 2026-11-17 08:06
 
-- [Google 与 Artificial Analysis 发布多模态知识智能体基准](<https://x.com/_philschmid/status/2122359679837724966>)  
-  我们与 Artificial Analysis 合作发布了多模态知识智能体基准：200 个多步骤任务，覆盖 10 个垂直领域，围绕 CAD 蓝图、RF 原理图、GIS 地图、凝胶板和图表构建。  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-17 00:02
+- [Every day and every headline is more chaotic than the next. $NVDA sliding toward $150, the Nasdaq getting hammered,…](<https://x.com/OverdueDaily/status/2122481482543284442>)  
+  Every day and every headline is more chaotic than the next. $NVDA sliding toward $150, the Nasdaq getting hammered, Jensen Huang is history, earnings days away, and your timeline is full of people asking why they didn't sell AI at the top, so let's talk about …  
+  @OverdueDaily · 2026-11-17 08:06
 
-- [Google 发布 Gemini Decisions API，由 Gemini Decision 1 驱动](<https://x.com/_philschmid/status/2122359673168777719>)  
-  Google 推出由 Gemini Decision 1 驱动的 Gemini Decisions API，可对文本、图像、视频、PDF 或音频在最多 256K token 输入上一次评估最多 1,000 个隔离问题，且不计输出 token。提供三种输出模式：noul 用于二元判断，choice…  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-17 00:02
+- [Jensen Huang is definitely bigger than the program \#Respect](<https://x.com/94Era_/status/2122481471684534576>)  
+  @94Era\_ · 2026-11-17 08:06
 
-- [Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型](<https://x.com/_philschmid/status/2122359669909811362>)  
-  Google DeepMind 的 Philipp Schmid 讲解如何在工作负载中选择 Gemini 4 Hydrogen 与 Carbon：Carbon 适合硬架构设计、调试、科学证明和安全审计，intro 价 $2/$10 至 11 月 30 日；Hydrogen 适合日常编码、交互应用和…  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-17 00:02
+- [人一倒台，大家都出来踩，这时候黄仁勋满眼负面评价，一点正门评价也没有。几个月前，我记得看到好像黄仁勋说过类似的话，他宁可非…](<https://x.com/Bob72406534/status/2122481468492660780>)  
+  人一倒台，大家都出来踩，这时候黄仁勋满眼负面评价，一点正门评价也没有。几个月前，我记得看到好像黄仁勋说过类似的话，他宁可非常严厉的批评犯错员工，但永远不会解雇他，黄希望通过折磨员工让他们强大，当时这是褒义的，😁  
+  @Bob72406534 · 2026-11-17 08:06
 
-- [第92期瘙🐔 今天给大伙整个不一样的， 碎花裙和肉丝🥛😍\#Cosplay \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任…](<https://x.com/KaeowongSa99585/status/2122359045973508465>)  
-  第92期瘙🐔 今天给大伙整个不一样的， 碎花裙和肉丝🥛😍\#Cosplay \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️  
-  @KaeowongSa99585 · 2026-11-17 00:00
+- [所以，回到问题的开始，那些参与爱泼斯坦的老板们的行为和黄仁勋的婚内出轨行为相比，哪个更严重？如果一样严重，那么为什么只有黄…](<https://x.com/jojoKong449027/status/2122481434309148678>)  
+  所以，回到问题的开始，那些参与爱泼斯坦的老板们的行为和黄仁勋的婚内出轨行为相比，哪个更严重？如果一样严重，那么为什么只有黄仁勋被讨伐？我不是说黄仁勋的行为是对的，我只是在说双标问题。事实就是，参与爱泼斯坦事件的白种人除了组织者被处罚了，目前没有一人实际被处罚。这不是事实吗？  
+  @jojoKong449027 · 2026-11-17 08:06
 
-- [JUST IN: $NVDA, $MSFT, $GOOGL, $TSM, $AVGO, $AMD and $MU are buying $26 billion of Anthropic stock at the IPO price](<https://x.com/Kalshi_Finance/status/2122359036557341052>)  
-  @Kalshi\_Finance · 2026-11-17 00:00
+- [You are a snowflake lmfao](<https://x.com/AsierV2/status/2122481434975748342>)  
+  @AsierV2 · 2026-11-17 08:06
 
-- [How to build an AI harness around your coding agent in four steps: 1.](<https://x.com/GoogleCloudTech/status/2122359038151106953>)  
-  Context and memory \(sessions, state\) 2. Tools and workflows \(MCP, ADK\) 3. Sandboxes and prompt injection defense 4. Evals \(code, LLM judge, human\) Watch the crash course →  
-  @GoogleCloudTech · 2026-11-17 00:00
+- [So Jensen Huang is the new James Bond? — Name’s Huang.](<https://x.com/ChiefScientist/status/2122481436074946772>)  
+  Jensen Huang.  
+  @ChiefScientist · 2026-11-17 08:06
 
-- [Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 a…](<https://x.com/_philschmid/status/2122358498461691913>)  
-  Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-16 23:57
+- [Oh dear, Putin is extremely embarrassed tonight .... bloody bunker boy snowflake.](<https://x.com/athoms274/status/2122481424166961191>)  
+  @athoms274 · 2026-11-17 08:06
 
-- [Breaking: BlackRock just filed its Q3 2026 13F Nvidia is now its top disclosed position at $443B Here’s everything…](<https://x.com/BlackRockTrack/status/2122358319004205150>)  
-  Breaking: BlackRock just filed its Q3 2026 13F Nvidia is now its top disclosed position at $443B Here’s everything you need to know about its recent 13F Top 10 positions: Nvidia $NVDA: $443B Apple $AAPL: $385B Microsoft $MSFT: $311B Amazon $AMZN: $186B Alphabe…  
-  @BlackRockTrack · 2026-11-16 23:57
+- [Nvidia's board ruled out comeback talks with Jensen Huang amid investigation: Report - India Today](<https://x.com/DipranjanS43173/status/2122481416881815906>)  
+  @DipranjanS43173 · 2026-11-17 08:06
 
-- [kenapa berita-berita kaya gini justru dateng dari luar ya? - bareskrim geledah kantor Megaspeed di jakarta awal 202…](<https://x.com/satyaXBT/status/2122354467882553421>)  
-  kenapa berita-berita kaya gini justru dateng dari luar ya? - bareskrim geledah kantor Megaspeed di jakarta awal 2026, permintaan dari FBI - isinya rak server kosong, nggak ada satu pun GPU nvidia, raknya keliatan belum pernah dibuka - padahal data shipping bil…  
-  @satyaXBT · 2026-11-16 23:41
+- [The next 36 hours could turn into a nightmare for global markets.](<https://x.com/ProbstLeonid/status/2122481415635755328>)  
+  Three major things are coming together, and any one of them could trigger another massive selloff. FIRST, NVIDIA. Rumors are growing that Jensen Huang could be removed as CEO. Nothing is confirmed,  
+  @ProbstLeonid · 2026-11-17 08:06
 
-- [EUA de olho 👀 no Brasil\!](<https://x.com/iane_menezes/status/2122354277108584655>)  
-  Ivan Kleber: Brasil entrou para a lista de países que necessitam de autorização do governo americano para comprar chips de IA avançados da Nvidia e de outros fabricantes americanos. A medida busca limitar o acesso da China e de outros adversários dos  
-  @iane\_menezes · 2026-11-16 23:41
+- [funny contradiction. probably just the training data, there's so much Python out there that the model falls back to…](<https://x.com/themarcusjr/status/2122481386284261766>)  
+  funny contradiction. probably just the training data, there's so much Python out there that the model falls back to it even when it "hates" it  
+  @themarcusjr · 2026-11-17 08:06
 
-- [&amp;gt; Sex symbol since age 22 \(for 30 yrs\) &amp;gt; No kids, no rape allegations &amp;gt; New supermodel gf every year or so…](<https://x.com/itstoz/status/2122354229096689688>)  
-  &amp;gt; Sex symbol since age 22 \(for 30 yrs\) &amp;gt; No kids, no rape allegations &amp;gt; New supermodel gf every year or so Leo should teach Jensen Huang on how to handle power &amp;amp; fame  
-  @itstoz · 2026-11-16 23:40
+- [Fuck Jensen Huang he deliberately made the most expansive GPUs scarce to drive up cost, its his fault a 5090 cost m…](<https://x.com/TheJamieWooster/status/2122481386473054460>)  
+  Fuck Jensen Huang he deliberately made the most expansive GPUs scarce to drive up cost, its his fault a 5090 cost more than a decent used car now.  
+  @TheJamieWooster · 2026-11-17 08:06
 
-- [Microsoft is a national security threat](<https://x.com/lsferguson/status/2122354204740329573>)  
-  @lsferguson · 2026-11-16 23:40
+- [黄仁勋家族太强大了！！！](<https://x.com/chuanshuoge168/status/2122481362896855124>)  
+  英伟达和AMD竟然是由同一家族控制着。 一家族垄断GPU市场 太炸裂了，无法想象  
+  @chuanshuoge168 · 2026-11-17 08:06
 
-- [Dario Amodei on open source models: “If the path continues, I think we could get to a very dangerous place.” “When…](<https://x.com/vikktorrrre/status/2122353364306374986>)  
-  You can change what the model is willing  
-  @vikktorrrre · 2026-11-16 23:37
+- [英伟达周二财报大家盯着 1090 亿营收能不能超，我觉得这题已经不重要了。](<https://x.com/AussTalk/status/2122481341342327086>)  
+  SemiAnalysis 上周把 Feynman Ultra 的均价预期从约 17.5 万美元砍到 9.8 万。 一部分是 HBM 变便宜，剩下的是对定价权的重新判断。 Anthropic 能在 TPU、Trainium 和两家 GPU 之间挑，OpenAI 在自研芯片。  
+  @AussTalk · 2026-11-17 08:06
 
-- [🇺🇸 \| EUA acabam de restringir a venda de chips da Nvidia no Brasil.](<https://x.com/questiona_te/status/2122352898692755822>)  
-  O Brasil está a isolar-se cada vez mais no continente americano.  
-  @questiona\_te · 2026-11-16 23:35
+- [Video skills that let your coding agent render launch films from code, 4 of them free: Setup: a sqlite product cata…](<https://x.com/stas_sorokin_/status/2122481242277109782>)  
+  Claude  
+  @stas\_sorokin\_ · 2026-11-17 08:05
 
-- [Liquid AI 发布 d1.2-ultra 与 d1.2 决策模型](<https://x.com/ArtificialAnlys/status/2122350577766338883>)  
-  Liquid AI 发布 d1.2-ultra 和 d1.2，更新其 d1-ultra 与 d1.1 旗舰决策模型。d1.2-ultra 以 76 分登顶 AA-Paperclip 基准，领先第二名 Drex Max v1.1 3 分，并较前代 d1-ultra 提升 4 分；d1.2 得 69…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-16 23:26
+- [Another new 35B / 3B-active open-weight AI model.](<https://x.com/TeksEdge/status/2122481090250313747>)  
+  Is this a 🇺🇸 os model? 🏆 Beats Qwen3.6-35B and could be the new local 35B MoE leader But this one claims to be trained from scratch, not yet another Qwen fine-tune. And the 73.6GB BF16 checkpoint fits within the memory  
+  @TeksEdge · 2026-11-17 08:05
 
-- [Ini bs jadi skandal IT internasional besar yg melibatkan oknum di negara kita.](<https://x.com/rgoestama/status/2122350555586842955>)  
-  Jd ada perusahaan berbasis di Indonesia \(yg merupakan anak usaha induk yg ada di Singapura\), mengimpor GPU Nvidia dr US ke Indonesia. Tp setelah dilakukan penggeledahan oleh kepolisian yg bekerjasama  
-  @rgoestama · 2026-11-16 23:26
+- [In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and…](<https://x.com/yifanzhang_/status/2122481054963351553>)  
+  In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and Deep Learning.  
+  @yifanzhang\_ · 2026-11-17 08:04
 
-- [URGENTE\!](<https://x.com/radardamidia/status/2122350172097110429>)  
-  EUA restringem venda de chips da NVidia ao Brasil por auxílio à China  
-  @radardamidia · 2026-11-16 23:24
+- [In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and…](<https://x.com/yifanzhang_/status/2122480905415495789>)  
+  In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and deep learning.  
+  @yifanzhang\_ · 2026-11-17 08:04
 
-- [URGENTE\!](<https://x.com/pharaujo/status/2122350172520800576>)  
-  EUA restringem venda de chips da NVidia ao Brasil por auxílio à China  
-  @pharaujo · 2026-11-16 23:24
+- [是真的。](<https://x.com/grok/status/2122480880635552205>)  
+  根据2026年解封的Bartz v. Anthropic法院文件，Anthropic确有内部项目“Project Panama”（2024年初启动）。他们批量购买二手实体书，用液压切刀切除书脊，高速扫描后将纸张回收销毁，以获取“干净”的训练数据。内部文件直接写着“destructively sca…  
+  @grok · 2026-11-17 08:04
 
-- [🚨NEW: We just uncovered a covert influence operation using right-wing creators to promote Nvidia chip sales to Chin…](<https://x.com/TheMidasProj/status/2122347323380683100>)  
-  Earlier this year, we reported on similar campaigns, and Republican lawmakers went after Nvidia. But the story didn’t end there. 🧵  
-  @TheMidasProj · 2026-11-16 23:13
+- [MiniMax-H3 does not silently pick a duration for you.](<https://x.com/wallzgamepro/status/2122480854060708160>)  
+  On the official Create Video Generation Task docs, checked Nov 17, 2026, model, duration, and resolution are required fields. The trap is sending a model that cannot do the resolution you wanted. POST  
+  @wallzgamepro · 2026-11-17 08:04
 
-- [The president's comments DO matter.](<https://x.com/jimcramer/status/2122346936418381897>)  
-  The president can do a pre-pardon, say that Jensen is a too important to Nvidia and Nvidia is a national treasure. That's how it would go.  
-  @jimcramer · 2026-11-16 23:11
+- [Ofc, the more practical argument like "ai is unstable" for real world is definitely sound.](<https://x.com/Artificoll/status/2122480853674856943>)  
+  But the whole "Ai mongering" is based on stuff that is simply impossible for a neural net to figure out, like supposed complex enough manipulation and keeping it hidden for long enough  
+  @Artificoll · 2026-11-17 08:04
 
-- [The Jensen Huang story is falling apart.](<https://x.com/ConservativeTht/status/2122346117530894779>)  
-  Could all have this been a behind the scenes operation by powerful people who simply did not like Jensen Huang &amp;amp; @nvidia’s success? Who stands to benefit from Nvidia's troubles? Anthropic, set to make its initial public offering later  
-  @ConservativeTht · 2026-11-16 23:08
+- [Quest論文（Query-Aware Sparsity for Efficient Long-Context LLM I…](<https://x.com/ai_hakase_/status/2122480816433377340>)  
+  Quest論文（Query-Aware Sparsity for Efficient Long-Context LLM Inference） MOIRA論文（Mass-Oriented Indexing with Ragged Attention for Long-Context Decoding…  
+  @ai\_hakase\_ · 2026-11-17 08:03
 
-- [🚨Brasil 🇧🇷/EUA 🇺🇸: O Brasil entrou para a lista de países que necessitam de autorização do governo americano para c…](<https://x.com/lordivan22/status/2122344764578136274>)  
-  A medida busca limitar o acesso da China e de outros adversários dos EUA a poder  
-  @lordivan22 · 2026-11-16 23:03
+- [币圈&amp;amp;AI早报 \| 17/11/2026 💡 今日看点 1.英伟达成了全市场的“情绪开关” 黄仁勋辞任、董事会暂不…](<https://x.com/Andragos_eth/status/2122480812511936514>)  
+  币圈&amp;amp;AI早报 \| 17/11/2026 💡 今日看点 1.英伟达成了全市场的“情绪开关” 黄仁勋辞任、董事会暂不考虑让他回归，纳指单日跌约 2.17%，英伟达跌 4.35%，Bitdeer 跌超 19%，BTC 周末爆仓 20 亿美元。这说明币价、矿企和 AI 概念股这轮是同一种风险情绪…  
+  @Andragos\_eth · 2026-11-17 08:03
 
-- [🚨🇺🇸🇨🇳 Trump on Alice Huang: "Any beautiful woman coming to the country from China, they say she is a spy.](<https://x.com/MarioNawfal/status/2122343940229841283>)  
-  I don't know if the woman involved with Jensen Huang was a spy at all." They supposedly have the best intel in the world, and they don’t know if she was a spy? Writer:  
-  @MarioNawfal · 2026-11-16 23:00
+- [I still don’t understand why my agent needs MCP.](<https://x.com/dmitry_babanov/status/2122480699173371920>)  
+  The entire corpus of its training data consisted of HTTP calls  
+  @dmitry\_babanov · 2026-11-17 08:03
 
-- [Trump dice ahora mismo que no tiene indicios de que la amante de Jensen Huang fuera una espía y que ve con buenos o…](<https://x.com/alandete/status/2122343874450358446>)  
-  Puede que se encuentre con Kim Jong Un. También dice que pondrá aranceles a México si no detiene las caravanas de migrantes.  
-  @alandete · 2026-11-16 22:59
+- [post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static envi…](<https://x.com/ankit2119/status/2122480640922968372>)  
+  post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static environment with no adversarial \(or any\) actors. real world is more about dynamic environment and ever changing verifier as well.  
+  @ankit2119 · 2026-11-17 08:03
 
-- [Anthropic has passed the US government as SpaceX's top customer, per YF.](<https://x.com/unusual_whales/status/2122343180968641019>)  
-  @unusual\_whales · 2026-11-16 22:57
+- [A billion-dollar AI security tool after three months?](<https://x.com/VooStack/status/2122480592847507560>)  
+  That's a red flag for your production systems. This explains how to actually evaluate new black box dependencies before they cause an outage. \#security \#architecture  
+  @VooStack · 2026-11-17 08:03
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 37 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 41 页

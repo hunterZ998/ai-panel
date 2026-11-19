@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
+  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
+  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
+
 - [AssemblyAI-STT-3.7](<https://www.producthunt.com/products/assemblyai>)  
   Speech-to-Text for live calls, voice agents, and recordings  
   Product Hunt · English · 2026-11-18 14:50
@@ -74,10 +78,6 @@
   The top command for people running local LLMs and apps  
   Product Hunt · English · 2026-11-17 01:42
 
-- [WispOS](<https://www.producthunt.com/products/wispos>)  
-  Free AI game maker with an app store that wants your games  
-  Product Hunt · English · 2026-11-17 00:56
-
 - [Qwen4-Max](<https://www.producthunt.com/products/qwen3>)  
   Qwen's new flagship for long-running agent work  
   Product Hunt · English · 2026-11-16 20:32
@@ -125,9 +125,5 @@
 - [PH今日热榜 \| 2026-11-12](<https://decohack.com/producthunt-daily-2026-11-12/>)  
   ScroogeFrog AI：AI 广告欺诈检测，保护你的营销预算；Nod by n8n：拥有自己计算机的开源个人助手；CALL-E：通过你的AI助手（如Muse、ChatGPT或Claude）拨打电话  
   Product Hunt 中文 · DecoHack · 2026-11-12 15:00
-
-- [Mermaid Flow](<https://www.producthunt.com/products/mermaid-chart>)  
-  The visual builder for agentic workflows  
-  Product Hunt · English · 2026-11-12 04:24
 
 [返回面板](../README.md) · 第 1 / 1 页

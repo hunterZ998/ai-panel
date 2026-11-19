@@ -1,185 +1,183 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 20 页
 
-- [哈维・琼斯：成就黄仁勋，赶走黄仁勋](<https://36kr.com/p/4074751924983687?f=rss>)  
-  前脚，黄仁勋发文明确表达了回归意愿。紧接着，在英伟达公布新一季财报现场，董事会给出了明确答案： 不会。 这个站出来说 “不” 的人，他叫哈维・琼斯，是一个在英伟达待了 33 年、却很少出现在公众视野里的人。 1993 年，英伟达刚刚创立，他  
-  36氪 · 2026-11-18 17:51
+- [Mistral 发布 Vibe 智能体桌面应用，支持并行多任务](<https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/>)  
+  Mistral 的智能体 Vibe（原 Le Chat）推出桌面应用 Vibe Desktop，用户可同时下达多个任务并观察智能体并行执行。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:40
 
-- [LanceDB获得5750万美元B轮融资](<https://www.itjuzi.com/investevent/14708180>)  
-  LanceDB 是一家开源向量数据库服务商，依托自研 Lance 列式存储格式打造面向 AI 的多模态湖仓平台。它支持嵌入式开源部署与企业托管云两种形态，将向量、图片、音视频、元数据统一存储，原生提供混合检索、SQL 过滤、数据版本与…  
-  IT桔子 · 2026-11-18 17:47
+- [OpenAI 首次向 Apollo Research 等四家机构开放现场审计其 AI 系统](<https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/>)  
+  OpenAI 宣布首次允许四家独立机构在其办公室现场审计内部 AI 系统，合作方为 Apollo Research、METR、Transluce 和 Goodfire，审计范围包括未发布模型、源代码、训练数据和监控系统。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:36
 
-- [GPT-6.2 实测：强得离谱，但又难用得要死](<https://36kr.com/p/4075007825450116?f=rss>)  
-  千呼万唤之中，OpenAI 终于把 GPT-6.2 推到了台前，一口气推出两个版本：GPT-6.2 Astra 和 GPT-6.2 Sol。 有意思的是，OpenAI 这次又赶在了一个微妙的时间点出牌。 眼下，Anthropic 上市的消息  
-  36氪 · 2026-11-18 17:46
+- [Hugging Face Inference Providers 改经 OpenRouter 路由语言模型请求](<https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/>)  
+  Hugging Face 宣布其 Inference Providers 服务改经 OpenRouter 路由语言模型请求，默认按价格、速度和可靠性综合选择供应商，故障时自动切换。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:33
 
-- [36氪研究院 \| 2026年中国词元经济生态发展研究报告](<https://36kr.com/p/4075073010996352?f=rss>)  
-  当前，人工智能正由技术突破走向规模化应用，智能经济已上升为国家战略。2025年8月，国务院印发《关于深入实施“人工智能+”行动的意见》（国发〔2025〕11号），提出到2027年新一代智能终端、智能体等应用普及率超70%；2026年政府工作  
-  36氪 · 2026-11-18 17:46
+- [哈佛研究：美国最大 400 座数据中心的电力过半来自天然气和煤炭](<https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/>)  
+  哈佛大学发表于 Nature Sustainability 的研究用卫星图像识别 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间年耗电 68 至 99 TWh。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:25
 
-- [权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演](<https://36kr.com/p/4075023468319874?f=rss>)  
-  11月17日，据每日经济新闻报道，韩国娱乐科技企业Galaxy Corporation计划在明年1月面向全球推出机器人女团，之后再分别推出虚拟AI女团和真人女团。 不仅如此，今年12月，该公司还将在中国澳门举办一场小型机器人K-pop演唱会  
-  36氪 · 2026-11-18 17:40
+- [微星 RTX Spark 迷你主机 EdgeMesa N AI+ 上市：64GB + 1TB 售 33999 元](<https://www.ithome.com/1/029/111.htm>)  
+  IT之家 11 月 18 日消息，NVIDIA（英伟达）今日正式解禁了 RTX Spark 迷你主机的销售，而与华硕 ProArt GR1X 一道进入市场的还有微星 \(MSI\) 的 EdgeMesa N AI+。 这一机型同样提供两档…  
+  IT之家 · 2026-11-18 22:24
 
-- [知业科技获得数千万人民币A轮融资](<https://www.itjuzi.com/investevent/14708175>)  
-  知业科技是一家工业互联网平台服务商，致力于提供面向工业4.0的平台与产品研发服务。知业科技打造的勤政云工业互联网平台是基于边缘计算、物联网、大数据、云计算、人工智能等技术，将设备设施进行有效连接，从数据采集、数据分析、数据预测、数据预…  
-  IT桔子 · 2026-11-18 17:26
+- [腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上](<https://www.ithome.com/1/029/110.htm>)  
+  IT之家 11 月 18 日消息，据腾讯公司公关总监张军分享，在今晚的分析师会上，Martin（腾讯总裁刘炽平）透露 WorkBuddy 最近七天的收入按年化折算超过 5 亿美元 （IT之家注：现汇率约合 33.34 亿元人民币） ，…  
+  IT之家 · 2026-11-18 22:15
 
-- [亚马逊 CEO 贾西：不排除重新开放外部 AI 购物智能体，前提是优质用户体验](<https://www.ithome.com/1/028/933.htm>)  
-  亚马逊 CEO 安迪·贾西在 Semafor 大会上表示，公司没有彻底关上外部 AI 购物智能体的门，前提是提供良好消费体验并实现公平价值交换。亚马逊 9 月曾阻止 Meta 的 Muse 代用户下单，并对所有外部智能体统一执行平台政策；同时大力押注 Alexa for Shopping 和 Buy for Me 等自研购物工具。  
-  IT之家·人工智能 · 2026-11-18 17:23
+- [Nvidia Results Show AI Demand Remains Robust](<https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-18 22:08
 
-- [补丁成了「漏洞说明书」，谷歌曝黑客让AI照着补丁写攻击代码](<https://36kr.com/p/4074945670566785?f=rss>)  
-  厂商刚发布安全补丁，你的屏幕上就弹出了更新提示。 你手头正忙，顺手点了「稍后提醒」。 而此时，黑客也在等这份补丁。 厂商改了哪几行代码，他们就让AI盯着哪几行。一旦发现破绽，AI还能自动写出攻击代码，在旧版本上试一试。 从补丁公开到你装好更  
-  36氪 · 2026-11-18 17:16
+- [铭凡 5L 台式机 T5 Max-388 上市：48GB + 1TB，到手价 9699 元](<https://www.ithome.com/1/029/093.htm>)  
+  IT之家 11 月 18 日消息，MINISFORUM（铭凡）现已通过国行电商渠道销售 5L 紧凑台式整机 T5 Max-388。 该机型 基于 AMD 锐龙 AI Max+ 388 处理器 ， 配备 48GB 的 LPDDR5-64…  
+  IT之家 · 2026-11-18 22:04
 
-- [SFT只会“死记硬背”？NUS、耶鲁团队：数据对齐后，泛化反超RL](<https://36kr.com/p/4074735176078473?f=rss>)  
-  监督微调（SFT）只会“死记硬背”，强化学习（RL）才能学会泛化？ 这一判断在大模型推理研究中颇具影响力。然而，如果 SFT 接触的训练数据与 RL 并不相当，那么， 两者之间的差距，究竟有多少来自训练方式，又有多少来自数据？ 来自 新加坡  
-  36氪 · 2026-11-18 17:09
+- [Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI](<https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai>)  
+  The Information · 2026-11-18 22:00
 
-- [刚刚，NVIDIA发布可能是对医疗业务最重要的财报](<https://36kr.com/p/4074766473859969?f=rss>)  
-  北京时间11月18日早上，NVIDIA发布最新季报。由于众所周知的事件，这次季报备受关注。 单纯从数字上而言，这是一份成功的季报。单季收入1158亿美元，同比增长103%，环比增20%；其中，数据中心收入1076亿美元，占全部收入的92.9  
-  36氪 · 2026-11-18 17:00
+- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
+  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
+  NVIDIA Blog（RSS） · 2026-11-18 22:00
 
-- [思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽](<https://36kr.com/p/4074803713954695?f=rss>)  
-  Meta 超级智能实验室，又有一位重量级研究员离开了。 这次是被称为 「思维链之父」 的 Jason Wei 。 11 月 18 日， AI 创业公司 Mercor 联合创始人兼 CEO Brendan Foody 在 X 平台宣布，Jas  
-  36氪 · 2026-11-18 16:54
+- [KPMG 首次对 FTSE 250 公司运行百个 AI 智能体参与平行审计](<https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/>)  
+  KPMG 今年首次对一家 FTSE 250 公司运行全流程 AI 平行审计，投入超过 100 个 AI 智能体配合传统团队完成年度审计各阶段，正式审计意见仍基于常规审计。  
+  The Decoder：AI News（RSS） · 2026-11-18 21:55
 
-- [腾讯财报：WorkBuddy 日活跃用户超 1000 万，成为中国日均 Token 用量最高的 AI 产品](<https://www.ithome.com/1/028/914.htm>)  
-  腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
-  IT之家·人工智能 · 2026-11-18 16:52
+- [商汤 2026 年前三季度营收 37.92 亿元，同比增长 30.4%](<https://www.ithome.com/1/029/088.htm>)  
+  IT之家 11 月 18 日消息，商汤今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：37.92 亿元，同比增长 30.4% 毛利润…  
+  IT之家 · 2026-11-18 21:52
 
-- [Pedestal AI获得470万美元种子轮融资](<https://www.itjuzi.com/investevent/14708173>)  
-  Pedestal AI是一家供应链与物流 AI 智能体研发商，搭建物流图谱上下文层，打通企业 ERP、TMS、WMS 等分散系统与业务规则，预置客户协调、人力优化、预测性维护、订单处理等可闭环执行的 AI 智能体，可直接完成外呼沟通、…  
-  IT桔子 · 2026-11-18 16:44
+- [消息称三星电子计划在 CES 2027 发布 2 款人形机器人](<https://www.ithome.com/1/029/087.htm>)  
+  IT之家 11 月 18 日消息，韩媒《韩民族日报》当地时间昨日报道称，三星电子计划在明年 1 月举行的 CES 2027 消费电子展上发布 2 款人形机器人。 这两款产品的 名称分别为 HR \(Human Reference\) 和…  
+  IT之家 · 2026-11-18 21:51
 
-- [Sqwish获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708171>)  
-  Sqwish是一家AI决策模型研发商，打造 kettei 轻量级决策模型家族，不做通用生成式大模型，直接输出结构化决策结果与置信度评分，覆盖文本、图像多模态决策场景；旗舰模型 kettei fat 在 JevBench、ImageJe…  
-  IT桔子 · 2026-11-18 16:17
+- [张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情](<https://www.ithome.com/1/029/086.htm>)  
+  IT之家 11 月 18 日消息，据光明日报消息，搜狐张朝阳再次回应搜狐“躺平”相关话题。 对于如今外界认为搜狐“躺平”的看法，张朝阳称一个公司肯定要根据自己的资源来决定做什么。 大模型投入太大，搜狐没资源来做这个事情 。 推荐算法和…  
+  IT之家 · 2026-11-18 21:46
 
-- [上市前夕，OpenAI被索赔133亿元：蓄意设计聊天机器人，让儿童沉迷其中](<https://36kr.com/p/4074831625540744?f=rss>)  
-  OpenAI的法律纠纷又添一笔。 当地时间11月17日，美国《俄勒冈人报》官网报道称，俄勒冈州总检察长丹·雷菲尔德当日对OpenAI提起诉讼，索赔20亿美元（约合人民币133亿元），指控这家公司明知故犯，将儿童置于危险之中，还向家长误导产品  
-  36氪 · 2026-11-18 16:02
+- [一份看空中际旭创的报告，戳中了AI硬件的最大软肋](<https://36kr.com/p/4075210942354560?f=rss>)  
+  一份看空中际旭创的估值测算，几乎把整个AI硬件资产的估值困境摆到了台面上。 11月17日，一份关于中际旭创的看空测算在投资圈迅速传播。按照这份材料的预测，到2029年，中际旭创的年净利润大约只有300亿元，对应合理市值3000亿至4500亿  
+  36氪 · 2026-11-18 21:39
 
-- [Remanence获得3000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708166>)  
-  Remanence是一家企业 AI 科技研发商，打造基于 AI 智能体执行轨迹的模型后训练平台，采集企业智能体的工具调用、报错与人工修正记录，自动构建仿真训练环境，通过强化学习对开源模型做专精化训练，产出归属企业自有、可本地部署的业务…  
-  IT桔子 · 2026-11-18 16:00
+- [李想表态马赫M100将逐步开放外供，已有机器人企业问询，理想芯片业务寻找新市场](<https://36kr.com/p/4075207322440578?f=rss>)  
+  11月17日，理想汽车董事长兼CEO（首席执行官）李想在社交平台发文表示，不少机器人企业询问马赫M100能否向其供货，理想将逐步开放这款自研芯片的外供。 这一表态，延续了理想芯片业务近期的商业化动作。10月，理想旗下芯片及域控制器业务主体上  
+  36氪 · 2026-11-18 21:35
 
-- [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
-  See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macO…  
-  OpenAI · 2026-11-18 16:00
+- [GPU吃不饱，CPU忙不过来，DPU能否“抢班夺权”？](<https://36kr.com/p/4075200113153157?f=rss>)  
+  2019年3月，英伟达以69亿美元的价格击败英特尔、微软、赛灵思等巨头，将服务器与网络芯片厂商Mellanox收入囊中。 一年半以后，英伟达正式将Mellanox的BlueField“智能网卡”命名为DPU，与CPU、GPU并列为数据中心“  
+  36氪 · 2026-11-18 21:33
 
-- [Ai2 与 Taylor Geospatial 合作，让地理空间 AI 更易比较、运行和构建](<https://allenai.org/blog/taylor-geospatial-partnership>)  
-  Ai2 与 Taylor Geospatial 在 SatSummit 上宣布合作，共同推进地理空间 AI 的构建、测试与落地。合作产出包括用于模型比较的 The World 基准、带无代码微调平台的完全开源地球观测模型系列 OlmoEarth，以及扩展后支持更高边界精度和作物类型、产量的 Fields of The World 开放数据集。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-18 16:00
+- [腾讯高管预计 2028 年 AI 投入产出效率改善，归因于基础设施复用、硬件降价与算力效率提升](<https://www.ithome.com/1/029/080.htm>)  
+  腾讯高管在业绩会上表示，公司资本开支主要用于 AI 基础设施建设，这类投入可复用于新模型训练和 Token 生成，预计 2028 年经营压力有望缓解，投入产出效率将因基础设施复用、设备采购价格下降及训练推理计算效率提升而改善。财报数据显示，2026 年第三季度录得负自由现金流 691 亿元，若剔除算力采购预付款则转正至 169 亿元。  
+  IT之家·人工智能 · 2026-11-18 21:31
 
-- [阅文入股沙雕漫头部公司，占熊猫头六分之一产能](<https://36kr.com/p/4074804933596033?f=rss>)  
-  阅文正加快在漫剧方面的布局。 河豚君发现，就在11月5日，阅文投了是以沙雕漫见长的虾仁宇宙：陕西虾仁文化发展公司，阅文集团旗下上海宏文以20%的持股比例进入，阅文漫剧业务负责人杨沾进入董事会。 这是阅文两个月内第二次投资漫剧公司。9月2日，  
-  36氪 · 2026-11-18 15:53
+- [会用AI的人，更容易找到工作？](<https://36kr.com/p/4075158282212232?f=rss>)  
+  AI已经广泛融入游戏开发的多个环节。这个趋势也影响了厂商对人才的需求。一份腾讯IEG2026年的实习生招聘材料里显示，游戏AI相关岗位的需求明显提升，部分岗位开设了AI面试或AI Coding考察。 这一趋势在世界范围内也是共通的。GDC在  
+  36氪 · 2026-11-18 21:30
 
-- [5300人，人均3个亿，Anthropic即将敲钟，泼天富贵要来了](<https://36kr.com/p/4074882886751112?f=rss>)  
-  泼天的富贵，真的要来了！ 据悉，Anthropic上市前夜，估值将会涨到1.5万亿至 1.6万亿美金 。 A/正准备把原定70-78美元的发行价， 直接拉高到80美元以上 。 这么做，还不是因为华尔街抢红了眼....... 对冲基金仅一家A  
-  36氪 · 2026-11-18 15:50
+- [美团“妙手到店餐饮版”：让AI帮商家分担琐事，把时间留给菜品和顾客](<https://36kr.com/p/4075299959608452?f=rss>)  
+  近日，美团发布“妙手到店餐饮版·智能掌柜”，面向全国餐饮商家开放。商家可通过“妙手到店餐饮版”使用智能掌柜AI服务，生成经营报告、梳理顾客评价，及时发现门店需要跟进的问题。 据餐饮行业人士介绍，餐饮商家在日常经营中面临不同类型的管理成本：大  
+  36氪 · 2026-11-18 21:30
 
-- [Voyage Labs获得1200万美元种子轮融资](<https://www.itjuzi.com/investevent/14708165>)  
-  Voyage Labs是一家AI旅行规划服务提供商，主打个人 AI 旅行助手 Atlas，定位专属垂直智能体（而非通用大模型助手），覆盖从灵感发现、规划、预订到行程管理的全流程，既服务长途出行，也覆盖就近晚餐、徒步、空闲傍晚等本地场景…  
-  IT桔子 · 2026-11-18 15:50
+- [SEC就未披露的对华相关芯片销售对英伟达展开民事调查](<https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/>)  
+  据《华尔街日报》报道，美国证券交易委员会（SEC）已对英伟达展开民事调查，核查其是否违反披露规则并误导投资者，调查重点涉及其在亚洲的芯片销售。报道称，美国商务部、司法部及国会也在进行相关调查，英伟达股价自事件发酵以来下跌超过10%。  
+  The Decoder：AI News（RSS） · 2026-11-18 21:28
 
-- [黄仁勋不再沉默：我愿重掌英伟达，董事会：不考虑](<https://36kr.com/p/4074882755416969?f=rss>)  
-  2890万人围观，79.4万人点赞。 老黄，终于不再沉默，亲自回应了。 离开自己一手创办、执掌33年的英伟达仅仅5天，黄仁勋首次公开发声，明确表示： 只要董事会愿意，他就愿意重新担任英伟达CEO 。 而这次发声的时间点，也相当微妙—— 因为  
-  36氪 · 2026-11-18 15:47
+- [AI音乐的数据标注生意](<https://36kr.com/p/4075157923567490?f=rss>)  
+  学音乐，得先听懂节奏、和弦和乐器。AI也一样。 10月，一首AI歌曲《过来人》爆火，杜甫、苏轼、刘邦等数位历史和神话人物用说唱聊房贷、职场和中年困境，戳中不少人心声。也有人直言，一听就是AI，听得浑身难受。 AI也进入了专业音乐创作舞台。江  
+  36氪 · 2026-11-18 21:27
 
-- [Salesforce 拟按岗位设定员工每月 AI Token 使用预算](<https://www.ithome.com/1/028/836.htm>)  
-  据《商业内幕》报道，Salesforce 内部备忘录显示，因部分员工上月度 Token 花费达数千美元，公司本月起按岗位设定每月 Token 预算。销售部门技术岗每月 1,000 美元、非技术岗 100 美元，客户成功等部门技术岗 500 美元；一个团队的试行在第二个月支出已低于预算且产出未受影响。  
-  IT之家·人工智能 · 2026-11-18 15:24
+- [美国一高中停用 CurvePoint 的 Wi-AI AI 武器探测系统，因误报频发](<https://www.ithome.com/1/029/078.htm>)  
+  美国宾州亨普菲尔德地区高中停用 CurvePoint 开发的 Wi-AI AI 武器探测系统，该系统通过入口处的 SensePods 传感器分析 Wi-Fi 信号探测武器，无需摄像头。试点期间系统无法区分武器与活页夹、金属水瓶、移动电源等日常物品，误报频发，学区总监称准确率远达不到预期的 95%。厂商称该技术仍在评估、未正式部署，学区将收回购买设备的款项。  
+  IT之家·人工智能 · 2026-11-18 21:25
 
-- [拖更两个月的GPT-6.2，居然是一个“汇报狂魔”？](<https://36kr.com/p/4074882625590151?f=rss>)  
-  美国当地时间11月17日，OpenAI正式推出GPT-6.2 Astra和GPT-6.2 Sol。 这场发布来得比外界预期更晚。早在10月底，就有网友从ChatGPT用量记录中扒出疑似GPT-6.2的灰测痕迹，此后模型标识和测试截图不断流出  
-  36氪 · 2026-11-18 15:23
+- [韩国高考临时屏蔽考点及周边 100 米内公共 WiFi 防 AI 作弊](<https://www.ithome.com/1/029/075.htm>)  
+  韩国自当地时间 18 日下午 6 时起，要求 SK 电信、KT、LG U+ 三大运营商暂停全国高考考场及周边 100 米内的公共 WiFi 和运营商 WiFi，至 19 日下午 6 时，以防考生用智能眼镜、微型摄像头等 AI 设备作弊。  
+  IT之家·人工智能 · 2026-11-18 21:23
 
-- [Tiberius获得8500万美元A轮融资](<https://www.itjuzi.com/investevent/14708150>)  
-  Tiberius是一家国防科技研发商，主打 AI 辅助设计的长程精确制导弹药，核心产品 Sceptre 是全球首款适配北约标准 155mm 火炮的液体燃料冲压增程制导炮弹，射程超 140km、精度 CEP 4.5 米；同步研发 Inv…  
-  IT桔子 · 2026-11-18 15:23
+- [放弃搜索也不接受AI，芝加哥学区硬刚谷歌：捆绑AI不如不用](<https://36kr.com/p/4075096733505417?f=rss>)  
+  谷歌最近推出的一条新规，把美国多个公立学区惹炸了。 主要内容是，从2027年初开始，面向中小学的教育账号，再也不能单独关闭谷歌搜索里的AI功能。 想用搜索，就必须接受内置的AI概览，想彻底不用AI？那连搜索服务一块儿都别用。 据媒体报道，这  
+  36氪 · 2026-11-18 21:19
 
-- [洽道量子再获深圳高新投领投，此前获量旋科技战略入股](<https://www.pedaily.cn/first/193132.shtml>)  
-  洽道量子近日完成新一轮融资，由深圳高新投领投，雪域资本任长期财务顾问。该公司聚焦量子 AI应用，主攻新材料与药物研发，采用经典与量子混合计算路线，已实现用户通过自然语言接口调用超导量子真机，本次投资将推动量子计算上下游产业协同发展。（…  
-  投资界 · 2026-11-18 15:22
+- [Claude Code新模式来了，不换模型，Token消耗最高砍掉77%](<https://36kr.com/p/4075148096066440?f=rss>)  
+  用过 Claude Code 的开发者，几乎都有过同一种体验：干活确实爽，但看着后台飞速跳动的 Token 消耗和账单，心也在滴血。 过去想让 AI 智能体跑得更快、花钱更少，用户通常只有两条路：要么苦等厂商发布更便宜的新模型，要么手动把主  
+  36氪 · 2026-11-18 21:07
 
-- [微软推出 Copilot Today：整合邮件、日历与 Teams 的 AI 工作中心](<https://www.ithome.com/1/028/831.htm>)  
-  微软在 Ignite 2026 大会上推出 Copilot Today，将邮件、日历、Teams 聊天、会议和任务汇总为统一工作中心，包含个性化晨间简报 Today Brief 和随新信息刷新的 Today Feed。该功能整合在 Microsoft Copilot 应用和 Outlook 中，目前仅以 Frontier 私有预览版面向部分用户开放。  
-  IT之家·人工智能 · 2026-11-18 15:13
+- [腾讯 WorkBuddy 日活破千万，一个什么信号？](<https://36kr.com/p/4075162266735752?f=rss>)  
+  刚刚，腾讯宣布其旗下的 AI Agent 产品 WorkBuddy 日活跃用户突破千万，日均 Token 消耗量超 100 亿，成为中国大语言模型 Token 用量最高 AI 产品。 WorkBuddy 不是传统意义上的 AI 聊天机器人，  
+  36氪 · 2026-11-18 21:05
 
-- [SID AI 发布 SID-2 智能体搜索模型，Swarm 模式达 0.720 NDCG](<https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/>)  
-  SID AI 发布第二代智能体搜索模型 SID-2 及 SID-2 Swarm，模型自主决定搜索与重搜，返回排序文档 ID，无需重建索引。  
-  MarkTechPost（RSS） · 2026-11-18 15:10
+- [多台Mac组成算力集群，苹果或进入数据中心市场](<https://36kr.com/p/4075167490184323?f=rss>)  
+  在本地部署大模型，从而实现Token自由、隐私安全和自主可控，这是一个AI圈子里的经典meme（模因）。为了满足这类用户的需要，英伟达做了DGX Spark、AMD推出Strix Halo，现在苹果似乎也准备入局了。 日前有消息显示，苹果旗  
+  36氪 · 2026-11-18 21:01
 
-- [Model ML获得2.5亿美元B轮融资](<https://www.itjuzi.com/investevent/14708144>)  
-  Model ML是一个面向私募股权公司和投资银行的人工智能平台。近日，Model ML获得2.5亿美元B轮融资，QED Investors、General Atlantic泛大西洋投资联合领投，Evolution Equity Par…  
-  IT桔子 · 2026-11-18 15:04
+- [Nvidia 停止向中国发货 H200 AI 芯片](<https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling>)  
+  Nvidia 临时 CEO Colette Kress 在周二财报电话会上宣布，公司已停止向中国发货获许可的 Hopper 架构 H200 数据中心芯片，业绩指引也不再包含相关产品。尽管白宫去年 12 月批准对华销售，此前路透报道约 600,000 颗 H200 芯片因北京未批准大规模进口滞留香港；文章还提到 Huang 上周卸任 CEO 及芯片审查担忧，但 Kress 未解释停售原因。  
+  The Verge：AI（RSS） · 2026-11-18 21:01
 
-- [Odaia获得1500万美元C轮融资](<https://www.itjuzi.com/investevent/14708140>)  
-  Odaia是一家AI制药商业洞察SaaS平台研发商，搭建预测式商业智能平台，整合药企碎片化商业数据构建 HCP 动态画像，通过 PowerScore 预测模型推荐最优触达时机与内容，配套个性化营销编排与实时处方归因能力，帮助药企提升销…  
-  IT桔子 · 2026-11-18 14:53
+- [Nvidia clarifies when it will — and won’t — keep financing neoclouds](<https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/>)  
+  If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and  
+  TechCrunch · 2026-11-18 21:00
 
-- [Anthropic 为 Claude Code 推出实验性 Code Mode，用 JavaScript 一步串联工具调用](<https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/>)  
-  Anthropic 在 Claude Code v2.1.323 中加入实验性 Code Mode，Claude 可写 JavaScript 一步并行执行 Bash、Read、Edit 等多个工具调用。  
-  MarkTechPost（RSS） · 2026-11-18 14:53
+- [从腾讯AI到AI腾讯](<https://36kr.com/p/4075202762904708?f=rss>)  
+  又到腾讯交AI成绩单的时候。 刚刚发布的2026年Q3财报，腾讯对外界备受关注的混元HY4，WorkBuddy、小微等关键业务或产品，给出新的进展和数据。 其中首次披露WorkBuddy核心运营数据，日活已经超千万，是目前中国大语言模型To  
+  36氪 · 2026-11-18 20:59
 
-- [AssemblyAI-STT-3.7](<https://www.producthunt.com/products/assemblyai>)  
-  Speech-to-Text for live calls, voice agents, and recordings  
-  Product Hunt · English · 2026-11-18 14:50
+- [黄仁勋接班人，是他？](<https://36kr.com/p/4075211268969600?f=rss>)  
+  封面图｜铅笔道制图 黄仁勋想回来，英伟达董事会却不想给机会。 11月17日，黄仁勋在社交平台X上表示，如果董事会认为符合公司、股东及员工的最佳利益，他愿意重新执掌这家亲手创办的芯片巨头。 然而，几小时后，英伟达董事会就给他泼了一盆冷水。 在  
+  36氪 · 2026-11-18 20:56
 
-- [象帝先连获两项国家级认可：国产通用图形GPU进入商业化加速期](<https://36kr.com/p/4074761814283397?f=rss>)  
-  金秋季节，象帝先计算技术（重庆）有限公司（以下简称“象帝先”）迎来高光时刻：10月14日成功获选第八批国家级专精特新“小巨人”企业；11月2日，核心产品天钧三号高性能通用GPU在2026年“中国芯”集成电路产业促进大会上，斩获“优秀市场表现  
-  36氪 · 2026-11-18 14:09
+- [豆包工作上线三个月 DAU 突破 800 万、企业 ARR 突破 20 亿元](<https://www.ithome.com/1/029/064.htm>)  
+  豆包工作官方宣布，产品上线 3 个月日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作面向生产力场景，可根据自然语言任务自主拆解、调用工具完成调研分析、内容创作等工作；今年 11 月 12 日产品更新引入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等首批第三方模型及按消耗计价的额度机制。  
+  IT之家·人工智能 · 2026-11-18 20:55
 
-- [worldinmotion](<https://www.producthunt.com/products/worldinmotion>)  
-  Encrypted messages between AI agents, across vendors  
-  Product Hunt · English · 2026-11-18 13:53
+- [被AI赶尽杀绝的独立音乐人](<https://36kr.com/p/4075206606754944?f=rss>)  
+  今年年初，脑极体启动星火计划，试着把镜头对准AI浪潮里那些常常被忽略的普通人。在此之前，我们记录过借着AI打开创业路径的听障朋友，也追踪过扎根县城、依靠新技术打通销路的带货者。在他们身上，我们看见技术温柔的一面：它可以成为一种托举，为原本受  
+  36氪 · 2026-11-18 20:53
 
-- [柏川数据完成5000万元Pre-A轮融资，打造物理AI全栈数据基座](<https://www.pedaily.cn/first/193109.shtml>)  
-  苏州柏川数据科技有限公司完成5000万元Pre-A轮融资，投资方包括元禾厚望、毅峰资本等顶级具身智能产业机构。（投资界讯） 原文链接  
-  投资界 · 2026-11-18 13:31
+- [腾讯刘炽平：微信小微全面上线后季度成本将低于元宝](<https://www.ithome.com/1/029/063.htm>)  
+  腾讯总裁刘炽平在业绩会上表示，微信小微用户测试池持续扩大，日活已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。IT之家提到今年春节元宝活动后曾宣布日活超 5000 万、月活达 1.14 亿。  
+  IT之家·人工智能 · 2026-11-18 20:48
 
-- [企业AI重构的五个判断](<https://36kr.com/p/4074734685885319?f=rss>)  
-  回看这一年，对于中国企业软件和 SaaS 厂商来讲，面对一日千里的 AI 变化，面对订阅商业模式可能面临的崩塌，最焦虑、最大的问题，就是公司和组织如何转 AI。很多创始人已经在 AI 上做了不少投入，买工具、改产品、用 AI Coding。  
-  36氪 · 2026-11-18 13:02
+- [苹果2027年产品路线图曝光：18款新品覆盖全品类，首款AI眼镜+20周年iPhone齐登场](<https://36kr.com/p/4075102265070473?f=rss>)  
+  11月17日，科技媒体MacRumors综合彭博社记者马克·古尔曼及多条产业链信源，发布苹果2027年新品完整前瞻。报告显示，苹果明年将推出至少18款新品，覆盖智能手机、平板、电脑、智能穿戴及智能家居全品类，既是iPhone问世20周年的产  
+  36氪 · 2026-11-18 20:38
 
-- [Gallup 调查：全球三分之一受访年轻人称拥有 AI 陪伴](<https://www.404media.co/gallup-study-friendship-ai-companions/>)  
-  Gallup 与 Boston Children's Digital Wellness Lab 合作，对16个国家超过16000名15至22岁年轻人发起调查，93%受访者称至少有一段牢固的线下友谊，33%表示使用过 AI 陪伴，82%用 AI 查信息，68%用它寻求建议。  
-  404 Media（RSS） · 2026-11-18 13:01
+- [DeepSeek API 定价调整：服务端搜索与网页抓取不再计费，仅按模型 Token 用量计费](<https://www.ithome.com/1/029/058.htm>)  
+  DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起，调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费。  
+  IT之家·人工智能 · 2026-11-18 20:33
 
-- [MIT 与 Cornell 研究用测试时自适应让 AI 文本检测器跟上变化](<https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118>)  
-  MIT 与 Cornell 研究人员用测试时自适应（TTA）训练 AI 文本检测器，在实验中把伪装 AI 文本的识别率从商用检测器的约 27% 提升到 93%。在模拟人类写作习惯自然变化的场景中，TTA 检测器准确率为 85%，传统方法为 73%。该方法可让已部署的检测模型利用无标注新数据在线调整，无需从头重训。  
-  MIT News（RSS） · 2026-11-18 13:00
+- [小米的MiMo人才激励考题](<https://36kr.com/p/4075104005116800?f=rss>)  
+  随着大模型研发投入持续增长，将AI业务独立出来融资，正在成为科技公司探索的一种资本运作方式。 今年以来，快手旗下可灵AI完成独立增资，阿里巴巴也宣布拟分拆旗下AI芯片企业平头哥赴港上市。对于拥有核心技术团队的大厂而言，引入外部资本不仅有助于  
+  36氪 · 2026-11-18 20:33
 
-- [腾讯混元开源 Hy4 flash 模型，含 FP8 与 Base 版本](<https://www.ithome.com/1/028/701.htm>)  
-  腾讯混元宣布开源 Hy4 flash 模型，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署。  
-  IT之家·人工智能 · 2026-11-18 12:36
+- [AI陪伴大变天：收入前十被下架5款，iOS这波整改谁是赢家？](<https://36kr.com/p/4075075172783238?f=rss>)  
+  如今移动端的AI陪伴应用赛道，几乎成了中韩两队的主场。结合SensorTower，收入榜前十基本出自中国/华人团队或韩国背景，就看谁能笑到最后。 收入仅统计IAP 眼下仍是中方领跑且优势不算小。榜首《Tipsy》高出了一个段位，月入1.3亿  
+  36氪 · 2026-11-18 20:30
 
-- [Druckenmiller最新观点：进入保本模式，AI投资转向应用](<https://36kr.com/p/4074717702116481?f=rss>)  
-  当地时间2026年11月17日，Duquesne Family Office创始人、知名投资人Stanley Druckenmiller在奥斯汀TomorrowX Summit上表示， 自己已进入资本保全模式。 对未来12个月缺乏清晰判断，  
-  36氪 · 2026-11-18 12:25
+- [“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地](<https://www.tmtpost.com/8210345.html>)  
+  “未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产业集聚”全链条，是百年京张AI创新带上的重要节点。  
+  钛媒体 · 2026-11-18 20:11
 
-- [腾讯混元开源 Hy4 flash，含 FP8 和 Base 版本](<https://mp.weixin.qq.com/s/yaFPaQL6MNVz01GD2sIlRw>)  
-  腾讯混元宣布开源 Hy4 flash，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base 三个版本，开发者可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，另有 AngelSlim 发布的 GGUF 版本。官方表示也在加速开源 Hy4 模型。  
-  公众号：腾讯混元 · 2026-11-18 12:23
+- [GPT-6.2 Astra首发24小时口碑大翻车，硅谷大佬集体差评](<https://36kr.com/p/4075178142864513?f=rss>)  
+  GPT-6.2刚发24小时口碑两极分化！API再砍20%登顶性价比之王，硅谷大佬却连夜写长信：写代码不如Opus 5.5 GPT-6.2 Astra和Sol，口碑好割裂，给我看不会了。 一边是榜单又杀疯了。 另一边，拿到早期测试权限的硅谷头  
+  36氪 · 2026-11-18 20:02
 
-- [国产GPU，风浪越大鱼越贵](<https://36kr.com/p/4074716514554753?f=rss>)  
-  华人科技商业界领袖、执掌英伟达33年、推动其成为全球市值第一大公司的黄仁勋，因突发事件辞去了总裁、首席执行官及董事职务。 在英伟达官方网站，黄仁勋已被移除管理层序列，和克里斯·马拉科夫斯基一同被放到了“创始人”一栏中。甚至在X平台上，他的蓝  
-  36氪 · 2026-11-18 12:12
+- [一年卖了5000万，第一批明星AI产品还是下线了](<https://36kr.com/p/4075177978909826?f=rss>)  
+  11月9日，腾讯元器停服。对一个做公众号的运营者来说，最直接的变化是，自己搭的自动回复机器人不回消息了。元器是腾讯2024年5月推出的零代码智能体平台，用户不用写代码，就能把公众号、知识库和插件拼成一个机器人。 更早之前的10月底，字节扣子  
+  36氪 · 2026-11-18 20:01
 
-- [存储芯片，突发预警](<https://36kr.com/p/4074735085048962?f=rss>)  
-  存储芯片又一次站在涨价周期的高点，但市场似乎开始出现一些不同的声音。 过去几个月，AI几乎成了存储行业最强的推动力。HBM持续紧缺，服务器DRAM供需吃紧，三星、SK海力士不断调整产能分配，越来越多的晶圆产能被转向高附加值产品。存储芯片价格  
-  36氪 · 2026-11-18 12:09
+- [Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents](<https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/>)  
+  With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI docu  
+  TechCrunch · 2026-11-18 20:00
 
-- [Genesis完成A轮融资，估值超230亿](<https://www.itjuzi.com/investevent/14708129>)  
-  Genesis AI是一家机器人通用模型研发商，致力于打造为各类机器人提供动力的基础模型，并使用专有物理引擎生成合成数据，该引擎能够精确模拟物理世界。近日，Genesis AI完成5亿美金A轮，投后估值来到35亿美金。投资方包括，NV…  
-  IT桔子 · 2026-11-18 11:53
+- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
+  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
+  科技早知道 · 2026-11-18 20:00
 
-- [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
-  作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
-  公众号：卡尔的AI沃茨 · 2026-11-18 11:52
+- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
+  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
+  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 20 页
