@@ -46,10 +46,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   面壁智能在里斯本 Web Summit 2026 上展示了全新发布的 MiniCPM-V 4.7 及面壁智舱 SuperMate 等端侧产品。MiniCPM-V 4.7 35B-A3B 是全球首个可在端侧无损运行的开源 MoE 模型，单次推理仅激活 30 亿参数，在最新款 iPhone 上以约 3GB 运行内存实现约 20 token/s 解码速度。  
   公众号：面壁智能（MiniCPM） · 2026-11-17 20:50
 
-- [韩国拟拨款采购无线电探测设备 防范国家资格考试 AI 眼镜作弊](<https://www.ithome.com/1/026/958.htm>)  
-  据新华社报道，韩国在野党议员金渭相提议在 2027 年度预算中增加约 65.7 亿韩元（约合 3,286.3 万元人民币），采购无线电信号探测设备并安排专职人员，防范国家资格考试中的 AI 作弊。  
-  IT之家·人工智能 · 2026-11-13 22:08
-
 - [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
   Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
   @SVTrivo · 2026-11-13 12:48
@@ -58,9 +54,13 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
   @SamuelZengML · 2026-11-13 02:00
 
-- [Edge0 开源 145B 端侧模型，可在笔记本本地运行](<https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer>)  
-  Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。  
-  Hacker News：AI 热帖 · 2026-11-13 02:00
+- [Google 与 Samsung、Gentle Monster、Warby Parker 合作推出 Gemini 智能眼镜，起价 395 美元](<https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/>)  
+  Google 联合 Samsung、Gentle Monster 和 Warby Parker 推出首批 Gemini 智能眼镜，今日起开放预售，起价 395 美元。  
+  Ars Technica：AI（RSS） · 2026-11-12 22:50
+
+- [韩国公布端侧 AI 半导体路线图：8,002 亿韩元项目，2030 年前完成 10 款芯片开发验证](<https://www.ithome.com/1/026/284.htm>)  
+  韩国产业通商资源部公布端侧 AI 半导体技术开发项目路线图，计划通过总额 8,002 亿韩元的项目，到 2030 年完成 10 款 AI 芯片的开发和验证。这十款芯片覆盖智能家电、自动驾驶、协作机器人、类人机器人、农业机器人、无人机等领域，另含先进制程和极端场景项目。三星电子等晶圆代工企业将优先向本国项目分配 MPW 等测试流片资源。  
+  IT之家·人工智能 · 2026-11-12 17:30
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

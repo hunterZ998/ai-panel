@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 22 页
 
-- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
-  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
-  Latent Space · 2026-11-17 05:27
-
-- [加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face](<https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>)  
-  加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。  
-  The Verge：AI（RSS） · 2026-11-17 04:46
-
-- [Sam Altman 在 Semafor 峰会回应 RAM 言论争议，称希望人人都能买大内存](<https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor>)  
-  OpenAI CEO Sam Altman 在 Semafor 的 Silicon Valley &amp; The World summit 上澄清上月关于 PC RAM 的争议言论，称希望大家都能为自己的电脑购买大量 RAM，也认可在家折腾和使用。  
-  The Verge：AI（RSS） · 2026-11-17 04:41
-
-- [Constellation Energy 称民主党中期选举胜选不会阻碍数据中心发展](<https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats>)  
-  Constellation Energy CEO Joe Dominguez 在第三季度财报电话会上表示，市场对民主党赢得中期选举后限制数据中心的担忧是过度反应。  
-  The Verge：AI（RSS） · 2026-11-17 04:29
-
 - [哈佛研究：美国 403 座超大规模数据中心年耗电约 82 太瓦时，碳排放堪比丹麦](<https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard>)  
   发表于 Nature Sustainability 的新研究用卫星影像识别美国 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间消耗约 82 太瓦时电力，约占全美用电的 1.8%，超过约 148 个国家的年用电量；其中约 54% 来自天然气和煤电，产生 2570 万吨 CO2，相当于丹麦的年碳足迹。  
   The Verge：AI（RSS） · 2026-11-17 04:27
@@ -181,5 +165,21 @@
 - [Google 开源 ABFS，将 AOSP 检出时间从约 36 分钟降至 8 秒内](<https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/>)  
   Google 发布并开源了 Another Build File Service（ABFS），用于加速 Android 等超大规模 Git 仓库的开发，含 CASFS 内核文件系统模块、Ninja-go 和服务端 CAS 基础设施。  
   Google Developers Blog（RSS） · 2026-11-17 00:00
+
+- [Goodfire Research 发现大语言模型中的神经元社区](<https://www.goodfire.com/research/neuron-communities>)  
+  Goodfire Research 发布研究，提出无需预设功能的无监督方法，在 Llama-3.1-8B 上用梯度归因、神经元图和社区检测，从 1000 万条 prompt 中发现协作实现常见模型行为的小型神经元社区，并在 Qwen 3.6 35B-A3B 上复现。  
+  Goodfire Research（网页） · 2026-11-17 00:00
+
+- [首届 SGLang Summit 2026 举办，SGLang Consortium 成立并宣布 SGLang v1.0 与 Miles v0.2](<https://www.lmsys.org/blog/2026-11-17-sglang-summit-recap>)  
+  SGLang 团队复盘 11 月 12–13 日在旧金山 Fort Mason 举办的首届 SGLang Summit，超过 2000 名开发者参加。  
+  LMSYS Blog · 2026-11-17 00:00
+
+- [FrontierHarness Eval v1.1：27,280 次编码智能体运行中 64% 推理花费流向失败任务](<https://runta.com/blog/introducing-frontierharness-eval-v1-1/>)  
+  Runta 与 Baseten 合作发布 FrontierHarness Eval v1.1，用 83B tokens 跑了 27,280 次智能体运行，覆盖 22 个 harness × 5 个模型 × 62 个任务 × 4 次尝试，规模是 v1.0 的 76 倍。  
+  Hacker News：AI 热帖 · 2026-11-17 00:00
+
+- [LG AI Research 在 ICML 2026 提出 LASE：基于可靠性自适应辩论的高效多智能体推理](<https://www.lgresearch.ai/blog/view?seq=751>)  
+  LG AI Research 在 ICML 2026 提出 LASE（Leader-Adaptive Structured Engagement）框架，按需触发多智能体辩论以降低 token 开销。  
+  LG AI Research：官方研究博客 · 2026-11-17 00:00
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 22 页

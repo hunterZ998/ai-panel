@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 22 页
 
-- [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
-  Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
-  Product Hunt 中文 · DecoHack · 2026-11-16 15:00
-
-- [OpenAI 发布 CSAM 图像分类器模型卡](<https://deploymentsafety.openai.com/csam-image-classifier>)  
-  OpenAI 公布 CSAM 图像分类器模型卡，该分类器用受访问控制、人工标注的图像数据集训练和评估，数据存储与处理均在受控环境中进行。同一阈值下，在线评估集的精确率明显低于离线留出集，原因是留出集中 CSAM 占比远高于在线评估集，CSAM 稀少时少量误报即可超过真实检出数。OpenAI 用此前在线评估中经审核的样本多轮迭代改进已识别错误类型，每轮也暴露出新的误报模式。  
-  OpenAI：部署安全与系统卡（网页） · 2026-11-16 15:00
-
-- [虚拟人“方桃子”代言美瞳发布虚假广告，涉事公司被罚 6.82 万余元](<https://www.ithome.com/1/027/711.htm>)  
-  据大河报报道，广州我的影视文化传媒有限公司因在自制虚拟人物“方桃子”账号发布“NUTNUTLOOK 坚果力”美瞳广告，宣称“戴了一天都很舒服”等虚构使用效果，被广州市番禺区市场监督管理局罚款 6.82 万余元。该美瞳属第三类医疗器械，公司未取得《医疗广告审查证明》即发布，违反广告法。  
-  IT之家·人工智能 · 2026-11-16 14:57
-
-- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
-  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
-  IT之家·人工智能 · 2026-11-16 14:54
-
 - [火山引擎开放 Seedance 2.5 4K API](<https://mp.weixin.qq.com/s/c6pWJXD6YXf8lcwLdNu5zA>)  
   火山引擎宣布 Seedance 2.5 4K API 全面开放，可通过文末链接获取 API 入口。Seedance 官方优质作品及公开提示词可在火山方舟 Gallery 查看，网址 https://ark.volcengine.com/ark/gallery。  
   公众号：火山引擎 · 2026-11-16 14:03
@@ -180,5 +164,21 @@
 - [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>)  
   Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea…  
   OpenAI · 2026-11-16 06:00
+
+- [Our new blog for science](<https://openai.com/index/our-new-blog-for-science>)  
+  The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to a…  
+  OpenAI · 2026-11-16 06:00
+
+- [美国国会寻求收紧AI芯片出口规则](<https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china>)  
+  在涉及Nvidia高管的争议事件后，美国国会正寻求进一步收紧AI芯片出口。民主党和共和党均对收紧相关规则的法案表示支持，并要求Nvidia高管出席国会作证。参议院银行委员会主席Tim Scott已致函Nvidia高管和商务部长Howard Lutnick，要求其公开作证。众议院议长Mike Johnson表示，国会内部在限制对华芯片出口问题上正形成共识。  
+  The Verge：AI（RSS） · 2026-11-16 03:15
+
+- [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](<https://www.xiaoyuzhoufm.com/episode/6af936ea14d01a26f8a9fd94?utm_source=rss>)  
+  ➤ 「十字路口」2026 年终 AI 复盘系列第三期，录制当天恰好是 Fable 5.2 发布次日，我们邀请到一直在 AI Infra 领域工作的赵晨阳（RadixArk 团队成员，SGLang 团队成员）。 今年，我们不打算做大而全…  
+  十字路口 Crossing · 2026-11-16 00:00
+
+- [作者分享让 AI 模仿自己写作风格的 /write-like-mike 技能构建流程](<https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me>)  
+  作者分享历时六年、经四次优化器和一个盲测评审打磨出的让 AI 模仿自己写作风格的方法，并做成 /write-like-mike 写作技能，附带可验证的 eval 指标。使用该流程后，从形成观点到成文约需一小时，此前需要一整天，产出频率从每月一篇提升到每周一篇，不过每次仍需少量人工编辑。  
+  Every：最新文章（网页） · 2026-11-16 00:00
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 22 页

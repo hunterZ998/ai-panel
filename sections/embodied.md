@@ -32,10 +32,6 @@
   Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming f  
   TechCrunch · 2026-11-18 19:30
 
-- [第一批打工的人形机器人，有的已经失业了](<https://www.tmtpost.com/8209375.html>)  
-  辞退原因是什么？  
-  钛媒体 · 2026-11-18 17:51
-
 - [柏川数据宣布完成5000万元Pre-A轮融资](<https://www.itjuzi.com/investevent/14708118>)  
   柏川数据是一家物理AI数据基座服务商。最初主要提供自动驾驶数据服务，目前已服务近百家车企及智能驾驶厂商。2025年下半年，公司开始拓展具身智能数据业务。截至目前，柏川已服务智元、自变量、优必选、它石智航、星海图、优理奇等近20家具身智…  
   IT桔子 · 2026-11-18 10:31
@@ -70,6 +66,10 @@
 - [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
+
+- [Runway 开源机器人模型 Praxis-1，速度比 GPT-6 Astra 机械臂快 15.6 倍](<https://www.ithome.com/1/026/104.htm>)  
+  Runway 于 11 月 11 日推出机器人模型 Praxis-1，将视频预训练知识用于真实机器人控制，模型以 Apache 2.0 许可证开放权重，权重和代码分别在 Hugging Face 和 GitHub 公开。  
+  IT之家·人工智能 · 2026-11-12 15:26
 
 - [Token卷到触觉了！机器人终于有了通用手感](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=1&sn=8fa8b6872870888a01b478c05b7bbaac>)  
   量子位 · 2026-11-10 13:24

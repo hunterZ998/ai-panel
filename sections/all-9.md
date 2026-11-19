@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 22 页
 
-- [可灵 AI 发布 Kling Image 4.0 图像模型并开放 API](<https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w>)  
-  快手可灵 AI 发布新一代图像创作模型 Kling Image 4.0，现已全量上线并面向企业客户与开发者开放 API。模型采用「理解生成统一」架构，首次支持原生 8K 图像生成，内置 110+ 种预设影调风格和 70+ 种商用字体，支持最高 15000 tokens 文本输入、单图最多生成 2000 字，以及一次描述生成最多 10 张风格连贯的组图和电商详情页等超长画幅长图。  
-  公众号：可灵AI（快手·视频） · 2026-11-17 23:10
-
-- [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
-  生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
-  公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
-
-- [OpenAI 向北约和欧洲多国政府开放网络安全工具 Daybreak](<https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/>)  
-  OpenAI 向北约及多个欧洲政府开放网络安全工具 Daybreak，供网络防御团队用其模型审计软件、发现漏洞并修补安全缺口。NCIA 称已大量使用底层模型；ENISA 借此在欧盟机构软件中发现 4 个漏洞，CERT Polska 在正被利用的 MikroTik 路由器中发现 6 个漏洞，法国、德国、波兰和乌克兰也已获得访问权限。  
-  The Decoder：AI News（RSS） · 2026-11-17 23:02
-
-- [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
-  Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
-  Suno：Blog（网页） · 2026-11-17 23:00
-
 - [Cloudflare 自称 neolab：发布 System One 模型 Clef 与 Clairic](<https://latent.space/p/cloudflare/>)  
   Cloudflare AI 平台产品负责人 Michelle Chen 在 AI Engineer Code Summit 演讲并接受 Latent Space 采访。  
   Latent Space（RSS） · 2026-11-17 23:00
@@ -179,5 +163,21 @@
 - [NovaSilicon完成近亿元Pre-A+轮融资](<https://www.itjuzi.com/investevent/14708020>)  
   芯星元Novasilicon是一家AI芯片设计服务商，试图推动半导体产业迎来继制造专业化之后的下一次分工 —— 让更多企业无需自建完整芯片设计团队，也能按需调用芯片设计能力。芯星元Novasilicon完成近亿元Pre-A+轮融资，由…  
   IT桔子 · 2026-11-17 16:12
+
+- [Vanira](<https://www.producthunt.com/products/vanira>)  
+  Voice, video &amp; multimodal AI agent infrastructure  
+  Product Hunt · English · 2026-11-17 16:08
+
+- [KaDeep AI](<https://www.producthunt.com/products/kadeep-ai>)  
+  Agentic QA, localization &amp; accessibility: know when to ship  
+  Product Hunt · English · 2026-11-17 16:00
+
+- [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)  
+  Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitch…  
+  OpenAI · 2026-11-17 16:00
+
+- [LinkBit](<https://www.producthunt.com/products/linkbit>)  
+  Free URL shortener your AI agent can use \(MCP + API\)  
+  Product Hunt · English · 2026-11-17 15:57
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 22 页

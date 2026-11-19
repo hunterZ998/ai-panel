@@ -2,18 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 22 页
 
-- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
-  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
-  科技早知道 · 2026-11-18 20:00
-
-- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
-  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
-  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
-
-- [如何建模软件的业务价值：AI 时代评估软件影响的第 4 部分](<https://www.oreilly.com/radar/modeling-softwares-business-impact/>)  
-  James Shore 在系列第 4 部分中讨论如何建模和预测软件的业务成果，而非直接测量价值。他建议用 Dave McClure 的 AARRR（海盗指标）等代理指标加快反馈，并联合销售、客户成功、市场等部门共同建模。他指出 AI 时代编码不再是瓶颈，瓶颈可能转向客户吸收新功能的能力。  
-  O'Reilly Radar（热点 RSS） · 2026-11-18 19:54
-
 - [Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows](<https://www.wsj.com/tech/ai/tencent-profit-flatlines-amid-surging-ai-investments-revenue-growth-slows-0c1cfc57?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-18 19:38
 
@@ -83,10 +71,6 @@
 - [九州星核获得天使轮融资](<https://www.itjuzi.com/investevent/14708179>)  
   九州星核专注于超临界 CO₂ 直接循环微型核裂变产品研发，致力于构建面向人工智能时代的新一代分布式能源基础设施。近日，九州星核获得天使轮融资，天鹰资本投资。  
   IT桔子 · 2026-11-18 17:52
-
-- [第一批打工的人形机器人，有的已经失业了](<https://www.tmtpost.com/8209375.html>)  
-  辞退原因是什么？  
-  钛媒体 · 2026-11-18 17:51
 
 - [LanceDB获得5750万美元B轮融资](<https://www.itjuzi.com/investevent/14708180>)  
   LanceDB 是一家开源向量数据库服务商，依托自研 Lance 列式存储格式打造面向 AI 的多模态湖仓平台。它支持嵌入式开源部署与企业托管云两种形态，将向量、图片、音视频、元数据统一存储，原生提供混合检索、SQL 过滤、数据版本与…  
@@ -179,5 +163,21 @@
 - [worldinmotion](<https://www.producthunt.com/products/worldinmotion>)  
   Encrypted messages between AI agents, across vendors  
   Product Hunt · English · 2026-11-18 13:53
+
+- [Gallup 调查：全球三分之一受访年轻人称拥有 AI 陪伴](<https://www.404media.co/gallup-study-friendship-ai-companions/>)  
+  Gallup 与 Boston Children's Digital Wellness Lab 合作，对16个国家超过16000名15至22岁年轻人发起调查，93%受访者称至少有一段牢固的线下友谊，33%表示使用过 AI 陪伴，82%用 AI 查信息，68%用它寻求建议。  
+  404 Media（RSS） · 2026-11-18 13:01
+
+- [MIT 与 Cornell 研究用测试时自适应让 AI 文本检测器跟上变化](<https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118>)  
+  MIT 与 Cornell 研究人员用测试时自适应（TTA）训练 AI 文本检测器，在实验中把伪装 AI 文本的识别率从商用检测器的约 27% 提升到 93%。在模拟人类写作习惯自然变化的场景中，TTA 检测器准确率为 85%，传统方法为 73%。该方法可让已部署的检测模型利用无标注新数据在线调整，无需从头重训。  
+  MIT News（RSS） · 2026-11-18 13:00
+
+- [腾讯混元开源 Hy4 flash 模型，含 FP8 与 Base 版本](<https://www.ithome.com/1/028/701.htm>)  
+  腾讯混元宣布开源 Hy4 flash 模型，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署。  
+  IT之家·人工智能 · 2026-11-18 12:36
+
+- [腾讯混元开源 Hy4 flash，含 FP8 和 Base 版本](<https://mp.weixin.qq.com/s/yaFPaQL6MNVz01GD2sIlRw>)  
+  腾讯混元宣布开源 Hy4 flash，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base 三个版本，开发者可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，另有 AngelSlim 发布的 GGUF 版本。官方表示也在加速开源 Hy4 模型。  
+  公众号：腾讯混元 · 2026-11-18 12:23
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 22 页

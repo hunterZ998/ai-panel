@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 22 页
 
-- [Our new blog for science](<https://openai.com/index/our-new-blog-for-science>)  
-  The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to a…  
-  OpenAI · 2026-11-16 06:00
-
-- [美国国会寻求收紧AI芯片出口规则](<https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china>)  
-  在涉及Nvidia高管的争议事件后，美国国会正寻求进一步收紧AI芯片出口。民主党和共和党均对收紧相关规则的法案表示支持，并要求Nvidia高管出席国会作证。参议院银行委员会主席Tim Scott已致函Nvidia高管和商务部长Howard Lutnick，要求其公开作证。众议院议长Mike Johnson表示，国会内部在限制对华芯片出口问题上正形成共识。  
-  The Verge：AI（RSS） · 2026-11-16 03:15
-
-- [【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳](<https://www.xiaoyuzhoufm.com/episode/6af936ea14d01a26f8a9fd94?utm_source=rss>)  
-  ➤ 「十字路口」2026 年终 AI 复盘系列第三期，录制当天恰好是 Fable 5.2 发布次日，我们邀请到一直在 AI Infra 领域工作的赵晨阳（RadixArk 团队成员，SGLang 团队成员）。 今年，我们不打算做大而全…  
-  十字路口 Crossing · 2026-11-16 00:00
-
-- [作者分享让 AI 模仿自己写作风格的 /write-like-mike 技能构建流程](<https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me>)  
-  作者分享历时六年、经四次优化器和一个盲测评审打磨出的让 AI 模仿自己写作风格的方法，并做成 /write-like-mike 写作技能，附带可验证的 eval 指标。使用该流程后，从形成观点到成文约需一小时，此前需要一整天，产出频率从每月一篇提升到每周一篇，不过每次仍需少量人工编辑。  
-  Every：最新文章（网页） · 2026-11-16 00:00
-
 - [METR 测量模型对对齐评测的识别能力：调查型智能体能区分对齐与能力评测](<https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/>)  
   METR 发布研究笔记，用调查型智能体在 19 个对齐评测和 36 个能力评测中探测环境，测量模型能否识别自己处于对齐评测。结果显示智能体区分两类评测的能力在过去一年持续提升，Opus 5.5 在其数据集上把所有对齐评测排在所有能力评测之上。模型识别依据包括环境看起来像模拟的蜜罐等线索，作者将对齐线索分为环境级和任务级两类，并提出可借此迭代改进对齐评测设计。  
   METR：Notes（网页） · 2026-11-16 00:00
@@ -180,5 +164,21 @@
 - [马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务](<https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/>)  
   要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。  
   TechCrunch：AI（RSS） · 2026-11-15 05:41
+
+- [Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难](<https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/>)  
+  Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。  
+  The Decoder：AI News（RSS） · 2026-11-15 03:05
+
+- [ICONS](<https://www.producthunt.com/products/icons-2>)  
+  Where brands book creators, or license their AI likeness  
+  Product Hunt · English · 2026-11-15 01:43
+
+- [AI 坟场：那些关停、转型或未达预期的 AI 项目与初创公司盘点](<https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>)  
+  TechCrunch 汇总了一份 AI 项目"坟场"名单，记录已关停、转型或大幅低于预期的产品与初创公司。S&amp;P Global 数据显示约 42% 的企业 AI 项目最终被母公司放弃；Character.ai 在 10 月申请破产，Ollie 于 11 月 6 日关停，OpenAI 也关停了 ChatGPT Atlas、Operator 和 Sora 等产品。  
+  TechCrunch：AI（RSS） · 2026-11-15 01:30
+
+- [Gemini 4 Carbon 登顶 MathArena 数学基准，成本约为 GPT-6.1 Sol 的 15 倍](<https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/>)  
+  The Decoder 报道，Google 的 Gemini 4 Carbon（high）以 85.4%±3.0% 的预期成绩登顶 MathArena 数学基准，取代 GPT-6.1 Sol，Claude Fable 5.2 以 82.8% 位居第二。  
+  The Decoder：AI News（RSS） · 2026-11-15 00:48
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 22 页

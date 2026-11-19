@@ -2,66 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-20.md) · [下一页](all-22.md) · 第 21 / 22 页
 
-- [ZPedia｜实测腾讯混元 Hy4：12 项看板 0 个第一，却在实战里进入第一梯队](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901304&idx=1&sn=62a5b1a7b97d221e357307e4069f64b9>)  
-  Z Finance · 2026-11-06 15:35
-
-- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>)  
-  Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
-  TechCrunch · 2026-11-06 14:28
-
-- [佳安智能潘阳：把机器人送进 500 强「打工」，一年挣一个多亿 \| 物理 AI 50人](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748535&idx=1&sn=eaa473df0b6af340440b15b99bd9e042>)  
-  AI科技评论 · 2026-11-06 09:48
-
-- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
-  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
-  晚点聊 · 2026-11-06 09:30
-
-- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
-  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
-  晚点聊 · 2026-11-06 09:30
-
-- [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
-  Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
-  SemiAnalysis · 2026-11-06 03:03
-
-- [The Exploit Was the Bottleneck](<https://www.a16z.news/p/the-exploit-was-the-bottleneck>)  
-  What 23 Years of Data Say About AI and the Patch Gap  
-  a16z · 2026-11-05 23:01
-
-- [The New CFO: How AI Is Rewriting the Finance Function \| Figma CFO Praveer Melwani](<https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym>)  
-  AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Fi…  
-  The a16z Show · 2026-11-05 19:00
-
-- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
-  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
-  20VC · 2026-11-05 15:07
-
-- [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
-  Z Finance · 2026-11-05 13:05
-
-- [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
-  We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
-  Citrini Research · 2026-11-05 04:28
-
-- [Investing in Phaze](<https://www.a16z.news/p/investing-in-phaze>)  
-  A major lesson in getting productivity out of agents over the last few years has been to give them computers and appl…  
-  a16z · 2026-11-04 22:35
-
-- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
-  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
-  The a16z Show · 2026-11-04 19:00
-
-- [⚡ Behind Latent Space: A Rare Look Inside the Pod \| AIEi Shanghai](<https://www.youtube.com/watch?v=QmDLDy3ZSNE>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=QmDLDy3ZSNE  
-  Latent Space · 2026-11-04 18:32
-
-- [独家｜客单价 2000 美金、5 万人排队，这家 Personal Agent OS 公司 3 个月再拿数千万美元融资](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901281&idx=1&sn=d92db7aea0793de66e0e2edbb0aa7951>)  
-  Z Finance · 2026-11-04 10:02
-
-- [Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud](<https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will>)  
-  We showed exactly how xAI bypassed the grid \(and permitting\!\) with truck-mounted turbines, why the behind-the-meter p…  
-  SemiAnalysis · 2026-11-04 04:44
-
 - [⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev](<https://www.youtube.com/watch?v=LL0YmIyBKSU>)  
   Watch the full show on YouTube: https://www.youtube.com/watch?v=LL0YmIyBKSU  
   Latent Space · 2026-11-04 04:16
@@ -173,5 +113,69 @@
 - [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
   ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  
   十字路口 Crossing · 2026-10-26 00:00
+
+- [The New Startup Playbook \| Box CEO Aaron Levie](<https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv>)  
+  Can a 10-person startup outperform a company with hundreds of employees? Box CEO Aaron Levie argues AI agents are giv…  
+  The a16z Show · 2026-10-25 18:00
+
+- [少有的同时做过 Agent、多模态和具身的人 \| 对谈前混元多模态 RL Infra 负责人淏楠](<https://www.xiaoyuzhoufm.com/episode/6ada2be4c96c8942ec10cb1e?utm_source=rss>)  
+  这期的嘉宾淏楠非常「折腾」。他读过五个大学，读着觉得没意思就换，也是少有的同时做过 Agent、多模态、RL 和具身的人，而且总是做一些逆势而为（非主流）的选择： 他曾在陈天桥和代季峰两位老师的 MiroMind 工作，是最早一批做…  
+  42章经 · 2026-10-24 21:00
+
+- [What It Takes to Win as a Founder \| Ben Horowitz](<https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY>)  
+  What does it take to build a company when AI is changing the rules this quickly? Ben Horowitz argues that technology…  
+  The a16z Show · 2026-10-24 18:00
+
+- [20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F\*\*\*\*\* Today with Naveen Rao, Unconventional](<https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional>)  
+  AGENDA: 05:00 Will we run out of energy? 19:00 Will specialised chips threaten NVIDIA's dominance? 26:00 Can we trust…  
+  20VC · 2026-10-24 15:07
+
+- [Amazon’s Trainium Takes a Strike at the Training King](<https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at>)  
+  Anthropic is running production inference and RL rollouts on Trainium2 and Trainium3.  
+  SemiAnalysis · 2026-10-24 03:06
+
+- [Amazon CEO Andy Jassy on the $220 Billion AI Buildout](<https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK>)  
+  Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving m…  
+  The a16z Show · 2026-10-23 18:00
+
+- [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO](<https://www.latent.space/p/modal-d>)  
+  Warm welcome to Basil Chatha, our newest cohost from the Forward Deployed side of the AI Engineering world\! We’ll be…  
+  Latent Space · 2026-10-23 01:40
+
+- [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](<https://www.latent.space/p/moshi>)  
+  Anekha Sokhal, CEO of Moshi, joins swyx to discuss building a recommendation engine for commodity traders, turning ma…  
+  Latent Space · 2026-10-22 22:00
+
+- [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ \| 硅谷线下活动 S10E33](<https://guiguzaozhidao.fireside.fm/20240448>)  
+  最近几个月，像 Meta 的 Muse，OpenAI 的 Dots 这样的 Personal agent 产品大火。模型不仅越来越擅长调用工具、规划任务，也开始能够执行数百甚至上千个步骤的复杂工作。但当 AI 真正进入现实世界，问题也…  
+  科技早知道 · 2026-10-22 19:00
+
+- [20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO &amp; Modal Raises $750M at $15.75B](<https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b>)  
+  AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sp…  
+  20VC · 2026-10-22 15:07
+
+- [The Huawei-DeepSeek Symbiosis](<https://newsletter.semianalysis.com/p/huawei-deepseek>)  
+  Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend  
+  SemiAnalysis · 2026-10-22 01:34
+
+- [The Missing Infrastructure for AI Agents: Documents \| Reducto’s Adit Abraham](<https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM>)  
+  AI agents can reason over enormous amounts of information, but much of the world’s actual work is still trapped in PD…  
+  The a16z Show · 2026-10-21 18:00
+
+- [AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess](<https://www.latent.space/p/tenex>)  
+  Alex Lieberman and CJ Hess join swyx at AI Engineer New York to discuss Tenex’s approach to AI-native engineering, pa…  
+  Latent Space · 2026-10-21 13:01
+
+- [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](<https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss>)  
+  今天我们的嘉宾是科沃斯CEO钱程（David）。 他出生于1990年，曾是中国最年轻A股上市公司CEO，也是一名企二代、创二代。我很好奇的是，当一代中国企业开始从创业进入传承，真正在经历这个过程的当事人，他所面临的现实与所思所想？ 钱…  
+  张小珺商业访谈录 · 2026-10-21 08:00
+
+- [The Programmable Data Center — Evan Conrad, SF Compute](<https://www.latent.space/p/sfcompute2>)  
+  This was recorded on the sidelines of the new Compute Trading track at AIE NYC. Catch us next at AIE CODE, our last f…  
+  Latent Space · 2026-10-21 03:31
+
+- [Citrini Therapeutics](<https://www.citriniresearch.com/p/citrini-therapeutics>)  
+  We Wanted to Use Claude to Create a New Drug. Here’s What Happened.  
+  Citrini Research · 2026-10-20 20:59
 
 [返回面板](../README.md) · [上一页](all-20.md) · [下一页](all-22.md) · 第 21 / 22 页

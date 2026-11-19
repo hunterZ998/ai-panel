@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 22 页
 
-- [微软 Dragon Copilot Transcribe 采用 MAI-Transcribe-2，多语言错误率降约 50%](<https://www.ithome.com/1/028/590.htm>)  
-  微软在 Ignite 2026 宣布医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcribe-2，并承担其 100% 的医患对话转写任务。  
-  IT之家·人工智能 · 2026-11-18 07:27
-
-- [Claude Code v2.1.327 发布：新增安装确认与 MCP JSON 读取等修复](<https://github.com/anthropics/claude-code/releases/tag/v2.1.327>)  
-  Claude Code v2.1.327 发布，为 /install-github-app 修改仓库前增加确认步骤，并新增 claude mcp add-json 从 stdin 读取服务器 JSON，避免 token 出现在命令行。  
-  Claude Code：GitHub Releases（RSS） · 2026-11-18 07:17
-
-- [微软发布首款语音对语音模型 MAI Realtime 1，起价每音频分钟 0.01 美元](<https://www.ithome.com/1/028/588.htm>)  
-  微软在 Ignite 2026 大会上发布其首款语音对语音模型 MAI Realtime 1，面向企业实时语音场景，基础使用费为每音频分钟 0.01 美元，推理另按每百万输入 token 1 美元、输出 token 5 美元计费。  
-  IT之家·人工智能 · 2026-11-18 07:15
-
-- ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
-  Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
-  Axios · 2026-11-18 07:15
-
 - [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
   微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
   IT之家·人工智能 · 2026-11-18 07:06
@@ -180,5 +164,21 @@
 - [Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每音频分钟](<https://microsoft.ai/news/introducing-mai-realtime-1/>)  
   Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起价 $0.01 每音频分钟，号称在 Big Bench Audio 和 τ-Voice 基准上优于 GPT Realtime 2.1。  
   Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
+
+- [Microsoft Ignite 2026 发布 MAI 系列 7 个新模型](<https://microsoft.ai/news/microsoft-ignite-2026/>)  
+  微软在 Ignite 2026 上发布 7 个 MAI 系列新模型，主打性价比。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
+
+- [Microsoft AI 发布专用安全模型 MAI Cyber 2 Flash](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
+  Microsoft AI 发布专用安全模型 MAI Cyber 2 Flash，在 CyberGym‑E2E 上以 92.3% 的任务成功率超过 GPT-6 Astra 的 91.5%，且每任务成本不到其 2%，并在相同推理预算下于 CyberGym‑E2E 和 WebExploitBench 上超过 GPT-5.6 Cyber。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
+  Microsoft AI 发布两款面向企业日常编码的模型 MAI Code 2 和 MAI Code 2 Flash，主打性价比。文中称在四个编码基准平均后，MAI Code 2 以 40% 的成本达到 GPT-6.1 Sol 98% 的性能，以 5% 的成本达到 Claude Opus 5.5 96% 的性能；盲测前端评测中开发者 64% 的情况下更偏好其结果。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights](<https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/>)  
+  Microsoft 在 Ignite 2026 主题演讲中介绍 MAI 系列模型的高性价比策略。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:14
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 22 页

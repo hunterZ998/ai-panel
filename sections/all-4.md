@@ -61,6 +61,10 @@
   IT之家 11 月 18 日消息，据腾讯公司公关总监张军分享，在今晚的分析师会上，Martin（腾讯总裁刘炽平）透露 WorkBuddy 最近七天的收入按年化折算超过 5 亿美元 （IT之家注：现汇率约合 33.34 亿元人民币） ，…  
   IT之家 · 2026-11-18 22:15
 
+- [这只高波动AI股较高点已跌80%，且正发出警告信号](<https://www.tmtpost.com/8210485.html>)  
+  应用光电（Applied Optoelectronics）的股价正在下跌，这可能是在为人工智能建设浪潮亮起一盏警示灯。  
+  钛媒体 · 2026-11-18 22:13
+
 - [Nvidia Results Show AI Demand Remains Robust](<https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-18 22:08
 
@@ -78,10 +82,6 @@
 - [KPMG 首次对 FTSE 250 公司运行百个 AI 智能体参与平行审计](<https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/>)  
   KPMG 今年首次对一家 FTSE 250 公司运行全流程 AI 平行审计，投入超过 100 个 AI 智能体配合传统团队完成年度审计各阶段，正式审计意见仍基于常规审计。  
   The Decoder：AI News（RSS） · 2026-11-18 21:55
-
-- [商汤 2026 年前三季度营收 37.92 亿元，同比增长 30.4%](<https://www.ithome.com/1/029/088.htm>)  
-  IT之家 11 月 18 日消息，商汤今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：37.92 亿元，同比增长 30.4% 毛利润…  
-  IT之家 · 2026-11-18 21:52
 
 - [一份看空中际旭创的报告，戳中了AI硬件的最大软肋](<https://36kr.com/p/4075210942354560?f=rss>)  
   一份看空中际旭创的估值测算，几乎把整个AI硬件资产的估值困境摆到了台面上。 11月17日，一份关于中际旭创的看空测算在投资圈迅速传播。按照这份材料的预测，到2029年，中际旭创的年净利润大约只有300亿元，对应合理市值3000亿至4500亿  
@@ -147,21 +147,9 @@
   If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and  
   TechCrunch · 2026-11-18 21:00
 
-- [从腾讯AI到AI腾讯](<https://36kr.com/p/4075202762904708?f=rss>)  
-  又到腾讯交AI成绩单的时候。 刚刚发布的2026年Q3财报，腾讯对外界备受关注的混元HY4，WorkBuddy、小微等关键业务或产品，给出新的进展和数据。 其中首次披露WorkBuddy核心运营数据，日活已经超千万，是目前中国大语言模型To  
-  36氪 · 2026-11-18 20:59
-
-- [黄仁勋接班人，是他？](<https://36kr.com/p/4075211268969600?f=rss>)  
-  封面图｜铅笔道制图 黄仁勋想回来，英伟达董事会却不想给机会。 11月17日，黄仁勋在社交平台X上表示，如果董事会认为符合公司、股东及员工的最佳利益，他愿意重新执掌这家亲手创办的芯片巨头。 然而，几小时后，英伟达董事会就给他泼了一盆冷水。 在  
-  36氪 · 2026-11-18 20:56
-
 - [豆包工作上线三个月 DAU 突破 800 万、企业 ARR 突破 20 亿元](<https://www.ithome.com/1/029/064.htm>)  
   豆包工作官方宣布，产品上线 3 个月日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作面向生产力场景，可根据自然语言任务自主拆解、调用工具完成调研分析、内容创作等工作；今年 11 月 12 日产品更新引入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等首批第三方模型及按消耗计价的额度机制。  
   IT之家·人工智能 · 2026-11-18 20:55
-
-- [被AI赶尽杀绝的独立音乐人](<https://36kr.com/p/4075206606754944?f=rss>)  
-  今年年初，脑极体启动星火计划，试着把镜头对准AI浪潮里那些常常被忽略的普通人。在此之前，我们记录过借着AI打开创业路径的听障朋友，也追踪过扎根县城、依靠新技术打通销路的带货者。在他们身上，我们看见技术温柔的一面：它可以成为一种托举，为原本受  
-  36氪 · 2026-11-18 20:53
 
 - [腾讯刘炽平：微信小微全面上线后季度成本将低于元宝](<https://www.ithome.com/1/029/063.htm>)  
   腾讯总裁刘炽平在业绩会上表示，微信小微用户测试池持续扩大，日活已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。IT之家提到今年春节元宝活动后曾宣布日活超 5000 万、月活达 1.14 亿。  
@@ -178,5 +166,17 @@
 - [Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents](<https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/>)  
   With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI docu  
   TechCrunch · 2026-11-18 20:00
+
+- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
+  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
+  科技早知道 · 2026-11-18 20:00
+
+- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
+  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
+  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
+
+- [如何建模软件的业务价值：AI 时代评估软件影响的第 4 部分](<https://www.oreilly.com/radar/modeling-softwares-business-impact/>)  
+  James Shore 在系列第 4 部分中讨论如何建模和预测软件的业务成果，而非直接测量价值。他建议用 Dave McClure 的 AARRR（海盗指标）等代理指标加快反馈，并联合销售、客户成功、市场等部门共同建模。他指出 AI 时代编码不再是瓶颈，瓶颈可能转向客户吸收新功能的能力。  
+  O'Reilly Radar（热点 RSS） · 2026-11-18 19:54
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 22 页

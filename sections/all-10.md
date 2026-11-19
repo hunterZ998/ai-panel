@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 22 页
 
-- [Vanira](<https://www.producthunt.com/products/vanira>)  
-  Voice, video &amp; multimodal AI agent infrastructure  
-  Product Hunt · English · 2026-11-17 16:08
-
-- [KaDeep AI](<https://www.producthunt.com/products/kadeep-ai>)  
-  Agentic QA, localization &amp; accessibility: know when to ship  
-  Product Hunt · English · 2026-11-17 16:00
-
-- [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)  
-  Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitch…  
-  OpenAI · 2026-11-17 16:00
-
-- [LinkBit](<https://www.producthunt.com/products/linkbit>)  
-  Free URL shortener your AI agent can use \(MCP + API\)  
-  Product Hunt · English · 2026-11-17 15:57
-
 - [Take-Two CEO 批评 Anthropic、OpenAI 放任用户用 AI 克隆游戏](<https://www.ithome.com/1/028/287.htm>)  
   Take-Two CEO 泽尔尼克近日接受 IGN 采访时批评 Anthropic、OpenAI 放任用户利用生成式 AI 逆向仿制《马力欧卡丁车 Wii》《塞尔达传说：织梦岛》等游戏，称所有公司都应保护知识产权。此前 Steam 部分开发者因担心作品被 AI 仿制抢先上架而取消试玩。Anthropic 已修改 Claude 底层代码，禁止用其重制他人特定游戏，并称此类行为违反使用政策。  
   IT之家·人工智能 · 2026-11-17 15:55
@@ -181,5 +165,21 @@
 - [Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
   TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。  
   TechCrunch：AI（RSS） · 2026-11-17 06:03
+
+- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
+  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
+  Latent Space · 2026-11-17 05:27
+
+- [加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face](<https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>)  
+  加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。  
+  The Verge：AI（RSS） · 2026-11-17 04:46
+
+- [Sam Altman 在 Semafor 峰会回应 RAM 言论争议，称希望人人都能买大内存](<https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor>)  
+  OpenAI CEO Sam Altman 在 Semafor 的 Silicon Valley &amp; The World summit 上澄清上月关于 PC RAM 的争议言论，称希望大家都能为自己的电脑购买大量 RAM，也认可在家折腾和使用。  
+  The Verge：AI（RSS） · 2026-11-17 04:41
+
+- [Constellation Energy 称民主党中期选举胜选不会阻碍数据中心发展](<https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats>)  
+  Constellation Energy CEO Joe Dominguez 在第三季度财报电话会上表示，市场对民主党赢得中期选举后限制数据中心的担忧是过度反应。  
+  The Verge：AI（RSS） · 2026-11-17 04:29
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 22 页

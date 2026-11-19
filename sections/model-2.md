@@ -30,10 +30,6 @@
   Nvidia 临时 CEO Colette Kress 在周二财报电话会上宣布，公司已停止向中国发货获许可的 Hopper 架构 H200 数据中心芯片，业绩指引也不再包含相关产品。尽管白宫去年 12 月批准对华销售，此前路透报道约 600,000 颗 H200 芯片因北京未批准大规模进口滞留香港；文章还提到 Huang 上周卸任 CEO 及芯片审查担忧，但 Kress 未解释停售原因。  
   The Verge：AI（RSS） · 2026-11-18 21:01
 
-- [从腾讯AI到AI腾讯](<https://36kr.com/p/4075202762904708?f=rss>)  
-  又到腾讯交AI成绩单的时候。 刚刚发布的2026年Q3财报，腾讯对外界备受关注的混元HY4，WorkBuddy、小微等关键业务或产品，给出新的进展和数据。 其中首次披露WorkBuddy核心运营数据，日活已经超千万，是目前中国大语言模型To  
-  36氪 · 2026-11-18 20:59
-
 - [豆包工作上线三个月 DAU 突破 800 万、企业 ARR 突破 20 亿元](<https://www.ithome.com/1/029/064.htm>)  
   豆包工作官方宣布，产品上线 3 个月日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作面向生产力场景，可根据自然语言任务自主拆解、调用工具完成调研分析、内容创作等工作；今年 11 月 12 日产品更新引入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等首批第三方模型及按消耗计价的额度机制。  
   IT之家·人工智能 · 2026-11-18 20:55
@@ -180,5 +176,9 @@
 - [Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
   Microsoft AI 发布两款面向企业日常编码的模型 MAI Code 2 和 MAI Code 2 Flash，主打性价比。文中称在四个编码基准平均后，MAI Code 2 以 40% 的成本达到 GPT-6.1 Sol 98% 的性能，以 5% 的成本达到 Claude Opus 5.5 96% 的性能；盲测前端评测中开发者 64% 的情况下更偏好其结果。  
   Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
+
+- [Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights](<https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/>)  
+  Microsoft 在 Ignite 2026 主题演讲中介绍 MAI 系列模型的高性价比策略。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:14
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 6 页

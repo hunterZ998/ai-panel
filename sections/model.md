@@ -38,7 +38,7 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 260 条
+## 相关资讯 · 261 条
 
 - [Anthropic IPO将造就数千名百万富翁](<https://36kr.com/p/4075975525668741?f=rss>)  
   11月19日，纳斯达克交易大厅的钟声尚未敲响，Anthropic的员工已经在账面上跨越了一条许多人一生无法企及的线。据路透社报道，这家Claude制造商的首次公开募股有望在现任和前任员工中创造数千名“账面百万富翁”，可能成为硅谷历史上最大的  

@@ -2,22 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 22 页
 
-- [Goodfire Research 发现大语言模型中的神经元社区](<https://www.goodfire.com/research/neuron-communities>)  
-  Goodfire Research 发布研究，提出无需预设功能的无监督方法，在 Llama-3.1-8B 上用梯度归因、神经元图和社区检测，从 1000 万条 prompt 中发现协作实现常见模型行为的小型神经元社区，并在 Qwen 3.6 35B-A3B 上复现。  
-  Goodfire Research（网页） · 2026-11-17 00:00
-
-- [首届 SGLang Summit 2026 举办，SGLang Consortium 成立并宣布 SGLang v1.0 与 Miles v0.2](<https://www.lmsys.org/blog/2026-11-17-sglang-summit-recap>)  
-  SGLang 团队复盘 11 月 12–13 日在旧金山 Fort Mason 举办的首届 SGLang Summit，超过 2000 名开发者参加。  
-  LMSYS Blog · 2026-11-17 00:00
-
-- [FrontierHarness Eval v1.1：27,280 次编码智能体运行中 64% 推理花费流向失败任务](<https://runta.com/blog/introducing-frontierharness-eval-v1-1/>)  
-  Runta 与 Baseten 合作发布 FrontierHarness Eval v1.1，用 83B tokens 跑了 27,280 次智能体运行，覆盖 22 个 harness × 5 个模型 × 62 个任务 × 4 次尝试，规模是 v1.0 的 76 倍。  
-  Hacker News：AI 热帖 · 2026-11-17 00:00
-
-- [LG AI Research 在 ICML 2026 提出 LASE：基于可靠性自适应辩论的高效多智能体推理](<https://www.lgresearch.ai/blog/view?seq=751>)  
-  LG AI Research 在 ICML 2026 提出 LASE（Leader-Adaptive Structured Engagement）框架，按需触发多智能体辩论以降低 token 开销。  
-  LG AI Research：官方研究博客 · 2026-11-17 00:00
-
 - [PFN 与 SEMIFIVE 合作开发 AI 推理半导体 MN-Core L2000 系列](<https://www.preferred.jp/ja/news/pr20261116>)  
   Preferred Networks（PFN）与 SEMIFIVE 宣布在 AI 推理专用半导体 MN-Core L2000 系列的开发上展开合作，该系列是 PFN 计划 2027 年开售的 MN-Core L1000 系列的下一代产品，内存带宽提升至 2 倍以上。  
   Preferred Networks：AI 研究与产品 · 2026-11-17 00:00
@@ -181,5 +165,21 @@
 - [20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](<https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida>)  
   Diogo Almeida is the Co-Founder and CEO of TypeSafe AI, the company behind Jev. Jev is an AI model that lets software…  
   20VC · 2026-11-16 15:07
+
+- [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
+  Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
+  Product Hunt 中文 · DecoHack · 2026-11-16 15:00
+
+- [OpenAI 发布 CSAM 图像分类器模型卡](<https://deploymentsafety.openai.com/csam-image-classifier>)  
+  OpenAI 公布 CSAM 图像分类器模型卡，该分类器用受访问控制、人工标注的图像数据集训练和评估，数据存储与处理均在受控环境中进行。同一阈值下，在线评估集的精确率明显低于离线留出集，原因是留出集中 CSAM 占比远高于在线评估集，CSAM 稀少时少量误报即可超过真实检出数。OpenAI 用此前在线评估中经审核的样本多轮迭代改进已识别错误类型，每轮也暴露出新的误报模式。  
+  OpenAI：部署安全与系统卡（网页） · 2026-11-16 15:00
+
+- [虚拟人“方桃子”代言美瞳发布虚假广告，涉事公司被罚 6.82 万余元](<https://www.ithome.com/1/027/711.htm>)  
+  据大河报报道，广州我的影视文化传媒有限公司因在自制虚拟人物“方桃子”账号发布“NUTNUTLOOK 坚果力”美瞳广告，宣称“戴了一天都很舒服”等虚构使用效果，被广州市番禺区市场监督管理局罚款 6.82 万余元。该美瞳属第三类医疗器械，公司未取得《医疗广告审查证明》即发布，违反广告法。  
+  IT之家·人工智能 · 2026-11-16 14:57
+
+- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
+  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
+  IT之家·人工智能 · 2026-11-16 14:54
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 22 页

@@ -20,7 +20,7 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 11 条
+## 相关资讯 · 12 条
 
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
   「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
@@ -61,6 +61,10 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛](<https://www.xiaoyuzhoufm.com/episode/6af6678d14d01a26f8a916f6?utm_source=rss>)  
   在前几期播客中，我们聊过 Personal Agent，聊过 RLaaS，这期的嘉宾贺嘉琛做的事情有点像是两者的结合，他把 Personal Agent 运用在 2B 领域，并给这些企业训练私有模型。 嘉琛原本研究深度学习与天体物理学…  
   42章经 · 2026-11-14 21:00
+
+- [Google DeepMind 发布 AlphaGenome 2，将基因组 AI 从组织级预测推进到单细胞类型分辨率](<https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/>)  
+  Google DeepMind 发布基因组研究 AI 模型 AlphaGenome 2，可预测 DNA 变异对特定人类细胞类型的影响。该模型以特定生物状态为额外输入的条件模型，基于来自 68 种组织的超过 1.07 亿个单细胞图谱训练；在 TenK10K 基准上识别约 30% 的因果变异，微调版前代仅 16%。  
+  The Decoder：AI News（RSS） · 2026-11-12 20:09
 
 - [深度｜中国 AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901330&idx=1&sn=5eb5d1e685a87759c872fe56d7ce6e74>)  
   Z Finance · 2026-11-08 20:05

@@ -20,7 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 25 条
+## 相关资讯 · 29 条
 
 - [奥尔特曼称 OpenAI 没法让所有人满意，必须平衡 AI 安全与发展](<https://www.ithome.com/1/029/158.htm>)  
   IT之家 11 月 19 日消息，美国当地时间 11 月 18 日周三召开的 DealBook 峰会上， OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，其公司正在“安全”与“发展”寻找 AI 平衡点。 奥尔特…  
@@ -85,14 +85,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   Google 发布 Gemini Platform 上 Agent Anomaly Detection 的实操指南，通过一个客服智能体演示如何捕获越权读取 payroll 表的异常会话。  
   Google Developers Blog（RSS） · 2026-11-16 00:00
 
-- [OpenAI 推出 Daybreak 红队与防御两款安全产品](<https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/>)  
-  OpenAI 发布 Daybreak 品牌下两款安全产品。Daybreak Red Team 开放 Early Access，用 AI 智能体分析源码和应用上下文自动探测 Web 应用漏洞、验证赏金报告并测试补丁；Daybreak Defense Factory 自动扫描企业代码库生成可部署的修复 pull request。两款产品均运行在 OpenAI 最新网络模型 GPT-6 Cyber 上。  
-  The Decoder：AI News（RSS） · 2026-11-13 23:08
-
-- [DeepSeek 开放全家桶应用 API，V4.1-Flash 支持联网搜索、文件输入与语音独立接口](<https://mp.weixin.qq.com/s/78KBHc4-4N5b2vfL9SkutQ>)  
-  DeepSeek 官方宣布开放全家桶应用 API，在原有 API 中开启对应参数即可获得深度思考搜索、文件输入、阅读链接、模型安全等对话能力，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持这些功能。  
-  公众号：DeepSeek（深度求索） · 2026-11-13 22:19
-
 - [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
   One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
   @Basant\_Pandey · 2026-11-13 12:46
@@ -104,6 +96,30 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [a16z的Anne Neuberger提出关键基础设施网络防御方案，优先保护电力、支付、水务、通信和医院中可能造成连锁故障的运营商及共用供应商，建议用AI寻找漏洞、生成补偿防护并建立持续演练。属于机构提案，尚非政府已采纳政策或落地效果。](<https://x.com/a16z/status/2121030491407294854>)  
   AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
   @a16z · 2026-11-13 08:00
+
+- [美联航以网络安全风险为由封禁 AI 智能体订票](<https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/>)  
+  美联航宣布将限制第三方个人 AI 智能体代用户订票和管理预订，理由是网络安全风险和可能违反联邦法规。航空公司将在其数字平台以及旅行社和聚合平台渠道直接和间接禁止未授权 AI 助手访问，并更新预订、出票和分销政策。  
+  TechCrunch：AI（RSS） · 2026-11-13 01:17
+
+- [OpenAI 分析显示前沿模型隐藏推理过程源于开发者对能力与算力的取舍](<https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/>)  
+  OpenAI 安全团队新分析追踪 GPT-5 至 GPT-6 Astra，归纳出链式思维（CoT）可监控性退化的四个主要训练因素，包括预训练能力提升带来的无声推理、 favoring 无声推理的架构选择、RL 训练增强的 CoT 可控性，以及师生模型间的继承效应。  
+  The Decoder：AI News（RSS） · 2026-11-13 00:58
+
+- [Norwest 新设 40 亿美元基金，加大 AI 投资](<https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/>)  
+  Norwest 募集 40 亿美元新基金，为其第 18 只基金、规模史上最大，将重点扩大 AI 领域投资。该基金覆盖消费、医疗健康和科技等行业，并继续加码 physical AI、语音 AI、智能体网络安全与航空航天。自 2024 年第 17 只 30 亿美元基金关闭以来，Norwest 已完成 87 笔以上投资。  
+  TechCrunch：AI（RSS） · 2026-11-12 23:18
+
+- [Fireworks AI 遭网络攻击，黑客窃取 Notion 部分客户的聊天记录](<https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/>)  
+  Fireworks AI 确认遭网络攻击，攻击者入侵其云服务商进入开发系统，窃取了客户的账单信息和部分数据集。受影响客户 Notion 披露约 1% 自身客户受波及，黑客获取了使用 Insights 功能的 Notion AI 客户的聊天记录；Notion 已于 11 月 3 日断开与 Fireworks 的连接并删除相关数据。  
+  TechCrunch：AI（RSS） · 2026-11-12 23:02
+
+- [澳大利亚拟议 AI 安全法案将强制前沿模型接受独立测试](<https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/>)  
+  澳大利亚总理 Anthony Albanese 领导的政府宣布一项法律，将首次对在该国运营的前沿 AI 公司实施强制性安全规则。要求包括开放独立审计、持续安全检查、公布安全框架并立即向政府报告安全事件，新监管机构将与 Australian AI Safety Institute 共同执行并对违规者处以高额罚款；更多细节将在咨询结束后公布。  
+  The Decoder：AI News（RSS） · 2026-11-12 18:09
+
+- [OpenAI 承诺出资 200 万美元支持儿童 AI 安全研究并签署相关宪章](<https://openai.com/index/children-first-declaration>)  
+  OpenAI 在巴黎和平论坛签署儿童更安全 AI 互动宪章，并承诺出资 200 万美元支持 AI 时代儿童权利与保护联盟下的科学研究网络。资金用于开发供研究者衡量 AI 对儿童风险与机遇的工具；宪章保障研究独立性，包括负面或无定论结果在内的研究结论将由团队自主掌控并公开发表。OpenAI 同时表示支持青少年 AI 安全立法，并将参与 EU Kids Act 的讨论。  
+  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-12 08:00
 
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
   Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
