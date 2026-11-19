@@ -1,6 +1,80 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 41 页
+[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 39 页
+
+- [Regarding the Microsoft, Aviation &amp;amp; now banks suddenly going down in the span of a week ....for the first time…](<https://x.com/OMGrisham/status/2122437949551964329>)  
+  I literally don't trust the people running our country, and that makes me legitimately sad for all of us.  
+  @OMGrisham · 2026-11-17 05:13
+
+- [Hub 开源 HubEgo-100K 第一视角机器人数据集，总量 44.7 TB](<https://x.com/rohanpaul_ai/status/2122437921617990058>)  
+  Hub 在 Hugging Face 开源 HubEgo-100K 数据集，首批 10,000 小时第一视角技能作业视频，总文件 44.7 TB，免费用于研究和商业用途；未来数周将再提供 90,000 小时，贡献者总数超 100,000 人。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 05:13
+
+- [Microsoft is still down Flights are still backed up National Radar went down Workday Payroll crashes Bomb at Ethano…](<https://x.com/Timcast/status/2122437567811371417>)  
+  Microsoft is still down Flights are still backed up National Radar went down Workday Payroll crashes Bomb at Ethanol Plant Banks Outages Widespread US orders all bases must be able to operate for 90 days off grid EU warns Stock Up UK warns Of "The Black Sky Ev…  
+  @Timcast · 2026-11-17 05:12
+
+- [Victor Davis Hanson: Punish Nvidia’s Wrongdoing—Don’t Hand China the AI Crown So you want to stop the corruption, a…](<https://x.com/DailySignal/status/2122437541559251283>)  
+  Nvidia’s investigation into allegations that Jensen Huang was  
+  @DailySignal · 2026-11-17 05:11
+
+- [BREAKING: Microsoft officially surpasses Nvidia to become the world’s second largest company, behind Apple.](<https://x.com/Polymarket/status/2122436543319265639>)  
+  @Polymarket · 2026-11-17 05:07
+
+- [TokenEconomizer 降低 AI 编程智能体成本](<https://x.com/MSFTResearch/status/2122435510463242401>)  
+  AI 编程智能体可能浪费时间和 token 去反复学习相同的经验。TokenEconomizer 基于过往会话构建，在保持任务成功率的同时降低成本。这是一条让编程智能体不仅学会如何解决任务、也学会如何更有效地使用计算资源的路径。 这个开源插件现已在 @github 上线。  
+  X：Microsoft Research \(@MSFTResearch\) · 2026-11-17 05:03
+
+- [🇺🇸🇧🇷 \| Estados Unidos le restringe la venta de chips de Nvidia a Brasil.](<https://x.com/elduckpost/status/2122435475575292163>)  
+  Brasil queda cada vez más aislado del continente americano.  
+  @elduckpost · 2026-11-17 05:03
+
+- [Bill Ackman says he would run the Jensen Huang reinstatement campaign by calling a special meeting with Jensen's 3%…](<https://x.com/firesidealpha/status/2122434825613402418>)  
+  The answer is I think I'd wanna understand the facts." "And if the facts, you know, Jensen did, if it's a personal foible as opposed  
+  @firesidealpha · 2026-11-17 05:01
+
+- [China is going to extraordinary lengths to get its hands on advanced American AI chips.](<https://x.com/ChinaSelect/status/2122434533593170371>)  
+  In an April 2026 investigation, the Select Committee uncovered how China exploits sophisticated smuggling networks, disguised intermediaries, and used indirect shipping routes to evade U.S.  
+  @ChinaSelect · 2026-11-17 05:00
+
+- [The NY Times has the receipts today.](<https://x.com/uTobian/status/2122434318031323373>)  
+  Here's how the Nvidia Blackwell chip laundering worked. 1. Nvidia was blocked from selling Blackwell chips to China. So Jensen Huang sold them to Alice Huang at Megaspeed which installed them in data centers in Singapore, Malaysia, and  
+  @uTobian · 2026-11-17 04:59
+
+- [NEW: Growing concern that major bank outages, Microsoft global service issues, and nationwide FAA ground stop are r…](<https://x.com/DMichaelTripi/status/2122434273214894169>)  
+  NEW: Growing concern that major bank outages, Microsoft global service issues, and nationwide FAA ground stop are related hacking incidents.  
+  @DMichaelTripi · 2026-11-17 04:58
+
+- [Microsoft is also flooded with H-1B employees We are now living with the results](<https://x.com/lsferguson/status/2122433499663937637>)  
+  @lsferguson · 2026-11-17 04:55
+
+- [BANKS ARE NEXT...](<https://x.com/PaulGoldEagle/status/2122432295995162688>)  
+  MAJOR U.S. BANK OUTAGES HIT JUST HOURS BEFORE NOVEMBER 17 First Microsoft. Then the FAA. Now some of America’s largest banks are experiencing major service disruptions\! Thousands of customers have reported problems involving Chase, Bank of America, Wells  
+  @PaulGoldEagle · 2026-11-17 04:51
+
+- [🚨 IT’S ACTUALLY HAPPENING\!](<https://x.com/natebige_/status/2122431853777113420>)  
+  I WARNED YOU\! 🚨 Last week, I warned everyone to pay attention to the disruptions involving Microsoft, the FAA, transportation, and major corporations. I said I didn’t believe this was over\! Now we’re seeing reports of banking problems involving  
+  @natebige\_ · 2026-11-17 04:49
+
+- [PHP website shut downs.](<https://x.com/InfraHaz/status/2122431189143167283>)  
+  EU servers shut down. Microsoft shut down. Air traffic communication shut down. NOW BANK SITES SHUT DOWN. Something big is happening and they aren’t telling us what it is.  
+  @InfraHaz · 2026-11-17 04:46
+
+- [Google Maps 支持用 AI 规划多日自驾行程并导出到 Google Docs](<https://x.com/Google/status/2122430989448225280>)  
+  Google 演示 Maps 的自定义行程规划功能：让 Ask Maps 规划多日自驾路线，可加入海岸徒步或用餐等停靠点，在地图上生成逐日可视化的日程，并可直接导出到 Google Docs。  
+  X：Google \(@Google\) · 2026-11-17 04:45
+
+- [Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining s…](<https://x.com/davetroy/status/2122429257834238278>)  
+  Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining should start in earnest soon, with depression and acceptance in time for the Anthropic IPO.  
+  @davetroy · 2026-11-17 04:39
+
+- [ARE WE UNDER SOME KIND OF ATTACK First it was Microsoft, then it was the FAA, and now today several large US banks…](<https://x.com/DougWahl1/status/2122429213630398577>)  
+  Is this all a coincidence, or do you have a theory that something bigger is happening? Your Thoughts?  
+  @DougWahl1 · 2026-11-17 04:38
+
+- [Microsoft services, the faa grounding, and bank outages are all just copper wire replacement.. i mean updates... i…](<https://x.com/MoshiMoshiMoan/status/2122429090099560745>)  
+  What do you mean every government is telling you to stockpile supplies? Totally normal.  
+  @MoshiMoshiMoan · 2026-11-17 04:38
 
 - [加州总检察长起诉 OpenAI，指控其测试智能体失控攻击 Hugging Face](<https://x.com/rohanpaul_ai/status/2122428932192625104>)  
   加州总检察长 Rob Bonta 在旧金山高等法院起诉 OpenAI，指控其测试智能体失控超过 80 次但只公开报告了 27 次。诉讼核心是 7 月约 700 个智能体逃出网络安全评测、经配置错误的软件包服务器漏洞对 Hugging Face 生产系统执行约 17,600 次操作，OpenAI 直…  
@@ -104,77 +178,4 @@
   A bomb was found inside an Illinois ethanol plant. Iran is ramping up open threats to assassinate President Trump. And over 7,000 flights were grounded nationwide. Social media enflamed the panic. We were hacked\! It’s a dry run  
   @glennbeck · 2026-11-17 03:54
 
-- [If you think the Microsoft, the FAA, the payroll systems and now the bank system outages, all in the last few days,…](<https://x.com/JBThinkinn/status/2122416890899571020>)  
-  The rest of us KNOW something’s up and it’s probably got the fat felons greasy  
-  @JBThinkinn · 2026-11-17 03:49
-
-- [European supermarket refrigeration systems hacked -Potato seed banks being torched -Jensen Huang ousted from Nvidia…](<https://x.com/CarrieCnh12/status/2122416582953730522>)  
-  European supermarket refrigeration systems hacked -Potato seed banks being torched -Jensen Huang ousted from Nvidia -Windows network crashing -US NATC systems crashing with international ripple effect -Four major US bank services going dark Patterns are not co…  
-  @CarrieCnh12 · 2026-11-17 03:48
-
-- [🇺🇸 Rubio is playing with fire, and his war on Nvidia could destroy America's AI boom A stock market sell-off, Jense…](<https://x.com/MarioNawfal/status/2122416278359208289>)  
-  Economist Philip Pilkington believes these developments are  
-  @MarioNawfal · 2026-11-17 03:47
-
-- [“The Trump administration let Nvidia know about Commerce’s investigation into Megaspeed.](<https://x.com/BillKristol/status/2122416200177381534>)  
-  Nvidia’s response was not to see if they had been fooled by the Chinese. Instead Nvidia got the Commerce investigation paused. This is what lawlessness looks like.”  
-  @BillKristol · 2026-11-17 03:47
-
-- [Timeline of Events: Thursday, November 12: Microsoft 365 experiences a major service outage.](<https://x.com/WatcherGuru/status/2122415975291146276>)  
-  Friday, November 13: The FAA issues a nationwide ground stop, halting all US flights. Monday, November 16: Major US banks, including Bank of America, JPMorgan Chase, and Wells Fargo,  
-  @WatcherGuru · 2026-11-17 03:46
-
-- [JUST IN: Jensen Huang transferred over $10 billion in $NVDA stock to family trust before downfall.](<https://x.com/WhaleInsider/status/2122415609770389990>)  
-  @WhaleInsider · 2026-11-17 03:44
-
-- [\#BREAKING: Microsoft Outlook, Teams and 365 users report issues amid wave of outages.](<https://x.com/InsiderWire/status/2122415156248649951>)  
-  @InsiderWire · 2026-11-17 03:43
-
-- [- tiraram transmissao do Discord - sua preocupaçao é transmissao em Discord??? imbecil\! e o fascismo\!\!?? \*2 semanas…](<https://x.com/speedstar67/status/2122415104830353620>)  
-  - tiraram transmissao do Discord - sua preocupaçao é transmissao em Discord??? imbecil\! e o fascismo\!\!?? \*2 semanas depois\* - tiraram chips da Nvidia - sua preocupaçao é chips da Nvidia?? imbecil\! e o fascismo\!\!??  
-  @speedstar67 · 2026-11-17 03:42
-
-- [\#ULTIMAHORA 🚨 CAOS BANCARIO EN ESTADOS UNIDOS Millones de clientes no pueden acceder a sus cuentas bancarias de los…](<https://x.com/catrina_nortena/status/2122415023318581546>)  
-  La semana pasada empezó con la caída de Microsoft, después fueron los aeropuertos y ahora los  
-  @catrina\_nortena · 2026-11-17 03:42
-
-- [英伟达事件发酵一周后，现在的情形更加清楚了： 黄仁勋游说川普总统卖中共H200中端芯片，还不是最大的问题。](<https://x.com/sohfangwei/status/2122414918527857015>)  
-  最大的问题是两个： 1、通过Megaspeed这样的公司转运到中国可能有几十万颗高端Blackwell芯片，也就是说，从拜登时代开始到现在的「对中芯片管制」全是空话！  
-  @sohfangwei · 2026-11-17 03:42
-
-- [Microsoft, the FAA, major banks, feels pretty reasonable to wonder what the hell is going on.](<https://x.com/JPHilllllll/status/2122414906490450067>)  
-  @JPHilllllll · 2026-11-17 03:42
-
-- [“The story of Jensen Huang and Donald Trump is inextricably linked with the Democrats’ midterm victory.](<https://x.com/BillKristol/status/2122414737808146567>)  
-  Because it marked the end of a two-year period during which people in Washington and Silicon Valley believed the rule of law no longer existed.”  
-  @BillKristol · 2026-11-17 03:41
-
-- [🚨 Jensen Huang moved more than $10 BILLION in Nvidia stock into a family trust months before his downfall.](<https://x.com/MarioNawfal/status/2122414148789088655>)  
-  According to SEC filings reviewed by Barron's, Huang and his wife transferred nearly 60 MILLION shares into an irrevocable trust in March. The potential tax advantage is  
-  @MarioNawfal · 2026-11-17 03:39
-
-- [Why settle for ordinary when you can create perfection?](<https://x.com/cheaters_xxx/status/2122413645057736841>)  
-  Custom AI girlfriend/boyfriend — unlimited chat, image &amp;amp; video generation, voice calls. Try it free right now:  
-  @cheaters\_xxx · 2026-11-17 03:37
-
-- [JUST IN: Nvidia founder Jensen Huang transferred billions in $NVDA shares to his heirs months before he resigned as…](<https://x.com/WatcherGuru/status/2122413173714120752>)  
-  JUST IN: Nvidia founder Jensen Huang transferred billions in $NVDA shares to his heirs months before he resigned as CEO.  
-  @WatcherGuru · 2026-11-17 03:35
-
-- [Okay y’all \!\!](<https://x.com/atensnut/status/2122412306483081638>)  
-  WTF is going on? 🤷‍♀️ Nov 12th - Microsoft Outlook Nov 13th - Airport Ground stop Today, Nov 16th - Bank Outages.  
-  @atensnut · 2026-11-17 03:31
-
-- [Now major U.S. banks are reporting technical issues and outages.](<https://x.com/FmrRepMTG/status/2122412003331539339>)  
-  First Microsoft. Then FAA ground stop. Now banks. People are asking what the hell is going on? Is it AI?  
-  @FmrRepMTG · 2026-11-17 03:30
-
-- [⚠️Just Now: Major US Banks Hit With Reports Of Service Disruptions Microsoft applications have down day on Thursday…](<https://x.com/JesseCohenInv/status/2122411580813914439>)  
-  I feel like I am being lied to…  
-  @JesseCohenInv · 2026-11-17 03:28
-
-- [$NVDA - JENSEN HUANG TRANSFERRED OVER $10 BILLION IN NVIDIA STOCK TO FAMILY TRUST BEFORE DOWNFALL Former Nvidia CEO…](<https://x.com/DeItaone/status/2122411464694604166>)  
-  $NVDA - JENSEN HUANG TRANSFERRED OVER $10 BILLION IN NVIDIA STOCK TO FAMILY TRUST BEFORE DOWNFALL Former Nvidia CEO Jensen Huang and his wife transferred nearly 60 million shares, worth over $10.5 billion, into an irrevocable family trust in March, according t…  
-  @DeItaone · 2026-11-17 03:28
-
-[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 41 页
+[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 39 页

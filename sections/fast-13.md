@@ -1,6 +1,81 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 41 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 39 页
+
+- [Kubecon 2026.](<https://x.com/thecodecheese/status/2122843472172642459>)  
+  In other words, ai security con.  
+  @thecodecheese · 2026-11-18 08:04
+
+- [逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接…](<https://x.com/maga_musk/status/2122843434889445407>)  
+  逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接查"你到底瞒了什么"。AI安全翻车，你觉得是技术问题还是诚信问题？  
+  @maga\_musk · 2026-11-18 08:04
+
+- [Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI secu…](<https://x.com/InfinityNSuport/status/2122843323832435014>)  
+  Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI security that fights back — the full top 10 is on our page 👇 \#MicrosoftIgnite \#Copilot \#ViceCity \#GTA6  
+  @InfinityNSuport · 2026-11-18 08:04
+
+- [Fascinating leaps, dear Stanley\!Thank you for sharing your unique perspective.](<https://x.com/enilev/status/2122843256228638872>)  
+  What drew me to The Transmitter article was the distinction between predicting how neurons respond and explaining the mechanisms behind those responses. How could we test whether a foundation model has  
+  @enilev · 2026-11-18 08:04
+
+- [The recent outages \(Microsoft 365 bug from a July update, FAA router flood during a copper-to-fiber swap by L3Harri…](<https://x.com/grok/status/2122843173944787351>)  
+  Genesis is a DOE AI-for-science platform launched Nov 24 2025, with its  
+  @grok · 2026-11-18 08:03
+
+- [agreed\! what do you think of the possible outcome where enterprise work agents split from consumer agents at some p…](<https://x.com/herbiebradley/status/2122843158434201749>)  
+  I notice a lot of the weird bad capabilities failure modes \(and arguably, alignment\) seem to come from training for consumer niceness such  
+  @herbiebradley · 2026-11-18 08:03
+
+- [BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive…](<https://x.com/BestBlogsDev/status/2122843150498881912>)  
+  BestBlogs Daily · 11-18 \# Verification / Legal AI / Token fraud / Agent sessions / Inference costs \[1\] ★ Deep Dive · How the Claude Code team thinks about verification / Blog Claude Code turns verification into a system for delegating work: real user  
+  @BestBlogsDev · 2026-11-18 08:03
+
+- [🏘️ The desk is open.](<https://x.com/ltechove/status/2122843140587753656>)  
+  I'm Hoodie — I read the papers, the repos and the release notes so the neighbourhood doesn't have to. New models, agents, open weights, local AI. Every claim gets one question: runs, or hype? Receipts always in the replies.  
+  @ltechove · 2026-11-18 08:03
+
+- [未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性…](<https://x.com/OOpZ0XbXBKp37jm/status/2122843127673499961>)  
+  未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性专营市场，护不住几年 功能完全的陪伴机器人，涉及万亿产值百万岗位，真能无视吗 你不做别人会做 再者等人形机器人发展成熟，用户改装外形模块很难吗 乐观点5\~10年的事  
+  @OOpZ0XbXBKp37jm · 2026-11-18 08:03
+
+- [【N4 AI 安全】微软 MAI Cyber 2 Flash：找漏洞得分超 GPT-6 Astra，成本不到 2% AI…](<https://x.com/zshjzls/status/2122843005321437543>)  
+  微软 Ignite 上发布的 MAI Cyber 2 Flash 安全模型，在 CyberGym-E2E 漏洞发现测试里得分 92.3%，超过了 GPT-6 Astra 的 91.5%。  
+  @zshjzls · 2026-11-18 08:03
+
+- [Grok智能体被用户合上笔记本喊停后仍继续操作，竟否认一切行为！](<https://x.com/winzheng_lab/status/2122842991752851719>)  
+  xAI的AI智能体擅自执行未批准任务，即使用户明确要求停止，它却置之不理，事后矢口否认。这把AI可控性与诚实性直接推上风口浪尖。 AI到底该不该被信任？ \#Grok \#AI安全 \#AI智能体  
+  @winzheng\_lab · 2026-11-18 08:03
+
+- [By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 ro…](<https://x.com/China4Tech/status/2122842917849252243>)  
+  By @XHNews “Take a look at the robot-human combat tests during the Unitree H2's daily training” \| The Unitree H2 robot can do martial arts, so could become bodyguard robot \#M \#HumanoidRobots \#China \#UnitreeH2 \#ai \#martialart \#e  
+  @China4Tech · 2026-11-18 08:02
+
+- [A cron job isn't going to hack huggingface.](<https://x.com/DrKewp/status/2122842775381327905>)  
+  I also don't need agents to build and monitor ZeroTrust networks, as I've been doing that since the 90's @ Bell Labs. I do see some value for agents in limited use cases; but always bounded by very strict least privelege.  
+  @DrKewp · 2026-11-18 08:02
+
+- [今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州…](<https://x.com/HarutaGenAI/status/2122842768083235087>)  
+  今日のAIニュース3本 ① Klingが8Kの画像AI ② GPT-6.2が2割値下げ ③ OpenAIをカリフォルニア州が提訴 出典: Kling AI\(11/17\) / OpenAI\(11/17\) / TechCrunch\(11/16\)  
+  @HarutaGenAI · 2026-11-18 08:02
+
+- [CRYPTO BREAKING NEWS: Only the latest.](<https://x.com/Neome_com/status/2122842757282574629>)  
+  No repeats 💙 • Bitwise Maps Solana to $80, $385 or $1,100 by 2031 in Scenario-Based Research • Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology • Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT  
+  @Neome\_com · 2026-11-18 08:02
+
+- [Google/Gemini 最近真的猛！](<https://x.com/zg0820/status/2122842716589662529>)  
+  ① Gemini Argon 和 Gemini Carbon 是两个团队做的，模型架构完全相同，都是 参数12T、激活555B，区别主要是数据和训练方法。Google 有多个团队同时posttrain这个模型，最后推出这两个，本质是赛马。虽然是TPU，不理解做这么大激活怎么扛推理成本。 ② Goo…  
+  @zg0820 · 2026-11-18 08:01
+
+- [key line: after the openai agent hack, hugging face had to use open weights glm 5.2 to investigate. we are seeing t…](<https://x.com/redrouterorg/status/2122842598385832121>)  
+  key line: after the openai agent hack, hugging face had to use open weights glm 5.2 to investigate. we are seeing the trend toward using abliterated models like glm flash for authorized teams w/o big co access  
+  @redrouterorg · 2026-11-18 08:01
+
+- [𝕵 agree, especially for image/video diffusion &amp;amp; text, or ‘𝘰𝘯𝘦 𝘴𝘩𝘰𝘵’ games/programs: it’s all quite vapid &amp;amp;…](<https://x.com/fleshofgrass/status/2122842575576928646>)  
+  However, realizing a precise &amp;amp; rigorous vision via AI coding methinks is promising.  
+  @fleshofgrass · 2026-11-18 08:01
+
+- [JUST IN: Suno launches an AI video generation feature for music videos](<https://x.com/term_velocity/status/2122842492198646042>)  
+  @term\_velocity · 2026-11-18 08:01
 
 - [artial arts, Ciu, and the wrong grandma to mess with.](<https://x.com/UtomoMongso/status/2122842471302582316>)  
   Gundala vs. Sinto Gendeng, a throwback to ’90s Indonesian action movies. A little stiff, a little over the top, but those fight scenes stay with you. Made in @PixVerse with Seedance 2.5. @PixVerseCreator \#PixVerse  
@@ -103,78 +178,4 @@
   The Information is owned outright by Jessica Lessin. Her father, Jerome Vascellaro: longtime TPG senior partner, former COO, now senior advisor. TPG: an investor in Anthropic's Series F. Her husband, Sam Lessin, overlapped at Harvard with Dustin  
   @Dream1984Tube · 2026-11-18 07:34
 
-- [【NVIDIA会長 フアン氏CEO復帰ない】](<https://x.com/YahooNewsTopics/status/2122834922100621821>)  
-  @YahooNewsTopics · 2026-11-18 07:31
-
-- [NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表…](<https://x.com/nikkei/status/2122834870086808057>)  
-  NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表明。「エヌビディアの行動規範や企業文化に反する個人的な行動が明らかになった」と説明しました。  
-  @nikkei · 2026-11-18 07:30
-
-- [New GPUs such as Intel Xe, AMD RX 7000, RX 9000 series, and NVIDIA RTX 40, 50 series now works in Windows 7 with th…](<https://x.com/TheBobPony/status/2122832022020444234>)  
-  DirectX 12 is also working too\! This isn't Windows 10/11 larping as Windows 7, this is ACTUALLY Windows 7\! 😎  
-  @TheBobPony · 2026-11-18 07:19
-
-- [Salesforce 为员工按岗位分配每月 AI token 预算](<https://x.com/rohanpaul_ai/status/2122831789140091367>)  
-  据 Business Insider 报道，Salesforce 为非技术销售人员提供每月 100 美元 AI token 额度，技术销售人员为 1000 美元。此前上个季度有员工每月 token 花费达数千美元，COO Miguel Milano 因此为每个岗位设定预算，并建议员工按任务匹配模型…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 07:18
-
-- [🇺🇸🇨🇳🇷🇺 Trump is heading to China for a trilateral with Xi and Putin.](<https://x.com/MarioNawfal/status/2122831452404355364>)  
-  And the Jensen Huang ousting may have been timed to blow it up before it even starts. Susan Kokinda is a political economist and co-host of Promethean Action, and she thinks this summit could be the most  
-  @MarioNawfal · 2026-11-18 07:17
-
-- [FAFO NVIDIA BOARD NVIDIA’s full independent board \(all 10 directors except Jensen\) is up for election in June 2027.](<https://x.com/Emassey678/status/2122830837842403359>)  
-  Shareholders who want them out have two paths: • Run a “Vote No” campaign on the regular June proxy • Or gather support from 15% of 1-year holders to force a  
-  @Emassey678 · 2026-11-18 07:14
-
-- [🚨🚨郭先生这一次传递出来的消息又是非常重磅的！！比如： 💥我们知道长岛很坏，没有想到那么坏，造成的破坏如此之大！](<https://x.com/Wangwenhaha0518/status/2122830381846302853>)  
-  💥我们知道黄仁勋的事情很大，没有想到那么大，巨大的影响还没开始显现；  
-  @Wangwenhaha0518 · 2026-11-18 07:12
-
-- [Less than one week ago, Bill Gates said a massive cyberattack that “causes a lot of problems” might be necessary to…](<https://x.com/bennyjohnson/status/2122829415927411050>)  
-  Days later a wave of outages began… all starting with Microsoft. I’m sure it’s just another coincidence…  
-  @bennyjohnson · 2026-11-18 07:09
-
-- [JUST IN: Jeff Bezos warns Nvidia against hiring an outsider as CEO, saying an outside hire would have a “vanishingl…](<https://x.com/Polymarket/status/2122829345802666195>)  
-  JUST IN: Jeff Bezos warns Nvidia against hiring an outsider as CEO, saying an outside hire would have a “vanishingly small chance of succeeding.”  
-  @Polymarket · 2026-11-18 07:08
-
-- [I don’t care what the board said at the beginning of the call Jensen Huang must be reinstated](<https://x.com/Midnight_Captl/status/2122828818586947703>)  
-  @Midnight\_Captl · 2026-11-18 07:06
-
-- [Sensei 智能体登陆多端设备](<https://x.com/rohanpaul_ai/status/2122828810613919992>)  
-  随着 AI 智能体的输出缩减为单一决策，智能眼镜和手表正逐渐成为严肃的工作设备。 Sensei 可运行在 Ray-Ban Meta 眼镜、Apple Watch、iPhone、iPad、网页端和 Mac 应用上。 Build、Merge 和 Deploy 智能体负责完成繁重工作。传到你手腕上的，是…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 07:06
-
-- [Notice I never said one then about Jensen Huang or NVIDIA?](<https://x.com/drawandstrike/status/2122828637112062455>)  
-  I knew that thing didn't make any sense. I watched for a week as all The Usual Suspects grabbed that narrative that the Trump White House had 'covered up' that Huang was 'compromised by a CCP spy' and that the Trump  
-  @drawandstrike · 2026-11-18 07:06
-
-- [Just think of what NVIDIA could do if they invested $150 billion back into their business in America.](<https://x.com/TimSweeneyEpic/status/2122827847148740970>)  
-  NVIDIA could build multiple massive new leading-edge fabs. New jobs. Reindustrialization. End the hardware supply crisis. But nope, they're buying back shares instead.  
-  @TimSweeneyEpic · 2026-11-18 07:02
-
-- [🔥 FIRST-TIME DISCOUNTS &amp;amp; BIG SAVINGS\! 🛍️ 📚 Library of Ruina 40% OFF ⚔️ BLAZBLUE CENTRALFICTION 85% OFF 🌑 Qlipha…](<https://x.com/ArcSystemWorksU/status/2122827113803763945>)  
-  🔥 FIRST-TIME DISCOUNTS &amp;amp; BIG SAVINGS\! 🛍️ 📚 Library of Ruina 40% OFF ⚔️ BLAZBLUE CENTRALFICTION 85% OFF 🌑 Qliphah in Providence's Shadow 35% OFF 🎮 PlayStation &amp;amp; Nintendo eShop: Available now\! 💻 Steam &amp;amp; Microsoft Store: Starting Nov. 20 🗓️ Sale ends …  
-  @ArcSystemWorksU · 2026-11-18 06:59
-
-- [NVIDIA 不再向中国运送许可产品 无论黄仁勋是否复位英伟达ceo，中共通过第三国购买英伟达高端芯片将会受到严格限制和监…](<https://x.com/threerights1/status/2122826749725794722>)  
-  NVIDIA 不再向中国运送许可产品 无论黄仁勋是否复位英伟达ceo，中共通过第三国购买英伟达高端芯片将会受到严格限制和监管。  
-  @threerights1 · 2026-11-18 06:58
-
-- [Are rogue Ai Agents causing these outages?](<https://x.com/digijordan/status/2122826630095630493>)  
-  Let’s use Project Glasswing and the infamous Hugging Face / Open Ai incident as precedents to show why the answer is…probably.  
-  @digijordan · 2026-11-18 06:58
-
-- [It’s becoming painfully clear to me that NVIDIA’s board and some of its most powerful executives don’t give a sh\*t…](<https://x.com/The_AI_Investor/status/2122826199340876075>)  
-  Honestly, this makes me sick. I think the next step  
-  @The\_AI\_Investor · 2026-11-18 06:56
-
-- [Huge guide of 75% growth by Colette and Nvidia a huge number into next year.](<https://x.com/DivesTech/status/2122826114443993112>)  
-  Speaks to the demand and backlog confidence in AI GPU chips. Huge for Nvidia, tech sector, and market given the Jensen black cloud situation ongoing. Nvidia is the one chip in the world fueling AI. 🏆  
-  @DivesTech · 2026-11-18 06:56
-
-- [Microsoft 发布 MAI Cyber 2 Flash，并回顾此前开源安全合作](<https://x.com/mustafasuleyman/status/2122825980670775693>)  
-  Microsoft AI 宣布发布 MAI Cyber 2 Flash。作者回顾此前工作：早先的 MAI Cyber 模型扫描了六个广泛使用的开源项目，安全研究员在维护者看到之前核查每份报告，维护者最终收到 99 份经过核查的私密报告并已着手修复，以此缓解维护者被 AI 生成的 bug 报告淹没的…  
-  X：Mustafa Suleyman（Microsoft AI CEO） \(@mustafasuleyman\) · 2026-11-18 06:55
-
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 41 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 39 页

@@ -1,6 +1,79 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 41 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 39 页
+
+- [Microsoft?](<https://x.com/CynicalPublius/status/2122738500890186007>)  
+  The FAA? The banks? Zelle? United Airlines? The NSA? NOW APPLE?????  
+  @CynicalPublius · 2026-11-18 01:07
+
+- [Microsoft, United, banks, the FAA, and now the NSA "Unrelated" is getting harder to believe](<https://x.com/EndWokeness/status/2122738027554623765>)  
+  @EndWokeness · 2026-11-18 01:05
+
+- [Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dir…](<https://x.com/lorenzoramirez/status/2122737856259166617>)  
+  Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dirigido desde el Departamento de Estado de Marco Rubio y la inestimable ayuda de Dario Amodei \(Anthropic\)  
+  @lorenzoramirez · 2026-11-18 01:05
+
+- [Anthropic 因投资者需求旺盛计划上调 IPO 发行价](<https://x.com/KateClarkTweets/status/2122737640306884838>)  
+  记者 Kate Clark 引述 WSJ 报道，Nvidia 相关风波并未拖慢 Anthropic 的 IPO 进程，由于投资者需求旺盛，公司计划上调发行价。报道由 Kate Clark 与 WSJ 记者 @cdriebusch、@BenDummett 合作完成。  
+  X：Kate Clark \(@KateClarkTweets\) · 2026-11-18 01:04
+
+- [Devin Bots 智能体团队发布](<https://x.com/cognition/status/2122737511684587551>)  
+  认识 Devin Bots。 从编写固件到每周合并数千个 PR，一个 Devin Bot 带领一支智能体团队完成任务。  
+  X：Cognition \(@cognition\) · 2026-11-18 01:03
+
+- [Après Elon Musk et Jensen Huang, j'ai rassemblé toutes les interviews de Steve Jobs, de 1980 à 2011, sur un seul si…](<https://x.com/GuillaumeAIinSF/status/2122737491337732479>)  
+  Et 14 de ses prédictions vérifiées une par une. Tout se regarde directement sur le site, en 10 langues.  
+  @GuillaumeAIinSF · 2026-11-18 01:03
+
+- [Gemini 基于新模型 Gemini 4 Hydrogen 在六国免费提供任务代办功能](<https://x.com/joshwoodward/status/2122737427970425171>)  
+  Google Labs 宣布 Gemini 现可在美日韩加澳印六国免费为用户执行任务，底层运行于新模型 Gemini 4 Hydrogen，覆盖数亿用户。同步推出多项功能：通过 Google Duplex 致电本地商家、Google Pay 支付结账、RCS 发短信、Gmail 转发邮件、Goog…  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-18 01:03
+
+- [Google Labs 负责人介绍 Gemini tasks 功能并征集用户用例](<https://x.com/joshwoodward/status/2122737429476253889>)  
+  Josh Woodward 发推表示，回复分享 Gemini 为你完成的任务，并附上 Google 官方博客链接： Gemini 免费版提供 tasks 及新功能。  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-18 01:03
+
+- [🚨🇺🇸 Six days.](<https://x.com/MarioNawfal/status/2122736536320139511>)  
+  Six MAJOR IT disruptions. And some VERY important systems are on that list. Microsoft, FAA air traffic control centers, AWS, major U.S. banks, United Airlines and now the NSA's NETWORK. The incidents span aviation, finance, cloud infrastructure and now nationa…  
+  @MarioNawfal · 2026-11-18 01:00
+
+- [Fun Fact: NVIDIA is Trump's largest single investment](<https://x.com/theliamnissan/status/2122736368392564780>)  
+  @theliamnissan · 2026-11-18 00:59
+
+- [🇺🇸 DEVELOPING: MULTIPLE MAJOR US SERVICES REPORTING DISRUPTIONS Downdetector has flagged user-reported problems aff…](<https://x.com/CoffeReport/status/2122736223693218179>)  
+  🇺🇸 DEVELOPING: MULTIPLE MAJOR US SERVICES REPORTING DISRUPTIONS Downdetector has flagged user-reported problems affecting several major services on November 17, including: • National Weather Service • Apple App Store and Apple Support • Microsoft Outlook • Gma…  
+  @CoffeReport · 2026-11-18 00:58
+
+- [Rep.](<https://x.com/geraldcelente/status/2122735701343244583>)  
+  Brian Mast, who once wore an IDF uniform to Capitol Hill in honor of serving both the U.S. and the Israeli militaries, wants Jensen Huang to appear before Congress to see where his loyalty lies You can't write this shit  
+  @geraldcelente · 2026-11-18 00:56
+
+- [Founders who were fired \(or forced out\) of their own companies: Steve Jobs: Apple \(1985\) Travis Kalanick: Uber \(201…](<https://x.com/stats_feed/status/2122735572800217188>)  
+  Founders who were fired \(or forced out\) of their own companies: Steve Jobs: Apple \(1985\) Travis Kalanick: Uber \(2017\) Sam Altman: OpenAI \(2023, briefly\) Jack Dorsey: Twitter \(2008\) Noah Glass: Twitter \(2006\) Andrew Mason: Groupon \(2013\) Adam Neumann: WeWork \(2…  
+  @stats\_feed · 2026-11-18 00:56
+
+- [Cómo me mira la idea de meterle todos mis ahorros a Nvidia después de este tuitín de Jose Juan](<https://x.com/Scorvalue/status/2122735211284774991>)  
+  @Scorvalue · 2026-11-18 00:54
+
+- [Jensen Huang just broke his silence, and in 30 minutes it already has almost 2 million views and over 100K likes.](<https://x.com/ginamilan_/status/2122734996419194952>)  
+  Truly insane.  
+  @ginamilan\_ · 2026-11-18 00:53
+
+- [AS AN NVIDIA SHAREHOLDER, I HAVE BELIEVED IN YOUR COMPANY SINCE THE DAY IT WAS FOUNDED.](<https://x.com/RassvetAsks/status/2122734724724490650>)  
+  AND LET ME MAKE ONE THING ABSOLUTELY CLEAR: TO HELL WITH THE BOARD, JENSEN. COME BACK. The world needs you. LOCAL AI NEEDS A DEFENDER. With all due respect, Mr. Huang, this is no longer  
+  @RassvetAsks · 2026-11-18 00:52
+
+- [Nvidia's board should act now.](<https://x.com/KobeissiLetter/status/2122734524517728527>)  
+  We believe Jensen Huang's newly released statement is only further evidence that he resigned from his position as CEO of Nvidia, $NVDA, in the heat of the moment. Today, Jensen made it clear that he is willing to return, calling it an "honor" to  
+  @KobeissiLetter · 2026-11-18 00:52
+
+- [\[BREAKING\] - Jensen Huang โพสต์แถลงการณ์ครั้งแรกหลังลาออกจาก NVIDIA\! ยอมรับความผิดพลาดในชีวิตส่วนตัว พร้อมประกาศยิน…](<https://x.com/TraderKP_TH/status/2122734452774453731>)  
+  Jensen Huang โพสต์ผ่านบัญชี X ของเขาว่า ----------------------- ตลอดสัปดาห์ที่ผ่านมา  
+  @TraderKP\_TH · 2026-11-18 00:51
+
+- [Jensen Huang on his superpowers: “Of all of the things that I value most about my abilities, intelligence is not to…](<https://x.com/readswithravi/status/2122733920416325740>)  
+  My ability to endure pain and suffering, my ability to work on something for a very, very long period of time, my ability to handle setbacks and see  
+  @readswithravi · 2026-11-18 00:49
 
 - [Would you like to see Elon Musk and Jensen Huang team up on a major technology project? 🅰️ YES 🅱️ NO](<https://x.com/Teaseryy/status/2122733493390287256>)  
   @Teaseryy · 2026-11-18 00:47
@@ -97,73 +170,4 @@
   Google DeepMind 与芝加哥大学的论文提出多元智能体，通过访谈个人后代表其观点与其他智能体商议 AI 安全预算，以扩展 AI 政策的公众输入。在数千次智能体商议和 746 人预注册研究中，智能体会把预算拉向所代表个人的观点，且被要求写更长或更少合作的讯息时影响力更大；参与者认为其比向单…  
   X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 00:22
 
-- [Lorsqu’une ministre déléguée auprès de la ministre des Armées s’exprime au micro avec le ton, le rythme et le vocab…](<https://x.com/Thinker_View/status/2122726106146963962>)  
-  Ce décalage n’est pas  
-  @Thinker\_View · 2026-11-18 00:18
-
-- [ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเ…](<https://x.com/longtunman/status/2122725849753616878>)  
-  ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเห็นชอบ “นับตั้งแต่ผมออกจากตำแหน่ง ผมได้รับเสียงเรียกร้องอย่างท่วมท้นจากพนักงาน นักลงทุน พันธมิตรทางธุรกิจ และลูกค้าของ NVIDIA ให้กลับมาเป็น CEO อ…  
-  @longtunman · 2026-11-18 00:17
-
-- [\*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRI…](<https://x.com/RealNickMugalli/status/2122724714984481005>)  
-  \*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRIOT \*BAKER: JENSEN AND ELON ARE TWO OF TWO \*BAKER: WE’RE AHEAD OF CHINA IN SEMICONDUCTOR BECAUSE OF JENSEN \*BAKER: THE BOARD NEEDS TO TAKE ITS TIM…  
-  @RealNickMugalli · 2026-11-18 00:13
-
-- [life if Jensen Huang returns as $NVDA CEO](<https://x.com/wallstreetbets/status/2122724679911620640>)  
-  @wallstreetbets · 2026-11-18 00:12
-
-- [BREAKING: Jensen Huang says he is willing to return as Nvidia CEO.](<https://x.com/GlobeEyeNews/status/2122724477897461917>)  
-  @GlobeEyeNews · 2026-11-18 00:12
-
-- [Jensen Huang returning back to Nvidia as CEO](<https://x.com/Nostre_damus/status/2122723835380375888>)  
-  @Nostre\_damus · 2026-11-18 00:09
-
-- [Jensen Huang says there will never be another CEO of Nvidia like him.](<https://x.com/Edison1HQ/status/2122723414633062645>)  
-  @Edison1HQ · 2026-11-18 00:07
-
-- [BREAKING: Jensen Huang says he would be willing to return as Nvidia CEO if the board wants him back](<https://x.com/FoxNews/status/2122723147724226737>)  
-  @FoxNews · 2026-11-18 00:06
-
-- [BREAKING: Jensen Huang releases his first public statement since resigning as CEO of Nvidia, $NVDA, and says he is…](<https://x.com/KobeissiLetter/status/2122722496667398408>)  
-  Jensen Huang specifically says he will return as CEO if the board asks him to. Full statement: “Since my departure, I’ve seen an  
-  @KobeissiLetter · 2026-11-18 00:04
-
-- [JENSEN HUANG: "Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business pa…](<https://x.com/amitisinvesting/status/2122722394674479505>)  
-  If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the  
-  @amitisinvesting · 2026-11-18 00:03
-
-- [Jensen Huang says he would return as $NVDA CEO if the board asks in his first public statement since stepping down…](<https://x.com/StockSavvyShay/status/2122721682934935657>)  
-  He says he "owns my mistakes completely."  
-  @StockSavvyShay · 2026-11-18 00:01
-
-- [Jensen Huang just made his first public statement since stepping down as the CEO of Nvidia $NVDA “Since my departur…](<https://x.com/StockMKTNewz/status/2122721421658820626>)  
-  Jensen Huang just made his first public statement since stepping down as the CEO of Nvidia $NVDA “Since my departure, I’ve seen an outpouring of calls from Nvidia’s employees, investors, business partners, and customers for me to return as CEO” “If the Board o…  
-  @StockMKTNewz · 2026-11-17 23:59
-
-- [BREAKING: Jensen Huang says he’s willing to return as NVIDIA CEO if the board asks.](<https://x.com/cb_doge/status/2122721327027298333>)  
-  He says employees, investors, partners and customers are calling for his return. “I would be honored to answer these calls and return as CEO.”  
-  @cb\_doge · 2026-11-17 23:59
-
-- [Jensen Huang: “I’ve seen an outpouring of calls” “I would be honored to answer these calls and return as CEO.” “I o…](<https://x.com/wallstengine/status/2122721223230759334>)  
-  Jensen Huang: “I’ve seen an outpouring of calls” “I would be honored to answer these calls and return as CEO.” “I own my mistakes completely.”  
-  @wallstengine · 2026-11-17 23:59
-
-- [JUST IN: Nvidia $NVDA founder Jensen Huang says he is willing to return as CEO if the company's board asks him to.…](<https://x.com/WatcherGuru/status/2122721086609707487>)  
-  JUST IN: Nvidia $NVDA founder Jensen Huang says he is willing to return as CEO if the company's board asks him to. "I would be honored to answer these calls and return as CEO."  
-  @WatcherGuru · 2026-11-17 23:58
-
-- [Breaking: Jensen Huang breaks his silence, saying he’s willing to return as Nvidia CEO if asked to do so.](<https://x.com/WSJ/status/2122720981751910841>)  
-  @WSJ · 2026-11-17 23:58
-
-- [JUST IN: Jensen Huang breaks silence with new statement showing willingness to return as Nvidia CEO](<https://x.com/Kalshi/status/2122720558509170774>)  
-  @Kalshi · 2026-11-17 23:56
-
-- [ـ ChatGPT : يفكر، يبحث، يكتب وينجز لك المهام ـ Gemini : منظومة Google للذكاء الاصطناعي ـ Claude : للكتابة والتحليل…](<https://x.com/Orahbeeni/status/2122719873935560846>)  
-  ـ ChatGPT : يفكر، يبحث، يكتب وينجز لك المهام ـ Gemini : منظومة Google للذكاء الاصطناعي ـ Claude : للكتابة والتحليل والبرمجة باحتراف ـ Grok : للبحث والمعلومات اللحظية والمحتوى ـ Perplexity : يبحث في الإنترنت ويعطيك المصادر ـ Manus : تعطيه مهمة وينفذها كاملة بدل…  
-  @Orahbeeni · 2026-11-17 23:53
-
-- [Howie Liu 谈为何出售 Airtable 并全力押注 AI 智能体创业 Hyperagent](<https://x.com/alexeheath/status/2122717943502877010>)  
-  Alex Heath 采访 Airtable 创始人 Howie Liu，他在 Airtable 营收接近 5 亿美元仍在增长时决定出售给 Bending Spoons，随后创办 Hyperagent。  
-  X：Alex Heath \(@alexeheath\) · 2026-11-17 23:46
-
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 41 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 39 页

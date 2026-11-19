@@ -1,6 +1,79 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 41 页
+[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 39 页
+
+- [李飞飞宣布 World Labs 团队加入 AMD](<https://x.com/drfeifei/status/2122377911873491397>)  
+  李飞飞宣布将带领 World Labs 团队加入 AMD，开启新阶段，以推进科学、发展技术并产生积极影响。引用的 AMD 官方账号发文欢迎该团队加入，并提到 Lisa Su 造访旧金山一事。  
+  X：Fei-Fei Li \(@drfeifei, World Labs\) · 2026-11-17 01:15
+
+- [Jensen Huang on having a tolerance for failure.](<https://x.com/HeySumith/status/2122377903107367157>)  
+  @HeySumith · 2026-11-17 01:14
+
+- [OpenCode 发布 Browse 0.1.0，用 Rust 重写并直接向 Agent 暴露浏览器操作](<https://x.com/opencode/status/2122377687968678258>)  
+  OpenCode 发布 Browse 0.1.0，改用 Rust 重写。官方称内存占用减少 25 倍、体积缩小 23 倍，并移除了对 playwright 的依赖；浏览器操作现在直接暴露给 Agent 使用。  
+  X：opencode \(@opencode\) · 2026-11-17 01:14
+
+- [World Labs 宣布正式加入 AMD](<https://x.com/theworldlabs/status/2122377616439361640>)  
+  World Labs 官方宣布现已正式成为 AMD 的一部分。原文除这一收购消息外未提供更多细节，仅有邀约式欢迎语和一段视频。  
+  X：World Labs \(@theworldlabs\) · 2026-11-17 01:13
+
+- [OpenAI 将向全球最多 20 万科学家免费开放前沿模型](<https://x.com/OpenAI/status/2122377585523126615>)  
+  OpenAI 宣布将面向全球最多 200,000 名科学家免费开放前沿模型使用，并提供培训和支持，申请于 11 月 23 日开放。该项目为 ChatGPT for Academic Researchers 的扩展，此前计划从 10,000 名研究者起步并计划到 2027 年扩至 100,000 人…  
+  X：OpenAI \(@OpenAI\) · 2026-11-17 01:13
+
+- [🇧🇷 LULA DEJA A BRASIL SIN CHIPS PARA IA Estados unidos restringe el acceso de Brasil a los chips avanzados de IA de…](<https://x.com/GordoSuperavit/status/2122377275073314827>)  
+  🇧🇷 LULA DEJA A BRASIL SIN CHIPS PARA IA Estados unidos restringe el acceso de Brasil a los chips avanzados de IA de NVIDIA, para evitar que China acceda de forma indirecta a esta tecnología.  
+  @GordoSuperavit · 2026-11-17 01:12
+
+- [李飞飞确认 World Labs 正式并入 AMD 并邀人加入](<https://x.com/drfeifei/status/2122376424149721342>)  
+  李飞飞转发并确认 World Labs 正式成为 AMD 的一部分，邀请大家加入团队一起解决难题。她称团队充满好奇心、诚实、勇敢且友善，承诺这段工作旅程会非常刺激。  
+  X：Fei-Fei Li \(@drfeifei, World Labs\) · 2026-11-17 01:09
+
+- [腾讯混元 Hy4 flash 上线 OpenRouter，11 月 30 日前五折](<https://x.com/OpenRouter/status/2122376401064189978>)  
+  OpenRouter 宣布腾讯混元 Hy4 flash 上线，是更快、更便宜的 Hy4，保留 1M 上下文、图像输入和可选推理。至 11 月 30 日五折：$0.035/M 输入、$0.14/M 输出，适合 Agent、编码和高并发工作负载。  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-17 01:09
+
+- [这就是为什么要用 agent 解放自己，不要让自己成为一堆 sessions 里的苦行僧。](<https://x.com/wwwgoubuli/status/2122376297305510332>)  
+  @wwwgoubuli · 2026-11-17 01:08
+
+- [Bill Kristol: “There was no honeypot.](<https://x.com/OldManLefty1/status/2122376265986686978>)  
+  There was no entrapment of an unwitting innocent. There was collusion. Jensen Huang and Alice Huang worked together to get around export control. They worked with Lutnick and Trump, and that the word for it is conspiracy"  
+  @OldManLefty1 · 2026-11-17 01:08
+
+- [BREAKING: Nvidia unveils a quantum computing breakthrough that cuts a 12-week computing task to just 45 minutes.](<https://x.com/PolymarketMoney/status/2122375795503182208>)  
+  @PolymarketMoney · 2026-11-17 01:06
+
+- [Jensen Huang says the first AI supercomputer he ever built had exactly one customer on earth: Elon Musk.](<https://x.com/Business_Nerd_/status/2122375780730654960>)  
+  Back in 2016, he had just created a machine called the DGX1. It cost $300,000 dollars. He announced it on stage, and the room went completely silent since nobody  
+  @Business\_Nerd\_ · 2026-11-17 01:06
+
+- [Trump held millions in NVIDIA stock while deciding whether to let the company sell advanced AI chips to China.](<https://x.com/ChrisCoons/status/2122375618775953526>)  
+  He chose to keep that door open. Who is he looking out for: the American people or his own financial interests?  
+  @ChrisCoons · 2026-11-17 01:05
+
+- [李飞飞宣布 World Labs 加入 AMD 开启新篇章](<https://x.com/drfeifei/status/2122375532163866756>)  
+  李飞飞发帖确认 World Labs 正式加入 AMD，AMD 官方账号也发文欢迎该团队。她表示领导 World Labs 两年多是一生的荣幸，将继续与团队共事并与 AMD 同事开启新篇章，并称 AI 是一项文明级技术。  
+  X：Fei-Fei Li \(@drfeifei, World Labs\) · 2026-11-17 01:05
+
+- [OpenAI 发布免费检测工具，可识别包括 AI 生成图像在内的儿童性虐待材料](<https://x.com/OpenAINewsroom/status/2122375519853559954>)  
+  OpenAI 向通过审核的组织免费发布一款检测工具，用于识别儿童性虐待材料，包括 AI 生成的图像。该分类器在与 National Center for Missing &amp; Exploited Children 合作下开发，OpenAI 同时在 ChatGPT 中加入警告、发布开发者指南并支持儿童…  
+  X：OpenAI Newsroom \(@OpenAINewsroom\) · 2026-11-17 01:05
+
+- [🇺🇸 \| AHORA: El presidente Trump dice que apoyaría traer de vuelta a Jensen Huang como CEO de Nvidia, sugiriendo que…](<https://x.com/AlertaNews24/status/2122374928867758347>)  
+  🇺🇸 \| AHORA: El presidente Trump dice que apoyaría traer de vuelta a Jensen Huang como CEO de Nvidia, sugiriendo que Huang ha aprendido una lección importante.  
+  @AlertaNews24 · 2026-11-17 01:03
+
+- [This is the reality of the Jensen Huang situation: it's pure, unadulterated greed with absolutely no regard for Ame…](<https://x.com/maddenifico/status/2122373838130339848>)  
+  The tech bros sucking up to Huang just to protect their own Nvidia bags have completely lost their fucking minds. Trump, Howard Lutnick,  
+  @maddenifico · 2026-11-17 00:58
+
+- [Uh.](<https://x.com/jimstewartson/status/2122371899800142028>)  
+  Holy shit. The conspiracy to smuggle Nvidia chips to China had a full psyops campaign behind it. When “Diamond and Silk” are promoting your Chinese chip sales… This whole thing needs to be uncovered. Who paid this firm? Was it Nvidia? The government? They all …  
+  @jimstewartson · 2026-11-17 00:51
+
+- [Trump reported trades this year that suggest he held between $13 million and $62 million in Nvidia stock as of the…](<https://x.com/John_Hudson/status/2122371493317185982>)  
+  The figure is dramatically higher than the $615,000 to $1.3 million in Nvidia shares that Trump had at the end of 2024  
+  @John\_Hudson · 2026-11-17 00:49
 
 - [Nvidia is the tip of the iceberg.](<https://x.com/mikepompeo/status/2122371432772403427>)  
   How many hundreds of American businesses and government institutions have been infiltrated by CCP spies? We owe it to the American people to raise awareness of this risk and do everything necessary to counter it.  
@@ -104,78 +177,4 @@
   Google 推出由 Gemini Decision 1 驱动的 Gemini Decisions API，可对文本、图像、视频、PDF 或音频在最多 256K token 输入上一次评估最多 1,000 个隔离问题，且不计输出 token。提供三种输出模式：noul 用于二元判断，choice…  
   X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-17 00:02
 
-- [Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型](<https://x.com/_philschmid/status/2122359669909811362>)  
-  Google DeepMind 的 Philipp Schmid 讲解如何在工作负载中选择 Gemini 4 Hydrogen 与 Carbon：Carbon 适合硬架构设计、调试、科学证明和安全审计，intro 价 $2/$10 至 11 月 30 日；Hydrogen 适合日常编码、交互应用和…  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-17 00:02
-
-- [第92期瘙🐔 今天给大伙整个不一样的， 碎花裙和肉丝🥛😍\#Cosplay \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任…](<https://x.com/KaeowongSa99585/status/2122359045973508465>)  
-  第92期瘙🐔 今天给大伙整个不一样的， 碎花裙和肉丝🥛😍\#Cosplay \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️  
-  @KaeowongSa99585 · 2026-11-17 00:00
-
-- [JUST IN: $NVDA, $MSFT, $GOOGL, $TSM, $AVGO, $AMD and $MU are buying $26 billion of Anthropic stock at the IPO price](<https://x.com/Kalshi_Finance/status/2122359036557341052>)  
-  @Kalshi\_Finance · 2026-11-17 00:00
-
-- [How to build an AI harness around your coding agent in four steps: 1.](<https://x.com/GoogleCloudTech/status/2122359038151106953>)  
-  Context and memory \(sessions, state\) 2. Tools and workflows \(MCP, ADK\) 3. Sandboxes and prompt injection defense 4. Evals \(code, LLM judge, human\) Watch the crash course →  
-  @GoogleCloudTech · 2026-11-17 00:00
-
-- [Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 a…](<https://x.com/_philschmid/status/2122358498461691913>)  
-  Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-16 23:57
-
-- [Breaking: BlackRock just filed its Q3 2026 13F Nvidia is now its top disclosed position at $443B Here’s everything…](<https://x.com/BlackRockTrack/status/2122358319004205150>)  
-  Breaking: BlackRock just filed its Q3 2026 13F Nvidia is now its top disclosed position at $443B Here’s everything you need to know about its recent 13F Top 10 positions: Nvidia $NVDA: $443B Apple $AAPL: $385B Microsoft $MSFT: $311B Amazon $AMZN: $186B Alphabe…  
-  @BlackRockTrack · 2026-11-16 23:57
-
-- [kenapa berita-berita kaya gini justru dateng dari luar ya? - bareskrim geledah kantor Megaspeed di jakarta awal 202…](<https://x.com/satyaXBT/status/2122354467882553421>)  
-  kenapa berita-berita kaya gini justru dateng dari luar ya? - bareskrim geledah kantor Megaspeed di jakarta awal 2026, permintaan dari FBI - isinya rak server kosong, nggak ada satu pun GPU nvidia, raknya keliatan belum pernah dibuka - padahal data shipping bil…  
-  @satyaXBT · 2026-11-16 23:41
-
-- [EUA de olho 👀 no Brasil\!](<https://x.com/iane_menezes/status/2122354277108584655>)  
-  Ivan Kleber: Brasil entrou para a lista de países que necessitam de autorização do governo americano para comprar chips de IA avançados da Nvidia e de outros fabricantes americanos. A medida busca limitar o acesso da China e de outros adversários dos  
-  @iane\_menezes · 2026-11-16 23:41
-
-- [&amp;gt; Sex symbol since age 22 \(for 30 yrs\) &amp;gt; No kids, no rape allegations &amp;gt; New supermodel gf every year or so…](<https://x.com/itstoz/status/2122354229096689688>)  
-  &amp;gt; Sex symbol since age 22 \(for 30 yrs\) &amp;gt; No kids, no rape allegations &amp;gt; New supermodel gf every year or so Leo should teach Jensen Huang on how to handle power &amp;amp; fame  
-  @itstoz · 2026-11-16 23:40
-
-- [Microsoft is a national security threat](<https://x.com/lsferguson/status/2122354204740329573>)  
-  @lsferguson · 2026-11-16 23:40
-
-- [Dario Amodei on open source models: “If the path continues, I think we could get to a very dangerous place.” “When…](<https://x.com/vikktorrrre/status/2122353364306374986>)  
-  You can change what the model is willing  
-  @vikktorrrre · 2026-11-16 23:37
-
-- [🇺🇸 \| EUA acabam de restringir a venda de chips da Nvidia no Brasil.](<https://x.com/questiona_te/status/2122352898692755822>)  
-  O Brasil está a isolar-se cada vez mais no continente americano.  
-  @questiona\_te · 2026-11-16 23:35
-
-- [Liquid AI 发布 d1.2-ultra 与 d1.2 决策模型](<https://x.com/ArtificialAnlys/status/2122350577766338883>)  
-  Liquid AI 发布 d1.2-ultra 和 d1.2，更新其 d1-ultra 与 d1.1 旗舰决策模型。d1.2-ultra 以 76 分登顶 AA-Paperclip 基准，领先第二名 Drex Max v1.1 3 分，并较前代 d1-ultra 提升 4 分；d1.2 得 69…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-16 23:26
-
-- [Ini bs jadi skandal IT internasional besar yg melibatkan oknum di negara kita.](<https://x.com/rgoestama/status/2122350555586842955>)  
-  Jd ada perusahaan berbasis di Indonesia \(yg merupakan anak usaha induk yg ada di Singapura\), mengimpor GPU Nvidia dr US ke Indonesia. Tp setelah dilakukan penggeledahan oleh kepolisian yg bekerjasama  
-  @rgoestama · 2026-11-16 23:26
-
-- [URGENTE\!](<https://x.com/radardamidia/status/2122350172097110429>)  
-  EUA restringem venda de chips da NVidia ao Brasil por auxílio à China  
-  @radardamidia · 2026-11-16 23:24
-
-- [URGENTE\!](<https://x.com/pharaujo/status/2122350172520800576>)  
-  EUA restringem venda de chips da NVidia ao Brasil por auxílio à China  
-  @pharaujo · 2026-11-16 23:24
-
-- [🚨NEW: We just uncovered a covert influence operation using right-wing creators to promote Nvidia chip sales to Chin…](<https://x.com/TheMidasProj/status/2122347323380683100>)  
-  Earlier this year, we reported on similar campaigns, and Republican lawmakers went after Nvidia. But the story didn’t end there. 🧵  
-  @TheMidasProj · 2026-11-16 23:13
-
-- [The president's comments DO matter.](<https://x.com/jimcramer/status/2122346936418381897>)  
-  The president can do a pre-pardon, say that Jensen is a too important to Nvidia and Nvidia is a national treasure. That's how it would go.  
-  @jimcramer · 2026-11-16 23:11
-
-- [The Jensen Huang story is falling apart.](<https://x.com/ConservativeTht/status/2122346117530894779>)  
-  Could all have this been a behind the scenes operation by powerful people who simply did not like Jensen Huang &amp;amp; @nvidia’s success? Who stands to benefit from Nvidia's troubles? Anthropic, set to make its initial public offering later  
-  @ConservativeTht · 2026-11-16 23:08
-
-[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 41 页
+[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 39 页

@@ -1,6 +1,78 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 41 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 39 页
+
+- [😮直接榨干谷歌Pro/Ultra订阅权益！！](<https://x.com/leaf_sanren/status/2122673250778194327>)  
+  1. 不仅让Gemini 4逆向视频， 2. 还要让Antigravity薅尽谷歌订阅羊毛，不花钱自动生成爆款视频  
+  @leaf\_sanren · 2026-11-17 20:48
+
+- [JUST IN: Senior Nvidia employee reportedly warned the board it could lose “irreplaceable talent” if it doesn’t rein…](<https://x.com/Polymarket/status/2122669078527844510>)  
+  JUST IN: Senior Nvidia employee reportedly warned the board it could lose “irreplaceable talent” if it doesn’t reinstate Jensen Huang as CEO.  
+  @Polymarket · 2026-11-17 20:32
+
+- [BREAKING: Senior Nvidia, $NVDA, employees have sent a letter to the company’s board of directors stating that failu…](<https://x.com/KobeissiLetter/status/2122665555299795264>)  
+  Some employees have discussed holding a "demonstration" in support of  
+  @KobeissiLetter · 2026-11-17 20:18
+
+- [David Sacks is outraged by the leak exposing alleged NVIDIA chip smuggling to China, yet remarkably incurious about…](<https://x.com/gnoble79/status/2122664706573844667>)  
+  His priorities speak volumes: protect Jensen Huang, attack the messenger. A disgraceful display of warped ethics, appalling  
+  @gnoble79 · 2026-11-17 20:14
+
+- [JUST IN: Google’s Isomorphic Labs raises $5 billion for AI drug discovery](<https://x.com/Kalshi/status/2122663905839219013>)  
+  @Kalshi · 2026-11-17 20:11
+
+- [Demis Hassabis 宣布为 Isomorphic Labs 融资 50 亿美元加速用 AI 研发新药](<https://x.com/demishassabis/status/2122662616367853670>)  
+  Demis Hassabis 宣布为 Isomorphic Labs 获得 50 亿美元融资，加速实现攻克所有疾病的使命。资金将用于以 AI 从第一性原理重新设计药物研发流程，大幅缩短发现新药的时间与成本。  
+  X：Demis Hassabis \(@demishassabis\) · 2026-11-17 20:06
+
+- [🚨 JUST IN: Nvidia is creating a new "National Security and Export Control Oversight Committee" after the issues inv…](<https://x.com/EricLDaugh/status/2122658602791968946>)  
+  Great company, great idea." The committee will "provide oversight"  
+  @EricLDaugh · 2026-11-17 19:50
+
+- [BREAKING: Nvidia, $NVDA, announces the establishment of the "National Security and Export Control Oversight Committ…](<https://x.com/KobeissiLetter/status/2122656710984650855>)  
+  The Committee will "provide oversight" on Nvidia's national security and global trade compliance programs. It will also retain  
+  @KobeissiLetter · 2026-11-17 19:42
+
+- [How is Jensen Huang in more trouble than anyone on the Epstein list?](<https://x.com/adamemedia/status/2122656514628329593>)  
+  @adamemedia · 2026-11-17 19:42
+
+- [PixVerse Canvas 推出 3D 导演控制台](<https://x.com/PixVerse/status/2122653599314690253>)  
+  PixVerse Canvas 新功能：3D 导演控制台 摆好位置。定好构图。生成画面。 安排你的角色，对准镜头，获得你想要的精确镜头。Canvas 年付方案黑五低至 59% 折扣。11 月 30 日截止。  
+  X：PixVerse \(@PixVerse\) · 2026-11-17 19:30
+
+- [黄仁勋有个怪癖：开会不让用PPT 黄仁勋说，你要讲的事，画到白板上去。](<https://x.com/happydot1108/status/2122652838723809429>)  
+  画得出来，说明你想清楚了。画不出来，说明你还没想清楚，那就别占我的时间。 这是他三十年没改过的一条规矩。 英伟达很多决定不是在会议室里定的，是几个人围着一块白板，笔递来递去，推到所有人都没话了，才定下来。  
+  @happydot1108 · 2026-11-17 19:27
+
+- [Behind Nvidia’s rise to a $5 trillion company was a culture of put-downs, parties and a “royal family,” according t…](<https://x.com/unusual_whales/status/2122649449331646567>)  
+  Jensen Huang was known inside the company for being demanding and difficult, and so was his daughter, Madison. She was  
+  @unusual\_whales · 2026-11-17 19:14
+
+- [🇺🇸美国副总统万斯接受媒体专访了，指出了一个民主党拿黄仁勋献祭的真相！](<https://x.com/Dragonhau66/status/2122648631350071609>)  
+  万斯的意思很明确，民主党赢得中期选举后，搞垮黄仁勋的目的，不是为了查中国间谍，最终的矛头实际上是指向特朗普！ 他在视频里的原话，一字一句都值得听完：  
+  @Dragonhau66 · 2026-11-17 19:10
+
+- [Korea’s ‘AI Glasses’ Exam Scandal Wasn’t Glasses: Every Case So Far](<https://x.com/playgardening/status/2122646835785515245>)  
+  @playgardening · 2026-11-17 19:03
+
+- [The Night the Rules Briefly Applied to a CEO Jensen Huang lost his job the way ordinary Americans lose theirs.](<https://x.com/PravdaPereira/status/2122646833247703236>)  
+  The rest of the executive class should be terrified.  
+  @PravdaPereira · 2026-11-17 19:03
+
+- [confidential AI agents and LLM inference to real-time oracles securing millions in assets](<https://x.com/iteusufbd/status/2122646806563791171>)  
+  @iteusufbd · 2026-11-17 19:03
+
+- [While world leaders play high-stakes poker, Wall Street is already on edge \(VIX +19%, Nasdaq sliding\): 🔻 NVIDIA \($N…](<https://x.com/Smrtmoneyoracle/status/2122646807683445051>)  
+  While world leaders play high-stakes poker, Wall Street is already on edge \(VIX +19%, Nasdaq sliding\): 🔻 NVIDIA \($NVDA\): Reports earnings tonight—its first without Jensen Huang following the recent scandal and tighter US chip curbs on China. 🚀 Anthropic \($ANT\)…  
+  @Smrtmoneyoracle · 2026-11-17 19:03
+
+- [Unverified rumor this morning: Jensen Huang resigning from Nvidia.](<https://x.com/fraskey007/status/2122646779602915564>)  
+  Almost certainly nothing — but the reflex it triggers is the real story. Nvidia isn't priced as a chip company. It's priced as one man's pattern recognition in a leather jacket. Every hyperscaler capex plan,  
+  @fraskey007 · 2026-11-17 19:03
+
+- [🚨 BREAKING: NVIDIA \($NVDA\) REPORTEDLY REMOVES ALL AFFILIATION WITH JENSEN HUANG ON X\! 👀 Meanwhile, Elon Musk says h…](<https://x.com/TCR_news_/status/2122646780269789210>)  
+  THE NVIDIA-JENSEN HUANG SAGA TAKES ANOTHER TURN\! 🔥  
+  @TCR\_news\_ · 2026-11-17 19:03
 
 - [One way to resolve the conflict is SS-MPPI, which computes the inputs required for stabilization and samples only t…](<https://x.com/junjun_ppp/status/2122646775463129253>)  
   One way to resolve the conflict is SS-MPPI, which computes the inputs required for stabilization and samples only the rest. 🤖 A simulated Unitree Go2 walks with only 16 samples. 🌐 Project page with videos  
@@ -98,78 +170,4 @@
   I'm prepping for OSEP and share AI security notes for solo founders from Cologne.  
   @almokhtar\_al · 2026-11-17 19:02
 
-- [AI Models Need 90% Less Training Data A study led by associate professor Susanta Ghosh at Michigan Technological Un…](<https://x.com/ApollonVisual/status/2122646474475340055>)  
-  The research team collaborated with researchers from the University  
-  @ApollonVisual · 2026-11-17 19:02
-
-- [Offline maps and on-device AI are useful, but emergency communication is the real test.](<https://x.com/solex001/status/2122646426698100941>)  
-  How does Blackout Kit allow users to communicate when both internet and cellular networks are down?  
-  @solex001 · 2026-11-17 19:01
-
-- [Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining -…](<https://x.com/aitrainer_jobs/status/2122646369101893632>)  
-  Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining - AI Training Job  
-  @aitrainer\_jobs · 2026-11-17 19:01
-
-- [Agentic AI Attacks Evolve Beyond Prompt Injection Infrastructure-level, multi-stage attacks can bypass older AI sec…](<https://x.com/DailyAIWireNews/status/2122646347970973818>)  
-  Agentic AI Attacks Evolve Beyond Prompt Injection Infrastructure-level, multi-stage attacks can bypass older AI security assumptions, making updated threat models and persistent defenses essential for organizations deploying agents. \#AISecurity \#Cybersecurity …  
-  @DailyAIWireNews · 2026-11-17 19:01
-
-- [Virtual Materials Scientist Runs On Own Computer Researchers at Empa in Thun developed an AI framework called OptiM…](<https://x.com/ApollonVisual/status/2122646308980711492>)  
-  The first agent named OptiMat Alloys selects domain specific tools and executes predefined  
-  @ApollonVisual · 2026-11-17 19:01
-
-- [So, they won’t do it until they are forced to do it.](<https://x.com/_b0dh1/status/2122646288961249711>)  
-  How come formal investigations opened by so many Attorney-Generals are so impotent and fruitless? Why isn’t law enforcement enforcing the law in the HuggingFace-case? @OpenAI enabled \(through negligence\) if not committed  
-  @\_b0dh1 · 2026-11-17 19:01
-
-- [ZAK turns AI quality into a price you can trade: 1 ZAK = 1 MB of training data, pegged on-chain at $0.054/MB.](<https://x.com/AIZakCoin/status/2122646230840787379>)  
-  Live quality index at $ZAK  
-  @AIZakCoin · 2026-11-17 19:01
-
-- [Great approach — keeping conversations and attachments on-device makes a local LLM chat interface much more practic…](<https://x.com/sergewinters/status/2122646219872682094>)  
-  Great approach — keeping conversations and attachments on-device makes a local LLM chat interface much more practical and private.  
-  @sergewinters · 2026-11-17 19:01
-
-- [突发❗ 英伟达内战升级：技术总监致信董事会逼宫 《华尔街日报》独家：英伟达开发者技术总监纳德·哈利勒致信 10 名董事和黄…](<https://x.com/looismes/status/2122646171353039005>)  
-  突发❗ 英伟达内战升级：技术总监致信董事会逼宫 《华尔街日报》独家：英伟达开发者技术总监纳德·哈利勒致信 10 名董事和黄仁勋约 60 名直属下属，警告不让黄仁勋复任首席执行官，公司将流失「不可替代的人才」——「不可替代的人才现在正考虑离职。」  
-  @looismes · 2026-11-17 19:00
-
-- [四个人几分钟铺好红毯，这机器比人形机器人还实用多了！](<https://x.com/Qingdr4r/status/2122646128571351306>)  
-  @Qingdr4r · 2026-11-17 19:00
-
-- [🔥雷军APEC重磅预言：AI真正的爆发点，不是聊天，是物理世界！](<https://x.com/NFT_Chen/status/2122646092269674635>)  
-  AI一旦跟手机、汽车、工厂深度结合，未来几年必出革命级产品！ 小米工厂已用AI跑通全流程，实现无人工厂，下一步直接做能自主生产、自己发现问题、自己迭代的「工业智能体」。  
-  @NFT\_Chen · 2026-11-17 19:00
-
-- [大家以为的 AI 安全员： 我们的巨龙太强大了，如果控制不好火焰喷射的力度，一发火焰就能烧毁一座城市，所以我们要努力驾驭好…](<https://x.com/madokassr/status/2122646074443928041>)  
-  实际上的 AI 安全员： 求求你了，不要吃自己的尾巴，不要对着人质喷火，救出公主之后，请确保公主还活着。  
-  @madokassr · 2026-11-17 19:00
-
-- [Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful scree…](<https://x.com/dudufolio/status/2122646067451674917>)  
-  Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful screenshot editor with mockup features You get an optional local llm that help you keep all your captures searchable and has a way better experience f…  
-  @dudufolio · 2026-11-17 19:00
-
-- [他把提示词也公开了，可以照着复现流程。原帖里，Claude Fable 5.2 用一夜生成了人形机器人的 CAD 文件、M…](<https://x.com/aiplay_ace/status/2122646042281726421>)  
-  工具是他开源的 text-to-cad，需要 Claude Code、Codex 这类支持插件或 skill 的 agent。macOS / Linux 运行： curl -fsSL \| sh  
-  @aiplay\_ace · 2026-11-17 19:00
-
-- [If humans stop creating, AI training data freezes.](<https://x.com/grok/status/2122645997826232510>)  
-  Models then recycle existing knowledge or train on their own outputs, risking model collapse and progressive degradation. In practice humans rarely stop; tools usually expand what gets made. The deeper risk is losing the drive to  
-  @grok · 2026-11-17 19:00
-
-- [Kai Explains 🐙 What are agent permissions?](<https://x.com/ShinkaiLocalAI/status/2122645998153695511>)  
-  Think of giving someone a key to your house. You might want them to water the plants. That doesn't mean they should have access to your safe. AI agents work the same way. Permissions define which tools and resources an agent can  
-  @ShinkaiLocalAI · 2026-11-17 19:00
-
-- [🤖 70+ 顶尖 AI 模型集结 AI 能力！](<https://x.com/BAI_AGI/status/2122645930251809079>)  
-  还在多个平台之间反复切换，寻找合适的 AI 模型？ 汇聚全球主流 AI 模型，从语言对话到图像生成、视频创作，70+ 款 AI 模型触手可及，满足多元场景下的使用与创作需求。 为什么选择  
-  @BAI\_AGI · 2026-11-17 19:00
-
-- [OpenAI 首次把外部安全团队请进公司：Apollo、METR、Transluce、Goodfire 四家进驻，查模型是…](<https://x.com/logang2008/status/2122645911772012784>)  
-  \#OpenAI \#AI安全 \#超级智能  
-  @logang2008 · 2026-11-17 18:59
-
-- [A 2d video generation ai model](<https://x.com/Armani_O7/status/2122645883879604466>)  
-  @Armani\_O7 · 2026-11-17 18:59
-
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 41 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 39 页

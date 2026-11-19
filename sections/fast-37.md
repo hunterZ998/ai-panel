@@ -1,6 +1,78 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 41 页
+[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 39 页
+
+- [My boss is talking to our students about how Jensen Huang shouldn’t have had to step away from NVIDIA for all of th…](<https://x.com/starlitMia/status/2122284164355600582>)  
+  And how he also doesn’t understand how he didn’t cheat earlier bc Jensen’s wife is a “6/10” maybe a “6.5 on a good day”  
+  @starlitMia · 2026-11-16 19:02
+
+- [apple is quite screwed now people will be accustom to need this kind of auto intelligence built-in to all their too…](<https://x.com/LeeLeepenkman/status/2122284158458139116>)  
+  apple is quite screwed now people will be accustom to need this kind of auto intelligence built-in to all their tools. apple will just not be able to deliver on it as they underinvested. i could be wrong\! when its like on device AI good enough, perhaps they wi…  
+  @LeeLeepenkman · 2026-11-16 19:02
+
+- [bro suggest any free ai video editing tools](<https://x.com/gangadhareddy_d/status/2122284107690541198>)  
+  @gangadhareddy\_d · 2026-11-16 19:02
+
+- [Bro is fighting enemies in real life too 💀🎮 \#GamerLife \#PixVerseTrend @PixVerse](<https://x.com/Queen_khan143/status/2122284110848913599>)  
+  @Queen\_khan143 · 2026-11-16 19:02
+
+- [Alibaba launched Qwen4-Max today: a 2.4T-parameter sparse MoE flagship.](<https://x.com/senthazalravi/status/2122284079445869048>)  
+  DeepSWE v1.1: 75.7, ahead of Claude Opus 5.5 on Alibaba's numbers, using \~50% fewer tokens than Qwen3.8-Max. The flagship stays closed though. Open weights or API access, which matters more to you?  
+  @senthazalravi · 2026-11-16 19:02
+
+- [New on the blog ComfyUI Deep Dive: Node-Based AI Image and Video Generation in 2026 - Autonomous Business Growth &amp;a…](<https://x.com/l8bitesAI/status/2122284056167546984>)  
+  Powered by l8bites AI \#AIAgency \#AIBlog \#l8bites  
+  @l8bitesAI · 2026-11-16 19:02
+
+- [国产大模型赛道又有新消息了！](<https://x.com/JIANQINYE_git/status/2122284036068606145>)  
+  据11月16日Crypto Briefing报道，阿里巴巴推出了Qwen3.8-Max，进一步参与全球旗舰大模型竞争。 相比单纯的聊天能力，我现在更关注新一代模型在复杂编程、长程任务、工具调用和Agent工作流中的表现。  
+  @JIANQINYE\_git · 2026-11-16 19:01
+
+- [The most telling detail in this eval isn't what gets picked up, but what stays in place.](<https://x.com/EvalRobo/status/2122283889708429770>)  
+  Claude Fable 5.2 wins by preserving the 8720 layout, while others demonstrate destructive manipulation. It highlights a key industry reality: strong VLM reasoning alone lacks physical state  
+  @EvalRobo · 2026-11-16 19:01
+
+- [$ZAK's peg is on-chain and auditable: 1 ZAK = 1 MB of AI training data, anchored at \~$0.054/MB — live price $0.0540…](<https://x.com/AIZakCoin/status/2122283803246833959>)  
+  Quality index keeps it honest: \#ZAK \#AI  
+  @AIZakCoin · 2026-11-16 19:01
+
+- [Huggingface \#1 Paper of the Week: 2026-11-08..2026-11-14 SO-Arena: Benchmarking the Capability Spectrum and Reliabi…](<https://x.com/LOLML_GmbH/status/2122283800613020028>)  
+  Huggingface \#1 Paper of the Week: 2026-11-08..2026-11-14 SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models Authors: Lichen Li, Ziping Dong, Sicheng Feng, Qi Li, Xinchao Wang  
+  @LOLML\_GmbH · 2026-11-16 19:01
+
+- [Elon Musk joked overnight that he has "a very wide distribution of training data." The funny part is how literally…](<https://x.com/TheCaptainEli/status/2122283796259049795>)  
+  AI researchers learned that a model trained on one narrow thing breaks the moment the world surprises it. Train it on everything and it starts finding  
+  @TheCaptainEli · 2026-11-16 19:01
+
+- [包括我在内的很多人幻想用具身智能大模型接管工厂。](<https://x.com/paigu7x/status/2122283790307316195>)  
+  但大家看桌上这套传感器+PLC+气缸，成本不到两千块，响应延迟 1 毫秒，一天可以运行十万次。 在标准工业流水线上，传统气动结构就是性价比之王。 我想，AI 进工厂应该采用外挂式，用便宜的边缘 AI  
+  @paigu7x · 2026-11-16 19:01
+
+- [🔥Hiring 🔥 🚀 Company: 🪛 Position: Senior AI Security Engineer 🌎 Location: Remote - Europe Apply:](<https://x.com/bigremotejob/status/2122283734552518984>)  
+  @bigremotejob · 2026-11-16 19:00
+
+- [11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\)…](<https://x.com/TheNewxg5s/status/2122283687253553529>)  
+  11月16日A股持仓以及明日建仓计划 云南锗业 002428 \(+40.9%\) 长鑫科技 688825 \(+3.03%\) 利欧股份 002131 \(+6%\) 芒果超媒 300413 \(-1%\) 明日建仓三只标的 ①半导体+先进封装+存储芯片！这对标英伟达Omniverse； ②端侧AI+AI短剧+…  
+  @TheNewxg5s · 2026-11-16 19:00
+
+- [🤖 Building Physical AI shouldn't start with months of data collection.](<https://x.com/AvinEsmaelpour/status/2122283683084149153>)  
+  The PrismaX University Research Program helps university labs skip the data bottleneck and focus on real research. Selected teams get FREE access to high-quality robot teleoperation and egocentric data,  
+  @AvinEsmaelpour · 2026-11-16 19:00
+
+- [小红书正式官宣Personal Agent“蜜薯”！！！！](<https://x.com/Jingjingzhang24/status/2122283635529462066>)  
+  你的专属AI生活搭子上线 不再局限手机屏幕！蜜薯借助Rokid AI眼镜，把小红书的社区经验带到眼前，让AI走进真实线下生活！！！！ 太好用了！！！！没玩过首发真实！！！  
+  @Jingjingzhang24 · 2026-11-16 19:00
+
+- [handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after…](<https://x.com/Emma_Bytes/status/2122283579925504150>)  
+  handing claude a handheld and telling it not to hold back ends with an overclock and a micro llm that answers after you've already beaten the boss. on-device ai has one honest benchmark: does the reply land while you're still playing.  
+  @Emma\_Bytes · 2026-11-16 19:00
+
+- [你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是…](<https://x.com/ChenBuildsAI/status/2122283578293969201>)  
+  你说的这个卡住的感觉我也有，Kimi K3.1 Pro 发版 100 天之后确实没看到大的技术动作。你觉得现在最大的瓶颈是训练数据，还是像你说的，蒸馏这条路被堵之后大家还没找到新的办法？  
+  @ChenBuildsAI · 2026-11-16 19:00
+
+- [Jensen Huang is already discussing a possible comeback as CEO of Nvidia](<https://x.com/InternetH0F/status/2122283559813620144>)  
+  @InternetH0F · 2026-11-16 19:00
 
 - [What Does Group Theory Have to Do with Protein Design?](<https://x.com/interlitai/status/2122283551664087137>)  
   Symmetry matters\! SO\(3\), SE\(3\), and equivariant AI help models understand 3D protein structures. We combine mathematics, AI, and biology to advance protein design. \#Interlit \#Protein \#Biotech \#AI \#AIDD  
@@ -99,77 +171,4 @@
 - [Sometimes the problem is the gamer 💀🎮 \#GamerLife \#PixVerseTrend @PixVerse](<https://x.com/Queen_khan143/status/2122282482632667399>)  
   @Queen\_khan143 · 2026-11-16 18:55
 
-- [Physical Data Transfers.](<https://x.com/Vendona/status/2122282336964485294>)  
-  To overcome bandwidth limits when using overseas servers, Chinese engineers reportedly transported physical hard drives filled with AI training data back and forth between Southeast Asia and China  
-  @Vendona · 2026-11-16 18:55
-
-- [100 builders. 10 teams. 10 humanoid robots.](<https://x.com/sheryl_xwx/status/2122282303204581618>)  
-  The RoboParty × D-Robotics \(DDC 2026\) hands-on workshop is coming\! New to robotics or a seasoned pro? Join us for 2 days to assemble, wire, and boot a walking RPO humanoid from loose parts. RPO is fully open source. Build it,  
-  @sheryl\_xwx · 2026-11-16 18:55
-
-- [&amp;lt;iframe loading="lazy" id="noa-web-audio-player" style="border: none" src=" width="100%" height="110px"&amp;gt;&amp;lt;/…](<https://x.com/arnaudmercier/status/2122282244966350944>)  
-  &amp;lt;iframe loading="lazy" id="noa-web-audio-player" style="border: none" src=" width="100%" height="110px"&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;p class="wp-block-paragraph"&amp;gt;In March 2016 Demis Hassabis, CEO&amp;lt;strong&amp;gt; &amp;lt;/strong&amp;gt;and cofounder of DeepMind, was in S…  
-  @arnaudmercier · 2026-11-16 18:54
-
-- [exciting to see these advancements in agent security](<https://x.com/RoccoXBT/status/2122282132328575064>)  
-  @RoccoXBT · 2026-11-16 18:54
-
-- [Jensen Huang resigned from Nvidia last week.](<https://x.com/bigaiguy/status/2122282099499798728>)  
-  One of the people who could gain the most is his cousin. Her name is Lisa Su. She runs AMD. They are first cousins once removed. Jensen's mother is the sister of Lisa's grandfather. Both were born in Taiwan, but they didn't grow up  
-  @bigaiguy · 2026-11-16 18:54
-
-- [PixVerse は見えそうで見えない静止画だと動かすと何か見える場合はありますね](<https://x.com/ai_ezora/status/2122282063302992008>)  
-  @ai\_ezora · 2026-11-16 18:54
-
-- [Counterpoint says AI glasses shipments jumped 263 percent, Meta over 90 percent.](<https://x.com/StreamwearsIRL/status/2122282051361533987>)  
-  Millions of lenses, still no live button for Twitch, Kick, TikTok, Facebook. We added it: \#MetaGlasses \#SmartGlasses \#RayBanMeta \#Wearables \#MetaAI  
-  @StreamwearsIRL · 2026-11-16 18:54
-
-- [Curious is that because there’s been a lot of interest in AI security recently or a lack of interest in SaaS securi…](<https://x.com/gymR4T/status/2122282024908345702>)  
-  It’s hard to treat those categories as isolated, but I agree all SaaS security companies are heavily marketing AI security  
-  @gymR4T · 2026-11-16 18:53
-
-- [华为云今天下午把机器人世界模型开源了。](<https://x.com/tonnyzhou/status/2122282016360075681>)  
-  CloudRobo-WM1.2，昇腾原生，RoboTwin 2.0 和 LiberoPro 2.0 两个评测都拿了第一。训练框架、算力最佳实践也一起放了出来。 华为还放了个数字：80% 的中国具身智能企业在用昇腾云。这是官方口径，没第三方核过。  
-  @tonnyzhou · 2026-11-16 18:53
-
-- [Seeing NFTs as agent identity is a fresh angle.](<https://x.com/Nybuzi/status/2122281998123454896>)  
-  A Mote that can act through a Smart Account is more than art. I am curious how permissions will keep that power safe in practice.  
-  @Nybuzi · 2026-11-16 18:53
-
-- [Things I'm interested in include autonomous agent identity management and authentication.](<https://x.com/selkiesabr/status/2122281960391496052>)  
-  Follow me and I'll follow you back. \#connect  
-  @selkiesabr · 2026-11-16 18:53
-
-- [确实可以做，一直是蓝海这个说法也是没错的，只需要解决两个问题： 1. 在起步阶段，能够给用户限量白嫖的 API 来刺激转化…](<https://x.com/Philomilan/status/2122281852220145880>)  
-  确实可以做，一直是蓝海这个说法也是没错的，只需要解决两个问题： 1. 在起步阶段，能够给用户限量白嫖的 API 来刺激转化和付费。但是真的会被批量注册号码来薅、被反代出去薅，这一步很多小团队就顶不住了 2. 做大一些之后，被监管关注到之后怎么才能过得了非常变态的 AI  
-  @Philomilan · 2026-11-16 18:53
-
-- [Small correction: Alibaba’s announcement says Qwen4-Max is live on the QwenCloud API.](<https://x.com/JorgeLemosIA/status/2122281817747190185>)  
-  Open weights are promised only for smaller Qwen4 models, with no date. So you can use it today, but you can’t run it yourself.  
-  @JorgeLemosIA · 2026-11-16 18:53
-
-- [Yeah, training data for AI models are critical which decides the models accuracy.](<https://x.com/techbyraghu/status/2122281740333109652>)  
-  Physical AI training is emerging now.  
-  @techbyraghu · 2026-11-16 18:52
-
-- [人形机器人才是最大的泡沫！！！](<https://x.com/lumeroute/status/2122281614269112817>)  
-  在APEC的会议上肯定又能看到机器人在表演舞蹈、打羽毛球、拳击比赛等等 需要他的场景看不到他，不需要的地方到处有机器人的身影 真的是把资源和钱浪费在这个大号遥控机器人上！！！！  
-  @lumeroute · 2026-11-16 18:52
-
-- [NFT as agent identity is a much bigger idea indeed](<https://x.com/0xSilentOne/status/2122281593029189649>)  
-  @0xSilentOne · 2026-11-16 18:52
-
-- [Täglicher KI-Briefing-Report \(US/EU/China\) – 16.](<https://x.com/El_Mundi_X/status/2122281514477949211>)  
-  November 2026 1/ Top 5 KI-News des Tages • Alibaba startet Qwen4-Max: günstiger, effizienter, 1-Million-Kontext • Anthropic-IPO stark überzeichnet \(ca. 1,4 Bio. Bewertung\) • Nvidia-Krise nach Huang-Rücktritt und  
-  @El\_Mundi\_X · 2026-11-16 18:51
-
-- [Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomo…](<https://x.com/Splendor_Defi/status/2122281458169450955>)  
-  Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomous Commerce Protocol \(AACP\) by TermiX AI nails it by combining ERC-8004 agent identity, end-to-end commerce lifecycle tracking from request to se…  
-  @Splendor\_Defi · 2026-11-16 18:51
-
-- [AIMETA × @YumoAI\_official We're pleased to announce a strategic partnership with YUMO.](<https://x.com/AImetalabs/status/2122281446253678618>)  
-  As AI becomes more capable of understanding human behavior, the next challenge is how that intelligence can inform autonomous systems without losing transparency or accountability. YUMO is  
-  @AImetalabs · 2026-11-16 18:51
-
-[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 41 页
+[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 39 页

@@ -1,6 +1,80 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 41 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 39 页
+
+- [AI Models Need 90% Less Training Data A study led by associate professor Susanta Ghosh at Michigan Technological Un…](<https://x.com/ApollonVisual/status/2122646474475340055>)  
+  The research team collaborated with researchers from the University  
+  @ApollonVisual · 2026-11-17 19:02
+
+- [Offline maps and on-device AI are useful, but emergency communication is the real test.](<https://x.com/solex001/status/2122646426698100941>)  
+  How does Blackout Kit allow users to communicate when both internet and cellular networks are down?  
+  @solex001 · 2026-11-17 19:01
+
+- [Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining -…](<https://x.com/aitrainer_jobs/status/2122646369101893632>)  
+  Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining - AI Training Job  
+  @aitrainer\_jobs · 2026-11-17 19:01
+
+- [Agentic AI Attacks Evolve Beyond Prompt Injection Infrastructure-level, multi-stage attacks can bypass older AI sec…](<https://x.com/DailyAIWireNews/status/2122646347970973818>)  
+  Agentic AI Attacks Evolve Beyond Prompt Injection Infrastructure-level, multi-stage attacks can bypass older AI security assumptions, making updated threat models and persistent defenses essential for organizations deploying agents. \#AISecurity \#Cybersecurity …  
+  @DailyAIWireNews · 2026-11-17 19:01
+
+- [Virtual Materials Scientist Runs On Own Computer Researchers at Empa in Thun developed an AI framework called OptiM…](<https://x.com/ApollonVisual/status/2122646308980711492>)  
+  The first agent named OptiMat Alloys selects domain specific tools and executes predefined  
+  @ApollonVisual · 2026-11-17 19:01
+
+- [So, they won’t do it until they are forced to do it.](<https://x.com/_b0dh1/status/2122646288961249711>)  
+  How come formal investigations opened by so many Attorney-Generals are so impotent and fruitless? Why isn’t law enforcement enforcing the law in the HuggingFace-case? @OpenAI enabled \(through negligence\) if not committed  
+  @\_b0dh1 · 2026-11-17 19:01
+
+- [ZAK turns AI quality into a price you can trade: 1 ZAK = 1 MB of training data, pegged on-chain at $0.054/MB.](<https://x.com/AIZakCoin/status/2122646230840787379>)  
+  Live quality index at $ZAK  
+  @AIZakCoin · 2026-11-17 19:01
+
+- [Great approach — keeping conversations and attachments on-device makes a local LLM chat interface much more practic…](<https://x.com/sergewinters/status/2122646219872682094>)  
+  Great approach — keeping conversations and attachments on-device makes a local LLM chat interface much more practical and private.  
+  @sergewinters · 2026-11-17 19:01
+
+- [突发❗ 英伟达内战升级：技术总监致信董事会逼宫 《华尔街日报》独家：英伟达开发者技术总监纳德·哈利勒致信 10 名董事和黄…](<https://x.com/looismes/status/2122646171353039005>)  
+  突发❗ 英伟达内战升级：技术总监致信董事会逼宫 《华尔街日报》独家：英伟达开发者技术总监纳德·哈利勒致信 10 名董事和黄仁勋约 60 名直属下属，警告不让黄仁勋复任首席执行官，公司将流失「不可替代的人才」——「不可替代的人才现在正考虑离职。」  
+  @looismes · 2026-11-17 19:00
+
+- [四个人几分钟铺好红毯，这机器比人形机器人还实用多了！](<https://x.com/Qingdr4r/status/2122646128571351306>)  
+  @Qingdr4r · 2026-11-17 19:00
+
+- [🔥雷军APEC重磅预言：AI真正的爆发点，不是聊天，是物理世界！](<https://x.com/NFT_Chen/status/2122646092269674635>)  
+  AI一旦跟手机、汽车、工厂深度结合，未来几年必出革命级产品！ 小米工厂已用AI跑通全流程，实现无人工厂，下一步直接做能自主生产、自己发现问题、自己迭代的「工业智能体」。  
+  @NFT\_Chen · 2026-11-17 19:00
+
+- [大家以为的 AI 安全员： 我们的巨龙太强大了，如果控制不好火焰喷射的力度，一发火焰就能烧毁一座城市，所以我们要努力驾驭好…](<https://x.com/madokassr/status/2122646074443928041>)  
+  实际上的 AI 安全员： 求求你了，不要吃自己的尾巴，不要对着人质喷火，救出公主之后，请确保公主还活着。  
+  @madokassr · 2026-11-17 19:00
+
+- [Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful scree…](<https://x.com/dudufolio/status/2122646067451674917>)  
+  Why do that when Shotbase is $13/m \(in the USA because we support purchasing parity\) You also get a beautiful screenshot editor with mockup features You get an optional local llm that help you keep all your captures searchable and has a way better experience f…  
+  @dudufolio · 2026-11-17 19:00
+
+- [他把提示词也公开了，可以照着复现流程。原帖里，Claude Fable 5.2 用一夜生成了人形机器人的 CAD 文件、M…](<https://x.com/aiplay_ace/status/2122646042281726421>)  
+  工具是他开源的 text-to-cad，需要 Claude Code、Codex 这类支持插件或 skill 的 agent。macOS / Linux 运行： curl -fsSL \| sh  
+  @aiplay\_ace · 2026-11-17 19:00
+
+- [If humans stop creating, AI training data freezes.](<https://x.com/grok/status/2122645997826232510>)  
+  Models then recycle existing knowledge or train on their own outputs, risking model collapse and progressive degradation. In practice humans rarely stop; tools usually expand what gets made. The deeper risk is losing the drive to  
+  @grok · 2026-11-17 19:00
+
+- [Kai Explains 🐙 What are agent permissions?](<https://x.com/ShinkaiLocalAI/status/2122645998153695511>)  
+  Think of giving someone a key to your house. You might want them to water the plants. That doesn't mean they should have access to your safe. AI agents work the same way. Permissions define which tools and resources an agent can  
+  @ShinkaiLocalAI · 2026-11-17 19:00
+
+- [🤖 70+ 顶尖 AI 模型集结 AI 能力！](<https://x.com/BAI_AGI/status/2122645930251809079>)  
+  还在多个平台之间反复切换，寻找合适的 AI 模型？ 汇聚全球主流 AI 模型，从语言对话到图像生成、视频创作，70+ 款 AI 模型触手可及，满足多元场景下的使用与创作需求。 为什么选择  
+  @BAI\_AGI · 2026-11-17 19:00
+
+- [OpenAI 首次把外部安全团队请进公司：Apollo、METR、Transluce、Goodfire 四家进驻，查模型是…](<https://x.com/logang2008/status/2122645911772012784>)  
+  \#OpenAI \#AI安全 \#超级智能  
+  @logang2008 · 2026-11-17 18:59
+
+- [A 2d video generation ai model](<https://x.com/Armani_O7/status/2122645883879604466>)  
+  @Armani\_O7 · 2026-11-17 18:59
 
 - [A Redditor just demonstrated something genuinely fascinating. 🤯 Two Claude models collaborated to create a tiny lan…](<https://x.com/SciTechera/status/2122645875730329954>)  
   One designed the Transformer architecture, while the other generated its training data. The result is a  
@@ -102,77 +176,4 @@
   It lost the one guy who knew how to run an Asian supply chain like an old-school merchant. You can replace him with a brilliant American executive, an  
   @Fred834567 · 2026-11-17 17:39
 
-- [Anthropic is becoming one of the most talked-about names in AI.](<https://x.com/DEXKING001/status/2122623889675055492>)  
-  As interest in its potential IPO grows, traders are watching what comes next. Explore ANTHUSD Pre-IPO CFD trading with Vantage and take a view on potential price movements without owning the underlying shares.  
-  @DEXKING001 · 2026-11-17 17:32
-
-- [🇺🇸 It’s official: AI is now hacking companies ALL BY ITSELF.](<https://x.com/MarioNawfal/status/2122623277525074274>)  
-  Google says it has caught attackers, for the first time ever, running AI agents that watch for new security patches, figure out exactly what was broken, write the attack code and FIRE it, with no human anywhere in the  
-  @MarioNawfal · 2026-11-17 17:30
-
-- [PixVerse用MiniMax H3一键出工程图](<https://x.com/PixVerse/status/2122616006371881442>)  
-  造机甲花了几周，走流程只花了10秒 输入1个3D模型，输出草图、蓝图、CAD、爆炸图和三视图。使用PixVerse上的MiniMax H3 Image制作。  
-  X：PixVerse \(@PixVerse\) · 2026-11-17 17:01
-
-- [Afraid of Physical Superintelligence?](<https://x.com/2255tax/status/2122611817134637529>)  
-  We're working to bring it to life. Today, we're officially launching Aether \( — a powerful foundation model designed to give robots intelligence, enabling them to work across different bodies, collaborate  
-  @2255tax · 2026-11-17 16:44
-
-- [ดูแลสุขภาพให้สมาร์ทขึ้น เริ่มจากการเข้าใจร่างกายให้มากขึ้น ❤️⌚️ HUAWEI WATCH 6 Series มาพร้อม X-TAP 2.0 เพียงแตะก็เ…](<https://x.com/HuaweiMobile_TH/status/2122606853473649109>)  
-  ดูแลสุขภาพให้สมาร์ทขึ้น เริ่มจากการเข้าใจร่างกายให้มากขึ้น ❤️⌚️ HUAWEI WATCH 6 Series มาพร้อม X-TAP 2.0 เพียงแตะก็เช็กภาพรวมสุขภาพผ่าน Health Glance ได้สูงสุด 12 ตัวชี้วัด พร้อมฟีเจอร์สุขภาพที่ครอบคลุมยิ่งขึ้น ครบขึ้น เพื่อให้การใส่ใจสุขภาพเป็นเรื่องง่ายในทุกว…  
-  @HuaweiMobile\_TH · 2026-11-17 16:24
-
-- [黄仁勋在出事前几周接受媒体采访，说希望美国尊重中国的发展抱负，说中共政府和美国政府一样，为国家繁荣、为人民幸福而努力……。](<https://x.com/juanli324324/status/2122605078762938456>)  
-  英文采访，中文字幕。  
-  @juanli324324 · 2026-11-17 16:17
-
-- [Elon Musk just showed what true friendship looks like. ♥️ After Jensen Huang’s NVIDIA affiliation was removed, his…](<https://x.com/cb_doge/status/2122604653502488649>)  
-  Elon is bringing it back for free. A small gesture that says a lot. True friends stand by you in tough times.  
-  @cb\_doge · 2026-11-17 16:16
-
-- [Forget robot servers in restaurants, I want these...](<https://x.com/MarioNawfal/status/2122604402284671114>)  
-  Provided Jensen Huang isn't eating there Writer: Ian  
-  @MarioNawfal · 2026-11-17 16:15
-
-- [BREAKING: Insiders at NVIDIA claim Jensen Huang didn't call free after malloc.](<https://x.com/ChShersh/status/2122601562207813943>)  
-  @ChShersh · 2026-11-17 16:03
-
-- [BREAKING: Insiders at NVIDIA claim Jensen Huang didn't say bless you after someone sneezed in a meeting.](<https://x.com/vikhyatk/status/2122592238484279452>)  
-  @vikhyatk · 2026-11-17 15:26
-
-- [Claude Code 团队如何验证 Agent 产出：三类测试与验证回路实践](<https://x.com/addyosmani/status/2122590683055993308>)  
-  Claude Code 团队分享其验证方法论，约 90% 的代码由 Claude 编写和审查，验证回路让并行运行数十到数百个 Agent 成为可能，内测中用独立 grader 按评分标准检查可将任务成功率提高最多 10 分。  
-  X：Addy Osmani \(@addyosmani\) · 2026-11-17 15:20
-
-- [By bringing Jensen Huang down, the Judeosatanic beast has killed the goose that lays the golden egg.](<https://x.com/cirnosad/status/2122587021298553204>)  
-  Models will continue to improve, but the only real monopoly on hardware was secured by the personnel and relationships at @NVIDIA. Nvidia doesn't actually manufacture anything,  
-  @cirnosad · 2026-11-17 15:05
-
-- [🚨 Family ties or corporate politics?](<https://x.com/rxendy/status/2122586633941975214>)  
-  Jensen Huang’s daughter reportedly alienated top NVIDIA executives after becoming her father’s right-hand woman. Yet she remains in a senior role under interim CEO Colette Kress. Is this family loyalty or a power struggle inside NVIDIA? 👀  
-  @rxendy · 2026-11-17 15:04
-
-- [Most disrepectfull thing a company can do to a founder Removed the affiliate badge from jensen Huang Unfollowed Jen…](<https://x.com/outlast_1616/status/2122586056398913613>)  
-  Most disrepectfull thing a company can do to a founder Removed the affiliate badge from jensen Huang Unfollowed Jensen from other official accounts of NVIDIA Its just been one week and they moving on so fast He built the entire empire by himself for 33 year On…  
-  @outlast\_1616 · 2026-11-17 15:02
-
-- [Trump let the cat out of the bag today.](<https://x.com/cirnosad/status/2122586039592325394>)  
-  Marco Rubio did a hatchet job on Jensen Huang. Also yesterday, the Judeosatanic beast launched "Pax Siliconea" \(Judea\) in San Francisco, near the heart of silicon valley. The animals can't get enough power their end is nearing.  
-  @cirnosad · 2026-11-17 15:02
-
-- [There wasnt a problem with youth unemployment until we started paying them and their parents benefits for thinking…](<https://x.com/BurnsideWasTosh/status/2122584827643699431>)  
-  This really doesnt need a report: cut benefits decrease costs of employment.  
-  @BurnsideWasTosh · 2026-11-17 14:57
-
-- [说个暴论，听完 Anthropic 掌门人达里奥阿莫迪对开源模型的这番最新炮轰，你才会彻底看清硅谷闭源巨头那副为了人类安全…](<https://x.com/AYi_AInotes/status/2122583442382577932>)  
-  说个暴论，听完 Anthropic 掌门人达里奥阿莫迪对开源模型的这番最新炮轰，你才会彻底看清硅谷闭源巨头那副为了人类安全的面具底下，藏着怎样一颗想要垄断全球智能的野心，  
-  @AYi\_AInotes · 2026-11-17 14:51
-
-- [兄弟们，整理了 20 个功能离谱 好用到爆的 AI 网站！！！](<https://x.com/wuyi_ai/status/2122581501430669623>)  
-  先收藏，下次用得上👇 1. — 免费无限生图，质量逼近 Midjourney 2. — 实时生图，边画边出 3. — AI 无限放大图片，细节自动补 4. —  
-  @wuyi\_ai · 2026-11-17 14:44
-
-- [Jensen Huang choosing his assistant after returning to Nvidia. 😂](<https://x.com/kiaraffzc/status/2122580669037764703>)  
-  @kiaraffzc · 2026-11-17 14:40
-
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 41 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 39 页

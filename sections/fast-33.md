@@ -1,6 +1,80 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 41 页
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 39 页
+
+- [Apparently, Nvidia's board doesn't want to hear about bringing Jensen Huang back.](<https://x.com/brivael/status/2122401071268290830>)  
+  According to CNBC and the FT, it's focused on its investigation and is already picking the search firm that will find his successor. Despite 180,000+ signatures. Despite Musk, Gerstner, Baker.  
+  @brivael · 2026-11-17 02:47
+
+- [前中情局情报官约翰·基里亚库和前俄罗斯色情间谍阿莉娅·罗莎，刚在播客《CEO 日记》里把黄仁勋这起桃色情报案从头拆了一遍。](<https://x.com/mubeitech/status/2122400152677720128>)  
+  阿莉娅·罗莎，她 18 岁被高级军官父亲送进俄罗斯秘密部门，从全校 350  
+  @mubeitech · 2026-11-17 02:43
+
+- [Microsoft goes down.](<https://x.com/daviddunn177/status/2122399989473427953>)  
+  The FAA grounds the most planes nationwide since 9/11. Chase, Bank of America and Wells Fargo now have outages as customers have been locked out of their accounts. This is not a coincidence. We are under attack.  
+  @daviddunn177 · 2026-11-17 02:42
+
+- [🚨 Outage reports are spiking on Downdetector for Chase, Bank of America, Zelle, Wells Fargo, U.S.](<https://x.com/DarkWebInformer/status/2122399873177960584>)  
+  Bank, JPMorgan and Truist. Microsoft services, Gmail and Optimum are also seeing increased reports.  
+  @DarkWebInformer · 2026-11-17 02:42
+
+- [WASHINGTON SUN: Marco Rubio repeatedly declined meeting requests from Nvidia CEO Jensen Huang before Huang’s recent…](<https://x.com/KalshiPolitics/status/2122399653648019835>)  
+  WASHINGTON SUN: Marco Rubio repeatedly declined meeting requests from Nvidia CEO Jensen Huang before Huang’s recent scandal  
+  @KalshiPolitics · 2026-11-17 02:41
+
+- [Em muito poucos meses, a diferença entre chips chineses e americanos vai sumir completamente.](<https://x.com/caiocgomes/status/2122399154471424358>)  
+  Além disso, como a maior parte do mundo o Brasil ja era do grupo que não podia receber os high-ends da Nvidia há mais de ano. Pro consumidor isso não muda nada.  
+  @caiocgomes · 2026-11-17 02:39
+
+- [🇺🇸🇧🇷 TRUMP COLOCA O BRASIL NA LISTA NEGRA DA NVIDIA A guerra tecnológica entre Estados Unidos e China acaba de cheg…](<https://x.com/pharaujo/status/2122399027207573929>)  
+  🇺🇸🇧🇷 TRUMP COLOCA O BRASIL NA LISTA NEGRA DA NVIDIA A guerra tecnológica entre Estados Unidos e China acaba de chegar diretamente ao Brasil — e agora pode atingir não apenas a diplomacia, mas data centers, empresas de IA e o próprio setor produtivo brasileiro.  
+  @pharaujo · 2026-11-17 02:38
+
+- [🚨 UPDATE: Outage reports for American banks CONTINUE to surge, now including Chase, Bank of America, US Bank, Wells…](<https://x.com/nicksortor/status/2122398967292199282>)  
+  What's the excuse this time?  
+  @nicksortor · 2026-11-17 02:38
+
+- [Bethany McLean, the journalist who broke open the Enron story, says Nvidia’s scandal could end up worse than all of…](<https://x.com/unusual_whales/status/2122398545768571127>)  
+  Bethany McLean, the journalist who broke open the Enron story, says Nvidia’s scandal could end up worse than all of them. “Nvidia isn’t a scandal in the way these companies were,” she wrote in the FT. “And yet the scandal could turn out to be both bigger and u…  
+  @unusual\_whales · 2026-11-17 02:37
+
+- [MAJOR DEVELOPMENT MICROSOFT, OUTLOOK EMAIL AND SEVERAL U.S.](<https://x.com/WW3_Monitor/status/2122398020797182104>)  
+  BANKS ARE REPORTING ISSUES 🇺🇸🇺🇸‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️  
+  @WW3\_Monitor · 2026-11-17 02:34
+
+- [CMU 论文发现规划 Agent 展示具体选项比询问偏好更易命中用户可接受方案](<https://x.com/rohanpaul_ai/status/2122397460949762320>)  
+  Rohan Paul 转述 Carnegie Mellon 论文，称规划类 AI 助手先向用户展示少量真实选项，比直接询问偏好更容易找到用户会接受的方案。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 02:32
+
+- [JUST IN: Nvidia crashes following reports that Jensen Huang will not be reinstated as CEO](<https://x.com/Kalshi/status/2122396169506521103>)  
+  @Kalshi · 2026-11-17 02:27
+
+- [First Microsoft 365 goes down.](<https://x.com/amelia_tweetz/status/2122395372236808342>)  
+  Then the FAA grounds flights nationwide. Now thousands of Chase Bank customers are reporting problems accessing their own money. All within a matter of days. Seriously, what the hell is going on? At what point do we stop calling these isolated  
+  @amelia\_tweetz · 2026-11-17 02:24
+
+- [It’s not just Microsoft Katie, this is at almost ALL tech and Fortune 500 companies, Indian Visa fraud pipelines ha…](<https://x.com/RedPillRabbit/status/2122394191724429421>)  
+  Thanks for sharing\!  
+  @RedPillRabbit · 2026-11-17 02:19
+
+- [We're teaming up to accelerate open-source Al.](<https://x.com/huggingface/status/2122393775314264519>)  
+  OpenRouter is now integrated into Hugging Face directly. Same token, same endpoint, plus live model stats on the Hub and an inference widget we redesigned together. The best of open, in one place.  
+  @huggingface · 2026-11-17 02:18
+
+- [Bro...](<https://x.com/ByzGeneral/status/2122393673417863454>)  
+  The Nvidia board is genuinely insane, or compromised. One of the two.  
+  @ByzGeneral · 2026-11-17 02:17
+
+- [HAPPENING NOW: Multiple Bank and Microsoft users report outages.](<https://x.com/NewsBlast17/status/2122393534984761683>)  
+  @NewsBlast17 · 2026-11-17 02:17
+
+- [Looking for some great ideas for how to “persuade” the Nvidia board to bring Jensen back… Creative, wild ideas welc…](<https://x.com/travisk/status/2122393157988167857>)  
+  Looking for some great ideas for how to “persuade” the Nvidia board to bring Jensen back… Creative, wild ideas welcome… \#bringJensenBack  
+  @travisk · 2026-11-17 02:15
+
+- [Hugging Face 与 OpenRouter 打通开放模型生态](<https://x.com/ClementDelangue/status/2122392943957078032>)  
+  Hugging Face 与 OpenRouter 合作首部分上线，双方打通存储、协作与推理：用户可在 Hugging Face 上直接调用 OpenRouter 推理，也能从 OpenRouter 直接获取开放模型权重。OpenRouter 的智能体轨迹可存到 Hugging Face，用于检查…  
+  X：Clément Delangue（Hugging Face CEO） \(@ClementDelangue\) · 2026-11-17 02:14
 
 - [Depois do "milagre eleitoral do pilili pilili" O Brasil já é compreendido pelo ocidente como proxi oficial da China.](<https://x.com/BanhadoRatao/status/2122392722845962499>)  
   E junto dela ficamos de fora do acesso as tecnologias mais importantes do mundo. Os Chips da NVidia são o petróleo do século XXI, e para manter o PT e o Moraes  
@@ -101,77 +175,4 @@
   Data covers &amp;gt;10,000 companies with broad representation \(Digital Natives, Fortune 500, Global 2000, etc...\). Enterprise AI consumption is changing quite a bit:  
   @pwendell · 2026-11-17 01:15
 
-- [李飞飞宣布 World Labs 团队加入 AMD](<https://x.com/drfeifei/status/2122377911873491397>)  
-  李飞飞宣布将带领 World Labs 团队加入 AMD，开启新阶段，以推进科学、发展技术并产生积极影响。引用的 AMD 官方账号发文欢迎该团队加入，并提到 Lisa Su 造访旧金山一事。  
-  X：Fei-Fei Li \(@drfeifei, World Labs\) · 2026-11-17 01:15
-
-- [Jensen Huang on having a tolerance for failure.](<https://x.com/HeySumith/status/2122377903107367157>)  
-  @HeySumith · 2026-11-17 01:14
-
-- [OpenCode 发布 Browse 0.1.0，用 Rust 重写并直接向 Agent 暴露浏览器操作](<https://x.com/opencode/status/2122377687968678258>)  
-  OpenCode 发布 Browse 0.1.0，改用 Rust 重写。官方称内存占用减少 25 倍、体积缩小 23 倍，并移除了对 playwright 的依赖；浏览器操作现在直接暴露给 Agent 使用。  
-  X：opencode \(@opencode\) · 2026-11-17 01:14
-
-- [World Labs 宣布正式加入 AMD](<https://x.com/theworldlabs/status/2122377616439361640>)  
-  World Labs 官方宣布现已正式成为 AMD 的一部分。原文除这一收购消息外未提供更多细节，仅有邀约式欢迎语和一段视频。  
-  X：World Labs \(@theworldlabs\) · 2026-11-17 01:13
-
-- [OpenAI 将向全球最多 20 万科学家免费开放前沿模型](<https://x.com/OpenAI/status/2122377585523126615>)  
-  OpenAI 宣布将面向全球最多 200,000 名科学家免费开放前沿模型使用，并提供培训和支持，申请于 11 月 23 日开放。该项目为 ChatGPT for Academic Researchers 的扩展，此前计划从 10,000 名研究者起步并计划到 2027 年扩至 100,000 人…  
-  X：OpenAI \(@OpenAI\) · 2026-11-17 01:13
-
-- [🇧🇷 LULA DEJA A BRASIL SIN CHIPS PARA IA Estados unidos restringe el acceso de Brasil a los chips avanzados de IA de…](<https://x.com/GordoSuperavit/status/2122377275073314827>)  
-  🇧🇷 LULA DEJA A BRASIL SIN CHIPS PARA IA Estados unidos restringe el acceso de Brasil a los chips avanzados de IA de NVIDIA, para evitar que China acceda de forma indirecta a esta tecnología.  
-  @GordoSuperavit · 2026-11-17 01:12
-
-- [李飞飞确认 World Labs 正式并入 AMD 并邀人加入](<https://x.com/drfeifei/status/2122376424149721342>)  
-  李飞飞转发并确认 World Labs 正式成为 AMD 的一部分，邀请大家加入团队一起解决难题。她称团队充满好奇心、诚实、勇敢且友善，承诺这段工作旅程会非常刺激。  
-  X：Fei-Fei Li \(@drfeifei, World Labs\) · 2026-11-17 01:09
-
-- [腾讯混元 Hy4 flash 上线 OpenRouter，11 月 30 日前五折](<https://x.com/OpenRouter/status/2122376401064189978>)  
-  OpenRouter 宣布腾讯混元 Hy4 flash 上线，是更快、更便宜的 Hy4，保留 1M 上下文、图像输入和可选推理。至 11 月 30 日五折：$0.035/M 输入、$0.14/M 输出，适合 Agent、编码和高并发工作负载。  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-17 01:09
-
-- [这就是为什么要用 agent 解放自己，不要让自己成为一堆 sessions 里的苦行僧。](<https://x.com/wwwgoubuli/status/2122376297305510332>)  
-  @wwwgoubuli · 2026-11-17 01:08
-
-- [Bill Kristol: “There was no honeypot.](<https://x.com/OldManLefty1/status/2122376265986686978>)  
-  There was no entrapment of an unwitting innocent. There was collusion. Jensen Huang and Alice Huang worked together to get around export control. They worked with Lutnick and Trump, and that the word for it is conspiracy"  
-  @OldManLefty1 · 2026-11-17 01:08
-
-- [BREAKING: Nvidia unveils a quantum computing breakthrough that cuts a 12-week computing task to just 45 minutes.](<https://x.com/PolymarketMoney/status/2122375795503182208>)  
-  @PolymarketMoney · 2026-11-17 01:06
-
-- [Jensen Huang says the first AI supercomputer he ever built had exactly one customer on earth: Elon Musk.](<https://x.com/Business_Nerd_/status/2122375780730654960>)  
-  Back in 2016, he had just created a machine called the DGX1. It cost $300,000 dollars. He announced it on stage, and the room went completely silent since nobody  
-  @Business\_Nerd\_ · 2026-11-17 01:06
-
-- [Trump held millions in NVIDIA stock while deciding whether to let the company sell advanced AI chips to China.](<https://x.com/ChrisCoons/status/2122375618775953526>)  
-  He chose to keep that door open. Who is he looking out for: the American people or his own financial interests?  
-  @ChrisCoons · 2026-11-17 01:05
-
-- [李飞飞宣布 World Labs 加入 AMD 开启新篇章](<https://x.com/drfeifei/status/2122375532163866756>)  
-  李飞飞发帖确认 World Labs 正式加入 AMD，AMD 官方账号也发文欢迎该团队。她表示领导 World Labs 两年多是一生的荣幸，将继续与团队共事并与 AMD 同事开启新篇章，并称 AI 是一项文明级技术。  
-  X：Fei-Fei Li \(@drfeifei, World Labs\) · 2026-11-17 01:05
-
-- [OpenAI 发布免费检测工具，可识别包括 AI 生成图像在内的儿童性虐待材料](<https://x.com/OpenAINewsroom/status/2122375519853559954>)  
-  OpenAI 向通过审核的组织免费发布一款检测工具，用于识别儿童性虐待材料，包括 AI 生成的图像。该分类器在与 National Center for Missing &amp; Exploited Children 合作下开发，OpenAI 同时在 ChatGPT 中加入警告、发布开发者指南并支持儿童…  
-  X：OpenAI Newsroom \(@OpenAINewsroom\) · 2026-11-17 01:05
-
-- [🇺🇸 \| AHORA: El presidente Trump dice que apoyaría traer de vuelta a Jensen Huang como CEO de Nvidia, sugiriendo que…](<https://x.com/AlertaNews24/status/2122374928867758347>)  
-  🇺🇸 \| AHORA: El presidente Trump dice que apoyaría traer de vuelta a Jensen Huang como CEO de Nvidia, sugiriendo que Huang ha aprendido una lección importante.  
-  @AlertaNews24 · 2026-11-17 01:03
-
-- [This is the reality of the Jensen Huang situation: it's pure, unadulterated greed with absolutely no regard for Ame…](<https://x.com/maddenifico/status/2122373838130339848>)  
-  The tech bros sucking up to Huang just to protect their own Nvidia bags have completely lost their fucking minds. Trump, Howard Lutnick,  
-  @maddenifico · 2026-11-17 00:58
-
-- [Uh.](<https://x.com/jimstewartson/status/2122371899800142028>)  
-  Holy shit. The conspiracy to smuggle Nvidia chips to China had a full psyops campaign behind it. When “Diamond and Silk” are promoting your Chinese chip sales… This whole thing needs to be uncovered. Who paid this firm? Was it Nvidia? The government? They all …  
-  @jimstewartson · 2026-11-17 00:51
-
-- [Trump reported trades this year that suggest he held between $13 million and $62 million in Nvidia stock as of the…](<https://x.com/John_Hudson/status/2122371493317185982>)  
-  The figure is dramatically higher than the $615,000 to $1.3 million in Nvidia shares that Trump had at the end of 2024  
-  @John\_Hudson · 2026-11-17 00:49
-
-[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 41 页
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 39 页

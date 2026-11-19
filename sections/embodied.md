@@ -18,11 +18,27 @@
 
 - 削弱 · [Genie Sim 的 22 组配对测试中，仿真与真机得分高度一致](<https://arxiv.org/html/2611.15020v1>) · 局部反例。研究者用真机数据微调策略并对齐场景，在 22 组机器人和任务配对上测得评分相关系数 0.9686、平均绝对误差 0.0405。对这些已经校准的任务，仿真可以较好预测真机评分。该结果未检验向新材质、新设备或新生产线迁移。
 
-## 相关资讯 · 22 条
+## 相关资讯 · 27 条
 
-- [格罗方德扩大与波士顿动力合作：扩大 Spot 部署，2027 年初启动 Atlas 现场测试](<https://www.ithome.com/1/029/164.htm>)  
-  IT之家 11 月 19 日消息，Boston Dynamics（波士顿动力）与 GlobalFoundries（格罗方德，GF）双方当地时间本月 17 日宣布扩大合作范围， 将波士顿动力 Spot 机器人的部署范围扩展至格罗方德全球…  
-  IT之家 · 2026-11-19 09:18
+- [头部机构确实在撤，但具身智能的路还很宽](<https://36kr.com/p/4076355647525767?f=rss>)  
+  最近的市场情绪有点低迷，尤其是大热一波的具身智能赛道，一些人会觉得“要降温”“凉了”。我们从数据来看下到底怎么回事—— IT桔子数据显示，2026年2月，红杉中国参与了6笔具身智能融资；到10月，这个数字降至1笔。高瓴创投也慢了下来：4月参  
+  36氪 · 2026-11-19 17:23
+
+- [估值200亿机器人公司，发不出工资了](<https://36kr.com/p/4076334013994115?f=rss>)  
+  一家正在冲击30亿美元估值的人形机器人公司，连工资都发不出来了。 11月14日，CNBC披露，美国明星机器人公司Foundation Future Industries陷入资金危机，10月30日应发的工资迟迟没有到账。这已经是公司今年第二次  
+  36氪 · 2026-11-19 17:15
+
+- [星辰智算完成数百万战略融资，打造具身智能的“脑认知黑盒”](<https://36kr.com/p/4066495189849221?f=rss>)  
+  近日，合肥星辰智算人工智能科技有限公司（以下简称星辰智算SentiMind）完成数百万元战略融资（种子+轮），投资方为北京京师中教集团。资金重点投向AI认知能力在教育场景下的认知学习力评测，完善人类思考、记忆、决策的全过程下的脑力数据采集及  
+  36氪 · 2026-11-19 11:33
+
+- [原力无限完成数千万元Pre-B轮融资](<https://www.itjuzi.com/investevent/14708196>)  
+  原力无限（INFIFORCE）是一家聚焦具身大脑（AtomBrain）研发的具身智能高科技企业，致力于构建物理AI时代的新一代智能底座。公司围绕第一人称（Ego）原生数据、DataGrid 全栈AI Infra与隐式世界模型，打造能够…  
+  IT桔子 · 2026-11-19 10:24
+
+- [知行机器人获得柯力传感的战略投资](<https://www.itjuzi.com/investevent/14708195>)  
+  知行机器人是一家专注于灵巧手及具身智能机器人研发与生产的国家级高新技术企业。成功构建了三大核心智能生态技术：机械智能（自适应可重构技术）、感知智能（多信息融合技术）、驱控智能（AI控制技术）。近日，柯力传感完成对知行机器人的战略投资。…  
+  IT桔子 · 2026-11-19 10:23
 
 - [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
   MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  
@@ -32,16 +48,9 @@
   Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming f  
   TechCrunch · 2026-11-18 19:30
 
-- [柏川数据宣布完成5000万元Pre-A轮融资](<https://www.itjuzi.com/investevent/14708118>)  
-  柏川数据是一家物理AI数据基座服务商。最初主要提供自动驾驶数据服务，目前已服务近百家车企及智能驾驶厂商。2025年下半年，公司开始拓展具身智能数据业务。截至目前，柏川已服务智元、自变量、优必选、它石智航、星海图、优理奇等近20家具身智…  
-  IT桔子 · 2026-11-18 10:31
-
 - [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
   生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
   公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
-
-- [Genesis AI, a Robotics Startup, Raises $500 Million](<https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-17 22:00
 
 - [百度、小米 CEO 在 Apec 峰会警告 AI 热潮与商业回报差距扩大](<https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns>)  
   百度 CEO 李彦宏与小米 CEO 雷军在深圳 Apec CEO 峰会上警告，巨额 AI 投入正超过商业回报，当务之急是开发高价值应用，否则泡沫担忧可能成真。李彦宏以工业革命电力类比，称 AI 最大经济价值在应用层，并援引青岛港 AI 智能体优化集装箱装载的案例；雷军指出真正落地的场景有限，看好 AI 手机、汽车与人形机器人。  
@@ -67,10 +76,6 @@
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
 
-- [Runway 开源机器人模型 Praxis-1，速度比 GPT-6 Astra 机械臂快 15.6 倍](<https://www.ithome.com/1/026/104.htm>)  
-  Runway 于 11 月 11 日推出机器人模型 Praxis-1，将视频预训练知识用于真实机器人控制，模型以 Apache 2.0 许可证开放权重，权重和代码分别在 Hugging Face 和 GitHub 公开。  
-  IT之家·人工智能 · 2026-11-12 15:26
-
 - [Token卷到触觉了！机器人终于有了通用手感](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=1&sn=8fa8b6872870888a01b478c05b7bbaac>)  
   量子位 · 2026-11-10 13:24
 
@@ -86,6 +91,18 @@
 - [具身智能出海，物流先行](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940695&idx=2&sn=6c551886ee57dd136d7f99371d2c7fb0>)  
   量子位 · 2026-11-09 15:07
 
+- [优理奇机器人（UniX AI）完成5亿元Pre-A轮融资，推动具身智能规模化落地](<https://www.pedaily.cn/first/190983.shtml>)  
+  优理奇智能科技（苏州）有限公司完成5亿元Pre-A轮融资，老股东谢诺投资、涌铧投资超额追加投资，新进机构含绿地集团、柯力传感等。本轮融资将支持其深化具身智能研发与产品迭代，拓展物业、酒店等场景应用，推动产业化落地。（投资界讯） 原文链接  
+  投资界 · 2026-11-09 14:47
+
+- [刻行时空完成新一轮近亿元融资，向机器人部署态数据公司全面迈进](<https://www.pedaily.cn/first/190951.shtml>)  
+  上海刻行时空科技有限公司完成新一轮近亿元融资，本轮由咏归基金领投，天机TIANJI、常州智融等跟投，本轮资金将重点投入：为机器人提供多样性数据与能力评测的预部署环境高精度姿态追踪与多维度标注的数据理解专用模型加速机器人落地的“采集-训…  
+  投资界 · 2026-11-09 13:49
+
+- [原方智能完成数千万元天使轮融资，推进世界模型研发与家庭场景落地](<https://www.pedaily.cn/first/190928.shtml>)  
+  11月9日消息，原方（南京）智能科技有限公司近日完成数千万元天使轮融资，由金雨茂物领投，我乐家居、南京市创新投资集团跟投。公司专注具身智能世界模型研发，以家庭服务为核心场景，融资将用于核心技术攻关、产品开发及团队建设，加速技术落地应用…  
+  投资界 · 2026-11-09 11:17
+
 - [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
   We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
   Citrini Research · 2026-11-05 04:28
@@ -96,6 +113,10 @@
 - [20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F\*\*\*\*\* Today with Naveen Rao, Unconventional](<https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional>)  
   AGENDA: 05:00 Will we run out of energy? 19:00 Will specialised chips threaten NVIDIA's dominance? 26:00 Can we trust…  
   20VC · 2026-10-24 15:07
+
+- [154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](<https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281?utm_source=rss>)  
+  今天我们的嘉宾是一位美国连续创业者，Dyna Robotics创始人兼CEO Lindon Gao。此前，他做过两段生意，一次完整的创业。Dyna可以说是他的第四次创业了。 在硅谷，Dyna和之前来过我们节目的Pi（Physical…  
+  张小珺商业访谈录 · 2026-10-15 08:00
 
 - [Robotics Tipping Point: A Citrini Field Trip](<https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini>)  
   Under its new branding of “Physical AI” , is robotics evolving from Bay Area backwaters to a true technological renai…  

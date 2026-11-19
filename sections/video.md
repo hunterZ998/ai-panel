@@ -10,7 +10,7 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 18 条
+## 相关资讯 · 15 条
 
 - [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
   NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
@@ -31,10 +31,6 @@
 - [Meta 首席 AI 官 Alexandr Wang 发布 Sam Altman AI 换脸视频推广 Muse](<https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake>)  
   The Verge 报道，Meta 首席 AI 官 Alexandr Wang 近日在 Instagram 分支一段 AI 生成视频推广消费级 AI 智能体 Muse，画面中 Sam Altman 身穿吉祥物 Jolly 的毛绒连帽服参加四方视频通话。  
   The Verge：AI（RSS） · 2026-11-18 05:00
-
-- [Arcade](<https://www.producthunt.com/products/arcade>)  
-  AI video generator for marketing teams  
-  Product Hunt · English · 2026-11-18 02:17
 
 - [快手可灵上线新一代图像模型 Kling Image 4.0，首次支持原生 8K 与单图 2000 字](<https://www.ithome.com/1/028/563.htm>)  
   快手可灵 AI 于 11 月 17 日宣布图像创作模型 Kling Image 4.0 正式上线，并向企业客户与开发者开放 API 接入。  
@@ -71,14 +67,6 @@
 - [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
-
-- [字节火山引擎发布 Seedance 2.5 flash 视频模型：速度翻倍、价格降低约 34%](<https://www.ithome.com/1/026/069.htm>)  
-  字节火山引擎发布 Seedance 2.5 flash 视频模型，生成速度提升一倍，720P 文生视频、图生视频价格约 0.99 元/秒，较 Seedance 2.5 降低约 34%。  
-  IT之家·人工智能 · 2026-11-12 14:33
-
-- [火山引擎发布 Seedance 2.5 flash 视频生成模型，速度翻倍价格降低约34%](<https://mp.weixin.qq.com/s/lTZS2oV6BuORvK_Shgb-Ag>)  
-  火山引擎正式推出 Seedance 2.5 flash，生成速度较 Seedance 2.5 提升一倍，720P 下文生视频、图生视频价格约 0.99元/秒，降低约34%。  
-  公众号：火山引擎 · 2026-11-12 14:11
 
 - [视频生成不再反复抽卡！清华开源，给模型装上「三维空间大脑」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=3&sn=5112b6645bbbec5d670fb8d97636f63d>)  
   新智元 · 2026-11-09 12:56

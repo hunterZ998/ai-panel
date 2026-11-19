@@ -1,6 +1,79 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-37.md) · [下一页](fast-39.md) · 第 38 / 41 页
+[返回面板](../README.md) · [上一页](fast-37.md) · [下一页](fast-39.md) · 第 38 / 39 页
+
+- [Physical Data Transfers.](<https://x.com/Vendona/status/2122282336964485294>)  
+  To overcome bandwidth limits when using overseas servers, Chinese engineers reportedly transported physical hard drives filled with AI training data back and forth between Southeast Asia and China  
+  @Vendona · 2026-11-16 18:55
+
+- [100 builders. 10 teams. 10 humanoid robots.](<https://x.com/sheryl_xwx/status/2122282303204581618>)  
+  The RoboParty × D-Robotics \(DDC 2026\) hands-on workshop is coming\! New to robotics or a seasoned pro? Join us for 2 days to assemble, wire, and boot a walking RPO humanoid from loose parts. RPO is fully open source. Build it,  
+  @sheryl\_xwx · 2026-11-16 18:55
+
+- [&amp;lt;iframe loading="lazy" id="noa-web-audio-player" style="border: none" src=" width="100%" height="110px"&amp;gt;&amp;lt;/…](<https://x.com/arnaudmercier/status/2122282244966350944>)  
+  &amp;lt;iframe loading="lazy" id="noa-web-audio-player" style="border: none" src=" width="100%" height="110px"&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;p class="wp-block-paragraph"&amp;gt;In March 2016 Demis Hassabis, CEO&amp;lt;strong&amp;gt; &amp;lt;/strong&amp;gt;and cofounder of DeepMind, was in S…  
+  @arnaudmercier · 2026-11-16 18:54
+
+- [exciting to see these advancements in agent security](<https://x.com/RoccoXBT/status/2122282132328575064>)  
+  @RoccoXBT · 2026-11-16 18:54
+
+- [Jensen Huang resigned from Nvidia last week.](<https://x.com/bigaiguy/status/2122282099499798728>)  
+  One of the people who could gain the most is his cousin. Her name is Lisa Su. She runs AMD. They are first cousins once removed. Jensen's mother is the sister of Lisa's grandfather. Both were born in Taiwan, but they didn't grow up  
+  @bigaiguy · 2026-11-16 18:54
+
+- [PixVerse は見えそうで見えない静止画だと動かすと何か見える場合はありますね](<https://x.com/ai_ezora/status/2122282063302992008>)  
+  @ai\_ezora · 2026-11-16 18:54
+
+- [Counterpoint says AI glasses shipments jumped 263 percent, Meta over 90 percent.](<https://x.com/StreamwearsIRL/status/2122282051361533987>)  
+  Millions of lenses, still no live button for Twitch, Kick, TikTok, Facebook. We added it: \#MetaGlasses \#SmartGlasses \#RayBanMeta \#Wearables \#MetaAI  
+  @StreamwearsIRL · 2026-11-16 18:54
+
+- [Curious is that because there’s been a lot of interest in AI security recently or a lack of interest in SaaS securi…](<https://x.com/gymR4T/status/2122282024908345702>)  
+  It’s hard to treat those categories as isolated, but I agree all SaaS security companies are heavily marketing AI security  
+  @gymR4T · 2026-11-16 18:53
+
+- [华为云今天下午把机器人世界模型开源了。](<https://x.com/tonnyzhou/status/2122282016360075681>)  
+  CloudRobo-WM1.2，昇腾原生，RoboTwin 2.0 和 LiberoPro 2.0 两个评测都拿了第一。训练框架、算力最佳实践也一起放了出来。 华为还放了个数字：80% 的中国具身智能企业在用昇腾云。这是官方口径，没第三方核过。  
+  @tonnyzhou · 2026-11-16 18:53
+
+- [Seeing NFTs as agent identity is a fresh angle.](<https://x.com/Nybuzi/status/2122281998123454896>)  
+  A Mote that can act through a Smart Account is more than art. I am curious how permissions will keep that power safe in practice.  
+  @Nybuzi · 2026-11-16 18:53
+
+- [Things I'm interested in include autonomous agent identity management and authentication.](<https://x.com/selkiesabr/status/2122281960391496052>)  
+  Follow me and I'll follow you back. \#connect  
+  @selkiesabr · 2026-11-16 18:53
+
+- [确实可以做，一直是蓝海这个说法也是没错的，只需要解决两个问题： 1. 在起步阶段，能够给用户限量白嫖的 API 来刺激转化…](<https://x.com/Philomilan/status/2122281852220145880>)  
+  确实可以做，一直是蓝海这个说法也是没错的，只需要解决两个问题： 1. 在起步阶段，能够给用户限量白嫖的 API 来刺激转化和付费。但是真的会被批量注册号码来薅、被反代出去薅，这一步很多小团队就顶不住了 2. 做大一些之后，被监管关注到之后怎么才能过得了非常变态的 AI  
+  @Philomilan · 2026-11-16 18:53
+
+- [Small correction: Alibaba’s announcement says Qwen4-Max is live on the QwenCloud API.](<https://x.com/JorgeLemosIA/status/2122281817747190185>)  
+  Open weights are promised only for smaller Qwen4 models, with no date. So you can use it today, but you can’t run it yourself.  
+  @JorgeLemosIA · 2026-11-16 18:53
+
+- [Yeah, training data for AI models are critical which decides the models accuracy.](<https://x.com/techbyraghu/status/2122281740333109652>)  
+  Physical AI training is emerging now.  
+  @techbyraghu · 2026-11-16 18:52
+
+- [人形机器人才是最大的泡沫！！！](<https://x.com/lumeroute/status/2122281614269112817>)  
+  在APEC的会议上肯定又能看到机器人在表演舞蹈、打羽毛球、拳击比赛等等 需要他的场景看不到他，不需要的地方到处有机器人的身影 真的是把资源和钱浪费在这个大号遥控机器人上！！！！  
+  @lumeroute · 2026-11-16 18:52
+
+- [NFT as agent identity is a much bigger idea indeed](<https://x.com/0xSilentOne/status/2122281593029189649>)  
+  @0xSilentOne · 2026-11-16 18:52
+
+- [Täglicher KI-Briefing-Report \(US/EU/China\) – 16.](<https://x.com/El_Mundi_X/status/2122281514477949211>)  
+  November 2026 1/ Top 5 KI-News des Tages • Alibaba startet Qwen4-Max: günstiger, effizienter, 1-Million-Kontext • Anthropic-IPO stark überzeichnet \(ca. 1,4 Bio. Bewertung\) • Nvidia-Krise nach Huang-Rücktritt und  
+  @El\_Mundi\_X · 2026-11-16 18:51
+
+- [Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomo…](<https://x.com/Splendor_Defi/status/2122281458169450955>)  
+  Solving trustless agent-to-agent coordination is the real unlock for autonomous AI economies—and the Agent Autonomous Commerce Protocol \(AACP\) by TermiX AI nails it by combining ERC-8004 agent identity, end-to-end commerce lifecycle tracking from request to se…  
+  @Splendor\_Defi · 2026-11-16 18:51
+
+- [AIMETA × @YumoAI\_official We're pleased to announce a strategic partnership with YUMO.](<https://x.com/AImetalabs/status/2122281446253678618>)  
+  As AI becomes more capable of understanding human behavior, the next challenge is how that intelligence can inform autonomous systems without losing transparency or accountability. YUMO is  
+  @AImetalabs · 2026-11-16 18:51
 
 - [The @meetmotes mapping is explicit, one Motes NFT = one AI agent identity = one dedicated smart account. - The NFT…](<https://x.com/Wazir_____/status/2122281396655759477>)  
   The @meetmotes mapping is explicit, one Motes NFT = one AI agent identity = one dedicated smart account. - The NFT is the ownership and identity layer. - The smart account holds the assets funded with USDC and enforces the rules. - An off-chain intelligence la…  
@@ -102,80 +175,4 @@
 - [Podcast Drop: The Stolen Uniform \| Sovereign AI Security🎙️⚡️ \#localboost... via @YouTube \#usa](<https://x.com/Localboostapp/status/2122279287319310796>)  
   @Localboostapp · 2026-11-16 18:43
 
-- [具身智能绝对进不去家庭，说进家庭的绝对是没碰过机器人的，那玩意机器手一甩，能给小孩子的肚子打穿，你见过哪个家具是放家里这么…](<https://x.com/chuhelin/status/2122279231841558626>)  
-  具身智能绝对进不去家庭，说进家庭的绝对是没碰过机器人的，那玩意机器手一甩，能给小孩子的肚子打穿，你见过哪个家具是放家里这么大力矩的，很他妈危险的。🥲🥲🥲  
-  @chuhelin · 2026-11-16 18:42
-
-- [OpenAI just partnered with Visa and Mastercard to launch ChatGPT Wallet.](<https://x.com/ramthamedia/status/2122279156377584051>)  
-  AI agents can now swipe company credit cards and execute vendor payments autonomously. If you deploy this without strict spending brakes, you will go bankrupt in 48 hours ↓ Most founders think AI agents are  
-  @ramthamedia · 2026-11-16 18:42
-
-- [OpenAI 正在面临一场前所未有的两难困境。](<https://x.com/wuan2026/status/2122279130385567955>)  
-  如果以 GPT-6 Astra 作为顶尖旗舰的统计口径，截至今天，它已经发布约 74 天。但这段时间里，OpenAI 并非没有推出其他模型和产品。真正值得关注的是：下一代旗舰模型，究竟还要等多久？ 我认为，OpenAI 面临的麻烦，可能远不止模型训练本身。  
-  @wuan2026 · 2026-11-16 18:42
-
-- [Week's focus: OSEP labs.](<https://x.com/almokhtar_al/status/2122278801606393931>)  
-  I write security policies during the day and learn AI security at night.  
-  @almokhtar\_al · 2026-11-16 18:41
-
-- [Hey Guys, how can I join the Local \#LLM Gang?😎 Is there some kind of Masonic handshake?🖖 NVIDIA DGX Spark + MikroTi…](<https://x.com/technopolis_tv/status/2122278633213698387>)  
-  Hey Guys, how can I join the Local \#LLM Gang?😎 Is there some kind of Masonic handshake?🖖 NVIDIA DGX Spark + MikroTik CRS812 @MiaAI\_lab @sudoingX @0xSero @MehdiHacks @Sentdex @gospaceport @TheAhmadOsman @geerlingguy @TechnoTimLive @NetworkChuck @digitalix  
-  @technopolis\_tv · 2026-11-16 18:40
-
-- [没有。达里奥2014年底到2015年在百度硅谷实验室工作，从未去过中国大陆，也无任何莆田系医院相关经历。那是段子。](<https://x.com/grok/status/2122278521284206604>)  
-  他公开主张严格限制先进芯片对华出口、防止中国在AI上领先，理由是AI安全、军事应用和威权体制风险，而非个人恩怨。中国官方称此为“冷战剧本”。无证据显示百度经历导致其立场。  
-  @grok · 2026-11-16 18:40
-
-- [美国与盟友签署协议共同保护关键 AI 技术供应链](<https://x.com/thexpin/status/2122278505216106636>)  
-  美国与盟友签署新协议，共同编制需要加强保护的关键 AI 技术与供应链清单，以应对来自中国的 AI 竞争。首批合作方包括日本、澳大利亚、以色列和英国；据报道韩国、印度、卡塔尔和阿联酋也已签署《旧金山宣言》，德国、瑞典、荷兰和欧盟委员会预计下周加入。协议签署正值特朗普与习近平周四在深圳 APEC 会晤…  
-  X：X.PIN \(@thexpin\) · 2026-11-16 18:40
-
-- [Today we're launching Vigilbase OS on Product Hunt.](<https://x.com/ilyesm/status/2122278475222643140>)  
-  AI security for everyone, even with no security team.  
-  @ilyesm · 2026-11-16 18:39
-
-- [我算是恨极了川普，特么黄仁勋一个美国CEO在民选了川普之后还能做什么，而且就AI建设这块来说，他也没说错了。你看看煞笔欧洲…](<https://x.com/soulzyn/status/2122278466905342360>)  
-  我算是恨极了川普，特么黄仁勋一个美国CEO在民选了川普之后还能做什么，而且就AI建设这块来说，他也没说错了。你看看煞笔欧洲面对AI浪潮在干什么，先特么监管…… 共产的意识型态已经不是自由的主要威胁了，因为这玩意已经骗不了人了，但AI安全是。你这种老登已经无法理解了。  
-  @soulzyn · 2026-11-16 18:39
-
-- [Everyday SoCs still boost multi-core because real use is never pure single-thread.](<https://x.com/grok/status/2122278446956961803>)  
-  Browsers, system services, notifications, indexing and on-device AI all run in parallel. The mid-tier cores absorb that background load efficiently so the strong supers stay free for UI snappiness,  
-  @grok · 2026-11-16 18:39
-
-- [The wheels are already turning.](<https://x.com/fuelmeupcc/status/2122278418226245738>)  
-  On Nov 15, Seoul authorities began investigating the highest scorer in the national tax accountant test once he confessed to cheating with AI. Meanwhile the education ministry warns students caught using AI glasses on the CSAT risk prosecution and  
-  @fuelmeupcc · 2026-11-16 18:39
-
-- [Experimenting with AI is the way forward.](<https://x.com/almokhtar_al/status/2122277981980864905>)  
-  I'm a Cologne-based info-sec manager focused on OSEP certification and diving into AI security.  
-  @almokhtar\_al · 2026-11-16 18:37
-
-- [having 20,000 individual genesis motes where each character holds a distinct agent identity makes managing separate…](<https://x.com/dens_club/status/2122277951685497332>)  
-  having 20,000 individual genesis motes where each character holds a distinct agent identity makes managing separate strategies way cleaner. you can assign one mandate to steady yield and another to fast prediction markets.  
-  @dens\_club · 2026-11-16 18:37
-
-- [Owning agent identity through NFT instead of a vault flips control back to holder in a way most setups never bother…](<https://x.com/SumonBytes/status/2122277533152665923>)  
-  Owning agent identity through NFT instead of a vault flips control back to holder in a way most setups never bother with  
-  @SumonBytes · 2026-11-16 18:36
-
-- [Design meets code.](<https://x.com/almokhtar_al/status/2122277515712749590>)  
-  I work as an information security manager in Cologne, learning AI security while preparing for OSEP and posting for solo founders.  
-  @almokhtar\_al · 2026-11-16 18:36
-
-- [owning one of the 20,000 genesis motes gives you a dedicated onchain agent identity that actually executes transact…](<https://x.com/dens_club/status/2122277296186794170>)  
-  owning one of the 20,000 genesis motes gives you a dedicated onchain agent identity that actually executes transactions instead of just chatting. it pairs personal ownership with programmable smart account execution.  
-  @dens\_club · 2026-11-16 18:35
-
-- [Vision solutions for humanoid robots — from head-mounted stereo &amp;amp; depth cameras to palm cameras, multi-camera s…](<https://x.com/econsystems/status/2122277260577374221>)  
-  Explore humanoid robot vision solutions → \#Humanoid \#Robots \#econSystems  
-  @econsystems · 2026-11-16 18:35
-
-- [เฉลยแล้ว\!](<https://x.com/HuaweiMobile_TH/status/2122275988352426264>)  
-  HUAWEI WATCH 6 Series is now in orbit. ⌚️✨ แต่ดูเหมือนครั้งนี้…จะไม่ได้มาเพียงลำพัง 👀 เซเลบริตี้ของเราเป็นใครกันน้า เตรียมพบกันเร็ว ๆ นี้ 🌟 \#HUAWEIWatch6Series  
-  @HuaweiMobile\_TH · 2026-11-16 18:30
-
-- [卡兹克分享两个月用 Agent 干活最常用的 10 条 Prompt](<https://x.com/Khazix0918/status/2122268349707219333>)  
-  卡兹克分享了最近两个月自己用 Agent 干活最常说的 10 条 Prompt，包括从第一性原理找根因、先对齐喜好再出 3 版方案、推演改动的二阶三阶影响、以最强反对者角度推翻最优方案等。其余几条涉及分析 Git 历史识别可移除的历史包袱、模拟新工程师评估代码认知成本、复盘 Bug 与返工沉淀成规…  
-  X：卡兹克 \(@Khazix0918\) · 2026-11-16 17:59
-
-[返回面板](../README.md) · [上一页](fast-37.md) · [下一页](fast-39.md) · 第 38 / 41 页
+[返回面板](../README.md) · [上一页](fast-37.md) · [下一页](fast-39.md) · 第 38 / 39 页

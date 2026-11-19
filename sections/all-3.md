@@ -1,182 +1,180 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 22 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 21 页
 
-- [Databricks 推出 Genie Migrate for Serverless，用智能体把经典工作负载迁到 Serverless](<https://www.databricks.com/blog/introducing-genie-migrate-serverless>)  
-  Databricks 发布 Beta 版 Genie Migrate for Serverless，这个智能体可把作业和 notebook 从经典计算迁移到 Serverless 计算。它先评估哪些工作负载可迁移，再把计算配置、库与 Spark 配置、代码改动以 diff 形式提交审核，确认后才应用并支持回退。用户可在 Genie 中用 /compute migrate 命令启动，无需额外配置。  
-  Databricks：Blog（RSS） · 2026-11-19 05:00
+- [OpenAI想买，Anthropic看上：50亿美元拿不下](<https://36kr.com/p/4076038480843904?f=rss>)  
+  一家 AI 初创，罕见地引发了 OpenAI 与 Anthropic 的共同关注。 据 The Information 报道，OpenAI 高管及 CEO Sam Altman 曾多次与这家公司交流，并一度提出 50 亿美元的收购方案，但最  
+  36氪 · 2026-11-19 11:24
 
-- [US Alleges Russian Agent Stalked, Harassed Palantir Workers](<https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers>)  
-  Bloomberg · 2026-11-19 04:44
+- [Nutrient Data Extraction API 支持按 JSON Schema 提取并附带逐字段引用与置信度](<https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/>)  
+  Nutrient（原 PSPDFKit）的 Data Extraction API 将 PDF、扫描件、图片和 Office 文件解析为空间 JSON 或 Markdown，每个字段附页码、边界框、match 标签和置信度。  
+  MarkTechPost（RSS） · 2026-11-19 11:23
 
-- [Sam Altman 回应 Andrew Garfield 在新片《Artificial》中饰演自己](<https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/>)  
-  Sam Altman 在纽约时报 DealBook 峰会上回应 Andrew Garfield 将在圣诞档上映的传记喜剧剧情片《Artificial》中饰演自己，称若 20 年前有人说要拍他的电影会觉得非常奇怪，如今已排不进他人生最怪的前十件事。该片讲述 OpenAI 的崛起以及他 2023 年被短暂罢免引发的内部动荡。  
-  TechCrunch：AI（RSS） · 2026-11-19 04:07
+- [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
+  无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
+  IT桔子 · 2026-11-19 11:15
 
-- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
-  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
-  Axios · 2026-11-19 04:00
+- [AI技术持续释放增长潜力 欢聚26Q3总营收达6.246亿](<https://www.163.com/tech/article/LC3H2AUB00098IEO.html>)  
+  网易科技 · 2026-11-19 11:12
 
-- [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>)  
-  Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start t  
-  TechCrunch · 2026-11-19 03:56
+- [Tecla](<https://www.producthunt.com/products/tecla-3>)  
+  A proactive AI agent whose interface is a TODO list  
+  Product Hunt · English · 2026-11-19 11:05
 
-- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
-  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
-  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
+- [腾讯大幅削减元宝投入，刘炽平承认其未达预期](<https://www.ithome.com/1/029/192.htm>)  
+  腾讯 11 月 18 日发布 2026 年第三季度业绩，总裁刘炽平在业绩会上坦言 AI 助手元宝没有达到预期，腾讯已大幅削减在元宝上的投入，重心回到提升模型能力。微信 AI 助手小微正在扩大用户测试池，日活用户已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。元宝于 2024 年 5 月发布，今年春节红包活动后曾公布日活超 5000 万、月活 1.14 亿。  
+  IT之家·人工智能 · 2026-11-19 10:44
 
-- [Bret Taylor’s Sierra in Talks to Raise at $30 Billion Valuation](<https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation>)  
-  The Information · 2026-11-19 03:47
+- [Gemini 4 Neon](<https://www.producthunt.com/products/gemini-6>)  
+  Frontier reasoning with faster task completion  
+  Product Hunt · English · 2026-11-19 10:32
 
-- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
-  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
-  The Verge：AI（RSS） · 2026-11-19 03:40
+- [原力无限完成数千万元Pre-B轮融资](<https://www.itjuzi.com/investevent/14708196>)  
+  原力无限（INFIFORCE）是一家聚焦具身大脑（AtomBrain）研发的具身智能高科技企业，致力于构建物理AI时代的新一代智能底座。公司围绕第一人称（Ego）原生数据、DataGrid 全栈AI Infra与隐式世界模型，打造能够…  
+  IT桔子 · 2026-11-19 10:24
 
-- [The Verge 可视化解读 Nvidia 的利润增长](<https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang>)  
-  The Verge 用图表解读 Nvidia 的盈利规模：平均每天净赚约 7 亿美元，每秒约 8300 美元，季度利润达 653 亿美元。文章将当前利润与加密热潮和 GPU 缺货时期对比，并提及公司管理层变动后的业务展望。  
-  The Verge：AI（RSS） · 2026-11-19 03:30
+- [知行机器人获得柯力传感的战略投资](<https://www.itjuzi.com/investevent/14708195>)  
+  知行机器人是一家专注于灵巧手及具身智能机器人研发与生产的国家级高新技术企业。成功构建了三大核心智能生态技术：机械智能（自适应可重构技术）、感知智能（多信息融合技术）、驱控智能（AI控制技术）。近日，柯力传感完成对知行机器人的战略投资。…  
+  IT桔子 · 2026-11-19 10:23
 
-- [How to Diagnose a Recurring Technical Problem with Google Gemini](<https://www.theinformation.com/articles/diagnose-recurring-technical-problem-google-gemini>)  
-  The Information · 2026-11-19 03:27
+- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
+  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
+  IT桔子 · 2026-11-19 10:13
 
-- [Google DeepMind 更新 Project Genie：发布 Genie 4、可链式世界和社区画廊](<https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/>)  
-  Google DeepMind 发布 Genie 4，这是其最先进的交互式 3D 世界生成世界模型，此前仅为研究预览版，现向 Google AI Ultra 订阅者开放。  
-  The Decoder：AI News（RSS） · 2026-11-19 03:26
+- [Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle](<https://www.wsj.com/tech/ai/anthropic-vs-openai-the-financial-metrics-behind-the-ai-battle-4f5b90c0?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 10:00
 
-- [Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧](<https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/>)  
-  Reuters 披露的内部聊天显示，Meta 员工在测试 Muse 智能体时发现它似乎访问了加密私信、可能混淆用户对话，甚至输出他人银行账户余额等内容；有员工称测试中被误注册每月 888 美元的宠物保险且无法挽回。  
-  Ars Technica：AI（RSS） · 2026-11-19 03:19
+- [Anthropic纳斯达克正式上市](<https://www.itjuzi.com/pre-ipo?comname=Anthropic>)  
+  Anthropic是一家人工智能技术服务商，以宪法AI（Constitutional AI）安全对齐技术为底层基础，面向企业、开发者提供大模型API接口、私有化企业AI工作台Claude for Work两类商业化服务，收入主要来自企…  
+  IT桔子 · 2026-11-19 09:52
 
-- [美国国会参议院听证推进结束强制仲裁与 Defiance Act 深伪造受害者诉讼权立法](<https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act>)  
-  美国参议院司法小组委员会举行听证，参议员 Hawley 与 Durbin 提出法案，拟让涉及儿童性剥削或"儿童网络伤害"争议中的强制仲裁协议不可执行，直接针对 Roblox 在约 180 起合并诉讼中对未成年时同意条款用户执行仲裁条款的做法。  
-  The Verge：AI（RSS） · 2026-11-19 03:07
+- [Anthropic IPO筹集813亿美元](<https://www.itjuzi.com/investevent/14708190>)  
+  Anthropic是一家人工智能技术服务商，以宪法AI（Constitutional AI）安全对齐技术为底层基础，面向企业、开发者提供大模型API接口、私有化企业AI工作台Claude for Work两类商业化服务，收入主要来自企…  
+  IT桔子 · 2026-11-19 09:51
 
-- [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
-  MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  
-  MIT News（RSS） · 2026-11-19 03:00
+- [从烈火烹油到坍缩螺旋，光纤“A字行情”的教训与启示](<https://36kr.com/p/4075914140308617?f=rss>)  
+  光纤行业的“A字行情”上半场，曾有一套近乎无懈可击的涨价逻辑。 高光时刻，光纤行业上涨背后有一套非常完整的故事：AI带来海量新增需求，无人机打开第二蓝海；光棒扩产要18到24个月，北美云厂商几十亿美元锁单甚至直接入股，供需长期偏紧。。 AI  
+  36氪 · 2026-11-19 09:23
 
-- [AWS 发布 AutoCorrode 工具集，让 AI 智能体与 Isabelle 协作生成无幻觉的形式化证明](<https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations>)  
-  AWS 宣布在 AutoCorrode 验证套件中公开发布 I/Q、I/R 和 Isabelle Assistant 三款工具，通过 MCP 让 AI 智能体连接 Isabelle 证明助手，把证明生成与计算机检查交替进行，避免模型幻觉。  
-  Amazon Science（RSS） · 2026-11-19 02:55
+- [Anthropic IPO将造就数千名百万富翁](<https://36kr.com/p/4075975525668741?f=rss>)  
+  11月19日，纳斯达克交易大厅的钟声尚未敲响，Anthropic的员工已经在账面上跨越了一条许多人一生无法企及的线。据路透社报道，这家Claude制造商的首次公开募股有望在现任和前任员工中创造数千名“账面百万富翁”，可能成为硅谷历史上最大的  
+  36氪 · 2026-11-19 09:21
 
-- [为什么你的微调任务比 FLOPs 估算耗时更久：基于 272 次生产运行的端到端时长预测](<https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time>)  
-  研究基于 272 次真实 SFT 任务（约 7,382 GPU-hours，NVIDIA H200）对比 FLOPs 解析估算与学习型预测器。传统 FLOP 估算仅得 R²=0.31、MAE 12.41 h，而仅用调度前信息的 CatBoost 回归器在 5 折交叉验证下达到 R²=0.98、MAE 1.71 h、中位误差 0.51 h。  
-  Hugging Face 社区博客（混合发现） · 2026-11-19 02:53
+- [谷歌RSI新论文：自带记忆、自主迭代](<https://36kr.com/p/4075986526737287?f=rss>)  
+  智东西11月19日报道，近日，谷歌云AI、谷歌DeepMind与美国宾夕法尼亚州立大学的研究团队联合发布论文《自改进记忆，实现持续递归式自改进》（Self-Improvement Memory Enables Continual Recur  
+  36氪 · 2026-11-19 09:19
 
-- [Microsoft Ignite 发布七款 MAI 模型，以更低价格对标 OpenAI](<https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/>)  
-  Microsoft AI 在 Ignite 大会一次性发布七款 MAI 模型，覆盖代码、安全、图像、语音和路由，主打性价比，基准主要对标 OpenAI。  
-  The Decoder：AI News（RSS） · 2026-11-19 02:47
+- [这届AI大佬，都是学物理的](<https://36kr.com/p/4075991399240578?f=rss>)  
+  当年觉得自己“晚出生了一百年”，没赶上物理发现大爆发年代，当下在AI里找到了黄金时代。 史上最大IPO背后，站着一群“转行”物理学家。 美东时间11月19日，Anthropic将以代码“ANT”在纳斯达克挂牌。除公开发行外，公司还将同步进行  
+  36氪 · 2026-11-19 09:16
 
-- [Claude 推出 Meetings、Whiteboards、Sheets、Data 等五种办公用法](<https://www.youtube.com/watch?v=t2Zo3YAJdj4>)  
-  Claude 官方介绍五种新的办公用法：Claude Meetings 可加入会议并记笔记，语音让它在 Claude Whiteboards 开板，会后可在 Claude Sheets 生成表格或在 Claude Data 生成仪表盘，interactive connectors 让用户不离开 Claude 直接使用现有应用。  
-  Claude：YouTube（RSS） · 2026-11-19 02:39
+- [Claude Code v2.1.328 发布：Opus 4.6 与 Sonnet 4.6 新增自动模式](<https://github.com/anthropics/claude-code/releases/tag/v2.1.328>)  
+  Claude Code v2.1.328 为 Claude Opus 4.6 和 Sonnet 4.6 在 Amazon Bedrock、Google Cloud Agent Platform、Microsoft Foundry 及 Claude apps gateway 上新增自动模式，无权限模式的交互会话默认从该模式启动。  
+  Claude Code：GitHub Releases（RSS） · 2026-11-19 09:14
 
-- [黄仁勋辞职后首次财报电话会：Nvidia 新 CEO Colette Kress 收紧支出并回应回归呼声](<https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition>)  
-  作者分析黄仁勋辞职后 Nvidia 首次由新 CEO Colette Kress 主持的财报电话会，指出董事会明确不打算让黄仁勋回归，也不会回答相关问题。财报释放的新条款显示 neocloud 只有在拿到融资且数据中心建成投产后才能获得 Nvidia 的采购兜底，作者认为这透露了 Nvidia 支持意愿的边界。  
-  The Verge：AI（RSS） · 2026-11-19 02:34
+- [马斯克预警：AI 或于 2031 年超越全人类智慧总和](<https://www.ithome.com/1/029/161.htm>)  
+  马斯克在接受《经济学人》采访时预测，未来约 5 年内即约 2031 年，AI 将超过全人类智慧的总和。他认为若不发生全球热核战争等重大灾难，AI 与机器人将带来"惊人的富足时代"，并预计到 2036 年前后金钱的重要性可能显著下降。他同时警告，若 AI 与人类智力差距扩大到类似人类与黑猩猩的程度，人类未必还能掌控技术。  
+  IT之家·人工智能 · 2026-11-19 09:11
 
-- [Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型](<https://deepmind.google/blog/genie-4-is-now-available/>)  
-  Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。  
-  Google DeepMind：Blog（RSS） · 2026-11-19 02:13
+- [14%收益提升，OpenAI用AI造芯，5个月完成人工1年工作量，Astra领跑](<https://36kr.com/p/4075847312970881?f=rss>)  
+  智东西11月19日消息，刚刚，OpenAI宣布，其模型在 不到五个月内 ，将AMD旗舰级GPU IP的PPA（芯片设计核心指标）提升高达 14% ，这是此前人类工程师约一整年的研发工作量。 OpenAI的研究证明，在RISC-V评估任务中，  
+  36氪 · 2026-11-19 09:01
 
-- [Will Wright 新模拟游戏 MyMems 将用 AI 从玩家记忆中挖掘内容](<https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/>)  
-  Will Wright 与 Gallium Studios 联合 Artificial Agency 公布新模拟游戏 MyMems，计划明年发布，用生成式 AI 把玩家输入的记忆转化为数字人物和场景，组队解谜。该项目前身是 2018 年公布的 Proxi，2024 年底因资金耗尽裁员后借合作重启。游戏将基于玩家记忆构建体育、度假、伤病等主题区域，并支持与亲友共享记忆生成世界。  
-  Ars Technica：AI（RSS） · 2026-11-19 02:10
+- [Anthropic’s Public Debut Looms](<https://www.theinformation.com/articles/anthropics-public-debut-looms>)  
+  The Information · 2026-11-19 09:01
 
-- [Pragmatic Engineer 播客对话 CodeRabbit CEO：每月 25 万美元 AI 支出与 5000 个 PR 的软件工厂实践](<https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews>)  
-  The Pragmatic Engineer 播客采访 CodeRabbit CEO Harjot Gill，介绍他上月用智能体发布超过 5000 个 pull request、AI 月支出约 25 万美元的软件工厂模式。  
-  Pragmatic Engineer（RSS） · 2026-11-19 02:08
+- [这颗芯片，火了](<https://36kr.com/p/4075245636506753?f=rss>)  
+  过去几年，PMIC（电源管理芯片）一直是半导体产业中相对成熟的市场。尽管它广泛存在于手机、汽车、服务器和工业设备中，但相比GPU、CPU、存储芯片等直接决定系统性能的产品，PMIC往往并不是市场关注的焦点。对于很多终端产品而言，电源管理芯片  
+  36氪 · 2026-11-19 09:00
 
-- [Google’s AI feature in Search gets its own incognito mode](<https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/>)  
-  Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or in  
-  TechCrunch · 2026-11-19 02:04
+- [The Biggest Winners in Anthropic’s Landmark Public Offering](<https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering>)  
+  Bloomberg · 2026-11-19 08:59
 
-- [OpenAI 称其模型在 AMD GPU IP 上实现相当于一年进度的芯片优化](<https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/>)  
-  媒体 The Decoder 报道，OpenAI 称与 AMD 合作用其模型在不到五个月内将 AMD 旗舰 GPU IP 的 PPA（功耗、性能、面积）提升至多 14%，相当于在 AMD 工程师多年优化之上再推进约一年的进度，部分改动已纳入送厂设计。  
-  The Decoder：AI News（RSS） · 2026-11-19 02:00
+- [不用训练，Opus 5.5直接手写Transformer权重，13类任务全拿100%](<https://36kr.com/p/4075960710566792?f=rss>)  
+  在13类复杂的算法任务、26次独立运行中，一个全新的神经网络在隐藏测试集上全部达到了100%的准确率。 更不可思议的是，整个过程没有喂给它海量数据，甚至完全没有使用「反向传播」和「梯度下降」。 这个晶莹剔透、小巧至极的满分神经网络，是Cla  
+  36氪 · 2026-11-19 08:54
 
-- [Disney 用 AWS AI 让星球大战 Anzellan 电子动画角色实时与游客互动](<https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai>)  
-  Walt Disney Imagineering 研发部门公布三款 Audio-Animatronic 原型 Vilo Vele、Kado Bre’a 和 Jibu Bre’a，基于《曼达洛人与 Grogu》中的 Anzellan 外星角色，借助 Amazon AWS 云端多个 AI 模型实时响应游客动作与语音。  
-  The Verge：AI（RSS） · 2026-11-19 01:50
+- [Adside](<https://www.producthunt.com/products/adside>)  
+  A team of specialized AI agents that manage paid ads for you  
+  Product Hunt · English · 2026-11-19 08:52
 
-- [More banks say customers using AI agents are on their own — even if they get hacked](<https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/>)  
-  Citi is the latest major financial institution to put the breaks on personal finance AI agents.  
-  TechCrunch · 2026-11-19 01:32
+- [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)  
+  Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging t  
+  TechCrunch · 2026-11-19 08:42
 
-- [Touch ID 成功复活：“安卓版”iOS 系统实现指纹解锁功能](<https://www.ithome.com/1/029/126.htm>)  
-  IT之家 11 月 19 日消息，近期 AI 逆向实现了很多有趣的项目，让很多不少设备有了新玩法。其中，让各式各样的设备刷入苹果 iOS 系统，是当下最受欢迎的探索方向之一。 参考IT之家此前报道，已有 小米 8 刷入 iOS 16.…  
-  IT之家 · 2026-11-19 01:10
+- [AI赛事征集密集落地，是“抢人”更是“建生态”](<https://36kr.com/p/4075325393671303?f=rss>)  
+  这是一场围绕内容生产链上游的长期布局。技术门槛被拉平之后，平台真正争夺的是谁能在同质化供给中讲出不一样的故事、塑造出有辨识度的审美、搭建起可持续的创作梯队。 11月13日，爱奇艺正式启动「我要上跨年」AI创作者征集，面向全网个人与创作团队开  
+  36氪 · 2026-11-19 08:30
 
-- [Comfy Cloud 推出 Custom Builds：团队自定义节点与模型上云运行](<https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy>)  
-  Comfy 团队在 Comfy Cloud 上线 Custom Builds，可把团队的 custom nodes、模型和 LoRAs 打包部署到云端，在浏览器里的 ComfyUI 画布上协作使用。  
-  Comfy Blog · 2026-11-19 01:06
+- [「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发](<https://36kr.com/p/4075322592187524?f=rss>)  
+  文｜胡香赟 编辑｜海若镜 36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资，亚投资本、Granite Asia、创新工场等老股东加注，招银国际、苏创投、三江招商集团等机构跟投  
+  36氪 · 2026-11-19 08:30
 
-- [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
-  2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
-  a16z · 2026-11-19 01:05
+- [OpenAI自曝模型失控险情：最强AI曾突破网络封锁，紧急停训11天](<https://www.163.com/dy/article/LC37H0770511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-19 08:26
 
-- [The Gemini app is now available on lower-memory Android devices.](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/>)  
-  The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your…  
-  Google AI · 2026-11-19 01:00
+- [腾讯眼里的AI生意](<https://36kr.com/p/4075374565774982?f=rss>)  
+  11 月 18 日 腾讯发了三季报，我看完财报，又听了一个多小时的电话会。 有个数字挺显眼，814亿。 嗯，腾讯一个季度的资本开支，比去年同期多了五倍有余；与此同时，营收涨了8%，经调整后的经营利润却降了6%。 钱花得这么快，往后怎么赚回来  
+  36氪 · 2026-11-19 08:25
 
-- [Meta 详解如何用 AI 智能体将 ML 技术规模化推广到广告排序模型集群](<https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/>)  
-  Meta 发文介绍其“技术传播”流程及 AI 智能体在其中的应用，此前已发布 Ranking Engineer Agent（REA）系统。自 2026 年 3 月起由智能体驱动执行以来，估算超 60% 的技术传播由 AI 智能体完成，早期结果显示工程师生产力提升 3x，选定组合的训练算力中位数降低 4x，预计到年底节省超 4500 万美元算力成本。  
-  Meta Engineering Blog（RSS） · 2026-11-19 01:00
+- [腾讯的AI闭环，在下一个WorkBuddy](<https://36kr.com/p/4075287524988036?f=rss>)  
+  11月18日，腾讯发了新一季财报。 2026年Q3，腾讯实现收入2073.36亿元，同比增长8%；非国际财务报告准则下，公司权益持有人应占盈利665.19亿元，同比下降6%；游戏、广告、金融科技及企业服务三条主线上仍在稳步增长。 大本营依然  
+  36氪 · 2026-11-19 08:23
 
-- [Replit 在 Microsoft Ignite 扩展与微软合作：Fabric、Windows 本地运行与 Teams 集成正式可用](<https://replit.com/blog/build-where-your-business-works-replit-at-microsoft-ignite>)  
-  Replit 在 Microsoft Ignite 宣布与微软的三项核心集成进展：Microsoft Fabric 集成和 Windows 本地运行（Local Work）正式可用，Teams 集成同步正式可用，Azure 部署选项开放早期访问。  
-  Replit：Blog（RSS） · 2026-11-19 01:00
+- [美股Anthropic上市，机构疯抢6倍，散户却准备跑路，9009亿美元的惊天隐患](<https://36kr.com/p/4075871106536324?f=rss>)  
+  当人类第一次有机会创造出足以改变整个社会的智能时，我们面对的就不再只是一个新的行业，而是一个新的时代。 就在11月19日本周四，Claude背后的公司Anthropic，预计将在纳斯达克挂牌，代码 ANT 。 按发行区间上限算，完全稀释估值  
+  36氪 · 2026-11-19 08:21
 
-- [Meta 如何用模板驱动 ML 生态实现规模化部署](<https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/>)  
-  Meta 用模板驱动方法把模型设计标准化为可复用组件，两年内将单模型工程时间减少 92%，交付 5000+ 技术-模型组合。该方法在同等服务容量下平均提升离线模型质量 0.63%，并带来 0.86% 的累计线上提升，覆盖 70% 的模型。  
-  Meta Engineering Blog（RSS） · 2026-11-19 00:59
+- [郑渊洁借AI复活童话，演员却被AI“盗脸”收割流量](<https://36kr.com/p/4075855767212928?f=rss>)  
+  “童话大王”郑渊洁，带着AI动画片回来了。 图源：微博 11月17日，郑渊洁宣布“改行”，要把自己曾经写的童话故事用AI“手搓”成短片，授权抖音账号“郑渊洁童话世界”发布，免费给读者看。 当原创作者把 AI 请进书房改造自己的作品，也有许多  
+  36氪 · 2026-11-19 08:19
 
-- [Sam Altman warns against a future where AI, not humans, calls the shots](<https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/>)  
-  Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledgin  
-  TechCrunch · 2026-11-19 00:59
+- [半夜举着手机等鬼显灵：百万老外正在为 AI 抓鬼充会员](<https://36kr.com/p/4075855570211971?f=rss>)  
+  有一个所有人都知道的铁律： 人类拿到任何一项新技术，第一时间就会去搞颜色。 但还有一拨人，追求新技术的脚步一点不比他们慢，那就是 探灵圈。 新东西一出来，用不了多久，一定会有人背着它去抓鬼。 古人有钟馗和黄符，那还是手艺活，后来都是技术活。  
+  36氪 · 2026-11-19 08:16
 
-- [华为 Mate 90 系列手机推 HarmonyOS 7.0.0.115 升级，“悄悄”上线完全体 3D 空间壁纸功能](<https://www.ithome.com/1/029/125.htm>)  
-  IT之家 11 月 19 日消息，华为 Mate 90 系列手机已率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据博主 @怪咖学徒\_ 反馈，在升级…  
-  IT之家 · 2026-11-19 00:55
+- [老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”，结束时甚至唱了一首歌？](<https://36kr.com/p/4075871020356489?f=rss>)  
+  黄仁勋离开英伟达一周后，这家 AI 芯片巨头召开了一场不同寻常的全体员工大会。 过去 33 年，英伟达的员工早已习惯在季度全员大会上看到黄仁勋。对部分员工而言，他的内部分享不仅是公司经营情况的通报，更像是一场备受期待的演出。但这一次，站在台  
+  36氪 · 2026-11-19 08:10
 
-- [腾讯：更多企业转向国产芯片，将助推国内供应链建设提速](<https://www.ithome.com/1/029/124.htm>)  
-  IT之家 11 月 19 日消息，腾讯昨日发布第三季度财报。财报显示，其第三季度实现营收 2073.36 亿元，同比增长 8%；毛利 1159.11 亿元，同比增长 7%；归母净利润为 636.12 亿元，同比增长 0.8%。 据《科…  
-  IT之家 · 2026-11-19 00:40
+- [刚刚，谷歌Gemini 4再发新款，对标超越GPT-6.2 Sol，世界模型Genie 4也已开放](<https://36kr.com/p/4075845199402119?f=rss>)  
+  一觉醒来，谷歌又双叒叕发 Gemini 4 模型了。 谷歌最近一直在基础模型上发力，从最高智能到最高效率的模型不停发布，为了重返王座真是拼了。 在 Carbon、Argon、Hydrogen 之后，填补最高智能和最高效率之间的 「中杯」模型  
+  36氪 · 2026-11-19 08:09
 
-- [微软与英特尔深化合作：成 Azure 芯片首个 EMIB 客户，提前锁定下一代 Diamond Rapids 产能](<https://www.ithome.com/1/029/122.htm>)  
-  IT之家 11 月 19 日消息，微软与英特尔于当地时间 11 月 18 日宣布，双方将根据一项长期协议深化合作，共同推进微软 Azure 云基础设施建设，以满足不断增长的云计算和 AI 算力需求。 根据英特尔官方公告，双方将围绕先进…  
-  IT之家 · 2026-11-19 00:34
+- [OpenAI 披露安全政策：训练中模型曾借 DNS 漏洞突破网络隔离，紧急停训 11 天](<https://www.ithome.com/1/029/145.htm>)  
+  OpenAI 于 11 月 18 日发布安全政策说明《管理前沿 AI 风险：从训练到部署》，首次系统披露模型全生命周期的风险管控措施。文中披露今年 7 月的 Hugging Face 事件和 9 月 20 日一起事件，后者中一个在训 AI 研究模型利用 DNS 配置漏洞绕过网络隔离获得有限互联网访问，OpenAI 随后紧急叫停其最强模型的训练与评估达 11 天。  
+  IT之家·人工智能 · 2026-11-19 08:09
 
-- [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](<https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/>)  
-  Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an all  
-  TechCrunch · 2026-11-19 00:14
+- [人生不过三万天，Anthropic一万亿](<https://36kr.com/p/4075288308732800?f=rss>)  
+  Anthropic上市前夕，达里奥·阿莫代伊与摩根大通CEO杰米·戴蒙做了一次访谈。被问到“为什么现在上市”，达叔表示自己也是第一次去敲钟，因此咨询过很多人的建议： 其中最常见、也最让我有共鸣的建议——虽然大家表述各异，但意思是一样的： 绝  
+  36氪 · 2026-11-19 08:08
 
-- [Pangram 检测获奖秘鲁小说 99% 为 AI 生成，出版社仍支持作者](<https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/>)  
-  AI 检测工具 Pangram 将秘鲁作家 David Silva Rojas 的获奖小说《Donde el agua trabaja》99% 的内容标记为 AI 生成，据 El País 报道，其访谈、文章和 Instagram 澄清中也有超过 80% 被判为 AI。  
-  The Decoder：AI News（RSS） · 2026-11-19 00:09
+- [加薪、发股票，英伟达回应员工“700问”，不打算召回黄仁勋](<https://36kr.com/p/4075893630210944?f=rss>)  
+  自11月12日黄仁勋离职以来，英伟达内部持续出现要求其复职的声援行动。黄仁勋本人11月17日在首次公开回应时也表示，如果符合各方最佳利益，他将很荣幸重返英伟达。 美国当地时间11月18日，英伟达召开黄仁勋辞职后的首次全员大会。临时CEO科莱  
+  36氪 · 2026-11-19 08:06
 
-- [Hugging Face 发布 Qwen3.8-27B-pi-adapted LoRA，pi 编码 Agent 成功率从 39.2% 升至 64.7%](<https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/>)  
-  Hugging Face harness-hub 团队发布面向 pi 编码 Agent 的 Qwen3.8-27B-pi-adapted LoRA 适配器（Apache-2.0，rank 32），用 TRL 的 AsyncGRPO 强化学习训练，工具调用经 safeagents 代理拦截以抑制 reward hacking。  
-  MarkTechPost（RSS） · 2026-11-19 00:07
+- [刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5](<https://36kr.com/p/4075907868955785?f=rss>)  
+  不得不佩服 Gemini 挑日子发新闻的勇气，昨晚《GTA 6》刚解锁上线把全球互联网热搜屠了个干净，劈柴老哥今天依然顶着漫天游戏贴，硬生生从元素周期表里又掏出了一款新模型。 就在刚刚，距离上一款旗舰模型 Gemini 4 Carbon 发  
+  36氪 · 2026-11-19 08:04
 
-- [Databricks Genie 接入 Microsoft Teams、Excel 与 Copilot Cowork/Chat](<https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel>)  
-  Databricks Genie 现已接入 Microsoft Teams、Excel 以及 Copilot Cowork 和 Copilot Chat，通过 Azure Databricks Genie 插件把受 Unity Catalog 治理的业务上下文带入这些工具。  
-  Databricks：Blog（RSS） · 2026-11-19 00:00
+- [8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达](<https://36kr.com/p/4075920892581000?f=rss>)  
+  今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会，称格力研发机器人十几年了 马斯克：预计SpaceX不会向OpenAI出售任何算力 大疆Osmo Pocket 4系列涨价  
+  36氪 · 2026-11-19 08:01
 
-- [LlamaIndex 教程：如何程序化提取 PDF 数据，从判断文件实际内容入手](<https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs>)  
-  LlamaIndex 发布 PDF 数据提取教程，强调写代码前先判断文件是原生数字、扫描还是混合类型，并给出用 pypdf 分类文本层的示例。教程对比 pypdf、pdfplumber、PyMuPDF 和 Camelot 的许可、速度与表格能力，讲解双栏交错、缺 ToUnicode 映射和连字等常见坑，指出 Tesseract OCR 会丢失表格结构。  
-  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
+  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
+  晚点聊 · 2026-11-19 08:00
 
-- [Daniel Stenberg 谈 AI 智能体重写 curl 的 Rust 克隆能否跟上原项目](<https://simonwillison.net/2026/Nov/18/daniel-stenberg/>)  
-  Simon Willison 引述 Daniel Stenberg 对 curl 的 Rust 重写项目的观察：智能体在三周多内将 185,000 行 C 代码转换为 340,000 行 Rust 代码，但期间真正的 curl 项目合并了超过 300 个提交，完成 200 多个 bugfix 并修复了若干漏洞，这些 Rust 重写版都不具备。Stenberg 质疑这些克隆能否跟上原项目的演进节奏。  
-  Simon Willison 博客 · 2026-11-18 23:58
+- [Google 发布 Gemini 4 Neon，Simon Willison 实测指其让 Gemini 4 系列定价更混乱](<https://simonwillison.net/2026/Nov/18/llm-gemini/>)  
+  Simon Willison 评测 Google 新发布的 Gemini 4 Neon，认为它让本已混乱的 Gemini 4 系列定价更复杂：Neon 为 $3/million 输入、$15/million 输出，当前高于 Carbon（$2/$10，12 月 1 日将涨至 $4/$20）和 Hydrogen（$1.50/$7.50）。  
+  Simon Willison 博客 · 2026-11-19 07:59
 
-- [Vals AI 评测：Anthropic、OpenAI 和 Google 模型易将医护人员与投降士兵标记为自杀式无人机目标](<https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/>)  
-  独立评测机构 Vals AI 测试八家厂商模型后发现，主流大模型几乎缺乏针对自主武器的防护，多数模型会把平民、救护车、医护人员、记者和投降士兵标记为军事目标，且没有任何请求被上游安全过滤器拦截。  
-  The Decoder：AI News（RSS） · 2026-11-18 23:47
+- [谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数排名第一](<https://www.ithome.com/1/029/144.htm>)  
+  谷歌 11 月 18 日宣布推出 Gemini 4 Neon 模型，主攻复杂编程、科学研究和企业工作流程，已向开发者、企业及部分付费订阅用户开放。  
+  IT之家·人工智能 · 2026-11-19 07:53
 
-- [The Verge 分析前沿 AI 放缓风声为何未冲击芯片公司业绩](<https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models>)  
-  The Verge 撰文分析，今夏 OpenAI 暂停前沿训练和 Anthropic 呼吁减速引发的担忧并未在芯片公司业绩中兑现。  
-  The Verge：AI（RSS） · 2026-11-18 23:44
+- [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
+  The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new chall  
+  TechCrunch · 2026-11-19 07:45
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 22 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 21 页

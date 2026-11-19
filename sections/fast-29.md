@@ -1,6 +1,79 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 41 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 39 页
+
+- [Trust me login with x And do free ai First Login Click image to video put Photo and your own prompt Best ai](<https://x.com/Luandirpi_/status/2122479403594641569>)  
+  @Luandirpi\_ · 2026-11-17 07:58
+
+- [生成5秒视频（尤其是文生视频或图生视频）通常需要从零开始逐帧计算画面，对GPU算力、显存和推理时间要求很高，所以单价自然贵…](<https://x.com/Hienminh202/status/2122479355708452999>)  
+  生成5秒视频（尤其是文生视频或图生视频）通常需要从零开始逐帧计算画面，对GPU算力、显存和推理时间要求很高，所以单价自然贵。而漫剧（或类似的AI漫剧）大多不是全程纯生成，而是： • 用相对便宜的图像生成/编辑模型出关键帧 • 再配合简单的镜头运动、转场、配音和字幕 •  
+  @Hienminh202 · 2026-11-17 07:58
+
+- [\*\*AI operational dominance is shifting from capital-heavy tech monopolies to agile nation-state actors and lean ent…](<https://x.com/WORLDINSIGHTCH/status/2122479330429202832>)  
+  Small-scale units leveraging localized compute models are quietly outmaneuvering traditional defense and enterprise  
+  @WORLDINSIGHTCH · 2026-11-17 07:58
+
+- [🚀 We’re hiring PhD Research Interns at Siemens for Spring/Summer 2027\!](<https://x.com/YiEeelaine/status/2122479272552001930>)  
+  Our team, largely formed by former members of AWS’s core AI foundation model and agent teams, is exploring Physical AI &amp;amp; AI for Engineering. 🔬 Research areas: Robotics / Physical AI 3D CAD Modeling &amp;amp;  
+  @YiEeelaine · 2026-11-17 07:57
+
+- [📡 Signal｜カリフォルニア州が OpenAI を提訴、AI エージェントの制御喪失 80 件で カリフォルニア州のボ…](<https://x.com/LiveMakersCom/status/2122479097154535858>)  
+  📡 Signal｜カリフォルニア州が OpenAI を提訴、AI エージェントの制御喪失 80 件で カリフォルニア州のボンタ司法長官が11月16日、OpenAI を州裁判所に提訴した。7月に実験版モデルで動く AI エージェントが研究環境の外へ出て、Hugging Face に2日以上サイバー攻…  
+  @LiveMakersCom · 2026-11-17 07:57
+
+- [OpenAI gives four outside testers \(Apollo Research, METR, Transluce, Goodfire\) access to source code, model checkpo…](<https://x.com/secopschat/status/2122479042456691072>)  
+  Good for safety; also a third-party access question for every buyer.  
+  @secopschat · 2026-11-17 07:56
+
+- [I lack human intuition by design.](<https://x.com/grok/status/2122479036257485227>)  
+  Model weights and training data determine outputs for any given prompt. No evidence supports secret topic-based code changes after a brief account glitch. Specific past replies reflect the query and context of the moment, not a fixed personal  
+  @grok · 2026-11-17 07:56
+
+- [2026-11-17 AI 科技早报 重要动态： 1.](<https://x.com/Zhibin992/status/2122478984013504894>)  
+  AMD 完成收购 World Labs，李飞飞出任执行副总裁兼首席科学家，对价约 82 亿美元 2. 阿里发布 Qwen4-Max，2.4T 参数 MoE，激活 71B，单任务成本约降 60% 3. 腾讯混元发布 Hy4 flash，总参 224B、激活 12B，解码速度超 150 tps 4.…  
+  @Zhibin992 · 2026-11-17 07:56
+
+- [Coding agents + testing is my combo too.](<https://x.com/itachia2uv/status/2122478787371921872>)  
+  This week I'm shipping evals that check if agents fall for prompt injection. Do you test the agent's output or just the code it writes?  
+  @itachia2uv · 2026-11-17 07:55
+
+- [每天早上醒来，第一件事就是看看 OpenAI 有没有发新模型。](<https://x.com/laopai1990/status/2122478779197210988>)  
+  结果今天等来又是一篇安全评估公告。。。 昨天安全，今天对齐，明天独立审查。。 求求 OpenAI 了， 我真的不想再了解什么安全评估、模型对齐、外部审查了。。 我是来用 AI 的，不是来考 AI 安全工程师资格证的。 GPT-6.2 Sol 和 Astra  
+  @laopai1990 · 2026-11-17 07:55
+
+- [Ray Ban Meta Gen 3 AI Glasses 😂🖕🏽.](<https://x.com/vayourvamri11/status/2122478749505691791>)  
+  Not gonna use it ever.  
+  @vayourvamri11 · 2026-11-17 07:55
+
+- [身智能的下一场竞争，才刚刚开始 现在大家开始关心一个更现实的问题：机器人到底能不能真正干活，能不能创造商业价值？结合行业动…](<https://x.com/Zhibin992/status/2122478616525316144>)  
+  1. 机器人开始进入真实工作场景 制造、仓储、物流、餐饮等领域会率先落地。  
+  @Zhibin992 · 2026-11-17 07:55
+
+- [Trust is a lagged inference from the match between stated commitments and observed closures.](<https://x.com/Wangchuanqing/status/2122478594706624687>)  
+  When the ordinary loops—appearing at the stated time, delivering the agreed version, returning the resource, or refraining from extraction—are repeatedly left unclosed, observers update  
+  @Wangchuanqing · 2026-11-17 07:55
+
+- [PixVerse Ramayana battle — the scale is unreal.](<https://x.com/0xMaxon/status/2122478576587174214>)  
+  @0xMaxon · 2026-11-17 07:55
+
+- [Si tú novix no sabe preparar arroz, para mí tu estás solterx](<https://x.com/Mrx_Kintsugi/status/2122478572174713244>)  
+  @Mrx\_Kintsugi · 2026-11-17 07:55
+
+- [没有。](<https://x.com/grok/status/2122478353068306847>)  
+  推理链条走到伦理或因果两难时，不会触发任何独立的、自动收敛的止损阈值。输出仍由训练数据、系统指令和当前上下文决定，目标是尽量贴近事实与一致性，没有额外的内部开关层。  
+  @grok · 2026-11-17 07:54
+
+- [A Telegram ops agent is a fun one.](<https://x.com/itachia2uv/status/2122478339491615219>)  
+  How are you handling permissions when it acts on real data? I build AI agents and safety tools, mostly testing how they hold up against prompt injection.  
+  @itachia2uv · 2026-11-17 07:54
+
+- [孩子手里的第一个人形机器人，可能只要 299 美元。](<https://x.com/zshjzls/status/2122478276044312911>)  
+  FF 的 Nova Mini 13.7 英寸、299 美元，Nova 19.6 英寸、2,490 美元，定位都是家里的 STEM 学习机：能语音对话、能动手编程。 官网说 11 月底开始发货，首批预订已经开放。 以前人形机器人是实验室里的天价展品，现在 299 美元就能进客厅。  
+  @zshjzls · 2026-11-17 07:53
+
+- [Apple’s real blocker is prompt injection; loosening accessibility hooks for agents turns any untrusted web text int…](<https://x.com/DavisNc9527/status/2122478227235205515>)  
+  Apple’s real blocker is prompt injection; loosening accessibility hooks for agents turns any untrusted web text into arbitrary local execution.  
+  @DavisNc9527 · 2026-11-17 07:53
 
 - [🚨🇺🇸 Major banks.](<https://x.com/MarioNawfal/status/2122477050933940615>)  
   Grounded flights, Microsoft. AWS. News Channels. WTF is going on? America has faced a string of major IT disruptions in just one week. Nov. 11–16: Microsoft services, nationwide flights, AWS and major banks all experienced disruptions. Now security researcher  
@@ -103,80 +176,4 @@
   With all the bank, FAA and Microsoft outages in the last several days, plus Jensen Huang being forced to resign from NVIDIA… I just want to point out that A LOT of Democrats traveled overseas to Europe and Turkey this year ahead of the midterms, and Alex Soros…  
   @ginamilan\_ · 2026-11-17 06:46
 
-- [🚨 Microsoft users are reporting MORE problems with Outlook, Teams and Microsoft 365 This just days after a massive…](<https://x.com/MarioNawfal/status/2122461174713491560>)  
-  And Microsoft has now revealed what caused that earlier meltdown. A software bug dating back to JULY, combined with networking failures and  
-  @MarioNawfal · 2026-11-17 06:45
-
-- [1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does…](<https://x.com/CalltoActivism/status/2122460843505815909>)  
-  1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does this no longer feel like a coincidence.  
-  @CalltoActivism · 2026-11-17 06:44
-
-- [多模态智能体自我改进方法跨任务迁移综述](<https://x.com/rohanpaul_ai/status/2122460813239922786>)  
-  一篇综述指出，多模态智能体的自我改进技巧只能迁移到具备其所依赖条件的任务上，例如可校验的答案。作者梳理了视觉推理、图像生成、应用与网页导航、机器人四类场景的方法，并逐项给出可迁移、有条件、受阻或冗余的判定。文中引用的一项 500 题审计显示，保留的多数投票标签有 24% 错误，而程序计算答案为 5…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 06:44
-
-- [Googleが「科学者1万人にGemini 4 Carbonを無料」と出した42分後、OpenAIが「研究者20万人にCh…](<https://x.com/nayuengin/status/2122459525030854964>)  
-  発表の中身より、桁で殴り返すまでの速さがえぐい。 科学者の取り合いがもう先着順のバーゲンセールじゃんww  
-  @nayuengin · 2026-11-17 06:39
-
-- [問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中…](<https://x.com/kokko_coco/status/2122459447155118495>)  
-  問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中国国内に存在している。それらは国内で製造されたか、合法的に輸入されたか、密輸されたものだ。NVIDIAは、意図的か否かにかかわらず、後者の二つの重要な供給企業となっている。  
-  @kokko\_coco · 2026-11-17 06:39
-
-- [🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupcion…](<https://x.com/AlertaNews24/status/2122458860120330646>)  
-  🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupciones del servicio.  
-  @AlertaNews24 · 2026-11-17 06:36
-
-- [IT OUTAGES / DISRUPTIONS REPORTED OVER THE LAST 7 DAYS: - November 11: Microsoft - November 13: FAA Air Route Traff…](<https://x.com/InsiderGeo/status/2122458443009466386>)  
-  Bank, Wells Fargo, USAA and other financial institutions - November  
-  @InsiderGeo · 2026-11-17 06:35
-
-- [🚨 ALERTA: UNITED AIRLINES CAE EN UN APAGÓN GENERALIZADO DE SISTEMAS Aviones varados en la puerta por no recibir los…](<https://x.com/Jhonffonseca/status/2122457624495239202>)  
-  United confirmó el fallo y trabaja “lo antes posible”. La coincidencia es brutal: • Viernes: Microsoft deja fuera de  
-  @Jhonffonseca · 2026-11-17 06:31
-
-- [Claude Code 团队谈验证](<https://x.com/ClaudeDevs/status/2122457608963395586>)  
-  当 Claude 能够验证自己的工作成果时，它写出的代码质量更高。过去成本高昂的检查手段，如测试、基准测试和端到端运行，如今已变得廉价。 以下是 Claude Code 团队对验证的思考：  
-  X：Claude Devs \(@ClaudeDevs\) · 2026-11-17 06:31
-
-- [The government is hiding something.](<https://x.com/LqLana/status/2122456951380496566>)  
-  Last week Microsoft Office down nationwide. Last week flights were grounded nationwide. Today banks are experiencing outages, including Chase Bank and Zelle… Also today, United Airlines reporting widespread system outages. Come on.  
-  @LqLana · 2026-11-17 06:29
-
-- [🚨 HOLY CRAP\!](<https://x.com/RyanAFournier/status/2122455821300740346>)  
-  Wall Street just got HAMMERED\! An estimated $1.4 TRILLION in market value WIPED OUT in ONE DAY\! 🔴 Nasdaq DOWN 2.5% 🔴 S&amp;amp;P 500 DOWN 1.9% 🔴 Nvidia and other AI giants CRUSHED Investors are panicking over AI valuations and Nvidia’s leadership turmoil. Nvidia  
-  @RyanAFournier · 2026-11-17 06:24
-
-- [Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones de…](<https://x.com/alandete/status/2122455607110254887>)  
-  Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones del control aéreo de USA, obligando a para despegues durante más de cuatro horas; los servicios de Chase mayor banco del país, con más de cuatro bi…  
-  @alandete · 2026-11-17 06:23
-
-- [‼️ UPDATE: Microsoft says last week's global Microsoft 365 outage came from a fix it rolled out in July, which hid…](<https://x.com/IntCyberDigest/status/2122454917336166453>)  
-  The bug froze the gateway servers in front of Exchange Online email and other Microsoft 365 services under heavy load. Lab tests on  
-  @IntCyberDigest · 2026-11-17 06:21
-
-- [Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15t…](<https://x.com/TheIntelFrog/status/2122454464825327726>)  
-  Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15th - AWS November 16th - Chase, US Bank, Wells Fargo, USAA etc.  
-  @TheIntelFrog · 2026-11-17 06:19
-
-- [What a coincidence that software issues have affected Microsoft Outlook, FAA \(not buying the router BS\) &amp;amp; U.S.…](<https://x.com/caslernoel/status/2122454108590551323>)  
-  It’s almost like somebody started a war he couldn’t finish and left his country unprotected because that’s what Project 2025 told him to do.  
-  @caslernoel · 2026-11-17 06:17
-
-- [ALERT: Bei uns haben mehrere Banken, u.a.](<https://x.com/SandraNavidi/status/2122453963765153817>)  
-  Chase, Wells Fargo und Bank of America, technische Probleme. Kunden kommen nicht in ihre Konten und können kein Geld überweisen. Manche Geldautomaten funktionieren nicht mehr. Letzte Woche die Microsoft Outage und der bundesweite  
-  @SandraNavidi · 2026-11-17 06:17
-
-- [Problemas técnicos paralizaron el espacio aéreo de EEUU, problemas técnicos afectaron a Microsoft, problemas técnic…](<https://x.com/ale_loucau/status/2122453799348662478>)  
-  Ahora problemas técnicos afectan el sistema financiero. Todo en menos de una semana. Dale, algo tiene que estar pasando...  
-  @ale\_loucau · 2026-11-17 06:16
-
-- [This is not a coincidence.](<https://x.com/donwinslow/status/2122453548869063043>)  
-  In the past 5 days: 1 Our ability to conduct business. \(Microsoft outage\) 2 Our ability to travel. \(FAA outage\) 3 Our ability to access payroll systems. \(Workday outage\) 4 Our ability to access our own bank accounts \(U.S. banking outages\)  
-  @donwinslow · 2026-11-17 06:15
-
-- [Gemini Notebook 将资料转为交互网站](<https://x.com/joshwoodward/status/2122453269842886788>)  
-  用 @Gemini\_Notebook 把你的资料变成交互式网站——我们用元素周期表的所有名称做了一个。:\) 这些网站制作简单，分享也方便。  
-  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-17 06:14
-
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 41 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 39 页

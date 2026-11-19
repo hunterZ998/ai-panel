@@ -1,6 +1,81 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 41 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 39 页
+
+- [Google DeepMind 发布 Gemini 4 Hydrogen 机器人插件，支持对话式训练机械臂](<https://x.com/GoogleDeepMind/status/2122767521925230896>)  
+  Google DeepMind 宣布推出 Gemini 4 Hydrogen 与 Google Antigravity 的新机器人插件，让教学机器人新任务更快。用户可连接受支持的机械臂，在 MuJoCo 模拟中练习，并通过普通对话在真实世界中执行任务。  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-18 03:03
+
+- [🇺🇸‼️🚨 9 BIG OUTAGES IN 6 DAYS Now Apple. iCloud sign-in, App Store, Apple Music and AppleCare down today, per Apple.](<https://x.com/MyLordBebo/status/2122766808323412231>)  
+  Before that Microsoft 365, FAA, Amtrak, Workday, Chase, United, Schwab and even the NSA’s classified network … What’s happening? These are supposed to be  
+  @MyLordBebo · 2026-11-18 03:00
+
+- [Gemini Tasks 免费用户现可用 Gemini 4 Hydrogen 模型运行](<https://x.com/Google/status/2122766772252148137>)  
+  Google 宣布 Gemini Tasks 现在也可在最新 Gemini 4 Hydrogen 模型上运行，对所有免费用户开放，为日常任务带来更强的智能与速度。更多 GeminiApp 更新可查看官方链接  
+  X：Google \(@Google\) · 2026-11-18 03:00
+
+- [Gemini 支持转发邮件创建任务](<https://x.com/Google/status/2122766740354392358>)  
+  在 Android 和 iOS 上给 Gemini 发消息布置任务，或直接把邮件转发给 Gemini，让它根据邮件中的信息创建任务或日历日程。📅  
+  X：Google \(@Google\) · 2026-11-18 03:00
+
+- [Gemini App 可代用户致电本地商家预约并写入 Google Calendar](<https://x.com/Google/status/2122766711715774505>)  
+  Google 官方宣布 Gemini App 现在可以致电本地商家、替用户排队等待电话接听以完成预约，并把确定的日期和时间直接添加到用户的 Google Calendar 中。  
+  X：Google \(@Google\) · 2026-11-18 02:59
+
+- [Arena 评测：Microsoft MAI-Image-2.7 结束预览，在 Image Arena 帕累托前沿上性价比…](<https://x.com/arena/status/2122766066254590434>)  
+  Arena 宣布 Microsoft 的 MAI-Image-2.7 结束预览，使 Microsoft AI 成为全部 3 个 Image Arena 的第 2 名实验室，价格为每张图 $0.035，处于所有 Image Arena 的帕累托前沿。该模型在 Multi-Image Edit 排第…  
+  X：Arena \(@arena\) · 2026-11-18 02:57
+
+- [INTERNET SHUTDOWN IN AMERICA. 15 DAYS.](<https://x.com/WhaleScan/status/2122765752562225221>)  
+  That's my call. You heard it from me first. Look how fast it's falling: Thursday → Microsoft. Outlook and Teams, 74 countries, nearly a full day. Friday → the sky. 17 of 22 air traffic centres lose comms. EVERY departure grounded.  
+  @WhaleScan · 2026-11-18 02:56
+
+- [Major outage reports hit Apple, Google and Microsoft Users are reporting widespread issues affecting Gmail, Outlook…](<https://x.com/Pirat_Nation/status/2122765076859879894>)  
+  Marriott is also seeing reports of access and booking problems.  
+  @Pirat\_Nation · 2026-11-18 02:53
+
+- [🚨 EUA REGISTRAM FALHAS EM SISTEMAS DE AVIAÇÃO, BANCOS, MICROSOFT, APPLE E ATÉ NA REDE SIGILOSA DA NSA.](<https://x.com/toninhodocall/status/2122765007507030381>)  
+  SUSPEITAS DE CIBERATAQUE.  
+  @toninhodocall · 2026-11-18 02:53
+
+- [🔴 ULTIMA HORA : Ahora hay problemas en Estados Unidos de los servicios de Gmail, App Store, Apple Pay, iCloud, Appl…](<https://x.com/mario_dico50/status/2122764445633921082>)  
+  Gran parte de los servicios de Apple han caído.  
+  @mario\_dico50 · 2026-11-18 02:50
+
+- [🚨BREAKING: Nvidia has announced their new CEO, Jessica Vaj](<https://x.com/greg16676935420/status/2122763849753629146>)  
+  @greg16676935420 · 2026-11-18 02:48
+
+- [I haven’t lived here in awhile, but I see no other way to answer the hundreds of texts/DMs asking me if the world i…](<https://x.com/nicoleperlroth/status/2122763662796689668>)  
+  In the span of six days, we’ve experienced; 11/12 — Microsoft outage 11/13 — Nationwide FAA ground stop 11/16 — Major US banking disruptions  
+  @nicoleperlroth · 2026-11-18 02:47
+
+- [The genius who put America ahead in AI belongs back at NVIDIA.](<https://x.com/ACTBrigitte/status/2122763526649659627>)  
+  Reinstate Jensen and keep driving America forward.  
+  @ACTBrigitte · 2026-11-18 02:47
+
+- [🚨 NVIDIA NOS ESTÁ REGALANDO EL MAYOR COMEBACK DE LA HISTORIA DE LA TECNOLOGÍA.](<https://x.com/ecommartinez/status/2122763179344482393>)  
+  Lo que está pasando con Jensen Huang es una auténtica locura. Para los que no han seguido la historia: → En 1993, Jensen Huang cofundó NVIDIA. → Durante 33 años, convirtió un pequeño fabricante  
+  @ecommartinez · 2026-11-18 02:45
+
+- [Dario Amodei 谈 Anthropic 文化](<https://x.com/rohanpaul_ai/status/2122762448260501600>)  
+  Dario Amodei 把 40% 到 50% 的时间花在人才和文化上。 包括每两周一次面向全公司的演讲，叫 DVQ（Dario Vision Quest），他在其中讲话不带企业套话；还有一场文化面试，会把才华出众但人品差的工程师拒之门外。 ---- 完整视频在“10baggers”YouTub…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 02:43
+
+- [La ministra de Ciencia, Ximena Lincolao, se reúne con OpenAI para modernizar y capacitar al Estado, ¡y los diputado…](<https://x.com/cretton15/status/2122761517938737613>)  
+  Holanda ya ha ahorrado US$3.900 millones utilizando IA para hacer más eficiente el Estado.Chile no puede quedarse atrás\!  
+  @cretton15 · 2026-11-18 02:39
+
+- [🇺🇸 Emails, flights, banks and now Apple Pay all crashed in 6 days. 5 days ago Microsoft's Outlook and Teams went da…](<https://x.com/MarioNawfal/status/2122761130745712711>)  
+  A day later the FAA had to stop every single flight in the U.S. for over 4 hours. That mess wiped out more than 14,000 flights and left people  
+  @MarioNawfal · 2026-11-18 02:37
+
+- [🔥 STOP WASTING TIME TRYING TO RECREATE VIDEOS MANUALLY\!](<https://x.com/nollywoodbites/status/2122761119983108395>)  
+  Here’s a crazy AI workflow: 1️⃣ Take any interesting video and upload it to Gemini. Ask it to extract the exact script, dialogue, actions, facial expressions and timing. 2️⃣ Bring that extracted script to ChatGPT. Ask it  
+  @nollywoodbites · 2026-11-18 02:37
+
+- [🔥🚨LATEST: Congressman-elect Anthony Constantino says he signed the letter to reinstate Jensen Huang as Nvidia CEO,…](<https://x.com/dom_lucre/status/2122761051108442158>)  
+  🔥🚨LATEST: Congressman-elect Anthony Constantino says he signed the letter to reinstate Jensen Huang as Nvidia CEO, saying Jensen made a mistake “that should be up to him and his loved ones to resolve privately”  
+  @dom\_lucre · 2026-11-18 02:37
 
 - [THE CANDY KINGDOM 👑 Create more for less this Black Friday.](<https://x.com/Margatzy06_/status/2122760893775970541>)  
   Get up to 59% off with PixVerse’s annual plan deals and up to 90% off video models. Explore the offers at PixVerse Black Friday: @PixVerse \#BlackFridayOnPixverse \#BlackFriday \#pixvers  
@@ -101,80 +176,4 @@
   Second builds a model of you that you own, and your agents can use as an API. Truly personal software needs a deep understanding of you: not just your emails and messages, but how you work, what motivates you, your people,  
   @kenziyuliu · 2026-11-18 02:14
 
-- [Crisis meeting.](<https://x.com/brivael/status/2122754999923200147>)  
-  Somewhere between Davos and a Brussels think tank. On the agenda: a week of outages across America. Microsoft goes down. FAA air traffic control goes down. United grounds its planes. Chase and other banks lock people out of their accounts. Around the table,  
-  @brivael · 2026-11-18 02:13
-
-- [As an Nvidia shareholder @nvidia, I believe the only fair resolution to the Jensen problem is a shareholder vote.](<https://x.com/HopeToProsper/status/2122754633550774664>)  
-  The board doesn't own the company; the shareholders do, and our voices haven't been heard. I vote to keep Jensen as CEO. @JensenHuang  
-  @HopeToProsper · 2026-11-18 02:11
-
-- [Microsoft AI 发布 MAI-Image-2.7，登顶 AA-Image-Editing v2.1 图像编辑评测](<https://x.com/ArtificialAnlys/status/2122754535206846610>)  
-  Artificial Analysis 介绍 Microsoft AI 发布 MAI-Image-2.7，成为 AA-Image-Editing v2.1 榜单第一，价格约为其身后四个模型的六分之一。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:11
-
-- [🚨BREAKING: APPLE is the latest tech giant to experience widespread service disruptions.](<https://x.com/MarioNawfal/status/2122754494949933198>)  
-  Users are reporting problems with iCloud, Apple Pay, the App Store and several other Apple services, according to Downdetector. Microsoft, AWS and major U.S. banks have also experienced  
-  @MarioNawfal · 2026-11-18 02:11
-
-- [URGENTE — Se reportan caídas en Estados Unidos de los servicios de Gmail, App Store, Apple Pay, iCloud, Apple Music…](<https://x.com/qtf/status/2122754399516713231>)  
-  Gran parte de los servicios de Apple han caído. Esto va creciendo de manera importante, FF  
-  @qtf · 2026-11-18 02:11
-
-- [\(FT\) - Nvidia stopped disclosing the scale of its business in Singapore last year, at a time the city-state account…](<https://x.com/carlquintanilla/status/2122754251273466135>)  
-  \(FT\) - Nvidia stopped disclosing the scale of its business in Singapore last year, at a time the city-state accounted for almost half of its worldwide revenues. @FT $NVDA  
-  @carlquintanilla · 2026-11-18 02:10
-
-- [OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter](<https://x.com/OpenRouter/status/2122754139533066653>)  
-  OpenRouter 宣布 OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 上线。Astra 面向最难的项目，评测成绩创新高且每任务成本不到 GPT-6 Astra 的三分之一，价格为 $8/M 输入、$40/M 输出；Sol 面向日常智能体工作，价格为 $2/M 输入、…  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-18 02:10
-
-- [OpenAI 发布 GPT-6.2 Sol 与 Astra，Sol 的 ultrafast 扩展至 Pro 200 套餐](<https://x.com/thsottiaux/status/2122753991000133943>)  
-  OpenAI 发布 GPT-6.2 Astra 和 Sol，两个模型现已开放使用，官方称其高效且面向真实场景表现。作者（OpenAI 员工）补充 Sol 的 ultrafast 已扩展到 Pro 200 套餐，并表示 Sol 是他日常使用的主力模型。详情见  
-  X：Tibo \(@thsottiaux\) · 2026-11-18 02:09
-
-- [Jensen Huang is open to making a comeback at NVIDIA. 👀 Jensen Huang has broken his silence, apologizing for his per…](<https://x.com/rxendy/status/2122753577349247044>)  
-  He says he is willing to return as CEO if the board believes it is in the  
-  @rxendy · 2026-11-18 02:07
-
-- [OpenAI 法律专用配置领跑 Harvey LAB 基准](<https://x.com/ArtificialAnlys/status/2122752733497463210>)  
-  OpenAI 的 Astra for Law 6.2 在 Harvey LAB-AA v1.1 基准上以 20.8% 的 Hallucination-Gated All-Pass Rate 排名第一，GPT-6.2 Astra（max）以 15.0% 位居第二。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:04
-
-- [💰 The world's most valuable companies, including Anthropic. 1. 🇺🇸 Apple: $5.18T 2. 🇺🇸 Nvidia: $3.93T 3. 🇺🇸 Microsof…](<https://x.com/stats_feed/status/2122752531868885288>)  
-  💰 The world's most valuable companies, including Anthropic. 1. 🇺🇸 Apple: $5.18T 2. 🇺🇸 Nvidia: $3.93T 3. 🇺🇸 Microsoft: $3.89T 4. 🇺🇸 Alphabet: $3.60T 5. 🇺🇸 Amazon: $2.88T 6. 🇹🇼 TSMC: $2.07T 7. 🇺🇸 SpaceX: $1.89T 8. 🇸🇦 Saudi Aramco: $1.70T 9. 🇺🇸 Broadcom: $1.66T 1…  
-  @stats\_feed · 2026-11-18 02:03
-
-- [I think we all know the frustration of depending on technology for work, only for the service to go down.](<https://x.com/Ismailsalehgw/status/2122752520447508783>)  
-  One Microsoft outage can remind millions of people how much of daily life now depends on a screen  
-  @Ismailsalehgw · 2026-11-18 02:03
-
-- [OpenAI 发布 gpt-6.2-astra 与 gpt-6.2-sol，Ultrafast 降价 50%](<https://x.com/OpenAIDevs/status/2122752500877144461>)  
-  OpenAI 宣布 API 中可使用 gpt-6.2-astra 和 gpt-6.2-sol 两个模型，均支持 Fast 与 Ultrafast 模式。未来三个月 Ultrafast 价格下调 50%，对 API 和 Enterprise 用户仅为 Standard 的 3 倍成本；Ultrafa…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
-
-- [GPT-6.2 Astra 登顶 Terminal-Bench Science](<https://x.com/OpenAIDevs/status/2122752488558522852>)  
-  GPT-6.2 Astra 在 Terminal-Bench Science 0.1 上创下新高，该基准测试模型在终端中开展科学工作的能力，其得分比 GPT-6 Astra 高出 9 个百分点，成本不到后者的 1/3。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
-
-- [GPT-6.2 Astra 与 Sol 提升编码质量](<https://x.com/OpenAIDevs/status/2122752473723175256>)  
-  GPT-6.2 Astra 和 Sol 持续提升编码质量与效率，带来更高的每美元智能。 日常编码请从 GPT-6.2 Sol 开始。在 Cognition 的 FrontierCode 2.0 上以最大推理强度运行时，它的成绩与 Astra 相差不到半分，而每个任务的 API 成本约为后者的 1/…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
-
-- [OpenAI 发布 GPT-6.2 Astra，Agents' Last Exam 得分超 GPT-6 Astra 5.2…](<https://x.com/OpenAIDevs/status/2122752458464358620>)  
-  OpenAI 宣布 GPT-6.2 Astra 在 Agents' Last Exam 上创下新高，比 GPT-6 Astra 高 5.2 分，单任务成本不到其三分之一。该基准测试分析营销活动、制作幻灯片和构建财务表格等多步复杂专业工作。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
-
-- [GPT-6.2 Astra 生成RC越野车装配指南](<https://x.com/OpenAIDevs/status/2122752442240827467>)  
-  GPT-6.2 Astra 利用一辆RC越野车的公开照片和组装手册，制作了一份动画装配指南，展示各部件如何拼装在一起，并附有一份图文零件目录。 在 BenchCAD 2.1 Core 上——该基准测试考察根据工程图纸构建3D零件和装配体的能力——GPT-6.2 Astra 的表现比 GPT-6 A…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
-
-- [OpenAI 发布 GPT-6.2 Astra 旗舰模型，API 价格较 GPT-6 Astra 降低 20%](<https://x.com/OpenAIDevs/status/2122752394002071717>)  
-  OpenAI 发布 GPT-6.2 Astra 旗舰模型，带来代码更干净、前端与 3D 模型能力提升以及更高效的工具调用。Astra 和 Sol 在高难度任务上能用更少输出 token 取得更好结果；API 中 Astra 标准输入输出 token 价格比 GPT-6 Astra 低 20%，So…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
-
-- [People don't understand just how much these top tier CEO's are work-maxxing. \*Jensen Huang routinely works from 9am…](<https://x.com/nic_munoz/status/2122752377908568483>)  
-  People don't understand just how much these top tier CEO's are work-maxxing. \*Jensen Huang routinely works from 9am to midnight \(weekends as well\) He himself said "There may be people smarter than me, but no one is ever going to work harder than me." He can't …  
-  @nic\_munoz · 2026-11-18 02:03
-
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 41 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 39 页

@@ -1,6 +1,82 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 41 页
+[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 39 页
+
+- [🚨 Microsoft users are reporting MORE problems with Outlook, Teams and Microsoft 365 This just days after a massive…](<https://x.com/MarioNawfal/status/2122461174713491560>)  
+  And Microsoft has now revealed what caused that earlier meltdown. A software bug dating back to JULY, combined with networking failures and  
+  @MarioNawfal · 2026-11-17 06:45
+
+- [1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does…](<https://x.com/CalltoActivism/status/2122460843505815909>)  
+  1\) Microsoft 2\) FAA system outage 3\) Major Bank Outage today 4\) United Airlines systems outage Am I alone - or does this no longer feel like a coincidence.  
+  @CalltoActivism · 2026-11-17 06:44
+
+- [多模态智能体自我改进方法跨任务迁移综述](<https://x.com/rohanpaul_ai/status/2122460813239922786>)  
+  一篇综述指出，多模态智能体的自我改进技巧只能迁移到具备其所依赖条件的任务上，例如可校验的答案。作者梳理了视觉推理、图像生成、应用与网页导航、机器人四类场景的方法，并逐项给出可迁移、有条件、受阻或冗余的判定。文中引用的一项 500 题审计显示，保留的多数投票标签有 24% 错误，而程序计算答案为 5…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 06:44
+
+- [Googleが「科学者1万人にGemini 4 Carbonを無料」と出した42分後、OpenAIが「研究者20万人にCh…](<https://x.com/nayuengin/status/2122459525030854964>)  
+  発表の中身より、桁で殴り返すまでの速さがえぐい。 科学者の取り合いがもう先着順のバーゲンセールじゃんww  
+  @nayuengin · 2026-11-17 06:39
+
+- [問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中…](<https://x.com/kokko_coco/status/2122459447155118495>)  
+  問題となっているNVDAの迂回輸出について、JPMのレポートが極めて興味深い指摘をしている。中国の計算資源の3分の1強は中国国内に存在している。それらは国内で製造されたか、合法的に輸入されたか、密輸されたものだ。NVIDIAは、意図的か否かにかかわらず、後者の二つの重要な供給企業となっている。  
+  @kokko\_coco · 2026-11-17 06:39
+
+- [🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupcion…](<https://x.com/AlertaNews24/status/2122458860120330646>)  
+  🌎 \| AHORA: Los usuarios de Microsoft Outlook, Teams y 365 reportan problemas en medio de una oleada de interrupciones del servicio.  
+  @AlertaNews24 · 2026-11-17 06:36
+
+- [IT OUTAGES / DISRUPTIONS REPORTED OVER THE LAST 7 DAYS: - November 11: Microsoft - November 13: FAA Air Route Traff…](<https://x.com/InsiderGeo/status/2122458443009466386>)  
+  Bank, Wells Fargo, USAA and other financial institutions - November  
+  @InsiderGeo · 2026-11-17 06:35
+
+- [🚨 ALERTA: UNITED AIRLINES CAE EN UN APAGÓN GENERALIZADO DE SISTEMAS Aviones varados en la puerta por no recibir los…](<https://x.com/Jhonffonseca/status/2122457624495239202>)  
+  United confirmó el fallo y trabaja “lo antes posible”. La coincidencia es brutal: • Viernes: Microsoft deja fuera de  
+  @Jhonffonseca · 2026-11-17 06:31
+
+- [Claude Code 团队谈验证](<https://x.com/ClaudeDevs/status/2122457608963395586>)  
+  当 Claude 能够验证自己的工作成果时，它写出的代码质量更高。过去成本高昂的检查手段，如测试、基准测试和端到端运行，如今已变得廉价。 以下是 Claude Code 团队对验证的思考：  
+  X：Claude Devs \(@ClaudeDevs\) · 2026-11-17 06:31
+
+- [The government is hiding something.](<https://x.com/LqLana/status/2122456951380496566>)  
+  Last week Microsoft Office down nationwide. Last week flights were grounded nationwide. Today banks are experiencing outages, including Chase Bank and Zelle… Also today, United Airlines reporting widespread system outages. Come on.  
+  @LqLana · 2026-11-17 06:29
+
+- [🚨 HOLY CRAP\!](<https://x.com/RyanAFournier/status/2122455821300740346>)  
+  Wall Street just got HAMMERED\! An estimated $1.4 TRILLION in market value WIPED OUT in ONE DAY\! 🔴 Nasdaq DOWN 2.5% 🔴 S&amp;amp;P 500 DOWN 1.9% 🔴 Nvidia and other AI giants CRUSHED Investors are panicking over AI valuations and Nvidia’s leadership turmoil. Nvidia  
+  @RyanAFournier · 2026-11-17 06:24
+
+- [Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones de…](<https://x.com/alandete/status/2122455607110254887>)  
+  Llámenme paranoico, pero en menos de una semana han fallado Outlook y servicios de Microsoft; las comunicaciones del control aéreo de USA, obligando a para despegues durante más de cuatro horas; los servicios de Chase mayor banco del país, con más de cuatro bi…  
+  @alandete · 2026-11-17 06:23
+
+- [‼️ UPDATE: Microsoft says last week's global Microsoft 365 outage came from a fix it rolled out in July, which hid…](<https://x.com/IntCyberDigest/status/2122454917336166453>)  
+  The bug froze the gateway servers in front of Exchange Online email and other Microsoft 365 services under heavy load. Lab tests on  
+  @IntCyberDigest · 2026-11-17 06:21
+
+- [Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15t…](<https://x.com/TheIntelFrog/status/2122454464825327726>)  
+  Unexplained IT outages/issues in the last 7 days: November 11th - Microsoft November 13th - FAA ARTCCs November 15th - AWS November 16th - Chase, US Bank, Wells Fargo, USAA etc.  
+  @TheIntelFrog · 2026-11-17 06:19
+
+- [What a coincidence that software issues have affected Microsoft Outlook, FAA \(not buying the router BS\) &amp;amp; U.S.…](<https://x.com/caslernoel/status/2122454108590551323>)  
+  It’s almost like somebody started a war he couldn’t finish and left his country unprotected because that’s what Project 2025 told him to do.  
+  @caslernoel · 2026-11-17 06:17
+
+- [ALERT: Bei uns haben mehrere Banken, u.a.](<https://x.com/SandraNavidi/status/2122453963765153817>)  
+  Chase, Wells Fargo und Bank of America, technische Probleme. Kunden kommen nicht in ihre Konten und können kein Geld überweisen. Manche Geldautomaten funktionieren nicht mehr. Letzte Woche die Microsoft Outage und der bundesweite  
+  @SandraNavidi · 2026-11-17 06:17
+
+- [Problemas técnicos paralizaron el espacio aéreo de EEUU, problemas técnicos afectaron a Microsoft, problemas técnic…](<https://x.com/ale_loucau/status/2122453799348662478>)  
+  Ahora problemas técnicos afectan el sistema financiero. Todo en menos de una semana. Dale, algo tiene que estar pasando...  
+  @ale\_loucau · 2026-11-17 06:16
+
+- [This is not a coincidence.](<https://x.com/donwinslow/status/2122453548869063043>)  
+  In the past 5 days: 1 Our ability to conduct business. \(Microsoft outage\) 2 Our ability to travel. \(FAA outage\) 3 Our ability to access payroll systems. \(Workday outage\) 4 Our ability to access our own bank accounts \(U.S. banking outages\)  
+  @donwinslow · 2026-11-17 06:15
+
+- [Gemini Notebook 将资料转为交互网站](<https://x.com/joshwoodward/status/2122453269842886788>)  
+  用 @Gemini\_Notebook 把你的资料变成交互式网站——我们用元素周期表的所有名称做了一个。:\) 这些网站制作简单，分享也方便。  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-17 06:14
 
 - [UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major…](<https://x.com/RT_com/status/2122452505913327840>)  
   UNITED AIRLINES HIT by ‘WIDESPREAD SYSTEM OUTAGE’ after MASSIVE BANKING DISRUPTION in US Latest in string of major TECH FAILURES hitting the US in recent days — Microsoft, FAA among previous disruptions  
@@ -103,78 +179,4 @@
   Good. We can’t allow a handful of Big Tech oligarchs to play God and endanger the future of humanity. Pause advanced AI development NOW.  
   @BernieSanders · 2026-11-17 05:16
 
-- [Regarding the Microsoft, Aviation &amp;amp; now banks suddenly going down in the span of a week ....for the first time…](<https://x.com/OMGrisham/status/2122437949551964329>)  
-  I literally don't trust the people running our country, and that makes me legitimately sad for all of us.  
-  @OMGrisham · 2026-11-17 05:13
-
-- [Hub 开源 HubEgo-100K 第一视角机器人数据集，总量 44.7 TB](<https://x.com/rohanpaul_ai/status/2122437921617990058>)  
-  Hub 在 Hugging Face 开源 HubEgo-100K 数据集，首批 10,000 小时第一视角技能作业视频，总文件 44.7 TB，免费用于研究和商业用途；未来数周将再提供 90,000 小时，贡献者总数超 100,000 人。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-17 05:13
-
-- [Microsoft is still down Flights are still backed up National Radar went down Workday Payroll crashes Bomb at Ethano…](<https://x.com/Timcast/status/2122437567811371417>)  
-  Microsoft is still down Flights are still backed up National Radar went down Workday Payroll crashes Bomb at Ethanol Plant Banks Outages Widespread US orders all bases must be able to operate for 90 days off grid EU warns Stock Up UK warns Of "The Black Sky Ev…  
-  @Timcast · 2026-11-17 05:12
-
-- [Victor Davis Hanson: Punish Nvidia’s Wrongdoing—Don’t Hand China the AI Crown So you want to stop the corruption, a…](<https://x.com/DailySignal/status/2122437541559251283>)  
-  Nvidia’s investigation into allegations that Jensen Huang was  
-  @DailySignal · 2026-11-17 05:11
-
-- [BREAKING: Microsoft officially surpasses Nvidia to become the world’s second largest company, behind Apple.](<https://x.com/Polymarket/status/2122436543319265639>)  
-  @Polymarket · 2026-11-17 05:07
-
-- [TokenEconomizer 降低 AI 编程智能体成本](<https://x.com/MSFTResearch/status/2122435510463242401>)  
-  AI 编程智能体可能浪费时间和 token 去反复学习相同的经验。TokenEconomizer 基于过往会话构建，在保持任务成功率的同时降低成本。这是一条让编程智能体不仅学会如何解决任务、也学会如何更有效地使用计算资源的路径。 这个开源插件现已在 @github 上线。  
-  X：Microsoft Research \(@MSFTResearch\) · 2026-11-17 05:03
-
-- [🇺🇸🇧🇷 \| Estados Unidos le restringe la venta de chips de Nvidia a Brasil.](<https://x.com/elduckpost/status/2122435475575292163>)  
-  Brasil queda cada vez más aislado del continente americano.  
-  @elduckpost · 2026-11-17 05:03
-
-- [Bill Ackman says he would run the Jensen Huang reinstatement campaign by calling a special meeting with Jensen's 3%…](<https://x.com/firesidealpha/status/2122434825613402418>)  
-  The answer is I think I'd wanna understand the facts." "And if the facts, you know, Jensen did, if it's a personal foible as opposed  
-  @firesidealpha · 2026-11-17 05:01
-
-- [China is going to extraordinary lengths to get its hands on advanced American AI chips.](<https://x.com/ChinaSelect/status/2122434533593170371>)  
-  In an April 2026 investigation, the Select Committee uncovered how China exploits sophisticated smuggling networks, disguised intermediaries, and used indirect shipping routes to evade U.S.  
-  @ChinaSelect · 2026-11-17 05:00
-
-- [The NY Times has the receipts today.](<https://x.com/uTobian/status/2122434318031323373>)  
-  Here's how the Nvidia Blackwell chip laundering worked. 1. Nvidia was blocked from selling Blackwell chips to China. So Jensen Huang sold them to Alice Huang at Megaspeed which installed them in data centers in Singapore, Malaysia, and  
-  @uTobian · 2026-11-17 04:59
-
-- [NEW: Growing concern that major bank outages, Microsoft global service issues, and nationwide FAA ground stop are r…](<https://x.com/DMichaelTripi/status/2122434273214894169>)  
-  NEW: Growing concern that major bank outages, Microsoft global service issues, and nationwide FAA ground stop are related hacking incidents.  
-  @DMichaelTripi · 2026-11-17 04:58
-
-- [Microsoft is also flooded with H-1B employees We are now living with the results](<https://x.com/lsferguson/status/2122433499663937637>)  
-  @lsferguson · 2026-11-17 04:55
-
-- [BANKS ARE NEXT...](<https://x.com/PaulGoldEagle/status/2122432295995162688>)  
-  MAJOR U.S. BANK OUTAGES HIT JUST HOURS BEFORE NOVEMBER 17 First Microsoft. Then the FAA. Now some of America’s largest banks are experiencing major service disruptions\! Thousands of customers have reported problems involving Chase, Bank of America, Wells  
-  @PaulGoldEagle · 2026-11-17 04:51
-
-- [🚨 IT’S ACTUALLY HAPPENING\!](<https://x.com/natebige_/status/2122431853777113420>)  
-  I WARNED YOU\! 🚨 Last week, I warned everyone to pay attention to the disruptions involving Microsoft, the FAA, transportation, and major corporations. I said I didn’t believe this was over\! Now we’re seeing reports of banking problems involving  
-  @natebige\_ · 2026-11-17 04:49
-
-- [PHP website shut downs.](<https://x.com/InfraHaz/status/2122431189143167283>)  
-  EU servers shut down. Microsoft shut down. Air traffic communication shut down. NOW BANK SITES SHUT DOWN. Something big is happening and they aren’t telling us what it is.  
-  @InfraHaz · 2026-11-17 04:46
-
-- [Google Maps 支持用 AI 规划多日自驾行程并导出到 Google Docs](<https://x.com/Google/status/2122430989448225280>)  
-  Google 演示 Maps 的自定义行程规划功能：让 Ask Maps 规划多日自驾路线，可加入海岸徒步或用餐等停靠点，在地图上生成逐日可视化的日程，并可直接导出到 Google Docs。  
-  X：Google \(@Google\) · 2026-11-17 04:45
-
-- [Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining s…](<https://x.com/davetroy/status/2122429257834238278>)  
-  Feels like the bro community is going through the five stages of grief… we have seen denial and anger; bargaining should start in earnest soon, with depression and acceptance in time for the Anthropic IPO.  
-  @davetroy · 2026-11-17 04:39
-
-- [ARE WE UNDER SOME KIND OF ATTACK First it was Microsoft, then it was the FAA, and now today several large US banks…](<https://x.com/DougWahl1/status/2122429213630398577>)  
-  Is this all a coincidence, or do you have a theory that something bigger is happening? Your Thoughts?  
-  @DougWahl1 · 2026-11-17 04:38
-
-- [Microsoft services, the faa grounding, and bank outages are all just copper wire replacement.. i mean updates... i…](<https://x.com/MoshiMoshiMoan/status/2122429090099560745>)  
-  What do you mean every government is telling you to stockpile supplies? Totally normal.  
-  @MoshiMoshiMoan · 2026-11-17 04:38
-
-[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 41 页
+[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 39 页

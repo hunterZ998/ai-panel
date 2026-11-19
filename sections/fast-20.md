@@ -1,6 +1,80 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 41 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 39 页
+
+- [OpenAI 发布 GPT-6.2 Astra，提升工程准确性 and 网站视觉推理](<https://x.com/OpenAI/status/2122750131519037617>)  
+  OpenAI 发布 GPT-6.2 Astra，并邀请用户试用。该模型提升真实工程工作的准确性，并加强网站视觉推理，带来更好的布局、更讲究的图像和更直观的设计。  
+  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol](<https://x.com/OpenAI/status/2122750124543926515>)  
+  OpenAI 宣布 GPT-6.2 Astra 和 Sol 现已可用。推文称两款模型高效且面向真实世界场景，详情见 openai.com/index/introducing-gpt-6-2-astra-sol。  
+  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+
+- [OpenAI 发布 GPT-6.2 Astra 前沿模型](<https://x.com/OpenAI/status/2122750126297161811>)  
+  OpenAI 发布面向最难项目的前沿模型 GPT-6.2 Astra，在专业工作和科学研究相关评测中创下新高，每任务成本不到 GPT-6 Astra 的三分之一。官方称在幻灯片、网站和 3D 设计等任务上差异明显。  
+  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+
+- [Jensen's return is not just in the best interest of NVIDIA, but the world.](<https://x.com/dhh/status/2122749945103192164>)  
+  The board of directors best get moving on extending that invitation. Chop chop\!  
+  @dhh · 2026-11-18 01:53
+
+- [Trump’s handling of Jensen Huang is the intersection of corruption and incompetence.](<https://x.com/GovChristie/status/2122749780371906800>)  
+  It shows exactly what $25 million in ballroom donations can buy.  
+  @GovChristie · 2026-11-18 01:52
+
+- [🔴\#SONDAKİKA \| Gmail, Marriott, Microsoft Outlook ve Microsoft 365 dahil olmak üzere birçok büyük hizmeti etkileyen…](<https://x.com/haskologlu/status/2122749603150016838>)  
+  Apple Destek, App Store, iCloud ve Apple Pay için de raporlar hızla artıyor. \(Downdetector\)  
+  @haskologlu · 2026-11-18 01:51
+
+- ["Una empresa denunciada en su país y Estado": Tere Paneque cuestiona acuerdo de Lincolao con OpenAI](<https://x.com/biobio/status/2122748946238132360>)  
+  @biobio · 2026-11-18 01:49
+
+- [JUST IN: Anthropic paid $740,000 to a lobbying firm linked to Marco Rubio’s former aide to lobby the State Departme…](<https://x.com/Kalshi/status/2122748587692212488>)  
+  JUST IN: Anthropic paid $740,000 to a lobbying firm linked to Marco Rubio’s former aide to lobby the State Department on AI  
+  @Kalshi · 2026-11-18 01:47
+
+- [Araya \(Ind.-PPD\) pide a Contraloría revisar legalidad del acuerdo de Lincolao con OpenAI: alertó por riesgos](<https://x.com/biobio/status/2122748314152026439>)  
+  @biobio · 2026-11-18 01:46
+
+- [Jensen Huang, NVIDIA’ya dönmeye hazır olduğunu açıkladı. 12 Kasım’da CEO’luktan ayrılan Huang, yönetim kurulu dönüş…](<https://x.com/Ozet_Gec_/status/2122747847665959118>)  
+  Henüz geri dönüş kararı yok; son söz yönetim kurulunda.  
+  @Ozet\_Gec\_ · 2026-11-18 01:45
+
+- [BREAKING: FBI says state-aligned hackers are exploiting ARTEX, an AI-powered "super intelligence" penetration tool,…](<https://x.com/HormuzLetter/status/2122747834420109553>)  
+  It was used in a ConnectWise supply-chain breach that hit Microsoft 365 environments across  
+  @HormuzLetter · 2026-11-18 01:44
+
+- [For decades, the idea of AI improving itself was just a thought experiment.](<https://x.com/a16z/status/2122747826983866425>)  
+  Today, AI is already helping researchers at frontier labs run experiments, write code and test ideas faster. So how far are we from AI that can do the research on its own? In our first episode of Working  
+  @a16z · 2026-11-18 01:44
+
+- [Five major outages in less than a week.](<https://x.com/RepNancyMace/status/2122746890546798686>)  
+  Microsoft. Workday. The FAA. Major banks. Now the NSA's classified communications network. Congress needs to be briefed immediately. The American people deserve answers about what's going on.  
+  @RepNancyMace · 2026-11-18 01:41
+
+- [🚨BREAKING: Gmail is experiencing a significant disruption today, as users are reporting trouble sending and receivi…](<https://x.com/CalltoActivism/status/2122746748095664332>)  
+  Downdetector reports have spiked this morning, as Google's status page shows nothing. First the FAA. Then Microsoft. Then the NSA. Now Gmail??  
+  @CalltoActivism · 2026-11-18 01:40
+
+- ["Anthropic says in its filing that Amazon, Google and Microsoft "simultaneously serve as our investors, customers,…](<https://x.com/MorningBrew/status/2122746301984952792>)  
+  "Anthropic says in its filing that Amazon, Google and Microsoft "simultaneously serve as our investors, customers, distribution partners, and competitors.""  
+  @MorningBrew · 2026-11-18 01:38
+
+- [🇺🇸‼️ \| URGENTE — Se reportan caídas en Estados Unidos de los servicios de Gmail, App Store, Apple Pay, iCloud, Appl…](<https://x.com/agusantonetti/status/2122746182074044630>)  
+  Gran parte de los servicios de Apple han caído.  
+  @agusantonetti · 2026-11-18 01:38
+
+- [Jensen Huang is speaking up\!](<https://x.com/HealthRanger/status/2122746024699609255>)  
+  And he's ready to return as CEO\! America should welcome him back. Without him, Nvidia is a pale shadow of what he built.  
+  @HealthRanger · 2026-11-18 01:37
+
+- [Imagine being a board member at Nvidia considering potential candidates for CEO, and trying to claim with a straigh…](<https://x.com/paulg/status/2122745936279462274>)  
+  Imagine being a board member at Nvidia considering potential candidates for CEO, and trying to claim with a straight face that one of the others would do a better job.  
+  @paulg · 2026-11-18 01:37
+
+- [The only people that want Jensen Huang out: 1.](<https://x.com/samdattola1/status/2122745917656957341>)  
+  Marco Rubio 2. Scott Bessent 3. The NVDA Board Why ?  
+  @samdattola1 · 2026-11-18 01:37
 
 - [This time the FBI is not just warning America.](<https://x.com/faultlineworld/status/2122745657413001662>)  
   They just issued an urgent global alert to the entire planet about a terrifying new scenario. Humans are no longer breaking into networks. State aligned hackers and cyber gangs are unleashing an autonomous AI hacking weapon called  
@@ -104,77 +178,4 @@
   Microsoft, the FAA, Chase and half the banking system, United, Schwab this morning, and now the NSA's classified internal network. Nobody got hacked. I've been following this for DAYS. I've tracked down every story and I haven't  
   @Darkfibr3 · 2026-11-18 01:09
 
-- [Microsoft?](<https://x.com/CynicalPublius/status/2122738500890186007>)  
-  The FAA? The banks? Zelle? United Airlines? The NSA? NOW APPLE?????  
-  @CynicalPublius · 2026-11-18 01:07
-
-- [Microsoft, United, banks, the FAA, and now the NSA "Unrelated" is getting harder to believe](<https://x.com/EndWokeness/status/2122738027554623765>)  
-  @EndWokeness · 2026-11-18 01:05
-
-- [Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dir…](<https://x.com/lorenzoramirez/status/2122737856259166617>)  
-  Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dirigido desde el Departamento de Estado de Marco Rubio y la inestimable ayuda de Dario Amodei \(Anthropic\)  
-  @lorenzoramirez · 2026-11-18 01:05
-
-- [Anthropic 因投资者需求旺盛计划上调 IPO 发行价](<https://x.com/KateClarkTweets/status/2122737640306884838>)  
-  记者 Kate Clark 引述 WSJ 报道，Nvidia 相关风波并未拖慢 Anthropic 的 IPO 进程，由于投资者需求旺盛，公司计划上调发行价。报道由 Kate Clark 与 WSJ 记者 @cdriebusch、@BenDummett 合作完成。  
-  X：Kate Clark \(@KateClarkTweets\) · 2026-11-18 01:04
-
-- [Devin Bots 智能体团队发布](<https://x.com/cognition/status/2122737511684587551>)  
-  认识 Devin Bots。 从编写固件到每周合并数千个 PR，一个 Devin Bot 带领一支智能体团队完成任务。  
-  X：Cognition \(@cognition\) · 2026-11-18 01:03
-
-- [Après Elon Musk et Jensen Huang, j'ai rassemblé toutes les interviews de Steve Jobs, de 1980 à 2011, sur un seul si…](<https://x.com/GuillaumeAIinSF/status/2122737491337732479>)  
-  Et 14 de ses prédictions vérifiées une par une. Tout se regarde directement sur le site, en 10 langues.  
-  @GuillaumeAIinSF · 2026-11-18 01:03
-
-- [Gemini 基于新模型 Gemini 4 Hydrogen 在六国免费提供任务代办功能](<https://x.com/joshwoodward/status/2122737427970425171>)  
-  Google Labs 宣布 Gemini 现可在美日韩加澳印六国免费为用户执行任务，底层运行于新模型 Gemini 4 Hydrogen，覆盖数亿用户。同步推出多项功能：通过 Google Duplex 致电本地商家、Google Pay 支付结账、RCS 发短信、Gmail 转发邮件、Goog…  
-  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-18 01:03
-
-- [Google Labs 负责人介绍 Gemini tasks 功能并征集用户用例](<https://x.com/joshwoodward/status/2122737429476253889>)  
-  Josh Woodward 发推表示，回复分享 Gemini 为你完成的任务，并附上 Google 官方博客链接： Gemini 免费版提供 tasks 及新功能。  
-  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-18 01:03
-
-- [🚨🇺🇸 Six days.](<https://x.com/MarioNawfal/status/2122736536320139511>)  
-  Six MAJOR IT disruptions. And some VERY important systems are on that list. Microsoft, FAA air traffic control centers, AWS, major U.S. banks, United Airlines and now the NSA's NETWORK. The incidents span aviation, finance, cloud infrastructure and now nationa…  
-  @MarioNawfal · 2026-11-18 01:00
-
-- [Fun Fact: NVIDIA is Trump's largest single investment](<https://x.com/theliamnissan/status/2122736368392564780>)  
-  @theliamnissan · 2026-11-18 00:59
-
-- [🇺🇸 DEVELOPING: MULTIPLE MAJOR US SERVICES REPORTING DISRUPTIONS Downdetector has flagged user-reported problems aff…](<https://x.com/CoffeReport/status/2122736223693218179>)  
-  🇺🇸 DEVELOPING: MULTIPLE MAJOR US SERVICES REPORTING DISRUPTIONS Downdetector has flagged user-reported problems affecting several major services on November 17, including: • National Weather Service • Apple App Store and Apple Support • Microsoft Outlook • Gma…  
-  @CoffeReport · 2026-11-18 00:58
-
-- [Rep.](<https://x.com/geraldcelente/status/2122735701343244583>)  
-  Brian Mast, who once wore an IDF uniform to Capitol Hill in honor of serving both the U.S. and the Israeli militaries, wants Jensen Huang to appear before Congress to see where his loyalty lies You can't write this shit  
-  @geraldcelente · 2026-11-18 00:56
-
-- [Founders who were fired \(or forced out\) of their own companies: Steve Jobs: Apple \(1985\) Travis Kalanick: Uber \(201…](<https://x.com/stats_feed/status/2122735572800217188>)  
-  Founders who were fired \(or forced out\) of their own companies: Steve Jobs: Apple \(1985\) Travis Kalanick: Uber \(2017\) Sam Altman: OpenAI \(2023, briefly\) Jack Dorsey: Twitter \(2008\) Noah Glass: Twitter \(2006\) Andrew Mason: Groupon \(2013\) Adam Neumann: WeWork \(2…  
-  @stats\_feed · 2026-11-18 00:56
-
-- [Cómo me mira la idea de meterle todos mis ahorros a Nvidia después de este tuitín de Jose Juan](<https://x.com/Scorvalue/status/2122735211284774991>)  
-  @Scorvalue · 2026-11-18 00:54
-
-- [Jensen Huang just broke his silence, and in 30 minutes it already has almost 2 million views and over 100K likes.](<https://x.com/ginamilan_/status/2122734996419194952>)  
-  Truly insane.  
-  @ginamilan\_ · 2026-11-18 00:53
-
-- [AS AN NVIDIA SHAREHOLDER, I HAVE BELIEVED IN YOUR COMPANY SINCE THE DAY IT WAS FOUNDED.](<https://x.com/RassvetAsks/status/2122734724724490650>)  
-  AND LET ME MAKE ONE THING ABSOLUTELY CLEAR: TO HELL WITH THE BOARD, JENSEN. COME BACK. The world needs you. LOCAL AI NEEDS A DEFENDER. With all due respect, Mr. Huang, this is no longer  
-  @RassvetAsks · 2026-11-18 00:52
-
-- [Nvidia's board should act now.](<https://x.com/KobeissiLetter/status/2122734524517728527>)  
-  We believe Jensen Huang's newly released statement is only further evidence that he resigned from his position as CEO of Nvidia, $NVDA, in the heat of the moment. Today, Jensen made it clear that he is willing to return, calling it an "honor" to  
-  @KobeissiLetter · 2026-11-18 00:52
-
-- [\[BREAKING\] - Jensen Huang โพสต์แถลงการณ์ครั้งแรกหลังลาออกจาก NVIDIA\! ยอมรับความผิดพลาดในชีวิตส่วนตัว พร้อมประกาศยิน…](<https://x.com/TraderKP_TH/status/2122734452774453731>)  
-  Jensen Huang โพสต์ผ่านบัญชี X ของเขาว่า ----------------------- ตลอดสัปดาห์ที่ผ่านมา  
-  @TraderKP\_TH · 2026-11-18 00:51
-
-- [Jensen Huang on his superpowers: “Of all of the things that I value most about my abilities, intelligence is not to…](<https://x.com/readswithravi/status/2122733920416325740>)  
-  My ability to endure pain and suffering, my ability to work on something for a very, very long period of time, my ability to handle setbacks and see  
-  @readswithravi · 2026-11-18 00:49
-
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 41 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 39 页
