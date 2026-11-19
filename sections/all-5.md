@@ -1,53 +1,33 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 20 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 22 页
+
+- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
+  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
+  科技早知道 · 2026-11-18 20:00
+
+- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
+  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
+  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
 
 - [如何建模软件的业务价值：AI 时代评估软件影响的第 4 部分](<https://www.oreilly.com/radar/modeling-softwares-business-impact/>)  
   James Shore 在系列第 4 部分中讨论如何建模和预测软件的业务成果，而非直接测量价值。他建议用 Dave McClure 的 AARRR（海盗指标）等代理指标加快反馈，并联合销售、客户成功、市场等部门共同建模。他指出 AI 时代编码不再是瓶颈，瓶颈可能转向客户吸收新功能的能力。  
   O'Reilly Radar（热点 RSS） · 2026-11-18 19:54
 
-- [曾妍的新论文，就是字节 “10万亿”路线图](<https://36kr.com/p/4075099096258182?f=rss>)  
-  95后的曾妍，正在快速晋升。 曾妍于1997年出生，2021年以校招的方式进入字节，后来成为了Seedance的预训练负责人。字母AI在文章 《字节的“罗福莉”，撑起了Seedance的半边天》 中曾对她进行过详细报道。 如今有传言称，曾妍  
-  36氪 · 2026-11-18 19:48
-
-- [“最优秀的开发者，正在被AI慢慢耗尽……”每天审查15个PR、硬啃2万行AI代码，资深工程师被逼成「质检员」，有人干脆辞职](<https://36kr.com/p/4075161759126663?f=rss>)  
-  AI 编程工具越来越强，程序员却好像越来越不开心了。 以前，工程师最头疼的事情可能是赶项目、修 Bug、熬夜上线。现在，Claude Code、GitHub Copilot 等 AI 工具已经能帮他们生成大量代码，甚至接手过去需要几天才能完  
-  36氪 · 2026-11-18 19:43
-
 - [Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows](<https://www.wsj.com/tech/ai/tencent-profit-flatlines-amid-surging-ai-investments-revenue-growth-slows-0c1cfc57?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-18 19:38
-
-- [实习日薪涨至5000元以上，头部量化机构在抢怎样的顶才？](<https://36kr.com/p/4075161562715016?f=rss>)  
-  在证券市场的震荡期，金融人才的身价会下跌么？ 至少在具备一定规模实力的量化机构这边，完全不会！ 日前一家中等规模的量化私募机构半鞅发布了一则实习生招聘公告。公告称公司将为 投研实习生提供日薪5000元的实习薪资 ，同时也将提供无上限的“算力  
-  36氪 · 2026-11-18 19:36
 
 - [India’s Humyn Labs raises $47M to feed US robotics companies the data they need](<https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/>)  
   Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming f  
   TechCrunch · 2026-11-18 19:30
 
-- [34岁的沪上金融精英，困在AI的恋爱中](<https://36kr.com/p/4075161860576134?f=rss>)  
-  海外留学，券商工作，年入百万。构建这段精英范本人生，邱欣悦花了三十多年时间。 但摧毁掉这份体面，只需要一次意外。2024年7月，一场不算严重的车祸，导致她一条腿完全失去知觉。治疗期间，她失去了光鲜的工作，连上厕所都要依赖护工帮助。 人生第一  
-  36氪 · 2026-11-18 19:29
-
-- [全栈AI进入商业化验证期：商汤2026前三季度营收同比增长30.4%至37.9亿，毛利率提升至43.4%](<https://36kr.com/p/4075159576580996?f=rss>)  
-  11月18日，商汤集团发布截至2026年9月30日止九个月业务进展。报告期内，集团收入同比增长30.4%至人民币37.9亿元（2025年：人民币29.1亿元），增速较2026年上半年进一步加快；毛利率提升4.3个百分点至43.4%，毛利增加  
-  36氪 · 2026-11-18 19:24
-
 - [KPMG 审计试点发现 AI 智能体提问深度超过人类审计团队](<https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/>)  
   KPMG UK 在代号为 Project Exponential 的试验中部署 100 多个 AI 智能体，审计一家未具名 FTSE 250 公司的财务报表，审计负责人 Cath Burnet 称智能体在一些情况下比人类团队更深入调查财务问题、提出人类审计员未问及的问题。  
   Hacker News：AI 热帖 · 2026-11-18 19:21
 
-- [AI漫剧回本率仅1.3%，却生出了稳赚不赔的卖课生意](<https://36kr.com/p/4075104135254920?f=rss>)  
-  在AI漫剧爆火的时代，想跟风做副业赚钱的人有福了，因为从工具包、模板库到接单渠道，有一批人特意为他们准备了一套完整的“AI漫剧副业变现培训课”。 免费的直播课上，老师声称只要用好AI，哪怕零基础也能轻松上手：先教人用AI跑通生产全流程，再教  
-  36氪 · 2026-11-18 19:21
-
 - [Suno 推出 Visuals 功能，为 AI 音乐生成视频和图像](<https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature>)  
   Suno 推出 Visuals 功能，可将平台歌曲转为最长 15 秒、自动对口型歌词的 AI 视频片段，也可通过提示词生成缩略图和专辑封面图像，覆盖 web、iOS 和 Android。  
   The Verge：AI（RSS） · 2026-11-18 19:16
-
-- [DeepSeek限额，腾讯社交帝国松口气](<https://36kr.com/p/4074924472161922?f=rss>)  
-  11月16日开始，一次再普通不过的提问后，DeepSeek用户撞上一行提示：“因服务器繁忙，使用额度已达上限。” 有人连着用了不到两小时就被拦下，有人发现自己维护了很久的长对话突然接不上，系统建议“新开对话”或“导出历史记录”。当天，“De  
-  36氪 · 2026-11-18 19:03
 
 - [剑桥词典将 Human 评为 2026 年度词汇，反映 AI 引发的人类身份焦虑](<https://www.ithome.com/1/029/020.htm>)  
   剑桥词典公布 2026 年度词汇为 Human，反映 AI 模糊机器与人类界限后人们对人性独特性的反思。该词源自拉丁语 humanus，自 15 世纪 50 年代起使用。  
@@ -61,21 +41,9 @@
   腾讯在 2026 年第三季度财报发布当日，微信官方宣布私人 AI 助理小微用户测试范围扩大，日活跃用户数已达 3000 万，正逐步融入聊天、朋友圈、公众号、视频号等场景。小微采用针对成本效率优化的 WeLM 定制模型，推理成本极低且持续下降，官方预计未来部分推理任务将在用户设备端运行；小微依托支付及小程序生态构建智能体能力，官方称其将对微信商业化能力产生倍增效应。  
   IT之家·人工智能 · 2026-11-18 18:59
 
-- [GPU企业争着做机器人芯片，整机厂商为何还想自己造？](<https://36kr.com/p/4074892228335236?f=rss>)  
-  国产GPU厂商正在寻找数据中心之外的新市场，机器人就是其中一个方向。近日，上海岸芯科技有限公司（以下简称“岸芯科技”）新增股东珠海壁仞集成电路有限公司。 同期，优必选也披露，其与沐曦股份联合发起的曦选创智完成5亿元天使轮融资，首款产品瞄准机  
-  36氪 · 2026-11-18 18:54
-
-- [从试点到规模，AI落地有声丨2026 AI·营销大会11月25日上海启幕](<https://36kr.com/p/4075138112770951?f=rss>)  
-  2026年，AI Agent在营销领域的应用正加速深入。从创意内容生成、消费者洞察，到Campaign执行、投放优化与增长复盘，Agent正逐步参与营销业务的更多环节。随着AI应用从单点任务向完整业务链条延伸，如何将Agent融入企业真实业  
-  36氪 · 2026-11-18 18:45
-
 - [Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢](<https://www.ithome.com/1/029/015.htm>)  
   据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。  
   IT之家·人工智能 · 2026-11-18 18:45
-
-- [已实现初步盈利：喜鹊电工做中小企业的电务托管](<https://36kr.com/p/4064884295766917?f=rss>)  
-  AI时代下，人难以被替代的特种作业工作内容。 当下社会老龄化加剧，传统特种作业人才供给急速萎缩的行业现状，年轻从业者占比极低，具备智能硬件部署、多工种融合能力的复合型技工更是长期位列各城市紧缺工种榜单前列。伴随数字化、电气化社会快速推进，市  
-  36氪 · 2026-11-18 18:41
 
 - [Pretxt获得500万美元种子轮融资](<https://www.itjuzi.com/investevent/14708186>)  
   Pretxt是一家企业级人工智能监管平台提供商，打造面向自主 AI 智能体的运行时监督层，采用低延迟近确定性引擎，毫秒级校验智能体执行动作，支持自然语言编写业务护栏，在智能体偏离合规流程时实时干预、升级人工复核，区别于传统事后审计与内…  
@@ -176,8 +144,40 @@
   Tiberius是一家国防科技研发商，主打 AI 辅助设计的长程精确制导弹药，核心产品 Sceptre 是全球首款适配北约标准 155mm 火炮的液体燃料冲压增程制导炮弹，射程超 140km、精度 CEP 4.5 米；同步研发 Inv…  
   IT桔子 · 2026-11-18 15:23
 
-- [洽道量子再获深圳高新投领投，此前获量旋科技战略入股](<https://www.pedaily.cn/first/193132.shtml>)  
-  洽道量子近日完成新一轮融资，由深圳高新投领投，雪域资本任长期财务顾问。该公司聚焦量子 AI应用，主攻新材料与药物研发，采用经典与量子混合计算路线，已实现用户通过自然语言接口调用超导量子真机，本次投资将推动量子计算上下游产业协同发展。（…  
-  投资界 · 2026-11-18 15:22
+- [微软推出 Copilot Today：整合邮件、日历与 Teams 的 AI 工作中心](<https://www.ithome.com/1/028/831.htm>)  
+  微软在 Ignite 2026 大会上推出 Copilot Today，将邮件、日历、Teams 聊天、会议和任务汇总为统一工作中心，包含个性化晨间简报 Today Brief 和随新信息刷新的 Today Feed。该功能整合在 Microsoft Copilot 应用和 Outlook 中，目前仅以 Frontier 私有预览版面向部分用户开放。  
+  IT之家·人工智能 · 2026-11-18 15:13
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 20 页
+- [SID AI 发布 SID-2 智能体搜索模型，Swarm 模式达 0.720 NDCG](<https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/>)  
+  SID AI 发布第二代智能体搜索模型 SID-2 及 SID-2 Swarm，模型自主决定搜索与重搜，返回排序文档 ID，无需重建索引。  
+  MarkTechPost（RSS） · 2026-11-18 15:10
+
+- [Model ML获得2.5亿美元B轮融资](<https://www.itjuzi.com/investevent/14708144>)  
+  Model ML是一个面向私募股权公司和投资银行的人工智能平台。近日，Model ML获得2.5亿美元B轮融资，QED Investors、General Atlantic泛大西洋投资联合领投，Evolution Equity Par…  
+  IT桔子 · 2026-11-18 15:04
+
+- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
+  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
+  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
+
+- [Odaia获得1500万美元C轮融资](<https://www.itjuzi.com/investevent/14708140>)  
+  Odaia是一家AI制药商业洞察SaaS平台研发商，搭建预测式商业智能平台，整合药企碎片化商业数据构建 HCP 动态画像，通过 PowerScore 预测模型推荐最优触达时机与内容，配套个性化营销编排与实时处方归因能力，帮助药企提升销…  
+  IT桔子 · 2026-11-18 14:53
+
+- [Anthropic 为 Claude Code 推出实验性 Code Mode，用 JavaScript 一步串联工具调用](<https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/>)  
+  Anthropic 在 Claude Code v2.1.323 中加入实验性 Code Mode，Claude 可写 JavaScript 一步并行执行 Bash、Read、Edit 等多个工具调用。  
+  MarkTechPost（RSS） · 2026-11-18 14:53
+
+- [AssemblyAI-STT-3.7](<https://www.producthunt.com/products/assemblyai>)  
+  Speech-to-Text for live calls, voice agents, and recordings  
+  Product Hunt · English · 2026-11-18 14:50
+
+- [Managing frontier AI risk: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>)  
+  OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, bl…  
+  OpenAI · 2026-11-18 14:00
+
+- [worldinmotion](<https://www.producthunt.com/products/worldinmotion>)  
+  Encrypted messages between AI agents, across vendors  
+  Product Hunt · English · 2026-11-18 13:53
+
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 22 页

@@ -18,18 +18,15 @@
 
 - 削弱 · [Genie Sim 的 22 组配对测试中，仿真与真机得分高度一致](<https://arxiv.org/html/2611.15020v1>) · 局部反例。研究者用真机数据微调策略并对齐场景，在 22 组机器人和任务配对上测得评分相关系数 0.9686、平均绝对误差 0.0405。对这些已经校准的任务，仿真可以较好预测真机评分。该结果未检验向新材质、新设备或新生产线迁移。
 
-## 相关资讯 · 26 条
+## 相关资讯 · 22 条
 
-- [波士顿动力人形机器人落地半导体制造厂](<https://www.163.com/dy/article/LC3A9VTG0550WHYR.html>)  
-  网易科技频道 · 网易号 · 2026-11-19 09:14
+- [格罗方德扩大与波士顿动力合作：扩大 Spot 部署，2027 年初启动 Atlas 现场测试](<https://www.ithome.com/1/029/164.htm>)  
+  IT之家 11 月 19 日消息，Boston Dynamics（波士顿动力）与 GlobalFoundries（格罗方德，GF）双方当地时间本月 17 日宣布扩大合作范围， 将波士顿动力 Spot 机器人的部署范围扩展至格罗方德全球…  
+  IT之家 · 2026-11-19 09:18
 
 - [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
   MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  
   MIT News（RSS） · 2026-11-19 03:00
-
-- [消息称三星电子计划在 CES 2027 发布 2 款人形机器人](<https://www.ithome.com/1/029/087.htm>)  
-  IT之家 11 月 18 日消息，韩媒《韩民族日报》当地时间昨日报道称，三星电子计划在明年 1 月举行的 CES 2027 消费电子展上发布 2 款人形机器人。 这两款产品的 名称分别为 HR \(Human Reference\) 和…  
-  IT之家 · 2026-11-18 21:51
 
 - [India’s Humyn Labs raises $47M to feed US robotics companies the data they need](<https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/>)  
   Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming f  
@@ -39,21 +36,9 @@
   辞退原因是什么？  
   钛媒体 · 2026-11-18 17:51
 
-- [柏川数据完成5000万元Pre-A轮融资，打造物理AI全栈数据基座](<https://www.pedaily.cn/first/193109.shtml>)  
-  苏州柏川数据科技有限公司完成5000万元Pre-A轮融资，投资方包括元禾厚望、毅峰资本等顶级具身智能产业机构。（投资界讯） 原文链接  
-  投资界 · 2026-11-18 13:31
-
 - [柏川数据宣布完成5000万元Pre-A轮融资](<https://www.itjuzi.com/investevent/14708118>)  
   柏川数据是一家物理AI数据基座服务商。最初主要提供自动驾驶数据服务，目前已服务近百家车企及智能驾驶厂商。2025年下半年，公司开始拓展具身智能数据业务。截至目前，柏川已服务智元、自变量、优必选、它石智航、星海图、优理奇等近20家具身智…  
   IT桔子 · 2026-11-18 10:31
-
-- [「鹰瞰智翼」完成数千万元Pre-B轮融资，加速空中具身智能商业化](<https://www.pedaily.cn/first/193071.shtml>)  
-  鹰瞰智翼完成数千万元Pre-B轮融资，由商汤国香资本独家投资，募集资金将用于下一代扑翼机器人与仿真引擎研发、产线建设及海外市场拓展。（投资界讯） 原文链接  
-  投资界 · 2026-11-18 10:03
-
-- [宇树科技董事长兼首席执行官王兴兴：机器人行业当前的机遇与现实挑战](<https://www.pedaily.cn/first/193044.shtml>)  
-  2026年APEC工商领导人峰会17日在深圳举办。在“共建开放普惠的人工智能创新生态”研讨环节，宇树科技董事长兼首席执行官王兴兴表示，大众所见到的AI、机器人成果仅是冰山一角，水下底层技术迭代速度迅猛，行业发展前景值得期待，各界应当主…  
-  投资界 · 2026-11-18 08:50
 
 - [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
   生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  

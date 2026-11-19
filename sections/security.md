@@ -20,22 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 26 条
-
-- [奥尔特曼称OpenAI没法让所有人满意，必须平衡AI安全与发展](<https://www.163.com/dy/article/LC39UFBN0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-19 09:08
+## 相关资讯 · 25 条
 
 - [奥尔特曼称 OpenAI 没法让所有人满意，必须平衡 AI 安全与发展](<https://www.ithome.com/1/029/158.htm>)  
   IT之家 11 月 19 日消息，美国当地时间 11 月 18 日周三召开的 DealBook 峰会上， OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，其公司正在“安全”与“发展”寻找 AI 平衡点。 奥尔特…  
   IT之家 · 2026-11-19 09:00
-
-- [Satya Nadella 在 DealBook Summit 谈 AI 时代大量关键基础设施固件无法修补](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
-  Microsoft CEO Satya Nadella 在 The New York Times DealBook Summit 上表示，美国大量关键基础设施（包括数据中心冷却设备、HVAC 和交通系统）存在无法修补的软件漏洞，且都联网运行，在 AI 辅助网络攻击时代极易被利用。  
-  TechCrunch：AI（RSS） · 2026-11-19 07:45
-
-- [Palmer Luckey 警告：AI 驱动的网络攻击正超越防御能力，“该跑起来了”](<https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/>)  
-  Palmer Luckey 在《纽约时报》DealBook 峰会上警告，AI 驱动的网络攻击速度已超过老旧系统的防御能力，攻击者与防御方之间存在明显错配。他称美国对手正利用这一差距发动兼具战略与财务目的的攻击，朝鲜参与尤为突出。他认为长期看优势将属于最有效运用 AI 防御的一方，但防御方必须加快节奏，“该跑起来了”。  
-  TechCrunch：AI（RSS） · 2026-11-19 05:34
 
 - [Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations](<https://www.theinformation.com/articles/anthropics-ipo-making-philanthropist-craig-newmark-hold-back-ai-safety-donations>)  
   The Information · 2026-11-18 23:01
@@ -95,6 +84,14 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Gemini Platform 智能体异常检测实战指南：从部署到首个告警](<https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/>)  
   Google 发布 Gemini Platform 上 Agent Anomaly Detection 的实操指南，通过一个客服智能体演示如何捕获越权读取 payroll 表的异常会话。  
   Google Developers Blog（RSS） · 2026-11-16 00:00
+
+- [OpenAI 推出 Daybreak 红队与防御两款安全产品](<https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/>)  
+  OpenAI 发布 Daybreak 品牌下两款安全产品。Daybreak Red Team 开放 Early Access，用 AI 智能体分析源码和应用上下文自动探测 Web 应用漏洞、验证赏金报告并测试补丁；Daybreak Defense Factory 自动扫描企业代码库生成可部署的修复 pull request。两款产品均运行在 OpenAI 最新网络模型 GPT-6 Cyber 上。  
+  The Decoder：AI News（RSS） · 2026-11-13 23:08
+
+- [DeepSeek 开放全家桶应用 API，V4.1-Flash 支持联网搜索、文件输入与语音独立接口](<https://mp.weixin.qq.com/s/78KBHc4-4N5b2vfL9SkutQ>)  
+  DeepSeek 官方宣布开放全家桶应用 API，在原有 API 中开启对应参数即可获得深度思考搜索、文件输入、阅读链接、模型安全等对话能力，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持这些功能。  
+  公众号：DeepSeek（深度求索） · 2026-11-13 22:19
 
 - [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
   One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  

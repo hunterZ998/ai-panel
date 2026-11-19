@@ -20,7 +20,7 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 14 条
+## 相关资讯 · 11 条
 
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
   「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
@@ -41,18 +41,6 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [Alphabet旗下AI制药商Isomorphic Labs完成50亿美元C轮融资](<https://www.itjuzi.com/investevent/14708098>)  
   Isomorphic Labs是Alphabet旗下AI制药商，将人工智能和计算方法应用于药物发现，并改变医学帮助和治愈人们的方式。公司日前完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本共同领投，Alphabet…  
   IT桔子 · 2026-11-18 09:58
-
-- [AI药物研发公司Isomorphic Labs完成50亿美元C轮融资](<https://www.pedaily.cn/first/193057.shtml>)  
-  11月18日，英国AI药物研发公司Isomorphic Labs完成50亿美元C轮融资，超额认购，刷新自身单轮融资纪录，或创全球AI制药单轮融资新纪录。此轮由Greenoaks、红杉资本领投，Alphabet跟投，各投资方悉数参与。资…  
-  投资界 · 2026-11-18 09:04
-
-- [投资界24h\| 董事会拒绝黄仁勋复职；全球最大AI制药融资诞生；国创启程基金启动投资运作](<https://www.pedaily.cn/first/193051.shtml>)  
-  英伟达联合创始人黄仁勋于11月18日凌晨表示，若董事会认为他回归符合公司及股东利益，愿意再次出任CEO。但英伟达董事会主席琼斯称，不打算仓促任命正式CEO，将先找到最合适人选。（投资界） 原文链接  
-  投资界 · 2026-11-18 08:57
-
-- [全球最大AI制药融资诞生](<https://www.pedaily.cn/first/193046.shtml>)  
-  由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成50亿美元（约合人民币333亿元）C轮融资，融资获得超额认购。 结合公开数据不完…  
-  投资界 · 2026-11-18 08:53
 
 - [七位物理学家谈 AI 如何重塑理论物理研究](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
   Understanding AI 作者采访 Suvrat Raju 等七位理论物理学家，探讨 AI 对理论物理的冲击。Raju 团队用未公开的真实难题构建 TheoPhysEval 基准，GPT-6 Astra 在 50 题中答对 49 题，每题计算成本不到 3 美元，基准在发布前即被饱和。  

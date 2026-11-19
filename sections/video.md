@@ -10,19 +10,11 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 18 条
+## 相关资讯 · 16 条
 
 - [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
   NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
   NVIDIA Blog（RSS） · 2026-11-18 22:00
-
-- [小米的MiMo人才激励考题](<https://36kr.com/p/4075104005116800?f=rss>)  
-  随着大模型研发投入持续增长，将AI业务独立出来融资，正在成为科技公司探索的一种资本运作方式。 今年以来，快手旗下可灵AI完成独立增资，阿里巴巴也宣布拟分拆旗下AI芯片企业平头哥赴港上市。对于拥有核心技术团队的大厂而言，引入外部资本不仅有助于  
-  36氪 · 2026-11-18 20:33
-
-- [曾妍的新论文，就是字节 “10万亿”路线图](<https://36kr.com/p/4075099096258182?f=rss>)  
-  95后的曾妍，正在快速晋升。 曾妍于1997年出生，2021年以校招的方式进入字节，后来成为了Seedance的预训练负责人。字母AI在文章 《字节的“罗福莉”，撑起了Seedance的半边天》 中曾对她进行过详细报道。 如今有传言称，曾妍  
-  36氪 · 2026-11-18 19:48
 
 - [Suno 推出 Visuals 功能，为 AI 音乐生成视频和图像](<https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature>)  
   Suno 推出 Visuals 功能，可将平台歌曲转为最长 15 秒、自动对口型歌词的 AI 视频片段，也可通过提示词生成缩略图和专辑封面图像，覆盖 web、iOS 和 Android。  

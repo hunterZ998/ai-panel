@@ -38,7 +38,7 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 228 条
+## 相关资讯 · 260 条
 
 - [Anthropic IPO将造就数千名百万富翁](<https://36kr.com/p/4075975525668741?f=rss>)  
   11月19日，纳斯达克交易大厅的钟声尚未敲响，Anthropic的员工已经在账面上跨越了一条许多人一生无法企及的线。据路透社报道，这家Claude制造商的首次公开募股有望在现任和前任员工中创造数千名“账面百万富翁”，可能成为硅谷历史上最大的  
@@ -51,13 +51,33 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   当年觉得自己“晚出生了一百年”，没赶上物理发现大爆发年代，当下在AI里找到了黄金时代。 史上最大IPO背后，站着一群“转行”物理学家。 美东时间11月19日，Anthropic将以代码“ANT”在纳斯达克挂牌。除公开发行外，公司还将同步进行  
   36氪 · 2026-11-19 09:16
 
+- [投资界24h\| Anthropic发行市值1.5万亿美元；孙正义后悔了；传小米大模型业务面临分拆](<https://www.pedaily.cn/first/193387.shtml>)  
+  当地时间11月18日，Anthropic宣布将IPO的A类普通股定价为每股83美元，发行规模9.8亿股，估值达1.5万亿美元，超此前目标，其股票将于周四登陆纳斯达克，代码为“ANT”。（118字） 原文链接  
+  投资界 · 2026-11-19 09:11
+
+- [传小米大模型业务面临分拆](<https://www.pedaily.cn/first/193383.shtml>)  
+  据多个信源，小米大模型业务（MiMo）正处于是否分拆的关键节点，已有多家风投和 CVC 初步接触，但集团层面尚未拿出明确的分拆融资方案。 雷军与 MiMo 负责人罗福莉在分拆一事上存在分歧，沟通进展有限；罗福莉已接触少数投资人和 FA…  
+  投资界 · 2026-11-19 09:07
+
+- [Anthropic发行市值1.5万亿美元](<https://www.pedaily.cn/first/193382.shtml>)  
+  当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83美元，这一定价高于该公司此前的预估。这为这家Claude开发商备受期待的纳斯达克上市铺平了道路，也标志着人工智能行业的一个历史性时刻。 此次IPO的发行规…  
+  投资界 · 2026-11-19 09:06
+
 - [Edge AI Daily 早报（11月19日）](<https://www.tmtpost.com/8210615.html>)  
   英伟达完成创始人离任后治理重置：Q3营收1158亿美元、订单积压2.5万亿美元，停售H200并设董事会出口管制委员会；美出口管制扩至第三国远程算力，AI基础设施碎片化。Anthropic拟以约1.4万亿美元估值IPO，算力成本进入公开…  
   钛媒体 · 2026-11-19 09:05
 
+- [腾讯Q3财报：营收2073.4亿元同比增8%](<https://www.pedaily.cn/first/193381.shtml>)  
+  腾讯控股发布2026年第三季度财报，营收2073.4亿元同比增8%。AI业务多项突破：最新一代混元大模型Hy4发布时位列Agent Arena中国模型第一；WorkBuddy日活超1000万，日均Token消耗量超100万亿，成为国内…  
+  投资界 · 2026-11-19 09:05
+
 - [14%收益提升，OpenAI用AI造芯，5个月完成人工1年工作量，Astra领跑](<https://36kr.com/p/4075847312970881?f=rss>)  
   智东西11月19日消息，刚刚，OpenAI宣布，其模型在 不到五个月内 ，将AMD旗舰级GPU IP的PPA（芯片设计核心指标）提升高达 14% ，这是此前人类工程师约一整年的研发工作量。 OpenAI的研究证明，在RISC-V评估任务中，  
   36氪 · 2026-11-19 09:01
+
+- [孙正义坦言未投资Anthropic是个“错误”](<https://www.pedaily.cn/first/193376.shtml>)  
+  软银创始人孙正义在东京举行的日经新闻未来人工智能主题活动上表示，对未能在Anthropic大规模IPO前投资该公司感到后悔，并称这是一个错误。当时他已开始向Anthropic的竞争对手OpenAI投入资金，因此错失了支持这家人工智能公…  
+  投资界 · 2026-11-19 08:56
 
 - [不用训练，Opus 5.5直接手写Transformer权重，13类任务全拿100%](<https://36kr.com/p/4075960710566792?f=rss>)  
   在13类复杂的算法任务、26次独立运行中，一个全新的神经网络在隐藏测试集上全部达到了100%的准确率。 更不可思议的是，整个过程没有喂给它海量数据，甚至完全没有使用「反向传播」和「梯度下降」。 这个晶莹剔透、小巧至极的满分神经网络，是Cla  
@@ -97,10 +117,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Anthropic Prices IPO at $83 a Share on Strong Demand](<https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-19 07:49
 
-- [Satya Nadella 在 DealBook Summit 谈 AI 时代大量关键基础设施固件无法修补](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
-  Microsoft CEO Satya Nadella 在 The New York Times DealBook Summit 上表示，美国大量关键基础设施（包括数据中心冷却设备、HVAC 和交通系统）存在无法修补的软件漏洞，且都联网运行，在 AI 辅助网络攻击时代极易被利用。  
-  TechCrunch：AI（RSS） · 2026-11-19 07:45
-
 - [定价83美元、估值1.5万亿：Anthropic IPO规模超SpaceX](<https://www.163.com/tech/article/LC34SFB600097U7T.html>)  
   网易科技 · 2026-11-19 07:39
 
@@ -127,9 +143,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
   Axios · 2026-11-19 06:16
 
-- [Anthropic IPO 定价每股 $83，高于 70 至 78 美元区间](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
-  据报道 Anthropic 将 IPO 发行价定为每股 $83，高于 $70 至 $78 的初始区间，完全稀释估值达 1.5 万亿美元，股票将于周四在纳斯达克以代码 ANT 开始交易。  
-  TechCrunch：AI（RSS） · 2026-11-19 06:11
+- [Anthropic reportedly prices IPO at $83 a share, above projected range](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
+  The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.  
+  TechCrunch · 2026-11-19 06:11
 
 - [Anthropic Is Positive for IPO Market, Fraser Says](<https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-positive-for-ipo-market-fraser-says-video>)  
   Bloomberg · 2026-11-19 05:54
@@ -194,21 +210,5 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 - [Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations](<https://www.theinformation.com/articles/anthropics-ipo-making-philanthropist-craig-newmark-hold-back-ai-safety-donations>)  
   The Information · 2026-11-18 23:01
-
-- [OpenAI 首次向 Apollo Research 等四家机构开放现场审计其 AI 系统](<https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/>)  
-  OpenAI 宣布首次允许四家独立机构在其办公室现场审计内部 AI 系统，合作方为 Apollo Research、METR、Transluce 和 Goodfire，审计范围包括未发布模型、源代码、训练数据和监控系统。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:36
-
-- [Hugging Face Inference Providers 改经 OpenRouter 路由语言模型请求](<https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/>)  
-  Hugging Face 宣布其 Inference Providers 服务改经 OpenRouter 路由语言模型请求，默认按价格、速度和可靠性综合选择供应商，故障时自动切换。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:33
-
-- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
-  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
-  NVIDIA Blog（RSS） · 2026-11-18 22:00
-
-- [张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情](<https://www.ithome.com/1/029/086.htm>)  
-  IT之家 11 月 18 日消息，据光明日报消息，搜狐张朝阳再次回应搜狐“躺平”相关话题。 对于如今外界认为搜狐“躺平”的看法，张朝阳称一个公司肯定要根据自己的资源来决定做什么。 大模型投入太大，搜狐没资源来做这个事情 。 推荐算法和…  
-  IT之家 · 2026-11-18 21:46
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 6 页

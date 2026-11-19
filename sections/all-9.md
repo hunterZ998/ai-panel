@@ -1,82 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 20 页
-
-- [Pragmatic Engineer 解读软件工程师的推理工程：从前沿实验室 API 迁移到开源模型](<https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers>)  
-  Pragmatic Engineer 访谈 Modal、Fireworks AI 和 Baseten 三家推理供应商，讲解软件工程师如何从前沿实验室 API 迁移到开源模型以控制成本。  
-  Pragmatic Engineer（RSS） · 2026-11-18 00:11
-
-- [Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克](<https://www.anthropic.com/news/anthropic-prices-initial-public-offering>)  
-  Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。  
-  Anthropic：Newsroom（网页） · 2026-11-18 00:00
-
-- [Google DeepMind 发布 Gemini 4 Neon，智能指数微升且任务成本降低约 17%](<https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain>)  
-  Artificial Analysis 评测 Google DeepMind 发布的 Gemini 4 Neon，Neon（xhigh）智能指数 61 分，比 Gemini 4 Carbon（high）高 1 分、总排名第 3。  
-  Artificial Analysis 完整文章（网页） · 2026-11-18 00:00
-
-- [SGLang 集成 Humming：面向高效 MoE 推理的灵活低比特内核](<https://www.lmsys.org/blog/2026-11-18-humming-sglang>)  
-  Humming 0.1.18 扩展了与 SGLang 的集成，覆盖更多量化方案和 GPU 架构，并新增面向 SGLang MoE runner 的共享激活表达式接口。  
-  LMSYS Blog · 2026-11-18 00:00
-
-- [Google 发布 Gemini 4 Neon：速度快、成本低的 frontier 级模型](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/>)  
-  Google 发布 Gemini 4 Neon，主打 frontier 级智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。  
-  Hacker News：AI 热帖 · 2026-11-18 00:00
-
-- [Google DeepMind 向 AI Ultra 订阅者开放 Genie 4 与新版 Project Genie 体验](<https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/>)  
-  Google 面向符合条件的 Google AI Ultra 订阅者推出新 Project Genie 体验，首次开放世界模型 Genie 4，支持会话中途输入提示词实时编辑环境，并首次配对随场景自适应的原生实时音频。  
-  Hacker News：AI 热帖 · 2026-11-18 00:00
-
-- [Microsoft CEO Nadella 在 Ignite 表示自己是 AGI-pilled，主张企业拥有自己的模型](<https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model>)  
-  Every 作者在 Microsoft Ignite 圆桌报道，Nadella 称自己如今 "AGI pilled"，关注点是如何围绕无限制模型组织政治经济，并提出应有多如企业数量的模型，以此回应 Anthropic 可能一家独大的问题。  
-  Every：最新文章（网页） · 2026-11-18 00:00
-
-- [在 Modal 上为玛雅碑铭研究构建新工具](<https://modal.com/blog/scaling-intelligence-asya>)  
-  斯坦福讲师 Miguel Novelo 在 Modal 上搭建了一条将 2D 玛雅字形图像转为 3D 模型的快速流水线，起点是约 100 个玛雅音节符号。他在 Gray Area 展出的装置 \(Φ ᆺ Φ\) asya 让观众在沙上作画并生成新字形，汇入不断增长的集体抄本。Novelo 表示，通用大模型缺乏尤卡坦本地知识，因此需要理解字形外观与语境的小型专用模型。  
-  Modal 官方工程博客（RSS） · 2026-11-18 00:00
-
-- [用两条提示词在 NVIDIA Cosmos 中构建可训练物理 AI 数据集](<https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/>)  
-  NVIDIA 介绍如何用两条提示词在 Cosmos 中完成物理 AI 训练数据集的整理与增强。Cosmos Data Factory 包含五个云原生 blueprint 和六个可组合 skill，由前沿 AI 智能体编排，实现 prompt-to-data。文章演示了自动驾驶场景生成、图像属性增强、视频天气光照变换、罕见事件视频与缺陷图像生成五类用例。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-18 00:00
-
-- [LlamaIndex 发布文档解析模型 OCRia-1.5](<https://www.llamaindex.ai/blog/introducing-ocria-1-5>)  
-  LlamaIndex 发布 OCRia-1.5 文档解析模型，包含 4B 和 2B 两个尺寸，分别驱动 LlamaParse 的 Agentic 和 Cost Effective 两档，两档均已在 LlamaParse 上线。  
-  LlamaIndex：产品、工程与评测 · 2026-11-18 00:00
-
-- [LlamaIndex 评测 2026 年最佳 OCR 模型：OCRia-1 在四个基准的表格解析上领先](<https://www.llamaindex.ai/blog/best-ocr-models>)  
-  LlamaIndex 发布按表格、图表等结构化解析能力排名的 OCR 模型评测，旗下 LlamaParse 中的 4B 模型 OCRia-1 以 91.5 分领先 ParseBench 表格维度，并在四个基准中的三个外部基准上也居首。  
-  LlamaIndex：产品、工程与评测 · 2026-11-18 00:00
-
-- [Stanford HAI 秋季会议：AI 的未来仍是一个选择](<https://hai.stanford.edu/news/ais-future-is-still-a-choice>)  
-  Stanford HAI 秋季会议“Confronting Our AI Future”探讨治理、工作与教育决策如何把 AI 潜力转化为更广泛的公共利益。中国台湾地区相关人士 Audrey Tang 提出以可核查证据、独立见证和限期回应为核心的框架，并称一项涉及 Gemini 模型与新加坡 AI 机构的试点已在进行。  
-  Stanford HAI News（网页） · 2026-11-18 00:00
-
-- [AI Canvas](<https://www.producthunt.com/products/ai-canvas-2>)  
-  A design system for AI agents to design badass interfaces  
-  Product Hunt · English · 2026-11-17 23:46
-
-- [Ed Zitron 长文解析 NVIDIA 泡沫：循环融资、渠道压货与芯片出口管制争议如何支撑AI行业](<https://www.wheresyoured.at/the-nvidia-bubble/>)  
-  Ed Zitron 在长文中提出，AI泡沫本质上是 NVIDIA 泡沫，Jensen Huang 通过循环融资、渠道压货以及围绕芯片出口管制的争议性交易维持增长机器，黄仁勋辞职后这一模式难以为继。  
-  Ed Zitron 长文 / Where’s Your Ed At（RSS） · 2026-11-17 23:43
-
-- [The Boring Company 如何把隧道成本降到每英里 1000 万美元以下并走向 Hyperloop](<https://www.a16z.news/p/the-boring-company-and-the-future>)  
-  a16z 长文复盘 The Boring Company 的隧道降本路径：自 2017 年成立以来，隧道成本已降到每英里 1000 万美元以下，目标进一步降至 400 万到 500 万美元。  
-  a16z：News（RSS） · 2026-11-17 23:30
-
-- [404 Media 报道美国司法部用 AI 检测工具 Pangram 指控辩方律师用 ChatGPT 写诉状](<https://www.404media.co/defense-by-chatgpt/>)  
-  404 Media 报道，美国司法部律师开始使用 AI 检测服务 Pangram，指控对方律师用 AI 撰写法律论证，并在一起备受关注的选民欺诈案中称这是 "defense by ChatGPT"，把对方诉状称为 "AI slop"。  
-  404 Media（RSS） · 2026-11-17 23:26
-
-- [快手可灵上线新一代图像模型 Kling Image 4.0，首次支持原生 8K 与单图 2000 字](<https://www.ithome.com/1/028/563.htm>)  
-  快手可灵 AI 于 11 月 17 日宣布图像创作模型 Kling Image 4.0 正式上线，并向企业客户与开发者开放 API 接入。  
-  IT之家·人工智能 · 2026-11-17 23:26
-
-- [美国司法部用 AI 检测工具 Pangram 指控辩护律师用 AI 写诉状](<https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/>)  
-  404 Media 查阅法庭文件后报道，美国司法部律师正在使用 AI 写作检测服务 Pangram，指控对方辩护律师用 AI 撰写法律文书，并在一起选民欺诈案中称对方是在“用 ChatGPT 辩护”、提交“AI slop”诉状。  
-  404 Media（RSS） · 2026-11-17 23:14
-
-- [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
-  For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
-  a16z · 2026-11-17 23:10
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 22 页
 
 - [可灵 AI 发布 Kling Image 4.0 图像模型并开放 API](<https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w>)  
   快手可灵 AI 发布新一代图像创作模型 Kling Image 4.0，现已全量上线并面向企业客户与开发者开放 API。模型采用「理解生成统一」架构，首次支持原生 8K 图像生成，内置 110+ 种预设影调风格和 70+ 种商用字体，支持最高 15000 tokens 文本输入、单图最多生成 2000 字，以及一次描述生成最多 10 张风格连贯的组图和电商详情页等超长画幅长图。  
@@ -180,4 +104,80 @@
   Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。  
   Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-17 20:00
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 20 页
+- [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
+  O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
+  O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
+
+- [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
+  ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
+  ChinaTalk（RSS） · 2026-11-17 19:03
+
+- [达信：有迹象表明黑客正利用 AI 工具和智能体寻找安全漏洞](<https://www.ithome.com/1/028/489.htm>)  
+  据路透社报道，保险经纪公司达信称有迹象表明黑客正利用 AI 工具和 AI 智能体寻找安全漏洞，其客户 10 月最后两周报告 105 起网络安全事件，较 5 月同期的 48 起增加一倍多。  
+  IT之家·人工智能 · 2026-11-17 18:55
+
+- [Beacon](<https://www.producthunt.com/products/beacon-26>)  
+  Give your AI agent the browser you're already signed into  
+  Product Hunt · English · 2026-11-17 18:45
+
+- [NVIDIA 开源 NVKE 与 NVKR，为 GPU 基础设施提供托管 Kubernetes](<https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/>)  
+  NVIDIA 开源了 NVIDIA Kubernetes Engine（NVKE）和 NVIDIA Kubernetes Recipes（NVKR）两个项目，均采用 Apache 2.0 协议并处于公开预览阶段。  
+  MarkTechPost（RSS） · 2026-11-17 18:37
+
+- [星尘浩宇NeuxMind.AI获得数亿人民币B轮融资，赛泽资本领投](<https://www.itjuzi.com/investevent/14708097>)  
+  星尘浩宇NeuxMind.AI以“神兽”为核心，打造领先的企业级智能体操作系统。 面向企业交付可规模化复制、可持续运营、可量化验收的 OPT（One Person Team），统一调度数字、具身和碳基智能劳动力（AI Worker）协…  
+  IT桔子 · 2026-11-17 18:36
+
+- [OVHcloud 开源发布首个模型 Olala mini 7A1B，总参数 70 亿、8GB 显存可运行](<https://www.ithome.com/1/028/453.htm>)  
+  欧洲云服务企业 OVHcloud 宣布推出首个 AI 模型家族 Olala，首个成员 Olala mini 7A1B 以 Apache 2.0 许可开源发布在 Hugging Face。  
+  IT之家·人工智能 · 2026-11-17 18:06
+
+- [NVIDIA 董事会设立国家安全与出口管制监督委员会](<https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee>)  
+  NVIDIA 宣布董事会设立常设的国家安全与出口管制监督委员会，负责公司国家安全政策、出口管制合规和全球贸易风险管理的董事会级监督。委员会由董事 Suzanne Nora Johnson 担任主席，成员包括 Stephen C. Neal 和 John O. Dabiri，至少每季度召开一次会议，并将聘请独立外部专家提供法律、国家安全和贸易合规支持。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 18:00
+
+- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
+  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
+  MarkTechPost（RSS） · 2026-11-17 17:51
+
+- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
+  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
+  IT之家·人工智能 · 2026-11-17 17:41
+
+- [Perplexity 年化收入突破 $1B，2026 年增长 4 倍](<https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/>)  
+  Perplexity CEO Aravind Srinivas 在 Semafor 活动上宣布公司年化收入突破 $1B。The Information 此前报道其年初收入不到 $250M，8 月已超 $750M，Computer 产品推动部分增长。  
+  Latent Space（RSS） · 2026-11-17 17:24
+
+- [Liquid AI 发布 d1.2 与 d1.2-ultra 全模态决策模型，登顶 AA Decision Index](<https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/>)  
+  Liquid AI 发布决策模型 d1.2 和 d1.2-ultra，支持文本、图像和音频输入，返回概率而非生成文本，d1.2-ultra 以 75 分位列 Artificial Analysis Decision Index v2.1 决策模型榜首。  
+  MarkTechPost（RSS） · 2026-11-17 17:20
+
+- [Dreamteam AI获得5300万美元战略投资](<https://www.itjuzi.com/investevent/14708087>)  
+  Dreamteam AI 是 一家AI 原生企业 CRM 平台研发商，以 Company Brain 客户记忆层为核心，自动聚合邮件、会议等客户交互信息，配套四类销售 AI 智能体自动完成线索挖掘、跟进撰写、风险识别与 CRM 运维，…  
+  IT桔子 · 2026-11-17 16:52
+
+- [腾讯元宝全量上线混元 Hy4 flash，支持快速回答与深度思考双模式](<https://mp.weixin.qq.com/s/JgxkKNkRLkNlpIgNY5QLqg>)  
+  腾讯元宝宣布全量上线混元最新模型 Hy4 flash，支持快速回答与深度思考两种模式。用户更新元宝到最新版后选择 Hy4 模型，即可在两种模式间切换，快速回答应对日常问答，深度思考处理复杂推理任务。  
+  公众号：腾讯元宝 · 2026-11-17 16:51
+
+- [智源 FlagOpen 上线 HumanCOIN DataManager 数据集门户](<https://github.com/FlagOpen/HumanCOIN-DataManager>)  
+  智源 FlagOpen 推出 HumanCOIN DataManager 网页门户，用于查找、预览和下载 HumanCOIN 数据集，首批预计包含约 1,200 小时数据。  
+  智源 FlagOpen：原创开源项目 · 2026-11-17 16:34
+
+- [Valeria获得550万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708084>)  
+  Valeria是一个AI 原生 SaaS 薪资与员工管理平台，面向零售、即时配送、餐饮、活动等高人员流动行业，为中小企业提供一体化用工生命周期管理。平台搭载自研薪资计算引擎，直连西班牙社保与税务官方系统，AI 自动生成合规合同、批量办…  
+  IT桔子 · 2026-11-17 16:26
+
+- [谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言](<https://www.ithome.com/1/028/336.htm>)  
+  谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，用户可在语音设置或 Gemini Live 对话中切换口音。此次更新涵盖美式英语、英式英语、印度英语、印地语、巴西葡萄牙语、印度尼西亚语和韩语，其中英国用户可选 10 余种地区口音。谷歌与母语使用者合作还原当地语速与节奏，相关语音也适用于 Gemini Live 和文本转语音播放。  
+  IT之家·人工智能 · 2026-11-17 16:21
+
+- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
+  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
+  IT之家·人工智能 · 2026-11-17 16:16
+
+- [NovaSilicon完成近亿元Pre-A+轮融资](<https://www.itjuzi.com/investevent/14708020>)  
+  芯星元Novasilicon是一家AI芯片设计服务商，试图推动半导体产业迎来继制造专业化之后的下一次分工 —— 让更多企业无需自建完整芯片设计团队，也能按需调用芯片设计能力。芯星元Novasilicon完成近亿元Pre-A+轮融资，由…  
+  IT桔子 · 2026-11-17 16:12
+
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 22 页

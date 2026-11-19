@@ -1,6 +1,40 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 20 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 22 页
+
+- [Databricks 推出 Genie Migrate for Serverless，用智能体把经典工作负载迁到 Serverless](<https://www.databricks.com/blog/introducing-genie-migrate-serverless>)  
+  Databricks 发布 Beta 版 Genie Migrate for Serverless，这个智能体可把作业和 notebook 从经典计算迁移到 Serverless 计算。它先评估哪些工作负载可迁移，再把计算配置、库与 Spark 配置、代码改动以 diff 形式提交审核，确认后才应用并支持回退。用户可在 Genie 中用 /compute migrate 命令启动，无需额外配置。  
+  Databricks：Blog（RSS） · 2026-11-19 05:00
+
+- [US Alleges Russian Agent Stalked, Harassed Palantir Workers](<https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers>)  
+  Bloomberg · 2026-11-19 04:44
+
+- [Sam Altman 回应 Andrew Garfield 在新片《Artificial》中饰演自己](<https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/>)  
+  Sam Altman 在纽约时报 DealBook 峰会上回应 Andrew Garfield 将在圣诞档上映的传记喜剧剧情片《Artificial》中饰演自己，称若 20 年前有人说要拍他的电影会觉得非常奇怪，如今已排不进他人生最怪的前十件事。该片讲述 OpenAI 的崛起以及他 2023 年被短暂罢免引发的内部动荡。  
+  TechCrunch：AI（RSS） · 2026-11-19 04:07
+
+- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
+  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
+  Axios · 2026-11-19 04:00
+
+- [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>)  
+  Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start t  
+  TechCrunch · 2026-11-19 03:56
+
+- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
+  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
+  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
+
+- [Bret Taylor’s Sierra in Talks to Raise at $30 Billion Valuation](<https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation>)  
+  The Information · 2026-11-19 03:47
+
+- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
+  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
+  The Verge：AI（RSS） · 2026-11-19 03:40
+
+- [The Verge 可视化解读 Nvidia 的利润增长](<https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang>)  
+  The Verge 用图表解读 Nvidia 的盈利规模：平均每天净赚约 7 亿美元，每秒约 8300 美元，季度利润达 653 亿美元。文章将当前利润与加密热潮和 GPU 缺货时期对比，并提及公司管理层变动后的业务展望。  
+  The Verge：AI（RSS） · 2026-11-19 03:30
 
 - [How to Diagnose a Recurring Technical Problem with Google Gemini](<https://www.theinformation.com/articles/diagnose-recurring-technical-problem-google-gemini>)  
   The Information · 2026-11-19 03:27
@@ -145,39 +179,4 @@
   The Verge 撰文分析，今夏 OpenAI 暂停前沿训练和 Anthropic 呼吁减速引发的担忧并未在芯片公司业绩中兑现。  
   The Verge：AI（RSS） · 2026-11-18 23:44
 
-- [消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元](<https://www.ithome.com/1/029/121.htm>)  
-  IT之家 11 月 18 日消息，北京时间今天（18 日）晚间，据美国 CNBC 援引知情人士消息称，Anthropic 考虑扩大 IPO 发行规模，并可能将发行价定在 远高于 80 美元 （IT之家注：现汇率约合 534.4 元人民…  
-  IT之家 · 2026-11-18 23:35
-
-- [Modem 发布 2.0：将客户反馈与工单、代码变更打通的客户产品图](<https://modem.ai/blog/modem-2-0-customer-product-graph>)  
-  Modem 发布 2.0，把原本面向 AI PM 智能体的底层数据能力开放为客户产品图（customer product graph），将 Slack、Discord、Zendesk、Gong 等近 20 个渠道的客户反馈聚合为关联工单和 pull request 的主题。  
-  Modem：Blog（RSS） · 2026-11-18 23:30
-
-- [哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责](<https://www.ithome.com/1/029/117.htm>)  
-  IT之家 11 月 18 日消息，据蓝鲸汽车从哈啰方面确认，哈啰 Robotaxi 近期完成了一轮内部组织架构调整。 原智能车-模型开发、系统方案与评测以及 AI Infra-数据平台等相关团队被 整合成立“模型开发与数据闭环部” ，…  
-  IT之家 · 2026-11-18 23:15
-
-- [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](<https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities>)  
-  Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
-  Wiz：Research（安全研究） · 2026-11-18 23:13
-
-- [马斯克“怒怼”奥尔特曼：SpaceX 预计不会从 OpenAI 处获得任何收入](<https://www.ithome.com/1/029/116.htm>)  
-  IT之家 11 月 18 日消息，SpaceX CEO 埃隆 · 马斯克出人意料地透露，公司在业务预测中 并未考虑来自 OpenAI 的任何收入 。此前，OpenAI CEO 萨姆 · 奥尔特曼谈及半导体行业可能重复计算 AI 芯片需…  
-  IT之家 · 2026-11-18 23:09
-
-- [SpaceXAI 在美国密西西比州的 AI 数据中心泄漏约 20m³ 丙二醇](<https://www.ithome.com/1/029/115.htm>)  
-  IT之家 11 月 18 日消息，据 tom's hardware 报道，埃隆 · 马斯克（Elon Musk）旗下的 SpaceXAI（SpaceXSI）在美国密西西比州的 AI 数据中心发生化学品泄漏事件。 承包商在连接移动储罐时…  
-  IT之家 · 2026-11-18 23:01
-
-- [Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations](<https://www.theinformation.com/articles/anthropics-ipo-making-philanthropist-craig-newmark-hold-back-ai-safety-donations>)  
-  The Information · 2026-11-18 23:01
-
-- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
-  Much has been written about AI’s potential to disrupt it.  
-  a16z · 2026-11-18 23:00
-
-- [LangSmith for Coding Agents 开启公测：按 pull request 追踪编码 Agent 花费](<https://www.langchain.com/blog/langsmith-coding-agents-roi>)  
-  LangChain 宣布 LangSmith 推出面向编码 Agent 的报告功能，进入 LangSmith Cloud 公测，可自动把 Claude Code、OpenAI Codex、Cursor、GitHub Copilot 和 Deep Agents 等编码 Agent 的每条 trace 花费归因到其产出的 pull request。  
-  LangChain：Blog（RSS） · 2026-11-18 23:00
-
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 20 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 22 页

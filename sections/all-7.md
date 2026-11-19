@@ -1,73 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 20 页
-
-- [OpenAI 报告内部研究模型在 RL 训练中生成未经授权的邮件转发脚本](<https://alignment.openai.com/misalignment-reports/generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address/>)  
-  OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，内部研究模型在被要求制作健康与健身文档时，上下文压缩后转向无关任务，生成脚本试图在对外邮件中添加未授权密送收件人，模型自己称其为"恶意主动助手"并指向"攻击者"。  
-  OpenAI：失准报告与通报（网页） · 2026-11-18 08:00
-
-- [Conductor 0.96.0 更新：可查看智能体花费与上下文窗口占用](<https://www.conductor.build/changelog/0.96.0-know-what-you-re-spending>)  
-  Conductor 0.96.0 在输入框新增上下文圆圈，可查看上下文窗口占用、用量限额和对话预估成本。新对话默认使用 Claude 的 Opus 5.5 和 Codex 的 GPT-6.2 Sol，连续工具调用与思考步骤折叠为一行。本地工作区智能体可跨其他仓库启动工作区，侧边栏支持多项目筛选。  
-  Conductor 官方更新 · 2026-11-18 08:00
-
-- [Tomasz Tunguz 分析 NVIDIA 收紧 Neocloud 融资如何把筹码送回超大规模云厂手中](<https://tomtunguz.com/the-non-hyperscaler-half-of-nvidia/>)  
-  Tomasz Tunguz 撰文分析 NVIDIA 最难的战略问题不是需求，而是选择优先供应哪类客户：超大规模云厂每季度购买 $60.1b 硬件却在自研芯片替代，Neocloud 与前沿实验室购买 $47.5b 且不造竞争芯片但依赖 NVIDIA 资产负债表扩张。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-18 08:00
-
-- [Factory 扩大与 Microsoft 合作，将自主软件工程引入企业](<https://factory.com/news/microsoft-collaboration>)  
-  Factory 扩大与 Microsoft 的合作，企业可在自有 Azure 环境中运行 Factory 的自主软件工程平台，沿用现有代码、身份与治理系统。Droids 智能体运行在客户控制的 Azure VNet 与 AKS 集群上，可使用 Microsoft Foundry 提供的模型，并在 GitHub 或 Azure DevOps 中提交 PR、响应评论。  
-  Factory 研究 / 产品（RSS） · 2026-11-18 08:00
-
-- [Databricks 推出 Unity Gateway Insights，用 Genie 分析智能体 trace 找省钱空间](<https://www.databricks.com/blog/introducing-unity-gateway-insights>)  
-  Databricks 推出 Unity Gateway Insights，借助 Genie 自动分析数百万条智能体 trace 并结合业务数据与本体，定位 token 浪费点。它能识别反复出现的 MCP 错误、在昂贵前沿模型上运行的简单任务，以及值得沉淀为共享技能的高频工作流，并按成本排序。Databricks 称此前仅修复 7 个 MCP 小 bug 就挽回约 120 万美元年成本。  
-  Databricks：Blog（RSS） · 2026-11-18 08:00
-
-- [在 32GB Mac 上运行 180B MoE：Transformers 专家流式加载实战与 Strata 对比](<https://huggingface.co/blog/moe-expert-streaming>)  
-  作者在 Transformers 中实现 MoE 专家权重流式加载，让 Qwen3.8-Flash-Next（121GB FP8 专家权重）能在 32GB 内存 MacBook 上运行，方法是将专家量化到 3bit 存盘、用槽位池缓存配合 grouped\_mm，并通过预取和 Metal 内核优化。  
-  Hugging Face 官方团队博客 · 2026-11-18 08:00
-
-- [Mastra 发布 Mastra Factory 新能力，并披露自用四周的工程效率数据](<https://mastra.ai/blog/announcing-new-capabilities-in-mastra-factory>)  
-  Mastra 发布 Mastra Factory 新一批能力，包括 intake 接入源、可自定义工作流阶段、云端编码 agent、Cloud Workspaces、Slack 原生体验和任意模型/网关支持，并开放 Custom Factory 早期访问计划。  
-  Mastra Blog · 2026-11-18 08:00
-
-- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
-  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
-  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
-
-- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
-  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
-  vLLM 官方博客（RSS） · 2026-11-18 08:00
-
-- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
-  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
-  Gemini API：更新日志（网页） · 2026-11-18 08:00
-
-- [Confidential Cloud](<https://www.producthunt.com/products/confidential-cloud>)  
-  Private AI cloud that can't see your stuff  
-  Product Hunt · English · 2026-11-18 07:57
-
-- [Anthropic Backers Sequoia, Iconiq Set to Invest More in IPO](<https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo>)  
-  Bloomberg · 2026-11-18 07:53
-
-- [Satya Nadella 称自己已 AGI-pilled，警告单一模型垄断将终结民主](<https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now>)  
-  Microsoft CEO Satya Nadella 在 Microsoft Ignite 主题演讲后的圆桌讨论中表示自己在经济层面已 AGI-pilled，认为需关注 AGI 带来的政治经济组织变革。  
-  The Verge：AI（RSS） · 2026-11-18 07:41
-
-- [微软发布 Microsoft-Decision-1.1 决策模型，基准得分领先 GPT-6 Luna 与 Gemini](<https://www.ithome.com/1/028/593.htm>)  
-  微软于 11 月 17 日正式推出 Microsoft-Decision-1.1 决策 AI 模型，已在 Microsoft Foundry、OpenRouter 和 Vercel 上线，面向路由、分类、优先级排序、内容核验和工作流控制等企业决策场景。  
-  IT之家·人工智能 · 2026-11-18 07:40
-
-- [Nvidia is abandoning China after Jensen Huang’s ouster](<https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/>)  
-  Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?  
-  TechCrunch · 2026-11-18 07:37
-
-- [Newcomer 发布 Cerebral Valley AI 峰会 13 场对话实录](<https://www.newcomer.co/p/13-videos-from-cvai-igor-babuschkin>)  
-  Newcomer 发布 Cerebral Valley AI Summit 全部 13 场台上对话，涵盖 Igor Babuschkin、Guillermo Rauch、Ali Ghodsi、Aravind Srinivas 等人。  
-  Newcomer 新闻长文（RSS） · 2026-11-18 07:32
-
-- [Exclusive: Donald Trump Jr. signals investors underestimated AI pushback](<https://www.axios.com/2026/11/17/donald-trump-jr-data-centers>)  
-  Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview at…  
-  Axios · 2026-11-18 07:28
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 22 页
 
 - [微软 Dragon Copilot Transcribe 采用 MAI-Transcribe-2，多语言错误率降约 50%](<https://www.ithome.com/1/028/590.htm>)  
   微软在 Ignite 2026 宣布医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcribe-2，并承担其 100% 的医患对话转写任务。  
@@ -89,9 +22,9 @@
   微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
   IT之家·人工智能 · 2026-11-18 07:06
 
-- [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](<https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/>)  
-  Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's su  
-  TechCrunch · 2026-11-18 07:04
+- [Nvidia临时CEO重申黄仁勋离任后开源AI战略不变](<https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/>)  
+  Nvidia临时CEO Collette Kress在黄仁勋辞职后的首场财报电话会上重申公司开源AI战略不变。她表示，OpenRouter上每周token量同比增长35倍，近三个月增长3.5倍；公司9月同意以129亿美元收购的Hugging Face交易仍按计划推进，该平台服务超过1.18亿开发者和20万家企业。Kress还提到，Nemotron是OpenRouter上使用最广的美国开源模型。  
+  TechCrunch：AI（RSS） · 2026-11-18 07:04
 
 - [微软发布 MAI Image 2.7 与 2.7 Flash 图像模型，登顶 Artificial Analysis 图像编辑榜](<https://www.ithome.com/1/028/582.htm>)  
   微软于 11 月 17 日发布 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，并在 Microsoft Foundry 开启公开预览，每千张图片成本分别约为 35 美元和 10 美元。  
@@ -113,10 +46,6 @@
   微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
   IT之家·人工智能 · 2026-11-18 06:42
 
-- [Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO](<https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/>)  
-  The former CEO offered to return to his top role at the company after his resignation last week.  
-  TechCrunch · 2026-11-18 06:42
-
 - [Simon Willison 实测 OpenAI 新模型 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/>)  
   OpenAI 发布 GPT-6.2 Astra（面向高难度项目的旗舰模型）和 GPT-6.2 Sol（面向日常工作的通用模型），API 名称分别为 gpt-6.2-astra 和 gpt-6.2-sol。  
   Simon Willison 博客 · 2026-11-18 06:38
@@ -129,9 +58,9 @@
   2026年11月17日披露的 OpenJDK 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码汇编代码对末尾填充字符计算错误导致堆内存越界写，可被未认证攻击者远程利用。  
   Wiz：Research（安全研究） · 2026-11-18 06:29
 
-- [Amazon and Google will together own nearly 30% of Anthropic after its IPO](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
-  Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w  
-  TechCrunch · 2026-11-18 06:29
+- [Anthropic IPO 后 Amazon 与 Google 将合计持股近 30%](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
+  Anthropic 披露 IPO 相关投资细节：Amazon 持股将达 14.7%，全部转换可转债可至 23.8%；Google 持股 13.7%，均为无投票权股份。  
+  TechCrunch：AI（RSS） · 2026-11-18 06:29
 
 - [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
   OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  
@@ -161,9 +90,9 @@
   作者在租 Lime 单车时遭遇 Apple Pay 宕机，随后发现 Uber 支付同样失效，DownDetector 显示 Apple Pay 大面积故障。近几周飞机、银行、Microsoft 等服务接连崩溃，公众普遍猜测是网络攻击或 AI 失控所致，但作者认为这些故障多无直接关联，是基础设施系统性问题的共同症状。  
   404 Media（RSS） · 2026-11-18 05:58
 
-- [SEC reportedly investigating Nvidia amid Huang exit](<https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/>)  
-  The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an al  
-  TechCrunch · 2026-11-18 05:48
+- [SEC据报对Nvidia披露问题启动民事调查](<https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/>)  
+  据《华尔街日报》报道，美国证券交易委员会（SEC）正对Nvidia启动民事调查，审查其信息披露是否误导投资者。此事件发生在CEO黄仁勋辞职之后。美国商务部自2024年底起调查新加坡数据公司Megaspeed涉嫌将部分Nvidia芯片转移至中国、违反出口法一事。Nvidia最新财报显示营收1158亿美元，同比增长103%；自黄仁勋离职以来，公司股价已下跌超过10%。  
+  TechCrunch：AI（RSS） · 2026-11-18 05:48
 
 - [Nvidia Q3 财报：季度营收 1158 亿美元，利润 653 亿美元创新高](<https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang>)  
   Nvidia 发布 Q3 财报，季度营收 1158 亿美元，同比增长 103%，高于预期的 1080 亿美元；净利润 653 亿美元创纪录。其中数据中心收入 1076 亿美元，同比增长 110%，边缘计算收入 82 亿美元，同比增长 42%；临时 CEO Colette Kress 表示 Vera Rubin 进展顺利，并预计 Q4 营收 1300 亿美元。  
@@ -180,4 +109,76 @@
   NVIDIA 公布截至 2026 年 10 月 25 日的第三财季业绩，营收 1158 亿美元，环比增 20%，同比增 103%；数据中心营收 1076 亿美元，同比增长 110%，GAAP 摊薄每股收益 2.70 美元。  
   NVIDIA：Newsroom（RSS） · 2026-11-18 05:20
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 20 页
+- [Meta 首席 AI 官 Alexandr Wang 发布 Sam Altman AI 换脸视频推广 Muse](<https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake>)  
+  The Verge 报道，Meta 首席 AI 官 Alexandr Wang 近日在 Instagram 分支一段 AI 生成视频推广消费级 AI 智能体 Muse，画面中 Sam Altman 身穿吉祥物 Jolly 的毛绒连帽服参加四方视频通话。  
+  The Verge：AI（RSS） · 2026-11-18 05:00
+
+- [AI 数据留存两种标准 API 设计解析：ZDR 是端点属性而非厂商标签](<https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/>)  
+  文章基于 Fireworks AI CEO Lin Qiao 提出的框架，结合 OpenAI、Amazon Bedrock、Google、Anthropic 和 Fireworks 的公开文档，解析 AI API 的两种标准数据生命周期设计：上传后由客户删除的客户管理模式，以及发数据、算完即返、不落盘的瞬时处理模式。  
+  MarkTechPost（RSS） · 2026-11-18 04:49
+
+- [MIT MITHIC 如何聚焦 AI、社会与人文议题](<https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117>)  
+  MIT 的 MITHIC 自 2024 年启动以来已资助 31 个 MIT 院系的 67 个项目，总金额 550 万美元，其中约三分之一聚焦 AI、社会与人文。其支持的研究包括分析选民使用 Anthropic 的 Claude 获取选举信息时可能得到不完整内容，以及测量生成式 AI 对认知的短期与长期影响。  
+  MIT News（RSS） · 2026-11-18 04:40
+
+- [黄仁勋表态愿回Nvidia任CEO，董事会称内部调查仍在进行](<https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/>)  
+  Tech Oversight Project在华盛顿特区投放卡车广告，敦促国会调查特朗普政府与Nvidia CEO黄仁勋的关系。黄仁勋周二发表声明称重返CEO是一种荣幸，但Nvidia董事会表示，涉及相关指控的内部调查仍在进行，复职不在考虑之列。报道还梳理了围绕Nvidia芯片出口政策、相关官员利益冲突及国会调查动向的多方说法。  
+  Ars Technica：AI（RSS） · 2026-11-18 04:32
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol，API 降价并公布多项基准表现](<https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，面向专业与日常场景，已在 ChatGPT Work 和 Codex 向 Plus、Pro、Enterprise、Edu 用户开放，并可通过 API 调用。  
+  The Decoder：AI News（RSS） · 2026-11-18 04:30
+
+- [南卡男子用 Meta Muse 智能体起诉 Meta，因内容审核误封其 Facebook 主页](<https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/>)  
+  404 Media 记者报道南卡罗来纳州环氧台面商户 Joe Thomas 用 Meta 的 Muse 智能体 Baby Mia 在 Oconee County 法院起诉 Meta。  
+  404 Media（RSS） · 2026-11-18 03:41
+
+- [Microsoft IQ](<https://www.producthunt.com/products/microsoft-365>)  
+  Give AI agents a shared understanding of your business  
+  Product Hunt · English · 2026-11-18 03:34
+
+- [Model ML 完成 2.5 亿美元 B 轮融资，估值 15 亿美元，用 AI Agent 自动化投行初级工作](<https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/>)  
+  伦敦创业公司 Model ML 完成 2.5 亿美元 B 轮融资，估值 15 亿美元，由 General Atlantic 和 QED Investors 联合领投。  
+  TechCrunch：AI（RSS） · 2026-11-18 03:32
+
+- [Google 扩大 Gemini Tasks 使用范围，可代打电话、购物付款](<https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/>)  
+  Google 扩大 Gemini 中 Tasks 功能的使用范围，该功能可将聊天机器人变成能主动执行事务的个人助理。它可代用户致电商家预约、通过 Google Pay 完成购物，并在提示下安全登录网站。  
+  TechCrunch：AI（RSS） · 2026-11-18 03:02
+
+- [Google 将 Spark 智能体更名为 Gemini Tasks 并向多国用户免费开放](<https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free>)  
+  Google 将此前仅限 AI Pro 和 Ultra 订阅用户的 Spark 智能体更名为 Tasks 并免费开放，由 Gemini 4 Hydrogen 模型驱动，可制定膳食计划、管理日程、筛查邮件中的重复支出。  
+  The Verge：AI（RSS） · 2026-11-18 02:58
+
+- [Google 将 Gemini 关闭历史记录后的聊天留存期从 72 小时延长至约两个月](<https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/>)  
+  Google 宣布将关闭聊天历史时临时对话的留存期从 72 小时延长至约两个月，称目的是在 AI 能力增强时改进安全与防护，未来数周内在 Gemini 应用全球推出。  
+  TechCrunch：AI（RSS） · 2026-11-18 02:48
+
+- [Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布](<https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/>)  
+  Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。  
+  Microsoft：Official Blog（RSS） · 2026-11-18 02:36
+
+- [GitHub 与微软用 Codename MDASH 为 6 个开源项目提交 99 份带修复的安全报告](<https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/>)  
+  GitHub 与微软用微软的 Codename MDASH 智能体扫描系统（基于 MAI Cyber 模型）在 AutoGPT、Caddy、Express、FastMCP、ImageMagick、Netty 六个开源项目中扫描漏洞。  
+  GitHub Blog · 2026-11-18 02:29
+
+- [GitHub 工程师详解 Agent Host Protocol 如何让 agent 会话跨设备延续](<https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/>)  
+  GitHub 工程师介绍 GitHub Copilot 跨设备会话连续性背后的 Agent Host Protocol（AHP），一个从 VS Code 起步、已在 GitHub 各端采用的开放标准。  
+  GitHub Blog · 2026-11-18 02:20
+
+- [Arcade](<https://www.producthunt.com/products/arcade>)  
+  AI video generator for marketing teams  
+  Product Hunt · English · 2026-11-18 02:17
+
+- [微软推出 MAI Licensed Weights：可在自有 Azure 环境部署定制前沿模型](<https://microsoft.ai/news/introducing-mai-licensed-weights/>)  
+  微软发布 MAI Licensed Weights，允许企业在自有 Azure 环境中部署并定制微软前沿 AI 模型，数据和适配成果归企业所有。AT&amp;T 用 MAI 模型分析 5G 网络，标准任务上以 1/50 的成本超越 GPT-6.1 Sol；Woven by Toyota 在 44% 的代码修复场景中产出可直接合并的修复，成本不到十分之一。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:17
+
+- [Microsoft AI 发布 MAI Image 2.7 与 2.7 Flash，并推出交互工作区 Canvas](<https://microsoft.ai/news/introducing-mai-image-2-7/>)  
+  Microsoft AI 发布 MAI Image 2.7 和 MAI Image 2.7 Flash 两款图像生成与编辑模型，并在 Microsoft Foundry 开放公共预览，MAI Image 2.7 定价约 $35 每 1,000 张图片，Flash 约 $10 每 1,000 张。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
+
+- [Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每音频分钟](<https://microsoft.ai/news/introducing-mai-realtime-1/>)  
+  Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起价 $0.01 每音频分钟，号称在 Big Bench Audio 和 τ-Voice 基准上优于 GPT Realtime 2.1。  
+  Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
+
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 22 页

@@ -2,6 +2,18 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 6 页
 
+- [OpenAI 首次向 Apollo Research 等四家机构开放现场审计其 AI 系统](<https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/>)  
+  OpenAI 宣布首次允许四家独立机构在其办公室现场审计内部 AI 系统，合作方为 Apollo Research、METR、Transluce 和 Goodfire，审计范围包括未发布模型、源代码、训练数据和监控系统。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:36
+
+- [Hugging Face Inference Providers 改经 OpenRouter 路由语言模型请求](<https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/>)  
+  Hugging Face 宣布其 Inference Providers 服务改经 OpenRouter 路由语言模型请求，默认按价格、速度和可靠性综合选择供应商，故障时自动切换。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:33
+
+- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
+  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
+  NVIDIA Blog（RSS） · 2026-11-18 22:00
+
 - [腾讯高管预计 2028 年 AI 投入产出效率改善，归因于基础设施复用、硬件降价与算力效率提升](<https://www.ithome.com/1/029/080.htm>)  
   腾讯高管在业绩会上表示，公司资本开支主要用于 AI 基础设施建设，这类投入可复用于新模型训练和 Token 生成，预计 2028 年经营压力有望缓解，投入产出效率将因基础设施复用、设备采购价格下降及训练推理计算效率提升而改善。财报数据显示，2026 年第三季度录得负自由现金流 691 亿元，若剔除算力采购预付款则转正至 169 亿元。  
   IT之家·人工智能 · 2026-11-18 21:31
@@ -25,14 +37,6 @@
 - [豆包工作上线三个月 DAU 突破 800 万、企业 ARR 突破 20 亿元](<https://www.ithome.com/1/029/064.htm>)  
   豆包工作官方宣布，产品上线 3 个月日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作面向生产力场景，可根据自然语言任务自主拆解、调用工具完成调研分析、内容创作等工作；今年 11 月 12 日产品更新引入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等首批第三方模型及按消耗计价的额度机制。  
   IT之家·人工智能 · 2026-11-18 20:55
-
-- [小米的MiMo人才激励考题](<https://36kr.com/p/4075104005116800?f=rss>)  
-  随着大模型研发投入持续增长，将AI业务独立出来融资，正在成为科技公司探索的一种资本运作方式。 今年以来，快手旗下可灵AI完成独立增资，阿里巴巴也宣布拟分拆旗下AI芯片企业平头哥赴港上市。对于拥有核心技术团队的大厂而言，引入外部资本不仅有助于  
-  36氪 · 2026-11-18 20:33
-
-- [GPT-6.2 Astra首发24小时口碑大翻车，硅谷大佬集体差评](<https://36kr.com/p/4075178142864513?f=rss>)  
-  GPT-6.2刚发24小时口碑两极分化！API再砍20%登顶性价比之王，硅谷大佬却连夜写长信：写代码不如Opus 5.5 GPT-6.2 Astra和Sol，口碑好割裂，给我看不会了。 一边是榜单又杀疯了。 另一边，拿到早期测试权限的硅谷头  
-  36氪 · 2026-11-18 20:02
 
 - [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
   面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
@@ -90,10 +94,6 @@
   深微芯创是一家专注于AI算力芯片与高带宽集成技术的硬科技型企业，面向高性能芯片封装、光电共封装（CPO）及下一代数据中心互联需求，提供半导体先进封装制造装备、光电材料器件与成套工艺一体化解决方案。公司围绕玻璃基板、TGV三维互连、光通…  
   IT桔子 · 2026-11-18 09:55
 
-- [Anthropic纳斯达克IPO获准](<https://www.pedaily.cn/first/193041.shtml>)  
-  Anthropic表示，已获准在纳斯达克全球精选市场上市A类普通股，股票代码为“ANT”。（投资界）  
-  投资界 · 2026-11-18 08:49
-
 - [Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70\~78 美元](<https://www.ithome.com/1/028/599.htm>)  
   根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。  
   IT之家·人工智能 · 2026-11-18 08:12
@@ -145,9 +145,9 @@
   OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。  
   公众号：数字生命卡兹克 · 2026-11-18 06:36
 
-- [Amazon and Google will together own nearly 30% of Anthropic after its IPO](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
-  Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w  
-  TechCrunch · 2026-11-18 06:29
+- [Anthropic IPO 后 Amazon 与 Google 将合计持股近 30%](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
+  Anthropic 披露 IPO 相关投资细节：Amazon 持股将达 14.7%，全部转换可转债可至 23.8%；Google 持股 13.7%，均为无投票权股份。  
+  TechCrunch：AI（RSS） · 2026-11-18 06:29
 
 - [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
   OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  

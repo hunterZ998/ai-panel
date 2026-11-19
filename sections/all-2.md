@@ -1,13 +1,47 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 20 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 22 页
+
+- [OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天](<https://www.ithome.com/1/029/145.htm>)  
+  IT之家 11 月 19 日消息，OpenAI 今天（11 月 18 日）发布题为《管理前沿 AI 风险：从训练到部署》的安全政策说明， 首次系统披露研发、内部使用到公开发布阶段，如何在高能力模型的全生命周期中管控风险。 IT之家援引…  
+  IT之家 · 2026-11-19 08:09
+
+- [人生不过三万天，Anthropic一万亿](<https://36kr.com/p/4075288308732800?f=rss>)  
+  Anthropic上市前夕，达里奥·阿莫代伊与摩根大通CEO杰米·戴蒙做了一次访谈。被问到“为什么现在上市”，达叔表示自己也是第一次去敲钟，因此咨询过很多人的建议： 其中最常见、也最让我有共鸣的建议——虽然大家表述各异，但意思是一样的： 绝  
+  36氪 · 2026-11-19 08:08
+
+- [加薪、发股票，英伟达回应员工“700问”，不打算召回黄仁勋](<https://36kr.com/p/4075893630210944?f=rss>)  
+  自11月12日黄仁勋离职以来，英伟达内部持续出现要求其复职的声援行动。黄仁勋本人11月17日在首次公开回应时也表示，如果符合各方最佳利益，他将很荣幸重返英伟达。 美国当地时间11月18日，英伟达召开黄仁勋辞职后的首次全员大会。临时CEO科莱  
+  36氪 · 2026-11-19 08:06
+
+- [刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5](<https://36kr.com/p/4075907868955785?f=rss>)  
+  不得不佩服 Gemini 挑日子发新闻的勇气，昨晚《GTA 6》刚解锁上线把全球互联网热搜屠了个干净，劈柴老哥今天依然顶着漫天游戏贴，硬生生从元素周期表里又掏出了一款新模型。 就在刚刚，距离上一款旗舰模型 Gemini 4 Carbon 发  
+  36氪 · 2026-11-19 08:04
+
+- [8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达](<https://36kr.com/p/4075920892581000?f=rss>)  
+  今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会，称格力研发机器人十几年了 马斯克：预计SpaceX不会向OpenAI出售任何算力 大疆Osmo Pocket 4系列涨价  
+  36氪 · 2026-11-19 08:01
+
+- [Alibaba’s AI Ambitions Face Steep Challenge in US Chip Controls](<https://www.bloomberg.com/news/articles/2026-11-19/alibaba-s-ai-ambitions-face-steep-challenge-in-us-chip-controls>)  
+  Bloomberg · 2026-11-19 08:00
+
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
+  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
+  晚点聊 · 2026-11-19 08:00
+
+- [谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一](<https://www.ithome.com/1/029/144.htm>)  
+  IT之家 11 月 19 日消息，谷歌今天（11 月 18 日）宣布推出 AI 模型 Gemini 4 Neon， 主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力、任务处理速度与成本 ，目前已开始向开发者、企业及部分付费订阅用…  
+  IT之家 · 2026-11-19 07:53
+
+- [Nvidia Turmoil Spurs Valuation Rethink of Japan’s AI Shares](<https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares>)  
+  Bloomberg · 2026-11-19 07:50
 
 - [Anthropic Prices IPO at $83 a Share on Strong Demand](<https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-19 07:49
 
-- [Satya Nadella 在 DealBook Summit 谈 AI 时代大量关键基础设施固件无法修补](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
-  Microsoft CEO Satya Nadella 在 The New York Times DealBook Summit 上表示，美国大量关键基础设施（包括数据中心冷却设备、HVAC 和交通系统）存在无法修补的软件漏洞，且都联网运行，在 AI 辅助网络攻击时代极易被利用。  
-  TechCrunch：AI（RSS） · 2026-11-19 07:45
+- [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
+  The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new chall  
+  TechCrunch · 2026-11-19 07:45
 
 - [定价83美元、估值1.5万亿：Anthropic IPO规模超SpaceX](<https://www.163.com/tech/article/LC34SFB600097U7T.html>)  
   网易科技 · 2026-11-19 07:39
@@ -35,9 +69,9 @@
   据《纽约时报》报道，纽约、洛杉矶和芝加哥学区在 Google 表示将禁用拒绝其 AI 功能学校的 Search 后，开始考虑替代方案。明年起学校无法单独关闭 Gemini 功能而保留 Search，Google 教育副总裁 Chris Phillips 称 Search 与 AI 已深度整合。  
   The Verge：AI（RSS） · 2026-11-19 07:18
 
-- [微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/>)  
-  英伟达CEO黄仁勋在任职33年后于上周卸任，微软CEO萨提亚·纳德拉在纽约时报DealBook峰会上表示此事令人惋惜，并称仍对英伟达及其临时CEO科莱特·克雷斯带领的团队充满信心。纳德拉提到克雷斯曾在微软长期工作，自己与她相识已久。  
-  TechCrunch：AI（RSS） · 2026-11-19 07:17
+- [Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/>)  
+  Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's i  
+  TechCrunch · 2026-11-19 07:17
 
 - [谷歌推出 Stitch Loop：定位永远不下班的“产品进化器”，替你盯着产品改 Bug](<https://www.ithome.com/1/029/137.htm>)  
   IT之家 11 月 19 日消息，谷歌旗下 Google Labs 昨日（11 月 18 日）推出实验性产品智能体 Stitch Loop，可连接代码库与线上实时数据，在软件发布后持续发现问题、提出改进方案并编写代码。 与完成单次任务…  
@@ -53,9 +87,9 @@
 - [Meta Pauses New Stock Plan Amid Legal Challenge](<https://www.theinformation.com/briefings/meta-pauses-new-stock-plan-amid-legal-challenge>)  
   The Information · 2026-11-19 07:01
 
-- [Satya Nadella 预测 AI Agent 将重塑互联网经济格局](<https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/>)  
-  Microsoft CEO Satya Nadella 在 The New York Times Dealbook Summit 上表示，Agent Web 的兴起将重塑互联网经济，依赖广告和“人类 Web”流量的聚合商商业模式会被洗牌，变现可能转向按点击付费或交易型模式。  
-  TechCrunch：AI（RSS） · 2026-11-19 06:58
+- [Satya Nadella predicts AI agents will reshuffle the economics of the web](<https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/>)  
+  Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethin  
+  TechCrunch · 2026-11-19 06:58
 
 - [字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满](<https://www.ithome.com/1/029/133.htm>)  
   IT之家 11 月 19 日消息，据《The Information》今日报道，字节跳动正与微软进行深入谈判，计划额外采购约 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） 的 Azure 云服务，其中大部分支出将用于调…  
@@ -82,9 +116,9 @@
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
   Axios · 2026-11-19 06:16
 
-- [Anthropic IPO 定价每股 $83，高于 70 至 78 美元区间](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
-  据报道 Anthropic 将 IPO 发行价定为每股 $83，高于 $70 至 $78 的初始区间，完全稀释估值达 1.5 万亿美元，股票将于周四在纳斯达克以代码 ANT 开始交易。  
-  TechCrunch：AI（RSS） · 2026-11-19 06:11
+- [Anthropic reportedly prices IPO at $83 a share, above projected range](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
+  The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.  
+  TechCrunch · 2026-11-19 06:11
 
 - [OpenAI Says Its Models Accelerated Chip Design For AMD, Jalapeño](<https://www.theinformation.com/briefings/openai-says-models-accelerated-chip-design-amd-jalapeno>)  
   The Information · 2026-11-19 06:05
@@ -107,17 +141,17 @@
   Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。模型在 Artificial Analysis Intelligence Index 得 61 分排第 3，Vals Index 排第 2，Agent Arena Index 以 1336 分全球第 2。  
   Google DeepMind：Blog（RSS） · 2026-11-19 05:35
 
-- [Palmer Luckey 警告：AI 驱动的网络攻击正超越防御能力，“该跑起来了”](<https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/>)  
-  Palmer Luckey 在《纽约时报》DealBook 峰会上警告，AI 驱动的网络攻击速度已超过老旧系统的防御能力，攻击者与防御方之间存在明显错配。他称美国对手正利用这一差距发动兼具战略与财务目的的攻击，朝鲜参与尤为突出。他认为长期看优势将属于最有效运用 AI 防御的一方，但防御方必须加快节奏，“该跑起来了”。  
-  TechCrunch：AI（RSS） · 2026-11-19 05:34
+- [Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’](<https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/>)  
+  The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.  
+  TechCrunch · 2026-11-19 05:34
 
 - [Understanding AI 用19张图表解析AI行业现状](<https://www.understandingai.org/p/19-charts-that-explain-the-state>)  
   Understanding AI 发布19张图表，量化AI对美国经济和就业的影响。文中提到 Anthropic 即将上市，估值或超万亿美元，OpenAI 预计明年跟进；五大科技公司2026年第三季度资本支出达2300亿美元，AI收入年化运行率达3450亿美元，但新增企业采用放缓，年轻软件工程师就业明显下滑。  
   Timothy B. Lee：Understanding AI（RSS） · 2026-11-19 05:34
 
-- [Palmer Luckey 就 Nvidia CEO 人事变动发表看法](<https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/>)  
-  TechCrunch 报道，Anduril CEO Palmer Luckey 在纽约时报 DealBook Summit 上就 Nvidia 领导层变动发表看法，认为相关变动可能影响美国产业竞争力，并呼吁 Nvidia 恢复创始人黄仁勋的 CEO 职位。报道称，已有超过 20 万人联署请愿，包括马斯克及多家科技公司 CEO；Nvidia 临时 CEO Colette Kress 在财报电话会上表示，公司暂无重新任命黄仁勋的计划。  
-  TechCrunch：AI（RSS） · 2026-11-19 05:31
+- [Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated](<https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/>)  
+  "It makes America weaker to knock him out," the Anduril CEO said about ousted Nvidia leader Jensen Huang.  
+  TechCrunch · 2026-11-19 05:31
 
 - [Palo Alto Networks to Acquire AI Firm Applied Compute for $4.5 Billion](<https://www.theinformation.com/briefings/palo-alto-networks-acquire-ai-firm-applied-compute-4-5-billion>)  
   The Information · 2026-11-19 05:25
@@ -132,38 +166,4 @@
 - [Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion](<https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-19 05:00
 
-- [Databricks 推出 Genie Migrate for Serverless，用智能体把经典工作负载迁到 Serverless](<https://www.databricks.com/blog/introducing-genie-migrate-serverless>)  
-  Databricks 发布 Beta 版 Genie Migrate for Serverless，这个智能体可把作业和 notebook 从经典计算迁移到 Serverless 计算。它先评估哪些工作负载可迁移，再把计算配置、库与 Spark 配置、代码改动以 diff 形式提交审核，确认后才应用并支持回退。用户可在 Genie 中用 /compute migrate 命令启动，无需额外配置。  
-  Databricks：Blog（RSS） · 2026-11-19 05:00
-
-- [US Alleges Russian Agent Stalked, Harassed Palantir Workers](<https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers>)  
-  Bloomberg · 2026-11-19 04:44
-
-- [Sam Altman 回应 Andrew Garfield 在新片《Artificial》中饰演自己](<https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/>)  
-  Sam Altman 在纽约时报 DealBook 峰会上回应 Andrew Garfield 将在圣诞档上映的传记喜剧剧情片《Artificial》中饰演自己，称若 20 年前有人说要拍他的电影会觉得非常奇怪，如今已排不进他人生最怪的前十件事。该片讲述 OpenAI 的崛起以及他 2023 年被短暂罢免引发的内部动荡。  
-  TechCrunch：AI（RSS） · 2026-11-19 04:07
-
-- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
-  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
-  Axios · 2026-11-19 04:00
-
-- [Snapchat 推出 Easy Lens CLI，开发者可用 Claude Code、Cursor 等 AI 编码助手构建 AR Lenses](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>)  
-  Snapchat 宣布推出 Easy Lens CLI，让 Lens 创作者用 Claude Code、Cursor、Codex 等 AI 编码助手以自然语言构建 AR Lenses。  
-  TechCrunch：AI（RSS） · 2026-11-19 03:56
-
-- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
-  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
-  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
-
-- [Bret Taylor’s Sierra in Talks to Raise at $30 Billion Valuation](<https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation>)  
-  The Information · 2026-11-19 03:47
-
-- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
-  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
-  The Verge：AI（RSS） · 2026-11-19 03:40
-
-- [The Verge 可视化解读 Nvidia 的利润增长](<https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang>)  
-  The Verge 用图表解读 Nvidia 的盈利规模：平均每天净赚约 7 亿美元，每秒约 8300 美元，季度利润达 653 亿美元。文章将当前利润与加密热潮和 GPU 缺货时期对比，并提及公司管理层变动后的业务展望。  
-  The Verge：AI（RSS） · 2026-11-19 03:30
-
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 20 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 22 页

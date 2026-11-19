@@ -1,6 +1,41 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 20 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 22 页
+
+- [消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元](<https://www.ithome.com/1/029/121.htm>)  
+  IT之家 11 月 18 日消息，北京时间今天（18 日）晚间，据美国 CNBC 援引知情人士消息称，Anthropic 考虑扩大 IPO 发行规模，并可能将发行价定在 远高于 80 美元 （IT之家注：现汇率约合 534.4 元人民…  
+  IT之家 · 2026-11-18 23:35
+
+- [Modem 发布 2.0：将客户反馈与工单、代码变更打通的客户产品图](<https://modem.ai/blog/modem-2-0-customer-product-graph>)  
+  Modem 发布 2.0，把原本面向 AI PM 智能体的底层数据能力开放为客户产品图（customer product graph），将 Slack、Discord、Zendesk、Gong 等近 20 个渠道的客户反馈聚合为关联工单和 pull request 的主题。  
+  Modem：Blog（RSS） · 2026-11-18 23:30
+
+- [哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责](<https://www.ithome.com/1/029/117.htm>)  
+  IT之家 11 月 18 日消息，据蓝鲸汽车从哈啰方面确认，哈啰 Robotaxi 近期完成了一轮内部组织架构调整。 原智能车-模型开发、系统方案与评测以及 AI Infra-数据平台等相关团队被 整合成立“模型开发与数据闭环部” ，…  
+  IT之家 · 2026-11-18 23:15
+
+- [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](<https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities>)  
+  Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
+  Wiz：Research（安全研究） · 2026-11-18 23:13
+
+- [马斯克“怒怼”奥尔特曼：SpaceX 预计不会从 OpenAI 处获得任何收入](<https://www.ithome.com/1/029/116.htm>)  
+  IT之家 11 月 18 日消息，SpaceX CEO 埃隆 · 马斯克出人意料地透露，公司在业务预测中 并未考虑来自 OpenAI 的任何收入 。此前，OpenAI CEO 萨姆 · 奥尔特曼谈及半导体行业可能重复计算 AI 芯片需…  
+  IT之家 · 2026-11-18 23:09
+
+- [SpaceXAI 在美国密西西比州的 AI 数据中心泄漏约 20m³ 丙二醇](<https://www.ithome.com/1/029/115.htm>)  
+  IT之家 11 月 18 日消息，据 tom's hardware 报道，埃隆 · 马斯克（Elon Musk）旗下的 SpaceXAI（SpaceXSI）在美国密西西比州的 AI 数据中心发生化学品泄漏事件。 承包商在连接移动储罐时…  
+  IT之家 · 2026-11-18 23:01
+
+- [Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations](<https://www.theinformation.com/articles/anthropics-ipo-making-philanthropist-craig-newmark-hold-back-ai-safety-donations>)  
+  The Information · 2026-11-18 23:01
+
+- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
+  Much has been written about AI’s potential to disrupt it.  
+  a16z · 2026-11-18 23:00
+
+- [LangSmith for Coding Agents 开启公测：按 pull request 追踪编码 Agent 花费](<https://www.langchain.com/blog/langsmith-coding-agents-roi>)  
+  LangChain 宣布 LangSmith 推出面向编码 Agent 的报告功能，进入 LangSmith Cloud 公测，可自动把 Claude Code、OpenAI Codex、Cursor、GitHub Copilot 和 Deep Agents 等编码 Agent 的每条 trace 花费归因到其产出的 pull request。  
+  LangChain：Blog（RSS） · 2026-11-18 23:00
 
 - [Mistral 发布 Vibe 智能体桌面应用，支持并行多任务](<https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/>)  
   Mistral 的智能体 Vibe（原 Le Chat）推出桌面应用 Vibe Desktop，用户可同时下达多个任务并观察智能体并行执行。  
@@ -47,14 +82,6 @@
 - [商汤 2026 年前三季度营收 37.92 亿元，同比增长 30.4%](<https://www.ithome.com/1/029/088.htm>)  
   IT之家 11 月 18 日消息，商汤今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：37.92 亿元，同比增长 30.4% 毛利润…  
   IT之家 · 2026-11-18 21:52
-
-- [消息称三星电子计划在 CES 2027 发布 2 款人形机器人](<https://www.ithome.com/1/029/087.htm>)  
-  IT之家 11 月 18 日消息，韩媒《韩民族日报》当地时间昨日报道称，三星电子计划在明年 1 月举行的 CES 2027 消费电子展上发布 2 款人形机器人。 这两款产品的 名称分别为 HR \(Human Reference\) 和…  
-  IT之家 · 2026-11-18 21:51
-
-- [张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情](<https://www.ithome.com/1/029/086.htm>)  
-  IT之家 11 月 18 日消息，据光明日报消息，搜狐张朝阳再次回应搜狐“躺平”相关话题。 对于如今外界认为搜狐“躺平”的看法，张朝阳称一个公司肯定要根据自己的资源来决定做什么。 大模型投入太大，搜狐没资源来做这个事情 。 推荐算法和…  
-  IT之家 · 2026-11-18 21:46
 
 - [一份看空中际旭创的报告，戳中了AI硬件的最大软肋](<https://36kr.com/p/4075210942354560?f=rss>)  
   一份看空中际旭创的估值测算，几乎把整个AI硬件资产的估值困境摆到了台面上。 11月17日，一份关于中际旭创的看空测算在投资圈迅速传播。按照这份材料的预测，到2029年，中际旭创的年净利润大约只有300亿元，对应合理市值3000亿至4500亿  
@@ -140,44 +167,16 @@
   腾讯总裁刘炽平在业绩会上表示，微信小微用户测试池持续扩大，日活已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。IT之家提到今年春节元宝活动后曾宣布日活超 5000 万、月活达 1.14 亿。  
   IT之家·人工智能 · 2026-11-18 20:48
 
-- [苹果2027年产品路线图曝光：18款新品覆盖全品类，首款AI眼镜+20周年iPhone齐登场](<https://36kr.com/p/4075102265070473?f=rss>)  
-  11月17日，科技媒体MacRumors综合彭博社记者马克·古尔曼及多条产业链信源，发布苹果2027年新品完整前瞻。报告显示，苹果明年将推出至少18款新品，覆盖智能手机、平板、电脑、智能穿戴及智能家居全品类，既是iPhone问世20周年的产  
-  36氪 · 2026-11-18 20:38
-
 - [DeepSeek API 定价调整：服务端搜索与网页抓取不再计费，仅按模型 Token 用量计费](<https://www.ithome.com/1/029/058.htm>)  
   DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起，调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费。  
   IT之家·人工智能 · 2026-11-18 20:33
-
-- [小米的MiMo人才激励考题](<https://36kr.com/p/4075104005116800?f=rss>)  
-  随着大模型研发投入持续增长，将AI业务独立出来融资，正在成为科技公司探索的一种资本运作方式。 今年以来，快手旗下可灵AI完成独立增资，阿里巴巴也宣布拟分拆旗下AI芯片企业平头哥赴港上市。对于拥有核心技术团队的大厂而言，引入外部资本不仅有助于  
-  36氪 · 2026-11-18 20:33
-
-- [AI陪伴大变天：收入前十被下架5款，iOS这波整改谁是赢家？](<https://36kr.com/p/4075075172783238?f=rss>)  
-  如今移动端的AI陪伴应用赛道，几乎成了中韩两队的主场。结合SensorTower，收入榜前十基本出自中国/华人团队或韩国背景，就看谁能笑到最后。 收入仅统计IAP 眼下仍是中方领跑且优势不算小。榜首《Tipsy》高出了一个段位，月入1.3亿  
-  36氪 · 2026-11-18 20:30
 
 - [“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地](<https://www.tmtpost.com/8210345.html>)  
   “未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产业集聚”全链条，是百年京张AI创新带上的重要节点。  
   钛媒体 · 2026-11-18 20:11
 
-- [GPT-6.2 Astra首发24小时口碑大翻车，硅谷大佬集体差评](<https://36kr.com/p/4075178142864513?f=rss>)  
-  GPT-6.2刚发24小时口碑两极分化！API再砍20%登顶性价比之王，硅谷大佬却连夜写长信：写代码不如Opus 5.5 GPT-6.2 Astra和Sol，口碑好割裂，给我看不会了。 一边是榜单又杀疯了。 另一边，拿到早期测试权限的硅谷头  
-  36氪 · 2026-11-18 20:02
-
-- [一年卖了5000万，第一批明星AI产品还是下线了](<https://36kr.com/p/4075177978909826?f=rss>)  
-  11月9日，腾讯元器停服。对一个做公众号的运营者来说，最直接的变化是，自己搭的自动回复机器人不回消息了。元器是腾讯2024年5月推出的零代码智能体平台，用户不用写代码，就能把公众号、知识库和插件拼成一个机器人。 更早之前的10月底，字节扣子  
-  36氪 · 2026-11-18 20:01
-
 - [Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents](<https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/>)  
   With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI docu  
   TechCrunch · 2026-11-18 20:00
 
-- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
-  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
-  科技早知道 · 2026-11-18 20:00
-
-- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
-  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
-  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
-
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 20 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 22 页

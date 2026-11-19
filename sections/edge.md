@@ -20,7 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 10 条
+## 相关资讯 · 11 条
 
 - [Edge AI Daily 早报（11月19日）](<https://www.tmtpost.com/8210615.html>)  
   英伟达完成创始人离任后治理重置：Q3营收1158亿美元、订单积压2.5万亿美元，停售H200并设董事会出口管制委员会；美出口管制扩至第三国远程算力，AI基础设施碎片化。Anthropic拟以约1.4万亿美元估值IPO，算力成本进入公开…  
@@ -29,10 +29,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [韩国高考临时屏蔽考点及周边 100 米内公共 WiFi 防 AI 作弊](<https://www.ithome.com/1/029/075.htm>)  
   韩国自当地时间 18 日下午 6 时起，要求 SK 电信、KT、LG U+ 三大运营商暂停全国高考考场及周边 100 米内的公共 WiFi 和运营商 WiFi，至 19 日下午 6 时，以防考生用智能眼镜、微型摄像头等 AI 设备作弊。  
   IT之家·人工智能 · 2026-11-18 21:23
-
-- [苹果2027年产品路线图曝光：18款新品覆盖全品类，首款AI眼镜+20周年iPhone齐登场](<https://36kr.com/p/4075102265070473?f=rss>)  
-  11月17日，科技媒体MacRumors综合彭博社记者马克·古尔曼及多条产业链信源，发布苹果2027年新品完整前瞻。报告显示，苹果明年将推出至少18款新品，覆盖智能手机、平板、电脑、智能穿戴及智能家居全品类，既是iPhone问世20周年的产  
-  36氪 · 2026-11-18 20:38
 
 - [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
   面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
@@ -50,6 +46,10 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   面壁智能在里斯本 Web Summit 2026 上展示了全新发布的 MiniCPM-V 4.7 及面壁智舱 SuperMate 等端侧产品。MiniCPM-V 4.7 35B-A3B 是全球首个可在端侧无损运行的开源 MoE 模型，单次推理仅激活 30 亿参数，在最新款 iPhone 上以约 3GB 运行内存实现约 20 token/s 解码速度。  
   公众号：面壁智能（MiniCPM） · 2026-11-17 20:50
 
+- [韩国拟拨款采购无线电探测设备 防范国家资格考试 AI 眼镜作弊](<https://www.ithome.com/1/026/958.htm>)  
+  据新华社报道，韩国在野党议员金渭相提议在 2027 年度预算中增加约 65.7 亿韩元（约合 3,286.3 万元人民币），采购无线电信号探测设备并安排专职人员，防范国家资格考试中的 AI 作弊。  
+  IT之家·人工智能 · 2026-11-13 22:08
+
 - [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
   Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
   @SVTrivo · 2026-11-13 12:48
@@ -57,6 +57,10 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
   Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
   @SamuelZengML · 2026-11-13 02:00
+
+- [Edge0 开源 145B 端侧模型，可在笔记本本地运行](<https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer>)  
+  Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。  
+  Hacker News：AI 热帖 · 2026-11-13 02:00
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

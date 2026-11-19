@@ -1,6 +1,98 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 20 页
+[返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 22 页
+
+- [什么样的智能体才算自我进化？](<https://www.oreilly.com/radar/?p=20219>)  
+  作者分析无需更换模型也能让智能体从经验中改进的关键在于 harness，并引 Harness-RSI 与 ModularRSI 将 harness 分为上下文管理、agent loop、工具使用、观察管理和任务完成检测五个模块。  
+  O'Reilly Radar（热点 RSS） · 2026-11-13 19:54
+
+- [Every Day Is Zero Day \| Wiz CTO Ami Luttwak](<https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ>)  
+  AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them f…  
+  The a16z Show · 2026-11-13 19:00
+
+- [Google 开源 TPU Sync：面向 TPU 的 KV cache 传输 C++ 库](<https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/>)  
+  Google Cloud 发布开源 C++ 库 TPU Sync（Apache-2.0），把 TPU HBM、主机 DRAM、共享存储和数据中心网络当作统一内存层级，用异步 DMA 传输 KV cache 和模型权重。  
+  MarkTechPost（RSS） · 2026-11-13 18:32
+
+- [Anthropic 调查 Claude 身份验证故障，claude.ai、Claude Code 等出现大量报错](<https://www.ithome.com/1/026/905.htm>)  
+  Anthropic 在 Claude Status 页面发布公告，称正在调查用户在 Claude.ai 和 Claude Code 上进行身份验证时遇到的问题，将尽快提供最新进展。  
+  IT之家·人工智能 · 2026-11-13 18:31
+
+- [Doctors want liability shield from AI mistakes](<https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield>)  
+  The rapid deployment of artificial intelligence in hospitals and clinics is leading the nation's biggest physicians g…  
+  Axios · 2026-11-13 18:30
+
+- [BBC 报道英国“房源照骗”现象：中介和卖家开始用 AI 伪造或美化房源照片](<https://www.ithome.com/1/026/904.htm>)  
+  据 BBC 报道，英国“房源照骗（housefishing）”现象越来越普遍，一些房产中介和卖家通过 AI 修改或生成房源照片，让房屋显得更宽敞、现代化。一名女子在 Rightmove 看中的房源实物与照片差距很大，房间更小、结构和窗户都有出入；《Housing Horrors》主持人称过去六个月 AI 美化房源照片明显增多且大多未标注，有中介已出台新规要求 AI 美化照片必须明确标注。  
+  IT之家·人工智能 · 2026-11-13 18:22
+
+- [Google 发布 Gemini 4 Hydrogen，速度比 Gemini 3.8 Flash 快 2.5 倍](<https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/>)  
+  Google DeepMind 发布闭源模型 Gemini 4 Hydrogen，定位编码与智能体工作流，速度比 Gemini 3.8 Flash 快 2.5 倍，Terminal-Bench 4.1 得分 57%（3.8 Flash 为 18.2%）。  
+  MarkTechPost（RSS） · 2026-11-13 17:45
+
+- [The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill](<https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia>)  
+  The AI boom without Jensen Huang will test a hard truth: Even if the tech world has grown somewhat less reliant on Nv…  
+  Axios · 2026-11-13 17:45
+
+- [n8n 2.47.0 新增 Public API 每 API key 限流功能](<https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/>)  
+  n8n 在 2.47.0 版本为所有计划（Cloud 和自托管）推出 Public API 限流，管理员可按 API key 设置读写、全局及按端点的请求上限，防止单个失控工作流阻塞同实例上的其他团队。  
+  n8n Blog · 2026-11-13 17:29
+
+- [AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO](<https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/>)  
+  Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。  
+  Latent Space（RSS） · 2026-11-13 17:04
+
+- [腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力](<https://www.ithome.com/1/026/825.htm>)  
+  腾讯混元发布实时语音模型 Hy Realtime，在语音理解、指令遵循和拟人化表达上有提升，并新增 Agentic 工具调用与唱歌能力，唱歌功能依托与腾讯音乐 TME 灵音 AI 团队的合作，支持按歌手、曲风、年份等组合点歌演唱。模型已在元宝语音通话、腾讯客服上线，近期将登陆腾讯云提供 API 服务，后续将重点提升双工交互、长期个性化记忆和前后台 Agent 交互。  
+  IT之家·人工智能 · 2026-11-13 16:41
+
+- [腾讯元宝语音通话升级，混元实时语音模型 Hy Realtime 上线](<https://mp.weixin.qq.com/s/2jwI0hm4rn-vxX836LMyRw>)  
+  腾讯元宝宣布语音通话升级，腾讯混元实时语音模型 Hy Realtime 已上线。新能力包括听得懂不完整表达、接续此前话题、回溯聊天内容，以及切换「初语」音色后点歌即唱。用户更新元宝App后点击右上角电话图标，场景选「自由对话」、音色选「初语」即可免费体验。  
+  公众号：腾讯元宝 · 2026-11-13 16:39
+
+- [百度沈抖：智能组织需要智能云](<https://mp.weixin.qq.com/s/l5DV65vnD_MpBEPhCF6zeQ>)  
+  百度集团执行副总裁、百度智能云事业群总裁沈抖在百度世界2026大会演讲中提出，智能组织需要智能云，智能云服务的是具体任务而非企业IT系统。百度智能云围绕“组织进化三原则”重新组织产品和服务，支持企业建设通用、专业与定制三类智能体。会上还发布百度天池1024卡超节点，单套可支撑5万亿参数模型训练，将于明年推向市场。  
+  公众号：百度智能云（文心） · 2026-11-13 16:39
+
+- [腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力](<https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg>)  
+  腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。  
+  公众号：腾讯混元 · 2026-11-13 16:32
+
+- [蚂蚁 inclusionAI 发布 Duo-1.0-distill-quant：Duo 1.0 的 FP8 量化四步蒸馏权重](<https://huggingface.co/inclusionAI/Duo-1.0-distill-quant>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 Duo-1.0-distill-quant，即全双工音视频交互世界模型 Duo 1.0 的 FP8 量化四步蒸馏 Realization 权重。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-13 16:09
+
+- [Shield helps technicians hand off legacy portal work with OpenAI](<https://openai.com/business/customer-stories/shield>)  
+  Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so techn…  
+  OpenAI · 2026-11-13 16:00
+
+- [Apache Spark Real-Time Mode 详解：从微批到毫秒级流式延迟](<https://www.databricks.com/blog/what-is-real-time-mode>)  
+  Databricks 详解 Apache Spark Structured Streaming 的 Real-Time Mode，以长任务、流水线调度和流式 shuffle 取代微批调度，把端到端延迟从秒级降到毫秒级。  
+  Databricks：Blog（RSS） · 2026-11-13 15:49
+
+- [不用显卡：玩家用停产英特尔傲腾内存跑通 2.8 万亿参数 Kimi K3，每秒输出 1.5 词元](<https://www.ithome.com/1/026/759.htm>)  
+  网友 u/IndividualSurvival 在 Reddit 分享家庭实验室尝试，不配显卡、仅用已停产的英特尔傲腾持久内存 200 系列，通过 llama.cpp 成功运行 2.8 万亿参数的月之暗面 Kimi K3。1 比特量化下初始生成速度约每秒 0.85 个词元，关闭 DAX 后提升至每秒 1.50 个词元；3 比特量化仅每秒 0.75 个词元，生成 5 万个词元约需 18.5 小时。  
+  IT之家·人工智能 · 2026-11-13 15:14
+
+- [PH今日热榜 \| 2026-11-13](<https://decohack.com/producthunt-daily-2026-11-13/>)  
+  Plurai Simulation：一个模拟世界，让你的智能体在每次运行中不断提升。；YouArt Desktop App：创意团队的指南；Omnigraph：开源图形数据库，专为你的人工智能代理设计  
+  Product Hunt 中文 · DecoHack · 2026-11-13 15:00
+
+- [谷歌 Gemini 任务自动化适配应用名单曝光，当前共 134 款](<https://www.ithome.com/1/026/752.htm>)  
+  Android Authority 报道谷歌 Gemini 任务自动化功能适配应用名单曝光，共 134 款 App，覆盖外卖、打车、购物、旅行及办公等场景。稳定版 Android 17 QPR2 列表含 114 款，Android Canary 额外覆盖 20 款。  
+  IT之家·人工智能 · 2026-11-13 14:55
+
+- [Cerebras 签约微软成为第三家超大规模云客户，2026Q3 剩余履约义务 261 亿美元](<https://www.ithome.com/1/026/741.htm>)  
+  Cerebras 在 2026Q3 财报电话会议上宣布与 Microsoft 签署协议，成为继 AWS 和 Oracle 后第三家超大规模云计算客户。2026Q3 核心总收入约 2.3 亿美元，同比增长 20%，其中云服务及其它占 1.45 亿美元，同比增长 272%；截至 2026 年 9 月 30 日剩余履约义务为 261 亿美元。  
+  IT之家·人工智能 · 2026-11-13 14:41
+
+- [MIT 研究团队开发 AI "copilot"，让工程师参与拓扑优化设计过程](<https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113>)  
+  MIT 研究人员开发了一套类似 AI copilot 的拓扑优化协作系统，在算法生成结构的过程中把区域提交给设计师反馈，相比全算法方法仅增加 15 秒设计时间，却使线性屈曲载荷提升 39%。该系统用机器学习从合成的人类反馈数据集中识别设计师最可能想修改的区域，目前仅支持对指定区域加厚或减薄。  
+  MIT News（RSS） · 2026-11-13 13:00
+
+- [Codex 0.169.0 发布：终端工作区支持多侧聊标签页](<https://github.com/openai/codex/releases/tag/rust-v0.169.0>)  
+  Codex 0.169.0 为可选终端工作区加入多侧聊标签页，支持键鼠切换，并可在重启后恢复本地侧聊记录。该版本还支持从终端添加或编辑自定义模型提供商，macOS 和 Linux 上可开启 Cloud 连接发送图片、选择模型与推理强度。  
+  Codex：GitHub Releases（RSS） · 2026-11-13 12:48
 
 - [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
   Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
@@ -9,6 +101,18 @@
 - [安全团队Depi披露一条从GitHub issue提示注入串联Codex沙箱逃逸和Actions缓存投毒、触及官方npm发布链的攻击路径。团队称OpenAI已修复核心缺陷；披露不等于已有恶意npm版本流向用户，本轮未独立复现。](<https://x.com/Basant_Pandey/status/2121102375356395704>)  
   One GitHub issue became a path to poisoning @OpenAI's official Codex npm package. Depi chained prompt injection in an issue-triage agent with a sandbox escape and Actions cache poisoning. Now fixed. My rule: an agent in CI holds every permission its job holds.…  
   @Basant\_Pandey · 2026-11-13 12:46
+
+- [Kimi 教程：如何用 Kimi Code 给陶瓷工作室做 3D 品牌落地页](<https://mp.weixin.qq.com/s/ky604oABf3RaUo_C8K-3oA>)  
+  Kimi 发布教程，演示如何用 Kimi Code 桌面版为一家小型陶瓷工作室搭建 3D 品牌主页。流程从一句话需求出发，由 Kimi 扩写成详细建站提示词，再生成可滚动原型，展示陶器从泥坯成形到入窑烧制的全过程。之后可拖入参考录屏让 Kimi 学习镜头与布局，迭代出更连贯的滚动交互效果。  
+  公众号：月之暗面（Kimi） · 2026-11-13 12:46
+
+- [ArtCraft 用 AI 克隆 Photoshop 等 17 款开源工具，创始人喊出重建整个互联网](<https://latent.space/p/artcraft/>)  
+  Latent Space 报道 ArtCraft 创始人 Brandon Thomas 在 AI Engineer Code Summit 上阐述 AI 开源宣言，公司已发布 17 款开源应用，包括用 Rust 从零构建的 Photoshop 替代品 PhotoCraft，以及 PdfCraft、WordCraft 和克隆 Figma 的产品。  
+  Latent Space（RSS） · 2026-11-13 12:17
+
+- [Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产](<https://www.ithome.com/1/026/544.htm>)  
+  Axelera AI 公布第三代 AIPU 芯片 Titania 架构，瞄准数据中心推理市场，预计 2027 年第 3 季度量产，已获超 3 亿美元订单。Titania 设计功耗 400W，由 2 个第三代 D-IMC 架构计算芯粒组成，针对稀疏 MoE 模型优化，FP8 算力可达 2.5PFLOPS，SiP 集成 128GB LPDDR6 内存。  
+  IT之家·人工智能 · 2026-11-13 10:56
 
 - [美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型](<https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6>)  
   美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。  
@@ -22,9 +126,21 @@
   World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
   @Clairef9vu · 2026-11-13 09:45
 
+- [黄仁勋辞任 Nvidia CEO，Casey Newton 撰文评析硅谷创始人崇拜的终结](<https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/>)  
+  Nvidia 于周四宣布 CEO 黄仁勋辞职，CFO Colette Kress 暂代 CEO，此前纽约时报曝光其第二段婚外情，路透社随后披露第三段。作者 Casey Newton 评析其职业生涯，指出硅谷创始人崇拜带来的两大问题，包括富豪寡头化和 key-man 风险，并称黄仁勋没有继任计划。  
+  Platformer（热点 RSS） · 2026-11-13 09:43
+
 - [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
   “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
   晚点聊 · 2026-11-13 09:15
+
+- [黄仁勋辞任英伟达CEO：14天时间线与33年生涯回顾](<https://mp.weixin.qq.com/s/RB5f6wfZgI46D8ux_vK5LA>)  
+  11月12日英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价当日跌13%，市值跌回4万亿美元以下，CFO科莱特·克雷斯临时接任。作者梳理了英伟达三份公告、员工信和SEC文件等一手材料，回顾了黄仁勋33年的职业生涯及公司治理层面的变化。  
+  公众号：卡尔的AI沃茨 · 2026-11-13 09:03
+
+- [GitHub 公布 2026 年 10 月可用性报告：Azure 容量翻倍，仍发生写入故障](<https://github.blog/news-insights/company-news/github-availability-report-october-2026/>)  
+  GitHub 发布 2026 年 10 月可用性报告，称已完成 Central US 全部九个 Kubernetes 集群的计算扩容、容量翻倍，Azure 承载了 63% 的迁移服务读取量。  
+  GitHub Blog · 2026-11-13 08:20
 
 - [a16z的Anne Neuberger提出关键基础设施网络防御方案，优先保护电力、支付、水务、通信和医院中可能造成连锁故障的运营商及共用供应商，建议用AI寻找漏洞、生成补偿防护并建立持续演练。属于机构提案，尚非政府已采纳政策或落地效果。](<https://x.com/a16z/status/2121030491407294854>)  
   AI can help defend America's critical infrastructure as fast as attackers now operate. Much of the equipment running power grids, water systems, and other essential services is decades old. Some of it can't be patched without risking an outage. a16z's Anne Neu…  
@@ -34,143 +150,36 @@
   Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。  
   Google Research：Blog（网页） · 2026-11-13 08:00
 
-- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
-  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
-  a16z · 2026-11-13 05:21
+- [OpenRouter 实测 RAG 重排序：274 题基准中 precision@1 从 81% 提升到 97%](<https://openrouter.ai/blog/tutorials/reranking-rag/>)  
+  OpenRouter 发布 RAG 重排序教程，在 274 题合成基准上，向量检索用 google/gemini-embedding-2 的 precision@1 为 81.0%，加入 voyageai/rerank-3-lite 对 top 30 重排序后提升到 97.1%，成本约 $0.10/千次查询。  
+  OpenRouter：Announcements（RSS） · 2026-11-13 08:00
 
-- [Jensen Huang's implosion at Nvidia leaves trail of collateral damage](<https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation>)  
-  Jensen Huang's self-destruction has left a trail of collateral damage that threatens to ensnare the board of Nvidia a…  
-  Axios · 2026-11-13 04:02
+- [Berkeley RDI 等发布 CyberArena：让 AI 智能体在实时网络攻防对抗中互测](<https://rdi.berkeley.edu/blog/cyberarena>)  
+  Berkeley RDI 联合多所高校发布 CyberArena 基准，让两个 AI 智能体在 CTF 攻防赛制中同时攻击对手服务并修补自己的服务，每局结果由场地验证。  
+  Berkeley RDI：Blog（AI 安全与评测） · 2026-11-13 08:00
 
-- [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>)  
-  Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams sh…  
-  OpenAI · 2026-11-13 04:00
+- [黄仁勋辞去英伟达 CEO，Hugging Face CEO 德朗格表态继续力挺开源 AI](<https://www.ithome.com/1/026/469.htm>)  
+  黄仁勋于 11 月 12 日辞去英伟达总裁、CEO 及董事职务，即刻生效，CFO 科莱特·克雷斯出任临时 CEO，公司启动新 CEO 遴选。Hugging Face CEO 德朗格在领英称这是令人难过的一天，表示将比以往更努力捍卫开源人工智能。  
+  IT之家·人工智能 · 2026-11-13 07:56
 
-- [Google发布Gemini 4 Hydrogen，面向日常编程和Agent执行，提供四档思考强度及100万token上下文。官方API标价为每百万输入token 1.50美元、输出7.50美元，并支持与Carbon/Argon组合使用；速度与评测结果仍属厂商数据。](<https://x.com/Google/status/2120941982004523367>)  
-  Meet Gemini 4 Hydrogen. It brings cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic work. Across 4 thinking levels, it stands on its own or teams up with Carbon and Argon — 2.5X faster than 3.8 Flash, outpacing co…  
-  @Google · 2026-11-13 02:09
+- [Google 发布 Gemini 4 Hydrogen，Simon Willison 梳理 Gemini 4 定价并实测对比](<https://simonwillison.net/2026/Nov/12/llm-gemini/>)  
+  Google 发布 Gemini 4 家族最低价型号 Gemini 4 Hydrogen，定价 $1.50/$7.50（每 M token 输入/输出），作者 Simon Willison 称 Gemini 4 定价令人困惑。  
+  Simon Willison 博客 · 2026-11-13 06:55
 
-- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
-  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
-  SemiAnalysis · 2026-11-13 02:06
+- [GitHub 发布 Agent Skills 实操指南：一次编写、跨 Agent 复用](<https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/>)  
+  GitHub Blog 发布 Agent Skills 实操指南，讲解如何用 SKILL.md 把可重复任务指令沉淀为可跨 Agent 复用的版本化技能目录。  
+  GitHub Blog · 2026-11-13 06:54
 
-- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
-  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
-  @SamuelZengML · 2026-11-13 02:00
+- [SpaceX 宣布投入超 740 亿美元在得州和亚利桑那州建设两座 AI 超级计算数据中心园区](<https://www.ithome.com/1/026/455.htm>)  
+  SpaceX 于 11 月 12 日宣布，计划投入超 740 亿美元在得克萨斯州和亚利桑那州建设两座面向 AI 的超级计算数据中心园区。  
+  IT之家·人工智能 · 2026-11-13 06:52
 
-- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
-  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
-  Google AI · 2026-11-13 02:00
+- [Liquid AI 发布 74M 参数流式音频编解码器 LiquidCodec](<https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/>)  
+  Liquid AI 发布流式语音 tokenizer LiquidCodec，约 74M 参数，24 kHz 音频、12.5 Hz 帧、12 codebooks，权重已上架 Hugging Face。  
+  MarkTechPost（RSS） · 2026-11-13 06:43
 
-- [Replit Agent 新增代购能力和 Google Ads 投放功能](<https://replit.com/blog/replit-agent-ads-commerce>)  
-  Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。  
-  Replit：Blog（RSS） · 2026-11-13 00:45
+- [美国民主党议员就英伟达对华芯片销售启动调查](<https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/>)  
+  美国国会民主党议员近日就特朗普政府处理英伟达对华芯片销售一事启动调查，并致函商务部长要求保存相关记录。调查关注芯片出口许可、关税安排及英伟达与政府之间的商业往来等监管问题。  
+  TechCrunch：AI（RSS） · 2026-11-13 06:42
 
-- [uRun](<https://www.producthunt.com/products/urun>)  
-  Real-time decisions for voice and video agents  
-  Product Hunt · English · 2026-11-13 00:38
-
-- [DeepSeek 开放全家桶应用 API：联网搜索、文件输入、阅读链接等能力面向开发者](<https://api-docs.deepseek.com/zh-cn/updates/#%E5%8F%91%E5%B8%83%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8-api>)  
-  DeepSeek 在 API 中开放此前 App 对话服务所用的能力，开发者开启对应参数即可使用，工具调用与上下文拼接由服务端完成。  
-  DeepSeek：API 更新日志 · 2026-11-13 00:00
-
-- [Apple HomeView 正式开售，售价 299 美元并搭载 Siri AI](<https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/>)  
-  Apple 于 11 月 13 日正式开售 HomeView，提供桌面和壁挂两款型号，均售 $299（U.S.），首发澳大利亚、加拿大、印度、新西兰、新加坡、英国和美国市场。  
-  Apple：Newsroom（RSS） · 2026-11-13 00:00
-
-- [Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO](<https://www.axios.com/2026/11/12/nvidia-jensen-huang-out>)  
-  Jensen Huang resigned as CEO of Nvidia after he reportedly had two affairs, including one with a purported Chinese sp…  
-  Axios · 2026-11-12 23:37
-
-- [Gaming’s Next Origin Stories](<https://www.a16z.news/p/gamings-next-origin-stories>)  
-  What AI makes possible for indie developers, toolmakers, and studios  
-  a16z · 2026-11-12 23:03
-
-- [Jensen Huang's ouster triggers an AI earthquake](<https://www.axios.com/2026/11/12/jensen-huang-nvidia-board>)  
-  Jensen Huang's departure from Nvidia has plunged the AI industry into uncharted territory — a corporate earthquake th…  
-  Axios · 2026-11-12 22:10
-
-- [Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程](<https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/>)  
-  Figma 宣布 3D transforms 进入 open beta，面向所有 Full seat 用户开放，可用 3D transform 和 perspective 效果在空间中倾斜、旋转和排布文本、图像、矢量与框架，效果非破坏性，原稿保持可编辑。  
-  Figma AI / Agent / Make · 2026-11-12 22:00
-
-- [Gondola doubles revenue as its team builds more with Codex](<https://openai.com/business/customer-stories/gondola>)  
-  Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT si…  
-  OpenAI · 2026-11-12 20:00
-
-- [The Next Era of Games: Mods, Agents, and Infinite Worlds](<https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi>)  
-  AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In…  
-  The a16z Show · 2026-11-12 19:00
-
-- [Holiday Extras is rethinking what it can build with Codex](<https://openai.com/business/customer-stories/holidays-extras-codex>)  
-  With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibil…  
-  OpenAI · 2026-11-12 17:30
-
-- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
-  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
-  20VC · 2026-11-12 15:07
-
-- [PH今日热榜 \| 2026-11-12](<https://decohack.com/producthunt-daily-2026-11-12/>)  
-  ScroogeFrog AI：AI 广告欺诈检测，保护你的营销预算；Nod by n8n：拥有自己计算机的开源个人助手；CALL-E：通过你的AI助手（如Muse、ChatGPT或Claude）拨打电话  
-  Product Hunt 中文 · DecoHack · 2026-11-12 15:00
-
-- [Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型](<https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>)  
-  Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。  
-  Claude：Blog（网页） · 2026-11-12 08:00
-
-- [Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议](<https://claude.com/blog/claude-meetings>)  
-  Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。  
-  Claude：Blog（网页） · 2026-11-12 08:00
-
-- [Welcome to the B2A Economy](<https://www.a16z.news/p/welcome-to-the-b2a-economy>)  
-  They’re AI agents.  
-  a16z · 2026-11-11 23:02
-
-- [What the Internet Boom Teaches Us About the AI Buildout \| Mike Volpi](<https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG>)  
-  The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strateg…  
-  The a16z Show · 2026-11-11 19:00
-
-- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
-  APPSO · 2026-11-11 09:00
-
-- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
-  极客公园 · 2026-11-11 08:43
-
-- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
-  APPSO · 2026-11-11 08:20
-
-- [谷歌最强AI「碳」全球解禁！再现人类首次登月](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652742144&idx=1&sn=d63ffb9f70f7cb25804b5107e77a3c4d>)  
-  新智元 · 2026-11-11 06:45
-
-- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
-  量子位 · 2026-11-11 06:10
-
-- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物系统首次完整曝光](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=2&sn=32ea257fcc98924cf226b76eb6251ce8>)  
-  量子位 · 2026-11-11 06:10
-
-- [Designing for Agents — Zeno Rocha, Resend](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend>)  
-  swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for…  
-  Latent Space · 2026-11-11 04:06
-
-- [Investing in General Translation](<https://www.a16z.news/p/investing-in-general-translation>)  
-  The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
-  a16z · 2026-11-11 00:30
-
-- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
-  APPSO · 2026-11-10 23:57
-
-- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
-  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
-  The a16z Show · 2026-11-10 23:29
-
-- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
-  新智元 · 2026-11-10 23:16
-
-- [突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=1&sn=12f09ef75c518a2d6464d9aeda167cee>)  
-  新智元 · 2026-11-10 23:16
-
-- [278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入](<https://www.xiaoyuzhoufm.com/episode/6af316b6b4a4e20202f7cbd2?utm_source=rss>)  
-  🎙【本期嘉宾】小果哥哥 小果哥哥 （AI短剧从业者，《 安徽小木匠 》作者，潘乱亲弟弟） 主播：潘乱（「乱翻书」主理人） 🎬 本期视频播客同步上线于 @潘乱的视频号、哔哩哔哩、微博、小红书、Youtube 等平台。 ⏰【时间线】…  
-  乱翻书 · 2026-11-10 21:12
-
-[返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 20 页
+[返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 22 页

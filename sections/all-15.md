@@ -1,78 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 20 页
-
-- [Gartner 预测到 2030 年 AI 将使全球净增约 170 万个工作岗位](<https://www.ithome.com/1/027/427.htm>)  
-  Gartner 预测 2025 至 2030 年间 AI 将在全球创造 1060 万个新岗位、取代 890 万个岗位，净增约 170 万个。分析师 John Lovelock 表示企业目前处于观望阶段，超过 20% 即约 4.355 亿劳动者需适应 AI 带来的工作方式变化，政府部门更易出现岗位流失，服务业则可能因收益增加而扩招。  
-  IT之家·人工智能 · 2026-11-15 18:27
-
-- [谷歌 Project Zero 宣布将分阶段把漏洞披露期限从 90 天缩短至 30 天](<https://www.ithome.com/1/027/423.htm>)  
-  谷歌 Project Zero 于当地时间 11 月 13 日发布全新漏洞披露政策，称 AI 辅助漏洞挖掘与利用技术的兴起使现有 90+30 天政策难以适应需求。  
-  IT之家·人工智能 · 2026-11-15 18:12
-
-- [前 OpenAI 研究员 Paul Christiano 称 AI 失控可能是当代人最可能的死因](<https://www.ithome.com/1/027/419.htm>)  
-  前 OpenAI 研究员、人工智能对齐研究中心负责人 Paul Christiano 在希尔顿讲座上表示，在座大多数人最可能的死因将是一次 AI 意外事故，并称未来三年内发生 AI 接管事件的风险很高。  
-  IT之家·人工智能 · 2026-11-15 18:09
-
-- [Bland 发布 Tofu-1 全双工语音到语音通话模型](<https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/>)  
-  Bland 发布全双工语音到语音模型 Tofu-1，处于研究预览阶段，面向车载、病房和弱信号线路等嘈杂通话场景，直接处理音频输入输出、无需中间转写文本。该模型支持说话人跟踪、噪声分离与副语言识别，可在通话中被中途打断并边处理任务边继续对话。目前仅向有限企业开放，未公布参数量、延迟、定价和基准分数。  
-  MarkTechPost（RSS） · 2026-11-15 18:06
-
-- [美团开源 1.6 万亿参数智能体模型 LongCat-2.5，训练全程未用 Nvidia GPU](<https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/>)  
-  美团开放 LongCat-2.5 权重，这是一款面向智能体的 1.6 万亿参数 MoE 模型，每 token 激活约 480 亿参数，采用 MIT 许可证，官方部署方案基于 194 片华为 Ascend 加速器，全程未使用 Nvidia GPU。  
-  The Decoder：AI News（RSS） · 2026-11-15 18:06
-
-- [开发者用 Claude 编写 97KB 浏览器水下探索模拟项目 Abyssal Garden](<https://www.ithome.com/1/027/406.htm>)  
-  开发者 Any-Reputation8118 借助 Anthropic Claude 编写代码，做出浏览器水下探索模拟项目 Abyssal Garden，体积仅 97KB，所有视觉元素均由代码在页面加载时实时生成。  
-  IT之家·人工智能 · 2026-11-15 16:58
-
-- [7 人利用 AI 生成国漫角色淫秽图片牟利获刑，均适用缓刑](<https://www.ithome.com/1/027/395.htm>)  
-  金华市婺城区检察院对陈某等 7 名“黄图画师”提起公诉，法院以制作、复制、贩卖、传播淫秽物品牟利罪判处有期徒刑二年至八个月不等，均适用缓刑，判决已生效。涉案人员通过数十个漫画爱好者群以每份 5 元至 20 元售卖 AI 生成的国漫角色淫秽图片，一年多销售 13 万余张、获利 16 万余元。  
-  IT之家·人工智能 · 2026-11-15 16:21
-
-- [SK 海力士加快 HBM4 设备投资，清州 P&amp;T6 厂拟明年上半年投产](<https://www.ithome.com/1/027/392.htm>)  
-  SK 海力士正与设备供应商商讨追加采购 HBM4 生产设备，重点覆盖键合、切割和检测等后道工序，部分设备要求供应商在第一季度前交付，目标明年上半年完成进场和安装调试。新增产能可能落在韩国忠清北道清州的 P&amp;T6 封装测试厂，该厂全面运转后按晶圆计算每月可额外生产 2 万片以上 HBM。SK 海力士上月称，截至 2029 年未来三年 DRAM 和 HBM 产能实际上已全部售罄。  
-  IT之家·人工智能 · 2026-11-15 16:15
-
-- [Dippr](<https://www.producthunt.com/products/dippr>)  
-  A data platform served to your agents, with one prompt  
-  Product Hunt · English · 2026-11-15 15:59
-
-- [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
-  HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  
-  Product Hunt 中文 · DecoHack · 2026-11-15 15:00
-
-- [韩国税务师考试榜一考生自首，承认用微型摄像头与生成式 AI 作弊](<https://www.ithome.com/1/027/303.htm>)  
-  韩国 2026 年第 63 届税务师考试第一名考生 A 某自首，承认用微型摄像头拍摄考题并发给生成式 AI 获取答案，已在 4 月和 7 月的第一轮、第二轮考试中实施作弊。他已向首尔警察厅提交自首书并将设备作为证据上交；因其在第一轮 160 题仅错 1 题、多科满分的高分过于异常，此前曾被网友怀疑使用 AI 作弊。  
-  IT之家·人工智能 · 2026-11-15 12:35
-
-- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
-  「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
-  晚点聊 · 2026-11-15 12:15
-
-- [SK 集团会长崔泰源：所有子公司都要蜕变为 AI 企业](<https://www.ithome.com/1/027/277.htm>)  
-  SK 集团会长崔泰源在“2026 CEO 研讨会”上表示，集团必须打破现有框架、重新定位为 AI 公司，所有子公司都要找到新定位，打造连接 AI 服务与 Token 经济的“AI 飞轮”。他提出将业务范围从 AI 半导体、基础设施和能源扩展至服务领域，并强调 AI 时代没有公司能独自完成所有事情。  
-  IT之家·人工智能 · 2026-11-15 10:13
-
-- [从 M-VAVE FM-1 固件开源看 AI Agent 如何推动硬件开放](<https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/>)  
-  作者以售价约 $70 的 M-VAVE FM-1 口袋 FM 合成器为例分析行业趋势：用户 9 月起用 AI 编码工具为其编写多种自制固件，M-Vave 于 10 月以 GPLv3 开源官方固件并附开发套件和浏览器模拟器，Behringer、Akai、Erica Synths 等随后也宣布开放部分固件。  
-  Hacker News：AI 热帖 · 2026-11-15 08:00
-
-- [Browser Use 教程：用 profile 跨运行复用登录状态](<https://browser-use.com/posts/browser-use-profiles>)  
-  Browser Use 发布教程，演示如何让云端浏览器跨运行复用登录：登录后停止浏览器以保存 profile 的 cookies 和本地存储，再用同一 profile ID 启动新运行访问受保护页面。  
-  Browser Use · 2026-11-15 08:00
-
-- [datasette-llm 0.1a11 发布：支持 OpenAI 兼容端点](<https://simonwillison.net/2026/Nov/14/datasette-llm/>)  
-  Datasette 的中间插件 datasette-llm 发布 0.1a11，新增对 OpenAI 兼容端点的支持，可将 Datasette 配置为使用任何遵循该协议的 LLM 服务。这意味着用 LM Studio、Ollama 或刚发布 v1.0.0 的 llama.cpp 跑本地模型的用户，可通过 uvx 启动由本地模型驱动的 Datasette Agent 实例。  
-  Simon Willison 博客 · 2026-11-15 07:59
-
-- [超聚变深交所创业板 IPO 过会，前身是华为 X86 服务器业务](<https://www.ithome.com/1/027/255.htm>)  
-  深交所上市审核委员会 11 月 12 日审议通过超聚变数字技术创业板首发，从受理到过会仅用时 174 天。  
-  IT之家·人工智能 · 2026-11-15 07:38
-
-- [马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务](<https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/>)  
-  要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。  
-  TechCrunch：AI（RSS） · 2026-11-15 05:41
+[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 22 页
 
 - [Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难](<https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/>)  
   Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。  
@@ -145,9 +73,45 @@
   Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。  
   Sierra：Blog（RSS） · 2026-11-14 01:00
 
+- [Perplexity 发布开源权重决策模型 Decider v1.3，新增 Locate 功能](<https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/>)  
+  Perplexity 发布开源权重的 pplx-decider-v1.3 与 pplx-decider-flash-v1.3 决策模型，以 Apache 2.0 上架 Hugging Face，并可通过 Perplexity Decisions API 和 OpenRouter 使用。  
+  MarkTechPost（RSS） · 2026-11-14 00:10
+
 - [Hacker News「Who is Hiring」帖子数徘徊12年低位，AI 已出现在过半职位帖中](<https://www.hntrends.com/2026/november.html>)  
   Hacker News「Who is Hiring」月度趋势更新显示，2026年11月帖子仅244条，同比降37%，8月的224条为2014年1月以来最少，2026年月均287条为2013年以来最低。AI 出现在51.6%的帖子中，2026年6月首次过半；AI Agents 占14.8%，MCP 从一年前的0.3%升至4.5%，Front End 占比从2022年初的27%降至6.6%。  
   Hacker News：AI 热帖 · 2026-11-14 00:00
+
+- [LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元](<https://www.langchain.com/blog/series-c>)  
+  LangChain 官宣完成 3 亿美元 C 轮融资，估值 30 亿美元，由 CapitalG 领投，GIC、DFJ Growth、IVP、Sapphire Ventures 等参投。  
+  LangChain：Blog（RSS） · 2026-11-13 23:55
+
+- [近 70% 美国政府机构已用生成式 AI，工会加快争取相关保护措施](<https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/>)  
+  美国公共部门工会正在赢得针对 AI 监控和自动化裁员的保护措施。Ernst and Young 调查显示近 70% 的美国政府机构已使用生成式 AI。  
+  The Decoder：AI News（RSS） · 2026-11-13 23:53
+
+- [OpenAI 推出支付功能 ChatGPT Wallet，让 dot 智能体代用户购物](<https://www.ithome.com/1/026/994.htm>)  
+  OpenAI 于 11 月 13 日推出支付功能 ChatGPT Wallet，与美国运通、万事达卡和 Visa 合作开发，让旗下 dot AI 智能体代替用户购物。  
+  IT之家·人工智能 · 2026-11-13 23:49
+
+- [OpenAI 与 Databricks 讲解企业 AI 三种落地模式与接入方式](<https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data>)  
+  Databricks 详解其与 OpenAI 合作（始于 2025 年 9 月的多年协议）下企业落地 AI 的三种模式：业务用户用 ChatGPT 配 Databricks Genie 插件按公司指标定义查询数据。  
+  Databricks：Blog（RSS） · 2026-11-13 23:30
+
+- [前 OpenAI 研究员称在六个中国 AI 模型中发现 Nvidia Blackwell 指纹](<https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/>)  
+  前 OpenAI 研究员 Will DePue 发布取证分析，称 DeepSeek、月之暗面、MiniMax 和蚂蚁集团的六个 2026 年 4 月后发布的模型带有 Nvidia Blackwell 芯片的初始化权重指纹。  
+  The Decoder：AI News（RSS） · 2026-11-13 23:21
+
+- [Anthropic IPO 获六倍超额认购，有望成史上最大规模 IPO](<https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/>)  
+  据 Bloomberg 报道，Anthropic 的 IPO 订单超出可售股份六倍，公司及其联合创始人拟通过公开发行募资至多 644 亿美元，另通过私募募资 260 亿美元，目标估值约 1.4 万亿美元，若达成将超过 SpaceX 的 IPO。  
+  The Decoder：AI News（RSS） · 2026-11-13 23:15
+
+- [Meta 的 Muse 智能体向美国付费用户开放代打商家电话功能](<https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/>)  
+  Meta 的 AI 智能体 Muse 已向美国所有付费订阅用户开放代打商家电话功能，可拨打有线电视公司、车管所和餐厅等电话，AI 负责人 Alexandr Wang 称该智能体用户超过 1000 万，并将很快获得免费邮箱。  
+  The Decoder：AI News（RSS） · 2026-11-13 23:12
+
+- [OpenAI 推出 Daybreak 红队与防御两款安全产品](<https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/>)  
+  OpenAI 发布 Daybreak 品牌下两款安全产品。Daybreak Red Team 开放 Early Access，用 AI 智能体分析源码和应用上下文自动探测 Web 应用漏洞、验证赏金报告并测试补丁；Daybreak Defense Factory 自动扫描企业代码库生成可部署的修复 pull request。两款产品均运行在 OpenAI 最新网络模型 GPT-6 Cyber 上。  
+  The Decoder：AI News（RSS） · 2026-11-13 23:08
 
 - [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
   AI Will Make Pharma Even Bigger  
@@ -157,28 +121,64 @@
   Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user…  
   OpenAI · 2026-11-13 23:00
 
+- [Vergecast 播客解读黄仁勋辞任 NVIDIA CEO 后的连锁影响](<https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast>)  
+  The Vergecast 播客中 David Pierce 与 Nilay 梳理 NVIDIA CEO 黄仁勋周四辞职事件，并讨论后续可能展开的更大故事：NVIDIA 在中国的业务、美国政府的态度，以及整个 AI 行业的稳定性。  
+  The Verge：AI（RSS） · 2026-11-13 22:47
+
+- [ElevenLabs 推出 ElevenAI 实验性应用，整合会议记录与听写](<https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/>)  
+  ElevenLabs 本周发布实验性应用 ElevenAI，将会议记录、听写和智能体集成合为一体，目前处于预览阶段，需申请早期访问。该应用支持 90 多种语言的语音转文字，可跨会议查询数据并在对话中提供实时协助，企业还能接入 ElevenAgent 根据会议记录起草邮件等后续操作。ElevenLabs 同时上线 v3 系列 Scribe 语音转文字模型，支持实时转写和企业自有数据微调。  
+  TechCrunch：AI（RSS） · 2026-11-13 22:44
+
+- [消息称 SpaceXAI 裁减约 60 名 Grok Imagine 员工，资源向 AI 编程工具与 Grok Bot 倾斜](<https://www.ithome.com/1/026/961.htm>)  
+  据 The Information 引述知情人士消息，SpaceXAI 裁撤了 Grok Imagine 视频与图像生成工具的大部分研发人员，约 60 名团队成员被裁，仅保留少数人员维持产品基础运营，工具仍可正常使用但后续发展前景不明朗。  
+  IT之家·人工智能 · 2026-11-13 22:30
+
+- [DeepSeek 开放全家桶应用 API，开发者可 1:1 复刻 DeepSeek App](<https://www.ithome.com/1/026/960.htm>)  
+  DeepSeek 于 11 月 13 日晚宣布正式开放全家桶应用 API，在原有 API 中开启对应参数即可获得深度思考搜索、文件输入等对话功能，语音及底层能力也开放独立接口。  
+  IT之家·人工智能 · 2026-11-13 22:29
+
+- [DeepSeek 开放全家桶应用 API，V4.1-Flash 支持联网搜索、文件输入与语音独立接口](<https://mp.weixin.qq.com/s/78KBHc4-4N5b2vfL9SkutQ>)  
+  DeepSeek 官方宣布开放全家桶应用 API，在原有 API 中开启对应参数即可获得深度思考搜索、文件输入、阅读链接、模型安全等对话能力，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持这些功能。  
+  公众号：DeepSeek（深度求索） · 2026-11-13 22:19
+
+- [韩国拟拨款采购无线电探测设备 防范国家资格考试 AI 眼镜作弊](<https://www.ithome.com/1/026/958.htm>)  
+  据新华社报道，韩国在野党议员金渭相提议在 2027 年度预算中增加约 65.7 亿韩元（约合 3,286.3 万元人民币），采购无线电信号探测设备并安排专职人员，防范国家资格考试中的 AI 作弊。  
+  IT之家·人工智能 · 2026-11-13 22:08
+
+- [llama.cpp 与 ggml 发布 v1.0.0 稳定库](<https://huggingface.co/blog/ggml-org/llama-cpp-v1>)  
+  Hugging Face 的 llama.cpp 团队发布 llama.cpp 和 ggml 的 v1.0.0 库，承诺今后以主版本号标识 API 和 ABI 不兼容变更，并公开语义化版本更新规则。  
+  Hugging Face 社区博客（混合发现） · 2026-11-13 22:05
+
+- [Modem 从 pgvector 迁移到 turbopuffer：p90 搜索时间下降 76%](<https://modem.ai/blog/pgvector-to-turbopuffer>)  
+  Modem 团队复盘将向量搜索从 Postgres 的 pgvector 迁移到 turbopuffer 的过程：早期共享表的暴力扫描导致小客户搜索最慢，HNSW 索引在 organization\_id 和时间过滤下反而更差；自建的量化索引方案将 p90 从 7.6s 降到 3.5s、p99 从 28.1s 降到 6.3s。  
+  Modem：Blog（RSS） · 2026-11-13 22:00
+
+- [The Verge 评测 Anthropic 面向消费者的 Claude Duet 智能体](<https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on>)  
+  The Verge 作者 Allison Johnson 实测 Anthropic 面向消费者的 AI 智能体 Claude Duet 一周。  
+  The Verge：AI（RSS） · 2026-11-13 22:00
+
+- [Suno 发布 Bridge beta：在 DAW 中直接生成适配工程的乐器与人声](<https://suno.com/blog/introducing-bridge>)  
+  Suno 推出独立应用 Suno Bridge beta，将 Suno 音乐模型接入 Ableton Live 12（Mac），生成的乐器和人声片段可直接放入时间线并匹配工程的速度、调性、风格与律动。  
+  Suno：Blog（网页） · 2026-11-13 22:00
+
+- [微软 Microsoft 365 大范围故障波及 Claude，Anthropic 连发多条状态通报](<https://www.ithome.com/1/026/948.htm>)  
+  微软 Microsoft 365 出现近年最严重的服务故障之一，Exchange Online、Outlook、SharePoint 及部分 Teams 中断近一天半，微软高管为此致歉。  
+  IT之家·人工智能 · 2026-11-13 21:10
+
+- [Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会](<https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/>)  
+  Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。  
+  TechCrunch：AI（RSS） · 2026-11-13 20:52
+
 - [Dream by Smart Jelly](<https://www.producthunt.com/products/smart-jelly>)  
   An AI agent that works through your tasks overnight  
   Product Hunt · English · 2026-11-13 20:34
 
-- [Every Day Is Zero Day \| Wiz CTO Ami Luttwak](<https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ>)  
-  AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them f…  
-  The a16z Show · 2026-11-13 19:00
+- [谷歌 DeepMind 开源 WeatherNext 3 所用数据集 SatWeave 与 PARDIG](<https://www.ithome.com/1/026/939.htm>)  
+  谷歌 DeepMind 开放 WeatherNext 3 气象模型依托的两大基础数据集 SatWeave 与 PARDIG，提供实时数据流和 1999 至 2026 年历史档案，托管于 Google Cloud Storage，采用 CC BY 4.0 许可。  
+  IT之家·人工智能 · 2026-11-13 20:09
 
-- [Doctors want liability shield from AI mistakes](<https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield>)  
-  The rapid deployment of artificial intelligence in hospitals and clinics is leading the nation's biggest physicians g…  
-  Axios · 2026-11-13 18:30
+- [什么让智能体能够自我进化：评估、自主改进与 harness 模块拆解](<https://www.oreilly.com/radar/what-makes-an-agent-self-evolving/>)  
+  Annie Wang 在 O'Reilly Radar 撰文分析智能体如何在模型不变的情况下通过经验自我进化，核心变化发生在 harness 层。  
+  O'Reilly Radar（热点 RSS） · 2026-11-13 19:54
 
-- [The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill](<https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia>)  
-  The AI boom without Jensen Huang will test a hard truth: Even if the tech world has grown somewhat less reliant on Nv…  
-  Axios · 2026-11-13 17:45
-
-- [Shield helps technicians hand off legacy portal work with OpenAI](<https://openai.com/business/customer-stories/shield>)  
-  Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so techn…  
-  OpenAI · 2026-11-13 16:00
-
-- [PH今日热榜 \| 2026-11-13](<https://decohack.com/producthunt-daily-2026-11-13/>)  
-  Plurai Simulation：一个模拟世界，让你的智能体在每次运行中不断提升。；YouArt Desktop App：创意团队的指南；Omnigraph：开源图形数据库，专为你的人工智能代理设计  
-  Product Hunt 中文 · DecoHack · 2026-11-13 15:00
-
-[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 20 页
+[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 22 页
