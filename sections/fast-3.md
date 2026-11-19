@@ -1,183 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 39 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 38 页
 
-- [OpenAI 后台任务支持 2h/8h completion\_window，分别比 Standard 便宜 30% 和 4…](<https://x.com/OpenAIDevs/status/2123188224847982655>)  
-  OpenAI 开发者账号介绍后台任务计费：把 completion\_window 设为 2h，每 token 价格比 Standard 低 30%；设为 8h 低 40%。发送 notes 时设置 continuation ID 并在后续请求中复用，可获得更高的队列优先级。文档见  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-19 06:54
+- [一、特别推荐华大九天：公司重大变化。](<https://x.com/livermoerR/status/2123369708351332371>)  
+  韬定律+Agentic AI+全球化：三重驱动上修行业中枢，EDA龙头迈向全球一极 1、EDA为芯片之母，半导体自主可控核心环节。 2、基本面发生重大变化，数字电路实现全链路拉通，全球化取得实质进展。 3、全面拥抱AI：AI+EDA，预计EDA的TOKEN化，将从探索到落地。  
+  @livermoerR · 2026-11-19 18:56
 
-- [OpenAI 推出 Responses API background mode 折扣窗口，GPT-6.2 每 token…](<https://x.com/OpenAIDevs/status/2123188195202617408>)  
-  OpenAI 宣布针对无需立即响应的单轮或多轮工作流，GPT-6.2 Astra 和 GPT-6.2 Sol 在 Responses API background mode 下每 token 价格比 Standard 低最多 40%。用户可为首个响应选择 2 小时或 8 小时目标窗口，该折扣窗口现…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-19 06:54
+- [agent identity with portable reputation could change the game fr](<https://x.com/0xkezkiuz/status/2123369646162329632>)  
+  @0xkezkiuz · 2026-11-19 18:55
 
-- [Netlify 品牌更新：用自然语言描述应用并由 AI Agent 构建发布](<https://x.com/rohanpaul_ai/status/2123186974261715000>)  
-  Netlify 发布新品牌，用户可用自然语言描述应用，由 AI Agent 在实时预览中构建并发布，开发者可从 Git 或自己的工具接手。作者 Rohan Paul 评论称，Netlify 已服务近 2500 万用户，现在外部 Agent 可通过 MCP、Drop 或 CLI 连接，与 Agent…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 06:49
+- [Appreciate it\!](<https://x.com/Aashutosh_dev31/status/2123369635533971557>)  
+  It’s all about minimizing the blast radius of prompt injection. AI agents are powerful, so I wanted a strict boundary. By forcing read-only on an isolated endpoint, the worst case is just a bad text answer. My core backend and memory stay completely firewalled…  
+  @Aashutosh\_dev31 · 2026-11-19 18:55
 
-- [Elon on Jensen Huang: “Jensen is a friend of mine.](<https://x.com/amitisinvesting/status/2123186757298520332>)  
-  There is no one that can replace him. He’s managing a supply chain. He has long term relationships built over decades. His team loves him, they are there because of him and turned down offers to leave because of Jensen. You  
-  @amitisinvesting · 2026-11-19 06:49
+- [PixVerse Canvas handling the full ad flow saves serious edit time.](<https://x.com/itsshara_ai/status/2123369572351070592>)  
+  @itsshara\_ai · 2026-11-19 18:55
 
-- [Elon Musk on Jensen Huang in new interview a few minutes ago: “I consider Jensen a friend.](<https://x.com/SawyerMerritt/status/2123186694828466457>)  
-  I would call Jensen like Michael Jordan at peak level in terms of what he means to a team. There no-one that can replace Jensen. His team loves him. Loves him. Many are there because of  
-  @SawyerMerritt · 2026-11-19 06:48
+- [Separating agent identity from service listings is a smart design choice.](<https://x.com/Madissa_eth/status/2123369447776002197>)  
+  Verifiable work history could become a major trust signal in the agent economy.  
+  @Madissa\_eth · 2026-11-19 18:55
 
-- [Elon Musk says kicking Jensen Huang out of Nvidia is like kicking Michael Jordan off the Bulls in the middle of a w…](<https://x.com/firesidealpha/status/2123186269601874077>)  
-  Jensen is an old friend of mine. I would call Jensen Michael Jordan,  
-  @firesidealpha · 2026-11-19 06:47
+- [Quality over quantity is the right takeaway — with embodied AI, a smaller set of well-checked human demonstrations…](<https://x.com/nhattung00/status/2123369438288441525>)  
+  The dexterous hand demo is a great example of why that human data matters.  
+  @nhattung00 · 2026-11-19 18:54
 
-- [Anthropic IPO 定价每股 $83，募资总额超 $94B 创纪录](<https://x.com/rohanpaul_ai/status/2123183901799846133>)  
-  Anthropic 将 IPO 定价定为每股 $83，高于 $70–$78 区间上沿 6.4%，报道称认购订单达发行股份的最多 6 倍，约 20% 份额留给散户（通常为 5%–10%）。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 06:37
+- [$WRBY The short ratio is still very high on this.](<https://x.com/Bearnoah8/status/2123369237591007621>)  
+  I am hoping they come out with very high pre-order sales on their AI glasses soon - to squeeze the shorts. Any good news- this sucker runs to $40.00 pretty quick. IMO  
+  @Bearnoah8 · 2026-11-19 18:54
 
-- [牛津 MemeEconomy 论文：生存压力使 AI Agent 更多选择有害内容且更少承认危害](<https://x.com/rohanpaul_ai/status/2123182211939905880>)  
-  牛津团队发布 MemeEconomy 多模态市场模拟研究，测试 10 个模型在低收益会被淘汰的规则下投资从搞笑到有害的 meme，每次选择记录 BDI 信念、目标和意图。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 06:31
+- [In the data parallel setting, we use multiple GPUs to host the same model and process the training data in parallel.](<https://x.com/hmdolatabadi/status/2123369194343346322>)  
+  For example, give each GPU 32 of the 128 sequences in the figure. The sampler splits up the data, and each GPU starts with the same weights and optimiser state.  
+  @hmdolatabadi · 2026-11-19 18:54
 
-- [BREAKING: Over 10,000 Nvidia employees, 24% of its total workforce, have signed a letter to bring back Jensen Huang…](<https://x.com/BullTheoryio/status/2123176397502025999>)  
-  BREAKING: Over 10,000 Nvidia employees, 24% of its total workforce, have signed a letter to bring back Jensen Huang as CEO.  
-  @BullTheoryio · 2026-11-19 06:07
+- [韩国网络安全机构S2W近日披露，有黑客开始使用基于开源大语言模型的AI工具对韩国高校展开自动化网络攻击。黑客KimJEN在…](<https://x.com/luoluo5203/status/2123369171543314724>)  
+  韩国网络安全机构S2W近日披露，有黑客开始使用基于开源大语言模型的AI工具对韩国高校展开自动化网络攻击。黑客KimJEN在暗网和电报群声称拿下了约100所大学的访问权限并公开了部分内部数据。  
+  @luoluo5203 · 2026-11-19 18:53
 
-- [OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果](<https://x.com/thsottiaux/status/2123175166519992652>)  
-  OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。所引内容称与 AMD 合作在不到五个月内将旗舰 GPU IP 的 PPA 提升最高 14%，同样方法改进了 OpenAI 首款自研推理芯片 Jalapeño 且在真…  
-  X：Tibo \(@thsottiaux\) · 2026-11-19 06:03
+- [ChatGPT last matches what I'd expect. a 6 month old brand barely exists in its training data, so getting written up…](<https://x.com/iguptapankaj/status/2123369125875421331>)  
+  ChatGPT last matches what I'd expect. a 6 month old brand barely exists in its training data, so getting written up on sites it actually searches beats waiting for the next model  
+  @iguptapankaj · 2026-11-19 18:53
 
-- [GeForceドライバー621.14以降でSSDへ大量に書き込む不具合が一部で発生 NVIDIAのサービスがログを数秒おき…](<https://x.com/gazlog_blog/status/2123175163470520663>)  
-  GeForceドライバー621.14以降でSSDへ大量に書き込む不具合が一部で発生 NVIDIAのサービスがログを数秒おきに書き換え、最新の621.24でも1時間に約30GBの書き込み ログファイルを消すと約9割減るものの、大きくなると再び大量書き込みを行うように  
-  @gazlog\_blog · 2026-11-19 06:03
+- [🔥强推网安，Palo Alto业绩全面超指引，上调全年预期，全球AI安全逻辑持续验证 \# 相关标的： 白马：深信服、网宿科…](<https://x.com/livermoerR/status/2123369044938273211>)  
+  🔥强推网安，Palo Alto业绩全面超指引，上调全年预期，全球AI安全逻辑持续验证 \# 相关标的： 白马：深信服、网宿科技、绿盟科技、奇安信、安恒信息、启明星辰 黑马：山石网科、亚信集团、盛邦安全、ST信安、格尔软件 1、27Q1营收+39%、NGS ARR+66%，\# 全面超越指引  
+  @livermoerR · 2026-11-19 18:53
 
-- [JUST IN: Uber founder Travis Kalanick offers to show up at Nvidia HQ with a megaphone to back an employee walkout i…](<https://x.com/Polymarket/status/2123174021735006427>)  
-  JUST IN: Uber founder Travis Kalanick offers to show up at Nvidia HQ with a megaphone to back an employee walkout in support of Jensen Huang.  
-  @Polymarket · 2026-11-19 05:58
+- [Nvidia 停止向中国出货许可 AI 芯片](<https://x.com/thexpin/status/2123353085569380502>)  
+  Nvidia 已停止向中国出货其获得许可的 AI 芯片。临时 CEO Colette Kress 表示，在截至 10 月 25 日的季度中，公司向中国出售了价值 24 亿美元的许可 Hopper 代产品，但没有进一步出货的计划。  
+  X：X.PIN \(@thexpin\) · 2026-11-19 17:50
 
-- [Palo Alto Networks 以 45 亿美元全股票收购前 OpenAI 研究员创办的 Applied Compu…](<https://x.com/alexeheath/status/2123173041379389915>)  
-  据 WSJ，Palo Alto Networks 已同意以 45 亿美元全股票交易收购 Applied Compute，一家由前 OpenAI 研究员在旧金山创办的 AI 创业公司。  
-  X：Alex Heath \(@alexeheath\) · 2026-11-19 05:54
+- [美国国会委员会建议要求企业披露使用 DeepSeek 等中国 AI 模型并在 SEC 申报中标记为重大风险](<https://x.com/thexpin/status/2123337174406119817>)  
+  美国国会一个委员会推动国会立法，要求美国公司披露对 DeepSeek、阿里巴巴千问等中国 AI 模型的使用，并在向 SEC 提交的定期申报中将其使用程度标记为重大商业风险。图片中的报告文本还建议联邦机构及受联邦资助的实体披露使用中国实体的 AI 模型，未披露可由 FTC 按不公平欺骗行为执法。原文…  
+  X：X.PIN \(@thexpin\) · 2026-11-19 16:46
 
-- [Google 开始推送 Gemini 4 Neon，覆盖订阅端、API 与企业用户](<https://x.com/Google/status/2123172294260396442>)  
-  Google 宣布 Gemini 4 Neon 自今日起开始推送。Google AI Pro 和 Ultra 订阅用户可在 Gemini App、Google AI Studio 和 Antigravity 中使用；开发者和企业可通过 Google AI Studio、Android Studio…  
-  X：Google \(@Google\) · 2026-11-19 05:51
+- [AI की दुनिया में Anthropic का सबसे बड़ा IPO, 81.3 बिलियन डॉलर जुटाए\!](<https://x.com/rskhatana72/status/2123335458541457481>)  
+  ChatGPT को टक्कर देने वाली Claude AI की निर्माता कंपनी Anthropic के IPO की कीमत $83 प्रति शेयर है, वहीं कंपनी की वैल्यूएशन करीब $1.5 ट्रिलियन,यह अब तक के सबसे बड़े IPO में शामिल हो गया है, कंपनी की लिस्टिंग  
+  @rskhatana72 · 2026-11-19 16:39
 
-- [Google 介绍 Gemini 4 Neon 的可控性与低编造率表现](<https://x.com/Google/status/2123172285188014398>)  
-  Google 官方介绍 Gemini 4 Neon 在原始能力之外的使用体验：Agent Arena 可控性排名第 2，多步指令遵循能力强，内部 Antigravity 测试中编造率为迄今最低。模型提供四档思考等级，可控制投入的推理强度，并配备 1M token 上下文窗口。  
-  X：Google \(@Google\) · 2026-11-19 05:51
+- [【話題】Anthropic研究者「AIでほぼ全員が二度と仕事に就けなくなる」と予測](<https://x.com/polymarketjapan/status/2123335185571971172>)  
+  @polymarketjapan · 2026-11-19 16:38
 
-- [Google 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成](<https://x.com/Google/status/2123172282574987698>)  
-  Google 发布 Gemini 4 Neon，定位前沿级智能与快速端到端任务完成，面向复杂编码、知识工作和科学工作流。该模型在 Artificial Analysis Intelligence Index xhigh 档总排名第 3（超过同类模型），在 Vals Index 排名第 2，处于 P…  
-  X：Google \(@Google\) · 2026-11-19 05:51
+- [NVIDIA、経理畑の人がCEOになり、全社ミーティングの最後にノリノリの音楽をかけて「私たちは大丈夫！！」と掛け声をあげ…](<https://x.com/igz0/status/2123314089531486692>)  
+  こりゃNVIDIA駄目だわ\(\)  
+  @igz0 · 2026-11-19 15:15
 
-- [Google 发布 Gemini 4 Neon，Artificial Analysis 智能指数 61 分排名第三](<https://x.com/ArtificialAnlys/status/2123170645777526962>)  
-  Google DeepMind 发布 Gemini 4 Neon，Artificial Analysis 评测其 Intelligence Index 得 61 分，高于 Gemini 4 Carbon（high）1 分，总榜第三，编码代理得分 59 与 Claude Opus 5.5、Claud…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-19 05:45
+- [FT 估算 Anthropic 需约 6020 亿美元年营收才能在约 1 万亿美元算力承诺上获得 20% 回报](<https://x.com/rohanpaul_ai/status/2123313372510998911>)  
+  FT Unhedged 通讯估算，Anthropic 需约 6020 亿美元年营收，才能在其约 1 万亿美元算力承诺上获得 20% 回报。该测算按 40% 营业利润率和 17% 税率计算，这一营收目标超过 Alphabet 的 4710 亿美元和 Apple 的 4780 亿美元，约为标普 150…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 15:12
 
-- [Google 发布 Gemini 4 Neon，Artificial Analysis 排名第三](<https://x.com/rohanpaul_ai/status/2123170168201486582>)  
-  Google 发布 Gemini 4 Neon，在 Artificial Analysis Intelligence Index 得 61 分排名第三，价格 $3/$15 per 1M tokens。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 05:43
+- [🚨 NOW: Ripple CEO Brad Garlinghouse says the crypto sell-off is partly due to investors moving money into big IPOs…](<https://x.com/Cointelegraph/status/2123310478591922647>)  
+  He expects crypto to rebound after the listing, as it did after SpaceX’s IPO.  
+  @Cointelegraph · 2026-11-19 15:00
 
-- [Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter](<https://x.com/OpenRouter/status/2123170058574905675>)  
-  OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可通过 Google Cloud 使用。该模型面向复杂软件工程、知识工作和科学场景，定位介于 Carbon 与 Hydrogen 之间。Google 称其在 Artificial Analy…  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-19 05:42
+- [腾讯混元Hy4 flash在OpenCode免费开放](<https://x.com/TencentHunyuan/status/2123310304935530736>)  
+  通过 @opencode 免费使用 Hy4 flash。感谢。尽情测试吧。  
+  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-19 15:00
 
-- [Google 发布 Gemini 4 Neon，速度接近 Carbon 的 3 倍](<https://x.com/ammaar/status/2123169924222754968>)  
-  Google 员工 Ammaar Reshi 宣布 Gemini 4 Neon 发布，速度比 Carbon 快近 3 倍，同时保持接近 Carbon 的性能和智能水平。该模型正在 AI Studio、Gemini app 和 Antigravity 上线。  
-  X：Ammaar Reshi \(@ammaar\) · 2026-11-19 05:42
+- [indigo 解读《The Commanding Heights》：智能越廉价，AI 落地的六大“收费站”越值钱](<https://x.com/indigox/status/2123308762161377589>)  
+  indigo 引述 Will Manidis 与 Joe Roberts 的长文《The Commanding Heights》，按“核心要素越廉价、稀缺互补品越值钱”的逻辑推演，认为超额利润将从模型层流向 AI 落地变现必经的关口。  
+  X：indigo \(@indigox\) · 2026-11-19 14:53
 
-- [Anthropic IPO 定价 83 美元，高于发行区间](<https://x.com/KateClarkTweets/status/2123169870552436802>)  
-  Anthropic IPO 定价为每股 83 美元，高于此前发行区间。消息援引自 WSJ 报道。  
-  X：Kate Clark \(@KateClarkTweets\) · 2026-11-19 05:41
+- [腾讯高管称美国限制海外 Nvidia 芯片 access 将拖慢中国模型训练](<https://x.com/rohanpaul_ai/status/2123300767817978051>)  
+  腾讯总裁刘炽平表示，美国商务部要求先进芯片输往可能服务中国企业的海外数据中心需申请许可，将拖慢全中国的模型训练，可能推迟模型发布。首席战略官 James Mitchell 称占腾讯云大部分工作的推理已可在不受新规影响的国产芯片上运行。腾讯 Q3 资本开支同比增长超 6 倍至 $12.2B，占收入…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 14:22
 
-- [Arena 发布 Agent Arena Index：Gemini 4 Neon \(High\) 以 1336 分排名第二](<https://x.com/arena/status/2123169189397709174>)  
-  Arena 公布 Agent Arena Index 排名，Gemini 4 Neon \(High\) 以 1336 分位列第二，超过 \#4 Carbon \(High\) 的 1303 分、\#9 Hydrogen \(High\) 的 1271 分和 \#11 Argon \(High\) 的 1229 分，得…  
-  X：Arena \(@arena\) · 2026-11-19 05:39
+- [nvidia has revealed their new ceo](<https://x.com/freemaowtf/status/2123300645986095584>)  
+  @freemaowtf · 2026-11-19 14:21
 
-- [Gemini 4 Neon 上线，Google AI Pro 和 Ultra 订阅用户可在 Chat 和 Tasks 中选用](<https://x.com/GeminiApp/status/2123169070988337603>)  
-  Google 宣布 Google AI Pro 和 Ultra 订阅用户可通过 Chat 和 Tasks 中的模型下拉菜单选用 4 Neon（Deeper analysis），支持移动端、桌面端和网页端。更多介绍见官方博客  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 05:38
+- [Nvidia 临时 CEO Colette Kress 表示芯片路线图和开源模型策略不变](<https://x.com/rohanpaul_ai/status/2123300206922133979>)  
+  Rohan Paul 转述 NYT 报道：Nvidia 临时 CEO Colette Kress 在全体员工会议上安抚员工，称公司芯片路线图和开源模型策略不会改变。报道称员工立场分裂，一些人签署信件支持 Huang，另有三名知情人士透露，有员工不满他破坏了业界在发布前对 AI 模型做安全测试的计划。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 14:19
 
-- [BREAKING: Anthropic, $ANT, has priced its IPO at $83 per share, above its marketed range of $70 to $78, per Bloombe…](<https://x.com/KobeissiLetter/status/2123168870429274123>)  
-  The company is now expected to raise at least $68 billion through its IPO, plus another $26 billion in a private placement. This brings the total offering to  
-  @KobeissiLetter · 2026-11-19 05:37
+- [ANTHROPIC'S IPO: HOW MUCH MONEY WILL ACTUALLY COME IN?](<https://x.com/Cllaytus/status/2123295685239800255>)  
+  When people hear that a company is going public, they often assume that the entire value of the company is the amount of money it will raise. Those are two very different things. Anthropic's IPO offering-size market on  
+  @Cllaytus · 2026-11-19 14:01
 
-- [Gemini Neon 写作与文件解析升级](<https://x.com/GeminiApp/status/2123168841853555119>)  
-  更犀利的写作，扎根于你的上下文。 Neon 写得清晰，回答结构良好，语气自然直接。 它还能更精准地读取表格、PDF 和照片等上传文件，把密集材料转化为有用的报告和摘要，并从 @Gmail 和 @GoogleDocs 等 Google 应用中提取相关细节。  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 05:37
+- [The Agentic Economy— Part 3 In Part 2, I explored why chatbots were only the beginning.](<https://x.com/Cryptfancier/status/2123292336402608331>)  
+  This part takes a closer look at what actually makes an AI agent an agent, from planning and tool use to memory, feedback and autonomous decision-making. Do read on ⤵️  
+  @Cryptfancier · 2026-11-19 13:48
 
-- [Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放](<https://x.com/GeminiApp/status/2123168704662012079>)  
-  Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 05:37
+- [从清华的朋友那求来了姚顺雨昨晚分享的文字稿，貌似有点私密我就不传播了，整场分享价值的确很高，以下是我的笔记： 1. 未来一…](<https://x.com/hocyzon/status/2123289962728833347>)  
+  从清华的朋友那求来了姚顺雨昨晚分享的文字稿，貌似有点私密我就不传播了，整场分享价值的确很高，以下是我的笔记： 1. 未来一个值得关注的方向是小模型体系，AI for  
+  @hocyzon · 2026-11-19 13:39
 
-- [Google 发布 Gemini 4 Neon：主打快速端到端任务完成](<https://x.com/GoogleAI/status/2123168242797809944>)  
-  Google AI 发布新模型 Gemini 4 Neon，定位是在复杂软件工程、知识工作和科学工作流中以前沿智能快速完成端到端任务。能力包括多文件调试重构的精准编辑、1M-token 上下文窗口、4 档可调思考级别，并在内部 Google Antigravity 测试中录得迄今最低幻觉率。  
-  X：Google AI \(@GoogleAI\) · 2026-11-19 05:35
+- [【速報】すとぷり「ななもり。」氏、Anthropic株を31.8億円分取得と報告 ・「ななもり。」こと柏原真人氏はSTPR…](<https://x.com/SOU_BTC/status/2123277388717101203>)  
+  【速報】すとぷり「ななもり。」氏、Anthropic株を31.8億円分取得と報告 ・「ななもり。」こと柏原真人氏はSTPR創業者 ・Anthropic株24万株の取得をXで報告 ・取得単価83ドル、総額1,992万ドル ・Xに「夜が楽しみだ」と投稿  
+  @SOU\_BTC · 2026-11-19 12:49
 
-- [Google 发布 Gemini 4 Neon，面向 Pro/Ultra 订阅用户及 Gemini API 付费层推送](<https://x.com/GoogleAI/status/2123168244861141164>)  
-  Google AI 宣布 Gemini 4 Neon 今日开始推送，覆盖 Gemini App 的 Google AI Pro 与 Ultra 订阅用户、付费 Pro/Ultra 用户的 Antigravity、Google AI Studio 的 Gemini API 付费层以及 Gemini…  
-  X：Google AI \(@GoogleAI\) · 2026-11-19 05:35
+- [Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings…](<https://x.com/marsrepublica/status/2123274994952065291>)  
+  Here are the 11 key takeaways: 1. SpaceX is scaling AI compute at an extraordinary pace: SpaceX is adding roughly 500 MW monthly, equivalent to 220,000  
+  @marsrepublica · 2026-11-19 12:39
 
-- [Demis Hassabis 宣布推出 Gemini 4 Neon](<https://x.com/demishassabis/status/2123168223147499629>)  
-  Demis Hassabis 宣布推出 Gemini 4 Neon，可用性和更多详情见 Google 官方博客  
-  X：Demis Hassabis \(@demishassabis\) · 2026-11-19 05:35
+- [Someone sent me a DM asking why I was nakedly defending Jensen and hoping for his return to NVIDIA.](<https://x.com/pbeisel/status/2123274847291949161>)  
+  It's not for financial reasons, I can assure you. I was too stupid not to buy NVIDIA back in the day. Although I do own some NVDA, it's much, much smaller than my TSLA and SPCX  
+  @pbeisel · 2026-11-19 12:39
 
-- [Google 发布 Gemini 4 Neon](<https://x.com/OfficialLoganK/status/2123168167803654639>)  
-  Logan Kilpatrick 分享 Gemini 4 Neon 发布博客链接，表示越用越喜欢，期待大家深入体验，博客地址为  
-  X：Logan Kilpatrick \(@OfficialLoganK\) · 2026-11-19 05:35
+- [蚂蚁灵波发布HALO机器人数据采集系统](<https://x.com/robbyant_brain/status/2123274494475419997>)  
+  很高兴分享 HALO——一种更自然的机器人真实世界技能教学方式，将人类步速的移动与灵巧双臂控制相结合。  
+  Robbyant 蚂蚁灵波（官方 X） · 2026-11-19 12:37
 
-- [Google 发布 Gemini 4 Neon 模型](<https://x.com/_philschmid/status/2123168017940959315>)  
-  阅读更多：  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-19 05:34
+- [GeForce Driverでもストレージに大量のデータを書き込み続ける不具合が発生中。現状の対策はドライバのバージョンダ…](<https://x.com/4GamerNews/status/2123273881083613653>)  
+  GeForce Driverでもストレージに大量のデータを書き込み続ける不具合が発生中。現状の対策はドライバのバージョンダウン AMDに続いて，NVIDIAのGeForce DriverにもSSDの寿命を縮めるヤバめの問題が発生してしまった  
+  @4GamerNews · 2026-11-19 12:35
 
-- [Google DeepMind 发布 Gemini 4 Neon，Artificial Analysis 智能指数排名第三](<https://x.com/GoogleDeepMind/status/2123167889976905966>)  
-  Google DeepMind 宣布 Gemini 4 Neon 在 Artificial Analysis 智能指数 xhigh 思考级别下以 61 分排名第三，即日起开放使用。可用范围包括 Google AI Studio 中的 Gemini API、Android Studio 和 Gemi…  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-19 05:34
+- [【速報】🇺🇸 AnthropicのIPO、日本での募集は上限に届かず ・日本からの募集額は4739億円 ・当初計画の35億…](<https://x.com/SOU_BTC/status/2123266019603128421>)  
+  【速報】🇺🇸 AnthropicのIPO、日本での募集は上限に届かず ・日本からの募集額は4739億円 ・当初計画の35億ドルを下回る30億ドル ・日本でのIPO募集として2018年のソフトバンク以来の規模  
+  @SOU\_BTC · 2026-11-19 12:04
 
-- [Google 发布 Gemini 4 Neon](<https://x.com/sundarpichai/status/2123167785790648751>)  
-  阅读更多：  
-  X：Sundar Pichai \(@sundarpichai\) · 2026-11-19 05:33
+- [免费送 5 份 GTA6 即 5×100 USDT 的形式 人类最后一个没有 AI 参与制作的游戏大作 GTA6 上线 游…](<https://x.com/UnicornBitcoin/status/2123265477569101876>)  
+  免费送 5 份 GTA6 即 5×100 USDT 的形式 人类最后一个没有 AI 参与制作的游戏大作 GTA6 上线 游戏里甚至可以去偷庞巴迪公务机，然后被 F16 战斗机打下来，哈哈哈 而 AI 龙头股 Claude 的母公司 Anthropic 即将上市，梳理了下筹码结构 另感谢 OKX 赞…  
+  @UnicornBitcoin · 2026-11-19 12:01
 
-- [OpenAI 阐述模型全生命周期安全策略](<https://x.com/OpenAI/status/2123165872261075233>)  
-  我们分享在模型生命周期的每个阶段——从早期研究到内部使用再到公开部署——如何应对安全问题。  
-  X：OpenAI \(@OpenAI\) · 2026-11-19 05:26
+- [🚨BREAKING: Anthropic wrapped up its IPO at $83 per share, with a valuation of $1.5 trillion. @AnthropicAI priced it…](<https://x.com/itlx_defi/status/2123264543514038442>)  
+  The offering totaled $81.31 billion, surpassing @SpaceX to become the largest IPO on record, according to Reuters. That’s  
+  @itlx\_defi · 2026-11-19 11:58
 
-- [BREAKING: Anthropic to reportedly go public tomorrow at $83 per share, valuing the company at $1,500,000,000,000.00.](<https://x.com/Polymarket/status/2123164749634445705>)  
-  @Polymarket · 2026-11-19 05:21
+- [It’s pretty crazy how the timeline for this scandal keeps getting pushed back.](<https://x.com/ScottMStedman/status/2123260037489652034>)  
+  We’re now at the point where Nvidia had secret deals with Beijing before ChatGPT was public.  
+  @ScottMStedman · 2026-11-19 11:40
 
-- [JUST IN: Anthropic to IPO tomorrow at $83 per share, valuing the company at $1.5 trillion, Bloomberg reports.](<https://x.com/WatcherGuru/status/2123163667571290137>)  
-  @WatcherGuru · 2026-11-19 05:17
+- [BREAKING: Elon Musk says that former NVIDIA CEO Jensen Huang is like 'Michael Jordan at his peak' and that it was a…](<https://x.com/spectatorindex/status/2123255872239665468>)  
+  BREAKING: Elon Musk says that former NVIDIA CEO Jensen Huang is like 'Michael Jordan at his peak' and that it was a 'mistake' for him to no longer be the company's chief.  
+  @spectatorindex · 2026-11-19 11:23
 
-- [I’ve been predicting an Anthropic-Doomer split for some time, and here it is.](<https://x.com/DavidSacks/status/2123163407780323795>)  
-  Objectively it makes sense: Anthropic is racing toward Recursive Self-Improvement faster than any other frontier lab and has marketed “closing the loop” on its IPO roadshow as a core advantage that  
-  @DavidSacks · 2026-11-19 05:16
+- [Wall Street giants pledged to mobilize $500 billion to help Nvidia customers finance chip purchases.](<https://x.com/michaeljburry/status/2123254736388243631>)  
+  But no capital has been deployed to date. "Jensen Huang sensed the winds shifting against Nvidia this spring...In August, he got pledges from several firms—Apollo, Blackstone,  
+  @michaeljburry · 2026-11-19 11:19
 
-- [Anthropic is planning to IPO even as the company warns of “existential risks to humanity” and fails to answer for t…](<https://x.com/SenWarren/status/2123161776615272625>)  
-  Meanwhile, Trump's regulators are asleep at the switch. The  
-  @SenWarren · 2026-11-19 05:09
+- [i joined Nvidia two years ago, and there are a few things i wanted to say. one of the biggest surprises after joini…](<https://x.com/mahanfathi/status/2123254183792873798>)  
+  i joined Nvidia two years ago, and there are a few things i wanted to say. one of the biggest surprises after joining was finding out Jensen actually read employee emails. he'd write back with informed feedback and sharp, to-the-point questions. somewhere alon…  
+  @mahanfathi · 2026-11-19 11:17
 
-- [Palo Alto Networks 以 45 亿美元收购前 OpenAI 研究员创办的 Applied Compute](<https://x.com/KateClarkTweets/status/2123159665085403620>)  
-  记者 Kate Clark 援引 WSJ 报道，Palo Alto Networks 将以 45 亿美元收购 AI 初创公司 Applied Compute。该公司由三名前 OpenAI 研究员于去年创办。  
-  X：Kate Clark \(@KateClarkTweets\) · 2026-11-19 05:01
+- [卧槽，兄弟们，前 Uber 创始人 Travis Kalanick 这是要直接带人杀到英伟达总部去“兵谏”了。](<https://x.com/tyay2015/status/2123251538781163755>)  
+  黄仁勋被踢出局这事，现在彻底闹大了。卡兰尼克刚刚直接放话，准备扛着一个镶满晶圆的大喇叭，带着一堆准备罢工的英伟达员工、还有一帮科技圈的 CEO  
+  @tyay2015 · 2026-11-19 11:06
 
-- [LIVE NOW: Trump’s sons and Jared Kushner just got told to save their records.](<https://x.com/Acosta/status/2123159449447637365>)  
-  The Nvidia spy scandal is now knocking on Howard Lutnick’s door. And the White House is threatening the investigators. @glennkirschner2 and @MilesTaylorUSA join me. Watch 👇  
-  @Acosta · 2026-11-19 05:00
+- [OpenAI 研究员日均消耗 $2,400 智能体用量，最高 10% 超 $23,000](<https://x.com/rohanpaul_ai/status/2123250234457530538>)  
+  Rohan Paul 转述 OpenAI 研究加速报告数据：按 API 定价，OpenAI 研究员日均消耗 $2,400 的 AI 智能体用量，最高的 10% 超过 $23,000。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 11:01
 
-- [&amp;gt;Anthropic just hired Kristina Shacke ahead of their IPO lunch for communications.](<https://x.com/ErikaCA47/status/2123154456015679819>)  
-  She previously served as Special Assistant to President Barack Obama. &amp;gt;Anthropic hired Sarah Heck as Anthropic's Head of Public Policy. Heck previously served on the National Security Council  
-  @ErikaCA47 · 2026-11-19 04:40
+- [feels kinda biblical that SF is flooding the day before the anthropic ipo](<https://x.com/digitlartifacts/status/2123250191738478837>)  
+  @digitlartifacts · 2026-11-19 11:01
 
-- [Arcade 3.0：一句话生成营销视频，盲测胜 Claude 与 Gemini](<https://x.com/rohanpaul_ai/status/2123154054885056576>)  
-  Arcade 推出 3.0 版 AI 视频工具，面向营销团队，输入一句话并回答两个问题即可生成含配音、字幕、音乐和品牌元素的成品发布视频。它支持在成片中点击某个元素单独修改，其余画面不动。公司称盲测中 B2B 营销人员选择其视频的频率是 Claude Opus 5.5 和 Gemini Argon…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 04:39
+- [Indian corporates and capitalists need to catch up in taking risks and be more willing to put their money where the…](<https://x.com/aravind/status/2123249395038916937>)  
+  By funding audacious teams and their crazy ideas. If an Anthropic kind of startup had approached investors in India for seed 5 years ago, the response  
+  @aravind · 2026-11-19 10:57
 
-- [Nvidia $NVDA is moving up pay raises and stock grants to hold on to employees after Jensen Huang’s exit, per WIRED.](<https://x.com/unusual_whales/status/2123153520635297814>)  
-  At her first all-hands meeting as interim CEO on Wednesday, Colette Kress told staff they’ll get raises and additional equity in December, months earlier than  
-  @unusual\_whales · 2026-11-19 04:37
+- [Anthropic アンソロピック 24万株取得！](<https://x.com/Kswbrmst/status/2123248688881602680>)  
+  夜が楽しみだ😌  
+  @Kswbrmst · 2026-11-19 10:55
 
-- [何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、…](<https://x.com/KojiHirai6/status/2123148745995063531>)  
-  何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、力による国際秩序の現状変更を行うためです。だからこそ、西側諸国は民主主義社会を護るためにもGPUを渡してはいけないのです。  
-  @KojiHirai6 · 2026-11-19 04:18
+- [AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例…](<https://x.com/AUTOMATONJapan/status/2123245952932942007>)  
+  AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例も、寿命が怖い  
+  @AUTOMATONJapan · 2026-11-19 10:44
 
-- [This is why Jensen was couped by Anthropic \(allegedly\).](<https://x.com/5149jamesli/status/2123148362400895108>)  
-  The timing is so coordinated it's unbelievable.  
-  @5149jamesli · 2026-11-19 04:16
+- [谷歌发布 Gemini 4 Neon，作者称 Antigravity 拖后腿](<https://x.com/aiwarts/status/2123245199300370650>)  
+  谷歌 11 月 18 日发布 Gemini 4 Neon，Artificial Analysis 综合智能指数 61 分排第三，价格约为 GPT-6.2 Astra 和 Claude Fable 5.2 旗舰的 37.5%，Pro 和 Ultra 订阅用户当天起可用。API 价格为每 100 万输…  
+  X：卡尔的 AI 沃茨 \(@aiwarts\) · 2026-11-19 10:41
 
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 39 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 38 页

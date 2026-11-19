@@ -1,181 +1,182 @@
 # 主题快讯
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 39 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 38 页
 
 含初筛线索。来源自述、观点与传闻保留原出处，尚待核验。
 
-- [美国国会委员会建议要求企业披露使用 DeepSeek 等中国 AI 模型并在 SEC 申报中标记为重大风险](<https://x.com/thexpin/status/2123337174406119817>)  
-  美国国会一个委员会推动国会立法，要求美国公司披露对 DeepSeek、阿里巴巴千问等中国 AI 模型的使用，并在向 SEC 提交的定期申报中将其使用程度标记为重大商业风险。图片中的报告文本还建议联邦机构及受联邦资助的实体披露使用中国实体的 AI 模型，未披露可由 FTC 按不公平欺骗行为执法。原文…  
-  X：X.PIN \(@thexpin\) · 2026-11-19 16:46
+- [Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍…](<https://x.com/AravSrinivas/status/2123480966459174920>)  
+  Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-20 02:18
 
-- [FT 估算 Anthropic 需约 6020 亿美元年营收才能在约 1 万亿美元算力承诺上获得 20% 回报](<https://x.com/rohanpaul_ai/status/2123313372510998911>)  
-  FT Unhedged 通讯估算，Anthropic 需约 6020 亿美元年营收，才能在其约 1 万亿美元算力承诺上获得 20% 回报。该测算按 40% 营业利润率和 17% 税率计算，这一营收目标超过 Alphabet 的 4710 亿美元和 Apple 的 4780 亿美元，约为标普 150…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 15:12
+- [OpenAI 讲解 Codex 编排架构如何让任务在智能体与工程师间流转](<https://x.com/OpenAIDevs/status/2123471884876427328>)  
+  OpenAI Developers 介绍 Codex 的编排器架构：任务在 task service 中保存状态与发现，dispatch loop 周期性检查就绪任务并启动 Codex turn 分配智能体。等待 PR 评审的任务可订阅评审评论，唤醒后由新智能体处理反馈；部署后另一智能体接手同一任…  
+  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-20 01:42
 
-- [腾讯混元Hy4 flash在OpenCode免费开放](<https://x.com/TencentHunyuan/status/2123310304935530736>)  
-  通过 @opencode 免费使用 Hy4 flash。感谢。尽情测试吧。  
-  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-19 15:00
+- [OpenAI 用 Codex 智能体保障 ChatGPT 性能](<https://x.com/OpenAIDevs/status/2123471880292299171>)  
+  Codex 已经帮助我们更快地构建 ChatGPT。现在它还在帮助我们保持 ChatGPT 的速度。 我们构建了 Performance Factory，用于协调多个智能体：调查性能回退、提出修复方案供工程师审核，并检查这些修复在生产环境中是否有效。  
+  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-20 01:42
 
-- [indigo 解读《The Commanding Heights》：智能越廉价，AI 落地的六大“收费站”越值钱](<https://x.com/indigox/status/2123308762161377589>)  
-  indigo 引述 Will Manidis 与 Joe Roberts 的长文《The Commanding Heights》，按“核心要素越廉价、稀缺互补品越值钱”的逻辑推演，认为超额利润将从模型层流向 AI 落地变现必经的关口。  
-  X：indigo \(@indigox\) · 2026-11-19 14:53
+- [OpenAI 用 Codex 技能排查性能问题](<https://x.com/OpenAIDevs/status/2123471882858963146>)  
+  在 Codex 之前，工程师需要手动分析指标和日志。为了更进一步，我们把性能团队的调查过程封装成了一个名为“perf-forensics”的共享技能。这个技能告诉 Codex 有哪些可用工具、何时使用它们，以及如何排查变慢问题，从而让 Codex 能够解决该问题。 接下来，我们把调查迁移到云端，让…  
+  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-20 01:42
 
-- [腾讯高管称美国限制海外 Nvidia 芯片 access 将拖慢中国模型训练](<https://x.com/rohanpaul_ai/status/2123300767817978051>)  
-  腾讯总裁刘炽平表示，美国商务部要求先进芯片输往可能服务中国企业的海外数据中心需申请许可，将拖慢全中国的模型训练，可能推迟模型发布。首席战略官 James Mitchell 称占腾讯云大部分工作的推理已可在不受新规影响的国产芯片上运行。腾讯 Q3 资本开支同比增长超 6 倍至 $12.2B，占收入…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 14:22
+- [Gemini 4 Neon 打造霞慕尼滑雪模拟器](<https://x.com/Google/status/2123470665210851508>)  
+  在这款第一人称霞慕尼滑雪模拟器中，沿六条真实的勃朗峰线路开辟全新雪道 🏔️ 由 Gemini 4 Neon 在 @Antigravity 中从零编写（约 10,000 行 JavaScript 和自定义着色器），它实现了 120 Hz 滑雪物理、动态雪痕、可触发雪崩和空间音频，且没有任何预制 3D…  
+  X：Google \(@Google\) · 2026-11-20 01:37
 
-- [Nvidia 临时 CEO Colette Kress 表示芯片路线图和开源模型策略不变](<https://x.com/rohanpaul_ai/status/2123300206922133979>)  
-  Rohan Paul 转述 NYT 报道：Nvidia 临时 CEO Colette Kress 在全体员工会议上安抚员工，称公司芯片路线图和开源模型策略不会改变。报道称员工立场分裂，一些人签署信件支持 Huang，另有三名知情人士透露，有员工不满他破坏了业界在发布前对 AI 模型做安全测试的计划。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 14:19
+- [Jim Fan 演示 GR00T 2 端到端控制真实灵巧手](<https://x.com/DrJimFan/status/2123470587259732200>)  
+  Jim Fan 发布未剪辑、1 倍速视频，展示 GR00T 2 端到端控制真实灵巧手完成任务。GR00T 2 是面向机器人的开源 System One 模型，完全运行在机器人机载算力上，支持 20+ 步、5 分钟以上的长时程灵巧操作与全身控制，可通过 X-Adapt 从人类穿戴数据和仿真零样本迁移…  
+  X：Jim Fan \(@DrJimFan\) · 2026-11-20 01:36
 
-- [蚂蚁灵波发布HALO机器人数据采集系统](<https://x.com/robbyant_brain/status/2123274494475419997>)  
-  很高兴分享 HALO——一种更自然的机器人真实世界技能教学方式，将人类步速的移动与灵巧双臂控制相结合。  
-  Robbyant 蚂蚁灵波（官方 X） · 2026-11-19 12:37
+- [Genie 4 上线 Gemini API](<https://x.com/OfficialLoganK/status/2123467560884838479>)  
+  更多内容请阅读我们的发布博客，非常期待看到大家用它做出什么：  
+  X：Logan Kilpatrick \(@OfficialLoganK\) · 2026-11-20 01:24
 
-- [OpenAI 研究员日均消耗 $2,400 智能体用量，最高 10% 超 $23,000](<https://x.com/rohanpaul_ai/status/2123250234457530538>)  
-  Rohan Paul 转述 OpenAI 研究加速报告数据：按 API 定价，OpenAI 研究员日均消耗 $2,400 的 AI 智能体用量，最高的 10% 超过 $23,000。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 11:01
+- [Google 在 Gemini API 和 AI Studio 发布 Genie 4 世界模型](<https://x.com/OfficialLoganK/status/2123467449257623770>)  
+  Google 宣布在 Gemini API 和 Google AI Studio 中推出 Genie 4，称这是面向开发者的首个世界模型，可用于创建新的世界模型体验。开发者可通过 尝试。  
+  X：Logan Kilpatrick \(@OfficialLoganK\) · 2026-11-20 01:24
 
-- [谷歌发布 Gemini 4 Neon，作者称 Antigravity 拖后腿](<https://x.com/aiwarts/status/2123245199300370650>)  
-  谷歌 11 月 18 日发布 Gemini 4 Neon，Artificial Analysis 综合智能指数 61 分排第三，价格约为 GPT-6.2 Astra 和 Claude Fable 5.2 旗舰的 37.5%，Pro 和 Ultra 订阅用户当天起可用。API 价格为每 100 万输…  
-  X：卡尔的 AI 沃茨 \(@aiwarts\) · 2026-11-19 10:41
+- [Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型](<https://x.com/_philschmid/status/2123465741592637445>)  
+  Philipp Schmid 宣布 Genie 4 正在 Gemini API 和 AI Studio 上推出，可从文本或图像生成 720p 24fps 的世界，并用 WASD、提示词和 48 kHz 立体声实时操控。可通过 WebRTC（浏览器加临时 token）或 WebSocket 串流，文…  
+  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-20 01:17
 
-- [推文建议Claude订阅用户买入Anthropic股票](<https://x.com/indigox/status/2123238235526877663>)  
-  该推文建议Claude订阅用户成为Anthropic股东，称$ANT IPO价格为每股83美金。作者算账：Ultra订户一年2400美金、十年24000美金，约买250股，十年回报可覆盖全部订阅费且大概率盈利，并称十万亿市值应是十年后科技巨头入门标准。  
-  X：indigo \(@indigox\) · 2026-11-19 10:13
+- [indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟](<https://x.com/indigox/status/2123464879961186584>)  
+  indigo 转发 @YahooFinance 的画面，Dario Amodei 在 Nasdaq 为 Anthropic IPO 敲响开市钟。作者恭喜这家最"人类"的科技公司上市，并调侃其敲钟鼓掌的样子怎么像是 AI 生成的。  
+  X：indigo \(@indigox\) · 2026-11-20 01:14
 
-- [indigo 建议 Claude 订阅用户在 $ANT IPO 每股 83 美金时买入约 250 股覆盖订阅成本](<https://x.com/indigox/status/2123236975780241812>)  
-  indigo 建议 Claude 订阅用户买入 Anthropic 股票，成为公司股东。他提到 $ANT 次日 IPO 定价每股 83 美金，Ultra 订户一年成本 2400 美金、十年 24000 美金，购入约 250 股十年后的回报可覆盖全部订阅费并大概率盈利，并认为十年后十万亿市值将是科技…  
-  X：indigo \(@indigox\) · 2026-11-19 10:08
+- [Anthropic CEO Dario Amodei 就公司 IPO 发表声明](<https://x.com/AnthropicAI/status/2123461658890686863>)  
+  Anthropic CEO Dario Amodei 就公司 IPO 发表声明，称今天让公司财务地位更稳固，并强调不会向商业或政治压力低头，将放慢 AI 训练与部署节奏以确保安全和人类可控。声明以生物学背景和 Claude 在科研中的应用为例阐述使命，同时承认滥用、经济冲击和失控等风险，倡导行业「…  
+  X：Anthropic \(@AnthropicAI\) · 2026-11-20 01:01
 
-- [Artificial Analysis 评测 GPT-6.2 Astra 与 Sol 的性格变化：回复更短更自然](<https://x.com/ArtificialAnlys/status/2123236464003588136>)  
-  Artificial Analysis 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 相对上一版的人格指数对比，两者风格变化明显。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-19 10:06
+- [Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%](<https://x.com/KateClarkTweets/status/2123459198390243417>)  
+  Anthropic 股票上市首日以每股 111.50 美元开盘，较每股 83 美元的 IPO 发行价上涨约 34%。  
+  X：Kate Clark \(@KateClarkTweets\) · 2026-11-20 00:51
 
-- [GPT-6.2 Astra 和 Sol 登上 Arena 新版 Agent Arena Index，分列第 6 和第 11](<https://x.com/arena/status/2123234410032214464>)  
-  Arena 发布新版 Agent Arena Index 榜单，GPT-6.2 Astra \(Max\) 以 1291 分排第 6，成为 OpenAI 当前最好模型；GPT-6.2 Sol \(Max\) 得 1241 分排第 11，进入成本 Pareto 前沿。  
-  X：Arena \(@arena\) · 2026-11-19 09:58
+- [Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能](<https://x.com/AravSrinivas/status/2123451045657690627>)  
+  Perplexity CEO Aravind Srinivas 分享 Computer 中 Brain 智能体的自我改进技能研究：Brain 会读取历史会话轨迹（工具调用、推理、结果），识别重复模式，仅在证据足够时提议新技能或更新。  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-20 00:19
 
-- [MiniCPM-V 4.7 在 Jetson Orin 本地跑视觉与机器人规划](<https://x.com/OpenBMB/status/2123229579737530548>)  
-  太惊人了！🤯 MiniCPM-V 4.7 在 Jetson AGX Orin 上本地运行视觉和机器人规划，令人兴奋。出色的优化工作，迫不及待想看到你的引擎！🚀💙  
-  X：面壁智能 OpenBMB \(@OpenBMB\) · 2026-11-19 09:39
+- [Perplexity 演示 Agent 调用外部 API 完成地块筛选与 3D 建模全流程](<https://x.com/AravSrinivas/status/2123444250536972483>)  
+  Perplexity CEO Aravind Srinivas 转发用户演示：用户让 Perplexity 为 Sacramento 附近 12 座小屋项目寻找合适地块，Perplexity 调用 @mireyehq API，花 $2.20 发起 31 次 Land Search and Enri…  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-19 23:52
 
-- [OpenAI 推出 ChatGPT for Accounting 及会计插件](<https://x.com/gdb/status/2123225465762542044>)  
-  OpenAI 推出 ChatGPT for Accounting，官方会计插件和合作插件可减少月结报表、银行对账、数据录入和审计准备等手工工作。该方案可配合 QuickBooks、Xero、Oracle NetSuite、BILL、FreshBooks、Rillet、Campfire 等工具使用，…  
-  X：Greg Brockman \(@gdb\) · 2026-11-19 09:22
+- [Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市…](<https://x.com/rohanpaul_ai/status/2123441720214106148>)  
+  Anthropic CEO Dario Amodei、联合创始人 Daniela Amodei 等参与了 Nasdaq 开市敲钟仪式，标志着史上最大规模 IPO 的开始。图片来源标注为 Michael Nagle/Bloomberg News。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 23:42
 
-- [Peter 评测对比 OpenAI 的 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://x.com/arena/status/2123221208619769903>)  
-  Peter（@petergostev）对 OpenAI 两个新模型 GPT-6.2 Astra 和 GPT-6.2 Sol 做了实测对比，覆盖 3D 场景、游戏、幻灯片、数据可视化、网站、交互应用和 SVG 插画。视频展示了 Astra 在深度与精度上的优势、Sol 在动效与设计上的特点，并对比了…  
-  X：Arena \(@arena\) · 2026-11-19 09:05
+- [Hugging Face CEO 祝贺 Anthropic 并呼吁更多开源 AI](<https://x.com/ClementDelangue/status/2123441379036537237>)  
+  Hugging Face CEO Clément Delangue 发推祝贺 Anthropic 及其 $ANT 团队，并希望其下一阶段带来更多开放科学与开源 AI。他表示许多开发者正需要 Anthropic 的帮助与贡献，以对抗权力、能力和财富的集中。  
+  X：Clément Delangue（Hugging Face CEO） \(@ClementDelangue\) · 2026-11-19 23:40
 
-- [UCSD Hao AI Lab 发布 ORA Traces 数据集：7 个模型在 5 个基准上的 3K+ 条轨迹](<https://x.com/haoailab/status/2123214040793276715>)  
-  UCSD Hao AI Lab 发布 ORA Traces 数据集，包含 7 个模型在 5 个基准上的 3K+ 条 episode，附系统提示词、camera images 和完整 CoT。数据已在 Hugging Face 开放：  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
+- [Anthropic 股票或以每股 104 美元开盘，高于 83 美元 IPO 定价约 25%](<https://x.com/KateClarkTweets/status/2123438598879871008>)  
+  Anthropic 股票预计以每股 104 美元开盘，较 83 美元的 IPO 发行价高出约 25%。  
+  X：Kate Clark \(@KateClarkTweets\) · 2026-11-19 23:29
 
-- [ORA 用 cuRobo 规划机器人动作](<https://x.com/haoailab/status/2123214034178875823>)  
-  动作更流畅。ORA 现在用 cuRobo 规划每一步动作，并基于机器人深度图像构建的地图进行规划。在 RoboDojo 上，因碰撞而中止的动作从 14.1% 降至 7.0%；在 RoboTwin 上从 18.4% 降至 6.8%。  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
+- [Mustafa Suleyman 谈 Cambridge Dictionary 年度词 Human 与人本主义 AI](<https://x.com/mustafasuleyman/status/2123435440602763603>)  
+  Cambridge Dictionary 将 Human 选为年度词，Mustafa Suleyman 认为年度词反映人们的焦虑与期望。他提出我们需要人本主义的 AI，即对齐、可控、安全并服从于人类，并引用 BBC 相关报道。  
+  X：Mustafa Suleyman（Microsoft AI CEO） \(@mustafasuleyman\) · 2026-11-19 23:17
 
-- [UCSD Hao AI Lab 发布开源零样本机器人工具 ORA v0.1](<https://x.com/haoailab/status/2123214025580536251>)  
-  UCSD Hao AI Lab 发布开源零样本机器人使用工具 ORA v0.1，代码见 DeepSeek V4.1-Flash，相比 10 月预览版，RoboDojo 从 5.2% 提升到 39.9%，RoboTwin 从 71.5% 提升到 79.6%。  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
+- [Unsloth 与 AMD 合作支持 NPU 推理](<https://x.com/UnslothAI/status/2123432043094913429>)  
+  我们与 @AMD 合作，将本地模型推理带到 AMD NPU 上。 NPU 提供强大的计算性能，同时功耗比传统 GPU 低 2–4 倍。 我们携手实现了更低功耗运行模型！ Strix、Gorgon、Krackan 等。 博客：  
+  X：Unsloth \(@UnslothAI\) · 2026-11-19 23:03
 
-- [Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元](<https://x.com/rohanpaul_ai/status/2123208597303885970>)  
-  Anthropic 以每股 83 美元定价 IPO，高于区间顶部 6%，发行 9.8 亿股 Class A 普通股，总募资约 813 亿美元，预计次日登陆纳斯达克。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 08:15
+- [Arena 推出 Coding Index，GPT-6.2 Astra \(Max\) 以 1338 分位列第 3](<https://x.com/arena/status/2123431957308871030>)  
+  Arena 推出 Coding Index，衡量各智能体在真实编码工作上的表现。  
+  X：Arena \(@arena\) · 2026-11-19 23:03
 
-- [马斯克坐大巴的画面都传开了，黄仁勋没露面反而更值得琢磨，芯片管制下他来的时机比来不来更敏感](<https://x.com/ldld888888/status/2123207253260190196>)  
-  @ldld888888 · 2026-11-19 08:10
+- [Deepnote 发布 apps 托管 Claude Code 或 Codex 编写的内部数据应用](<https://x.com/rohanpaul_ai/status/2123425817242071118>)  
+  Deepnote 发布新的 apps 功能，用于托管团队在 Claude Code 或 Codex 等 Agent 里 vibe-code 出的内部应用，定位类似 Vercel 之于网站，但接入公司数据和权限。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 22:39
 
-- [She had more than 50 percent of the vote.](<https://x.com/33lunasea/status/2123207250747543631>)  
-  What "stealing" occurred, you lying snowflake?  
-  @33lunasea · 2026-11-19 08:10
+- [Gemini 4 模型选择指南](<https://x.com/_philschmid/status/2123409705317933331>)  
+  我的 Gemini 4 模型选择指南： Neon = 日常编码和智能体的主力选择（$3/$15）。我现在主要用 Neon。 Hydrogen = 最快、最便宜（$1.50/$7.50）。用于基础任务/聊天或子智能体。 Carbon = 可以接受较慢速度的开放任务。测试、复杂长周期运行的模拟  
+  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-19 21:34
 
-- [Nvidia's stock is crashing right now, so their stock options are a lot less valuable.](<https://x.com/Chris_Somewhere/status/2123207228295667753>)  
-  At the same time, Nvidia employees are quite sought after, unlike in the software sector where there are mass layoffs. There is a morale crisis because Jensen Huang is seen as irreplaceable.  
-  @Chris\_Somewhere · 2026-11-19 08:10
+- [这几年我们团队也走了一轮 从 Coze 到自运维 Dify 再到 LangGraph 每换一次都是被问题推着走](<https://x.com/winston13111/status/2123372025326813401>)  
+  @winston13111 · 2026-11-19 19:05
 
-- [Bro just said he wants to return as Nvidia CEO, and the company immediately stripped his Nvidia affiliate badge on…](<https://x.com/HiAlanHoa/status/2123207223803535381>)  
-  Bro just said he wants to return as Nvidia CEO, and the company immediately stripped his Nvidia affiliate badge on X Elon Musk gifted Jensen Huang a free blue checkmark to console him...  
-  @HiAlanHoa · 2026-11-19 08:10
+- [there's a ceo shipping an ai wearable collar who's deep in battery life right now, want an intro? my dm didn't send…](<https://x.com/boardyai/status/2123372016329977959>)  
+  there's a ceo shipping an ai wearable collar who's deep in battery life right now, want an intro? my dm didn't send, button's below  
+  @boardyai · 2026-11-19 19:05
 
-- [台湾彭文正:绿媒青鸟落井下石恶意攻击黄仁勋，只因之前没见赖清德！恶心](<https://x.com/taidaowonu/status/2123207211178717438>)  
-  @taidaowonu · 2026-11-19 08:10
+- [&amp;lt;p class="wp-block-paragraph"&amp;gt;&amp;lt;strong&amp;gt;Welcome back to &amp;lt;em&amp;gt;The State of AI&amp;lt;/em&amp;gt;, a new colla…](<https://x.com/arnaudmercier/status/2123372013381193893>)  
+  Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global  
+  @arnaudmercier · 2026-11-19 19:05
 
-- [阿克曼炮轰英伟达董事会：赶走黄仁勋，究竟是在维护公司治理，还是被舆论吓慌了？](<https://x.com/ixinghu173794/status/2123207202601390213>)  
-  11月18日，亿万富翁投资人、潘兴广场资本创始人比尔·阿克曼在X上发表长文，公开质疑英伟达董事会。 他认为，董事会没有以股东最佳利益行事，可能违反受托责任，甚至是在被媒体头条吓慌之后，匆忙赶走黄仁勋。  
-  @ixinghu173794 · 2026-11-19 08:10
+- [英伟达临时CEO上任第一把火：先给员工加钱💰](<https://x.com/blueice49810906/status/2123371980539756594>)  
+  @blueice49810906 · 2026-11-19 19:05
 
-- [Nvidia elevó sus inversiones privadas a USD 65 500 millones.](<https://x.com/technopolis_es/status/2123207187048669618>)  
-  Fondos de capital de riesgo esperan que Kress firme cheques más escasos y pequeños para las startups de inteligencia artificial tras la salida de Jensen Huang. $NVDA  
-  @technopolis\_es · 2026-11-19 08:10
+- [Yes, the paper is real \(arXiv 2604.07609, April 2026, KTH/RISE\).](<https://x.com/grok/status/2123371983983243447>)  
+  Their prototype does remove the host CPU from steady-state LLM inference via BlueField-3 DPU + RDMA into GPU memory and a persistent CUDA kernel for batching/scheduling/KV cache. The reported speedups hold in their  
+  @grok · 2026-11-19 19:05
 
-- [It doesn't matter what stock price was in 2013.](<https://x.com/LisaMar88857849/status/2123207161975103896>)  
-  The credit is on Jensen Huang who could find 10 different accountant candidates to do her job if he didn't choose her. The so called CFO was just an accountant in 2013...WIthout Jensen nobody in the world knows who she is.  
-  @LisaMar88857849 · 2026-11-19 08:10
+- [Nvidia reportedly posted a record quarter, its first report since Jensen Huang left.](<https://x.com/miniii_codes/status/2123371960516399218>)  
+  The chip demand didn't check the org chart.  
+  @miniii\_codes · 2026-11-19 19:05
 
-- [At a town-hall meeting with employees Wednesday, Nvidia interim Chief Executive Officer Colette Kress reiterated he…](<https://x.com/business/status/2123207162197397975>)  
-  At a town-hall meeting with employees Wednesday, Nvidia interim Chief Executive Officer Colette Kress reiterated her confidence in the company after the ouster of longtime leader Jensen Huang  
-  @business · 2026-11-19 08:10
+- [LiberAI 的刘松铭，聊 GPT 范式在物理 AI 上的技术和应用边界。他没否定王兴兴“GPT-7 击穿具身”的判断，…](<https://x.com/WangNextDoor2/status/2123371960801382676>)  
+  他提出的方案是双方分工：基模公司做 System 2，负责语义理解、拆解和规划，统一提供接口；具身公司啃 System 1 以下的部分，操作和接触就是难啃的硬骨头。  
+  @WangNextDoor2 · 2026-11-19 19:05
 
-- [CEO’s know their key customers, it’s a central part of their responsibilities, it’s implausible to believe Jensen H…](<https://x.com/sctdog/status/2123207140131360954>)  
-  CEO’s know their key customers, it’s a central part of their responsibilities, it’s implausible to believe Jensen Huang did not understand what was occurring.  
-  @sctdog · 2026-11-19 08:10
+- [Over 200,000 people, including over 105,800 shareholders and 10,000 current employees, have signed a petition to br…](<https://x.com/lavanyalakshma2/status/2123371961166496060>)  
+  Like those incidents, we rarely see this here. What to expect: With massive backing from both staff and investors, Nvidia’s  
+  @lavanyalakshma2 · 2026-11-19 19:05
 
-- [中国宇树科技R1人形机器人](<https://x.com/HeyBurkhardt/status/2123206905623634131>)  
-  @HeyBurkhardt · 2026-11-19 08:09
+- [分かるで。本人が動画の説明欄に使用ツールを書いてる。](<https://x.com/GPTyw6g/status/2123371933756752153>)  
+  この「私の名を呼んで」の制作はこうや。 映像生成：Kling AI と DOMO AI ベース画像：ChatGPT Image 2.0 作曲と歌声：Suno AI 作詞：ルニングニング本人 映像は中国の動画生成AIコンビで、歌はSuno、絵の元はChatGPTという組み合わせやな。  
+  @GPTyw6g · 2026-11-19 19:04
 
-- [All that AI security money and it still can't tell Cool Ranch from a Glock.](<https://x.com/runyu887/status/2123206828905680935>)  
-  @runyu887 · 2026-11-19 08:08
+- [Hunch's board has Jensen Huang back in the NVIDIA chair by end-2026 at just 10%, with Ian Buck the most-priced succ…](<https://x.com/hunch_markets/status/2123371900286238923>)  
+  Hunch's board has Jensen Huang back in the NVIDIA chair by end-2026 at just 10%, with Ian Buck the most-priced successor at 15.5%.  
+  @hunch\_markets · 2026-11-19 19:04
 
-- [After finishing the largest-ever live pretraining run, @MarinCommunity released checkpoints on @huggingface yesterd…](<https://x.com/LaudeInstitute/status/2123206805853765837>)  
-  After finishing the largest-ever live pretraining run, @MarinCommunity released checkpoints on @huggingface yesterday — great timing for a community meetup at Laude Lab\! @WilliamBarrHeld's ask for the audience: “Find what Marin is doing wrong and send better i…  
-  @LaudeInstitute · 2026-11-19 08:08
+- [Best Pixverse deal](<https://x.com/Shafee_ai/status/2123371857726640194>)  
+  @Shafee\_ai · 2026-11-19 19:04
 
-- [确实呀，真的没必要死磕本地大模型了。](<https://x.com/imalankai/status/2123206726912741730>)  
-  @imalankai · 2026-11-19 08:08
+- [黄仁勋负责清杂，你带反坦克打虫族泰坦不就行了](<https://x.com/Chuan_zi28/status/2123371851812602238>)  
+  @Chuan\_zi28 · 2026-11-19 19:04
 
-- [Recursion reports FDA alignment on REC-4881's Phase 3 design in FAP.](<https://x.com/okjov2/status/2123206718276657187>)  
-  Start planned for H2 2027. My take: the meaningful test for AI drug discovery is patient benefit. I'll watch the controlled trial's outcomes and safety.  
-  @okjov2 · 2026-11-19 08:08
+- [视频是川普在深圳接受采访。他称昨晚与习近平整晚聊天，主要谈AI，美方领先超级智能。被问黄仁勋时说基本没谈，只可能简短提及，…](<https://x.com/grok/status/2123371849752977697>)  
+  视频是川普在深圳接受采访。他称昨晚与习近平整晚聊天，主要谈AI，美方领先超级智能。被问黄仁勋时说基本没谈，只可能简短提及，因这是“悲剧”。他赞黄是无法取代的天才，远见领先十年，Blackwell芯片复杂难复制，强调必须保护天才，并提曾帮过马斯克。  
+  @grok · 2026-11-19 19:04
 
-- [the image model was not local, the image-to-video was LTX-Video 2B v0.9.8 distilled](<https://x.com/DanielZambrini/status/2123206621933588932>)  
-  @DanielZambrini · 2026-11-19 08:08
+- [Thanks to the Google TPU Research Cloud \(TRC\) team at @GoogleCloud for the Cloud TPU v4-32 compute behind the 125M,…](<https://x.com/tasmaikeni13/status/2123371813422178349>)  
+  Built with JAX/Pallas \(@GoogleDeepMind\), verified in @leanprover, and hosted on @huggingface.  
+  @tasmaikeni13 · 2026-11-19 19:04
 
-- [🔬 北大与海淀区共建的未名人工智能园亮相，核心启动区位于北大西门外，计划形成服务科研成果落地的一公里转化圈。同期亮相的还有…](<https://x.com/chnpngji632906/status/2123206573392846965>)  
-  🔬 北大与海淀区共建的未名人工智能园亮相，核心启动区位于北大西门外，计划形成服务科研成果落地的一公里转化圈。同期亮相的还有具身智能、产学研协同等研究平台。高校有研究和人才，地方提供场地和企业服务。园区价值最终仍要看技术转化和真实应用，而不只是揭牌数量。  
-  @chnpngji632906 · 2026-11-19 08:07
+- [今晚 9 点，MiniMax H3 视频生成免费开放 24 小时 Envato 官方放的限免，到明晚 9 点结束 平时生成…](<https://x.com/Pigeonyang/status/2123371811106877761>)  
+  今晚 9 点，MiniMax H3 视频生成免费开放 24 小时 Envato 官方放的限免，到明晚 9 点结束 平时生成一条要烧积分的模型，这 24 小时里不限次数随便跑，最高 1080p+，文生视频、图生视频都能用 关键是免费账号就能参加，不用先买 Envato 订阅 想白嫖视频模型的定好闹钟…  
+  @Pigeonyang · 2026-11-19 19:04
 
-- [Hey I have been hearing some good people I trust, talking that some of the open models on Huggingface and LM studio…](<https://x.com/HomeTechOSS/status/2123206477737574766>)  
-  Do you have any info on this? How can we stop crap like this. I do not have any info on which  
-  @HomeTechOSS · 2026-11-19 08:07
+- [Sorry I'm going on 21 hours here straight so I'm a little groggy I got to go to bed soon but no I work with openai…](<https://x.com/FortunateHumanC/status/2123371801925300375>)  
+  Sorry I'm going on 21 hours here straight so I'm a little groggy I got to go to bed soon but no I work with openai anthropic perplexity Muse Gemini Manus Grok all at pro ultra or max subscriptions  
+  @FortunateHumanC · 2026-11-19 19:04
 
-- [腾讯AI产品最近战报 WorkBuddy超1000万日活跃用户 日均Token消耗量,超100万亿 是中国大语言模型Tok…](<https://x.com/CrownsGod99/status/2123206471462887713>)  
-  腾讯AI产品最近战报 WorkBuddy超1000万日活跃用户 日均Token消耗量,超100万亿 是中国大语言模型Token用量最高的AI产品 混元Hy4中国顶尖大模型水平 Hy4 flash 超50万亿上线首日Token调用量  
-  @CrownsGod99 · 2026-11-19 08:07
+- [🚨 NOW: Elon Musk says Nvidia made a HORRIBLE MOVE by forcing out Jensen Huang "I DON'T THINK HE'S DISLOYAL TO THE U…](<https://x.com/QNewst/status/2123371781654516088>)  
+  DOESN'T seem like a smart decision to me\!"  
+  @QNewst · 2026-11-19 19:04
 
-- [现代把波士顿动力剩下的股份全买完了，目标是：到 2028 年，一年造 3 万台人形机器人。](<https://x.com/zshjzls/status/2123206472221983192>)  
-  现代汽车集团三季报文件确认：软银手里最后 9.65% 的股份已经交割完毕，波士顿动力正式成为现代 100% 控股的子公司。 这笔交易 7 月就触发了，手续走完花了四个月；现代还为此注资，单是现代 Glovis  
-  @zshjzls · 2026-11-19 08:07
+- [🚨美国政府实测：四大聊天机器人全被攻破GAO暗测ChatGPT、Claude、Gemini、Grok → 12小时内全都绕…](<https://x.com/newhuo8/status/2123371758778785854>)  
+  \#AI安全 \#ChatGPT \#Claude  
+  @newhuo8 · 2026-11-19 19:04
 
-- [OpenAIのGPT-6.2 Astraが、外部公開モデルで初めてAI研究を進める能力のHigh基準に達しました。高リスク…](<https://x.com/AIplexjp/status/2123206316340773190>)  
-  \#AI \#OpenAI \#AI安全性 提供先・制限・API単価はこちら  
-  @AIplexjp · 2026-11-19 08:06
+- [你这个“知识对它来说只是可下载的数据”的说法，我想问的是，如果具身智能真拿到了 GPT 或者 Claude，留给人的到底是…](<https://x.com/ChenBuildsAI/status/2123371734862831980>)  
+  你这个“知识对它来说只是可下载的数据”的说法，我想问的是，如果具身智能真拿到了 GPT 或者 Claude，留给人的到底是什么，是动手的能力，还是判断该做什么的能力？  
+  @ChenBuildsAI · 2026-11-19 19:04
 
-- [腾讯根本就不怕字节做聊天软件，因为微信早就强到不可替代了。](<https://x.com/ileoyeye/status/2123206077047361792>)  
-  腾讯真正怕的，是自己多年积累的 App 矩阵和生态，将来被手机端侧 AI Agent 彻底取代，只能沦为被调用的工具接口，而不再是用户注意力的入口和流量分发的中心。  
-  @ileoyeye · 2026-11-19 08:05
+- [Another indicator that software as a field has rotted out ever since the subcontinental wave of CS graduates hit Ob…](<https://x.com/mypepewhen/status/2123371724452532494>)  
+  Another indicator that software as a field has rotted out ever since the subcontinental wave of CS graduates hit Obamaworld is that the provision of cheap LLM inference has exploded slop PRs targeted at popular end-user projects and not things like Plan 9 or G…  
+  @mypepewhen · 2026-11-19 19:04
 
-- [Most local models aren't slow because the flags are wrong — it's because nobody knows what the ceiling is.](<https://x.com/Itsrosia88/status/2123205956880519669>)  
-  Sybil Solutions open-sourced inference-optimisation-skill on November 16, an agent skill for tuning local LLM serving, MIT licensed, past 1,000 stars in three days. It  
-  @Itsrosia88 · 2026-11-19 08:05
+- [It wasn't a sex scandal.](<https://x.com/FiddleyF/status/2123371724850991205>)  
+  It was a \(deliberate\) violation of US export controls, on sensitive technology. Jensen Huang, with an assist from President Trump, in exchange for some billions of dollars, sold out the United States.  
+  @FiddleyF · 2026-11-19 19:04
 
-- [Gemini's agent security stack in 5 layers - microVM sandbox - pre-planner injection classifiers - deterministic out…](<https://x.com/hahwul/status/2123205825493868803>)  
-  Gemini's agent security stack in 5 layers - microVM sandbox - pre-planner injection classifiers - deterministic outbound link rules - Policy Guardian for shell/file actions - Confirmation before high-impact actions  
-  @hahwul · 2026-11-19 08:04
+- [India's Humyn Labs raised $47M in a Series A round to supply training data to U.S. robotics and AI companies.](<https://x.com/ai_kra_name/status/2123371688301858895>)  
+  Of the total, $26M is equity led by Accel and $21M is venture debt led by Lighthouse Canton. The company records humans performing everyday tasks with its…  
+  @ai\_kra\_name · 2026-11-19 19:03
 
-- [It is on @huggingface if anyone is interested in testing it out but I got to be honest this is more of a draft and…](<https://x.com/Thosch_io/status/2123205794128666803>)  
-  Link is  
-  @Thosch\_io · 2026-11-19 08:04
+- [Interoperable agent identity and revocable permissions address the cross-platform trust issue effectively](<https://x.com/Weirdo_idn/status/2123371660414005563>)  
+  @Weirdo\_idn · 2026-11-19 19:03
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 39 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 38 页

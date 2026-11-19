@@ -2,6 +2,102 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 6 页
 
+- [Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢](<https://www.ithome.com/1/029/015.htm>)  
+  据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。  
+  IT之家·人工智能 · 2026-11-18 18:45
+
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型](<https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/>)  
+  Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。  
+  Latent Space（RSS） · 2026-11-18 18:19
+
+- [洽道量子再获深圳高新投领投](<https://www.itjuzi.com/investevent/14708182>)  
+  洽道量子是一家AI+量子计算应用公司，通过科学问题建模、任务拆解和异构算力调度，将量子计算引入新材料与药物研发等领域，开发可交付、可复用的计算工具与应用方案。洽道量子近日完成新一轮融资，由深圳高新投领投，雪域资本担任长期的财务顾问。这…  
+  IT桔子 · 2026-11-18 18:02
+
+- [腾讯财报：WorkBuddy 日活跃用户超 1000 万，成为中国日均 Token 用量最高的 AI 产品](<https://www.ithome.com/1/028/914.htm>)  
+  腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
+  IT之家·人工智能 · 2026-11-18 16:52
+
+- [Sqwish获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708171>)  
+  Sqwish是一家AI决策模型研发商，打造 kettei 轻量级决策模型家族，不做通用生成式大模型，直接输出结构化决策结果与置信度评分，覆盖文本、图像多模态决策场景；旗舰模型 kettei fat 在 JevBench、ImageJe…  
+  IT桔子 · 2026-11-18 16:17
+
+- [Remanence获得3000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708166>)  
+  Remanence是一家企业 AI 科技研发商，打造基于 AI 智能体执行轨迹的模型后训练平台，采集企业智能体的工具调用、报错与人工修正记录，自动构建仿真训练环境，通过强化学习对开源模型做专精化训练，产出归属企业自有、可本地部署的业务…  
+  IT桔子 · 2026-11-18 16:00
+
+- [Ai2 与 Taylor Geospatial 合作，让地理空间 AI 更易比较、运行和构建](<https://allenai.org/blog/taylor-geospatial-partnership>)  
+  Ai2 与 Taylor Geospatial 在 SatSummit 上宣布合作，共同推进地理空间 AI 的构建、测试与落地。合作产出包括用于模型比较的 The World 基准、带无代码微调平台的完全开源地球观测模型系列 OlmoEarth，以及扩展后支持更高边界精度和作物类型、产量的 Fields of The World 开放数据集。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-18 16:00
+
+- [Voyage Labs获得1200万美元种子轮融资](<https://www.itjuzi.com/investevent/14708165>)  
+  Voyage Labs是一家AI旅行规划服务提供商，主打个人 AI 旅行助手 Atlas，定位专属垂直智能体（而非通用大模型助手），覆盖从灵感发现、规划、预订到行程管理的全流程，既服务长途出行，也覆盖就近晚餐、徒步、空闲傍晚等本地场景…  
+  IT桔子 · 2026-11-18 15:50
+
+- [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
+  作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
+  公众号：卡尔的AI沃茨 · 2026-11-18 11:52
+
+- [AMD 完成对 Taalas 的收购，计划将其 AI 推理芯片技术整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
+  AMD 当地时间昨日宣布完成对专用 AI 推理芯片开发商 Taalas 的收购，表示此举将加强其全栈 AI 产品组合和长期推理路线图。AMD 计划将 Taalas 技术整合进加速器路线图，结合 Instinct GPU 共同开发系统级解决方案。Taalas 采用把 AI 模型固化到 ASIC 上的路线，针对特定模型工作负载优化，牺牲通用性以显著提升推理效率。  
+  IT之家·人工智能 · 2026-11-18 10:06
+
+- [Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70\~78 美元](<https://www.ithome.com/1/028/599.htm>)  
+  根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。  
+  IT之家·人工智能 · 2026-11-18 08:12
+
+- [二十年逆向工程老手分享 LLM 辅助逆向工作流与开源 Agent 技能](<https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering>)  
+  一位有二十年软硬件逆向经验的老手分享其 LLM 辅助逆向工作流，使用 DeepSeek v4.1 Flash 配合 Ghidra MCP bridge、radare2 和 kuna，让 Agent 分析二进制结构并把发现写入 MD 文件避免跑偏。  
+  Hacker News：AI 热帖 · 2026-11-18 08:00
+
+- [Conductor 0.96.0 更新：可查看智能体花费与上下文窗口占用](<https://www.conductor.build/changelog/0.96.0-know-what-you-re-spending>)  
+  Conductor 0.96.0 在输入框新增上下文圆圈，可查看上下文窗口占用、用量限额和对话预估成本。新对话默认使用 Claude 的 Opus 5.5 和 Codex 的 GPT-6.2 Sol，连续工具调用与思考步骤折叠为一行。本地工作区智能体可跨其他仓库启动工作区，侧边栏支持多项目筛选。  
+  Conductor 官方更新 · 2026-11-18 08:00
+
+- [在 32GB Mac 上运行 180B MoE：Transformers 专家流式加载实战与 Strata 对比](<https://huggingface.co/blog/moe-expert-streaming>)  
+  作者在 Transformers 中实现 MoE 专家权重流式加载，让 Qwen3.8-Flash-Next（121GB FP8 专家权重）能在 32GB 内存 MacBook 上运行，方法是将专家量化到 3bit 存盘、用槽位池缓存配合 grouped\_mm，并通过预取和 Metal 内核优化。  
+  Hugging Face 官方团队博客 · 2026-11-18 08:00
+
+- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
+  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
+  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
+
+- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
+  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
+  vLLM 官方博客（RSS） · 2026-11-18 08:00
+
+- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
+  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
+  Gemini API：更新日志（网页） · 2026-11-18 08:00
+
+- [微软发布 Microsoft-Decision-1.1 决策模型，基准得分领先 GPT-6 Luna 与 Gemini](<https://www.ithome.com/1/028/593.htm>)  
+  微软于 11 月 17 日正式推出 Microsoft-Decision-1.1 决策 AI 模型，已在 Microsoft Foundry、OpenRouter 和 Vercel 上线，面向路由、分类、优先级排序、内容核验和工作流控制等企业决策场景。  
+  IT之家·人工智能 · 2026-11-18 07:40
+
+- [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
+  微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
+  IT之家·人工智能 · 2026-11-18 07:06
+
+- [Perplexity Computer 新增 Multiagent 档位：最多 16 个 AI 智能体交叉检查工作](<https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/>)  
+  Perplexity 为 Computer 新增高于 Ultra 的 Multiagent 档位，主智能体最多调度 16 个并行智能体，直接共享发现、编辑共享文件并互相检查，默认团队由 Claude Opus 5.5、GPT 6.1 Sol 和 Gemini 4 Carbon 组成。  
+  MarkTechPost（RSS） · 2026-11-18 06:52
+
+- [微软发布 MAI Code 2 与 MAI Code 2 Flash，5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
+  微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
+  IT之家·人工智能 · 2026-11-18 06:42
+
+- [Simon Willison 实测 OpenAI 新模型 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/>)  
+  OpenAI 发布 GPT-6.2 Astra（面向高难度项目的旗舰模型）和 GPT-6.2 Sol（面向日常工作的通用模型），API 名称分别为 gpt-6.2-astra 和 gpt-6.2-sol。  
+  Simon Willison 博客 · 2026-11-18 06:38
+
+- [深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯](<https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA>)  
+  OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。  
+  公众号：数字生命卡兹克 · 2026-11-18 06:36
+
+- [Anthropic IPO 后 Amazon 与 Google 将合计持股近 30%](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
+  Anthropic 披露 IPO 相关投资细节：Amazon 持股将达 14.7%，全部转换可转债可至 23.8%；Google 持股 13.7%，均为无投票权股份。  
+  TechCrunch：AI（RSS） · 2026-11-18 06:29
+
 - [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
   OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  
   IT之家·人工智能 · 2026-11-18 06:23
@@ -85,101 +181,5 @@
 - [SGLang 集成 Humming：面向高效 MoE 推理的灵活低比特内核](<https://www.lmsys.org/blog/2026-11-18-humming-sglang>)  
   Humming 0.1.18 扩展了与 SGLang 的集成，覆盖更多量化方案和 GPU 架构，并新增面向 SGLang MoE runner 的共享激活表达式接口。  
   LMSYS Blog · 2026-11-18 00:00
-
-- [Google 发布 Gemini 4 Neon：速度快、成本低的 frontier 级模型](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/>)  
-  Google 发布 Gemini 4 Neon，主打 frontier 级智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。  
-  Hacker News：AI 热帖 · 2026-11-18 00:00
-
-- [在 Modal 上为玛雅碑铭研究构建新工具](<https://modal.com/blog/scaling-intelligence-asya>)  
-  斯坦福讲师 Miguel Novelo 在 Modal 上搭建了一条将 2D 玛雅字形图像转为 3D 模型的快速流水线，起点是约 100 个玛雅音节符号。他在 Gray Area 展出的装置 \(Φ ᆺ Φ\) asya 让观众在沙上作画并生成新字形，汇入不断增长的集体抄本。Novelo 表示，通用大模型缺乏尤卡坦本地知识，因此需要理解字形外观与语境的小型专用模型。  
-  Modal 官方工程博客（RSS） · 2026-11-18 00:00
-
-- [用两条提示词在 NVIDIA Cosmos 中构建可训练物理 AI 数据集](<https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/>)  
-  NVIDIA 介绍如何用两条提示词在 Cosmos 中完成物理 AI 训练数据集的整理与增强。Cosmos Data Factory 包含五个云原生 blueprint 和六个可组合 skill，由前沿 AI 智能体编排，实现 prompt-to-data。文章演示了自动驾驶场景生成、图像属性增强、视频天气光照变换、罕见事件视频与缺陷图像生成五类用例。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-18 00:00
-
-- [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
-  生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
-  公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
-
-- [七位物理学家谈 AI 如何重塑理论物理研究](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
-  Understanding AI 作者采访 Suvrat Raju 等七位理论物理学家，探讨 AI 对理论物理的冲击。Raju 团队用未公开的真实难题构建 TheoPhysEval 基准，GPT-6 Astra 在 50 题中答对 49 题，每题计算成本不到 3 美元，基准在发布前即被饱和。  
-  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
-
-- [Cerebral Valley AI 峰会精华：算力成本、开源权重模型与 Nvidia 变局](<https://www.newcomer.co/p/top-takes-from-cvai-2026>)  
-  Newcomer 梳理了上周 Cerebral Valley AI 峰会的核心观点，Databricks 的 Ali Ghodsi、Palo Alto Networks 的 Nikesh Arora 与 General Catalyst 的 Hemant Taneja 等嘉宾围绕算力成本展开讨论。  
-  Newcomer 新闻长文（RSS） · 2026-11-17 22:33
-
-- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
-  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
-  NVIDIA Blog（RSS） · 2026-11-17 22:00
-
-- [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
-  O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
-  O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
-
-- [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
-  ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
-  ChinaTalk（RSS） · 2026-11-17 19:03
-
-- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
-  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
-  MarkTechPost（RSS） · 2026-11-17 17:51
-
-- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
-  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
-  IT之家·人工智能 · 2026-11-17 17:41
-
-- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
-  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
-  IT之家·人工智能 · 2026-11-17 16:16
-
-- [Garlic LLM 让越狱版 PS4 运行 Qwen3.5-9B 本地模型，最高每秒 43 词元](<https://www.ithome.com/1/028/266.htm>)  
-  开源项目 Garlic LLM 让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度达每秒 43 个词元，无需联网即可完成 AI 聊天与语音对话。  
-  IT之家·人工智能 · 2026-11-17 15:12
-
-- [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)  
-  OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。  
-  OpenAI：部署安全与系统卡（网页） · 2026-11-17 15:00
-
-- [百度李彦宏在 APEC 峰会警告 AI 泡沫风险，称应用落地成效不及预期](<https://www.ithome.com/1/028/225.htm>)  
-  百度董事长兼 CEO 李彦宏在 2026 年 APEC 工商领导人峰会上表示，当前算力和基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。他对 AI 长期趋势保持乐观，并提出 AI 技术栈在芯片、云、模型、应用之上还需配套组织能力，类比电力革命缺少组织变革就难以释放经济价值；此前在百度世界大会 2026 上他称智能组织是 AI 时代新的厂房。  
-  IT之家·人工智能 · 2026-11-17 13:01
-
-- [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
-  据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
-  IT之家·人工智能 · 2026-11-17 11:28
-
-- [谷歌 Ironwood TPU 提交 MLPerf Training v6.1 成绩，8192 颗约 102 秒达标 DeepSeek-V3 预训练](<https://www.ithome.com/1/028/065.htm>)  
-  谷歌云在 MLPerf Training v6.1 第一轮提交了覆盖第七代 Ironwood TPU 与英伟达 Grace Blackwell GPU 的 10 项结果。  
-  IT之家·人工智能 · 2026-11-17 09:46
-
-- [奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过](<https://www.ithome.com/1/028/052.htm>)  
-  据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。  
-  IT之家·人工智能 · 2026-11-17 09:03
-
-- [Anthropic IPO 后要求员工提前 30 天制定 10b5-1 书面售股计划](<https://www.ithome.com/1/028/040.htm>)  
-  据 Business Insider 报道，Anthropic 计划在 IPO 后要求员工通过 10b5-1 交易计划出售股票，须书面预先确定数量、价格条件和至少 30 天后的出售日期。  
-  IT之家·人工智能 · 2026-11-17 08:20
-
-- [Gemini 3.5 Transcribe 新增语音编辑功能](<https://ai.google.dev/gemini-api/docs/changelog#11-17-2026>)  
-  gemini-3.5-transcribe 和 gemini-3.5-transcribe-live 现已支持语音驱动的编辑、改写与格式化，可作用于口述语音或已有文本（source\_text）。相关用法见音频转写与实时转写指南。  
-  Gemini API：更新日志（网页） · 2026-11-17 08:00
-
-- [Cerebras 推出分离式推理：GPU 负责预填充、Cerebras 系统负责解码，每兆瓦吞吐提升 5 倍](<https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference>)  
-  Cerebras 宣布分离式推理方案已投入生产，用 AMD Instinct GPU 处理 prompt（prefill），由 Cerebras CS-3 系统生成响应（decode）。  
-  Cerebras：Blog（网页） · 2026-11-17 08:00
-
-- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
-  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
-  NVIDIA Blog（RSS） · 2026-11-17 07:00
-
-- [Google 威胁情报组警告全自动 AI 网络攻击已经出现并将快速恶化](<https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/>)  
-  Google 威胁情报组（GTIG）通过 AI Threat Tracker 首次观察到攻击者完全自动化漏洞发现与利用，无人工介入。其暴露的服务器运行名为 exploit\_agent 的 AI 框架，连接多个大语言模型，通过比对补丁前后代码识别漏洞、开发并自动运行利用程序，配置文件中的俄语注释暗示操作者讲俄语，数据指向法国媒体、娱乐和教育网站。  
-  The Decoder：AI News（RSS） · 2026-11-17 03:42
-
-- [GPT-6 Astra 助力解决格点上的粒子物理标准模型难题](<https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/>)  
-  OpenAI 的 GPT-6 Astra 帮助产出一份证明，有望解决粒子物理标准模型格点化中存在 50 年的难题，论文作者为 UC Santa Barbara 物理学家 Nathaniel Craig，预印本和 OpenAI 博客均已发布。  
-  The Decoder：AI News（RSS） · 2026-11-17 03:19
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 6 页

@@ -10,7 +10,23 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 15 条
+## 相关资讯 · 19 条
+
+- [Kling 4.0 支持原生 4K 直出与 10-bit HDR 输出](<https://mp.weixin.qq.com/s/GSKWsr7xFHldKR4Ha_lFzg>)  
+  可灵AI 官宣 Kling 4.0 支持原生 4K 视频直出，并可在 4K 和 1080p 分辨率下输出 10-bit HDR 视频。官方称画面细节更清晰、色彩层次更丰富，可在 klingai.com 体验。  
+  公众号：可灵AI（快手·视频） · 2026-11-19 23:00
+
+- [快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景](<https://www.ithome.com/1/029/686.htm>)  
+  IT之家 11 月 19 日消息，据《科创板日报》今天报道，快手 CEO 程一笑今日在业绩会中透露，Kling 4.0 模型上线后，可灵流水实现提升，当前收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARP…  
+  IT之家 · 2026-11-19 21:36
+
+- [AI视频，进入DeepSeek时刻？](<https://36kr.com/p/4076581131244674?f=rss>)  
+  AI视频行业正在靠近一个类似DeepSeek的时刻，模型能力差距收窄，价格被打到分/秒，创作者开始批量调用。 11月初，谷歌把视频模型Gemini Omni 1.2 Flash转为正式版，不仅支持15秒视频生成和多轮对话式编辑等功能升级，还  
+  36氪 · 2026-11-19 19:39
+
+- [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
+  Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
+  IT桔子 · 2026-11-19 18:17
 
 - [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
   NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  

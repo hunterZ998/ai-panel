@@ -20,7 +20,23 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 25 条
+## 相关资讯 · 29 条
+
+- [欧盟委员会证实遭到 AI 驱动的网络攻击，事态规模暂难判断](<https://www.ithome.com/1/029/687.htm>)  
+  IT之家 11 月 19 日消息，据路透社报道，当地时间 19 日，欧盟委员会证实遭受了利用 AI 工具进行的网络攻击。有关此事的调查尚未结束，事态规模暂难判断。 发言人托马斯 · 雷尼耶在记者会上说：“我可以确认，我们近期发现了一起…  
+  IT之家 · 2026-11-19 21:38
+
+- [AI 攻击时代的四支柱安全事件响应指南：从 Fireworks AI 到 Klue 的实践复盘](<https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/>)  
+  文章指出 AI 驱动的攻击正以机器速度、全球规模加速，并梳理 2026 年 5 月至 11 月多起 AI 平台披露的安全事件，受影响对象包括 npm/PyPI 上的 Mistral AI 等 SDK、Klue、Fireworks AI、Cursor、Railway 和 Warp 等平台，共同焦点是被存储的环境变量与 API 密钥。  
+  MarkTechPost（RSS） · 2026-11-19 18:45
+
+- [Claude开AI工厂：7周造38个模型，狂揽5.5万下载](<https://36kr.com/p/4076450154107785?f=rss>)  
+  Claude开了一家造AI的工厂！ 七周，Claude交出38个模型，狂揽约5.5万次下载，杀进100多个GitHub项目。 38个模型累计下载约5.5万次，光是提示注入检测系列就有约1.7万次下载。 这AI工厂背后的「老板」叫Horizo  
+  36氪 · 2026-11-19 18:31
+
+- [德国 BSI 将网络威胁评估上调为严峻至危急，指出 AI 智能体降低攻击门槛](<https://www.ithome.com/1/029/609.htm>)  
+  德国联邦信息安全局（BSI）11 月 19 日发布年度报告，将信息技术系统威胁评估从去年的严峻上调为严峻至危急，理由是智能体 AI 系统让攻击者更容易发现和利用漏洞。其网络安全指数从 2025 年年中的 124 点升至今年年中的 238 点；报告称攻击越来越快、便宜且有针对性，攻击者开始借助 AI 模型直接攻击系统，并警告许多企业尤其是中小企业防御动作太慢，未在受攻击前用 AI 排查漏洞。  
+  IT之家·人工智能 · 2026-11-19 18:00
 
 - [三位00后，公司卖了300亿](<https://36kr.com/p/4076372393841797?f=rss>)  
   创业一年，卖出300亿——AI的造富速度，比任何时代都来得惊人。 投资界获悉，美国网络安全巨头派拓网络宣布，已与AI初创公司 Applied Compute 签署最终收购协议，拟以价值45亿美元（约合人民币300 亿元）的全股票交易收购后者  
@@ -30,12 +46,13 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   从OpenAI出走，到1.5万亿美元IPO；从AI安全的理想主义者，到被资本、算力和美国国家安全体系裹挟的商业巨头。Anthropic真正需要回答的，或许不是模型还能有多强，而是它还能不能坚持自己曾经相信的东西。 2026年11月19日，人  
   36氪 · 2026-11-19 11:28
 
+- [Browser Use 讲解 AI 智能体如何通过界面操作软件](<https://browser-use.com/posts/what-is-computer-use>)  
+  Browser Use 发布科普文章，讲解计算机使用类智能体如何像人一样通过界面点击、输入和滚动来操作软件。文章拆解了读取界面、选择动作、执行和验证的智能体循环，比较截图、DOM 和无障碍树三种读取方式的优劣，并给出适用场景、速度成本考量，以及限制权限和防范提示词注入的安全建议。  
+  Browser Use · 2026-11-19 08:00
+
 - [谷歌 Google Labs 推出实验性产品智能体 Stitch Loop](<https://www.ithome.com/1/029/137.htm>)  
   谷歌 Google Labs 于 11 月 18 日推出实验性产品智能体 Stitch Loop，可连接代码库与线上实时数据，在软件发布后持续发现问题、提出改进方案并编写代码。它支持 180 多种集成和自定义 MCP 服务器，默认执行网络安全、响应延迟和无障碍访问 3 次循环，每次循环包含建议、解决方案、反思等步骤，在云端沙盒中编写代码并提交 GitHub 拉取请求，所有改动须经人工审核才能合并。  
   IT之家·人工智能 · 2026-11-19 07:15
-
-- [Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations](<https://www.theinformation.com/articles/anthropics-ipo-making-philanthropist-craig-newmark-hold-back-ai-safety-donations>)  
-  The Information · 2026-11-18 23:01
 
 - [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
   微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  

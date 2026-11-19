@@ -1,6 +1,14 @@
 # 机构研究
 
-[返回面板](../README.md) · 第 1 / 1 页
+[返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
+
+- [The a16z FDE Fellowship is back](<https://www.a16z.news/p/the-a16z-fde-fellowship-is-back>)  
+  An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more  
+  a16z · 2026-11-20 01:26
+
+- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
+  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
+  Menlo Ventures · 2026-11-20 00:50
 
 - [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
   2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
@@ -90,10 +98,6 @@
   They deploy into real production environments ahead of full autonomy, using human teleoperators \(“tutors”\) to train t…  
   a16z · 2026-11-03 00:05
 
-- [How AI Applications Earn Their Premium](<https://www.a16z.news/p/how-ai-applications-earn-their-premium>)  
-  Cheaper intelligence raises the bar for what an AI application can charge  
-  a16z · 2026-11-02 23:03
-
 - [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
   It aims to be the world’s best benchmark for measuring general agentic capabilities.  
   SemiAnalysis · 2026-11-02 09:51
@@ -178,8 +182,4 @@
   Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
   SemiAnalysis · 2026-09-15 06:08
 
-- [Macro Memo: Regime Change](<https://www.citriniresearch.com/p/macro-memo-regime-change>)  
-  Six weeks later, that thesis had become the spine of the first ever paywalled piece on this newsletter, Artificial In…  
-  Citrini Research · 2026-08-27 20:49
-
-[返回面板](../README.md) · 第 1 / 1 页
+[返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页

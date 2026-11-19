@@ -86,10 +86,6 @@
   This was recorded on the sidelines of the new Compute Trading track at AIE NYC. Catch us next at AIE CODE, our last f…  
   Latent Space · 2026-10-21 03:31
 
-- [What Happens When Everyone Has a Health Expert in Their Pocket? \| OpenAI’s Karan Singhal](<https://a16z.simplecast.com/episodes/what-happens-when-everyone-has-a-health-expert-in-their-pocket-openais-karan-singhal-OIiX2t5T>)  
-  More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI’s Karan Singhal thinks t…  
-  The a16z Show · 2026-10-20 18:00
-
 - [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](<https://www.xiaoyuzhoufm.com/episode/6ad2412d0e4e410a05be01a7?utm_source=rss>)  
   ➤ Claude Code 和 Codex 越来越强，AI 应用创业者还能做什么？ 本周「十字路口」的嘉宾是 Treg 创始人 Jason Zhou 和 Founding Engineer 石天鑫。创业 9 个多月，从设计 Agent…  
   十字路口 Crossing · 2026-10-19 00:00

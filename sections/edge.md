@@ -20,18 +20,15 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 11 条
+## 相关资讯 · 9 条
 
-- [遏制AI作弊：韩国安防企业竞相开发智能眼镜探测仪](<https://www.163.com/dy/article/LC45O80I0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-19 17:15
+- [Pete Warden 谈本地 AI、开放模型、语音界面与硬件未来](<https://thedataexchange.media/pete-warden-moonshine/>)  
+  Moonshine Voice 联合创作者 Pete Warden 在播客中讨论本地 AI 为何越来越倾向在设备端而非云端运行，并称本地模型在基准测试上仅比 Anthropic 和 OpenAI 的商业模型落后几个月。  
+  Hacker News：AI 热帖 · 2026-11-19 20:00
 
-- [遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪](<https://www.ithome.com/1/029/539.htm>)  
-  IT之家 11 月 19 日消息，据韩媒 Etnews 今天报道，随着 AI 智能眼镜作弊逐渐成为社会问题，韩国安防企业开始研发相关探测设备。 据业内消息，韩国两家安防领域企业 K&amp;Us、Gison 正在开发用于查处智能眼镜作弊行为的…  
-  IT之家 · 2026-11-19 17:01
-
-- [12 月 10 日上市，三星 AI 眼镜 Intelligent Eyewear 预售数小时便售罄](<https://www.ithome.com/1/029/515.htm>)  
-  IT之家 11 月 19 日消息，三星电子与谷歌、Gentle Monster 联合推出的人工智能眼镜“Intelligent Eyewear”，尚未正式上市便取得了不错的市场反响，关键型号在预售开启后数小时内便售罄。 韩国眼镜品牌…  
-  IT之家 · 2026-11-19 16:07
+- [博帝推出 AI Matrix 系列 DDR5 内存、M.2 SSD，专为端侧 AI 设计](<https://www.ithome.com/1/029/645.htm>)  
+  IT之家 11 月 19 日消息，博帝（Patriot）今日宣布推出 AI Matrix 系列 DDR5 内存和 PCIe M.2 2280 NVMe SSD，专为端侧运行大语言模型设计。 IT之家附该系列产品详情如下： PRO 档（…  
+  IT之家 · 2026-11-19 18:58
 
 - [韩国高考临时屏蔽考点及周边 100 米内公共 WiFi 防 AI 作弊](<https://www.ithome.com/1/029/075.htm>)  
   韩国自当地时间 18 日下午 6 时起，要求 SK 电信、KT、LG U+ 三大运营商暂停全国高考考场及周边 100 米内的公共 WiFi 和运营商 WiFi，至 19 日下午 6 时，以防考生用智能眼镜、微型摄像头等 AI 设备作弊。  
@@ -56,10 +53,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [三星宣布搭载Gemini的Intelligent Eyewear开启预订，12月10日在美国及韩国推出不同款式；美国Warby Parker款395美元起。官方场景包括视觉问答、翻译和会议摘要。价格与上市计划已核对，续航和佩戴体验尚未独立实测。](<https://x.com/SVTrivo/status/2121102780328984624>)  
   Samsung just opened pre-orders for Intelligent Eyewear — Gemini-powered AI glasses with no display, launching Dec 10 in the US and Korea. 30 designs from Gentle Monster and Warby Parker. Starts at $395 \(Warby Parker\). \~41g, 12MP camera, Snapdragon AR1 Gen 1, u…  
   @SVTrivo · 2026-11-13 12:48
-
-- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
-  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
-  @SamuelZengML · 2026-11-13 02:00
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

@@ -2,6 +2,102 @@
 
 [返回面板](../README.md) · [上一页](model-3.md) · [下一页](model-5.md) · 第 4 / 6 页
 
+- [Google 发布 Gemini 4 Neon：速度快、成本低的 frontier 级模型](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/>)  
+  Google 发布 Gemini 4 Neon，主打 frontier 级智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。  
+  Hacker News：AI 热帖 · 2026-11-18 00:00
+
+- [在 Modal 上为玛雅碑铭研究构建新工具](<https://modal.com/blog/scaling-intelligence-asya>)  
+  斯坦福讲师 Miguel Novelo 在 Modal 上搭建了一条将 2D 玛雅字形图像转为 3D 模型的快速流水线，起点是约 100 个玛雅音节符号。他在 Gray Area 展出的装置 \(Φ ᆺ Φ\) asya 让观众在沙上作画并生成新字形，汇入不断增长的集体抄本。Novelo 表示，通用大模型缺乏尤卡坦本地知识，因此需要理解字形外观与语境的小型专用模型。  
+  Modal 官方工程博客（RSS） · 2026-11-18 00:00
+
+- [用两条提示词在 NVIDIA Cosmos 中构建可训练物理 AI 数据集](<https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/>)  
+  NVIDIA 介绍如何用两条提示词在 Cosmos 中完成物理 AI 训练数据集的整理与增强。Cosmos Data Factory 包含五个云原生 blueprint 和六个可组合 skill，由前沿 AI 智能体编排，实现 prompt-to-data。文章演示了自动驾驶场景生成、图像属性增强、视频天气光照变换、罕见事件视频与缺陷图像生成五类用例。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-18 00:00
+
+- [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
+  生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
+  公众号：生数科技（Vidu·视频） · 2026-11-17 23:10
+
+- [七位物理学家谈 AI 如何重塑理论物理研究](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
+  Understanding AI 作者采访 Suvrat Raju 等七位理论物理学家，探讨 AI 对理论物理的冲击。Raju 团队用未公开的真实难题构建 TheoPhysEval 基准，GPT-6 Astra 在 50 题中答对 49 题，每题计算成本不到 3 美元，基准在发布前即被饱和。  
+  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
+
+- [Cerebral Valley AI 峰会精华：算力成本、开源权重模型与 Nvidia 变局](<https://www.newcomer.co/p/top-takes-from-cvai-2026>)  
+  Newcomer 梳理了上周 Cerebral Valley AI 峰会的核心观点，Databricks 的 Ali Ghodsi、Palo Alto Networks 的 Nikesh Arora 与 General Catalyst 的 Hemant Taneja 等嘉宾围绕算力成本展开讨论。  
+  Newcomer 新闻长文（RSS） · 2026-11-17 22:33
+
+- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
+  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
+  NVIDIA Blog（RSS） · 2026-11-17 22:00
+
+- [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
+  O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
+  O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
+
+- [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
+  ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
+  ChinaTalk（RSS） · 2026-11-17 19:03
+
+- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
+  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
+  MarkTechPost（RSS） · 2026-11-17 17:51
+
+- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
+  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
+  IT之家·人工智能 · 2026-11-17 17:41
+
+- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
+  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
+  IT之家·人工智能 · 2026-11-17 16:16
+
+- [Garlic LLM 让越狱版 PS4 运行 Qwen3.5-9B 本地模型，最高每秒 43 词元](<https://www.ithome.com/1/028/266.htm>)  
+  开源项目 Garlic LLM 让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度达每秒 43 个词元，无需联网即可完成 AI 聊天与语音对话。  
+  IT之家·人工智能 · 2026-11-17 15:12
+
+- [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)  
+  OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。  
+  OpenAI：部署安全与系统卡（网页） · 2026-11-17 15:00
+
+- [百度李彦宏在 APEC 峰会警告 AI 泡沫风险，称应用落地成效不及预期](<https://www.ithome.com/1/028/225.htm>)  
+  百度董事长兼 CEO 李彦宏在 2026 年 APEC 工商领导人峰会上表示，当前算力和基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。他对 AI 长期趋势保持乐观，并提出 AI 技术栈在芯片、云、模型、应用之上还需配套组织能力，类比电力革命缺少组织变革就难以释放经济价值；此前在百度世界大会 2026 上他称智能组织是 AI 时代新的厂房。  
+  IT之家·人工智能 · 2026-11-17 13:01
+
+- [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
+  据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
+  IT之家·人工智能 · 2026-11-17 11:28
+
+- [谷歌 Ironwood TPU 提交 MLPerf Training v6.1 成绩，8192 颗约 102 秒达标 DeepSeek-V3 预训练](<https://www.ithome.com/1/028/065.htm>)  
+  谷歌云在 MLPerf Training v6.1 第一轮提交了覆盖第七代 Ironwood TPU 与英伟达 Grace Blackwell GPU 的 10 项结果。  
+  IT之家·人工智能 · 2026-11-17 09:46
+
+- [奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过](<https://www.ithome.com/1/028/052.htm>)  
+  据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。  
+  IT之家·人工智能 · 2026-11-17 09:03
+
+- [Anthropic IPO 后要求员工提前 30 天制定 10b5-1 书面售股计划](<https://www.ithome.com/1/028/040.htm>)  
+  据 Business Insider 报道，Anthropic 计划在 IPO 后要求员工通过 10b5-1 交易计划出售股票，须书面预先确定数量、价格条件和至少 30 天后的出售日期。  
+  IT之家·人工智能 · 2026-11-17 08:20
+
+- [Gemini 3.5 Transcribe 新增语音编辑功能](<https://ai.google.dev/gemini-api/docs/changelog#11-17-2026>)  
+  gemini-3.5-transcribe 和 gemini-3.5-transcribe-live 现已支持语音驱动的编辑、改写与格式化，可作用于口述语音或已有文本（source\_text）。相关用法见音频转写与实时转写指南。  
+  Gemini API：更新日志（网页） · 2026-11-17 08:00
+
+- [Cerebras 推出分离式推理：GPU 负责预填充、Cerebras 系统负责解码，每兆瓦吞吐提升 5 倍](<https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference>)  
+  Cerebras 宣布分离式推理方案已投入生产，用 AMD Instinct GPU 处理 prompt（prefill），由 Cerebras CS-3 系统生成响应（decode）。  
+  Cerebras：Blog（网页） · 2026-11-17 08:00
+
+- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
+  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
+  NVIDIA Blog（RSS） · 2026-11-17 07:00
+
+- [Google 威胁情报组警告全自动 AI 网络攻击已经出现并将快速恶化](<https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/>)  
+  Google 威胁情报组（GTIG）通过 AI Threat Tracker 首次观察到攻击者完全自动化漏洞发现与利用，无人工介入。其暴露的服务器运行名为 exploit\_agent 的 AI 框架，连接多个大语言模型，通过比对补丁前后代码识别漏洞、开发并自动运行利用程序，配置文件中的俄语注释暗示操作者讲俄语，数据指向法国媒体、娱乐和教育网站。  
+  The Decoder：AI News（RSS） · 2026-11-17 03:42
+
+- [GPT-6 Astra 助力解决格点上的粒子物理标准模型难题](<https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/>)  
+  OpenAI 的 GPT-6 Astra 帮助产出一份证明，有望解决粒子物理标准模型格点化中存在 50 年的难题，论文作者为 UC Santa Barbara 物理学家 Nathaniel Craig，预印本和 OpenAI 博客均已发布。  
+  The Decoder：AI News（RSS） · 2026-11-17 03:19
+
 - [美国拟收紧规则，限制中国远程租用数据中心AI芯片](<https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/>)  
   美国商务部宣布修改出口管制规则，要求总部位于被评估为存在较高转运风险国家的企业，在向中国、俄罗斯和伊朗等转移大量高端芯片时申请许可并接受严格的客户尽职调查，同时提交月度交易报告。新规在联邦公报发布90天后生效，并为仅用于商业推荐系统的算力提供豁免。有分析认为，该政策可能加速中国企业转向国产AI芯片。  
   Ars Technica：AI（RSS） · 2026-11-17 03:10
@@ -9,10 +105,6 @@
 - [Sam Altman 回应 Jensen Huang 离职：没有他 AI 行业也会很好](<https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>)  
   Sam Altman 在 Semafor 活动上首次公开回应 Nvidia CEO Jensen Huang 离职，称 AI 需求和收入增长强劲，行业会很好。他称 Huang 为英雄但英雄有缺点，未表态是否应回归；Nvidia 曾同意为 OpenAI 俄亥俄数据中心提供最高 $105 billion 担保，Altman 表示不担心 Nvidia 资金枯竭。  
   TechCrunch：AI（RSS） · 2026-11-17 02:11
-
-- [canfit](<https://www.producthunt.com/products/canfit>)  
-  The top command for people running local LLMs and apps  
-  Product Hunt · English · 2026-11-17 01:42
 
 - [Redwood Research：Gemini 4 安全报告未能证明失控风险低](<https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate>)  
   Redwood Research 发文批评 Google DeepMind 的 Gemini 4 Argon 与 Carbon 安全报告，认为其基于控制措施的安全论证存在严重弱点，不足以证明部署风险已可靠缓解。  
@@ -82,104 +174,12 @@
   美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。  
   TechCrunch：AI（RSS） · 2026-11-16 23:02
 
+- [Qwen4-Max](<https://www.producthunt.com/products/qwen3>)  
+  Qwen's new flagship for long-running agent work  
+  Product Hunt · English · 2026-11-16 20:32
+
 - [Meta JiTTests 用 LLM 生成测试在风险代码合入前捕获隐私缺陷](<https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/>)  
   MarkTechPost 介绍 Meta 将 LLM 测试生成系统 JiTTests 从研究原型推进到生产基础设施，该系统编写旨在对风险 diff 失败的可执行测试，2026 年上半年在 diff 阶段捕获 74 起隐私 SEV，隐私 SEV 发生率下降 20%。  
   MarkTechPost（RSS） · 2026-11-16 18:39
-
-- [阿里发布 Qwen4-Max：2.4T MoE、71B 激活、1M 上下文](<https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/>)  
-  阿里 Qwen 团队发布 Qwen4 系列首个模型 Qwen4-Max，为专有稀疏 MoE 模型，2.4T 骨干参数、每 token 激活 71B，另有 328B N-gram Embedding 参数，支持文本、图像和视频输入及 1M token 上下文窗口、393K 最大输出。  
-  MarkTechPost（RSS） · 2026-11-16 17:44
-
-- [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
-  Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
-  OpenAI · 2026-11-16 17:30
-
-- [蚂蚁 inclusionAI 发布 Invoker-Render 1.0 可控视频渲染模型权重](<https://huggingface.co/inclusionAI/invoker-render-1.0>)  
-  蚂蚁 inclusionAI 在 Hugging Face 发布 Invoker-Render 1.0 因果流式 DiT 权重，属于 Code World Model 2.0 的视频渲染模型，以结构 Proxy、外观参考图和文本为输入，由上游引擎维护世界状态再生成外观。  
-  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-16 15:24
-
-- [智元发布 WITA-Omni：行业首个具身全模态端到端交互大模型](<https://www.agibot.com.cn/article/315/detail/270.html>)  
-  智元正式发布 WITA-Omni（硅光动语全模态大模型），称其为行业首个具身全模态端到端交互大模型，在音视频之外新增触觉、本体状态输入与动作、表情输出。其交互响应最快约400毫秒、平均约600毫秒，较业内平均水平快近3倍，并登顶 DailyOmni、MMAU、EmbSpatialBench 等四个榜单。该模型已在量产机器人远征 A3-Ultra 本体部署，并在文娱导览等场景开展验证。  
-  AGIBOT 智元（网页） · 2026-11-16 15:11
-
-- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
-  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
-  IT之家·人工智能 · 2026-11-16 14:54
-
-- [阿里巴巴发布 Qwen4-Max：总参数 2.4T，支持百万上下文](<https://mp.weixin.qq.com/s/Osjnqqa62HLFl3JoseUt8A>)  
-  阿里巴巴于 11 月 16 日发布新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。官方称其基于新架构和训练优化，在智能体和编程等关键能力上持续进化，可在金融、法律等专业领域从信息检索走向专业交付。上线期间千问APP会员可限免体验，使用 Qwen4-Max 不消耗会员额度，活动时间以产品端页面为准。  
-  公众号：千问APP（阿里） · 2026-11-16 12:30
-
-- [阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60%](<https://www.ithome.com/1/027/512.htm>)  
-  阿里通义千问团队发布新一代旗舰模型 Qwen4-Max，采用 2.4 万亿参数稀疏 MoE 架构，原生支持视觉理解，提供 100 万 token 上下文窗口。  
-  IT之家·人工智能 · 2026-11-16 10:07
-
-- [Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力](<https://qwen.ai/blog?id=qwen4-max>)  
-  Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。  
-  Qwen：Blog Retrieval（API） · 2026-11-16 10:00
-
-- [Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题](<https://www.ithome.com/1/027/505.htm>)  
-  Anthropic CEO 达里奥·阿莫迪上周五在纽约与摩根大通 CEO 杰米·戴蒙公开对谈，称算力是公司面临的最深层商业难题，并表示上市的重要原因就是增加现金储备，为高度不确定的算力需求提供缓冲。  
-  IT之家·人工智能 · 2026-11-16 09:52
-
-- [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
-  Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
-  IT之家·人工智能 · 2026-11-16 09:01
-
-- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
-  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
-  Hugging Face 官方团队博客 · 2026-11-16 08:00
-
-- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
-  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
-  Ollama：Blog（RSS） · 2026-11-16 08:00
-
-- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
-  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
-  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
-
-- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
-  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
-  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
-
-- [Together AI 分享如何为编码智能体运行平台评测](<https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai>)  
-  Together AI 详解其 Agent 评测体系：用任务清单加 Baseline、MCP、Skills 三种配置跑测，以 LLM 判官打分，9 月 30 日 215 次运行通过 192 次。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
-
-- [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>)  
-  Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea…  
-  OpenAI · 2026-11-16 06:00
-
-- [METR 测量模型对对齐评测的识别能力：调查型智能体能区分对齐与能力评测](<https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/>)  
-  METR 发布研究笔记，用调查型智能体在 19 个对齐评测和 36 个能力评测中探测环境，测量模型能否识别自己处于对齐评测。结果显示智能体区分两类评测的能力在过去一年持续提升，Opus 5.5 在其数据集上把所有对齐评测排在所有能力评测之上。模型识别依据包括环境看起来像模拟的蜜罐等线索，作者将对齐线索分为环境级和任务级两类，并提出可借此迭代改进对齐评测设计。  
-  METR：Notes（网页） · 2026-11-16 00:00
-
-- [Google 发布开源 TPU 模型设计与优化指南 tpu-codesign](<https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/>)  
-  Google 发布开源指南 AI-Hypercomputer/tpu-codesign，总结 TPU 上训练和推理大模型的 8 条设计原则，覆盖 256 维度对齐、静态 shape、LatentMoE 和并行映射等，并给出 Ironwood（TPU v7x）实测证据。  
-  Google Developers Blog（RSS） · 2026-11-16 00:00
-
-- [NVIDIA Vera Rubin NVL72 在 MLPerf Training v6.1 中实现最高 2 倍于 Blackwell Ultra 的性能](<https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/>)  
-  NVIDIA Vera Rubin NVL72 首次亮相 MLPerf Training v6.1，在七项基准中的六项取得最快训练时间，每 GPU 性能最高达优化版 GB300 NVL72 的 2 倍。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-16 00:00
-
-- [NVIDIA 如何后训练 Nemotron 3.5 Super VL 提升科学领域准确率](<https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/>)  
-  NVIDIA 发布 Nemotron for Science 科学智能体模型套件，并给出后训练 Nemotron 3.5 Super VL 的实操方案。在药物代谢预测任务上，16,384 token 输出预算下 SFT 将准确率提升 12%，RL 后训练再提升 17%。流程基于 NeMo Gym 构建 RLVR 环境、用 GRPO 加 LoRA 微调，并以 Tanimoto 分子相似度自动打分。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-16 00:00
-
-- [Google 在 64 颗 TPU v5p 上实现训练-推理逐位零误差的稳定 On-Policy RL](<https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/>)  
-  Google 在 Tunix 中实现 Zero-TIM，在 64 颗 TPU v5p（DP8×TP8）多主机规模下让采样器与训练器对同一 token 给出逐位相同的 logprob，消除隐藏的 off-policy 数值偏差。  
-  Google Developers Blog（RSS） · 2026-11-16 00:00
-
-- [Anthropic Claude Fable 5.2 用约 70 万次模拟笔触画出照片级画作](<https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/>)  
-  Anthropic 新模型 Claude Fable 5.2 不走扩散路线，而是通过 1,000 到 2,000 行的 Python 程序驱动模拟画笔引擎，在虚拟画布上逐笔作画，Jake Eaton 演示的停车场购物车场景使用了约 700,000 次模拟笔触，不依赖外部图像模型或底图。  
-  The Decoder：AI News（RSS） · 2026-11-15 23:42
-
-- [开源盘古模型 openPangu-2.1-Pro 上线华为云，升级 Agent 开发、AI 编码与推理优化](<https://www.ithome.com/1/027/450.htm>)  
-  华为云 MaaS 平台正式上线开源盘古模型 openPangu-2.1-Pro，围绕 Agent 开发、AI 编码和推理优化三大方向升级，增强深度研究、鸿蒙系统操控、鸿蒙 App 开发与昇腾算子生成等场景能力。  
-  IT之家·人工智能 · 2026-11-15 21:16
-
-- [英伟达黄仁勋卸任、阿里芯片子公司赴港IPO、Qwen4-Max 首次亮相](<https://www.recodechinaai.com/p/nvidia-without-jensen-alibabas-chip>)  
-  英伟达宣布黄仁勋于11月11日卸任CEO及董事，CFO Colette Kress 出任临时CEO，董事会已就涉及其与英伟达中国业务的相关指控启动独立调查。阿里11月10日披露，芯片子公司 T-Head 已于9月11日以保密方式提交香港上市申请，发行条款尚未确定。阿里11月11日预览下一代 Qwen4 家族首款模型 Qwen4-Max，支持文本、图像、视频输入和100万 token 上下文窗口。  
-  Recode China AI（RSS） · 2026-11-15 21:06
 
 [返回面板](../README.md) · [上一页](model-3.md) · [下一页](model-5.md) · 第 4 / 6 页

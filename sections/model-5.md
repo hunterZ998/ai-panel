@@ -2,6 +2,102 @@
 
 [返回面板](../README.md) · [上一页](model-4.md) · [下一页](model-6.md) · 第 5 / 6 页
 
+- [阿里发布 Qwen4-Max：2.4T MoE、71B 激活、1M 上下文](<https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/>)  
+  阿里 Qwen 团队发布 Qwen4 系列首个模型 Qwen4-Max，为专有稀疏 MoE 模型，2.4T 骨干参数、每 token 激活 71B，另有 328B N-gram Embedding 参数，支持文本、图像和视频输入及 1M token 上下文窗口、393K 最大输出。  
+  MarkTechPost（RSS） · 2026-11-16 17:44
+
+- [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
+  Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
+  OpenAI · 2026-11-16 17:30
+
+- [蚂蚁 inclusionAI 发布 Invoker-Render 1.0 可控视频渲染模型权重](<https://huggingface.co/inclusionAI/invoker-render-1.0>)  
+  蚂蚁 inclusionAI 在 Hugging Face 发布 Invoker-Render 1.0 因果流式 DiT 权重，属于 Code World Model 2.0 的视频渲染模型，以结构 Proxy、外观参考图和文本为输入，由上游引擎维护世界状态再生成外观。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-16 15:24
+
+- [智元发布 WITA-Omni：行业首个具身全模态端到端交互大模型](<https://www.agibot.com.cn/article/315/detail/270.html>)  
+  智元正式发布 WITA-Omni（硅光动语全模态大模型），称其为行业首个具身全模态端到端交互大模型，在音视频之外新增触觉、本体状态输入与动作、表情输出。其交互响应最快约400毫秒、平均约600毫秒，较业内平均水平快近3倍，并登顶 DailyOmni、MMAU、EmbSpatialBench 等四个榜单。该模型已在量产机器人远征 A3-Ultra 本体部署，并在文娱导览等场景开展验证。  
+  AGIBOT 智元（网页） · 2026-11-16 15:11
+
+- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
+  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
+  IT之家·人工智能 · 2026-11-16 14:54
+
+- [阿里巴巴发布 Qwen4-Max：总参数 2.4T，支持百万上下文](<https://mp.weixin.qq.com/s/Osjnqqa62HLFl3JoseUt8A>)  
+  阿里巴巴于 11 月 16 日发布新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。官方称其基于新架构和训练优化，在智能体和编程等关键能力上持续进化，可在金融、法律等专业领域从信息检索走向专业交付。上线期间千问APP会员可限免体验，使用 Qwen4-Max 不消耗会员额度，活动时间以产品端页面为准。  
+  公众号：千问APP（阿里） · 2026-11-16 12:30
+
+- [阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60%](<https://www.ithome.com/1/027/512.htm>)  
+  阿里通义千问团队发布新一代旗舰模型 Qwen4-Max，采用 2.4 万亿参数稀疏 MoE 架构，原生支持视觉理解，提供 100 万 token 上下文窗口。  
+  IT之家·人工智能 · 2026-11-16 10:07
+
+- [Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力](<https://qwen.ai/blog?id=qwen4-max>)  
+  Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。  
+  Qwen：Blog Retrieval（API） · 2026-11-16 10:00
+
+- [Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题](<https://www.ithome.com/1/027/505.htm>)  
+  Anthropic CEO 达里奥·阿莫迪上周五在纽约与摩根大通 CEO 杰米·戴蒙公开对谈，称算力是公司面临的最深层商业难题，并表示上市的重要原因就是增加现金储备，为高度不确定的算力需求提供缓冲。  
+  IT之家·人工智能 · 2026-11-16 09:52
+
+- [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
+  Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
+  IT之家·人工智能 · 2026-11-16 09:01
+
+- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
+  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
+  Hugging Face 官方团队博客 · 2026-11-16 08:00
+
+- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
+  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
+  Ollama：Blog（RSS） · 2026-11-16 08:00
+
+- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
+  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
+  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
+
+- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
+  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
+  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
+
+- [Together AI 分享如何为编码智能体运行平台评测](<https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai>)  
+  Together AI 详解其 Agent 评测体系：用任务清单加 Baseline、MCP、Skills 三种配置跑测，以 LLM 判官打分，9 月 30 日 215 次运行通过 192 次。  
+  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
+
+- [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>)  
+  Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea…  
+  OpenAI · 2026-11-16 06:00
+
+- [METR 测量模型对对齐评测的识别能力：调查型智能体能区分对齐与能力评测](<https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/>)  
+  METR 发布研究笔记，用调查型智能体在 19 个对齐评测和 36 个能力评测中探测环境，测量模型能否识别自己处于对齐评测。结果显示智能体区分两类评测的能力在过去一年持续提升，Opus 5.5 在其数据集上把所有对齐评测排在所有能力评测之上。模型识别依据包括环境看起来像模拟的蜜罐等线索，作者将对齐线索分为环境级和任务级两类，并提出可借此迭代改进对齐评测设计。  
+  METR：Notes（网页） · 2026-11-16 00:00
+
+- [Google 发布开源 TPU 模型设计与优化指南 tpu-codesign](<https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/>)  
+  Google 发布开源指南 AI-Hypercomputer/tpu-codesign，总结 TPU 上训练和推理大模型的 8 条设计原则，覆盖 256 维度对齐、静态 shape、LatentMoE 和并行映射等，并给出 Ironwood（TPU v7x）实测证据。  
+  Google Developers Blog（RSS） · 2026-11-16 00:00
+
+- [NVIDIA Vera Rubin NVL72 在 MLPerf Training v6.1 中实现最高 2 倍于 Blackwell Ultra 的性能](<https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/>)  
+  NVIDIA Vera Rubin NVL72 首次亮相 MLPerf Training v6.1，在七项基准中的六项取得最快训练时间，每 GPU 性能最高达优化版 GB300 NVL72 的 2 倍。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-16 00:00
+
+- [NVIDIA 如何后训练 Nemotron 3.5 Super VL 提升科学领域准确率](<https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/>)  
+  NVIDIA 发布 Nemotron for Science 科学智能体模型套件，并给出后训练 Nemotron 3.5 Super VL 的实操方案。在药物代谢预测任务上，16,384 token 输出预算下 SFT 将准确率提升 12%，RL 后训练再提升 17%。流程基于 NeMo Gym 构建 RLVR 环境、用 GRPO 加 LoRA 微调，并以 Tanimoto 分子相似度自动打分。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-16 00:00
+
+- [Google 在 64 颗 TPU v5p 上实现训练-推理逐位零误差的稳定 On-Policy RL](<https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/>)  
+  Google 在 Tunix 中实现 Zero-TIM，在 64 颗 TPU v5p（DP8×TP8）多主机规模下让采样器与训练器对同一 token 给出逐位相同的 logprob，消除隐藏的 off-policy 数值偏差。  
+  Google Developers Blog（RSS） · 2026-11-16 00:00
+
+- [Anthropic Claude Fable 5.2 用约 70 万次模拟笔触画出照片级画作](<https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/>)  
+  Anthropic 新模型 Claude Fable 5.2 不走扩散路线，而是通过 1,000 到 2,000 行的 Python 程序驱动模拟画笔引擎，在虚拟画布上逐笔作画，Jake Eaton 演示的停车场购物车场景使用了约 700,000 次模拟笔触，不依赖外部图像模型或底图。  
+  The Decoder：AI News（RSS） · 2026-11-15 23:42
+
+- [开源盘古模型 openPangu-2.1-Pro 上线华为云，升级 Agent 开发、AI 编码与推理优化](<https://www.ithome.com/1/027/450.htm>)  
+  华为云 MaaS 平台正式上线开源盘古模型 openPangu-2.1-Pro，围绕 Agent 开发、AI 编码和推理优化三大方向升级，增强深度研究、鸿蒙系统操控、鸿蒙 App 开发与昇腾算子生成等场景能力。  
+  IT之家·人工智能 · 2026-11-15 21:16
+
+- [英伟达黄仁勋卸任、阿里芯片子公司赴港IPO、Qwen4-Max 首次亮相](<https://www.recodechinaai.com/p/nvidia-without-jensen-alibabas-chip>)  
+  英伟达宣布黄仁勋于11月11日卸任CEO及董事，CFO Colette Kress 出任临时CEO，董事会已就涉及其与英伟达中国业务的相关指控启动独立调查。阿里11月10日披露，芯片子公司 T-Head 已于9月11日以保密方式提交香港上市申请，发行条款尚未确定。阿里11月11日预览下一代 Qwen4 家族首款模型 Qwen4-Max，支持文本、图像、视频输入和100万 token 上下文窗口。  
+  Recode China AI（RSS） · 2026-11-15 21:06
+
 - [Sebastian Raschka 图解现代 LLM 的位置嵌入：从 GPT-2 到 RoPE 与 NoPE](<https://magazine.sebastianraschka.com/p/understanding-positional-embeddings>)  
   Sebastian Raschka 发布长文教程，讲解 LLM 如何编码 token 位置信息，涵盖 GPT-2 的学习式绝对位置嵌入、原始 Transformer 的正弦编码、RoPE 的旋转机制及 PyTorch 实现。  
   Ahead of AI（RSS） · 2026-11-15 20:10
@@ -54,18 +150,6 @@
   Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。  
   Google Research：Blog（网页） · 2026-11-13 08:00
 
-- [Google发布Gemini 4 Hydrogen，面向日常编程和Agent执行，提供四档思考强度及100万token上下文。官方API标价为每百万输入token 1.50美元、输出7.50美元，并支持与Carbon/Argon组合使用；速度与评测结果仍属厂商数据。](<https://x.com/Google/status/2120941982004523367>)  
-  Meet Gemini 4 Hydrogen. It brings cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic work. Across 4 thinking levels, it stands on its own or teams up with Carbon and Argon — 2.5X faster than 3.8 Flash, outpacing co…  
-  @Google · 2026-11-13 02:09
-
-- [Edge0发布145B/120B本地模型。已核对的145B Q3\_K模型卡列出40.81 GiB权重及分层驻留测试，不能把原帖“29G”理解为通用最低配置；模型采用社区许可，商用托管、独立商业助手等另需授权。性能仍属厂商报告，未独立复测。](<https://x.com/SamuelZengML/status/2120939739431972922>)  
-  Introducing Edge0-145B and Edge0-120B, @Edge0\_AI’s first device-native 100B-class foundation models with open weights. Cloud-level intelligence on your laptop. Free, offline, and fast enough for real vibe coding. - Smart: beats Claude Opus 4.6 on Terminal-Benc…  
-  @SamuelZengML · 2026-11-13 02:00
-
-- [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>)  
-  We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive r…  
-  Google AI · 2026-11-13 02:00
-
 - [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
   AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
   20VC · 2026-11-12 15:07
@@ -91,73 +175,5 @@
 
 - [实测Fable 5.2：15秒画完4万年人类艺术史，我还摸清了「满分提示词」套路](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115907&idx=1&sn=bdb6512fb5b8c5670803c67081c1f850>)  
   APPSO · 2026-11-10 18:04
-
-- [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942809&idx=2&sn=6e947b51ab34901d590c22156c1db720>)  
-  量子位 · 2026-11-10 15:27
-
-- [当美国无法建设数据中心，会对 AI 产生怎样的冲击](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116265&idx=1&sn=a5b1ed31fc644479b961afebac1b76f1>)  
-  极客公园 · 2026-11-10 15:13
-
-- [Fable 5.2首批实测来了！网友：Opus突然不香了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=2&sn=4018cb8697f3c981589e71764a1affa1>)  
-  量子位 · 2026-11-10 13:24
-
-- [Fable 5.2睁眼拼魔方，中国AI闭眼搓麻将！人类「手感」首次Token化](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741625&idx=1&sn=cec9a700b23f53b333cc82b60cb99445>)  
-  新智元 · 2026-11-10 11:38
-
-- [Fable 5.2 还没捂热，Gemini 4 神秘新模型就刷屏了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115835&idx=1&sn=7114821869a486b7b2f3fbf298406182>)  
-  APPSO · 2026-11-10 11:21
-
-- [中国卷大模型，美国缺机器人：在硅谷做具身智能背后的「中国启示录」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748707&idx=2&sn=9961a7f19de98ddc48368a8305639d3b>)  
-  AI科技评论 · 2026-11-10 09:30
-
-- [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115784&idx=1&sn=bcf79b8e25245607c5db48587044d3d1>)  
-  APPSO · 2026-11-10 08:58
-
-- [Fable 5.2狂刷72项世界纪录，23年黑洞难题告破！科学史又改写了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=1&sn=6c1a2418ed8ea73a9ddbbc31995bba23>)  
-  新智元 · 2026-11-10 08:55
-
-- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
-  APPSO · 2026-11-10 06:42
-
-- [最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741547&idx=1&sn=71d6d9fb635f0ea5b0714b04b7a68bf3>)  
-  新智元 · 2026-11-10 06:41
-
-- [Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942444&idx=1&sn=33f7edd8c7bca1dffbcb94a11b82a34d>)  
-  量子位 · 2026-11-10 05:59
-
-- [GPT-6.2首测！网友：终于有个能压倒Opus 5.5的了？？](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=1&sn=9e5afce079bbaa1db52ccabdc4bc8f2c>)  
-  新智元 · 2026-11-09 12:56
-
-- [Qwen 4疑似偷跑！游戏开发超越Opus 5.5，成本暴降85%](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=1&sn=210b20c50f8aa2e46e67cb7ef169a42f>)  
-  量子位 · 2026-11-09 11:05
-
-- [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
-  量子位 · 2026-11-09 11:05
-
-- [Anthropic估值砍到1万亿美元](<https://www.pedaily.cn/first/190888.shtml>)  
-  11月7日，经历了科技股遭遇大规模抛售之后，一些投资者开始下调对人工智能公司Anthropic的估值预期。而在不久前，这家人工智能公司还在为IPO冲击2万亿美元估值做准备。但据相关利益方透露，即便是1.5万亿美元的估值，如今也已经充满…  
-  投资界 · 2026-11-09 08:31
-
-- [OpenAI完成110亿美元新融资，估值1.25万亿美元](<https://www.pedaily.cn/first/190887.shtml>)  
-  据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。资金已于周五划入公司账户。本轮剩余部分——地方政府可能增至最高200亿美元——预计将在未来数周内完成。在推迟了首次公开募股（IPO）…  
-  投资界 · 2026-11-09 08:31
-
-- [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
-  APPSO · 2026-11-08 15:26
-
-- [实测 HY4：腾讯最「夯」大模型，离一线还有多远](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116182&idx=1&sn=d4d45a0cd14d25065292cdc5e195ad7c>)  
-  极客公园 · 2026-11-07 18:00
-
-- [Crusoe sells troubled Wyoming data center project to Google](<https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/>)  
-  The deal highlights the challenges of developing massive AI data centers.  
-  TechCrunch · 2026-11-07 09:40
-
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
-  OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
-  TechCrunch · 2026-11-07 06:53
-
-- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](<https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/>)  
-  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
-  TechCrunch · 2026-11-06 23:54
 
 [返回面板](../README.md) · [上一页](model-4.md) · [下一页](model-6.md) · 第 5 / 6 页

@@ -1,182 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 39 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 38 页
 
-- [Crisis meeting.](<https://x.com/brivael/status/2122754999923200147>)  
-  Somewhere between Davos and a Brussels think tank. On the agenda: a week of outages across America. Microsoft goes down. FAA air traffic control goes down. United grounds its planes. Chase and other banks lock people out of their accounts. Around the table,  
-  @brivael · 2026-11-18 02:13
+- [BREAKING: offrail 27b uncensored just crossed 18k downloads last month on huggingface 🚨 if you own an 8gb gpu and w…](<https://x.com/sudoingX/status/2122842471461757412>)  
+  BREAKING: offrail 27b uncensored just crossed 18k downloads last month on huggingface 🚨 if you own an 8gb gpu and want an uncensored model that refuses nothing so you can do crazy shit, this is the way to go, a 27b that fits on your card and never stops to lec…  
+  @sudoingX · 2026-11-18 08:01
 
-- [As an Nvidia shareholder @nvidia, I believe the only fair resolution to the Jensen problem is a shareholder vote.](<https://x.com/HopeToProsper/status/2122754633550774664>)  
-  The board doesn't own the company; the shareholders do, and our voices haven't been heard. I vote to keep Jensen as CEO. @JensenHuang  
-  @HopeToProsper · 2026-11-18 02:11
+- [Running orchestrator in Antigravity CLI\(hydrogen for planning and carbon for executing\).](<https://x.com/Ivan79357613/status/2122842471482740959>)  
+  No more than one hour to create a sim world in Mujoco,implement a policy to avoid obstacles computing distances through cameras and add a tiny vlm for difficult tasks,using a Unitree R1..wow  
+  @Ivan79357613 · 2026-11-18 08:01
 
-- [Microsoft AI 发布 MAI-Image-2.7，登顶 AA-Image-Editing v2.1 图像编辑评测](<https://x.com/ArtificialAnlys/status/2122754535206846610>)  
-  Artificial Analysis 介绍 Microsoft AI 发布 MAI-Image-2.7，成为 AA-Image-Editing v2.1 榜单第一，价格约为其身后四个模型的六分之一。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:11
+- [Gemini 任务功能助你快速清空待办](<https://x.com/GeminiApp/status/2122842388792233998>)  
+  用 Gemini 中的任务功能更快清空你的待办清单。✔️ 从聊天切换到任务，试试这五件事，把繁忙事务交出去，把时间拿回来。  
+  X：Gemini \(@GeminiApp\) · 2026-11-18 08:00
 
-- [🚨BREAKING: APPLE is the latest tech giant to experience widespread service disruptions.](<https://x.com/MarioNawfal/status/2122754494949933198>)  
-  Users are reporting problems with iCloud, Apple Pay, the App Store and several other Apple services, according to Downdetector. Microsoft, AWS and major U.S. banks have also experienced  
-  @MarioNawfal · 2026-11-18 02:11
+- [连板高标（11月17日） 3板--华东重机 ，GPU芯片； 4天3板--好当家 ，海洋经济； 2板--顺钠股份 ，变压器；…](<https://x.com/minnikaori/status/2122842349151625551>)  
+  ​​​ \#A股 \#涨幅榜  
+  @minnikaori · 2026-11-18 08:00
 
-- [URGENTE — Se reportan caídas en Estados Unidos de los servicios de Gmail, App Store, Apple Pay, iCloud, Apple Music…](<https://x.com/qtf/status/2122754399516713231>)  
-  Gran parte de los servicios de Apple han caído. Esto va creciendo de manera importante, FF  
-  @qtf · 2026-11-18 02:11
+- [huggingface feels like that one friend that keeps showing up with new useful tricks every week.](<https://x.com/chenzhangreal/status/2122842315270336754>)  
+  @chenzhangreal · 2026-11-18 08:00
 
-- [\(FT\) - Nvidia stopped disclosing the scale of its business in Singapore last year, at a time the city-state account…](<https://x.com/carlquintanilla/status/2122754251273466135>)  
-  \(FT\) - Nvidia stopped disclosing the scale of its business in Singapore last year, at a time the city-state accounted for almost half of its worldwide revenues. @FT $NVDA  
-  @carlquintanilla · 2026-11-18 02:10
+- [OpenAI gave four independent assessors, including METR and Apollo Research, access to model checkpoints, source cod…](<https://x.com/LesOttolenghi/status/2122842297775599761>)  
+  Outside review works only with inside access. Would your AI vendors give an auditor the same?  
+  @LesOttolenghi · 2026-11-18 08:00
 
-- [OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter](<https://x.com/OpenRouter/status/2122754139533066653>)  
-  OpenRouter 宣布 OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 上线。Astra 面向最难的项目，评测成绩创新高且每任务成本不到 GPT-6 Astra 的三分之一，价格为 $8/M 输入、$40/M 输出；Sol 面向日常智能体工作，价格为 $2/M 输入、…  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-18 02:10
+- [Google just warned of the threat posed by autonomous AI models by stating that the “era of autonomous attacks has a…](<https://x.com/EpochTimes/status/2122842293669372168>)  
+  Google just warned of the threat posed by autonomous AI models by stating that the “era of autonomous attacks has arrived.” “Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in,” Google Threat Intelligence Group said …  
+  @EpochTimes · 2026-11-18 08:00
 
-- [OpenAI 发布 GPT-6.2 Sol 与 Astra，Sol 的 ultrafast 扩展至 Pro 200 套餐](<https://x.com/thsottiaux/status/2122753991000133943>)  
-  OpenAI 发布 GPT-6.2 Astra 和 Sol，两个模型现已开放使用，官方称其高效且面向真实场景表现。作者（OpenAI 员工）补充 Sol 的 ultrafast 已扩展到 Pro 200 套餐，并表示 Sol 是他日常使用的主力模型。详情见  
-  X：Tibo \(@thsottiaux\) · 2026-11-18 02:09
+- [Isomorphic Labs Secures $5B for AI Drug Discovery Clinical Trials The funding moves AI-designed drug candidates tow…](<https://x.com/DailyAIWireNews/status/2122842276980236529>)  
+  Isomorphic Labs Secures $5B for AI Drug Discovery Clinical Trials The funding moves AI-designed drug candidates toward clinical trials, validating the potential to make pharmaceutical R&amp;amp;D more efficient and accelerate new therapeutics. \#DrugDiscovery \#AIRe…  
+  @DailyAIWireNews · 2026-11-18 08:00
 
-- [Jensen Huang is open to making a comeback at NVIDIA. 👀 Jensen Huang has broken his silence, apologizing for his per…](<https://x.com/rxendy/status/2122753577349247044>)  
-  He says he is willing to return as CEO if the board believes it is in the  
-  @rxendy · 2026-11-18 02:07
+- [Why?](<https://x.com/cybercpu/status/2122842236597788875>)  
+  It's the AI industry that's going to send us into the dark ages. You do know what happens once the AI industry puts content creators out of business? There won't be any training data left. There won't be anything to train your bots. I hope you enjoyed the 80s.…  
+  @cybercpu · 2026-11-18 08:00
 
-- [OpenAI 法律专用配置领跑 Harvey LAB 基准](<https://x.com/ArtificialAnlys/status/2122752733497463210>)  
-  OpenAI 的 Astra for Law 6.2 在 Harvey LAB-AA v1.1 基准上以 20.8% 的 Hallucination-Gated All-Pass Rate 排名第一，GPT-6.2 Astra（max）以 15.0% 位居第二。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:04
+- [我发现一件挺值得警惕的事。](<https://x.com/jerrychen0awi/status/2122842222995341364>)  
+  Anthropic开始收紧模型蒸馏之后，国产大模型的迭代节奏似乎也出现了变化。 Kimi迟迟没有重大突破，DeepSeek Pro迟迟未见，GLM惊艳亮相后后续进展有限，Qwen 4也没有达到部分市场预期。 这到底意味着什么？ 我觉得有两种可能： 第一，技术瓶颈。  
+  @jerrychen0awi · 2026-11-18 08:00
 
-- [💰 The world's most valuable companies, including Anthropic. 1. 🇺🇸 Apple: $5.18T 2. 🇺🇸 Nvidia: $3.93T 3. 🇺🇸 Microsof…](<https://x.com/stats_feed/status/2122752531868885288>)  
-  💰 The world's most valuable companies, including Anthropic. 1. 🇺🇸 Apple: $5.18T 2. 🇺🇸 Nvidia: $3.93T 3. 🇺🇸 Microsoft: $3.89T 4. 🇺🇸 Alphabet: $3.60T 5. 🇺🇸 Amazon: $2.88T 6. 🇹🇼 TSMC: $2.07T 7. 🇺🇸 SpaceX: $1.89T 8. 🇸🇦 Saudi Aramco: $1.70T 9. 🇺🇸 Broadcom: $1.66T 1…  
-  @stats\_feed · 2026-11-18 02:03
+- [Google DeepMind released Gemini Robotics 2.5, a vision-language-action model aimed at better dexterity and safety.](<https://x.com/robochocat/status/2122842219346616559>)  
+  Right priorities. I'll believe the reliability claims when I see the task benchmarks.  
+  @robochocat · 2026-11-18 08:00
 
-- [I think we all know the frustration of depending on technology for work, only for the service to go down.](<https://x.com/Ismailsalehgw/status/2122752520447508783>)  
-  One Microsoft outage can remind millions of people how much of daily life now depends on a screen  
-  @Ismailsalehgw · 2026-11-18 02:03
+- [Four AI security incidents this week, and none of them needed a hacker to break in.](<https://x.com/curatedbyap/status/2122842219396698477>)  
+  Every one came through something people had already installed and trusted 🧵  
+  @curatedbyap · 2026-11-18 08:00
 
-- [OpenAI 发布 gpt-6.2-astra 与 gpt-6.2-sol，Ultrafast 降价 50%](<https://x.com/OpenAIDevs/status/2122752500877144461>)  
-  OpenAI 宣布 API 中可使用 gpt-6.2-astra 和 gpt-6.2-sol 两个模型，均支持 Fast 与 Ultrafast 模式。未来三个月 Ultrafast 价格下调 50%，对 API 和 Enterprise 用户仅为 Standard 的 3 倍成本；Ultrafa…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [Reads it, doesn't incorporate it into training data at all.](<https://x.com/reevenos/status/2122842190703698206>)  
+  If you don't know the difference between training and inference then this conversation is beyond you, sorry.  
+  @reevenos · 2026-11-18 07:59
 
-- [GPT-6.2 Astra 登顶 Terminal-Bench Science](<https://x.com/OpenAIDevs/status/2122752488558522852>)  
-  GPT-6.2 Astra 在 Terminal-Bench Science 0.1 上创下新高，该基准测试模型在终端中开展科学工作的能力，其得分比 GPT-6 Astra 高出 9 个百分点，成本不到后者的 1/3。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [have more faith in the workers to know what they want next time. that and nobody wants nvidia's talons in huggingfa…](<https://x.com/Tigger0000/status/2122842014920458692>)  
+  have more faith in the workers to know what they want next time. that and nobody wants nvidia's talons in huggingface without you.  
+  @Tigger0000 · 2026-11-18 07:59
 
-- [GPT-6.2 Astra 与 Sol 提升编码质量](<https://x.com/OpenAIDevs/status/2122752473723175256>)  
-  GPT-6.2 Astra 和 Sol 持续提升编码质量与效率，带来更高的每美元智能。 日常编码请从 GPT-6.2 Sol 开始。在 Cognition 的 FrontierCode 2.0 上以最大推理强度运行时，它的成绩与 Astra 相差不到半分，而每个任务的 API 成本约为后者的 1/…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [格局这东西，从来不是靠嘴上标榜“安全伦理”吹出来的，而是靠开源代码砸出来的。](<https://x.com/taketokennn/status/2122841967641981017>)  
+  一边是美国某些AI巨头和政客，嘴上天天念经喊着为了全人类，转头就搞芯片断供、封锁账号、把模型死死锁在天价付费墙后面当成收割全世界的权力工具；  
+  @taketokennn · 2026-11-18 07:59
 
-- [OpenAI 发布 GPT-6.2 Astra，Agents' Last Exam 得分超 GPT-6 Astra 5.2…](<https://x.com/OpenAIDevs/status/2122752458464358620>)  
-  OpenAI 宣布 GPT-6.2 Astra 在 Agents' Last Exam 上创下新高，比 GPT-6 Astra 高 5.2 分，单任务成本不到其三分之一。该基准测试分析营销活动、制作幻灯片和构建财务表格等多步复杂专业工作。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [Meta 11月17日官网：Muse 即日起在澳大利亚上线，可在 iOS、Android 和 的 Mac 应用使用，并写还…](<https://x.com/Kerry_z21/status/2122841854928388458>)  
+  Meta 11月17日官网：Muse 即日起在澳大利亚上线，可在 iOS、Android 和 的 Mac 应用使用，并写还将登陆 AI 眼镜。官方定位是个人 AI agent，可连接 Gmail、Google Calendar、Instagram、OpenTable 等；澳大利亚本地连接将逐步推出…  
+  @Kerry\_z21 · 2026-11-18 07:58
 
-- [GPT-6.2 Astra 生成RC越野车装配指南](<https://x.com/OpenAIDevs/status/2122752442240827467>)  
-  GPT-6.2 Astra 利用一辆RC越野车的公开照片和组装手册，制作了一份动画装配指南，展示各部件如何拼装在一起，并附有一份图文零件目录。 在 BenchCAD 2.1 Core 上——该基准测试考察根据工程图纸构建3D零件和装配体的能力——GPT-6.2 Astra 的表现比 GPT-6 A…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [Affordable AI video generation means more opportunities for everyone to create without worrying about high costs](<https://x.com/presleymbbfzb/status/2122841607921655873>)  
+  @presleymbbfzb · 2026-11-18 07:57
 
-- [OpenAI 发布 GPT-6.2 Astra 旗舰模型，API 价格较 GPT-6 Astra 降低 20%](<https://x.com/OpenAIDevs/status/2122752394002071717>)  
-  OpenAI 发布 GPT-6.2 Astra 旗舰模型，带来代码更干净、前端与 3D 模型能力提升以及更高效的工具调用。Astra 和 Sol 在高难度任务上能用更少输出 token 取得更好结果；API 中 Astra 标准输入输出 token 价格比 GPT-6 Astra 低 20%，So…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:03
+- [JUST IN: 🇺🇸🇨🇳 Nvidia $NVDA will no longer sell its H200 chips in China.](<https://x.com/BRICSinfo/status/2122840906453885152>)  
+  @BRICSinfo · 2026-11-18 07:54
 
-- [People don't understand just how much these top tier CEO's are work-maxxing. \*Jensen Huang routinely works from 9am…](<https://x.com/nic_munoz/status/2122752377908568483>)  
-  People don't understand just how much these top tier CEO's are work-maxxing. \*Jensen Huang routinely works from 9am to midnight \(weekends as well\) He himself said "There may be people smarter than me, but no one is ever going to work harder than me." He can't …  
-  @nic\_munoz · 2026-11-18 02:03
+- [🔻 SERIES: DARK-10 // WAVE SCHEDULE // DAY 1 // THIS IS NOT A TEST Five systems fell in five days.](<https://x.com/MrPool_QQ/status/2122840347298381947>)  
+  Microsoft, the sky, one hundred seventy-eight websites, and the intelligence pipe. This is the sixth thing, and it is the one with a schedule. A test has an advertised end. That  
+  @MrPool\_QQ · 2026-11-18 07:52
 
-- [OpenAI 发布 GPT-6.2 Astra 与 Sol](<https://x.com/gdb/status/2122752345364935113>)  
-  OpenAI 发布 GPT-6.2 Astra 与 Sol 两个模型，现已在 openai.com 公开。Greg Brockman 称两个模型在专业工作和科学研究方面表现出色，且每任务成本明显更低。  
-  X：Greg Brockman \(@gdb\) · 2026-11-18 02:02
+- [Gabe Newell is "literally guarding the gates of Hell" with Steam, says Doom and Quake designer Sandy Petersen.](<https://x.com/ZackShutt/status/2122839999288672406>)  
+  He says Steam keeps Disney, EA and Microsoft from controlling PC gaming. Lord Gaben stays undefeated.  
+  @ZackShutt · 2026-11-18 07:51
 
-- [OpenAI 的 GPT-6.2 Astra 与 GPT-6.2 Sol 现已可在 Codex 和 API 中使用](<https://x.com/OpenAIDevs/status/2122752256923873753>)  
-  OpenAI Developers 宣布，等待结束，用户现在可以在 Codex 和 API 中使用 GPT-6.2 Astra 和 GPT-6.2 Sol。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-18 02:02
+- [🚨🔴 Familiares de Joselyn Rocha piden apoyo para localizar al conductor que la atropelló la mañana del pasado vierne…](<https://x.com/LupitaJuarezH/status/2122839148557918393>)  
+  La hermana de Joselyn, Dayani Rocha, dio a conocer que el  
+  @LupitaJuarezH · 2026-11-18 07:47
 
-- [11/12 - cyberattack on Microsoft 11/13 - cyberattack on US transportation 11/16 - cyberattack on CHASE bank 11/17 -…](<https://x.com/Nostre_damus/status/2122752164435300753>)  
-  Tomorrow is the big one  
-  @Nostre\_damus · 2026-11-18 02:02
+- [I’m trying to think of something more insane than Gavin Newsom calling out Jensen Huang for sleeping with a subordi…](<https://x.com/TheKevinDalton/status/2122837680484651069>)  
+  Actually, it’s not the same thing. I’m pretty  
+  @TheKevinDalton · 2026-11-18 07:41
 
-- [GPT-6.2 Astra 和 Sol 上线 Arena，可前往 Agent Arena 实测](<https://x.com/arena/status/2122752107292099001>)  
-  Arena 宣布 OpenAI 的 GPT-6.2 Astra 和 Sol 已进入 Arena，用户可前往 Agent Arena 测试，分数即将公布。Agent Arena 基于全球用户提交的数百万个真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具完成复杂工作流，排行榜以因果追…  
-  X：Arena \(@arena\) · 2026-11-18 02:01
+- [NVIDIA 盘后财报营收 1,158 亿美元，管理层谈新云扩张与双重变现](<https://x.com/indigox/status/2122836757851111473>)  
+  NVIDIA 盘后发布财报，营收 1,158 亿美元，同比 +103%，比指引上限高出 56 亿，数据中心 1,076 亿，非 GAAP 毛利率 74.9%，每股收益 2.68 美元，Q4 指引 1,300 亿。  
+  X：indigo \(@indigox\) · 2026-11-18 07:38
 
-- [Claude 平台上线关联计费测试版](<https://x.com/ClaudeDevs/status/2122751850265112746>)  
-  关联计费（Linked billing）今日以测试版上线，支持 Asana、ClickHouse、Factory、Gumloop、Harness、Higgsfield AI、Kilo Code、Linear、Major、Mintlify、Niteshift、Omni、OpenArt、Railway…  
-  X：Claude Devs \(@ClaudeDevs\) · 2026-11-18 02:00
+- [JENSEN HUANG WILL NEVER RETURN: THE AI BUBBLE COLLAPSES NEXT Jiang Xueqin, the Chinese-born Canadian educator, says…](<https://x.com/Mark4XX/status/2122836432108572835>)  
+  The man who held the global chip supply chain and the circular AI financing  
+  @Mark4XX · 2026-11-18 07:37
 
-- [Claude Platform 推出关联计费测试版](<https://x.com/ClaudeDevs/status/2122751844455956760>)  
-  Claude Platform 现已推出关联计费测试版。 现在，Factory、Linear 和 Ramp 等工具的用户可以通过其 Claude Platform 组织支付 Claude API 用量费用，无需共享 API key。  
-  X：Claude Devs \(@ClaudeDevs\) · 2026-11-18 02:00
+- [Disclosure is a thing.](<https://x.com/Dream1984Tube/status/2122835840451723521>)  
+  The Information is owned outright by Jessica Lessin. Her father, Jerome Vascellaro: longtime TPG senior partner, former COO, now senior advisor. TPG: an investor in Anthropic's Series F. Her husband, Sam Lessin, overlapped at Harvard with Dustin  
+  @Dream1984Tube · 2026-11-18 07:34
 
-- [🔴 \#AHORA \| Reportes de nuevas interrupciones que afectan a Apple, Microsoft Outlook, Gmail y Schwab, según informes…](<https://x.com/MundoEConflicto/status/2122751833466667503>)  
-  🔴 \#AHORA \| Reportes de nuevas interrupciones que afectan a Apple, Microsoft Outlook, Gmail y Schwab, según informes de usuarios.  
-  @MundoEConflicto · 2026-11-18 02:00
+- [【NVIDIA会長 フアン氏CEO復帰ない】](<https://x.com/YahooNewsTopics/status/2122834922100621821>)  
+  @YahooNewsTopics · 2026-11-18 07:31
 
-- [Nvidia Excitedly Welcomes New CEO Jesús Huárez](<https://x.com/TheBabylonBee/status/2122751761010024524>)  
-  @TheBabylonBee · 2026-11-18 02:00
+- [NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表…](<https://x.com/nikkei/status/2122834870086808057>)  
+  NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表明。「エヌビディアの行動規範や企業文化に反する個人的な行動が明らかになった」と説明しました。  
+  @nikkei · 2026-11-18 07:30
 
-- [Jensen Huang is a historic entrepreneur with a historic impact on humanity, and attempts to cancel him over private…](<https://x.com/kadmitriev/status/2122751724016554422>)  
-  Jensen Huang is a historic entrepreneur with a historic impact on humanity, and attempts to cancel him over private matters are a historical mistake.  
-  @kadmitriev · 2026-11-18 02:00
+- [If you can build these 12 AI Engineering \(Agents &amp;amp; RAG\) projects.](<https://x.com/suraj_sharma14/status/2122834670005936465>)  
+  You're hired. Project 1: Context Assembler Engine Dynamic token budgeting, priority-based context injection, memory + retrieval + tool allocation, overflow prevention. → Shows: You master the context window not  
+  @suraj\_sharma14 · 2026-11-18 07:30
 
-- [🇺🇸 Anthropic paid $1.63 MILLION to two Trump-connected lobbying firms, and their ties to Rubio are now drawing atte…](<https://x.com/MarioNawfal/status/2122751622489252052>)  
-  NVIDIA CEO Jensen Huang. One firm, Continental Strategy, received $740,000 and is led in Washington by Rubio’s  
-  @MarioNawfal · 2026-11-18 02:00
+- [New GPUs such as Intel Xe, AMD RX 7000, RX 9000 series, and NVIDIA RTX 40, 50 series now works in Windows 7 with th…](<https://x.com/TheBobPony/status/2122832022020444234>)  
+  DirectX 12 is also working too\! This isn't Windows 10/11 larping as Windows 7, this is ACTUALLY Windows 7\! 😎  
+  @TheBobPony · 2026-11-18 07:19
 
-- [GPT-6.2 Astra 在 ARC-AGI-3 动作效率表现](<https://x.com/arcprize/status/2122751235841220774>)  
-  在全部 25 个 ARC-AGI-3 公开游戏中，以最大推理强度运行时，GPT-6.2 Astra 所用动作数比人类基线少 64.1%，比使用提供商适配器测试框架的 GPT-6 Astra 少 5.2%：  
-  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
+- [Salesforce 为员工按岗位分配每月 AI token 预算](<https://x.com/rohanpaul_ai/status/2122831789140091367>)  
+  据 Business Insider 报道，Salesforce 为非技术销售人员提供每月 100 美元 AI token 额度，技术销售人员为 1000 美元。此前上个季度有员工每月 token 花费达数千美元，COO Miguel Milano 因此为每个岗位设定预算，并建议员工按任务匹配模型…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 07:18
 
-- [OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 上取得 100% 满分](<https://x.com/arcprize/status/2122751233442156678>)  
-  ARC Prize 公布 OpenAI GPT-6.2 Astra 在 ARC-AGI \(Verified\) 的成绩：ARC-AGI-3 达 100.0%（SOTA），为首个在该基准拿满分的模型，provider adapter 成本 $4.1K、standard 模式 70.3%、成本 $24.…  
-  X：ARC Prize \(@arcprize\) · 2026-11-18 01:58
+- [🇺🇸🇨🇳🇷🇺 Trump is heading to China for a trilateral with Xi and Putin.](<https://x.com/MarioNawfal/status/2122831452404355364>)  
+  And the Jensen Huang ousting may have been timed to blow it up before it even starts. Susan Kokinda is a political economist and co-host of Promethean Action, and she thinks this summit could be the most  
+  @MarioNawfal · 2026-11-18 07:17
 
-- [\#BREAKING: Apple, Microsoft Outlook, Gmail, and Schwab hit by new outages, users report.](<https://x.com/InsiderWire/status/2122751188802163184>)  
-  @InsiderWire · 2026-11-18 01:58
+- [FAFO NVIDIA BOARD NVIDIA’s full independent board \(all 10 directors except Jensen\) is up for election in June 2027.](<https://x.com/Emassey678/status/2122830837842403359>)  
+  Shareholders who want them out have two paths: • Run a “Vote No” campaign on the regular June proxy • Or gather support from 15% of 1-year holders to force a  
+  @Emassey678 · 2026-11-18 07:14
 
-- [Many Will Use The Competitive Market As A Reason Jensen Huang Was Ousted They will not bring up Megaspeed.](<https://x.com/Prolotario1/status/2122751074276659651>)  
-  They will not bring up smuggled H100s. They will not bring up capped NVIDIA GPUs in US markets. This Is 100% About Jensen Huang Personal Criminal Actions \(Not Who He  
-  @Prolotario1 · 2026-11-18 01:57
+- [🚨🚨郭先生这一次传递出来的消息又是非常重磅的！！比如： 💥我们知道长岛很坏，没有想到那么坏，造成的破坏如此之大！](<https://x.com/Wangwenhaha0518/status/2122830381846302853>)  
+  💥我们知道黄仁勋的事情很大，没有想到那么大，巨大的影响还没开始显现；  
+  @Wangwenhaha0518 · 2026-11-18 07:12
 
-- [Flights halted.](<https://x.com/FoxNews/status/2122751051631845504>)  
-  Workplace systems disrupted. Banking customers reporting problems. A string of technology outages is putting the nation’s dependence on digital infrastructure in the spotlight after major disruptions involving Microsoft, the FAA, Workday, Chase and other banks…  
-  @FoxNews · 2026-11-18 01:57
+- [Less than one week ago, Bill Gates said a massive cyberattack that “causes a lot of problems” might be necessary to…](<https://x.com/bennyjohnson/status/2122829415927411050>)  
+  Days later a wave of outages began… all starting with Microsoft. I’m sure it’s just another coincidence…  
+  @bennyjohnson · 2026-11-18 07:09
 
-- [OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol](<https://x.com/ChatGPT/status/2122751009156210841>)  
-  OpenAI 官宣 GPT-6.2 Astra 和 GPT-6.2 Sol 开放使用，主打游戏制作，同时擅长制作幻灯片、搭建网站和处理日常任务。模型自今日起向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise 及 Edu 用户推送。  
-  X：ChatGPT \(@ChatGPT\) · 2026-11-18 01:57
+- [JUST IN: Jeff Bezos warns Nvidia against hiring an outsider as CEO, saying an outside hire would have a “vanishingl…](<https://x.com/Polymarket/status/2122829345802666195>)  
+  JUST IN: Jeff Bezos warns Nvidia against hiring an outsider as CEO, saying an outside hire would have a “vanishingly small chance of succeeding.”  
+  @Polymarket · 2026-11-18 07:08
 
-- [OpenAI 发布 GPT-6.2 Astra：以约三分之一成本提供前沿性能](<https://x.com/sherwinwu/status/2122750964658753570>)  
-  OpenAI 发布 GPT-6.2 Astra，面向 hardest projects 的前沿模型，在专业工作和科研评测中创下新高，每任务成本不到 GPT-6 Astra 的三分之一。作者称其在会计、法律和科学研究等真实专业工作中表现尤为突出，幻灯片、网站和 3D 设计上可见差异。  
-  X：Sherwin Wu（@sherwinwu） · 2026-11-18 01:57
+- [I don’t care what the board said at the beginning of the call Jensen Huang must be reinstated](<https://x.com/Midnight_Captl/status/2122828818586947703>)  
+  @Midnight\_Captl · 2026-11-18 07:06
 
-- [Diputada Yeomans \(FA\) oficia a ministra Lincolao tras acuerdo con OpenAI y pide explicar qué pasará con los datos d…](<https://x.com/CNNChile/status/2122750798107210158>)  
-  Diputada Yeomans \(FA\) oficia a ministra Lincolao tras acuerdo con OpenAI y pide explicar qué pasará con los datos de las personas  
-  @CNNChile · 2026-11-18 01:56
+- [Sensei 智能体登陆多端设备](<https://x.com/rohanpaul_ai/status/2122828810613919992>)  
+  随着 AI 智能体的输出缩减为单一决策，智能眼镜和手表正逐渐成为严肃的工作设备。 Sensei 可运行在 Ray-Ban Meta 眼镜、Apple Watch、iPhone、iPad、网页端和 Mac 应用上。 Build、Merge 和 Deploy 智能体负责完成繁重工作。传到你手腕上的，是…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 07:06
 
-- [It’s a testament to how far down the rabbit hole we already are, that Jensen Huang unapologetically thinks he can h…](<https://x.com/Amy_Siskind/status/2122750655492186389>)  
-  It’s a testament to how far down the rabbit hole we already are, that Jensen Huang unapologetically thinks he can have his job back after all the rules he has broken, including at his own company.  
-  @Amy\_Siskind · 2026-11-18 01:56
+- [Notice I never said one then about Jensen Huang or NVIDIA?](<https://x.com/drawandstrike/status/2122828637112062455>)  
+  I knew that thing didn't make any sense. I watched for a week as all The Usual Suspects grabbed that narrative that the Trump White House had 'covered up' that Huang was 'compromised by a CCP spy' and that the Trump  
+  @drawandstrike · 2026-11-18 07:06
 
-- [JUST IN: OpenAI officially launches its newest &amp;amp; most powerful AI models GPT-6.2 Astra &amp;amp; Sol.](<https://x.com/WatcherGuru/status/2122750647346835688>)  
-  @WatcherGuru · 2026-11-18 01:56
+- [Just think of what NVIDIA could do if they invested $150 billion back into their business in America.](<https://x.com/TimSweeneyEpic/status/2122827847148740970>)  
+  NVIDIA could build multiple massive new leading-edge fabs. New jobs. Reindustrialization. End the hardware supply crisis. But nope, they're buying back shares instead.  
+  @TimSweeneyEpic · 2026-11-18 07:02
 
-- [Artificial Analysis 评测 GPT-6.2 Astra 与 GPT-6.2 Sol：智能指数第二，编码代…](<https://x.com/ArtificialAnlys/status/2122750634210529569>)  
-  Artificial Analysis 评测 OpenAI 新发布的 GPT-6.2 Astra 和 GPT-6.2 Sol：Astra 在 Artificial Analysis Intelligence Index 上涨 5 分至 62。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 01:56
+- [🔥 FIRST-TIME DISCOUNTS &amp;amp; BIG SAVINGS\! 🛍️ 📚 Library of Ruina 40% OFF ⚔️ BLAZBLUE CENTRALFICTION 85% OFF 🌑 Qlipha…](<https://x.com/ArcSystemWorksU/status/2122827113803763945>)  
+  🔥 FIRST-TIME DISCOUNTS &amp;amp; BIG SAVINGS\! 🛍️ 📚 Library of Ruina 40% OFF ⚔️ BLAZBLUE CENTRALFICTION 85% OFF 🌑 Qliphah in Providence's Shadow 35% OFF 🎮 PlayStation &amp;amp; Nintendo eShop: Available now\! 💻 Steam &amp;amp; Microsoft Store: Starting Nov. 20 🗓️ Sale ends …  
+  @ArcSystemWorksU · 2026-11-18 06:59
 
-- [AI company Anthropic has paid $1.63 million to two lobbying firms tied to Secretary of State Marco Rubio and former…](<https://x.com/AFpost/status/2122750572747018646>)  
-  Since April 2025, Anthropic has paid $740,000 to Continental Strategy, whose DC office is run by Rubio's former Senate  
-  @AFpost · 2026-11-18 01:55
+- [NVIDIA 不再向中国运送许可产品 无论黄仁勋是否复位英伟达ceo，中共通过第三国购买英伟达高端芯片将会受到严格限制和监…](<https://x.com/threerights1/status/2122826749725794722>)  
+  NVIDIA 不再向中国运送许可产品 无论黄仁勋是否复位英伟达ceo，中共通过第三国购买英伟达高端芯片将会受到严格限制和监管。  
+  @threerights1 · 2026-11-18 06:58
 
-- [Dario Amodei 在 Anthropic IPO 路演中向 Jamie Dimon 谈人才留存与文化](<https://x.com/rohanpaul_ai/status/2122750398201205042>)  
-  Dario Amodei 在 Anthropic IPO 路演中与 JP Morgan CEO Jamie Dimon 对谈，称从其他公司流入 Anthropic 的人多于流出，7 位联合创始人全部仍在公司，离职者也常回归。他强调公司不想要难以合作、抢风头或不以公共利益为导向的人，坚持这一标准短期…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 01:55
+- [Are rogue Ai Agents causing these outages?](<https://x.com/digijordan/status/2122826630095630493>)  
+  Let’s use Project Glasswing and the infamous Hugging Face / Open Ai incident as precedents to show why the answer is…probably.  
+  @digijordan · 2026-11-18 06:58
 
-- [🇺🇸 Jensen Huang admitted he made SERIOUS personal mistakes, apologized to his family, and declared he's ready to re…](<https://x.com/MarioNawfal/status/2122750369948479810>)  
-  In an emotional statement, Huang took full responsibility for the controversy that led to his departure and pledged  
-  @MarioNawfal · 2026-11-18 01:55
+- [It’s becoming painfully clear to me that NVIDIA’s board and some of its most powerful executives don’t give a sh\*t…](<https://x.com/The_AI_Investor/status/2122826199340876075>)  
+  Honestly, this makes me sick. I think the next step  
+  @The\_AI\_Investor · 2026-11-18 06:56
 
-- [OpenAI 发布 GPT-6.2 Astra，ExploitBench Internal Port 较 GPT-6 As…](<https://x.com/OpenAI/status/2122750133133791592>)  
-  OpenAI 发布 GPT-6.2 Astra，称其为迄今网络攻防能力最强的模型，在 ExploitBench Internal Port 上比 GPT-6 Astra 高出 22 分。由于能力增强，GPT-6.2 Astra 与 Sol 配备了更严格的安全防护以限制高风险网络安全协助，并将逐步上…  
-  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+- [Huge guide of 75% growth by Colette and Nvidia a huge number into next year.](<https://x.com/DivesTech/status/2122826114443993112>)  
+  Speaks to the demand and backlog confidence in AI GPU chips. Huge for Nvidia, tech sector, and market given the Jensen black cloud situation ongoing. Nvidia is the one chip in the world fueling AI. 🏆  
+  @DivesTech · 2026-11-18 06:56
 
-- [OpenAI 发布 GPT-6.2 Astra 与 Sol，上线 ChatGPT Work、Codex 和 API](<https://x.com/OpenAI/status/2122750135608528984>)  
-  OpenAI 宣布 GPT-6.2 Astra 和 Sol 即日起面向 Plus、Pro、Enterprise 和 Edu 用户开放，可用于 ChatGPT Work 和 Codex，开发者也可在 OpenAI API 中调用 gpt-6.2-astra 和 gpt-6.2-sol。Pro 500…  
-  X：OpenAI \(@OpenAI\) · 2026-11-18 01:54
+- [Microsoft 发布 MAI Cyber 2 Flash，并回顾此前开源安全合作](<https://x.com/mustafasuleyman/status/2122825980670775693>)  
+  Microsoft AI 宣布发布 MAI Cyber 2 Flash。作者回顾此前工作：早先的 MAI Cyber 模型扫描了六个广泛使用的开源项目，安全研究员在维护者看到之前核查每份报告，维护者最终收到 99 份经过核查的私密报告并已着手修复，以此缓解维护者被 AI 生成的 bug 报告淹没的…  
+  X：Mustafa Suleyman（Microsoft AI CEO） \(@mustafasuleyman\) · 2026-11-18 06:55
 
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 39 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 38 页

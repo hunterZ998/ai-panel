@@ -26,6 +26,10 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
   Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
   IT桔子 · 2026-11-19 16:18
 
+- [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
+  Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-19 16:00
+
 - [极智元材完成千万级种子轮融资，推进人工智能赋能半导体产业创新发展](<https://www.itjuzi.com/investevent/14708210>)  
   极智元材致力于构建面向全球材料研发的智能基础设施（Materials Intelligence Infrastructure，MII）。以高质量科学数据、材料领域通专模型和科研智能体为核心，深度融合多尺度模拟计算、智能实验与闭环优化，…  
   IT桔子 · 2026-11-19 12:35
@@ -33,10 +37,6 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
   「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
   晚点聊 · 2026-11-19 08:00
-
-- [Odaia获得1500万美元C轮融资](<https://www.itjuzi.com/investevent/14708140>)  
-  Odaia是一家AI制药商业洞察SaaS平台研发商，搭建预测式商业智能平台，整合药企碎片化商业数据构建 HCP 动态画像，通过 PowerScore 预测模型推荐最优触达时机与内容，配套个性化营销编排与实时处方归因能力，帮助药企提升销…  
-  IT桔子 · 2026-11-18 14:53
 
 - [七位物理学家谈 AI 如何重塑理论物理研究](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
   Understanding AI 作者采访 Suvrat Raju 等七位理论物理学家，探讨 AI 对理论物理的冲击。Raju 团队用未公开的真实难题构建 TheoPhysEval 基准，GPT-6 Astra 在 50 题中答对 49 题，每题计算成本不到 3 美元，基准在发布前即被饱和。  

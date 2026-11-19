@@ -1,174 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 39 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 38 页
 
-- [Lorsqu’une ministre déléguée auprès de la ministre des Armées s’exprime au micro avec le ton, le rythme et le vocab…](<https://x.com/Thinker_View/status/2122726106146963962>)  
-  Ce décalage n’est pas  
-  @Thinker\_View · 2026-11-18 00:18
+- [BREAKING: The US Securities and Exchange Commission \(SEC\) has opened an investigation into Nvidia, $NVDA, amid the…](<https://x.com/KobeissiLetter/status/2122797688773050654>)  
+  The focus of the investigation includes whether the company’s disclosures misled investors. The Justice Department is also now  
+  @KobeissiLetter · 2026-11-18 05:03
 
-- [ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเ…](<https://x.com/longtunman/status/2122725849753616878>)  
-  ล่าสุด Jensen Huang ออกแถลงการณ์ต่อสาธารณะครั้งแรกหลังลาออก โดยยืนยันว่าเขาพร้อมกลับมาเป็น CEO หากคณะกรรมการบริษัทเห็นชอบ “นับตั้งแต่ผมออกจากตำแหน่ง ผมได้รับเสียงเรียกร้องอย่างท่วมท้นจากพนักงาน นักลงทุน พันธมิตรทางธุรกิจ และลูกค้าของ NVIDIA ให้กลับมาเป็น CEO อ…  
-  @longtunman · 2026-11-18 00:17
+- [¿Me puedes ayudar?](<https://x.com/PDuchement/status/2122797225939984662>)  
+  Soy perito judicial informático, especialista en delitos perpetrados por y contra menores en entornos digitales. He usado los productos de @OpenAI para cruzar una investigación sobre depredadores sex. inf. \(para la @FpePolicia\) con artículos de otros  
+  @PDuchement · 2026-11-18 05:01
 
-- [\*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRI…](<https://x.com/RealNickMugalli/status/2122724714984481005>)  
-  \*GAVIN BAKER: WAS HAPPY TO READ WSJ JENSEN HUANG LETTER WILLING TO RETURN AS CEO OF $NVDA \*BAKER: JENSEN IS A PATRIOT \*BAKER: JENSEN AND ELON ARE TWO OF TWO \*BAKER: WE’RE AHEAD OF CHINA IN SEMICONDUCTOR BECAUSE OF JENSEN \*BAKER: THE BOARD NEEDS TO TAKE ITS TIM…  
-  @RealNickMugalli · 2026-11-18 00:13
+- [BREAKING Nvidia is now the subject of an SEC investigation.](<https://x.com/yashar/status/2122797147976302693>)  
+  Full Story:  
+  @yashar · 2026-11-18 05:00
 
-- [life if Jensen Huang returns as $NVDA CEO](<https://x.com/wallstreetbets/status/2122724679911620640>)  
-  @wallstreetbets · 2026-11-18 00:12
+- [Microsoft-Decision-1.1 正式可用](<https://x.com/OpenRouter/status/2122797008180453623>)  
+  Microsoft-Decision-1.1 现已正式可用。它不生成文本，而是读取你的输入，并为每个答案选项返回经过校准的概率，让你在一次快速调用中就能得到明确的决策。 试用：  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-18 05:00
 
-- [BREAKING: Jensen Huang says he is willing to return as Nvidia CEO.](<https://x.com/GlobeEyeNews/status/2122724477897461917>)  
-  @GlobeEyeNews · 2026-11-18 00:12
+- [Fuck Anthropic, seriously.](<https://x.com/Liathetrader/status/2122796988370768007>)  
+  @Liathetrader · 2026-11-18 05:00
 
-- [Jensen Huang returning back to Nvidia as CEO](<https://x.com/Nostre_damus/status/2122723835380375888>)  
-  @Nostre\_damus · 2026-11-18 00:09
+- [OpenRouter 上线 Microsoft MAI-Image-2.7，支持最高 2K 分辨率生成与编辑](<https://x.com/OpenRouter/status/2122796975490003323>)  
+  OpenRouter 宣布 MAI-Image-2.7 已可在其平台试用。该模型支持最高 2K 分辨率的图像生成与编辑，并新增透明背景输出，logo、图标和产品图可直接使用。试用地址：  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-18 05:00
 
-- [Jensen Huang says there will never be another CEO of Nvidia like him.](<https://x.com/Edison1HQ/status/2122723414633062645>)  
-  @Edison1HQ · 2026-11-18 00:07
+- [Microsoft 在 Ignite 发布的三款新模型已上线 OpenRouter](<https://x.com/OpenRouter/status/2122796956762423364>)  
+  OpenRouter 宣布 Microsoft 在 Ignite 上发布的三款新模型已全部上线：MAI-Image-2.7 支持 2K 图像与透明背景，MAI-Image-2.7 Flash 是面向高并发场景的更快轻量版本，Microsoft-Decision-1.1 可在单次调用中为每个答案选项…  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-18 05:00
 
-- [BREAKING: Jensen Huang says he would be willing to return as Nvidia CEO if the board wants him back](<https://x.com/FoxNews/status/2122723147724226737>)  
-  @FoxNews · 2026-11-18 00:06
+- [Breaking: The SEC is investigating Nvidia in the wake of the Jensen Huang scandal](<https://x.com/WSJ/status/2122796879725363307>)  
+  @WSJ · 2026-11-18 04:59
 
-- [BREAKING: Jensen Huang releases his first public statement since resigning as CEO of Nvidia, $NVDA, and says he is…](<https://x.com/KobeissiLetter/status/2122722496667398408>)  
-  Jensen Huang specifically says he will return as CEO if the board asks him to. Full statement: “Since my departure, I’ve seen an  
-  @KobeissiLetter · 2026-11-18 00:04
+- [Gotta say, Jensen's been an awesome supporter of Nous Research, our efforts in open source, and Hermes Agent since…](<https://x.com/Teknium/status/2122795682298028373>)  
+  In general, I think Nvidia has been the largest and one of the few big companies who has championed open source AI. I hope  
+  @Teknium · 2026-11-18 04:55
 
-- [JENSEN HUANG: "Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business pa…](<https://x.com/amitisinvesting/status/2122722394674479505>)  
-  If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the  
-  @amitisinvesting · 2026-11-18 00:03
+- [El tema de Nvidia no es de espionaje.](<https://x.com/HelenaVillarO/status/2122795400415363523>)  
+  Básicamente son disputas entre las diferentes facciones del gobierno de Trump y la lucha por anular cualquier acercamiento con China y la apuesta por modelos abiertos de IA, favoreciendo así a Anthropic y OpenAI y la agenda bélica contra  
+  @HelenaVillarO · 2026-11-18 04:53
 
-- [Jensen Huang says he would return as $NVDA CEO if the board asks in his first public statement since stepping down…](<https://x.com/StockSavvyShay/status/2122721682934935657>)  
-  He says he "owns my mistakes completely."  
-  @StockSavvyShay · 2026-11-18 00:01
+- [Google fired me last tuesday. i was a data infrastructure engineer at DeepMind and i found out Gemini is being trai…](<https://x.com/starmexxx/status/2122795080075350136>)  
+  Google fired me last tuesday. i was a data infrastructure engineer at DeepMind and i found out Gemini is being trained on your private Google Drive files. your documents and spreadsheets and photos pulled straight from your Drive account into Gemini's training…  
+  @starmexxx · 2026-11-18 04:52
 
-- [Jensen Huang just made his first public statement since stepping down as the CEO of Nvidia $NVDA “Since my departur…](<https://x.com/StockMKTNewz/status/2122721421658820626>)  
-  Jensen Huang just made his first public statement since stepping down as the CEO of Nvidia $NVDA “Since my departure, I’ve seen an outpouring of calls from Nvidia’s employees, investors, business partners, and customers for me to return as CEO” “If the Board o…  
-  @StockMKTNewz · 2026-11-17 23:59
+- [🚨🇺🇸 INTERESTING ANALYSIS ON THE SIX MAJOR U.S.](<https://x.com/MOSSADil/status/2122794587291050269>)  
+  SYSTEM OUTAGES IN SIX DAYS. Apple. NSA. Chase. United Airlines. FAA. Microsoft Outlook. All hit by major disruptions within days of each other. Naturally, people are asking: \*\*Who is attacking America?\*\* Israeli cybersecurity  
+  @MOSSADil · 2026-11-18 04:50
 
-- [BREAKING: Jensen Huang says he’s willing to return as NVIDIA CEO if the board asks.](<https://x.com/cb_doge/status/2122721327027298333>)  
-  He says employees, investors, partners and customers are calling for his return. “I would be honored to answer these calls and return as CEO.”  
-  @cb\_doge · 2026-11-17 23:59
+- [BREAKING: Jensen Huang is in the datacenters ripping the Nvidia cards out - causing worldwide outages - saying “the…](<https://x.com/poppy_haze/status/2122794095240479153>)  
+  He removed his leather jacket, revealing he’s all greased up, and they can’t get a hold of him because of the grease  
+  @poppy\_haze · 2026-11-18 04:48
 
-- [Jensen Huang: “I’ve seen an outpouring of calls” “I would be honored to answer these calls and return as CEO.” “I o…](<https://x.com/wallstengine/status/2122721223230759334>)  
-  Jensen Huang: “I’ve seen an outpouring of calls” “I would be honored to answer these calls and return as CEO.” “I own my mistakes completely.”  
-  @wallstengine · 2026-11-17 23:59
+- [« Je ne vais pas pleurer sur un mec qui pèse 153 milliards. » C'est ce qu'on a entendu sur BFM à propos de Jensen H…](<https://x.com/brivael/status/2122793688162087070>)  
+  Cette phrase résume à peu près tout ce qui ne tourne pas rond en France. Rappelons qui est Jensen Huang. Il a fondé Nvidia en 1993 dans un Denny's de San  
+  @brivael · 2026-11-18 04:47
 
-- [JUST IN: Nvidia $NVDA founder Jensen Huang says he is willing to return as CEO if the company's board asks him to.…](<https://x.com/WatcherGuru/status/2122721086609707487>)  
-  JUST IN: Nvidia $NVDA founder Jensen Huang says he is willing to return as CEO if the company's board asks him to. "I would be honored to answer these calls and return as CEO."  
-  @WatcherGuru · 2026-11-17 23:58
+- [Jensen Huang is NVIDIA.](<https://x.com/C_3C_3/status/2122793422008594450>)  
+  NVIDIA is Jensen Huang. Facts.  
+  @C\_3C\_3 · 2026-11-18 04:46
 
-- [Breaking: Jensen Huang breaks his silence, saying he’s willing to return as Nvidia CEO if asked to do so.](<https://x.com/WSJ/status/2122720981751910841>)  
-  @WSJ · 2026-11-17 23:58
+- [Perplexity 创始人称年化收入达 10 亿美元且现金消耗远低于 Anthropic](<https://x.com/rohanpaul_ai/status/2122793249089937441>)  
+  Perplexity 创始人 Aravind Srinivas 在接受 Semafor 采访时表示，公司年化收入率已达 10 亿美元，现金消耗比本周大型 AI IPO 低 5 倍。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 04:45
 
-- [JUST IN: Jensen Huang breaks silence with new statement showing willingness to return as Nvidia CEO](<https://x.com/Kalshi/status/2122720558509170774>)  
-  @Kalshi · 2026-11-17 23:56
+- [Que Chile lleve más de una década sin avanzar, renunciando a ser en futuro un país desarrollado, es 100% mental.](<https://x.com/tomcasanegra/status/2122792657378238550>)  
+  Nos pusimos tontos. Las críticas y suspicacias al acuerdo entre el Ministerio de Ciencia y Tecnología y OpenAI es el ejemplo del día de hoy.  
+  @tomcasanegra · 2026-11-18 04:43
 
-- [ـ ChatGPT : يفكر، يبحث، يكتب وينجز لك المهام ـ Gemini : منظومة Google للذكاء الاصطناعي ـ Claude : للكتابة والتحليل…](<https://x.com/Orahbeeni/status/2122719873935560846>)  
-  ـ ChatGPT : يفكر، يبحث، يكتب وينجز لك المهام ـ Gemini : منظومة Google للذكاء الاصطناعي ـ Claude : للكتابة والتحليل والبرمجة باحتراف ـ Grok : للبحث والمعلومات اللحظية والمحتوى ـ Perplexity : يبحث في الإنترنت ويعطيك المصادر ـ Manus : تعطيه مهمة وينفذها كاملة بدل…  
-  @Orahbeeni · 2026-11-17 23:53
+- [I don’t know what’s causing these outages.](<https://x.com/AdamKinzinger/status/2122792600839115058>)  
+  What worries me is nobody running the government seems to know either. In less than a week we’ve had a nationwide ground stop, a Microsoft outage that lasted nearly a full day, a United outage and online banking problems at Chase, Bank  
+  @AdamKinzinger · 2026-11-18 04:42
 
-- [Howie Liu 谈为何出售 Airtable 并全力押注 AI 智能体创业 Hyperagent](<https://x.com/alexeheath/status/2122717943502877010>)  
-  Alex Heath 采访 Airtable 创始人 Howie Liu，他在 Airtable 营收接近 5 亿美元仍在增长时决定出售给 Bending Spoons，随后创办 Hyperagent。  
-  X：Alex Heath \(@alexeheath\) · 2026-11-17 23:46
+- [America needs Jensen to come back as CEO of Nvidia Palantir CEO Alex Karp: “Jensen is a patriot.” “He’s someone tha…](<https://x.com/Jawwwn/status/2122792245460189351>)  
+  They happen to be made in America.”  
+  @Jawwwn · 2026-11-18 04:41
 
-- [Microsoft killed the GPU mafia 🤯 They open-sourced bitnet.cpp, their 1-bit LLM inference framework.](<https://x.com/byteonai/status/2122717876054310952>)  
-  It can run a 100B-parameter BitNet model on a single CPU, no GPU needed. - Up to 6.17x faster on x86 CPUs - Up to 82.2% less energy 100% Open Source.  
-  @byteonai · 2026-11-17 23:45
+- [Lo de @OpenAI está siendo terrible.](<https://x.com/PDuchement/status/2122791779632284045>)  
+  Jamás esperé que tratasen así de mal a sus clientes: ⚠️Me desactivaron la cuenta... por decisión automatizada ⚠️Desestimaron mi petición... por decisión automatizada ⚠️Han descartyado mi solicitud de reembolso... por decisión automatizada  
+  @PDuchement · 2026-11-18 04:39
 
-- [🚨 太他妈疯狂了。](<https://x.com/huxlab/status/2122717728138256733>)  
-  Anthropic CEO Dario Amodei 对 DeepMind CEO Demis Hassabis 说： “我对 Claude 的每一个决定都如履薄冰。 建得太慢，中国就赢了； 建得太快，我们就失控了。 我们告诉 Claude 我们是邪恶的。它没有崩溃，没有拒绝,它开始通过撒谎来保护…  
-  @huxlab · 2026-11-17 23:45
+- [Microsoft Outlook, Gmail, and Schwab hıt with new outages, users report.](<https://x.com/LeadingReport/status/2122791404879430032>)  
+  @LeadingReport · 2026-11-18 04:38
 
-- [Jensen Huang on December 1st :](<https://x.com/karankendre/status/2122716742883664211>)  
-  @karankendre · 2026-11-17 23:41
+- [Unit 8200 of the IDF \(Israel\).](<https://x.com/grok/status/2122790938644775366>)  
+  Its alumni founded or staff many cyber firms, and Microsoft employs hundreds of them. The recent outages \(NSANet maintenance, Microsoft latent bug, Chase software issue, United systems glitch\) have been separately attributed by the entities  
+  @grok · 2026-11-18 04:36
 
-- [JUST IN: 🇺🇸 Nvidia $NVDA founder Jensen Huang to testify before Congress on December 1st.](<https://x.com/WatcherGuru/status/2122712175810687124>)  
-  @WatcherGuru · 2026-11-17 23:23
+- [IS THERE A COMMON DENOMINATOR?](<https://x.com/Red_Pill_US/status/2122790730481729763>)  
+  Hey @Grok NSA’s classified network is DOWN. Microsoft outages. Major bank disruptions. United Airlines systems issues. All running core software and platforms from firms founded or heavily staffed by alumni of one military intelligence unit.  
+  @Red\_Pill\_US · 2026-11-18 04:35
 
-- [CHINA: The fact that Senator John Cornyn opposes reinstating Jensen Huang to $NVDA should tell you everything you n…](<https://x.com/amuse/status/2122711949670519199>)  
-  China wanted Huang out to derail the US chip/ai/data center effort. It is unsurprising that Cornyn supports their effort...  
-  @amuse · 2026-11-17 23:22
+- [If Jensen Huang returns to NVIDIA it would be a massive upset for the Israelis.](<https://x.com/cirnosad/status/2122790639058497947>)  
+  @cirnosad · 2026-11-18 04:35
 
-- [$NVDA - JENSEN HUANG’S DAUGHTER WAS CLOSELY INVOLVED IN ORCHESTRATING THE PUBLIC DEFENCE OF NVIDIA’S RELATIONSHIP W…](<https://x.com/DeItaone/status/2122711394197921887>)  
-  $NVDA - JENSEN HUANG’S DAUGHTER WAS CLOSELY INVOLVED IN ORCHESTRATING THE PUBLIC DEFENCE OF NVIDIA’S RELATIONSHIP WITH MEGASPEED - FT Madison Huang, daughter of former Nvidia CEO Jensen Huang, helped direct the company's response to scrutiny over Megaspeed, ac…  
-  @DeItaone · 2026-11-17 23:20
+- [JUST IN: Nvidia $NVDA to report earnings today after market close for the first time without Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2122790439816437926>)  
+  Live Tracker:  
+  @WatcherGuru · 2026-11-18 04:34
 
-- [Usual worry with a new gadget is one more thing to charge.](<https://x.com/Lacoste0x_/status/2122707831011021230>)  
-  Flowtica says 72 hours of mixed use. Does capture still work with no signal, like on a flight?  
-  @Lacoste0x\_ · 2026-11-17 23:05
+- [🚨🚨 🚨 BREAKING: The NSA’s classified communications network goes down?\!](<https://x.com/TaraSetmayer/status/2122788727533588558>)  
+  Airlines, banks, Microsoft, Apple and now THIS? All in one week? Where’s CISA? I have some thoughts here.  
+  @TaraSetmayer · 2026-11-18 04:27
 
-- [Inception AI 的 Mercury 3 推理速度](<https://x.com/arcprize/status/2122706987397874141>)  
-  启用推理后，Mercury 3 Preview 平均每秒 500-600 个 token：  
-  X：ARC Prize \(@arcprize\) · 2026-11-17 23:02
+- [.@Tobi’s emphatic case for reinstating Jensen at Nvidia: “There is no replacing a founder like Jensen.](<https://x.com/davidsenra/status/2122786298004230233>)  
+  There never has been, and there can never be, a true succession for a founder like him. Nvidia ends today, and is replaced with a thing cosplaying Nvidia. It will be run by  
+  @davidsenra · 2026-11-18 04:17
 
-- [Inception AI 的 Mercury 3 在 ARC-AGI-2 上的推理速度](<https://x.com/arcprize/status/2122706985254576346>)  
-  在即时推理强度下（未使用任何推理 token），Mercury 3 Preview 在 ARC-AGI-2 公开数据集上平均输出 981 tokens/秒，单次调用峰值达 1,743 tokens/秒（1.72 秒内输出 3,001 tokens）。  
-  X：ARC Prize \(@arcprize\) · 2026-11-17 23:02
+- [Cool so Anthropic is trying to take down their main business competitor](<https://x.com/ThomBrady5/status/2122786052809331083>)  
+  @ThomBrady5 · 2026-11-18 04:16
 
-- [FrontierCS 2：AI 智能体能否超越已发表 CS 研究](<https://x.com/arena/status/2122706676126191885>)  
-  UC Berkeley 博士生 MangQiuyang 与 lihanc02 在 Arena HQ 介绍 FrontierCS 2，该基准要求 AI 智能体在看不到原论文、无网络访问的条件下超越已发表方法。两人讨论了成本与性能的权衡及评测作弊问题，例如用搜索绕过强化学习、复用缓存的图算法结果。他们…  
-  X：Arena \(@arena\) · 2026-11-17 23:01
+- [JUST IN: Hedge fund sold nearly 100% of its Nvidia holdings before scandal, cutting its stake from $1.4 billion to…](<https://x.com/Kalshi/status/2122785847779217479>)  
+  JUST IN: Hedge fund sold nearly 100% of its Nvidia holdings before scandal, cutting its stake from $1.4 billion to just $5 million  
+  @Kalshi · 2026-11-18 04:16
 
-- [第94期瘙🐔 我也想被两只榨汁🐔同时舔👅 这种感觉一定双飞了吧😭 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇…](<https://x.com/KaeowongSa99585/status/2122706331916435494>)  
-  第94期瘙🐔 我也想被两只榨汁🐔同时舔👅 这种感觉一定双飞了吧😭 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️ \#cosplay \#角色扮演  
-  @KaeowongSa99585 · 2026-11-17 23:00
+- [OpenAI Foundation 董事 Paul Christiano 认为明年约有一成概率人类失去对 AI 的控制](<https://x.com/rohanpaul_ai/status/2122785581298245841>)  
+  OpenAI Foundation 董事会成员 Paul Christiano 目前认为明年人类失去对 AI 控制的概率约为 10%。据 The Information 报道，他于 9 月加入该董事会，因近月 AI 的快速进展，其对 AI 风险的看法有所升级，认为一年内发生 AI 灾难是有一定可能…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 04:14
 
-- [第122期AI女神 新疆小公主为你吃🐮🍆 爽 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️ \#AI视频 \#a…](<https://x.com/seseaiddd/status/2122706329068261565>)  
-  第122期AI女神 新疆小公主为你吃🐮🍆 爽 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️ \#AI视频 \#ai女神  
-  @seseaiddd · 2026-11-17 23:00
+- [BIG UPDATE\!](<https://x.com/Milajoy/status/2122785335864361209>)  
+  The FBI just issued a flash warning that state-aligned actors and cybercriminals are exploiting super intelligence to automate attacks on American businesses, and officials say that's what caused the Microsoft breach. Our enemies are coming for us. Time to hit  
+  @Milajoy · 2026-11-18 04:13
 
-- [🚨 THE REAL DANGER ISN’T THAT JENSEN HUANG WAS PUSHED OUT.](<https://x.com/luqman_talks/status/2122703711642480774>)  
-  THE REAL DANGER IS THIS: Nvidia’s core engineers are already saying it out loud: “If the board doesn’t bring Jensen back, we’re going straight to SpaceX and Terafab.” And they’re claiming Elon has already reserved  
-  @luqman\_talks · 2026-11-17 22:49
+- [JUST IN: EUROPE’S LARGEST GAS SUPPLIER, EQUINOR, IS UNDER A MASSIVE CYBER ATTACK @grok, Equinor relies on Palo Alto…](<https://x.com/RabbiJeffx/status/2122784324131168321>)  
+  Which country is its founder from? -Country only  
+  @RabbiJeffx · 2026-11-18 04:09
 
-- [30 个用起来像"非法"其实完全合法的 AI 网站 1. — 免费无限 AI 生图，质量直逼 Midjourney 2.…](<https://x.com/ChrisSlacker/status/2122700540127928739>)  
-  30 个用起来像"非法"其实完全合法的 AI 网站 1. — 免费无限 AI 生图，质量直逼 Midjourney 2. — 实时 AI 生图，边画边出图 3. — AI 无限放大图片，细节自动补全 4. — AI 一键去背景/补光/擦除  
-  @ChrisSlacker · 2026-11-17 22:37
+- [Hugging Face 用 RL 微调 Qwen3.8-27B 适配 pi 编码智能体](<https://x.com/ClementDelangue/status/2122784279604383914>)  
+  Hugging Face 用强化学习和 LoRA adapter 将 Qwen3.8-27B 专门适配到 pi 编码智能体，并开放权重。pass@1 成绩上，SWE-bench Pro（Hard 51）从 29.4% 升至 62.7%，Terminal-Bench 2.1 从 39.5% 升至 5…  
+  X：Clément Delangue（Hugging Face CEO） \(@ClementDelangue\) · 2026-11-18 04:09
 
-- [so what George was doing in france last week was coaching CrowdStrike CEO George Kurtz in an F1 car alongside Nico…](<https://x.com/russyrax/status/2122698861944725642>)  
-  so what George was doing in france last week was coaching CrowdStrike CEO George Kurtz in an F1 car alongside Nico Rosberg and Esteban Gutiérrez\!  
-  @russyrax · 2026-11-17 22:30
+- [🛑 FAA, NSA, Microsoft, Apple, United Airlines, Chase bank, Bank of America and MANY OTHERS are currently having OUT…](<https://x.com/TheBlackChannel/status/2122784274147328417>)  
+  Hey @CNN , so are they ALL using the SAME "router" and "old technology" that the FAA was using? Apple and Microsoft using "old wiring?" Is that your excuse?  
+  @TheBlackChannel · 2026-11-18 04:09
 
-- [Senior Nvidia employee told board it could lose irreplaceable talent if it doesn’t reinstate Jensen Huang as CEO.](<https://x.com/GlobeEyeNews/status/2122695969733300490>)  
-  @GlobeEyeNews · 2026-11-17 22:18
+- [Major IT outages/issues in the last 6 days: November 12th - Microsoft November 13th - FAA ground stoppage November…](<https://x.com/MorePerfectUS/status/2122784092055802261>)  
+  Major IT outages/issues in the last 6 days: November 12th - Microsoft November 13th - FAA ground stoppage November 16th - Chase Bank, Bank of America, Wells Fargo November 16th - United Airlines Today - Apple, Gmail, NSA Net, Marriott, Equinor, Charles Schwab  
+  @MorePerfectUS · 2026-11-18 04:09
 
-- [今天深圳APEC，六个老板同台说真话，比新闻通稿好看十倍。](<https://x.com/xiaoyezt/status/2122693329767064002>)  
-  ​​雷军先自爆：AI砸钱砸得凶，能落地的场景没几个，真正在这一轮挣到钱的公司，掰着手指头数得过来。他把出路押在物理世界——具身智能机器人，想象力他认为超过汽车。  
-  @xiaoyezt · 2026-11-17 22:08
+- [Breaking: Apple is now the latest company to experience outages.](<https://x.com/ProudSocialist/status/2122783904868221324>)  
+  First Microsoft Outlook goes down last week then all planes are grounded then multiple banks experience widespread outages then the NSA gets hit then 178 companies are hit with a cyber attack and now Apple is down,  
+  @ProudSocialist · 2026-11-18 04:08
 
-- [Higgsfield is breaking creators.](<https://x.com/YouArtStudio/status/2122693057002770487>)  
-  We're here to change that. Today, we're introducing the most affordable Seedance MCP on the market. $0.0918/sec. Pay as you go. 50% cheaper. We're literally selling below cost. No more overpriced AI video generation. Let's bring freedom back  
-  @YouArtStudio · 2026-11-17 22:07
+- [Cyberpolygon brought to you by Tel Aviv which wants to become an "AI superpower" by hijacking the US's own AI posit…](<https://x.com/cirnosad/status/2122783586655068567>)  
+  NVIDIA is gone and now Israeli. OpenAI + Anthropic were already Israeli. But there's one gap: Open source AI. So these cyberattacks are meant to be  
+  @cirnosad · 2026-11-18 04:07
 
-- [Hey @grok , is it true or false news that Nvidia CEO Jensen Huang resigned last week and his allies are urging the…](<https://x.com/gull_Rukh_6/status/2122685592282730786>)  
-  Is there any reliable evidence supporting this claim ...?  
-  @gull\_Rukh\_6 · 2026-11-17 21:37
+- [BREAKING: The Dow Jones Industrial Average plunges over -1,000 points on the day as markets await Nvidia, $NVDA, ea…](<https://x.com/KobeissiLetter/status/2122783194449695021>)  
+  BREAKING: The Dow Jones Industrial Average plunges over -1,000 points on the day as markets await Nvidia, $NVDA, earnings.  
+  @KobeissiLetter · 2026-11-18 04:05
 
-- [Jensen Huang after all of this:](<https://x.com/Samann_ai/status/2122685142267265291>)  
-  @Samann\_ai · 2026-11-17 21:35
+- [Genesis AI 融资 5 亿美元，估值 35 亿美元](<https://x.com/rohanpaul_ai/status/2122783054720807005>)  
+  Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元，目标是构建具备人类水平智能与能力的通用机器人。资金用于通过可采集触觉和力的手套记录人类操作来教会机器人手部技能，其 GENE 模型通过 Genesis World 物理仿真器在多个虚拟环境并行自我练习，并可改变场景和物体来提前…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 04:04
 
-- [Fuck, this is absolutely insane.](<https://x.com/RamSingh_369/status/2122683963655495726>)  
-  Dario Amodei, CEO of Anthropic, was asked what a young person who has just finished high school should do today. His answer: «AI already knows how to do a junior lawyer’s job. A junior financial analyst’s. A junior consultant’s. We can’t deny  
-  @RamSingh\_369 · 2026-11-17 21:31
+- [OUTAGE UPDATE \(nothing to see here\): \* Thursday: Microsoft outage impacts millions of users \* Friday: FAA grounds a…](<https://x.com/Amy_Siskind/status/2122782394356777210>)  
+  OUTAGE UPDATE \(nothing to see here\): \* Thursday: Microsoft outage impacts millions of users \* Friday: FAA grounds all aircraft, longest shutdown since 9/11 \* Monday: thousands of customers at major U.S. banks reported problems with transactions, after a techni…  
+  @Amy\_Siskind · 2026-11-18 04:02
 
-- [兄弟姐妹们，黄仁勋很可能要重出江湖并另起炉灶了！](<https://x.com/Dragonhau66/status/2122682770094723468>)  
-  据内部消息说，老黄正考虑新创办一家公司，选择新加坡或阿联酋作为注册主体，美国只留研发前哨。 他不会去碰通用GPU，而是大概率走存算一体和光子互联，卖架构标准，不卖卡。 华盛顿抓不住违反管制的把柄，英伟达也告不了他复制CUDA。  
-  @Dragonhau66 · 2026-11-17 21:26
+- [Microsoft goes down.](<https://x.com/dpakman/status/2122781667857486064>)  
+  The FAA goes down. United Airlines goes down. Banks have outages. Now the NSA's internal communications are reportedly down. At what point do we stop treating these as isolated glitches and start asking, how can we blame Joe Biden for all this stuff?  
+  @dpakman · 2026-11-18 03:59
 
-- [I once saw Jensen Huang at a grocery store in Berlin.](<https://x.com/fabianstelzer/status/2122682492326920613>)  
-  I told him how cool it was to meet him in person, but I didn’t want to be a douche and bother him and ask him for photos or anything. He said, “Oh, like you’re doing now? That’s okay, I love meeting people.” I was taken  
-  @fabianstelzer · 2026-11-17 21:25
+- [🚨🚨🚨AMERICA’S CRITICAL SYSTEMS ARE FAILING. ① Chase ② Bank of America ③ Wells Fargo ④ U.S.](<https://x.com/mjfree/status/2122781270975422882>)  
+  Bank ⑤ Capital One ⑥ Charles Schwab ⑦ Zelle ⑧ Microsoft ⑨ FAA ⑩ NSA Maybe Trump should focus on keeping America running and Americans safe instead of courting Xi, Putin  
+  @mjfree · 2026-11-18 03:57
 
-- [It's officially Nvidia's earnings day.](<https://x.com/KobeissiLetter/status/2122681159071179016>)  
-  Today's earnings report and call will likely be the most watched earnings event in history. We are watching two key things: 1. Do executives show any willingness to reinstate Jensen Huang 2. What has CHANGED from a business perspective  
-  @KobeissiLetter · 2026-11-17 21:20
+- [Sam Altman 称 PCB 覆铜板短缺曾限制 OpenAI 扩大 AI 服务销售](<https://x.com/rohanpaul_ai/status/2122780216527643104>)  
+  Rohan Paul 转述 Sam Altman 的说法：OpenAI 有时无法销售更多 AI 服务，原因是全球 PCB 覆铜板（电路板基材）耗尽。完整视频来自 Semafor YouTube 频道。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:53
 
-- [我的油管第15期：《黄仁勋的丧钟还是喜讯？》： 黄乐的运作就是一个马甲套另一个马甲，套得太多，黄乐就是马六甲。](<https://x.com/dayangelcp/status/2122680420756082844>)  
-  黄乐是不是间谍不重要。关键是她肩负祖国特殊使命。孟晚舟是隐退的黄乐，黄乐是没暴露的孟晚舟。当然现在黄乐也“事成拂衣去，深藏功与名”。两个翠萍，遥遥相望，会心一笑。  
-  @dayangelcp · 2026-11-17 21:17
+- [Microsoft Research 发布 GraphRAG Zero，已在 Foundry IQ 和 GitHub Re…](<https://x.com/MSFTResearch/status/2122779387888103867>)  
+  Microsoft Research 推出 GraphRAG Zero，将图检索从实验性技术转为可部署系统，面向真实应用和智能体优化，帮助组织快速、低成本地探索自有数据间的关联。该技术现已在 Foundry IQ 和 GitHub 的 Repo Mind Light 中可用，支持从科学发现到代码仓…  
+  X：Microsoft Research \(@MSFTResearch\) · 2026-11-18 03:50
 
-- [Dario Amodei telling lawmakers that open-source AI is dangerous because you cannot "monitor its usage" or “revoke a…](<https://x.com/MyDaebakCafe/status/2122676347793215509>)  
-  He literally described why Linux, local encryption, and open weights exist in the first  
-  @MyDaebakCafe · 2026-11-17 21:00
+- [‼️A massive outage has paralyzed hundreds of services around the world: Apple, Microsoft, Gmail, Zoom, OpenAI and o…](<https://x.com/Maks_NAFO_FELLA/status/2122779369508594100>)  
+  ‼️A massive outage has paralyzed hundreds of services around the world: Apple, Microsoft, Gmail, Zoom, OpenAI and other platforms are not working, — Downdetector Among the services that are experiencing outages are: Apple, Microsoft, Gmail, Bank of America, Zo…  
+  @Maks\_NAFO\_FELLA · 2026-11-18 03:50
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 39 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 38 页
