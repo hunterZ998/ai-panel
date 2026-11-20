@@ -20,8 +20,13 @@
 
 ## 相关资讯 · 23 条
 
-- [Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products](<https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 15:10
+- [从“刷分”打到“补缝”，机器人新竞赛升温](<https://36kr.com/p/4077960501008008?f=rss>)  
+  2026年末，具身智能的商业化似乎终于等来了它的“破局点”。 过去，这个行业一直受困于“大脑”不够聪明，无法应对复杂环境；“手”不够灵活，且学习成本高昂。 但最近，两个技术突破为它们带来了新的进展。 一方面是“大脑”的外溢。 Anthrop  
+  36氪 · 2026-11-20 21:34
+
+- [阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏](<https://www.tmtpost.com/8212798.html>)  
+  AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。  
+  钛媒体 · 2026-11-20 18:31
 
 - [优必选的美女帅哥们，想进家门再等等](<https://36kr.com/p/4076727621457793?f=rss>)  
   2026年APEC上，参与专题研讨的具身智能领域代表人物，其一是宇树创始人兼CEO王兴兴，其二是优必选创始人、董事会主席兼CEO周剑。 优必选的总部就位于深圳，作为专注于全尺寸人形机器人的上市公司，优必选是展示中国机器人产业水平的重要平台。  
@@ -34,10 +39,6 @@
 - [快手 CEO 程一笑：Kling 4.0 已进入游戏和具身智能等场景](<https://www.ithome.com/1/029/686.htm>)  
   快手 CEO 程一笑在业绩会上表示，Kling 4.0 上线后可灵流水提升，收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU 均保持增长。  
   IT之家·人工智能 · 2026-11-19 21:36
-
-- [原力无限完成数千万元Pre-B轮融资](<https://www.itjuzi.com/investevent/14708196>)  
-  原力无限（INFIFORCE）是一家聚焦具身大脑（AtomBrain）研发的具身智能高科技企业，致力于构建物理AI时代的新一代智能底座。公司围绕第一人称（Ego）原生数据、DataGrid 全栈AI Infra与隐式世界模型，打造能够…  
-  IT桔子 · 2026-11-19 10:24
 
 - [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
   MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  

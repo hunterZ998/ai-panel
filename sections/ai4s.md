@@ -20,7 +20,11 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 10 条
+## 相关资讯 · 11 条
+
+- [打败柯洁的男人，融资333亿，打破纪录](<https://36kr.com/p/4077814373012609?f=rss>)  
+  九年前，职业九段棋手柯洁在乌镇连输三局，败给人工智能AlphaGo。 九年后，AlphaGo背后的男人，又在资本市场创造了一项纪录。 11月17日，由德米斯·哈萨比斯（Demis Hassabis）创办的AI制药公司Isomorphic L  
+  36氪 · 2026-11-20 18:22
 
 - [AI制药狂奔之后，“计算医学”开始补上极其艰难的一块](<https://36kr.com/p/4077699178108037?f=rss>)  
   AI制药发展到今天，出现了一个有些反直觉的现象。 一边，是模型能力的快速跃迁。AlphaFold之后，蛋白质结构预测已经发生根本变化，生成式AI开始进入蛋白设计、小分子设计、抗体发现，生命科学基础模型、大模型和科研智能体不断出现。2026年  

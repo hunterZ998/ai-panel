@@ -2,9 +2,17 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [greatai Review](<https://www.producthunt.com/products/greatai-review>)  
+  Free AI + human code review for open source &amp; nonprofits  
+  Product Hunt · English · 2026-11-20 12:56
+
 - [Mailpipe](<https://www.producthunt.com/products/mailpipe-2>)  
   Draft Apple Mail replies with your local AI agent CLI  
   Product Hunt · English · 2026-11-20 12:13
+
+- [Docker](<https://www.producthunt.com/products/docker>)  
+  Built to run on trust, for the agentic era  
+  Product Hunt · English · 2026-11-20 07:04
 
 - [Veryfi Thinking Mode](<https://www.producthunt.com/products/veryfi>)  
   AI agents review and correct receipt and invoice data.  
@@ -50,13 +58,13 @@
   The ledger you and your AI work from  
   Product Hunt · English · 2026-11-19 08:53
 
+- [Telo](<https://www.producthunt.com/products/telo-2>)  
+  Apple Health in ChatGPT and Claude, in any country  
+  Product Hunt · English · 2026-11-19 01:44
+
 - [Groundwork](<https://www.producthunt.com/products/groundwork-6>)  
   Claude Code plans that re-runs never overwrite  
   Product Hunt · English · 2026-11-19 01:21
-
-- [Nexuro AI](<https://www.producthunt.com/products/nexuro-ai>)  
-  Build AI chatbots from your own content in minutes  
-  Product Hunt · English · 2026-11-18 22:37
 
 - [DWaste](<https://www.producthunt.com/products/deep-waste>)  
   Eliminate recycling contamination with low-power Edge AI  

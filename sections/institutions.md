@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
 
+- [Charts of the Week: There is No Gen Z](<https://www.a16z.news/p/charts-of-the-week-there-is-no-gen>)  
+  AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds  
+  a16z · 2026-11-20 23:08
+
+- [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
+  A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
+  a16z · 2026-11-20 23:03
+
 - [The a16z FDE Fellowship is back](<https://www.a16z.news/p/the-a16z-fde-fellowship-is-back>)  
   An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more  
   a16z · 2026-11-20 01:26
@@ -86,17 +94,9 @@
   We showed exactly how xAI bypassed the grid \(and permitting\!\) with truck-mounted turbines, why the behind-the-meter p…  
   SemiAnalysis · 2026-11-04 04:44
 
-- [The State of Longevity](<https://www.a16z.news/p/the-state-of-longevity>)  
-  The second was ChatGPT.  
-  a16z · 2026-11-03 23:06
-
 - [2026: The State of Enterprise AI](<https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/>)  
   Enterprise AI Reaches Scale In 2026, AI became an economy-scale force. Enterprise AI deployment spending surged from…  
   Menlo Ventures · 2026-11-03 22:00
-
-- [Investing in Tutor Intelligence](<https://www.a16z.news/p/investing-in-tutor-intelligence>)  
-  They deploy into real production environments ahead of full autonomy, using human teleoperators \(“tutors”\) to train t…  
-  a16z · 2026-11-03 00:05
 
 - [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
   It aims to be the world’s best benchmark for measuring general agentic capabilities.  

@@ -10,15 +10,31 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 19 条
+## 相关资讯 · 23 条
+
+- [5大场景实测 Kling Image 4.0：一句话直出电商长图与原生8K](<https://mp.weixin.qq.com/s/4czsAxbdPzusj4rPrtWuMw>)  
+  作者以二十多组真实案例实测可灵AI新上线的 Kling Image 4.0，重点验证电商详情页长图、连续组图、高密度中文信息图和真人模特商拍等能力，称一句话即可直出从头图到规格表的整页详情页。文章还介绍了首次支持的原生8K画质、内置70多款预置字体、110多种电影影调库、局部智能改字和草图转分镜等用法，并附完整提示语供参考。  
+  公众号：卡尔的AI沃茨 · 2026-11-20 20:26
+
+- [可灵AI与导演Stephane Benini合作推出AI影片《Redline》，用Kling 4.0挑战雨夜赛车](<https://mp.weixin.qq.com/s/bCtMYw0Z5YcUKWdD7aMtOA>)  
+  可灵AI与拥有20年拍车经验的导演Stephane Benini合作推出原创AI影片《Redline》，基于Kling 4.0生成雨夜高速竞速画面。Kling 4.0可区分赛车自身运动与摄影机跟拍运动，生成定向运动模糊，并在漂移过弯时保持车身结构与车轮部件稳定；其全能参考、关键帧、3D模型参考和更长生成时长提升了运镜与车辆动态的可控性。  
+  公众号：可灵AI（快手·视频） · 2026-11-20 19:52
+
+- [生数科技朱军团队获北京市自然科学奖一等奖，扩散模型成果支撑 Vidu 研发](<https://mp.weixin.qq.com/s/VBxPIZGeRcYD8XyBcL_kYw>)  
+  生数科技创始人朱军、CTO 鲍凡领衔团队的“高效可扩展的扩散模型理论与方法”成果获 2025 年度北京市自然科学奖一等奖。该成果在扩散模型基础理论、采样算法与模型架构三方面取得突破，其中免训练采样方法实现近百倍加速，并被 Diffusers 等开源工具库集成。相关研究为生数科技 Vidu 视频生成大模型及 Vidu Q、Vidu S 系列提供技术支撑。  
+  公众号：生数科技（Vidu·视频） · 2026-11-20 18:58
+
+- [AI这一年，倒下的APP们](<https://36kr.com/p/4077860656354953?f=rss>)  
+  2025年9月，Sora冲上美国AppStore榜首那天，OpenAI的工程师们在社交平台上转发着截图，仿佛AI视频时代真的来了。七个月后，这款产品从用户的手机里消失了，App黑屏，网页报错，API接到了终止通知。 这不是个例。冒泡鸭全平台  
+  36氪 · 2026-11-20 18:35
+
+- [Falling Prices Push AI Video Toward Platform Economics](<https://www.tmtpost.com/8212911.html>)  
+  Video-model quality is converging as per-second API prices decline. OpenAI discontinued Sora after sustained losses.…  
+  钛媒体 · 2026-11-20 17:54
 
 - [服务 54 万商家后，AINU AI 想把"爆款视频"变成一条生产流水线](<https://36kr.com/p/4063646998140033?f=rss>)  
   AINU AI 首页工作台 过去两年，AI 视频赛道的主角是"模型"。可灵、即梦、Runway 轮番刷新生成质量纪录，行业讨论始终围绕画面够不够真实、动作是否自然。 但在真实的创作者场景里，另一个问题正在浮现——"做得出来"之后，怎么"做得  
   36氪 · 2026-11-20 10:53
-
-- [除AI外全线下滑，可灵真成“全村希望”？](<https://36kr.com/p/4076736740676484?f=rss>)  
-  2026 年 11 月 19 日，快手发布 2026 Q3 季度财报，财报数据显示，Q3 季度总收入 316 亿元，同比下滑 11.1%，经调整净利润 7.9 亿元，同比下滑 84.2%。Q1-Q3，快手总收入 1008.43 亿元，同比下  
-  36氪 · 2026-11-20 07:58
 
 - [TRACER：AI 视频系统 24 小时监测 ICU 患者谵妄早期迹象](<https://hai.stanford.edu/news/ai-enabled-video-system-monitors-icu-patients-for-early-signs-of-delirium>)  
   计算机视觉专家与医生联合开发了 TRACER 系统，通过 ICU 床旁双摄像头 24 小时视频分析，结合电子健康记录追踪患者活动变化，识别谵妄早期迹象。系统以每分钟采样 15 种"原子动作"、压缩为每小时报告的方式降低数据量，医生可通过多模态界面查询患者数日行为变化。该研究部分由 Stanford HAI 资助。  
