@@ -1,6 +1,130 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 22 页
+[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 23 页
+
+- [LG AI Research 在 ICML 2026 提出 LASE：基于可靠性自适应辩论的高效多智能体推理](<https://www.lgresearch.ai/blog/view?seq=751>)  
+  LG AI Research 在 ICML 2026 提出 LASE（Leader-Adaptive Structured Engagement）框架，按需触发多智能体辩论以降低 token 开销。  
+  LG AI Research：官方研究博客 · 2026-11-17 00:00
+
+- [PFN 与 SEMIFIVE 合作开发 AI 推理半导体 MN-Core L2000 系列](<https://www.preferred.jp/ja/news/pr20261116>)  
+  Preferred Networks（PFN）与 SEMIFIVE 宣布在 AI 推理专用半导体 MN-Core L2000 系列的开发上展开合作，该系列是 PFN 计划 2027 年开售的 MN-Core L1000 系列的下一代产品，内存带宽提升至 2 倍以上。  
+  Preferred Networks：AI 研究与产品 · 2026-11-17 00:00
+
+- [NVIDIA 发布 Nemotron for Science，用开源模型和数据集加速科学 Agent 开发](<https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents>)  
+  NVIDIA 推出 Nemotron for Science，整合 Nemotron 3.5 Super VL 开源模型、化学评测与数据集 LitmusBench v0.2（近 5 万道化学推理题）及后训练配方，帮助研究者构建科学发现 Agent。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 扩展 Vera CPU 平台，加速科学发现](<https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery>)  
+  NVIDIA 发布 Vera CPU 机架级平台，由 192 颗 Vera CPU 通过 Quantum-X800 InfiniBand 互联，面向气候建模、分子动力学等 HPC 负载。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 携手 IBM 与 Fermilab 推出量子-经典协同设计平台，并发布纠错解码算法突破](<https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing>)  
+  NVIDIA 宣布与 IBM 及美国能源部费米国家加速器实验室（Fermilab）合作，共建模块化量子计算协同设计平台，将 NVIDIA DGX B200 系统与 IBM 量子计算机（含 IBM Quantum Nighthawk）同址部署。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [Audible 推出 AI“音频发现”功能，帮用户挑选下一本有声书](<https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/>)  
+  Audible 上线“audio discovery”功能，用 AI 生成书籍主题概览，并汇总读者好评与编辑或作者评论，配合有声样章播放。该功能首批面向美国部分英文书目开放，同时推出基于收听偏好的个性化合集。其 Recaps 与“Ask a Question”工具也将于 12 月扩展至更多美国书目。  
+  TechCrunch：AI（RSS） · 2026-11-16 23:52
+
+- [Anthropic 谈智能体记忆：关键在于知道该忘什么，而不是存多少](<https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/>)  
+  Anthropic 发布研究文章，探讨 Claude 如何跨会话保留知识，结论是选择性笔记优于全量存档。在 Pokémon Red 测试中，Claude Sonnet 3.7 存了约 413 个文件只拿到 1 枚徽章，而 Claude Fable 5 只记策略和已验证规则，获得 4 枚徽章。  
+  The Decoder：AI News（RSS） · 2026-11-16 23:25
+
+- [美国收紧 AI 芯片出口管制，限制中国企业远程获取算力](<https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/>)  
+  美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。  
+  TechCrunch：AI（RSS） · 2026-11-16 23:02
+
+- [The Dream of the 1990s Is Alive Again in Cybersecurity](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
+  Taking the experiences from the first prolific zero-day era and applying it to today, combined with recent conversati…  
+  a16z · 2026-11-16 23:02
+
+- [Sakana AI 发布基于日本金融资格考试的基准 JFinBench](<https://sakana.ai/jfinbench/>)  
+  Sakana AI 基于公認会計士、税理士等日本6项金融资格考试2026年版共321题构建日语金融基准 JFinBench，并公开数据集、代码与排行榜。用 mostly 编码智能体加人工全量校验的 human-in-the-loop pipeline 构建，后续可低成本更新。  
+  Sakana AI：Blog（网页） · 2026-11-16 23:00
+
+- [404 Media 调查 Media Nov Records 用 AI 内容矩阵误伤真实音乐人](<https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/>)  
+  404 Media 调查发现，音乐人 Samantha Shokin 演唱的公有领域保加利亚民歌翻唱被 Media Nov Records 发起版权投诉下架，她两次申诉均被 YouTube 自动驳回，联系不上任何人工客服。  
+  404 Media（RSS） · 2026-11-16 22:58
+
+- [Google Maps 推出 Ask Maps 行程规划与 AI 预约新功能](<https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/>)  
+  Google 于周一宣布在 Google Maps 推出新的 AI 功能，用户可用 Ask Maps 生成按天拆分的行程，包含每个站点的编号地图钉和实时路况、营业时间等信息，可分享或导出到 Google Docs。  
+  TechCrunch：AI（RSS） · 2026-11-16 22:48
+
+- [2026: The State of AI in Healthcare](<https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/>)  
+  Healthcare AI Moves from Back Office to Bench and Bedside In 2026, healthcare AI accelerated in life sciences and mov…  
+  Menlo Ventures · 2026-11-16 22:30
+
+- [New Ask Maps features to help with holiday travel and prep](<https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/>)  
+  Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps featu…  
+  Google AI · 2026-11-16 22:00
+
+- [Google Maps 的 Ask Maps 推出 AI 行程规划功能](<https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning>)  
+  Google 为 Maps 中由 Gemini 驱动的 Ask Maps 推出 AI 行程规划功能，可生成单日或多日逐日行程，附路线和编号标记，并支持分享和导出到桌面端 Google Docs。行程规划与保存清单搜索面向 200 多个国家推出，'know before you go' 出行提示和预约查找功能先在美国上线，同时 Ask Maps 扩展至欧洲 30 多个国家。  
+  The Verge：AI（RSS） · 2026-11-16 22:00
+
+- [Gergely Orosz 对谈 Satya Nadella：代码变便宜后软件工程的新形态](<https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes>)  
+  Pragmatic Engineer 发布与 Microsoft CEO Satya Nadella 的访谈，探讨代码生成变廉价后验证成为难点时软件工程的走向。Nadella 承认 IDE 形态在约六个月内式微使 GitHub Copilot 一度落后于 Claude Code，并提出软件工厂、混合智能、把模型当作内部风险对待等观点，还谈及自愿离职计划与初级岗位招聘放缓的原因。  
+  Pragmatic Engineer（RSS） · 2026-11-16 21:33
+
+- [Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本](<https://lovable.dev/blog/introducing-drafts>)  
+  Lovable 推出 Drafts 功能，可创建应用的完整副本，从设计到数据库，让用户和团队并行试验不同想法而不触碰线上应用。每个 Draft 拥有独立聊天和预览，并自带示例数据便于查看效果；可创建任意数量的 Draft，接受后仍可在发布前通过 History 回滚，测试数据在接受或删除 Draft 时清除，不会混入真实用户数据。  
+  Lovable Blog · 2026-11-16 21:30
+
+- [英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%](<https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down>)  
+  英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。辞职数小时后，路透社报道其第三段婚外情。事件还涉及公司芯片供应相关指控，国会议员已启动调查。报道称黄仁勋正联络盟友寻求回归，业内担心动荡加剧营收压力，可能促使公司在安全投入上有所松懈。  
+  The Verge：AI（RSS） · 2026-11-16 21:00
+
+- [Qwen4-Max](<https://www.producthunt.com/products/qwen3>)  
+  Qwen's new flagship for long-running agent work  
+  Product Hunt · English · 2026-11-16 20:32
+
+- [Freshworks 前高管创办的 Dreamteam 融资 5300 万美元，用 AI 原生 CRM 挑战 Salesforce 和 HubSpot](<https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/>)  
+  前 Freshworks 高管创办的 Dreamteam 融资 5300 万美元，含种子轮和 A 轮，分别由 Together Fund 和 Accel 领投，Premji Invest 参投，用 AI 原生 CRM 挑战 Salesforce 和 HubSpot。  
+  TechCrunch：AI（RSS） · 2026-11-16 20:30
+
+- [Science at the Frontier: How scientists use ChatGPT](<https://openai.com/index/science-at-the-frontier>)  
+  Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivit…  
+  OpenAI · 2026-11-16 20:00
+
+- [ElevenLabs 收购日本语音 AI 公司 Kotoba](<https://elevenlabs.io/blog/kotoba>)  
+  ElevenLabs 宣布收购日本语音 AI 公司 Kotoba，计划加速 AI 智能体和语音界面在日本这一全球第四大经济体的落地。  
+  ElevenLabs：Blog（网页） · 2026-11-16 20:00
+
+- [Claude Code 团队如何设计 Agent 验证与测试流程](<https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/>)  
+  Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。  
+  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-16 20:00
+
+- [AI 能写代码后，程序员该做什么：用 AI 起草规格、维护本体并搭建审查 harness](<https://www.oreilly.com/radar/when-ai-can-code-what-is-left-for-programmers-to-do/>)  
+  作者提出一种人机分工的开发流程：让 Plaud、Granola 等 AI 工具记录并分析客户对话来起草规格，人类负责写带证明的 guardrail、维护机器可校验的本体（ontology）以及搭建确定性 CLI、代码前闸门、二次重生成比对、每周漂移审计等审查 harness。  
+  O'Reilly Radar（热点 RSS） · 2026-11-16 19:54
+
+- [ChinaTalk 解读商务部新规：从盾构机到光伏设备，中国寻找稀土之外的贸易杠杆](<https://www.chinatalk.media/p/mofcoms-new-weapons-of-mass-construction>)  
+  ChinaTalk 分析中国商务部2026年10月针对盾构机、挖泥船部件、光伏制造设备、生物技术和无人机的新出口管制，认为这些是继稀土之后识别出的新潜在杠杆。  
+  ChinaTalk（RSS） · 2026-11-16 19:33
+
+- [Alex Imas &amp; Tyler Cowen \| AI Is Moving Fast. Why Isn’t the Economy?](<https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY>)  
+  AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
+  The a16z Show · 2026-11-16 19:30
+
+- [Meta JiTTests 用 LLM 生成测试在风险代码合入前捕获隐私缺陷](<https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/>)  
+  MarkTechPost 介绍 Meta 将 LLM 测试生成系统 JiTTests 从研究原型推进到生产基础设施，该系统编写旨在对风险 diff 失败的可执行测试，2026 年上半年在 diff 阶段捕获 74 起隐私 SEV，隐私 SEV 发生率下降 20%。  
+  MarkTechPost（RSS） · 2026-11-16 18:39
+
+- [n8n 博客分析 Agent 时代集成负担如何转移给供应商](<https://blog.n8n.io/ai-made-integrations-the-vendors-problem/>)  
+  n8n 博客作者在第二版 AI Agent 开发工具报告基础上，重新审视 MCP 兴起后集成形态的变化：供应商需自行维护 MCP server 并承担版本跟进、发现和安全传输负担，消费方只需认证后由模型决定调用。  
+  n8n Blog · 2026-11-16 18:17
+
+- ["No sane person questions whether AI works" — but an AI bubble appears ready to pop.](<https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble>)  
+  The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to bur…  
+  Axios · 2026-11-16 18:15
+
+- [自媒体作者分享10条指挥Agent最常用的Prompt](<https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA>)  
+  作者让Agent整理出自己近两个月指挥Agent干活最常用的10条Prompt并分享，包括从第一性原理找根因、先对齐喜好再出3版方案、推演改动二阶三阶影响、假设最优方案错误找反例、分析Git历史识别可移除的历史包袱、评估新工程师接手的认知成本、复盘Bug和返工并沉淀成规则或Skill等。作者希望对大家指挥Agent开发有用。  
+  公众号：数字生命卡兹克 · 2026-11-16 18:05
+
+- [阿里发布 Qwen4-Max：2.4T MoE、71B 激活、1M 上下文](<https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/>)  
+  阿里 Qwen 团队发布 Qwen4 系列首个模型 Qwen4-Max，为专有稀疏 MoE 模型，2.4T 骨干参数、每 token 激活 71B，另有 328B N-gram Embedding 参数，支持文本、图像和视频输入及 1M token 上下文窗口、393K 最大输出。  
+  MarkTechPost（RSS） · 2026-11-16 17:44
 
 - [IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元](<https://www.ithome.com/1/027/861.htm>)  
   IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。她认为近期市场波动属于有序调整，不太可能演变成系统性风险，但最坏情景下美股可能在 2026 年下跌 20%，2028 年全球经济产出比基准预测低 1.1%。  
@@ -58,127 +182,4 @@
   据大河报报道，广州我的影视文化传媒有限公司因在自制虚拟人物“方桃子”账号发布“NUTNUTLOOK 坚果力”美瞳广告，宣称“戴了一天都很舒服”等虚构使用效果，被广州市番禺区市场监督管理局罚款 6.82 万余元。该美瞳属第三类医疗器械，公司未取得《医疗广告审查证明》即发布，违反广告法。  
   IT之家·人工智能 · 2026-11-16 14:57
 
-- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
-  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
-  IT之家·人工智能 · 2026-11-16 14:54
-
-- [火山引擎开放 Seedance 2.5 4K API](<https://mp.weixin.qq.com/s/c6pWJXD6YXf8lcwLdNu5zA>)  
-  火山引擎宣布 Seedance 2.5 4K API 全面开放，可通过文末链接获取 API 入口。Seedance 官方优质作品及公开提示词可在火山方舟 Gallery 查看，网址 https://ark.volcengine.com/ark/gallery。  
-  公众号：火山引擎 · 2026-11-16 14:03
-
-- [More ways to move care forward with ChatGPT for Healthcare](<https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare>)  
-  Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare so…  
-  OpenAI · 2026-11-16 14:00
-
-- [Advancing computer-use agents for healthcare teams](<https://openai.com/index/advancing-computer-use-for-healthcare-teams>)  
-  OpenAI · 2026-11-16 14:00
-
-- [腾讯混元发布 Hy4 flash：224B 总参、12B 激活，单任务成本约 Hy4 的 5%](<https://www.ithome.com/1/027/630.htm>)  
-  腾讯混元团队宣布正式推出 Hy4 flash，总参数量 224B（含 64B Engram 参数），每 token 激活 12B，支持多模态输入与 100 万 token 上下文，官方定位为性价比最高的 Hy 模型。  
-  IT之家·人工智能 · 2026-11-16 13:09
-
-- [腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的高性价比日常模型](<https://mp.weixin.qq.com/s/5yBbf-ctYziM5r0i6Y17lA>)  
-  腾讯混元正式推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活参数 12B，支持多模态和 1M 上下文，API 价格相比 Hy4 大幅降低。  
-  公众号：腾讯混元 · 2026-11-16 13:06
-
-- [作者逆向分析 Windows 11 MissionControlAggregator，发现系统收集编码智能体使用数据并上传](<https://xusheng.dev/posts/windows-coding-agent-telemetry/>)  
-  作者逆向 Windows 11 的 MissionControlAggregator.dll，发现其内置 copilot.exe、claude.exe、codex.exe、cursor.exe 等编码智能体与开发工具名单，通过 ETW 事件记录使用位图并生成 Segments.SubCohorts 报告。  
-  Hacker News：AI 热帖 · 2026-11-16 13:00
-
-- [无界进化完成超亿元 Pre-A 轮融资，称刷新中国虚拟细胞企业单笔融资纪录](<https://www.ithome.com/1/027/609.htm>)  
-  无界进化（INFevo）11 月 16 日宣布完成超亿元 Pre-A 轮融资，由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等联合投资，老股东顺为资本、红杉中国和松禾资本追加，距 6 月天使轮仅五个月。  
-  IT之家·人工智能 · 2026-11-16 12:42
-
-- [阿里巴巴发布 Qwen4-Max：总参数 2.4T，支持百万上下文](<https://mp.weixin.qq.com/s/Osjnqqa62HLFl3JoseUt8A>)  
-  阿里巴巴于 11 月 16 日发布新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。官方称其基于新架构和训练优化，在智能体和编程等关键能力上持续进化，可在金融、法律等专业领域从信息检索走向专业交付。上线期间千问APP会员可限免体验，使用 Qwen4-Max 不消耗会员额度，活动时间以产品端页面为准。  
-  公众号：千问APP（阿里） · 2026-11-16 12:30
-
-- [腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型](<https://hunyuan.tencent.com/research/100145?langVersion=zh>)  
-  腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。  
-  腾讯混元：Research（API） · 2026-11-16 12:29
-
-- [豆包工作上线「工作台」功能，首批覆盖金融、医疗、教育等 21 个专业场景](<https://www.ithome.com/1/027/608.htm>)  
-  豆包工作宣布独家上线「工作台」功能，为专业工作场景提供预配置技能和工具的 AI 工作空间，首批覆盖金融、医疗、教育等 21 个场景。金融投研工作台提供公告解读、业绩分析等任务入口，可通过插件链接万得、同花顺、国泰海通等数据服务；用户还可自建并分享个人专属工作台。  
-  IT之家·人工智能 · 2026-11-16 12:27
-
-- [中国与东盟宣布将 2027 年定为人工智能合作年](<https://www.ithome.com/1/027/607.htm>)  
-  中国与东盟宣布将 2027 年定为人工智能合作年，中国－东盟自贸区 3.0 版升级议定书将于 2026 年 12 月 1 日生效。  
-  IT之家·人工智能 · 2026-11-16 12:17
-
-- [国家统计局：人工智能快速发展带动电子、电气机械等行业需求回升、价格上涨](<https://www.ithome.com/1/027/602.htm>)  
-  国家统计局新闻发言人王冠华在国新办发布会上表示，人工智能快速发展带动部分装备行业价格上行。10 月份电气机械和器材制造业、计算机通信和其他电子设备制造业价格环比均上涨 0.1%，同比分别上涨 6.2% 和 5.9%，两行业合计影响 PPI 同比上涨约 1.18 个百分点。  
-  IT之家·人工智能 · 2026-11-16 11:59
-
-- [阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60%](<https://www.ithome.com/1/027/512.htm>)  
-  阿里通义千问团队发布新一代旗舰模型 Qwen4-Max，采用 2.4 万亿参数稀疏 MoE 架构，原生支持视觉理解，提供 100 万 token 上下文窗口。  
-  IT之家·人工智能 · 2026-11-16 10:07
-
-- [腾讯公布总办 LinkTime 播客原文，号召所有业务面向 AI 时代再创业](<https://www.ithome.com/1/027/509.htm>)  
-  腾讯在 28 周年生日当天将年度总办 LinkTime 做成播客，并公布现场笔记原文，回应外界猜测。内容提出智能革命是不进则退的生死问题，所有核心业务要面向 AI 时代再创业、组织扁平化、打破山头主义；称 AI 金字塔核心模型已进入国内第一梯队，WorkBuddy 在 8 个月内成为中国提供最多 token 的单一 AI 产品，元宝定位决策资讯参谋，小微目标是让大家实现 token 自由。  
-  IT之家·人工智能 · 2026-11-16 10:03
-
-- [Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力](<https://qwen.ai/blog?id=qwen4-max>)  
-  Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。  
-  Qwen：Blog Retrieval（API） · 2026-11-16 10:00
-
-- [Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题](<https://www.ithome.com/1/027/505.htm>)  
-  Anthropic CEO 达里奥·阿莫迪上周五在纽约与摩根大通 CEO 杰米·戴蒙公开对谈，称算力是公司面临的最深层商业难题，并表示上市的重要原因就是增加现金储备，为高度不确定的算力需求提供缓冲。  
-  IT之家·人工智能 · 2026-11-16 09:52
-
-- [借鉴 Claude 常驻智能体指南的省 token 提示词技巧](<https://mp.weixin.qq.com/s/Zt7GxF84UxSHMEJmn6qRzQ>)  
-  作者把 Anthropic 常驻智能体指南的五组件（事件收件箱、定时器、记忆、权限、发件箱）翻译成一段提示词写入自己的 Grok bot，解决定时任务空转浪费额度的问题。  
-  公众号：卡尔的AI沃茨 · 2026-11-16 09:36
-
-- [Apple 联合 OpenEvidence 推出研究 App，探索临床数据支撑的健康 AI 问答](<https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>)  
-  Apple 与医疗 AI 公司 OpenEvidence 合作推出新研究 App，计划在美国招募最多 200,000 名 21 岁以上、使用 iPhone 15 及以上和 iOS 26 及以上并开启 Apple Intelligence 的用户，研究超过 12 个月。  
-  TechCrunch：AI（RSS） · 2026-11-16 09:30
-
-- [Apple 联合 OpenEvidence 启动 Health AI Usage Study，招募至多 20 万人评估健康 AI 工具](<https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools>)  
-  Apple 宣布与临床 AI 平台 OpenEvidence 合作开展 Apple Health AI Usage Study，旨在了解人们如何使用对话式健康 AI 工具并评估回答的准确性、细节和相关性。  
-  The Verge：AI（RSS） · 2026-11-16 09:26
-
-- [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
-  Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
-  IT之家·人工智能 · 2026-11-16 09:01
-
-- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
-  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
-  Hugging Face 官方团队博客 · 2026-11-16 08:00
-
-- [Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent](<https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces>)  
-  Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。  
-  Conductor 官方更新 · 2026-11-16 08:00
-
-- [The King’s Trust and OpenAI launch £1m partnership](<https://openai.com/index/the-kings-trust-and-openai>)  
-  The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical…  
-  OpenAI · 2026-11-16 08:00
-
-- [At Holiday Extras, dots get to work before anyone asks](<https://openai.com/business/customer-stories/holiday-extras-dots>)  
-  Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the comm…  
-  OpenAI · 2026-11-16 08:00
-
-- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
-  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
-  Ollama：Blog（RSS） · 2026-11-16 08:00
-
-- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
-  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
-  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
-
-- [SpaceXSI 分享用 Grok Bot 搭建五岗位会计团队的方法](<https://x.ai/news/grok-bot-accounting>)  
-  SpaceXSI 分享如何用 Grok Bot 组建由五个 Bot 组成的会计团队，分别负责开户、开票、账单支持、收款对账和催收，并称这些工作若由人工承担需将团队人数翻倍以上。  
-  xAI：News（网页） · 2026-11-16 08:00
-
-- [OpenRouter 为管理密钥新增只读与工作区范围权限控制](<https://openrouter.ai/blog/announcements/scoped-management-keys/>)  
-  OpenRouter 的管理密钥新增范围与访问级别两项设置，可限定为单个工作区或整个组织，并选择只读或读写，现已向所有组织、所有套餐开放。只读密钥可查看 API 密钥、活动与用量，读写密钥还可创建、更新和删除 API 密钥；工作区管理员可为自己的工作区创建密钥，无需再持有覆盖全组织的权限。两项设置在创建密钥时固定，如需变更只能新建密钥并删除旧密钥。  
-  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
-
-- [AI 笔记应用 Mem 宣布 2027 年 1 月 15 日关闭](<https://get.mem.ai/blog/mem-is-shutting-down>)  
-  AI 笔记应用 Mem 官方宣布将于 2027 年 1 月 15 日关闭。2026 年 12 月 18 日起笔记转为只读，可继续阅读和导出，付费已暂停且不再扣费。官方提供了迁移指南，支持把笔记导出到 Apple Notes、Notion、Google Docs、Obsidian、OneNote 等应用，并提醒注意附件、Collections 和会议转录等内容的核对。  
-  Hacker News：AI 热帖 · 2026-11-16 08:00
-
-- [Together AI 复盘 megakernels 经历并介绍 Together Compiler 的构建之路](<https://www.together.ai/blog/road-to-together-compiler>)  
-  Together AI 介绍其推理优化框架 Together Compiler 的构建历程。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
-
-[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 22 页
+[返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 23 页

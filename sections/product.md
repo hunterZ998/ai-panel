@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [PH今日热榜 \| 2026-11-19](<https://decohack.com/producthunt-daily-2026-11-19/>)  
+  S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
+  Product Hunt 中文 · DecoHack · 2026-11-19 15:00
+
 - [Tecla](<https://www.producthunt.com/products/tecla-3>)  
   A proactive AI agent whose interface is a TODO list  
   Product Hunt · English · 2026-11-19 11:05
@@ -54,17 +58,25 @@
   RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
   Product Hunt 中文 · DecoHack · 2026-11-18 15:00
 
-- [AssemblyAI-STT-3.7](<https://www.producthunt.com/products/assemblyai>)  
-  Speech-to-Text for live calls, voice agents, and recordings  
-  Product Hunt · English · 2026-11-18 14:50
+- [SoreQen Code](<https://www.producthunt.com/products/soreqen-code>)  
+  The coding agent that checks its own work  
+  Product Hunt · English · 2026-11-18 11:14
 
-- [Incredible Agents](<https://www.producthunt.com/products/incredible>)  
-  Fast Voice AI that sees your screen and runs your agents  
-  Product Hunt · English · 2026-11-18 06:02
+- [AI Canvas](<https://www.producthunt.com/products/ai-canvas-2>)  
+  A design system for AI agents to design badass interfaces  
+  Product Hunt · English · 2026-11-17 23:46
 
 - [dusk bot](<https://www.producthunt.com/products/dusk-bot>)  
   free open source Grok bot alternative  
   Product Hunt · English · 2026-11-17 22:13
+
+- [Beacon](<https://www.producthunt.com/products/beacon-26>)  
+  Give your AI agent the browser you're already signed into  
+  Product Hunt · English · 2026-11-17 18:45
+
+- [KaDeep AI](<https://www.producthunt.com/products/kadeep-ai>)  
+  Ready to ship? One agent tests, translates and audits it  
+  Product Hunt · English · 2026-11-17 16:00
 
 - [PH今日热榜 \| 2026-11-17](<https://decohack.com/producthunt-daily-2026-11-17/>)  
   Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
@@ -105,9 +117,5 @@
 - [PH今日热榜 \| 2026-11-13](<https://decohack.com/producthunt-daily-2026-11-13/>)  
   Plurai Simulation：一个模拟世界，让你的智能体在每次运行中不断提升。；YouArt Desktop App：创意团队的指南；Omnigraph：开源图形数据库，专为你的人工智能代理设计  
   Product Hunt 中文 · DecoHack · 2026-11-13 15:00
-
-- [TestSprite 4.0](<https://www.producthunt.com/products/testsprite>)  
-  Fix one thing, break another? This agent checks it all  
-  Product Hunt · English · 2026-11-13 06:40
 
 [返回面板](../README.md) · 第 1 / 1 页

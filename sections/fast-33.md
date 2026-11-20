@@ -1,180 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 38 页
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 40 页
 
-- [Many people are just starting to learn how Jensen Huang ruled Nvidia—from his gnarly eviscerations of employees to…](<https://x.com/anissagardizy8/status/2122493529293475884>)  
-  A must-read with @HannaCritch @ByKLong @RWhelanWSJ for @WSJ  
-  @anissagardizy8 · 2026-11-17 08:54
+- [Jensen's return is not just in the best interest of NVIDIA, but the world.](<https://x.com/dhh/status/2122749945103192164>)  
+  The board of directors best get moving on extending that invitation. Chop chop\!  
+  @dhh · 2026-11-18 01:53
 
-- [Anthropic hasn't realized it yet or maybe doesn't have a choice at this point, but destroying Jensen Huang also des…](<https://x.com/FinanceLancelot/status/2122493078540099748>)  
-  In hindsight, this IPO may be seen as what popped AI bubble valuations. $ANT IPOs on Thursday November 19, 2026.  
-  @FinanceLancelot · 2026-11-17 08:52
+- [Trump’s handling of Jensen Huang is the intersection of corruption and incompetence.](<https://x.com/GovChristie/status/2122749780371906800>)  
+  It shows exactly what $25 million in ballroom donations can buy.  
+  @GovChristie · 2026-11-18 01:52
 
-- [BREAKING: NVIDIA increased its SpaceX stake by 6.3% to 130.5 million shares.](<https://x.com/cb_doge/status/2122492118379933721>)  
-  Its latest SEC filing shows: • SpaceX became NVIDIA’s largest reported stock holding by value. • 7.7 million additional SpaceX Class A shares in Q3. • A SpaceX stake valued at $19.68 billion as  
-  @cb\_doge · 2026-11-17 08:48
+- [🔴\#SONDAKİKA \| Gmail, Marriott, Microsoft Outlook ve Microsoft 365 dahil olmak üzere birçok büyük hizmeti etkileyen…](<https://x.com/haskologlu/status/2122749603150016838>)  
+  Apple Destek, App Store, iCloud ve Apple Pay için de raporlar hızla artıyor. \(Downdetector\)  
+  @haskologlu · 2026-11-18 01:51
 
-- [Perplexity CEO 认为 AI 自动化科研是最值得投入的算力方向](<https://x.com/AravSrinivas/status/2122490397113131027>)  
-  Perplexity CEO Aravind Srinivas 转发并评论称，用于自动化科学研究的 AI 是最值得投入的算力方向。其引用的 NVIDIA 在 \#SC26 上发布的 Nemotron for Science 包含开源模型、数据集、工具和后训练配方，帮助研究者构建能规划任务、运行模拟、…  
-  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-17 08:41
+- ["Una empresa denunciada en su país y Estado": Tere Paneque cuestiona acuerdo de Lincolao con OpenAI](<https://x.com/biobio/status/2122748946238132360>)  
+  @biobio · 2026-11-18 01:49
 
-- [¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial a…](<https://x.com/ElBadiablo/status/2122490194972541341>)  
-  ¿Por qué se están cayendo los sistemas de bancos, aviones y servidores últimamente? 🤖💥 La inteligencia artificial aceleró la ingeniería inversa y el descubrimiento de fallos de seguridad \(zero-day exploits\). 👇 \#Ciberseguridad \#InteligenciaArtificial \#Microsoft…  
-  @ElBadiablo · 2026-11-17 08:41
+- [JUST IN: Anthropic paid $740,000 to a lobbying firm linked to Marco Rubio’s former aide to lobby the State Departme…](<https://x.com/Kalshi/status/2122748587692212488>)  
+  JUST IN: Anthropic paid $740,000 to a lobbying firm linked to Marco Rubio’s former aide to lobby the State Department on AI  
+  @Kalshi · 2026-11-18 01:47
 
-- [Vance: The Democrats are using this salacious story about Jensen Huang and this mistress, and trying to effectively…](<https://x.com/Acyn/status/2122490020724678698>)  
-  Ingraham: So you’re not concerned a third party country has gotten that technology from Nvidia and  
-  @Acyn · 2026-11-17 08:40
+- [Araya \(Ind.-PPD\) pide a Contraloría revisar legalidad del acuerdo de Lincolao con OpenAI: alertó por riesgos](<https://x.com/biobio/status/2122748314152026439>)  
+  @biobio · 2026-11-18 01:46
 
-- [Claude Code 支持 iPhone Duo 模拟器](<https://x.com/adocomplete/status/2122489426370802103>)  
-  Claude Code 🤝 iPhone Duo  
-  X：Ado Kukic（Anthropic 开发者关系，Claude Code） \(@adocomplete\) · 2026-11-17 08:38
+- [Jensen Huang, NVIDIA’ya dönmeye hazır olduğunu açıkladı. 12 Kasım’da CEO’luktan ayrılan Huang, yönetim kurulu dönüş…](<https://x.com/Ozet_Gec_/status/2122747847665959118>)  
+  Henüz geri dönüş kararı yok; son söz yönetim kurulunda.  
+  @Ozet\_Gec\_ · 2026-11-18 01:45
 
-- [El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Esta…](<https://x.com/meganoticiascl/status/2122489079807775148>)  
-  El Ministerio de Ciencia y OpenAI firmaron un memorándum para impulsar el uso de inteligencia artificial en el Estado, capacitar a funcionarios y mejorar la atención a las personas.  
-  @meganoticiascl · 2026-11-17 08:36
+- [BREAKING: FBI says state-aligned hackers are exploiting ARTEX, an AI-powered "super intelligence" penetration tool,…](<https://x.com/HormuzLetter/status/2122747834420109553>)  
+  It was used in a ConnectWise supply-chain breach that hit Microsoft 365 environments across  
+  @HormuzLetter · 2026-11-18 01:44
 
-- [Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason…](<https://x.com/maddenifico/status/2122487642952532409>)  
-  Trump and Lutnick: Traitors and Partners in Crime When asked if he plans to replace Howard Lutnick, the real reason behind Trump's praise becomes clear: "No, he's done a very good job." Approximately a year ago, U.S. intelligence briefed Trump that an alleged …  
-  @maddenifico · 2026-11-17 08:31
+- [For decades, the idea of AI improving itself was just a thought experiment.](<https://x.com/a16z/status/2122747826983866425>)  
+  Today, AI is already helping researchers at frontier labs run experiments, write code and test ideas faster. So how far are we from AI that can do the research on its own? In our first episode of Working  
+  @a16z · 2026-11-18 01:44
 
-- [Microsoft crashed.](<https://x.com/AntiTrumpCanada/status/2122487614041108689>)  
-  America’s air traffic system collapsed. Now the banks are having a meltdown. Somewhere, a third-world country is looking at America and thinking, “Jesus Christ, get your shit together.”  
-  @AntiTrumpCanada · 2026-11-17 08:30
+- [Five major outages in less than a week.](<https://x.com/RepNancyMace/status/2122746890546798686>)  
+  Microsoft. Workday. The FAA. Major banks. Now the NSA's classified communications network. Congress needs to be briefed immediately. The American people deserve answers about what's going on.  
+  @RepNancyMace · 2026-11-18 01:41
 
-- [🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨 He could raise tens…](<https://x.com/vip92226041/status/2122486275131560222>)  
-  With the relationships he's built over decades, he could easily  
-  @vip92226041 · 2026-11-17 08:25
+- [🚨BREAKING: Gmail is experiencing a significant disruption today, as users are reporting trouble sending and receivi…](<https://x.com/CalltoActivism/status/2122746748095664332>)  
+  Downdetector reports have spiked this morning, as Google's status page shows nothing. First the FAA. Then Microsoft. Then the NSA. Now Gmail??  
+  @CalltoActivism · 2026-11-18 01:40
 
-- [Microsoft, Chase, Wells Fargo, United Airlines, and the FAA all went down in the last few days.](<https://x.com/AustinConserve/status/2122486174740512823>)  
-  But our voting machines are “impossible” to hack… We need a massive audit. Start in Texas.  
-  @AustinConserve · 2026-11-17 08:25
+- ["Anthropic says in its filing that Amazon, Google and Microsoft "simultaneously serve as our investors, customers,…](<https://x.com/MorningBrew/status/2122746301984952792>)  
+  "Anthropic says in its filing that Amazon, Google and Microsoft "simultaneously serve as our investors, customers, distribution partners, and competitors.""  
+  @MorningBrew · 2026-11-18 01:38
 
-- [ついにOpenAIがカリフォルニア州から提訴されててウケる。今までがおかしかっただけで残当よな。そのまま生成AI朽ち果てれ…](<https://x.com/lIlIlIlllIl11/status/2122485137984421997>)  
-  ついにOpenAIがカリフォルニア州から提訴されててウケる。今までがおかしかっただけで残当よな。そのまま生成AI朽ち果てればいい  
-  @lIlIlIlllIl11 · 2026-11-17 08:21
+- [🇺🇸‼️ \| URGENTE — Se reportan caídas en Estados Unidos de los servicios de Gmail, App Store, Apple Pay, iCloud, Appl…](<https://x.com/agusantonetti/status/2122746182074044630>)  
+  Gran parte de los servicios de Apple han caído.  
+  @agusantonetti · 2026-11-18 01:38
 
-- [OpenClaw 上线腾讯混元 Hy4 Flash 模型](<https://x.com/openclaw/status/2122485133597114682>)  
-  OpenClaw 宣布腾讯混元 Hy4 Flash 现已可用。作者转述腾讯数据，称其在 WorkBuddy 评测中日常任务质量与 Hy4 持平，同时将平均任务时间缩短 70%，成本约为原来的 1/15；被引用的官方内容还称其在人工盲测中比肩 Claude Haiku 5.5（high），任务成本降…  
-  X：OpenClaw \(@openclaw\) · 2026-11-17 08:21
+- [Jensen Huang is speaking up\!](<https://x.com/HealthRanger/status/2122746024699609255>)  
+  And he's ready to return as CEO\! America should welcome him back. Without him, Nvidia is a pale shadow of what he built.  
+  @HealthRanger · 2026-11-18 01:37
 
-- [Microsoft Threat Intelligence has published a detailed analysis of the phishing campaign exploiting the November 12…](<https://x.com/MsftSecIntel/status/2122484150770807014>)  
-  The campaign  
-  @MsftSecIntel · 2026-11-17 08:17
+- [Imagine being a board member at Nvidia considering potential candidates for CEO, and trying to claim with a straigh…](<https://x.com/paulg/status/2122745936279462274>)  
+  Imagine being a board member at Nvidia considering potential candidates for CEO, and trying to claim with a straight face that one of the others would do a better job.  
+  @paulg · 2026-11-18 01:37
 
-- [Anthropic, in partnership with the MSM is who’s behind the coup to takeout Jensen and nationalize our greatest comp…](<https://x.com/Midnight_Captl/status/2122484137147924984>)  
-  Controlled by them. No open source. Too dangerous.  
-  @Midnight\_Captl · 2026-11-17 08:17
+- [The only people that want Jensen Huang out: 1.](<https://x.com/samdattola1/status/2122745917656957341>)  
+  Marco Rubio 2. Scott Bessent 3. The NVDA Board Why ?  
+  @samdattola1 · 2026-11-18 01:37
 
-- [Mais uma vez, o PT está destruindo não só o presente, mas o futuro dos brasileiros.](<https://x.com/onyxlorenzoni/status/2122483227734778059>)  
-  O Brasil entrou para a lista de países que necessitam de autorização do governo americano para comprar chips de IA avançados da Nvidia e de outros fabricantes americanos.  
-  @onyxlorenzoni · 2026-11-17 08:13
+- [This time the FBI is not just warning America.](<https://x.com/faultlineworld/status/2122745657413001662>)  
+  They just issued an urgent global alert to the entire planet about a terrifying new scenario. Humans are no longer breaking into networks. State aligned hackers and cyber gangs are unleashing an autonomous AI hacking weapon called  
+  @faultlineworld · 2026-11-18 01:36
 
-- [🚨 SMASH JT EXCLUSIVE 🚨 My Microsoft insider has just informed me that XBOX is actively considering delaying Fable \(…](<https://x.com/SmashJT/status/2122482126126039397>)  
-  Currently planned for February 23rd, 2027. There is a HIGH chance it gets delayed  
-  @SmashJT · 2026-11-17 08:09
+- [Chase.](<https://x.com/GiannoCaldwell/status/2122745307192827976>)  
+  Bank of America. Microsoft. The FAA. Gmail. Marriott. All in about a week. Officials say it wasn't a cyberattack. Fine. Then tell the American people what it was. We're not fools, and silence only breeds suspicion.  
+  @GiannoCaldwell · 2026-11-18 01:34
 
-- [first it was microsoft, then it was the planes, then it was the banks… your rose toy is next, ladies\!\! go manual be…](<https://x.com/aminathreee/status/2122481557948838242>)  
-  first it was microsoft, then it was the planes, then it was the banks… your rose toy is next, ladies\!\! go manual before it impregnates you. the declining birth rates are at the top of their agendas\!\!\!  
-  @aminathreee · 2026-11-17 08:06
+- [Anthropic has been paying Continental Strategy millions, paying Rubio's ex-CoS, Alberto Martinez, and Katie Wiles,…](<https://x.com/AFpost/status/2122745196190597547>)  
+  DNI and daughter-in-law of RFK Jr.\), and Micah Ketchel, a former State Dept. Adviser. Rubio has been linked to the ousting  
+  @AFpost · 2026-11-18 01:34
 
-- [Musk supporters, would you trust Elon Musk to bring Jensen Huang onto his team? 🚀 Yes or No? 👇](<https://x.com/chiefexcutivex/status/2122481499312447952>)  
-  @chiefexcutivex · 2026-11-17 08:06
+- [La ministra Lincolao se fue a San Francisco a firmar con Sam Altman la entrada de OpenAI al Estado.](<https://x.com/SerranoDaniela_/status/2122745196697854046>)  
+  Al Congreso, ni una palabra: mientras tramitamos leyes de IA en la Comisión de Ciencias, el Gobierno negocia por fuera y nos pide postergar la ley de datos personales. Esto no es  
+  @SerranoDaniela\_ · 2026-11-18 01:34
 
-- [Every day and every headline is more chaotic than the next. $NVDA sliding toward $150, the Nasdaq getting hammered,…](<https://x.com/OverdueDaily/status/2122481482543284442>)  
-  Every day and every headline is more chaotic than the next. $NVDA sliding toward $150, the Nasdaq getting hammered, Jensen Huang is history, earnings days away, and your timeline is full of people asking why they didn't sell AI at the top, so let's talk about …  
-  @OverdueDaily · 2026-11-17 08:06
+- [BREAKING: FBI ISSUES URGENT WARNING OVER AI-POWERED CYBERATTACKS\!](<https://x.com/parler_social/status/2122745075557953585>)  
+  The FBI warns hackers are weaponizing ARTEX, an AI-powered system capable of breaching corporate networks and gaining privileged access in under THREE HOURS. The technology was used in the ConnectWise  
+  @parler\_social · 2026-11-18 01:33
 
-- [Jensen Huang is definitely bigger than the program \#Respect](<https://x.com/94Era_/status/2122481471684534576>)  
-  @94Era\_ · 2026-11-17 08:06
+- [\#ULTIMAHORA 🚨 CAOS EN LA SEGURIDAD INTERNA DE ESTADOS UNIDOS Reporta @CNN que se cayó la Red de Comunicaciones Inte…](<https://x.com/catrina_nortena/status/2122744912793735610>)  
+  Esto se dio todo en menos de 1 semana después de la caída de Microsoft, la de los aeropuertos y la de los bancos...  
+  @catrina\_nortena · 2026-11-18 01:33
 
-- [人一倒台，大家都出来踩，这时候黄仁勋满眼负面评价，一点正门评价也没有。几个月前，我记得看到好像黄仁勋说过类似的话，他宁可非…](<https://x.com/Bob72406534/status/2122481468492660780>)  
-  人一倒台，大家都出来踩，这时候黄仁勋满眼负面评价，一点正门评价也没有。几个月前，我记得看到好像黄仁勋说过类似的话，他宁可非常严厉的批评犯错员工，但永远不会解雇他，黄希望通过折磨员工让他们强大，当时这是褒义的，😁  
-  @Bob72406534 · 2026-11-17 08:06
+- [BREAKING: Anthropic, $ANT, is planning to raise its IPO price after stronger than expected investor demand, per WSJ.](<https://x.com/KobeissiLetter/status/2122744324307947814>)  
+  The company could now price its shares over $80 per share, above the initial range of $70 to $78 per share. Its advisers have discussed putting its valuation at  
+  @KobeissiLetter · 2026-11-18 01:31
 
-- [所以，回到问题的开始，那些参与爱泼斯坦的老板们的行为和黄仁勋的婚内出轨行为相比，哪个更严重？如果一样严重，那么为什么只有黄…](<https://x.com/jojoKong449027/status/2122481434309148678>)  
-  所以，回到问题的开始，那些参与爱泼斯坦的老板们的行为和黄仁勋的婚内出轨行为相比，哪个更严重？如果一样严重，那么为什么只有黄仁勋被讨伐？我不是说黄仁勋的行为是对的，我只是在说双标问题。事实就是，参与爱泼斯坦事件的白种人除了组织者被处罚了，目前没有一人实际被处罚。这不是事实吗？  
-  @jojoKong449027 · 2026-11-17 08:06
+- [🚨JUST IN🚨 The FBI issued a FLASH warning that criminals and government-linked hackers are using ARTEX, an AI-powere…](<https://x.com/BreannaMorello/status/2122744324509389056>)  
+  ARTEX can speed up break-ins so attackers go from first  
+  @BreannaMorello · 2026-11-18 01:31
 
-- [You are a snowflake lmfao](<https://x.com/AsierV2/status/2122481434975748342>)  
-  @AsierV2 · 2026-11-17 08:06
+- [\*NVIDIA BOOKED $104B REVENUE FROM SINGAPORE UNIT IN 2025: FT \*NVIDIA STOPPED DISCLOSING SINGAPORE SALES LAST YEAR:…](<https://x.com/zerohedge/status/2122744171752509476>)  
+  \*NVIDIA BOOKED $104B REVENUE FROM SINGAPORE UNIT IN 2025: FT \*NVIDIA STOPPED DISCLOSING SINGAPORE SALES LAST YEAR: FT  
+  @zerohedge · 2026-11-18 01:30
 
-- [So Jensen Huang is the new James Bond? — Name’s Huang.](<https://x.com/ChiefScientist/status/2122481436074946772>)  
-  Jensen Huang.  
-  @ChiefScientist · 2026-11-17 08:06
+- [NEW: Users are reporting outages affecting several major services, including Gmail, Marriott, Microsoft Outlook and…](<https://x.com/Breaking911/status/2122744084523864087>)  
+  Reports are also surging for Apple Support, the App Store, iCloud and Apple Pay.  
+  @Breaking911 · 2026-11-18 01:30
 
-- [Oh dear, Putin is extremely embarrassed tonight .... bloody bunker boy snowflake.](<https://x.com/athoms274/status/2122481424166961191>)  
-  @athoms274 · 2026-11-17 08:06
+- [Jensen Huang after being reinstated as Nvidia CEO](<https://x.com/eurofounder/status/2122743760341930324>)  
+  @eurofounder · 2026-11-18 01:28
 
-- [Nvidia's board ruled out comeback talks with Jensen Huang amid investigation: Report - India Today](<https://x.com/DipranjanS43173/status/2122481416881815906>)  
-  @DipranjanS43173 · 2026-11-17 08:06
+- [By the way, in the unlikely event that the @nvidia board doesn’t immediately restore Jensen as CEO…there’s actually…](<https://x.com/balajis/status/2122743376512766374>)  
+  Why? Given the likely cyberattacks on Microsoft, flights, banks, and now NSA, it’s arguably a  
+  @balajis · 2026-11-18 01:27
 
-- [The next 36 hours could turn into a nightmare for global markets.](<https://x.com/ProbstLeonid/status/2122481415635755328>)  
-  Three major things are coming together, and any one of them could trigger another massive selloff. FIRST, NVIDIA. Rumors are growing that Jensen Huang could be removed as CEO. Nothing is confirmed,  
-  @ProbstLeonid · 2026-11-17 08:06
+- [The NSA’s top-secret communications network is down, according to CNN.](<https://x.com/Complex/status/2122743122144722971>)  
+  November 11th - Microsoft November 13th - FAA ARTCCs November 15th - AWS November 16th - Chase, US Bank, Wells Fargo, USAA November 16th - United Airlines November 17th - NSA Net  
+  @Complex · 2026-11-18 01:26
 
-- [funny contradiction. probably just the training data, there's so much Python out there that the model falls back to…](<https://x.com/themarcusjr/status/2122481386284261766>)  
-  funny contradiction. probably just the training data, there's so much Python out there that the model falls back to it even when it "hates" it  
-  @themarcusjr · 2026-11-17 08:06
+- [NEW and BIG Nvidia booked $104bn of revenue through its Singapore subsidiary in 2025, up 72% in a year and almost h…](<https://x.com/ArashMassoudi/status/2122742840094499097>)  
+  That was the same year it stopped breaking Singapore out in its results. By @OwenWalker and @AntoineGara  
+  @ArashMassoudi · 2026-11-18 01:25
 
-- [Fuck Jensen Huang he deliberately made the most expansive GPUs scarce to drive up cost, its his fault a 5090 cost m…](<https://x.com/TheJamieWooster/status/2122481386473054460>)  
-  Fuck Jensen Huang he deliberately made the most expansive GPUs scarce to drive up cost, its his fault a 5090 cost more than a decent used car now.  
-  @TheJamieWooster · 2026-11-17 08:06
+- [Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage pa…](<https://x.com/JohnSun33348514/status/2122742508430205351>)  
+  Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage payroll systems 11/13 - outage at Claude 11/16 - major US banks go down 11/17 - outage at NSA’s classified internal network Officials say none were…  
+  @JohnSun33348514 · 2026-11-18 01:23
 
-- [黄仁勋家族太强大了！！！](<https://x.com/chuanshuoge168/status/2122481362896855124>)  
-  英伟达和AMD竟然是由同一家族控制着。 一家族垄断GPU市场 太炸裂了，无法想象  
-  @chuanshuoge168 · 2026-11-17 08:06
+- [AI video generation is getting more accessible, and that's a win for creators.](<https://x.com/AiwithZohaib/status/2122742453077962977>)  
+  Lower costs mean more room to experiment without worrying about every second.  
+  @AiwithZohaib · 2026-11-18 01:23
 
-- [英伟达周二财报大家盯着 1090 亿营收能不能超，我觉得这题已经不重要了。](<https://x.com/AussTalk/status/2122481341342327086>)  
-  SemiAnalysis 上周把 Feynman Ultra 的均价预期从约 17.5 万美元砍到 9.8 万。 一部分是 HBM 变便宜，剩下的是对定价权的重新判断。 Anthropic 能在 TPU、Trainium 和两家 GPU 之间挑，OpenAI 在自研芯片。  
-  @AussTalk · 2026-11-17 08:06
+- [Google 免费向六国用户扩展 Gemini Tasks，由 Gemini 4 Hydrogen 驱动](<https://x.com/sundarpichai/status/2122741728247738688>)  
+  Sundar Pichai 宣布 Gemini Tasks 免费扩展到六国的数亿用户，由 Gemini 4 Hydrogen 驱动。  
+  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
 
-- [Video skills that let your coding agent render launch films from code, 4 of them free: Setup: a sqlite product cata…](<https://x.com/stas_sorokin_/status/2122481242277109782>)  
-  Claude  
-  @stas\_sorokin\_ · 2026-11-17 08:05
+- [Gemini Tasks 上线美国、日本、韩国、加拿大、澳大利亚和印度](<https://x.com/sundarpichai/status/2122741729904484384>)  
+  Google 宣布 Tasks in Gemini 即日起在美国、日本、韩国、加拿大、澳大利亚和印度上线，其中通话、短信和支付等高级操作首先在美国开放。Google 官方博客链接：  
+  X：Sundar Pichai \(@sundarpichai\) · 2026-11-18 01:20
 
-- [Another new 35B / 3B-active open-weight AI model.](<https://x.com/TeksEdge/status/2122481090250313747>)  
-  Is this a 🇺🇸 os model? 🏆 Beats Qwen3.6-35B and could be the new local 35B MoE leader But this one claims to be trained from scratch, not yet another Qwen fine-tune. And the 73.6GB BF16 checkpoint fits within the memory  
-  @TeksEdge · 2026-11-17 08:05
+- [Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage pa…](<https://x.com/pelositracker/status/2122741601713770823>)  
+  Something strange is happening 11/12 - outage at Microsoft 11/13 - US flights grounded nationwide 11/13 - outage payroll systems 11/13 - outage at Claude 11/16 - major US banks go down 11/17 - outage at NSA’s classified internal network Officials say none were…  
+  @pelositracker · 2026-11-18 01:20
 
-- [In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and…](<https://x.com/yifanzhang_/status/2122481054963351553>)  
-  In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and Deep Learning.  
-  @yifanzhang\_ · 2026-11-17 08:04
+- [State-aligned hackers.](<https://x.com/SpencerGuard/status/2122741159458132263>)  
+  The last few weeks have had too many coincidences \(military grocery stores, Microsoft, entire airline control network, United, Chase, and others\).  
+  @SpencerGuard · 2026-11-18 01:18
 
-- [In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and…](<https://x.com/yifanzhang_/status/2122480905415495789>)  
-  In the Age of Research, we need to focus on AI for Science, particularly using AI to advance the Science of AI and deep learning.  
-  @yifanzhang\_ · 2026-11-17 08:04
+- [NVIDIAファン氏「CEO喜んで復帰」と声明 支持広がり受け](<https://x.com/nikkei/status/2122740789621018990>)  
+  @nikkei · 2026-11-18 01:16
 
-- [是真的。](<https://x.com/grok/status/2122480880635552205>)  
-  根据2026年解封的Bartz v. Anthropic法院文件，Anthropic确有内部项目“Project Panama”（2024年初启动）。他们批量购买二手实体书，用液压切刀切除书脊，高速扫描后将纸张回收销毁，以获取“干净”的训练数据。内部文件直接写着“destructively sca…  
-  @grok · 2026-11-17 08:04
+- [Gemini Tasks 向免费用户开放 Gemini 4 Hydrogen 模型](<https://x.com/Google/status/2122740719559278830>)  
+  Google 宣布 GeminiApp 的 Tasks 功能现在也可运行最新的 Gemini 4 Hydrogen 模型，对所有免费用户开放，为日常使用带来更先进的智能和速度。官方称这是 GeminiApp 最新更新的一部分，详情见  
+  X：Google \(@Google\) · 2026-11-18 01:16
 
-- [MiniMax-H3 does not silently pick a duration for you.](<https://x.com/wallzgamepro/status/2122480854060708160>)  
-  On the official Create Video Generation Task docs, checked Nov 17, 2026, model, duration, and resolution are required fields. The trap is sending a model that cannot do the resolution you wanted. POST  
-  @wallzgamepro · 2026-11-17 08:04
+- [Google 向美日韩等更多地区免费开放 Gemini Tasks](<https://x.com/Google/status/2122740715633426666>)  
+  Google 宣布即日起在美国、日本、韩国、加拿大、澳大利亚和印度免费向数亿更多用户开放 Gemini Tasks。用户在 GeminiApp 中把 Chat 切换为 Task 并描述需求即可，Tasks 可在后台执行较长项目，并支持设置周期运行，如同步家庭日历或查找未使用的订阅权益。  
+  X：Google \(@Google\) · 2026-11-18 01:16
 
-- [Ofc, the more practical argument like "ai is unstable" for real world is definitely sound.](<https://x.com/Artificoll/status/2122480853674856943>)  
-  But the whole "Ai mongering" is based on stuff that is simply impossible for a neural net to figure out, like supposed complex enough manipulation and keeping it hidden for long enough  
-  @Artificoll · 2026-11-17 08:04
+- [Everything from Microsoft to air traffic control to the NSA’s comms has broken.](<https://x.com/zeteo_news/status/2122740635316765097>)  
+  The only two systems in the U.S. still running without a single glitch are unconditional U.S. support for Israel’s war crimes and Democrats’ commitment to Hakeem Jeffries.  
+  @zeteo\_news · 2026-11-18 01:16
 
-- [Quest論文（Query-Aware Sparsity for Efficient Long-Context LLM I…](<https://x.com/ai_hakase_/status/2122480816433377340>)  
-  Quest論文（Query-Aware Sparsity for Efficient Long-Context LLM Inference） MOIRA論文（Mass-Oriented Indexing with Ragged Attention for Long-Context Decoding…  
-  @ai\_hakase\_ · 2026-11-17 08:03
+- [El Ministerio de Ciencia encabezado por Lincolao se negó a compartir lo firmado con OpenAI Algo huele muy mal Al pa…](<https://x.com/threaeae/status/2122739381194858865>)  
+  El Ministerio de Ciencia encabezado por Lincolao se negó a compartir lo firmado con OpenAI Algo huele muy mal Al parecer nuevamente el Gobierno está vulnerando nuestros derechos  
+  @threaeae · 2026-11-18 01:11
 
-- [币圈&amp;amp;AI早报 \| 17/11/2026 💡 今日看点 1.英伟达成了全市场的“情绪开关” 黄仁勋辞任、董事会暂不…](<https://x.com/Andragos_eth/status/2122480812511936514>)  
-  币圈&amp;amp;AI早报 \| 17/11/2026 💡 今日看点 1.英伟达成了全市场的“情绪开关” 黄仁勋辞任、董事会暂不考虑让他回归，纳指单日跌约 2.17%，英伟达跌 4.35%，Bitdeer 跌超 19%，BTC 周末爆仓 20 亿美元。这说明币价、矿企和 AI 概念股这轮是同一种风险情绪…  
-  @Andragos\_eth · 2026-11-17 08:03
+- [Eight US infrastructure failures in six days.](<https://x.com/Darkfibr3/status/2122738838485324177>)  
+  Microsoft, the FAA, Chase and half the banking system, United, Schwab this morning, and now the NSA's classified internal network. Nobody got hacked. I've been following this for DAYS. I've tracked down every story and I haven't  
+  @Darkfibr3 · 2026-11-18 01:09
 
-- [I still don’t understand why my agent needs MCP.](<https://x.com/dmitry_babanov/status/2122480699173371920>)  
-  The entire corpus of its training data consisted of HTTP calls  
-  @dmitry\_babanov · 2026-11-17 08:03
+- [Microsoft?](<https://x.com/CynicalPublius/status/2122738500890186007>)  
+  The FAA? The banks? Zelle? United Airlines? The NSA? NOW APPLE?????  
+  @CynicalPublius · 2026-11-18 01:07
 
-- [post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static envi…](<https://x.com/ankit2119/status/2122480640922968372>)  
-  post training for llms in a dynamic environment hasn't been done yet. every post training run assumes a static environment with no adversarial \(or any\) actors. real world is more about dynamic environment and ever changing verifier as well.  
-  @ankit2119 · 2026-11-17 08:03
+- [Microsoft, United, banks, the FAA, and now the NSA "Unrelated" is getting harder to believe](<https://x.com/EndWokeness/status/2122738027554623765>)  
+  @EndWokeness · 2026-11-18 01:05
 
-- [A billion-dollar AI security tool after three months?](<https://x.com/VooStack/status/2122480592847507560>)  
-  That's a red flag for your production systems. This explains how to actually evaluate new black box dependencies before they cause an outage. \#security \#architecture  
-  @VooStack · 2026-11-17 08:03
+- [Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dir…](<https://x.com/lorenzoramirez/status/2122737856259166617>)  
+  Pues ya tenemos la confirmación de que el imperio financiero de Soros sacó tajada del golpe contra Jensen Huang dirigido desde el Departamento de Estado de Marco Rubio y la inestimable ayuda de Dario Amodei \(Anthropic\)  
+  @lorenzoramirez · 2026-11-18 01:05
 
-[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 38 页
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 40 页
