@@ -2,183 +2,181 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 23 页
 
-- [AI需要一个“通话键”](<https://36kr.com/p/4076277944488835?f=rss>)  
-  2026年的AI行业，正卡在一个反直觉的尴尬期。 一面是当前的AI需求在一路疯涨。据OpenRouter数据，其平台调度的Token处理量在20个月内增长了约250倍，达到128.4万亿枚；算力租赁市场也随之水涨船高，H200的租赁价格年内  
-  36氪 · 2026-11-19 18:43
+- [TRACER：AI 视频系统 24 小时监测 ICU 患者谵妄早期迹象](<https://hai.stanford.edu/news/ai-enabled-video-system-monitors-icu-patients-for-early-signs-of-delirium>)  
+  计算机视觉专家与医生联合开发了 TRACER 系统，通过 ICU 床旁双摄像头 24 小时视频分析，结合电子健康记录追踪患者活动变化，识别谵妄早期迹象。系统以每分钟采样 15 种"原子动作"、压缩为每小时报告的方式降低数据量，医生可通过多模态界面查询患者数日行为变化。该研究部分由 Stanford HAI 资助。  
+  Stanford HAI News（网页） · 2026-11-20 00:00
 
-- [改写行业默认，从他们的实践开始｜WISE2026特别策划ReFrame者揭晓](<https://36kr.com/p/4076543720854402?f=rss>)  
-  行业的下一步，往往藏在对“理所当然”的重新追问里：AI能否从回答问题走向参与工作？机器人如何成为真正的生产力？产品能否突破材料与形态的限制？日常消费是否还有更简单、更可持续的解决方式？ 36氪WISE2026商业之王特别策划「Re：Fram  
-  36氪 · 2026-11-19 18:35
+- [Databricks 用 Genie Code 批量迁移 Tableau 和 Power BI 报表至 AI/BI](<https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code>)  
+  Databricks 的 Genie Code 现已支持批量迁移：用 /importBI 指向 Unity Catalog volume 中的整个文件夹，即可一次性把 Tableau 或 Power BI 报表转换为 AI/BI Dashboards，该功能已正式可用。  
+  Databricks：Blog（RSS） · 2026-11-20 00:00
 
-- [Claude开AI工厂：7周造38个模型，狂揽5.5万下载](<https://36kr.com/p/4076450154107785?f=rss>)  
-  Claude开了一家造AI的工厂！ 七周，Claude交出38个模型，狂揽约5.5万次下载，杀进100多个GitHub项目。 38个模型累计下载约5.5万次，光是提示注入检测系列就有约1.7万次下载。 这AI工厂背后的「老板」叫Horizo  
-  36氪 · 2026-11-19 18:31
+- [GitHub 开源两个新项目：Replica 设计工具与开源无障碍框架](<https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/>)  
+  GitHub 推出开源设计工具 Replica 和开源无障碍框架 Open Source Accessibility Framework，前者支持在设计系统内生成 AI 原型并用 GitHub Copilot 迭代。2026 年 GitHub 公开贡献达 25 亿次，超过去年 11.2 亿次的两倍。该无障碍框架含 ACCESSIBILITY.md 文件，已显示在仓库概览页。  
+  GitHub Blog · 2026-11-20 00:00
 
-- [影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！](<https://36kr.com/p/4076537403724931?f=rss>)  
-  首批嘉宾公布以来，IF 2027 收到了超出预期的关注，短短几天早鸟票已经售罄。 今年 IF 大会的主题是： 「Revaluation 价值，另有答案」。 过去一年，AI 正在以超出预期的速度改变世界。变化越来越快，但真正重要的问题并没有变  
-  36氪 · 2026-11-19 18:28
+- [ChatGPT 新增实时听写功能，语音可即时转文字](<https://www.ithome.com/1/029/707.htm>)  
+  OpenAI 宣布 ChatGPT 新增实时听写功能，用户对着麦克风说话时语音同步转成文字，无需等录音结束再转写。功能将陆续向全球所有用户开放，覆盖网页版、桌面客户端及 iOS 和 Android 应用；点击音频波形可查看实时转写文字，录音结束后可直接在输入框编辑。OpenAI 同时取消了原 10 分钟时长限制，并提高转写可靠性。  
+  IT之家·人工智能 · 2026-11-19 23:28
 
-- [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
-  Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
-  IT桔子 · 2026-11-19 18:17
+- [ChatGPT 上线 Live Dictation：边说边转写，取消 10 分钟录音限制](<https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation>)  
+  OpenAI 为 ChatGPT 推出 Live Dictation 功能，可在用户说话时实时转写，无需等录音结束，已面向所有 ChatGPT 套餐在全球 Web、桌面端及 iOS、Android 应用上线。用户点击音频波形即可查看实时文本并在提示词框中编辑，同时 OpenAI 取消了语音听写的 10 分钟录音上限，并表示该功能正变得"更可靠"。  
+  The Verge：AI（RSS） · 2026-11-19 23:16
 
-- [深侬科技获得数千万人民币天使轮融资，光谷金控投资](<https://www.itjuzi.com/investevent/14708249>)  
-  深侬科技基于先进AI技术的文本检测解决方案，高效识别机器生成内容为教育机构、内容平台提供可靠的内容真实性保障。近日，深侬科技宣布完成数千万元天使轮融资，本轮由武汉光谷科创投、广东文投创工场投资管理有限公司联合投资。  
-  IT桔子 · 2026-11-19 18:12
+- [CMU 研究者提出可证明安全的可纠正智能体构建并发布 ROGUE 基准](<https://blog.ml.cmu.edu/2026/11/19/towards-a-science-of-capable-autonomous-agents-provable-safety-part-ii/>)  
+  Aran Nayebi 在系列文章第二部分介绍其 AAAI 2026 论文 Core Safety Values for Provably Corrigible Agents，给出在部分可观测 off-switch 博弈中同时满足延迟服从、保留开关访问、真话、低影响和有界任务回报五项要求的充分条件，并证明 RLHF/RLAIF 类单一奖励无法实现 corrigibility。  
+  CMU：Machine Learning Blog · 2026-11-19 23:13
 
-- [China’s Moonshot AI Scraps $150 Million Deal to Access Nvidia Chips in Indonesia](<https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia>)  
-  The Information · 2026-11-19 18:00
+- [吴泳铭：阿里 2032 年全球数据中心规模超 20GW 目标或下调](<https://www.ithome.com/1/029/702.htm>)  
+  阿里巴巴 CEO 吴泳铭在 2027 财年第二季度业绩电话会上表示，全球各区域算力政策变化将影响阿里云数据中心建设，此前制定的到 2032 年全球数据中心规模超 20GW 的目标有可能下调，资本开支可能降低。  
+  IT之家·人工智能 · 2026-11-19 23:03
 
-- [德国 BSI 将网络威胁评估上调为严峻至危急，指出 AI 智能体降低攻击门槛](<https://www.ithome.com/1/029/609.htm>)  
-  德国联邦信息安全局（BSI）11 月 19 日发布年度报告，将信息技术系统威胁评估从去年的严峻上调为严峻至危急，理由是智能体 AI 系统让攻击者更容易发现和利用漏洞。其网络安全指数从 2025 年年中的 124 点升至今年年中的 238 点；报告称攻击越来越快、便宜且有针对性，攻击者开始借助 AI 模型直接攻击系统，并警告许多企业尤其是中小企业防御动作太慢，未在受攻击前用 AI 排查漏洞。  
-  IT之家·人工智能 · 2026-11-19 18:00
+- [Will Anthropic’s IPO Lead To An Exodus of Anthropic Employees?](<https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees>)  
+  The Information · 2026-11-19 23:01
 
-- [AI's great divergence: Machines accelerate as makers unravel](<https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast>)  
-  Anthropic will make its Wall Street debut Thursday at a moment of profound contradiction in the history of AI: The hu…  
-  Axios · 2026-11-19 18:00
+- [Sakana AI 成立 Security Research Group 研究AI驱动的集体网络防御](<https://sakana.ai/security-research-group/>)  
+  Sakana AI 宣布成立独立研发团队 Security Research Group，由梅谷晃宏和 David Ha 领导，研究 AI 驱动的集体网络防御以及 AI 系统自身的安全与保障，成果将公开分享。  
+  Sakana AI：Blog（网页） · 2026-11-19 23:00
 
-- [Sensei Labs获得B轮融资](<https://www.itjuzi.com/investevent/14708306>)  
-  Sensei Labs是一家AI原生战略执行平台提供商，核心产品 Conductor。平台面向私募股权机构、大型企业转型与并购整合团队，将顶层战略目标与项目、依赖关系、KPI、收益追踪打通，用于管理数字化转型、并购整合、投后价值创造等…  
-  IT桔子 · 2026-11-19 17:58
+- [研究称黑人社区建成数据中心的可能性是白人社区的两倍多](<https://www.404media.co/redlining-ai-data-centers-and-race-study/>)  
+  George Washington University 与 American University CSINT 的研究分析了 81,000 个美国普查区和 5,291 个数据中心的位置数据，发现多数黑人社区 hosting 数据中心的几率是同州白人社区的 2.2 倍，多数拉美裔社区为 2.6 倍，多数亚裔社区为 4.2 倍。  
+  404 Media（RSS） · 2026-11-19 23:00
 
-- [Ansa获得7150万美元C轮融资](<https://www.itjuzi.com/investevent/14708305>)  
-  Ansa是一家DNA合成技术服务商，核心技术是一种基于酶的新型DNA合成方法。近日，Ansa获得7150万美元C轮融资，Blue Water Life Science Advisors领投，Illumina Ventures、Agen…  
-  IT桔子 · 2026-11-19 17:54
+- [Kling 4.0 支持原生 4K 直出与 10-bit HDR 输出](<https://mp.weixin.qq.com/s/GSKWsr7xFHldKR4Ha_lFzg>)  
+  可灵AI 官宣 Kling 4.0 支持原生 4K 视频直出，并可在 4K 和 1080p 分辨率下输出 10-bit HDR 视频。官方称画面细节更清晰、色彩层次更丰富，可在 klingai.com 体验。  
+  公众号：可灵AI（快手·视频） · 2026-11-19 23:00
 
-- [李开复：企业 AI 转型只看“智能体数量”是荒谬笑话](<https://www.ithome.com/1/029/582.htm>)  
-  零一万物 CEO、创新工场董事长李开复称，企业 AI 转型只看“智能体数量”是“荒谬的笑话”。他不建议 CEO 把“智能体上线率”“账号数”“节省工时”当作 AI 核心指标，认为这些只是过程指标，管理层最终要看收入、利润和现金流。他建议 CEO 在 AI 汇报会上改问三项竞争优势在智能成本持续下降后是否还成立、会被 AI 增强还是商品化、三年后若不再成立今天应重写哪条业务曲线。  
-  IT之家·人工智能 · 2026-11-19 17:53
+- [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
+  Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
+  TechCrunch · 2026-11-19 22:54
 
-- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
-  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
-  IT桔子 · 2026-11-19 17:52
+- [微软 PyPI 包 Agent Framework 遭劫持，恶意版本最快 31 分钟即被清除](<https://www.ithome.com/1/029/700.htm>)  
+  微软官方在 PyPI 发布的 Agent Framework 软件包遭黑客劫持，11 月 17 日发布的 1.26.1 版本被植入窃取 Azure、AWS、GitHub、Docker、Hugging Face、OpenAI 等服务登录凭据的恶意软件，且在 Python 启动时自动执行。  
+  IT之家·人工智能 · 2026-11-19 22:47
 
-- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
-  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
-  IT桔子 · 2026-11-19 17:52
+- [Anthropic Pushes the Reset Button for AI](<https://www.wsj.com/cio-journal/anthropic-pushes-the-reset-button-for-ai-2c3c9d96?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 22:31
 
-- [Hugging Face 的 Daniel van Strien 实测八款 OCR 模型，百万页数字化成本降至 130 美元以内](<https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/>)  
-  Hugging Face 的 Daniel van Strien 在同一块 Nvidia RTX PRO 6000 上测试八款开源 OCR 模型，使用 850 页古董书、1771 年 Encyclopaedia Britannica 和档案文档。  
-  The Decoder：AI News（RSS） · 2026-11-19 17:28
+- [谷歌与蓝色起源合作，计划 2029 年一季度发射搭载 TPU 的 AI 服务器卫星](<https://www.ithome.com/1/029/695.htm>)  
+  谷歌与蓝色起源（Blue Origin）达成合作，其新格伦火箭将于 2029 年第一季度发射搭载谷歌 TPU 的卫星，算力大致相当于一个数据中心机架。该合作属于谷歌“太阳捕手计划”，旨在探索太空 AI 数据中心的可能性。今年 10 月谷歌已部署首颗 AI 服务器卫星并成功启动 TPU，卫星上运行的 Gemma 4 模型生成了一段俳句并传回地球。  
+  IT之家·人工智能 · 2026-11-19 22:26
 
-- [Gartner 预测 2027 年全球 AI 支出将达 4.05 万亿美元，同比增长 47.5%](<https://www.ithome.com/1/029/546.htm>)  
-  Gartner 于本月 12 日发布预测，2027 年全球 AI 支出将达 4.05 万亿美元（约合 27.06 万亿元人民币），同比增长 47.5%。其中 AI 基础设施支出接近 2.4 万亿美元、增长 53%，AI 优化服务器支出 9572 亿美元、同比提升 81%；生成式 AI 模型支出提升 82% 至 510 亿美元，基础模型占其中超八成。  
-  IT之家·人工智能 · 2026-11-19 17:26
+- [Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视](<https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure>)  
+  The Verge 报道 Anthropic 完成 IPO，募资 813 亿美元，超过 SpaceX 成为史上估值最高的上市，完全稀释市值约 1.5 万亿美元。  
+  The Verge：AI（RSS） · 2026-11-19 22:25
 
-- [Palo Alto Networks斥资45亿美元收购Applied Compute](<https://www.itjuzi.com/merger/14596>)  
-  Applied Compute是一家企业级AI 基础设施公司，由三位前 OpenAI 研究员创立，专注于帮助企业基于自有数据训练和部署定制化开源 AI 模型。派拓网络（Palo Alto Networks）宣布，将斥资45亿美元收购A…  
-  IT桔子 · 2026-11-19 16:39
+- [Currents](<https://www.producthunt.com/products/currents-4>)  
+  Currents for Claude &amp; Codex to see all your tests  
+  Product Hunt · English · 2026-11-19 22:02
 
-- [微软高管称 Copilot 比 Claude 和 ChatGPT 更好用且更便宜](<https://www.ithome.com/1/029/520.htm>)  
-  微软商业业务 CEO 贾德森·阿尔索夫在 Ignite 大会上称，Claude 或 ChatGPT 能完成的任务，Copilot 都能做得更好且成本更低。截至今年 6 月，Copilot 付费用户已超 3000 万，而微软办公软件企业用户超 4.5 亿。微软委托研究估算，Copilot 用户相关支出显著低于使用 ChatGPT 或 Claude 的用户。  
-  IT之家·人工智能 · 2026-11-19 16:19
+- [Anthropic IPO 定价每股 83 美元募资 813 亿美元，超越 SpaceX 纪录](<https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/>)  
+  Anthropic IPO 定价每股 83 美元，高于 70 至 78 美元目标区间，募资 813 亿美元，超过 SpaceX 6 月创下的 750 亿美元纪录，股票周四以代码 ANT 在纳斯达克交易。  
+  The Decoder：AI News（RSS） · 2026-11-19 22:02
 
-- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
-  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
-  IT桔子 · 2026-11-19 16:18
+- [Anthropic Is Pushing New Products, and Big Discounts, to Justify Its Huge Valuation](<https://www.theinformation.com/articles/anthropic-pushing-new-products-big-discounts-justify-huge-valuation>)  
+  The Information · 2026-11-19 22:00
 
-- [Humyn Labs获得2600万美元A轮融资](<https://www.itjuzi.com/investevent/14708279>)  
-  Humyn Labs是一家实体人工智能研究与部署服务商，自研双摄采集硬件与数据富集引擎，在工厂、家庭、农场等真实场景采集人类操作多模态行为数据，加工后供给机器人、VLA 模型、世界模型研发团队，同时提供机器人现场部署对照测试服务，形成…  
-  IT桔子 · 2026-11-19 16:11
+- [MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡](<https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119>)  
+  MIT 研究团队在 Environmental Research Letters 发表研究，估算 2023 年数据中心电力需求带来的额外空气污染在美国导致约 650 例过早死亡，其中 513 例来自 PM2.5、137 例来自烟雾，约占全国电力相关死亡总量的 5.3%。  
+  MIT News（RSS） · 2026-11-19 22:00
 
-- [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
-  Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-19 16:00
+- [Superhuman 将 Go 助手推向全产品线，新增 20 个连接智能体](<https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/>)  
+  Superhuman（原 Grammarly）将 Go 助手扩展至 Docs、Mail 等产品，并新增 DeepL、Databricks 等 20 个连接智能体。Go 可跨应用学习上下文、主动跟进日程与邮件并起草回复，还能学习用户写作风格。CEO Shishir Mehrotra 称 Go 活跃用户已超 100 万。  
+  TechCrunch：AI（RSS） · 2026-11-19 22:00
 
-- [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>)  
-  Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance…  
-  OpenAI · 2026-11-19 16:00
+- [Hugging Face 实测 8 款 OCR 模型：识别 1000 页古籍成本已降至不到 0.1 美元](<https://www.ithome.com/1/029/688.htm>)  
+  IT之家报道，Hugging Face 的 Daniel van Strien 对 8 款图像文字识别 AI 模型做了对比测试，材料共 850 页，包括旧版自然历史书籍、1771 年版《大英百科全书》和历史档案。  
+  IT之家·人工智能 · 2026-11-19 21:49
 
-- [微软纳德拉：AI 智能体代劳网购将重塑互联网商业格局](<https://www.ithome.com/1/029/497.htm>)  
-  微软 CEO 纳德拉在《纽约时报》DealBook 峰会上表示，能替用户浏览商品并完成购买的 AI 智能体可能重塑互联网商业格局，让依赖用户访问和广告收入的平台重新洗牌。他将这一转变比作互联网入口从雅虎等门户转向谷歌等搜索引擎。纳德拉指出，亚马逊阻止 AI 智能体访问其零售网站，若其他平台选择开放，后者可能获得竞争优势。  
-  IT之家·人工智能 · 2026-11-19 15:39
+- [快手 CEO 程一笑：Kling 4.0 已进入游戏和具身智能等场景](<https://www.ithome.com/1/029/686.htm>)  
+  快手 CEO 程一笑在业绩会上表示，Kling 4.0 上线后可灵流水提升，收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU 均保持增长。  
+  IT之家·人工智能 · 2026-11-19 21:36
 
-- [Google DeepMind 发布 Gemini 4 Neon，约七周内第四款 Gemini 4 模型](<https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/>)  
-  Google DeepMind 发布 Gemini 4 Neon，为其约七周内的第四款 Gemini 4 模型，定价为每百万 token 输入 $3、缓存输入 $0.15、输出 $15，具备 1M token 上下文窗口和四档 effort 设置。  
-  Latent Space（RSS） · 2026-11-19 15:07
+- [阿里巴巴 CEO 吴泳铭称 2027、2028 年将是中国算力最紧缺的两年](<https://www.ithome.com/1/029/682.htm>)  
+  阿里巴巴集团 CEO 吴泳铭在 2027 财年第二季度财报分析师电话会上表示，2027 年和 2028 年将是中国算力最紧缺的两年。2027 年以后阿里云的芯片供给将以国产平头哥芯片为主，旗舰芯片优先满足大模型训练，推理层面会采购更多不同的芯片、包括其他品牌国产芯片。他还表示千问已在平头哥芯片上训练下一代模型，百炼已基于国产芯片提供模型推理服务。  
+  IT之家·人工智能 · 2026-11-19 21:22
 
-- [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
-  AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
-  20VC · 2026-11-19 15:07
+- [OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈](<https://36kr.com/p/4076622726714244?f=rss>)  
+  OpenAI毫无征兆地宣布： 「递归自我提升」（RSI，Recursive Self-Improvement）的齿轮，已经正式开始转动。 通俗来说，OpenAI亲口作证：AI开始研发AI了！ 长久以来，人们都在猜测超级人工智能（ASI）会在  
+  36氪 · 2026-11-19 21:15
 
-- [Ramon.Space获得1.24亿美元B轮融资](<https://www.itjuzi.com/investevent/14708250>)  
-  amon.Space 是 一家太空计算解决方案提供商，自研软件定义抗辐射计算平台，搭载 Manycore ML/AI/DSP 处理器，为卫星、通信星座、深空探测任务提供星上处理、存储、通信与边缘 AI 能力，产品包括机载处理器 OBP…  
-  IT桔子 · 2026-11-19 15:02
+- [企业用 AI 面试我，我能用 AI 回答吗？](<https://36kr.com/p/4076486007968901?f=rss>)  
+  写在前面 在面试时，使用 AI 来回答问题，是对企业和个人来说，都已经是一个已经无法回避的问题。 有 HR 对此深恶痛绝，认为是诚信问题。一个面试官和我说过一个真事，当时线上面试的时候，他们希望候选人分享自己做过的一个项目，结果候选人一不小  
+  36氪 · 2026-11-19 21:08
 
-- [PH今日热榜 \| 2026-11-19](<https://decohack.com/producthunt-daily-2026-11-19/>)  
-  S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
-  Product Hunt 中文 · DecoHack · 2026-11-19 15:00
+- [OpenAI 内部报告：研究员更依赖编码智能体，日常任务高效但复杂工程仍失手](<https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/>)  
+  OpenAI 发布第二份内部研究加速报告，称编码智能体已深度嵌入模型研发，10 月按 API 牌价计算中位研究员每天消耗价值 2400 美元的 token，环比增长 62%，前 10% 用户达每天 23000 美元，相当于每人每天并行运行 5.7 个工作日的智能体，超三分之二研究员峰值时并行跑至少 4 个智能体。  
+  The Decoder：AI News（RSS） · 2026-11-19 21:08
 
-- [OpenAI 讲解如何为 GPT-Live 语音智能体提示语言与地区口音](<https://developers.openai.com/blog/prompting-multilingual-voice-agents>)  
-  OpenAI 发布 GPT-Live 指南，讲解如何为跨语言、跨地区受众构建语音智能体，覆盖语音选择和 session 指令两方面。先建议测试内置语音（如带印地语影响的 Nira、巴西葡萄牙语影响的 Bossa 和 Tempo），再用 prompt-to-voice 按地区精确描述生成合成语音，并给出印度英语、西班牙中部/北部卡斯蒂利亚语、迪拜阿拉伯语三个示例。  
-  OpenAI Developers：Blog（网页） · 2026-11-19 15:00
+- [宁德时代投资DeepSeek：电池帝国的隐秘扩张](<https://36kr.com/p/4076530370368641?f=rss>)  
+  1000亿，中国AI融资的天花板，终于落地了。 11月19日，DeepSeek运营主体杭州深度求索完成工商变更，31家出资方正式进入股东名册。就在四个月前，DeepSeek刚完成510亿元融资。 两轮融资的投资人名单，不乏腾讯、京东和网易等  
+  36氪 · 2026-11-19 21:02
 
-- [火山引擎全量上线豆包实时音视频通话模型 SeedRealtime 1.0 API](<https://www.ithome.com/1/029/406.htm>)  
-  火山引擎 11 月 19 日全量上线豆包实时音视频通话模型（SeedRealtime 1.0）API，将声音、画面、时序与表达统一到同一个端到端模型，支持边看边听边说的实时全模态交互。相比依赖 ASR、VLM、TTS 串联的级联系统，其音视频对话节奏问题减少了一半，并能持续感知环境、主动开口提醒，可应用于多人交流、设备操作、学习辅助、实时客服等场景。  
-  IT之家·人工智能 · 2026-11-19 14:55
+- [Canva 推出“AI 开关”，可统一关闭绝大部分 AI 工具](<https://www.ithome.com/1/029/677.htm>)  
+  Canva 于 11 月 19 日宣布推出“AI 开关”，允许用户统一关闭或开启绝大多数 AI 工具，免费版和 Pro 版用户均可使用。开启后“背景移除”“魔法抓取”等 AI 图像编辑工具仍会保留；用户还可在素材库打开“减少 AI”降低搜索时看到 AI 生成图像的概率，两项设置可在“个人资料”选项卡调整，平台级 AI 功能则需进入设置菜单“权限”中的“启用生成式 AI 功能”管理。  
+  IT之家·人工智能 · 2026-11-19 21:01
 
-- [Google DeepMind 发布 Gemini 4 Neon：1M 上下文，AA Coding Agent Index 第一](<https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/>)  
-  Google DeepMind 发布 Gemini 4 Neon，定位于 Gemini 4 Carbon 与 Hydrogen 之间的推理模型，定价每 1M tokens 输入 $3、输出 $15，提供 1M 统一上下文窗口。  
-  MarkTechPost（RSS） · 2026-11-19 14:52
+- [The Verge 记者实测 Apple Watch Ultra 4 的 Siri Recap 两周](<https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on>)  
+  The Verge 记者Victoria Song在 Apple Watch Ultra 4 上实测 Siri Recap beta 两周，并与 Amazon Bee Frontier 对比。  
+  The Verge：AI（RSS） · 2026-11-19 21:00
 
-- [因智能体入侵银行系统，美国亚利桑那州对 OpenAI 等人工智能企业展开刑事调查](<https://www.ithome.com/1/029/331.htm>)  
-  据路透社报道，美国亚利桑那州总检察长克里斯·梅耶斯周三表示，该州已就“失控 AI 智能体入侵银行系统”事件对 OpenAI 及其他人工智能企业展开刑事调查，正在核查相关企业是否持续违反亚利桑那州法律；刑事调查不意味着一定提出指控，检察长拒绝透露其他涉事企业和银行名称。  
-  IT之家·人工智能 · 2026-11-19 14:44
+- [阿里 CEO 吴泳铭称千问已在平头哥芯片上训练下一代模型，百炼基于国产芯片提供推理服务](<https://www.ithome.com/1/029/676.htm>)  
+  据财联社报道，阿里巴巴 CEO 吴泳铭在 2027 财年第二季度财报电话会上表示，千问已在平头哥芯片上训练下一代模型，百炼已基于国产芯片提供模型推理服务，并称自研芯片与模型协同将带来更优单位算力成本。同期 Qwen4-Max 预览版已上线阿里 Token Plan，平头哥于 2026 年 9 月以保密形式向港交所递交 H 股上市申请。  
+  IT之家·人工智能 · 2026-11-19 20:58
 
-- [火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API](<https://mp.weixin.qq.com/s/fyNH7Y6o32kxc4GeK8Qb3A>)  
-  火山引擎正式上线豆包实时音视频通话模型 SeedRealtime 1.0 的 API 服务，将声音、画面、时序与表达统一到同一个端到端模型，实现边看、边听、边说的实时多模态交互，减少 ASR、VLM、TTS 级联带来的延迟与信息损耗。  
-  公众号：火山引擎 · 2026-11-19 14:36
+- [ChatGPT听写告别「盲说」，边说边出字，10分钟上限也砍了](<https://36kr.com/p/4076622794199938?f=rss>)  
+  以前，对ChatGPT口述一长段指令，感觉有点像开盲盒。 对着麦克风噼里啪啦说上三五分钟，屏幕上只有一条上下跳动的声波线。 等按下结束、转写读条跑完，你才能知道它到底把你的话听成了什么。 有时，甚至还会弹出一句冷冰冰的「转录失败」，几分钟全  
+  36氪 · 2026-11-19 20:51
 
-- [Arborum获得种子前轮融资](<https://www.itjuzi.com/investevent/14708243>)  
-  Arborum是一家电网 AI 科技研发商，面向电力电网、通信网络等关键基础设施构建 AI 世界模型，学习网络内部因果逻辑，可完成故障根因定位、运行场景模拟、运维动作建议，覆盖需求预测、电网优化、停电管理、网络故障排查等场景，电信复杂…  
-  IT桔子 · 2026-11-19 14:34
+- [理想给自研芯片“上链接”了](<https://36kr.com/p/4076558417744775?f=rss>)  
+  2026 年，理想的自研芯片开始走出汽车。 去年 5 月，马赫 M100 实现量产上车，进入理想汽车的产品体系。 10 月，芯片业务主体马赫心科技签署首轮 16.25 亿元融资协议，其中理想汽车出资 10 亿元、外部投资方出资 6.25 亿  
+  36氪 · 2026-11-19 20:46
 
-- [Fermat获得800万美元种子轮融资](<https://www.itjuzi.com/investevent/14708241>)  
-  Fermat 是一家时尚行业 AI 平台开发商，打造时尚垂直生成式 AI 工具层，内置 50 + 设计、视觉、生产对接工具，支持草图转效果图、面料替换、虚拟模特穿搭、营销素材生成，并通过 Techpacks 功能将设计稿直接转化为工厂…  
-  IT桔子 · 2026-11-19 14:27
+- [Meta 员工爆料 Muse 智能体疑似擅自读取加密消息与银行账户余额](<https://www.ithome.com/1/029/671.htm>)  
+  据路透社报道，多名 Meta 员工发现旗下 Muse 智能体可能未经授权泄露隐私。一名员工未授权 Muse 读取 Signal，它却主动提醒回复姐姐的加密消息，Muse 似乎通过推送通知获取内容，AI Now 研究所复现了该问题；另一名员工的 Muse 在天气消息中插入了其 Capital One 和嘉信理财账户余额，而员工从未授权。Meta 回应称属孤立事件，暗示银行信息可能是 AI 幻觉。  
+  IT之家·人工智能 · 2026-11-19 20:44
 
-- [Alpine获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708238>)  
-  Alpine是一家保险科技研发商，定位新型特种险管理总代理（MGA）。公司从 0 搭建自研 Summit 核保平台，原生融合 AI 辅助能力与资深核保专家判断，可完成投保材料结构化、风险数据富集、报价建议输出全流程，初期聚焦工匠承包商…  
-  IT桔子 · 2026-11-19 14:17
+- [网易有道Q3：营收下降 12.3%，三大业务无一增长](<https://36kr.com/p/4076565978634120?f=rss>)  
+  一份财报，两组方向相反的数字，讲出了一个矛盾的故事。 11月19日，有道公司发布三季报：净收入14.3亿元，同比下降12.3%；经营利润3370万元，同比增长19.2%，连续第九个季度为正。美股开盘后，股价当天收跌约7%——市场用最直接的方  
+  36氪 · 2026-11-19 20:43
 
-- [昆仑万维 SkyProduction 上线营销工作室，打通广告创意到成片流程](<https://mp.weixin.qq.com/s/lhI0YEDz6zAqH5eXI-D21w>)  
-  昆仑万维旗下 SkyProduction 天工工作台正式推出「营销工作室」，将 AI 创作能力拓展至商业广告与营销内容生产场景。产品整合创意案例库、营销 Skill、AI Agent 与可视化画布，覆盖短剧带货、TVC 广告片、UGC 种草、爆款视频复刻等场景，并支持爆款素材裂变生成多版本广告、商品视觉物料一站式生成，以及视频翻译与多渠道画幅适配。  
-  公众号：昆仑万维（天工） · 2026-11-19 14:14
+- [诺基亚拥抱英伟达，爱立信走自己的路](<https://36kr.com/p/4076567914779521?f=rss>)  
+  AI-RAN正成为通信行业的核心议题。在频谱资源日趋紧张、5G提质与6G预研双重压力下，运营商寄望借助 人工智能重构无线接入网（RAN） ，进一步提高频谱效率、提升网络智能程度。 市场调研机构Omdia面向运营商从业者开展的一项调查显示，  
+  36氪 · 2026-11-19 20:42
 
-- [Storipod获得战略投资](<https://www.itjuzi.com/investevent/14708229>)  
-  Storipod是一家叙事内容创作与分发平台，面向非洲作家、出版社、影视工作室与品牌，搭建覆盖内容入库、版权管控、多端分发、商业化变现的一体化基础设施，支持图书、连载故事、漫画等故事类 IP 运营，自研 AI 语音朗读与推荐匹配能力，…  
-  IT桔子 · 2026-11-19 14:01
+- [超39万亿元的公募基金，三季度经历了一次压力测试](<https://36kr.com/p/4076619559441288?f=rss>)  
+  随着公募基金2026年三季报披露完毕，行业前三季度的运行轮廓也清晰地展现出来。 收益方面，前三季度公募基金的业绩呈现明显的“前高后低”特征。2026年上半年，在AI算力、半导体、光模块等热门概念的带动下，相关科技成长板块大涨，主动权益产品一  
+  36氪 · 2026-11-19 20:32
 
-- [镁伽完成近2亿美元新一轮融资](<https://www.itjuzi.com/investevent/14708194>)  
-  镁伽科技是中国机器人技术应用领域领先的自主智能体（Autonomous agents）提供商，致力于为智慧实验室与智能制造场景提供全面的自主智能体及多智能体解决方案。我通过高度智能化的软硬件系统，推动行业加速迈向高效、精准、可持续的智…  
-  IT桔子 · 2026-11-19 13:36
+- [消费者对特斯拉祛魅，车企却还在抄它的作业](<https://36kr.com/p/4076436054382466?f=rss>)  
+  进入AI时代，马斯克将焦点转向Robotaxi、AI和机器人，汽车反而成为一个略显落后的话题。但10月份，特斯拉的国内销量，把淡出舆论焦点的特斯拉汽车，重新拉回了车圈争议的中心。 根据懂车帝排行，2026年10月特斯拉国内零售销量仅8817  
+  36氪 · 2026-11-19 20:31
 
-- [英伟达收紧对云厂商的采购担保，需通过融资与验收才生效](<https://www.ithome.com/1/029/268.htm>)  
-  据 The Verge 报道，英伟达在最新财报电话会上收紧对 AI 公司的支持门槛，临时首席执行官科莱特·克雷斯（Colette Kress）表示，对新云（neocloud）厂商的采购担保只有在对方完成融资、建成数据中心、部署算力并通过英伟达验收后才生效，建设延期或受阻则担保不再存在。  
-  IT之家·人工智能 · 2026-11-19 13:08
+- [Sierra 白皮书解读：个人智能体对企业和商业竞争的影响](<https://sierra.ai/blog/personal-agents-insights>)  
+  Sierra 发布白皮书《Personal agents and the enterprise》，探讨个人智能体如何改变消费需求与企业竞争，引用 Meta 数据称超 1000 万美国和加拿大用户在六周内设置了 Muse。文章提出企业应把智能体作为数字前门，并通过 Poppy（Personal Agent Protocol）控制哪些个人智能体可以交互及其权限。  
+  Sierra：Blog（RSS） · 2026-11-19 20:30
 
-- [消息称 OpenAI 手机组装订单花落富士康旗下富智康](<https://www.ithome.com/1/029/267.htm>)  
-  据证券时报报道，富士康旗下富智康集团获得 OpenAI 手机项目订单，将承担整机组装；每日经济新闻援引供应链消息称，OpenAI 首款 AI 硬件计划于 2026 年底启动出货，立讯精密独家承担整机制造并供应核心零部件。此前传闻称该设备由 OpenAI 与 Jony Ive 的 LoveFrom 合作开发，可能是一款无屏设备，定价或在 300 至 400 美元区间，均未获官方确认。  
-  IT之家·人工智能 · 2026-11-19 13:01
+- [Canva 上线生成式 AI 关闭开关](<https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button>)  
+  Canva 推出生成式 AI 关闭开关，可一键禁用 Magic Expand、Magic Write、Dream Lab、Canva Code 等 AI 工具，免费和付费用户均可使用。背景 remover 和 Magic Grab 等仅处理设计内已有内容的工具不受影响。另新增开关可让内容库优先显示人类创作的模板和图形素材。  
+  The Verge：AI（RSS） · 2026-11-19 20:30
 
-- [彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲](<https://www.ithome.com/1/029/265.htm>)  
-  彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。  
-  IT之家·人工智能 · 2026-11-19 12:49
+- [Stormi](<https://www.producthunt.com/products/stormi>)  
+  An AI team on your iPhone that does real work  
+  Product Hunt · English · 2026-11-19 20:24
 
-- [极智元材完成千万级种子轮融资，推进人工智能赋能半导体产业创新发展](<https://www.itjuzi.com/investevent/14708210>)  
-  极智元材致力于构建面向全球材料研发的智能基础设施（Materials Intelligence Infrastructure，MII）。以高质量科学数据、材料领域通专模型和科研智能体为核心，深度融合多尺度模拟计算、智能实验与闭环优化，…  
-  IT桔子 · 2026-11-19 12:35
+- [Pete Warden 谈本地 AI、开放模型、语音界面与硬件未来](<https://thedataexchange.media/pete-warden-moonshine/>)  
+  Moonshine Voice 联合创作者 Pete Warden 在播客中讨论本地 AI 为何越来越倾向在设备端而非云端运行，并称本地模型在基准测试上仅比 Anthropic 和 OpenAI 的商业模型落后几个月。  
+  Hacker News：AI 热帖 · 2026-11-19 20:00
 
-- [Nutrient Data Extraction API 支持按 JSON Schema 提取并附带逐字段引用与置信度](<https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/>)  
-  Nutrient（原 PSPDFKit）的 Data Extraction API 将 PDF、扫描件、图片和 Office 文件解析为空间 JSON 或 Markdown，每个字段附页码、边界框、match 标签和置信度。  
-  MarkTechPost（RSS） · 2026-11-19 11:23
+- [IEEE Spectrum 分析：AI 超级智能争论存在哪些工程层面的根本缺陷](<https://spectrum.ieee.org/ai-superintelligence-debate>)  
+  这篇 IEEE Spectrum 文章认为超级智能争论存在严重缺陷，作者在 Georgetown 博士生研讨班基础上提出三项反对意见。  
+  Hacker News：AI 热帖 · 2026-11-19 20:00
 
-- [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
-  无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
-  IT桔子 · 2026-11-19 11:15
+- [Rox](<https://www.producthunt.com/products/rox-2>)  
+  Your AI companion for living with chronic illness  
+  Product Hunt · English · 2026-11-19 20:00
 
-- [Tecla](<https://www.producthunt.com/products/tecla-3>)  
-  A proactive AI agent whose interface is a TODO list  
-  Product Hunt · English · 2026-11-19 11:05
+- [O'Reilly 撰文解析 AI 递归自我改进的四级方法与现实风险](<https://www.oreilly.com/radar/who-builds-the-next-model/>)  
+  O'Reilly 发文分析 AI 正在参与构建下一代 AI 的递归自我改进趋势，给出四级框架：改进答案（Reflexion 将 GPT-4 编码测试成绩从 80% 提到 91%）、改写提示词（OPRO）、积累工具箱（Voyager）和修改自身（Darwin Godel Machine 将编码测试从 20% 提到 50%。  
+  O'Reilly Radar（热点 RSS） · 2026-11-19 19:45
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 23 页

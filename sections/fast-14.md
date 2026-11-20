@@ -1,6 +1,58 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 40 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 38 页
+
+- [BREAKING: Elon Musk on former Nvidia chief Jensen Huang’s exit: “It's like kicking Michael Jordan off your team whe…](<https://x.com/TheInsiderPaper/status/2123195099958165724>)  
+  BREAKING: Elon Musk on former Nvidia chief Jensen Huang’s exit: “It's like kicking Michael Jordan off your team when you're on a winning streak.”  
+  @TheInsiderPaper · 2026-11-19 07:22
+
+- [NVIDIA 顯示卡用戶注意\! 最近的驅動可能異常消耗 SSD 壽命 11/18 國外硬體媒體 Tom’s Hardwar…](<https://x.com/Shirogane_momo/status/2123194034084872356>)  
+  NVIDIA 顯示卡用戶注意\! 最近的驅動可能異常消耗 SSD 壽命 11/18 國外硬體媒體 Tom’s Hardware TechPowerUp 報導NVIDIA 近期驅動疑似出現持續大量寫入 SSD 的問題 目前被回報的版本 621.14（11/4 發布） 621.24（11/12 發布）…  
+  @Shirogane\_momo · 2026-11-19 07:17
+
+- [🟥 JUST NOW: Elon Musk said he has personally spoken with Jensen Huang.](<https://x.com/MAGAVoice/status/2123193883135975606>)  
+  It could be happening Imagine if SpaceX started making chips  
+  @MAGAVoice · 2026-11-19 07:17
+
+- [This woman hasn't even had time to warm up the CEO chair, and she's already telling employees to leave Jensen Huang…](<https://x.com/ClownWorld/status/2123193254078529869>)  
+  Holy shit. 🤦‍♂️  
+  @ClownWorld · 2026-11-19 07:14
+
+- [🚨 HOLY CRAP\!](<https://x.com/RyanAFournier/status/2123192829447225687>)  
+  Elon Musk says he’d LOVE to hire Jensen Huang and has already spoken to him\! Meanwhile, Nvidia’s board REFUSES to bring him back, despite nearly 200,000 petition signatures. One of the greatest CEOs in history, and Nvidia’s board is pushing him away. INSANITY\!  
+  @RyanAFournier · 2026-11-19 07:13
+
+- [我的天哪 Ackman 太给力了 直接开骂英伟达董事会了。](<https://x.com/pu3he/status/2123192774975709501>)  
+  他凌晨在 X 上发了篇长文，说英伟达董事会没替股东着想，也没尽到受托责任。黄仁勋是因为被指控跟间谍有染，被开除或者被逼辞职的，可董事会连事实都没摸清，就急着拍了板。  
+  @pu3he · 2026-11-19 07:12
+
+- [JUST IN: Elon Musk compares Jensen Huang's removal from Nvidia to kicking Michael Jordan off the Chicago Bulls in t…](<https://x.com/Kalshi/status/2123192527410848164>)  
+  JUST IN: Elon Musk compares Jensen Huang's removal from Nvidia to kicking Michael Jordan off the Chicago Bulls in the middle of a winning streak  
+  @Kalshi · 2026-11-19 07:12
+
+- [Gemini 4 Neon 登上 Agent Arena Index 第 2，Google DeepMind 发布节奏加快](<https://x.com/arena/status/2123192239761596566>)  
+  Arena 指出 Google DeepMind 发布节奏加快，Gemini 4 系列各代发布间隔从 Argon 到 Carbon 的 28 天缩短到 Hydrogen 到 Neon 的 6 天。其引用的榜单显示 Gemini 4 Neon \(High\) 以 1336 分位列 Agent Aren…  
+  X：Arena \(@arena\) · 2026-11-19 07:10
+
+- [🟥 JUST IN: Elon Musk said he would love to Hire Jensen Huang “who wouldn’t want to hire Jensen” Elon Musk is extrem…](<https://x.com/MAGAVoice/status/2123192042394374583>)  
+  🟥 JUST IN: Elon Musk said he would love to Hire Jensen Huang “who wouldn’t want to hire Jensen” Elon Musk is extremely LOYAL THIS WOULD BE HUGE  
+  @MAGAVoice · 2026-11-19 07:10
+
+- [🚨 JUST IN: Elon Musk says he'd LOVE to hire Jensen Huang and he's SPOKEN TO HIM "Who WOULDN'T?](<https://x.com/EricLDaugh/status/2123191395485618261>)  
+  He's incredibly talented. He's one of the most talented entrepreneurial CEOs in HISTORY." "Now, Jensen's not looking for a job." "I don't know what happens next. The decision is up  
+  @EricLDaugh · 2026-11-19 07:07
+
+- [OpenAI 发布报告展示 AI 如何加速其内部研究](<https://x.com/OpenAI/status/2123191365983248653>)  
+  OpenAI 发布新报告，分享 AI 如何改变其内部研究的数据。报告发现研究者使用 AI 的程度持续指数级上升，智能体能完成更长的任务，但人类参与仍是核心；在安全与对齐上投入的人力增速超过其他任何研究领域。  
+  X：OpenAI \(@OpenAI\) · 2026-11-19 07:07
+
+- [Elon Musk says Nvidia made a mistake removing Jensen Huang, confirms he's spoken with him privately and says he wou…](<https://x.com/wallstengine/status/2123190933936312640>)  
+  Elon Musk says Nvidia made a mistake removing Jensen Huang, confirms he's spoken with him privately and says he would hire him himself: "who wouldn't?" "I would call Jensen, Michael Jordan, perhaps at his peak level, in terms of what he means to a team." "You …  
+  @wallstengine · 2026-11-19 07:05
+
+- [Greg Brockman 确认 OpenAI 与研究者协作披露 NGINX 1.31.8 漏洞 NGINX2Shell](<https://x.com/gdb/status/2123190766382075992>)  
+  安全研究者 @ikotas00 发现 NGINX 1.31.8 主线版本中的预认证远程代码执行漏洞 NGINX2Shell，并称从发现到披露全程与 OpenAI 紧密协作。Greg Brockman 转发确认 OpenAI 进一步开展此类协作，帮助保障互联网安全，覆盖发现到负责任披露的全过程。  
+  X：Greg Brockman \(@gdb\) · 2026-11-19 07:05
 
 - [JUST IN: Anthropic researcher predicts AI will leave nearly every human "permanently unemployable" &amp;amp; reliant on…](<https://x.com/Polymarket/status/2123190032525611248>)  
   JUST IN: Anthropic researcher predicts AI will leave nearly every human "permanently unemployable" &amp;amp; reliant on government welfare to survive.  
@@ -126,56 +178,4 @@
   Google 官方介绍 Gemini 4 Neon 在原始能力之外的使用体验：Agent Arena 可控性排名第 2，多步指令遵循能力强，内部 Antigravity 测试中编造率为迄今最低。模型提供四档思考等级，可控制投入的推理强度，并配备 1M token 上下文窗口。  
   X：Google \(@Google\) · 2026-11-19 05:51
 
-- [Google 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成](<https://x.com/Google/status/2123172282574987698>)  
-  Google 发布 Gemini 4 Neon，定位前沿级智能与快速端到端任务完成，面向复杂编码、知识工作和科学工作流。该模型在 Artificial Analysis Intelligence Index xhigh 档总排名第 3（超过同类模型），在 Vals Index 排名第 2，处于 P…  
-  X：Google \(@Google\) · 2026-11-19 05:51
-
-- [I AM ABSOLUTELY CONVINCED THAT ANTHROPIC IS ABSOLUTE EVIL.](<https://x.com/RassvetAsks/status/2123171855385465153>)  
-  AND SO IS OPENAI. These guys talk endlessly about AI SAFETY. But I see something far more sinister. A future where LOCAL AI is regulated into extinction, and a handful of corporations control humanity's access to  
-  @RassvetAsks · 2026-11-19 05:49
-
-- [Trump: We can't regulate AI and need data centers everywhere because we need to beat China Also Trump: How many Nvi…](<https://x.com/BMeiselas/status/2123171608135393576>)  
-  Trump: We can't regulate AI and need data centers everywhere because we need to beat China Also Trump: How many Nvidia chips would you like to buy, Xi?  
-  @BMeiselas · 2026-11-19 05:48
-
-- [Something is going on at Google I think they might have hit RSI They’ve released new frontier models FOUR TIMES in…](<https://x.com/AlexFinn/status/2123171176025575701>)  
-  And each is an actual MAJOR improvement Carbon is the most intelligent model I’ve ever used While everyone is talking about Anthropic and  
-  @AlexFinn · 2026-11-19 05:47
-
-- [Google 发布 Gemini 4 Neon，Artificial Analysis 智能指数 61 分排名第三](<https://x.com/ArtificialAnlys/status/2123170645777526962>)  
-  Google DeepMind 发布 Gemini 4 Neon，Artificial Analysis 评测其 Intelligence Index 得 61 分，高于 Gemini 4 Carbon（high）1 分，总榜第三，编码代理得分 59 与 Claude Opus 5.5、Claud…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-19 05:45
-
-- [Seguo \#JensenHuang, ex ceo di \#Nvidia da anni, occupandomi di \#Taiwan e \#Cina.](<https://x.com/flancini/status/2123170567356318199>)  
-  Allora, chiariamo due cose: 1 Jensen Huang non è di origine cinese, ma taiwanese. 2 Ha di fatto favorito la vendita di \#microchip avanzati alla Cina che non è ancora in grado di produrli, rischiando di  
-  @flancini · 2026-11-19 05:44
-
-- [Google 发布 Gemini 4 Neon，Artificial Analysis 排名第三](<https://x.com/rohanpaul_ai/status/2123170168201486582>)  
-  Google 发布 Gemini 4 Neon，在 Artificial Analysis Intelligence Index 得 61 分排名第三，价格 $3/$15 per 1M tokens。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 05:43
-
-- [Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter](<https://x.com/OpenRouter/status/2123170058574905675>)  
-  OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可通过 Google Cloud 使用。该模型面向复杂软件工程、知识工作和科学场景，定位介于 Carbon 与 Hydrogen 之间。Google 称其在 Artificial Analy…  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-19 05:42
-
-- [Google 发布 Gemini 4 Neon，速度接近 Carbon 的 3 倍](<https://x.com/ammaar/status/2123169924222754968>)  
-  Google 员工 Ammaar Reshi 宣布 Gemini 4 Neon 发布，速度比 Carbon 快近 3 倍，同时保持接近 Carbon 的性能和智能水平。该模型正在 AI Studio、Gemini app 和 Antigravity 上线。  
-  X：Ammaar Reshi \(@ammaar\) · 2026-11-19 05:42
-
-- [Anthropic IPO 定价 83 美元，高于发行区间](<https://x.com/KateClarkTweets/status/2123169870552436802>)  
-  Anthropic IPO 定价为每股 83 美元，高于此前发行区间。消息援引自 WSJ 报道。  
-  X：Kate Clark \(@KateClarkTweets\) · 2026-11-19 05:41
-
-- [Arena 发布 Agent Arena Index：Gemini 4 Neon \(High\) 以 1336 分排名第二](<https://x.com/arena/status/2123169189397709174>)  
-  Arena 公布 Agent Arena Index 排名，Gemini 4 Neon \(High\) 以 1336 分位列第二，超过 \#4 Carbon \(High\) 的 1303 分、\#9 Hydrogen \(High\) 的 1271 分和 \#11 Argon \(High\) 的 1229 分，得…  
-  X：Arena \(@arena\) · 2026-11-19 05:39
-
-- [Gemini 4 Neon 上线，Google AI Pro 和 Ultra 订阅用户可在 Chat 和 Tasks 中选用](<https://x.com/GeminiApp/status/2123169070988337603>)  
-  Google 宣布 Google AI Pro 和 Ultra 订阅用户可通过 Chat 和 Tasks 中的模型下拉菜单选用 4 Neon（Deeper analysis），支持移动端、桌面端和网页端。更多介绍见官方博客  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 05:38
-
-- [BREAKING: Anthropic, $ANT, has priced its IPO at $83 per share, above its marketed range of $70 to $78, per Bloombe…](<https://x.com/KobeissiLetter/status/2123168870429274123>)  
-  The company is now expected to raise at least $68 billion through its IPO, plus another $26 billion in a private placement. This brings the total offering to  
-  @KobeissiLetter · 2026-11-19 05:37
-
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 40 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 38 页

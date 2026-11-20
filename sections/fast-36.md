@@ -1,6 +1,57 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 40 页
+[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 38 页
+
+- [今天深圳APEC，六个老板同台说真话，比新闻通稿好看十倍。](<https://x.com/xiaoyezt/status/2122693329767064002>)  
+  ​​雷军先自爆：AI砸钱砸得凶，能落地的场景没几个，真正在这一轮挣到钱的公司，掰着手指头数得过来。他把出路押在物理世界——具身智能机器人，想象力他认为超过汽车。  
+  @xiaoyezt · 2026-11-17 22:08
+
+- [Higgsfield is breaking creators.](<https://x.com/YouArtStudio/status/2122693057002770487>)  
+  We're here to change that. Today, we're introducing the most affordable Seedance MCP on the market. $0.0918/sec. Pay as you go. 50% cheaper. We're literally selling below cost. No more overpriced AI video generation. Let's bring freedom back  
+  @YouArtStudio · 2026-11-17 22:07
+
+- [Hey @grok , is it true or false news that Nvidia CEO Jensen Huang resigned last week and his allies are urging the…](<https://x.com/gull_Rukh_6/status/2122685592282730786>)  
+  Is there any reliable evidence supporting this claim ...?  
+  @gull\_Rukh\_6 · 2026-11-17 21:37
+
+- [Jensen Huang after all of this:](<https://x.com/Samann_ai/status/2122685142267265291>)  
+  @Samann\_ai · 2026-11-17 21:35
+
+- [Fuck, this is absolutely insane.](<https://x.com/RamSingh_369/status/2122683963655495726>)  
+  Dario Amodei, CEO of Anthropic, was asked what a young person who has just finished high school should do today. His answer: «AI already knows how to do a junior lawyer’s job. A junior financial analyst’s. A junior consultant’s. We can’t deny  
+  @RamSingh\_369 · 2026-11-17 21:31
+
+- [兄弟姐妹们，黄仁勋很可能要重出江湖并另起炉灶了！](<https://x.com/Dragonhau66/status/2122682770094723468>)  
+  据内部消息说，老黄正考虑新创办一家公司，选择新加坡或阿联酋作为注册主体，美国只留研发前哨。 他不会去碰通用GPU，而是大概率走存算一体和光子互联，卖架构标准，不卖卡。 华盛顿抓不住违反管制的把柄，英伟达也告不了他复制CUDA。  
+  @Dragonhau66 · 2026-11-17 21:26
+
+- [I once saw Jensen Huang at a grocery store in Berlin.](<https://x.com/fabianstelzer/status/2122682492326920613>)  
+  I told him how cool it was to meet him in person, but I didn’t want to be a douche and bother him and ask him for photos or anything. He said, “Oh, like you’re doing now? That’s okay, I love meeting people.” I was taken  
+  @fabianstelzer · 2026-11-17 21:25
+
+- [It's officially Nvidia's earnings day.](<https://x.com/KobeissiLetter/status/2122681159071179016>)  
+  Today's earnings report and call will likely be the most watched earnings event in history. We are watching two key things: 1. Do executives show any willingness to reinstate Jensen Huang 2. What has CHANGED from a business perspective  
+  @KobeissiLetter · 2026-11-17 21:20
+
+- [我的油管第15期：《黄仁勋的丧钟还是喜讯？》： 黄乐的运作就是一个马甲套另一个马甲，套得太多，黄乐就是马六甲。](<https://x.com/dayangelcp/status/2122680420756082844>)  
+  黄乐是不是间谍不重要。关键是她肩负祖国特殊使命。孟晚舟是隐退的黄乐，黄乐是没暴露的孟晚舟。当然现在黄乐也“事成拂衣去，深藏功与名”。两个翠萍，遥遥相望，会心一笑。  
+  @dayangelcp · 2026-11-17 21:17
+
+- [Dario Amodei telling lawmakers that open-source AI is dangerous because you cannot "monitor its usage" or “revoke a…](<https://x.com/MyDaebakCafe/status/2122676347793215509>)  
+  He literally described why Linux, local encryption, and open weights exist in the first  
+  @MyDaebakCafe · 2026-11-17 21:00
+
+- [😮直接榨干谷歌Pro/Ultra订阅权益！！](<https://x.com/leaf_sanren/status/2122673250778194327>)  
+  1. 不仅让Gemini 4逆向视频， 2. 还要让Antigravity薅尽谷歌订阅羊毛，不花钱自动生成爆款视频  
+  @leaf\_sanren · 2026-11-17 20:48
+
+- [JUST IN: Senior Nvidia employee reportedly warned the board it could lose “irreplaceable talent” if it doesn’t rein…](<https://x.com/Polymarket/status/2122669078527844510>)  
+  JUST IN: Senior Nvidia employee reportedly warned the board it could lose “irreplaceable talent” if it doesn’t reinstate Jensen Huang as CEO.  
+  @Polymarket · 2026-11-17 20:32
+
+- [BREAKING: Senior Nvidia, $NVDA, employees have sent a letter to the company’s board of directors stating that failu…](<https://x.com/KobeissiLetter/status/2122665555299795264>)  
+  Some employees have discussed holding a "demonstration" in support of  
+  @KobeissiLetter · 2026-11-17 20:18
 
 - [David Sacks is outraged by the leak exposing alleged NVIDIA chip smuggling to China, yet remarkably incurious about…](<https://x.com/gnoble79/status/2122664706573844667>)  
   His priorities speak volumes: protect Jensen Huang, attack the messenger. A disgraceful display of warped ethics, appalling  
@@ -121,53 +172,4 @@
 - [Free Jensen Huang\!](<https://x.com/northanger/status/2122646654264475812>)  
   @northanger · 2026-11-17 19:02
 
-- [Snowflakeの熊、ほんのり不細工な感じが好き \#aws\_meetup\_kansai \#aws\_jr\_champions](<https://x.com/philosophum/status/2122646620571643935>)  
-  @philosophum · 2026-11-17 19:02
-
-- [黄仁勋刚被拿下，Dario 这煞笔恐怕要笑醒了 Databricks 刚公布了一份覆盖 1 万多家企业的 AI 使用报告…](<https://x.com/parkgo_dev/status/2122646580704792983>)  
-  黄仁勋刚被拿下，Dario 这煞笔恐怕要笑醒了 Databricks 刚公布了一份覆盖 1 万多家企业的 AI 使用报告 开放权重模型的 Token 占比，从 7 月的 7.3% 冲到了 11 月的 30.9%，不到四个月翻了四倍 要知道，大客户就是 Anthropic 的营收基本盘 根据 Ant…  
-  @parkgo\_dev · 2026-11-17 19:02
-
-- [嘿 @grok 黄仁勋64岁了还能到工作吗？](<https://x.com/zhouyumian1/status/2122646568281284789>)  
-  我很担心他🤭  
-  @zhouyumian1 · 2026-11-17 19:02
-
-- [从黄仁勋这个事情来看，是不是像这样的有成就的，不结婚低调一点最好。。。想泡谁就泡谁](<https://x.com/RayCC506/status/2122646558932176992>)  
-  @RayCC506 · 2026-11-17 19:02
-
-- [The Night the Rules Briefly Applied to a CEO Jensen Huang lost his job the way ordinary Americans lose theirs.](<https://x.com/PravdaPereira/status/2122646561406570866>)  
-  The rest of the executive class should be terrified.  
-  @PravdaPereira · 2026-11-17 19:02
-
-- [Elon Musk vừa thể hiện thế nào là tình bạn thực sự. ♥️ Sau khi mối liên hệ của Jensen Huang với NVIDIA bị gỡ bỏ, dấ…](<https://x.com/tcozipla/status/2122646556268724269>)  
-  Elon đang mang nó trở lại miễn phí. Một cử chỉ nhỏ nhưng nói lên rất nhiều. Những người bạn  
-  @tcozipla · 2026-11-17 19:02
-
-- [请在美国🇺🇸晨鸽聊黄仁勋离职英伟达事件\#黄仁勋\#中国电视剧 \#中国 \#台湾 \#香港 \#澳门 \#btc \#投资\#比特币 \#美…](<https://x.com/zzzxxxmmm123999/status/2122646524798931177>)  
-  请在美国🇺🇸晨鸽聊黄仁勋离职英伟达事件\#黄仁勋\#中国电视剧 \#中国 \#台湾 \#香港 \#澳门 \#btc \#投资\#比特币 \#美股 \#股票 \#中国\#s... 来自 @YouTube  
-  @zzzxxxmmm123999 · 2026-11-17 19:02
-
-- [NVIDIA enfrenta un cambio histórico: Jensen Huang renunció como CEO y la junta ya busca a su reemplazo.](<https://x.com/RollingStoneES/status/2122646518507208705>)  
-  Colette Kress queda al frente de forma interina en medio de una crisis que sacude a la compañía. \#JensenHuang \#NVIDIA \#IndustriaTecnológica  
-  @RollingStoneES · 2026-11-17 19:02
-
-- [Crisis en NVIDIA: empleados clave se plantean marcharse y los aliados de Jensen Huang denuncian un boicot contra él](<https://x.com/elchapuzas/status/2122646519924797802>)  
-  @elchapuzas · 2026-11-17 19:02
-
-- [AI builds are on your mind, that aligns with my focus.](<https://x.com/almokhtar_al/status/2122646482117435798>)  
-  I'm prepping for OSEP and share AI security notes for solo founders from Cologne.  
-  @almokhtar\_al · 2026-11-17 19:02
-
-- [AI Models Need 90% Less Training Data A study led by associate professor Susanta Ghosh at Michigan Technological Un…](<https://x.com/ApollonVisual/status/2122646474475340055>)  
-  The research team collaborated with researchers from the University  
-  @ApollonVisual · 2026-11-17 19:02
-
-- [Offline maps and on-device AI are useful, but emergency communication is the real test.](<https://x.com/solex001/status/2122646426698100941>)  
-  How does Blackout Kit allow users to communicate when both internet and cellular networks are down?  
-  @solex001 · 2026-11-17 19:01
-
-- [Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining -…](<https://x.com/aitrainer_jobs/status/2122646369101893632>)  
-  Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining - AI Training Job  
-  @aitrainer\_jobs · 2026-11-17 19:01
-
-[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 40 页
+[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 38 页

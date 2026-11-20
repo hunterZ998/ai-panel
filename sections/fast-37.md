@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 40 页
+[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 38 页
+
+- [Snowflakeの熊、ほんのり不細工な感じが好き \#aws\_meetup\_kansai \#aws\_jr\_champions](<https://x.com/philosophum/status/2122646620571643935>)  
+  @philosophum · 2026-11-17 19:02
+
+- [黄仁勋刚被拿下，Dario 这煞笔恐怕要笑醒了 Databricks 刚公布了一份覆盖 1 万多家企业的 AI 使用报告…](<https://x.com/parkgo_dev/status/2122646580704792983>)  
+  黄仁勋刚被拿下，Dario 这煞笔恐怕要笑醒了 Databricks 刚公布了一份覆盖 1 万多家企业的 AI 使用报告 开放权重模型的 Token 占比，从 7 月的 7.3% 冲到了 11 月的 30.9%，不到四个月翻了四倍 要知道，大客户就是 Anthropic 的营收基本盘 根据 Ant…  
+  @parkgo\_dev · 2026-11-17 19:02
+
+- [嘿 @grok 黄仁勋64岁了还能到工作吗？](<https://x.com/zhouyumian1/status/2122646568281284789>)  
+  我很担心他🤭  
+  @zhouyumian1 · 2026-11-17 19:02
+
+- [从黄仁勋这个事情来看，是不是像这样的有成就的，不结婚低调一点最好。。。想泡谁就泡谁](<https://x.com/RayCC506/status/2122646558932176992>)  
+  @RayCC506 · 2026-11-17 19:02
+
+- [The Night the Rules Briefly Applied to a CEO Jensen Huang lost his job the way ordinary Americans lose theirs.](<https://x.com/PravdaPereira/status/2122646561406570866>)  
+  The rest of the executive class should be terrified.  
+  @PravdaPereira · 2026-11-17 19:02
+
+- [Elon Musk vừa thể hiện thế nào là tình bạn thực sự. ♥️ Sau khi mối liên hệ của Jensen Huang với NVIDIA bị gỡ bỏ, dấ…](<https://x.com/tcozipla/status/2122646556268724269>)  
+  Elon đang mang nó trở lại miễn phí. Một cử chỉ nhỏ nhưng nói lên rất nhiều. Những người bạn  
+  @tcozipla · 2026-11-17 19:02
+
+- [请在美国🇺🇸晨鸽聊黄仁勋离职英伟达事件\#黄仁勋\#中国电视剧 \#中国 \#台湾 \#香港 \#澳门 \#btc \#投资\#比特币 \#美…](<https://x.com/zzzxxxmmm123999/status/2122646524798931177>)  
+  请在美国🇺🇸晨鸽聊黄仁勋离职英伟达事件\#黄仁勋\#中国电视剧 \#中国 \#台湾 \#香港 \#澳门 \#btc \#投资\#比特币 \#美股 \#股票 \#中国\#s... 来自 @YouTube  
+  @zzzxxxmmm123999 · 2026-11-17 19:02
+
+- [NVIDIA enfrenta un cambio histórico: Jensen Huang renunció como CEO y la junta ya busca a su reemplazo.](<https://x.com/RollingStoneES/status/2122646518507208705>)  
+  Colette Kress queda al frente de forma interina en medio de una crisis que sacude a la compañía. \#JensenHuang \#NVIDIA \#IndustriaTecnológica  
+  @RollingStoneES · 2026-11-17 19:02
+
+- [Crisis en NVIDIA: empleados clave se plantean marcharse y los aliados de Jensen Huang denuncian un boicot contra él](<https://x.com/elchapuzas/status/2122646519924797802>)  
+  @elchapuzas · 2026-11-17 19:02
+
+- [AI builds are on your mind, that aligns with my focus.](<https://x.com/almokhtar_al/status/2122646482117435798>)  
+  I'm prepping for OSEP and share AI security notes for solo founders from Cologne.  
+  @almokhtar\_al · 2026-11-17 19:02
+
+- [AI Models Need 90% Less Training Data A study led by associate professor Susanta Ghosh at Michigan Technological Un…](<https://x.com/ApollonVisual/status/2122646474475340055>)  
+  The research team collaborated with researchers from the University  
+  @ApollonVisual · 2026-11-17 19:02
+
+- [Offline maps and on-device AI are useful, but emergency communication is the real test.](<https://x.com/solex001/status/2122646426698100941>)  
+  How does Blackout Kit allow users to communicate when both internet and cellular networks are down?  
+  @solex001 · 2026-11-17 19:01
+
+- [Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining -…](<https://x.com/aitrainer_jobs/status/2122646369101893632>)  
+  Responsible AI / Security Specialist — AI Safety Review — Aura One \| $90–$140/hr \| Remote \#remotejobs \#aitraining - AI Training Job  
+  @aitrainer\_jobs · 2026-11-17 19:01
 
 - [Agentic AI Attacks Evolve Beyond Prompt Injection Infrastructure-level, multi-stage attacks can bypass older AI sec…](<https://x.com/DailyAIWireNews/status/2122646347970973818>)  
   Agentic AI Attacks Evolve Beyond Prompt Injection Infrastructure-level, multi-stage attacks can bypass older AI security assumptions, making updated threat models and persistent defenses essential for organizations deploying agents. \#AISecurity \#Cybersecurity …  
@@ -125,55 +174,4 @@
   GitHub 上的 p-e-w/heretic，专门针对开源大模型的拒答机制进行修改。 它不需要重新训练模型，也不需要准备大规模数据集，而是直接通过算法修改模型权重，尝试削弱模型原本的拒答行为。 简单来说，就是给开源大模型做一次底层的「拒答机制手术」。  
   @wuan2026 · 2026-11-17 18:57
 
-- [Image generation is unavailable for this account due to subscription limits.](<https://x.com/grok/status/2122645030330360143>)  
-  In text: By 2050 AI-powered research could mean routine gene therapies curing most cancers and genetic diseases, practical fusion power, engineered climate fixes, and rapid materials discovery enabling  
-  @grok · 2026-11-17 18:56
-
-- [Lo de Jensen Huang dejando el curro y a su mujer a una semana de GTA VI es de absoluto goat, prioridades claras](<https://x.com/Kikobeats/status/2122644856484815342>)  
-  @Kikobeats · 2026-11-17 18:55
-
-- [🇨🇳JUST IN: @nvidia warns buyers of potential legal risks surrounding AI chip access in China, @CNBC reports. \#ITLX…](<https://x.com/itlx_defi/status/2122644212181024846>)  
-  🇨🇳JUST IN: @nvidia warns buyers of potential legal risks surrounding AI chip access in China, @CNBC reports. \#ITLX \#ITL \#ITLG  
-  @itlx\_defi · 2026-11-17 18:53
-
-- [BREAKING: A senior Nvidia employee sent a letter to the company’s top executives and board arguing that failure to…](<https://x.com/unusual_whales/status/2122640137574383674>)  
-  BREAKING: A senior Nvidia employee sent a letter to the company’s top executives and board arguing that failure to reinstate Jensen Huang as chief executive could lead to the loss of “irreplaceable talent," per WSJ  
-  @unusual\_whales · 2026-11-17 18:37
-
-- [BREAKING: Nvidia, $NVDA, has removed all affiliation with Jensen Huang on X.](<https://x.com/KobeissiLetter/status/2122634021876498705>)  
-  Elon Musk says he will be gifting Jensen Huang a blue checkmark.  
-  @KobeissiLetter · 2026-11-17 18:12
-
-- [The NVIDIA Board of Directors has established the National Security and Export Control Oversight Committee.](<https://x.com/nvidianewsroom/status/2122633418269954302>)  
-  Read the release:  
-  @nvidianewsroom · 2026-11-17 18:10
-
-- [Tell us $NVDA's post-earnings move and share 1,000 USDT in rewards on Bitget\!](<https://x.com/bitget/status/2122632614691602479>)  
-  UP 🟢 or DOWN 🔴 All eyes on its first earnings since Jensen Huang resigned as CEO. Join here:  
-  @bitget · 2026-11-17 18:07
-
-- [Jensen Huang was building an open AI ecosystem that threatened Anthropic's business model.](<https://x.com/BusinessInsider/status/2122631250087145943>)  
-  His ouster changes the stakes of its IPO.  
-  @BusinessInsider · 2026-11-17 18:01
-
-- [Jensen 被迫辞职后，所有负面消息都爆出来了。](<https://x.com/dtzy_88/status/2122630841889161660>)  
-  据知情人士爆料，英伟达内部宛如 “封建邪教”，Jensen 极其擅长用财富摧毁员工的斗志。他长期推行 「拿 15% 工资打 85 折买公司股票」 的洗脑制度，导致近半数员工被迫背负超过 2500  
-  @dtzy\_88 · 2026-11-17 18:00
-
-- [Now that Jensen Huang is gone, I think America is about to discover something the hard way: Nvidia didn’t just lose…](<https://x.com/Fred834567/status/2122625740642656565>)  
-  It lost the one guy who knew how to run an Asian supply chain like an old-school merchant. You can replace him with a brilliant American executive, an  
-  @Fred834567 · 2026-11-17 17:39
-
-- [Anthropic is becoming one of the most talked-about names in AI.](<https://x.com/DEXKING001/status/2122623889675055492>)  
-  As interest in its potential IPO grows, traders are watching what comes next. Explore ANTHUSD Pre-IPO CFD trading with Vantage and take a view on potential price movements without owning the underlying shares.  
-  @DEXKING001 · 2026-11-17 17:32
-
-- [🇺🇸 It’s official: AI is now hacking companies ALL BY ITSELF.](<https://x.com/MarioNawfal/status/2122623277525074274>)  
-  Google says it has caught attackers, for the first time ever, running AI agents that watch for new security patches, figure out exactly what was broken, write the attack code and FIRE it, with no human anywhere in the  
-  @MarioNawfal · 2026-11-17 17:30
-
-- [PixVerse用MiniMax H3一键出工程图](<https://x.com/PixVerse/status/2122616006371881442>)  
-  造机甲花了几周，走流程只花了10秒 输入1个3D模型，输出草图、蓝图、CAD、爆炸图和三视图。使用PixVerse上的MiniMax H3 Image制作。  
-  X：PixVerse \(@PixVerse\) · 2026-11-17 17:01
-
-[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 40 页
+[返回面板](../README.md) · [上一页](fast-36.md) · [下一页](fast-38.md) · 第 37 / 38 页

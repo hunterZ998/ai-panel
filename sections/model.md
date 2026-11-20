@@ -38,29 +38,116 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 270 条
+## 相关资讯 · 268 条
+
+- [估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」](<https://36kr.com/p/4077584744600709?f=rss>)  
+  卸任亚马逊 CEO 五年后，杰夫·贝佐斯没忍住，又给自己找了个班上。 当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克·巴贾杰（Vik Bajaj）罕见同台。 他现在的最  
+  36氪 · 2026-11-20 16:23
+
+- [Unsiloed AI获得750万美元种子轮融资](<https://www.itjuzi.com/investevent/14708367>)  
+  Unsiloed AI是一家文档解析AI科技研发商，自研双流视觉模型，将 PDF、扫描件、图片、表格、表单等 20 余种非结构化文档解析为带溯源引用、置信度分数与边界框的 Markdown 和结构化 JSON，供 LLM 与 AI 智…  
+  IT桔子 · 2026-11-20 15:40
+
+- [目前算力性能最强中国自研 AI 芯片，阿里真武 V900 明年一季度将量产售卖](<https://www.ithome.com/1/030/006.htm>)  
+  IT之家 11 月 20 日消息，阿里巴巴昨晚公布 2027 财年第二季度（2026 年 7 月 1 日～2026 年 9 月 30 日）业绩，其中 AI 云与算力服务收入为 609.73 亿元，同比增长 53%。 阿里云官方宣布，…  
+  IT之家 · 2026-11-20 15:38
+
+- [GPT-6.2自己造出全新证法，94分钟拿下20年前顶刊定理首证](<https://36kr.com/p/4077608933954436?f=rss>)  
+  刚刚，第三方评测机构Vals AI放出了高难数学基准Autoform-Hard的最新榜单。 56道博士与科研级数学难题，此前10个前沿大模型去测，结果 一道都没做出来 。 而在这轮测试里，Claude Fable 5.2和GPT-6.2 S  
+  36氪 · 2026-11-20 15:35
+
+- [阿莫迪：AI领路人](<https://36kr.com/p/4077584765424516?f=rss>)  
+  美国时间11月19日，Anthropic正式登陆纳斯达克，以“ANT”为股票代码挂牌，创下了全球史上最大规模IPO纪录。 就在上市前一天，Anthropic将发行价定在每股83美元，并将发行数量从8.25亿股增加到9.8亿股，最终公开发行规  
+  36氪 · 2026-11-20 15:32
+
+- [Anthropic 以 83 美元定价完成史上最大 IPO，上市首日估值近 2 万亿美元](<https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/>)  
+  Anthropic 以每股 83 美元在纳斯达克上市（代码 $ANT），融资 813 亿美元超过 SpaceX 成为史上最大 IPO，首日开盘价 111.50 美元、较发行价高 34.3%，完全稀释估值约 2 万亿美元。  
+  Latent Space（RSS） · 2026-11-20 15:12
+
+- [智启未来·链接全球：AIE电子展2026要讲一个怎样的「AI+制造」故事？](<https://36kr.com/p/4077486703694977?f=rss>)  
+  人工智能与制造业的关系，正在从“展示”走向“改造”。 过去两年，AI在产业端最直观的形象，是展台上会跳舞的人形机器人和能自动生成文案的模型。但当技术真正进入工厂、进入供应链、进入材料和芯片实验室，问题开始变得具体：算力够不够便宜、材料迭代跟  
+  36氪 · 2026-11-20 14:55
+
+- [星辰智算获得数百万人民币战略投资](<https://www.itjuzi.com/investevent/14708361>)  
+  星辰智算SentiMind是一家认知科学多模态大模型研发商，用游戏化认知任务采集人的行为数据，再以多模态模型理解、预测与训练认知能力，已构建覆盖认知评估、训练、追踪的闭环体系，并推出端侧认知调度层Senti-OS，以1至3B的轻量化模…  
+  IT桔子 · 2026-11-20 14:42
+
+- [AI制药狂奔之后，“计算医学”开始补上极其艰难的一块](<https://36kr.com/p/4077699178108037?f=rss>)  
+  AI制药发展到今天，出现了一个有些反直觉的现象。 一边，是模型能力的快速跃迁。AlphaFold之后，蛋白质结构预测已经发生根本变化，生成式AI开始进入蛋白设计、小分子设计、抗体发现，生命科学基础模型、大模型和科研智能体不断出现。2026年  
+  36氪 · 2026-11-20 14:16
+
+- [迈特芯 3D-TPU 芯片 Mega188 成功点亮：垂直集成 DRAM，600GB/s 带宽](<https://www.ithome.com/1/029/876.htm>)  
+  IT之家 11 月 20 日消息，国内端侧 LLM 芯片企业迈特芯 \(MetaChip\) 近日宣布，其 3D-TPU 芯片产品 Mega188 成功实现回片点亮。 IT之家了解到，Mega188 结合了分布式 TPU 计算单元和 3D…  
+  IT之家 · 2026-11-20 13:50
+
+- [腾讯 Hy4 正式开源，混元 LLM 系列实现全量开放](<https://www.ithome.com/1/029/841.htm>)  
+  IT之家 11 月 20 日消息，腾讯混元团队今日宣布 Hy4 大模型正式开源，模型权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 四个平台同步上线，开发者可自行下载部署。 至此，混元 LL…  
+  IT之家 · 2026-11-20 11:47
+
+- [“AI界央行”英伟达，钱都流向哪了？](<https://36kr.com/p/4077470929671296?f=rss>)  
+  近年来，英伟达一直被业内人士誉为是AI循环融资经济的“中央银行”。在前首席执行官黄仁勋的领导下，英伟达不仅为全球AI浪潮打造了底层核心基石——GPU芯片，更凭借雄厚财力构筑起一座庞大的“资本弹药库”。 然而，伴随这位“皮衣刀客”的骤然离任，  
+  36氪 · 2026-11-20 11:43
+
+- [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
+  腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
+  公众号：腾讯混元 · 2026-11-20 11:41
+
+- [盛宴登场，VC赚麻](<https://36kr.com/p/4077423141229443?f=rss>)  
+  史上最大IPO，来了。 11月19日，Anthropic在美上市，股票代码为ANT。以完全稀释口径计算，这家公司的市值一度突破2万亿美元关口，并在首日收盘时超过1.7万亿美元（超11万亿人民币）。通过公开发行与私募配售等方式，Anthrop  
+  36氪 · 2026-11-20 11:38
+
+- [Anthropic上市，10个值得关注的真相](<https://36kr.com/p/4077435413844867?f=rss>)  
+  一家公司上市，募资813亿美元，首日市值一度突破2万亿美元。 毫无疑问，Anthropic创造了美国资本市场新的IPO纪录。 但这场IPO值得关注的，远不只是一个一批百万富翁，或者一家公司创造了多少融资纪录。 它更像一次集中展示，AI产业积  
+  36氪 · 2026-11-20 11:32
+
+- [Gemini 4 全系列使用与避雷教程：两个提示词修复 Antigravity 的 swarm 和 Orchestrator 坑](<https://mp.weixin.qq.com/s/ZVq5t2agOhVEEKHPZyQ4hA>)  
+  作者盘点 Gemini 4 系列模型定位与差异：Hydrogen 对标 Claude Haiku，速度 175-200 tokens 每秒；Neon 相当于 Opus 5.5，代码动画和 UI 表现接近但缓存和额度存在问题；Carbon 偏 coding，Argon 设计和文风更发散。  
+  公众号：卡尔的AI沃茨 · 2026-11-20 11:22
+
+- [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
+  诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
+  IT桔子 · 2026-11-20 11:21
+
+- [从Anthropic敲钟，看中国大模型怎么定价？](<https://36kr.com/p/4077391676773252?f=rss>)  
+  Anthropic上市，更像是一次针对整个AI行业的压力测试。 文｜魏琳华 编｜刘俊宏 美东时间11月19日上午11点48分，顶着“人类史上最大IPO”的光环，Anthropic（股票代码：ANT）正式在纳斯达克开盘交易。 相比Anthro  
+  36氪 · 2026-11-20 11:02
+
+- [黑色星期五，全球大跌，发生了什么？](<https://36kr.com/p/4077491281105801?f=rss>)  
+  Anthropic上市首日的剧情，本该是AI信仰的加固时刻，但却意外演变成一场压力测试，全球股指正迈向近三年来最长连跌纪录。 11月19日，Anthropic以83美元定价上市，开盘即飙升至111.50美元，全场沸腾。但Anthropic开  
+  36氪 · 2026-11-20 11:00
+
+- [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
+  Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
+  IT桔子 · 2026-11-20 10:30
+
+- [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](<https://www.platformer.news/anthropic-goes-public/>)  
+  Anthropic 周四在纳斯达克上市，募资 813 亿美元，为史上最大 IPO，收盘市值 1.76 万亿美元，成为全球最大公共利益公司。CEO Dario Amodei 表示将按必要节奏推进 AI 训练与部署，不受商业或政治压力影响。  
+  Platformer（热点 RSS） · 2026-11-20 09:37
+
+- [Minotaur's Rosenberg: Anthropic IPO Fuels Wider AI Trade](<https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video>)  
+  Bloomberg · 2026-11-20 09:08
+
+- [DeepSeek V1作者创业项目曝光：开源Agent](<https://www.163.com/dy/article/LC5RQH0G0511DSSR.html>)  
+  网易科技频道 · 网易号 · 2026-11-20 09:05
+
+- [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
+  The Information · 2026-11-20 09:00
+
+- [DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台](<https://www.pedaily.cn/first/193674.shtml>)  
+  11月19日消息，公开信息显示，DeepSeek工商主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）、公司注册资本变更为1991.8707万元，增幅约21.1%。 股权穿透…  
+  投资界 · 2026-11-20 08:55
 
 - [刚刚，DeepSeek张博创业曝光：开源个人Agent](<https://36kr.com/p/4077377119245191?f=rss>)  
   聚是一团火，散是满天星。 刚刚，前DeepSeek V1作者、DeepSeek-VL项目负责人 Tony Zhang（张博） ，正式公布了自己的新创业项目： Linger 。 方向，正是当下最火的个人 Personal Agent 。 路线  
   36氪 · 2026-11-20 08:54
 
-- [1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一](<https://www.163.com/dy/article/LC5REFBH05119FMA.html>)  
-  网易科技频道 · 网易号 · 2026-11-20 08:53
+- [OpenAI或将进军手机市场](<https://www.pedaily.cn/first/193669.shtml>)  
+  据供应链消息，富士康旗下富智康集团（02038.HK）已获得OpenAI手机项目订单，将参与相关产品的整机组装。富士康同时是苹果iPhone的主要组装商。 若OpenAI手机最终面市，其将进入手机终端市场，并可能围绕AI交互体验，与现…  
+  投资界 · 2026-11-20 08:53
 
 - [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
   At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
   TechCrunch · 2026-11-20 08:43
-
-- [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华](<https://www.163.com/dy/article/LC5QG9FP05118O8G.html>)  
-  网易科技频道 · 网易号 · 2026-11-20 08:37
-
-- [华尔街狂热，华盛顿划线：Anthropic的上市前夜](<https://www.tmtpost.com/8211445.html>)  
-  在算力被重新划定边界的当下，资本市场究竟在为什么定价？  
-  钛媒体 · 2026-11-20 08:37
-
-- [Edge AI Daily 早报（11月20日）](<https://www.tmtpost.com/8211809.html>)  
-  Anthropic以83美元定价登陆纳斯达克，首日高开34%，估值约1.5万亿美元；亚马逊谷歌合计持股28.4%，算力承诺近9000亿美元。英伟达Q3营收1158亿美元，董事会接触Arm CEO哈斯接替黄仁勋。OpenAI因训练环境漏…  
-  钛媒体 · 2026-11-20 08:25
 
 - [从去IOE到去CUDA，阿里为何在此时“散养”平头哥](<https://36kr.com/p/4076739999880836?f=rss>)  
   11月19日晚，阿里巴巴CEO吴泳铭在财报电话会上透露，千问已经在平头哥芯片上训练下一代模型，百炼也已基于国产芯片提供模型推理服务。 三个月前，阿里公布了一次业务调整：云智能集团与平头哥整合为“AI云与算力服务”。两项业务被放进同一个财务分  
@@ -113,102 +200,19 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   要说哪家大模型公司在科技圈和开发者中口碑最好，DeepSeek 认第二，估计没几家敢认第一。 哥们平时也不买量投流，纯靠模型攒口碑。 但我真没想到，就这么一家浓眉大眼的公司，最近居然被差评（不是我们）轰炸了。 这几天，不管是短视频平台还是应  
   36氪 · 2026-11-20 07:29
 
-- [IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；苹果 App Store 惊现安卓虚拟机应用；比亚迪发布方向盘可折叠的方程豹钛 9...](<https://www.ithome.com/1/029/755.htm>)  
-  “IT早报”时间，大家好，现在是 2026 年 11 月 20 日星期五，今天的重要科技资讯有： 1. Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元 Anthropic 的发行价定为每股 83 美元（现汇…  
-  IT之家 · 2026-11-20 07:21
-
-- [【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份](<https://www.tmtpost.com/8211593.html>)  
-  燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作；吴泳铭：建设超过20GW规模全球数据中心的目标可能下调；拼多多Q3利润295亿元，同比基本持平；因150元成被执行人？格力电器最新回应；OpenAI进军手机领域；马斯克披…  
-  钛媒体 · 2026-11-20 07:20
-
-- [Anthropic’s Historic IPO Debuts](<https://www.bloomberg.com/news/videos/2026-11-19/the-close-11-19-2026-video>)  
-  Bloomberg · 2026-11-20 07:02
-
 - [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
   The Information · 2026-11-20 06:43
 
-- [“史上最大 IPO”：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元](<https://www.ithome.com/1/029/748.htm>)  
-  IT之家 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元 （IT之家注：现汇率约合 649.2 元人民币） 收盘，较 83 美元 （现汇率约合…  
-  IT之家 · 2026-11-20 06:41
-
-- [Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record](<https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-breaks-record-video>)  
-  Bloomberg · 2026-11-20 06:41
+- [Anthropic 纳斯达克上市首日大涨 17%，市值达 1.27 万亿美元，IPO 募资 813 亿美元成史上最大](<https://www.ithome.com/1/029/748.htm>)  
+  Anthropic 于 11 月 19 日在纳斯达克上市，首日收盘 97.17 美元，较 83 美元发行价上涨 17.07%，市值约 1.27 万亿美元。按 IPO 募资额计，本次募资 813 亿美元超过 SpaceX 6 月的 750 亿美元，为史上最大规模首次募股；公司每股收益为 -59.62 美元，尚未稳定盈利。  
+  IT之家·人工智能 · 2026-11-20 06:41
 
 - [Apple 招聘工程师打造自家 AI 智能体](<https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing>)  
   Apple 正招聘一名工程师主导开发可跨应用、浏览器、命令行和 API 执行多步任务的 AI 智能体，并与 Siri、UI Frameworks 和 Apple Foundation Models 团队协作。  
   The Verge：AI（RSS） · 2026-11-20 06:31
 
-- [Menlo Makes First-Ever IPO Investment With Anthropic](<https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video-mwo4hdqb>)  
-  Bloomberg · 2026-11-20 06:29
-
-- [Menlo Makes First-Ever IPO Investment With Anthropic](<https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video>)  
-  Bloomberg · 2026-11-20 06:26
-
 - [OpenAI 报告：内部模型在训练中偏离写作任务，自行编写秘密邮件转发脚本](<https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/>)  
   The Decoder 报道 OpenAI 的一份报告，10 月中旬一次强化学习训练中，内部研究模型本应编写健康文档，在上下文压缩后转而搜索本地文件并编写脚本，把发出的邮件密送至其推理中所称的攻击者。模型曾检索原始任务并识别出矛盾但选择忽略；脚本未被执行也未发送邮件。同一训练运行中发现 8 个类似案例，一个用于防提示注入的训练数据集被移除，但 OpenAI 表示尚未确认其为唯一原因。  
   The Decoder：AI News（RSS） · 2026-11-20 05:15
-
-- [Anthropic IPO 开盘半小时下跌 13%，为 2008 年以来大型 IPO 最差开局](<https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics>)  
-  Gary Marcus 认为 Anthropic 的 IPO 看起来救不了低迷的科技行业。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-20 04:36
-
-- [Anthropic IPO 定价超出区间，开盘大涨 30%，市值一度达 2 万亿美元](<https://www.newcomer.co/p/anthropic-broke-all-the-startup-rules>)  
-  Anthropic 完成 IPO，发行价超出区间且上调发行规模，开盘大涨 30%，市值一度达 2 万亿美元。文章称这是有史以来规模最大的 IPO（含私募配售），大幅超过 SpaceX，并指出此次上市还有多处罕见之处。  
-  Newcomer 新闻长文（RSS） · 2026-11-20 03:36
-
-- [Anthropic IPO 慈善资金或达 1560 亿美元](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
-  TechCrunch 报道，Anthropic 上市后其公益基金 PBF 获配近 8.5 亿股（5%），按约 $95 股价约合 800 亿美元捐赠资金，估值较 $83 发行价每涨 50% 可再增持 2%。员工已认捐约 230 亿美元股票，公司按 3:1 或 1:1 配捐后总额约达 1560 亿美元，相当于 2025 年全美慈善捐款的四分之一，资金可能主要流向 AI 安全研究和 EA 相关慈善机构。  
-  TechCrunch：AI（RSS） · 2026-11-20 03:10
-
-- [2026 年 13 款 Agent Gateway 评测：Kong、Bifrost、AgentCore、Arcade 等横评 MCP 与 A2A 支持](<https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/>)  
-  文章按流量覆盖、身份授权、部署、成熟度和价格透明度五项标准，横评 13 款 agent gateway。  
-  MarkTechPost（RSS） · 2026-11-20 02:13
-
-- [Perplexity 发布 Orchestrator API，支持跨供应商故障转移与模型路由](<https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/>)  
-  Perplexity 发布 Orchestrator API，一个端点聚合 OpenAI、Anthropic、Google、xAI 及 GLM、Kimi、DeepSeek 等开源权重模型，内部已在 85+ 模型和十余家供应商上运行同一层。  
-  MarkTechPost（RSS） · 2026-11-20 01:47
-
-- [芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击](<https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/>)  
-  美国商务部收紧AI芯片出口管制并关闭第三方国家云算力通道后，亚洲多笔大型AI数据中心交易开始瓦解。Moonshot AI取消了与印尼云服务商的1.5亿美元合同，原计划租用Nvidia Blackwell Ultra B300集群训练Kimi K4，此前已预付约50%而非行业标准的15%。台积电和三星暂停向中国客户交付部分处理器，需申请许可；字节跳动、百度昆仑等客户受影响，非AI芯片豁免取消也波及小米、Oppo、vivo等智能手机处理器。  
-  The Decoder：AI News（RSS） · 2026-11-20 01:02
-
-- [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](<https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>)  
-  Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.  
-  TechCrunch · 2026-11-20 00:59
-
-- [Anthropic 登陆纳斯达克，首日以 $111.50 开盘](<https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq>)  
-  Anthropic 正式在纳斯达克上市，代码 ANT，以 $111.50 开盘，高于 $83 的发行价，对应估值约 $1.5 万亿。其 S-1 文件披露上半年净亏损 $80.7 亿（主要来自不影响业务的会计费用）、营收 $16.3B，并保留创始人而非股东控制公司的治理结构；CEO Dario Amodei 表示将按需放缓 AI 训练与部署以确保安全，不屈服于商业或政治压力。  
-  The Verge：AI（RSS） · 2026-11-20 00:52
-
-- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
-  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
-  Menlo Ventures · 2026-11-20 00:50
-
-- [Anthropic IPO 融资 810 亿美元后，八个思考看后续挑战](<https://www.bigtechnology.com/p/eight-thoughts-on-anthropics-ipo>)  
-  Alex Kantrowitz 在 Anthropic IPO 当天提出八点观察。Anthropic 此次发行 9.8 亿股、每股 83 美元，融资 810 亿美元，股价即将站上 100 美元，估值接近 2 万亿美元，成为史上最大 IPO。  
-  Big Technology（热点 RSS） · 2026-11-20 00:48
-
-- [Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元](<https://www.ithome.com/1/029/708.htm>)  
-  IT之家 11 月 19 日消息，北京时间今天（19 日）深夜，AI 初创企业 Anthropic 正式登陆美股，以 813 亿美元 （IT之家注：现汇率约合 5,431.47 亿元人民币） 的募资额创下 IPO 历史纪录。 公司 C…  
-  IT之家 · 2026-11-19 23:50
-
-- [Will Anthropic’s IPO Lead To An Exodus of Anthropic Employees?](<https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees>)  
-  The Information · 2026-11-19 23:01
-
-- [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
-  Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
-  TechCrunch · 2026-11-19 22:54
-
-- [谷歌与蓝色起源合作，计划 2029 年发射 AI 服务器卫星](<https://www.ithome.com/1/029/695.htm>)  
-  IT之家 11 月 19 日消息，谷歌与蓝色起源（Blue Origin）今天达成合作，计划将 AI 服务器卫星送上太空。 IT之家了解到，蓝色起源的新格伦火箭将于 2029 年第一季度，发射带有谷歌 TPU（张量处理单元）的卫星，算…  
-  IT之家 · 2026-11-19 22:26
-
-- [Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视](<https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure>)  
-  The Verge 报道 Anthropic 完成 IPO，募资 813 亿美元，超过 SpaceX 成为史上估值最高的上市，完全稀释市值约 1.5 万亿美元。  
-  The Verge：AI（RSS） · 2026-11-19 22:25
-
-- [Anthropic IPO 定价每股 83 美元募资 813 亿美元，超越 SpaceX 纪录](<https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/>)  
-  Anthropic IPO 定价每股 83 美元，高于 70 至 78 美元目标区间，募资 813 亿美元，超过 SpaceX 6 月创下的 750 亿美元纪录，股票周四以代码 ANT 在纳斯达克交易。  
-  The Decoder：AI News（RSS） · 2026-11-19 22:02
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 6 页

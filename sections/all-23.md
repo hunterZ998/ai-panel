@@ -2,6 +2,26 @@
 
 [返回面板](../README.md) · [上一页](all-22.md) · 第 23 / 23 页
 
+- [Menlo’s Investment in Factory: The System That Builds Software](<https://menlovc.com/perspective/menlos-investment-in-factory-the-system-that-builds-software/>)  
+  Coding is AI’s first killer use case. The world is on pace to generate more code this year than in all previous years…  
+  Menlo Ventures · 2026-10-05 22:00
+
+- [How GLM5.3 Sparse Attention Affects HBM Memory Usage](<https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53>)  
+  GLM-5.3, KV Cache Offloading, HiSparse, DeepSeek Sparse Attention, IndexShare, Single-rollout Asynchronous Optimizati…  
+  SemiAnalysis · 2026-09-29 03:26
+
+- [Intel Panther Lake Teardown](<https://newsletter.semianalysis.com/p/intel-panther-lake-teardown>)  
+  Source: SemiAnalysis The SemiAnalysis STEEL teardown lab breaks down advanced datacenter and AI hardware.  
+  SemiAnalysis · 2026-09-26 21:36
+
+- [The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model](<https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom>)  
+  1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 n…  
+  SemiAnalysis · 2026-09-25 23:58
+
+- [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](<https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard>)  
+  Without further ado, voilà the ClusterMAX 3.0 podium: Source: SemiAnalysis ClusterMAX 3.0, September 2026 Source: Sem…  
+  SemiAnalysis · 2026-09-24 05:20
+
 - [Agentic Reality](<https://www.citriniresearch.com/p/agentic-reality>)  
   The Ramifications of Agentic Consumer Adoption  
   Citrini Research · 2026-09-23 03:15

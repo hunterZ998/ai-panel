@@ -2,6 +2,38 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 6 页
 
+- [Google 发布 Gemini 4 Neon，一个月内第四个新 Gemini 模型](<https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/>)  
+  Google 发布 Gemini 4 Neon，定位复杂软件工程、知识工作和科学工作流的快速端到端任务完成。API 定价为每百万输入 token 3 美元、输出 15 美元，高于 Carbon 和 Argon 的 $2/$10（12 月 1 日起翻倍至 $4/$20）及 Hydrogen 的 $1.50/$7.50。  
+  The Decoder：AI News（RSS） · 2026-11-19 05:03
+
+- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
+  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
+  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
+
+- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
+  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
+  The Verge：AI（RSS） · 2026-11-19 03:40
+
+- [OpenAI 称其模型在 AMD GPU IP 上实现相当于一年进度的芯片优化](<https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/>)  
+  媒体 The Decoder 报道，OpenAI 称与 AMD 合作用其模型在不到五个月内将 AMD 旗舰 GPU IP 的 PPA（功耗、性能、面积）提升至多 14%，相当于在 AMD 工程师多年优化之上再推进约一年的进度，部分改动已纳入送厂设计。  
+  The Decoder：AI News（RSS） · 2026-11-19 02:00
+
+- [Meta 详解如何用 AI 智能体将 ML 技术规模化推广到广告排序模型集群](<https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/>)  
+  Meta 发文介绍其“技术传播”流程及 AI 智能体在其中的应用，此前已发布 Ranking Engineer Agent（REA）系统。自 2026 年 3 月起由智能体驱动执行以来，估算超 60% 的技术传播由 AI 智能体完成，早期结果显示工程师生产力提升 3x，选定组合的训练算力中位数降低 4x，预计到年底节省超 4500 万美元算力成本。  
+  Meta Engineering Blog（RSS） · 2026-11-19 01:00
+
+- [Hugging Face 发布 Qwen3.8-27B-pi-adapted LoRA，pi 编码 Agent 成功率从 39.2% 升至 64.7%](<https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/>)  
+  Hugging Face harness-hub 团队发布面向 pi 编码 Agent 的 Qwen3.8-27B-pi-adapted LoRA 适配器（Apache-2.0，rank 32），用 TRL 的 AsyncGRPO 强化学习训练，工具调用经 safeagents 代理拦截以抑制 reward hacking。  
+  MarkTechPost（RSS） · 2026-11-19 00:07
+
+- [在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离与混部服务](<https://www.lmsys.org/blog/2026-11-19-deepseek-v41-h20>)  
+  在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离服务后，最终配置相比 TP4 基线将平均端到端延迟降低 65.5%，输出吞吐提升至 2.91 倍。  
+  LMSYS Blog · 2026-11-19 00:00
+
+- [Prime Intellect 回顾 2026 年 RL Residency：驻留研究员产出的评测与训练环境](<https://www.primeintellect.ai/blog/rl-residency-retrospective>)  
+  Prime Intellect 发文回顾 2026 年 RL Residency 项目，集中展示驻留研究员在评测、训练环境和其它研究上的产出。评测方面包括 Maze Bench——当前最强 LLM 无代码工具时准确率最高仅 16%，有代码工具时最高 23%；以及 Library Design Bench、Agents' Last Exam Linux CLI 等。  
+  Prime Intellect（网页） · 2026-11-19 00:00
+
 - [Google 在 MaxText 中实现跨数据中心分布式 LLM 训练：Streaming DiLoCo](<https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>)  
   Google DeepMind 与 Google Research 团队在开源 JAX 训练框架 MaxText 中实现了 Streaming DiLoCo，用于跨数据中心、跨城域网的分布式 LLM 训练。  
   Google Developers Blog（RSS） · 2026-11-19 00:00
@@ -62,29 +94,13 @@
   Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。  
   Latent Space（RSS） · 2026-11-18 18:19
 
-- [洽道量子再获深圳高新投领投](<https://www.itjuzi.com/investevent/14708182>)  
-  洽道量子是一家AI+量子计算应用公司，通过科学问题建模、任务拆解和异构算力调度，将量子计算引入新材料与药物研发等领域，开发可交付、可复用的计算工具与应用方案。洽道量子近日完成新一轮融资，由深圳高新投领投，雪域资本担任长期的财务顾问。这…  
-  IT桔子 · 2026-11-18 18:02
-
 - [腾讯财报：WorkBuddy 日活跃用户超 1000 万，成为中国日均 Token 用量最高的 AI 产品](<https://www.ithome.com/1/028/914.htm>)  
   腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
   IT之家·人工智能 · 2026-11-18 16:52
 
-- [Sqwish获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708171>)  
-  Sqwish是一家AI决策模型研发商，打造 kettei 轻量级决策模型家族，不做通用生成式大模型，直接输出结构化决策结果与置信度评分，覆盖文本、图像多模态决策场景；旗舰模型 kettei fat 在 JevBench、ImageJe…  
-  IT桔子 · 2026-11-18 16:17
-
-- [Remanence获得3000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708166>)  
-  Remanence是一家企业 AI 科技研发商，打造基于 AI 智能体执行轨迹的模型后训练平台，采集企业智能体的工具调用、报错与人工修正记录，自动构建仿真训练环境，通过强化学习对开源模型做专精化训练，产出归属企业自有、可本地部署的业务…  
-  IT桔子 · 2026-11-18 16:00
-
 - [Ai2 与 Taylor Geospatial 合作，让地理空间 AI 更易比较、运行和构建](<https://allenai.org/blog/taylor-geospatial-partnership>)  
   Ai2 与 Taylor Geospatial 在 SatSummit 上宣布合作，共同推进地理空间 AI 的构建、测试与落地。合作产出包括用于模型比较的 The World 基准、带无代码微调平台的完全开源地球观测模型系列 OlmoEarth，以及扩展后支持更高边界精度和作物类型、产量的 Fields of The World 开放数据集。  
   Ai2 / Allen Institute for AI（RSS） · 2026-11-18 16:00
-
-- [Voyage Labs获得1200万美元种子轮融资](<https://www.itjuzi.com/investevent/14708165>)  
-  Voyage Labs是一家AI旅行规划服务提供商，主打个人 AI 旅行助手 Atlas，定位专属垂直智能体（而非通用大模型助手），覆盖从灵感发现、规划、预订到行程管理的全流程，既服务长途出行，也覆盖就近晚餐、徒步、空闲傍晚等本地场景…  
-  IT桔子 · 2026-11-18 15:50
 
 - [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
   作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
@@ -165,21 +181,5 @@
 - [OpenAI 发布 GPT-6.2 Astra 与 Sol，API 降价并公布多项基准表现](<https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/>)  
   OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，面向专业与日常场景，已在 ChatGPT Work 和 Codex 向 Plus、Pro、Enterprise、Edu 用户开放，并可通过 API 调用。  
   The Decoder：AI News（RSS） · 2026-11-18 04:30
-
-- [Google 将 Spark 智能体更名为 Gemini Tasks 并向多国用户免费开放](<https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free>)  
-  Google 将此前仅限 AI Pro 和 Ultra 订阅用户的 Spark 智能体更名为 Tasks 并免费开放，由 Gemini 4 Hydrogen 模型驱动，可制定膳食计划、管理日程、筛查邮件中的重复支出。  
-  The Verge：AI（RSS） · 2026-11-18 02:58
-
-- [微软推出 MAI Licensed Weights：可在自有 Azure 环境部署定制前沿模型](<https://microsoft.ai/news/introducing-mai-licensed-weights/>)  
-  微软发布 MAI Licensed Weights，允许企业在自有 Azure 环境中部署并定制微软前沿 AI 模型，数据和适配成果归企业所有。AT&amp;T 用 MAI 模型分析 5G 网络，标准任务上以 1/50 的成本超越 GPT-6.1 Sol；Woven by Toyota 在 44% 的代码修复场景中产出可直接合并的修复，成本不到十分之一。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:17
-
-- [Microsoft AI 发布专用安全模型 MAI Cyber 2 Flash](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
-  Microsoft AI 发布专用安全模型 MAI Cyber 2 Flash，在 CyberGym‑E2E 上以 92.3% 的任务成功率超过 GPT-6 Astra 的 91.5%，且每任务成本不到其 2%，并在相同推理预算下于 CyberGym‑E2E 和 WebExploitBench 上超过 GPT-5.6 Cyber。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
-
-- [Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
-  Microsoft AI 发布两款面向企业日常编码的模型 MAI Code 2 和 MAI Code 2 Flash，主打性价比。文中称在四个编码基准平均后，MAI Code 2 以 40% 的成本达到 GPT-6.1 Sol 98% 的性能，以 5% 的成本达到 Claude Opus 5.5 96% 的性能；盲测前端评测中开发者 64% 的情况下更偏好其结果。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 6 页

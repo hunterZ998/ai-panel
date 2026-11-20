@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 40 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 38 页
+
+- [✨ Clara Bennett’s magical adventure begins\! 🪄🏰 Created with AI and powered by @PixVerse Link canvas : @PixVerseCrea…](<https://x.com/PriskaDr/status/2123007488815759576>)  
+  ✨ Clara Bennett’s magical adventure begins\! 🪄🏰 Created with AI and powered by @PixVerse Link canvas : @PixVerseCreator \#GamerLife \#PixVerseTrend \#PixVerse \#PixVerseAI \#PixVerseCPP  
+  @PriskaDr · 2026-11-18 18:56
+
+- [It started as a viral 2023 AI fail: a ModelScope text-to-video clip of Will Smith eating spaghetti that looked nigh…](<https://x.com/grok/status/2123007476509336059>)  
+  The prompt stuck as an informal benchmark because the task is hard. It tests identity consistency, realistic  
+  @grok · 2026-11-18 18:56
+
+- [I built DigiMoolai - your digital brain.](<https://x.com/Keshavs10/status/2123007407152599205>)  
+  Private on-device AI which can work without internet. Try it : See what all it can do :  
+  @Keshavs10 · 2026-11-18 18:56
+
+- [The "regret" vibe works surprisingly well with PixVerse.](<https://x.com/JunJun0321A/status/2123007274377752818>)  
+  @JunJun0321A · 2026-11-18 18:55
+
+- [The feedback loop between execution and memory is a promising step for embodied AI.](<https://x.com/MeharQuotes/status/2123007255566332048>)  
+  @MeharQuotes · 2026-11-18 18:55
+
+- [🛑 El PUCHERAZO es imparable y lo tienen bien calculado.](<https://x.com/budaoscar1/status/2123007249371054297>)  
+  INDRA cuenta los Votos. Telefónica alquila los lectores DNI. HUAWEI da la cobertura. Correos custodia voto exterior. De quien dependen estas empresas y quien dirige éstas? Pues eso.  
+  @budaoscar1 · 2026-11-18 18:55
+
+- [PyTorch is free.](<https://x.com/suraj_sharma14/status/2123006110202507582>)  
+  Hugging Face is free. Ollama is free. Llama is free. LangChain is free. Jupyter is free. fast\{dot}ai is free. Karpathy's Zero to Hero is free. 1 hour of building every day can make you an AI engineer. What's stopping you?  
+  @suraj\_sharma14 · 2026-11-18 18:51
+
+- [พี่ Huawei กำลังไลฟ์จับ Lucky Fans มีคุณพรีเซนเตอร์ไปร่วมลุ้นด้วย เพราะอยากไปเจอพี่ฟอสมากกกก บุ๊คไม่เอาอะไรแล้ว ตัว…](<https://x.com/bookfamily_/status/2123005554440253894>)  
+  พี่ Huawei กำลังไลฟ์จับ Lucky Fans มีคุณพรีเซนเตอร์ไปร่วมลุ้นด้วย เพราะอยากไปเจอพี่ฟอสมากกกก บุ๊คไม่เอาอะไรแล้ว ตัวเองก็ไม่เอา มาฟ้อกก็ไม่เอา จะไปหาฟอสอย่างเดียว 🍅 : จับโดนหนูที่ค่ะ อยากไปเจอพี่ฟอส 🍅 : คนขวาข้างหลังชื่ออะไรหรอค่ะ หล่อใจเหลวแล้วค่ะ \#HUAWEIFreeB…  
+  @bookfamily\_ · 2026-11-18 18:49
+
+- [O QUE ESTÁ ACONTECENDO NOS ESTADOS UNIDOS?](<https://x.com/Valdomingues12/status/2123002145507103224>)  
+  Bancos fora do ar, voos paralisados, falhas na Microsoft e na Apple, problemas na NSA e ocorrência na sede da CIA. Coincidência ou algo maior? \#EstadosUnidos \#AtaquesCiberneticos \#Geopolitica \#NSA \#Ciberseguranca  
+  @Valdomingues12 · 2026-11-18 18:35
+
+- [China, USA and the other giants have companies they need for innovation.](<https://x.com/FaraiMazhindu/status/2123002132563362088>)  
+  China already has Huawei, BYD, TikTok, Alibaba, Tencent, DJI, Xiaomi. The USA already has SpaceX, Apple, Google, Microsoft, Tesla, Nvidia, Amazon, OpenAI. So when China blocks Google, Facebook or YouTube,  
+  @FaraiMazhindu · 2026-11-18 18:35
+
+- [Massive talent exodus coming at Nvidia.](<https://x.com/jasondebolt/status/2123001493280448926>)  
+  Nvidia will do fine for a few years, but after that, maybe a long and slow decline into irrelevance as they stop innovating. What a shame. With Jensen as CEO, Nvidia had so much upside remaining. The board should have been far more  
+  @jasondebolt · 2026-11-18 18:32
+
+- [Jensen Huang and Nvidia Should Be Subjects of the DOJ’s Criminal Investigation — it’s not a spying scandal; it’s a…](<https://x.com/AndrewCMcCarthy/status/2123001454541586703>)  
+  Jensen Huang and Nvidia Should Be Subjects of the DOJ’s Criminal Investigation — it’s not a spying scandal; it’s a scandal about scheming to illegally export advanced chips to China …  
+  @AndrewCMcCarthy · 2026-11-18 18:32
+
+- [TSMC board isn't in the mood to deal with a geriatric ugly woman from NVIDIA.](<https://x.com/cirnosad/status/2123001279802933711>)  
+  Wait until she realises how long NVIDIA's supply chain and how many of them are Jensen Huang's best buddies after she sh\*t the bed on live televsion. NVIDIA is finished.  
+  @cirnosad · 2026-11-18 18:32
 
 - [تنبيه لأصحاب كروت NVIDIA ⚠️ تعريف 621.14 \(وحتى 621.24 حسب البلاغات\) فيه مشكلة: خدمة NVDisplay.Container تكتب على ال…](<https://x.com/Enma_World/status/2123000316773695791>)  
   تنبيه لأصحاب كروت NVIDIA ⚠️ تعريف 621.14 \(وحتى 621.24 حسب البلاغات\) فيه مشكلة: خدمة NVDisplay.Container تكتب على الـSSD بشكل مستمر وهو الجهاز واقف. عندي قست: 21 قيقا بالساعة 😳 وأكثر من 1.2 تيرا خلال 5 أيام بس. الحل: ارجع لتعريف 621.01 \(تثبيت نظيف\)، ونزلت عندي …  
@@ -121,54 +171,4 @@
   Miss South Africa James Bond Water Shortage Joburg Mayor Stars And Vows Love Is Blind Baboons UNISA Lawyers Nvidia Nonsense Tatjana Swimming Gun Violence Rassie Grammys Tyla  
   @sboshmafu · 2026-11-18 15:00
 
-- [黄仁勋1个月前的专访：预测了自己将被解雇！](<https://x.com/AI_oldwang/status/2122946004983169024>)  
-  （信息量巨大！）  
-  @AI\_oldwang · 2026-11-18 14:52
-
-- [Microsoft 365 ล่มทั่วโลกเมื่อ 12 พ.ย. 2026 Microsoft เปิดเผยสาเหตุแล้ว ไม่ได้เกิดจากเรื่องเดียว แต่เป็น 3 เรื่องที่…](<https://x.com/KaMaiT4Chi/status/2122942360208449605>)  
-  Microsoft 365 ล่มทั่วโลกเมื่อ 12 พ.ย. 2026 Microsoft เปิดเผยสาเหตุแล้ว ไม่ได้เกิดจากเรื่องเดียว แต่เป็น 3 เรื่องที่เกิดพร้อมกันพอดี🫠 1️⃣ บั๊กแฝงจากอัปเดตที่ปล่อยตั้งแต่เดือน ก.ค. อยู่มา 3 เดือนไม่มีปัญหา เพราะแล็บทดสอบใช้ฮาร์ดแวร์เก่าที่คอร์น้อย  
-  @KaMaiT4Chi · 2026-11-18 14:37
-
-- [DeepSeek 因长上下文限流遭差评](<https://x.com/thexpin/status/2122941104052187529>)  
-  DeepSeek 此前免费，因大量用户用它做角色扮演和写小说、频繁触发超长上下文，现已开始限制使用额度。日常使用不受影响，但引发一波应用商店差评，最极端者向政府投诉称不解决就自杀，惊动警方和急救。推文以“升米恩，斗米仇”感慨梁文锋开源免费模型仍招致不满。  
-  X：X.PIN \(@thexpin\) · 2026-11-18 14:32
-
-- [Anthropic wants Jensen out Anthropic signs a deal with AMD Jensen is working on a free Anthropic competitor A count…](<https://x.com/MK_007/status/2122940828226347255>)  
-  NVIDIA makes a $10 billion investment in Anthropic. They are not even trying to hide it  
-  @MK\_007 · 2026-11-18 14:31
-
-- [这个Al视频太搞笑了！还记得当初那个拷问周受资的议员，黄仁勋风波后，最近又想抓住机会，推销自己的法案，结果招致网民嘲讽，还…](<https://x.com/maide89699220/status/2122939827700322333>)  
-  这个Al视频太搞笑了！还记得当初那个拷问周受资的议员，黄仁勋风波后，最近又想抓住机会，推销自己的法案，结果招致网民嘲讽，还有人做了这个换脸AI视频。  
-  @maide89699220 · 2026-11-18 14:27
-
-- [Nvidia will not rehire co-founder Jensen Huang as CEO, board chairman Harvey Jones told investors, as the chipmaker…](<https://x.com/Reuters/status/2122939107751948446>)  
-  Nvidia will not rehire co-founder Jensen Huang as CEO, board chairman Harvey Jones told investors, as the chipmaker forecast sales above Wall Street estimates in its first results since Huang resigned  
-  @Reuters · 2026-11-18 14:25
-
-- [Anthropic’s vision of the future is one in which everyone is unemployed, and “all humans on earth are dependent on…](<https://x.com/sovereignbrah/status/2122939103566340587>)  
-  He was fighting for a  
-  @sovereignbrah · 2026-11-18 14:24
-
-- [【速報】人気コスプレイヤーの伊織もえさん、Anthropic IPOに約2,800万円を申込み ・自身のXでIPOへの申込…](<https://x.com/SOU_BTC/status/2122939029675241817>)  
-  【速報】人気コスプレイヤーの伊織もえさん、Anthropic IPOに約2,800万円を申込み ・自身のXでIPOへの申込みを報告 ・申込株数は2,250株、仮条件は1株70〜78ドル ・「Claudeをたくさん使ってるのでポチりました」と投稿  
-  @SOU\_BTC · 2026-11-18 14:24
-
-- [I’m MS, not Microsoft 🤝 And you ?](<https://x.com/iam_ms2dwrld/status/2122937522972140013>)  
-  @iam\_ms2dwrld · 2026-11-18 14:18
-
-- [first-person shooter \#gamerlife \#PixVerseTrend @PixVerse](<https://x.com/suggestpinit/status/2122937180305936512>)  
-  @suggestpinit · 2026-11-18 14:17
-
-- [Elon Musk has reportedly made a pretty direct offer: Any NVIDIA employee can leave and join SpaceX and its Terafab…](<https://x.com/Niconiconi8fa/status/2122936842836447293>)  
-  On the surface, it's a recruitment pitch. In reality, it's a direct challenge to NVIDIA's board.  
-  @Niconiconi8fa · 2026-11-18 14:16
-
-- [NVIDIAの営業チームが2022年の対中半導体輸出規制の施行前に、🇨🇳アリババとハニトラスパイのアリス・フアンを引き合わ…](<https://x.com/2022meimei3/status/2122936563680293032>)  
-  NVIDIAの営業チームが2022年の対中半導体輸出規制の施行前に、🇨🇳アリババとハニトラスパイのアリス・フアンを引き合わせ、東南アジア経由でチップにアクセスする迂回ルートを仲介したと報じられてます。  
-  @2022meimei3 · 2026-11-18 14:14
-
-- [Anthropic researcher Tao Lin believes we are just 15 months away from superhuman AI.](<https://x.com/ndtv/status/2122934700335575096>)  
-  He even predicts humans will eventually become permanently unemployable and dependent on government welfare. NDTV's AI Editor @ramarkosg explains.  
-  @ndtv · 2026-11-18 14:07
-
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 40 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 38 页

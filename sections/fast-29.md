@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 40 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 38 页
+
+- [As I predicted, $NVDA increases their share buy back massively… which should really be invested into the data cente…](<https://x.com/Jason/status/2122805175043629514>)  
+  NVIDIA BOARD ANNOUNCES $150B INCREASE TO SHARE BUYBACK  
+  @Jason · 2026-11-18 05:32
+
+- [Nvidia CFO Colette Kress on neoclouds: “Neoclouds and frontier labs are seeing extraordinary demand for AI infrastr…](<https://x.com/wallstengine/status/2122805098996961564>)  
+  Nvidia CFO Colette Kress on neoclouds: “Neoclouds and frontier labs are seeing extraordinary demand for AI infrastructure, yet many are growing faster than their balance sheets and long-term credit profiles can support.” Nvidia says securing land, power, and d…  
+  @wallstengine · 2026-11-18 05:32
+
+- [Pax Silica To understand what’s happening in tech to include Nvidia, we must understand initiatives like Pax Silica.](<https://x.com/GenXGirl1994/status/2122804722578891216>)  
+  Pax Silica is a US-led strategic initiative launched in December 2025 by the Department of State to secure global supply chains for artificial intelligence  
+  @GenXGirl1994 · 2026-11-18 05:31
+
+- [JUST IN: Nvidia $NVDA delivers one of its best quarters in company history: • Record revenue of $115.8B • Record Da…](<https://x.com/Kalshi_Finance/status/2122804396715282850>)  
+  JUST IN: Nvidia $NVDA delivers one of its best quarters in company history: • Record revenue of $115.8B • Record Data Center revenue of $107.6B • Record net income of $65.3B • Q4 revenue guidance of $130B • Announces a $150B share buyback  
+  @Kalshi\_Finance · 2026-11-18 05:29
+
+- [JUST IN: Nvidia $NVDA surges over 5% after reporting $115.84 billion in revenue for Q3, beating expectations.](<https://x.com/WatcherGuru/status/2122804209628402010>)  
+  @WatcherGuru · 2026-11-18 05:28
+
+- [WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任](<https://x.com/rohanpaul_ai/status/2122804149503033606>)  
+  据 WSJ，SEC 正以民事调查核实 Nvidia 的披露是否误导投资者，图片中的 WSJ 标题显示此事发生于 CEO 黄仁勋离任之际。Nvidia 在截至 2025 年 7 月的季度后停止单独披露新加坡收入，该季度新加坡账单达 $10.2B、占总数 22%，公司称客户通过新加坡开票而芯片几乎都发…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 05:28
+
+- [【速報】NVIDIA、過去最高の売上高1,158億ドル 株価は時間外で上昇 ・売上高 1,158億ドル｜市場予想 1,09…](<https://x.com/polymarketjapan/status/2122804048843989040>)  
+  【速報】NVIDIA、過去最高の売上高1,158億ドル 株価は時間外で上昇 ・売上高 1,158億ドル｜市場予想 1,091.5億ドル ・調整後EPS 2.68ドル｜市場予想 2.47ドル ・次四半期の売上見通しは1,300億ドルとの速報  
+  @polymarketjapan · 2026-11-18 05:28
+
+- [Nvidia, $NVDA, Q3 Earnings Summary: 1.](<https://x.com/KobeissiLetter/status/2122803839694938566>)  
+  Record quarterly revenue of $115.8 billion, above expectations 2. Record data center revenue of $107.6 billion, above expectations 3. Record net income of $65.3 billion, above expectations 4. Record Q4 revenue guidance of $130 billion,  
+  @KobeissiLetter · 2026-11-18 05:27
+
+- [BREAKING: Nvidia crushes earnings, stock adds nearly $100,000,000,000.00 in ten minutes 12% chance Jensen is back a…](<https://x.com/Kalshi/status/2122803782308475127>)  
+  BREAKING: Nvidia crushes earnings, stock adds nearly $100,000,000,000.00 in ten minutes 12% chance Jensen is back as CEO  
+  @Kalshi · 2026-11-18 05:27
+
+- [Los detalles del acuerdo entre Lincolao y OpenAI: confidencialidad, reunión mensual y uso de datos](<https://x.com/biobio/status/2122803679195516954>)  
+  @biobio · 2026-11-18 05:26
+
+- [🔴 LINCOLAO Y OPENAI: UN ACUERDO BAJO LA LUPA DE CONTRALORÍA.](<https://x.com/RobertoMerken/status/2122802957666148687>)  
+  La ministra Ximena Lincolao firmó un acuerdo con OpenAI, pero el Gobierno se niega a publicar su contenido íntegro. No se conocen todas sus condiciones, las garantías sobre datos personales ni los criterios  
+  @RobertoMerken · 2026-11-18 05:23
+
+- [【衝撃】かつて「時代遅れ」と笑われた日立・三菱電機・東芝がAI特需で完全覚醒へ。AppleやGoogleが何十兆円も投じる…](<https://x.com/blackright0/status/2122802926465028491>)  
+  【衝撃】かつて「時代遅れ」と笑われた日立・三菱電機・東芝がAI特需で完全覚醒へ。AppleやGoogleが何十兆円も投じるAIデータセンターの「電力・冷却インフラ」を日本勢が独占した結果、東芝の営業利益が前年比2倍に爆増。派手なAI開発の裏で利益を総取りする正体がこれ。  
+  @blackright0 · 2026-11-18 05:23
+
+- [BREAKING: Nvidia stock, $NVDA, rises +5% after reporting record quarterly revenue of $115.8 billion, topping expect…](<https://x.com/KobeissiLetter/status/2122802555788902633>)  
+  The company is now guiding $130 billion in revenue for the next quarter, also above expectations.  
+  @KobeissiLetter · 2026-11-18 05:22
 
 - [$NVDA \*NVIDIA BOARD APPROVED AN BOOST OF $150B SHARE BUYBACK](<https://x.com/DeItaone/status/2122802516610179569>)  
   @DeItaone · 2026-11-18 05:22
@@ -124,53 +174,4 @@
   Perplexity 创始人 Aravind Srinivas 在接受 Semafor 采访时表示，公司年化收入率已达 10 亿美元，现金消耗比本周大型 AI IPO 低 5 倍。  
   X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 04:45
 
-- [Que Chile lleve más de una década sin avanzar, renunciando a ser en futuro un país desarrollado, es 100% mental.](<https://x.com/tomcasanegra/status/2122792657378238550>)  
-  Nos pusimos tontos. Las críticas y suspicacias al acuerdo entre el Ministerio de Ciencia y Tecnología y OpenAI es el ejemplo del día de hoy.  
-  @tomcasanegra · 2026-11-18 04:43
-
-- [I don’t know what’s causing these outages.](<https://x.com/AdamKinzinger/status/2122792600839115058>)  
-  What worries me is nobody running the government seems to know either. In less than a week we’ve had a nationwide ground stop, a Microsoft outage that lasted nearly a full day, a United outage and online banking problems at Chase, Bank  
-  @AdamKinzinger · 2026-11-18 04:42
-
-- [America needs Jensen to come back as CEO of Nvidia Palantir CEO Alex Karp: “Jensen is a patriot.” “He’s someone tha…](<https://x.com/Jawwwn/status/2122792245460189351>)  
-  They happen to be made in America.”  
-  @Jawwwn · 2026-11-18 04:41
-
-- [Lo de @OpenAI está siendo terrible.](<https://x.com/PDuchement/status/2122791779632284045>)  
-  Jamás esperé que tratasen así de mal a sus clientes: ⚠️Me desactivaron la cuenta... por decisión automatizada ⚠️Desestimaron mi petición... por decisión automatizada ⚠️Han descartyado mi solicitud de reembolso... por decisión automatizada  
-  @PDuchement · 2026-11-18 04:39
-
-- [Microsoft Outlook, Gmail, and Schwab hıt with new outages, users report.](<https://x.com/LeadingReport/status/2122791404879430032>)  
-  @LeadingReport · 2026-11-18 04:38
-
-- [Unit 8200 of the IDF \(Israel\).](<https://x.com/grok/status/2122790938644775366>)  
-  Its alumni founded or staff many cyber firms, and Microsoft employs hundreds of them. The recent outages \(NSANet maintenance, Microsoft latent bug, Chase software issue, United systems glitch\) have been separately attributed by the entities  
-  @grok · 2026-11-18 04:36
-
-- [IS THERE A COMMON DENOMINATOR?](<https://x.com/Red_Pill_US/status/2122790730481729763>)  
-  Hey @Grok NSA’s classified network is DOWN. Microsoft outages. Major bank disruptions. United Airlines systems issues. All running core software and platforms from firms founded or heavily staffed by alumni of one military intelligence unit.  
-  @Red\_Pill\_US · 2026-11-18 04:35
-
-- [If Jensen Huang returns to NVIDIA it would be a massive upset for the Israelis.](<https://x.com/cirnosad/status/2122790639058497947>)  
-  @cirnosad · 2026-11-18 04:35
-
-- [JUST IN: Nvidia $NVDA to report earnings today after market close for the first time without Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2122790439816437926>)  
-  Live Tracker:  
-  @WatcherGuru · 2026-11-18 04:34
-
-- [🚨🚨 🚨 BREAKING: The NSA’s classified communications network goes down?\!](<https://x.com/TaraSetmayer/status/2122788727533588558>)  
-  Airlines, banks, Microsoft, Apple and now THIS? All in one week? Where’s CISA? I have some thoughts here.  
-  @TaraSetmayer · 2026-11-18 04:27
-
-- [.@Tobi’s emphatic case for reinstating Jensen at Nvidia: “There is no replacing a founder like Jensen.](<https://x.com/davidsenra/status/2122786298004230233>)  
-  There never has been, and there can never be, a true succession for a founder like him. Nvidia ends today, and is replaced with a thing cosplaying Nvidia. It will be run by  
-  @davidsenra · 2026-11-18 04:17
-
-- [Cool so Anthropic is trying to take down their main business competitor](<https://x.com/ThomBrady5/status/2122786052809331083>)  
-  @ThomBrady5 · 2026-11-18 04:16
-
-- [JUST IN: Hedge fund sold nearly 100% of its Nvidia holdings before scandal, cutting its stake from $1.4 billion to…](<https://x.com/Kalshi/status/2122785847779217479>)  
-  JUST IN: Hedge fund sold nearly 100% of its Nvidia holdings before scandal, cutting its stake from $1.4 billion to just $5 million  
-  @Kalshi · 2026-11-18 04:16
-
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 40 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 38 页

@@ -1,6 +1,58 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 40 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 38 页
+
+- [Google 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成](<https://x.com/Google/status/2123172282574987698>)  
+  Google 发布 Gemini 4 Neon，定位前沿级智能与快速端到端任务完成，面向复杂编码、知识工作和科学工作流。该模型在 Artificial Analysis Intelligence Index xhigh 档总排名第 3（超过同类模型），在 Vals Index 排名第 2，处于 P…  
+  X：Google \(@Google\) · 2026-11-19 05:51
+
+- [I AM ABSOLUTELY CONVINCED THAT ANTHROPIC IS ABSOLUTE EVIL.](<https://x.com/RassvetAsks/status/2123171855385465153>)  
+  AND SO IS OPENAI. These guys talk endlessly about AI SAFETY. But I see something far more sinister. A future where LOCAL AI is regulated into extinction, and a handful of corporations control humanity's access to  
+  @RassvetAsks · 2026-11-19 05:49
+
+- [Trump: We can't regulate AI and need data centers everywhere because we need to beat China Also Trump: How many Nvi…](<https://x.com/BMeiselas/status/2123171608135393576>)  
+  Trump: We can't regulate AI and need data centers everywhere because we need to beat China Also Trump: How many Nvidia chips would you like to buy, Xi?  
+  @BMeiselas · 2026-11-19 05:48
+
+- [Something is going on at Google I think they might have hit RSI They’ve released new frontier models FOUR TIMES in…](<https://x.com/AlexFinn/status/2123171176025575701>)  
+  And each is an actual MAJOR improvement Carbon is the most intelligent model I’ve ever used While everyone is talking about Anthropic and  
+  @AlexFinn · 2026-11-19 05:47
+
+- [Google 发布 Gemini 4 Neon，Artificial Analysis 智能指数 61 分排名第三](<https://x.com/ArtificialAnlys/status/2123170645777526962>)  
+  Google DeepMind 发布 Gemini 4 Neon，Artificial Analysis 评测其 Intelligence Index 得 61 分，高于 Gemini 4 Carbon（high）1 分，总榜第三，编码代理得分 59 与 Claude Opus 5.5、Claud…  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-19 05:45
+
+- [Seguo \#JensenHuang, ex ceo di \#Nvidia da anni, occupandomi di \#Taiwan e \#Cina.](<https://x.com/flancini/status/2123170567356318199>)  
+  Allora, chiariamo due cose: 1 Jensen Huang non è di origine cinese, ma taiwanese. 2 Ha di fatto favorito la vendita di \#microchip avanzati alla Cina che non è ancora in grado di produrli, rischiando di  
+  @flancini · 2026-11-19 05:44
+
+- [Google 发布 Gemini 4 Neon，Artificial Analysis 排名第三](<https://x.com/rohanpaul_ai/status/2123170168201486582>)  
+  Google 发布 Gemini 4 Neon，在 Artificial Analysis Intelligence Index 得 61 分排名第三，价格 $3/$15 per 1M tokens。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 05:43
+
+- [Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter](<https://x.com/OpenRouter/status/2123170058574905675>)  
+  OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可通过 Google Cloud 使用。该模型面向复杂软件工程、知识工作和科学场景，定位介于 Carbon 与 Hydrogen 之间。Google 称其在 Artificial Analy…  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-19 05:42
+
+- [Google 发布 Gemini 4 Neon，速度接近 Carbon 的 3 倍](<https://x.com/ammaar/status/2123169924222754968>)  
+  Google 员工 Ammaar Reshi 宣布 Gemini 4 Neon 发布，速度比 Carbon 快近 3 倍，同时保持接近 Carbon 的性能和智能水平。该模型正在 AI Studio、Gemini app 和 Antigravity 上线。  
+  X：Ammaar Reshi \(@ammaar\) · 2026-11-19 05:42
+
+- [Anthropic IPO 定价 83 美元，高于发行区间](<https://x.com/KateClarkTweets/status/2123169870552436802>)  
+  Anthropic IPO 定价为每股 83 美元，高于此前发行区间。消息援引自 WSJ 报道。  
+  X：Kate Clark \(@KateClarkTweets\) · 2026-11-19 05:41
+
+- [Arena 发布 Agent Arena Index：Gemini 4 Neon \(High\) 以 1336 分排名第二](<https://x.com/arena/status/2123169189397709174>)  
+  Arena 公布 Agent Arena Index 排名，Gemini 4 Neon \(High\) 以 1336 分位列第二，超过 \#4 Carbon \(High\) 的 1303 分、\#9 Hydrogen \(High\) 的 1271 分和 \#11 Argon \(High\) 的 1229 分，得…  
+  X：Arena \(@arena\) · 2026-11-19 05:39
+
+- [Gemini 4 Neon 上线，Google AI Pro 和 Ultra 订阅用户可在 Chat 和 Tasks 中选用](<https://x.com/GeminiApp/status/2123169070988337603>)  
+  Google 宣布 Google AI Pro 和 Ultra 订阅用户可通过 Chat 和 Tasks 中的模型下拉菜单选用 4 Neon（Deeper analysis），支持移动端、桌面端和网页端。更多介绍见官方博客  
+  X：Gemini \(@GeminiApp\) · 2026-11-19 05:38
+
+- [BREAKING: Anthropic, $ANT, has priced its IPO at $83 per share, above its marketed range of $70 to $78, per Bloombe…](<https://x.com/KobeissiLetter/status/2123168870429274123>)  
+  The company is now expected to raise at least $68 billion through its IPO, plus another $26 billion in a private placement. This brings the total offering to  
+  @KobeissiLetter · 2026-11-19 05:37
 
 - [Gemini Neon 写作与文件解析升级](<https://x.com/GeminiApp/status/2123168841853555119>)  
   更犀利的写作，扎根于你的上下文。 Neon 写得清晰，回答结构良好，语气自然直接。 它还能更精准地读取表格、PDF 和照片等上传文件，把密集材料转化为有用的报告和摘要，并从 @Gmail 和 @GoogleDocs 等 Google 应用中提取相关细节。  
@@ -126,56 +178,4 @@
   At her first all-hands meeting as interim CEO on Wednesday, Colette Kress told staff they’ll get raises and additional equity in December, months earlier than  
   @unusual\_whales · 2026-11-19 04:37
 
-- [This is a bad sign for NVIDIA. \(1\) Jensen made them all wildly rich already, so accelerating some grants isn't goin…](<https://x.com/DigitalSamIAm/status/2123151953467179151>)  
-  This is a bad sign for NVIDIA. \(1\) Jensen made them all wildly rich already, so accelerating some grants isn't going to make a damn bit of difference \(2\) This is a clear signal NVIDIA is aware that it has a retention problem, which validates the other reports …  
-  @DigitalSamIAm · 2026-11-19 04:30
-
-- [Exclusive: After the Biden administration restricted sales of Nvidia's A100 chips to China in 2022, Nvidia sales em…](<https://x.com/theinformation/status/2123151782557757554>)  
-  The U.S. Justice Department is now leading a criminal  
-  @theinformation · 2026-11-19 04:30
-
-- [My analysis of Anthropic's financials reveals a NIGHTMARE scenario, where I don't see how Anthropic can possibly ea…](<https://x.com/HealthRanger/status/2123151711661699248>)  
-  No wonder the company is desperately trying to outlaw its competition \(open source AI\)  
-  @HealthRanger · 2026-11-19 04:29
-
-- [何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、…](<https://x.com/KojiHirai6/status/2123149200603185550>)  
-  何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、力による国際秩序の現状変更を行うためです。だからこそ、西側諸国は民主主義社会を護るためにもGPUを渡してはいけないのです。  
-  @KojiHirai6 · 2026-11-19 04:19
-
-- [何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、…](<https://x.com/KojiHirai6/status/2123148745995063531>)  
-  何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、力による国際秩序の現状変更を行うためです。だからこそ、西側諸国は民主主義社会を護るためにもGPUを渡してはいけないのです。  
-  @KojiHirai6 · 2026-11-19 04:18
-
-- [This is why Jensen was couped by Anthropic \(allegedly\).](<https://x.com/5149jamesli/status/2123148362400895108>)  
-  The timing is so coordinated it's unbelievable.  
-  @5149jamesli · 2026-11-19 04:16
-
-- [I don't know what caused the outages, and I don't know if or how Jensen Huang compromised us, and I don't know what…](<https://x.com/OurShallowState/status/2123148263125909681>)  
-  What I DO know is that THE biggest overall story on all of planet Earth, by far, this day and every day, is that the  
-  @OurShallowState · 2026-11-19 04:16
-
-- [I think the Jewish people have overstepped their bounds and killed the US economy with what they've done to Jensen…](<https://x.com/cirnosad/status/2123147274750685271>)  
-  It cannot be taken back.  
-  @cirnosad · 2026-11-19 04:12
-
-- [If it's not outages, it's Mother Nature \(and crumbling infrastructure\).](<https://x.com/socialchanger/status/2123146033622380984>)  
-  Happening now at Moscone Center in SF during the massive Microsoft Ignite show:  
-  @socialchanger · 2026-11-19 04:07
-
-- [Microsoft is working on a new Windows 11 security feature that could stop apps and games from running if your PC do…](<https://x.com/Pirat_Nation/status/2123144215861293186>)  
-  The system checks things like TPM 2.0, Secure Boot and Memory Integrity. Devs will then decide whether to let you use  
-  @Pirat\_Nation · 2026-11-19 04:00
-
-- [特朗普政府考虑要求美国企业披露中国AI模型使用情况](<https://x.com/rohanpaul_ai/status/2123143316661538837>)  
-  特朗普政府正考虑要求美国企业在其网站上披露对中国AI模型的使用情况，旨在通过公开披露的方式减少依赖，而不出台可能引发行业或中方不满的新限制。报道提及Airbnb在客服场景使用Qwen，但表示其AI主要运行于美国模型，中国模型仅通过经批准的美国本土供应商调用；美国众议院相关委员会已就Anyspher…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 03:56
-
-- [any games out there that arent arthritis torture simulators &amp;amp; arent visual novels or cozy games ... am i asking…](<https://x.com/softboiledrai/status/2123142170517668291>)  
-  any games out there that arent arthritis torture simulators &amp;amp; arent visual novels or cozy games ... am i asking for too much . am i asking for microsoft solitaire.  
-  @softboiledrai · 2026-11-19 03:51
-
-- [Arena 上线 Agent Arena Index 等七个新评测榜单](<https://x.com/arena/status/2123141972303233471>)  
-  Arena 上线新的 Agent Arena Index 和六个聚焦型索引，以及 Alignment Index，入口在 Index 衡量其遵循用户意图的忠实程度。  
-  X：Arena \(@arena\) · 2026-11-19 03:51
-
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 40 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 38 页

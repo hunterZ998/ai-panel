@@ -1,6 +1,58 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 40 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 38 页
+
+- [This is a bad sign for NVIDIA. \(1\) Jensen made them all wildly rich already, so accelerating some grants isn't goin…](<https://x.com/DigitalSamIAm/status/2123151953467179151>)  
+  This is a bad sign for NVIDIA. \(1\) Jensen made them all wildly rich already, so accelerating some grants isn't going to make a damn bit of difference \(2\) This is a clear signal NVIDIA is aware that it has a retention problem, which validates the other reports …  
+  @DigitalSamIAm · 2026-11-19 04:30
+
+- [Exclusive: After the Biden administration restricted sales of Nvidia's A100 chips to China in 2022, Nvidia sales em…](<https://x.com/theinformation/status/2123151782557757554>)  
+  The U.S. Justice Department is now leading a criminal  
+  @theinformation · 2026-11-19 04:30
+
+- [My analysis of Anthropic's financials reveals a NIGHTMARE scenario, where I don't see how Anthropic can possibly ea…](<https://x.com/HealthRanger/status/2123151711661699248>)  
+  No wonder the company is desperately trying to outlaw its competition \(open source AI\)  
+  @HealthRanger · 2026-11-19 04:29
+
+- [何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、…](<https://x.com/KojiHirai6/status/2123149200603185550>)  
+  何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、力による国際秩序の現状変更を行うためです。だからこそ、西側諸国は民主主義社会を護るためにもGPUを渡してはいけないのです。  
+  @KojiHirai6 · 2026-11-19 04:19
+
+- [何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、…](<https://x.com/KojiHirai6/status/2123148745995063531>)  
+  何年も前から指摘していますが、中国がNVIDIAのGPUを手に入れたい理由は、人工知能を使用する智能化戦争で、米軍に勝ち、力による国際秩序の現状変更を行うためです。だからこそ、西側諸国は民主主義社会を護るためにもGPUを渡してはいけないのです。  
+  @KojiHirai6 · 2026-11-19 04:18
+
+- [This is why Jensen was couped by Anthropic \(allegedly\).](<https://x.com/5149jamesli/status/2123148362400895108>)  
+  The timing is so coordinated it's unbelievable.  
+  @5149jamesli · 2026-11-19 04:16
+
+- [I don't know what caused the outages, and I don't know if or how Jensen Huang compromised us, and I don't know what…](<https://x.com/OurShallowState/status/2123148263125909681>)  
+  What I DO know is that THE biggest overall story on all of planet Earth, by far, this day and every day, is that the  
+  @OurShallowState · 2026-11-19 04:16
+
+- [I think the Jewish people have overstepped their bounds and killed the US economy with what they've done to Jensen…](<https://x.com/cirnosad/status/2123147274750685271>)  
+  It cannot be taken back.  
+  @cirnosad · 2026-11-19 04:12
+
+- [If it's not outages, it's Mother Nature \(and crumbling infrastructure\).](<https://x.com/socialchanger/status/2123146033622380984>)  
+  Happening now at Moscone Center in SF during the massive Microsoft Ignite show:  
+  @socialchanger · 2026-11-19 04:07
+
+- [Microsoft is working on a new Windows 11 security feature that could stop apps and games from running if your PC do…](<https://x.com/Pirat_Nation/status/2123144215861293186>)  
+  The system checks things like TPM 2.0, Secure Boot and Memory Integrity. Devs will then decide whether to let you use  
+  @Pirat\_Nation · 2026-11-19 04:00
+
+- [特朗普政府考虑要求美国企业披露中国AI模型使用情况](<https://x.com/rohanpaul_ai/status/2123143316661538837>)  
+  特朗普政府正考虑要求美国企业在其网站上披露对中国AI模型的使用情况，旨在通过公开披露的方式减少依赖，而不出台可能引发行业或中方不满的新限制。报道提及Airbnb在客服场景使用Qwen，但表示其AI主要运行于美国模型，中国模型仅通过经批准的美国本土供应商调用；美国众议院相关委员会已就Anyspher…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 03:56
+
+- [any games out there that arent arthritis torture simulators &amp;amp; arent visual novels or cozy games ... am i asking…](<https://x.com/softboiledrai/status/2123142170517668291>)  
+  any games out there that arent arthritis torture simulators &amp;amp; arent visual novels or cozy games ... am i asking for too much . am i asking for microsoft solitaire.  
+  @softboiledrai · 2026-11-19 03:51
+
+- [Arena 上线 Agent Arena Index 等七个新评测榜单](<https://x.com/arena/status/2123141972303233471>)  
+  Arena 上线新的 Agent Arena Index 和六个聚焦型索引，以及 Alignment Index，入口在 Index 衡量其遵循用户意图的忠实程度。  
+  X：Arena \(@arena\) · 2026-11-19 03:51
 
 - [This won't work.](<https://x.com/AndrewHiesinger/status/2123141501634879682>)  
   Look at the revolving door at Google, Anthropic, and OpenAI. What keeps top talent at these firms isn't just compensation. It's purpose, conviction, and belief in the vision. If leadership shifts toward a purely financial mindset, effectively turning the  
@@ -126,54 +178,4 @@
   En exclusiva con \#LaConversa, la ministra Ximena Lincolao explicó el objetivo de los convenios firmados con empresas tecnológicas como OpenAI y ElevenLabs que buscan abrir nuevas puertas para emprendedores chilenos 🤖  
   @lametrocl · 2026-11-19 02:47
 
-- [Just checked after installing the newest nvidia driver, and yup.... writing a ton of data to my ssd.](<https://x.com/thepoolshark/status/2123125208160866523>)  
-  Immediately reverted to the previous driver and it is gone. If you are curious, open resource monitor, click disk, then watch NVDisplay.Container.exe. If it is writing data  
-  @thepoolshark · 2026-11-19 02:44
-
-- [First driver update after Jensen Huang left NVIDIA.](<https://x.com/gnukeith/status/2123124935161786460>)  
-  @gnukeith · 2026-11-19 02:43
-
-- [I will be at the Ban RSI rally outside Anthropic offices tomorrow at 11 am.](<https://x.com/DKokotajlo/status/2123124922180685830>)  
-  Recursive Self-Improvement is a stupidly dangerous idea. AIs are already getting smarter rapidly, and they often lie and cheat; why on earth do we think it's a good idea to have  
-  @DKokotajlo · 2026-11-19 02:43
-
-- [Today will be my last day at Nvidia - I had to walk the box of shame out of my cubicle after lunch.](<https://x.com/AlanNeveu/status/2123124911497428996>)  
-  I was responsible for coaching the new CEO on keeping her eyes open while saying the hard parts.  
-  @AlanNeveu · 2026-11-19 02:43
-
-- [Arena 发布 Agent Arena Index 并更新智能体评测方法](<https://x.com/arena/status/2123124648108064966>)  
-  Arena 更新其智能体排行榜，推出 Agent Arena Index 总榜，基于超过 290 万用户会话，并新增 Agentic Work、Agentic Coding、Agentic Chat、Task Outcome、Steering、Tool Use 等专项指数。  
-  X：Arena \(@arena\) · 2026-11-19 02:42
-
-- [BREAKING: Coalition of scientists, legal scholars, &amp;amp; tech leaders warns “Anthropic is not a safe AI company” in…](<https://x.com/Polymarket/status/2123124579619267015>)  
-  BREAKING: Coalition of scientists, legal scholars, &amp;amp; tech leaders warns “Anthropic is not a safe AI company” in an open statement ahead of its IPO.  
-  @Polymarket · 2026-11-19 02:42
-
-- [Google AI Ultra 推出 Project Genie 新体验](<https://x.com/joshwoodward/status/2123123552052494529>)  
-  探索面向 Google AI Ultra 订阅者的全新 Project Genie 体验，包含 Genie 4、Project Genie 智能体和社区画廊。  
-  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-19 02:37
-
-- [Yes, you can drive commercial airplanes in GTA 6 and yes you can drive through clouds like its Microsoft Flight Sim…](<https://x.com/SynthPotato/status/2123121261224264043>)  
-  This is truly the game of all time 😭  
-  @SynthPotato · 2026-11-19 02:28
-
-- [Has NVIDIA’s Board lost perspective?](<https://x.com/RonConway/status/2123120529213477275>)  
-  Jensen Huang built one of the most successful companies in history, helped transform AI innovation, and created extraordinary value for shareholders and Nvidia team members. Yet the Board prejudged him even before their own internal  
-  @RonConway · 2026-11-19 02:25
-
-- [NVIDIA shareholders need answers.](<https://x.com/desireefixler/status/2123120056536088709>)  
-  So do employees and the American public. I believe NVIDIA's board has failed in its fiduciary duty to shareholders. Under NVIDIA's own bylaws, shareholders controlling 15% of the voting power, held for at least 1 year, can demand a special  
-  @desireefixler · 2026-11-19 02:24
-
-- [JUST IN: Telegram founder Pavel Durov calls for Nvidia $NVDA board to bring back Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2123119944095121597>)  
-  @WatcherGuru · 2026-11-19 02:23
-
-- [Suno MCP 向所有用户开放，可在 ChatGPT 和 Claude 中生成歌曲与视觉内容](<https://x.com/suno/status/2123119383996457469>)  
-  Suno 宣布其 MCP 现已向所有用户开放。用户可以在 ChatGPT、Claude 等工具内直接使用 Suno 创作歌曲并生成视觉内容。  
-  X：Suno \(@suno\) · 2026-11-19 02:21
-
-- [TRAVIS KALANICK: "DON'T LET NVIDIA GO TO THE SUITS, JENSEN" \(FULL INTERVIEW\) 1:30 - Jensen Huang's ouster was an op…](<https://x.com/tbpn/status/2123118431708836066>)  
-  TRAVIS KALANICK: "DON'T LET NVIDIA GO TO THE SUITS, JENSEN" \(FULL INTERVIEW\) 1:30 - Jensen Huang's ouster was an op 4:20 - Playbook for fighting back 9:15 - "Jensen Huang is a good person who made mistakes" 10:40 - Don't let NVIDIA go to the suits 12:00 - NVID…  
-  @tbpn · 2026-11-19 02:17
-
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 40 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 38 页

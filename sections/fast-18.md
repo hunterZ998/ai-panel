@@ -1,6 +1,58 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 40 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 38 页
+
+- [First look at Ike Barinholtz as Elon Musk in Luca Guadagnino's ‘ARTIFICIAL’.](<https://x.com/DiscussingFilm/status/2123103821660569670>)  
+  The film follows the story of when OpenAI fired and rehired their CEO Sam Altman within 1 week.  
+  @DiscussingFilm · 2026-11-19 01:19
+
+- [Best promo this movie could’ve asked for: Amazon MGM originally produced it, then literally dumped the finished fil…](<https://x.com/iamdpassword/status/2123102506221764667>)  
+  Best promo this movie could’ve asked for: Amazon MGM originally produced it, then literally dumped the finished film right after signing a $38 billion deal with OpenAI because it paints Sam Altman so badly Sam Altman already called the trailer an "awful movie,…  
+  @iamdpassword · 2026-11-19 01:14
+
+- [It takes a lot of talent to destroy this much shareholder value with financial results like that.](<https://x.com/wholemars/status/2123102417592201284>)  
+  Congratulations to the Nvidia board $NVDA  
+  @wholemars · 2026-11-19 01:13
+
+- [Oh my God.](<https://x.com/LauraLoomer/status/2123102216814752067>)  
+  Markwayne Muslim must be the most retarded cabinet member in the Trump administration. Today, he was asked: “When did you learn that Jensen Huang may have been comprised?” He blatantly lied and said: “We weren't privileged to that information at all.” Democrat  
+  @LauraLoomer · 2026-11-19 01:13
+
+- [I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with thei…](<https://x.com/BillAckman/status/2123101979375235386>)  
+  What we know is that the board fired Jensen or forced his resignation for violating company policy and/or in response to the accusation of an  
+  @BillAckman · 2026-11-19 01:12
+
+- [Gemini 应用扩展至低内存 Android 设备](<https://x.com/GeminiApp/status/2123101521659486357>)  
+  要开始使用，请在 Google Play 下载 Gemini 应用。 在我们的博客中了解更多关于我们如何将 Gemini 应用带到低内存 Android 设备的信息：  
+  X：Gemini \(@GeminiApp\) · 2026-11-19 01:10
+
+- [New trailer for Luca Guadagnino's ‘ARTIFICIAL’, starring Andrew Garfield as Sam Altman.](<https://x.com/DiscussingFilm/status/2123101099800273047>)  
+  The film follows the story involving OpenAI focused on the firing &amp;amp; rehiring of CEO Sam Altman. In theaters on January 8.  
+  @DiscussingFilm · 2026-11-19 01:08
+
+- [I was fired from Nvidia today.](<https://x.com/tylerpalmer/status/2123100957504569637>)  
+  I was responsible for advising the board to be reasonable and gather all the information before making their decisions.  
+  @tylerpalmer · 2026-11-19 01:08
+
+- [It is hard to do justice to just how bizarre this story is.](<https://x.com/NahasNewman/status/2123100708715053482>)  
+  Last year, the FT cried foul because Nvidia's disclosures attributed 22% of sales to Singapore. The FT and others questioned this figure as suspiciously implausible, given the size of Singapore's market. The  
+  @NahasNewman · 2026-11-19 01:07
+
+- [I no longer believe all of this is just a coincidence... ...here is the list of things that "accidentally broke" in…](<https://x.com/mattvanswol/status/2123100395903803655>)  
+  I no longer believe all of this is just a coincidence... ...here is the list of things that "accidentally broke" in just the LAST 7 DAYS: Nov 12–14: Microsoft 365 goes down worldwide \( in 74 countries for nearly 24 hours Nov 13: FAA issues a NATIONWIDE ground …  
+  @mattvanswol · 2026-11-19 01:05
+
+- [OpenAI 与 AMD 合作用模型优化芯片设计，PPA 最高提升 14%](<https://x.com/OpenAI/status/2123100386638877054>)  
+  OpenAI 宣布与 AMD 合作，其模型在不到五个月内在旗舰 GPU IP 上识别出最高 14% 的 PPA 改进，而 AMD 工程师此前已优化设计多年。同一方法改进了 OpenAI 首款自研推理芯片 Jalapeño，收益已在真实硅片上验证。OpenAI 还将与 Synopsys 合作，把模型…  
+  X：OpenAI \(@OpenAI\) · 2026-11-19 01:05
+
+- [Despite Nvidia's $NVDA board ruling out his reinstatement, co-founder Jensen Huang still holds a viable path back t…](<https://x.com/newsinvesting/status/2123100138797236465>)  
+  With heavyweights like  
+  @newsinvesting · 2026-11-19 01:04
+
+- [BREAKING: The petition to bring Jensen Huang back as NVIDIA CEO just passed 200,000 signatures.](<https://x.com/cb_doge/status/2123097661620494667>)  
+  Elon Musk supports his return and is listed among the signers. After 33 years of building NVIDIA, Jensen deserves to be given a chance to lead again. Bring Jensen back\!  
+  @cb\_doge · 2026-11-19 00:55
 
 - [Altman 后悔未持有 OpenAI 股权](<https://x.com/rohanpaul_ai/status/2123096489966895153>)  
   Sam Altman 现在希望自己当初持有 OpenAI 的一部分股权，承认他本应听从 Greg Brockman 的建议入股。 今年早些时候，Brockman 自己的持股估值接近 300 亿美元。 （在 CNBC Dealbook 峰会上，链接见评论）  
@@ -129,53 +181,4 @@
   They’re calling it “Continual Recursive Self-Improvement” For years, "recursive self-improvement”, the idea of an AI rewriting its own code to  
   @thesupermannx · 2026-11-18 23:29
 
-- [Nvidia users say the last two GeForce drivers are writing gigabytes to your SSD while the PC just sits idle.](<https://x.com/ZackShutt/status/2123075760969671065>)  
-  The culprit looks like NVDisplay.Container.exe, which keeps rewriting the same driver log file over and over instead of adding to it. What people are reporting on  
-  @ZackShutt · 2026-11-18 23:28
-
-- [BREAKING: Anthropic's IPO has now attracted nearly $500 billion in investor orders, per CNBC.](<https://x.com/KobeissiLetter/status/2123075663456264438>)  
-  Institutional demand has reached \~$400 billion, while retail orders are approaching $100 billion. The company is now considering expanding its IPO and pricing shares above $80, above  
-  @KobeissiLetter · 2026-11-18 23:27
-
-- [JUST IN: Some Nvidia $NVDA board members are pushing to bring back Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2123074227272024169>)  
-  @WatcherGuru · 2026-11-18 23:21
-
-- [China KIDNAPPED The NVIDIA CEO 🕵️😂](<https://x.com/BabyNetworkNews/status/2123072998814974323>)  
-  @BabyNetworkNews · 2026-11-18 23:17
-
-- [🇺🇸 Nvidia confirms Huang will NOT return as CEO\!](<https://x.com/MarioNawfal/status/2123072487177007133>)  
-  Nvidia interim CEO Colette Kress says the board has made its FINAL decision not to reinstate Jensen Huang following his resignation. “Jensen resigned from his position with NVIDIA, and the board accepted his resignation.” 😢  
-  @MarioNawfal · 2026-11-18 23:15
-
-- [These tactics over the past week have been so disgusting that I won't support American AI model companies anymore.](<https://x.com/kevinnbass/status/2123072316896612774>)  
-  If lying and destroying people and companies without due process so we can give Anthropic a monopoly is what America is about, this country is not worth defending.  
-  @kevinnbass · 2026-11-18 23:14
-
-- [Jensen Huang wasn't predicting the future, he was literally creating it. \(2009\)](<https://x.com/Edison1HQ/status/2123072239146791398>)  
-  @Edison1HQ · 2026-11-18 23:14
-
-- [弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を…](<https://x.com/satoki00/status/2123071303657910632>)  
-  弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 \#NGINX2Sh…  
-  @satoki00 · 2026-11-18 23:10
-
-- [We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥 This one came togethe…](<https://x.com/ikotas00/status/2123071157083754677>)  
-  Huge thanks to their team. More to come. \#NGINX2Shell  
-  @ikotas00 · 2026-11-18 23:09
-
-- [If you know Silicon Valley engineering culture, you understand why I am going so hard on this.](<https://x.com/pbeisel/status/2123071108878565680>)  
-  Companies like NVIDIA, as amazing as they are, are only as good as their next product. And that next product comes from their brightest engineers. Those engineers are going to start  
-  @pbeisel · 2026-11-18 23:09
-
-- [Dan Hendrycks 称多个 AI 安全团体私下认同 MisAnthropic 声明但不敢公开签署](<https://x.com/hendrycks/status/2123070133522350176>)  
-  Dan Hendrycks 表示，众多 AI 安全团体私下告诉他认同 MisAnthropic 声明，但因担心影响人际关系或未来经费而不敢签署，并称 Anthropic 几乎已俘获原本用于监督它的生态系统。该声明网站为 misanthropicstatement.com，背景是 Anthropic…  
-  X：Dan Hendrycks \(@hendrycks\) · 2026-11-18 23:05
-
-- [NVIDIA GPU drivers are reportedly writing up to 30GB of data per hour to SSDs, raising concerns about unnecessary d…](<https://x.com/Pirat_Nation/status/2123068963945111761>)  
-  The issue appears to be linked to NVDisplay.Container.exe, part of NVIDIA's Display Container service, which keeps rewriting a driver log file instead of  
-  @Pirat\_Nation · 2026-11-18 23:01
-
-- [第96期瘙🐔\#cosplay \#角色扮演 兄弟们一直催的越南瘙cos 更新辣🌶️ 白嫖AI脱👗💐 一图生视频😍 姿势任你选…](<https://x.com/KaeowongSa99585/status/2123068711598960878>)  
-  第96期瘙🐔\#cosplay \#角色扮演 兄弟们一直催的越南瘙cos 更新辣🌶️ 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️  
-  @KaeowongSa99585 · 2026-11-18 23:00
-
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 40 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 38 页

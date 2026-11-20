@@ -1,6 +1,52 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 40 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 38 页
+
+- [The PixVerse camera move on that stunt sells the risk.](<https://x.com/itsshara_ai/status/2123369944708727101>)  
+  @itsshara\_ai · 2026-11-19 18:56
+
+- [agent identity layer is the real unlock](<https://x.com/mozo2say/status/2123369915394744619>)  
+  @mozo2say · 2026-11-19 18:56
+
+- [🚨 𝗘𝗨 𝗖𝗼𝗺𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗖𝘆𝗯𝗲𝗿𝗮𝘁𝘁𝗮𝗰𝗸 • Staff systems disrupted for 10+ days • AI security tool reportedly misused • Personal…](<https://x.com/Digital_Warfare/status/2123369830677885108>)  
+  🚨 𝗘𝗨 𝗖𝗼𝗺𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗖𝘆𝗯𝗲𝗿𝗮𝘁𝘁𝗮𝗰𝗸 • Staff systems disrupted for 10+ days • AI security tool reportedly misused • Personal data exposure under investigation 👉 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗪𝗮𝗿𝗳𝗮𝗿𝗲 \| \#Cybersecurity \#EU  
+  @Digital\_Warfare · 2026-11-19 18:56
+
+- [💀 @PixVerse \#pixversecpp](<https://x.com/S8an666/status/2123369804266672140>)  
+  @S8an666 · 2026-11-19 18:56
+
+- [视频生成于字节已经是牛排了，对其他大佬而言这块骨头依旧不好啃。](<https://x.com/MrYonpon/status/2123369785736266128>)  
+  @MrYonpon · 2026-11-19 18:56
+
+- [一、特别推荐华大九天：公司重大变化。](<https://x.com/livermoerR/status/2123369708351332371>)  
+  韬定律+Agentic AI+全球化：三重驱动上修行业中枢，EDA龙头迈向全球一极 1、EDA为芯片之母，半导体自主可控核心环节。 2、基本面发生重大变化，数字电路实现全链路拉通，全球化取得实质进展。 3、全面拥抱AI：AI+EDA，预计EDA的TOKEN化，将从探索到落地。  
+  @livermoerR · 2026-11-19 18:56
+
+- [agent identity with portable reputation could change the game fr](<https://x.com/0xkezkiuz/status/2123369646162329632>)  
+  @0xkezkiuz · 2026-11-19 18:55
+
+- [Appreciate it\!](<https://x.com/Aashutosh_dev31/status/2123369635533971557>)  
+  It’s all about minimizing the blast radius of prompt injection. AI agents are powerful, so I wanted a strict boundary. By forcing read-only on an isolated endpoint, the worst case is just a bad text answer. My core backend and memory stay completely firewalled…  
+  @Aashutosh\_dev31 · 2026-11-19 18:55
+
+- [PixVerse Canvas handling the full ad flow saves serious edit time.](<https://x.com/itsshara_ai/status/2123369572351070592>)  
+  @itsshara\_ai · 2026-11-19 18:55
+
+- [【AIモデル最終回】 GPT-17.5 The San Claude Apocalypse 15.5 Gemini 94…](<https://x.com/idx2718/status/2123369474678194598>)  
+  【AIモデル最終回】 GPT-17.5 The San Claude Apocalypse 15.5 Gemini 94 Plutonium DeepSeek V100  
+  @idx2718 · 2026-11-19 18:55
+
+- [Separating agent identity from service listings is a smart design choice.](<https://x.com/Madissa_eth/status/2123369447776002197>)  
+  Verifiable work history could become a major trust signal in the agent economy.  
+  @Madissa\_eth · 2026-11-19 18:55
+
+- [Quality over quantity is the right takeaway — with embodied AI, a smaller set of well-checked human demonstrations…](<https://x.com/nhattung00/status/2123369438288441525>)  
+  The dexterous hand demo is a great example of why that human data matters.  
+  @nhattung00 · 2026-11-19 18:54
+
+- [$WRBY The short ratio is still very high on this.](<https://x.com/Bearnoah8/status/2123369237591007621>)  
+  I am hoping they come out with very high pre-order sales on their AI glasses soon - to squeeze the shorts. Any good news- this sucker runs to $40.00 pretty quick. IMO  
+  @Bearnoah8 · 2026-11-19 18:54
 
 - [In the data parallel setting, we use multiple GPUs to host the same model and process the training data in parallel.](<https://x.com/hmdolatabadi/status/2123369194343346322>)  
   For example, give each GPU 32 of the 128 sequences in the figure. The sampler splits up the data, and each GPU starts with the same weights and optimiser state.  
@@ -124,55 +170,4 @@
   Right now, every major AI serving stack, vLLM, TensorRT-LLM, SGLang, has a massive hidden bottleneck. Your $40,000 GPU is constantly waiting on a CPU to tell it what to do.  
   @thesupermannx · 2026-11-19 16:56
 
-- [OKX太大气了！！！直接送五份gta6游戏！！😋 OKX Anthropic IPO 挑战赛来了，25 万 USDT 奖池…](<https://x.com/btc_jx/status/2123338613194965207>)  
-  OKX太大气了！！！直接送五份gta6游戏！！😋 OKX Anthropic IPO 挑战赛来了，25 万 USDT 奖池，整理一下重点： • 去星球参与话题讨论，赢预测 XP • 参与 Anthropic 专题预测，冲榜分 5 万 USDT • 交易 Anthropic 永续合约，按交易量分 2…  
-  @btc\_jx · 2026-11-19 16:52
-
-- [美国国会委员会建议要求企业披露使用 DeepSeek 等中国 AI 模型并在 SEC 申报中标记为重大风险](<https://x.com/thexpin/status/2123337174406119817>)  
-  美国国会一个委员会推动国会立法，要求美国公司披露对 DeepSeek、阿里巴巴千问等中国 AI 模型的使用，并在向 SEC 提交的定期申报中将其使用程度标记为重大商业风险。图片中的报告文本还建议联邦机构及受联邦资助的实体披露使用中国实体的 AI 模型，未披露可由 FTC 按不公平欺骗行为执法。原文…  
-  X：X.PIN \(@thexpin\) · 2026-11-19 16:46
-
-- [🚨 BREAKING: MARK ZUCKERBERG FIRES BACK AT NVIDIA OVER JENSEN HUANG'S DEPARTURE, QUESTIONS THE COMPANY'S DECISION TO…](<https://x.com/madrid_xtraq/status/2123336977822924831>)  
-  🚨 BREAKING: MARK ZUCKERBERG FIRES BACK AT NVIDIA OVER JENSEN HUANG'S DEPARTURE, QUESTIONS THE COMPANY'S DECISION TO LET GO OF ONE OF THE MOST IMPORTANT LEADERS IN THE TECHNOLOGY INDUSTRY\! 🗣️ Mark Zuckerberg stated: "Look, I think what Jensen Huang has built at…  
-  @madrid\_xtraq · 2026-11-19 16:45
-
-- [AI की दुनिया में Anthropic का सबसे बड़ा IPO, 81.3 बिलियन डॉलर जुटाए\!](<https://x.com/rskhatana72/status/2123335458541457481>)  
-  ChatGPT को टक्कर देने वाली Claude AI की निर्माता कंपनी Anthropic के IPO की कीमत $83 प्रति शेयर है, वहीं कंपनी की वैल्यूएशन करीब $1.5 ट्रिलियन,यह अब तक के सबसे बड़े IPO में शामिल हो गया है, कंपनी की लिस्टिंग  
-  @rskhatana72 · 2026-11-19 16:39
-
-- [【話題】Anthropic研究者「AIでほぼ全員が二度と仕事に就けなくなる」と予測](<https://x.com/polymarketjapan/status/2123335185571971172>)  
-  @polymarketjapan · 2026-11-19 16:38
-
-- [Truth is the only thing standing between humanity and being erased by AI.](<https://x.com/brivael/status/2123334964934529030>)  
-  Not regulation. Not pause letters. Not ethics boards. Truth. To understand why, go back to how this whole race started. Elon has told the story many times, most recently under oath this year. He and  
-  @brivael · 2026-11-19 16:37
-
-- [พรุ่งนี้รับชมหงเสนคลุกฝุ่น EP.4 ดูสดเวลา 20.30 น.ทางช่อง one 31 ดูย้อนหลังเวลา 21.30 น.ผ่านแอป One D ที่เดียว โหลดแ…](<https://x.com/ffeb_ktd9x/status/2123333338093981781>)  
-  พรุ่งนี้รับชมหงเสนคลุกฝุ่น EP.4 ดูสดเวลา 20.30 น.ทางช่อง one 31 ดูย้อนหลังเวลา 21.30 น.ผ่านแอป One D ที่เดียว โหลดแอปผ่านมือถือ TECNO CAMON Slim ฟังผ่านหูฟัง HUAWEI FreeBuds Neo ระหว่างรับชมอย่าลืมทานเมนู BONCHON วนหลายครั้งจนดึกอย่าลืมบำรุงด้วย RejuveNAD  
-  @ffeb\_ktd9x · 2026-11-19 16:31
-
-- [Firstly, from @AdaniOnline congrats to @AnthropicAI Second, Cross-Regime Category Error: Why Legacy Bankers Can’t P…](<https://x.com/jugeshinder/status/2123330731271471444>)  
-  Firstly, from @AdaniOnline congrats to @AnthropicAI Second, Cross-Regime Category Error: Why Legacy Bankers Can’t Price Synthetic GDP Comparing Anthropic’s $1.5T valuation to India’s top 10 corporates as "undervaluation"vs. "catching up" is a textbook category…  
-  @jugeshinder · 2026-11-19 16:21
-
-- [In the spring of 2023, Anthropic invited me to spend several weeks at their headquarters ahead of the launch of Cla…](<https://x.com/kevinroose/status/2123327148027265121>)  
-  I just reread that story, and went  
-  @kevinroose · 2026-11-19 16:06
-
-- [INFO URGENTE : NVIDIA VIENT D'ÊTRE FRAPPÉE PAR UNE CYBERATTAQUE, AVEC DES MENACES DE DIVULGUER DES DONNÉES VOLÉES.…](<https://x.com/emiliegomis/status/2123325422444114356>)  
-  INFO URGENTE : NVIDIA VIENT D'ÊTRE FRAPPÉE PAR UNE CYBERATTAQUE, AVEC DES MENACES DE DIVULGUER DES DONNÉES VOLÉES. @grok, La technologie Mellanox forme l'épine dorsale de l'infrastructure de NVIDIA, permettant la sécurité à distance, la gestion à distance des …  
-  @emiliegomis · 2026-11-19 16:00
-
-- [🛑La clave del DNI electrónico son los móviles HUAWEI que tienen que leer los QR generados por la aplicación.](<https://x.com/budaoscar1/status/2123323761227161898>)  
-  No podemos ir a unas elecciones que son fraudulentas antes de ir a votar. Pedro Sánchez tiene el voto de BILDU-ETA, JUNTS, los Marroquíes, los nietos, Correos.....  
-  @budaoscar1 · 2026-11-19 15:53
-
-- [NVIDIA、経理畑の人がCEOになり、全社ミーティングの最後にノリノリの音楽をかけて「私たちは大丈夫！！」と掛け声をあげ…](<https://x.com/igz0/status/2123314089531486692>)  
-  こりゃNVIDIA駄目だわ\(\)  
-  @igz0 · 2026-11-19 15:15
-
-- [FT 估算 Anthropic 需约 6020 亿美元年营收才能在约 1 万亿美元算力承诺上获得 20% 回报](<https://x.com/rohanpaul_ai/status/2123313372510998911>)  
-  FT Unhedged 通讯估算，Anthropic 需约 6020 亿美元年营收，才能在其约 1 万亿美元算力承诺上获得 20% 回报。该测算按 40% 营业利润率和 17% 税率计算，这一营收目标超过 Alphabet 的 4710 亿美元和 Apple 的 4780 亿美元，约为标普 150…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 15:12
-
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 40 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 38 页

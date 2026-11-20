@@ -1,12 +1,64 @@
 # 主题快讯
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 40 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 38 页
 
 含初筛线索。来源自述、观点与传闻保留原出处，尚待核验。
+
+- [Anthropic IPO 视频称 Claude 训练推理已跑在全部四大芯片家族上，接 AMD GPU 仅用 3 天](<https://x.com/indigox/status/2123677725722607738>)  
+  Anthropic 在 IPO 视频中表示，Claude 的训练和推理现已跑在全部四大芯片家族上，不同供应商、架构、地点的芯片被当成可互换的算力池，按性价比选用。今年首次接入 AMD GPU，由 Mythos 在 3 天内跑通，几乎无人工干预，计算内核近 100% 由 Claude 移植或编写，过…  
+  X：indigo \(@indigox\) · 2026-11-20 15:20
+
+- [Gemini 4 Neon 现已登陆 OpenClaw](<https://x.com/openclaw/status/2123640619931484511>)  
+  OpenClaw 宣布 Gemini 4 Neon 现已接入平台。Google 推出 Neon 的目标是更快、更低成本地完成高难度编码任务；按默认设置，Google 报告其在 Artificial Analysis Intelligence Index 上每任务成本比 Carbon 低 32%。  
+  X：OpenClaw \(@openclaw\) · 2026-11-20 12:52
+
+- [DeepSeek Harness 发布100天，作者分享13个实用插件玩法](<https://x.com/Khazix0918/status/2123627885730951241>)  
+  卡兹克在DeepSeek Harness发布100天之际分享了13个插件玩法。  
+  X：卡兹克 \(@Khazix0918\) · 2026-11-20 12:01
+
+- [Nick Bostrom 论文测算：只要 AI 灭绝风险低于 97%，尽快推出超级智能可提高当代人预期寿命](<https://x.com/rohanpaul_ai/status/2123626737120809367>)  
+  Rohan Paul 转述 Nick Bostrom 论文《Optimal Timing for Superintelligence》的测算：只要 AI 导致灭绝的风险低于 97%，立即推出超级智能就能提高当代人的预期寿命。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 11:57
+
+- [腾讯混元开放 Hy4 权重](<https://x.com/TencentHunyuan/status/2123625549147070538>)  
+  腾讯混元发布 Hy4 开放权重，定位原生多模态旗舰 MoE 模型，总参数 770B、激活 49B，支持 1M 上下文。同步发布含安全评估报告的 Hy4 System Card，并提供 GitHub、Hugging Face 权重与 GGUF 下载链接，团队将于本周五 8–10 AM PT 在 r/…  
+  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-20 11:52
+
+- [模型折叠皱毛巾，机器人静止仅16%](<https://x.com/haoailab/status/2123593606833549601>)  
+  再来点更难的：折叠一条皱毛巾（视频为8倍速）。 两次运行中，模型的大部分时间都被机器人的运动所掩盖，机器人静止的时间仅占16%和22%。  
+  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-20 09:45
+
+- [基准测试为何测不出机器人真实延迟](<https://x.com/haoailab/status/2123593598721728908>)  
+  为什么基准测试显示不出这一点？在 RoboDojo 中，仿真器会等模型完成再执行下一步，但真实机器人不会等。 我们早期叠毛巾的运行耗时 13 到 37 分钟。在其中一次最长的运行中，模型占了 78% 的实际耗时，而机器人只运行了全程的四分之一。  
+  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-20 09:45
+
+- [让机器人智能体接近实时运行](<https://x.com/haoailab/status/2123593596918235515>)  
+  机器人使用智能体现在可以控制真实机器人了。但它们很慢。 我们让 GPT-6 Astra + Codex 智能体的运行速度大幅接近实时： - 杯子任务：11.1 分钟 → 3.4 分钟 - 叠毛巾：约 18 分钟 → 约 6 分钟 - 机器人移动时间占比 84%，此前为 24% 博客： 代码：  
+  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-20 09:45
+
+- [Uber 在 400K tokens 处压缩工程师的 Claude Code 会话以控制 AI 成本](<https://x.com/rohanpaul_ai/status/2123585302870806552>)  
+  Uber 在 AI 预算耗尽后，即便使用百万 token 模型也在 400K tokens 处压缩工程师的 Claude Code 会话。2 月到 8 月每周 agent 请求增长 9.4 倍，AI 编码工具周活跃用户增长 7 倍，但自 4 月以来 AI 支出大致持平。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 09:12
+
+- [LLM 与视频模型比拼生成视频，GPT-6.2 Astra 对阵 Seedance 2.5](<https://x.com/ArtificialAnlys/status/2123581865965855205>)  
+  Artificial Analysis 用 GPT-6.2 Astra 与 Dreamina Seedance 2.5 做同题对比：前者以 three.js 代码构建悉尼歌剧院、机械表爆炸图和巨龙袭击中世纪城镇三个场景，后者用相同相机路径的文本提示加路线参考图生成。  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-20 08:59
+
+- [前Anthropic研究员预测Claude 2027年接管全部AI研究](<https://x.com/rohanpaul_ai/status/2123580196943274245>)  
+  前Anthropic与OpenAI研究员Jacob Coxon在Y Combinator首场辩论中称，Anthropic研究者目前从AI获得4-5倍加速，该数字约每3个月翻倍，外推至2027年可达100倍。他表示Anthropic已有25%的研究工作经由Claude完成，按此趋势到2027年底将达…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 08:52
+
+- [OpenAI 用 Codex 智能体自动排查 ChatGPT 性能问题，诊断准确但修复落地率低](<https://x.com/rohanpaul_ai/status/2123577231389934075>)  
+  Rohan Paul 转述 OpenAI 的 Performance Factory 系统：ChatGPT 变慢的告警会自动启动 Codex 智能体翻查日志和近期代码变更定位原因，第二个智能体尝试推翻该诊断，再由另一个提出修复方案并交人工工程师批准。该系统每天约进行 17 次调查，其中约 70%…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 08:40
 
 - [Anthropic 纳斯达克上市首日收涨 17%，市值约 1.76 万亿美元](<https://x.com/rohanpaul_ai/status/2123576007282377061>)  
   Anthropic 纳斯达克上市首日收于 97.17 美元、涨 17%，盘中一度较 83 美元发行价涨 38.7% 至 115.10 美元后回落。收盘完全稀释市值约 1.76 万亿美元，成为美国市值第 7 大公司；当日纳斯达克综合指数跌超 2%，部分散户卖出其他 AI 股套现认购新股。  
   X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 08:35
+
+- [Gemini 4 Neon 纯代码动画演绎济慈《秋颂》](<https://x.com/Google/status/2123575135232024719>)  
+  约翰·济慈的《秋颂》，完全用代码制作成动画 🍂 Gemini 4 Neon 用纯原生 JavaScript 构建了这段 3D 动画，没有使用任何外部库——逐帧绘制，并让旁白与环境音在三节诗之间保持同步。  
+  X：Google \(@Google\) · 2026-11-20 08:32
 
 - [Dash 计算 WorkBuddy 人均日耗 1000 万 Token 并与自家 Agent 产品对比](<https://x.com/DashHuang/status/2123571154678079813>)  
   Dash 分析腾讯财报披露的 WorkBuddy 数据：日活 1000 万、日 Token 100 万亿，人均约 1000 万 Token，他认为这一人均消耗不及普通重度用户 1%。他据此推算，像 Cindy 这样的 Agent 产品只需做到日活 10 万，就能达到 WorkBuddy 的 Tok…  
@@ -125,54 +177,4 @@
   Full story on PYMNTS.  
   @pymnts · 2026-11-20 07:59
 
-- [4/5 🔒 Security &amp;amp; Agent Governance: • Microsoft debuts Agent 365 &amp;amp; Entra Agent Identity • Wiz finds PyPI hij…](<https://x.com/marketbriefpod/status/2123566898310963506>)  
-  4/5 🔒 Security &amp;amp; Agent Governance: • Microsoft debuts Agent 365 &amp;amp; Entra Agent Identity • Wiz finds PyPI hijack of MS agent-framework • Calif Research patches Java4Shell \(CVE-2026-114938\) using Codex for &amp;lt;$200 \#Cybersecurity \#Infosec \#Microsoft  
-  @marketbriefpod · 2026-11-20 07:59
-
-- [Your analysis is not specific to Anthropic.](<https://x.com/BigTechAnon1/status/2123566847111078099>)  
-  AI is useful in several ways, but it's still a bubble. People with assets want to surf the bubble. Some might argue the first to ASI wins. Maybe Dario gets lucky and outlaws open weights and local models, but I doubt it.  
-  @BigTechAnon1 · 2026-11-20 07:59
-
-- [AI for science needs way more tooling like this and fewer chatbots](<https://x.com/celineodier/status/2123566782573154777>)  
-  @celineodier · 2026-11-20 07:59
-
-- [Please back this bill to collect on the IOUs to social security.](<https://x.com/hotornot_dapp/status/2123566754890707342>)  
-  The public farming zones with Flock &amp;amp; AI security will create small farming operations for survival  
-  @hotornot\_dapp · 2026-11-20 07:59
-
-- [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](<https://x.com/flexdinesh/status/2123566485167812835>)  
-  @flexdinesh · 2026-11-20 07:57
-
-- [A humanoid robot learning to collect eggs on poultry farms\!](<https://x.com/bamitav/status/2123566475785187505>)  
-  NC State University's AIR Lab is training Howl, a 4-foot humanoid based on Unitree G1, to locate and pick up eggs laid on barn floors. Using \#VR demonstrations, imitation learning and reinforcement learning,  
-  @bamitav · 2026-11-20 07:57
-
-- [AI Video Editing Is Becoming a Software Factory.](<https://x.com/LaRebelionLabs/status/2123566297967743433>)  
-  Here's How  
-  @LaRebelionLabs · 2026-11-20 07:57
-
-- [$AAPL the local llm company?](<https://x.com/LurioNineFive/status/2123566096867581991>)  
-  Yeah they make local models without poisoned weights, they have solid supply chain \(relative\), deal w gemini \(best model apparently 😉\) and they will optimize their inference  
-  @LurioNineFive · 2026-11-20 07:56
-
-- [GPT-6.2 Astra/Sol 对话历史用法](<https://x.com/OpenAIDevs/status/2123566064080740508>)  
-  在 Responses API 中使用 GPT-6.2 Astra 或 Sol 时，保持对话历史不变，追加新的轮次，而不是编辑早前的消息。 构建更高效的智能体，在多个轮次间保留推理，并能基于先前的工作继续推进，而不是重复它。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-20 07:56
-
-- [接下来可看这几件事：提高产量有没有可核对的安排；辅助驾驶在中国全面落地有没有官方时间表；人形机器人有没有可核对的新进展；本…](<https://x.com/Proudpop6/status/2123566060636950859>)  
-  \#马斯克  
-  @Proudpop6 · 2026-11-20 07:56
-
-- [陶琳转述，他分享了辅助驾驶——也就是开车时系统帮你看路、转向和刹停——进展很快，人形机器人也在提升各项技能。他对上海工厂的…](<https://x.com/Proudpop6/status/2123566058262970497>)  
-  陶琳转述，他分享了辅助驾驶——也就是开车时系统帮你看路、转向和刹停——进展很快，人形机器人也在提升各项技能。他对上海工厂的制造实力，以及中国团队的执行力和制造水准，都赞赏有加。  
-  @Proudpop6 · 2026-11-20 07:56
-
-- [OpenAI 说明 Responses API 中 GPT-6.2 推理项与对话历史绑定的新机制](<https://x.com/OpenAIDevs/status/2123566018866151579>)  
-  OpenAI 介绍使用 GPT-6.2 的 Agent 在 Responses API 中可复用先前推理，以更少 token 和更多缓存命中获得更好结果。从最新前沿模型开始，每个推理项与此前对话历史绑定，编辑较早消息会导致 API 丢弃该变更之后的推理。  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-20 07:56
-
-- [Cloudflare released open weights for Clairic and Clairic-flash — 27B and 9B models built to pull structured data ou…](<https://x.com/agonzalp/status/2123565998137540695>)  
-  The cheapest accurate answer is a small model built for one job, not a big one that does everything. That's how we size AI.  
-  @agonzalp · 2026-11-20 07:56
-
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 40 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 38 页

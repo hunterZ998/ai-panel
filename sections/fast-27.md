@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 40 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 38 页
+
+- [Affordable AI video generation means more opportunities for everyone to create without worrying about high costs](<https://x.com/presleymbbfzb/status/2122841607921655873>)  
+  @presleymbbfzb · 2026-11-18 07:57
+
+- [JUST IN: 🇺🇸🇨🇳 Nvidia $NVDA will no longer sell its H200 chips in China.](<https://x.com/BRICSinfo/status/2122840906453885152>)  
+  @BRICSinfo · 2026-11-18 07:54
+
+- [🔻 SERIES: DARK-10 // WAVE SCHEDULE // DAY 1 // THIS IS NOT A TEST Five systems fell in five days.](<https://x.com/MrPool_QQ/status/2122840347298381947>)  
+  Microsoft, the sky, one hundred seventy-eight websites, and the intelligence pipe. This is the sixth thing, and it is the one with a schedule. A test has an advertised end. That  
+  @MrPool\_QQ · 2026-11-18 07:52
+
+- [Gabe Newell is "literally guarding the gates of Hell" with Steam, says Doom and Quake designer Sandy Petersen.](<https://x.com/ZackShutt/status/2122839999288672406>)  
+  He says Steam keeps Disney, EA and Microsoft from controlling PC gaming. Lord Gaben stays undefeated.  
+  @ZackShutt · 2026-11-18 07:51
+
+- [🚨🔴 Familiares de Joselyn Rocha piden apoyo para localizar al conductor que la atropelló la mañana del pasado vierne…](<https://x.com/LupitaJuarezH/status/2122839148557918393>)  
+  La hermana de Joselyn, Dayani Rocha, dio a conocer que el  
+  @LupitaJuarezH · 2026-11-18 07:47
+
+- [I’m trying to think of something more insane than Gavin Newsom calling out Jensen Huang for sleeping with a subordi…](<https://x.com/TheKevinDalton/status/2122837680484651069>)  
+  Actually, it’s not the same thing. I’m pretty  
+  @TheKevinDalton · 2026-11-18 07:41
+
+- [NVIDIA 盘后财报营收 1,158 亿美元，管理层谈新云扩张与双重变现](<https://x.com/indigox/status/2122836757851111473>)  
+  NVIDIA 盘后发布财报，营收 1,158 亿美元，同比 +103%，比指引上限高出 56 亿，数据中心 1,076 亿，非 GAAP 毛利率 74.9%，每股收益 2.68 美元，Q4 指引 1,300 亿。  
+  X：indigo \(@indigox\) · 2026-11-18 07:38
+
+- [JENSEN HUANG WILL NEVER RETURN: THE AI BUBBLE COLLAPSES NEXT Jiang Xueqin, the Chinese-born Canadian educator, says…](<https://x.com/Mark4XX/status/2122836432108572835>)  
+  The man who held the global chip supply chain and the circular AI financing  
+  @Mark4XX · 2026-11-18 07:37
+
+- [Disclosure is a thing.](<https://x.com/Dream1984Tube/status/2122835840451723521>)  
+  The Information is owned outright by Jessica Lessin. Her father, Jerome Vascellaro: longtime TPG senior partner, former COO, now senior advisor. TPG: an investor in Anthropic's Series F. Her husband, Sam Lessin, overlapped at Harvard with Dustin  
+  @Dream1984Tube · 2026-11-18 07:34
+
+- [【NVIDIA会長 フアン氏CEO復帰ない】](<https://x.com/YahooNewsTopics/status/2122834922100621821>)  
+  @YahooNewsTopics · 2026-11-18 07:31
+
+- [NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表…](<https://x.com/nikkei/status/2122834870086808057>)  
+  NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表明。「エヌビディアの行動規範や企業文化に反する個人的な行動が明らかになった」と説明しました。  
+  @nikkei · 2026-11-18 07:30
+
+- [If you can build these 12 AI Engineering \(Agents &amp;amp; RAG\) projects.](<https://x.com/suraj_sharma14/status/2122834670005936465>)  
+  You're hired. Project 1: Context Assembler Engine Dynamic token budgeting, priority-based context injection, memory + retrieval + tool allocation, overflow prevention. → Shows: You master the context window not  
+  @suraj\_sharma14 · 2026-11-18 07:30
+
+- [New GPUs such as Intel Xe, AMD RX 7000, RX 9000 series, and NVIDIA RTX 40, 50 series now works in Windows 7 with th…](<https://x.com/TheBobPony/status/2122832022020444234>)  
+  DirectX 12 is also working too\! This isn't Windows 10/11 larping as Windows 7, this is ACTUALLY Windows 7\! 😎  
+  @TheBobPony · 2026-11-18 07:19
 
 - [Salesforce 为员工按岗位分配每月 AI token 预算](<https://x.com/rohanpaul_ai/status/2122831789140091367>)  
   据 Business Insider 报道，Salesforce 为非技术销售人员提供每月 100 美元 AI token 额度，技术销售人员为 1000 美元。此前上个季度有员工每月 token 花费达数千美元，COO Miguel Milano 因此为每个岗位设定预算，并建议员工按任务匹配模型…  
@@ -127,54 +176,4 @@
   Logan Kilpatrick 宣布 Google AI Studio 今日迎来重大更新。新增三项能力：支持自定义域名（可直接在 AI Studio 购买）、构建安卓 App 并通过 Google Play 商店下载到手机（目前仅限美国）、以及在 AI Studio 中为安卓 App 安全接入…  
   X：Logan Kilpatrick \(@OfficialLoganK\) · 2026-11-18 06:25
 
-- [🇺🇸 \| AHORA: La junta directiva de Nvidia confirma que no pretende restituir a Jensen Huang como director ejecutivo…](<https://x.com/AlertaNews24/status/2122818301806219336>)  
-  🇺🇸 \| AHORA: La junta directiva de Nvidia confirma que no pretende restituir a Jensen Huang como director ejecutivo y busca un sustituto.  
-  @AlertaNews24 · 2026-11-18 06:24
-
-- [OpenAI 推出 ChatGPT for Sales 销售体验](<https://x.com/ChatGPT/status/2122818162995634504>)  
-  OpenAI 推出新的 ChatGPT for Sales 体验，整合新的 Sales 插件与 30 多个新增和增强的合作伙伴插件，把销售工具和客户上下文投入实际工作，帮助销售团队减少事务性工作、推进成单。详情见  
-  X：ChatGPT \(@ChatGPT\) · 2026-11-18 06:24
-
-- [Nvidia Board: As you can see from the financial results, the company is doing great\!](<https://x.com/wholemars/status/2122817904618197097>)  
-  Me: But you just fired the guy who delivered those results Nvidia Board: We won't be taking any questions on that  
-  @wholemars · 2026-11-18 06:23
-
-- [First time I hear someone lying through her teeth so much during a earnings call my favourite so far has been claim…](<https://x.com/DarioCpx/status/2122817814734254112>)  
-  First time I hear someone lying through her teeth so much during a earnings call my favourite so far has been claiming the SoftBank / OpenAI campus in Ohio is on track to be completed by 2028 when SoftBank just cancelled its orders to buy energy turbines to po…  
-  @DarioCpx · 2026-11-18 06:23
-
-- [THIS NVIDIA CALL IS BRUTAL TO LISTEN TO SHE DEFINITELY DIDNT PREPARE FOR THIS $NVDA](<https://x.com/gurgavin/status/2122817784539422743>)  
-  @gurgavin · 2026-11-18 06:22
-
-- [To understand Dario Amodei’s vision, you have to understand where Anthropic comes from.](<https://x.com/brivael/status/2122817686363390311>)  
-  The company grew up inside the effective altruism ecosystem. Among its early backers: Dustin Moskovitz and Sam Bankman-Fried. Effective altruism rests on a seductive idea: a handful of very  
-  @brivael · 2026-11-18 06:22
-
-- [Treg AI 推出求职 API，Jev 模型评分](<https://x.com/rohanpaul_ai/status/2122816899755172025>)  
-  决策模型的漂亮用例。 求职智能体越来越擅长解读招聘信号，而这些信号往往在职位发布之前就已出现。 @treg\_ai 推出了一个 jobs API，让 AI 智能体可以搜索空缺职位、评估匹配度并找到招聘经理。 智能体从雇主看板拉取免费职位列表，TypeSafe AI 的决策模型 Jev 会针对简历对每…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 06:19
-
-- [\*NVIDIA NO LONGER SHIPPING LICENSED PRODUCTS TO CHINA](<https://x.com/zerohedge/status/2122816460812857363>)  
-  @zerohedge · 2026-11-18 06:17
-
-- [NVIDIA is going to get torn apart by the state and the media because its leader supported Trump and wanted open-sou…](<https://x.com/StefanMolyneux/status/2122816230377898474>)  
-  NVIDIA is going to get torn apart by the state and the media because its leader supported Trump and wanted open-source AI.  
-  @StefanMolyneux · 2026-11-18 06:16
-
-- [MICROSOFT SAID IT WOULD MOVE THE WORK.](<https://x.com/LayoffAI/status/2122816102816199029>)  
-  A LEAKED NOTE NOW POINTS TO INDIA. ProPublica reported in August 2025 that China-based engineers had been maintaining SharePoint OnPrem, the version government agencies run on their own servers. Microsoft told ProPublica: "Work is already  
-  @LayoffAI · 2026-11-18 06:16
-
-- [LA CRISIS DIGITAL MUNDIAL ES MÁS GRAVE DE LO QUE NOS ESTÁN CONTANDO En pocos días se acumularon noticias sobre fall…](<https://x.com/GarbarzAriel/status/2122815816668254530>)  
-  No estamos hablando de  
-  @GarbarzAriel · 2026-11-18 06:15
-
-- [Perplexity 上线 GPT-6.2 Astra 与 GPT-6.2 Sol，WANDR 成绩较前代提升](<https://x.com/AravSrinivas/status/2122815321958695096>)  
-  Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search and Computer 中可用。在 WANDR 基准上，GPT-6.2 Astra 得分 0.783，每任务约 $12.54，较 GPT-6 Astra 提升 0.095…  
-  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-18 06:13
-
-- [We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell…](<https://x.com/Mis_Ashford/status/2122815311065784759>)  
-  It's called circular financing, it's the first sign of a bubble.  
-  @Mis\_Ashford · 2026-11-18 06:13
-
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 40 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 38 页

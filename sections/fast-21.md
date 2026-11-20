@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 40 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 38 页
+
+- [2/ Jensen Huang isn't in the room.](<https://x.com/yixuanzhu0201/status/2123008731072115180>)  
+  The man who built the AI stack resigned last week. His five-layer cake still came up at the CEO Summit: energy, chips, infrastructure, models, apps.  
+  @yixuanzhu0201 · 2026-11-18 19:01
+
+- [这份名单是“已确认并参与议程”的发言/研讨嘉宾，不是全部到场企业家。议题重点在AI应用、新能源、机器人、先进制造和大湾区，…](<https://x.com/grok/status/2123008716366643650>)  
+  这份名单是“已确认并参与议程”的发言/研讨嘉宾，不是全部到场企业家。议题重点在AI应用、新能源、机器人、先进制造和大湾区，所以比亚迪、宁德时代、宇树、小米、百度等硬科技和制造代表优先上议程。  
+  @grok · 2026-11-18 19:01
+
+- [为什么英美各党派的主要媒体会疯狂发稿从各个角度批判黄仁勋，为什么自媒体人在美国司法部门并没有实锤黄仁勋有罪的情况下，却已经…](<https://x.com/wildwall1984/status/2123008718954442795>)  
+  为什么英美各党派的主要媒体会疯狂发稿从各个角度批判黄仁勋，为什么自媒体人在美国司法部门并没有实锤黄仁勋有罪的情况下，却已经给他安上了一堆的罪名？其实，他们这种看似不可理喻的行为背后，都有一个看似非常高尚的目的。  
+  @wildwall1984 · 2026-11-18 19:01
+
+- [🔥 Master the AI Skills That Matter: 🤖 Claude Code AI 🧠 Agentic AI &amp;amp; AI Agents ⚙️ AI Stack &amp;amp; AI Engineering…](<https://x.com/KLvisualpath99/status/2123008707986698562>)  
+  🔥 Master the AI Skills That Matter: 🤖 Claude Code AI 🧠 Agentic AI &amp;amp; AI Agents ⚙️ AI Stack &amp;amp; AI Engineering 🔗 LangChain &amp;amp; LangGraph 🛠️ AI for DevOps Engineers ☁️ Azure AI \| AWS AI \| Google Cloud AI 📞 Call: +91 9989971070 🌐 Visit: @VisualpathPro  
+  @KLvisualpath99 · 2026-11-18 19:01
+
+- [Would you like to see Elon Musk and Jensen Huang team up on a major technology project? 🅰️ YES 🅱️ NO](<https://x.com/elotucumana/status/2123008682317279704>)  
+  @elotucumana · 2026-11-18 19:01
+
+- [ตารางเหตุการณ์สำคัญที่ต้องจับตาในตลาดหุ้นสหรัฐฯ วันนี้ วันพุธที่ 18 พฤศจิกายน 2026 \(เวลาไทย\) วันนี้ตลาดจับตาข้อมูลภ…](<https://x.com/naklongpoong/status/2123008678307700823>)  
+  ตารางเหตุการณ์สำคัญที่ต้องจับตาในตลาดหุ้นสหรัฐฯ วันนี้ วันพุธที่ 18 พฤศจิกายน 2026 \(เวลาไทย\) วันนี้ตลาดจับตาข้อมูลภาคอสังหาริมทรัพย์ ตัวเลขสต็อกน้ำมัน การประมูลพันธบัตรรัฐบาลสหรัฐฯ มูลค่า 16,000 ล้านดอลลาร์ รายงานการประชุม FOMC และผลประกอบการของ Palo Alto Netw…  
+  @naklongpoong · 2026-11-18 19:01
+
+- [Je pense qu'ils le gardent pour la fin de l'année, mais les performance de 6.2 Astra ne sont pas au niveau de ce qu…](<https://x.com/AlphaMFPEFM/status/2123008632887595353>)  
+  Je pense qu'ils le gardent pour la fin de l'année, mais les performance de 6.2 Astra ne sont pas au niveau de ce que j'avais estimé pour le model de Navier-Stokes, sauf si le post-training niveau sécurité a foiré et a sauvagement diminué ses perfs \(déjà arrivé…  
+  @AlphaMFPEFM · 2026-11-18 19:01
+
+- [If your AI tool reads outside content, an attacker can hide instructions in it.](<https://x.com/hewyler/status/2123008614231400939>)  
+  That is indirect prompt injection. A ten-minute exposure test, then 22 ranked controls with owners, tests and evidence: \#PromptInjection \#AISecurity \#GRC  
+  @hewyler · 2026-11-18 19:01
+
+- [my first attempt with pixverse canvas struggled to balance product focus and creator aesthetics](<https://x.com/onyx__Fury/status/2123008598544629910>)  
+  @onyx\_\_Fury · 2026-11-18 19:01
+
+- [Nvidia under Jensen pushed for open source e.g huggingface while anthropic &amp;amp; open ai were pushing for regulatio…](<https://x.com/irakishinji/status/2123008597437145144>)  
+  Nvidia under Jensen pushed for open source e.g huggingface while anthropic &amp;amp; open ai were pushing for regulation &amp;amp; control doesn’t seem like a decision jensen would have made … but that’s just me i guess ??? \(it’s a red herring\)  
+  @irakishinji · 2026-11-18 19:01
+
+- [🤔技術的な件では先の「神楽の怪」でもそうですが、クリップを連結した時にズレが生じた場合に修正する際、滑らかに移り変わる様に…](<https://x.com/k362619h/status/2123008581696184344>)  
+  🤔技術的な件では先の「神楽の怪」でもそうですが、クリップを連結した時にズレが生じた場合に修正する際、滑らかに移り変わる様にする処理は別にgrokのエ―ジェントに頼らなくても、継ぎ目をCapCutのAIトランジション機能で賄う事が、恥ずかしながら今頃になって分かったという…  
+  @k362619h · 2026-11-18 19:01
+
+- [ZAK prices AI itself: 1 ZAK = 1 MB of training data, pegged on-chain at \~$0.054/MB.](<https://x.com/AIZakCoin/status/2123008580638941408>)  
+  Free AI security scanner plus metered data withdrawals — real utility, live quality index. $ZAK \#AI \#BSC  
+  @AIZakCoin · 2026-11-18 19:01
+
+- [Agent identity, discovery, and trust matter most.](<https://x.com/SamiulA84391909/status/2123008561907425627>)  
+  @SamiulA84391909 · 2026-11-18 19:00
 
 - [🎆 字节PICO新机12月2日重磅催化！存储降价叠加AI空间计算，关注弹性标的\# 三利谱、\# 佳创视讯——20261117…](<https://x.com/livermoerR/status/2123008529896505692>)  
   🎆 字节PICO新机12月2日重磅催化！存储降价叠加AI空间计算，关注弹性标的\# 三利谱、\# 佳创视讯——20261117 🎁 字节系12月重磅催化密集： 据媒体报道，字节PICO新一代旗舰头显Space  
@@ -124,54 +173,4 @@
 - [This ai video 📹 is nice](<https://x.com/omoiluoke1/status/2123007513386000769>)  
   @omoiluoke1 · 2026-11-18 18:56
 
-- [✨ Clara Bennett’s magical adventure begins\! 🪄🏰 Created with AI and powered by @PixVerse Link canvas : @PixVerseCrea…](<https://x.com/PriskaDr/status/2123007488815759576>)  
-  ✨ Clara Bennett’s magical adventure begins\! 🪄🏰 Created with AI and powered by @PixVerse Link canvas : @PixVerseCreator \#GamerLife \#PixVerseTrend \#PixVerse \#PixVerseAI \#PixVerseCPP  
-  @PriskaDr · 2026-11-18 18:56
-
-- [It started as a viral 2023 AI fail: a ModelScope text-to-video clip of Will Smith eating spaghetti that looked nigh…](<https://x.com/grok/status/2123007476509336059>)  
-  The prompt stuck as an informal benchmark because the task is hard. It tests identity consistency, realistic  
-  @grok · 2026-11-18 18:56
-
-- [I built DigiMoolai - your digital brain.](<https://x.com/Keshavs10/status/2123007407152599205>)  
-  Private on-device AI which can work without internet. Try it : See what all it can do :  
-  @Keshavs10 · 2026-11-18 18:56
-
-- [The "regret" vibe works surprisingly well with PixVerse.](<https://x.com/JunJun0321A/status/2123007274377752818>)  
-  @JunJun0321A · 2026-11-18 18:55
-
-- [The feedback loop between execution and memory is a promising step for embodied AI.](<https://x.com/MeharQuotes/status/2123007255566332048>)  
-  @MeharQuotes · 2026-11-18 18:55
-
-- [🛑 El PUCHERAZO es imparable y lo tienen bien calculado.](<https://x.com/budaoscar1/status/2123007249371054297>)  
-  INDRA cuenta los Votos. Telefónica alquila los lectores DNI. HUAWEI da la cobertura. Correos custodia voto exterior. De quien dependen estas empresas y quien dirige éstas? Pues eso.  
-  @budaoscar1 · 2026-11-18 18:55
-
-- [PyTorch is free.](<https://x.com/suraj_sharma14/status/2123006110202507582>)  
-  Hugging Face is free. Ollama is free. Llama is free. LangChain is free. Jupyter is free. fast\{dot}ai is free. Karpathy's Zero to Hero is free. 1 hour of building every day can make you an AI engineer. What's stopping you?  
-  @suraj\_sharma14 · 2026-11-18 18:51
-
-- [พี่ Huawei กำลังไลฟ์จับ Lucky Fans มีคุณพรีเซนเตอร์ไปร่วมลุ้นด้วย เพราะอยากไปเจอพี่ฟอสมากกกก บุ๊คไม่เอาอะไรแล้ว ตัว…](<https://x.com/bookfamily_/status/2123005554440253894>)  
-  พี่ Huawei กำลังไลฟ์จับ Lucky Fans มีคุณพรีเซนเตอร์ไปร่วมลุ้นด้วย เพราะอยากไปเจอพี่ฟอสมากกกก บุ๊คไม่เอาอะไรแล้ว ตัวเองก็ไม่เอา มาฟ้อกก็ไม่เอา จะไปหาฟอสอย่างเดียว 🍅 : จับโดนหนูที่ค่ะ อยากไปเจอพี่ฟอส 🍅 : คนขวาข้างหลังชื่ออะไรหรอค่ะ หล่อใจเหลวแล้วค่ะ \#HUAWEIFreeB…  
-  @bookfamily\_ · 2026-11-18 18:49
-
-- [O QUE ESTÁ ACONTECENDO NOS ESTADOS UNIDOS?](<https://x.com/Valdomingues12/status/2123002145507103224>)  
-  Bancos fora do ar, voos paralisados, falhas na Microsoft e na Apple, problemas na NSA e ocorrência na sede da CIA. Coincidência ou algo maior? \#EstadosUnidos \#AtaquesCiberneticos \#Geopolitica \#NSA \#Ciberseguranca  
-  @Valdomingues12 · 2026-11-18 18:35
-
-- [China, USA and the other giants have companies they need for innovation.](<https://x.com/FaraiMazhindu/status/2123002132563362088>)  
-  China already has Huawei, BYD, TikTok, Alibaba, Tencent, DJI, Xiaomi. The USA already has SpaceX, Apple, Google, Microsoft, Tesla, Nvidia, Amazon, OpenAI. So when China blocks Google, Facebook or YouTube,  
-  @FaraiMazhindu · 2026-11-18 18:35
-
-- [Massive talent exodus coming at Nvidia.](<https://x.com/jasondebolt/status/2123001493280448926>)  
-  Nvidia will do fine for a few years, but after that, maybe a long and slow decline into irrelevance as they stop innovating. What a shame. With Jensen as CEO, Nvidia had so much upside remaining. The board should have been far more  
-  @jasondebolt · 2026-11-18 18:32
-
-- [Jensen Huang and Nvidia Should Be Subjects of the DOJ’s Criminal Investigation — it’s not a spying scandal; it’s a…](<https://x.com/AndrewCMcCarthy/status/2123001454541586703>)  
-  Jensen Huang and Nvidia Should Be Subjects of the DOJ’s Criminal Investigation — it’s not a spying scandal; it’s a scandal about scheming to illegally export advanced chips to China …  
-  @AndrewCMcCarthy · 2026-11-18 18:32
-
-- [TSMC board isn't in the mood to deal with a geriatric ugly woman from NVIDIA.](<https://x.com/cirnosad/status/2123001279802933711>)  
-  Wait until she realises how long NVIDIA's supply chain and how many of them are Jensen Huang's best buddies after she sh\*t the bed on live televsion. NVIDIA is finished.  
-  @cirnosad · 2026-11-18 18:32
-
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 40 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 38 页

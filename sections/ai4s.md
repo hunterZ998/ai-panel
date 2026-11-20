@@ -20,7 +20,15 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 9 条
+## 相关资讯 · 10 条
+
+- [AI制药狂奔之后，“计算医学”开始补上极其艰难的一块](<https://36kr.com/p/4077699178108037?f=rss>)  
+  AI制药发展到今天，出现了一个有些反直觉的现象。 一边，是模型能力的快速跃迁。AlphaFold之后，蛋白质结构预测已经发生根本变化，生成式AI开始进入蛋白设计、小分子设计、抗体发现，生命科学基础模型、大模型和科研智能体不断出现。2026年  
+  36氪 · 2026-11-20 14:16
+
+- [GeoFlow V4 发布 \| 从“能结合” 到 “可成药” ，百奥几何发布新一代药物研发引擎 \| 星连被投动态](<https://36kr.com/p/4077523351262850?f=rss>)  
+  11 月 19 日，百奥几何正式发布 新一代药物研发引擎 GeoFlow V4 。 此次升级依托数据与模型的协同扩展，进一步提升结构预测、候选筛选与从头设计能力，并同步推出 GeoFlow Code 智能体式药物设计编排体系，共同支撑以成药  
+  36氪 · 2026-11-20 11:44
 
 - [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
   Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
@@ -29,10 +37,6 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
   Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  
   Ai2 / Allen Institute for AI（RSS） · 2026-11-19 16:00
-
-- [极智元材完成千万级种子轮融资，推进人工智能赋能半导体产业创新发展](<https://www.itjuzi.com/investevent/14708210>)  
-  极智元材致力于构建面向全球材料研发的智能基础设施（Materials Intelligence Infrastructure，MII）。以高质量科学数据、材料领域通专模型和科研智能体为核心，深度融合多尺度模拟计算、智能实验与闭环优化，…  
-  IT桔子 · 2026-11-19 12:35
 
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
   「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  

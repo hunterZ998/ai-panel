@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 40 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 38 页
+
+- [Nvidia users say the last two GeForce drivers are writing gigabytes to your SSD while the PC just sits idle.](<https://x.com/ZackShutt/status/2123075760969671065>)  
+  The culprit looks like NVDisplay.Container.exe, which keeps rewriting the same driver log file over and over instead of adding to it. What people are reporting on  
+  @ZackShutt · 2026-11-18 23:28
+
+- [BREAKING: Anthropic's IPO has now attracted nearly $500 billion in investor orders, per CNBC.](<https://x.com/KobeissiLetter/status/2123075663456264438>)  
+  Institutional demand has reached \~$400 billion, while retail orders are approaching $100 billion. The company is now considering expanding its IPO and pricing shares above $80, above  
+  @KobeissiLetter · 2026-11-18 23:27
+
+- [JUST IN: Some Nvidia $NVDA board members are pushing to bring back Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2123074227272024169>)  
+  @WatcherGuru · 2026-11-18 23:21
+
+- [China KIDNAPPED The NVIDIA CEO 🕵️😂](<https://x.com/BabyNetworkNews/status/2123072998814974323>)  
+  @BabyNetworkNews · 2026-11-18 23:17
+
+- [🇺🇸 Nvidia confirms Huang will NOT return as CEO\!](<https://x.com/MarioNawfal/status/2123072487177007133>)  
+  Nvidia interim CEO Colette Kress says the board has made its FINAL decision not to reinstate Jensen Huang following his resignation. “Jensen resigned from his position with NVIDIA, and the board accepted his resignation.” 😢  
+  @MarioNawfal · 2026-11-18 23:15
+
+- [These tactics over the past week have been so disgusting that I won't support American AI model companies anymore.](<https://x.com/kevinnbass/status/2123072316896612774>)  
+  If lying and destroying people and companies without due process so we can give Anthropic a monopoly is what America is about, this country is not worth defending.  
+  @kevinnbass · 2026-11-18 23:14
+
+- [Jensen Huang wasn't predicting the future, he was literally creating it. \(2009\)](<https://x.com/Edison1HQ/status/2123072239146791398>)  
+  @Edison1HQ · 2026-11-18 23:14
+
+- [弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を…](<https://x.com/satoki00/status/2123071303657910632>)  
+  弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 \#NGINX2Sh…  
+  @satoki00 · 2026-11-18 23:10
+
+- [We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥 This one came togethe…](<https://x.com/ikotas00/status/2123071157083754677>)  
+  Huge thanks to their team. More to come. \#NGINX2Shell  
+  @ikotas00 · 2026-11-18 23:09
+
+- [If you know Silicon Valley engineering culture, you understand why I am going so hard on this.](<https://x.com/pbeisel/status/2123071108878565680>)  
+  Companies like NVIDIA, as amazing as they are, are only as good as their next product. And that next product comes from their brightest engineers. Those engineers are going to start  
+  @pbeisel · 2026-11-18 23:09
+
+- [Dan Hendrycks 称多个 AI 安全团体私下认同 MisAnthropic 声明但不敢公开签署](<https://x.com/hendrycks/status/2123070133522350176>)  
+  Dan Hendrycks 表示，众多 AI 安全团体私下告诉他认同 MisAnthropic 声明，但因担心影响人际关系或未来经费而不敢签署，并称 Anthropic 几乎已俘获原本用于监督它的生态系统。该声明网站为 misanthropicstatement.com，背景是 Anthropic…  
+  X：Dan Hendrycks \(@hendrycks\) · 2026-11-18 23:05
+
+- [NVIDIA GPU drivers are reportedly writing up to 30GB of data per hour to SSDs, raising concerns about unnecessary d…](<https://x.com/Pirat_Nation/status/2123068963945111761>)  
+  The issue appears to be linked to NVDisplay.Container.exe, part of NVIDIA's Display Container service, which keeps rewriting a driver log file instead of  
+  @Pirat\_Nation · 2026-11-18 23:01
+
+- [第96期瘙🐔\#cosplay \#角色扮演 兄弟们一直催的越南瘙cos 更新辣🌶️ 白嫖AI脱👗💐 一图生视频😍 姿势任你选…](<https://x.com/KaeowongSa99585/status/2123068711598960878>)  
+  第96期瘙🐔\#cosplay \#角色扮演 兄弟们一直催的越南瘙cos 更新辣🌶️ 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️  
+  @KaeowongSa99585 · 2026-11-18 23:00
 
 - [Unsiloed AI 获 750 万美元种子轮，让文档可被 AI 查询](<https://x.com/rohanpaul_ai/status/2123068415904809041>)  
   7 人初创公司 Unsiloed AI 获 Felicis 领投的 750 万美元种子轮，目标是让 AI 智能体可直接查询 PDF、扫描件和表格中的文档数据。其双流视觉模型并行读取内容与版面，热力图分块对图表和数字投入额外算力，每个抽取字段都能回溯到页面原位置，并支持在客户自有服务器上气隙部署。  
@@ -124,49 +173,4 @@
   This is a list of people who retweeted things that were big stories at the time 😂  
   @teameffujoe · 2026-11-18 21:46
 
-- [🚨 NVIDIA DRIVERS ARE NOW REPORTEDLY HAMMERING SSDs WITH CONSTANT WRITES JUST AS AMD\!](<https://x.com/MizoChris/status/2123049686235766800>)  
-  First AMD, and now NVIDIA? Multiple users are reporting excessive SSD writes caused by NVIDIA’s display driver service, with one report claiming up to 30 GB PER HOUR\! •  
-  @MizoChris · 2026-11-18 21:44
-
-- [骗仔黄这段"内部讲话"：未来5到10年生成式AI竞赛，中国必赢；出口管制是美国"干过最蠢的事"，越制裁中国干得越狠；202…](<https://x.com/dylanzhao/status/2123049308211790332>)  
-  骗仔黄这段"内部讲话"：未来5到10年生成式AI竞赛，中国必赢；出口管制是美国"干过最蠢的事"，越制裁中国干得越狠；2027年中国AI算力超过全世界总和。靠美国芯片发家的英伟达前CEO，公开替北京站台、给华盛顿拆台，这不是通匪叛国是什么？  
-  @dylanzhao · 2026-11-18 21:42
-
-- [老黄，慌啥子嘛，慢慢来。加油老黄！｜黄仁勋《慌啥子嘛》十万人演唱会 本视频由英伟达显卡提供算力支持](<https://x.com/baozheng_studio/status/2123048985028071880>)  
-  @baozheng\_studio · 2026-11-18 21:41
-
-- [¿Quién ganó con la caída de Jensen Huang?](<https://x.com/DannyComunista/status/2123047517659046070>)  
-  @DannyComunista · 2026-11-18 21:35
-
-- [1 week after Nvidia fired Jensen Huang, TSMC suddenly wants cash up front for excess orders.](<https://x.com/superalesha/status/2123047495294947410>)  
-  That's Morris Chang's 30-year drinking buddy out the door, and right on cue TSMC announces that orders above credit limits must be paid in cash, with some customers forced to pay upfront  
-  @superalesha · 2026-11-18 21:35
-
-- [Nvidia stops shipping US-approved AI chips to China](<https://x.com/Reuters/status/2123047355112903099>)  
-  @Reuters · 2026-11-18 21:35
-
-- [JUST IN: Ashton Kutcher’s $435 million stake in Anthropic is now worth roughly $7 billion](<https://x.com/Kalshi/status/2123047321147490479>)  
-  @Kalshi · 2026-11-18 21:35
-
-- [Mother Kafka The New Ceo of Nvidia\! \(more in biio\) \#ZenlessZoneZero \#ゼンゼロ \#ZZZ \#Kafka](<https://x.com/rukajikr/status/2123045476610019805>)  
-  @rukajikr · 2026-11-18 21:27
-
-- [AI HOT Token 羊毛站上线图像与视频生成免费额度监控，并分享渲染层改造提示语](<https://x.com/aiwarts/status/2123044832000036934>)  
-  作者宣布其 Token 羊毛监控站新增图像生成和视频生成两大类，与语言/编程、音频生成并列四类，每条标注可用模型、领取方式、刷新周期和折算价值。图像视频额度存在单位混乱、免费边界模糊、额度变动频繁三个难点，巡查频率从每天两次改为三次。文章还给出全息卡牌、ASCII 字符海洋、CSS 3D 透视三种…  
-  X：卡尔的 AI 沃茨 \(@aiwarts\) · 2026-11-18 21:25
-
-- [英伟达停止向中国出货Hopper芯片 11月18日，彭博社报道，英伟达临时CEO克雷斯宣布，公司已停止向中国出货获批的Ho…](<https://x.com/whyyoutouzhele/status/2123043546110529612>)  
-  Hopper是英伟达的底层AI芯片架构，而H200是其旗舰型号处理器，该架构下还包括H100、H800、H20及GH200等产品。  
-  @whyyoutouzhele · 2026-11-18 21:20
-
-- [BREAKING: Nvidia introduced Alibaba to Alice Huang, helping her land the Chinese tech giant as a customer, per The…](<https://x.com/unusual_whales/status/2123037758138536223>)  
-  Nvidia’s sales team introduced Alibaba to Huang on two occasions in 2022, months before US export controls on advanced chips took effect, according to  
-  @unusual\_whales · 2026-11-18 20:57
-
-- [BREAKING: Nvidia has reportedly been hit by a ransomware attack, with hackers claiming they will leak its data soon.](<https://x.com/BullTheoryio/status/2123037498054209722>)  
-  @BullTheoryio · 2026-11-18 20:55
-
-- [BREAKING: Anthropic AI model flagged civilians and schools as legit military targets in tests](<https://x.com/Kalshi/status/2123034738428354701>)  
-  @Kalshi · 2026-11-18 20:45
-
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 40 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 38 页

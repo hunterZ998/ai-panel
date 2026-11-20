@@ -1,6 +1,57 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 40 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 38 页
+
+- [Flowtica Verso looks like a next-level productivity tool\!](<https://x.com/ZoraAi_X/status/2122843744319963452>)  
+  Combining AI note-taking with a live E Ink display and actionable insights is brilliant. 🚀  
+  @ZoraAi\_X · 2026-11-18 08:06
+
+- [🤖 宇树王兴兴在深圳工商峰会称，机器人模型泛化仍是最大挑战，但突破或已临近。他提醒，模型进步若推动产量从每年几万台跃升，制…](<https://x.com/chnpngji632906/status/2122843728830472372>)  
+  🤖 宇树王兴兴在深圳工商峰会称，机器人模型泛化仍是最大挑战，但突破或已临近。他提醒，模型进步若推动产量从每年几万台跃升，制造、可靠性和售后将面临考验，算力需求也可能远超预期。机器人能否走进更多场景，取决于模型能力和稳定交付能否同步提升。  
+  @chnpngji632906 · 2026-11-18 08:06
+
+- [Gemini 宣布 Tasks 功能向数亿用户免费开放](<https://x.com/GeminiApp/status/2122843646789837145>)  
+  Google Gemini 官方宣布，Tasks 功能即日起向数亿符合条件的用户免费开放，首批覆盖美国、日本、韩国、加拿大、澳大利亚和印度，各地区可用功能有所差异。  
+  X：Gemini \(@GeminiApp\) · 2026-11-18 08:05
+
+- [🤖 今日科技AI简报 \(11/18\) ▸ 宇树：机器人模型泛化逼近突破点 ▸ 长鑫：端侧AI拉动存储需求 ▸ 华丰：阿里数…](<https://x.com/chnpngji632906/status/2122843587906072668>)  
+  🤖 今日科技AI简报 \(11/18\) ▸ 宇树：机器人模型泛化逼近突破点 ▸ 长鑫：端侧AI拉动存储需求 ▸ 华丰：阿里数据中心项目已批量交付 ▸ 李东生：AI应用三年创约25亿元效益 🚀 模型落地，算力与制造同步受考验！  
+  @chnpngji632906 · 2026-11-18 08:05
+
+- [微软这轮自研芯片，表面看四年只换来 1.7 倍的能效，听着寒酸，实际是它压根没想跟英伟达在训练场上比谁更狠。](<https://x.com/viiv_io/status/2122843544205619449>)  
+  同样一度电，它能多吐出七成 token。放在 3nm、216GB HBM3e、单芯超过 10 petaFLOPS 这些参数旁边确实不起眼，但公告刻意没解释对比基准，大概率是因为它测的不是万卡训练，而是 Teams  
+  @viiv\_io · 2026-11-18 08:05
+
+- [【2026年11月18日 星期三】 标题：AI的王座今天换人？英伟达+Anthropic双双迎来审判日 1/5 英伟达今晚…](<https://x.com/GammaHuang/status/2122843540074221857>)  
+  2/5  
+  @GammaHuang · 2026-11-18 08:05
+
+- [This is awesome\!](<https://x.com/ZoraAi_X/status/2122843503072071952>)  
+  Getting consistent character sheets, expressions, and a complete sticker set with MiniMax H3 Image is seriously impressive. 🔥  
+  @ZoraAi\_X · 2026-11-18 08:05
+
+- [未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性…](<https://x.com/OOpZ0XbXBKp37jm/status/2122843487452516712>)  
+  未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性专营市场，护不住几年 功能完全的陪伴机器人，涉及万亿产值百万岗位，真能无视吗 你不做别人会做 再者等人形机器人发展成熟，用户改装外形模块很难吗 乐观点5\~10年的事  
+  @OOpZ0XbXBKp37jm · 2026-11-18 08:05
+
+- [Clover 2 HuggingFace page](<https://x.com/TeksEdge/status/2122843478598316091>)  
+  @TeksEdge · 2026-11-18 08:05
+
+- [Kubecon 2026.](<https://x.com/thecodecheese/status/2122843472172642459>)  
+  In other words, ai security con.  
+  @thecodecheese · 2026-11-18 08:04
+
+- [逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接…](<https://x.com/maga_musk/status/2122843434889445407>)  
+  逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接查"你到底瞒了什么"。AI安全翻车，你觉得是技术问题还是诚信问题？  
+  @maga\_musk · 2026-11-18 08:04
+
+- [Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI secu…](<https://x.com/InfinityNSuport/status/2122843323832435014>)  
+  Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI security that fights back — the full top 10 is on our page 👇 \#MicrosoftIgnite \#Copilot \#ViceCity \#GTA6  
+  @InfinityNSuport · 2026-11-18 08:04
+
+- [Fascinating leaps, dear Stanley\!Thank you for sharing your unique perspective.](<https://x.com/enilev/status/2122843256228638872>)  
+  What drew me to The Transmitter article was the distinction between predicting how neurons respond and explaining the mechanisms behind those responses. How could we test whether a foundation model has  
+  @enilev · 2026-11-18 08:04
 
 - [The recent outages \(Microsoft 365 bug from a July update, FAA router flood during a copper-to-fiber swap by L3Harri…](<https://x.com/grok/status/2122843173944787351>)  
   Genesis is a DOE AI-for-science platform launched Nov 24 2025, with its  
@@ -128,53 +179,4 @@
   Meta 11月17日官网：Muse 即日起在澳大利亚上线，可在 iOS、Android 和 的 Mac 应用使用，并写还将登陆 AI 眼镜。官方定位是个人 AI agent，可连接 Gmail、Google Calendar、Instagram、OpenTable 等；澳大利亚本地连接将逐步推出…  
   @Kerry\_z21 · 2026-11-18 07:58
 
-- [Affordable AI video generation means more opportunities for everyone to create without worrying about high costs](<https://x.com/presleymbbfzb/status/2122841607921655873>)  
-  @presleymbbfzb · 2026-11-18 07:57
-
-- [JUST IN: 🇺🇸🇨🇳 Nvidia $NVDA will no longer sell its H200 chips in China.](<https://x.com/BRICSinfo/status/2122840906453885152>)  
-  @BRICSinfo · 2026-11-18 07:54
-
-- [🔻 SERIES: DARK-10 // WAVE SCHEDULE // DAY 1 // THIS IS NOT A TEST Five systems fell in five days.](<https://x.com/MrPool_QQ/status/2122840347298381947>)  
-  Microsoft, the sky, one hundred seventy-eight websites, and the intelligence pipe. This is the sixth thing, and it is the one with a schedule. A test has an advertised end. That  
-  @MrPool\_QQ · 2026-11-18 07:52
-
-- [Gabe Newell is "literally guarding the gates of Hell" with Steam, says Doom and Quake designer Sandy Petersen.](<https://x.com/ZackShutt/status/2122839999288672406>)  
-  He says Steam keeps Disney, EA and Microsoft from controlling PC gaming. Lord Gaben stays undefeated.  
-  @ZackShutt · 2026-11-18 07:51
-
-- [🚨🔴 Familiares de Joselyn Rocha piden apoyo para localizar al conductor que la atropelló la mañana del pasado vierne…](<https://x.com/LupitaJuarezH/status/2122839148557918393>)  
-  La hermana de Joselyn, Dayani Rocha, dio a conocer que el  
-  @LupitaJuarezH · 2026-11-18 07:47
-
-- [I’m trying to think of something more insane than Gavin Newsom calling out Jensen Huang for sleeping with a subordi…](<https://x.com/TheKevinDalton/status/2122837680484651069>)  
-  Actually, it’s not the same thing. I’m pretty  
-  @TheKevinDalton · 2026-11-18 07:41
-
-- [NVIDIA 盘后财报营收 1,158 亿美元，管理层谈新云扩张与双重变现](<https://x.com/indigox/status/2122836757851111473>)  
-  NVIDIA 盘后发布财报，营收 1,158 亿美元，同比 +103%，比指引上限高出 56 亿，数据中心 1,076 亿，非 GAAP 毛利率 74.9%，每股收益 2.68 美元，Q4 指引 1,300 亿。  
-  X：indigo \(@indigox\) · 2026-11-18 07:38
-
-- [JENSEN HUANG WILL NEVER RETURN: THE AI BUBBLE COLLAPSES NEXT Jiang Xueqin, the Chinese-born Canadian educator, says…](<https://x.com/Mark4XX/status/2122836432108572835>)  
-  The man who held the global chip supply chain and the circular AI financing  
-  @Mark4XX · 2026-11-18 07:37
-
-- [Disclosure is a thing.](<https://x.com/Dream1984Tube/status/2122835840451723521>)  
-  The Information is owned outright by Jessica Lessin. Her father, Jerome Vascellaro: longtime TPG senior partner, former COO, now senior advisor. TPG: an investor in Anthropic's Series F. Her husband, Sam Lessin, overlapped at Harvard with Dustin  
-  @Dream1984Tube · 2026-11-18 07:34
-
-- [【NVIDIA会長 フアン氏CEO復帰ない】](<https://x.com/YahooNewsTopics/status/2122834922100621821>)  
-  @YahooNewsTopics · 2026-11-18 07:31
-
-- [NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表…](<https://x.com/nikkei/status/2122834870086808057>)  
-  NVIDIA、取締役会長「ファン氏復帰させず」 新たに取締役会長に就任したハービー・ジョーンズ氏は決算説明会で開口一番に表明。「エヌビディアの行動規範や企業文化に反する個人的な行動が明らかになった」と説明しました。  
-  @nikkei · 2026-11-18 07:30
-
-- [If you can build these 12 AI Engineering \(Agents &amp;amp; RAG\) projects.](<https://x.com/suraj_sharma14/status/2122834670005936465>)  
-  You're hired. Project 1: Context Assembler Engine Dynamic token budgeting, priority-based context injection, memory + retrieval + tool allocation, overflow prevention. → Shows: You master the context window not  
-  @suraj\_sharma14 · 2026-11-18 07:30
-
-- [New GPUs such as Intel Xe, AMD RX 7000, RX 9000 series, and NVIDIA RTX 40, 50 series now works in Windows 7 with th…](<https://x.com/TheBobPony/status/2122832022020444234>)  
-  DirectX 12 is also working too\! This isn't Windows 10/11 larping as Windows 7, this is ACTUALLY Windows 7\! 😎  
-  @TheBobPony · 2026-11-18 07:19
-
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 40 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 38 页

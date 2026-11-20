@@ -1,6 +1,58 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 40 页
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 38 页
+
+- [President Trump has a warning for anyone considering an attack on America’s digital infrastructure.](<https://x.com/FoxNews/status/2123491228012404935>)  
+  During his visit to China, Trump addressed recent outages affecting the FAA, major banks, and Microsoft, saying the incidents are unrelated. He warns that any foreign actor found  
+  @FoxNews · 2026-11-20 02:58
+
+- [The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the 'appare…](<https://x.com/unusual_whales/status/2123490742362653163>)  
+  The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the 'apparent ​infiltration of banks by rogue AI agents,’ per Reuters  
+  @unusual\_whales · 2026-11-20 02:57
+
+- [🚨 Something is seriously wrong with Anthropic's valuation and its massive AI spending.](<https://x.com/BullTheoryio/status/2123489741714907474>)  
+  Anthropic has committed over $1 TRILLION to AI computing and infrastructure over the coming years. To earn a 20% annual return on that investment, it would need $200 BILLION in profit after  
+  @BullTheoryio · 2026-11-20 02:53
+
+- [WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft…](<https://x.com/gatewaypundit/status/2123488068199989755>)  
+  WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft, Apple and Top Corporations in World, But You’re Not Worried the Midterm Election Was Rigged &amp;amp; Stolen…You’re a Clueless Moron  
+  @gatewaypundit · 2026-11-20 02:46
+
+- [Nvidia users say the last two GeForce drivers are writing gigabytes to your SSD while the PC just sits idle.](<https://x.com/ZackShutt/status/2123486326859145445>)  
+  Check yours: Win+R, resmon, Disk tab, sort by Write. If NVDisplay.Container.exe is hammering a log file, you have it. Works: rolling back to 621.01. Doesn't: telemetry  
+  @ZackShutt · 2026-11-20 02:39
+
+- [Dario Amodei 谈 SpaceX 提供的算力](<https://x.com/rohanpaul_ai/status/2123483690106073585>)  
+  Dario Amodei 谈 SpaceX 提供的算力。 “我们发现这些算力质量很高。我们很享受与 SpaceX 的合作。”  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 02:28
+
+- [If you weren't following the news today, a bunch of Anthropic employees became filthy rich thanks to stealing and r…](<https://x.com/Rahll/status/2123483520613953707>)  
+  The American dream.  
+  @Rahll · 2026-11-20 02:28
+
+- [si vous avez passé une journée de merde aujourd’hui, dites-vous qu’il fallait bien un grand malheureux derrière cet…](<https://x.com/BetterCallMedhi/status/2123483356298141972>)  
+  si vous avez passé une journée de merde aujourd’hui, dites-vous qu’il fallait bien un grand malheureux derrière cette IPO historique d’anthropic à 2000 milliards de dollars et ce gars s’appelle Sam Bankman-fried sachez qu’en avril 2022, le fondateur de FTX ava…  
+  @BetterCallMedhi · 2026-11-20 02:27
+
+- [BREAKING: Over 200,000 people have signed petition to bring Jensen Huang back as Nvidia CEO, including: - 106,269 s…](<https://x.com/Kalshi/status/2123482689462239537>)  
+  BREAKING: Over 200,000 people have signed petition to bring Jensen Huang back as Nvidia CEO, including: - 106,269 shareholders - 85,180 supporters - 10,224 current employees - 1,819 former employees  
+  @Kalshi · 2026-11-20 02:25
+
+- [I've known Jensen since the early 1990's and the days of Riva 128 and Unreal Engine 1 and have witnessed his solid,…](<https://x.com/TimSweeneyEpic/status/2123481433477910774>)  
+  He's a generationally excellent tech leader and the best person to lead NVIDIA. Save Jensen.  
+  @TimSweeneyEpic · 2026-11-20 02:20
+
+- [fal 开放可灵 v4 视频生成入口](<https://x.com/fal/status/2123481125553107356>)  
+  fal 平台上线可灵 v4 模型，提供文生视频、图生视频、参考生成视频和视频编辑四种模式的入口链接，读者可直接在 fal.ai 试用。  
+  X：fal \(@fal\) · 2026-11-20 02:18
+
+- [可灵（Kling 4.0）在 fal 平台支持原生 4K 视频生成](<https://x.com/fal/status/2123481122638045551>)  
+  fal 宣布可灵（Kling 4.0）现可在其平台生成原生 4K 视频，支持从文本、图片或参考素材生成，也可对现有视频做 4K 编辑。4K 和 1080p 两种分辨率均提供可选的 10-bit HDR 输出。  
+  X：fal \(@fal\) · 2026-11-20 02:18
+
+- [Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍…](<https://x.com/AravSrinivas/status/2123480966459174920>)  
+  Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-20 02:18
 
 - [Ahora que soy accionista de Anthropic \(tengo 2 acciones\) espero que Claude me hable con un poco más de respeto cuan…](<https://x.com/alvarombt/status/2123480676083114381>)  
   Ahora que soy accionista de Anthropic \(tengo 2 acciones\) espero que Claude me hable con un poco más de respeto cuando me diga que he llegado al límite  
@@ -124,52 +176,4 @@
   SBF gets 25 years. 2024: The FTX estate sells the stake for about $1.34B. 2025: US  
   @Cointelegraph · 2026-11-20 01:15
 
-- [BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 I…](<https://x.com/KobeissiLetter/status/2123465131501736418>)  
-  This officially pushes the company's fully diluted valuation above $2 trillion, making it the 6th most valuable publicly traded company in the world on  
-  @KobeissiLetter · 2026-11-20 01:15
-
-- [indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟](<https://x.com/indigox/status/2123464879961186584>)  
-  indigo 转发 @YahooFinance 的画面，Dario Amodei 在 Nasdaq 为 Anthropic IPO 敲响开市钟。作者恭喜这家最"人类"的科技公司上市，并调侃其敲钟鼓掌的样子怎么像是 AI 生成的。  
-  X：indigo \(@indigox\) · 2026-11-20 01:14
-
-- [Los reporteros chinos ya no usan las cámaras tradicionales, ahora usan teléfonos Huawei con lentes.](<https://x.com/SantyRuize/status/2123464180904665490>)  
-  @SantyRuize · 2026-11-20 01:11
-
-- [Wow.](<https://x.com/TheStalwart/status/2123463178898346431>)  
-  Anthropic ran into a brick wall  
-  @TheStalwart · 2026-11-20 01:07
-
-- [BREAKING: The S&amp;amp;P 500 falls over -230 points from its high of the day as the Anthropic, $ANT, IPO debuts and te…](<https://x.com/KobeissiLetter/status/2123462999839302085>)  
-  The S&amp;amp;P 500 is now trading below 7200 for the first time since May 5th.  
-  @KobeissiLetter · 2026-11-20 01:06
-
-- [Anthropic CEO Dario Amodei 就公司 IPO 发表声明](<https://x.com/AnthropicAI/status/2123461658890686863>)  
-  Anthropic CEO Dario Amodei 就公司 IPO 发表声明，称今天让公司财务地位更稳固，并强调不会向商业或政治压力低头，将放慢 AI 训练与部署节奏以确保安全和人类可控。声明以生物学背景和 Claude 在科研中的应用为例阐述使命，同时承认滥用、经济冲击和失控等风险，倡导行业「…  
-  X：Anthropic \(@AnthropicAI\) · 2026-11-20 01:01
-
-- [BREAKING: Anthropic is now worth more than the entire economy of Saudi Arabia](<https://x.com/Kalshi/status/2123461305856033014>)  
-  @Kalshi · 2026-11-20 01:00
-
-- [This is the CEO of Anthropic.](<https://x.com/RedPillMediaX/status/2123460978545447308>)  
-  The physiognomy tells you everything you need to know.  
-  @RedPillMediaX · 2026-11-20 00:58
-
-- [Anthropic アンソロピック 𝑩𝑰𝑮 𝑳𝑶𝑽𝑬\_\_\_\_\_\_。](<https://x.com/Kswbrmst/status/2123459486870597817>)  
-  @Kswbrmst · 2026-11-20 00:52
-
-- [BREAKING: Average Anthropic employee will be worth $44,000,000.00 as IPO surpasses $2,000,000,000,000.00 valuation…](<https://x.com/Kalshi/status/2123459456897867853>)  
-  BREAKING: Average Anthropic employee will be worth $44,000,000.00 as IPO surpasses $2,000,000,000,000.00 valuation Less than 14% chance Claude is best AI this year  
-  @Kalshi · 2026-11-20 00:52
-
-- [Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%](<https://x.com/KateClarkTweets/status/2123459198390243417>)  
-  Anthropic 股票上市首日以每股 111.50 美元开盘，较每股 83 美元的 IPO 发行价上涨约 34%。  
-  X：Kate Clark \(@KateClarkTweets\) · 2026-11-20 00:51
-
-- [BREAKING: Claude AI developer Anthropic $ANT officially begins trading at $1.5 trillion market cap following IPO.](<https://x.com/WatcherGuru/status/2123459115431453106>)  
-  @WatcherGuru · 2026-11-20 00:51
-
-- [BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 I…](<https://x.com/KobeissiLetter/status/2123459099505594451>)  
-  This officially pushes the company's market cap above $2 trillion, making it the 6th most valuable public company in the world.  
-  @KobeissiLetter · 2026-11-20 00:51
-
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 40 页
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 38 页

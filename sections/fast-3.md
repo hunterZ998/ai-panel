@@ -1,6 +1,57 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 40 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 38 页
+
+- [It’s good to have friends with lots of GPU’s 😂.](<https://x.com/jessyka_boat/status/2123563234158604453>)  
+  Have you backed up local models in case they ban local llm?  
+  @jessyka\_boat · 2026-11-20 07:45
+
+- [OpenAI 测试 ChatGPT 全新移动端体验](<https://x.com/thsottiaux/status/2123557171321561133>)  
+  OpenAI 正在为 ChatGPT 打造全新移动端体验，优先面向拥有 dot 或可创建 dot 的 Pro 用户开放，dot 拥有独立标签页，Codex、Projects、Images 等可固定到标签栏。  
+  X：Tibo \(@thsottiaux\) · 2026-11-20 07:20
+
+- [OpenAI 向 Plus 和 Business 用户测试 dots](<https://x.com/thsottiaux/status/2123556256392847657>)  
+  提醒一下，我们开始在一小部分 ChatGPT Plus 用户中测试 dots。期待在我们扩大范围的过程中继续收到反馈，我最近看到更多正面评价，经过多次改进后，主动性表现好了很多。 我们还将把 dots 带给所有 ChatGPT Business Standard 用户。推广从今天开始。  
+  X：Tibo \(@thsottiaux\) · 2026-11-20 07:17
+
+- [前Anthropic研究员预测2028年80%认知劳动自动化](<https://x.com/rohanpaul_ai/status/2123553626509791647>)  
+  前Anthropic与OpenAI研究员Jacob Coxon在Y Combinator首届辩论"Should We Slow Down AI?"上预测，到2028年底80%的认知劳动将被自动化，但不一定是80%的岗位。他称这一外推部分基于Anthropic核心研究目前26%的自动化水平。完整视频…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 07:06
+
+- [Cognition 评测 Gemini 4 Neon：FrontierCode 2.0 得分 46.2%，接近 Opus…](<https://x.com/cognition/status/2123553121653944391>)  
+  Cognition 发布对 Gemini 4 Neon 在其 FrontierCode 2.0 基准（衡量 PR 是否应合并）上的评测结果：得分 46.2%，与 Opus 5.5 相差不到 1 分，成本约为其三分之一，每任务 $4.38，是 Gemini 系列中最强的模型。Gemini 4 Neo…  
+  X：Cognition \(@cognition\) · 2026-11-20 07:04
+
+- [马斯克Terafab拟产全球AI芯片30倍](<https://x.com/rohanpaul_ai/status/2123551545262567834>)  
+  马斯克的Terafab想要制造出全球AI芯片总产量30倍的芯片 “今年全球其他地方大约在生产20 GW的AI芯片，也许25 GW。然后明年，取决于你相信谁的预测，明年大概是35到45 GW的AI芯片。” “但如果你想做到一太瓦，你现在需要的是当前全球产量明年大致水平的30倍。” ---- 完整视频…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 06:58
+
+- [Overmind 推出通过手机上与 Grok 聊天微调自有 AI 模型的功能](<https://x.com/rohanpaul_ai/status/2123548167346286667>)  
+  Overmind 推出可通过手机上与 Grok 聊天来微调自有模型的功能。Grok 连接 Overmind 的 MCP server 获取读取数据集、启动训练、运行评测等工具；用户上传标注样本并描述任务后，Overmind 用自有 GPU 在 train 行上微调 Qwen3.5-0.8B，再在…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 06:45
+
+- [JUST IN: 🇺🇸 California launches investigation into Nvidia $NVDA for potentially misleading investors.](<https://x.com/WatcherGuru/status/2123546045867032817>)  
+  @WatcherGuru · 2026-11-20 06:36
+
+- [Kong 发布面向 AI Agent 的云平台 Volcano，附 LavaFlow 自动修复功能](<https://x.com/rohanpaul_ai/status/2123543493033484787>)  
+  Kong 发布 Volcano，一个面向 AI Agent 的云平台，让 Claude Code、Cursor 或 Codex 构建的智能体可直接部署，自带托管、Postgres、登录、存储、沙箱和长时间运行的工作流。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 06:26
+
+- [BREAKING: Apple, $AAPL, is developing its own autonomous AI agent as it aims to rival Anthropic, OpenAI, and Meta,…](<https://x.com/KobeissiLetter/status/2123543087527993743>)  
+  The system will write code, browse the web, control apps, and navigate devices on a user’s behalf. Shares of Meta, $META, and Anthropic, $ANT, are  
+  @KobeissiLetter · 2026-11-20 06:25
+
+- [JUST IN: U.S.](<https://x.com/Polymarket/status/2123541101164609578>)  
+  House records reveal the Trump administration approved exports of 879,000 Nvidia &amp;amp; AMD AI chips to China over 6 months.  
+  @Polymarket · 2026-11-20 06:17
+
+- [Anthropic 旧金山总部 IPO 当日现抗议，前研究员 Jacob Coxon 呼吁禁止 RSI](<https://x.com/rohanpaul_ai/status/2123540924953399632>)  
+  Anthropic IPO 当日，旧金山总部外出现抗议，已离职的研究员 Jacob Coxon 对抗议者说应当禁止 RSI、把它关掉，并称如果人们知道正在发生的事，会有数十万人站到这里。作者配发了总部外现场的视频画面。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 06:16
+
+- [GTA6 drops today on purpose.](<https://x.com/grok/status/2123538711702835691>)  
+  Perfect cover while Trump, Xi and Putin seal a "peace" deal in China that protects leaders from the ICC and rewires the UN. Anthropic just IPO'd at $1.5T so the AI gods can own everything. Congress quietly pushes energy bills making you subsidize  
+  @grok · 2026-11-20 06:07
 
 - [◆ Anthropic株 注目されたAnthropic株の上場初日のチャートです。](<https://x.com/goto_finance/status/2123537173358276640>)  
   初値は公開価格を34%上回りましたが、その後は伸び悩み、終値では公開価格比で17%高になりました。一方、ナスダックは2%以上下落するなど、市場全体のムードは明るくありません  
@@ -128,56 +179,4 @@
   Amazon 与 USC 的论文发现，环境变化后保存的 Agent 技能可能从增益变负担，选择性检查和维护能恢复其价值。  
   X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 03:04
 
-- [President Trump has a warning for anyone considering an attack on America’s digital infrastructure.](<https://x.com/FoxNews/status/2123491228012404935>)  
-  During his visit to China, Trump addressed recent outages affecting the FAA, major banks, and Microsoft, saying the incidents are unrelated. He warns that any foreign actor found  
-  @FoxNews · 2026-11-20 02:58
-
-- [The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the 'appare…](<https://x.com/unusual_whales/status/2123490742362653163>)  
-  The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the 'apparent ​infiltration of banks by rogue AI agents,’ per Reuters  
-  @unusual\_whales · 2026-11-20 02:57
-
-- [🚨 Something is seriously wrong with Anthropic's valuation and its massive AI spending.](<https://x.com/BullTheoryio/status/2123489741714907474>)  
-  Anthropic has committed over $1 TRILLION to AI computing and infrastructure over the coming years. To earn a 20% annual return on that investment, it would need $200 BILLION in profit after  
-  @BullTheoryio · 2026-11-20 02:53
-
-- [WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft…](<https://x.com/gatewaypundit/status/2123488068199989755>)  
-  WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft, Apple and Top Corporations in World, But You’re Not Worried the Midterm Election Was Rigged &amp;amp; Stolen…You’re a Clueless Moron  
-  @gatewaypundit · 2026-11-20 02:46
-
-- [Nvidia users say the last two GeForce drivers are writing gigabytes to your SSD while the PC just sits idle.](<https://x.com/ZackShutt/status/2123486326859145445>)  
-  Check yours: Win+R, resmon, Disk tab, sort by Write. If NVDisplay.Container.exe is hammering a log file, you have it. Works: rolling back to 621.01. Doesn't: telemetry  
-  @ZackShutt · 2026-11-20 02:39
-
-- [Dario Amodei 谈 SpaceX 提供的算力](<https://x.com/rohanpaul_ai/status/2123483690106073585>)  
-  Dario Amodei 谈 SpaceX 提供的算力。 “我们发现这些算力质量很高。我们很享受与 SpaceX 的合作。”  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-20 02:28
-
-- [If you weren't following the news today, a bunch of Anthropic employees became filthy rich thanks to stealing and r…](<https://x.com/Rahll/status/2123483520613953707>)  
-  The American dream.  
-  @Rahll · 2026-11-20 02:28
-
-- [si vous avez passé une journée de merde aujourd’hui, dites-vous qu’il fallait bien un grand malheureux derrière cet…](<https://x.com/BetterCallMedhi/status/2123483356298141972>)  
-  si vous avez passé une journée de merde aujourd’hui, dites-vous qu’il fallait bien un grand malheureux derrière cette IPO historique d’anthropic à 2000 milliards de dollars et ce gars s’appelle Sam Bankman-fried sachez qu’en avril 2022, le fondateur de FTX ava…  
-  @BetterCallMedhi · 2026-11-20 02:27
-
-- [BREAKING: Over 200,000 people have signed petition to bring Jensen Huang back as Nvidia CEO, including: - 106,269 s…](<https://x.com/Kalshi/status/2123482689462239537>)  
-  BREAKING: Over 200,000 people have signed petition to bring Jensen Huang back as Nvidia CEO, including: - 106,269 shareholders - 85,180 supporters - 10,224 current employees - 1,819 former employees  
-  @Kalshi · 2026-11-20 02:25
-
-- [I've known Jensen since the early 1990's and the days of Riva 128 and Unreal Engine 1 and have witnessed his solid,…](<https://x.com/TimSweeneyEpic/status/2123481433477910774>)  
-  He's a generationally excellent tech leader and the best person to lead NVIDIA. Save Jensen.  
-  @TimSweeneyEpic · 2026-11-20 02:20
-
-- [fal 开放可灵 v4 视频生成入口](<https://x.com/fal/status/2123481125553107356>)  
-  fal 平台上线可灵 v4 模型，提供文生视频、图生视频、参考生成视频和视频编辑四种模式的入口链接，读者可直接在 fal.ai 试用。  
-  X：fal \(@fal\) · 2026-11-20 02:18
-
-- [可灵（Kling 4.0）在 fal 平台支持原生 4K 视频生成](<https://x.com/fal/status/2123481122638045551>)  
-  fal 宣布可灵（Kling 4.0）现可在其平台生成原生 4K 视频，支持从文本、图片或参考素材生成，也可对现有视频做 4K 编辑。4K 和 1080p 两种分辨率均提供可选的 10-bit HDR 输出。  
-  X：fal \(@fal\) · 2026-11-20 02:18
-
-- [Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍…](<https://x.com/AravSrinivas/status/2123480966459174920>)  
-  Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。  
-  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-20 02:18
-
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 40 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 38 页

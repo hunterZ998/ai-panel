@@ -2,32 +2,87 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 6 页
 
+- [Anthropic IPO 开盘半小时下跌 13%，为 2008 年以来大型 IPO 最差开局](<https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics>)  
+  Gary Marcus 认为 Anthropic 的 IPO 看起来救不了低迷的科技行业。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-20 04:36
+
+- [Anthropic IPO 定价超出区间，开盘大涨 30%，市值一度达 2 万亿美元](<https://www.newcomer.co/p/anthropic-broke-all-the-startup-rules>)  
+  Anthropic 完成 IPO，发行价超出区间且上调发行规模，开盘大涨 30%，市值一度达 2 万亿美元。文章称这是有史以来规模最大的 IPO（含私募配售），大幅超过 SpaceX，并指出此次上市还有多处罕见之处。  
+  Newcomer 新闻长文（RSS） · 2026-11-20 03:36
+
+- [Anthropic’s IPO could deliver $156B to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
+  At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
+  TechCrunch · 2026-11-20 03:10
+
+- [2026 年 13 款 Agent Gateway 评测：Kong、Bifrost、AgentCore、Arcade 等横评 MCP 与 A2A 支持](<https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/>)  
+  文章按流量覆盖、身份授权、部署、成熟度和价格透明度五项标准，横评 13 款 agent gateway。  
+  MarkTechPost（RSS） · 2026-11-20 02:13
+
+- [Perplexity 发布 Orchestrator API，支持跨供应商故障转移与模型路由](<https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/>)  
+  Perplexity 发布 Orchestrator API，一个端点聚合 OpenAI、Anthropic、Google、xAI 及 GLM、Kimi、DeepSeek 等开源权重模型，内部已在 85+ 模型和十余家供应商上运行同一层。  
+  MarkTechPost（RSS） · 2026-11-20 01:47
+
+- [芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击](<https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/>)  
+  美国商务部收紧AI芯片出口管制并关闭第三方国家云算力通道后，亚洲多笔大型AI数据中心交易开始瓦解。Moonshot AI取消了与印尼云服务商的1.5亿美元合同，原计划租用Nvidia Blackwell Ultra B300集群训练Kimi K4，此前已预付约50%而非行业标准的15%。台积电和三星暂停向中国客户交付部分处理器，需申请许可；字节跳动、百度昆仑等客户受影响，非AI芯片豁免取消也波及小米、Oppo、vivo等智能手机处理器。  
+  The Decoder：AI News（RSS） · 2026-11-20 01:02
+
+- [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](<https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>)  
+  Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.  
+  TechCrunch · 2026-11-20 00:59
+
+- [Anthropic 登陆纳斯达克，首日以 $111.50 开盘](<https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq>)  
+  Anthropic 正式在纳斯达克上市，代码 ANT，以 $111.50 开盘，高于 $83 的发行价，对应估值约 $1.5 万亿。其 S-1 文件披露上半年净亏损 $80.7 亿（主要来自不影响业务的会计费用）、营收 $16.3B，并保留创始人而非股东控制公司的治理结构；CEO Dario Amodei 表示将按需放缓 AI 训练与部署以确保安全，不屈服于商业或政治压力。  
+  The Verge：AI（RSS） · 2026-11-20 00:52
+
+- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
+  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
+  Menlo Ventures · 2026-11-20 00:50
+
+- [Anthropic IPO 融资 810 亿美元后，八个思考看后续挑战](<https://www.bigtechnology.com/p/eight-thoughts-on-anthropics-ipo>)  
+  Alex Kantrowitz 在 Anthropic IPO 当天提出八点观察。Anthropic 此次发行 9.8 亿股、每股 83 美元，融资 810 亿美元，股价即将站上 100 美元，估值接近 2 万亿美元，成为史上最大 IPO。  
+  Big Technology（热点 RSS） · 2026-11-20 00:48
+
+- [Will Anthropic’s IPO Lead To An Exodus of Anthropic Employees?](<https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees>)  
+  The Information · 2026-11-19 23:01
+
+- [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
+  Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
+  TechCrunch · 2026-11-19 22:54
+
+- [谷歌与蓝色起源合作，计划 2029 年一季度发射搭载 TPU 的 AI 服务器卫星](<https://www.ithome.com/1/029/695.htm>)  
+  谷歌与蓝色起源（Blue Origin）达成合作，其新格伦火箭将于 2029 年第一季度发射搭载谷歌 TPU 的卫星，算力大致相当于一个数据中心机架。该合作属于谷歌“太阳捕手计划”，旨在探索太空 AI 数据中心的可能性。今年 10 月谷歌已部署首颗 AI 服务器卫星并成功启动 TPU，卫星上运行的 Gemma 4 模型生成了一段俳句并传回地球。  
+  IT之家·人工智能 · 2026-11-19 22:26
+
+- [Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视](<https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure>)  
+  The Verge 报道 Anthropic 完成 IPO，募资 813 亿美元，超过 SpaceX 成为史上估值最高的上市，完全稀释市值约 1.5 万亿美元。  
+  The Verge：AI（RSS） · 2026-11-19 22:25
+
+- [Anthropic IPO 定价每股 83 美元募资 813 亿美元，超越 SpaceX 纪录](<https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/>)  
+  Anthropic IPO 定价每股 83 美元，高于 70 至 78 美元目标区间，募资 813 亿美元，超过 SpaceX 6 月创下的 750 亿美元纪录，股票周四以代码 ANT 在纳斯达克交易。  
+  The Decoder：AI News（RSS） · 2026-11-19 22:02
+
 - [Anthropic Is Pushing New Products, and Big Discounts, to Justify Its Huge Valuation](<https://www.theinformation.com/articles/anthropic-pushing-new-products-big-discounts-justify-huge-valuation>)  
   The Information · 2026-11-19 22:00
+
+- [阿里巴巴 CEO 吴泳铭称 2027、2028 年将是中国算力最紧缺的两年](<https://www.ithome.com/1/029/682.htm>)  
+  阿里巴巴集团 CEO 吴泳铭在 2027 财年第二季度财报分析师电话会上表示，2027 年和 2028 年将是中国算力最紧缺的两年。2027 年以后阿里云的芯片供给将以国产平头哥芯片为主，旗舰芯片优先满足大模型训练，推理层面会采购更多不同的芯片、包括其他品牌国产芯片。他还表示千问已在平头哥芯片上训练下一代模型，百炼已基于国产芯片提供模型推理服务。  
+  IT之家·人工智能 · 2026-11-19 21:22
 
 - [宁德时代投资DeepSeek：电池帝国的隐秘扩张](<https://36kr.com/p/4076530370368641?f=rss>)  
   1000亿，中国AI融资的天花板，终于落地了。 11月19日，DeepSeek运营主体杭州深度求索完成工商变更，31家出资方正式进入股东名册。就在四个月前，DeepSeek刚完成510亿元融资。 两轮融资的投资人名单，不乏腾讯、京东和网易等  
   36氪 · 2026-11-19 21:02
 
-- [阿里巴巴 CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务](<https://www.ithome.com/1/029/676.htm>)  
-  IT之家 11 月 19 日消息，据财联社今日报道，在 2027 财年第二季度财报分析师电话会上，阿里巴巴集团 CEO 吴泳铭表示， 千问已经在平头哥芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务 。 吴泳铭强调， 阿里的…  
-  IT之家 · 2026-11-19 20:58
+- [阿里 CEO 吴泳铭称千问已在平头哥芯片上训练下一代模型，百炼基于国产芯片提供推理服务](<https://www.ithome.com/1/029/676.htm>)  
+  据财联社报道，阿里巴巴 CEO 吴泳铭在 2027 财年第二季度财报电话会上表示，千问已在平头哥芯片上训练下一代模型，百炼已基于国产芯片提供模型推理服务，并称自研芯片与模型协同将带来更优单位算力成本。同期 Qwen4-Max 预览版已上线阿里 Token Plan，平头哥于 2026 年 9 月以保密形式向港交所递交 H 股上市申请。  
+  IT之家·人工智能 · 2026-11-19 20:58
 
 - [超39万亿元的公募基金，三季度经历了一次压力测试](<https://36kr.com/p/4076619559441288?f=rss>)  
   随着公募基金2026年三季报披露完毕，行业前三季度的运行轮廓也清晰地展现出来。 收益方面，前三季度公募基金的业绩呈现明显的“前高后低”特征。2026年上半年，在AI算力、半导体、光模块等热门概念的带动下，相关科技成长板块大涨，主动权益产品一  
   36氪 · 2026-11-19 20:32
 
-- [DeepSeek千亿融资落停：完美横店华策是怎么挤进去的](<https://36kr.com/p/4076543534158985?f=rss>)  
-  11月17日，杭州深度求索（DeepSeek）完成工商变更，企查查显示，其新增股东杭州程砚企业管理咨询合伙企业，第二轮融资终于在工商层面落地。 娱乐资本论根据公开报道口径发现：本轮募集约1055亿元（158亿美元），投后估值约6155亿元（  
-  36氪 · 2026-11-19 20:21
-
 - [O'Reilly 撰文解析 AI 递归自我改进的四级方法与现实风险](<https://www.oreilly.com/radar/who-builds-the-next-model/>)  
   O'Reilly 发文分析 AI 正在参与构建下一代 AI 的递归自我改进趋势，给出四级框架：改进答案（Reflexion 将 GPT-4 编码测试成绩从 80% 提到 91%）、改写提示词（OPRO）、积累工具箱（Voyager）和修改自身（Darwin Godel Machine 将编码测试从 20% 提到 50%。  
   O'Reilly Radar（热点 RSS） · 2026-11-19 19:45
-
-- [千亿融资落地，梁文锋隔离个人份额，31家机构入局DeepSeek](<https://36kr.com/p/4076523051422852?f=rss>)  
-  今日，据企查查披露的工商信息， DeepSeek关联企业 杭州程砚企业管理咨询合伙企业（有限合伙）（以下简称“杭州程砚”）发生工商变更， 新增上海珩岫、中移投资等31家合伙人 ，企业 登记出资额由0.6万元增至约34.39亿元 。 结合此前  
-  36氪 · 2026-11-19 19:20
 
 - [Google DeepMind 发布 Gemini 4 Neon，速度更快价格更低并超越 Carbon](<https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/>)  
   Google DeepMind 发布 Gemini 4 Neon，这是其七周内的第四款模型，定位介于 Carbon 和 Hydrogen 之间，在 Artificial Analysis Intelligence Index 以 61 分位列第三，仅次于 GPT-6.2 Astra 和 Claude Fable 5.2。  
@@ -37,21 +92,9 @@
   马斯克称 SpaceX 目前每月约新增 0.5GW AI 算力，大致相当于部署 22 万颗 GB300 芯片及配套 CPU、网络设备、冷却系统等基础设施。他认为真正的扩张瓶颈在发电端，明年将进一步提速，到明年底每月新增 AI 算力超 1GW。  
   IT之家·人工智能 · 2026-11-19 19:17
 
-- [OpenAI印证了梁文锋的“预言”](<https://36kr.com/p/4076518957979271?f=rss>)  
-  GPT-6.2 Astra在真实机械臂测试中登顶，通用大模型直驱机器人的能力又进了一步。 据独立评测机构Artificial Analysis发布的AA-Robotics v0.1榜单，GPT-6.2 Astra得分79，完成8项物理任务中  
-  36氪 · 2026-11-19 19:14
-
 - [蚂蚁 inclusionAI 发布 DeepSeek-V4.1-Flash-1017-singprobe 流式安全探针](<https://huggingface.co/inclusionAI/DeepSeek-V4.1-Flash-1017-singprobe>)  
   蚂蚁 inclusionAI 在 HuggingFace 发布 SingProbe 流式护栏 DeepSeek-V4.1-Flash-1017-singprobe，探针仅 10.10M 参数，读取基座模型第 12、25、39 层隐藏状态，逐 token 输出 8 类查询意图、响应不安全和幻觉风险评分。  
   蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-19 19:02
-
-- [国产GPU，风浪越大鱼越贵](<https://www.tmtpost.com/8210657.html>)  
-  黄仁勋卸任英伟达CEO，全球AI算力格局发生转变，中国AI产业面临供给风险挑战。  
-  钛媒体 · 2026-11-19 18:58
-
-- [AI需要一个“通话键”](<https://36kr.com/p/4076277944488835?f=rss>)  
-  2026年的AI行业，正卡在一个反直觉的尴尬期。 一面是当前的AI需求在一路疯涨。据OpenRouter数据，其平台调度的Token处理量在20个月内增长了约250倍，达到128.4万亿枚；算力租赁市场也随之水涨船高，H200的租赁价格年内  
-  36氪 · 2026-11-19 18:43
 
 - [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
   元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
@@ -92,18 +135,6 @@
 - [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
   无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
   IT桔子 · 2026-11-19 11:15
-
-- [Gemini 4 Neon](<https://www.producthunt.com/products/gemini-6>)  
-  Frontier reasoning with faster task completion  
-  Product Hunt · English · 2026-11-19 10:32
-
-- [Anthropic纳斯达克正式上市](<https://www.itjuzi.com/pre-ipo?comname=Anthropic>)  
-  Anthropic是一家人工智能技术服务商，以宪法AI（Constitutional AI）安全对齐技术为底层基础，面向企业、开发者提供大模型API接口、私有化企业AI工作台Claude for Work两类商业化服务，收入主要来自企…  
-  IT桔子 · 2026-11-19 09:52
-
-- [Anthropic IPO筹集813亿美元](<https://www.itjuzi.com/investevent/14708190>)  
-  Anthropic是一家人工智能技术服务商，以宪法AI（Constitutional AI）安全对齐技术为底层基础，面向企业、开发者提供大模型API接口、私有化企业AI工作台Claude for Work两类商业化服务，收入主要来自企…  
-  IT桔子 · 2026-11-19 09:51
 
 - [Claude Code v2.1.328 发布：Opus 4.6 与 Sonnet 4.6 新增自动模式](<https://github.com/anthropics/claude-code/releases/tag/v2.1.328>)  
   Claude Code v2.1.328 为 Claude Opus 4.6 和 Sonnet 4.6 在 Amazon Bedrock、Google Cloud Agent Platform、Microsoft Foundry 及 Claude apps gateway 上新增自动模式，无权限模式的交互会话默认从该模式启动。  
@@ -148,37 +179,5 @@
 - [Understanding AI 用19张图表解析AI行业现状](<https://www.understandingai.org/p/19-charts-that-explain-the-state>)  
   Understanding AI 发布19张图表，量化AI对美国经济和就业的影响。文中提到 Anthropic 即将上市，估值或超万亿美元，OpenAI 预计明年跟进；五大科技公司2026年第三季度资本支出达2300亿美元，AI收入年化运行率达3450亿美元，但新增企业采用放缓，年轻软件工程师就业明显下滑。  
   Timothy B. Lee：Understanding AI（RSS） · 2026-11-19 05:34
-
-- [Google 发布 Gemini 4 Neon，一个月内第四个新 Gemini 模型](<https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/>)  
-  Google 发布 Gemini 4 Neon，定位复杂软件工程、知识工作和科学工作流的快速端到端任务完成。API 定价为每百万输入 token 3 美元、输出 15 美元，高于 Carbon 和 Argon 的 $2/$10（12 月 1 日起翻倍至 $4/$20）及 Hydrogen 的 $1.50/$7.50。  
-  The Decoder：AI News（RSS） · 2026-11-19 05:03
-
-- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
-  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
-  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
-
-- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
-  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
-  The Verge：AI（RSS） · 2026-11-19 03:40
-
-- [OpenAI 称其模型在 AMD GPU IP 上实现相当于一年进度的芯片优化](<https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/>)  
-  媒体 The Decoder 报道，OpenAI 称与 AMD 合作用其模型在不到五个月内将 AMD 旗舰 GPU IP 的 PPA（功耗、性能、面积）提升至多 14%，相当于在 AMD 工程师多年优化之上再推进约一年的进度，部分改动已纳入送厂设计。  
-  The Decoder：AI News（RSS） · 2026-11-19 02:00
-
-- [Meta 详解如何用 AI 智能体将 ML 技术规模化推广到广告排序模型集群](<https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/>)  
-  Meta 发文介绍其“技术传播”流程及 AI 智能体在其中的应用，此前已发布 Ranking Engineer Agent（REA）系统。自 2026 年 3 月起由智能体驱动执行以来，估算超 60% 的技术传播由 AI 智能体完成，早期结果显示工程师生产力提升 3x，选定组合的训练算力中位数降低 4x，预计到年底节省超 4500 万美元算力成本。  
-  Meta Engineering Blog（RSS） · 2026-11-19 01:00
-
-- [Hugging Face 发布 Qwen3.8-27B-pi-adapted LoRA，pi 编码 Agent 成功率从 39.2% 升至 64.7%](<https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/>)  
-  Hugging Face harness-hub 团队发布面向 pi 编码 Agent 的 Qwen3.8-27B-pi-adapted LoRA 适配器（Apache-2.0，rank 32），用 TRL 的 AsyncGRPO 强化学习训练，工具调用经 safeagents 代理拦截以抑制 reward hacking。  
-  MarkTechPost（RSS） · 2026-11-19 00:07
-
-- [在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离与混部服务](<https://www.lmsys.org/blog/2026-11-19-deepseek-v41-h20>)  
-  在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离服务后，最终配置相比 TP4 基线将平均端到端延迟降低 65.5%，输出吞吐提升至 2.91 倍。  
-  LMSYS Blog · 2026-11-19 00:00
-
-- [Prime Intellect 回顾 2026 年 RL Residency：驻留研究员产出的评测与训练环境](<https://www.primeintellect.ai/blog/rl-residency-retrospective>)  
-  Prime Intellect 发文回顾 2026 年 RL Residency 项目，集中展示驻留研究员在评测、训练环境和其它研究上的产出。评测方面包括 Maze Bench——当前最强 LLM 无代码工具时准确率最高仅 16%，有代码工具时最高 23%；以及 Library Design Bench、Agents' Last Exam Linux CLI 等。  
-  Prime Intellect（网页） · 2026-11-19 00:00
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 6 页

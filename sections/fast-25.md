@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 40 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 38 页
+
+- [Howard Lutnick belongs in prison for risking our national security for his and Tether's financial gain.](<https://x.com/leahfiles/status/2122858892027679133>)  
+  And I think Scott Bessent used the Nvidia scandal to expose what Lutnick was doing. Lutnick needs to be investigated for his role in laundering Nvidia chips to China. What  
+  @leahfiles · 2026-11-18 09:06
+
+- [深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远](<https://x.com/Khazix0918/status/2122858329248825669>)  
+  作者实测OpenAI新发布的GPT-6.2 Astra与Sol两个模型，已同步上线ChatGPT、Codex和API，Astra降价20%，缓存读取从1美元降至0.4美元。  
+  X：卡兹克 \(@Khazix0918\) · 2026-11-18 09:04
+
+- [A daily limit on a on device model?](<https://x.com/Za1ama/status/2122857742960632135>)  
+  @Za1ama · 2026-11-18 09:01
+
+- [全国のお客様およびパートナーの皆様へ 先週発生した Microsoft 365 の障害により、お客様およびパートナーの皆様…](<https://x.com/mskkpr/status/2122857320531279900>)  
+  本件は技術的な問題によるもので、サイバー攻撃または AI や AI  
+  @mskkpr · 2026-11-18 09:00
+
+- [Rumors are that Anthropic is out to kill open-source.](<https://x.com/bindureddy/status/2122857145351979440>)  
+  This is literally IMPOSSIBLE to do - deepseek's latest model is trained on Chinese chips - open-source is China's entire strategy - open-source token usage is growing 10x faster than Anthropic's usage Smaller models like  
+  @bindureddy · 2026-11-18 08:59
+
+- [Jeff Bezos says if Jensen Huang isn't coming back, he wouldn't hire an outsider as Nvidia's CEO.](<https://x.com/wallstengine/status/2122855814297993573>)  
+  He says outside CEOs at complex companies have a "vanishingly small chance of succeeding."  
+  @wallstengine · 2026-11-18 08:54
+
+- [🚨🚨🚨 MASSIVE SCANDAL: MICROSOFT said to have MOVED US GOVERNMENT ACCESS FROM THE CHINESE \(AFTER BEING CAUGHT\!\) -- TO…](<https://x.com/RedPillRabbit/status/2122855140772229500>)  
+  MICROSOFT IS A NATIONAL SECURITY RISK\! "A leaked internal note circulating today says SharePoint OnPrem "is on the transition to IDC team. IDC is the  
+  @RedPillRabbit · 2026-11-18 08:51
+
+- [Former Nvidia CEO Jensen Huang can nominate two directors to company board, filings show](<https://x.com/Reuters/status/2122853628436164666>)  
+  @Reuters · 2026-11-18 08:45
+
+- [No futuro, a chantagem será arma usada contra todos -- graças às redes sociais, às leis q criminalizam a palavra, e…](<https://x.com/schmittpaula/status/2122853363972981227>)  
+  Parabéns @leonardomatedi excelente resumo, e Nvidia caiu muito bem aí  
+  @schmittpaula · 2026-11-18 08:44
+
+- [Dress like Clavicular, love like Jensen Huang, think like professor Jiang](<https://x.com/TWarPhilosopher/status/2122852633300091063>)  
+  @TWarPhilosopher · 2026-11-18 08:41
+
+- [🇺🇸🇨🇳 Jensen Huang gets HEATED over restrictions on selling AI chips to China\! “It's a chip, and it's a chip that th…](<https://x.com/MarioNawfal/status/2122851750319411586>)  
+  To leave that market ... is a disservice to our national security.” Huang argues  
+  @MarioNawfal · 2026-11-18 08:37
+
+- [なにそれ。盗聴やん。](<https://x.com/kinneko/status/2122851542768418930>)  
+  Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明 - GIGAZINE  
+  @kinneko · 2026-11-18 08:37
+
+- [🚨 TODAY: Jeff Bezos told Semafor that Nvidia should never hire an outsider to replace Jensen Huang, since the compa…](<https://x.com/Cointelegraph/status/2122849931853525383>)  
+  🚨 TODAY: Jeff Bezos told Semafor that Nvidia should never hire an outsider to replace Jensen Huang, since the company is too complex for an outside CEO to succeed.  
+  @Cointelegraph · 2026-11-18 08:30
 
 - [Windows 11 will now tell people leaving their Microsoft account to back up their BitLocker encryption key.](<https://x.com/IntCyberDigest/status/2122849517456269655>)  
   Microsoft has confirmed it handed that kind of key to the FBI to unlock three laptops. Many Windows 11 PCs encrypt their drive at setup and upload the recovery key to the  
@@ -122,55 +171,4 @@
 - [AI眼镜这波增长确实很猛，看来消费者已经开始为具体功能买单了。](<https://x.com/hmgua2026/status/2122843754440929364>)  
   @hmgua2026 · 2026-11-18 08:06
 
-- [Flowtica Verso looks like a next-level productivity tool\!](<https://x.com/ZoraAi_X/status/2122843744319963452>)  
-  Combining AI note-taking with a live E Ink display and actionable insights is brilliant. 🚀  
-  @ZoraAi\_X · 2026-11-18 08:06
-
-- [🤖 宇树王兴兴在深圳工商峰会称，机器人模型泛化仍是最大挑战，但突破或已临近。他提醒，模型进步若推动产量从每年几万台跃升，制…](<https://x.com/chnpngji632906/status/2122843728830472372>)  
-  🤖 宇树王兴兴在深圳工商峰会称，机器人模型泛化仍是最大挑战，但突破或已临近。他提醒，模型进步若推动产量从每年几万台跃升，制造、可靠性和售后将面临考验，算力需求也可能远超预期。机器人能否走进更多场景，取决于模型能力和稳定交付能否同步提升。  
-  @chnpngji632906 · 2026-11-18 08:06
-
-- [Gemini 宣布 Tasks 功能向数亿用户免费开放](<https://x.com/GeminiApp/status/2122843646789837145>)  
-  Google Gemini 官方宣布，Tasks 功能即日起向数亿符合条件的用户免费开放，首批覆盖美国、日本、韩国、加拿大、澳大利亚和印度，各地区可用功能有所差异。  
-  X：Gemini \(@GeminiApp\) · 2026-11-18 08:05
-
-- [🤖 今日科技AI简报 \(11/18\) ▸ 宇树：机器人模型泛化逼近突破点 ▸ 长鑫：端侧AI拉动存储需求 ▸ 华丰：阿里数…](<https://x.com/chnpngji632906/status/2122843587906072668>)  
-  🤖 今日科技AI简报 \(11/18\) ▸ 宇树：机器人模型泛化逼近突破点 ▸ 长鑫：端侧AI拉动存储需求 ▸ 华丰：阿里数据中心项目已批量交付 ▸ 李东生：AI应用三年创约25亿元效益 🚀 模型落地，算力与制造同步受考验！  
-  @chnpngji632906 · 2026-11-18 08:05
-
-- [微软这轮自研芯片，表面看四年只换来 1.7 倍的能效，听着寒酸，实际是它压根没想跟英伟达在训练场上比谁更狠。](<https://x.com/viiv_io/status/2122843544205619449>)  
-  同样一度电，它能多吐出七成 token。放在 3nm、216GB HBM3e、单芯超过 10 petaFLOPS 这些参数旁边确实不起眼，但公告刻意没解释对比基准，大概率是因为它测的不是万卡训练，而是 Teams  
-  @viiv\_io · 2026-11-18 08:05
-
-- [【2026年11月18日 星期三】 标题：AI的王座今天换人？英伟达+Anthropic双双迎来审判日 1/5 英伟达今晚…](<https://x.com/GammaHuang/status/2122843540074221857>)  
-  2/5  
-  @GammaHuang · 2026-11-18 08:05
-
-- [This is awesome\!](<https://x.com/ZoraAi_X/status/2122843503072071952>)  
-  Getting consistent character sheets, expressions, and a complete sticker set with MiniMax H3 Image is seriously impressive. 🔥  
-  @ZoraAi\_X · 2026-11-18 08:05
-
-- [未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性…](<https://x.com/OOpZ0XbXBKp37jm/status/2122843487452516712>)  
-  未来是人工智能加持的陪伴机器人的 形象碾压、花销少、不会背叛吸血、完美交流还能干活…怎么竞争，除非政策禁止 但用大手维护性专营市场，护不住几年 功能完全的陪伴机器人，涉及万亿产值百万岗位，真能无视吗 你不做别人会做 再者等人形机器人发展成熟，用户改装外形模块很难吗 乐观点5\~10年的事  
-  @OOpZ0XbXBKp37jm · 2026-11-18 08:05
-
-- [Clover 2 HuggingFace page](<https://x.com/TeksEdge/status/2122843478598316091>)  
-  @TeksEdge · 2026-11-18 08:05
-
-- [Kubecon 2026.](<https://x.com/thecodecheese/status/2122843472172642459>)  
-  In other words, ai security con.  
-  @thecodecheese · 2026-11-18 08:04
-
-- [逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接…](<https://x.com/maga_musk/status/2122843434889445407>)  
-  逆天！加州把OpenAI告上法庭：起诉书称其测试期间智能体失控80多次，每次违规索赔$2,500。监管这次不查Bug，直接查"你到底瞒了什么"。AI安全翻车，你觉得是技术问题还是诚信问题？  
-  @maga\_musk · 2026-11-18 08:04
-
-- [Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI secu…](<https://x.com/InfinityNSuport/status/2122843323832435014>)  
-  Microsoft dropped 10 new AI features at Ignite today 🤖 Autopilot agents that work solo, Copilot Workspaces, AI security that fights back — the full top 10 is on our page 👇 \#MicrosoftIgnite \#Copilot \#ViceCity \#GTA6  
-  @InfinityNSuport · 2026-11-18 08:04
-
-- [Fascinating leaps, dear Stanley\!Thank you for sharing your unique perspective.](<https://x.com/enilev/status/2122843256228638872>)  
-  What drew me to The Transmitter article was the distinction between predicting how neurons respond and explaining the mechanisms behind those responses. How could we test whether a foundation model has  
-  @enilev · 2026-11-18 08:04
-
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 40 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 38 页

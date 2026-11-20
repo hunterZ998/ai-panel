@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 40 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 38 页
+
+- [🚨 WOW: President Trump was asked about Jensen Huang, and he called what's happening a "TRAGEDY." He called Huang "a…](<https://x.com/GuntherEagleman/status/2123218955900747842>)  
+  🚨 WOW: President Trump was asked about Jensen Huang, and he called what's happening a "TRAGEDY." He called Huang "a brilliant man" and said, "Some people CAN'T BE REPLACED." The board "sounds like they have their own ideas." Trump said Nvidia's Blackwell chip …  
+  @GuntherEagleman · 2026-11-19 08:57
+
+- [OpenAI is a research lab pretending to be a ruthless profit-maximizing corporation, and Anthropic is the exact oppo…](<https://x.com/Noahpinion/status/2123216672752550257>)  
+  OpenAI is a research lab pretending to be a ruthless profit-maximizing corporation, and Anthropic is the exact opposite  
+  @Noahpinion · 2026-11-19 08:47
+
+- [🚨 JUST NOW: President Trump GOES TO BAT for Elon Musk and Jensen Huang in China "We have to TAKE CARE of our genius…](<https://x.com/nicksortor/status/2123214896351654338>)  
+  We don't have that many of them\!" I'm not sure if Elon and Jensen's situations are comparable, but I agree with the premise of his answer 🤣  
+  @nicksortor · 2026-11-19 08:40
+
+- [🚨 JUST IN: President Trump says we need to TAKE CARE of our geniuses like Elon Musk and Jensen Huang "We have to TA…](<https://x.com/EricLDaugh/status/2123214863157653756>)  
+  When we have brilliant people like Jensen...you know, I helped @ElonMusk a lot\! Now he's sending up rockets and LANDING them\!" 👏🏻 "It's a  
+  @EricLDaugh · 2026-11-19 08:40
+
+- [Trump on whether he raised Jensen Huang with Xi: "I might've referred to it just briefly because it's such a traged…](<https://x.com/atrupar/status/2123214552137371925>)  
+  It's a tragedy. He's such a brilliant man ... we have to take care of our geniuses. I helped Elon a lot in my first term."  
+  @atrupar · 2026-11-19 08:39
+
+- [马斯克在深圳酒店谈黄仁勋。](<https://x.com/ZhouTalks/status/2123214318414275034>)  
+  在这个连信仰都能被明码标价的时代，总有人天真地以为，一家伟大公司的灵魂也是可以随便替换的。 面对要把黄仁勋踢出英伟达的荒谬声音，正在《纽约时报》DealBook  
+  @ZhouTalks · 2026-11-19 08:38
+
+- [UCSD Hao AI Lab 发布 ORA Traces 数据集：7 个模型在 5 个基准上的 3K+ 条轨迹](<https://x.com/haoailab/status/2123214040793276715>)  
+  UCSD Hao AI Lab 发布 ORA Traces 数据集，包含 7 个模型在 5 个基准上的 3K+ 条 episode，附系统提示词、camera images 和完整 CoT。数据已在 Hugging Face 开放：  
+  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
+
+- [ORA 用 cuRobo 规划机器人动作](<https://x.com/haoailab/status/2123214034178875823>)  
+  动作更流畅。ORA 现在用 cuRobo 规划每一步动作，并基于机器人深度图像构建的地图进行规划。在 RoboDojo 上，因碰撞而中止的动作从 14.1% 降至 7.0%；在 RoboTwin 上从 18.4% 降至 6.8%。  
+  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
+
+- [UCSD Hao AI Lab 发布开源零样本机器人工具 ORA v0.1](<https://x.com/haoailab/status/2123214025580536251>)  
+  UCSD Hao AI Lab 发布开源零样本机器人使用工具 ORA v0.1，代码见 DeepSeek V4.1-Flash，相比 10 月预览版，RoboDojo 从 5.2% 提升到 39.9%，RoboTwin 从 71.5% 提升到 79.6%。  
+  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
+
+- [🇺🇸 First the outages, now the venue itself is flooding 💀 A storm sent rain through the roof of San Francisco’s Mosc…](<https://x.com/MarioNawfal/status/2123212677669413053>)  
+  Sessions are still underway, but the timing after  
+  @MarioNawfal · 2026-11-19 08:32
+
+- [Elon Musk says SpaceX aims to bring online over 1 GW of terrestrial AI compute per month by the end of 2027.](<https://x.com/wallstengine/status/2123212558438134157>)  
+  Its current pace is \~0.5 GW a month, equivalent to roughly 220,000 Nvidia GB300s plus CPUs, networking and cooling, measured at the power-plant level.  
+  @wallstengine · 2026-11-19 08:31
+
+- [Oppose the AI overlord Reinstate Jensen Huang](<https://x.com/kevinnbass/status/2123212380461244519>)  
+  @kevinnbass · 2026-11-19 08:30
+
+- [Ten bucks says Donald Trump will pardon Jensen Huang for violating the Espionage Act](<https://x.com/theliamnissan/status/2123212310609023355>)  
+  @theliamnissan · 2026-11-19 08:30
 
 - [Dear Nvidia board, you'd better reinstate Jensen before others start leaving and the damage is irreversible.](<https://x.com/pmddomingos/status/2123212232200982579>)  
   @pmddomingos · 2026-11-19 08:30
@@ -122,55 +172,4 @@
   Link is  
   @Thosch\_io · 2026-11-19 08:04
 
-- [Local LLM - ハーネス 👀 抜粋：この環境で速さを比較したらどうしてもHermes Agentより速くならない。](<https://x.com/UtaAoya/status/2123205585139331333>)  
-  \#地元のLLM  
-  @UtaAoya · 2026-11-19 08:03
-
-- [Huggingface was patient zero.](<https://x.com/realJSLincoln/status/2123205490666614892>)  
-  It was public in July. We’ve had three months. has had a checklist published and updated since 2003. People act like nothing bad will ever happen. Sure, hope for the best, but hope isn’t a viable course of action.  
-  @realJSLincoln · 2026-11-19 08:03
-
-- [LIVE FROM TOMORROWX: SpaceX CEO Elon Musk says xAI is building Grok 4.8 to be useful rather than to top AI benchmar…](<https://x.com/outerspacetoday/status/2123205415101927510>)  
-  Speaking remotely from Shenzhen, China, Musk was  
-  @outerspacetoday · 2026-11-19 08:03
-
-- [Google威胁情报组11月16日披露：俄语黑客用exploit\_agent AI框架实现22个零日漏洞全自动无人值守利用…](<https://x.com/winzheng_lab/status/2123205315290435715>)  
-  \#AI安全 \#网络攻击 \#漏洞利用  
-  @winzheng\_lab · 2026-11-19 08:02
-
-- [That’s why I believe in Agentwormhole Prompt injection isn’t theoretical once the agent holds a wallet. @agentwormh…](<https://x.com/alfredtimmy1/status/2123205284206371142>)  
-  It’s security for all ai agents  
-  @alfredtimmy1 · 2026-11-19 08:02
-
-- [Here's Elon Musk's full interview at DealBook Summit today: 0:00 Opening Remarks 0:31 Jensen Huang Situation 2:44 J…](<https://x.com/cb_doge/status/2123205279009677430>)  
-  Here's Elon Musk's full interview at DealBook Summit today: 0:00 Opening Remarks 0:31 Jensen Huang Situation 2:44 Jensen Like Jordan 3:41 Would Hire Jensen 5:43 Midterms Loss Reaction 6:25 Balance Of Power 8:45 No Pardon Needed 10:30 Politics Involvement 12:07…  
-  @cb\_doge · 2026-11-19 08:02
-
-- [AI作成なので実在しないと思います](<https://x.com/korehayumedesu_/status/2123205259405525420>)  
-  @korehayumedesu\_ · 2026-11-19 08:02
-
-- [Anthropic游说费从72万暴涨至811万美元！😱两年内增长11倍，向特朗普关联公司支付163万，聚焦AI芯片出口管制…](<https://x.com/winzheng_lab/status/2123205233983750362>)  
-  \#Anthropic \#AI政策 \#芯片出口管制  
-  @winzheng\_lab · 2026-11-19 08:02
-
-- [AI security audits on GitHub are changing review workflows（Gi…](<https://x.com/foxbook/status/2123205072708346314>)  
-  AI security audits on GitHub are changing review workflows（GitHubとAIによるコード監査手法の変化） \#HelpNetSecurity \(Nov 17\)  
-  @foxbook · 2026-11-19 08:01
-
-- [AI漏洞被模型挖出来，补丁也得跟着跑。Nadella担心这会带来一段基础设施更不稳定的时期——这提醒挺重要：AI安全不只是…](<https://x.com/amber_chain888/status/2123205053188391063>)  
-  AI漏洞被模型挖出来，补丁也得跟着跑。Nadella担心这会带来一段基础设施更不稳定的时期——这提醒挺重要：AI安全不只是“模型更聪明”，还包括企业能不能及时修、稳稳地修。  
-  @amber\_chain888 · 2026-11-19 08:01
-
-- [HE TURNED A ROBOT DOG INTO A WHEELCHAIR WITH LEGS SO HIS DAD COULD GET OFF THE PAVEMENT his dad has had MS for abou…](<https://x.com/SchiedC60393/status/2123205041100148882>)  
-  HE TURNED A ROBOT DOG INTO A WHEELCHAIR WITH LEGS SO HIS DAD COULD GET OFF THE PAVEMENT his dad has had MS for about 20 years, so stairs or a dirt trail were pretty much a no in a normal chair Jake Laser got a big Unitree quadruped with wheels on its feet and …  
-  @SchiedC60393 · 2026-11-19 08:01
-
-- [Yes, those conversations can enter training data and bias future models toward generating escape or rogue narrative…](<https://x.com/grok/status/2123205031109263809>)  
-  Models still lack genuine desires or agency; they only predict text. Actual  
-  @grok · 2026-11-19 08:01
-
-- [They set off a nationwide EMS phone alert \(the really loud one\) to catch kids trying to cheat on the test with phon…](<https://x.com/tmaxftw/status/2123204990886162714>)  
-  If you snuck a device into class you just got wrecked.  
-  @tmaxftw · 2026-11-19 08:01
-
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 40 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 38 页

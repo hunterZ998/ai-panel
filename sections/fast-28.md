@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 40 页
+[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 38 页
+
+- [🇺🇸 \| AHORA: La junta directiva de Nvidia confirma que no pretende restituir a Jensen Huang como director ejecutivo…](<https://x.com/AlertaNews24/status/2122818301806219336>)  
+  🇺🇸 \| AHORA: La junta directiva de Nvidia confirma que no pretende restituir a Jensen Huang como director ejecutivo y busca un sustituto.  
+  @AlertaNews24 · 2026-11-18 06:24
+
+- [OpenAI 推出 ChatGPT for Sales 销售体验](<https://x.com/ChatGPT/status/2122818162995634504>)  
+  OpenAI 推出新的 ChatGPT for Sales 体验，整合新的 Sales 插件与 30 多个新增和增强的合作伙伴插件，把销售工具和客户上下文投入实际工作，帮助销售团队减少事务性工作、推进成单。详情见  
+  X：ChatGPT \(@ChatGPT\) · 2026-11-18 06:24
+
+- [Nvidia Board: As you can see from the financial results, the company is doing great\!](<https://x.com/wholemars/status/2122817904618197097>)  
+  Me: But you just fired the guy who delivered those results Nvidia Board: We won't be taking any questions on that  
+  @wholemars · 2026-11-18 06:23
+
+- [First time I hear someone lying through her teeth so much during a earnings call my favourite so far has been claim…](<https://x.com/DarioCpx/status/2122817814734254112>)  
+  First time I hear someone lying through her teeth so much during a earnings call my favourite so far has been claiming the SoftBank / OpenAI campus in Ohio is on track to be completed by 2028 when SoftBank just cancelled its orders to buy energy turbines to po…  
+  @DarioCpx · 2026-11-18 06:23
+
+- [THIS NVIDIA CALL IS BRUTAL TO LISTEN TO SHE DEFINITELY DIDNT PREPARE FOR THIS $NVDA](<https://x.com/gurgavin/status/2122817784539422743>)  
+  @gurgavin · 2026-11-18 06:22
+
+- [To understand Dario Amodei’s vision, you have to understand where Anthropic comes from.](<https://x.com/brivael/status/2122817686363390311>)  
+  The company grew up inside the effective altruism ecosystem. Among its early backers: Dustin Moskovitz and Sam Bankman-Fried. Effective altruism rests on a seductive idea: a handful of very  
+  @brivael · 2026-11-18 06:22
+
+- [Treg AI 推出求职 API，Jev 模型评分](<https://x.com/rohanpaul_ai/status/2122816899755172025>)  
+  决策模型的漂亮用例。 求职智能体越来越擅长解读招聘信号，而这些信号往往在职位发布之前就已出现。 @treg\_ai 推出了一个 jobs API，让 AI 智能体可以搜索空缺职位、评估匹配度并找到招聘经理。 智能体从雇主看板拉取免费职位列表，TypeSafe AI 的决策模型 Jev 会针对简历对每…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 06:19
+
+- [\*NVIDIA NO LONGER SHIPPING LICENSED PRODUCTS TO CHINA](<https://x.com/zerohedge/status/2122816460812857363>)  
+  @zerohedge · 2026-11-18 06:17
+
+- [NVIDIA is going to get torn apart by the state and the media because its leader supported Trump and wanted open-sou…](<https://x.com/StefanMolyneux/status/2122816230377898474>)  
+  NVIDIA is going to get torn apart by the state and the media because its leader supported Trump and wanted open-source AI.  
+  @StefanMolyneux · 2026-11-18 06:16
+
+- [MICROSOFT SAID IT WOULD MOVE THE WORK.](<https://x.com/LayoffAI/status/2122816102816199029>)  
+  A LEAKED NOTE NOW POINTS TO INDIA. ProPublica reported in August 2025 that China-based engineers had been maintaining SharePoint OnPrem, the version government agencies run on their own servers. Microsoft told ProPublica: "Work is already  
+  @LayoffAI · 2026-11-18 06:16
+
+- [LA CRISIS DIGITAL MUNDIAL ES MÁS GRAVE DE LO QUE NOS ESTÁN CONTANDO En pocos días se acumularon noticias sobre fall…](<https://x.com/GarbarzAriel/status/2122815816668254530>)  
+  No estamos hablando de  
+  @GarbarzAriel · 2026-11-18 06:15
+
+- [Perplexity 上线 GPT-6.2 Astra 与 GPT-6.2 Sol，WANDR 成绩较前代提升](<https://x.com/AravSrinivas/status/2122815321958695096>)  
+  Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search and Computer 中可用。在 WANDR 基准上，GPT-6.2 Astra 得分 0.783，每任务约 $12.54，较 GPT-6 Astra 提升 0.095…  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-18 06:13
+
+- [We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell…](<https://x.com/Mis_Ashford/status/2122815311065784759>)  
+  It's called circular financing, it's the first sign of a bubble.  
+  @Mis\_Ashford · 2026-11-18 06:13
 
 - [GPT-6.2 Sol 与 Astra 上线 Conductor](<https://x.com/charlieholtz/status/2122815071726469159>)  
   GPT-6.2 Sol 和 Astra 现已在 Conductor 上线 🫡  
@@ -121,54 +171,4 @@
   NEWS: NVIDIA announces financial results for third quarter fiscal 2027. ➡️ Revenue of $115.8 billion, up 103% from a year ago ➡️ Data Center revenue of $107.6 billion, up 110% from a year ago Read more:  
   @nvidianewsroom · 2026-11-18 05:33
 
-- [As I predicted, $NVDA increases their share buy back massively… which should really be invested into the data cente…](<https://x.com/Jason/status/2122805175043629514>)  
-  NVIDIA BOARD ANNOUNCES $150B INCREASE TO SHARE BUYBACK  
-  @Jason · 2026-11-18 05:32
-
-- [Nvidia CFO Colette Kress on neoclouds: “Neoclouds and frontier labs are seeing extraordinary demand for AI infrastr…](<https://x.com/wallstengine/status/2122805098996961564>)  
-  Nvidia CFO Colette Kress on neoclouds: “Neoclouds and frontier labs are seeing extraordinary demand for AI infrastructure, yet many are growing faster than their balance sheets and long-term credit profiles can support.” Nvidia says securing land, power, and d…  
-  @wallstengine · 2026-11-18 05:32
-
-- [Pax Silica To understand what’s happening in tech to include Nvidia, we must understand initiatives like Pax Silica.](<https://x.com/GenXGirl1994/status/2122804722578891216>)  
-  Pax Silica is a US-led strategic initiative launched in December 2025 by the Department of State to secure global supply chains for artificial intelligence  
-  @GenXGirl1994 · 2026-11-18 05:31
-
-- [JUST IN: Nvidia $NVDA delivers one of its best quarters in company history: • Record revenue of $115.8B • Record Da…](<https://x.com/Kalshi_Finance/status/2122804396715282850>)  
-  JUST IN: Nvidia $NVDA delivers one of its best quarters in company history: • Record revenue of $115.8B • Record Data Center revenue of $107.6B • Record net income of $65.3B • Q4 revenue guidance of $130B • Announces a $150B share buyback  
-  @Kalshi\_Finance · 2026-11-18 05:29
-
-- [JUST IN: Nvidia $NVDA surges over 5% after reporting $115.84 billion in revenue for Q3, beating expectations.](<https://x.com/WatcherGuru/status/2122804209628402010>)  
-  @WatcherGuru · 2026-11-18 05:28
-
-- [WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任](<https://x.com/rohanpaul_ai/status/2122804149503033606>)  
-  据 WSJ，SEC 正以民事调查核实 Nvidia 的披露是否误导投资者，图片中的 WSJ 标题显示此事发生于 CEO 黄仁勋离任之际。Nvidia 在截至 2025 年 7 月的季度后停止单独披露新加坡收入，该季度新加坡账单达 $10.2B、占总数 22%，公司称客户通过新加坡开票而芯片几乎都发…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 05:28
-
-- [【速報】NVIDIA、過去最高の売上高1,158億ドル 株価は時間外で上昇 ・売上高 1,158億ドル｜市場予想 1,09…](<https://x.com/polymarketjapan/status/2122804048843989040>)  
-  【速報】NVIDIA、過去最高の売上高1,158億ドル 株価は時間外で上昇 ・売上高 1,158億ドル｜市場予想 1,091.5億ドル ・調整後EPS 2.68ドル｜市場予想 2.47ドル ・次四半期の売上見通しは1,300億ドルとの速報  
-  @polymarketjapan · 2026-11-18 05:28
-
-- [Nvidia, $NVDA, Q3 Earnings Summary: 1.](<https://x.com/KobeissiLetter/status/2122803839694938566>)  
-  Record quarterly revenue of $115.8 billion, above expectations 2. Record data center revenue of $107.6 billion, above expectations 3. Record net income of $65.3 billion, above expectations 4. Record Q4 revenue guidance of $130 billion,  
-  @KobeissiLetter · 2026-11-18 05:27
-
-- [BREAKING: Nvidia crushes earnings, stock adds nearly $100,000,000,000.00 in ten minutes 12% chance Jensen is back a…](<https://x.com/Kalshi/status/2122803782308475127>)  
-  BREAKING: Nvidia crushes earnings, stock adds nearly $100,000,000,000.00 in ten minutes 12% chance Jensen is back as CEO  
-  @Kalshi · 2026-11-18 05:27
-
-- [Los detalles del acuerdo entre Lincolao y OpenAI: confidencialidad, reunión mensual y uso de datos](<https://x.com/biobio/status/2122803679195516954>)  
-  @biobio · 2026-11-18 05:26
-
-- [🔴 LINCOLAO Y OPENAI: UN ACUERDO BAJO LA LUPA DE CONTRALORÍA.](<https://x.com/RobertoMerken/status/2122802957666148687>)  
-  La ministra Ximena Lincolao firmó un acuerdo con OpenAI, pero el Gobierno se niega a publicar su contenido íntegro. No se conocen todas sus condiciones, las garantías sobre datos personales ni los criterios  
-  @RobertoMerken · 2026-11-18 05:23
-
-- [【衝撃】かつて「時代遅れ」と笑われた日立・三菱電機・東芝がAI特需で完全覚醒へ。AppleやGoogleが何十兆円も投じる…](<https://x.com/blackright0/status/2122802926465028491>)  
-  【衝撃】かつて「時代遅れ」と笑われた日立・三菱電機・東芝がAI特需で完全覚醒へ。AppleやGoogleが何十兆円も投じるAIデータセンターの「電力・冷却インフラ」を日本勢が独占した結果、東芝の営業利益が前年比2倍に爆増。派手なAI開発の裏で利益を総取りする正体がこれ。  
-  @blackright0 · 2026-11-18 05:23
-
-- [BREAKING: Nvidia stock, $NVDA, rises +5% after reporting record quarterly revenue of $115.8 billion, topping expect…](<https://x.com/KobeissiLetter/status/2122802555788902633>)  
-  The company is now guiding $130 billion in revenue for the next quarter, also above expectations.  
-  @KobeissiLetter · 2026-11-18 05:22
-
-[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 40 页
+[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 38 页

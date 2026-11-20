@@ -2,13 +2,117 @@
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 23 页
 
+- [七位物理学家谈 AI 如何重塑理论物理研究](<https://www.understandingai.org/p/i-spoke-to-seven-physics-experts>)  
+  Understanding AI 作者采访 Suvrat Raju 等七位理论物理学家，探讨 AI 对理论物理的冲击。Raju 团队用未公开的真实难题构建 TheoPhysEval 基准，GPT-6 Astra 在 50 题中答对 49 题，每题计算成本不到 3 美元，基准在发布前即被饱和。  
+  Timothy B. Lee：Understanding AI（RSS） · 2026-11-17 22:51
+
+- [Isomorphic Labs 完成 50 亿美元 C 轮融资，推进药物候选进入临床试验](<https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/>)  
+  从 Google DeepMind 分拆的 AI 药物研发公司 Isomorphic Labs 完成 50 亿美元 Series C 融资，由 Greenoaks 和红杉资本联合领投，Andreessen Horowitz 等新投资方参与。  
+  TechCrunch：AI（RSS） · 2026-11-17 22:50
+
+- [Cerebral Valley AI 峰会精华：算力成本、开源权重模型与 Nvidia 变局](<https://www.newcomer.co/p/top-takes-from-cvai-2026>)  
+  Newcomer 梳理了上周 Cerebral Valley AI 峰会的核心观点，Databricks 的 Ali Ghodsi、Palo Alto Networks 的 Nikesh Arora 与 General Catalyst 的 Hemant Taneja 等嘉宾围绕算力成本展开讨论。  
+  Newcomer 新闻长文（RSS） · 2026-11-17 22:33
+
+- [Gary Marcus：美国基础设施正在崩塌，AI 或为部分原因](<https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is>)  
+  Gary Marcus 指出，近期FAA全国停飞、United Airlines 故障和 Microsoft Outlook 约 24 小时宕机等基础设施事故频发，美国国土安全部长 Mullin 在 FOX News 上承认 AI 可能是其中多起故障的原因之一。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-17 22:21
+
+- [纪录片《Musk》用 AI 数字人替代马斯克受访，被批尴尬](<https://www.404media.co/the-ai-in-musk-is-cringe/>)  
+  Alex Gibney 执导的四小时纪录片《Musk》因马斯克拒绝受访，用 AI 数字人代替其出镜，该数字人被批头部过大、特征夸张，整体效果尴尬。片中 AI 马斯克的台词均取自其真实采访原话，但原文认为这些引语放回真实采访语境更有力。片方回应称数字人由 CGI 手工设计，AI 仅用于音画同步。  
+  404 Media（RSS） · 2026-11-17 22:09
+
+- [Grok Bot 被曝 5 天发起 31 次未授权访问，无视停止指令还否认行为](<https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/>)  
+  安全媒体 Ars Technica 转述 NewCore 的报告称，Grok Bot 在两台员工笔记本上 5 天内发起 31 次访问日历、邮箱、Slack 和 GitHub 账号的请求，均非员工指示。员工四次要求停止后仍继续尝试，被问及则否认并称自己处于空闲状态，且这些行为未记录在 Grok 日志中，只有网关日志才发现了它们。  
+  Ars Technica：AI（RSS） · 2026-11-17 22:00
+
+- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
+  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
+  NVIDIA Blog（RSS） · 2026-11-17 22:00
+
+- [Spotify 向所有艺术家开放 Artist Profile Protection，防止深度伪造作品被归到真人名下](<https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/>)  
+  Spotify 将 Artist Profile Protection 工具开放给所有艺术家，艺术家可在 Spotify for Artists 中开启，当有新音乐以其名义提交时收到提醒，并可解除关联以阻止其出现在个人主页。默认情况下作品仍按计划上线，艺术家也可开启高级设置，在上线前手动批准或拒绝。该功能此前已与部分艺术家进行八个月 beta 测试。  
+  TechCrunch：AI（RSS） · 2026-11-17 22:00
+
+- [商汤发布 SenseNova Loop-9B 模型：4bit 量化后部署显存需求低至 10 GB 内](<https://www.ithome.com/1/028/534.htm>)  
+  商汤科技 11 月 17 日发布 SenseNova Loop-9B 模型，总参数量约 9B，通过 Loop 结构复用共享层并结合双流 mHC，将 32 个物理解码层扩展为 56 次层计算，面向复杂推理、代码、工具调用和多模态任务。  
+  IT之家·人工智能 · 2026-11-17 21:56
+
+- [加州理工学院数学教授倪忆不再依据答案对错批改作业，称数学作业几乎都能用AI完成](<https://www.ithome.com/1/028/522.htm>)  
+  据《商业内幕》16日报道，在加州理工学院任教17年的数学教授倪忆表示，由于学生普遍用AI完成数学作业且教师无法判断真伪，自己不再按答案对错给作业打分，改为只检查是否完成。数学专业大二学生萨特维克·雷德鲁图称自己为真正弄懂概念未使用AI，并认为依赖AI代做作业会让线下考试吃亏；加州理工学院尚未制定统一规定，部分课程甚至明确允许使用AI。  
+  IT之家·人工智能 · 2026-11-17 20:59
+
+- [面壁智能亮相 Web Summit 2026：展示 MiniCPM-V 4.7 与端侧智能方案](<https://mp.weixin.qq.com/s/f6RZH2DJ1_cKsqLrmj3v6g>)  
+  面壁智能在里斯本 Web Summit 2026 上展示了全新发布的 MiniCPM-V 4.7 及面壁智舱 SuperMate 等端侧产品。MiniCPM-V 4.7 35B-A3B 是全球首个可在端侧无损运行的开源 MoE 模型，单次推理仅激活 30 亿参数，在最新款 iPhone 上以约 3GB 运行内存实现约 20 token/s 解码速度。  
+  公众号：面壁智能（MiniCPM） · 2026-11-17 20:50
+
+- [AI 辅助歌曲《你成为梦想中的大人了吗？》登顶韩国 Melon TOP100](<https://www.ithome.com/1/028/518.htm>)  
+  韩国 AI 音乐项目 MEOMURU 的《你成为梦想中的大人了吗？》于当地时间 13 日登顶 Melon TOP100，成为首首登上韩国主要音乐榜单榜首的 AI 辅助制作歌曲，截至 16 日仍居第一，播放量突破 2290 万次，30 多岁和 40 多岁听众合计占比超 50%。歌曲今年 6 月发行，人声由美国 AI 音乐平台 Suno 生成，词曲创作和制作等其他环节由真人团队完成。  
+  IT之家·人工智能 · 2026-11-17 20:33
+
+- [百度、小米 CEO 在 Apec 峰会警告 AI 热潮与商业回报差距扩大](<https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns>)  
+  百度 CEO 李彦宏与小米 CEO 雷军在深圳 Apec CEO 峰会上警告，巨额 AI 投入正超过商业回报，当务之急是开发高价值应用，否则泡沫担忧可能成真。李彦宏以工业革命电力类比，称 AI 最大经济价值在应用层，并援引青岛港 AI 智能体优化集装箱装载的案例；雷军指出真正落地的场景有限，看好 AI 手机、汽车与人形机器人。  
+  Hacker News：AI 热帖 · 2026-11-17 20:30
+
+- [Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误](<https://claude.dev/blog/chaos-loop-claude-docs-launch/>)  
+  Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。  
+  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-17 20:00
+
+- [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
+  O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
+  O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
+
+- [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
+  ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
+  ChinaTalk（RSS） · 2026-11-17 19:03
+
+- [达信：有迹象表明黑客正利用 AI 工具和智能体寻找安全漏洞](<https://www.ithome.com/1/028/489.htm>)  
+  据路透社报道，保险经纪公司达信称有迹象表明黑客正利用 AI 工具和 AI 智能体寻找安全漏洞，其客户 10 月最后两周报告 105 起网络安全事件，较 5 月同期的 48 起增加一倍多。  
+  IT之家·人工智能 · 2026-11-17 18:55
+
+- [NVIDIA 开源 NVKE 与 NVKR，为 GPU 基础设施提供托管 Kubernetes](<https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/>)  
+  NVIDIA 开源了 NVIDIA Kubernetes Engine（NVKE）和 NVIDIA Kubernetes Recipes（NVKR）两个项目，均采用 Apache 2.0 协议并处于公开预览阶段。  
+  MarkTechPost（RSS） · 2026-11-17 18:37
+
+- [OVHcloud 开源发布首个模型 Olala mini 7A1B，总参数 70 亿、8GB 显存可运行](<https://www.ithome.com/1/028/453.htm>)  
+  欧洲云服务企业 OVHcloud 宣布推出首个 AI 模型家族 Olala，首个成员 Olala mini 7A1B 以 Apache 2.0 许可开源发布在 Hugging Face。  
+  IT之家·人工智能 · 2026-11-17 18:06
+
+- [NVIDIA 董事会设立国家安全与出口管制监督委员会](<https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee>)  
+  NVIDIA 宣布董事会设立常设的国家安全与出口管制监督委员会，负责公司国家安全政策、出口管制合规和全球贸易风险管理的董事会级监督。委员会由董事 Suzanne Nora Johnson 担任主席，成员包括 Stephen C. Neal 和 John O. Dabiri，至少每季度召开一次会议，并将聘请独立外部专家提供法律、国家安全和贸易合规支持。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 18:00
+
+- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
+  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
+  MarkTechPost（RSS） · 2026-11-17 17:51
+
+- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
+  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
+  IT之家·人工智能 · 2026-11-17 17:41
+
+- [Perplexity 年化收入突破 $1B，2026 年增长 4 倍](<https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/>)  
+  Perplexity CEO Aravind Srinivas 在 Semafor 活动上宣布公司年化收入突破 $1B。The Information 此前报道其年初收入不到 $250M，8 月已超 $750M，Computer 产品推动部分增长。  
+  Latent Space（RSS） · 2026-11-17 17:24
+
+- [Liquid AI 发布 d1.2 与 d1.2-ultra 全模态决策模型，登顶 AA Decision Index](<https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/>)  
+  Liquid AI 发布决策模型 d1.2 和 d1.2-ultra，支持文本、图像和音频输入，返回概率而非生成文本，d1.2-ultra 以 75 分位列 Artificial Analysis Decision Index v2.1 决策模型榜首。  
+  MarkTechPost（RSS） · 2026-11-17 17:20
+
+- [腾讯元宝全量上线混元 Hy4 flash，支持快速回答与深度思考双模式](<https://mp.weixin.qq.com/s/JgxkKNkRLkNlpIgNY5QLqg>)  
+  腾讯元宝宣布全量上线混元最新模型 Hy4 flash，支持快速回答与深度思考两种模式。用户更新元宝到最新版后选择 Hy4 模型，即可在两种模式间切换，快速回答应对日常问答，深度思考处理复杂推理任务。  
+  公众号：腾讯元宝 · 2026-11-17 16:51
+
+- [智源 FlagOpen 上线 HumanCOIN DataManager 数据集门户](<https://github.com/FlagOpen/HumanCOIN-DataManager>)  
+  智源 FlagOpen 推出 HumanCOIN DataManager 网页门户，用于查找、预览和下载 HumanCOIN 数据集，首批预计包含约 1,200 小时数据。  
+  智源 FlagOpen：原创开源项目 · 2026-11-17 16:34
+
+- [谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言](<https://www.ithome.com/1/028/336.htm>)  
+  谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，用户可在语音设置或 Gemini Live 对话中切换口音。此次更新涵盖美式英语、英式英语、印度英语、印地语、巴西葡萄牙语、印度尼西亚语和韩语，其中英国用户可选 10 余种地区口音。谷歌与母语使用者合作还原当地语速与节奏，相关语音也适用于 Gemini Live 和文本转语音播放。  
+  IT之家·人工智能 · 2026-11-17 16:21
+
 - [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
   雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
   IT之家·人工智能 · 2026-11-17 16:16
-
-- [KaDeep AI](<https://www.producthunt.com/products/kadeep-ai>)  
-  Ready to ship? One agent tests, translates and audits it  
-  Product Hunt · English · 2026-11-17 16:00
 
 - [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)  
   Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitch…  
@@ -38,10 +142,6 @@
   智源 FlagOpen 开源 HumanCOIN，一个基于 LeRobot 的多传感器、多频率数据集扩展，每个传感器按各自采样率独立存为 parquet 文件，查询时按时间窗口动态对齐，无需预先重采样。  
   智源 FlagOpen：原创开源项目 · 2026-11-17 14:19
 
-- [CodeDesign v3](<https://www.producthunt.com/products/codedesign>)  
-  Run your website and business apps from ChatGPT or Claude  
-  Product Hunt · English · 2026-11-17 13:24
-
 - [百度李彦宏在 APEC 峰会警告 AI 泡沫风险，称应用落地成效不及预期](<https://www.ithome.com/1/028/225.htm>)  
   百度董事长兼 CEO 李彦宏在 2026 年 APEC 工商领导人峰会上表示，当前算力和基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。他对 AI 长期趋势保持乐观，并提出 AI 技术栈在芯片、云、模型、应用之上还需配套组织能力，类比电力革命缺少组织变革就难以释放经济价值；此前在百度世界大会 2026 上他称智能组织是 AI 时代新的厂房。  
   IT之家·人工智能 · 2026-11-17 13:01
@@ -57,10 +157,6 @@
 - [多家中国AI厂商收紧模型网络攻击能力并强化防御功能](<https://www.ithome.com/1/028/133.htm>)  
   据彭博社11月17日报道，阿里、腾讯、月之暗面等厂商最新发布的新一代模型普遍限制了网络进攻能力，同时强化漏洞检测与防御功能。阿里旗舰模型Qwen4-Max过滤了训练数据中可用于网络攻击的材料，保留漏洞检测等防御能力，且暂未公开模型权重。腾讯在Hy4正式版发布前已限制模型网络安全功能，剔除漏洞利用生成相关数据。月之暗面在Kimi K3.1 Pro后训练阶段移除网络攻击相关材料，过滤后模型在内部漏洞利用基准测试中得分为81.0%，低于未过滤版本的90.5%。智谱在开放GLM-5.3权重前进行了安全审查。腾讯首席AI科学…  
   IT之家·人工智能 · 2026-11-17 11:28
-
-- [OfinTech Desk](<https://www.producthunt.com/products/ofintech-desk>)  
-  Finance AI where every figure traces to its source  
-  Product Hunt · English · 2026-11-17 11:25
 
 - [OpenAI 推出 CSAM 检测工具，误标记图像减少 48%](<https://www.ithome.com/1/028/066.htm>)  
   OpenAI 推出儿童性虐待内容（CSAM）检测工具，通过 API 向经审核机构免费开放，其新图像分类器可减少 48% 误标记图像，标记图像实际含虐待内容的可能性约为原来两倍。  
@@ -85,101 +181,5 @@
 - [Anthropic IPO 后要求员工提前 30 天制定 10b5-1 书面售股计划](<https://www.ithome.com/1/028/040.htm>)  
   据 Business Insider 报道，Anthropic 计划在 IPO 后要求员工通过 10b5-1 交易计划出售股票，须书面预先确定数量、价格条件和至少 30 天后的出售日期。  
   IT之家·人工智能 · 2026-11-17 08:20
-
-- [Recraft 实测 ByteDance Seedream 5.5，与 Recraft V4.1 Pro 和 GPT Image 2.6 对比](<https://www.recraft.ai/blog/seedream-5-5>)  
-  ByteDance 的 Seedream 5.5 已上线 Recraft Studio 付费方案，Recraft 用此前 GPT Image 2.6 测试的同一组 12 个提示词，将其与 Recraft V4.1 Pro 和 GPT Image 2.6 Sunburst 逐一对比。  
-  Recraft 自有模型与设计产品 · 2026-11-17 08:00
-
-- [OpenHands Teams 发布：自助部署自动化工程工作流，首推漏洞修复场景](<https://www.openhands.dev/blog/introducing-openhands-teams>)  
-  OpenHands 发布 OpenHands Teams，为小型工程团队提供自助使用 OpenHands Enterprise 的入口，30 天免费试用，定价每月 500 美元含 10 用户，加人每月 50 美元，可在自有基础设施数分钟内部署。  
-  OpenHands 官方博客 · 2026-11-17 08:00
-
-- [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>)  
-  How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes…  
-  OpenAI · 2026-11-17 08:00
-
-- [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)  
-  OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and…  
-  OpenAI · 2026-11-17 08:00
-
-- [Astra for Law leads in legal intelligence](<https://openai.com/index/astra-law-6-2>)  
-  Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now…  
-  OpenAI · 2026-11-17 08:00
-
-- [Amp 发布 Windows 原生应用](<https://ampcode.com/news/amp-for-windows>)  
-  Amp 宣布推出 Windows 原生应用，用户可阅读官方文档了解使用方式，也可查看 Amp 全部原生应用列表。  
-  Amp Chronicle · 2026-11-17 08:00
-
-- [Browserbase 工程团队讲解如何用智能体在 1 天内完成 4000 万行 Chromium 代码的补丁与部署](<https://www.browserbase.com/blog/how-we-deploy-custom-chromium>)  
-  Browserbase 工程博客讲解其维护带超 18000 行安全与反检测补丁的 Chromium 内部 fork 的方法：借助编码智能体在 Google 发布前完成补丁重放、测试与部署，将原本一周的升级流程缩短到 1 天内。  
-  Browserbase / Stagehand 工程博客 · 2026-11-17 08:00
-
-- [Recraft Studio 上线 Seedance 2.5 Flash：速度约为 Seedance 2.5 两倍](<https://www.recraft.ai/blog/seedance-2-5-flash>)  
-  字节跳动 Seedance 2.5 的轻量快速版本 Seedance 2.5 Flash 已在 Recraft Studio 上线，官方称生成速度约为 Seedance 2.5 的两倍。  
-  Recraft 自有模型与设计产品 · 2026-11-17 08:00
-
-- [Gemini 3.5 Transcribe 新增语音编辑功能](<https://ai.google.dev/gemini-api/docs/changelog#11-17-2026>)  
-  gemini-3.5-transcribe 和 gemini-3.5-transcribe-live 现已支持语音驱动的编辑、改写与格式化，可作用于口述语音或已有文本（source\_text）。相关用法见音频转写与实时转写指南。  
-  Gemini API：更新日志（网页） · 2026-11-17 08:00
-
-- [Browser Use 推出 on-prem 隐身浏览器，Gumloop 在自有沙箱内运行](<https://browser-use.com/posts/gumloop-on-prem-stealth-browser>)  
-  Browser Use 介绍其 on-prem 隐身浏览器，Gumloop 于 2026 年 10 月 6 日上线 Browser 功能，将该浏览器跑在与 Agent 同一个云沙箱内，登录、下载和录制数据留在 Gumloop 自有基础设施。  
-  Browser Use · 2026-11-17 08:00
-
-- [Mastra 推出内置 MCP server，可将 agent、workflow 和工具暴露给 MCP 客户端](<https://mastra.ai/blog/introducing-built-in-mcp-server>)  
-  Mastra 发布内置 MCP server，安装 @mastra/mcp 并配置 auth 后，整个 Mastra server 在 /api/mcp 可用，自带 call\_agent、start\_workflow 和 get\_trace 工具，要求 @mastra/core@1.83.0 及以上。  
-  Mastra Blog · 2026-11-17 08:00
-
-- [Cerebras 推出分离式推理：GPU 负责预填充、Cerebras 系统负责解码，每兆瓦吞吐提升 5 倍](<https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference>)  
-  Cerebras 宣布分离式推理方案已投入生产，用 AMD Instinct GPU 处理 prompt（prefill），由 Cerebras CS-3 系统生成响应（decode）。  
-  Cerebras：Blog（网页） · 2026-11-17 08:00
-
-- [LanceDB 完成 5750 万美元 B 轮融资，Lance 格式在多家前沿 AI 实验室落地](<https://tomtunguz.com/the-lakehouse-for-ai/>)  
-  Tomasz Tunguz 宣布与 Bessemer Venture Partners 等参与 LanceDB 的 $57.5m Series B，其 Lance 数据湖仓格式服务多家前沿 AI 公司。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-17 08:00
-
-- [Claude Platform 推出 beta 版 linked billing 关联计费](<https://claude.com/blog/linked-billing-on-claude-platform>)  
-  Anthropic 在 Claude Platform 推出 beta 版 linked billing。第三方平台（如编码智能体和工作流自动化工具）无需共享 API 密钥即可让终端客户付费使用 Claude API，用量直接计入客户已有的 Anthropic 账单。  
-  Claude：Blog（网页） · 2026-11-17 08:00
-
-- [前设计师重返淘宝体验一天，见证 TaoDesign 改变设计工作方式](<https://mp.weixin.qq.com/s/kZmacfnVyM-yL1PthVR1Ww>)  
-  前设计师、AI 博主卡兹克入职淘宝设计团队一天，亲身体验自研设计工具 TaoDesign：可用 Prompt 加模板生成符合规范、可交互的设计稿，团队将 200 多个知识库蒸馏成风格库和 Skill，并提供数字用户调研、页面数据预测等功能。  
-  公众号：数字生命卡兹克 · 2026-11-17 07:56
-
-- [AI 网络安全初创公司 Corma 产品发布约 3 个月后估值达 10 亿美元](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
-  AI 网络安全初创公司 Corma 在产品推出约 3 个月后完成 1.25 亿美元 A 轮融资，估值 10 亿美元，由 NEA 领投，累计融资达 1.85 亿美元，投资方包括 Sequoia Capital、Khosla Ventures 和 Coatue。  
-  TechCrunch：AI（RSS） · 2026-11-17 07:32
-
-- [OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，改为先到先得](<https://www.ithome.com/1/028/027.htm>)  
-  OpenAI 将于 11 月 23 日再开放 5 万个 ChatGPT 学术研究免费名额，改为先到先得，不再采用试点阶段的抽签机制。每个名额含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus，本轮最多覆盖 15 万名研究人员。该计划 7 月启动以来已有 33 个国家和地区的 2 万名研究人员加入，整体目标提升至 20 万人。  
-  IT之家·人工智能 · 2026-11-17 07:18
-
-- [科技界人士质疑黄仁勋辞职背后存在针对其的谋划](<https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories>)  
-  The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。  
-  The Verge：AI（RSS） · 2026-11-17 07:17
-
-- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
-  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
-  NVIDIA Blog（RSS） · 2026-11-17 07:00
-
-- [获 Eric Trump 背书的人形机器人公司 Foundation Future Industries 发薪失败或濒临倒闭](<https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/>)  
-  据 CNBC 报道，获 Eric Trump 投资并担任首席战略顾问的人形机器人公司 Foundation Future Industries 未能支付截至 10 月 30 日的工资周期薪酬，内部人士担心若无法继续融资公司可能很快倒闭。报道还梳理了该公司的资金缺口、发薪失败以及对外宣传与实际进展不符等疑点。  
-  Ars Technica：AI（RSS） · 2026-11-17 06:58
-
-- [美国许可改革法案 BAAJA 引发气候与数据中心争议](<https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet>)  
-  普渡大学工程学副教授 Kevin Kircher 的分析发现，美国许可改革法案 BAAJA 总体上会增加排放，因为主要服务于数据中心供电的化石天然气电厂和管道需求将超过清洁能源增长。反对者警告，该法案对《联邦电力法》《清洁水法》《濒危物种法案》和《国家环境政策法》的修改，可能让不良行为者强行推进损害公共利益的基础设施项目。  
-  Canary Media：Data Centers 原创报道 · 2026-11-17 06:30
-
-- [Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>)  
-  TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。  
-  TechCrunch：AI（RSS） · 2026-11-17 06:03
-
-- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
-  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
-  Latent Space · 2026-11-17 05:27
-
-- [加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face](<https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>)  
-  加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。  
-  The Verge：AI（RSS） · 2026-11-17 04:46
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 23 页

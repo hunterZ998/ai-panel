@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 40 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 38 页
+
+- [i joined Nvidia two years ago, and there are a few things i wanted to say. one of the biggest surprises after joini…](<https://x.com/mahanfathi/status/2123254183792873798>)  
+  i joined Nvidia two years ago, and there are a few things i wanted to say. one of the biggest surprises after joining was finding out Jensen actually read employee emails. he'd write back with informed feedback and sharp, to-the-point questions. somewhere alon…  
+  @mahanfathi · 2026-11-19 11:17
+
+- [太性情了！](<https://x.com/Crypto_146827/status/2123252690331529439>)  
+  老马谈到黄仁勋哽咽，泪眼婆娑！ 马斯克目前在深圳，随同特朗普团队出席APEC，以数字身份参与纽约DealBook峰会。 视频里，老马试图忍着难过，不让眼泪流出，开口第一句就是: “黄仁勋是我的老朋友！” ... “黄仁勋确实犯了一些错！” ... “但是，我并不认为他对美国不忠！” ...  
+  @Crypto\_146827 · 2026-11-19 11:11
+
+- [卧槽，兄弟们，前 Uber 创始人 Travis Kalanick 这是要直接带人杀到英伟达总部去“兵谏”了。](<https://x.com/tyay2015/status/2123251538781163755>)  
+  黄仁勋被踢出局这事，现在彻底闹大了。卡兰尼克刚刚直接放话，准备扛着一个镶满晶圆的大喇叭，带着一堆准备罢工的英伟达员工、还有一帮科技圈的 CEO  
+  @tyay2015 · 2026-11-19 11:06
+
+- [OpenAI 研究员日均消耗 $2,400 智能体用量，最高 10% 超 $23,000](<https://x.com/rohanpaul_ai/status/2123250234457530538>)  
+  Rohan Paul 转述 OpenAI 研究加速报告数据：按 API 定价，OpenAI 研究员日均消耗 $2,400 的 AI 智能体用量，最高的 10% 超过 $23,000。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 11:01
+
+- [feels kinda biblical that SF is flooding the day before the anthropic ipo](<https://x.com/digitlartifacts/status/2123250191738478837>)  
+  @digitlartifacts · 2026-11-19 11:01
+
+- [Indian corporates and capitalists need to catch up in taking risks and be more willing to put their money where the…](<https://x.com/aravind/status/2123249395038916937>)  
+  By funding audacious teams and their crazy ideas. If an Anthropic kind of startup had approached investors in India for seed 5 years ago, the response  
+  @aravind · 2026-11-19 10:57
+
+- [Anthropic アンソロピック 24万株取得！](<https://x.com/Kswbrmst/status/2123248688881602680>)  
+  夜が楽しみだ😌  
+  @Kswbrmst · 2026-11-19 10:55
+
+- [AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例…](<https://x.com/AUTOMATONJapan/status/2123245952932942007>)  
+  AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例も、寿命が怖い  
+  @AUTOMATONJapan · 2026-11-19 10:44
+
+- [谷歌发布 Gemini 4 Neon，作者称 Antigravity 拖后腿](<https://x.com/aiwarts/status/2123245199300370650>)  
+  谷歌 11 月 18 日发布 Gemini 4 Neon，Artificial Analysis 综合智能指数 61 分排第三，价格约为 GPT-6.2 Astra 和 Claude Fable 5.2 旗舰的 37.5%，Pro 和 Ultra 订阅用户当天起可用。API 价格为每 100 万输…  
+  X：卡尔的 AI 沃茨 \(@aiwarts\) · 2026-11-19 10:41
+
+- [好消息！DeepSeek系团队开源神级仓库Linger，丝滑平替Grok Bot，实现完全用本地大模型运行Personal…](<https://x.com/gengdaJ/status/2123245141930774539>)  
+  ⓵既可免费本地推理，又可无缝衔接Claude Code和Codex官方订阅 本地 Linger 默认使用 Pi 框架，最低 Mac 16GB  
+  @gengdaJ · 2026-11-19 10:41
+
+- [💎 She remembers everything you like Custom AI Girlfriend with scene switching and video generation Free to begin 👉](<https://x.com/Musclemasss/status/2123240418251092091>)  
+  @Musclemasss · 2026-11-19 10:22
+
+- [Anthropic 到底有多遭人恨？？？](<https://x.com/taketokennn/status/2123240316492984339>)  
+  马上就要在纳斯达克敲钟了，结果临近敲钟前闹出了硅谷史上最魔幻的一幕： 平时互相骂街、势不两立的激进派（e/acc 加速党、开源派）和保守派（AI 安全中心、暂停派），居然罕见地联手签了一份《反人类声明》，共同抵制 Anthropic。 连 2 位诺贝尔奖、3 位菲尔兹奖和  
+  @taketokennn · 2026-11-19 10:21
+
+- [BREAKING: Trump joins Elon Musk in declaring Jensen Huang "can't be replaced."](<https://x.com/PolymarketMoney/status/2123240249656504610>)  
+  @PolymarketMoney · 2026-11-19 10:21
 
 - [黄仁勋内部讲话流出， 这不是妥妥的叛国罪吗？](<https://x.com/huang3feng/status/2123240112700227901>)  
   黄仁勋这下子真的无法再翻身了！  
@@ -128,54 +177,4 @@
   Nvidiaの関連や APECの関連について 一次情報のツイートと 日本のマスコミの テレビや新聞の報道の 時間的な遅れと偏向ぶり、 テレビのニュースショウのピンボケ具合をみて、 自分は今まで これらに騙されていたんだと 思った 気はついているのは僕だけでは無いだろう  
   @nishikazuhiko · 2026-11-19 09:02
 
-- [🚨 WOW: President Trump was asked about Jensen Huang, and he called what's happening a "TRAGEDY." He called Huang "a…](<https://x.com/GuntherEagleman/status/2123218955900747842>)  
-  🚨 WOW: President Trump was asked about Jensen Huang, and he called what's happening a "TRAGEDY." He called Huang "a brilliant man" and said, "Some people CAN'T BE REPLACED." The board "sounds like they have their own ideas." Trump said Nvidia's Blackwell chip …  
-  @GuntherEagleman · 2026-11-19 08:57
-
-- [OpenAI is a research lab pretending to be a ruthless profit-maximizing corporation, and Anthropic is the exact oppo…](<https://x.com/Noahpinion/status/2123216672752550257>)  
-  OpenAI is a research lab pretending to be a ruthless profit-maximizing corporation, and Anthropic is the exact opposite  
-  @Noahpinion · 2026-11-19 08:47
-
-- [🚨 JUST NOW: President Trump GOES TO BAT for Elon Musk and Jensen Huang in China "We have to TAKE CARE of our genius…](<https://x.com/nicksortor/status/2123214896351654338>)  
-  We don't have that many of them\!" I'm not sure if Elon and Jensen's situations are comparable, but I agree with the premise of his answer 🤣  
-  @nicksortor · 2026-11-19 08:40
-
-- [🚨 JUST IN: President Trump says we need to TAKE CARE of our geniuses like Elon Musk and Jensen Huang "We have to TA…](<https://x.com/EricLDaugh/status/2123214863157653756>)  
-  When we have brilliant people like Jensen...you know, I helped @ElonMusk a lot\! Now he's sending up rockets and LANDING them\!" 👏🏻 "It's a  
-  @EricLDaugh · 2026-11-19 08:40
-
-- [Trump on whether he raised Jensen Huang with Xi: "I might've referred to it just briefly because it's such a traged…](<https://x.com/atrupar/status/2123214552137371925>)  
-  It's a tragedy. He's such a brilliant man ... we have to take care of our geniuses. I helped Elon a lot in my first term."  
-  @atrupar · 2026-11-19 08:39
-
-- [马斯克在深圳酒店谈黄仁勋。](<https://x.com/ZhouTalks/status/2123214318414275034>)  
-  在这个连信仰都能被明码标价的时代，总有人天真地以为，一家伟大公司的灵魂也是可以随便替换的。 面对要把黄仁勋踢出英伟达的荒谬声音，正在《纽约时报》DealBook  
-  @ZhouTalks · 2026-11-19 08:38
-
-- [UCSD Hao AI Lab 发布 ORA Traces 数据集：7 个模型在 5 个基准上的 3K+ 条轨迹](<https://x.com/haoailab/status/2123214040793276715>)  
-  UCSD Hao AI Lab 发布 ORA Traces 数据集，包含 7 个模型在 5 个基准上的 3K+ 条 episode，附系统提示词、camera images 和完整 CoT。数据已在 Hugging Face 开放：  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
-
-- [ORA 用 cuRobo 规划机器人动作](<https://x.com/haoailab/status/2123214034178875823>)  
-  动作更流畅。ORA 现在用 cuRobo 规划每一步动作，并基于机器人深度图像构建的地图进行规划。在 RoboDojo 上，因碰撞而中止的动作从 14.1% 降至 7.0%；在 RoboTwin 上从 18.4% 降至 6.8%。  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
-
-- [UCSD Hao AI Lab 发布开源零样本机器人工具 ORA v0.1](<https://x.com/haoailab/status/2123214025580536251>)  
-  UCSD Hao AI Lab 发布开源零样本机器人使用工具 ORA v0.1，代码见 DeepSeek V4.1-Flash，相比 10 月预览版，RoboDojo 从 5.2% 提升到 39.9%，RoboTwin 从 71.5% 提升到 79.6%。  
-  X：UCSD Hao AI Lab \(@haoailab\) · 2026-11-19 08:37
-
-- [🇺🇸 First the outages, now the venue itself is flooding 💀 A storm sent rain through the roof of San Francisco’s Mosc…](<https://x.com/MarioNawfal/status/2123212677669413053>)  
-  Sessions are still underway, but the timing after  
-  @MarioNawfal · 2026-11-19 08:32
-
-- [Elon Musk says SpaceX aims to bring online over 1 GW of terrestrial AI compute per month by the end of 2027.](<https://x.com/wallstengine/status/2123212558438134157>)  
-  Its current pace is \~0.5 GW a month, equivalent to roughly 220,000 Nvidia GB300s plus CPUs, networking and cooling, measured at the power-plant level.  
-  @wallstengine · 2026-11-19 08:31
-
-- [Oppose the AI overlord Reinstate Jensen Huang](<https://x.com/kevinnbass/status/2123212380461244519>)  
-  @kevinnbass · 2026-11-19 08:30
-
-- [Ten bucks says Donald Trump will pardon Jensen Huang for violating the Espionage Act](<https://x.com/theliamnissan/status/2123212310609023355>)  
-  @theliamnissan · 2026-11-19 08:30
-
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 40 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 38 页

@@ -10,23 +10,27 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 20 条
+## 相关资讯 · 19 条
+
+- [服务 54 万商家后，AINU AI 想把"爆款视频"变成一条生产流水线](<https://36kr.com/p/4063646998140033?f=rss>)  
+  AINU AI 首页工作台 过去两年，AI 视频赛道的主角是"模型"。可灵、即梦、Runway 轮番刷新生成质量纪录，行业讨论始终围绕画面够不够真实、动作是否自然。 但在真实的创作者场景里，另一个问题正在浮现——"做得出来"之后，怎么"做得  
+  36氪 · 2026-11-20 10:53
 
 - [除AI外全线下滑，可灵真成“全村希望”？](<https://36kr.com/p/4076736740676484?f=rss>)  
   2026 年 11 月 19 日，快手发布 2026 Q3 季度财报，财报数据显示，Q3 季度总收入 316 亿元，同比下滑 11.1%，经调整净利润 7.9 亿元，同比下滑 84.2%。Q1-Q3，快手总收入 1008.43 亿元，同比下  
   36氪 · 2026-11-20 07:58
 
+- [TRACER：AI 视频系统 24 小时监测 ICU 患者谵妄早期迹象](<https://hai.stanford.edu/news/ai-enabled-video-system-monitors-icu-patients-for-early-signs-of-delirium>)  
+  计算机视觉专家与医生联合开发了 TRACER 系统，通过 ICU 床旁双摄像头 24 小时视频分析，结合电子健康记录追踪患者活动变化，识别谵妄早期迹象。系统以每分钟采样 15 种"原子动作"、压缩为每小时报告的方式降低数据量，医生可通过多模态界面查询患者数日行为变化。该研究部分由 Stanford HAI 资助。  
+  Stanford HAI News（网页） · 2026-11-20 00:00
+
 - [Kling 4.0 支持原生 4K 直出与 10-bit HDR 输出](<https://mp.weixin.qq.com/s/GSKWsr7xFHldKR4Ha_lFzg>)  
   可灵AI 官宣 Kling 4.0 支持原生 4K 视频直出，并可在 4K 和 1080p 分辨率下输出 10-bit HDR 视频。官方称画面细节更清晰、色彩层次更丰富，可在 klingai.com 体验。  
   公众号：可灵AI（快手·视频） · 2026-11-19 23:00
 
-- [快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景](<https://www.ithome.com/1/029/686.htm>)  
-  IT之家 11 月 19 日消息，据《科创板日报》今天报道，快手 CEO 程一笑今日在业绩会中透露，Kling 4.0 模型上线后，可灵流水实现提升，当前收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARP…  
-  IT之家 · 2026-11-19 21:36
-
-- [AI视频，进入DeepSeek时刻？](<https://36kr.com/p/4076581131244674?f=rss>)  
-  AI视频行业正在靠近一个类似DeepSeek的时刻，模型能力差距收窄，价格被打到分/秒，创作者开始批量调用。 11月初，谷歌把视频模型Gemini Omni 1.2 Flash转为正式版，不仅支持15秒视频生成和多轮对话式编辑等功能升级，还  
-  36氪 · 2026-11-19 19:39
+- [快手 CEO 程一笑：Kling 4.0 已进入游戏和具身智能等场景](<https://www.ithome.com/1/029/686.htm>)  
+  快手 CEO 程一笑在业绩会上表示，Kling 4.0 上线后可灵流水提升，收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU 均保持增长。  
+  IT之家·人工智能 · 2026-11-19 21:36
 
 - [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
   Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
@@ -56,8 +60,8 @@
   快手可灵 AI 于 11 月 17 日宣布图像创作模型 Kling Image 4.0 正式上线，并向企业客户与开发者开放 API 接入。  
   IT之家·人工智能 · 2026-11-17 23:26
 
-- [可灵 AI 发布 Kling Image 4.0 图像模型并开放 API](<https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w>)  
-  快手可灵 AI 发布新一代图像创作模型 Kling Image 4.0，现已全量上线并面向企业客户与开发者开放 API。模型采用「理解生成统一」架构，首次支持原生 8K 图像生成，内置 110+ 种预设影调风格和 70+ 种商用字体，支持最高 15000 tokens 文本输入、单图最多生成 2000 字，以及一次描述生成最多 10 张风格连贯的组图和电商详情页等超长画幅长图。  
+- [可灵AI 发布 Kling Image 4.0 图像生成模型并开放 API 接入](<https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w>)  
+  可灵AI 发布全新图像创作模型 Kling Image 4.0，现已全量上线并面向企业客户与开发者开放 API 接入。新模型采用理解生成统一架构，首次支持原生 8K 图像生成，支持单张图最多生成 2000 字文本、最高 15000 tokens 文本输入，一次描述最多生成 10 张组图，并支持电商详情页与网页设计长图。  
   公众号：可灵AI（快手·视频） · 2026-11-17 23:10
 
 - [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
@@ -79,14 +83,6 @@
 - [火山引擎开放 Seedance 2.5 4K API](<https://mp.weixin.qq.com/s/c6pWJXD6YXf8lcwLdNu5zA>)  
   火山引擎宣布 Seedance 2.5 4K API 全面开放，可通过文末链接获取 API 入口。Seedance 官方优质作品及公开提示词可在火山方舟 Gallery 查看，网址 https://ark.volcengine.com/ark/gallery。  
   公众号：火山引擎 · 2026-11-16 14:03
-
-- [美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型](<https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6>)  
-  美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。  
-  美团 LongCat：HuggingFace 新模型 · 2026-11-13 10:45
-
-- [World Labs发布Atlas工具与开发API，提供图像重建、可控场景构建及splats转网格，并面向影视、设计和机器人研究/仿真工作流。已核对官方入口与功能说明，尚未验证生成质量、物理真实性或机器人训练收益。](<https://x.com/Clairef9vu/status/2121056821431640116>)  
-  World Labs opened Atlas to everyone. a sketch, a photo, or up to 64 images in, a consistent 3D world out, exportable as video or Gaussian splats. they shipped the API endpoints too, so agents can drive it. world models leaving the demo reel phase feels like a …  
-  @Clairef9vu · 2026-11-13 09:45
 
 - [视频生成不再反复抽卡！清华开源，给模型装上「三维空间大脑」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=3&sn=5112b6645bbbec5d670fb8d97636f63d>)  
   新智元 · 2026-11-09 12:56

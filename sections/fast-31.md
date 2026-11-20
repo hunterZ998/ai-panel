@@ -1,6 +1,58 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 40 页
+[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 38 页
+
+- [⚡️BREAKING: The FBI is now Warning that state-tied hackers are using the ARTEX AI framework to launch cyberattacks…](<https://x.com/IranObserver0/status/2122771964645331193>)  
+  ⚡️BREAKING: The FBI is now Warning that state-tied hackers are using the ARTEX AI framework to launch cyberattacks The U.S. has faced major outages and cyberattacks in recent days: - Microsoft 365 - FAA ground stop - Major U.S. banks - NSA network - Apple  
+  @IranObserver0 · 2026-11-18 03:20
+
+- [BREAKING: Top AI models regularly misidentify civilians and civilian infrastructure as military targets in tests, p…](<https://x.com/unusual_whales/status/2122770999938826491>)  
+  Models from Anthropic and other leading AI companies were among those that flagged civilian targets during testing, the report says. It comes as  
+  @unusual\_whales · 2026-11-18 03:17
+
+- [Peter 实测对比 GPT-6.2 Astra、Sol 与 Claude Fable 5.2 的视觉编码能力](<https://x.com/arena/status/2122770880099193017>)  
+  Arena 宣布 OpenAI 发布 GPT-6.2 Astra 和 Sol，并预告基于全球用户真实会话的 Agent Arena 评分即将上线。  
+  X：Arena \(@arena\) · 2026-11-18 03:16
+
+- [THIS IS STARTING TO LOOK LIKE A DIGITAL APOCALYPSE.](<https://x.com/BullTheoryio/status/2122770732497453115>)  
+  What has happened over the past 8 days is hard to believe, and it keeps getting worse. Nov 10: Apple's iCloud and Apple ID went down worldwide, and people couldn't even log in to their accounts. Nov 12: Microsoft Outlook,  
+  @BullTheoryio · 2026-11-18 03:15
+
+- [Remember when Anthropic CEO Dario Amodei smiled when asked about Claude AI's role in the US strike on the Minab sch…](<https://x.com/HatsOffff/status/2122770496945066167>)  
+  Remember when Anthropic CEO Dario Amodei smiled when asked about Claude AI's role in the US strike on the Minab school that killed 168 children?  
+  @HatsOffff · 2026-11-18 03:15
+
+- [开源决策模型 Karpo Decision 31B 发布，以 73.9 分并列 Decision Index 300 模型…](<https://x.com/rohanpaul_ai/status/2122770273879658621>)  
+  MachinePulseAI 发布开源权重决策模型 Karpo Decision 系列，含 0.8B 到 31B 六个型号，用单次前向传播直接输出各选项概率而不生成 token。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 03:14
+
+- [Last week: Microsoft was down.](<https://x.com/mario4thenorth/status/2122769249865236831>)  
+  Then the FAA grounded all flights. Banks were compromised. Binance was hacked for billions. We’re hearing from CNN that the NSA’s internal communications service is down. Now, the FBI \(Dallas\) put out a statement related to this:  
+  @mario4thenorth · 2026-11-18 03:10
+
+- [🚨 The FBI just issued a flash warning stating state-aligned actors and cybercriminals are exploiting super intellig…](<https://x.com/bennyjohnson/status/2122769137747280029>)  
+  Officials say this is what caused the Microsoft breach. So, this WAS a cyber attack. This is exactly what we  
+  @bennyjohnson · 2026-11-18 03:09
+
+- [🚨 BREAKING: Downdetector is lighting up with reports across dozens of major US services right now.](<https://x.com/SamVale29/status/2122767694911164845>)  
+  Apple: Apple Pay, iCloud, App Store, Apple Music, Apple Card, Sign in with Apple, iMessage Microsoft: Outlook, Microsoft 365, Teams, Copilot Google: Gmail, Google, YouTube Banks:  
+  @SamVale29 · 2026-11-18 03:03
+
+- [Google DeepMind 演示用 Gemini 4 Hydrogen 在 MuJoCo 中从草图快速搭建机械臂方案](<https://x.com/GoogleDeepMind/status/2122767528933925363>)  
+  Google DeepMind 展示 Gemini 4 Hydrogen 的机器人开发用法：上传照片或提示词即可在 MuJoCo 中构建 3D 场景，通过对话调整物体与动作后直接部署到机械臂，从白板草图到一个可工作的传送带分拣装置约一小时。用户可在 Antigravity、Google AI St…  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-18 03:03
+
+- [Google DeepMind 发布 Gemini 4 Hydrogen 机器人插件，支持对话式训练机械臂](<https://x.com/GoogleDeepMind/status/2122767521925230896>)  
+  Google DeepMind 宣布推出 Gemini 4 Hydrogen 与 Google Antigravity 的新机器人插件，让教学机器人新任务更快。用户可连接受支持的机械臂，在 MuJoCo 模拟中练习，并通过普通对话在真实世界中执行任务。  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-18 03:03
+
+- [🇺🇸‼️🚨 9 BIG OUTAGES IN 6 DAYS Now Apple. iCloud sign-in, App Store, Apple Music and AppleCare down today, per Apple.](<https://x.com/MyLordBebo/status/2122766808323412231>)  
+  Before that Microsoft 365, FAA, Amtrak, Workday, Chase, United, Schwab and even the NSA’s classified network … What’s happening? These are supposed to be  
+  @MyLordBebo · 2026-11-18 03:00
+
+- [Gemini Tasks 免费用户现可用 Gemini 4 Hydrogen 模型运行](<https://x.com/Google/status/2122766772252148137>)  
+  Google 宣布 Gemini Tasks 现在也可在最新 Gemini 4 Hydrogen 模型上运行，对所有免费用户开放，为日常任务带来更强的智能与速度。更多 GeminiApp 更新可查看官方链接  
+  X：Google \(@Google\) · 2026-11-18 03:00
 
 - [Gemini 支持转发邮件创建任务](<https://x.com/Google/status/2122766740354392358>)  
   在 Android 和 iOS 上给 Gemini 发消息布置任务，或直接把邮件转发给 Gemini，让它根据邮件中的信息创建任务或日历日程。📅  
@@ -126,54 +178,4 @@
   GPT-6.2 Astra 成为 AA-Robotics v0.1 的新榜首，得分 79，比 GPT-6 Astra 高 10 分，领先于 GPT-6.2 Sol（78）、Claude Fable 5.2（75）和 Gemini 4 Hydrogen（58） 通过 Codex 控制真实机械臂，它通…  
   X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:21
 
-- [🇺🇸 ‼️ \| Miles de usuarios reportan fallos en Gmail, Marriott, Outlook y Microsoft 365, y también en servicios de Ap…](<https://x.com/UHN_Plus/status/2122756691494043956>)  
-  Google no registra interrupciones activas en su panel de estado y Microsoft afirma que ya opera con normalidad, así que no hay una  
-  @UHN\_Plus · 2026-11-18 02:20
-
-- [The FBI just confirmed what every engineer already knows: centralization is a security flaw.](<https://x.com/brivael/status/2122756526871806444>)  
-  On November 13, the Bureau issued an alert about ARTEX, an open-source AI tool that automates cyberattacks end to end. Reconnaissance, vulnerability discovery, exploitation, privilege  
-  @brivael · 2026-11-18 02:19
-
-- [We're thrilled to invest in First Person Labs.](<https://x.com/a16z/status/2122756295744983543>)  
-  For personal agents to become useful in everyday life, they need a total understanding of you. That creates something extraordinarily sensitive: a model of your relationships, priorities, habits, and intentions. We believe you  
-  @a16z · 2026-11-18 02:18
-
-- [Primero cayó Microsoft por 20 horas, una locura.](<https://x.com/martinvars/status/2122756213863764170>)  
-  Después vino el ground stop de la FAA que paralizó aeropuertos a nivel nacional el viernes 14, otro delirio. El lunes 16, United Airlines reportó y resolvió una falla tecnológica que retrasó salidas. Binance sufrió un hack masivo  
-  @martinvars · 2026-11-18 02:18
-
-- [Noam Brown 评价 GPT-6.2 Astra：20 美元月费可用部分领域超越顶尖人类的模型](<https://x.com/polynoamial/status/2122756095596970090>)  
-  Noam Brown 称赞 OpenAI 的 GPT-6.2 Astra，认为每月 20 美元即可使用一个在某些领域超越顶尖人类智能的模型，并表示最期待看到人们用它做出科学发现。其引用的 OpenAI 内容称该模型在专业工作和科研评测中创下新高，单任务成本不到 GPT-6 Astra 的三分之一，…  
-  X：Noam Brown \(@polynoamial\) · 2026-11-18 02:17
-
-- [BREAKING: Jensen Huang passed billions of dollars in Nvidia stock to his heirs months before his downfall, per Barr…](<https://x.com/unusual_whales/status/2122755900532564255>)  
-  Advisors called it “one of the most stunning transfers of wealth” they’ve seen. Estate planners say the strategy lets that wealth pass to his heirs without  
-  @unusual\_whales · 2026-11-18 02:17
-
-- [🚨🇺🇸 BREAKING: KIMBERLY POWELL FIRES BACK AT JENSEN HUANG’S CRITICS, DENIES EVER HAVING SEXUAL RELATIONS WITH THE NV…](<https://x.com/madrid_xtraq/status/2122755888062828806>)  
-  🚨🇺🇸 BREAKING: KIMBERLY POWELL FIRES BACK AT JENSEN HUANG’S CRITICS, DENIES EVER HAVING SEXUAL RELATIONS WITH THE NVIDIA EXECUTIVE AND CALLS ON THE COMPANY’S BOARD TO REINSTATE HIM AS CEO, SAYS HE DOES NOT DESERVE TO LOSE HIS CAREER OVER UNPROVEN ALLEGATIONS. 🗣…  
-  @madrid\_xtraq · 2026-11-18 02:16
-
-- [Anthropic is evil.](<https://x.com/brivael/status/2122755871344300434>)  
-  @brivael · 2026-11-18 02:16
-
-- [Jensen Huang volviendo a Nvidia como CEO](<https://x.com/mil0tix/status/2122755824305222117>)  
-  @mil0tix · 2026-11-18 02:16
-
-- [Introducing Second, and a $10M seed led by @a16z.](<https://x.com/kenziyuliu/status/2122755334305669625>)  
-  Second builds a model of you that you own, and your agents can use as an API. Truly personal software needs a deep understanding of you: not just your emails and messages, but how you work, what motivates you, your people,  
-  @kenziyuliu · 2026-11-18 02:14
-
-- [Crisis meeting.](<https://x.com/brivael/status/2122754999923200147>)  
-  Somewhere between Davos and a Brussels think tank. On the agenda: a week of outages across America. Microsoft goes down. FAA air traffic control goes down. United grounds its planes. Chase and other banks lock people out of their accounts. Around the table,  
-  @brivael · 2026-11-18 02:13
-
-- [As an Nvidia shareholder @nvidia, I believe the only fair resolution to the Jensen problem is a shareholder vote.](<https://x.com/HopeToProsper/status/2122754633550774664>)  
-  The board doesn't own the company; the shareholders do, and our voices haven't been heard. I vote to keep Jensen as CEO. @JensenHuang  
-  @HopeToProsper · 2026-11-18 02:11
-
-- [Microsoft AI 发布 MAI-Image-2.7，登顶 AA-Image-Editing v2.1 图像编辑评测](<https://x.com/ArtificialAnlys/status/2122754535206846610>)  
-  Artificial Analysis 介绍 Microsoft AI 发布 MAI-Image-2.7，成为 AA-Image-Editing v2.1 榜单第一，价格约为其身后四个模型的六分之一。  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-18 02:11
-
-[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 40 页
+[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 38 页

@@ -1,6 +1,54 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 40 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 38 页
+
+- [Bloomberg：Nvidia 将在投资 AI 公司前执行更严格的审查](<https://x.com/rohanpaul_ai/status/2122898087735923189>)  
+  Bloomberg 报道，Nvidia interim CEO Colette Kress 表示将在投资 AI 公司前执行更严格的审查。Nvidia 目前已在 OpenAI、Anthropic、CoreWeave 等公司持有约 $100B 的股权和兜底安排。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 11:42
+
+- [30 Websites That Feel "Illegal" But Are Perfectly Legal 1. — Free unlimited AI image generation, quality rivals Mid…](<https://x.com/hey_Jessicaai/status/2122898020673147123>)  
+  30 Websites That Feel "Illegal" But Are Perfectly Legal 1. — Free unlimited AI image generation, quality rivals Midjourney 2. — Real-time AI image generation, draws as you go 3. — AI unlimited image  
+  @hey\_Jessicaai · 2026-11-18 11:41
+
+- [If this is who is leading Nvidia from here on instead of Jensen then it's totally over](<https://x.com/beffjezos/status/2122895355029373302>)  
+  @beffjezos · 2026-11-18 11:31
+
+- [让 AI 边看视频边理解，门槛终于被一脚踹到了地板上！](<https://x.com/mingzi206/status/2122894386161918301>)  
+  Hugging Face 刚开源了目前全世界体积最小的视频多模态模型：SmolVLM2-256M 很多人以为给 AI 装上“眼睛”去读长视频，动不动要吞几十 GB 显存。这个仅有 256M（约 0.25B）参数的小家伙，直接把配置要求杀到了极限： · 只要 1.38GB  
+  @mingzi206 · 2026-11-18 11:27
+
+- [Nvidia is cooked 💀](<https://x.com/5149jamesli/status/2122894368579440994>)  
+  @5149jamesli · 2026-11-18 11:27
+
+- [BREAKING: Corporate filings reveal Jensen Huang can still nominate 2 directors to Nvidia’s board after stepping dow…](<https://x.com/Polymarket/status/2122893892903145969>)  
+  BREAKING: Corporate filings reveal Jensen Huang can still nominate 2 directors to Nvidia’s board after stepping down as CEO.  
+  @Polymarket · 2026-11-18 11:25
+
+- [Scoop: Nvidia played matchmaking between Alibaba and Alice Huang to help the Chinese tech giant find workarounds on…](<https://x.com/jingyanghk/status/2122892475539038397>)  
+  Scoop: Nvidia played matchmaking between Alibaba and Alice Huang to help the Chinese tech giant find workarounds on U.S. export controls, by @JuroOsawa @QianerLiu via @theinformation $NVDA $BABA  
+  @jingyanghk · 2026-11-18 11:19
+
+- [JUST IN: Nvidia $NVDA to buy $10,000,000,000 in Anthropic shares.](<https://x.com/WatcherGuru/status/2122892171435020351>)  
+  @WatcherGuru · 2026-11-18 11:18
+
+- [Trump should be impeached and convicted for NVIDIAgate.](<https://x.com/commons96055467/status/2122891103095677039>)  
+  It’s not difficult to understand. 1\) NVIDIA chips were under the highest national security protection where the sales of it to China was restricted by Biden. 2\) China wanted those chips, so they offered a honeypot for  
+  @commons96055467 · 2026-11-18 11:14
+
+- [Jensen Huang, who resigned as Nvidia’s CEO last week, agreed to appear before three House committees on Dec. 1, law…](<https://x.com/60Minutes/status/2122889540243169731>)  
+  In 2024, Huang told 60 Minutes how he and two friends came up with the idea for Nvidia while sitting in a booth at Denny’s. Watch the full  
+  @60Minutes · 2026-11-18 11:08
+
+- [Many of us who have worked corporate jobs and have seen such cold &amp;amp; soulless management know how suffocating th…](<https://x.com/hashurtag/status/2122888648030867491>)  
+  No way you’re inspiring anyone or retaining talent with that tone, look and callous attitude. What do you think Nvidia talent feels like  
+  @hashurtag · 2026-11-18 11:04
+
+- [Nvidia is absolutely cooked unless whatever this is changes and fast.](<https://x.com/AutismCapital/status/2122888380518416715>)  
+  @AutismCapital · 2026-11-18 11:03
+
+- [🚨 Rahul Patil, a computer science graduate at PES University in Bengaluru, has become the CTO of Anthropic.](<https://x.com/IndianTechGuide/status/2122887650369490988>)  
+  No IIT... No Ivy League...  
+  @IndianTechGuide · 2026-11-18 11:00
 
 - [เช้านี้อ่านเจอเพจวิเคราะห์หุ้นพูดถึง nvidia มากมาย .... แต่เพจไหนวิเคราะห์ว่า ... จากงบที่ออกมา Nvidia พิสูจน์แล้วว…](<https://x.com/cosmosno1/status/2122884891042095415>)  
   เช้านี้อ่านเจอเพจวิเคราะห์หุ้นพูดถึง nvidia มากมาย .... แต่เพจไหนวิเคราะห์ว่า ... จากงบที่ออกมา Nvidia พิสูจน์แล้วว่าธุรกิจเดินได้โดยไม่ต้องมี Huang ขอตีเก๊ หรือไม่คุณก็เอา ai เขียนแล้วไม่อ่านก่อนโพสนะครับ Jensen Huang ออกจากตำแหน่ง CEO มาแค่ 7 วัน แต่งบ Q3 ที…  
@@ -122,53 +170,4 @@
   Se las cuento:  
   @beltrandelrio · 2026-11-18 09:06
 
-- [Howard Lutnick belongs in prison for risking our national security for his and Tether's financial gain.](<https://x.com/leahfiles/status/2122858892027679133>)  
-  And I think Scott Bessent used the Nvidia scandal to expose what Lutnick was doing. Lutnick needs to be investigated for his role in laundering Nvidia chips to China. What  
-  @leahfiles · 2026-11-18 09:06
-
-- [深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远](<https://x.com/Khazix0918/status/2122858329248825669>)  
-  作者实测OpenAI新发布的GPT-6.2 Astra与Sol两个模型，已同步上线ChatGPT、Codex和API，Astra降价20%，缓存读取从1美元降至0.4美元。  
-  X：卡兹克 \(@Khazix0918\) · 2026-11-18 09:04
-
-- [A daily limit on a on device model?](<https://x.com/Za1ama/status/2122857742960632135>)  
-  @Za1ama · 2026-11-18 09:01
-
-- [全国のお客様およびパートナーの皆様へ 先週発生した Microsoft 365 の障害により、お客様およびパートナーの皆様…](<https://x.com/mskkpr/status/2122857320531279900>)  
-  本件は技術的な問題によるもので、サイバー攻撃または AI や AI  
-  @mskkpr · 2026-11-18 09:00
-
-- [Rumors are that Anthropic is out to kill open-source.](<https://x.com/bindureddy/status/2122857145351979440>)  
-  This is literally IMPOSSIBLE to do - deepseek's latest model is trained on Chinese chips - open-source is China's entire strategy - open-source token usage is growing 10x faster than Anthropic's usage Smaller models like  
-  @bindureddy · 2026-11-18 08:59
-
-- [Jeff Bezos says if Jensen Huang isn't coming back, he wouldn't hire an outsider as Nvidia's CEO.](<https://x.com/wallstengine/status/2122855814297993573>)  
-  He says outside CEOs at complex companies have a "vanishingly small chance of succeeding."  
-  @wallstengine · 2026-11-18 08:54
-
-- [🚨🚨🚨 MASSIVE SCANDAL: MICROSOFT said to have MOVED US GOVERNMENT ACCESS FROM THE CHINESE \(AFTER BEING CAUGHT\!\) -- TO…](<https://x.com/RedPillRabbit/status/2122855140772229500>)  
-  MICROSOFT IS A NATIONAL SECURITY RISK\! "A leaked internal note circulating today says SharePoint OnPrem "is on the transition to IDC team. IDC is the  
-  @RedPillRabbit · 2026-11-18 08:51
-
-- [Former Nvidia CEO Jensen Huang can nominate two directors to company board, filings show](<https://x.com/Reuters/status/2122853628436164666>)  
-  @Reuters · 2026-11-18 08:45
-
-- [No futuro, a chantagem será arma usada contra todos -- graças às redes sociais, às leis q criminalizam a palavra, e…](<https://x.com/schmittpaula/status/2122853363972981227>)  
-  Parabéns @leonardomatedi excelente resumo, e Nvidia caiu muito bem aí  
-  @schmittpaula · 2026-11-18 08:44
-
-- [Dress like Clavicular, love like Jensen Huang, think like professor Jiang](<https://x.com/TWarPhilosopher/status/2122852633300091063>)  
-  @TWarPhilosopher · 2026-11-18 08:41
-
-- [🇺🇸🇨🇳 Jensen Huang gets HEATED over restrictions on selling AI chips to China\! “It's a chip, and it's a chip that th…](<https://x.com/MarioNawfal/status/2122851750319411586>)  
-  To leave that market ... is a disservice to our national security.” Huang argues  
-  @MarioNawfal · 2026-11-18 08:37
-
-- [なにそれ。盗聴やん。](<https://x.com/kinneko/status/2122851542768418930>)  
-  Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明 - GIGAZINE  
-  @kinneko · 2026-11-18 08:37
-
-- [🚨 TODAY: Jeff Bezos told Semafor that Nvidia should never hire an outsider to replace Jensen Huang, since the compa…](<https://x.com/Cointelegraph/status/2122849931853525383>)  
-  🚨 TODAY: Jeff Bezos told Semafor that Nvidia should never hire an outsider to replace Jensen Huang, since the company is too complex for an outside CEO to succeed.  
-  @Cointelegraph · 2026-11-18 08:30
-
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 40 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 38 页

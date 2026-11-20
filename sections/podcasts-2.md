@@ -78,10 +78,6 @@
   AI agents can reason over enormous amounts of information, but much of the world’s actual work is still trapped in PD…  
   The a16z Show · 2026-10-21 18:00
 
-- [AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess](<https://www.latent.space/p/tenex>)  
-  Alex Lieberman and CJ Hess join swyx at AI Engineer New York to discuss Tenex’s approach to AI-native engineering, pa…  
-  Latent Space · 2026-10-21 13:01
-
 - [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](<https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss>)  
   今天我们的嘉宾是科沃斯CEO钱程（David）。 他出生于1990年，曾是中国最年轻A股上市公司CEO，也是一名企二代、创二代。我很好奇的是，当一代中国企业开始从创业进入传承，真正在经历这个过程的当事人，他所面临的现实与所思所想？ 钱…  
   张小珺商业访谈录 · 2026-10-21 08:00

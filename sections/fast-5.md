@@ -1,6 +1,54 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 40 页
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 38 页
+
+- [BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 I…](<https://x.com/KobeissiLetter/status/2123465131501736418>)  
+  This officially pushes the company's fully diluted valuation above $2 trillion, making it the 6th most valuable publicly traded company in the world on  
+  @KobeissiLetter · 2026-11-20 01:15
+
+- [indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟](<https://x.com/indigox/status/2123464879961186584>)  
+  indigo 转发 @YahooFinance 的画面，Dario Amodei 在 Nasdaq 为 Anthropic IPO 敲响开市钟。作者恭喜这家最"人类"的科技公司上市，并调侃其敲钟鼓掌的样子怎么像是 AI 生成的。  
+  X：indigo \(@indigox\) · 2026-11-20 01:14
+
+- [Los reporteros chinos ya no usan las cámaras tradicionales, ahora usan teléfonos Huawei con lentes.](<https://x.com/SantyRuize/status/2123464180904665490>)  
+  @SantyRuize · 2026-11-20 01:11
+
+- [Wow.](<https://x.com/TheStalwart/status/2123463178898346431>)  
+  Anthropic ran into a brick wall  
+  @TheStalwart · 2026-11-20 01:07
+
+- [BREAKING: The S&amp;amp;P 500 falls over -230 points from its high of the day as the Anthropic, $ANT, IPO debuts and te…](<https://x.com/KobeissiLetter/status/2123462999839302085>)  
+  The S&amp;amp;P 500 is now trading below 7200 for the first time since May 5th.  
+  @KobeissiLetter · 2026-11-20 01:06
+
+- [Anthropic CEO Dario Amodei 就公司 IPO 发表声明](<https://x.com/AnthropicAI/status/2123461658890686863>)  
+  Anthropic CEO Dario Amodei 就公司 IPO 发表声明，称今天让公司财务地位更稳固，并强调不会向商业或政治压力低头，将放慢 AI 训练与部署节奏以确保安全和人类可控。声明以生物学背景和 Claude 在科研中的应用为例阐述使命，同时承认滥用、经济冲击和失控等风险，倡导行业「…  
+  X：Anthropic \(@AnthropicAI\) · 2026-11-20 01:01
+
+- [BREAKING: Anthropic is now worth more than the entire economy of Saudi Arabia](<https://x.com/Kalshi/status/2123461305856033014>)  
+  @Kalshi · 2026-11-20 01:00
+
+- [This is the CEO of Anthropic.](<https://x.com/RedPillMediaX/status/2123460978545447308>)  
+  The physiognomy tells you everything you need to know.  
+  @RedPillMediaX · 2026-11-20 00:58
+
+- [Anthropic アンソロピック 𝑩𝑰𝑮 𝑳𝑶𝑽𝑬\_\_\_\_\_\_。](<https://x.com/Kswbrmst/status/2123459486870597817>)  
+  @Kswbrmst · 2026-11-20 00:52
+
+- [BREAKING: Average Anthropic employee will be worth $44,000,000.00 as IPO surpasses $2,000,000,000,000.00 valuation…](<https://x.com/Kalshi/status/2123459456897867853>)  
+  BREAKING: Average Anthropic employee will be worth $44,000,000.00 as IPO surpasses $2,000,000,000,000.00 valuation Less than 14% chance Claude is best AI this year  
+  @Kalshi · 2026-11-20 00:52
+
+- [Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%](<https://x.com/KateClarkTweets/status/2123459198390243417>)  
+  Anthropic 股票上市首日以每股 111.50 美元开盘，较每股 83 美元的 IPO 发行价上涨约 34%。  
+  X：Kate Clark \(@KateClarkTweets\) · 2026-11-20 00:51
+
+- [BREAKING: Claude AI developer Anthropic $ANT officially begins trading at $1.5 trillion market cap following IPO.](<https://x.com/WatcherGuru/status/2123459115431453106>)  
+  @WatcherGuru · 2026-11-20 00:51
+
+- [BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 I…](<https://x.com/KobeissiLetter/status/2123459099505594451>)  
+  This officially pushes the company's market cap above $2 trillion, making it the 6th most valuable public company in the world.  
+  @KobeissiLetter · 2026-11-20 00:51
 
 - [Dario Amodei on SpaceX compute: “We’re finding that compute to be high quality.](<https://x.com/firesidealpha/status/2123458524999307387>)  
   We’re enjoying working with SpaceX” SORKIN: “One of the partners that I spoke to yesterday was Elon Musk, and you use him for compute. And there’s been some speculation that when those contracts come  
@@ -128,53 +176,4 @@
   Almost 75% Seats are already reserved if you include all types of reservation including women and EWS. You cannot do world class research with only 25% merit We can never create AI Models like Claude, neither Chips like NVIDIA, nor games like GTA 6. Our  
   @iprabhat\_ · 2026-11-19 23:22
 
-- [BREAKING: Anthropic rings the Nasdaq opening bell after raising $107 billion in the biggest IPO in history.](<https://x.com/BullTheoryio/status/2123436740249792911>)  
-  Then they told investors something you almost never hear on IPO day: 1. "We will not bend to either business nor political pressure." 2. Anthropic will slow down the  
-  @BullTheoryio · 2026-11-19 23:22
-
-- [Gerstner: The Nvidia board may have jumped the gun and fired Jensen without doing a proper investigation\!](<https://x.com/Ignis_Rex/status/2123435591320891761>)  
-  Brad Gerstner is the founder, chairman, and CEO of Altimeter Capital and major investor in Nvidia. Gerstner practiced securities law at Ice Miller LLP and served as Deputy  
-  @Ignis\_Rex · 2026-11-19 23:17
-
-- [watching anthropic ipo got me wishing i’d taken us public](<https://x.com/andyreed/status/2123435470013309408>)  
-  @andyreed · 2026-11-19 23:17
-
-- [Mustafa Suleyman 谈 Cambridge Dictionary 年度词 Human 与人本主义 AI](<https://x.com/mustafasuleyman/status/2123435440602763603>)  
-  Cambridge Dictionary 将 Human 选为年度词，Mustafa Suleyman 认为年度词反映人们的焦虑与期望。他提出我们需要人本主义的 AI，即对齐、可控、安全并服从于人类，并引用 BBC 相关报道。  
-  X：Mustafa Suleyman（Microsoft AI CEO） \(@mustafasuleyman\) · 2026-11-19 23:17
-
-- [🤖 How Anthropic Makes Money.](<https://x.com/EconomyApp/status/2123434542187110493>)  
-  Compute consumes 58 cents of every dollar of revenue. • Q3 Revenue: $17.0B \(+47% Q/Q\). • Compute costs: $9.9B \(+77% Q/Q\). • Operating loss: $567M. $ANT starts trading today. 📊  
-  @EconomyApp · 2026-11-19 23:13
-
-- [pero mirá lo que es ese video. el nivel de Anthropic para comunicar es de otro planeta](<https://x.com/santtiagom_/status/2123434336615633168>)  
-  @santtiagom\_ · 2026-11-19 23:12
-
-- [Anthropic $ANT lockup schedule….](<https://x.com/sp3cul8r/status/2123434255737098646>)  
-  Woweee  
-  @sp3cul8r · 2026-11-19 23:12
-
-- [Anthropic raised more in its IPO than Alibaba, Facebook, Uber, Google, Tesla, Apple, Microsoft, Amazon and Nvidia c…](<https://x.com/SteveRattner/status/2123433920070930555>)  
-  Anthropic raised more in its IPO than Alibaba, Facebook, Uber, Google, Tesla, Apple, Microsoft, Amazon and Nvidia combined.  
-  @SteveRattner · 2026-11-19 23:11
-
-- [DeepMind Institute Our new essay examines the path from AGI to ASI \(Artificial General Super Intelligence\) Read it…](<https://x.com/ShaneLegg/status/2123433633692495908>)  
-  DeepMind Institute Our new essay examines the path from AGI to ASI \(Artificial General Super Intelligence\) Read it here:  
-  @ShaneLegg · 2026-11-19 23:10
-
-- [Nvidia went public at 0.04% of ANT's valuation "The difference is that those companies were worth a fraction of Ant…](<https://x.com/zerohedge/status/2123433417240916259>)  
-  Anthropic would have to be worth several quadrillion dollars to deliver a  
-  @zerohedge · 2026-11-19 23:09
-
-- [Cómo se siente pedirle a DeepSeek que te desglose la info de un excel](<https://x.com/LaPanteraAugust/status/2123432620897845527>)  
-  @LaPanteraAugust · 2026-11-19 23:06
-
-- [Jensen n’était que le fusible.](<https://x.com/Guigz75116/status/2123432392429875611>)  
-  Anthropic entre en Bourse cette semaine \(ANT, environ 1 500 milliards, plus gros IPO de l’hsitoire\). En parallèle, Nvidia \(et Google\) injectent 10 milliards chacun dans le placement privé. Et pendant ce temps, Anthropic recrute en cascade  
-  @Guigz75116 · 2026-11-19 23:05
-
-- [Unsloth 与 AMD 合作支持 NPU 推理](<https://x.com/UnslothAI/status/2123432043094913429>)  
-  我们与 @AMD 合作，将本地模型推理带到 AMD NPU 上。 NPU 提供强大的计算性能，同时功耗比传统 GPU 低 2–4 倍。 我们携手实现了更低功耗运行模型！ Strix、Gorgon、Krackan 等。 博客：  
-  X：Unsloth \(@UnslothAI\) · 2026-11-19 23:03
-
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 40 页
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 38 页

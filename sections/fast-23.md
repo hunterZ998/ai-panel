@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 40 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 38 页
+
+- [黄仁勋1个月前的专访：预测了自己将被解雇！](<https://x.com/AI_oldwang/status/2122946004983169024>)  
+  （信息量巨大！）  
+  @AI\_oldwang · 2026-11-18 14:52
+
+- [Microsoft 365 ล่มทั่วโลกเมื่อ 12 พ.ย. 2026 Microsoft เปิดเผยสาเหตุแล้ว ไม่ได้เกิดจากเรื่องเดียว แต่เป็น 3 เรื่องที่…](<https://x.com/KaMaiT4Chi/status/2122942360208449605>)  
+  Microsoft 365 ล่มทั่วโลกเมื่อ 12 พ.ย. 2026 Microsoft เปิดเผยสาเหตุแล้ว ไม่ได้เกิดจากเรื่องเดียว แต่เป็น 3 เรื่องที่เกิดพร้อมกันพอดี🫠 1️⃣ บั๊กแฝงจากอัปเดตที่ปล่อยตั้งแต่เดือน ก.ค. อยู่มา 3 เดือนไม่มีปัญหา เพราะแล็บทดสอบใช้ฮาร์ดแวร์เก่าที่คอร์น้อย  
+  @KaMaiT4Chi · 2026-11-18 14:37
+
+- [DeepSeek 因长上下文限流遭差评](<https://x.com/thexpin/status/2122941104052187529>)  
+  DeepSeek 此前免费，因大量用户用它做角色扮演和写小说、频繁触发超长上下文，现已开始限制使用额度。日常使用不受影响，但引发一波应用商店差评，最极端者向政府投诉称不解决就自杀，惊动警方和急救。推文以“升米恩，斗米仇”感慨梁文锋开源免费模型仍招致不满。  
+  X：X.PIN \(@thexpin\) · 2026-11-18 14:32
+
+- [Anthropic wants Jensen out Anthropic signs a deal with AMD Jensen is working on a free Anthropic competitor A count…](<https://x.com/MK_007/status/2122940828226347255>)  
+  NVIDIA makes a $10 billion investment in Anthropic. They are not even trying to hide it  
+  @MK\_007 · 2026-11-18 14:31
+
+- [这个Al视频太搞笑了！还记得当初那个拷问周受资的议员，黄仁勋风波后，最近又想抓住机会，推销自己的法案，结果招致网民嘲讽，还…](<https://x.com/maide89699220/status/2122939827700322333>)  
+  这个Al视频太搞笑了！还记得当初那个拷问周受资的议员，黄仁勋风波后，最近又想抓住机会，推销自己的法案，结果招致网民嘲讽，还有人做了这个换脸AI视频。  
+  @maide89699220 · 2026-11-18 14:27
+
+- [Nvidia will not rehire co-founder Jensen Huang as CEO, board chairman Harvey Jones told investors, as the chipmaker…](<https://x.com/Reuters/status/2122939107751948446>)  
+  Nvidia will not rehire co-founder Jensen Huang as CEO, board chairman Harvey Jones told investors, as the chipmaker forecast sales above Wall Street estimates in its first results since Huang resigned  
+  @Reuters · 2026-11-18 14:25
+
+- [Anthropic’s vision of the future is one in which everyone is unemployed, and “all humans on earth are dependent on…](<https://x.com/sovereignbrah/status/2122939103566340587>)  
+  He was fighting for a  
+  @sovereignbrah · 2026-11-18 14:24
+
+- [【速報】人気コスプレイヤーの伊織もえさん、Anthropic IPOに約2,800万円を申込み ・自身のXでIPOへの申込…](<https://x.com/SOU_BTC/status/2122939029675241817>)  
+  【速報】人気コスプレイヤーの伊織もえさん、Anthropic IPOに約2,800万円を申込み ・自身のXでIPOへの申込みを報告 ・申込株数は2,250株、仮条件は1株70〜78ドル ・「Claudeをたくさん使ってるのでポチりました」と投稿  
+  @SOU\_BTC · 2026-11-18 14:24
+
+- [I’m MS, not Microsoft 🤝 And you ?](<https://x.com/iam_ms2dwrld/status/2122937522972140013>)  
+  @iam\_ms2dwrld · 2026-11-18 14:18
+
+- [first-person shooter \#gamerlife \#PixVerseTrend @PixVerse](<https://x.com/suggestpinit/status/2122937180305936512>)  
+  @suggestpinit · 2026-11-18 14:17
+
+- [Elon Musk has reportedly made a pretty direct offer: Any NVIDIA employee can leave and join SpaceX and its Terafab…](<https://x.com/Niconiconi8fa/status/2122936842836447293>)  
+  On the surface, it's a recruitment pitch. In reality, it's a direct challenge to NVIDIA's board.  
+  @Niconiconi8fa · 2026-11-18 14:16
+
+- [NVIDIAの営業チームが2022年の対中半導体輸出規制の施行前に、🇨🇳アリババとハニトラスパイのアリス・フアンを引き合わ…](<https://x.com/2022meimei3/status/2122936563680293032>)  
+  NVIDIAの営業チームが2022年の対中半導体輸出規制の施行前に、🇨🇳アリババとハニトラスパイのアリス・フアンを引き合わせ、東南アジア経由でチップにアクセスする迂回ルートを仲介したと報じられてます。  
+  @2022meimei3 · 2026-11-18 14:14
+
+- [Anthropic researcher Tao Lin believes we are just 15 months away from superhuman AI.](<https://x.com/ndtv/status/2122934700335575096>)  
+  He even predicts humans will eventually become permanently unemployable and dependent on government welfare. NDTV's AI Editor @ramarkosg explains.  
+  @ndtv · 2026-11-18 14:07
 
 - [All in skill hero \#gamerlife \#PixVerseTrend @PixVerse](<https://x.com/suggestpinit/status/2122934241290055791>)  
   @suggestpinit · 2026-11-18 14:05
@@ -125,52 +175,4 @@
   The two have clashed for years over China. Anthropic CEO Dario Amodei wants advanced US  
   @AFpost · 2026-11-18 11:52
 
-- [Bloomberg：Nvidia 将在投资 AI 公司前执行更严格的审查](<https://x.com/rohanpaul_ai/status/2122898087735923189>)  
-  Bloomberg 报道，Nvidia interim CEO Colette Kress 表示将在投资 AI 公司前执行更严格的审查。Nvidia 目前已在 OpenAI、Anthropic、CoreWeave 等公司持有约 $100B 的股权和兜底安排。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-18 11:42
-
-- [30 Websites That Feel "Illegal" But Are Perfectly Legal 1. — Free unlimited AI image generation, quality rivals Mid…](<https://x.com/hey_Jessicaai/status/2122898020673147123>)  
-  30 Websites That Feel "Illegal" But Are Perfectly Legal 1. — Free unlimited AI image generation, quality rivals Midjourney 2. — Real-time AI image generation, draws as you go 3. — AI unlimited image  
-  @hey\_Jessicaai · 2026-11-18 11:41
-
-- [If this is who is leading Nvidia from here on instead of Jensen then it's totally over](<https://x.com/beffjezos/status/2122895355029373302>)  
-  @beffjezos · 2026-11-18 11:31
-
-- [让 AI 边看视频边理解，门槛终于被一脚踹到了地板上！](<https://x.com/mingzi206/status/2122894386161918301>)  
-  Hugging Face 刚开源了目前全世界体积最小的视频多模态模型：SmolVLM2-256M 很多人以为给 AI 装上“眼睛”去读长视频，动不动要吞几十 GB 显存。这个仅有 256M（约 0.25B）参数的小家伙，直接把配置要求杀到了极限： · 只要 1.38GB  
-  @mingzi206 · 2026-11-18 11:27
-
-- [Nvidia is cooked 💀](<https://x.com/5149jamesli/status/2122894368579440994>)  
-  @5149jamesli · 2026-11-18 11:27
-
-- [BREAKING: Corporate filings reveal Jensen Huang can still nominate 2 directors to Nvidia’s board after stepping dow…](<https://x.com/Polymarket/status/2122893892903145969>)  
-  BREAKING: Corporate filings reveal Jensen Huang can still nominate 2 directors to Nvidia’s board after stepping down as CEO.  
-  @Polymarket · 2026-11-18 11:25
-
-- [Scoop: Nvidia played matchmaking between Alibaba and Alice Huang to help the Chinese tech giant find workarounds on…](<https://x.com/jingyanghk/status/2122892475539038397>)  
-  Scoop: Nvidia played matchmaking between Alibaba and Alice Huang to help the Chinese tech giant find workarounds on U.S. export controls, by @JuroOsawa @QianerLiu via @theinformation $NVDA $BABA  
-  @jingyanghk · 2026-11-18 11:19
-
-- [JUST IN: Nvidia $NVDA to buy $10,000,000,000 in Anthropic shares.](<https://x.com/WatcherGuru/status/2122892171435020351>)  
-  @WatcherGuru · 2026-11-18 11:18
-
-- [Trump should be impeached and convicted for NVIDIAgate.](<https://x.com/commons96055467/status/2122891103095677039>)  
-  It’s not difficult to understand. 1\) NVIDIA chips were under the highest national security protection where the sales of it to China was restricted by Biden. 2\) China wanted those chips, so they offered a honeypot for  
-  @commons96055467 · 2026-11-18 11:14
-
-- [Jensen Huang, who resigned as Nvidia’s CEO last week, agreed to appear before three House committees on Dec. 1, law…](<https://x.com/60Minutes/status/2122889540243169731>)  
-  In 2024, Huang told 60 Minutes how he and two friends came up with the idea for Nvidia while sitting in a booth at Denny’s. Watch the full  
-  @60Minutes · 2026-11-18 11:08
-
-- [Many of us who have worked corporate jobs and have seen such cold &amp;amp; soulless management know how suffocating th…](<https://x.com/hashurtag/status/2122888648030867491>)  
-  No way you’re inspiring anyone or retaining talent with that tone, look and callous attitude. What do you think Nvidia talent feels like  
-  @hashurtag · 2026-11-18 11:04
-
-- [Nvidia is absolutely cooked unless whatever this is changes and fast.](<https://x.com/AutismCapital/status/2122888380518416715>)  
-  @AutismCapital · 2026-11-18 11:03
-
-- [🚨 Rahul Patil, a computer science graduate at PES University in Bengaluru, has become the CTO of Anthropic.](<https://x.com/IndianTechGuide/status/2122887650369490988>)  
-  No IIT... No Ivy League...  
-  @IndianTechGuide · 2026-11-18 11:00
-
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 40 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 38 页
