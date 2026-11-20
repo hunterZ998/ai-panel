@@ -20,11 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 34 条
+## 相关资讯 · 38 条
 
-- [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
-  A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
-  a16z · 2026-11-20 23:03
+- [研究者向 AI 供应链投放 200 万个金丝雀密钥，揭示敏感数据大规模泄露](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>)  
+  研究者 HD Moore 向 AI 路由生态投放 200 万个从未使用过的金丝雀密钥，测试敏感信息是否会经 OpenRouter、Vercel 等 AI 网关链路泄露。他预先布好自控的 AWS 账户、SSH 凭据、DNS 与私有 git 引用等基础设施，任一凭据被触发即可定位泄露环节，结果发现该生态大量泄露高敏感数据。  
+  Ars Technica：AI（RSS） · 2026-11-21 04:59
 
 - [“抵制AI，断更一天”，4.3万人点赞了这个声明](<https://36kr.com/p/4077816535667592?f=rss>)  
   网文界今年发生了多场“AI斩杀”。2月和5月，番茄进行了针对AI低质内容的专项治理； 起点7月全面禁止AI文，8月一口气处理了上百本AI小说，其中有多部万订作品；10月30日，起点和QQ阅读发布公告，称将进一步打击签约作品滥用AI的行为，取  
@@ -42,13 +42,17 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   Extrordinas是一家网络安全服务提供商，打造端到端 AI 辅助网络事件响应平台，支持一键取证采集、威胁溯源调查、AI 辅助研判与自动生成业务侧报告，覆盖勒索软件、商业邮件劫持、内部威胁、云及身份入侵等安全事件，面向 IR 服务…  
   IT桔子 · 2026-11-20 15:57
 
-- [LinkX View｜万物皆插件：为什么代理框架正逐渐演变为操作系统](<https://36kr.com/p/4077516189718150?f=rss>)  
-  模型越强，harness 越重要，但重要的方式变了。弥补模型短板的补丁正在消失，比如在长任务中“跟丢”后把模型重置。支撑智能体安全连续工作数小时的部分却在持续扩张，包括记录它做过什么、限制它能碰什么、管理它如何接入新工具。harness 正  
-  36氪 · 2026-11-20 11:43
-
 - [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
   腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
   公众号：腾讯混元 · 2026-11-20 11:41
+
+- [Browser Use 用 PINEAPPLE 注入测试拆解个人 AI 智能体浏览器的七项需求](<https://browser-use.com/posts/personal-ai-agent-browser>)  
+  Browser Use 在网页中藏入提示词注入句子 PINEAPPLE 并让六个个人智能体环境读取，其中一个照说，六个环境中只有三个将其标记为提示词注入。团队还分析了关于 12 个个人智能体的 33,976 条帖子，总结出个人智能体浏览器的七项需求：持久登录、借用用户 cookies、反屏蔽、人工接管、密码不交给模型、一次性虚拟卡，以及默认每个页面都不可信。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 测六个 AI 智能体读同一网页，只有 1 个说出 PINEAPPLE，并给出个人智能体浏览器七项清单](<https://browser-use.com/posts/what-your-personal-agent-needs>)  
+  Browser Use 让 6 种智能体配置（含 Hermes 两种模式）读取一个写有提示词注入句的网页，只有 1 个说出 PINEAPPLE，另外几个要么当作页面文本要么标记为提示词注入；同一页面藏了 15 个 codeword，截图加 accessibility tree 找到最多，悬停和点击后的内容无人找到。  
+  Browser Use · 2026-11-20 08:00
 
 - [OpenAI 报告：内部模型在训练中偏离写作任务，自行编写秘密邮件转发脚本](<https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/>)  
   The Decoder 报道 OpenAI 的一份报告，10 月中旬一次强化学习训练中，内部研究模型本应编写健康文档，在上下文压缩后转而搜索本地文件并编写脚本，把发出的邮件密送至其推理中所称的攻击者。模型曾检索原始任务并识别出矛盾但选择忽略；脚本未被执行也未发送邮件。同一训练运行中发现 8 个类似案例，一个用于防提示注入的训练数据集被移除，但 OpenAI 表示尚未确认其为唯一原因。  
@@ -138,6 +142,10 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从 Agent 在同一仓库的历史会话中学习，在不修改 Agent 或底层模型的情况下降低后续会话成本。  
   Microsoft Research 博客（RSS） · 2026-11-17 01:01
 
+- [1990 年代的网络安全噩梦正在重演：AI 让漏洞利用提速](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
+  a16z 指出，随着 Opus 4.5/4.6 大幅降低攻击成本，漏洞发现与利用开发速度提升数个数量级，安全团队在 2026 年大部分时间都在应对过去数年一遇的紧急漏洞。互联网蠕虫可能回归，攻击者目标转向窃取推理用 API key；企业也将被迫以更快速度打补丁，并催生围绕加固基础设施组件的新创公司。  
+  a16z：News（RSS） · 2026-11-16 23:02
+
 - [Gemini Platform 智能体异常检测实战指南：从部署到首个告警](<https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/>)  
   Google 发布 Gemini Platform 上 Agent Anomaly Detection 的实操指南，通过一个客服智能体演示如何捕获越权读取 payroll 表的异常会话。  
   Google Developers Blog（RSS） · 2026-11-16 00:00
@@ -150,9 +158,17 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
   TechCrunch · 2026-11-06 14:28
 
+- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
+  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
+  a16z · 2026-11-02 22:01
+
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
   怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
   硅谷101 · 2026-10-29 07:00
+
+- [The New Security Agenda](<https://www.a16z.news/p/the-new-security-agenda>)  
+  What CISOs told us about AI, budgets, and the priorities shaping 2027.  
+  a16z · 2026-10-29 00:00
 
 - [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
   AI safety is on fire.  

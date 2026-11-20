@@ -2,6 +2,54 @@
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 24 页
 
+- [Ansa获得7150万美元C轮融资](<https://www.itjuzi.com/investevent/14708305>)  
+  Ansa是一家DNA合成技术服务商，核心技术是一种基于酶的新型DNA合成方法。近日，Ansa获得7150万美元C轮融资，Blue Water Life Science Advisors领投，Illumina Ventures、Agen…  
+  IT桔子 · 2026-11-19 17:54
+
+- [李开复：企业 AI 转型只看“智能体数量”是荒谬笑话](<https://www.ithome.com/1/029/582.htm>)  
+  零一万物 CEO、创新工场董事长李开复称，企业 AI 转型只看“智能体数量”是“荒谬的笑话”。他不建议 CEO 把“智能体上线率”“账号数”“节省工时”当作 AI 核心指标，认为这些只是过程指标，管理层最终要看收入、利润和现金流。他建议 CEO 在 AI 汇报会上改问三项竞争优势在智能成本持续下降后是否还成立、会被 AI 增强还是商品化、三年后若不再成立今天应重写哪条业务曲线。  
+  IT之家·人工智能 · 2026-11-19 17:53
+
+- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
+  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
+  IT桔子 · 2026-11-19 17:52
+
+- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
+  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
+  IT桔子 · 2026-11-19 17:52
+
+- [Hugging Face 的 Daniel van Strien 实测八款 OCR 模型，百万页数字化成本降至 130 美元以内](<https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/>)  
+  Hugging Face 的 Daniel van Strien 在同一块 Nvidia RTX PRO 6000 上测试八款开源 OCR 模型，使用 850 页古董书、1771 年 Encyclopaedia Britannica 和档案文档。  
+  The Decoder：AI News（RSS） · 2026-11-19 17:28
+
+- [Gartner 预测 2027 年全球 AI 支出将达 4.05 万亿美元，同比增长 47.5%](<https://www.ithome.com/1/029/546.htm>)  
+  Gartner 于本月 12 日发布预测，2027 年全球 AI 支出将达 4.05 万亿美元（约合 27.06 万亿元人民币），同比增长 47.5%。其中 AI 基础设施支出接近 2.4 万亿美元、增长 53%，AI 优化服务器支出 9572 亿美元、同比提升 81%；生成式 AI 模型支出提升 82% 至 510 亿美元，基础模型占其中超八成。  
+  IT之家·人工智能 · 2026-11-19 17:26
+
+- [Palo Alto Networks斥资45亿美元收购Applied Compute](<https://www.itjuzi.com/merger/14596>)  
+  Applied Compute是一家企业级AI 基础设施公司，由三位前 OpenAI 研究员创立，专注于帮助企业基于自有数据训练和部署定制化开源 AI 模型。派拓网络（Palo Alto Networks）宣布，将斥资45亿美元收购A…  
+  IT桔子 · 2026-11-19 16:39
+
+- [微软高管称 Copilot 比 Claude 和 ChatGPT 更好用且更便宜](<https://www.ithome.com/1/029/520.htm>)  
+  微软商业业务 CEO 贾德森·阿尔索夫在 Ignite 大会上称，Claude 或 ChatGPT 能完成的任务，Copilot 都能做得更好且成本更低。截至今年 6 月，Copilot 付费用户已超 3000 万，而微软办公软件企业用户超 4.5 亿。微软委托研究估算，Copilot 用户相关支出显著低于使用 ChatGPT 或 Claude 的用户。  
+  IT之家·人工智能 · 2026-11-19 16:19
+
+- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
+  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
+  IT桔子 · 2026-11-19 16:18
+
+- [Humyn Labs获得2600万美元A轮融资](<https://www.itjuzi.com/investevent/14708279>)  
+  Humyn Labs是一家实体人工智能研究与部署服务商，自研双摄采集硬件与数据富集引擎，在工厂、家庭、农场等真实场景采集人类操作多模态行为数据，加工后供给机器人、VLA 模型、世界模型研发团队，同时提供机器人现场部署对照测试服务，形成…  
+  IT桔子 · 2026-11-19 16:11
+
+- [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
+  Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-19 16:00
+
+- [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>)  
+  Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance…  
+  OpenAI · 2026-11-19 16:00
+
 - [微软纳德拉：AI 智能体代劳网购将重塑互联网商业格局](<https://www.ithome.com/1/029/497.htm>)  
   微软 CEO 纳德拉在《纽约时报》DealBook 峰会上表示，能替用户浏览商品并完成购买的 AI 智能体可能重塑互联网商业格局，让依赖用户访问和广告收入的平台重新洗牌。他将这一转变比作互联网入口从雅虎等门户转向谷歌等搜索引擎。纳德拉指出，亚马逊阻止 AI 智能体访问其零售网站，若其他平台选择开放，后者可能获得竞争优势。  
   IT之家·人工智能 · 2026-11-19 15:39
@@ -122,64 +170,16 @@
   Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。  
   Conductor 官方更新 · 2026-11-19 08:00
 
-- [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
-  Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
+- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
+  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
   OpenAI · 2026-11-19 08:00
 
 - [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)  
   Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.  
   OpenAI · 2026-11-19 08:00
 
-- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
-  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
-  OpenAI · 2026-11-19 08:00
-
 - [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)  
   Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.  
   OpenAI · 2026-11-19 08:00
-
-- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
-  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
-  晚点聊 · 2026-11-19 08:00
-
-- [腾讯旗舰模型 Tencent Hy4 上线 Together AI](<https://www.together.ai/blog/tencent-hy4>)  
-  Tencent Hy4 现已在 Together AI 上线，提供 serverless 和专属端点两种部署方式，模型字符串为 tencent/Hy4。Hy4 是腾讯旗舰模型，也是 Hy 家族首个支持图像输入的版本，拥有 1M token 上下文窗口，定价为输入 $0.83/1M tokens、输出 $2.50/1M tokens、缓存输入 $0.042/1M tokens。  
-  Together AI 研究与产品博客（RSS） · 2026-11-19 08:00
-
-- [Together AI 推出 Together Storage Accelerator：GPU 集群的免费数据缓存层](<https://www.together.ai/blog/introducing-together-storage-accelerator>)  
-  Together AI 发布 Together Storage Accelerator（TSA），一个面向 Together GPU 集群的分布式缓存层，现已随所有 GPU 集群免费提供。  
-  Together AI 研究与产品博客（RSS） · 2026-11-19 08:00
-
-- [Mastra Platform 推出可观测性告警功能](<https://mastra.ai/blog/introducing-observability-alerts>)  
-  Mastra Platform 新增可观测性告警，可在模型成本超限、错误率上升或 eval 分数下降时通知，支持 Slack、Discord、Microsoft Teams、邮件、webhooks、PagerDuty 和 incident.io。告警可覆盖错误率、延迟、token 用量、花费及所选 scorer 的平均分，规则每五分钟检查一次，仅组织管理员可创建、编辑和删除。  
-  Mastra Blog · 2026-11-19 08:00
-
-- [Google 用 Willow 量子处理器验证量子上下文性，魔方游戏胜率 98.3%](<https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/>)  
-  Google Quantum AI 团队发表于 Science 的论文在超导量子处理器上实验演示并量化了量子上下文性。团队用 Willow 处理器玩 magic square 游戏，胜率 98.30%±0.0001，超过 88.89% 的经典上限；通过 Bell–Kochen–Specker 不等式测得 χ=5.590±0.008，越过经典界限 4、距量子极限 6 仅 7%。  
-  Google Research：Blog（网页） · 2026-11-19 08:00
-
-- [Gemini API 上线 Genie 4 交互式世界生成并推出 Tool Retrieval 预览](<https://ai.google.dev/gemini-api/docs/changelog#11-19-2026>)  
-  Google 在 Gemini API 更新日志中宣布 Genie 4（models/genie-4）正式可用，通过 Interactions API（v1beta）提供实时交互式世界生成，经 WebRTC 和 WebSockets 流式输出可操控的 24 fps 16:9 视频并同步 48 kHz 立体声音频。  
-  Gemini API：更新日志（网页） · 2026-11-19 08:00
-
-- [Mastra 发布 Mastra Gateway，一个密钥访问 500 多个模型](<https://mastra.ai/blog/announcing-mastra-gateway>)  
-  Mastra 发布 Mastra Gateway，用户用一个 API 密钥即可访问 Anthropic、OpenAI、Typesafe AI 等供应商的 500 多个语言、语音、视频和决策模型，并只需一张账单。  
-  Mastra Blog · 2026-11-19 08:00
-
-- [Browser Use 讲解 AI 智能体如何通过界面操作软件](<https://browser-use.com/posts/what-is-computer-use>)  
-  Browser Use 发布科普文章，讲解计算机使用类智能体如何像人一样通过界面点击、输入和滚动来操作软件。文章拆解了读取界面、选择动作、执行和验证的智能体循环，比较截图、DOM 和无障碍树三种读取方式的优劣，并给出适用场景、速度成本考量，以及限制权限和防范提示词注入的安全建议。  
-  Browser Use · 2026-11-19 08:00
-
-- [Google 发布 Gemini 4 Neon，Simon Willison 实测指其让 Gemini 4 系列定价更混乱](<https://simonwillison.net/2026/Nov/18/llm-gemini/>)  
-  Simon Willison 评测 Google 新发布的 Gemini 4 Neon，认为它让本已混乱的 Gemini 4 系列定价更复杂：Neon 为 $3/million 输入、$15/million 输出，当前高于 Carbon（$2/$10，12 月 1 日将涨至 $4/$20）和 Hydrogen（$1.50/$7.50）。  
-  Simon Willison 博客 · 2026-11-19 07:59
-
-- [谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数排名第一](<https://www.ithome.com/1/029/144.htm>)  
-  谷歌 11 月 18 日宣布推出 Gemini 4 Neon 模型，主攻复杂编程、科学研究和企业工作流程，已向开发者、企业及部分付费订阅用户开放。  
-  IT之家·人工智能 · 2026-11-19 07:53
-
-- [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
-  The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new chall  
-  TechCrunch · 2026-11-19 07:45
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 24 页

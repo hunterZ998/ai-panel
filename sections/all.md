@@ -2,168 +2,162 @@
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 24 页
 
-完整公开资讯，共 1058 条。
+完整公开资讯，共 1071 条。
 
-- [AI Speeds Patching, Raises Outage Risks: Expert](<https://www.bloomberg.com/news/videos/2026-11-20/ai-speeds-patching-raises-outage-risks-expert-video>)  
-  Bloomberg · 2026-11-21 01:03
+- [匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品](<https://www.ithome.com/1/030/291.htm>)  
+  IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Design Benchmark。 其中，一款代号为 Gestalt、目前处于隐身开发状态（Ste…  
+  IT之家 · 2026-11-21 07:17
 
-- [Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners](<https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-21 01:01
+- [AI集体翻车！“13个鸡蛋”为啥就那么难画？](<https://www.163.com/dy/article/LC88CKA6055040N3.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 07:17
 
-- [Anthropic IPO Tests AI Investor Appetite](<https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-tests-ai-investor-appetite-video>)  
-  Bloomberg · 2026-11-21 00:59
+- [黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！](<https://www.163.com/dy/article/LC88AV8J051180F7.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 07:16
 
-- [Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码](<https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA>)  
-  Anthropic 数学家 Levent Alpöge 在个人网站宣布与 Claude 合作证明了黎曼猜想，没有论文，只放出 14 个压缩包共 175187 个 Lean 文件、1737 万行代码。  
-  公众号：数字生命卡兹克 · 2026-11-21 00:54
+- [“世界科先声”编译\|“AI教父”杰弗里·辛顿：中国对AI的理解，比美国政府](<https://www.163.com/dy/article/LC888Q4B051481US.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 07:15
 
-- [Anthropic 数学家 Levent Alpöge 称借助 Claude 证明了黎曼假设](<https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem>)  
-  Anthropic 数学家 Levent Alpöge 在个人网站声称与 Claude 合作证明了黎曼假设，并表示方法可推广至广义黎曼假设，证明以 Lean 形式化。  
-  The Verge：AI（RSS） · 2026-11-21 00:34
+- [谷歌搜索首页新增AI侧边栏，让你“接着聊”此前提问话题](<https://www.163.com/dy/article/LC87NTNO0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 07:06
 
-- [兰花奖丨人工智能专家福斯托·准奇利亚：“传统人文社科在AI时代已失去价值](<https://www.163.com/dy/article/LC7H2RPN051492T3.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 00:30
+- [OpenAI宣布向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑](<https://www.163.com/dy/article/LC87NTN10511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 07:06
 
-- [Anthropic Share Slump Nearly Erases IPO Pop](<https://www.bloomberg.com/news/videos/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-video>)  
-  Bloomberg · 2026-11-21 00:28
+- [Hindlian Advisory CEO on AI &amp; Anthropic Market Sell-off](<https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video>)  
+  Bloomberg · 2026-11-21 06:58
 
-- [阿联酋学生体验中国光伏机器人](<https://www.163.com/dy/article/LC7GQ9C405346RC6.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 00:25
+- [OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑](<https://www.ithome.com/1/030/288.htm>)  
+  IT之家 11 月 21 日消息，OpenAI 今日宣布向 ChatGPT Plus 订阅用户开放 Spaces 协作空间功能。 该功能此前仅面向 Pro、Business 和 Enterprise 等付费方案用户提供，现在每月支付…  
+  IT之家 · 2026-11-21 06:57
 
-- [Anthropic Founder to Donate to Trump Accounts Following IPO, Bessent Says](<https://www.bloomberg.com/news/articles/2026-11-20/bessent-says-an-anthropic-founder-to-donate-will-trump-accounts>)  
-  Bloomberg · 2026-11-21 00:23
+- [Opinion \| The AI Correction Trade Arrives](<https://www.wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-21 06:55
 
-- [狂揽23亿违规收入、与死对头黄仁勋百亿联姻：扒开Anthropic万亿IPO的底牌](<https://www.163.com/dy/article/LC7GKT220535ORBB.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 00:22
+- [谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题](<https://www.ithome.com/1/030/287.htm>)  
+  IT之家 11 月 21 日消息，谷歌搜索产品副总裁罗比 · 斯坦（Robby Stein）昨日（11 月 20 日）在 X 平台发布推文，宣布 Google Search 首页将迎来新一轮调整， 面向全球桌面端逐步推出可折叠侧边栏，…  
+  IT之家 · 2026-11-21 06:53
 
-- [ChinaTalk 团队探访 CoRL 大会：通用机器人依然难堪大用](<https://www.chinatalk.media/p/we-went-to-austin-to-see-robots>)  
-  ChinaTalk 团队上周赴 Austin 参加机器人学习会议 CoRL，核心结论是机器人仍不好用，通用机器人离现实还很远。  
-  ChinaTalk（RSS） · 2026-11-21 00:21
+- [Scribe CEO Jennifer Smith on AI Usage in the Workplace](<https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video>)  
+  Bloomberg · 2026-11-21 06:38
 
-- [黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明](<https://www.163.com/dy/article/LC7FNCI10511DSSR.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 00:20
+- [美股崩了！纳指暴跌超5%，费城半导体重挫近11%。AI交易遭大抛售，比特币跌](<https://www.163.com/dy/article/LC85GH3N0550WHYR.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 06:27
 
-- [Anthropic's IPO Is 'Monstrous,' General Catalyst’s Namburi Says](<https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-is-monstrous-general-catalyst-s-namburi-video>)  
-  Bloomberg · 2026-11-21 00:19
+- [Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划](<https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/>)  
+  Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。  
+  Figma AI / Agent / Make · 2026-11-21 06:17
 
-- [“AI漫剧出海”研讨会举办 王陌潇：要针对不同海外市场制定不同策略](<https://www.163.com/dy/article/LC7F824H0514D3UH.html>)  
-  网易科技频道 · 网易号 · 2026-11-20 23:58
+- [Google 桌面搜索页改版移除搜索按钮并新增 AI 侧边栏入口](<https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/>)  
+  Google 正式向桌面端部署 Google.com 搜索主页改版，搜索 VP Robby Stein 在 X 确认此前的测试版本已上线。新页面在搜索框下方增加图像生成、文件分析和与 Gemini 头脑风暴等 AI 功能按钮，并完全移除了长期存在的专用搜索按钮。文章指出该按钮在现代界面下位置不便，输入查询时会被自动补全建议遮挡，点击不如直接按回车，因此移除影响不大。  
+  Ars Technica：AI（RSS） · 2026-11-21 05:58
 
-- [Bloomberg 分析约 1000 万条招聘数据：中国受 AI 影响岗位招聘比其他岗位多降 10 个百分点](<https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/>)  
-  Bloomberg 对 2021 年 7 月至 2025 年 6 月约 1000 万条在线招聘的分析显示，受 AI 影响高的岗位挂牌量比较低岗位多下降约 10 个百分点，入门级和创意行业受影响明显。  
-  The Decoder：AI News（RSS） · 2026-11-20 23:56
+- [Meta 重新评估 2030 净零目标，AI 数据中心致碳排放同比增长近 40%](<https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/>)  
+  Meta 在 2026 年 11 月 19 日发布的可持续发展报告中表示正在重新评估 2030 净零排放目标及近期强度指标，称 AI 基础设施需求增长超出预期。  
+  Ars Technica：AI（RSS） · 2026-11-21 05:47
 
-- [Why the Agent Era Needs a New Operating System \| DHH](<https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL>)  
-  David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: th…  
-  The a16z Show · 2026-11-20 23:48
+- [Victor Peng Sees AI, Quantum Computing as Long-Term Opportunities](<https://www.bloomberg.com/news/videos/2026-11-20/victor-peng-sees-ai-quantum-as-long-term-opportunities-video>)  
+  Bloomberg · 2026-11-21 05:36
 
-- [Anthropic IPO 后市场降温，AMD 遭做空报告重创，Google 凭 Gemini 4 Neon 重回竞争](<https://www.newcomer.co/p/after-anthropic-euphoria-nvidia-amd>)  
-  Newcomer 周报指出，Anthropic IPO 顺利发行但市场对 AI 交易整体转冷。做空机构 Hunterbrook 发布《Bank of AMD》报告，指控 AMD 存在类似 Nvidia 的循环客户融资问题，AMD 否认相关指控，但股价仍下跌近 10%。同时，Nvidia 财报后股价回落，Google 发布 Gemini 4 Neon 模型，重新回到前沿模型竞争行列。  
-  Newcomer 新闻长文（RSS） · 2026-11-20 23:44
+- [形式验证如何对抗 AI 代码 slop：&amp;Truth、Harmonic、Theorem 与 Axiom Math 的路线](<https://latent.space/p/formal-verification/>)  
+  Latent Space 撰文分析形式验证如何成为对抗 LLM 低质量代码输出的手段，采访了 &amp;Truth 联合创始人 Clark Barrett。&amp;Truth 基于 Lean 构建“验证机”，首个工具 &amp;Atlas 从 C 语言开源代码起步，聚焦内存安全；Barrett 表示其 cvc5 求解器已在 Amazon 生产管线中每天被调用数十亿次。  
+  Latent Space（RSS） · 2026-11-21 05:18
 
-- [AI Credit Risk Gauges Worsen as Tech Selloff Roils Markets](<https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets>)  
-  Bloomberg · 2026-11-20 23:38
+- [MIT-IBM 研究：多模态基础模型如何实现更像人的交互与理解](<https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120>)  
+  MIT-IBM Computing Research Lab 团队在 Jim Glass 共同带领下研究多模态基础模型的感知与语言关联，并针对 GPT-4o 等模型的失败案例开发新基准与少监督方法。  
+  MIT News（RSS） · 2026-11-21 05:00
 
-- [AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明](<https://www.ithome.com/1/030/278.htm>)  
-  IT之家 11 月 20 日消息，据《科学美国人》报道，当地时间 20 日，Anthropic 数学家莱文特 · 阿尔波格宣称，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 阿尔波格在个人网站…  
-  IT之家 · 2026-11-20 23:37
+- [研究者向 AI 供应链投放 200 万个金丝雀密钥，揭示敏感数据大规模泄露](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>)  
+  研究者 HD Moore 向 AI 路由生态投放 200 万个从未使用过的金丝雀密钥，测试敏感信息是否会经 OpenRouter、Vercel 等 AI 网关链路泄露。他预先布好自控的 AWS 账户、SSH 凭据、DNS 与私有 git 引用等基础设施，任一凭据被触发即可定位泄露环节，结果发现该生态大量泄露高敏感数据。  
+  Ars Technica：AI（RSS） · 2026-11-21 04:59
 
-- [明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元](<https://www.ithome.com/1/030/277.htm>)  
-  IT之家 11 月 20 日消息，明基旗下 AK900ST“AI 高尔夫投影机”现已在京东发售，该产品专为高尔夫模拟及多场景娱乐打造，定价为 52999 元。 京东 明基（BenQ）AK900ST AI 高尔夫专业模拟投影仪 激光投影…  
-  IT之家 · 2026-11-20 23:37
+- [Anthropic Shares Slide After Banks Exercise ‘Greenshoe’](<https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe>)  
+  The Information · 2026-11-21 04:54
 
-- [UBS's Lovell Sees AI CapEx at Risk of 5%-10% Cut](<https://www.bloomberg.com/news/videos/2026-11-20/ubs-s-lovell-sees-ai-capex-at-risk-of-5-10-cut-video>)  
-  Bloomberg · 2026-11-20 23:36
+- [Cognition in Talks for $75 Billion Value With New Funding](<https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding>)  
+  Bloomberg · 2026-11-21 04:47
 
-- [约翰斯·霍普金斯大学研究：美国最早 2027 年面临电网设备短缺](<https://www.ithome.com/1/030/275.htm>)  
-  约翰斯·霍普金斯大学在《Cell Reports Sustainability》发表研究称，美国最早可能在 2027 年面临电网设备短缺，铜最先出现供应缺口，到 2030 年变压器和变流器短缺或进一步恶化，影响新建电厂和数据中心并网。  
-  IT之家·人工智能 · 2026-11-20 23:22
+- [OpenAI 大幅强化 GPT-6.2 Astra 与 GPT-6.2 Sol 的推理抽取防护](<https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/>)  
+  OpenAI 大幅收紧了 GPT-6.2 Astra 与 GPT-6.2 Sol 防止内部推理被抽取的防护。  
+  The Decoder：AI News（RSS） · 2026-11-21 04:31
 
-- [MIT 数学面板讨论 AI 冲击下的数学研究未来](<https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120>)  
-  MIT 举办“AI 与社会：数学的未来”座谈，来自 MIT、哈佛、西北大学和纽约大学的数学家讨论 AI 对数学研究的影响。  
-  MIT News（RSS） · 2026-11-20 23:20
+- [独占特性确认：华为Mate系列旗舰机“无缘”OSTA小星芒、AI屏等功能](<https://www.163.com/dy/article/LC7UIV330511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 04:26
 
-- [Investor Worry Has Come to a Head, Says Allspring’s Miletti](<https://www.bloomberg.com/news/videos/2026-11-20/investor-worry-has-come-to-a-head-allspring-s-milletti-video>)  
-  Bloomberg · 2026-11-20 23:18
+- [Tim O'Reilly 演讲：硅谷怎么了？从集体智能到攫取租金的转变](<https://www.oreilly.com/radar/what-happened-to-silicon-valley/>)  
+  Tim O'Reilly 于2026年10月16日在约翰斯·霍普金斯大学发表第二届 Margaret Levi 政治经济学年度讲座，回顾其40余年硅谷经历，分析硅谷从创造价值转向攫取租金的原因。  
+  O'Reilly Radar（热点 RSS） · 2026-11-21 04:11
 
-- [Charts of the Week: There is No Gen Z](<https://www.a16z.news/p/charts-of-the-week-there-is-no-gen>)  
-  AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds  
-  a16z · 2026-11-20 23:08
+- [MIT LIDS 提出硬约束神经网络，让混沌系统 AI 模型预测始终有界](<https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120>)  
+  MIT LIDS 团队提出一种硬约束神经网络方法，通过让模型学习能量类函数并加入投影层强制能量耗散，从理论上保证混沌系统预测在任意长的时间窗口内保持有界。该研究首次为混沌机器学习模型建立此类形式化保证，测试覆盖从教科书案例到高维复杂系统，结果与真实演化高度吻合，而传统方法很快偏离为不可能预测。相关数据已免费开放，论文发表于 PNAS。  
+  MIT News（RSS） · 2026-11-21 04:00
 
-- [Apple 加入设备控制型 AI Agent 竞赛，macOS 27.3 却抬高第三方 Agent 接入门槛](<https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/>)  
-  据 The Decoder 援引招聘信息与 Bloomberg 报道，Apple 正在开发一款可控制设备的 AI Agent，招聘资深工程师牵头，强调权限模型和沙箱等隐私设计，最早可能于明年底推出，目前仍处早期阶段。  
-  The Decoder：AI News（RSS） · 2026-11-20 23:03
+- [Spotify 创始人 Daniel Ek 投资 AI 研究员创办的聚变能源初创公司 Europa Fusion](<https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/>)  
+  Spotify 创始人 Daniel Ek 投资了由 AI 研究员 Nantas Nardelli 创办的英国聚变能源初创公司 Europa Fusion，该公司成立于今年 2 月，采用脉冲功率路线。  
+  TechCrunch：AI（RSS） · 2026-11-21 03:53
 
-- [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
-  A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
-  a16z · 2026-11-20 23:03
+- [Signal 在 iOS 27 和 Android 上限制截图，阻止 AI 智能体读取私人聊天](<https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/>)  
+  Signal 在 iOS 27 上阻止截图，并在受支持的 Android 版本上于 AI 助手尝试访问屏幕时触发保护，以防止 OS 级 AI（如 Apple 的 Siri AI 和 Google 的 Gemini Intelligence）从显示内容中拉取已解密消息并交由外部处理。  
+  The Decoder：AI News（RSS） · 2026-11-21 03:50
 
-- [TechCrunch Equity 播客讨论 Nvidia 罢免黄仁勋风波后续与 H200 停售中国](<https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/>)  
-  TechCrunch Equity 播客讨论 Nvidia 罢免 CEO 黄仁勋后的持续影响，公司本周发布财报显示健康增长，宣布停止在中国销售 H200 芯片，并拒绝让黄仁勋复职的呼声。  
-  TechCrunch：AI（RSS） · 2026-11-20 22:55
+- [Anthropic 数学家 Levent Alpöge 宣称给出黎曼猜想的 Lean 可编译证明，同周还有纯人工证明出现](<https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>)  
+  Anthropic 数学家 Levent Alpöge 宣称找到黎曼猜想的 Lean 可编译证明，并在文章中描述了与 Claude 一起完成论证的经历；黎曼猜想提出于 1859 年，是千禧年大奖难题之一，数学界在 Zulip 上讨论后多数人预期形式化结果成立。  
+  TechCrunch：AI（RSS） · 2026-11-21 03:32
 
-- [Nvidia 拟至少 5 亿美元收购扩散语言模型初创 Inception](<https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/>)  
-  据 The Information 援引三位知情人士，Nvidia 接近以至少 5 亿美元收购旧金山湾区初创 Inception，交易含 30 多名员工的绩效奖金，三位联合创始人 Stefano Ermon、Aditya Grover 和 Volodymyr Kuleshov 预计全职加入。  
-  The Decoder：AI News（RSS） · 2026-11-20 22:53
+- [独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能](<https://www.ithome.com/1/030/284.htm>)  
+  IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄…  
+  IT之家 · 2026-11-21 03:20
 
-- [Databricks 发布覆盖 70 个行业的交互式参考架构板](<https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries>)  
-  Databricks 发布交互式参考架构板，截至 2026 年 11 月 16 日覆盖 11 个经济部门的 70 个行业。  
-  Databricks：Blog（RSS） · 2026-11-20 22:48
+- [Google Gemini Mac 版上线 Computer Use 功能，可后台自动完成桌面多步任务](<https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/>)  
+  Google 在 Gemini Mac 应用中推出 Computer Use 功能，用户描述目标后，Gemini 可在后台窗口中点击、输入并操作本地文件、桌面应用和网站，完成多步任务。  
+  The Decoder：AI News（RSS） · 2026-11-21 02:50
 
-- [内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”](<https://www.ithome.com/1/030/273.htm>)  
-  IT之家 11 月 20 日消息，AI 热潮引发的内存危机波及几乎所有消费电子产品，Steam Machine 也未能幸免。 由于需求旺盛，Valve 直到近期才完成 512GB 版的全部预订订单。目前该版本尚有少量现货，消费者可以直…  
-  IT之家 · 2026-11-20 22:46
+- [特朗普威胁对在海外建设 AI 数据中心的企业征收「巨大税收」](<https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax>)  
+  特朗普在与习近平和普京峰会后的新闻发布会上表示，不允许美国公司在海外建设数据中心，否则将对其征收「巨大税收」（tremendous tax），称否则「中国会全部拿走」。他称这一想法尚未告知自己的团队，且未给出具体细节；同时美国多州正在对数据中心新建申请设限，而数月内就职的民主党多数国会可能使该计划难以落实。  
+  The Verge：AI（RSS） · 2026-11-21 02:50
 
-- [NVIDIA 发布连续扩散语言模型 Nemotron-Labs-Sigma，含 3B/8B 共 14 个开放检查点](<https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/>)  
-  NVIDIA 发布 Nemotron-Labs-Sigma，一组在 16 维连续嵌入空间去噪的扩散语言模型，包含 3B 和 8B 的 base、instruct、蒸馏和自推测解码共 14 个开放检查点。  
-  MarkTechPost（RSS） · 2026-11-20 22:44
+- [华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期](<https://www.ithome.com/1/030/282.htm>)  
+  IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ， 首发价 5499 元起、叠加国补后 4999 元起 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA…  
+  IT之家 · 2026-11-21 02:43
 
-- [Novartis CEO: AI Could Cut Drug Development Time by Years](<https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video>)  
-  Bloomberg · 2026-11-20 22:23
+- [Anthropic Falls After Blockbuster Debut as Tech Sells Off](<https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video>)  
+  Bloomberg · 2026-11-21 02:42
 
-- [Gary Marcus 称 Anthropic 股价破发，AI 股五个月跌超 50%](<https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing>)  
-  Gary Marcus 发文称 Anthropic 上市表现不佳：ANT 普通投资者交易首日从 111 开盘跌至 97 收盘，盘前再跌约 9% 至 88 左右。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-20 22:20
+- [Altruist’s Wenk on AI and the Next Era of Financial Advice](<https://www.bloomberg.com/news/videos/2026-11-20/altruist-s-wenk-on-ai-next-era-of-financial-advice-video>)  
+  Bloomberg · 2026-11-21 02:41
 
-- [How Anthropic Upstaged OpenAI on Road to Blockbuster IPO](<https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo>)  
-  The Information · 2026-11-20 22:18
+- [Anthropic Slides as AI Selloff Deepens](<https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-tech-11-20-2026-video>)  
+  Bloomberg · 2026-11-21 02:36
 
-- [Anthropic Tumbles Near IPO Price in Second Day of Trading](<https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slides-near-ipo-price-in-second-day-of-trading-video>)  
-  Bloomberg · 2026-11-20 22:12
+- [Anthropic Investor Sees Huge Runway Beyond Coding](<https://www.bloomberg.com/news/videos/2026-11-20/anthropic-investor-sees-huge-runway-beyond-coding-video>)  
+  Bloomberg · 2026-11-21 02:36
 
-- [Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.](<https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 22:12
+- [Big Take: Can Anthropic Weather a Shifting AI Landscape?](<https://www.bloomberg.com/news/videos/2026-11-20/big-take-can-anthropic-weather-a-shifting-ai-landscape-video>)  
+  Bloomberg · 2026-11-21 02:24
 
-- [三星电子高管：Neocloud 风险有限，AI 投资基于实际需求](<https://www.ithome.com/1/030/247.htm>)  
-  IT之家 11 月 20 日消息，据路透社当地时间 18 日报道，三星电子两位高管在本周举行的摩根士丹利会议上表示 Neocloud（新兴 AI 云服务企业）面临的不确定性对整体市场的影响有限，这轮 AI 投资基于实际需求而非投机。…  
-  IT之家 · 2026-11-20 22:09
+- [Anthropic与SpaceX两大IPO前一个月，比特币均跌22%，流动性逻辑如何驱动后](<https://www.163.com/dy/article/LC7ML3VG05198NMR.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 02:20
 
-- [Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜](<https://www.ithome.com/1/030/246.htm>)  
-  IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，Anthropic 上市次日股价下跌，令低迷的 AI 板块雪上加霜。这场备受期待的 IPO，也没能重新点燃投资者的热情。 作为 AI 投资热潮的重要风向标，Anthr…  
-  IT之家 · 2026-11-20 22:05
+- [AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds](<https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds>)  
+  The Information · 2026-11-21 02:00
 
-- [Air Street Capital 领投 LATO 470 万美元种子轮](<https://press.airstreet.com/p/lato-labs-investment-ai-expert-research>)  
-  Air Street Capital 宣布领投 LATO 的 $4.7M 种子轮，YC 及 ElevenLabs、Vercel、Snowflake 等联合创始人参投。  
-  Air Street Press（RSS） · 2026-11-20 22:02
+- [Anthropic数学家称证明了黎曼猜想，167年数学难题有解了？](<https://www.163.com/dy/article/LC7KQ1SC05119734.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 01:50
 
-- [Six AI-powered gadgets that could make your home office smarter](<https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/>)  
-  From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.  
-  TechCrunch · 2026-11-20 22:00
+- [RadixArk 发布纯 RL 训练的智能体编码模型 DaisyRose-27B，权重采用 Apache 2.0](<https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/>)  
+  RadixArk 本周发布首个开放权重模型 DaisyRose-27B，基于 Qwen3.8-27B 仅用强化学习做后训练，不使用 SFT 或蒸馏，权重以 Apache 2.0 开源。  
+  MarkTechPost（RSS） · 2026-11-21 01:42
 
-- [Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫](<https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off>)  
-  Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。  
-  Hacker News：AI 热帖 · 2026-11-20 21:53
+- [突发！黎曼猜想或已被Claude 1700万行代码证明](<https://www.163.com/dy/article/LC7L340T0511ABV6.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 01:40
 
-- [李彦宏的“最紧迫”与雷军的“热想象”](<https://36kr.com/p/4077950052521091?f=rss>)  
-  11月17日至18日，2026年亚太经合组织（APEC）工商领导人峰会在深圳前海国际会议中心举行。作为亚太经合组织第三十三次领导人非正式会议的配套活动，峰会由中国贸促会主办，主题为“共促繁荣，共赢未来”，2000余位政商代表参会，参会企业包  
-  36氪 · 2026-11-20 21:39
+- [TechCrunch 分析太空数据中心芯片的融资难题](<https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/>)  
+  TechCrunch 分析了在太空建数据中心的芯片融资问题：现有数据中心生态依赖债务融资，通常以芯片作抵押，若违约贷款方可收回芯片转售，这在轨上无法实现。据 Financial Times 报道，SpaceX 400 亿美元芯片融资交易的贷款方要求所购芯片不得用于其轨道数据中心计划，尚不清楚 SpaceX 是否同意该条款。  
+  TechCrunch：AI（RSS） · 2026-11-21 01:40
 
-- [从“刷分”打到“补缝”，机器人新竞赛升温](<https://36kr.com/p/4077960501008008?f=rss>)  
-  2026年末，具身智能的商业化似乎终于等来了它的“破局点”。 过去，这个行业一直受困于“大脑”不够聪明，无法应对复杂环境；“手”不够灵活，且学习成本高昂。 但最近，两个技术突破为它们带来了新的进展。 一方面是“大脑”的外溢。 Anthrop  
-  36氪 · 2026-11-20 21:34
+- [当大伙都在为 token 发愁时，豆包工作快把花费干成 0 元了？](<https://www.163.com/dy/article/LC7KPS78051196HN.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 01:35
 
-- [全球算力进入“后黄仁勋时代”](<https://36kr.com/p/4077949930738564?f=rss>)  
-  黄仁勋离开英伟达的方式，比市场预想的更突然。 当地时间11月12日，黄仁勋辞去总裁、首席执行官及董事会成员职务。11月17日，他公开发表声明称，如果董事会认为他的回归符合利益，他愿意重新出任CEO；但同一天，董事会主席哈维·琼斯在2027财  
-  36氪 · 2026-11-20 21:29
+- [黄仁勋被传募资500亿美元创业，Anthropic上市首日遭硅谷联合抵制，腾讯大幅](<https://www.163.com/dy/article/LC7KPGF4051196HN.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 01:35
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 24 页

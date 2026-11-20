@@ -2,6 +2,50 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 24 页
 
+- [黄仁勋辞职后首次财报电话会：Nvidia 新 CEO Colette Kress 收紧支出并回应回归呼声](<https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition>)  
+  作者分析黄仁勋辞职后 Nvidia 首次由新 CEO Colette Kress 主持的财报电话会，指出董事会明确不打算让黄仁勋回归，也不会回答相关问题。财报释放的新条款显示 neocloud 只有在拿到融资且数据中心建成投产后才能获得 Nvidia 的采购兜底，作者认为这透露了 Nvidia 支持意愿的边界。  
+  The Verge：AI（RSS） · 2026-11-19 02:34
+
+- [Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型](<https://deepmind.google/blog/genie-4-is-now-available/>)  
+  Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。  
+  Google DeepMind：Blog（RSS） · 2026-11-19 02:13
+
+- [Will Wright 新模拟游戏 MyMems 将用 AI 从玩家记忆中挖掘内容](<https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/>)  
+  Will Wright 与 Gallium Studios 联合 Artificial Agency 公布新模拟游戏 MyMems，计划明年发布，用生成式 AI 把玩家输入的记忆转化为数字人物和场景，组队解谜。该项目前身是 2018 年公布的 Proxi，2024 年底因资金耗尽裁员后借合作重启。游戏将基于玩家记忆构建体育、度假、伤病等主题区域，并支持与亲友共享记忆生成世界。  
+  Ars Technica：AI（RSS） · 2026-11-19 02:10
+
+- [Pragmatic Engineer 播客对话 CodeRabbit CEO：每月 25 万美元 AI 支出与 5000 个 PR 的软件工厂实践](<https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews>)  
+  The Pragmatic Engineer 播客采访 CodeRabbit CEO Harjot Gill，介绍他上月用智能体发布超过 5000 个 pull request、AI 月支出约 25 万美元的软件工厂模式。  
+  Pragmatic Engineer（RSS） · 2026-11-19 02:08
+
+- [Google 搜索 AI Mode 新增临时对话模式](<https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/>)  
+  Google 为搜索中的 AI Mode 加入“临时对话”功能，用户点击右上角图标即可开启，对话不会出现在搜索历史或推荐中。该会话与账号分离，回复不受过往偏好影响，也不会影响后续个性化。功能已在桌面端和移动端面向所有支持语言全球上线。  
+  TechCrunch：AI（RSS） · 2026-11-19 02:04
+
+- [OpenAI 称其模型在 AMD GPU IP 上实现相当于一年进度的芯片优化](<https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/>)  
+  媒体 The Decoder 报道，OpenAI 称与 AMD 合作用其模型在不到五个月内将 AMD 旗舰 GPU IP 的 PPA（功耗、性能、面积）提升至多 14%，相当于在 AMD 工程师多年优化之上再推进约一年的进度，部分改动已纳入送厂设计。  
+  The Decoder：AI News（RSS） · 2026-11-19 02:00
+
+- [Disney 用 AWS AI 让星球大战 Anzellan 电子动画角色实时与游客互动](<https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai>)  
+  Walt Disney Imagineering 研发部门公布三款 Audio-Animatronic 原型 Vilo Vele、Kado Bre’a 和 Jibu Bre’a，基于《曼达洛人与 Grogu》中的 Anzellan 外星角色，借助 Amazon AWS 云端多个 AI 模型实时响应游客动作与语音。  
+  The Verge：AI（RSS） · 2026-11-19 01:50
+
+- [Telo](<https://www.producthunt.com/products/telo-2>)  
+  Apple Health in ChatGPT and Claude, in any country  
+  Product Hunt · English · 2026-11-19 01:44
+
+- [Citi 等多家银行声明客户使用第三方 AI 智能体造成的损失自担](<https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/>)  
+  TechCrunch 报道，美国第三大商业银行 Citi 本周更新服务条款，声明客户授权第三方 AI 智能体访问账户后的一切后果自负，即使凭据泄露或遭黑客入侵也由客户负责。JPMorgan 和 Bank of America 上月已宣布类似政策，PNC 和 Citizens 也在近期跟进。Anthropic 本月推出的个人理财工具则定位为只读，不能动用或管理资金，银行还将 AI 工具视为竞争威胁。  
+  TechCrunch：AI（RSS） · 2026-11-19 01:32
+
+- [Groundwork](<https://www.producthunt.com/products/groundwork-6>)  
+  Claude Code plans that re-runs never overwrite  
+  Product Hunt · English · 2026-11-19 01:21
+
+- [Comfy Cloud 推出 Custom Builds：团队自定义节点与模型上云运行](<https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy>)  
+  Comfy 团队在 Comfy Cloud 上线 Custom Builds，可把团队的 custom nodes、模型和 LoRAs 打包部署到云端，在浏览器里的 ComfyUI 画布上协作使用。  
+  Comfy Blog · 2026-11-19 01:06
+
 - [The Gemini app is now available on lower-memory Android devices.](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/>)  
   The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your…  
   Google AI · 2026-11-19 01:00
@@ -102,9 +146,9 @@
   Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
   Wiz：Research（安全研究） · 2026-11-18 23:13
 
-- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
-  Much has been written about AI’s potential to disrupt it.  
-  a16z · 2026-11-18 23:00
+- [a16z 参与领投 Boltz 1.1 亿美元 A 轮，押注用量计费的分子设计模型](<https://www.a16z.news/p/investing-in-boltz>)  
+  a16z 宣布参与领投分子设计 AI 公司 Boltz 的 1.1 亿美元 A 轮，此前 a16z 已共同领投其种子轮。  
+  a16z：News（RSS） · 2026-11-18 23:00
 
 - [LangSmith for Coding Agents 开启公测：按 pull request 追踪编码 Agent 花费](<https://www.langchain.com/blog/langsmith-coding-agents-roi>)  
   LangChain 宣布 LangSmith 推出面向编码 Agent 的报告功能，进入 LangSmith Cloud 公测，可自动把 Claude Code、OpenAI Codex、Cursor、GitHub Copilot 和 Deep Agents 等编码 Agent 的每条 trace 花费归因到其产出的 pull request。  
@@ -137,49 +181,5 @@
 - [KPMG 首次对 FTSE 250 公司运行百个 AI 智能体参与平行审计](<https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/>)  
   KPMG 今年首次对一家 FTSE 250 公司运行全流程 AI 平行审计，投入超过 100 个 AI 智能体配合传统团队完成年度审计各阶段，正式审计意见仍基于常规审计。  
   The Decoder：AI News（RSS） · 2026-11-18 21:55
-
-- [腾讯高管预计 2028 年 AI 投入产出效率改善，归因于基础设施复用、硬件降价与算力效率提升](<https://www.ithome.com/1/029/080.htm>)  
-  腾讯高管在业绩会上表示，公司资本开支主要用于 AI 基础设施建设，这类投入可复用于新模型训练和 Token 生成，预计 2028 年经营压力有望缓解，投入产出效率将因基础设施复用、设备采购价格下降及训练推理计算效率提升而改善。财报数据显示，2026 年第三季度录得负自由现金流 691 亿元，若剔除算力采购预付款则转正至 169 亿元。  
-  IT之家·人工智能 · 2026-11-18 21:31
-
-- [SEC就未披露的对华相关芯片销售对英伟达展开民事调查](<https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/>)  
-  据《华尔街日报》报道，美国证券交易委员会（SEC）已对英伟达展开民事调查，核查其是否违反披露规则并误导投资者，调查重点涉及其在亚洲的芯片销售。报道称，美国商务部、司法部及国会也在进行相关调查，英伟达股价自事件发酵以来下跌超过10%。  
-  The Decoder：AI News（RSS） · 2026-11-18 21:28
-
-- [美国一高中停用 CurvePoint 的 Wi-AI AI 武器探测系统，因误报频发](<https://www.ithome.com/1/029/078.htm>)  
-  美国宾州亨普菲尔德地区高中停用 CurvePoint 开发的 Wi-AI AI 武器探测系统，该系统通过入口处的 SensePods 传感器分析 Wi-Fi 信号探测武器，无需摄像头。试点期间系统无法区分武器与活页夹、金属水瓶、移动电源等日常物品，误报频发，学区总监称准确率远达不到预期的 95%。厂商称该技术仍在评估、未正式部署，学区将收回购买设备的款项。  
-  IT之家·人工智能 · 2026-11-18 21:25
-
-- [韩国高考临时屏蔽考点及周边 100 米内公共 WiFi 防 AI 作弊](<https://www.ithome.com/1/029/075.htm>)  
-  韩国自当地时间 18 日下午 6 时起，要求 SK 电信、KT、LG U+ 三大运营商暂停全国高考考场及周边 100 米内的公共 WiFi 和运营商 WiFi，至 19 日下午 6 时，以防考生用智能眼镜、微型摄像头等 AI 设备作弊。  
-  IT之家·人工智能 · 2026-11-18 21:23
-
-- [Nvidia 停止向中国发货 H200 AI 芯片](<https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling>)  
-  Nvidia 临时 CEO Colette Kress 在周二财报电话会上宣布，公司已停止向中国发货获许可的 Hopper 架构 H200 数据中心芯片，业绩指引也不再包含相关产品。尽管白宫去年 12 月批准对华销售，此前路透报道约 600,000 颗 H200 芯片因北京未批准大规模进口滞留香港；文章还提到 Huang 上周卸任 CEO 及芯片审查担忧，但 Kress 未解释停售原因。  
-  The Verge：AI（RSS） · 2026-11-18 21:01
-
-- [Nvidia 澄清对 neocloud 贷款担保何时生效、何时失效](<https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/>)  
-  Nvidia 临时 CEO、CFO Colette Kress 在财报电话会上澄清，公司为 neocloud 和数据中心客户提供的贷款担保并非直接出资，只有在客户筹齐融资、建成设施并装好 Nvidia 设备后才生效，否则担保不存在，并以 OpenAI 俄亥俄州 PORTS-Pike 园区 1050 亿美元担保为例。  
-  TechCrunch：AI（RSS） · 2026-11-18 21:00
-
-- [豆包工作上线三个月 DAU 突破 800 万、企业 ARR 突破 20 亿元](<https://www.ithome.com/1/029/064.htm>)  
-  豆包工作官方宣布，产品上线 3 个月日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作面向生产力场景，可根据自然语言任务自主拆解、调用工具完成调研分析、内容创作等工作；今年 11 月 12 日产品更新引入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等首批第三方模型及按消耗计价的额度机制。  
-  IT之家·人工智能 · 2026-11-18 20:55
-
-- [腾讯刘炽平：微信小微全面上线后季度成本将低于元宝](<https://www.ithome.com/1/029/063.htm>)  
-  腾讯总裁刘炽平在业绩会上表示，微信小微用户测试池持续扩大，日活已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。IT之家提到今年春节元宝活动后曾宣布日活超 5000 万、月活达 1.14 亿。  
-  IT之家·人工智能 · 2026-11-18 20:48
-
-- [DeepSeek API 定价调整：服务端搜索与网页抓取不再计费，仅按模型 Token 用量计费](<https://www.ithome.com/1/029/058.htm>)  
-  DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起，调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费。  
-  IT之家·人工智能 · 2026-11-18 20:33
-
-- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
-  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
-  科技早知道 · 2026-11-18 20:00
-
-- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
-  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
-  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 24 页

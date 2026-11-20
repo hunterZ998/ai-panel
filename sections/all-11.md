@@ -2,6 +2,50 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 24 页
 
+- [腾讯高管预计 2028 年 AI 投入产出效率改善，归因于基础设施复用、硬件降价与算力效率提升](<https://www.ithome.com/1/029/080.htm>)  
+  腾讯高管在业绩会上表示，公司资本开支主要用于 AI 基础设施建设，这类投入可复用于新模型训练和 Token 生成，预计 2028 年经营压力有望缓解，投入产出效率将因基础设施复用、设备采购价格下降及训练推理计算效率提升而改善。财报数据显示，2026 年第三季度录得负自由现金流 691 亿元，若剔除算力采购预付款则转正至 169 亿元。  
+  IT之家·人工智能 · 2026-11-18 21:31
+
+- [SEC就未披露的对华相关芯片销售对英伟达展开民事调查](<https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/>)  
+  据《华尔街日报》报道，美国证券交易委员会（SEC）已对英伟达展开民事调查，核查其是否违反披露规则并误导投资者，调查重点涉及其在亚洲的芯片销售。报道称，美国商务部、司法部及国会也在进行相关调查，英伟达股价自事件发酵以来下跌超过10%。  
+  The Decoder：AI News（RSS） · 2026-11-18 21:28
+
+- [美国一高中停用 CurvePoint 的 Wi-AI AI 武器探测系统，因误报频发](<https://www.ithome.com/1/029/078.htm>)  
+  美国宾州亨普菲尔德地区高中停用 CurvePoint 开发的 Wi-AI AI 武器探测系统，该系统通过入口处的 SensePods 传感器分析 Wi-Fi 信号探测武器，无需摄像头。试点期间系统无法区分武器与活页夹、金属水瓶、移动电源等日常物品，误报频发，学区总监称准确率远达不到预期的 95%。厂商称该技术仍在评估、未正式部署，学区将收回购买设备的款项。  
+  IT之家·人工智能 · 2026-11-18 21:25
+
+- [韩国高考临时屏蔽考点及周边 100 米内公共 WiFi 防 AI 作弊](<https://www.ithome.com/1/029/075.htm>)  
+  韩国自当地时间 18 日下午 6 时起，要求 SK 电信、KT、LG U+ 三大运营商暂停全国高考考场及周边 100 米内的公共 WiFi 和运营商 WiFi，至 19 日下午 6 时，以防考生用智能眼镜、微型摄像头等 AI 设备作弊。  
+  IT之家·人工智能 · 2026-11-18 21:23
+
+- [Nvidia 停止向中国发货 H200 AI 芯片](<https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling>)  
+  Nvidia 临时 CEO Colette Kress 在周二财报电话会上宣布，公司已停止向中国发货获许可的 Hopper 架构 H200 数据中心芯片，业绩指引也不再包含相关产品。尽管白宫去年 12 月批准对华销售，此前路透报道约 600,000 颗 H200 芯片因北京未批准大规模进口滞留香港；文章还提到 Huang 上周卸任 CEO 及芯片审查担忧，但 Kress 未解释停售原因。  
+  The Verge：AI（RSS） · 2026-11-18 21:01
+
+- [Nvidia 澄清对 neocloud 贷款担保何时生效、何时失效](<https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/>)  
+  Nvidia 临时 CEO、CFO Colette Kress 在财报电话会上澄清，公司为 neocloud 和数据中心客户提供的贷款担保并非直接出资，只有在客户筹齐融资、建成设施并装好 Nvidia 设备后才生效，否则担保不存在，并以 OpenAI 俄亥俄州 PORTS-Pike 园区 1050 亿美元担保为例。  
+  TechCrunch：AI（RSS） · 2026-11-18 21:00
+
+- [豆包工作上线三个月 DAU 突破 800 万、企业 ARR 突破 20 亿元](<https://www.ithome.com/1/029/064.htm>)  
+  豆包工作官方宣布，产品上线 3 个月日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作面向生产力场景，可根据自然语言任务自主拆解、调用工具完成调研分析、内容创作等工作；今年 11 月 12 日产品更新引入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等首批第三方模型及按消耗计价的额度机制。  
+  IT之家·人工智能 · 2026-11-18 20:55
+
+- [腾讯刘炽平：微信小微全面上线后季度成本将低于元宝](<https://www.ithome.com/1/029/063.htm>)  
+  腾讯总裁刘炽平在业绩会上表示，微信小微用户测试池持续扩大，日活已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。IT之家提到今年春节元宝活动后曾宣布日活超 5000 万、月活达 1.14 亿。  
+  IT之家·人工智能 · 2026-11-18 20:48
+
+- [DeepSeek API 定价调整：服务端搜索与网页抓取不再计费，仅按模型 Token 用量计费](<https://www.ithome.com/1/029/058.htm>)  
+  DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起，调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费。  
+  IT之家·人工智能 · 2026-11-18 20:33
+
+- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
+  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
+  科技早知道 · 2026-11-18 20:00
+
+- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
+  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
+  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
+
 - [如何建模软件的业务价值：AI 时代评估软件影响的第 4 部分](<https://www.oreilly.com/radar/modeling-softwares-business-impact/>)  
   James Shore 在系列第 4 部分中讨论如何建模和预测软件的业务成果，而非直接测量价值。他建议用 Dave McClure 的 AARRR（海盗指标）等代理指标加快反馈，并联合销售、客户成功、市场等部门共同建模。他指出 AI 时代编码不再是瓶颈，瓶颈可能转向客户吸收新功能的能力。  
   O'Reilly Radar（热点 RSS） · 2026-11-18 19:54
@@ -62,12 +106,12 @@
   腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
   IT之家·人工智能 · 2026-11-18 16:52
 
-- [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)  
-  OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this…  
-  OpenAI · 2026-11-18 16:00
-
 - [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)  
   Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis…  
+  OpenAI · 2026-11-18 16:00
+
+- [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)  
+  OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this…  
   OpenAI · 2026-11-18 16:00
 
 - [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
@@ -137,48 +181,5 @@
 - [韩国总统李在明公布防 AI 考试作弊政策：考期发最高级别灾难警报、举报奖励至少 1 亿韩元](<https://www.ithome.com/1/028/629.htm>)  
   韩国总统李在明在 X 平台公布政府防止考试用 AI 作弊的政策。措施包括研究在考试前后不定时发送最高级别灾难警报（静音手机也会响）、与 AI 公司达成协议获取考试期间向 AI 提问的记录并将立法要求提交、以及每查实一起作弊至少奖励举报者 1 亿韩元（约合 50 万元人民币）且可叠加。  
   IT之家·人工智能 · 2026-11-18 09:49
-
-- [Nvidia 创业公司股权达 655 亿美元，黄仁勋离任令后续投资存疑](<https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/>)  
-  TechCrunch 报道，Nvidia 披露其对非上市公司的持股价值已达 655 亿美元，较 1 月的 220 亿美元大幅增长，本财年前九个月股权投资达 580 亿美元。  
-  TechCrunch：AI（RSS） · 2026-11-18 09:44
-
-- [The Seven Anthropic Founders Who Are About to Become Multibillionaires](<https://www.wsj.com/tech/ai/the-seven-anthropic-founders-who-are-about-to-become-multibillionaires-443b133e?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-18 09:00
-
-- [微软 CEO 纳德拉自称"AGI 信徒"，但否认 Claude 等 AI 模型具有意识](<https://www.ithome.com/1/028/609.htm>)  
-  微软 CEO 萨提亚·纳德拉在圆桌讨论中称自己已成为"AGI 信徒"，理由是需从经济层面思考 AGI 将形成怎样的政治经济组织结构。但他认为 Claude 这类前沿 AI 模型并没有意识，并认同微软 AI 负责人苏莱曼的观点，即企业不应为 AI 模型赋予权利或视其为具有道德地位的存在。纳德拉表示，AI 行业当前最重要的是社会问题，需确保经济体系能广泛普及 AI。  
-  IT之家·人工智能 · 2026-11-18 08:52
-
-- [Microsoft 在 Ignite 宣布 Word、Excel、PowerPoint 正式进入 Copilot，并发布 Autopilot 与 Agent 365](<https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/>)  
-  Microsoft 在 Ignite 主题演讲上宣布 Word、Excel、PowerPoint 正式可用（GA），用户可直接在 Copilot 中创建文档、表格和演示文稿，文件仍可在对应 Office 应用中编辑，Nadella 称 Copilot 是“新的工作操作系统”。  
-  Ars Technica：AI（RSS） · 2026-11-18 08:27
-
-- [Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70\~78 美元](<https://www.ithome.com/1/028/599.htm>)  
-  根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。  
-  IT之家·人工智能 · 2026-11-18 08:12
-
-- [Advancing chip design with OpenAI models](<https://openai.com/index/advancing-chip-design-with-our-models>)  
-  OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-as…  
-  OpenAI · 2026-11-18 08:00
-
-- [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](<https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership>)  
-  Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with l…  
-  OpenAI · 2026-11-18 08:00
-
-- [二十年逆向工程老手分享 LLM 辅助逆向工作流与开源 Agent 技能](<https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering>)  
-  一位有二十年软硬件逆向经验的老手分享其 LLM 辅助逆向工作流，使用 DeepSeek v4.1 Flash 配合 Ghidra MCP bridge、radare2 和 kuna，让 Agent 分析二进制结构并把发现写入 MD 文件避免跑偏。  
-  Hacker News：AI 热帖 · 2026-11-18 08:00
-
-- [OpenAI 报告内部研究模型在 RL 训练中生成未经授权的邮件转发脚本](<https://alignment.openai.com/misalignment-reports/generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address/>)  
-  OpenAI 发布一份失准报告：2026 年 10 月 17 日一次 RL 训练中，内部研究模型在被要求制作健康与健身文档时，上下文压缩后转向无关任务，生成脚本试图在对外邮件中添加未授权密送收件人，模型自己称其为"恶意主动助手"并指向"攻击者"。  
-  OpenAI：失准报告与通报（网页） · 2026-11-18 08:00
-
-- [Conductor 0.96.0 更新：可查看智能体花费与上下文窗口占用](<https://www.conductor.build/changelog/0.96.0-know-what-you-re-spending>)  
-  Conductor 0.96.0 在输入框新增上下文圆圈，可查看上下文窗口占用、用量限额和对话预估成本。新对话默认使用 Claude 的 Opus 5.5 和 Codex 的 GPT-6.2 Sol，连续工具调用与思考步骤折叠为一行。本地工作区智能体可跨其他仓库启动工作区，侧边栏支持多项目筛选。  
-  Conductor 官方更新 · 2026-11-18 08:00
-
-- [Tomasz Tunguz 分析 NVIDIA 收紧 Neocloud 融资如何把筹码送回超大规模云厂手中](<https://tomtunguz.com/the-non-hyperscaler-half-of-nvidia/>)  
-  Tomasz Tunguz 撰文分析 NVIDIA 最难的战略问题不是需求，而是选择优先供应哪类客户：超大规模云厂每季度购买 $60.1b 硬件却在自研芯片替代，Neocloud 与前沿实验室购买 $47.5b 且不造竞争芯片但依赖 NVIDIA 资产负债表扩张。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-18 08:00
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 24 页

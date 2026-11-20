@@ -2,6 +2,42 @@
 
 [返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 24 页
 
+- [Google 开源 ABFS，将 AOSP 检出时间从约 36 分钟降至 8 秒内](<https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/>)  
+  Google 发布并开源了 Another Build File Service（ABFS），用于加速 Android 等超大规模 Git 仓库的开发，含 CASFS 内核文件系统模块、Ninja-go 和服务端 CAS 基础设施。  
+  Google Developers Blog（RSS） · 2026-11-17 00:00
+
+- [Goodfire Research 发现大语言模型中的神经元社区](<https://www.goodfire.com/research/neuron-communities>)  
+  Goodfire Research 发布研究，提出无需预设功能的无监督方法，在 Llama-3.1-8B 上用梯度归因、神经元图和社区检测，从 1000 万条 prompt 中发现协作实现常见模型行为的小型神经元社区，并在 Qwen 3.6 35B-A3B 上复现。  
+  Goodfire Research（网页） · 2026-11-17 00:00
+
+- [首届 SGLang Summit 2026 举办，SGLang Consortium 成立并宣布 SGLang v1.0 与 Miles v0.2](<https://www.lmsys.org/blog/2026-11-17-sglang-summit-recap>)  
+  SGLang 团队复盘 11 月 12–13 日在旧金山 Fort Mason 举办的首届 SGLang Summit，超过 2000 名开发者参加。  
+  LMSYS Blog · 2026-11-17 00:00
+
+- [FrontierHarness Eval v1.1：27,280 次编码智能体运行中 64% 推理花费流向失败任务](<https://runta.com/blog/introducing-frontierharness-eval-v1-1/>)  
+  Runta 与 Baseten 合作发布 FrontierHarness Eval v1.1，用 83B tokens 跑了 27,280 次智能体运行，覆盖 22 个 harness × 5 个模型 × 62 个任务 × 4 次尝试，规模是 v1.0 的 76 倍。  
+  Hacker News：AI 热帖 · 2026-11-17 00:00
+
+- [LG AI Research 在 ICML 2026 提出 LASE：基于可靠性自适应辩论的高效多智能体推理](<https://www.lgresearch.ai/blog/view?seq=751>)  
+  LG AI Research 在 ICML 2026 提出 LASE（Leader-Adaptive Structured Engagement）框架，按需触发多智能体辩论以降低 token 开销。  
+  LG AI Research：官方研究博客 · 2026-11-17 00:00
+
+- [PFN 与 SEMIFIVE 合作开发 AI 推理半导体 MN-Core L2000 系列](<https://www.preferred.jp/ja/news/pr20261116>)  
+  Preferred Networks（PFN）与 SEMIFIVE 宣布在 AI 推理专用半导体 MN-Core L2000 系列的开发上展开合作，该系列是 PFN 计划 2027 年开售的 MN-Core L1000 系列的下一代产品，内存带宽提升至 2 倍以上。  
+  Preferred Networks：AI 研究与产品 · 2026-11-17 00:00
+
+- [NVIDIA 发布 Nemotron for Science，用开源模型和数据集加速科学 Agent 开发](<https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents>)  
+  NVIDIA 推出 Nemotron for Science，整合 Nemotron 3.5 Super VL 开源模型、化学评测与数据集 LitmusBench v0.2（近 5 万道化学推理题）及后训练配方，帮助研究者构建科学发现 Agent。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 扩展 Vera CPU 平台，加速科学发现](<https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery>)  
+  NVIDIA 发布 Vera CPU 机架级平台，由 192 颗 Vera CPU 通过 Quantum-X800 InfiniBand 互联，面向气候建模、分子动力学等 HPC 负载。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
+- [NVIDIA 携手 IBM 与 Fermilab 推出量子-经典协同设计平台，并发布纠错解码算法突破](<https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing>)  
+  NVIDIA 宣布与 IBM 及美国能源部费米国家加速器实验室（Fermilab）合作，共建模块化量子计算协同设计平台，将 NVIDIA DGX B200 系统与 IBM 量子计算机（含 IBM Quantum Nighthawk）同址部署。  
+  NVIDIA：Newsroom（RSS） · 2026-11-17 00:00
+
 - [Audible 推出 AI“音频发现”功能，帮用户挑选下一本有声书](<https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/>)  
   Audible 上线“audio discovery”功能，用 AI 生成书籍主题概览，并汇总读者好评与编辑或作者评论，配合有声样章播放。该功能首批面向美国部分英文书目开放，同时推出基于收听偏好的个性化合集。其 Recaps 与“Ask a Question”工具也将于 12 月扩展至更多美国书目。  
   TechCrunch：AI（RSS） · 2026-11-16 23:52
@@ -14,9 +50,9 @@
   美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。  
   TechCrunch：AI（RSS） · 2026-11-16 23:02
 
-- [The Dream of the 1990s Is Alive Again in Cybersecurity](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
-  Taking the experiences from the first prolific zero-day era and applying it to today, combined with recent conversati…  
-  a16z · 2026-11-16 23:02
+- [1990 年代的网络安全噩梦正在重演：AI 让漏洞利用提速](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
+  a16z 指出，随着 Opus 4.5/4.6 大幅降低攻击成本，漏洞发现与利用开发速度提升数个数量级，安全团队在 2026 年大部分时间都在应对过去数年一遇的紧急漏洞。互联网蠕虫可能回归，攻击者目标转向窃取推理用 API key；企业也将被迫以更快速度打补丁，并催生围绕加固基础设施组件的新创公司。  
+  a16z：News（RSS） · 2026-11-16 23:02
 
 - [Sakana AI 发布基于日本金融资格考试的基准 JFinBench](<https://sakana.ai/jfinbench/>)  
   Sakana AI 基于公認会計士、税理士等日本6项金融资格考试2026年版共321题构建日语金融基准 JFinBench，并公开数据集、代码与排行榜。用 mostly 编码智能体加人工全量校验的 human-in-the-loop pipeline 构建，后续可低成本更新。  
@@ -145,40 +181,5 @@
 - [20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](<https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida>)  
   Diogo Almeida is the Co-Founder and CEO of TypeSafe AI, the company behind Jev. Jev is an AI model that lets software…  
   20VC · 2026-11-16 15:07
-
-- [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
-  Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
-  Product Hunt 中文 · DecoHack · 2026-11-16 15:00
-
-- [OpenAI 发布 CSAM 图像分类器模型卡](<https://deploymentsafety.openai.com/csam-image-classifier>)  
-  OpenAI 公布 CSAM 图像分类器模型卡，该分类器用受访问控制、人工标注的图像数据集训练和评估，数据存储与处理均在受控环境中进行。同一阈值下，在线评估集的精确率明显低于离线留出集，原因是留出集中 CSAM 占比远高于在线评估集，CSAM 稀少时少量误报即可超过真实检出数。OpenAI 用此前在线评估中经审核的样本多轮迭代改进已识别错误类型，每轮也暴露出新的误报模式。  
-  OpenAI：部署安全与系统卡（网页） · 2026-11-16 15:00
-
-- [虚拟人“方桃子”代言美瞳发布虚假广告，涉事公司被罚 6.82 万余元](<https://www.ithome.com/1/027/711.htm>)  
-  据大河报报道，广州我的影视文化传媒有限公司因在自制虚拟人物“方桃子”账号发布“NUTNUTLOOK 坚果力”美瞳广告，宣称“戴了一天都很舒服”等虚构使用效果，被广州市番禺区市场监督管理局罚款 6.82 万余元。该美瞳属第三类医疗器械，公司未取得《医疗广告审查证明》即发布，违反广告法。  
-  IT之家·人工智能 · 2026-11-16 14:57
-
-- [台积电拟按客户信用额度供应产能，应对 AI 循环融资疑虑](<https://www.ithome.com/1/027/697.htm>)  
-  据《工商时报》报道，在 AI 循环融资疑虑升温背景下，台积电将客户财务资料与数据中心建设需求纳入需求评估，根据各公司资产负债表拟定信用额度，考量历史损失率、竞争力及营运展望，单笔超额度需现金支付，部分客户要先付款保留产能。  
-  IT之家·人工智能 · 2026-11-16 14:54
-
-- [火山引擎开放 Seedance 2.5 4K API](<https://mp.weixin.qq.com/s/c6pWJXD6YXf8lcwLdNu5zA>)  
-  火山引擎宣布 Seedance 2.5 4K API 全面开放，可通过文末链接获取 API 入口。Seedance 官方优质作品及公开提示词可在火山方舟 Gallery 查看，网址 https://ark.volcengine.com/ark/gallery。  
-  公众号：火山引擎 · 2026-11-16 14:03
-
-- [More ways to move care forward with ChatGPT for Healthcare](<https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare>)  
-  Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare so…  
-  OpenAI · 2026-11-16 14:00
-
-- [Advancing computer-use agents for healthcare teams](<https://openai.com/index/advancing-computer-use-for-healthcare-teams>)  
-  OpenAI · 2026-11-16 14:00
-
-- [腾讯混元发布 Hy4 flash：224B 总参、12B 激活，单任务成本约 Hy4 的 5%](<https://www.ithome.com/1/027/630.htm>)  
-  腾讯混元团队宣布正式推出 Hy4 flash，总参数量 224B（含 64B Engram 参数），每 token 激活 12B，支持多模态输入与 100 万 token 上下文，官方定位为性价比最高的 Hy 模型。  
-  IT之家·人工智能 · 2026-11-16 13:09
-
-- [腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的高性价比日常模型](<https://mp.weixin.qq.com/s/5yBbf-ctYziM5r0i6Y17lA>)  
-  腾讯混元正式推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活参数 12B，支持多模态和 1M 上下文，API 价格相比 Hy4 大幅降低。  
-  公众号：腾讯混元 · 2026-11-16 13:06
 
 [返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 24 页

@@ -2,61 +2,13 @@
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
 
-- [Charts of the Week: There is No Gen Z](<https://www.a16z.news/p/charts-of-the-week-there-is-no-gen>)  
-  AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds  
-  a16z · 2026-11-20 23:08
-
-- [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
-  A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
-  a16z · 2026-11-20 23:03
-
-- [The a16z FDE Fellowship is back](<https://www.a16z.news/p/the-a16z-fde-fellowship-is-back>)  
-  An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more  
-  a16z · 2026-11-20 01:26
-
 - [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
   What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
   Menlo Ventures · 2026-11-20 00:50
 
-- [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
-  2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
-  a16z · 2026-11-19 01:05
-
-- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
-  Much has been written about AI’s potential to disrupt it.  
-  a16z · 2026-11-18 23:00
-
-- [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
-  For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
-  a16z · 2026-11-17 23:10
-
-- [The Dream of the 1990s Is Alive Again in Cybersecurity](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
-  Taking the experiences from the first prolific zero-day era and applying it to today, combined with recent conversati…  
-  a16z · 2026-11-16 23:02
-
 - [2026: The State of AI in Healthcare](<https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/>)  
   Healthcare AI Moves from Back Office to Bench and Bedside In 2026, healthcare AI accelerated in life sciences and mov…  
   Menlo Ventures · 2026-11-16 22:30
-
-- [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
-  AI Will Make Pharma Even Bigger  
-  a16z · 2026-11-13 23:03
-
-- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
-  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
-  a16z · 2026-11-13 05:21
-
-- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
-  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
-  SemiAnalysis · 2026-11-13 02:06
-
-- [Gaming’s Next Origin Stories](<https://www.a16z.news/p/gamings-next-origin-stories>)  
-  What AI makes possible for indie developers, toolmakers, and studios  
-  a16z · 2026-11-12 23:03
-
-- [Welcome to the B2A Economy](<https://www.a16z.news/p/welcome-to-the-b2a-economy>)  
-  They’re AI agents.  
-  a16z · 2026-11-11 23:02
 
 - [Investing in General Translation](<https://www.a16z.news/p/investing-in-general-translation>)  
   The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
@@ -94,17 +46,61 @@
   We showed exactly how xAI bypassed the grid \(and permitting\!\) with truck-mounted turbines, why the behind-the-meter p…  
   SemiAnalysis · 2026-11-04 04:44
 
+- [The State of Longevity](<https://www.a16z.news/p/the-state-of-longevity>)  
+  The second was ChatGPT.  
+  a16z · 2026-11-03 23:06
+
 - [2026: The State of Enterprise AI](<https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/>)  
   Enterprise AI Reaches Scale In 2026, AI became an economy-scale force. Enterprise AI deployment spending surged from…  
   Menlo Ventures · 2026-11-03 22:00
+
+- [Investing in Tutor Intelligence](<https://www.a16z.news/p/investing-in-tutor-intelligence>)  
+  They deploy into real production environments ahead of full autonomy, using human teleoperators \(“tutors”\) to train t…  
+  a16z · 2026-11-03 00:05
+
+- [How AI Applications Earn Their Premium](<https://www.a16z.news/p/how-ai-applications-earn-their-premium>)  
+  Cheaper intelligence raises the bar for what an AI application can charge  
+  a16z · 2026-11-02 23:03
+
+- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
+  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
+  a16z · 2026-11-02 22:01
 
 - [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
   It aims to be the world’s best benchmark for measuring general agentic capabilities.  
   SemiAnalysis · 2026-11-02 09:51
 
+- [New Founder Archetypes in the AI Age](<https://www.a16z.news/p/new-founder-archetypes-in-the-ai>)  
+  How will the profiles change as we enter the age of AI?  
+  a16z · 2026-10-31 00:02
+
+- [Charts of the Week: Job FUD Fades](<https://www.a16z.news/p/charts-of-the-week-job-fud-fades>)  
+  AI Referred, Shopper Approved; Rack Spread Cometh \(But Why\)?  
+  a16z · 2026-10-30 22:09
+
+- [The New Security Agenda](<https://www.a16z.news/p/the-new-security-agenda>)  
+  What CISOs told us about AI, budgets, and the priorities shaping 2027.  
+  a16z · 2026-10-29 00:00
+
+- [Databricks &amp; the Future of the Firm](<https://www.a16z.news/p/databricks-and-the-future-of-the>)  
+  How agents and new database technology will change the shape of the firm—and what we do at work all day  
+  a16z · 2026-10-27 22:02
+
+- [Announcing the Third a16z New Media Fellowship](<https://www.a16z.news/p/announcing-the-third-a16z-nmf>)  
+  Others have taken on new roles at companies like OpenAI and Prime Intellect , and a few even joined our own New Media…  
+  a16z · 2026-10-27 00:58
+
+- [Let Chaos Reign, and Then Rein In Chaos](<https://www.a16z.news/p/let-chaos-reign-and-then-rein-in>)  
+  Replit and the Agent Habitat  
+  a16z · 2026-10-27 00:08
+
 - [Amazon’s Trainium Takes a Strike at the Training King](<https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at>)  
   Anthropic is running production inference and RL rollouts on Trainium2 and Trainium3.  
   SemiAnalysis · 2026-10-24 03:06
+
+- [Patch or Die](<https://www.a16z.news/p/patch-or-die>)  
+  While there has been a flood of new vulnerabilities AI agents are being adopted at scale multiplying the potential risk.  
+  a16z · 2026-10-23 22:20
 
 - [The Huawei-DeepSeek Symbiosis](<https://newsletter.semianalysis.com/p/huawei-deepseek>)  
   Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend  
@@ -181,5 +177,9 @@
 - [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
   Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
   SemiAnalysis · 2026-09-15 06:08
+
+- [A Brain Too Big to Carry — On-Device vs Datacenter Inference](<https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device>)  
+  So far, AI has mostly lived behind a screen.  
+  SemiAnalysis · 2026-09-15 00:37
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页

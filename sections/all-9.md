@@ -2,6 +2,58 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 24 页
 
+- [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
+  Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
+  OpenAI · 2026-11-19 08:00
+
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
+  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
+  晚点聊 · 2026-11-19 08:00
+
+- [Together AI 推出 Together Storage Accelerator：GPU 集群的免费数据缓存层](<https://www.together.ai/blog/introducing-together-storage-accelerator>)  
+  Together AI 发布 Together Storage Accelerator（TSA），一个面向 Together GPU 集群的分布式缓存层，现已随所有 GPU 集群免费提供。  
+  Together AI 研究与产品博客（RSS） · 2026-11-19 08:00
+
+- [Mastra Platform 推出可观测性告警功能](<https://mastra.ai/blog/introducing-observability-alerts>)  
+  Mastra Platform 新增可观测性告警，可在模型成本超限、错误率上升或 eval 分数下降时通知，支持 Slack、Discord、Microsoft Teams、邮件、webhooks、PagerDuty 和 incident.io。告警可覆盖错误率、延迟、token 用量、花费及所选 scorer 的平均分，规则每五分钟检查一次，仅组织管理员可创建、编辑和删除。  
+  Mastra Blog · 2026-11-19 08:00
+
+- [Google 用 Willow 量子处理器验证量子上下文性，魔方游戏胜率 98.3%](<https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/>)  
+  Google Quantum AI 团队发表于 Science 的论文在超导量子处理器上实验演示并量化了量子上下文性。团队用 Willow 处理器玩 magic square 游戏，胜率 98.30%±0.0001，超过 88.89% 的经典上限；通过 Bell–Kochen–Specker 不等式测得 χ=5.590±0.008，越过经典界限 4、距量子极限 6 仅 7%。  
+  Google Research：Blog（网页） · 2026-11-19 08:00
+
+- [Gemini API 发布 Genie 4 交互式世界生成并推出 Tool Retrieval 预览](<https://ai.google.dev/gemini-api/docs/changelog#11-19-2026>)  
+  Google 在 Gemini API 更新日志宣布 Genie 4（genie-4）正式可用，通过 Interactions API（v1beta）实现实时交互式世界生成。  
+  Gemini API：更新日志（网页） · 2026-11-19 08:00
+
+- [Mastra 发布 Mastra Gateway，一个密钥访问 500 多个模型](<https://mastra.ai/blog/announcing-mastra-gateway>)  
+  Mastra 发布 Mastra Gateway，用户用一个 API 密钥即可访问 Anthropic、OpenAI、Typesafe AI 等供应商的 500 多个语言、语音、视频和决策模型，并只需一张账单。  
+  Mastra Blog · 2026-11-19 08:00
+
+- [OpenHands 详解用 Agent 自动修复自家镜像 CVE 的软件工厂](<https://www.openhands.dev/blog/automating-cve-remediation-with-openhands>)  
+  OpenHands 团队详解把大部分 CVE 修复工作交给 Agent 流水线的做法：Agent 选择修复、开 PR、合并低风险项并跟踪到部署，人每天只读一条最多 11 行的 Slack 消息和少量 PR。  
+  OpenHands 官方博客 · 2026-11-19 08:00
+
+- [腾讯旗舰模型 Tencent Hy4 上线 Together AI](<https://www.together.ai/blog/tencent-hy4>)  
+  Tencent Hy4 现已在 Together AI 上线，提供 serverless 和专属端点两种部署方式，模型字符串为 tencent/Hy4。Hy4 是腾讯旗舰模型，也是 Hy 家族首个支持图像输入的版本，拥有 1M token 上下文窗口，定价为输入 $0.83/1M tokens、输出 $2.50/1M tokens、缓存输入 $0.042/1M tokens。  
+  Together AI 研究与产品博客（RSS） · 2026-11-19 08:00
+
+- [Browser Use 讲解 AI 智能体如何通过界面操作软件](<https://browser-use.com/posts/what-is-computer-use>)  
+  Browser Use 发布科普文章，讲解计算机使用类智能体如何像人一样通过界面点击、输入和滚动来操作软件。文章拆解了读取界面、选择动作、执行和验证的智能体循环，比较截图、DOM 和无障碍树三种读取方式的优劣，并给出适用场景、速度成本考量，以及限制权限和防范提示词注入的安全建议。  
+  Browser Use · 2026-11-19 08:00
+
+- [Google 发布 Gemini 4 Neon，Simon Willison 实测指其让 Gemini 4 系列定价更混乱](<https://simonwillison.net/2026/Nov/18/llm-gemini/>)  
+  Simon Willison 评测 Google 新发布的 Gemini 4 Neon，认为它让本已混乱的 Gemini 4 系列定价更复杂：Neon 为 $3/million 输入、$15/million 输出，当前高于 Carbon（$2/$10，12 月 1 日将涨至 $4/$20）和 Hydrogen（$1.50/$7.50）。  
+  Simon Willison 博客 · 2026-11-19 07:59
+
+- [谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数排名第一](<https://www.ithome.com/1/029/144.htm>)  
+  谷歌 11 月 18 日宣布推出 Gemini 4 Neon 模型，主攻复杂编程、科学研究和企业工作流程，已向开发者、企业及部分付费订阅用户开放。  
+  IT之家·人工智能 · 2026-11-19 07:53
+
+- [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)  
+  The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new chall  
+  TechCrunch · 2026-11-19 07:45
+
 - [谷歌面向低内存安卓设备开放 Gemini 应用，最低支持 2GB 内存](<https://www.ithome.com/1/029/141.htm>)  
   谷歌宣布面向 Android Go 设备开放 Gemini 应用，经重新设计的应用可在内存低至 2GB 的手机上流畅运行，潜在覆盖数亿用户。功能涵盖语音交流、相机辅助理解、图像创作和 Gemini Live 超过 45 种语言的对话，用户可通过 Google Play 下载，部分手机可长按电源键启动，传音等合作伙伴未来设备将预装。  
   IT之家·人工智能 · 2026-11-19 07:32
@@ -37,13 +89,9 @@
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
   Axios · 2026-11-19 06:16
 
-- [Anthropic prices IPO at $83 a share, above projected range](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
-  The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.  
-  TechCrunch · 2026-11-19 06:11
-
-- [Nvidia created a weird bit of intrigue by not filing a routine SEC report](<https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/>)  
-  One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarte  
-  TechCrunch · 2026-11-19 05:57
+- [Anthropic 以每股 83 美元定价 IPO，估值达 1.5 万亿美元](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
+  Anthropic 据报道将 IPO 定价定为每股 83 美元，高于 70 至 78 美元的初始区间，完全稀释估值达 1.5 万亿美元，将于周四在纳斯达克以代码 ANT 上市。  
+  TechCrunch：AI（RSS） · 2026-11-19 06:11
 
 - [Anthropic IPO 是否对投资者和社会都是坏赌注？](<https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both>)  
   Gary Marcus 对即将到来的 Anthropic IPO 高估值提出质疑，认为其收入已不再像 Q2 那样高速增长，中国模型追赶上后用户开始更谨慎地控制 token 支出，收入趋于平缓。他还认为 Dario 在医疗等领域的激进承诺不切实际，并呼吁为人类福祉考虑不要购买 Anthropic 股票。  
@@ -132,53 +180,5 @@
 - [Claude 推出 Meetings、Whiteboards、Sheets、Data 等五种办公用法](<https://www.youtube.com/watch?v=t2Zo3YAJdj4>)  
   Claude 官方介绍五种新的办公用法：Claude Meetings 可加入会议并记笔记，语音让它在 Claude Whiteboards 开板，会后可在 Claude Sheets 生成表格或在 Claude Data 生成仪表盘，interactive connectors 让用户不离开 Claude 直接使用现有应用。  
   Claude：YouTube（RSS） · 2026-11-19 02:39
-
-- [黄仁勋辞职后首次财报电话会：Nvidia 新 CEO Colette Kress 收紧支出并回应回归呼声](<https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition>)  
-  作者分析黄仁勋辞职后 Nvidia 首次由新 CEO Colette Kress 主持的财报电话会，指出董事会明确不打算让黄仁勋回归，也不会回答相关问题。财报释放的新条款显示 neocloud 只有在拿到融资且数据中心建成投产后才能获得 Nvidia 的采购兜底，作者认为这透露了 Nvidia 支持意愿的边界。  
-  The Verge：AI（RSS） · 2026-11-19 02:34
-
-- [Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型](<https://deepmind.google/blog/genie-4-is-now-available/>)  
-  Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。  
-  Google DeepMind：Blog（RSS） · 2026-11-19 02:13
-
-- [Will Wright 新模拟游戏 MyMems 将用 AI 从玩家记忆中挖掘内容](<https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/>)  
-  Will Wright 与 Gallium Studios 联合 Artificial Agency 公布新模拟游戏 MyMems，计划明年发布，用生成式 AI 把玩家输入的记忆转化为数字人物和场景，组队解谜。该项目前身是 2018 年公布的 Proxi，2024 年底因资金耗尽裁员后借合作重启。游戏将基于玩家记忆构建体育、度假、伤病等主题区域，并支持与亲友共享记忆生成世界。  
-  Ars Technica：AI（RSS） · 2026-11-19 02:10
-
-- [Pragmatic Engineer 播客对话 CodeRabbit CEO：每月 25 万美元 AI 支出与 5000 个 PR 的软件工厂实践](<https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews>)  
-  The Pragmatic Engineer 播客采访 CodeRabbit CEO Harjot Gill，介绍他上月用智能体发布超过 5000 个 pull request、AI 月支出约 25 万美元的软件工厂模式。  
-  Pragmatic Engineer（RSS） · 2026-11-19 02:08
-
-- [Google 搜索 AI Mode 新增临时对话模式](<https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/>)  
-  Google 为搜索中的 AI Mode 加入“临时对话”功能，用户点击右上角图标即可开启，对话不会出现在搜索历史或推荐中。该会话与账号分离，回复不受过往偏好影响，也不会影响后续个性化。功能已在桌面端和移动端面向所有支持语言全球上线。  
-  TechCrunch：AI（RSS） · 2026-11-19 02:04
-
-- [OpenAI 称其模型在 AMD GPU IP 上实现相当于一年进度的芯片优化](<https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/>)  
-  媒体 The Decoder 报道，OpenAI 称与 AMD 合作用其模型在不到五个月内将 AMD 旗舰 GPU IP 的 PPA（功耗、性能、面积）提升至多 14%，相当于在 AMD 工程师多年优化之上再推进约一年的进度，部分改动已纳入送厂设计。  
-  The Decoder：AI News（RSS） · 2026-11-19 02:00
-
-- [Disney 用 AWS AI 让星球大战 Anzellan 电子动画角色实时与游客互动](<https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai>)  
-  Walt Disney Imagineering 研发部门公布三款 Audio-Animatronic 原型 Vilo Vele、Kado Bre’a 和 Jibu Bre’a，基于《曼达洛人与 Grogu》中的 Anzellan 外星角色，借助 Amazon AWS 云端多个 AI 模型实时响应游客动作与语音。  
-  The Verge：AI（RSS） · 2026-11-19 01:50
-
-- [Telo](<https://www.producthunt.com/products/telo-2>)  
-  Apple Health in ChatGPT and Claude, in any country  
-  Product Hunt · English · 2026-11-19 01:44
-
-- [Citi 等多家银行声明客户使用第三方 AI 智能体造成的损失自担](<https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/>)  
-  TechCrunch 报道，美国第三大商业银行 Citi 本周更新服务条款，声明客户授权第三方 AI 智能体访问账户后的一切后果自负，即使凭据泄露或遭黑客入侵也由客户负责。JPMorgan 和 Bank of America 上月已宣布类似政策，PNC 和 Citizens 也在近期跟进。Anthropic 本月推出的个人理财工具则定位为只读，不能动用或管理资金，银行还将 AI 工具视为竞争威胁。  
-  TechCrunch：AI（RSS） · 2026-11-19 01:32
-
-- [Groundwork](<https://www.producthunt.com/products/groundwork-6>)  
-  Claude Code plans that re-runs never overwrite  
-  Product Hunt · English · 2026-11-19 01:21
-
-- [Comfy Cloud 推出 Custom Builds：团队自定义节点与模型上云运行](<https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy>)  
-  Comfy 团队在 Comfy Cloud 上线 Custom Builds，可把团队的 custom nodes、模型和 LoRAs 打包部署到云端，在浏览器里的 ComfyUI 画布上协作使用。  
-  Comfy Blog · 2026-11-19 01:06
-
-- [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
-  2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
-  a16z · 2026-11-19 01:05
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 24 页

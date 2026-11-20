@@ -2,6 +2,46 @@
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 24 页
 
+- [Prime Intellect 发布 Model Factory 一站式训练与推理平台](<https://www.primeintellect.ai/blog/introducing-model-factory>)  
+  Prime Intellect 发布 Model Factory，将强化学习、SFT、预训练和推理整合到一个控制面，让企业在自有任务和数据上训练、部署并持续改进模型。  
+  Prime Intellect（网页） · 2026-11-18 00:00
+
+- [Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克](<https://www.anthropic.com/news/anthropic-prices-initial-public-offering>)  
+  Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。  
+  Anthropic：Newsroom（网页） · 2026-11-18 00:00
+
+- [Google DeepMind 发布 Gemini 4 Neon，智能指数微升且任务成本降低约 17%](<https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain>)  
+  Artificial Analysis 评测 Google DeepMind 发布的 Gemini 4 Neon，Neon（xhigh）智能指数 61 分，比 Gemini 4 Carbon（high）高 1 分、总排名第 3。  
+  Artificial Analysis 完整文章（网页） · 2026-11-18 00:00
+
+- [SGLang 集成 Humming：面向高效 MoE 推理的灵活低比特内核](<https://www.lmsys.org/blog/2026-11-18-humming-sglang>)  
+  Humming 0.1.18 扩展了与 SGLang 的集成，覆盖更多量化方案和 GPU 架构，并新增面向 SGLang MoE runner 的共享激活表达式接口。  
+  LMSYS Blog · 2026-11-18 00:00
+
+- [Google 发布 Gemini 4 Neon：速度快、成本低的 frontier 级模型](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/>)  
+  Google 发布 Gemini 4 Neon，主打 frontier 级智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。  
+  Hacker News：AI 热帖 · 2026-11-18 00:00
+
+- [Google DeepMind 向 AI Ultra 订阅者开放 Genie 4 与新版 Project Genie 体验](<https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/>)  
+  Google 面向符合条件的 Google AI Ultra 订阅者推出新 Project Genie 体验，首次开放世界模型 Genie 4，支持会话中途输入提示词实时编辑环境，并首次配对随场景自适应的原生实时音频。  
+  Hacker News：AI 热帖 · 2026-11-18 00:00
+
+- [Microsoft CEO Nadella 在 Ignite 表示自己是 AGI-pilled，主张企业拥有自己的模型](<https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model>)  
+  Every 作者在 Microsoft Ignite 圆桌报道，Nadella 称自己如今 "AGI pilled"，关注点是如何围绕无限制模型组织政治经济，并提出应有多如企业数量的模型，以此回应 Anthropic 可能一家独大的问题。  
+  Every：最新文章（网页） · 2026-11-18 00:00
+
+- [在 Modal 上为玛雅碑铭研究构建新工具](<https://modal.com/blog/scaling-intelligence-asya>)  
+  斯坦福讲师 Miguel Novelo 在 Modal 上搭建了一条将 2D 玛雅字形图像转为 3D 模型的快速流水线，起点是约 100 个玛雅音节符号。他在 Gray Area 展出的装置 \(Φ ᆺ Φ\) asya 让观众在沙上作画并生成新字形，汇入不断增长的集体抄本。Novelo 表示，通用大模型缺乏尤卡坦本地知识，因此需要理解字形外观与语境的小型专用模型。  
+  Modal 官方工程博客（RSS） · 2026-11-18 00:00
+
+- [用两条提示词在 NVIDIA Cosmos 中构建可训练物理 AI 数据集](<https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/>)  
+  NVIDIA 介绍如何用两条提示词在 Cosmos 中完成物理 AI 训练数据集的整理与增强。Cosmos Data Factory 包含五个云原生 blueprint 和六个可组合 skill，由前沿 AI 智能体编排，实现 prompt-to-data。文章演示了自动驾驶场景生成、图像属性增强、视频天气光照变换、罕见事件视频与缺陷图像生成五类用例。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-18 00:00
+
+- [LlamaIndex 发布文档解析模型 OCRia-1.5](<https://www.llamaindex.ai/blog/introducing-ocria-1-5>)  
+  LlamaIndex 发布 OCRia-1.5 文档解析模型，包含 4B 和 2B 两个尺寸，分别驱动 LlamaParse 的 Agentic 和 Cost Effective 两档，两档均已在 LlamaParse 上线。  
+  LlamaIndex：产品、工程与评测 · 2026-11-18 00:00
+
 - [LlamaIndex 评测 2026 年最佳 OCR 模型：OCRia-1 在四个基准的表格解析上领先](<https://www.llamaindex.ai/blog/best-ocr-models>)  
   LlamaIndex 发布按表格、图表等结构化解析能力排名的 OCR 模型评测，旗下 LlamaParse 中的 4B 模型 OCRia-1 以 91.5 分领先 ParseBench 表格维度，并在四个基准中的三个外部基准上也居首。  
   LlamaIndex：产品、工程与评测 · 2026-11-18 00:00
@@ -29,10 +69,6 @@
 - [美国司法部用 AI 检测工具 Pangram 指控辩护律师用 AI 写诉状](<https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/>)  
   404 Media 查阅法庭文件后报道，美国司法部律师正在使用 AI 写作检测服务 Pangram，指控对方辩护律师用 AI 撰写法律文书，并在一起选民欺诈案中称对方是在“用 ChatGPT 辩护”、提交“AI slop”诉状。  
   404 Media（RSS） · 2026-11-17 23:14
-
-- [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
-  For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
-  a16z · 2026-11-17 23:10
 
 - [可灵AI 发布 Kling Image 4.0 图像生成模型并开放 API 接入](<https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w>)  
   可灵AI 发布全新图像创作模型 Kling Image 4.0，现已全量上线并面向企业客户与开发者开放 API 接入。新模型采用理解生成统一架构，首次支持原生 8K 图像生成，支持单张图最多生成 2000 字文本、最高 15000 tokens 文本输入，一次描述最多生成 10 张组图，并支持电商详情页与网页设计长图。  
@@ -145,41 +181,5 @@
 - [OVHcloud 开源发布首个模型 Olala mini 7A1B，总参数 70 亿、8GB 显存可运行](<https://www.ithome.com/1/028/453.htm>)  
   欧洲云服务企业 OVHcloud 宣布推出首个 AI 模型家族 Olala，首个成员 Olala mini 7A1B 以 Apache 2.0 许可开源发布在 Hugging Face。  
   IT之家·人工智能 · 2026-11-17 18:06
-
-- [NVIDIA 董事会设立国家安全与出口管制监督委员会](<https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee>)  
-  NVIDIA 宣布董事会设立常设的国家安全与出口管制监督委员会，负责公司国家安全政策、出口管制合规和全球贸易风险管理的董事会级监督。委员会由董事 Suzanne Nora Johnson 担任主席，成员包括 Stephen C. Neal 和 John O. Dabiri，至少每季度召开一次会议，并将聘请独立外部专家提供法律、国家安全和贸易合规支持。  
-  NVIDIA：Newsroom（RSS） · 2026-11-17 18:00
-
-- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
-  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
-  MarkTechPost（RSS） · 2026-11-17 17:51
-
-- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
-  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
-  IT之家·人工智能 · 2026-11-17 17:41
-
-- [Perplexity 年化收入突破 $1B，2026 年增长 4 倍](<https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/>)  
-  Perplexity CEO Aravind Srinivas 在 Semafor 活动上宣布公司年化收入突破 $1B。The Information 此前报道其年初收入不到 $250M，8 月已超 $750M，Computer 产品推动部分增长。  
-  Latent Space（RSS） · 2026-11-17 17:24
-
-- [Liquid AI 发布 d1.2 与 d1.2-ultra 全模态决策模型，登顶 AA Decision Index](<https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/>)  
-  Liquid AI 发布决策模型 d1.2 和 d1.2-ultra，支持文本、图像和音频输入，返回概率而非生成文本，d1.2-ultra 以 75 分位列 Artificial Analysis Decision Index v2.1 决策模型榜首。  
-  MarkTechPost（RSS） · 2026-11-17 17:20
-
-- [腾讯元宝全量上线混元 Hy4 flash，支持快速回答与深度思考双模式](<https://mp.weixin.qq.com/s/JgxkKNkRLkNlpIgNY5QLqg>)  
-  腾讯元宝宣布全量上线混元最新模型 Hy4 flash，支持快速回答与深度思考两种模式。用户更新元宝到最新版后选择 Hy4 模型，即可在两种模式间切换，快速回答应对日常问答，深度思考处理复杂推理任务。  
-  公众号：腾讯元宝 · 2026-11-17 16:51
-
-- [智源 FlagOpen 上线 HumanCOIN DataManager 数据集门户](<https://github.com/FlagOpen/HumanCOIN-DataManager>)  
-  智源 FlagOpen 推出 HumanCOIN DataManager 网页门户，用于查找、预览和下载 HumanCOIN 数据集，首批预计包含约 1,200 小时数据。  
-  智源 FlagOpen：原创开源项目 · 2026-11-17 16:34
-
-- [谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言](<https://www.ithome.com/1/028/336.htm>)  
-  谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，用户可在语音设置或 Gemini Live 对话中切换口音。此次更新涵盖美式英语、英式英语、印度英语、印地语、巴西葡萄牙语、印度尼西亚语和韩语，其中英国用户可选 10 余种地区口音。谷歌与母语使用者合作还原当地语速与节奏，相关语音也适用于 Gemini Live 和文本转语音播放。  
-  IT之家·人工智能 · 2026-11-17 16:21
-
-- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
-  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
-  IT之家·人工智能 · 2026-11-17 16:16
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 24 页

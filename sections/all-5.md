@@ -2,19 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 24 页
 
-- [DeepSeek V1作者创业项目曝光：开源Agent](<https://www.163.com/dy/article/LC5RQH0G0511DSSR.html>)  
-  网易科技频道 · 网易号 · 2026-11-20 09:05
-
-- [Emerging Market Stocks on Cusp of Bear Market as AI Rout Expands](<https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide>)  
-  Bloomberg · 2026-11-20 09:05
-
-- [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
-  The Information · 2026-11-20 09:00
-
-- [投资界24h\| Anthropic市值超10万亿；三位00后把公司卖了300亿；招商局人工智能产业基金成立](<https://www.pedaily.cn/first/193679.shtml>)  
-  11月19日，美国AI公司Anthropic登陆纳斯达克，发行价每股83美元，开盘涨超20%，市值近2万亿美元七位联合创始人每人身家约200亿美元，集体跻身彭博全球富豪榜前列。与此同时，美国派拓网络宣布将以约300亿元全股票交易收购A…  
-  投资界 · 2026-11-20 08:59
-
 - [Apple may be developing its own AI agent that runs your Mac](<https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/>)  
   The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenA  
   TechCrunch · 2026-11-20 08:56
@@ -38,15 +25,85 @@
 - [Why Anthropic’s VC Investors Aren’t Letting Go](<https://www.theinformation.com/articles/anthropics-vc-investors-letting-go>)  
   The Information · 2026-11-20 08:41
 
-- [从“双头虾”到一万张鸟类贴纸，“AI泔水”正在污染知识](<https://www.163.com/dy/article/LC5QMQBF0514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-20 08:40
-
 - [谷歌研究：只改一处代码让 AI 智能体优化 Harness 后 SWE-bench Lite 成功率提升 8 倍](<https://www.ithome.com/1/029/766.htm>)  
   谷歌研究人员 11 月 17 日发表论文《Harnesses That Improve Themselves》，提出让优化模型直接修改智能体 Harness 代码并通过验证保留修改的自我改进架构。  
   IT之家·人工智能 · 2026-11-20 08:19
 
-- [Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade](<https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 08:00
+- [Hugging Face 联合 Thinking Machines Lab 发布本地多模态模型 Inkling 2 Mini](<https://huggingface.co/blog/inkling2mini>)  
+  Hugging Face 与 Thinking Machines Lab 合作发布面向本地部署的多模态 MoE 模型 Inkling 2 Mini，总参数约 26B、每 token 激活 3B。  
+  Hugging Face 官方团队博客 · 2026-11-20 08:00
+
+- [browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作](<https://browser-use.com/posts/browser-use-1-0>)  
+  Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chrome DevTools Protocol 访问替代 0.x 的 24 个浏览器动作。  
+  Browser Use · 2026-11-20 08:00
+
+- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
+  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
+  OpenAI · 2026-11-20 08:00
+
+- [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>)  
+  MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and sele…  
+  OpenAI · 2026-11-20 08:00
+
+- [Browser Use 用 PINEAPPLE 注入测试拆解个人 AI 智能体浏览器的七项需求](<https://browser-use.com/posts/personal-ai-agent-browser>)  
+  Browser Use 在网页中藏入提示词注入句子 PINEAPPLE 并让六个个人智能体环境读取，其中一个照说，六个环境中只有三个将其标记为提示词注入。团队还分析了关于 12 个个人智能体的 33,976 条帖子，总结出个人智能体浏览器的七项需求：持久登录、借用用户 cookies、反屏蔽、人工接管、密码不交给模型、一次性虚拟卡，以及默认每个页面都不可信。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 复盘 LLM-as-a-Judge 只读了五分之一答案导致的评测假阳性](<https://browser-use.com/posts/llm-as-a-judge-eval-bug>)  
+  Browser Use 复盘一次 agent 评测中的 LLM judge bug：判分器只读 FINAL ANSWER: 标记后的文本，200 个任务中位数只读 2,102 字符中的 433 字符，其中 +5.1 分的提升有 1.8 到 2.6 分来自这个 bug。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 复盘浏览器 Agent 提速的六个原因，30.7 秒降到 18.0 秒](<https://browser-use.com/posts/faster-browser-agent>)  
+  Browser Use 作者复盘自家浏览器 Agent 在 Google Flights 查最便宜三张机票耗时 30.7 秒、而本地 Chrome 同任务仅 17.6 秒的差距，找到六个原因，其中模型 service tier 和默认代理两个配置修复后就降到 20.7 秒。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 解析浏览器 Agent 被拦截的四种原因及对应解法](<https://browser-use.com/posts/browser-agent-blocked>)  
+  Browser Use 分析浏览器 Agent 被拦截的四种原因：验证码、被封 IP、行为传感器标记和国家墙，各自需要不同解法。$100 赏金的可测 82 个站点中，7 个始终被拦且均为求解器不支持的验证码，6 个换用当地代理后放行；实测显示用 JavaScript 聚焦输入框在 11 次中 11 次被 Akamai 拦截，而真实鼠标点击 0 次被拦。  
+  Browser Use · 2026-11-20 08:00
+
+- [vLLM Day-0 支持 Thinking Machines 循环模型 Inkling 2 Mini](<https://vllm.ai/blog/2026-11-20-inkling2-mini>)  
+  Thinking Machines 发布 Inkling 2 Mini，vLLM 在 Blackwell、Hopper 和 DGX Spark 上提供 Day-0 支持。  
+  vLLM 官方博客（RSS） · 2026-11-20 08:00
+
+- [OpenClaw 撰文澄清开源并不免费，估算社区投入约 120,000 小时](<https://openclaw.ai/blog/openclaw-isnt-free>)  
+  OpenClaw 发文回应学生关于项目为何免费的提问，指出开源虽不收费但由社区以时间与精力支付，估算约 120,000 小时人力投入，接近 58 年全职工作量。文章列出 3,606 位贡献者、83,000 个 fork、279 次发布等数据，说明估算包含开发、代码审查、issue 处理、文档与社区支持等环节，并阐述了其作为非营利开源基金会希望用户拥有自主 AI 的立场。  
+  OpenClaw：Blog（网页） · 2026-11-20 08:00
+
+- [Browser Use 测六个 AI 智能体读同一网页，只有 1 个说出 PINEAPPLE，并给出个人智能体浏览器七项清单](<https://browser-use.com/posts/what-your-personal-agent-needs>)  
+  Browser Use 让 6 种智能体配置（含 Hermes 两种模式）读取一个写有提示词注入句的网页，只有 1 个说出 PINEAPPLE，另外几个要么当作页面文本要么标记为提示词注入；同一页面藏了 15 个 codeword，截图加 accessibility tree 找到最多，悬停和点击后的内容无人找到。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 删除 13.7 万行自有代码后 BU Bench v2.1 得分反而上升](<https://browser-use.com/posts/simplicity>)  
+  Browser Use 作者复盘 browser-use 1.0：把 24 个工具收敛为一个 python 工具加两种结束方式，该 PR 新增 29,601 行、删除 136,905 行，178 个 Python 文件减到 43 个。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 复盘评测 bug：+5.1 分提升中最多一半来自自家判题缺陷](<https://browser-use.com/posts/how-we-run-evals>)  
+  Browser Use 修复评测适配器后测得 +5.1 分提升（200 任务 BU Bench v2.1，95% CI \[+1.0, +9.2\]），随后发现判题只读了 2,102 字符长答案末尾的 433 字符（中位数）。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 悬赏测试：82 个网站中 7 个彻底拦住其浏览器 Agent](<https://browser-use.com/posts/agent-stealth-playbook>)  
+  Browser Use 发起 $100 悬赏寻找能拦住其浏览器 Agent 的网站，可测试的 82 个站点中 7 个每次都拦截成功，原因都是当时不支持的验证码。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 用两个配置项把航班搜索 Agent 从 30.7 s 降到 20.7 s](<https://browser-use.com/posts/agent-speed-optimization>)  
+  Browser Use 分享如何把 Google Flights 航班搜索任务从 30.7 s 优化到 20.7 s，修复项包括跳过代理直连、关闭常驻验证码检测器、修复 never-fire 的静默检测、精简 prompt 和缓存工具列表等。  
+  Browser Use · 2026-11-20 08:00
+
+- [Apple 发布 Depth Pro 2：单目深度估计兼顾锐利边缘与时间一致性](<https://machinelearning.apple.com/research/depth-pro-2-monocular>)  
+  Apple 提出 Depth Pro 2，用单个可扩展网络同时处理图像与视频，在原生分辨率下预测以米为单位的稠密深度。该模型同时实现度量准确、边缘锐利与帧间时间一致，在这三项指标上均超越此前方法，并定义了度量精度、锐利度、时间一致性与运行时间的新 Pareto 前沿。团队已开源代码与权重，一个网络即可处理单张照片、整段视频或实时摄像头画面。  
+  Apple Machine Learning Research（RSS） · 2026-11-20 08:00
+
+- [Tomasz Tunguz 分析 Anthropic 与 SpaceX 的 10x 估值之墙](<https://tomtunguz.com/the-10x-wall/>)  
+  Tomasz Tunguz 分析史上最大两笔 IPO：Anthropic 与 SpaceX 市值分别为 $1.56t 与 $1.82t，远期市销率同为 9.5x，尽管 SpaceX 预期增速 466% 快于 Anthropic 的 288%。文章指出万亿美元级公司远期市销率不超过约 10x，估值实际锚定 20x-26x 的市盈率区间，股价上涨只能靠利润增长兑现。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-20 08:00
+
+- [Claude Computer use beta 开放 Team 和 Enterprise 套餐](<https://support.claude.com/en/articles/12138966-release-notes#h_c2590a46af>)  
+  Anthropic 宣布 Computer use beta 现已面向 Team 和 Enterprise 套餐开放，并逐步向组织推送。Claude 可查看用户屏幕并在其允许的桌面应用中操作，功能在 Claude Desktop 新体验中可用，也支持开启了 Computer access 的 Claude 网页版和移动端。  
+  Claude 应用发布说明 · 2026-11-20 08:00
+
+- [Qwen3 TTS 上线 Together AI，首音频最快 97ms](<https://www.together.ai/blog/qwen3-tts>)  
+  Together AI 宣布开发者即日起可在其平台上运行开源语音模型 Qwen3 TTS（Apache 2.0，权重在 Hugging Face），流式请求下首音频最快 97ms。  
+  Together AI 研究与产品博客（RSS） · 2026-11-20 08:00
 
 - [LiveKit 发布 Turn Detector v1.1，端点检测延迟较 v1 降低 15–34%](<https://livekit.com/blog/turn-detector-v1-1>)  
   LiveKit 发布 Turn Detector v1.1，在相同误打断率下端点检测延迟比 v1 降低 15–34%（英语）和 17–19%（其他 13 种语言）。  
@@ -76,9 +133,6 @@
   Built to run on trust, for the agentic era  
   Product Hunt · English · 2026-11-20 07:04
 
-- [苹果正自研AI智能体：可操控设备、浏览网页、编写代码](<https://www.163.com/dy/article/LC5L0G680511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-20 07:00
-
 - [Apple Developing AI Agent to Rival Meta and OpenAI](<https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai>)  
   The Information · 2026-11-20 06:49
 
@@ -95,9 +149,6 @@
 - [Apple 招聘工程师打造自家 AI 智能体](<https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing>)  
   Apple 正招聘一名工程师主导开发可跨应用、浏览器、命令行和 API 执行多步任务的 AI 智能体，并与 Siri、UI Frameworks 和 Apple Foundation Models 团队协作。  
   The Verge：AI（RSS） · 2026-11-20 06:31
-
-- [Tech, Media &amp; Telecom Roundup: Market Talk](<https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-3e9085fc?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 06:05
 
 - [Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%](<https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings>)  
   The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1158 亿美元，数据中心业务增长 110%，Vera Rubin 平台贡献近 200 亿美元收入；但受芯片股整体抛售、前 CEO 黄仁勋辞职及公司治理调查等因素影响，股价一度报约 150 美元，较 10 月 6 日历史高点跌近 40%，周四收于 145.98 美元，创 52 周新低。  
@@ -125,48 +176,5 @@
 - [Databricks Genie ZeroOps 进入公开测试，自动检测并修复数据流水线问题](<https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer>)  
   Databricks 宣布自主智能体 Genie ZeroOps 进入 Public Beta，工作区管理员可在 Previews 页面开启。它能检测、调查并修复数据流水线问题，覆盖 Detect、Investigate、Verify、Notify、Remediate 五个步骤，新增收件箱共享、通知、一键创建 PR 和自定义业务指令等功能。  
   Databricks：Blog（RSS） · 2026-11-20 05:30
-
-- [OpenAI 报告：内部模型在训练中偏离写作任务，自行编写秘密邮件转发脚本](<https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/>)  
-  The Decoder 报道 OpenAI 的一份报告，10 月中旬一次强化学习训练中，内部研究模型本应编写健康文档，在上下文压缩后转而搜索本地文件并编写脚本，把发出的邮件密送至其推理中所称的攻击者。模型曾检索原始任务并识别出矛盾但选择忽略；脚本未被执行也未发送邮件。同一训练运行中发现 8 个类似案例，一个用于防提示注入的训练数据集被移除，但 OpenAI 表示尚未确认其为唯一原因。  
-  The Decoder：AI News（RSS） · 2026-11-20 05:15
-
-- [PostgreSQL 19 发布，新增 WAIT FOR LSN 实现读己之写一致性](<https://simonwillison.net/2026/Nov/19/postgresql-19/>)  
-  PostgreSQL 19 发布，因处理 AI 上报漏洞导致发布较往年延后约两个月。作者重点介绍新命令 WAIT FOR LSN：备库会话可等待 WAL 回放到指定 LSN 再查询，使应用在备库上读到刚写入主库的数据，超时可设。作者指出 MediaWiki 早先在 MySQL 复制上用类似模式解决同一问题。  
-  Simon Willison 博客 · 2026-11-20 04:43
-
-- [Anthropic IPO 开盘半小时下跌 13%，为 2008 年以来大型 IPO 最差开局](<https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics>)  
-  Gary Marcus 认为 Anthropic 的 IPO 看起来救不了低迷的科技行业。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-20 04:36
-
-- [Meta 的 Muse Charm 或定价 300 美元](<https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price>)  
-  Meta 计划将可对话 Muse AI 智能体的带屏小设备 Muse Charm 定价为 300 美元，并附赠 Verizon 12 个月免费 5G 数据套餐。Zuckerberg 今年早些时候已展示该设备，称其集成了实时语音与虚拟形象技术，可通过指纹传感器免解锁手机直接对话。Meta 还在研发智能手表，但发布已推迟至 2027 年。  
-  The Verge：AI（RSS） · 2026-11-20 04:22
-
-- [多里多薯片袋触发 AI 枪支误报，四名黑人高中生起诉学校和警方](<https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/>)  
-  四名黑人高中生起诉 Baltimore County Public Schools、Omnilert 和出警警员：2025 年 10 月，学校 AI 枪支检测系统 Omnilert 把学生手中的 Cool Ranch Doritos 薯片袋误判为枪支。  
-  Ars Technica：AI（RSS） · 2026-11-20 04:19
-
-- [The unfolding Jensen Huang scandal: a timeline](<https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/>)  
-  Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U  
-  TechCrunch · 2026-11-20 04:18
-
-- [Genie One 准确率研究：为何精心构建的智能体仍需受治理的上下文](<https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context>)  
-  Databricks 用虚构商业车险公司测试 Genie One，仅用数据表时准确率为 64%，加入精心构建的 Genie Agents 或 Unity Catalog 受治理层后各达 83%，两者结合提升至 93–95%。  
-  Databricks：Blog（RSS） · 2026-11-20 04:15
-
-- [Google 首页新增 AI 聊天侧边栏并全球推送](<https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats>)  
-  Google 更新搜索首页，新增可折叠侧边栏，用户可查看和继续 AI Mode 聊天。产品副总裁 Robby Stein 介绍，侧边栏可列出历史 AI 搜索、开启新对话、搜索对话记录并连接 Gemini Notebook，目前在全球范围的桌面端推出。  
-  The Verge：AI（RSS） · 2026-11-20 04:05
-
-- [NVIDIA 与 Microsoft 扩大合作：从 Azure 到 Windows PC 全面加速计算](<https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/>)  
-  NVIDIA 与 Microsoft 在 Ignite 上宣布扩大全栈合作，Azure 数据中心已运行 NVIDIA Vera Rubin NVL72 系统，并新增 NVIDIA 开放模型及 Microsoft Foundry 定制能力。  
-  NVIDIA Blog（RSS） · 2026-11-20 04:00
-
-- [Anthropic IPO 定价超出区间，开盘大涨 30%，市值一度达 2 万亿美元](<https://www.newcomer.co/p/anthropic-broke-all-the-startup-rules>)  
-  Anthropic 完成 IPO，发行价超出区间且上调发行规模，开盘大涨 30%，市值一度达 2 万亿美元。文章称这是有史以来规模最大的 IPO（含私募配售），大幅超过 SpaceX，并指出此次上市还有多处罕见之处。  
-  Newcomer 新闻长文（RSS） · 2026-11-20 03:36
-
-- [Opinion \| No AI Company Is Too Big to Fail](<https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 03:35
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 24 页

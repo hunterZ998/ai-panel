@@ -2,6 +2,9 @@
 
 [返回面板](../README.md) · [上一页](all-22.md) · [下一页](all-24.md) · 第 23 / 24 页
 
+- [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
+  Z Finance · 2026-11-05 13:05
+
 - [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
   We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
   Citrini Research · 2026-11-05 04:28
@@ -29,6 +32,10 @@
   Watch the full show on YouTube: https://www.youtube.com/watch?v=LL0YmIyBKSU  
   Latent Space · 2026-11-04 04:16
 
+- [The State of Longevity](<https://www.a16z.news/p/the-state-of-longevity>)  
+  The second was ChatGPT.  
+  a16z · 2026-11-03 23:06
+
 - [2026: The State of Enterprise AI](<https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/>)  
   Enterprise AI Reaches Scale In 2026, AI became an economy-scale force. Enterprise AI deployment spending surged from…  
   Menlo Ventures · 2026-11-03 22:00
@@ -40,9 +47,21 @@
   Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How…  
   Latent Space · 2026-11-03 04:50
 
+- [Investing in Tutor Intelligence](<https://www.a16z.news/p/investing-in-tutor-intelligence>)  
+  They deploy into real production environments ahead of full autonomy, using human teleoperators \(“tutors”\) to train t…  
+  a16z · 2026-11-03 00:05
+
 - [The Robots Already Working in American Factories \| Tutor Intelligence](<https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3>)  
   What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gru…  
   The a16z Show · 2026-11-03 00:05
+
+- [How AI Applications Earn Their Premium](<https://www.a16z.news/p/how-ai-applications-earn-their-premium>)  
+  Cheaper intelligence raises the bar for what an AI application can charge  
+  a16z · 2026-11-02 23:03
+
+- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
+  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
+  a16z · 2026-11-02 22:01
 
 - [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
   Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
@@ -81,6 +100,14 @@
   Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
   Latent Space · 2026-10-31 11:41
 
+- [New Founder Archetypes in the AI Age](<https://www.a16z.news/p/new-founder-archetypes-in-the-ai>)  
+  How will the profiles change as we enter the age of AI?  
+  a16z · 2026-10-31 00:02
+
+- [Charts of the Week: Job FUD Fades](<https://www.a16z.news/p/charts-of-the-week-job-fud-fades>)  
+  AI Referred, Shopper Approved; Rack Spread Cometh \(But Why\)?  
+  a16z · 2026-10-30 22:09
+
 - [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
   What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
   The a16z Show · 2026-10-30 18:00
@@ -101,6 +128,10 @@
   AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
   Latent Space · 2026-10-29 04:00
 
+- [The New Security Agenda](<https://www.a16z.news/p/the-new-security-agenda>)  
+  What CISOs told us about AI, budgets, and the priorities shaping 2027.  
+  a16z · 2026-10-29 00:00
+
 - [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
   Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
   The a16z Show · 2026-10-28 18:00
@@ -109,9 +140,21 @@
   Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
   Latent Space · 2026-10-28 02:40
 
+- [Databricks &amp; the Future of the Firm](<https://www.a16z.news/p/databricks-and-the-future-of-the>)  
+  How agents and new database technology will change the shape of the firm—and what we do at work all day  
+  a16z · 2026-10-27 22:02
+
 - [Reinventing School for the AI Era \| Joe Liemandt, Gagan Biyani &amp; Erik Torenberg](<https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu>)  
   What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt arg…  
   The a16z Show · 2026-10-27 18:00
+
+- [Announcing the Third a16z New Media Fellowship](<https://www.a16z.news/p/announcing-the-third-a16z-nmf>)  
+  Others have taken on new roles at companies like OpenAI and Prime Intellect , and a few even joined our own New Media…  
+  a16z · 2026-10-27 00:58
+
+- [Let Chaos Reign, and Then Rein In Chaos](<https://www.a16z.news/p/let-chaos-reign-and-then-rein-in>)  
+  Replit and the Agent Habitat  
+  a16z · 2026-10-27 00:08
 
 - [⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](<https://www.youtube.com/watch?v=vhPCo-8K78U>)  
   Watch the full show on YouTube: https://www.youtube.com/watch?v=vhPCo-8K78U  
@@ -132,49 +175,5 @@
 - [少有的同时做过 Agent、多模态和具身的人 \| 对谈前混元多模态 RL Infra 负责人淏楠](<https://www.xiaoyuzhoufm.com/episode/6ada2be4c96c8942ec10cb1e?utm_source=rss>)  
   这期的嘉宾淏楠非常「折腾」。他读过五个大学，读着觉得没意思就换，也是少有的同时做过 Agent、多模态、RL 和具身的人，而且总是做一些逆势而为（非主流）的选择： 他曾在陈天桥和代季峰两位老师的 MiroMind 工作，是最早一批做…  
   42章经 · 2026-10-24 21:00
-
-- [What It Takes to Win as a Founder \| Ben Horowitz](<https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY>)  
-  What does it take to build a company when AI is changing the rules this quickly? Ben Horowitz argues that technology…  
-  The a16z Show · 2026-10-24 18:00
-
-- [20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F\*\*\*\*\* Today with Naveen Rao, Unconventional](<https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional>)  
-  AGENDA: 05:00 Will we run out of energy? 19:00 Will specialised chips threaten NVIDIA's dominance? 26:00 Can we trust…  
-  20VC · 2026-10-24 15:07
-
-- [Amazon’s Trainium Takes a Strike at the Training King](<https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at>)  
-  Anthropic is running production inference and RL rollouts on Trainium2 and Trainium3.  
-  SemiAnalysis · 2026-10-24 03:06
-
-- [Amazon CEO Andy Jassy on the $220 Billion AI Buildout](<https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK>)  
-  Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving m…  
-  The a16z Show · 2026-10-23 18:00
-
-- [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO](<https://www.latent.space/p/modal-d>)  
-  Warm welcome to Basil Chatha, our newest cohost from the Forward Deployed side of the AI Engineering world\! We’ll be…  
-  Latent Space · 2026-10-23 01:40
-
-- [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](<https://www.latent.space/p/moshi>)  
-  Anekha Sokhal, CEO of Moshi, joins swyx to discuss building a recommendation engine for commodity traders, turning ma…  
-  Latent Space · 2026-10-22 22:00
-
-- [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ \| 硅谷线下活动 S10E33](<https://guiguzaozhidao.fireside.fm/20240448>)  
-  最近几个月，像 Meta 的 Muse，OpenAI 的 Dots 这样的 Personal agent 产品大火。模型不仅越来越擅长调用工具、规划任务，也开始能够执行数百甚至上千个步骤的复杂工作。但当 AI 真正进入现实世界，问题也…  
-  科技早知道 · 2026-10-22 19:00
-
-- [20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO &amp; Modal Raises $750M at $15.75B](<https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b>)  
-  AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sp…  
-  20VC · 2026-10-22 15:07
-
-- [The Huawei-DeepSeek Symbiosis](<https://newsletter.semianalysis.com/p/huawei-deepseek>)  
-  Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend  
-  SemiAnalysis · 2026-10-22 01:34
-
-- [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](<https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss>)  
-  今天我们的嘉宾是科沃斯CEO钱程（David）。 他出生于1990年，曾是中国最年轻A股上市公司CEO，也是一名企二代、创二代。我很好奇的是，当一代中国企业开始从创业进入传承，真正在经历这个过程的当事人，他所面临的现实与所思所想？ 钱…  
-  张小珺商业访谈录 · 2026-10-21 08:00
-
-- [Citrini Therapeutics](<https://www.citriniresearch.com/p/citrini-therapeutics>)  
-  We Wanted to Use Claude to Create a New Drug. Here’s What Happened.  
-  Citrini Research · 2026-10-20 20:59
 
 [返回面板](../README.md) · [上一页](all-22.md) · [下一页](all-24.md) · 第 23 / 24 页

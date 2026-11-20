@@ -2,6 +2,46 @@
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 24 页
 
+- [Redwood Research 如何为 AI 发展节奏管控定义“能力活动”](<https://blog.redwoodresearch.org/p/how-should-we-define-capabilities>)  
+  Redwood Research 提出一套用于“节奏管控”的算力分类标准，将 AI 公司的活动默认视为“能力活动”，仅豁免闲置算力、狭义产品开发、客户服务和狭义安全活动四类。该定义遵循“假阳性优于假阴性”原则，并要求第三方审计以确保执行。  
+  Redwood Research：Blog（RSS） · 2026-11-18 05:36
+
+- [NVIDIA 发布 2027 财年第三季度财报，营收 1158 亿美元同比增长 103%](<https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027>)  
+  NVIDIA 公布截至 2026 年 10 月 25 日的第三财季业绩，营收 1158 亿美元，环比增 20%，同比增 103%；数据中心营收 1076 亿美元，同比增长 110%，GAAP 摊薄每股收益 2.70 美元。  
+  NVIDIA：Newsroom（RSS） · 2026-11-18 05:20
+
+- [Meta 首席 AI 官 Alexandr Wang 发布 Sam Altman AI 换脸视频推广 Muse](<https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake>)  
+  The Verge 报道，Meta 首席 AI 官 Alexandr Wang 近日在 Instagram 分支一段 AI 生成视频推广消费级 AI 智能体 Muse，画面中 Sam Altman 身穿吉祥物 Jolly 的毛绒连帽服参加四方视频通话。  
+  The Verge：AI（RSS） · 2026-11-18 05:00
+
+- [AI 数据留存两种标准 API 设计解析：ZDR 是端点属性而非厂商标签](<https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/>)  
+  文章基于 Fireworks AI CEO Lin Qiao 提出的框架，结合 OpenAI、Amazon Bedrock、Google、Anthropic 和 Fireworks 的公开文档，解析 AI API 的两种标准数据生命周期设计：上传后由客户删除的客户管理模式，以及发数据、算完即返、不落盘的瞬时处理模式。  
+  MarkTechPost（RSS） · 2026-11-18 04:49
+
+- [MIT MITHIC 如何聚焦 AI、社会与人文议题](<https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117>)  
+  MIT 的 MITHIC 自 2024 年启动以来已资助 31 个 MIT 院系的 67 个项目，总金额 550 万美元，其中约三分之一聚焦 AI、社会与人文。其支持的研究包括分析选民使用 Anthropic 的 Claude 获取选举信息时可能得到不完整内容，以及测量生成式 AI 对认知的短期与长期影响。  
+  MIT News（RSS） · 2026-11-18 04:40
+
+- [黄仁勋表态愿回Nvidia任CEO，董事会称内部调查仍在进行](<https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/>)  
+  Tech Oversight Project在华盛顿特区投放卡车广告，敦促国会调查特朗普政府与Nvidia CEO黄仁勋的关系。黄仁勋周二发表声明称重返CEO是一种荣幸，但Nvidia董事会表示，涉及相关指控的内部调查仍在进行，复职不在考虑之列。报道还梳理了围绕Nvidia芯片出口政策、相关官员利益冲突及国会调查动向的多方说法。  
+  Ars Technica：AI（RSS） · 2026-11-18 04:32
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol，API 降价并公布多项基准表现](<https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，面向专业与日常场景，已在 ChatGPT Work 和 Codex 向 Plus、Pro、Enterprise、Edu 用户开放，并可通过 API 调用。  
+  The Decoder：AI News（RSS） · 2026-11-18 04:30
+
+- [Storiara](<https://www.producthunt.com/products/storiara>)  
+  AI producers that find real savings in your film budget  
+  Product Hunt · English · 2026-11-18 04:02
+
+- [南卡男子用 Meta Muse 智能体起诉 Meta，因内容审核误封其 Facebook 主页](<https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/>)  
+  404 Media 记者报道南卡罗来纳州环氧台面商户 Joe Thomas 用 Meta 的 Muse 智能体 Baby Mia 在 Oconee County 法院起诉 Meta。  
+  404 Media（RSS） · 2026-11-18 03:41
+
+- [Model ML 完成 2.5 亿美元 B 轮融资，估值 15 亿美元，用 AI Agent 自动化投行初级工作](<https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/>)  
+  伦敦创业公司 Model ML 完成 2.5 亿美元 B 轮融资，估值 15 亿美元，由 General Atlantic 和 QED Investors 联合领投。  
+  TechCrunch：AI（RSS） · 2026-11-18 03:32
+
 - [Google 扩大 Gemini Tasks 使用范围，可代打电话、购物付款](<https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/>)  
   Google 扩大 Gemini 中 Tasks 功能的使用范围，该功能可将聊天机器人变成能主动执行事务的个人助理。它可代用户致电商家预约、通过 Google Pay 完成购物，并在提示下安全登录网站。  
   TechCrunch：AI（RSS） · 2026-11-18 03:02
@@ -141,45 +181,5 @@
 - [Pragmatic Engineer 解读软件工程师的推理工程：从前沿实验室 API 迁移到开源模型](<https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers>)  
   Pragmatic Engineer 访谈 Modal、Fireworks AI 和 Baseten 三家推理供应商，讲解软件工程师如何从前沿实验室 API 迁移到开源模型以控制成本。  
   Pragmatic Engineer（RSS） · 2026-11-18 00:11
-
-- [Prime Intellect 发布 Model Factory 一站式训练与推理平台](<https://www.primeintellect.ai/blog/introducing-model-factory>)  
-  Prime Intellect 发布 Model Factory，将强化学习、SFT、预训练和推理整合到一个控制面，让企业在自有任务和数据上训练、部署并持续改进模型。  
-  Prime Intellect（网页） · 2026-11-18 00:00
-
-- [Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克](<https://www.anthropic.com/news/anthropic-prices-initial-public-offering>)  
-  Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。  
-  Anthropic：Newsroom（网页） · 2026-11-18 00:00
-
-- [Google DeepMind 发布 Gemini 4 Neon，智能指数微升且任务成本降低约 17%](<https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain>)  
-  Artificial Analysis 评测 Google DeepMind 发布的 Gemini 4 Neon，Neon（xhigh）智能指数 61 分，比 Gemini 4 Carbon（high）高 1 分、总排名第 3。  
-  Artificial Analysis 完整文章（网页） · 2026-11-18 00:00
-
-- [SGLang 集成 Humming：面向高效 MoE 推理的灵活低比特内核](<https://www.lmsys.org/blog/2026-11-18-humming-sglang>)  
-  Humming 0.1.18 扩展了与 SGLang 的集成，覆盖更多量化方案和 GPU 架构，并新增面向 SGLang MoE runner 的共享激活表达式接口。  
-  LMSYS Blog · 2026-11-18 00:00
-
-- [Google 发布 Gemini 4 Neon：速度快、成本低的 frontier 级模型](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/>)  
-  Google 发布 Gemini 4 Neon，主打 frontier 级智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。  
-  Hacker News：AI 热帖 · 2026-11-18 00:00
-
-- [Google DeepMind 向 AI Ultra 订阅者开放 Genie 4 与新版 Project Genie 体验](<https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/>)  
-  Google 面向符合条件的 Google AI Ultra 订阅者推出新 Project Genie 体验，首次开放世界模型 Genie 4，支持会话中途输入提示词实时编辑环境，并首次配对随场景自适应的原生实时音频。  
-  Hacker News：AI 热帖 · 2026-11-18 00:00
-
-- [Microsoft CEO Nadella 在 Ignite 表示自己是 AGI-pilled，主张企业拥有自己的模型](<https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model>)  
-  Every 作者在 Microsoft Ignite 圆桌报道，Nadella 称自己如今 "AGI pilled"，关注点是如何围绕无限制模型组织政治经济，并提出应有多如企业数量的模型，以此回应 Anthropic 可能一家独大的问题。  
-  Every：最新文章（网页） · 2026-11-18 00:00
-
-- [在 Modal 上为玛雅碑铭研究构建新工具](<https://modal.com/blog/scaling-intelligence-asya>)  
-  斯坦福讲师 Miguel Novelo 在 Modal 上搭建了一条将 2D 玛雅字形图像转为 3D 模型的快速流水线，起点是约 100 个玛雅音节符号。他在 Gray Area 展出的装置 \(Φ ᆺ Φ\) asya 让观众在沙上作画并生成新字形，汇入不断增长的集体抄本。Novelo 表示，通用大模型缺乏尤卡坦本地知识，因此需要理解字形外观与语境的小型专用模型。  
-  Modal 官方工程博客（RSS） · 2026-11-18 00:00
-
-- [用两条提示词在 NVIDIA Cosmos 中构建可训练物理 AI 数据集](<https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/>)  
-  NVIDIA 介绍如何用两条提示词在 Cosmos 中完成物理 AI 训练数据集的整理与增强。Cosmos Data Factory 包含五个云原生 blueprint 和六个可组合 skill，由前沿 AI 智能体编排，实现 prompt-to-data。文章演示了自动驾驶场景生成、图像属性增强、视频天气光照变换、罕见事件视频与缺陷图像生成五类用例。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-18 00:00
-
-- [LlamaIndex 发布文档解析模型 OCRia-1.5](<https://www.llamaindex.ai/blog/introducing-ocria-1-5>)  
-  LlamaIndex 发布 OCRia-1.5 文档解析模型，包含 4B 和 2B 两个尺寸，分别驱动 LlamaParse 的 Agentic 和 Cost Effective 两档，两档均已在 LlamaParse 上线。  
-  LlamaIndex：产品、工程与评测 · 2026-11-18 00:00
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 24 页

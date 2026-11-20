@@ -2,6 +2,60 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 24 页
 
+- [GitHub 开源两个新项目：Replica 设计工具与开源无障碍框架](<https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/>)  
+  GitHub 推出开源设计工具 Replica 和开源无障碍框架 Open Source Accessibility Framework，前者支持在设计系统内生成 AI 原型并用 GitHub Copilot 迭代。2026 年 GitHub 公开贡献达 25 亿次，超过去年 11.2 亿次的两倍。该无障碍框架含 ACCESSIBILITY.md 文件，已显示在仓库概览页。  
+  GitHub Blog · 2026-11-20 00:00
+
+- [ChatGPT 新增实时听写功能，语音可即时转文字](<https://www.ithome.com/1/029/707.htm>)  
+  OpenAI 宣布 ChatGPT 新增实时听写功能，用户对着麦克风说话时语音同步转成文字，无需等录音结束再转写。功能将陆续向全球所有用户开放，覆盖网页版、桌面客户端及 iOS 和 Android 应用；点击音频波形可查看实时转写文字，录音结束后可直接在输入框编辑。OpenAI 同时取消了原 10 分钟时长限制，并提高转写可靠性。  
+  IT之家·人工智能 · 2026-11-19 23:28
+
+- [ChatGPT 上线 Live Dictation：边说边转写，取消 10 分钟录音限制](<https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation>)  
+  OpenAI 为 ChatGPT 推出 Live Dictation 功能，可在用户说话时实时转写，无需等录音结束，已面向所有 ChatGPT 套餐在全球 Web、桌面端及 iOS、Android 应用上线。用户点击音频波形即可查看实时文本并在提示词框中编辑，同时 OpenAI 取消了语音听写的 10 分钟录音上限，并表示该功能正变得"更可靠"。  
+  The Verge：AI（RSS） · 2026-11-19 23:16
+
+- [CMU 研究者提出可证明安全的可纠正智能体构建并发布 ROGUE 基准](<https://blog.ml.cmu.edu/2026/11/19/towards-a-science-of-capable-autonomous-agents-provable-safety-part-ii/>)  
+  Aran Nayebi 在系列文章第二部分介绍其 AAAI 2026 论文 Core Safety Values for Provably Corrigible Agents，给出在部分可观测 off-switch 博弈中同时满足延迟服从、保留开关访问、真话、低影响和有界任务回报五项要求的充分条件，并证明 RLHF/RLAIF 类单一奖励无法实现 corrigibility。  
+  CMU：Machine Learning Blog · 2026-11-19 23:13
+
+- [吴泳铭：阿里 2032 年全球数据中心规模超 20GW 目标或下调](<https://www.ithome.com/1/029/702.htm>)  
+  阿里巴巴 CEO 吴泳铭在 2027 财年第二季度业绩电话会上表示，全球各区域算力政策变化将影响阿里云数据中心建设，此前制定的到 2032 年全球数据中心规模超 20GW 的目标有可能下调，资本开支可能降低。  
+  IT之家·人工智能 · 2026-11-19 23:03
+
+- [Will Anthropic’s IPO Lead To An Exodus of Anthropic Employees?](<https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees>)  
+  The Information · 2026-11-19 23:01
+
+- [Sakana AI 成立 Security Research Group 研究AI驱动的集体网络防御](<https://sakana.ai/security-research-group/>)  
+  Sakana AI 宣布成立独立研发团队 Security Research Group，由梅谷晃宏和 David Ha 领导，研究 AI 驱动的集体网络防御以及 AI 系统自身的安全与保障，成果将公开分享。  
+  Sakana AI：Blog（网页） · 2026-11-19 23:00
+
+- [研究称黑人社区建成数据中心的可能性是白人社区的两倍多](<https://www.404media.co/redlining-ai-data-centers-and-race-study/>)  
+  George Washington University 与 American University CSINT 的研究分析了 81,000 个美国普查区和 5,291 个数据中心的位置数据，发现多数黑人社区 hosting 数据中心的几率是同州白人社区的 2.2 倍，多数拉美裔社区为 2.6 倍，多数亚裔社区为 4.2 倍。  
+  404 Media（RSS） · 2026-11-19 23:00
+
+- [Kling 4.0 支持原生 4K 直出与 10-bit HDR 输出](<https://mp.weixin.qq.com/s/GSKWsr7xFHldKR4Ha_lFzg>)  
+  可灵AI 官宣 Kling 4.0 支持原生 4K 视频直出，并可在 4K 和 1080p 分辨率下输出 10-bit HDR 视频。官方称画面细节更清晰、色彩层次更丰富，可在 klingai.com 体验。  
+  公众号：可灵AI（快手·视频） · 2026-11-19 23:00
+
+- [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
+  Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
+  TechCrunch · 2026-11-19 22:54
+
+- [微软 PyPI 包 Agent Framework 遭劫持，恶意版本最快 31 分钟即被清除](<https://www.ithome.com/1/029/700.htm>)  
+  微软官方在 PyPI 发布的 Agent Framework 软件包遭黑客劫持，11 月 17 日发布的 1.26.1 版本被植入窃取 Azure、AWS、GitHub、Docker、Hugging Face、OpenAI 等服务登录凭据的恶意软件，且在 Python 启动时自动执行。  
+  IT之家·人工智能 · 2026-11-19 22:47
+
+- [Anthropic Pushes the Reset Button for AI](<https://www.wsj.com/cio-journal/anthropic-pushes-the-reset-button-for-ai-2c3c9d96?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 22:31
+
+- [谷歌与蓝色起源合作，计划 2029 年一季度发射搭载 TPU 的 AI 服务器卫星](<https://www.ithome.com/1/029/695.htm>)  
+  谷歌与蓝色起源（Blue Origin）达成合作，其新格伦火箭将于 2029 年第一季度发射搭载谷歌 TPU 的卫星，算力大致相当于一个数据中心机架。该合作属于谷歌“太阳捕手计划”，旨在探索太空 AI 数据中心的可能性。今年 10 月谷歌已部署首颗 AI 服务器卫星并成功启动 TPU，卫星上运行的 Gemma 4 模型生成了一段俳句并传回地球。  
+  IT之家·人工智能 · 2026-11-19 22:26
+
+- [Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视](<https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure>)  
+  The Verge 报道 Anthropic 完成 IPO，募资 813 亿美元，超过 SpaceX 成为史上估值最高的上市，完全稀释市值约 1.5 万亿美元。  
+  The Verge：AI（RSS） · 2026-11-19 22:25
+
 - [Currents](<https://www.producthunt.com/products/currents-4>)  
   Currents for Claude &amp; Codex to see all your tests  
   Product Hunt · English · 2026-11-19 22:02
@@ -9,9 +63,6 @@
 - [Anthropic IPO 定价每股 83 美元募资 813 亿美元，超越 SpaceX 纪录](<https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/>)  
   Anthropic IPO 定价每股 83 美元，高于 70 至 78 美元目标区间，募资 813 亿美元，超过 SpaceX 6 月创下的 750 亿美元纪录，股票周四以代码 ANT 在纳斯达克交易。  
   The Decoder：AI News（RSS） · 2026-11-19 22:02
-
-- [Anthropic Is Pushing New Products, and Big Discounts, to Justify Its Huge Valuation](<https://www.theinformation.com/articles/anthropic-pushing-new-products-big-discounts-justify-huge-valuation>)  
-  The Information · 2026-11-19 22:00
 
 - [MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡](<https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119>)  
   MIT 研究团队在 Environmental Research Letters 发表研究，估算 2023 年数据中心电力需求带来的额外空气污染在美国导致约 650 例过早死亡，其中 513 例来自 PM2.5、137 例来自烟雾，约占全国电力相关死亡总量的 5.3%。  
@@ -117,9 +168,6 @@
   Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
   IT桔子 · 2026-11-19 18:17
 
-- [China’s Moonshot AI Scraps $150 Million Deal to Access Nvidia Chips in Indonesia](<https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia>)  
-  The Information · 2026-11-19 18:00
-
 - [德国 BSI 将网络威胁评估上调为严峻至危急，指出 AI 智能体降低攻击门槛](<https://www.ithome.com/1/029/609.htm>)  
   德国联邦信息安全局（BSI）11 月 19 日发布年度报告，将信息技术系统威胁评估从去年的严峻上调为严峻至危急，理由是智能体 AI 系统让攻击者更容易发现和利用漏洞。其网络安全指数从 2025 年年中的 124 点升至今年年中的 238 点；报告称攻击越来越快、便宜且有针对性，攻击者开始借助 AI 模型直接攻击系统，并警告许多企业尤其是中小企业防御动作太慢，未在受攻击前用 AI 排查漏洞。  
   IT之家·人工智能 · 2026-11-19 18:00
@@ -131,53 +179,5 @@
 - [Sensei Labs获得B轮融资](<https://www.itjuzi.com/investevent/14708306>)  
   Sensei Labs是一家AI原生战略执行平台提供商，核心产品 Conductor。平台面向私募股权机构、大型企业转型与并购整合团队，将顶层战略目标与项目、依赖关系、KPI、收益追踪打通，用于管理数字化转型、并购整合、投后价值创造等…  
   IT桔子 · 2026-11-19 17:58
-
-- [Ansa获得7150万美元C轮融资](<https://www.itjuzi.com/investevent/14708305>)  
-  Ansa是一家DNA合成技术服务商，核心技术是一种基于酶的新型DNA合成方法。近日，Ansa获得7150万美元C轮融资，Blue Water Life Science Advisors领投，Illumina Ventures、Agen…  
-  IT桔子 · 2026-11-19 17:54
-
-- [李开复：企业 AI 转型只看“智能体数量”是荒谬笑话](<https://www.ithome.com/1/029/582.htm>)  
-  零一万物 CEO、创新工场董事长李开复称，企业 AI 转型只看“智能体数量”是“荒谬的笑话”。他不建议 CEO 把“智能体上线率”“账号数”“节省工时”当作 AI 核心指标，认为这些只是过程指标，管理层最终要看收入、利润和现金流。他建议 CEO 在 AI 汇报会上改问三项竞争优势在智能成本持续下降后是否还成立、会被 AI 增强还是商品化、三年后若不再成立今天应重写哪条业务曲线。  
-  IT之家·人工智能 · 2026-11-19 17:53
-
-- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
-  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
-  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Hugging Face 的 Daniel van Strien 实测八款 OCR 模型，百万页数字化成本降至 130 美元以内](<https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/>)  
-  Hugging Face 的 Daniel van Strien 在同一块 Nvidia RTX PRO 6000 上测试八款开源 OCR 模型，使用 850 页古董书、1771 年 Encyclopaedia Britannica 和档案文档。  
-  The Decoder：AI News（RSS） · 2026-11-19 17:28
-
-- [Gartner 预测 2027 年全球 AI 支出将达 4.05 万亿美元，同比增长 47.5%](<https://www.ithome.com/1/029/546.htm>)  
-  Gartner 于本月 12 日发布预测，2027 年全球 AI 支出将达 4.05 万亿美元（约合 27.06 万亿元人民币），同比增长 47.5%。其中 AI 基础设施支出接近 2.4 万亿美元、增长 53%，AI 优化服务器支出 9572 亿美元、同比提升 81%；生成式 AI 模型支出提升 82% 至 510 亿美元，基础模型占其中超八成。  
-  IT之家·人工智能 · 2026-11-19 17:26
-
-- [Palo Alto Networks斥资45亿美元收购Applied Compute](<https://www.itjuzi.com/merger/14596>)  
-  Applied Compute是一家企业级AI 基础设施公司，由三位前 OpenAI 研究员创立，专注于帮助企业基于自有数据训练和部署定制化开源 AI 模型。派拓网络（Palo Alto Networks）宣布，将斥资45亿美元收购A…  
-  IT桔子 · 2026-11-19 16:39
-
-- [微软高管称 Copilot 比 Claude 和 ChatGPT 更好用且更便宜](<https://www.ithome.com/1/029/520.htm>)  
-  微软商业业务 CEO 贾德森·阿尔索夫在 Ignite 大会上称，Claude 或 ChatGPT 能完成的任务，Copilot 都能做得更好且成本更低。截至今年 6 月，Copilot 付费用户已超 3000 万，而微软办公软件企业用户超 4.5 亿。微软委托研究估算，Copilot 用户相关支出显著低于使用 ChatGPT 或 Claude 的用户。  
-  IT之家·人工智能 · 2026-11-19 16:19
-
-- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
-  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
-  IT桔子 · 2026-11-19 16:18
-
-- [Humyn Labs获得2600万美元A轮融资](<https://www.itjuzi.com/investevent/14708279>)  
-  Humyn Labs是一家实体人工智能研究与部署服务商，自研双摄采集硬件与数据富集引擎，在工厂、家庭、农场等真实场景采集人类操作多模态行为数据，加工后供给机器人、VLA 模型、世界模型研发团队，同时提供机器人现场部署对照测试服务，形成…  
-  IT桔子 · 2026-11-19 16:11
-
-- [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
-  Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-19 16:00
-
-- [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>)  
-  Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance…  
-  OpenAI · 2026-11-19 16:00
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 24 页
