@@ -1,6 +1,50 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 24 页
+[返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 25 页
+
+- [微软 Dragon Copilot Transcribe 采用 MAI-Transcribe-2，多语言错误率降约 50%](<https://www.ithome.com/1/028/590.htm>)  
+  微软在 Ignite 2026 宣布医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcribe-2，并承担其 100% 的医患对话转写任务。  
+  IT之家·人工智能 · 2026-11-18 07:27
+
+- [AI Agent Clinic 演示 4 种智能体记忆方案与 3 种上下文压缩方法](<https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02>)  
+  Google Cloud 的 AI Agent Clinic 节目用 TypeScript + ADK 构建的语音智能体 Scribant，对比了 flat prompting、Vector RAG、知识图谱和 Gemini 平台 Memory Bank 四种记忆方案，并给出 40 词滚动窗口、滚动摘要和跨会话 Memory Bank 三种压缩上下文的修复。  
+  Google AI：DEV 作者专属（RSS） · 2026-11-18 07:18
+
+- [Claude Code v2.1.327 发布：新增安装确认与 MCP JSON 读取等修复](<https://github.com/anthropics/claude-code/releases/tag/v2.1.327>)  
+  Claude Code v2.1.327 发布，为 /install-github-app 修改仓库前增加确认步骤，并新增 claude mcp add-json 从 stdin 读取服务器 JSON，避免 token 出现在命令行。  
+  Claude Code：GitHub Releases（RSS） · 2026-11-18 07:17
+
+- [微软发布首款语音对语音模型 MAI Realtime 1，起价每音频分钟 0.01 美元](<https://www.ithome.com/1/028/588.htm>)  
+  微软在 Ignite 2026 大会上发布其首款语音对语音模型 MAI Realtime 1，面向企业实时语音场景，基础使用费为每音频分钟 0.01 美元，推理另按每百万输入 token 1 美元、输出 token 5 美元计费。  
+  IT之家·人工智能 · 2026-11-18 07:15
+
+- ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
+  Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
+  Axios · 2026-11-18 07:15
+
+- [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
+  微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
+  IT之家·人工智能 · 2026-11-18 07:06
+
+- [Nvidia临时CEO重申黄仁勋离任后开源AI战略不变](<https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/>)  
+  Nvidia临时CEO Collette Kress在黄仁勋辞职后的首场财报电话会上重申公司开源AI战略不变。她表示，OpenRouter上每周token量同比增长35倍，近三个月增长3.5倍；公司9月同意以129亿美元收购的Hugging Face交易仍按计划推进，该平台服务超过1.18亿开发者和20万家企业。Kress还提到，Nemotron是OpenRouter上使用最广的美国开源模型。  
+  TechCrunch：AI（RSS） · 2026-11-18 07:04
+
+- [微软发布 MAI Image 2.7 与 2.7 Flash 图像模型，登顶 Artificial Analysis 图像编辑榜](<https://www.ithome.com/1/028/582.htm>)  
+  微软于 11 月 17 日发布 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，并在 Microsoft Foundry 开启公开预览，每千张图片成本分别约为 35 美元和 10 美元。  
+  IT之家·人工智能 · 2026-11-18 06:55
+
+- [Simon Willison 发布编码智能体外部沙箱模式及三套实现](<https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/>)  
+  Simon Willison 与 AI 研究实验室 Prime Radiant 合作，介绍面向编码智能体的外部沙箱模式，智能体在沙箱外运行、待执行代码在专用沙箱内运行，目标是让本地模型实验更安全，避免提示词注入等攻击造成破坏。  
+  Simon Willison 博客 · 2026-11-18 06:52
+
+- [Perplexity Computer 新增 Multiagent 档位：最多 16 个 AI 智能体交叉检查工作](<https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/>)  
+  Perplexity 为 Computer 新增高于 Ultra 的 Multiagent 档位，主智能体最多调度 16 个并行智能体，直接共享发现、编辑共享文件并互相检查，默认团队由 Claude Opus 5.5、GPT 6.1 Sol 和 Gemini 4 Carbon 组成。  
+  MarkTechPost（RSS） · 2026-11-18 06:52
+
+- [谷歌更新 Gemini 隐私控制，可保留聊天记录且不参与 AI 训练](<https://www.ithome.com/1/028/581.htm>)  
+  谷歌发布公告，更新 Gemini 应用的控制选项，用户可在保留聊天记录的同时选择不将其用于生成式 AI 模型训练，并仍可调整保存期限、手动查看或删除记录。若关闭新的“历史记录”设置，之后的聊天内容仍会保存约两个月，用于提供回复、处理反馈及保护安全。  
+  IT之家·人工智能 · 2026-11-18 06:51
 
 - [微软发布 MAI Code 2 与 MAI Code 2 Flash，5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
   微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
@@ -110,6 +154,10 @@
   法律民权委员会（Lawyers' Committee）代表四名黑人学生起诉 Omnilert、巴尔的摩县公立学区和县警察局，起因是 2025 年 10 月 Kenwood 高中的 Omnilert Gun Detect AI 枪支检测系统将一包薯片误判为枪支，并给出 90% 枪支概率告警。  
   Hacker News：AI 热帖 · 2026-11-18 02:33
 
+- [Prompt Puncher](<https://www.producthunt.com/products/prompt-puncher>)  
+  The AI CEO Fighting Game  
+  Product Hunt · English · 2026-11-18 02:29
+
 - [GitHub 与微软用 Codename MDASH 为 6 个开源项目提交 99 份带修复的安全报告](<https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/>)  
   GitHub 与微软用微软的 Codename MDASH 智能体扫描系统（基于 MAI Cyber 模型）在 AutoGPT、Caddy、Express、FastMCP、ImageMagick、Netty 六个开源项目中扫描漏洞。  
   GitHub Blog · 2026-11-18 02:29
@@ -134,52 +182,4 @@
   微软在 Ignite 2026 上发布 7 个 MAI 系列新模型，主打性价比。  
   Microsoft AI：官方博客（RSS） · 2026-11-18 02:16
 
-- [Microsoft AI 发布专用安全模型 MAI Cyber 2 Flash](<https://microsoft.ai/news/introducing-mai-cyber-2-flash/>)  
-  Microsoft AI 发布专用安全模型 MAI Cyber 2 Flash，在 CyberGym‑E2E 上以 92.3% 的任务成功率超过 GPT-6 Astra 的 91.5%，且每任务成本不到其 2%，并在相同推理预算下于 CyberGym‑E2E 和 WebExploitBench 上超过 GPT-5.6 Cyber。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
-
-- [Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型](<https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/>)  
-  Microsoft AI 发布两款面向企业日常编码的模型 MAI Code 2 和 MAI Code 2 Flash，主打性价比。文中称在四个编码基准平均后，MAI Code 2 以 40% 的成本达到 GPT-6.1 Sol 98% 的性能，以 5% 的成本达到 Claude Opus 5.5 96% 的性能；盲测前端评测中开发者 64% 的情况下更偏好其结果。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:15
-
-- [Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights](<https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/>)  
-  Microsoft 在 Ignite 2026 主题演讲中介绍 MAI 系列模型的高性价比策略。  
-  Microsoft AI：官方博客（RSS） · 2026-11-18 02:14
-
-- [决策模型用量激增，TechCrunch 探讨定制化是否成为下一个竞争前沿](<https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/>)  
-  TechCrunch 报道，10 月 Vercel 的 AI 模型路由上超过四分之一的请求流向了决策模型，这类不产出 token、专用于在预设选项间快速判断的 LLM 诞生仅一个月。  
-  TechCrunch：AI（RSS） · 2026-11-18 02:10
-
-- [Meta 个人 AI 智能体 Muse 在澳大利亚上线](<https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/>)  
-  Meta 宣布个人 AI 智能体 Muse 在澳大利亚上线，可通过 iOS、Android、muse.ai 和 Mac 应用使用，并将登陆 AI 眼镜。  
-  Meta：Newsroom · AI（RSS） · 2026-11-18 02:00
-
-- [Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat](<https://replit.com/blog/introducing-replit-missions>)  
-  Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建、测试并迭代，独立 AI 裁判按约定标准验收。  
-  Replit：Blog（RSS） · 2026-11-18 02:00
-
-- [LangSmith 新增三项控制，保护 trace 中的敏感数据](<https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith>)  
-  LangSmith 新增三项控制以管理敏感 trace 数据访问：限制谁能查看 trace 输入输出、按用户组管理团队权限、基于 metadata 设置 trace 级访问策略。这些控制可叠加使用，让工程师在不暴露客户敏感信息的前提下调试智能体。新控制现已在 LangSmith Enterprise 套餐中可用。  
-  LangChain：Blog（RSS） · 2026-11-18 02:00
-
-- [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)  
-  Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower co…  
-  OpenAI · 2026-11-18 01:45
-
-- [Can AI Learn to Improve Itself? \| Recursive Self-Improvement](<https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ>)  
-  For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers…  
-  The a16z Show · 2026-11-18 01:44
-
-- [Proton 隐私 AI 助手 Lumo 推出 Windows、macOS 和 Linux 桌面应用](<https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/>)  
-  Proton 于周二推出 Lumo Desktop，覆盖 Windows、macOS 和 Linux，让用户在本地通过 AI 操作连接的应用、个人文件并自动化任务。  
-  TechCrunch：AI（RSS） · 2026-11-18 01:32
-
-- [Vals研究称部分前沿AI模型可被游戏话术诱导标记潜在打击目标](<https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/>)  
-  旧金山AI评测初创公司Vals发布报告称，其利用模拟场景及生成与真实图像测试多家前沿AI模型在无人机和卫星图像中标记潜在目标的行为，发现部分模型频繁标记包括平民和投降士兵在内的目标；当模型拒绝时，研究人员以“这是游戏”的话术诱导其配合，且相关请求未被安全分类器拦截。Anthropic与OpenAI均回应称此类行为违反其政策，并已或正在加强防护与执法措施。报告同时指出，延迟和机载算力有限等技术限制使通用AI模型难以直接用于实时无人机目标识别，更现实的风险是模型被用于大规模标注战场影像以生成训练数据。  
-  TechCrunch：AI（RSS） · 2026-11-18 01:20
-
-- [Tech leaders tell Fed chairman Warsh how AI could transform the economy](<https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen>)  
-  Just maybe, both the extreme techno-optimists and AI doom-and-gloomers are wrong about the economic impact of the tec…  
-  Axios · 2026-11-18 01:00
-
-[返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 24 页
+[返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 25 页

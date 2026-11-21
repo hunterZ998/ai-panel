@@ -1,6 +1,47 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-20.md) · [下一页](all-22.md) · 第 21 / 24 页
+[返回面板](../README.md) · [上一页](all-20.md) · [下一页](all-22.md) · 第 21 / 25 页
+
+- [Welcome to the B2A Economy](<https://www.a16z.news/p/welcome-to-the-b2a-economy>)  
+  They’re AI agents.  
+  a16z · 2026-11-11 23:02
+
+- [What the Internet Boom Teaches Us About the AI Buildout \| Mike Volpi](<https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG>)  
+  The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strateg…  
+  The a16z Show · 2026-11-11 19:00
+
+- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
+  APPSO · 2026-11-11 09:00
+
+- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
+  极客公园 · 2026-11-11 08:43
+
+- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
+  APPSO · 2026-11-11 08:20
+
+- [谷歌最强AI「碳」全球解禁！再现人类首次登月](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652742144&idx=1&sn=d63ffb9f70f7cb25804b5107e77a3c4d>)  
+  新智元 · 2026-11-11 06:45
+
+- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
+  量子位 · 2026-11-11 06:10
+
+- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物系统首次完整曝光](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=2&sn=32ea257fcc98924cf226b76eb6251ce8>)  
+  量子位 · 2026-11-11 06:10
+
+- [Designing for Agents — Zeno Rocha, Resend](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend>)  
+  swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for…  
+  Latent Space · 2026-11-11 04:06
+
+- [Investing in General Translation](<https://www.a16z.news/p/investing-in-general-translation>)  
+  The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
+  a16z · 2026-11-11 00:30
+
+- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
+  APPSO · 2026-11-10 23:57
+
+- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
+  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
+  The a16z Show · 2026-11-10 23:29
 
 - [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
   新智元 · 2026-11-10 23:16
@@ -103,41 +144,4 @@
 - [中国汽车市场，不止一种赢法 \| 极客车间](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116244&idx=1&sn=953ca93be7ad1c997f1334c356d51b88>)  
   极客公园 · 2026-11-09 22:21
 
-- [ZPedia丨实测字节 TRAE 宝：字节的 Personal agent，从编程场景开始](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901335&idx=1&sn=1fca0e12c9b58714b0b1952bf28ad228>)  
-  Z Finance · 2026-11-09 21:59
-
-- [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115697&idx=1&sn=c5dae711f6551fadf3ac18e7bfb6484e>)  
-  APPSO · 2026-11-09 20:00
-
-- [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116234&idx=1&sn=aef5923de6ccddb6ff81233d7a02597d>)  
-  极客公园 · 2026-11-09 19:03
-
-- [前OpenAI员工看吐！AI研发AI冲线「终极超级智能」，停建全球机房也晚了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=2&sn=39bbdfe4884d81b6ecb8330ff1bf734d>)  
-  新智元 · 2026-11-09 18:30
-
-- [印度自研模型社死！照搬千问，仅塞提示词硬充印度造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=1&sn=47589ca037f06b538a1e1603eaa5f840>)  
-  新智元 · 2026-11-09 18:30
-
-- [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748686&idx=1&sn=52ef8fb842bd446399c52bf45be82a5e>)  
-  AI科技评论 · 2026-11-09 18:29
-
-- [Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=2&sn=3d5312c12d83505cab086e7f5ce11acd>)  
-  量子位 · 2026-11-09 18:19
-
-- [千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=1&sn=7d8135155abf2ea4dd5152eda4a8ef8d>)  
-  量子位 · 2026-11-09 18:19
-
-- [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](<https://guiguzaozhidao.fireside.fm/20240450>)  
-  最近，Personal Agent 开始成为 AI 行业的新热点。它们能够理解用户的个人习惯和需求，连接不同工具，甚至主动替用户处理购物、生活服务和工作中的复杂任务。但当一个通用 Agent 遇到专业任务时，是否什么都能做好？未来的通…  
-  科技早知道 · 2026-11-09 18:00
-
-- [500小时人类视觉-触觉数据，到底能让机器人学到什么？\| GAIR Paper 140](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=2&sn=b1bb761d93a9cf76643161b247f47a27>)  
-  AI科技评论 · 2026-11-09 16:16
-
-- [姚顺雨加入腾讯近一年，混元追上来了？实测 Hy4 比 Kimi K3.1 Pro 快了 28 分钟](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=1&sn=d5cffdc0d0b028234bfba235dc588920>)  
-  AI科技评论 · 2026-11-09 16:16
-
-- [创业者做 Personal Agent，有没有一线生机？](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116221&idx=1&sn=ce138b50de491dc2ac7883a2c067a8fb>)  
-  极客公园 · 2026-11-09 15:44
-
-[返回面板](../README.md) · [上一页](all-20.md) · [下一页](all-22.md) · 第 21 / 24 页
+[返回面板](../README.md) · [上一页](all-20.md) · [下一页](all-22.md) · 第 21 / 25 页

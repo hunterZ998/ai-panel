@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页
 
+- [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
+  Latent Space · 2026-10-31 11:41
+
 - [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
   What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
   The a16z Show · 2026-10-30 18:00
@@ -73,14 +77,6 @@
 - [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](<https://www.latent.space/p/moshi>)  
   Anekha Sokhal, CEO of Moshi, joins swyx to discuss building a recommendation engine for commodity traders, turning ma…  
   Latent Space · 2026-10-22 22:00
-
-- [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ \| 硅谷线下活动 S10E33](<https://guiguzaozhidao.fireside.fm/20240448>)  
-  最近几个月，像 Meta 的 Muse，OpenAI 的 Dots 这样的 Personal agent 产品大火。模型不仅越来越擅长调用工具、规划任务，也开始能够执行数百甚至上千个步骤的复杂工作。但当 AI 真正进入现实世界，问题也…  
-  科技早知道 · 2026-10-22 19:00
-
-- [20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO &amp; Modal Raises $750M at $15.75B](<https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b>)  
-  AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sp…  
-  20VC · 2026-10-22 15:07
 
 - [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](<https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss>)  
   今天我们的嘉宾是科沃斯CEO钱程（David）。 他出生于1990年，曾是中国最年轻A股上市公司CEO，也是一名企二代、创二代。我很好奇的是，当一代中国企业开始从创业进入传承，真正在经历这个过程的当事人，他所面临的现实与所思所想？ 钱…  

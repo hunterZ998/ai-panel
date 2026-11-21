@@ -1,183 +1,181 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 38 页
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 40 页
 
-- [Genie 3 更新并向 Google AI Ultra 订阅用户开放](<https://x.com/GoogleDeepMind/status/2123117735374659636>)  
-  该功能正向符合条件的 Google AI Ultra 订阅用户逐步开放，并配有社区画廊，可用于发现、混编和分享创作——模型选择器中的 Genie 3 也已更新，支持最长 3 分钟的会话。 开始探索 ↓  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-19 02:14
+- [AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例…](<https://x.com/AUTOMATONJapan/status/2123245952932942007>)  
+  AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例も、寿命が怖い  
+  @AUTOMATONJapan · 2026-11-19 10:44
 
-- [Google DeepMind 在 Project Genie 中开放 Genie 4](<https://x.com/GoogleDeepMind/status/2123117733709586849>)  
-  Google DeepMind 宣布 Genie 4 现已在 Project Genie 中开放。它带来原生音频、实时编辑功能和一个新 agent，用于帮助创建可交互的虚拟世界。  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-19 02:14
+- [谷歌发布 Gemini 4 Neon，作者称 Antigravity 拖后腿](<https://x.com/aiwarts/status/2123245199300370650>)  
+  谷歌 11 月 18 日发布 Gemini 4 Neon，Artificial Analysis 综合智能指数 61 分排第三，价格约为 GPT-6.2 Astra 和 Claude Fable 5.2 旗舰的 37.5%，Pro 和 Ultra 订阅用户当天起可用。API 价格为每 100 万输…  
+  X：卡尔的 AI 沃茨 \(@aiwarts\) · 2026-11-19 10:41
 
-- [BREAKING: In a stunning moment, Rep.](<https://x.com/DemocraticWins/status/2123117702365774079>)  
-  Seth Magaziner just HAMMERED DHS Secretary Markwayne Mullin over the Nvidia China scandal: Rubio, Lutnick and Trump reportedly knew, but the Homeland Security Secretary says "We weren't privileged to that information at all." This is insane.  
-  @DemocraticWins · 2026-11-19 02:14
+- [好消息！DeepSeek系团队开源神级仓库Linger，丝滑平替Grok Bot，实现完全用本地大模型运行Personal…](<https://x.com/gengdaJ/status/2123245141930774539>)  
+  ⓵既可免费本地推理，又可无缝衔接Claude Code和Codex官方订阅 本地 Linger 默认使用 Pi 框架，最低 Mac 16GB  
+  @gengdaJ · 2026-11-19 10:41
 
-- [You wanted disclosure?](<https://x.com/Dream1984Tube/status/2123116710873936369>)  
-  You got it. How the Anthropic Money Network Got Behind the Jensen Huang Pile-On Two receipts per name: the money they took, and the words they said. 1. Kevin Roose and Casey Newton The money: $480,000 from Tarbell for their new NPR show. The words:  
-  @Dream1984Tube · 2026-11-19 02:10
+- [🔥 卧槽！现在做 AI 短剧，连生产流水线都有人开源了！🤯 再给兄弟们分享 3 个项目！](<https://x.com/shenghouxuyao/status/2123241101624758405>)  
+  1️⃣ Pixelle-Video：自动写稿、配音、配乐、生成短视频。 2️⃣ Jellyfish：剧本、分镜、角色一致性、后期剪辑一站搞定。 3️⃣ waoowaoo：AI  
+  @shenghouxuyao · 2026-11-19 10:25
 
-- [Anthropic's logic is this: -AI is inherently dangerous.](<https://x.com/jlippincott/status/2123116209512333313>)  
-  Recursive Self-improving AI has a 10%+ chance of exterminating humanity -RSI has a 50%+ chance of solving suffering -RSI will inevitably be built -The only solution is for Anthropic \(Effective Altruists\) to build aligned  
-  @jlippincott · 2026-11-19 02:08
+- [💎 She remembers everything you like Custom AI Girlfriend with scene switching and video generation Free to begin 👉](<https://x.com/Musclemasss/status/2123240418251092091>)  
+  @Musclemasss · 2026-11-19 10:22
 
-- [So… -Nearly half of Nvidia’s global sales in 2025 \($104B\) came from its Singapore subsidiary—a 72% bump YoY -Then,…](<https://x.com/nicoleperlroth/status/2123115426263806263>)  
-  So… -Nearly half of Nvidia’s global sales in 2025 \($104B\) came from its Singapore subsidiary—a 72% bump YoY -Then, as its Singapore business came under scrutiny, Nvidia switched up its financial reporting, eliminating Singapore as a separately disclosed line i…  
-  @nicoleperlroth · 2026-11-19 02:05
+- [Anthropic 到底有多遭人恨？？？](<https://x.com/taketokennn/status/2123240316492984339>)  
+  马上就要在纳斯达克敲钟了，结果临近敲钟前闹出了硅谷史上最魔幻的一幕： 平时互相骂街、势不两立的激进派（e/acc 加速党、开源派）和保守派（AI 安全中心、暂停派），居然罕见地联手签了一份《反人类声明》，共同抵制 Anthropic。 连 2 位诺贝尔奖、3 位菲尔兹奖和  
+  @taketokennn · 2026-11-19 10:21
 
-- [JUST IN: Billionaire Bill Ackman says Nvidia board is acting against shareholders' best interests by refusing to re…](<https://x.com/Kalshi/status/2123115268872228874>)  
-  JUST IN: Billionaire Bill Ackman says Nvidia board is acting against shareholders' best interests by refusing to reinstate Jensen Huang  
-  @Kalshi · 2026-11-19 02:05
+- [BREAKING: Trump joins Elon Musk in declaring Jensen Huang "can't be replaced."](<https://x.com/PolymarketMoney/status/2123240249656504610>)  
+  @PolymarketMoney · 2026-11-19 10:21
 
-- [黄仁勋有个怪癖，写 C++ 不爱用 RAII，英伟达董事会调查发现，黄仁勋平时写代码竟然都是手工操作 new/delete…](<https://x.com/skywind3000/status/2123115194494955553>)  
-  黄仁勋有个怪癖，写 C++ 不爱用 RAII，英伟达董事会调查发现，黄仁勋平时写代码竟然都是手工操作 new/delete，野指针满天飞，违反了公司的代码操作规范，属于董事会无法容忍的行为，另据内部爆料人士称，黄仁勋的代码具有很强的破坏性，习惯使用智能指针的同事都表示很难同他一起合作！  
-  @skywind3000 · 2026-11-19 02:04
+- [黄仁勋内部讲话流出， 这不是妥妥的叛国罪吗？](<https://x.com/huang3feng/status/2123240112700227901>)  
+  黄仁勋这下子真的无法再翻身了！  
+  @huang3feng · 2026-11-19 10:21
 
-- [太变态了❗️黄仁勋有三个怪癖，拼在一起才看得懂这个人。](<https://x.com/Dragonhau66/status/2123115179479040221>)  
-  第一个，英伟达公司不设COO首席运营官。 六十多个高管直接向他汇报，没有中间缓冲层。 他不做一对一，所有问题拉到一群人面前公开吵，吵完当场拍板。  
-  @Dragonhau66 · 2026-11-19 02:04
+- [BREAKING: Microsoft CEO Satya Nadella declares workers will become managers of AI agents after offering 60,000 empl…](<https://x.com/PolymarketMoney/status/2123239838438813717>)  
+  BREAKING: Microsoft CEO Satya Nadella declares workers will become managers of AI agents after offering 60,000 employees buyouts.  
+  @PolymarketMoney · 2026-11-19 10:20
 
-- [WorkBuddy Pro 上线三款 GPT-6.2 模型](<https://x.com/WorkBuddy_AI/status/2123114288693015020>)  
-  三款模型，三种不同优势。 用 GPT-6.2 Astra 思考更深。 用 GPT-6.2 Sol 行动更快。 用 GPT-6.2 Terra 探索更远。 现均已在 WorkBuddy Pro 上线。你会先试哪一个？  
-  X：Tencent WorkBuddy \(@WorkBuddy\_AI\) · 2026-11-19 02:01
+- [ANTHROPIC JUST PASSED THE SPACEX IPO RECORD A 5 year old AI company raised $94 billion.](<https://x.com/cryptowalax/status/2123239606019879271>)  
+  Orders came in at 7 times the shares. India is not even on the retail list. \#AnthropicIPO \#CryptoWala  
+  @cryptowalax · 2026-11-19 10:19
 
-- [GPT-6.2 Astra 和 GPT-6.2 Sol 登上 Arena Code Arena: WebDev 排行榜第…](<https://x.com/arena/status/2123112692810764496>)  
-  Arena 公布 GPT-6.2 Astra 和 GPT-6.2 Sol 在 Code Arena: WebDev 的真实场景得分，两款模型均登上 Pareto 前沿。  
-  X：Arena \(@arena\) · 2026-11-19 01:54
+- [Two of the best journalists I’ve ever worked with followed the money @paulmozur @satariano “First, Alibaba would pl…](<https://x.com/nicoleperlroth/status/2123238461050347862>)  
+  Then Megaspeed would use that agreement to raise money from investors to buy Nvidia chips, said the  
+  @nicoleperlroth · 2026-11-19 10:14
 
-- [JUST IN: NVIDIA REPORTEDLY HIT BY CYBERATTACK, WITH THREATS TO EXPOSE STOLEN DATA. @grok, Mellanox technology forms…](<https://x.com/RabbiJeffx/status/2123112583171608784>)  
-  Where was Mellanox founded? Country only.  
-  @RabbiJeffx · 2026-11-19 01:54
+- [推文建议Claude订阅用户买入Anthropic股票](<https://x.com/indigox/status/2123238235526877663>)  
+  该推文建议Claude订阅用户成为Anthropic股东，称$ANT IPO价格为每股83美金。作者算账：Ultra订户一年2400美金、十年24000美金，约买250股，十年回报可覆盖全部订阅费且大概率盈利，并称十万亿市值应是十年后科技巨头入门标准。  
+  X：indigo \(@indigox\) · 2026-11-19 10:13
 
-- [BREAKING: Bill Ackman accuses Nvidia's Board of Directors, $NVDA, of "not acting in the best interest of shareholde…](<https://x.com/KobeissiLetter/status/2123112102923575660>)  
-  BREAKING: Bill Ackman accuses Nvidia's Board of Directors, $NVDA, of "not acting in the best interest of shareholders nor in a manner consistent with their fiduciary duties." Ackman says that the board either fired Jensen Huang or forced his resignation. "In s…  
-  @KobeissiLetter · 2026-11-19 01:52
+- [Bessent threw Lutnick under the bus.](<https://x.com/MAGACult2/status/2123237322602729488>)  
+  MAGA is eating itself and this is just the beginning. This Nvidia scandal will be huge.  
+  @MAGACult2 · 2026-11-19 10:10
 
-- [Your NVIDIA driver might be hammering your SSD right now.](<https://x.com/SynezOS/status/2123111906781131217>)  
-  Drivers 621.14 and 621.24 are reported writing up to 30GB an hour to your drive. Even at idle. It's NVDisplay.Container.exe rewriting the same log file over and over. Leave your PC on 24/7 and that's up to 720GB a day  
-  @SynezOS · 2026-11-19 01:51
+- [indigo 建议 Claude 订阅用户在 $ANT IPO 每股 83 美金时买入约 250 股覆盖订阅成本](<https://x.com/indigox/status/2123236975780241812>)  
+  indigo 建议 Claude 订阅用户买入 Anthropic 股票，成为公司股东。他提到 $ANT 次日 IPO 定价每股 83 美金，Ultra 订户一年成本 2400 美金、十年 24000 美金，购入约 250 股十年后的回报可覆盖全部订阅费并大概率盈利，并认为十年后十万亿市值将是科技…  
+  X：indigo \(@indigox\) · 2026-11-19 10:08
 
-- [JUST IN: The petition to bring Jensen Huang back as Nvidia CEO has now surpassed 200,000 signatures](<https://x.com/Kalshi/status/2123111458108215670>)  
-  @Kalshi · 2026-11-19 01:49
+- [⌚️ HUAWEI新製品登場記念 \#プレゼントキャンペーン🎁 ファーウェイ次世代ウェアラブル血圧計 「HUAWEI WAT…](<https://x.com/HUAWEI_Japan_PR/status/2123236723270586410>)  
+  🌟 管理医療機器の精度をウェアラブルで実現！ 【応募方法】 ① @HUAWEI\_Japan\_PRをフォロー ② この投稿をリポスト 📅 応募期間：12月4日（金）まで \#HUAWEIWATCHD3  
+  @HUAWEI\_Japan\_PR · 2026-11-19 10:07
 
-- [Just a few coincidences: - Jensen endorses open source, works on competitor to Anthropic - Anthropic co-founder lea…](<https://x.com/5149jamesli/status/2123111272388681995>)  
-  Just a few coincidences: - Jensen endorses open source, works on competitor to Anthropic - Anthropic co-founder leaks story to press about Jensen's involvement with a "spy" - Rubio colludes with a foreign country \(you know which\) to coup Jensen - Nvidia invest…  
-  @5149jamesli · 2026-11-19 01:49
+- [Artificial Analysis 评测 GPT-6.2 Astra 与 Sol 的性格变化：回复更短更自然](<https://x.com/ArtificialAnlys/status/2123236464003588136>)  
+  Artificial Analysis 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 相对上一版的人格指数对比，两者风格变化明显。  
+  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-19 10:06
 
-- [そう言えばNVIDIAは決算を発表したのに10-Qは提出していない。決算後の株価も下がっているし、まだまだボロが出そうだと…](<https://x.com/yurumazu/status/2123111033707606308>)  
-  そう言えばNVIDIAは決算を発表したのに10-Qは提出していない。決算後の株価も下がっているし、まだまだボロが出そうだと市場は思っているということ。  
-  @yurumazu · 2026-11-19 01:48
+- [Let's be adults for a moment, shall we?](<https://x.com/ImBreckWorsham/status/2123236069629939727>)  
+  Trump will NEVER fire Commerce Secretary Howard Lutnick over the Nvidia scandal or over ANY scandal that may erupt because Lutnick has enough dirt on Trump and Epstein to bury him. The second Trump cuts him loose he sings like a fucking  
+  @ImBreckWorsham · 2026-11-19 10:05
 
-- [“Cyber attacks” playbook is so boring I’d like a refund.](<https://x.com/CultivateElevat/status/2123110584476659748>)  
-  Check out: proton mail, odysee, for browser, telegram, brave browser, and a proton vpn. Get away from Google, Amazon, and Microsoft.  
-  @CultivateElevat · 2026-11-19 01:46
+- [⚠️注意喚起⚠️ NVIDIA系のグラボ使ってるフォロワーさん向け 現状公開されてる最新の621.14のグラフィックスドラ…](<https://x.com/VRCnari_3/status/2123235218496852038>)  
+  ⚠️注意喚起⚠️ NVIDIA系のグラボ使ってるフォロワーさん向け 現状公開されてる最新の621.14のグラフィックスドライバで常駐しているNVDisplay.ContainerがPCアイドル時にドライブへ大量の書き込みを行う動作を起こしておりSSD使ってる人は寿命を食い潰されてます 寿命気になる…  
+  @VRCnari\_3 · 2026-11-19 10:01
 
-- [TSMC now demanding cash payments for microchip orders, since the "handshake" trust with Jensen Huang no longer appl…](<https://x.com/HealthRanger/status/2123109276038435125>)  
-  So Jensen Huang was also the glue that was holding together the financial networking of the industry. Without him, it all starts to  
-  @HealthRanger · 2026-11-19 01:41
+- [英伟达董事会的“生死簿”被扒出！投资人放话：2027年，把你们全部扫地出门！](<https://x.com/Web3shiguangzhe/status/2123235058282561881>)  
+  ​英伟达董事会强硬拒绝黄仁勋回归，彻底激怒了资本圈。现在，反击的路线图已经明牌了。 ​知名投资人Chris  
+  @Web3shiguangzhe · 2026-11-19 10:01
 
-- [JUST IN: Nvidia \($NVDA\) interim CEO Colette Kress promises company-wide pay raises and additional equity grants mon…](<https://x.com/liquidtrading/status/2123109141652644219>)  
-  JUST IN: Nvidia \($NVDA\) interim CEO Colette Kress promises company-wide pay raises and additional equity grants months ahead of schedule as the chipmaker scrambles to retain employees following Jensen Huang’s departure, according to WIRED.  
-  @liquidtrading · 2026-11-19 01:40
+- [Israel’s economy had two Americans keeping it booming.](<https://x.com/leahfiles/status/2123234832410923115>)  
+  One was Jensen Huang, and the other is Howard Lutnick. Israel’s economy is projected to grow 5.6% this year with Nvidia and only 3.4% without it. Jensen is the reason Nvidia is there. He bought the Israeli chipmaker Mellanox  
+  @leahfiles · 2026-11-19 10:00
 
-- [New Zealand’s population has skyrocketed over 8,000% overnight, according to new data shared by Microsoft.](<https://x.com/DailyNoud/status/2123108471726030945>)  
-  @DailyNoud · 2026-11-19 01:37
+- [GPT-6.2 Astra 和 Sol 登上 Arena 新版 Agent Arena Index，分列第 6 和第 11](<https://x.com/arena/status/2123234410032214464>)  
+  Arena 发布新版 Agent Arena Index 榜单，GPT-6.2 Astra \(Max\) 以 1291 分排第 6，成为 OpenAI 当前最好模型；GPT-6.2 Sol \(Max\) 得 1241 分排第 11，进入成本 Pareto 前沿。  
+  X：Arena \(@arena\) · 2026-11-19 09:58
 
-- [Jeff Bezos says if Jensen Huang isn't coming back, he wouldn't hire an outsider as Nvidia's CEO.](<https://x.com/unusual_whales/status/2123108221879726533>)  
-  He says outside CEOs at complex companies have a "vanishingly small chance of succeeding."  
-  @unusual\_whales · 2026-11-19 01:37
+- [Water leaked into trash cans at the Meta booth inside San Francisco’s Moscone Center during a Microsoft conference…](<https://x.com/ABC/status/2123234147049021743>)  
+  Water leaked into trash cans at the Meta booth inside San Francisco’s Moscone Center during a Microsoft conference on Wednesday as record rain hit the area.  
+  @ABC · 2026-11-19 09:57
 
-- [New look at Andrew Garfield as Sam Altman in Luca Guadagnino's ‘ARTIFICIAL’.](<https://x.com/DiscussingFilm/status/2123108170927063518>)  
-  The film follows the story of when OpenAI fired and rehired their CEO Sam Altman within 1 week.  
-  @DiscussingFilm · 2026-11-19 01:36
+- ["The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the 'appar…](<https://x.com/rgoodlaw/status/2123233779820994861>)  
+  "The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the 'apparent ​infiltration of banks by rogue AI agents,' Arizona Attorney ‌General Kris Mayes said."  
+  @rgoodlaw · 2026-11-19 09:55
 
-- [SITUATION DETECTED: Hugging Face co-founder Thomas Wolf, xAI co-founder Igor Babuschkin, MIRI President Nate Soares…](<https://x.com/MTSlive/status/2123107810816995616>)  
-  SITUATION DETECTED: Hugging Face co-founder Thomas Wolf, xAI co-founder Igor Babuschkin, MIRI President Nate Soares, and Extropic founder Beff Jezos have signed a statement warning that Anthropic is not a safe AI company.  
-  @MTSlive · 2026-11-19 01:35
+- [さくらインターネットが DeepSeek v4.1 Flash 1017とGLM-5.3 Flash 国内セルフホストして…](<https://x.com/_ryu15_/status/2123233389906182626>)  
+  こういうのでいいんだよ。こういうので。 月3000リクエスト無料らしい？  
+  @\_ryu15\_ · 2026-11-19 09:54
 
-- [Humyn Labs 获 4700 万美元 A 轮，做真实场景机器人数据](<https://x.com/rohanpaul_ai/status/2123105962789875972>)  
-  Humyn Labs 完成 4700 万美元 A 轮融资，其中 2600 万美元为股权融资，由 Accel 领投。该公司用自研采集眼镜在真实工厂车间记录工人操作，过滤不可用片段后拆解为 reach、grasp、lift、place 等原子动作，使数据可直接用于策略训练。其数据业务已覆盖拉美、东亚、…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 01:28
+- [BREAKING: Elon Musk says Jensen Huang is like "Michael Jordan at his peak" in terms of what he means for Nvidia, $N…](<https://x.com/KobeissiLetter/status/2123233364920467876>)  
+  BREAKING: Elon Musk says Jensen Huang is like "Michael Jordan at his peak" in terms of what he means for Nvidia, $NVDA. "There is no one that can replace Jensen... you need to think long and hard before kicking someone like that out," Musk says. "They kicked M…  
+  @KobeissiLetter · 2026-11-19 09:54
 
-- [A few days ago, I committed to donating the equity I hold in OpenAI.](<https://x.com/hilbertspaess/status/2123105964014604781>)  
-  I plan to give all of it to AI safety causes, both because I think donations are impactful and because I want to back my message. We need to pause or drastically slow down the race to superintelligence.  
-  @hilbertspaess · 2026-11-19 01:28
+- [马斯克谈到老朋友黄仁勋都快哭了！！！](<https://x.com/ZhouTalks/status/2123232580497817712>)  
+  马斯克人在深圳，随特朗普代表团出席 APEC，隔着越洋视频连线DealBook。当聊起黄仁勋的时候，这个平时怼天怼地的男人，声音一下子软了下来。 画面里他低着头，说着说着眼睛微微闭了一下，看起来像是在忍着什么。开口第一句就是：“黄仁勋是我老朋友。”  
+  @ZhouTalks · 2026-11-19 09:51
 
-- [JUST IN: Billionaire Bill Ackman says Nvidia $NVDA board is acting against shareholders' best interests by refusing…](<https://x.com/WatcherGuru/status/2123105444076105841>)  
-  JUST IN: Billionaire Bill Ackman says Nvidia $NVDA board is acting against shareholders' best interests by refusing to reinstate Jensen Huang as CEO.  
-  @WatcherGuru · 2026-11-19 01:25
+- [Every day I see multiple investigative pieces on Nvidia, Jensen Huang and advanced chips going to China.](<https://x.com/meiselasb/status/2123232296287535156>)  
+  Here’s what’s staring us in the face. Trump keeps saying HE WANTED the H200s to go to China because “we” would make a lot of money from China. He brought Jensen Huang with  
+  @meiselasb · 2026-11-19 09:50
 
-- [So fun to do DealBook with my friend and partner of 11 years, @gdb.](<https://x.com/sama/status/2123103873166381287>)  
-  Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day. Greg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to  
-  @sama · 2026-11-19 01:19
+- [Enron paid bonuses across the organisation “to retain talent” on the eve of bankruptcy I’m not saying Nvidia files…](<https://x.com/DarioCpx/status/2123231829633421535>)  
+  Enron paid bonuses across the organisation “to retain talent” on the eve of bankruptcy I’m not saying Nvidia files Chapter 11 in a few days, but you don’t promise pay raises and more equity right after Jensen Huang is gone unless the crisis is much deeper than…  
+  @DarioCpx · 2026-11-19 09:48
 
-- [Mullin should apologize to @SecRubio.](<https://x.com/LauraLoomer/status/2123103868087103986>)  
-  Rubio, who seems to be one of the very few competent cabinet members if we are being honest, briefed the admin on the fact that Jensen Huang was compromised by China. How can Mullin lie and say he wasn’t briefed? Marco Rubio is busy  
-  @LauraLoomer · 2026-11-19 01:19
+- [MiniCPM-V 4.7 在 Jetson Orin 本地跑视觉与机器人规划](<https://x.com/OpenBMB/status/2123229579737530548>)  
+  太惊人了！🤯 MiniCPM-V 4.7 在 Jetson AGX Orin 上本地运行视觉和机器人规划，令人兴奋。出色的优化工作，迫不及待想看到你的引擎！🚀💙  
+  X：面壁智能 OpenBMB \(@OpenBMB\) · 2026-11-19 09:39
 
-- [First look at Ike Barinholtz as Elon Musk in Luca Guadagnino's ‘ARTIFICIAL’.](<https://x.com/DiscussingFilm/status/2123103821660569670>)  
-  The film follows the story of when OpenAI fired and rehired their CEO Sam Altman within 1 week.  
-  @DiscussingFilm · 2026-11-19 01:19
+- [🚨 Trump on Jensen Huang: “Some people CAN’T be replaced” President Trump: “It’s such a tragedy.](<https://x.com/IngrahamAngle/status/2123227477203886410>)  
+  It’s a tragedy. He’s such a brilliant man.” “You can’t replace people. Some people can’t be replaced.” “He was 10 years ahead. The Blackwell chip is 10 years ahead of any other  
+  @IngrahamAngle · 2026-11-19 09:30
 
-- [Best promo this movie could’ve asked for: Amazon MGM originally produced it, then literally dumped the finished fil…](<https://x.com/iamdpassword/status/2123102506221764667>)  
-  Best promo this movie could’ve asked for: Amazon MGM originally produced it, then literally dumped the finished film right after signing a $38 billion deal with OpenAI because it paints Sam Altman so badly Sam Altman already called the trailer an "awful movie,…  
-  @iamdpassword · 2026-11-19 01:14
+- [Anthropic, an AI company known for Claude, listed at a valuation of $ 1.5 trillion.](<https://x.com/udaykotak/status/2123227458262777931>)  
+  It did not exist till \~ 5 years ago. This is more than the combined market cap of the top 10 Indian companies. Are we undervalued, or do we need to catch up in the new world? Or both?  
+  @udaykotak · 2026-11-19 09:30
 
-- [It takes a lot of talent to destroy this much shareholder value with financial results like that.](<https://x.com/wholemars/status/2123102417592201284>)  
-  Congratulations to the Nvidia board $NVDA  
-  @wholemars · 2026-11-19 01:13
+- [Rep.](<https://x.com/OutFrontCNN/status/2123226691900481987>)  
+  Jamie Raskin, the top Democrat on the Judiciary Committee, tells OutFront he’s demanding documents from Howard Lutnick’s son as he investigates the family’s stake in Nvidia: “The whole country is just waking up to the reality of the staggering corruption”  
+  @OutFrontCNN · 2026-11-19 09:27
 
-- [Oh my God.](<https://x.com/LauraLoomer/status/2123102216814752067>)  
-  Markwayne Muslim must be the most retarded cabinet member in the Trump administration. Today, he was asked: “When did you learn that Jensen Huang may have been comprised?” He blatantly lied and said: “We weren't privileged to that information at all.” Democrat  
-  @LauraLoomer · 2026-11-19 01:13
+- [BREAKING: Trump says Jensen Huang is 'brilliant' and 'cannot be replaced'](<https://x.com/spectatorindex/status/2123225702808133740>)  
+  @spectatorindex · 2026-11-19 09:23
 
-- [I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with thei…](<https://x.com/BillAckman/status/2123101979375235386>)  
-  What we know is that the board fired Jensen or forced his resignation for violating company policy and/or in response to the accusation of an  
-  @BillAckman · 2026-11-19 01:12
+- [OpenAI 推出 ChatGPT for Accounting 及会计插件](<https://x.com/gdb/status/2123225465762542044>)  
+  OpenAI 推出 ChatGPT for Accounting，官方会计插件和合作插件可减少月结报表、银行对账、数据录入和审计准备等手工工作。该方案可配合 QuickBooks、Xero、Oracle NetSuite、BILL、FreshBooks、Rillet、Campfire 等工具使用，…  
+  X：Greg Brockman \(@gdb\) · 2026-11-19 09:22
 
-- [Gemini 应用扩展至低内存 Android 设备](<https://x.com/GeminiApp/status/2123101521659486357>)  
-  要开始使用，请在 Google Play 下载 Gemini 应用。 在我们的博客中了解更多关于我们如何将 Gemini 应用带到低内存 Android 设备的信息：  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 01:10
+- [2013年，张忠谋82岁，回锅当台积电CEO快四年了，满世界找接班人。](<https://x.com/wushanyunyu1/status/2123223512324231654>)  
+  他找到了黄仁勋。当面讲了大约十分钟，对台积电的期望、对接班人的要求、CEO拿多少钱，一五一十全摆出来。老黄静静听着，一个问题没问，最后只回了一句：「我已有工作。」（I already have a job.）  
+  @wushanyunyu1 · 2026-11-19 09:15
 
-- [New trailer for Luca Guadagnino's ‘ARTIFICIAL’, starring Andrew Garfield as Sam Altman.](<https://x.com/DiscussingFilm/status/2123101099800273047>)  
-  The film follows the story involving OpenAI focused on the firing &amp;amp; rehiring of CEO Sam Altman. In theaters on January 8.  
-  @DiscussingFilm · 2026-11-19 01:08
+- [JUST IN: 🇺🇸 President Trump says Nvidia $NVDA founder Jensen Huang is a "brilliant man" and "can't be replaced."](<https://x.com/WatcherGuru/status/2123222286593323179>)  
+  @WatcherGuru · 2026-11-19 09:10
 
-- [I was fired from Nvidia today.](<https://x.com/tylerpalmer/status/2123100957504569637>)  
-  I was responsible for advising the board to be reasonable and gather all the information before making their decisions.  
-  @tylerpalmer · 2026-11-19 01:08
+- [BREAKING: President Trump says Jensen Huang is “a brilliant man” and calls his departure from NVIDIA “such a traged…](<https://x.com/cb_doge/status/2123221255155532257>)  
+  He was ten years ahead.”  
+  @cb\_doge · 2026-11-19 09:06
 
-- [It is hard to do justice to just how bizarre this story is.](<https://x.com/NahasNewman/status/2123100708715053482>)  
-  Last year, the FT cried foul because Nvidia's disclosures attributed 22% of sales to Singapore. The FT and others questioned this figure as suspiciously implausible, given the size of Singapore's market. The  
-  @NahasNewman · 2026-11-19 01:07
+- [Peter 评测对比 OpenAI 的 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://x.com/arena/status/2123221208619769903>)  
+  Peter（@petergostev）对 OpenAI 两个新模型 GPT-6.2 Astra 和 GPT-6.2 Sol 做了实测对比，覆盖 3D 场景、游戏、幻灯片、数据可视化、网站、交互应用和 SVG 插画。视频展示了 Astra 在深度与精度上的优势、Sol 在动效与设计上的特点，并对比了…  
+  X：Arena \(@arena\) · 2026-11-19 09:05
 
-- [I no longer believe all of this is just a coincidence... ...here is the list of things that "accidentally broke" in…](<https://x.com/mattvanswol/status/2123100395903803655>)  
-  I no longer believe all of this is just a coincidence... ...here is the list of things that "accidentally broke" in just the LAST 7 DAYS: Nov 12–14: Microsoft 365 goes down worldwide \( in 74 countries for nearly 24 hours Nov 13: FAA issues a NATIONWIDE ground …  
-  @mattvanswol · 2026-11-19 01:05
+- [Nvidiaの関連や APECの関連について 一次情報のツイートと 日本のマスコミの テレビや新聞の報道の 時間的な遅れと…](<https://x.com/nishikazuhiko/status/2123220225105809613>)  
+  Nvidiaの関連や APECの関連について 一次情報のツイートと 日本のマスコミの テレビや新聞の報道の 時間的な遅れと偏向ぶり、 テレビのニュースショウのピンボケ具合をみて、 自分は今まで これらに騙されていたんだと 思った 気はついているのは僕だけでは無いだろう  
+  @nishikazuhiko · 2026-11-19 09:02
 
-- [OpenAI 与 AMD 合作用模型优化芯片设计，PPA 最高提升 14%](<https://x.com/OpenAI/status/2123100386638877054>)  
-  OpenAI 宣布与 AMD 合作，其模型在不到五个月内在旗舰 GPU IP 上识别出最高 14% 的 PPA 改进，而 AMD 工程师此前已优化设计多年。同一方法改进了 OpenAI 首款自研推理芯片 Jalapeño，收益已在真实硅片上验证。OpenAI 还将与 Synopsys 合作，把模型…  
-  X：OpenAI \(@OpenAI\) · 2026-11-19 01:05
+- [🚨 WOW: President Trump was asked about Jensen Huang, and he called what's happening a "TRAGEDY." He called Huang "a…](<https://x.com/GuntherEagleman/status/2123218955900747842>)  
+  🚨 WOW: President Trump was asked about Jensen Huang, and he called what's happening a "TRAGEDY." He called Huang "a brilliant man" and said, "Some people CAN'T BE REPLACED." The board "sounds like they have their own ideas." Trump said Nvidia's Blackwell chip …  
+  @GuntherEagleman · 2026-11-19 08:57
 
-- [Despite Nvidia's $NVDA board ruling out his reinstatement, co-founder Jensen Huang still holds a viable path back t…](<https://x.com/newsinvesting/status/2123100138797236465>)  
-  With heavyweights like  
-  @newsinvesting · 2026-11-19 01:04
+- [Morale at NVIDIA is at an all-time low.](<https://x.com/Knesix/status/2123217656622764483>)  
+  Researchers, engineers, so many brilliant people whom I know personally are deeply disappointed by the board's decision of ousting Jensen Huang. The board is desperately pushing the narrative that Jensen resigned. Resigned over what? All  
+  @Knesix · 2026-11-19 08:51
 
-- [BREAKING: The petition to bring Jensen Huang back as NVIDIA CEO just passed 200,000 signatures.](<https://x.com/cb_doge/status/2123097661620494667>)  
-  Elon Musk supports his return and is listed among the signers. After 33 years of building NVIDIA, Jensen deserves to be given a chance to lead again. Bring Jensen back\!  
-  @cb\_doge · 2026-11-19 00:55
+- [OpenAI is a research lab pretending to be a ruthless profit-maximizing corporation, and Anthropic is the exact oppo…](<https://x.com/Noahpinion/status/2123216672752550257>)  
+  OpenAI is a research lab pretending to be a ruthless profit-maximizing corporation, and Anthropic is the exact opposite  
+  @Noahpinion · 2026-11-19 08:47
 
-- [Altman 后悔未持有 OpenAI 股权](<https://x.com/rohanpaul_ai/status/2123096489966895153>)  
-  Sam Altman 现在希望自己当初持有 OpenAI 的一部分股权，承认他本应听从 Greg Brockman 的建议入股。 今年早些时候，Brockman 自己的持股估值接近 300 亿美元。 （在 CNBC Dealbook 峰会上，链接见评论）  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 00:50
+- [🚨 JUST NOW: President Trump GOES TO BAT for Elon Musk and Jensen Huang in China "We have to TAKE CARE of our genius…](<https://x.com/nicksortor/status/2123214896351654338>)  
+  We don't have that many of them\!" I'm not sure if Elon and Jensen's situations are comparable, but I agree with the premise of his answer 🤣  
+  @nicksortor · 2026-11-19 08:40
 
-- [腾讯混元宣布 11 月 20 日在 Reddit r/LocalLLaMA 举办 AMA](<https://x.com/TencentHunyuan/status/2123095410327879735>)  
-  腾讯混元宣布本周五 11 月 20 日 8–10 AM PT 在 Reddit r/LocalLLaMA 举办 AMA，研发团队与 @ShunyuYao12 将解读刚发布的 Hy4 与 Hy4 flash。作者称 Hy4 flash 已开放权重，含 Hy4 flash-FP8 和 Hy4 flas…  
-  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-19 00:46
+- [🚨 JUST IN: President Trump says we need to TAKE CARE of our geniuses like Elon Musk and Jensen Huang "We have to TA…](<https://x.com/EricLDaugh/status/2123214863157653756>)  
+  When we have brilliant people like Jensen...you know, I helped @ElonMusk a lot\! Now he's sending up rockets and LANDING them\!" 👏🏻 "It's a  
+  @EricLDaugh · 2026-11-19 08:40
 
-- [Take a look at sentiment right now.](<https://x.com/KobeissiLetter/status/2123095269004702079>)  
-  Because of a personal event involving Jensen Huang, there are now widespread calls that the "AI bubble has popped." Sentiment is as though AI has failed, the investment wave is over, and we are in a global depression. In reality? The S&amp;amp;P 500  
-  @KobeissiLetter · 2026-11-19 00:45
+- [Trump on whether he raised Jensen Huang with Xi: "I might've referred to it just briefly because it's such a traged…](<https://x.com/atrupar/status/2123214552137371925>)  
+  It's a tragedy. He's such a brilliant man ... we have to take care of our geniuses. I helped Elon a lot in my first term."  
+  @atrupar · 2026-11-19 08:39
 
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 38 页
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 40 页

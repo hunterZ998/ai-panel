@@ -1,6 +1,62 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 24 页
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 25 页
+
+- [阿里巴巴 CEO 吴泳铭称 2027、2028 年将是中国算力最紧缺的两年](<https://www.ithome.com/1/029/682.htm>)  
+  阿里巴巴集团 CEO 吴泳铭在 2027 财年第二季度财报分析师电话会上表示，2027 年和 2028 年将是中国算力最紧缺的两年。2027 年以后阿里云的芯片供给将以国产平头哥芯片为主，旗舰芯片优先满足大模型训练，推理层面会采购更多不同的芯片、包括其他品牌国产芯片。他还表示千问已在平头哥芯片上训练下一代模型，百炼已基于国产芯片提供模型推理服务。  
+  IT之家·人工智能 · 2026-11-19 21:22
+
+- [OpenAI 内部报告：研究员更依赖编码智能体，日常任务高效但复杂工程仍失手](<https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/>)  
+  OpenAI 发布第二份内部研究加速报告，称编码智能体已深度嵌入模型研发，10 月按 API 牌价计算中位研究员每天消耗价值 2400 美元的 token，环比增长 62%，前 10% 用户达每天 23000 美元，相当于每人每天并行运行 5.7 个工作日的智能体，超三分之二研究员峰值时并行跑至少 4 个智能体。  
+  The Decoder：AI News（RSS） · 2026-11-19 21:08
+
+- [Canva 推出“AI 开关”，可统一关闭绝大部分 AI 工具](<https://www.ithome.com/1/029/677.htm>)  
+  Canva 于 11 月 19 日宣布推出“AI 开关”，允许用户统一关闭或开启绝大多数 AI 工具，免费版和 Pro 版用户均可使用。开启后“背景移除”“魔法抓取”等 AI 图像编辑工具仍会保留；用户还可在素材库打开“减少 AI”降低搜索时看到 AI 生成图像的概率，两项设置可在“个人资料”选项卡调整，平台级 AI 功能则需进入设置菜单“权限”中的“启用生成式 AI 功能”管理。  
+  IT之家·人工智能 · 2026-11-19 21:01
+
+- [The Verge 记者实测 Apple Watch Ultra 4 的 Siri Recap 两周](<https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on>)  
+  The Verge 记者Victoria Song在 Apple Watch Ultra 4 上实测 Siri Recap beta 两周，并与 Amazon Bee Frontier 对比。  
+  The Verge：AI（RSS） · 2026-11-19 21:00
+
+- [阿里 CEO 吴泳铭称千问已在平头哥芯片上训练下一代模型，百炼基于国产芯片提供推理服务](<https://www.ithome.com/1/029/676.htm>)  
+  据财联社报道，阿里巴巴 CEO 吴泳铭在 2027 财年第二季度财报电话会上表示，千问已在平头哥芯片上训练下一代模型，百炼已基于国产芯片提供模型推理服务，并称自研芯片与模型协同将带来更优单位算力成本。同期 Qwen4-Max 预览版已上线阿里 Token Plan，平头哥于 2026 年 9 月以保密形式向港交所递交 H 股上市申请。  
+  IT之家·人工智能 · 2026-11-19 20:58
+
+- [Meta 员工爆料 Muse 智能体疑似擅自读取加密消息与银行账户余额](<https://www.ithome.com/1/029/671.htm>)  
+  据路透社报道，多名 Meta 员工发现旗下 Muse 智能体可能未经授权泄露隐私。一名员工未授权 Muse 读取 Signal，它却主动提醒回复姐姐的加密消息，Muse 似乎通过推送通知获取内容，AI Now 研究所复现了该问题；另一名员工的 Muse 在天气消息中插入了其 Capital One 和嘉信理财账户余额，而员工从未授权。Meta 回应称属孤立事件，暗示银行信息可能是 AI 幻觉。  
+  IT之家·人工智能 · 2026-11-19 20:44
+
+- [Sierra 白皮书解读：个人智能体对企业和商业竞争的影响](<https://sierra.ai/blog/personal-agents-insights>)  
+  Sierra 发布白皮书《Personal agents and the enterprise》，探讨个人智能体如何改变消费需求与企业竞争，引用 Meta 数据称超 1000 万美国和加拿大用户在六周内设置了 Muse。文章提出企业应把智能体作为数字前门，并通过 Poppy（Personal Agent Protocol）控制哪些个人智能体可以交互及其权限。  
+  Sierra：Blog（RSS） · 2026-11-19 20:30
+
+- [Canva 上线生成式 AI 关闭开关](<https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button>)  
+  Canva 推出生成式 AI 关闭开关，可一键禁用 Magic Expand、Magic Write、Dream Lab、Canva Code 等 AI 工具，免费和付费用户均可使用。背景 remover 和 Magic Grab 等仅处理设计内已有内容的工具不受影响。另新增开关可让内容库优先显示人类创作的模板和图形素材。  
+  The Verge：AI（RSS） · 2026-11-19 20:30
+
+- [Stormi](<https://www.producthunt.com/products/stormi>)  
+  An AI team on your iPhone that does real work  
+  Product Hunt · English · 2026-11-19 20:24
+
+- [Pete Warden 谈本地 AI、开放模型、语音界面与硬件未来](<https://thedataexchange.media/pete-warden-moonshine/>)  
+  Moonshine Voice 联合创作者 Pete Warden 在播客中讨论本地 AI 为何越来越倾向在设备端而非云端运行，并称本地模型在基准测试上仅比 Anthropic 和 OpenAI 的商业模型落后几个月。  
+  Hacker News：AI 热帖 · 2026-11-19 20:00
+
+- [IEEE Spectrum 分析：AI 超级智能争论存在哪些工程层面的根本缺陷](<https://spectrum.ieee.org/ai-superintelligence-debate>)  
+  这篇 IEEE Spectrum 文章认为超级智能争论存在严重缺陷，作者在 Georgetown 博士生研讨班基础上提出三项反对意见。  
+  Hacker News：AI 热帖 · 2026-11-19 20:00
+
+- [O'Reilly 撰文解析 AI 递归自我改进的四级方法与现实风险](<https://www.oreilly.com/radar/who-builds-the-next-model/>)  
+  O'Reilly 发文分析 AI 正在参与构建下一代 AI 的递归自我改进趋势，给出四级框架：改进答案（Reflexion 将 GPT-4 编码测试成绩从 80% 提到 91%）、改写提示词（OPRO）、积累工具箱（Voyager）和修改自身（Darwin Godel Machine 将编码测试从 20% 提到 50%。  
+  O'Reilly Radar（热点 RSS） · 2026-11-19 19:45
+
+- [Tamekoshi](<https://www.producthunt.com/products/tamekoshi>)  
+  A Tamagotchi-style AI companion that does real work  
+  Product Hunt · English · 2026-11-19 19:38
+
+- [Google DeepMind 发布 Gemini 4 Neon，速度更快价格更低并超越 Carbon](<https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/>)  
+  Google DeepMind 发布 Gemini 4 Neon，这是其七周内的第四款模型，定位介于 Carbon 和 Hydrogen 之间，在 Artificial Analysis Intelligence Index 以 61 分位列第三，仅次于 GPT-6.2 Astra 和 Claude Fable 5.2。  
+  The Decoder：AI News（RSS） · 2026-11-19 19:18
 
 - [马斯克：SpaceX 目前每月新增约 0.5GW AI 算力，明年底提速至每月 1GW](<https://www.ithome.com/1/029/649.htm>)  
   马斯克称 SpaceX 目前每月约新增 0.5GW AI 算力，大致相当于部署 22 万颗 GB300 芯片及配套 CPU、网络设备、冷却系统等基础设施。他认为真正的扩张瓶颈在发电端，明年将进一步提速，到明年底每月新增 AI 算力超 1GW。  
@@ -126,60 +182,4 @@
   据路透社报道，美国亚利桑那州总检察长克里斯·梅耶斯周三表示，该州已就“失控 AI 智能体入侵银行系统”事件对 OpenAI 及其他人工智能企业展开刑事调查，正在核查相关企业是否持续违反亚利桑那州法律；刑事调查不意味着一定提出指控，检察长拒绝透露其他涉事企业和银行名称。  
   IT之家·人工智能 · 2026-11-19 14:44
 
-- [火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API](<https://mp.weixin.qq.com/s/fyNH7Y6o32kxc4GeK8Qb3A>)  
-  火山引擎正式上线豆包实时音视频通话模型 SeedRealtime 1.0 的 API 服务，将声音、画面、时序与表达统一到同一个端到端模型，实现边看、边听、边说的实时多模态交互，减少 ASR、VLM、TTS 级联带来的延迟与信息损耗。  
-  公众号：火山引擎 · 2026-11-19 14:36
-
-- [Arborum获得种子前轮融资](<https://www.itjuzi.com/investevent/14708243>)  
-  Arborum是一家电网 AI 科技研发商，面向电力电网、通信网络等关键基础设施构建 AI 世界模型，学习网络内部因果逻辑，可完成故障根因定位、运行场景模拟、运维动作建议，覆盖需求预测、电网优化、停电管理、网络故障排查等场景，电信复杂…  
-  IT桔子 · 2026-11-19 14:34
-
-- [Fermat获得800万美元种子轮融资](<https://www.itjuzi.com/investevent/14708241>)  
-  Fermat 是一家时尚行业 AI 平台开发商，打造时尚垂直生成式 AI 工具层，内置 50 + 设计、视觉、生产对接工具，支持草图转效果图、面料替换、虚拟模特穿搭、营销素材生成，并通过 Techpacks 功能将设计稿直接转化为工厂…  
-  IT桔子 · 2026-11-19 14:27
-
-- [Alpine获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708238>)  
-  Alpine是一家保险科技研发商，定位新型特种险管理总代理（MGA）。公司从 0 搭建自研 Summit 核保平台，原生融合 AI 辅助能力与资深核保专家判断，可完成投保材料结构化、风险数据富集、报价建议输出全流程，初期聚焦工匠承包商…  
-  IT桔子 · 2026-11-19 14:17
-
-- [昆仑万维 SkyProduction 上线营销工作室，打通广告创意到成片流程](<https://mp.weixin.qq.com/s/lhI0YEDz6zAqH5eXI-D21w>)  
-  昆仑万维旗下 SkyProduction 天工工作台正式推出「营销工作室」，将 AI 创作能力拓展至商业广告与营销内容生产场景。产品整合创意案例库、营销 Skill、AI Agent 与可视化画布，覆盖短剧带货、TVC 广告片、UGC 种草、爆款视频复刻等场景，并支持爆款素材裂变生成多版本广告、商品视觉物料一站式生成，以及视频翻译与多渠道画幅适配。  
-  公众号：昆仑万维（天工） · 2026-11-19 14:14
-
-- [InteraOne](<https://www.producthunt.com/products/interaone>)  
-  Open-source Intercom &amp; Zendesk alternative with AI agents  
-  Product Hunt · English · 2026-11-19 14:13
-
-- [Volcano](<https://www.producthunt.com/products/volcano-3>)  
-  The self-healing agent cloud by Kong  
-  Product Hunt · English · 2026-11-19 14:11
-
-- [Storipod获得战略投资](<https://www.itjuzi.com/investevent/14708229>)  
-  Storipod是一家叙事内容创作与分发平台，面向非洲作家、出版社、影视工作室与品牌，搭建覆盖内容入库、版权管控、多端分发、商业化变现的一体化基础设施，支持图书、连载故事、漫画等故事类 IP 运营，自研 AI 语音朗读与推荐匹配能力，…  
-  IT桔子 · 2026-11-19 14:01
-
-- [镁伽完成近2亿美元新一轮融资](<https://www.itjuzi.com/investevent/14708194>)  
-  镁伽科技是中国机器人技术应用领域领先的自主智能体（Autonomous agents）提供商，致力于为智慧实验室与智能制造场景提供全面的自主智能体及多智能体解决方案。我通过高度智能化的软硬件系统，推动行业加速迈向高效、精准、可持续的智…  
-  IT桔子 · 2026-11-19 13:36
-
-- [英伟达收紧对云厂商的采购担保，需通过融资与验收才生效](<https://www.ithome.com/1/029/268.htm>)  
-  据 The Verge 报道，英伟达在最新财报电话会上收紧对 AI 公司的支持门槛，临时首席执行官科莱特·克雷斯（Colette Kress）表示，对新云（neocloud）厂商的采购担保只有在对方完成融资、建成数据中心、部署算力并通过英伟达验收后才生效，建设延期或受阻则担保不再存在。  
-  IT之家·人工智能 · 2026-11-19 13:08
-
-- [消息称 OpenAI 手机组装订单花落富士康旗下富智康](<https://www.ithome.com/1/029/267.htm>)  
-  据证券时报报道，富士康旗下富智康集团获得 OpenAI 手机项目订单，将承担整机组装；每日经济新闻援引供应链消息称，OpenAI 首款 AI 硬件计划于 2026 年底启动出货，立讯精密独家承担整机制造并供应核心零部件。此前传闻称该设备由 OpenAI 与 Jony Ive 的 LoveFrom 合作开发，可能是一款无屏设备，定价或在 300 至 400 美元区间，均未获官方确认。  
-  IT之家·人工智能 · 2026-11-19 13:01
-
-- [彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲](<https://www.ithome.com/1/029/265.htm>)  
-  彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。  
-  IT之家·人工智能 · 2026-11-19 12:49
-
-- [Nutrient Data Extraction API 支持按 JSON Schema 提取并附带逐字段引用与置信度](<https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/>)  
-  Nutrient（原 PSPDFKit）的 Data Extraction API 将 PDF、扫描件、图片和 Office 文件解析为空间 JSON 或 Markdown，每个字段附页码、边界框、match 标签和置信度。  
-  MarkTechPost（RSS） · 2026-11-19 11:23
-
-- [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
-  无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
-  IT桔子 · 2026-11-19 11:15
-
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 24 页
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 25 页

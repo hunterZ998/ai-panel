@@ -2,21 +2,25 @@
 
 [返回面板](../README.md) · [上一页](model-3.md) · [下一页](model-5.md) · 第 4 / 7 页
 
+- [腾讯财报：WorkBuddy 日活跃用户超 1000 万，成为中国日均 Token 用量最高的 AI 产品](<https://www.ithome.com/1/028/914.htm>)  
+  腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
+  IT之家·人工智能 · 2026-11-18 16:52
+
+- [Ai2 与 Taylor Geospatial 合作，让地理空间 AI 更易比较、运行和构建](<https://allenai.org/blog/taylor-geospatial-partnership>)  
+  Ai2 与 Taylor Geospatial 在 SatSummit 上宣布合作，共同推进地理空间 AI 的构建、测试与落地。合作产出包括用于模型比较的 The World 基准、带无代码微调平台的完全开源地球观测模型系列 OlmoEarth，以及扩展后支持更高边界精度和作物类型、产量的 Fields of The World 开放数据集。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-18 16:00
+
+- [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
+  作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
+  公众号：卡尔的AI沃茨 · 2026-11-18 11:52
+
+- [AMD 完成对 Taalas 的收购，计划将其 AI 推理芯片技术整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
+  AMD 当地时间昨日宣布完成对专用 AI 推理芯片开发商 Taalas 的收购，表示此举将加强其全栈 AI 产品组合和长期推理路线图。AMD 计划将 Taalas 技术整合进加速器路线图，结合 Instinct GPU 共同开发系统级解决方案。Taalas 采用把 AI 模型固化到 ASIC 上的路线，针对特定模型工作负载优化，牺牲通用性以显著提升推理效率。  
+  IT之家·人工智能 · 2026-11-18 10:06
+
 - [Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70\~78 美元](<https://www.ithome.com/1/028/599.htm>)  
   根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。  
   IT之家·人工智能 · 2026-11-18 08:12
-
-- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
-  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
-  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
-
-- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
-  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
-  vLLM 官方博客（RSS） · 2026-11-18 08:00
-
-- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
-  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
-  Gemini API：更新日志（网页） · 2026-11-18 08:00
 
 - [二十年逆向工程老手分享 LLM 辅助逆向工作流与开源 Agent 技能](<https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering>)  
   一位有二十年软硬件逆向经验的老手分享其 LLM 辅助逆向工作流，使用 DeepSeek v4.1 Flash 配合 Ghidra MCP bridge、radare2 和 kuna，让 Agent 分析二进制结构并把发现写入 MD 文件避免跑偏。  
@@ -29,6 +33,18 @@
 - [在 32GB Mac 上运行 180B MoE：Transformers 专家流式加载实战与 Strata 对比](<https://huggingface.co/blog/moe-expert-streaming>)  
   作者在 Transformers 中实现 MoE 专家权重流式加载，让 Qwen3.8-Flash-Next（121GB FP8 专家权重）能在 32GB 内存 MacBook 上运行，方法是将专家量化到 3bit 存盘、用槽位池缓存配合 grouped\_mm，并通过预取和 Metal 内核优化。  
   Hugging Face 官方团队博客 · 2026-11-18 08:00
+
+- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
+  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
+  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
+
+- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
+  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
+  vLLM 官方博客（RSS） · 2026-11-18 08:00
+
+- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
+  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
+  Gemini API：更新日志（网页） · 2026-11-18 08:00
 
 - [微软发布 Microsoft-Decision-1.1 决策模型，基准得分领先 GPT-6 Luna 与 Gemini](<https://www.ithome.com/1/028/593.htm>)  
   微软于 11 月 17 日正式推出 Microsoft-Decision-1.1 决策 AI 模型，已在 Microsoft Foundry、OpenRouter 和 Vercel 上线，面向路由、分类、优先级排序、内容核验和工作流控制等企业决策场景。  
@@ -165,21 +181,5 @@
 - [Cerebral Valley AI 峰会精华：算力成本、开源权重模型与 Nvidia 变局](<https://www.newcomer.co/p/top-takes-from-cvai-2026>)  
   Newcomer 梳理了上周 Cerebral Valley AI 峰会的核心观点，Databricks 的 Ali Ghodsi、Palo Alto Networks 的 Nikesh Arora 与 General Catalyst 的 Hemant Taneja 等嘉宾围绕算力成本展开讨论。  
   Newcomer 新闻长文（RSS） · 2026-11-17 22:33
-
-- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
-  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
-  NVIDIA Blog（RSS） · 2026-11-17 22:00
-
-- [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
-  O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
-  O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
-
-- [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
-  ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
-  ChinaTalk（RSS） · 2026-11-17 19:03
-
-- [Sarvam 开放 Token Factory：在印度本地托管 8 个开源模型的推理平台](<https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/>)  
-  Sarvam 向所有开发者开放 Token Factory，通过统一的 OpenAI 兼容 API 从印度 GPU 集群提供 Sarvam 105B、GLM 5.3、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro 等 8 个开源权重模型。  
-  MarkTechPost（RSS） · 2026-11-17 17:51
 
 [返回面板](../README.md) · [上一页](model-3.md) · [下一页](model-5.md) · 第 4 / 7 页

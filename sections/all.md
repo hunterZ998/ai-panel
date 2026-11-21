@@ -1,172 +1,174 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 24 页
+[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 25 页
 
-完整公开资讯，共 1077 条。
+完整公开资讯，共 1087 条。
 
-- [苹果也要有自己的AI智能体！最早2027年上Mac](<https://www.163.com/dy/article/LC8PC0HO0511CPVM.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 12:14
+- [WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去](<https://36kr.com/p/4079476599772038?f=rss>)  
+  “在行动和言说中，人们表明了他们是谁。” 汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。 2026年，这些词正在落到具体的人身上。 创业者带着各自的技术  
+  36氪 · 2026-11-21 20:44
 
-- [“单人成军”落地盐城：OPC社区撬动长三角AI新节点](<https://www.163.com/dy/article/LC8P2J49053469KC.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 12:09
+- [清华博士做了一款 AI 懒人办公神器，30 天众筹 130 万美元](<https://www.163.com/dy/article/LC9LEH6505119FMA.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 20:25
 
-- [马上评｜AI证明黎曼猜想，数学家该恐慌吗？](<https://www.163.com/dy/article/LC8P2J490514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 12:09
+- [Thinking Machines 发布开源循环 MoE 模型 Inkling 2 Mini，26.4B 参数可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、激活 3.4B，中间层权重每 token 复用 3 次，checkpoint 约 20GB，可在 32GB 内存 Mac 或 1 台 NVIDIA DGX Spark 上运行。  
+  MarkTechPost（RSS） · 2026-11-21 20:13
 
-- [深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元](<https://36kr.com/p/4078935983182722?f=rss>)  
-  智东西11月21日消息，一夜之间，美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%，Anthropic暴跌9%，甲骨文、SpaceX、特斯拉暴跌8%，M  
-  36氪 · 2026-11-21 12:08
+- [“两院一湾”人工智能人才需求清单发布](<https://www.163.com/dy/article/LC9KDVQR053469M5.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 20:07
 
-- [谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆](<https://36kr.com/p/4078984519750789?f=rss>)  
-  谷歌内部，或许真正实现了RSI！ 从此，Gemini已能「继承经验」持续自我进化，Gemini新模型不再从零开始！ 或许也正是这个原因，谷歌最近跟疯了似的不停发模型。 Gemini 4 Hydrogen才发布不到一周，更强的Gemini 4  
-  36氪 · 2026-11-21 12:06
+- [Anthropic数学家宣称借助AI证明黎曼猜想，菲尔兹奖得主：验证仍需要时间](<https://www.163.com/dy/article/LC9JRI4V051481US.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:57
 
-- [马斯克：也许该给亚马逊添个对手，网友连名字都起好了](<https://36kr.com/p/4078984565003138?f=rss>)  
-  AI刚学会替你干活，亚马逊、摩根大通、嘉信理财就开始堵门了！ 10月18日，@trikcode在X上列出了一份「AI碰壁清单」，点名达美航空、摩根大通、嘉信理财、Yelp和亚马逊。 他吐槽： 那些本该替我们搞定一切的AI智能体，开始被互联网  
-  36氪 · 2026-11-21 12:05
+- [当AI遇上数字广告：普陀数字广告国家级园区首秀长三角文博会](<https://www.163.com/dy/article/LC9JDLRL055040N3.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:49
 
-- [谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆](<https://www.163.com/dy/article/LC8OA88T0511ABV6.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 11:56
+- [OpenAI 在 API 上线 GPT-Live-1.1 语音模型，闲置成本降至 $0.02/分钟](<https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/>)  
+  OpenAI 将全双工语音模型 GPT-Live-1.1 开放进 API（模型 ID gpt-live-1.1），默认 128K 上下文，仅限 OpenAI 云端通过 v1/live/sessions 部署，客户端经 WebRTC 或 WebSocket 连接。  
+  MarkTechPost（RSS） · 2026-11-21 19:46
 
-- [从“刷分”打到“补缝”，机器人新竞赛升温](<https://www.163.com/dy/article/LC8O318S05118O92.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 11:52
+- [前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足](<https://www.ithome.com/1/030/464.htm>)  
+  IT之家 11 月 21 日消息，据 Wccftech 报道，前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）表示，随着人工智能需要“ 10,000 倍的效率飞跃 ”，渐进式的芯片增益将无法满足需求，他同时否认了摩尔定…  
+  IT之家 · 2026-11-21 19:43
 
-- [跑不通“快餐模式”，陪伴机器人得熬出“人情味”](<https://www.163.com/dy/article/LC8O1T8A05118O92.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 11:51
+- [刚刚，曝黎曼猜想被证明，Claude 立大功](<https://www.163.com/dy/article/LC9IP49005118O8G.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:38
 
-- [深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元](<https://www.163.com/dy/article/LC8NKKOL051180F7.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 11:44
+- [美股一夜崩盘，AI 泡沫真要破了？](<https://www.163.com/dy/article/LC9IP47U05118O8G.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:38
 
-- [从“刷分”打到“补缝”，机器人新竞赛升温](<https://www.tmtpost.com/8213064.html>)  
-  技术有突破，落地缺接口  
-  钛媒体 · 2026-11-21 11:43
+- [2026年了，AI能有什么用？](<https://www.163.com/dy/article/LC9I4U5H05118O92.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:27
 
-- [做科学家创业路上的“一致行动人”—— 从一间工位到一桌夜话，海淀“接得住”科学家的每一步](<https://www.tmtpost.com/8213414.html>)  
-  11月18日，未名·AIPark人工智能创新街区在北大西门旁正式揭牌。依托中关村国际创新大厦、未来科技大厦两大核心载体，这个“从实验室到公司”的新空间开门迎客——教授在实验室里做出成果，出门走一公里，就能找到拎包入驻的办公室，还能对接…  
-  钛媒体 · 2026-11-21 11:43
+- [前英伟达AI应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖](<https://www.163.com/dy/article/LC9I4M1V0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:27
 
-- [跑不通“快餐模式”，陪伴机器人得熬出“人情味”](<https://www.tmtpost.com/8212950.html>)  
-  陪伴机器人得靠记忆与服务养出来。  
-  钛媒体 · 2026-11-21 11:43
+- [2026年了，AI能有什么用？](<https://www.tmtpost.com/8213527.html>)  
+  AI能批量生成，不等于能出彩  
+  钛媒体 · 2026-11-21 19:21
 
-- [90后数学家宣称与Claude证明黎曼猜想](<https://www.163.com/dy/article/LC8NBVN50519DDQ2.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 11:39
+- [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](<https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/>)  
+  Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。  
+  The Decoder：AI News（RSS） · 2026-11-21 19:19
 
-- [孙正义曾考虑万亿美元收购 SK 海力士？软银回应：已不再积极考虑](<https://www.ithome.com/1/030/339.htm>)  
-  IT之家 11 月 21 日消息，据《The Information》今日报道，软银集团董事长兼 CEO 孙正义近期曾接洽华尔街金融机构，探讨为收购韩国 SK 海力士筹集资金，潜在交易规模高达 1 万亿美元 （IT之家注：现汇率约合…  
-  IT之家 · 2026-11-21 11:31
+- [【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地](<https://www.tmtpost.com/8213535.html>)  
+  （11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkB…  
+  钛媒体 · 2026-11-21 19:19
 
-- [腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型](<https://www.ithome.com/1/030/338.htm>)  
-  IT之家 11 月 21 日消息，11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。 问答环节，有人询问：…  
-  IT之家 · 2026-11-21 11:24
+- [前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖](<https://www.ithome.com/1/030/459.htm>)  
+  IT之家 11 月 21 日消息，据《商业内幕》，现年 43 岁、曾与黄仁勋共事三年半的前英伟达 AI 应用软件产品管理总监贾马尔，讲述了自己近距离观察黄仁勋及与其共事的经历。 IT之家附上全文大意如下： 在英伟达，黄仁勋与员工保持密…  
+  IT之家 · 2026-11-21 19:10
 
-- [外卖翻篇，阿里把钱砸向AI](<https://www.tmtpost.com/8213142.html>)  
-  电商利润修复，AI投入加速。  
-  钛媒体 · 2026-11-21 11:01
+- [AI进入课堂、学龄人口持续下降，基础教育课程改革如何答新题](<https://www.163.com/dy/article/LC9GV3DS055040N3.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:06
 
-- [Muse负责人首次公开对谈：七个月，从玩具到1000万下载](<https://www.tmtpost.com/8213062.html>)  
-  超级AI应用概念背后的产品思考。  
-  钛媒体 · 2026-11-21 11:01
+- [AI证明黎曼猜想？2026年菲尔兹奖得主邓煜：在可读版本出现以前，不评论](<https://www.163.com/dy/article/LC9GQT3T051492T3.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 19:04
 
-- [拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件](<https://www.ithome.com/1/030/333.htm>)  
-  IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称在 Ignite 2026 活动中，微软展示 Copilot“本地文件操作”功能， 在征得用户授权后可以查找、分类、移…  
-  IT之家 · 2026-11-21 10:59
+- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
+  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
+  The a16z Show · 2026-11-21 19:00
 
-- [DeepSeek首位创业者，公开了](<https://36kr.com/p/4078868729599110?f=rss>)  
-  一位DeepSeek早期核心成员，创业了。 11月19日，DeepSeek-VL前项目负责人张博（Tony Zhang）宣布，其创办的AI公司Simplex AI正式开源个人智能体产品Linger。这款产品能在用户自己的电脑上运行，替人操作  
-  36氪 · 2026-11-21 10:50
+- [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
+  Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
+  The Decoder：AI News（RSS） · 2026-11-21 18:33
 
-- [25万页证明，黎曼猜想被AI“解决”了吗？](<https://36kr.com/p/4078902157185920?f=rss>)  
-  2026 年 11 月，Anthropic 数学家阿尔珀格宣称与 Claude 合作找到了黎曼猜想的证明。这项主张引发数学界关注，相关核验仍在进行丨vectorfusionart / Shutterstock 2026年11月20日，在人工  
-  36氪 · 2026-11-21 10:49
+- [美股科技股遭遇疫情以来最差单周表现，Nasdaq 100 周跌 10.4%](<https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/>)  
+  美国科技股大跌，Nasdaq 100 周五下跌 5.6%，全周累计下跌 10.4%，为新冠疫情以来最差单周表现，较 10 月高点回落 20% 进入熊市区间。  
+  The Decoder：AI News（RSS） · 2026-11-21 18:27
 
-- [东南亚AI中间商之死](<https://36kr.com/p/4078301371406215?f=rss>)  
-  2015年，一家名叫7 Road International的公司在新加坡注册。 最初几年，它并不起眼。谁也不会想到，十年后，这家公司会成为英伟达先进AI芯片供应链上一个引人注目的名字。 2023年，公司更名为Megaspeed Inter  
-  36氪 · 2026-11-21 10:48
+- [China Plans to Strengthen AI Token Standards in Computing Push](<https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push>)  
+  Bloomberg · 2026-11-21 18:11
 
-- [AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”](<https://www.tmtpost.com/8213381.html>)  
-  “黑色星期五”。  
-  钛媒体 · 2026-11-21 10:27
+- [华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等](<https://www.ithome.com/1/030/423.htm>)  
+  IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大…  
+  IT之家 · 2026-11-21 17:57
 
-- [近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密](<https://www.ithome.com/1/030/322.htm>)  
-  IT之家 11 月 21 日消息，科技媒体 Ars Technica 今天（11 月 21 日）发布博文，报道称安全公司 Dragos 首席研究官 HD Moore 向多家 AI 服务商发送近 200 万条带有可追踪“诱饵”的请求，…  
-  IT之家 · 2026-11-21 10:03
+- [美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”](<https://www.ithome.com/1/030/421.htm>)  
+  IT之家 11 月 21 日消息，据英国《卫报》报道，美国参议员罗恩 · 怀登、埃德 · 马基和本 · 卢汉指出，苹果和谷歌未能有效识别或下架用于生成未经当事人同意的裸照或色情图像的应用。 三人还指出，Meta 仍在从这些所谓的 AI…  
+  IT之家 · 2026-11-21 17:22
 
-- [The Brother-Sister Duo Who Want to Keep Anthropic Weird](<https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-21 10:00
+- [字节跳动称多数 AI 训练阶段并非必要，并以一个有竞争力的开源模型佐证](<https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/>)  
+  字节跳动联合多所美国高校发表论文，主张 AI 模型训练只需三个步骤即可，无需堆叠众多训练阶段。研究团队用一个具备竞争力的开源模型验证了这一观点。论文指出，当前训练流程层层嵌套，已难以判断哪一步真正有效，且复现成本高昂。  
+  The Decoder：AI News（RSS） · 2026-11-21 17:17
 
-- [OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%](<https://www.ithome.com/1/030/319.htm>)  
-  IT之家 11 月 21 日消息，当地时间 11 月 20 日，OpenAI 发布公告介绍了针对「对抗性蒸馏」（Adversarial Distillation）的防御措施。 OpenAI 称其已加强 GPT-6.2 Astra 和…  
-  IT之家 · 2026-11-21 09:45
+- [How AI Is Reshaping China's Industrial Policy](<https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video>)  
+  Bloomberg · 2026-11-21 17:12
 
-- [Edge AI Daily 早报（11月21日）](<https://www.tmtpost.com/8213305.html>)  
-  苹果以Siri争夺系统级代理入口，OpenAI将ChatGPT改为多模块工作台，微软用USB4 RDMA聚合多机算力，谷歌直采HBM重构TPU供应链。亚洲股市创2020年3月以来最大单周跌幅，AI支出进入回报审计。  
-  钛媒体 · 2026-11-21 09:19
+- [代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知](<https://www.ithome.com/1/030/419.htm>)  
+  IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载…  
+  IT之家 · 2026-11-21 16:53
 
-- [9点1氪丨黄仁勋或将创办新公司；水贝金价一度跌破800元/克；纳指100进入技术性熊市](<https://36kr.com/p/4078827757310856?f=rss>)  
-  今日热点导览 上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量 英伟达市值被谷歌超越 12306重磅升级通知服务 马斯克试图与MAGA阵营切割 段永平：好公司未必要上市，字节6000亿美元估值下我会有兴趣 A股三大指数集体收跌，  
-  36氪 · 2026-11-21 09:19
+- [国家数据局：将拓展词元服务应用场景，健全词元计量计费与质量测评标准](<https://www.ithome.com/1/030/418.htm>)  
+  国家数据局局长刘烈宏在 2026 世界计算大会开幕式上表示，词元打通了算力、模型、数据间的价值传导链路，成为数智经济的价值锚点。下一步国家数据局将积极拓展词元服务应用场景，健全词元计量计费、质量测评等标准规范，引导行业规范发展，坚决避免低质量重复建设。  
+  IT之家·人工智能 · 2026-11-21 16:51
 
-- [黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！](<https://36kr.com/p/4078708897092744?f=rss>)  
-  智东西11月21日报道，昨夜，Anthropic数学家莱文特·阿尔珀格（Levent Alpöge）在个人网站上发布声明， 宣称自己与Claude合作，找到了黎曼猜想及其更强版本——广义黎曼猜想（GRH）的证明方法。 ▲阿尔珀格发��的声明  
-  36氪 · 2026-11-21 09:06
+- [蔚来官宣 NWM 3.0 世界模型，11 月 25 日在 NIO IN 2026 蔚来创新科技日发布](<https://www.ithome.com/1/030/410.htm>)  
+  IT之家 11 月 21 日消息，蔚来今日宣布，在即将于 11 月 25 日举办的 NIO IN 2026 蔚来创新科技日上， 将正式发布 NWM 3.0 世界模型 。 官方表示，NWM 3.0 将会在 模型架构、闭环训练、跨域融合…  
+  IT之家 · 2026-11-21 16:33
 
-- [AI供电前史： 照明、汽车与工业电子如何汇入算力基础设施](<https://36kr.com/p/4078758591960197?f=rss>)  
-  2008年北京奥运会，国家游泳中心“水立方”在夜色中变成了一块巨大的蓝色发光体。支撑这幅科技奥运景观的，是当时仍在快速产业化的发光二极管（LED）照明。对观众来说，这是一个醒目的城市景观；对产业来说，它是中国半导体照明产业交上的一份应用验证  
-  36氪 · 2026-11-21 09:05
+- [韩国首次利用紧急灾难通知“0 级短信”打击 AI 辅助作弊行为，成功在高考中抓获 54 名违规考生](<https://www.ithome.com/1/030/387.htm>)  
+  IT之家 11 月 21 日消息，据《韩国先驱报》报道，韩国教育部在 2027 学年度大学修学能力考试（韩国高考）中，首次利用紧急灾难通知“0 级短信”协助打击考试作弊行为，以此成功抓获 54 名违规考生。连同其他检查手段在内，累计有…  
+  IT之家 · 2026-11-21 16:10
 
-- [腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考](<https://36kr.com/p/4078768364754050?f=rss>)  
-  智东西11月21日报道，今天凌晨， 腾讯混元团队 在社交媒体平台Reddit举行了一场AMA活动，与全球开发者 围绕Hy4系列模型展开交流 。 姚顺雨也出现在了评论区 ，只是哪个是他的马甲我们不得而知。 ▲姚顺雨在X预告本次Reddit A  
-  36氪 · 2026-11-21 09:04
+- [马化腾第四次改腾讯AI航道](<https://www.tmtpost.com/8213477.html>)  
+  老板得付第一责任  
+  钛媒体 · 2026-11-21 15:55
 
-- [“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家](<https://www.ithome.com/1/030/308.htm>)  
-  IT之家 11 月 21 日消息，11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 Tao Lin 预测到 2027 年年底，在编程、电影制作等几乎所有领域， 人工智能（AI）…  
-  IT之家 · 2026-11-21 08:53
+- [29岁，一位字节女将爆红](<https://36kr.com/p/4079215849673865?f=rss>)  
+  天才少女的故事轮到了字节。 曾妍，字节Seed团队中一位几乎没有公开露面的研究员。她生于1997年，现在是Seedance预训练负责人，主导Seedance 2.0预训练管线。这几天盛传，曾妍晋升为Seedance核心的管理者，从Seed视  
+  36氪 · 2026-11-21 15:54
 
-- [Anthropic Researcher Claims to Solve Riemann Problem With Claude](<https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude>)  
-  Bloomberg · 2026-11-21 08:17
+- [微软回应 To Do 待办应用明年停服，承诺帮用户“平稳过渡”](<https://www.ithome.com/1/030/385.htm>)  
+  IT之家 11 月 21 日消息，科技媒体 NeoWin 今天（11 月 21 日）刊发来自微软 AI 和智能体产品总监霍华德 · 克劳（Howard Crow）， 回应旗下任务管理应用 Microsoft To Do 停运事件 。…  
+  IT之家 · 2026-11-21 15:54
 
-- [Wall Street Week \| Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI](<https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video>)  
-  Bloomberg · 2026-11-21 08:13
+- [Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern](<https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets>)  
+  Bloomberg · 2026-11-21 15:53
 
-- [OpenAI 推出 MedChemBench 基准，评估 AI 辅助药物研发能力](<https://www.ithome.com/1/030/301.htm>)  
-  IT之家 11 月 21 日消息，当地时间 11 月 20 日，OpenAI 发布 MedChemBench 基准，用于评估 AI 模型在药物化学研究中的推理能力，包括识别分子结构、解读实验结果、比较化合物及预测其性质等。OpenAI…  
-  IT之家 · 2026-11-21 08:06
+- [谷歌为 Gemini 上线 GIF 动态图片生成功能，由 Omni 1.2 Flash 模型驱动](<https://www.ithome.com/1/030/381.htm>)  
+  IT之家 11 月 21 日消息，谷歌宣布为 Gemini 上线 GIF 生成功能，相应功能由视频模型 Gemini Omni 1.2 Flash 驱动，可生成循环动态图效和搞笑表情包。 该功能面向所有 Google AI 订阅用户开…  
+  IT之家 · 2026-11-21 15:41
 
-- [黎曼猜想真被 Claude 证明了？Anthropic 数学家仅发布 Lean 代码，陶哲轩称验证仍需时间](<https://www.ithome.com/1/030/297.htm>)  
-  IT之家 11 月 21 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣称他与 Claude 合作，发现了黎曼猜想及其推广形式广义黎曼猜想（GRH）的证明。 阿尔珀…  
-  IT之家 · 2026-11-21 07:40
+- [Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途](<https://www.ithome.com/1/030/379.htm>)  
+  IT之家 11 月 21 日消息，Nothing 发文，预热旗下首款 AI 原生硬件设备将于 12 月 8 日正式亮相。这款产品将采用无屏幕设计，定位为面向日常办公与生产力场景的 AI 工具。 从 此前公布的预热图片 来看，这款设备采…  
+  IT之家 · 2026-11-21 15:28
 
-- [IT早报 1121：5499 元起华为 OSTA O1 Pro 发布；腾讯因仙逆盗版起诉百度索赔 1 亿元；官方回应零跑 A10 被几箱啤酒压塌后备箱...](<https://www.ithome.com/1/030/294.htm>)  
-  “IT早报”时间，大家好，现在是 2026 年 11 月 21 日星期六，今天的重要科技资讯有： 1. 5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布 新机采用 6.39 英寸 1.5…  
-  IT之家 · 2026-11-21 07:28
+- [“大空头”迈克尔 · 伯里谈 AI 股暴跌：我早就提醒过你们了](<https://www.ithome.com/1/030/378.htm>)  
+  IT之家 11 月 21 日消息，“大空头”迈克尔 · 伯里在 X 平台发文称：“CoreWeave、Nebius、英伟达，还有半导体股，我都试着提醒过大家。我没让你们做空，但我提供的信息 足以让你们决定卖出股票 。” 当地时间 20…  
+  IT之家 · 2026-11-21 15:28
 
-- [Tony Wang on CrowdStrike-Zscaler Deal, AI Trade](<https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video>)  
-  Bloomberg · 2026-11-21 07:27
+- [手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作](<https://www.ithome.com/1/030/364.htm>)  
+  IT之家 11 月 21 日消息，智元创新（AGIBOT）与蓝思科技达成战略合作， 于手机测试产线部署智元精灵 G2 机器人 ，数十台机器人同时进行测试工位自动上下料、测试设备交互等工作。 据介绍，精灵 G2 可实现手机产品全自动转运…  
+  IT之家 · 2026-11-21 14:39
 
-- [Anthropic Mathematician Says He Proved Riemann Hypothesis](<https://www.theinformation.com/briefings/anthropic-mathematician-says-proved-riemann-hypothesis>)  
-  The Information · 2026-11-21 07:24
+- [Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑](<https://36kr.com/p/4079074198705280?f=rss>)  
+  北京时间11月20日凌晨，AI大模型巨头Anthropic正式登陆纳斯达克，IPO募资约为813亿美元，加上完成的260亿美元私募配售，整体募资规模达1073亿美元，打破此前由SpaceX保持的全球IPO募资纪录。 上市首日，Anthrop  
+  36氪 · 2026-11-21 14:16
 
-- [匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品](<https://www.ithome.com/1/030/291.htm>)  
-  IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Design Benchmark。 其中，一款代号为 Gestalt、目前处于隐身开发状态（Ste…  
-  IT之家 · 2026-11-21 07:17
+- [腾讯混元团队 Reddit AMA 实录：谈 Hy4 路线、架构取舍与开源安全](<https://mp.weixin.qq.com/s/LHZxKjzVkEpnsCDcNlaMXw>)  
+  混元团队于 11 月 21 日在 Reddit 举办 AMA，回应 Hy4 与 Hy4 flash 开源后的社区提问，共收到 300 多条留言。  
+  公众号：腾讯混元 · 2026-11-21 13:51
 
-- [Baseten 发布 bison-1 与 groundhog-1 决策模型：基于 Gemma 4、128k 上下文、开放权重](<https://labs.baseten.co/articles/bison-1-and-groundhog-1-frontier-american-backbone-decision-models>)  
-  Baseten 推出基于 Google Gemma 4 的决策模型 bison-1 和 groundhog-1，支持 128k 上下文与文本、图像输入，权重已在 Hugging Face 和 Baseten Model API 开放。  
-  Baseten Base Labs：模型研究 · 2026-11-21 06:59
+- [Anthropic 上市后 7 位联合创始人靠 F 类股共同掌握 50.1% 投票权](<https://www.ithome.com/1/030/348.htm>)  
+  据 Business Insider 报道，Anthropic 上市后通过特殊股权设计，让包括 CEO Dario Amodei 在内的 7 位联合创始人共同掌握 50.1% 股东投票权。  
+  IT之家·人工智能 · 2026-11-21 13:14
 
-- [Hindlian Advisory CEO on AI &amp; Anthropic Market Sell-off](<https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video>)  
-  Bloomberg · 2026-11-21 06:58
+- [锡价一周跌超10%，全球突然不缺锡了？](<https://www.tmtpost.com/8213240.html>)  
+  印尼矿业政策再添变数，产能恢复与AI需求预期分歧扰动锡价。  
+  钛媒体 · 2026-11-21 13:05
 
-- [OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑](<https://www.ithome.com/1/030/288.htm>)  
-  IT之家 11 月 21 日消息，OpenAI 今日宣布向 ChatGPT Plus 订阅用户开放 Spaces 协作空间功能。 该功能此前仅面向 Pro、Business 和 Enterprise 等付费方案用户提供，现在每月支付…  
-  IT之家 · 2026-11-21 06:57
+- [东南亚AI中间商之死](<https://www.tmtpost.com/8213274.html>)  
+  算力中间商的淘金时代，结束了。  
+  钛媒体 · 2026-11-21 13:05
 
-- [Opinion \| The AI Correction Trade Arrives](<https://www.wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-21 06:55
+- [Seedance、MiniMax和Qwen image修改能力测试：3轮连改，谁更好用？](<https://www.tmtpost.com/8213159.html>)  
+  看看谁更听指挥  
+  钛媒体 · 2026-11-21 13:05
 
-- [谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题](<https://www.ithome.com/1/030/287.htm>)  
-  IT之家 11 月 21 日消息，谷歌搜索产品副总裁罗比 · 斯坦（Robby Stein）昨日（11 月 20 日）在 X 平台发布推文，宣布 Google Search 首页将迎来新一轮调整， 面向全球桌面端逐步推出可折叠侧边栏，…  
-  IT之家 · 2026-11-21 06:53
+- [Anthropic 数学家 Levent Alpöge 声称与 Claude 合作证明黎曼猜想，同日现独立人类证明](<https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/>)  
+  Latent Space 汇总报道，Anthropic 数学家 Levent Alpöge 声称在与 Claude 合作下证明黎曼猜想，方法还覆盖广义黎曼猜想（GRH），仅发布 Lean 代码，散文版约 250,000 页；Elliot Glazer 确认形式化陈述为 GRH，并将 Lean 出错概率估计远低于 1%。  
+  Latent Space（RSS） · 2026-11-21 13:02
 
-[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 24 页
+[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 25 页

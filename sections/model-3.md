@@ -2,6 +2,22 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 7 页
 
+- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
+  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
+  IT桔子 · 2026-11-19 17:52
+
+- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
+  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
+  IT桔子 · 2026-11-19 17:52
+
+- [Gartner 预测 2027 年全球 AI 支出将达 4.05 万亿美元，同比增长 47.5%](<https://www.ithome.com/1/029/546.htm>)  
+  Gartner 于本月 12 日发布预测，2027 年全球 AI 支出将达 4.05 万亿美元（约合 27.06 万亿元人民币），同比增长 47.5%。其中 AI 基础设施支出接近 2.4 万亿美元、增长 53%，AI 优化服务器支出 9572 亿美元、同比提升 81%；生成式 AI 模型支出提升 82% 至 510 亿美元，基础模型占其中超八成。  
+  IT之家·人工智能 · 2026-11-19 17:26
+
+- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
+  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
+  IT桔子 · 2026-11-19 16:18
+
 - [Google DeepMind 发布 Gemini 4 Neon，约七周内第四款 Gemini 4 模型](<https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/>)  
   Google DeepMind 发布 Gemini 4 Neon，为其约七周内的第四款 Gemini 4 模型，定价为每百万 token 输入 $3、缓存输入 $0.15、输出 $15，具备 1M token 上下文窗口和四档 effort 设置。  
   Latent Space（RSS） · 2026-11-19 15:07
@@ -165,21 +181,5 @@
 - [OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型](<https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/>)  
   Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。  
   Latent Space（RSS） · 2026-11-18 18:19
-
-- [腾讯财报：WorkBuddy 日活跃用户超 1000 万，成为中国日均 Token 用量最高的 AI 产品](<https://www.ithome.com/1/028/914.htm>)  
-  腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
-  IT之家·人工智能 · 2026-11-18 16:52
-
-- [Ai2 与 Taylor Geospatial 合作，让地理空间 AI 更易比较、运行和构建](<https://allenai.org/blog/taylor-geospatial-partnership>)  
-  Ai2 与 Taylor Geospatial 在 SatSummit 上宣布合作，共同推进地理空间 AI 的构建、测试与落地。合作产出包括用于模型比较的 The World 基准、带无代码微调平台的完全开源地球观测模型系列 OlmoEarth，以及扩展后支持更高边界精度和作物类型、产量的 Fields of The World 开放数据集。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-18 16:00
-
-- [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
-  作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
-  公众号：卡尔的AI沃茨 · 2026-11-18 11:52
-
-- [AMD 完成对 Taalas 的收购，计划将其 AI 推理芯片技术整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
-  AMD 当地时间昨日宣布完成对专用 AI 推理芯片开发商 Taalas 的收购，表示此举将加强其全栈 AI 产品组合和长期推理路线图。AMD 计划将 Taalas 技术整合进加速器路线图，结合 Instinct GPU 共同开发系统级解决方案。Taalas 采用把 AI 模型固化到 ASIC 上的路线，针对特定模型工作负载优化，牺牲通用性以显著提升推理效率。  
-  IT之家·人工智能 · 2026-11-18 10:06
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 7 页

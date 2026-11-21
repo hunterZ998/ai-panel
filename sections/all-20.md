@@ -1,6 +1,62 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-19.md) · [下一页](all-21.md) · 第 20 / 24 页
+[返回面板](../README.md) · [上一页](all-19.md) · [下一页](all-21.md) · 第 20 / 25 页
+
+- [开源盘古模型 openPangu-2.1-Pro 上线华为云，升级 Agent 开发、AI 编码与推理优化](<https://www.ithome.com/1/027/450.htm>)  
+  华为云 MaaS 平台正式上线开源盘古模型 openPangu-2.1-Pro，围绕 Agent 开发、AI 编码和推理优化三大方向升级，增强深度研究、鸿蒙系统操控、鸿蒙 App 开发与昇腾算子生成等场景能力。  
+  IT之家·人工智能 · 2026-11-15 21:16
+
+- [英伟达黄仁勋卸任、阿里芯片子公司赴港IPO、Qwen4-Max 首次亮相](<https://www.recodechinaai.com/p/nvidia-without-jensen-alibabas-chip>)  
+  英伟达宣布黄仁勋于11月11日卸任CEO及董事，CFO Colette Kress 出任临时CEO，董事会已就涉及其与英伟达中国业务的相关指控启动独立调查。阿里11月10日披露，芯片子公司 T-Head 已于9月11日以保密方式提交香港上市申请，发行条款尚未确定。阿里11月11日预览下一代 Qwen4 家族首款模型 Qwen4-Max，支持文本、图像、视频输入和100万 token 上下文窗口。  
+  Recode China AI（RSS） · 2026-11-15 21:06
+
+- [黄仁勋因婚外情风波辞任 Nvidia CEO](<https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation>)  
+  The Verge 周刊栏目梳理黄仁勋辞任 Nvidia CEO 事件：纽约时报 10 月 29 日报道他与 Megaspeed 高管 Alice Huang 关系密切。  
+  The Verge：AI（RSS） · 2026-11-15 21:00
+
+- [卡内基梅隆大学展示 OATs：给日常物品装上会撒娇的 AI 虚拟宠物](<https://www.ithome.com/1/027/443.htm>)  
+  卡内基梅隆大学博士生金大华在 UIST 2026 展示 OATs（物体智能体双生体）系统，用电子墨水屏为日常物品赋予能表达情绪的虚拟形象，主模块成本约 20 美元。系统通过内外传感器监测湿度、温度、光照和使用状态，角色形象由谷歌 Gemini 旗下 Nano Banana 生成，续航约 3 至 4 天。目前仍是概念验证，金大华尚未决定是否商业化。  
+  IT之家·人工智能 · 2026-11-15 20:43
+
+- [Sebastian Raschka 图解现代 LLM 的位置编码机制与 RoPE](<https://magazine.sebastianraschka.com/p/understanding-positional-embeddings>)  
+  Sebastian Raschka 发表长文教程，讲解 LLM 如何编码 token 位置信息，覆盖 GPT-2 的可学习绝对位置嵌入、原始 Transformer 的正弦编码、RoPE 的旋转机制，并配 PyTorch 实现。  
+  Ahead of AI（RSS） · 2026-11-15 20:10
+
+- [据称与黄仁勋前情人相关的公司为在华买家促成了近 120 亿美元 Nvidia 芯片订单](<https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/>)  
+  据 The Decoder 援引华尔街日报，Megaspeed 在 2024 年 3 月至 2025 年 6 月间为中国企业安排了近 120 亿美元的 Nvidia 高性能芯片订单，涉及数十万枚受美国出口管制限制的芯片。  
+  The Decoder：AI News（RSS） · 2026-11-15 19:35
+
+- [澳大利亚央行研究：AI 就业冲击最先落在年轻劳动者，软件客服岗位降幅最大](<https://www.ithome.com/1/027/432.htm>)  
+  据 THE DECODER 报道，澳大利亚储备银行研究显示，自 2022 年底 ChatGPT 推出以来各职业招聘量均下降，AI 影响程度最高的编程、文职和客服岗位降幅最大，15 至 24 岁年轻劳动者就业率更低、失业率更高。  
+  IT之家·人工智能 · 2026-11-15 19:03
+
+- [澳大利亚央行分析发现 AI 冲击集中在年轻劳动者，软件开发和客服岗位尤甚](<https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/>)  
+  澳大利亚央行（RBA）的分析构建了针对入门级岗位和高 AI 暴露职业的监测系统，发现自 ChatGPT 于 2022 年底发布以来各岗位招聘均有下降，其中暴露度最高组降幅最大，15 至 24 岁工人和年轻大学毕业生就业率更弱、失业率更高。  
+  The Decoder：AI News（RSS） · 2026-11-15 18:45
+
+- [Gartner 预测到 2030 年 AI 将使全球净增约 170 万个工作岗位](<https://www.ithome.com/1/027/427.htm>)  
+  Gartner 预测 2025 至 2030 年间 AI 将在全球创造 1060 万个新岗位、取代 890 万个岗位，净增约 170 万个。分析师 John Lovelock 表示企业目前处于观望阶段，超过 20% 即约 4.355 亿劳动者需适应 AI 带来的工作方式变化，政府部门更易出现岗位流失，服务业则可能因收益增加而扩招。  
+  IT之家·人工智能 · 2026-11-15 18:27
+
+- [谷歌 Project Zero 宣布将分阶段把漏洞披露期限从 90 天缩短至 30 天](<https://www.ithome.com/1/027/423.htm>)  
+  谷歌 Project Zero 于当地时间 11 月 13 日发布全新漏洞披露政策，称 AI 辅助漏洞挖掘与利用技术的兴起使现有 90+30 天政策难以适应需求。  
+  IT之家·人工智能 · 2026-11-15 18:12
+
+- [前 OpenAI 研究员 Paul Christiano 称 AI 失控可能是当代人最可能的死因](<https://www.ithome.com/1/027/419.htm>)  
+  前 OpenAI 研究员、人工智能对齐研究中心负责人 Paul Christiano 在希尔顿讲座上表示，在座大多数人最可能的死因将是一次 AI 意外事故，并称未来三年内发生 AI 接管事件的风险很高。  
+  IT之家·人工智能 · 2026-11-15 18:09
+
+- [Bland 发布 Tofu-1 全双工语音到语音通话模型](<https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/>)  
+  Bland 发布全双工语音到语音模型 Tofu-1，处于研究预览阶段，面向车载、病房和弱信号线路等嘈杂通话场景，直接处理音频输入输出、无需中间转写文本。该模型支持说话人跟踪、噪声分离与副语言识别，可在通话中被中途打断并边处理任务边继续对话。目前仅向有限企业开放，未公布参数量、延迟、定价和基准分数。  
+  MarkTechPost（RSS） · 2026-11-15 18:06
+
+- [美团开源 1.6 万亿参数智能体模型 LongCat-2.5，训练全程未用 Nvidia GPU](<https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/>)  
+  美团开放 LongCat-2.5 权重，这是一款面向智能体的 1.6 万亿参数 MoE 模型，每 token 激活约 480 亿参数，采用 MIT 许可证，官方部署方案基于 194 片华为 Ascend 加速器，全程未使用 Nvidia GPU。  
+  The Decoder：AI News（RSS） · 2026-11-15 18:06
+
+- [开发者用 Claude 编写 97KB 浏览器水下探索模拟项目 Abyssal Garden](<https://www.ithome.com/1/027/406.htm>)  
+  开发者 Any-Reputation8118 借助 Anthropic Claude 编写代码，做出浏览器水下探索模拟项目 Abyssal Garden，体积仅 97KB，所有视觉元素均由代码在页面加载时实时生成。  
+  IT之家·人工智能 · 2026-11-15 16:58
 
 - [7 人利用 AI 生成国漫角色淫秽图片牟利获刑，均适用缓刑](<https://www.ithome.com/1/027/395.htm>)  
   金华市婺城区检察院对陈某等 7 名“黄图画师”提起公诉，法院以制作、复制、贩卖、传播淫秽物品牟利罪判处有期徒刑二年至八个月不等，均适用缓刑，判决已生效。涉案人员通过数十个漫画爱好者群以每份 5 元至 20 元售卖 AI 生成的国漫角色淫秽图片，一年多销售 13 万余张、获利 16 万余元。  
@@ -82,9 +138,9 @@
   LangChain 发文提出 goal engineering 理念，认为设计智能体范围时应让人类反馈尽可能容易给出，因为智能体出错常源于缺乏只存在于专家脑中的隐性上下文。  
   LangChain：Blog（RSS） · 2026-11-15 00:00
 
-- [AI's four colliding crises](<https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks>)  
-  AI's titans were handed an extraordinary mandate: Police yourselves. But the industry faces a four-pronged crisis of…  
-  Axios · 2026-11-14 20:35
+- [Glassmail](<https://www.producthunt.com/products/glassmail>)  
+  A fast Mac email app with AI that never leaves your Mac  
+  Product Hunt · English · 2026-11-14 23:57
 
 - [Alpha School 年收费 7.5 万美元，其内部数据显示约半数学生未达数学提速目标](<https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/>)  
   Fortune 报道称，年收费高达 7.5 万美元的 AI 私立学校网络 Alpha School 内部数据显示，仅 42% 学生在数学和阅读上同时实现其承诺的 2 倍学习速度目标，其中约半数 K-8 学生未达数学目标。报道还指出，其 TimeBack 应用正进入德州和南卡罗来纳 2600 多名公立学校学生，另有研究提示 AI 使用方式影响学习效果。  
@@ -93,14 +149,6 @@
 - [20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](<https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin>)  
   Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI mode…  
   20VC · 2026-11-14 15:07
-
-- [PH今日热榜 \| 2026-11-14](<https://decohack.com/producthunt-daily-2026-11-14/>)  
-  Templify AI：强大的内容编辑工具，专为非专业编辑的人士设计。；Filament by Galaxy：通过终端或代理快速移动数据，且是开源的。；Claude Meetings：把Claude添加到你的电话会议中，边聊边开始工作。  
-  Product Hunt 中文 · DecoHack · 2026-11-14 15:00
-
-- [Hacker News「Who is Hiring」帖子数徘徊12年低位，AI 已出现在过半职位帖中](<https://www.hntrends.com/2026/november.html>)  
-  Hacker News「Who is Hiring」月度趋势更新显示，2026年11月帖子仅244条，同比降37%，8月的224条为2014年1月以来最少，2026年月均287条为2013年以来最低。AI 出现在51.6%的帖子中，2026年6月首次过半；AI Agents 占14.8%，MCP 从一年前的0.3%升至4.5%，Front End 占比从2022年初的27%降至6.6%。  
-  Hacker News：AI 热帖 · 2026-11-14 00:00
 
 - [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
   AI Will Make Pharma Even Bigger  
@@ -134,45 +182,4 @@
   AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
   20VC · 2026-11-12 15:07
 
-- [Welcome to the B2A Economy](<https://www.a16z.news/p/welcome-to-the-b2a-economy>)  
-  They’re AI agents.  
-  a16z · 2026-11-11 23:02
-
-- [What the Internet Boom Teaches Us About the AI Buildout \| Mike Volpi](<https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG>)  
-  The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strateg…  
-  The a16z Show · 2026-11-11 19:00
-
-- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
-  APPSO · 2026-11-11 09:00
-
-- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
-  极客公园 · 2026-11-11 08:43
-
-- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
-  APPSO · 2026-11-11 08:20
-
-- [谷歌最强AI「碳」全球解禁！再现人类首次登月](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652742144&idx=1&sn=d63ffb9f70f7cb25804b5107e77a3c4d>)  
-  新智元 · 2026-11-11 06:45
-
-- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
-  量子位 · 2026-11-11 06:10
-
-- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物系统首次完整曝光](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=2&sn=32ea257fcc98924cf226b76eb6251ce8>)  
-  量子位 · 2026-11-11 06:10
-
-- [Designing for Agents — Zeno Rocha, Resend](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend>)  
-  swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for…  
-  Latent Space · 2026-11-11 04:06
-
-- [Investing in General Translation](<https://www.a16z.news/p/investing-in-general-translation>)  
-  The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
-  a16z · 2026-11-11 00:30
-
-- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
-  APPSO · 2026-11-10 23:57
-
-- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
-  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
-  The a16z Show · 2026-11-10 23:29
-
-[返回面板](../README.md) · [上一页](all-19.md) · [下一页](all-21.md) · 第 20 / 24 页
+[返回面板](../README.md) · [上一页](all-19.md) · [下一页](all-21.md) · 第 20 / 25 页

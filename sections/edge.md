@@ -20,11 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 13 条
+## 相关资讯 · 12 条
 
-- [Edge AI Daily 早报（11月21日）](<https://www.tmtpost.com/8213305.html>)  
-  苹果以Siri争夺系统级代理入口，OpenAI将ChatGPT改为多模块工作台，微软用USB4 RDMA聚合多机算力，谷歌直采HBM重构TPU供应链。亚洲股市创2020年3月以来最大单周跌幅，AI支出进入回报审计。  
-  钛媒体 · 2026-11-21 09:19
+- [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
+  Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
+  The Decoder：AI News（RSS） · 2026-11-21 18:33
 
 - [全球Meta一家独大，中国AI眼镜为何还在混战？](<https://36kr.com/p/4077938009412480?f=rss>)  
   ｜GUIDE｜ ■中国为什么跑不出第二个Meta？ ■AI眼镜为什么还难赚钱？ ■谁能成为中国AI眼镜的赢家？ 今年双11，雷鸟、夸克等都拿到了AI眼镜的第一名。 雷鸟创新宣布登顶京东智能眼镜与 XR 设备两大品牌榜榜首，阿里夸克称夸克AI  
@@ -53,10 +53,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
   面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
   公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
-
-- [DWaste](<https://www.producthunt.com/products/deep-waste>)  
-  Eliminate recycling contamination with low-power Edge AI  
-  Product Hunt · English · 2026-11-18 19:42
 
 - [微信私人 AI 助理小微 DAU 达 3000 万，部分推理任务未来将在设备端运行](<https://www.ithome.com/1/029/018.htm>)  
   腾讯在 2026 年第三季度财报发布当日，微信官方宣布私人 AI 助理小微用户测试范围扩大，日活跃用户数已达 3000 万，正逐步融入聊天、朋友圈、公众号、视频号等场景。小微采用针对成本效率优化的 WeLM 定制模型，推理成本极低且持续下降，官方预计未来部分推理任务将在用户设备端运行；小微依托支付及小程序生态构建智能体能力，官方称其将对微信商业化能力产生倍增效应。  

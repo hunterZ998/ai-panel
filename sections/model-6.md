@@ -2,13 +2,29 @@
 
 [返回面板](../README.md) · [上一页](model-5.md) · [下一页](model-7.md) · 第 6 / 7 页
 
-- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
-  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
-  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
+- [Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力](<https://qwen.ai/blog?id=qwen4-max>)  
+  Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。  
+  Qwen：Blog Retrieval（API） · 2026-11-16 10:00
+
+- [Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题](<https://www.ithome.com/1/027/505.htm>)  
+  Anthropic CEO 达里奥·阿莫迪上周五在纽约与摩根大通 CEO 杰米·戴蒙公开对谈，称算力是公司面临的最深层商业难题，并表示上市的重要原因就是增加现金储备，为高度不确定的算力需求提供缓冲。  
+  IT之家·人工智能 · 2026-11-16 09:52
+
+- [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
+  Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
+  IT之家·人工智能 · 2026-11-16 09:01
+
+- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
+  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
+  Hugging Face 官方团队博客 · 2026-11-16 08:00
 
 - [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
   Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
   Ollama：Blog（RSS） · 2026-11-16 08:00
+
+- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
+  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
+  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
 
 - [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
   OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
@@ -147,17 +163,5 @@
 
 - [GPT-6.2首测！网友：终于有个能压倒Opus 5.5的了？？](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=1&sn=9e5afce079bbaa1db52ccabdc4bc8f2c>)  
   新智元 · 2026-11-09 12:56
-
-- [Qwen 4疑似偷跑！游戏开发超越Opus 5.5，成本暴降85%](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=1&sn=210b20c50f8aa2e46e67cb7ef169a42f>)  
-  量子位 · 2026-11-09 11:05
-
-- [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
-  量子位 · 2026-11-09 11:05
-
-- [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
-  APPSO · 2026-11-08 15:26
-
-- [实测 HY4：腾讯最「夯」大模型，离一线还有多远](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116182&idx=1&sn=d4d45a0cd14d25065292cdc5e195ad7c>)  
-  极客公园 · 2026-11-07 18:00
 
 [返回面板](../README.md) · [上一页](model-5.md) · [下一页](model-7.md) · 第 6 / 7 页

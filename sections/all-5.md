@@ -1,6 +1,74 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 24 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 25 页
+
+- [Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini](<https://thinkingmachines.ai/news/inkling-2-mini/>)  
+  Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。  
+  Thinking Machines Lab：News（网页） · 2026-11-20 15:00
+
+- [Everful获得4850万美元A轮融资](<https://www.itjuzi.com/investevent/14708363>)  
+  Everful是一家AI全球供应链基础设施提供商，打造商业世界模型与采购 AI 智能体，整合多语言供需数据，自动完成热销品识别、工厂匹配核验、订单沟通与履约交付，平台拥有 2000 万 + SKU、3 万 + 核验工厂，每月出货超 5…  
+  IT桔子 · 2026-11-20 14:46
+
+- [星辰智算获得数百万人民币战略投资](<https://www.itjuzi.com/investevent/14708361>)  
+  星辰智算SentiMind是一家认知科学多模态大模型研发商，用游戏化认知任务采集人的行为数据，再以多模态模型理解、预测与训练认知能力，已构建覆盖认知评估、训练、追踪的闭环体系，并推出端侧认知调度层Senti-OS，以1至3B的轻量化模…  
+  IT桔子 · 2026-11-20 14:42
+
+- [MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹](<https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model>)  
+  MiniMax 研究团队用内部研究模型 MIM 对现代密码方案做自动化密码分析，报告称在 NIST 候选算法、同行评审方案和公开挑战基准上取得多个此前无实用攻击方案的首个实用破解，并把部分理论攻击变为可执行攻击。  
+  MiniMax：Blog（网页） · 2026-11-20 14:41
+
+- [九州星核获得数亿人民币天使轮融资](<https://www.itjuzi.com/investevent/14708348>)  
+  九州星核专注于超临界 CO₂ 直接循环微型核裂变产品研发，致力于构建面向人工智能时代的新一代分布式能源基础设施。近日，九州星核获得数亿人民币天使轮融资，天鹰资本投资。  
+  IT桔子 · 2026-11-20 14:22
+
+- [消息称英伟达将逾 5 亿美元收购扩散式大语言模型公司 Inception](<https://www.ithome.com/1/029/886.htm>)  
+  据 The Information 11 月 20 日报道，英伟达计划收购 AI 初创公司 Inception，双方已深入谈判，估值至少超过 5 亿美元（约合 33.46 亿元人民币），并可能附加与业绩挂钩的奖励。  
+  IT之家·人工智能 · 2026-11-20 14:15
+
+- [Tesorai获得530万美元种子轮融资](<https://www.itjuzi.com/investevent/14708349>)  
+  Tesorai是一家生命科学AI科技研发商，打造面向蛋白组学的 AI 知识层平台，包含 Tesorai Search 质谱检索引擎、对话分析 Tesorai Chat、跨研究数据集库 Tesorai Trove，直接处理原始实验质谱文…  
+  IT桔子 · 2026-11-20 14:11
+
+- [微信短剧审核新规：单集最低时长上调至 1 分钟，AI 制作证明视频 12 月起必填](<https://www.ithome.com/1/029/883.htm>)  
+  微信短剧内容中心宣布两项审核更新：单集最低时长由 45 秒上调至 1 分钟，2026 年 12 月 1 日起生效，不足 1 分钟的剧集将无法提审。含 AI 生成内容的剧集提审需上传 AI 制作证明视频，需展示资产列表、剧集列表、提示词及分镜片段，目前选填，同样于 12 月 1 日起转为必填。  
+  IT之家·人工智能 · 2026-11-20 14:04
+
+- [高通携手 Cirrascale 启动 Dragonfly AI200 推理加速器客户评估](<https://www.ithome.com/1/029/874.htm>)  
+  高通与 AI 私有云企业 Cirrascale 合作，向部分客户开放 Dragonfly AI200 推理加速器的云上评估。这是高通首款机架级 AI 解决方案，单卡配备 768GB LPDDR5X 内存，每个 140kW 液冷 ORv3 机架由 56 卡组成、总内存 43TB、内存带宽 0.414 PB/s，可在单机架内运行 10T 级超大模型推理。  
+  IT之家·人工智能 · 2026-11-20 13:43
+
+- [诚恒微完成近2亿元A轮融资，加速边端侧AI SoC规模化落地](<https://www.pedaily.cn/first/193733.shtml>)  
+  无锡诚恒微电子有限公司完成近2亿元A轮融资，由中金资本、中车资本、毅达资本、锡创兴吴、奇安投资联合参与。（投资界讯） 原文链接  
+  投资界 · 2026-11-20 13:36
+
+- [greatai Review](<https://www.producthunt.com/products/greatai-review>)  
+  Free AI + human code review for open source &amp; nonprofits  
+  Product Hunt · English · 2026-11-20 12:56
+
+- [千问APP本月发出超4万次心梗紧急就诊提醒，呼吁别跟它“顶嘴”](<https://mp.weixin.qq.com/s/n6lIMOMy_ipZcbtr8m2rbQ>)  
+  千问APP本月已发出超4万次心梗紧急就诊提醒，在心梗预警相关对话中，超过20%的用户对去医院表现出抵触。千问强调怀疑心梗应第一时间拨打120，并提醒不要喂水、不要忙着找医保卡、不要自行打车或开车前往。11月20日中国心梗救治日，千问重申“拨打120”和“黄金120分钟”两个“120”。  
+  公众号：千问APP（阿里） · 2026-11-20 12:02
+
+- [腾讯混元 Hy4 正式开源，混元 LLM 系列实现全量开放](<https://www.ithome.com/1/029/841.htm>)  
+  腾讯混元团队宣布 Hy4 大模型正式开源，权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 上线，混元 LLM 系列至此全部开源。  
+  IT之家·人工智能 · 2026-11-20 11:47
+
+- [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
+  腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
+  公众号：腾讯混元 · 2026-11-20 11:41
+
+- [Community Wolf获得种子轮融资](<https://www.itjuzi.com/investevent/14708339>)  
+  Community Wolf是一家公共安全科技研发商，依托 WhatsApp 智能体渠道，让居民无需下载 App 即可通过文本、语音上报警情；AI 引擎解析非结构化对话与素材，生成实时风险地图与犯罪趋势预测，联动社区巡逻队、私人安保与…  
+  IT桔子 · 2026-11-20 11:26
+
+- [Gemini 4 全系列使用与避雷教程：两个提示词修复 Antigravity 的 swarm 和 Orchestrator 坑](<https://mp.weixin.qq.com/s/ZVq5t2agOhVEEKHPZyQ4hA>)  
+  作者盘点 Gemini 4 系列模型定位与差异：Hydrogen 对标 Claude Haiku，速度 175-200 tokens 每秒；Neon 相当于 Opus 5.5，代码动画和 UI 表现接近但缓存和额度存在问题；Carbon 偏 coding，Argon 设计和文风更发散。  
+  公众号：卡尔的AI沃茨 · 2026-11-20 11:22
+
+- [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
+  诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
+  IT桔子 · 2026-11-20 11:21
 
 - [上海国投先导人工智能母基金拟参与投资3只子基金](<https://www.pedaily.cn/first/193743.shtml>)  
   近日，根据《上海三大先导产业母基金子基金公开遴选细则（试行）》，经相应遴选程序，上海国投先导人工智能母基金初步确定拟参与投资3只子基金，具体名单正式对外公布，本次拟参与投资的3只子基金及对应中选机构。（投资界） 原文链接  
@@ -82,6 +150,10 @@
   MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and sele…  
   OpenAI · 2026-11-20 08:00
 
+- [Conductor 0.98.0 更新：新增 Usage 用量页，主题转正](<https://www.conductor.build/changelog/0.98.0-see-where-your-usage-goes>)  
+  Conductor 发布 0.98.0 更新，新增 Usage 页面，可按模型和工作区查看最近 7、30 或 90 天的聊天、预估成本和 token 用量，入口在侧边栏底部或 Settings → Usage。  
+  Conductor 官方更新 · 2026-11-20 08:00
+
 - [Browser Use 用 PINEAPPLE 注入测试拆解个人 AI 智能体浏览器的七项需求](<https://browser-use.com/posts/personal-ai-agent-browser>)  
   Browser Use 在网页中藏入提示词注入句子 PINEAPPLE 并让六个个人智能体环境读取，其中一个照说，六个环境中只有三个将其标记为提示词注入。团队还分析了关于 12 个个人智能体的 33,976 条帖子，总结出个人智能体浏览器的七项需求：持久登录、借用用户 cookies、反屏蔽、人工接管、密码不交给模型、一次性虚拟卡，以及默认每个页面都不可信。  
   Browser Use · 2026-11-20 08:00
@@ -106,74 +178,4 @@
   OpenClaw 发文回应学生关于项目为何免费的提问，指出开源虽不收费但由社区以时间与精力支付，估算约 120,000 小时人力投入，接近 58 年全职工作量。文章列出 3,606 位贡献者、83,000 个 fork、279 次发布等数据，说明估算包含开发、代码审查、issue 处理、文档与社区支持等环节，并阐述了其作为非营利开源基金会希望用户拥有自主 AI 的立场。  
   OpenClaw：Blog（网页） · 2026-11-20 08:00
 
-- [Browser Use 测六个 AI 智能体读同一网页，只有 1 个说出 PINEAPPLE，并给出个人智能体浏览器七项清单](<https://browser-use.com/posts/what-your-personal-agent-needs>)  
-  Browser Use 让 6 种智能体配置（含 Hermes 两种模式）读取一个写有提示词注入句的网页，只有 1 个说出 PINEAPPLE，另外几个要么当作页面文本要么标记为提示词注入；同一页面藏了 15 个 codeword，截图加 accessibility tree 找到最多，悬停和点击后的内容无人找到。  
-  Browser Use · 2026-11-20 08:00
-
-- [Browser Use 删除 13.7 万行自有代码后 BU Bench v2.1 得分反而上升](<https://browser-use.com/posts/simplicity>)  
-  Browser Use 作者复盘 browser-use 1.0：把 24 个工具收敛为一个 python 工具加两种结束方式，该 PR 新增 29,601 行、删除 136,905 行，178 个 Python 文件减到 43 个。  
-  Browser Use · 2026-11-20 08:00
-
-- [Browser Use 复盘评测 bug：+5.1 分提升中最多一半来自自家判题缺陷](<https://browser-use.com/posts/how-we-run-evals>)  
-  Browser Use 修复评测适配器后测得 +5.1 分提升（200 任务 BU Bench v2.1，95% CI \[+1.0, +9.2\]），随后发现判题只读了 2,102 字符长答案末尾的 433 字符（中位数）。  
-  Browser Use · 2026-11-20 08:00
-
-- [Browser Use 悬赏测试：82 个网站中 7 个彻底拦住其浏览器 Agent](<https://browser-use.com/posts/agent-stealth-playbook>)  
-  Browser Use 发起 $100 悬赏寻找能拦住其浏览器 Agent 的网站，可测试的 82 个站点中 7 个每次都拦截成功，原因都是当时不支持的验证码。  
-  Browser Use · 2026-11-20 08:00
-
-- [Browser Use 用两个配置项把航班搜索 Agent 从 30.7 s 降到 20.7 s](<https://browser-use.com/posts/agent-speed-optimization>)  
-  Browser Use 分享如何把 Google Flights 航班搜索任务从 30.7 s 优化到 20.7 s，修复项包括跳过代理直连、关闭常驻验证码检测器、修复 never-fire 的静默检测、精简 prompt 和缓存工具列表等。  
-  Browser Use · 2026-11-20 08:00
-
-- [Apple 发布 Depth Pro 2：单目深度估计兼顾锐利边缘与时间一致性](<https://machinelearning.apple.com/research/depth-pro-2-monocular>)  
-  Apple 提出 Depth Pro 2，用单个可扩展网络同时处理图像与视频，在原生分辨率下预测以米为单位的稠密深度。该模型同时实现度量准确、边缘锐利与帧间时间一致，在这三项指标上均超越此前方法，并定义了度量精度、锐利度、时间一致性与运行时间的新 Pareto 前沿。团队已开源代码与权重，一个网络即可处理单张照片、整段视频或实时摄像头画面。  
-  Apple Machine Learning Research（RSS） · 2026-11-20 08:00
-
-- [Tomasz Tunguz 分析 Anthropic 与 SpaceX 的 10x 估值之墙](<https://tomtunguz.com/the-10x-wall/>)  
-  Tomasz Tunguz 分析史上最大两笔 IPO：Anthropic 与 SpaceX 市值分别为 $1.56t 与 $1.82t，远期市销率同为 9.5x，尽管 SpaceX 预期增速 466% 快于 Anthropic 的 288%。文章指出万亿美元级公司远期市销率不超过约 10x，估值实际锚定 20x-26x 的市盈率区间，股价上涨只能靠利润增长兑现。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-20 08:00
-
-- [Claude Computer use beta 开放 Team 和 Enterprise 套餐](<https://support.claude.com/en/articles/12138966-release-notes#h_c2590a46af>)  
-  Anthropic 宣布 Computer use beta 现已面向 Team 和 Enterprise 套餐开放，并逐步向组织推送。Claude 可查看用户屏幕并在其允许的桌面应用中操作，功能在 Claude Desktop 新体验中可用，也支持开启了 Computer access 的 Claude 网页版和移动端。  
-  Claude 应用发布说明 · 2026-11-20 08:00
-
-- [Qwen3 TTS 上线 Together AI，首音频最快 97ms](<https://www.together.ai/blog/qwen3-tts>)  
-  Together AI 宣布开发者即日起可在其平台上运行开源语音模型 Qwen3 TTS（Apache 2.0，权重在 Hugging Face），流式请求下首音频最快 97ms。  
-  Together AI 研究与产品博客（RSS） · 2026-11-20 08:00
-
-- [LiveKit 发布 Turn Detector v1.1，端点检测延迟较 v1 降低 15–34%](<https://livekit.com/blog/turn-detector-v1-1>)  
-  LiveKit 发布 Turn Detector v1.1，在相同误打断率下端点检测延迟比 v1 降低 15–34%（英语）和 17–19%（其他 13 种语言）。  
-  LiveKit 产品与工程博客 · 2026-11-20 08:00
-
-- [Hugging Face 推出 harness adapters：用 RL 让 Qwen3.8-27B 适配 pi、OpenCode 与 Hermes Agent](<https://huggingface.co/blog/harness-adapters-at-scale>)  
-  Hugging Face 发布 harness adapters，为 Qwen3.8-27B 分别针对 pi、OpenCode 和 Hermes Agent 训练 LoRA 适配器，在各自 harness 下同时提升性能与效率。  
-  Hugging Face 官方团队博客 · 2026-11-20 08:00
-
-- [Linear COO Cristina Cordova 谈如何把 GTM 做到 $100M ARR](<https://latent.space/p/linear-scaling/>)  
-  Latent Space 播客访谈 Linear COO Cristina Cordova，谈公司如何在 CEO 发文《Issue tracking is dead》后转向围绕 agent 编排的产品开发系统。  
-  Latent Space（RSS） · 2026-11-20 07:58
-
-- [DeepSeek Harness 发布100天，作者分享13个实用插件玩法](<https://mp.weixin.qq.com/s/EBZlpti_w_GcS03t-auLqw>)  
-  作者在DeepSeek Harness发布100天之际（GitHub星标28.4万，第三方插件约3.5万个），整理了13个插件用法。  
-  公众号：数字生命卡兹克 · 2026-11-20 07:56
-
-- [Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo>)  
-  Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
-  Latent Space · 2026-11-20 07:38
-
-- [Linear COO Cristina Cordova 访谈：GTM 如何撑起 $100M ARR 与过半 agent 创建的工作量](<https://latent.space/p/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo/>)  
-  Latent.Space 访谈 Linear COO Cristina Cordova，复盘公司达到 $100M ARR、超 40,000 付费客户和 177% 净收入留存的 GTM 路径。  
-  Latent Space（RSS） · 2026-11-20 07:38
-
-- [Docker](<https://www.producthunt.com/products/docker>)  
-  Built to run on trust, for the agentic era  
-  Product Hunt · English · 2026-11-20 07:04
-
-- [Apple Developing AI Agent to Rival Meta and OpenAI](<https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai>)  
-  The Information · 2026-11-20 06:49
-
-- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
-  The Information · 2026-11-20 06:43
-
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 24 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 25 页

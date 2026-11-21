@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
+  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
+  The a16z Show · 2026-11-21 19:00
+
 - [Why the Agent Era Needs a New Operating System \| DHH](<https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL>)  
   David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: th…  
   The a16z Show · 2026-11-20 23:48
@@ -177,9 +181,5 @@
 - [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
   David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
   20VC · 2026-10-31 15:07
-
-- [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
-  Latent Space · 2026-10-31 11:41
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

@@ -2,6 +2,22 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 7 页
 
+- [腾讯混元 Hy4 正式开源，混元 LLM 系列实现全量开放](<https://www.ithome.com/1/029/841.htm>)  
+  腾讯混元团队宣布 Hy4 大模型正式开源，权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 上线，混元 LLM 系列至此全部开源。  
+  IT之家·人工智能 · 2026-11-20 11:47
+
+- [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
+  腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
+  公众号：腾讯混元 · 2026-11-20 11:41
+
+- [Gemini 4 全系列使用与避雷教程：两个提示词修复 Antigravity 的 swarm 和 Orchestrator 坑](<https://mp.weixin.qq.com/s/ZVq5t2agOhVEEKHPZyQ4hA>)  
+  作者盘点 Gemini 4 系列模型定位与差异：Hydrogen 对标 Claude Haiku，速度 175-200 tokens 每秒；Neon 相当于 Opus 5.5，代码动画和 UI 表现接近但缓存和额度存在问题；Carbon 偏 coding，Argon 设计和文风更发散。  
+  公众号：卡尔的AI沃茨 · 2026-11-20 11:22
+
+- [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
+  诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
+  IT桔子 · 2026-11-20 11:21
+
 - [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
   Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
   IT桔子 · 2026-11-20 10:30
@@ -163,21 +179,5 @@
 - [蚂蚁 inclusionAI 发布 DeepSeek-V4.1-Flash-1017-singprobe 流式安全探针](<https://huggingface.co/inclusionAI/DeepSeek-V4.1-Flash-1017-singprobe>)  
   蚂蚁 inclusionAI 在 HuggingFace 发布 SingProbe 流式护栏 DeepSeek-V4.1-Flash-1017-singprobe，探针仅 10.10M 参数，读取基座模型第 12、25、39 层隐藏状态，逐 token 输出 8 类查询意图、响应不安全和幻觉风险评分。  
   蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-19 19:02
-
-- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
-  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
-  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Gartner 预测 2027 年全球 AI 支出将达 4.05 万亿美元，同比增长 47.5%](<https://www.ithome.com/1/029/546.htm>)  
-  Gartner 于本月 12 日发布预测，2027 年全球 AI 支出将达 4.05 万亿美元（约合 27.06 万亿元人民币），同比增长 47.5%。其中 AI 基础设施支出接近 2.4 万亿美元、增长 53%，AI 优化服务器支出 9572 亿美元、同比提升 81%；生成式 AI 模型支出提升 82% 至 510 亿美元，基础模型占其中超八成。  
-  IT之家·人工智能 · 2026-11-19 17:26
-
-- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
-  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
-  IT桔子 · 2026-11-19 16:18
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 7 页

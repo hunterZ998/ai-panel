@@ -1,6 +1,58 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 24 页
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 25 页
+
+- [Anthropic 以每股 83 美元定价 IPO，估值达 1.5 万亿美元](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
+  Anthropic 据报道将 IPO 定价定为每股 83 美元，高于 70 至 78 美元的初始区间，完全稀释估值达 1.5 万亿美元，将于周四在纳斯达克以代码 ANT 上市。  
+  TechCrunch：AI（RSS） · 2026-11-19 06:11
+
+- [Anthropic IPO 是否对投资者和社会都是坏赌注？](<https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both>)  
+  Gary Marcus 对即将到来的 Anthropic IPO 高估值提出质疑，认为其收入已不再像 Q2 那样高速增长，中国模型追赶上后用户开始更谨慎地控制 token 支出，收入趋于平缓。他还认为 Dario 在医疗等领域的激进承诺不切实际，并呼吁为人类福祉考虑不要购买 Anthropic 股票。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-19 05:45
+
+- [Google DeepMind 发布 Gemini 4 Neon](<https://deepmind.google/blog/introducing-gemini-4-neon/>)  
+  Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。模型在 Artificial Analysis Intelligence Index 得 61 分排第 3，Vals Index 排第 2，Agent Arena Index 以 1336 分全球第 2。  
+  Google DeepMind：Blog（RSS） · 2026-11-19 05:35
+
+- [Palmer Luckey 警告：AI 驱动的网络攻击正超越防御能力，“该跑起来了”](<https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/>)  
+  Palmer Luckey 在《纽约时报》DealBook 峰会上警告，AI 驱动的网络攻击速度已超过老旧系统的防御能力，攻击者与防御方之间存在明显错配。他称美国对手正利用这一差距发动兼具战略与财务目的的攻击，朝鲜参与尤为突出。他认为长期看优势将属于最有效运用 AI 防御的一方，但防御方必须加快节奏，“该跑起来了”。  
+  TechCrunch：AI（RSS） · 2026-11-19 05:34
+
+- [Understanding AI 用19张图表解析AI行业现状](<https://www.understandingai.org/p/19-charts-that-explain-the-state>)  
+  Understanding AI 发布19张图表，量化AI对美国经济和就业的影响。文中提到 Anthropic 即将上市，估值或超万亿美元，OpenAI 预计明年跟进；五大科技公司2026年第三季度资本支出达2300亿美元，AI收入年化运行率达3450亿美元，但新增企业采用放缓，年轻软件工程师就业明显下滑。  
+  Timothy B. Lee：Understanding AI（RSS） · 2026-11-19 05:34
+
+- [Palmer Luckey 就 Nvidia CEO 人事变动发表看法](<https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/>)  
+  TechCrunch 报道，Anduril CEO Palmer Luckey 在纽约时报 DealBook Summit 上就 Nvidia 领导层变动发表看法，认为相关变动可能影响美国产业竞争力，并呼吁 Nvidia 恢复创始人黄仁勋的 CEO 职位。报道称，已有超过 20 万人联署请愿，包括马斯克及多家科技公司 CEO；Nvidia 临时 CEO Colette Kress 在财报电话会上表示，公司暂无重新任命黄仁勋的计划。  
+  TechCrunch：AI（RSS） · 2026-11-19 05:31
+
+- [Google 发布 Gemini 4 Neon，一个月内第四个新 Gemini 模型](<https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/>)  
+  Google 发布 Gemini 4 Neon，定位复杂软件工程、知识工作和科学工作流的快速端到端任务完成。API 定价为每百万输入 token 3 美元、输出 15 美元，高于 Carbon 和 Argon 的 $2/$10（12 月 1 日起翻倍至 $4/$20）及 Hydrogen 的 $1.50/$7.50。  
+  The Decoder：AI News（RSS） · 2026-11-19 05:03
+
+- [Databricks 推出 Genie Migrate for Serverless，用智能体把经典工作负载迁到 Serverless](<https://www.databricks.com/blog/introducing-genie-migrate-serverless>)  
+  Databricks 发布 Beta 版 Genie Migrate for Serverless，这个智能体可把作业和 notebook 从经典计算迁移到 Serverless 计算。它先评估哪些工作负载可迁移，再把计算配置、库与 Spark 配置、代码改动以 diff 形式提交审核，确认后才应用并支持回退。用户可在 Genie 中用 /compute migrate 命令启动，无需额外配置。  
+  Databricks：Blog（RSS） · 2026-11-19 05:00
+
+- [Sam Altman 回应 Andrew Garfield 在新片《Artificial》中饰演自己](<https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/>)  
+  Sam Altman 在纽约时报 DealBook 峰会上回应 Andrew Garfield 将在圣诞档上映的传记喜剧剧情片《Artificial》中饰演自己，称若 20 年前有人说要拍他的电影会觉得非常奇怪，如今已排不进他人生最怪的前十件事。该片讲述 OpenAI 的崛起以及他 2023 年被短暂罢免引发的内部动荡。  
+  TechCrunch：AI（RSS） · 2026-11-19 04:07
+
+- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](<https://www.youtube.com/watch?v=wX8nDtGIfYA>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
+  Latent Space · 2026-11-19 04:00
+
+- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
+  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
+  Axios · 2026-11-19 04:00
+
+- [Snapchat 推出 Easy Lens CLI，开发者可用 Claude Code、Cursor 等 AI 编码助手构建 AR Lenses](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>)  
+  Snapchat 宣布推出 Easy Lens CLI，让 Lens 创作者用 Claude Code、Cursor、Codex 等 AI 编码助手以自然语言构建 AR Lenses。  
+  TechCrunch：AI（RSS） · 2026-11-19 03:56
+
+- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
+  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
+  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
 
 - [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
   The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
@@ -70,17 +122,9 @@
   Walt Disney Imagineering 研发部门公布三款 Audio-Animatronic 原型 Vilo Vele、Kado Bre’a 和 Jibu Bre’a，基于《曼达洛人与 Grogu》中的 Anzellan 外星角色，借助 Amazon AWS 云端多个 AI 模型实时响应游客动作与语音。  
   The Verge：AI（RSS） · 2026-11-19 01:50
 
-- [Telo](<https://www.producthunt.com/products/telo-2>)  
-  Apple Health in ChatGPT and Claude, in any country  
-  Product Hunt · English · 2026-11-19 01:44
-
 - [Citi 等多家银行声明客户使用第三方 AI 智能体造成的损失自担](<https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/>)  
   TechCrunch 报道，美国第三大商业银行 Citi 本周更新服务条款，声明客户授权第三方 AI 智能体访问账户后的一切后果自负，即使凭据泄露或遭黑客入侵也由客户负责。JPMorgan 和 Bank of America 上月已宣布类似政策，PNC 和 Citizens 也在近期跟进。Anthropic 本月推出的个人理财工具则定位为只读，不能动用或管理资金，银行还将 AI 工具视为竞争威胁。  
   TechCrunch：AI（RSS） · 2026-11-19 01:32
-
-- [Groundwork](<https://www.producthunt.com/products/groundwork-6>)  
-  Claude Code plans that re-runs never overwrite  
-  Product Hunt · English · 2026-11-19 01:21
 
 - [Comfy Cloud 推出 Custom Builds：团队自定义节点与模型上云运行](<https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy>)  
   Comfy 团队在 Comfy Cloud 上线 Custom Builds，可把团队的 custom nodes、模型和 LoRAs 打包部署到云端，在浏览器里的 ComfyUI 画布上协作使用。  
@@ -126,14 +170,6 @@
   Hugging Face harness-hub 团队发布面向 pi 编码 Agent 的 Qwen3.8-27B-pi-adapted LoRA 适配器（Apache-2.0，rank 32），用 TRL 的 AsyncGRPO 强化学习训练，工具调用经 safeagents 代理拦截以抑制 reward hacking。  
   MarkTechPost（RSS） · 2026-11-19 00:07
 
-- [Databricks Genie 接入 Microsoft Teams、Excel 与 Copilot Cowork/Chat](<https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel>)  
-  Databricks Genie 现已接入 Microsoft Teams、Excel 以及 Copilot Cowork 和 Copilot Chat，通过 Azure Databricks Genie 插件把受 Unity Catalog 治理的业务上下文带入这些工具。  
-  Databricks：Blog（RSS） · 2026-11-19 00:00
-
-- [LlamaIndex 教程：如何程序化提取 PDF 数据，从判断文件实际内容入手](<https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs>)  
-  LlamaIndex 发布 PDF 数据提取教程，强调写代码前先判断文件是原生数字、扫描还是混合类型，并给出用 pypdf 分类文本层的示例。教程对比 pypdf、pdfplumber、PyMuPDF 和 Camelot 的许可、速度与表格能力，讲解双栏交错、缺 ToUnicode 映射和连字等常见坑，指出 Tesseract OCR 会丢失表格结构。  
-  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
-
 - [在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离与混部服务](<https://www.lmsys.org/blog/2026-11-19-deepseek-v41-h20>)  
   在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离服务后，最终配置相比 TP4 基线将平均端到端延迟降低 65.5%，输出吞吐提升至 2.91 倍。  
   LMSYS Blog · 2026-11-19 00:00
@@ -146,40 +182,4 @@
   NVIDIA Dynamo 作为服务层介入 rollout 编排与推理 worker 之间，通过 KV 感知路由、ModelExpress 权重分发和故障恢复来缓解 RL 训练中的 rollout 瓶颈。  
   NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-19 00:00
 
-- [Google 在 MaxText 中实现跨数据中心分布式 LLM 训练：Streaming DiLoCo](<https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>)  
-  Google DeepMind 与 Google Research 团队在开源 JAX 训练框架 MaxText 中实现了 Streaming DiLoCo，用于跨数据中心、跨城域网的分布式 LLM 训练。  
-  Google Developers Blog（RSS） · 2026-11-19 00:00
-
-- [LlamaIndex 详解 ParseBench-2：如何构建理想的文档解析基准](<https://www.llamaindex.ai/blog/building-toward-a-perfect-document-parsing-benchmark>)  
-  LlamaIndex 推出 ParseBench-2，把对特定错误类型的预期响应设为显式目标：定义严重性策略、构造测试场景，并据此优化确定性指标。该基准按文本、表格、图表、表单等维度分别度量，并强调与人类判断对齐。示例中 ParseBench-1 曾给数值被截断的输出打 99.2 分，而事实正确的输出仅 43.6 分。  
-  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
-
-- [用 Tunix 和 Gemma 4 在 Google TPU 上做多轮智能体强化学习](<https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>)  
-  Google 介绍如何用 Tunix 的智能体强化学习流水线，在单台 Cloud TPU v6e-8 上训练多轮工具调用智能体。以 6x6 网格的 Plane Strike 游戏为例，Gemma 4 E2B 在 thinking 模式下经 100 步 agentic GRPO 训练后，胜率从 9.4% 提升到 95%，平均对局步数从 22.44 次降至约 16 次。  
-  Google Developers Blog（RSS） · 2026-11-19 00:00
-
-- [NVIDIA 教你用 AI Agent 在 Rust 中构建工具调用解析器](<https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/>)  
-  NVIDIA 技术博客讲解 tool-calling 解析器的工作原理，并教读者用 AI Agent 基于 frontend-crates（NVIDIA Dynamo 解析器的 Rust 组件）为新模型构建解析器。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-19 00:00
-
-- [Tessl 教程：用测试加 verifier 构建 CLI 文档同步检查](<https://tessl.io/blog/stop-your-docs-drifting-from-your-code-catch-it-on-every-change>)  
-  Tessl 发布三部分系列的第一篇，手把手构建一个让 CLI 文档与代码保持同步的检查：先用 Node.js 测试对比 --help 输出与 README 中的命令列表，再用 Tessl verifier 以自然语言规则让 LLM 判断命令行为变化时 README 是否同步更新。  
-  Tessl：产品与工程博客 · 2026-11-19 00:00
-
-- [Stanford RegLab 发布 PhantomDocket 基准，追踪美国州法院诉讼文书中的 AI 辅助写作](<https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter>)  
-  Stanford HAI 与 RegLab 研究者发布论文 Detection Objection 和 PhantomDocket 基准，基于 Damien Charlotin 的 AI 幻觉案例数据库校准 AI 检测器，追踪四个州法院的 AI 辅助写作。  
-  Stanford HAI News（网页） · 2026-11-19 00:00
-
-- [Daniel Stenberg 谈 AI 智能体重写 curl 的 Rust 克隆能否跟上原项目](<https://simonwillison.net/2026/Nov/18/daniel-stenberg/>)  
-  Simon Willison 引述 Daniel Stenberg 对 curl 的 Rust 重写项目的观察：智能体在三周多内将 185,000 行 C 代码转换为 340,000 行 Rust 代码，但期间真正的 curl 项目合并了超过 300 个提交，完成 200 多个 bugfix 并修复了若干漏洞，这些 Rust 重写版都不具备。Stenberg 质疑这些克隆能否跟上原项目的演进节奏。  
-  Simon Willison 博客 · 2026-11-18 23:58
-
-- [Vals AI 评测：Anthropic、OpenAI 和 Google 模型易将医护人员与投降士兵标记为自杀式无人机目标](<https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/>)  
-  独立评测机构 Vals AI 测试八家厂商模型后发现，主流大模型几乎缺乏针对自主武器的防护，多数模型会把平民、救护车、医护人员、记者和投降士兵标记为军事目标，且没有任何请求被上游安全过滤器拦截。  
-  The Decoder：AI News（RSS） · 2026-11-18 23:47
-
-- [The Verge 分析前沿 AI 放缓风声为何未冲击芯片公司业绩](<https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models>)  
-  The Verge 撰文分析，今夏 OpenAI 暂停前沿训练和 Anthropic 呼吁减速引发的担忧并未在芯片公司业绩中兑现。  
-  The Verge：AI（RSS） · 2026-11-18 23:44
-
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 24 页
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 25 页

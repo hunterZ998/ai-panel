@@ -1,6 +1,43 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-21.md) · [下一页](all-23.md) · 第 22 / 24 页
+[返回面板](../README.md) · [上一页](all-21.md) · [下一页](all-23.md) · 第 22 / 25 页
+
+- [ZPedia丨实测字节 TRAE 宝：字节的 Personal agent，从编程场景开始](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901335&idx=1&sn=1fca0e12c9b58714b0b1952bf28ad228>)  
+  Z Finance · 2026-11-09 21:59
+
+- [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115697&idx=1&sn=c5dae711f6551fadf3ac18e7bfb6484e>)  
+  APPSO · 2026-11-09 20:00
+
+- [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116234&idx=1&sn=aef5923de6ccddb6ff81233d7a02597d>)  
+  极客公园 · 2026-11-09 19:03
+
+- [前OpenAI员工看吐！AI研发AI冲线「终极超级智能」，停建全球机房也晚了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=2&sn=39bbdfe4884d81b6ecb8330ff1bf734d>)  
+  新智元 · 2026-11-09 18:30
+
+- [印度自研模型社死！照搬千问，仅塞提示词硬充印度造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741511&idx=1&sn=47589ca037f06b538a1e1603eaa5f840>)  
+  新智元 · 2026-11-09 18:30
+
+- [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748686&idx=1&sn=52ef8fb842bd446399c52bf45be82a5e>)  
+  AI科技评论 · 2026-11-09 18:29
+
+- [Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=2&sn=3d5312c12d83505cab086e7f5ce11acd>)  
+  量子位 · 2026-11-09 18:19
+
+- [千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940804&idx=1&sn=7d8135155abf2ea4dd5152eda4a8ef8d>)  
+  量子位 · 2026-11-09 18:19
+
+- [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](<https://guiguzaozhidao.fireside.fm/20240450>)  
+  最近，Personal Agent 开始成为 AI 行业的新热点。它们能够理解用户的个人习惯和需求，连接不同工具，甚至主动替用户处理购物、生活服务和工作中的复杂任务。但当一个通用 Agent 遇到专业任务时，是否什么都能做好？未来的通…  
+  科技早知道 · 2026-11-09 18:00
+
+- [500小时人类视觉-触觉数据，到底能让机器人学到什么？\| GAIR Paper 140](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=2&sn=b1bb761d93a9cf76643161b247f47a27>)  
+  AI科技评论 · 2026-11-09 16:16
+
+- [姚顺雨加入腾讯近一年，混元追上来了？实测 Hy4 比 Kimi K3.1 Pro 快了 28 分钟](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=1&sn=d5cffdc0d0b028234bfba235dc588920>)  
+  AI科技评论 · 2026-11-09 16:16
+
+- [创业者做 Personal Agent，有没有一线生机？](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116221&idx=1&sn=ce138b50de491dc2ac7883a2c067a8fb>)  
+  极客公园 · 2026-11-09 15:44
 
 - [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115625&idx=1&sn=5c60f9caed20fc1741a5bd18de6c45e4>)  
   APPSO · 2026-11-09 15:41
@@ -112,46 +149,4 @@
   Stargate Abilene has become the symbol of America’s AI buildout.  
   SemiAnalysis · 2026-11-08 03:01
 
-- [「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116191&idx=1&sn=f94145d983bc209d70dc4d76737e4a24>)  
-  极客公园 · 2026-11-07 23:25
-
-- [锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS \| 对谈 Mind Lab 首席科学家骁腾](<https://www.xiaoyuzhoufm.com/episode/6aec6bc06381f0f964c45068?utm_source=rss>)  
-  这期播客中，我们和骁腾探讨了不少颇为尖锐的话题，比如国模到底哪家强，各家又有什么问题？到底该怎么定义 Neo Lab？从 Macaron 到 Neo Lab，再到 RLaaS，Mind Lab 这一路的转型背后有哪些思考，现在又做得怎…  
-  42章经 · 2026-11-07 21:00
-
-- [实测 HY4：腾讯最「夯」大模型，离一线还有多远](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116182&idx=1&sn=d4d45a0cd14d25065292cdc5e195ad7c>)  
-  极客公园 · 2026-11-07 18:00
-
-- [跨越半个地球的追踪：从硅谷到里约，我们为何连续 9 年死磕这场多媒体 AI 顶会？](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748600&idx=1&sn=c5d551c651736a9ad38d34f27e2eb1e7>)  
-  AI科技评论 · 2026-11-07 17:45
-
-- [20VC: From $8BN to $19BN: Inside WashU's Endowment Fund \| SpaceX Made Up 20% of Our AUM \| Why Europe and China Has So Much Opportunity \| The Reckoning That is Coming for AI Companies with Scott Wilson](<https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson>)  
-  Scott Wilson is the CIO of WashU, one of the best-performing endowment funds in the world. Under his leadership, Scot…  
-  20VC · 2026-11-07 15:07
-
-- [深度丨从独占 61% 企业开源账单到巨头分成，开源模型开始商业化下半场](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901322&idx=1&sn=22c8bacf2cbb0c8ca76c37b613407ebe>)  
-  Z Finance · 2026-11-07 13:16
-
-- [为什么「陪伴」，注定是 Personal AI 的核心](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116153&idx=1&sn=6c34d3e74a2612f319a0e2a7d6303243>)  
-  极客公园 · 2026-11-07 11:03
-
-- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](<https://www.youtube.com/watch?v=P735f1xlpL0>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=P735f1xlpL0  
-  Latent Space · 2026-11-07 10:49
-
-- [Crusoe sells troubled Wyoming data center project to Google](<https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/>)  
-  The deal highlights the challenges of developing massive AI data centers.  
-  TechCrunch · 2026-11-07 09:40
-
-- [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116145&idx=1&sn=88085e9684f32488b5481683e798cfa0>)  
-  极客公园 · 2026-11-07 08:46
-
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
-  OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
-  TechCrunch · 2026-11-07 06:53
-
-- [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
-  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
-  TechCrunch · 2026-11-07 02:44
-
-[返回面板](../README.md) · [上一页](all-21.md) · [下一页](all-23.md) · 第 22 / 24 页
+[返回面板](../README.md) · [上一页](all-21.md) · [下一页](all-23.md) · 第 22 / 25 页

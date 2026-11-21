@@ -1,6 +1,52 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-23.md) · 第 24 / 24 页
+[返回面板](../README.md) · [上一页](all-23.md) · [下一页](all-25.md) · 第 24 / 25 页
+
+- [【年终复盘①】AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](<https://www.xiaoyuzhoufm.com/episode/6ae6e230c96c8942ec156ed6?utm_source=rss>)  
+  ➤ 「十字路口」2026 年终 AI 复盘系列的第一期来了！ 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是邀请十字路口身处 AI 一线的朋友们 ——创业者、研究员和投资人，分享 10 个真正触动他们的 AI 瞬间…  
+  十字路口 Crossing · 2026-11-02 00:00
+
+- [深度丨宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901261&idx=1&sn=66e992da6fed1ed0a81d25ec8da5191c>)  
+  Z Finance · 2026-11-01 19:52
+
+- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](<https://latent.space/p/arca>)  
+  Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss…  
+  Latent Space · 2026-11-01 00:00
+
+- [ZPedia丨实测灵光 2.0：对标 Muse 背后，中美 Personal Agent 的底层逻辑其实截然不同](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901244&idx=1&sn=0838a35bdd1c1135b25435fcae51b89d>)  
+  Z Finance · 2026-10-31 19:51
+
+- [Can AI Fix Professional Networking? \| Inside Cosign](<https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue>)  
+  What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vo…  
+  The a16z Show · 2026-10-31 18:00
+
+- [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
+  David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
+  20VC · 2026-10-31 15:07
+
+- [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
+  Latent Space · 2026-10-31 11:41
+
+- [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
+  What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
+  The a16z Show · 2026-10-30 18:00
+
+- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
+  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
+  科技早知道 · 2026-10-30 17:00
+
+- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
+  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
+  20VC · 2026-10-29 15:07
+
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
+  怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
+  硅谷101 · 2026-10-29 07:00
+
+- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
+  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
+  Latent Space · 2026-10-29 04:00
 
 - [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
   Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
@@ -57,14 +103,6 @@
 - [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](<https://www.latent.space/p/moshi>)  
   Anekha Sokhal, CEO of Moshi, joins swyx to discuss building a recommendation engine for commodity traders, turning ma…  
   Latent Space · 2026-10-22 22:00
-
-- [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ \| 硅谷线下活动 S10E33](<https://guiguzaozhidao.fireside.fm/20240448>)  
-  最近几个月，像 Meta 的 Muse，OpenAI 的 Dots 这样的 Personal agent 产品大火。模型不仅越来越擅长调用工具、规划任务，也开始能够执行数百甚至上千个步骤的复杂工作。但当 AI 真正进入现实世界，问题也…  
-  科技早知道 · 2026-10-22 19:00
-
-- [20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO &amp; Modal Raises $750M at $15.75B](<https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b>)  
-  AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sp…  
-  20VC · 2026-10-22 15:07
 
 - [The Huawei-DeepSeek Symbiosis](<https://newsletter.semianalysis.com/p/huawei-deepseek>)  
   Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend  
@@ -142,32 +180,4 @@
   The Ramifications of Agentic Consumer Adoption  
   Citrini Research · 2026-09-23 03:15
 
-- [Computation and Data Movement for Inference](<https://newsletter.semianalysis.com/p/computation-and-data-movement-for>)  
-  A user \(or their agent\) starts a conversation with a request \(query\), and the conversation may continue after answers…  
-  SemiAnalysis · 2026-09-22 02:14
-
-- [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](<https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign>)  
-  New Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments  
-  SemiAnalysis · 2026-09-18 22:34
-
-- [Robotics Tipping Point: A Citrini Field Trip](<https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini>)  
-  Under its new branding of “Physical AI” , is robotics evolving from Bay Area backwaters to a true technological renai…  
-  Citrini Research · 2026-09-16 22:34
-
-- [2026: The State of Consumer AI](<https://menlovc.com/perspective/2026-the-state-of-consumer-ai/>)  
-  Consumer AI Adoption Hardly Grew in 2026, But Spend Tripled Last year, consumer AI broke into the mainstream. This ye…  
-  Menlo Ventures · 2026-09-16 20:00
-
-- [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree](<https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums>)  
-  As AI drives an unprecedented wave of datacenter construction over the last year, concerns over electricity costs, wa…  
-  SemiAnalysis · 2026-09-16 04:54
-
-- [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
-  Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
-  SemiAnalysis · 2026-09-15 06:08
-
-- [Macro Memo: Regime Change](<https://www.citriniresearch.com/p/macro-memo-regime-change>)  
-  Six weeks later, that thesis had become the spine of the first ever paywalled piece on this newsletter, Artificial In…  
-  Citrini Research · 2026-08-27 20:49
-
-[返回面板](../README.md) · [上一页](all-23.md) · 第 24 / 24 页
+[返回面板](../README.md) · [上一页](all-23.md) · [下一页](all-25.md) · 第 24 / 25 页

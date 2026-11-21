@@ -20,7 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 36 条
+## 相关资讯 · 35 条
+
+- [华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等](<https://www.ithome.com/1/030/423.htm>)  
+  IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大…  
+  IT之家 · 2026-11-21 17:57
 
 - [Wall Street Week \| Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI](<https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video>)  
   Bloomberg · 2026-11-21 08:13
@@ -32,14 +36,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
   a16z · 2026-11-20 23:03
-
-- [“抵制AI，断更一天”，4.3万人点赞了这个声明](<https://36kr.com/p/4077816535667592?f=rss>)  
-  网文界今年发生了多场“AI斩杀”。2月和5月，番茄进行了针对AI低质内容的专项治理； 起点7月全面禁止AI文，8月一口气处理了上百本AI小说，其中有多部万订作品；10月30日，起点和QQ阅读发布公告，称将进一步打击签约作品滥用AI的行为，取  
-  36氪 · 2026-11-20 18:32
-
-- [光禾AI用企业级智能体应用解企业改造难题](<https://36kr.com/p/4077924992390278?f=rss>)  
-  大模型进入企业后，如何与内部知识、业务系统和工作流程结合，成为企业推进AI应用的一道实际门槛。员工可以借助通用工具完成问答和内容生成，但涉及内部数据、多系统协作和具体业务执行时，企业仍需要解决系统接入、权限管理和持续运维等问题。 光禾AI选  
-  36氪 · 2026-11-20 18:02
 
 - [Extrordinas获得150万美元天使轮融资](<https://www.itjuzi.com/investevent/14708371>)  
   Extrordinas是一家网络安全服务提供商，打造端到端 AI 辅助网络事件响应平台，支持一键取证采集、威胁溯源调查、AI 辅助研判与自动生成业务侧报告，覆盖勒索软件、商业邮件劫持、内部威胁、云及身份入侵等安全事件，面向 IR 服务…  

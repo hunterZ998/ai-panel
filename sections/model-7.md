@@ -2,6 +2,18 @@
 
 [返回面板](../README.md) · [上一页](model-6.md) · 第 7 / 7 页
 
+- [Qwen 4疑似偷跑！游戏开发超越Opus 5.5，成本暴降85%](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=1&sn=210b20c50f8aa2e46e67cb7ef169a42f>)  
+  量子位 · 2026-11-09 11:05
+
+- [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
+  量子位 · 2026-11-09 11:05
+
+- [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
+  APPSO · 2026-11-08 15:26
+
+- [实测 HY4：腾讯最「夯」大模型，离一线还有多远](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116182&idx=1&sn=d4d45a0cd14d25065292cdc5e195ad7c>)  
+  极客公园 · 2026-11-07 18:00
+
 - [Crusoe sells troubled Wyoming data center project to Google](<https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/>)  
   The deal highlights the challenges of developing massive AI data centers.  
   TechCrunch · 2026-11-07 09:40
@@ -49,10 +61,6 @@
 - [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
   ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  
   十字路口 Crossing · 2026-10-26 00:00
-
-- [20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO &amp; Modal Raises $750M at $15.75B](<https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b>)  
-  AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sp…  
-  20VC · 2026-10-22 15:07
 
 - [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](<https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign>)  
   New Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments  

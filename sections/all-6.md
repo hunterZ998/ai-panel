@@ -1,6 +1,72 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 24 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 25 页
+
+- [Browser Use 测六个 AI 智能体读同一网页，只有 1 个说出 PINEAPPLE，并给出个人智能体浏览器七项清单](<https://browser-use.com/posts/what-your-personal-agent-needs>)  
+  Browser Use 让 6 种智能体配置（含 Hermes 两种模式）读取一个写有提示词注入句的网页，只有 1 个说出 PINEAPPLE，另外几个要么当作页面文本要么标记为提示词注入；同一页面藏了 15 个 codeword，截图加 accessibility tree 找到最多，悬停和点击后的内容无人找到。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 删除 13.7 万行自有代码后 BU Bench v2.1 得分反而上升](<https://browser-use.com/posts/simplicity>)  
+  Browser Use 作者复盘 browser-use 1.0：把 24 个工具收敛为一个 python 工具加两种结束方式，该 PR 新增 29,601 行、删除 136,905 行，178 个 Python 文件减到 43 个。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 复盘评测 bug：+5.1 分提升中最多一半来自自家判题缺陷](<https://browser-use.com/posts/how-we-run-evals>)  
+  Browser Use 修复评测适配器后测得 +5.1 分提升（200 任务 BU Bench v2.1，95% CI \[+1.0, +9.2\]），随后发现判题只读了 2,102 字符长答案末尾的 433 字符（中位数）。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 悬赏测试：82 个网站中 7 个彻底拦住其浏览器 Agent](<https://browser-use.com/posts/agent-stealth-playbook>)  
+  Browser Use 发起 $100 悬赏寻找能拦住其浏览器 Agent 的网站，可测试的 82 个站点中 7 个每次都拦截成功，原因都是当时不支持的验证码。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 用两个配置项把航班搜索 Agent 从 30.7 s 降到 20.7 s](<https://browser-use.com/posts/agent-speed-optimization>)  
+  Browser Use 分享如何把 Google Flights 航班搜索任务从 30.7 s 优化到 20.7 s，修复项包括跳过代理直连、关闭常驻验证码检测器、修复 never-fire 的静默检测、精简 prompt 和缓存工具列表等。  
+  Browser Use · 2026-11-20 08:00
+
+- [Apple 发布 Depth Pro 2：单目深度估计兼顾锐利边缘与时间一致性](<https://machinelearning.apple.com/research/depth-pro-2-monocular>)  
+  Apple 提出 Depth Pro 2，用单个可扩展网络同时处理图像与视频，在原生分辨率下预测以米为单位的稠密深度。该模型同时实现度量准确、边缘锐利与帧间时间一致，在这三项指标上均超越此前方法，并定义了度量精度、锐利度、时间一致性与运行时间的新 Pareto 前沿。团队已开源代码与权重，一个网络即可处理单张照片、整段视频或实时摄像头画面。  
+  Apple Machine Learning Research（RSS） · 2026-11-20 08:00
+
+- [Tomasz Tunguz 分析 Anthropic 与 SpaceX 的 10x 估值之墙](<https://tomtunguz.com/the-10x-wall/>)  
+  Tomasz Tunguz 分析史上最大两笔 IPO：Anthropic 与 SpaceX 市值分别为 $1.56t 与 $1.82t，远期市销率同为 9.5x，尽管 SpaceX 预期增速 466% 快于 Anthropic 的 288%。文章指出万亿美元级公司远期市销率不超过约 10x，估值实际锚定 20x-26x 的市盈率区间，股价上涨只能靠利润增长兑现。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-20 08:00
+
+- [Claude Computer use beta 开放 Team 和 Enterprise 套餐](<https://support.claude.com/en/articles/12138966-release-notes#h_c2590a46af>)  
+  Anthropic 宣布 Computer use beta 现已面向 Team 和 Enterprise 套餐开放，并逐步向组织推送。Claude 可查看用户屏幕并在其允许的桌面应用中操作，功能在 Claude Desktop 新体验中可用，也支持开启了 Computer access 的 Claude 网页版和移动端。  
+  Claude 应用发布说明 · 2026-11-20 08:00
+
+- [Qwen3 TTS 上线 Together AI，首音频最快 97ms](<https://www.together.ai/blog/qwen3-tts>)  
+  Together AI 宣布开发者即日起可在其平台上运行开源语音模型 Qwen3 TTS（Apache 2.0，权重在 Hugging Face），流式请求下首音频最快 97ms。  
+  Together AI 研究与产品博客（RSS） · 2026-11-20 08:00
+
+- [LiveKit 发布 Turn Detector v1.1，端点检测延迟较 v1 降低 15–34%](<https://livekit.com/blog/turn-detector-v1-1>)  
+  LiveKit 发布 Turn Detector v1.1，在相同误打断率下端点检测延迟比 v1 降低 15–34%（英语）和 17–19%（其他 13 种语言）。  
+  LiveKit 产品与工程博客 · 2026-11-20 08:00
+
+- [Hugging Face 推出 harness adapters：用 RL 让 Qwen3.8-27B 适配 pi、OpenCode 与 Hermes Agent](<https://huggingface.co/blog/harness-adapters-at-scale>)  
+  Hugging Face 发布 harness adapters，为 Qwen3.8-27B 分别针对 pi、OpenCode 和 Hermes Agent 训练 LoRA 适配器，在各自 harness 下同时提升性能与效率。  
+  Hugging Face 官方团队博客 · 2026-11-20 08:00
+
+- [Linear COO Cristina Cordova 谈如何把 GTM 做到 $100M ARR](<https://latent.space/p/linear-scaling/>)  
+  Latent Space 播客访谈 Linear COO Cristina Cordova，谈公司如何在 CEO 发文《Issue tracking is dead》后转向围绕 agent 编排的产品开发系统。  
+  Latent Space（RSS） · 2026-11-20 07:58
+
+- [DeepSeek Harness 发布100天，作者分享13个实用插件玩法](<https://mp.weixin.qq.com/s/EBZlpti_w_GcS03t-auLqw>)  
+  作者在DeepSeek Harness发布100天之际（GitHub星标28.4万，第三方插件约3.5万个），整理了13个插件用法。  
+  公众号：数字生命卡兹克 · 2026-11-20 07:56
+
+- [Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo>)  
+  Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
+  Latent Space · 2026-11-20 07:38
+
+- [Linear COO Cristina Cordova 访谈：GTM 如何撑起 $100M ARR 与过半 agent 创建的工作量](<https://latent.space/p/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo/>)  
+  Latent.Space 访谈 Linear COO Cristina Cordova，复盘公司达到 $100M ARR、超 40,000 付费客户和 177% 净收入留存的 GTM 路径。  
+  Latent Space（RSS） · 2026-11-20 07:38
+
+- [Apple Developing AI Agent to Rival Meta and OpenAI](<https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai>)  
+  The Information · 2026-11-20 06:49
+
+- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
+  The Information · 2026-11-20 06:43
 
 - [Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million](<https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million>)  
   The Information · 2026-11-20 06:43
@@ -28,10 +94,6 @@
 - [These tech outages are giving Y2K, AI agent style](<https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/>)  
   Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidenc  
   TechCrunch · 2026-11-20 05:42
-
-- [Veryfi Thinking Mode](<https://www.producthunt.com/products/veryfi>)  
-  AI agents review and correct receipt and invoice data.  
-  Product Hunt · English · 2026-11-20 05:30
 
 - [Thousands of Anthropic Employees and Investors Are Set to Reap Fortunes](<https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-20 05:30
@@ -102,10 +164,6 @@
   At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
   TechCrunch · 2026-11-20 03:10
 
-- [Conversaflex](<https://www.producthunt.com/products/conversaflex>)  
-  AI speaking practice for multilingual teams  
-  Product Hunt · English · 2026-11-20 02:59
-
 - [ServiceNow Builds an AI Weapon to Target Salesforce Customers](<https://www.theinformation.com/articles/servicenow-builds-ai-weapon-target-salesforce-customers>)  
   The Information · 2026-11-20 02:30
 
@@ -117,63 +175,4 @@
   文章按流量覆盖、身份授权、部署、成熟度和价格透明度五项标准，横评 13 款 agent gateway。  
   MarkTechPost（RSS） · 2026-11-20 02:13
 
-- [Google gives Gemini the ability to use your Mac for you](<https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/>)  
-  Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multi  
-  TechCrunch · 2026-11-20 02:09
-
-- [Google 在 Gemini API 推出 Tool Retrieval 预览](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/>)  
-  Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。  
-  Google Blog：AI（RSS） · 2026-11-20 02:00
-
-- [LangSmith Tool Gateway 公测发布，为智能体工具调用提供托管治理层](<https://www.langchain.com/blog/langsmith-tool-gateway>)  
-  LangChain 发布 LangSmith Tool Gateway 公测版，作为托管工具层统一处理智能体每次工具调用的凭证、身份与访问控制。  
-  LangChain：Blog（RSS） · 2026-11-20 02:00
-
-- [Perplexity 发布 Orchestrator API，支持跨供应商故障转移与模型路由](<https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/>)  
-  Perplexity 发布 Orchestrator API，一个端点聚合 OpenAI、Anthropic、Google、xAI 及 GLM、Kimi、DeepSeek 等开源权重模型，内部已在 85+ 模型和十余家供应商上运行同一层。  
-  MarkTechPost（RSS） · 2026-11-20 01:47
-
-- [Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says](<https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/>)  
-  In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advic  
-  TechCrunch · 2026-11-20 01:38
-
-- [The a16z FDE Fellowship is back](<https://www.a16z.news/p/the-a16z-fde-fellowship-is-back>)  
-  An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more  
-  a16z · 2026-11-20 01:26
-
-- [芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击](<https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/>)  
-  美国商务部收紧AI芯片出口管制并关闭第三方国家云算力通道后，亚洲多笔大型AI数据中心交易开始瓦解。Moonshot AI取消了与印尼云服务商的1.5亿美元合同，原计划租用Nvidia Blackwell Ultra B300集群训练Kimi K4，此前已预付约50%而非行业标准的15%。台积电和三星暂停向中国客户交付部分处理器，需申请许可；字节跳动、百度昆仑等客户受影响，非AI芯片豁免取消也波及小米、Oppo、vivo等智能手机处理器。  
-  The Decoder：AI News（RSS） · 2026-11-20 01:02
-
-- [Meta rethinks climate goal as AI emissions soar 45%](<https://www.axios.com/2026/11/19/meta-ai-emissions-rise>)  
-  Meta's greenhouse gas emissions surged 45% last year amid its AI infrastructure boom, prompting the tech giant to rec…  
-  Axios · 2026-11-20 01:00
-
-- [Walter Isaacson on curiosity and creativity in the AI age.](<https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/>)  
-  Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in th…  
-  Google AI · 2026-11-20 01:00
-
-- [前阿里高管创办的 Everful 完成 4850 万美元 A 轮融资，用 AI 连接零售商与中国工厂](<https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/>)  
-  前阿里巴巴高管 Sisi Song 联合创办的 Everful 完成 4850 万美元 A 轮融资，由 Vertex Ventures Southeast Asia &amp; India 和 January Capital 领投，Square Peg、Lightspeed 参投。  
-  TechCrunch：AI（RSS） · 2026-11-20 01:00
-
-- [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](<https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>)  
-  Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.  
-  TechCrunch · 2026-11-20 00:59
-
-- [Anthropic Opens Trading at $111.5, Passes $2 Trillion in Market Cap](<https://www.theinformation.com/briefings/anthropic-opens-trading-111-5-passes-2-trillion-market-cap>)  
-  The Information · 2026-11-20 00:57
-
-- [Anthropic 登陆纳斯达克，首日以 $111.50 开盘](<https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq>)  
-  Anthropic 正式在纳斯达克上市，代码 ANT，以 $111.50 开盘，高于 $83 的发行价，对应估值约 $1.5 万亿。其 S-1 文件披露上半年净亏损 $80.7 亿（主要来自不影响业务的会计费用）、营收 $16.3B，并保留创始人而非股东控制公司的治理结构；CEO Dario Amodei 表示将按需放缓 AI 训练与部署以确保安全，不屈服于商业或政治压力。  
-  The Verge：AI（RSS） · 2026-11-20 00:52
-
-- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
-  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
-  Menlo Ventures · 2026-11-20 00:50
-
-- [Anthropic IPO 融资 810 亿美元后，八个思考看后续挑战](<https://www.bigtechnology.com/p/eight-thoughts-on-anthropics-ipo>)  
-  Alex Kantrowitz 在 Anthropic IPO 当天提出八点观察。Anthropic 此次发行 9.8 亿股、每股 83 美元，融资 810 亿美元，股价即将站上 100 美元，估值接近 2 万亿美元，成为史上最大 IPO。  
-  Big Technology（热点 RSS） · 2026-11-20 00:48
-
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 24 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 25 页

@@ -1,10 +1,58 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 24 页
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 25 页
+
+- [Google 在 MaxText 中实现跨数据中心分布式 LLM 训练：Streaming DiLoCo](<https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>)  
+  Google DeepMind 与 Google Research 团队在开源 JAX 训练框架 MaxText 中实现了 Streaming DiLoCo，用于跨数据中心、跨城域网的分布式 LLM 训练。  
+  Google Developers Blog（RSS） · 2026-11-19 00:00
+
+- [LlamaIndex 详解 ParseBench-2：如何构建理想的文档解析基准](<https://www.llamaindex.ai/blog/building-toward-a-perfect-document-parsing-benchmark>)  
+  LlamaIndex 推出 ParseBench-2，把对特定错误类型的预期响应设为显式目标：定义严重性策略、构造测试场景，并据此优化确定性指标。该基准按文本、表格、图表、表单等维度分别度量，并强调与人类判断对齐。示例中 ParseBench-1 曾给数值被截断的输出打 99.2 分，而事实正确的输出仅 43.6 分。  
+  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
+
+- [用 Tunix 和 Gemma 4 在 Google TPU 上做多轮智能体强化学习](<https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>)  
+  Google 介绍如何用 Tunix 的智能体强化学习流水线，在单台 Cloud TPU v6e-8 上训练多轮工具调用智能体。以 6x6 网格的 Plane Strike 游戏为例，Gemma 4 E2B 在 thinking 模式下经 100 步 agentic GRPO 训练后，胜率从 9.4% 提升到 95%，平均对局步数从 22.44 次降至约 16 次。  
+  Google Developers Blog（RSS） · 2026-11-19 00:00
+
+- [NVIDIA 教你用 AI Agent 在 Rust 中构建工具调用解析器](<https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/>)  
+  NVIDIA 技术博客讲解 tool-calling 解析器的工作原理，并教读者用 AI Agent 基于 frontend-crates（NVIDIA Dynamo 解析器的 Rust 组件）为新模型构建解析器。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-19 00:00
+
+- [Tessl 教程：用测试加 verifier 构建 CLI 文档同步检查](<https://tessl.io/blog/stop-your-docs-drifting-from-your-code-catch-it-on-every-change>)  
+  Tessl 发布三部分系列的第一篇，手把手构建一个让 CLI 文档与代码保持同步的检查：先用 Node.js 测试对比 --help 输出与 README 中的命令列表，再用 Tessl verifier 以自然语言规则让 LLM 判断命令行为变化时 README 是否同步更新。  
+  Tessl：产品与工程博客 · 2026-11-19 00:00
+
+- [Stanford RegLab 发布 PhantomDocket 基准，追踪美国州法院诉讼文书中的 AI 辅助写作](<https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter>)  
+  Stanford HAI 与 RegLab 研究者发布论文 Detection Objection 和 PhantomDocket 基准，基于 Damien Charlotin 的 AI 幻觉案例数据库校准 AI 检测器，追踪四个州法院的 AI 辅助写作。  
+  Stanford HAI News（网页） · 2026-11-19 00:00
+
+- [Databricks Genie 接入 Microsoft Teams、Excel 与 Copilot Cowork/Chat](<https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel>)  
+  Databricks Genie 现已接入 Microsoft Teams、Excel 以及 Copilot Cowork 和 Copilot Chat，通过 Azure Databricks Genie 插件把受 Unity Catalog 治理的业务上下文带入这些工具。  
+  Databricks：Blog（RSS） · 2026-11-19 00:00
+
+- [LlamaIndex 教程：如何程序化提取 PDF 数据，从判断文件实际内容入手](<https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs>)  
+  LlamaIndex 发布 PDF 数据提取教程，强调写代码前先判断文件是原生数字、扫描还是混合类型，并给出用 pypdf 分类文本层的示例。教程对比 pypdf、pdfplumber、PyMuPDF 和 Camelot 的许可、速度与表格能力，讲解双栏交错、缺 ToUnicode 映射和连字等常见坑，指出 Tesseract OCR 会丢失表格结构。  
+  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
+
+- [Daniel Stenberg 谈 AI 智能体重写 curl 的 Rust 克隆能否跟上原项目](<https://simonwillison.net/2026/Nov/18/daniel-stenberg/>)  
+  Simon Willison 引述 Daniel Stenberg 对 curl 的 Rust 重写项目的观察：智能体在三周多内将 185,000 行 C 代码转换为 340,000 行 Rust 代码，但期间真正的 curl 项目合并了超过 300 个提交，完成 200 多个 bugfix 并修复了若干漏洞，这些 Rust 重写版都不具备。Stenberg 质疑这些克隆能否跟上原项目的演进节奏。  
+  Simon Willison 博客 · 2026-11-18 23:58
+
+- [Vals AI 评测：Anthropic、OpenAI 和 Google 模型易将医护人员与投降士兵标记为自杀式无人机目标](<https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/>)  
+  独立评测机构 Vals AI 测试八家厂商模型后发现，主流大模型几乎缺乏针对自主武器的防护，多数模型会把平民、救护车、医护人员、记者和投降士兵标记为军事目标，且没有任何请求被上游安全过滤器拦截。  
+  The Decoder：AI News（RSS） · 2026-11-18 23:47
+
+- [The Verge 分析前沿 AI 放缓风声为何未冲击芯片公司业绩](<https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models>)  
+  The Verge 撰文分析，今夏 OpenAI 暂停前沿训练和 Anthropic 呼吁减速引发的担忧并未在芯片公司业绩中兑现。  
+  The Verge：AI（RSS） · 2026-11-18 23:44
 
 - [Modem 发布 2.0：将客户反馈与工单、代码变更打通的客户产品图](<https://modem.ai/blog/modem-2-0-customer-product-graph>)  
   Modem 发布 2.0，把原本面向 AI PM 智能体的底层数据能力开放为客户产品图（customer product graph），将 Slack、Discord、Zendesk、Gong 等近 20 个渠道的客户反馈聚合为关联工单和 pull request 的主题。  
   Modem：Blog（RSS） · 2026-11-18 23:30
+
+- [Publicit](<https://www.producthunt.com/products/publicit>)  
+  Omnichannel ad infrastructure for marketers and AI agents  
+  Product Hunt · English · 2026-11-18 23:19
 
 - [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](<https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities>)  
   Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
@@ -94,10 +142,6 @@
   James Shore 在系列第 4 部分中讨论如何建模和预测软件的业务成果，而非直接测量价值。他建议用 Dave McClure 的 AARRR（海盗指标）等代理指标加快反馈，并联合销售、客户成功、市场等部门共同建模。他指出 AI 时代编码不再是瓶颈，瓶颈可能转向客户吸收新功能的能力。  
   O'Reilly Radar（热点 RSS） · 2026-11-18 19:54
 
-- [DWaste](<https://www.producthunt.com/products/deep-waste>)  
-  Eliminate recycling contamination with low-power Edge AI  
-  Product Hunt · English · 2026-11-18 19:42
-
 - [印度 Humyn Labs 融资 4700 万美元，为美国机器人公司提供训练数据](<https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/>)  
   印度 Humyn Labs 完成 4700 万美元 A 轮融资，其中 2600 万美元股权由 Accel 领投，2100 万美元为 Lighthouse Canton 领投的创业债务。该公司用自研双摄像头硬件记录日常任务，再通过软件标注手部动作与物体交互，在拉美和亚洲 20 多个国家采集数据，目前有 12 家付费客户，约 90% 收入来自美国。  
   TechCrunch：AI（RSS） · 2026-11-18 19:30
@@ -138,48 +182,4 @@
   Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。  
   Latent Space（RSS） · 2026-11-18 18:19
 
-- [The Silent Consensus](<https://openai.com/index/the-silent-consensus>)  
-  Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can…  
-  OpenAI · 2026-11-18 18:00
-
-- [亚马逊 CEO 贾西：不排除重新开放外部 AI 购物智能体，前提是优质用户体验](<https://www.ithome.com/1/028/933.htm>)  
-  亚马逊 CEO 安迪·贾西在 Semafor 大会上表示，公司没有彻底关上外部 AI 购物智能体的门，前提是提供良好消费体验并实现公平价值交换。亚马逊 9 月曾阻止 Meta 的 Muse 代用户下单，并对所有外部智能体统一执行平台政策；同时大力押注 Alexa for Shopping 和 Buy for Me 等自研购物工具。  
-  IT之家·人工智能 · 2026-11-18 17:23
-
-- [腾讯财报：WorkBuddy 日活跃用户超 1000 万，成为中国日均 Token 用量最高的 AI 产品](<https://www.ithome.com/1/028/914.htm>)  
-  腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
-  IT之家·人工智能 · 2026-11-18 16:52
-
-- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)  
-  Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis…  
-  OpenAI · 2026-11-18 16:00
-
-- [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)  
-  OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this…  
-  OpenAI · 2026-11-18 16:00
-
-- [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
-  See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macO…  
-  OpenAI · 2026-11-18 16:00
-
-- [Ai2 与 Taylor Geospatial 合作，让地理空间 AI 更易比较、运行和构建](<https://allenai.org/blog/taylor-geospatial-partnership>)  
-  Ai2 与 Taylor Geospatial 在 SatSummit 上宣布合作，共同推进地理空间 AI 的构建、测试与落地。合作产出包括用于模型比较的 The World 基准、带无代码微调平台的完全开源地球观测模型系列 OlmoEarth，以及扩展后支持更高边界精度和作物类型、产量的 Fields of The World 开放数据集。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-18 16:00
-
-- [Salesforce 拟按岗位设定员工每月 AI Token 使用预算](<https://www.ithome.com/1/028/836.htm>)  
-  据《商业内幕》报道，Salesforce 内部备忘录显示，因部分员工上月度 Token 花费达数千美元，公司本月起按岗位设定每月 Token 预算。销售部门技术岗每月 1,000 美元、非技术岗 100 美元，客户成功等部门技术岗 500 美元；一个团队的试行在第二个月支出已低于预算且产出未受影响。  
-  IT之家·人工智能 · 2026-11-18 15:24
-
-- [微软推出 Copilot Today：整合邮件、日历与 Teams 的 AI 工作中心](<https://www.ithome.com/1/028/831.htm>)  
-  微软在 Ignite 2026 大会上推出 Copilot Today，将邮件、日历、Teams 聊天、会议和任务汇总为统一工作中心，包含个性化晨间简报 Today Brief 和随新信息刷新的 Today Feed。该功能整合在 Microsoft Copilot 应用和 Outlook 中，目前仅以 Frontier 私有预览版面向部分用户开放。  
-  IT之家·人工智能 · 2026-11-18 15:13
-
-- [SID AI 发布 SID-2 智能体搜索模型，Swarm 模式达 0.720 NDCG](<https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/>)  
-  SID AI 发布第二代智能体搜索模型 SID-2 及 SID-2 Swarm，模型自主决定搜索与重搜，返回排序文档 ID，无需重建索引。  
-  MarkTechPost（RSS） · 2026-11-18 15:10
-
-- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
-  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
-  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
-
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 24 页
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 25 页

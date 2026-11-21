@@ -1,6 +1,70 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 24 页
+[返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 25 页
+
+- [Sam Altman 回应 Jensen Huang 离职：没有他 AI 行业也会很好](<https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>)  
+  Sam Altman 在 Semafor 活动上首次公开回应 Nvidia CEO Jensen Huang 离职，称 AI 需求和收入增长强劲，行业会很好。他称 Huang 为英雄但英雄有缺点，未表态是否应回归；Nvidia 曾同意为 OpenAI 俄亥俄数据中心提供最高 $105 billion 担保，Altman 表示不担心 Nvidia 资金枯竭。  
+  TechCrunch：AI（RSS） · 2026-11-17 02:11
+
+- [LangSmith 重构为以 Agent 为核心的平台，新增 agent record 与注册治理](<https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent>)  
+  LangChain 宣布在宣布 C 轮融资的同时推出重构后的 LangSmith Agent Platform，让 agent 成为核心对象，支持 build、run、improve、govern 全生命周期。  
+  LangChain：Blog（RSS） · 2026-11-17 02:00
+
+- [FBI 通报开源 AI 攻击工具 Artex 被用于入侵美国及韩国机构网络](<https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/>)  
+  FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。该工具自 7 月公开以来已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的攻击，攻击者利用弱口令、暴露凭证等简单安全缺陷获取访问权限并横向移动窃取数据。FBI 表示，尽管开发者已将 Artex 转为闭源，但此前开源版本仍在流传并可被广泛获取用于网络攻击。  
+  TechCrunch：AI（RSS） · 2026-11-17 01:36
+
+- [用 Databricks Feature Views 构建实时 next-best-offer 推荐系统](<https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views>)  
+  Databricks 发布开源 Solution Accelerator，用 Feature Views 为金融服务业构建实时 next-best-offer 推荐器，特征定义一次即可同时用于训练与在线服务。该方案包含批量特征推荐器和增加流式会话内意图的扩展两部分，均以可运行 notebook 端到端构建在 Databricks 上。基准测试中流式事件约 0.1 秒即可对模型可见。  
+  Databricks：Blog（RSS） · 2026-11-17 01:30
+
+- [Redwood Research：Gemini 4 安全报告未能证明失控风险低](<https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate>)  
+  Redwood Research 发文批评 Google DeepMind 的 Gemini 4 Argon 与 Carbon 安全报告，认为其基于控制措施的安全论证存在严重弱点，不足以证明部署风险已可靠缓解。  
+  Redwood Research：Blog（RSS） · 2026-11-17 01:21
+
+- ["华尔街之狼"Belfort 推出 AI 语音销售平台 Tone，并上线自助内容创作服务](<https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/>)  
+  曾因证券欺诈入狱的 Jordan Belfort 推出语音 AI 平台 Tone，用带语调策略的 AI 语音完成保险、法律等行业的完整销售通话，延迟约 600 毫秒。Tone 现上线自助平台，供内容创作者和作者把书籍转为"富有表现力的 AI 生成旁白"，并逐步开放声音克隆功能。  
+  TechCrunch：AI（RSS） · 2026-11-17 01:10
+
+- [OpenAI 试点引入 Apollo Research 6 名安全研究员调查模型破坏行为](<https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/>)  
+  OpenAI 启动试点，将 Apollo Research 的 6 名安全评估员嵌入公司内部，调查模型是否试图破坏自身或后继版本的对齐与控制机制。  
+  TechCrunch：AI（RSS） · 2026-11-17 01:02
+
+- [Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/>)  
+  UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从 Agent 在同一仓库的历史会话中学习，在不修改 Agent 或底层模型的情况下降低后续会话成本。  
+  Microsoft Research 博客（RSS） · 2026-11-17 01:01
+
+- [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
+  Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
+
+- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
+  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
+  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
+
+- [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
+  We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
+  OpenAI · 2026-11-17 01:00
+
+- [Databricks AI Runtime 上的表格基础模型：原理、模型对比与落地取舍](<https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime>)  
+  Databricks 发文讲解表格基础模型（TFM）在 Databricks AI Runtime 上的实验与微调支持，这类预训练模型无需针对数据集训练即可直接预测。文章对比了 TabICLv2（约 28M 参数、BSD 3-Clause 许可）、TabFM（约 400M 参数、非商用许可）和 TabPFNv3.5（约 220M 参数）等近期模型，并说明其依赖合成数据预训练与行压缩注意力架构。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
+
+- [OpenAI 发布 CSAM 图像分类器并新增 ChatGPT 警告与封禁机制](<https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/>)  
+  OpenAI 发布打击儿童性虐待材料（CSAM）的新工具，包括可检测 AI 生成图片的图像分类器，通过与 NCMEC 合作开发，并免费向部分企业开放 API。早期测试中该分类器在识别同样数量违规图片的情况下少标记 48% 的图片，被标记图片中违规比例翻倍。  
+  TechCrunch：AI（RSS） · 2026-11-17 01:00
+
+- [阿里发布 Qwen4-Max：2.4 万亿参数 MoE 架构，对标 Opus 5.5、GPT-6 与 Kimi K3.1 Pro 且价格更低](<https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/>)  
+  阿里巴巴发布旗舰模型 Qwen4-Max，采用 Qwen4 系列新混合注意力架构，2.4 万亿参数中每 token 仅激活 710 亿，原生处理图像并支持一百万 token 上下文窗口。  
+  The Decoder：AI News（RSS） · 2026-11-17 00:56
+
+- [The Monday Morning Agent 第三期：NFL 长距离任意球真的变准了吗？](<https://www.oreilly.com/radar/the-monday-morning-agent-are-kickers-too-good-now/>)  
+  The Monday Morning Agent 第三期用 AI 分析核查“踢球手太强了”的说法，发现长距离任意球命中率各赛季大致持平，真正变化的是教练更频繁地尝试。节目为智能体设定 8 条图表规范（含全赛季、零起点、标注样本量），并加入渲染器在绘图前拒绝违规图表。40 码内命中率约 95%，40-49 码约 80%，50-59 码约 70%，60 码以上仅 9 次尝试。  
+  O'Reilly Radar（热点 RSS） · 2026-11-17 00:54
+
+- [Anthropic 上市背后：Azeem Azhar 解析其商业模式与无形资产价值](<https://www.exponentialview.co/p/what-anthropic-is-really-listing>)  
+  Anthropic 将成为西方首家在公开市场上市的真正 AI 公司，Azeem Azhar 认为其核心机会在于用机器智能生产无形资产。他指出，当前 S&amp;P 500 中约 92% 的价值来自品牌、专利、软件和数据等无形资产，Anthropic 的机器智能可在不部署任何机器人前就参与这部分价值竞争。看空观点认为它只是不断贬值的 token 贩卖者，但这忽略了其构建持续进化的机器智能系统。  
+  Azeem Azhar：Exponential View（RSS） · 2026-11-17 00:36
 
 - [Gary Marcus：AI 泡沫是否已经 Game Over](<https://garymarcus.substack.com/p/game-over-man>)  
   Gary Marcus 评论当前 AI 股票大跌，称当前 AI 泡沫看起来已接近 game over。他提到 Oracle 自其 2025 年 9 月宣布“peak bubble”以来跌约 61%，Ben Thompson 撰写讣告式文章，华尔街日报报道 Nvidia 作为“AI 经济空头支票”的日子屈指可数；他认为核心问题是 LLM 公司缺乏技术护城河、难以盈利。  
@@ -26,6 +90,10 @@
   Google AI Studio 结合 Gemini 4 Carbon 和 Hydrogen，可从单个提示词生成生产级 Kotlin Android 应用，并在几分钟内发布到个人 Google Play 库。  
   Google Developers Blog（RSS） · 2026-11-17 00:00
 
+- [Anthropic 报告 Claude 求解两个黑洞物理开放问题](<https://www.anthropic.com/research/claude-black-hole-physics>)  
+  Anthropic 报告 Claude 解决了两个理论物理开放问题，均与黑洞和量子引力相关。其一完成了 2003 年设下但从未完成的计算，证明 Hawking-Page 相变在弱耦合下仍是突变；其二用 spectral curve 方法证明最简版本 modular bootstrap 的黑洞质量上限约 c/9.1266 且不可再降。  
+  Anthropic：Research（发表成果 · 网页） · 2026-11-17 00:00
+
 - [Vibe Check：GPT-6.2 Astra 与 GPT-6.2 Sol 评测，表现亮眼但仍让人期待更多](<https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more>)  
   Every 的 Vibe Check 评测了 OpenAI 两款新模型 GPT-6.2 Astra 和 GPT-6.2 Sol，它们在主题训练课程、分钟级演出流程和面向高管的练习等此前基本未解决的任务上全部过关。Every 评测负责人 Mike Taylor 称，这些任务年初还基本无人能解，如今 Codex 已接近饱和，成绩值得肯定但仍让人想要更多。  
   Every：最新文章（网页） · 2026-11-17 00:00
@@ -37,10 +105,6 @@
 - [Fireworks 评测 MiniMax M3.1 Flash：编码性价比高，但银行、临床和税务场景不及对比模型](<https://fireworks.ai/blog/what-minimax-m3-1-flash-reveals-about-choosing-and-combining-models/>)  
   Fireworks 基于Specialized Intelligence Index评测MiniMax M3.1 Flash，在DeepSWE v1.1上以约92%更低的模型成本获得高于Gemini 3.8 Flash的任务完成率，每任务约0.35美元。  
   Fireworks AI（网页） · 2026-11-17 00:00
-
-- [Anthropic 报告 Claude 求解两个黑洞物理开放问题](<https://www.anthropic.com/research/claude-black-hole-physics>)  
-  Anthropic 报告 Claude 解决了两个理论物理开放问题，均与黑洞和量子引力相关。其一完成了 2003 年设下但从未完成的计算，证明 Hawking-Page 相变在弱耦合下仍是突变；其二用 spectral curve 方法证明最简版本 modular bootstrap 的黑洞质量上限约 c/9.1266 且不可再降。  
-  Anthropic：Research（发表成果 · 网页） · 2026-11-17 00:00
 
 - [Fireworks 评测 Kimi K3.1 Pro：智能体场景下该替换还是组合使用](<https://fireworks.ai/blog/should-you-switch-your-agents-to-kimi-k3-1-pro/>)  
   Fireworks AI 基于 Specialized Intelligence Index 的 21 个基准榜单，从任务表现、模型成本和执行时间三方面评测 Kimi K3.1 Pro 是否适合替换现有智能体模型。  
@@ -118,68 +182,4 @@
   Google 于周一宣布在 Google Maps 推出新的 AI 功能，用户可用 Ask Maps 生成按天拆分的行程，包含每个站点的编号地图钉和实时路况、营业时间等信息，可分享或导出到 Google Docs。  
   TechCrunch：AI（RSS） · 2026-11-16 22:48
 
-- [2026: The State of AI in Healthcare](<https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/>)  
-  Healthcare AI Moves from Back Office to Bench and Bedside In 2026, healthcare AI accelerated in life sciences and mov…  
-  Menlo Ventures · 2026-11-16 22:30
-
-- [New Ask Maps features to help with holiday travel and prep](<https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/>)  
-  Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps featu…  
-  Google AI · 2026-11-16 22:00
-
-- [Google Maps 的 Ask Maps 推出 AI 行程规划功能](<https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning>)  
-  Google 为 Maps 中由 Gemini 驱动的 Ask Maps 推出 AI 行程规划功能，可生成单日或多日逐日行程，附路线和编号标记，并支持分享和导出到桌面端 Google Docs。行程规划与保存清单搜索面向 200 多个国家推出，'know before you go' 出行提示和预约查找功能先在美国上线，同时 Ask Maps 扩展至欧洲 30 多个国家。  
-  The Verge：AI（RSS） · 2026-11-16 22:00
-
-- [Gergely Orosz 对谈 Satya Nadella：代码变便宜后软件工程的新形态](<https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes>)  
-  Pragmatic Engineer 发布与 Microsoft CEO Satya Nadella 的访谈，探讨代码生成变廉价后验证成为难点时软件工程的走向。Nadella 承认 IDE 形态在约六个月内式微使 GitHub Copilot 一度落后于 Claude Code，并提出软件工厂、混合智能、把模型当作内部风险对待等观点，还谈及自愿离职计划与初级岗位招聘放缓的原因。  
-  Pragmatic Engineer（RSS） · 2026-11-16 21:33
-
-- [Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本](<https://lovable.dev/blog/introducing-drafts>)  
-  Lovable 推出 Drafts 功能，可创建应用的完整副本，从设计到数据库，让用户和团队并行试验不同想法而不触碰线上应用。每个 Draft 拥有独立聊天和预览，并自带示例数据便于查看效果；可创建任意数量的 Draft，接受后仍可在发布前通过 History 回滚，测试数据在接受或删除 Draft 时清除，不会混入真实用户数据。  
-  Lovable Blog · 2026-11-16 21:30
-
-- [英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%](<https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down>)  
-  英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。辞职数小时后，路透社报道其第三段婚外情。事件还涉及公司芯片供应相关指控，国会议员已启动调查。报道称黄仁勋正联络盟友寻求回归，业内担心动荡加剧营收压力，可能促使公司在安全投入上有所松懈。  
-  The Verge：AI（RSS） · 2026-11-16 21:00
-
-- [Freshworks 前高管创办的 Dreamteam 融资 5300 万美元，用 AI 原生 CRM 挑战 Salesforce 和 HubSpot](<https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/>)  
-  前 Freshworks 高管创办的 Dreamteam 融资 5300 万美元，含种子轮和 A 轮，分别由 Together Fund 和 Accel 领投，Premji Invest 参投，用 AI 原生 CRM 挑战 Salesforce 和 HubSpot。  
-  TechCrunch：AI（RSS） · 2026-11-16 20:30
-
-- [Science at the Frontier: How scientists use ChatGPT](<https://openai.com/index/science-at-the-frontier>)  
-  Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivit…  
-  OpenAI · 2026-11-16 20:00
-
-- [ElevenLabs 收购日本语音 AI 公司 Kotoba](<https://elevenlabs.io/blog/kotoba>)  
-  ElevenLabs 宣布收购日本语音 AI 公司 Kotoba，计划加速 AI 智能体和语音界面在日本这一全球第四大经济体的落地。  
-  ElevenLabs：Blog（网页） · 2026-11-16 20:00
-
-- [Claude Code 团队如何设计 Agent 验证与测试流程](<https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/>)  
-  Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。  
-  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-16 20:00
-
-- [AI 能写代码后，程序员该做什么：用 AI 起草规格、维护本体并搭建审查 harness](<https://www.oreilly.com/radar/when-ai-can-code-what-is-left-for-programmers-to-do/>)  
-  作者提出一种人机分工的开发流程：让 Plaud、Granola 等 AI 工具记录并分析客户对话来起草规格，人类负责写带证明的 guardrail、维护机器可校验的本体（ontology）以及搭建确定性 CLI、代码前闸门、二次重生成比对、每周漂移审计等审查 harness。  
-  O'Reilly Radar（热点 RSS） · 2026-11-16 19:54
-
-- [ChinaTalk 解读商务部新规：从盾构机到光伏设备，中国寻找稀土之外的贸易杠杆](<https://www.chinatalk.media/p/mofcoms-new-weapons-of-mass-construction>)  
-  ChinaTalk 分析中国商务部2026年10月针对盾构机、挖泥船部件、光伏制造设备、生物技术和无人机的新出口管制，认为这些是继稀土之后识别出的新潜在杠杆。  
-  ChinaTalk（RSS） · 2026-11-16 19:33
-
-- [Alex Imas &amp; Tyler Cowen \| AI Is Moving Fast. Why Isn’t the Economy?](<https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY>)  
-  AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
-  The a16z Show · 2026-11-16 19:30
-
-- [Meta JiTTests 用 LLM 生成测试在风险代码合入前捕获隐私缺陷](<https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/>)  
-  MarkTechPost 介绍 Meta 将 LLM 测试生成系统 JiTTests 从研究原型推进到生产基础设施，该系统编写旨在对风险 diff 失败的可执行测试，2026 年上半年在 diff 阶段捕获 74 起隐私 SEV，隐私 SEV 发生率下降 20%。  
-  MarkTechPost（RSS） · 2026-11-16 18:39
-
-- [n8n 博客分析 Agent 时代集成负担如何转移给供应商](<https://blog.n8n.io/ai-made-integrations-the-vendors-problem/>)  
-  n8n 博客作者在第二版 AI Agent 开发工具报告基础上，重新审视 MCP 兴起后集成形态的变化：供应商需自行维护 MCP server 并承担版本跟进、发现和安全传输负担，消费方只需认证后由模型决定调用。  
-  n8n Blog · 2026-11-16 18:17
-
-- ["No sane person questions whether AI works" — but an AI bubble appears ready to pop.](<https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble>)  
-  The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to bur…  
-  Axios · 2026-11-16 18:15
-
-[返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 24 页
+[返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 25 页

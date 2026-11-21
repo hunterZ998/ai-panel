@@ -1,6 +1,50 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 24 页
+[返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 25 页
+
+- [The Silent Consensus](<https://openai.com/index/the-silent-consensus>)  
+  Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can…  
+  OpenAI · 2026-11-18 18:00
+
+- [亚马逊 CEO 贾西：不排除重新开放外部 AI 购物智能体，前提是优质用户体验](<https://www.ithome.com/1/028/933.htm>)  
+  亚马逊 CEO 安迪·贾西在 Semafor 大会上表示，公司没有彻底关上外部 AI 购物智能体的门，前提是提供良好消费体验并实现公平价值交换。亚马逊 9 月曾阻止 Meta 的 Muse 代用户下单，并对所有外部智能体统一执行平台政策；同时大力押注 Alexa for Shopping 和 Buy for Me 等自研购物工具。  
+  IT之家·人工智能 · 2026-11-18 17:23
+
+- [腾讯财报：WorkBuddy 日活跃用户超 1000 万，成为中国日均 Token 用量最高的 AI 产品](<https://www.ithome.com/1/028/914.htm>)  
+  腾讯发布 2026 年第三季度财报，截至 11 月初 WorkBuddy 日活跃用户数超 1000 万，日均 Token 调用量超 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。  
+  IT之家·人工智能 · 2026-11-18 16:52
+
+- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)  
+  Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis…  
+  OpenAI · 2026-11-18 16:00
+
+- [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)  
+  OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this…  
+  OpenAI · 2026-11-18 16:00
+
+- [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
+  See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macO…  
+  OpenAI · 2026-11-18 16:00
+
+- [Ai2 与 Taylor Geospatial 合作，让地理空间 AI 更易比较、运行和构建](<https://allenai.org/blog/taylor-geospatial-partnership>)  
+  Ai2 与 Taylor Geospatial 在 SatSummit 上宣布合作，共同推进地理空间 AI 的构建、测试与落地。合作产出包括用于模型比较的 The World 基准、带无代码微调平台的完全开源地球观测模型系列 OlmoEarth，以及扩展后支持更高边界精度和作物类型、产量的 Fields of The World 开放数据集。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-18 16:00
+
+- [Salesforce 拟按岗位设定员工每月 AI Token 使用预算](<https://www.ithome.com/1/028/836.htm>)  
+  据《商业内幕》报道，Salesforce 内部备忘录显示，因部分员工上月度 Token 花费达数千美元，公司本月起按岗位设定每月 Token 预算。销售部门技术岗每月 1,000 美元、非技术岗 100 美元，客户成功等部门技术岗 500 美元；一个团队的试行在第二个月支出已低于预算且产出未受影响。  
+  IT之家·人工智能 · 2026-11-18 15:24
+
+- [微软推出 Copilot Today：整合邮件、日历与 Teams 的 AI 工作中心](<https://www.ithome.com/1/028/831.htm>)  
+  微软在 Ignite 2026 大会上推出 Copilot Today，将邮件、日历、Teams 聊天、会议和任务汇总为统一工作中心，包含个性化晨间简报 Today Brief 和随新信息刷新的 Today Feed。该功能整合在 Microsoft Copilot 应用和 Outlook 中，目前仅以 Frontier 私有预览版面向部分用户开放。  
+  IT之家·人工智能 · 2026-11-18 15:13
+
+- [SID AI 发布 SID-2 智能体搜索模型，Swarm 模式达 0.720 NDCG](<https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/>)  
+  SID AI 发布第二代智能体搜索模型 SID-2 及 SID-2 Swarm，模型自主决定搜索与重搜，返回排序文档 ID，无需重建索引。  
+  MarkTechPost（RSS） · 2026-11-18 15:10
+
+- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
+  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
+  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
 
 - [OpenAI 讲解如何用 Agents API 时间感知与异步输入构建有截止时间的个人 Agent](<https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents>)  
   OpenAI 开发者博客通过一个会议准备示例，讲解如何构建需要在截止时间前交付结果的个人 Agent。  
@@ -74,18 +118,6 @@
   Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with l…  
   OpenAI · 2026-11-18 08:00
 
-- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
-  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
-  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
-
-- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
-  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
-  vLLM 官方博客（RSS） · 2026-11-18 08:00
-
-- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
-  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
-  Gemini API：更新日志（网页） · 2026-11-18 08:00
-
 - [二十年逆向工程老手分享 LLM 辅助逆向工作流与开源 Agent 技能](<https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering>)  
   一位有二十年软硬件逆向经验的老手分享其 LLM 辅助逆向工作流，使用 DeepSeek v4.1 Flash 配合 Ghidra MCP bridge、radare2 和 kuna，让 Agent 分析二进制结构并把发现写入 MD 文件避免跑偏。  
   Hacker News：AI 热帖 · 2026-11-18 08:00
@@ -118,6 +150,18 @@
   Mastra 发布 Mastra Factory 新一批能力，包括 intake 接入源、可自定义工作流阶段、云端编码 agent、Cloud Workspaces、Slack 原生体验和任意模型/网关支持，并开放 Custom Factory 早期访问计划。  
   Mastra Blog · 2026-11-18 08:00
 
+- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
+  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
+  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
+
+- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
+  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
+  vLLM 官方博客（RSS） · 2026-11-18 08:00
+
+- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
+  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
+  Gemini API：更新日志（网页） · 2026-11-18 08:00
+
 - [Satya Nadella 称自己已 AGI-pilled，警告单一模型垄断将终结民主](<https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now>)  
   Microsoft CEO Satya Nadella 在 Microsoft Ignite 主题演讲后的圆桌讨论中表示自己在经济层面已 AGI-pilled，认为需关注 AGI 带来的政治经济组织变革。  
   The Verge：AI（RSS） · 2026-11-18 07:41
@@ -138,48 +182,4 @@
   Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview at…  
   Axios · 2026-11-18 07:28
 
-- [微软 Dragon Copilot Transcribe 采用 MAI-Transcribe-2，多语言错误率降约 50%](<https://www.ithome.com/1/028/590.htm>)  
-  微软在 Ignite 2026 宣布医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcribe-2，并承担其 100% 的医患对话转写任务。  
-  IT之家·人工智能 · 2026-11-18 07:27
-
-- [AI Agent Clinic 演示 4 种智能体记忆方案与 3 种上下文压缩方法](<https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02>)  
-  Google Cloud 的 AI Agent Clinic 节目用 TypeScript + ADK 构建的语音智能体 Scribant，对比了 flat prompting、Vector RAG、知识图谱和 Gemini 平台 Memory Bank 四种记忆方案，并给出 40 词滚动窗口、滚动摘要和跨会话 Memory Bank 三种压缩上下文的修复。  
-  Google AI：DEV 作者专属（RSS） · 2026-11-18 07:18
-
-- [Claude Code v2.1.327 发布：新增安装确认与 MCP JSON 读取等修复](<https://github.com/anthropics/claude-code/releases/tag/v2.1.327>)  
-  Claude Code v2.1.327 发布，为 /install-github-app 修改仓库前增加确认步骤，并新增 claude mcp add-json 从 stdin 读取服务器 JSON，避免 token 出现在命令行。  
-  Claude Code：GitHub Releases（RSS） · 2026-11-18 07:17
-
-- [微软发布首款语音对语音模型 MAI Realtime 1，起价每音频分钟 0.01 美元](<https://www.ithome.com/1/028/588.htm>)  
-  微软在 Ignite 2026 大会上发布其首款语音对语音模型 MAI Realtime 1，面向企业实时语音场景，基础使用费为每音频分钟 0.01 美元，推理另按每百万输入 token 1 美元、输出 token 5 美元计费。  
-  IT之家·人工智能 · 2026-11-18 07:15
-
-- ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
-  Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
-  Axios · 2026-11-18 07:15
-
-- [微软发布网络安全模型 MAI Cyber 2 Flash，CyberGym-E2E 成功率 92.3%，每任务成本约为 GPT-6 Astra 的 2%](<https://www.ithome.com/1/028/585.htm>)  
-  微软 AI 部门 11 月 17 日发布面向企业安全团队的专用模型 MAI Cyber 2 Flash，定位高性价比网络安全 AI，用于发现漏洞、推荐修复和调查威胁。  
-  IT之家·人工智能 · 2026-11-18 07:06
-
-- [Nvidia临时CEO重申黄仁勋离任后开源AI战略不变](<https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/>)  
-  Nvidia临时CEO Collette Kress在黄仁勋辞职后的首场财报电话会上重申公司开源AI战略不变。她表示，OpenRouter上每周token量同比增长35倍，近三个月增长3.5倍；公司9月同意以129亿美元收购的Hugging Face交易仍按计划推进，该平台服务超过1.18亿开发者和20万家企业。Kress还提到，Nemotron是OpenRouter上使用最广的美国开源模型。  
-  TechCrunch：AI（RSS） · 2026-11-18 07:04
-
-- [微软发布 MAI Image 2.7 与 2.7 Flash 图像模型，登顶 Artificial Analysis 图像编辑榜](<https://www.ithome.com/1/028/582.htm>)  
-  微软于 11 月 17 日发布 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，并在 Microsoft Foundry 开启公开预览，每千张图片成本分别约为 35 美元和 10 美元。  
-  IT之家·人工智能 · 2026-11-18 06:55
-
-- [Simon Willison 发布编码智能体外部沙箱模式及三套实现](<https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/>)  
-  Simon Willison 与 AI 研究实验室 Prime Radiant 合作，介绍面向编码智能体的外部沙箱模式，智能体在沙箱外运行、待执行代码在专用沙箱内运行，目标是让本地模型实验更安全，避免提示词注入等攻击造成破坏。  
-  Simon Willison 博客 · 2026-11-18 06:52
-
-- [Perplexity Computer 新增 Multiagent 档位：最多 16 个 AI 智能体交叉检查工作](<https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/>)  
-  Perplexity 为 Computer 新增高于 Ultra 的 Multiagent 档位，主智能体最多调度 16 个并行智能体，直接共享发现、编辑共享文件并互相检查，默认团队由 Claude Opus 5.5、GPT 6.1 Sol 和 Gemini 4 Carbon 组成。  
-  MarkTechPost（RSS） · 2026-11-18 06:52
-
-- [谷歌更新 Gemini 隐私控制，可保留聊天记录且不参与 AI 训练](<https://www.ithome.com/1/028/581.htm>)  
-  谷歌发布公告，更新 Gemini 应用的控制选项，用户可在保留聊天记录的同时选择不将其用于生成式 AI 模型训练，并仍可调整保存期限、手动查看或删除记录。若关闭新的“历史记录”设置，之后的聊天内容仍会保存约两个月，用于提供回复、处理反馈及保护安全。  
-  IT之家·人工智能 · 2026-11-18 06:51
-
-[返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 24 页
+[返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 25 页

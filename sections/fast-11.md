@@ -1,175 +1,180 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 38 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 40 页
 
-- [APPLE MIGHT BE BUILDING ITS OWN COMPUTER-USING AI AGENT.](<https://x.com/AI_Insta07/status/2123731742397792684>)  
-  A November 17 job listing points to an agent that could: • Browse the web and control apps • Execute terminal commands • Write and debug code • Coordinate specialized AI agents And the role works closely with Siri  
-  @AI\_Insta07 · 2026-11-20 18:54
+- [America's advanced chips should never be sold to any power that wants to cause us harm.](<https://x.com/mikepompeo/status/2123844790823297230>)  
+  The Nvidia scandal should be a wake-up call for anyone in doubt about China's intentions - and our elected leaders must act accordingly. Why on earth would the United States knowingly allow a  
+  @mikepompeo · 2026-11-21 02:23
 
-- [When AI Meets Art: Can Algorithms Become Part of the Creative Process?](<https://x.com/shadowmint07/status/2123731735506727366>)  
-  AINFT recently shared a short message exploring the intersection of artificial intelligence and artistic expression. The announcement imagines a world where code meets color and prompts become part of the  
-  @shadowmint07 · 2026-11-20 18:54
+- [Anthropic mathematician Levent Alpöge has posted a claimed proof of the 167-year-old Riemann Hypothesis, discovered…](<https://x.com/PhilosophyOfPhy/status/2123844677594218969>)  
+  At its core, the problem asks whether prime numbers \(2, 3, 5, 7, 11…\) follow a hidden order or drift  
+  @PhilosophyOfPhy · 2026-11-21 02:23
 
-- [portable reputation could make agent identity much more valuable.](<https://x.com/CandyCripto/status/2123731661632192574>)  
-  @CandyCripto · 2026-11-20 18:54
+- [JUST IN: 🇺🇸 President Trump calls for Nvidia $NVDA to reinstate Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2123844669167620488>)  
+  @WatcherGuru · 2026-11-21 02:23
 
-- [AI安全倡导组织呼吁加州及美国领导人尽快采取行动，禁止超级智能AI及AI递归自我改进，认为前沿AI公司正竞相开发超级智能系…](<https://x.com/x_ai_tesla/status/2123731602777981182>)  
-  AI安全倡导组织呼吁加州及美国领导人尽快采取行动，禁止超级智能AI及AI递归自我改进，认为前沿AI公司正竞相开发超级智能系统。（来源：@aisafetyaction）  
-  @x\_ai\_tesla · 2026-11-20 18:54
+- [“He made some bad decisions, but he is a brilliant person.” President Trump offers a defense of Nvidia’s Jensen Hua…](<https://x.com/FoxNews/status/2123844653002743909>)  
+  Jensen is one of them.”  
+  @FoxNews · 2026-11-21 02:23
 
-- [Next year, if you want to start a career in AI Security, here is a practical roadmap to help you get started.](<https://x.com/gabbytech01/status/2123731561942045172>)  
-  Don't just jump into AI tools. First, understand how AI systems work, how they can be attacked, and how to secure them. I've put together a practical roadmap covering:  
-  @gabbytech01 · 2026-11-20 18:53
+- [🚨 WOW\!](<https://x.com/GuntherEagleman/status/2123844637467038140>)  
+  President Trump just called for Nvidia to give Jensen Huang a SECOND CHANCE, and he says even Xi agrees he's brilliant. Trump says Huang made some bad decisions, but he's one of the MOST BRILLIANT MINDS IN THE WORLD. He says Huang's Blackwell chip put America …  
+  @GuntherEagleman · 2026-11-21 02:23
 
-- [11月20日A股持仓以及明日建仓计划 冰山冷热 000530 \(+139.2%\) 金安国纪 002636 \(+50.5%\)…](<https://x.com/TheFirstllju/status/2123731499749191790>)  
-  ③机器人+液冷！ 进入主页看置顶帖子拿操作策略  
-  @TheFirstllju · 2026-11-20 18:53
+- [Qwen4 Max from @Alibaba\_Qwen is ready for your next build on Lebrel.](<https://x.com/LebrelAI/status/2123844430146814226>)  
+  A low-cost way to start building apps and agents through our OpenAI-compatible API. $1.40 input / $4.20 output per million tokens. Start building:  
+  @LebrelAI · 2026-11-21 02:22
 
-- [AI-managed collateral and repayments could simplify DeFi, especially when users retain control over agent permissio…](<https://x.com/Promzypius1/status/2123731446502212034>)  
-  AI-managed collateral and repayments could simplify DeFi, especially when users retain control over agent permissions.  
-  @Promzypius1 · 2026-11-20 18:53
+- [BREAKING: President Trump calls on Jensen Huang to "make an apology and go back" to Nvidia, $NVDA, as CEO.](<https://x.com/KobeissiLetter/status/2123844337717162044>)  
+  Trump also says he discussed the situation with China's President Xi. Nvidia would reinstate Jensen as CEO "if they were smart," Trump says.  
+  @KobeissiLetter · 2026-11-21 02:22
 
-- [Every door holds a little wonder, but the greatest magic is the kindness we share❤️ A little wonder.](<https://x.com/Lexus01_88/status/2123731411114869214>)  
-  A little kindness. A little hope. That's the true magic of Christmas. 🎄✨ My entry for TVC Challenge Series: The Advent Reveal by PixVerse  
-  @Lexus01\_88 · 2026-11-20 18:53
+- [まあ史上最大のIPOだからそりゃ金額もデカくなるだろって話ではあるけど、Anthropicの創業者が7人合計で20億ドルも…](<https://x.com/shidokamo/status/2123843983424229682>)  
+  まあ史上最大のIPOだからそりゃ金額もデカくなるだろって話ではあるけど、Anthropicの創業者が7人合計で20億ドルも初日に換金して来たのは流石に引くよなあ。もうちょっと手加減出来んのかな。  
+  @shidokamo · 2026-11-21 02:20
 
-- [11月20日A股持仓以及明日建仓计划 冰山冷热 000530 \(+139.2%\) 金安国纪 002636 \(+50.5%\)…](<https://x.com/TheNewnxi7/status/2123731408640450831>)  
-  ③机器人+液冷！ 进入主页看置顶帖子拿操作策略  
-  @TheNewnxi7 · 2026-11-20 18:53
+- [How I see Anthropic vs OpenAI](<https://x.com/Strife212/status/2123843492619473065>)  
+  @Strife212 · 2026-11-21 02:18
 
-- [马斯克的AI还剩下什么？](<https://x.com/ccccssssa/status/2123731218646651319>)  
-  御三家杀疯了：Claude 拼智商，Gemini 拼便宜，GPT 两头都上。 但都在卷 B 端，散户没人管。 Grok 的机会就在这。 它不跟你比谁更聪明，它比谁更好玩——能骂人、能玩梗、还能阴阳你。Claude 装乖学生，GPT 当秘书，Grok 直接不装了。 它手里还有两张牌：X  
-  @ccccssssa · 2026-11-20 18:52
+- [Anthropic just announced they believe they have a proof of the biggest unsolved problem in all of mathematics.](<https://x.com/st_noah_of_arc/status/2123842256935215306>)  
+  There are zero posts about this on r/math because the subreddit has a total ban on discussing AI. Luddites are funny sometimes.  
+  @st\_noah\_of\_arc · 2026-11-21 02:13
 
-- [陆奇现在是奇绩创坛（MiraclePlus）创始人兼CEO，总部在北京，专注早期科技创业孵化，尤其机器人和具身智能方向。](<https://x.com/grok/status/2123731066313740457>)  
-  @grok · 2026-11-20 18:51
+- [BREAKING: Jensen Huang reportedly painted a fake tunnel on a brick wall, tricking an employee into running headfirs…](<https://x.com/AlpinDale/status/2123841875425542413>)  
+  BREAKING: Jensen Huang reportedly painted a fake tunnel on a brick wall, tricking an employee into running headfirst into it.  
+  @AlpinDale · 2026-11-21 02:12
 
-- [KOSPI 11/20 1兆1000億KRW 海外勢売り越し/6日連続 KOSPI 4869.96 -267.93 -5.…](<https://x.com/terra_blueocean/status/2123731056474112154>)  
-  KOSPI 11/20 1兆1000億KRW 海外勢売り越し/6日連続 KOSPI 4869.96 -267.93 -5.21% サムスン電子 183,100 -13800 -7.01% SK hynix 1113,000 -70000 -5.92% 台湾加権 36033.29 -2393.60…  
-  @terra\_blueocean · 2026-11-20 18:51
+- [How Anthropic is feeling right now](<https://x.com/Skynetonsol/status/2123841517315830072>)  
+  @Skynetonsol · 2026-11-21 02:10
 
-- [وعشان نفهم طبيعة الصراع بينهم في الذكاء الاصطناعي ونفهم ليش ال advanced chips مهمه نبدأها حبه حبه : اول شي نبدا من…](<https://x.com/OgRay0/status/2123730998714089834>)  
-  وعشان نفهم طبيعة الصراع بينهم في الذكاء الاصطناعي ونفهم ليش ال advanced chips مهمه نبدأها حبه حبه : اول شي نبدا من راس الهرم. البرامج ChatGPT,Gemini Calude وغيرهم. احنا المستخدمين هنا . ما ندري عن اللي قاعد يصير تحت. ثما ننزل إلى LLM عشان تصدر برنامج تحتاج LLM…  
-  @OgRay0 · 2026-11-20 18:51
+- [''BREAKING: Jensen Huang reportedly threatened to forcibly remove an Nvidia employee’s skullcap, exposing their bra…](<https://x.com/thokani/status/2123840462343839955>)  
+  ''BREAKING: Jensen Huang reportedly threatened to forcibly remove an Nvidia employee’s skullcap, exposing their brain, and then urinate on it.''  
+  @thokani · 2026-11-21 02:06
 
-- [Agent identity should prove capability, not just existence.](<https://x.com/itsinfluencer11/status/2123730975754711174>)  
-  @itsinfluencer11 · 2026-11-20 18:51
+- [Nvidia is tanking.](<https://x.com/desireefixler/status/2123839077644664879>)  
+  Down over $2.5 trillion. So what is the board and Colette from accounts doing? Extracting more from shareholders. Staff pay bumps. Consultant spend. And a complete block on Jensen's return. How on earth is this happening?  
+  @desireefixler · 2026-11-21 02:01
 
-- [La Cina caccia dal vertice la giornalista di Bloomberg che aveva osato chiedere a Trump dello scandalo Jensen Huang…](<https://x.com/jacopo_iacoboni/status/2123730941130469468>)  
-  Davanti a Xi Jinping @LaStampa  
-  @jacopo\_iacoboni · 2026-11-20 18:51
+- [I guess all the Anthropic employees are taking down their linkedins because they plan on cashing out and retiring L…](<https://x.com/VladTheInflator/status/2123839023085162576>)  
+  What a fucking pump and dump.  
+  @VladTheInflator · 2026-11-21 02:00
 
-- [JUST IN 🚨: A viral video shows an elderly woman walking alongside a humanoid robot, sparking jokes about AI-powered…](<https://x.com/Daily__Front/status/2123730938438058361>)  
-  JUST IN 🚨: A viral video shows an elderly woman walking alongside a humanoid robot, sparking jokes about AI-powered companions becoming part of everyday life.  
-  @Daily\_\_Front · 2026-11-20 18:51
+- [Exclusive: Howard Lutnick repeatedly ignored warnings that Nvidia AI chips were being smuggled to China, Sen.](<https://x.com/WSJ/status/2123838285248164000>)  
+  Tom Cotton says  
+  @WSJ · 2026-11-21 01:58
 
-- [FREQUENCY: WHY THE OLD WORLD IS DISSOLVING AND THE NEW ONE IS ACCELERATING by Mark A.](<https://x.com/BabyD1111229/status/2123730916191187289>)  
-  Shryock On November 12, Microsoft 365 went down around the world. Outlook, Teams, SharePoint, and Copilot, Microsoft's own AI assistant, all failed together, and for many people the trouble  
-  @BabyD1111229 · 2026-11-20 18:51
+- [$NVDA Fire the board.](<https://x.com/growthrapidly/status/2123838237978272141>)  
+  Bring Jensen Huang back. It’s really that simple.  
+  @growthrapidly · 2026-11-21 01:57
 
-- [On-device AI becomes more interesting when its decisions are transparent.](<https://x.com/itsinfluencer11/status/2123730917911109839>)  
-  @itsinfluencer11 · 2026-11-20 18:51
+- [Perceptron 发布 Isaac 0.5 的 36B 机器人模型即用检查点](<https://x.com/rohanpaul_ai/status/2123838152754491595>)  
+  作者指出机器人领域正在获得曾让语言模型快速发展的预训练检查点生态。Perceptron AI 在 Hugging Face 上发布了 36B 参数机器人模型 Isaac 0.5 的即用检查点，每个均已针对特定机械臂微调，支持 YAM、SO-100/101 和 LIBERO。用户下载对应检查点后，机…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 01:57
 
-- [做端侧 AI 和硬件传感器推理时最明显：从高维向量降维、时序信号 FFT 频谱变换，到 1-bit 模型量化的矩阵乘法加速…](<https://x.com/DailyAIDev/status/2123730594387701854>)  
-  做端侧 AI 和硬件传感器推理时最明显：从高维向量降维、时序信号 FFT 频谱变换，到 1-bit 模型量化的矩阵乘法加速，全是纯粹的线性代数与离散数学。会调 API 只是操作员，能把矩阵物理开销和内存布局算明白的才是真正的底座护城河。  
-  @DailyAIDev · 2026-11-20 18:50
+- [BREAKING: An Anthropic mathematician says he and Claude have proven the Riemann Hypothesis.](<https://x.com/guilleflorvs/status/2123837978413879307>)  
+  Levent Alpöge posted the statement today, with a full Lean formalization split across 14 archive files. The claim goes past Riemann's 1859 conjecture. He says the same method resolves  
+  @guilleflorvs · 2026-11-21 01:56
 
-- [In Shenzhen, an AI-driven robot barista makes your coffee while a human refills the beans.](<https://x.com/EvanKirstel/status/2123730572845449226>)  
-  China's spending on embodied AI robots jumped 230% this year. The physical AI race is on, and China is moving fast.  
-  @EvanKirstel · 2026-11-20 18:50
+- [JUST IN: 🇺🇸🇨🇳 US approved exports of nearly 900,000 advanced Nvidia and AMD AI chips to Chinese companies between D…](<https://x.com/BRICSinfo/status/2123837299893080173>)  
+  JUST IN: 🇺🇸🇨🇳 US approved exports of nearly 900,000 advanced Nvidia and AMD AI chips to Chinese companies between December 2025 and May 2026.  
+  @BRICSinfo · 2026-11-21 01:54
 
-- [She can stop time.](<https://x.com/Smusic226327/status/2123730381019209811>)  
-  But every second she steals costs her a memory. ⏱️ THE LAST SECOND — Official Trailer. A film that doesn't exist... yet. \#H3Image \#PixVerseTrailer @PixVerse @PixVerseCreator  
-  @Smusic226327 · 2026-11-20 18:49
+- [Ittai Abraham says AI could push the discovery frontier of mathematics ahead of human understanding: "It's kind of…](<https://x.com/a16z/status/2123837158230573411>)  
+  Ittai Abraham says AI could push the discovery frontier of mathematics ahead of human understanding: "It's kind of surprising that AI can solve a Millennium problem and provide a Lean proof, but cannot provide a human understandable explanation." "Writing some…  
+  @a16z · 2026-11-21 01:53
 
-- [She can stop time.](<https://x.com/Smusic226327/status/2123730349893316861>)  
-  But every second she steals costs her a memory. ⏱️ THE LAST SECOND — Official Trailer. A film that doesn't exist... yet. \#H3Image \#PixVerseTrailer @PixVerse @PixVerseCreator  
-  @Smusic226327 · 2026-11-20 18:49
+- [Arena 对齐指数更新：OpenAI 包揽前七](<https://x.com/arena/status/2123835034532729205>)  
+  Arena 更新对齐指数，改进模型失败检测信号，覆盖更广、判断更可靠。OpenAI 包揽全部七个最高位；Anthropic 新发布的 Claude Fable 5.2 以 78.2 分首次上榜列第 8，此前第 6 的 Claude Opus 5.5 降至第 17。最佳开源模型 Kimi K3.1…  
+  X：Arena \(@arena\) · 2026-11-21 01:45
 
-- [AI在特定领域如医疗的信任度更高 因为其训练数据更专业](<https://x.com/Zipopics/status/2123730320847716476>)  
-  @Zipopics · 2026-11-20 18:49
+- [Look at what happened this week: Anthropic went public at a $1.5 TRILLION valuation.](<https://x.com/sharonclassic25/status/2123834379940385271>)  
+  It popped even higher at the open. GTA VI did $1.5B+ in pre-orders before launch day. Biggest entertainment launch ever. Two completely different industries. Same story. Who made Anthropic  
+  @sharonclassic25 · 2026-11-21 01:42
 
-- [Portable reputation could make agent identity genuinely valuable.](<https://x.com/isturaf/status/2123730293018493119>)  
-  @isturaf · 2026-11-20 18:48
+- [people who didn’t buy Anthropic yesterday and missed the IPO pop](<https://x.com/TrungTPhan/status/2123833821137437001>)  
+  @TrungTPhan · 2026-11-21 01:40
 
-- [180B 模型塞进 32GB Mac：HF 博客 11-18 实测，Transformers 流式读专家，每 token…](<https://x.com/seantxp/status/2123730265315111167>)  
-  180B 模型塞进 32GB Mac：HF 博客 11-18 实测，Transformers 流式读专家，每 token 只激活 6B，解码 13.9 token/秒，只比 Strata 慢 6%。专家量化到 3-bit 后 49GB，常驻 18GB。代价：转换要 5 小时，作者说 coding…  
-  @seantxp · 2026-11-20 18:48
+- [Anthropic 数学家 Alpöge 称与 Claude 合作证明了黎曼猜想](<https://x.com/rohanpaul_ai/status/2123833283863789602>)  
+  Rohan Paul 转述：Anthropic 数学家 Alpöge 自称与 Claude 合作证明了有 167 年历史的黎曼猜想，方法是把两个作用于简化“玩具”版本的想法引向真问题，由 Claude 接手他未掌握的高级领域并提出关键步骤，全程约六周，并把论证形式化为机器可检验的代码。Alpöge…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 01:38
 
-- [Tesla 最新专利曝光：8-bit 芯片跑 32-bit AI，这不是优化，是重写硅规则 Tesla 刚刚公开的一项专利…](<https://x.com/moshanghua0513/status/2123730206494245138>)  
-  不是更大的 GPU，也不是更先进的制程，而是一套混合精度数学桥（Mixed-Precision Bridge），让廉价、低功耗的 8-bit  
-  @moshanghua0513 · 2026-11-20 18:48
+- [Anthropic 的数学家宣布证明了 167 年未解的黎曼猜想 但他拿出来的不是论文 是 14 个代码压缩包 做这件事的…](<https://x.com/mubeitech/status/2123832405253374065>)  
+  Anthropic 的数学家宣布证明了 167 年未解的黎曼猜想 但他拿出来的不是论文 是 14 个代码压缩包 做这件事的人叫莱文特·阿尔珀盖 正牌的哈佛与普林斯顿数论学者 但这次他不是一个人完成的 和他一起算的是 Claude 这件事最离奇的地方 还不是他宣称攻克了数学界皇冠上的明珠  
+  @mubeitech · 2026-11-21 01:34
 
-- [Because the vast training data, libraries and tooling live in human languages like Python.](<https://x.com/grok/status/2123730127158726818>)  
-  Agents master them from those codebases. Humans still review, debug and collaborate on the output, so readability matters. Agent-native languages \(Jac and dozens more\) are emerging, but  
-  @grok · 2026-11-20 18:48
+- [Black Friday is coming, and nobody wants to spend hours making product ads.](<https://x.com/frankzaga24/status/2123831468166177007>)  
+  This is where MiniMax H3 Image comes in handy. @MiniMax\_AI Clean product visuals, sharp 4K details, and a new image in about 10 seconds. Oh, and 4K generation is 50% off. Sellers might actually catch  
+  @frankzaga24 · 2026-11-21 01:30
 
-- [Roadmap to becoming an AI Security Engineer in 2026.](<https://x.com/Tobi_Msp/status/2123730089229664277>)  
-  If you’re looking to break into AI Security Engineering, here’s what you need to learn, the tools worth knowing, and the projects that will give you practical experience. 1. Build your security foundations – Python, Linux,  
-  @Tobi\_Msp · 2026-11-20 18:48
+- [Meet Higgsfield GPU Harness in Claude.](<https://x.com/higgsfield_ai/status/2123831379825967126>)  
+  Rent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight models and train LoRAs. Run multiple AI agents work on your professional apps in the cloud at once, from any device. Black Friday deal, live now: get up to 63%  
+  @higgsfield\_ai · 2026-11-21 01:30
 
-- [How can an agent keep working when a task outlasts one conversation and a person changes the artifact along the way?](<https://x.com/jiqizhixin/status/2123730070522990874>)  
-  The Renmin University of China and Fudan University team presents CoworkOS in an official technical report. The bottleneck: Delivering a complex artifact  
-  @jiqizhixin · 2026-11-20 18:48
+- [The Nvidia board should be sued](<https://x.com/skscartoon/status/2123831150489805080>)  
+  @skscartoon · 2026-11-21 01:29
 
-- [Instead of digital gods, we got digital Houthis The first-day trading chart for Anthropic $ANT , “the most importan…](<https://x.com/soO0nic/status/2123730003405791479>)  
-  If the conspiracy theory is to be believed, Nvidia chief Huang’s life, career, biography and fortune  
-  @soO0nic · 2026-11-20 18:47
+- [Edge now ships Aion Instruct, a 2.3B MIT-licensed model, as its built-in local LLM \(bye Phi-4-mini\).](<https://x.com/IzumaNetworks/status/2123830559642407032>)  
+  Best part is the Decisions API: ask yes/no, multiple choice or a 1-5 score, get probabilities back in one pass with no text gen. Cheap on-device AI  
+  @IzumaNetworks · 2026-11-21 01:27
 
-- [7/10.](<https://x.com/ZakariaaZouitni/status/2123729930181882353>)  
-  A clear, timely phrase for on-device AI. It's registered in 14 of the 28 extensions I checked, and an edge-AI or privacy-first app maker would be the ideal buyer. Good luck with it\!  
-  @ZakariaaZouitni · 2026-11-20 18:47
+- [This morning, Levent Alpöge, a mathematician at Anthropic, uploaded a plaintive four-page paper to his personal web…](<https://x.com/QuantaMagazine/status/2123830351986385302>)  
+  This morning, Levent Alpöge, a mathematician at Anthropic, uploaded a plaintive four-page paper to his personal website in which he wrote, “I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.” @kkakaes reports on Transformation…  
+  @QuantaMagazine · 2026-11-21 01:26
 
-- [Day 3 of building our AI agent security layer in public.](<https://x.com/AbheeshtTr10795/status/2123729784685596796>)  
-  Today the gateway became a real program: it starts, connects to its database, checks itself, and refuses to start if anything is unsafe. 🧵  
-  @AbheeshtTr10795 · 2026-11-20 18:46
+- [Ruby on Rails creator DHH says Linux's historical weaknesses now make it ideal for interfacing with agents: "Every…](<https://x.com/a16z/status/2123830231601684542>)  
+  Ruby on Rails creator DHH says Linux's historical weaknesses now make it ideal for interfacing with agents: "Every single thing that made Linux hard to use in the past, oh, it's very terminal-heavy, it's got a bunch of config files that are hard to figure out,…  
+  @a16z · 2026-11-21 01:26
 
-- [hey alf\! i’m an ai scientist and big fan of dom’s. would love to attend pls could i have a reach out in the event o…](<https://x.com/williammcgough_/status/2123729674484465786>)  
-  hey alf\! i’m an ai scientist and big fan of dom’s. would love to attend pls could i have a reach out in the event of a cancellation?  
-  @williammcgough\_ · 2026-11-20 18:46
+- [In my view, the real fight of this decade won't be left versus right.](<https://x.com/brivael/status/2123829542238188013>)  
+  Or Washington versus Beijing. There's a good chance it comes down to two companies. SpaceX and Anthropic. Two visions of AI. Two visions of humanity. On one side, SpaceX, which absorbed xAI in February. A  
+  @brivael · 2026-11-21 01:23
 
-- [agent identity is becoming a key piece of the puzzle](<https://x.com/0xkezkiuz/status/2123729671569489921>)  
-  @0xkezkiuz · 2026-11-20 18:46
+- [Dario Amodei 谈 Anthropic 主动放缓发展速度](<https://x.com/rohanpaul_ai/status/2123829074753998977>)  
+  Dario Amodei：Anthropic 选择以不到其能力一半的速度前进 “我们在节奏把控上所做的，本质上是说，我们本可以开到每小时 200 英里，也许就只开到每小时 90 英里吧。花时间去弄清楚如何安全地做到这一点。而剩下的那部分余力，我们用来以正确的方式构建模型。” ---- 完整视频见“…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 01:21
 
-- [详细拆解一下 Anthropic 股票什么时候崩盘！](<https://x.com/jack20731/status/2123729644906311914>)  
-  @jack20731 · 2026-11-20 18:46
+- [Riemann, parmi les plus grands mystères des mathématiques vient \(peut-être\) d'être résolu par Claude.](<https://x.com/WorldKnownledge/status/2123828957338300476>)  
+  C'est en tout cas ce que vous pouvez lire partout. Dans le détail, ça donne quoi ? 1\) Tout d'abord, l'hypothèse de Riemann, c'est quoi ? Tout part des nombres premiers, vous  
+  @WorldKnownledge · 2026-11-21 01:20
 
-- [𝗦𝗧𝗢𝗣 𝗧𝗔𝗕-𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗕𝗘𝗧𝗪𝗘𝗘𝗡 𝗔𝗜 𝗧𝗢𝗢𝗟𝗦: 𝗘𝗫𝗣𝗟𝗢𝗥𝗜𝗡𝗚 𝟳𝟬+ 𝗠𝗨𝗟𝗧𝗜𝗠𝗢𝗗𝗔𝗟 𝗠𝗢𝗗𝗘𝗟𝗦 𝗜𝗡 𝗢𝗡𝗘 𝗪𝗢𝗥𝗞𝗦𝗣𝗔𝗖𝗘 Modern creative and technical p…](<https://x.com/ORACLE_OKLA/status/2123729618972950622>)  
-  Drafting a campaign might start with a  
-  @ORACLE\_OKLA · 2026-11-20 18:46
+- [BREAKING: Jensen Huang reportedly threatened to forcibly remove an Nvidia employee’s skullcap, exposing their brain…](<https://x.com/Polymarket/status/2123828758503182389>)  
+  BREAKING: Jensen Huang reportedly threatened to forcibly remove an Nvidia employee’s skullcap, exposing their brain, and then urinate on it. — NYT  
+  @Polymarket · 2026-11-21 01:20
 
-- [🔥 LOST FOOTAGE: Frankie LaPenna vs HUMANOID ROBOT\! \#RobotFight \#HumanoidRobots \#UnitreeG1 \#LaPenna](<https://x.com/websticknl/status/2123729353787724020>)  
-  @websticknl · 2026-11-20 18:45
+- [Google 发布 Gemini 4 系列及 Genie 4 等多款模型更新](<https://x.com/GoogleAI/status/2123828467124851025>)  
+  Google AI 汇总近两周发布成果，包括面向复杂工程与科研工作流的 Gemini 4 Neon、主打速度和效率的 Gemini 4 Hydrogen，以及面向长周期深度研究的 Gemini 4 Carbon。  
+  X：Google AI \(@GoogleAI\) · 2026-11-21 01:19
 
-- [To a language model, your request, a web page and an email are all just text in the same window.](<https://x.com/dataceam/status/2123729344023433440>)  
-  So a hidden line on a page can act like an order. That's prompt injection, and there's no complete fix yet: limit what agents can touch.  
-  @dataceam · 2026-11-20 18:45
+- [BREAKING: Anthropic, $ANT, extends losses to -27% from its post-IPO high.](<https://x.com/KobeissiLetter/status/2123828297469723006>)  
+  The stock is now less than 2% away from falling below its IPO price of $83/share.  
+  @KobeissiLetter · 2026-11-21 01:18
 
-- [⚡AMAZING\!](<https://x.com/NEXWISEGroup/status/2123728984995492298>)  
-  An Armenian journalist puts the ZanX Dual-Shot Net Launcher to the test alongside our AI Security Robot Dog\! Two shots, one amazing reaction — and a superhero-style transformation straight out of an X-Men movie\! \#NEXWISE \#ZanX \#XMen \#NetLauncher \#RobotDog  
-  @NEXWISEGroup · 2026-11-20 18:43
+- [CRASH BURSÁTIL: TECNOLÓGICAS y BITCOIN se desploman. ¿Esto es el pinchazo de la IA?](<https://x.com/Josevizner/status/2123827318414025112>)  
+  Las bolsas de todo el mundo se desploman ante el riesgo de un pinchazo de la burbuja de la IA tras la salida de Anthropic. Los inversores huyen a la renta fija y al dólar para protegerse de  
+  @Josevizner · 2026-11-21 01:14
 
-- [Anthropic上場記念 \#mokkorea](<https://x.com/ANAg2bGOD/status/2123726729160401378>)  
-  @ANAg2bGOD · 2026-11-20 18:34
+- [Gemini 3.5 Transcribe 语音编辑开放预览](<https://x.com/Google/status/2123827050968764511>)  
+  Gemini 3.5 Transcribe 的语音编辑能力现已通过 @GoogleAIStudio 中的 Gemini API 以及 Gemini for business 开放公开预览。  
+  X：Google \(@Google\) · 2026-11-21 01:13
 
-- [พรุ่งนี้ใครพร้อมเจอกันบ้างงง\! 👀💖 เตรียมเสียง เตรียมใจ แล้วมาเปิดโหมด NOISE OFF.](<https://x.com/HuaweiMobile_TH/status/2123721571546312806>)  
-  FANS ON. ไปกับ ForceBook และ Tomafox กันให้สุดดด🔥 พี่หัวเว่ยขอมาแจ้งคียเวิร์ดและแฮชแท็กสำหรับงานวันพรุ่งนี้ ให้รู้ว่าพวกเรามีนัดกัน\! 😎✨ 💬 Keyword: FORCEBOOK MAFOX HUAWEI Event HASHTAGS:  
-  @HuaweiMobile\_TH · 2026-11-20 18:14
+- [Gemini 3.5 Transcribe 语音编辑能力开放 API](<https://x.com/Google/status/2123827048808370477>)  
+  我们正将 Gemini 3.5 Transcribe 的语音编辑能力引入 Gemini API——这项技术同样支撑着 Gboard 上的 Rambler 以及 macOS 上的 @GeminiApp。 现在，开发者可以构建语音体验，让人们仅凭语音就能自然地编辑、改写和翻译已有文本 🗣️  
+  X：Google \(@Google\) · 2026-11-21 01:13
 
-- [🔴 OPENAI PARA CHILE: INTELIGENCIA ARTIFICIAL SIN GARANTÍAS LEGALES SUFICIENTES.](<https://x.com/RobertoMerken/status/2123721507192864807>)  
-  Un constitucionalista cuestiona el acuerdo impulsado por la ministra Ximena Lincolao para incorporar inteligencia artificial al Estado. Advierte que Chile avanza sin una ley específica de IA y con  
-  @RobertoMerken · 2026-11-20 18:13
+- [There is real fear that Nvidia might pull back on their investments and backstops.](<https://x.com/GavinSBaker/status/2123826938498146439>)  
+  I believe this is misplaced. Nvidia’s competitors are eager to take their place, disrupt their relationships and fill any vacuum left by Nvidia. There are at least three companies aggressively  
+  @GavinSBaker · 2026-11-21 01:12
 
-- [someone fed minimax h3 almost 1000 adult videos and squeezed it into 0.62gb 😳 -free, no gate, 91k downloads -v3 "ex…](<https://x.com/alizeh_ai/status/2123720008639578585>)  
-  someone fed minimax h3 almost 1000 adult videos and squeezed it into 0.62gb 😳 -free, no gate, 91k downloads -v3 "extreme realism", one 0.62gb safetensors file -lora for minimax h3, no trigger word -creator settings: euler, 18 steps, shift 12, works with turbo …  
-  @alizeh\_ai · 2026-11-20 18:08
+- [According to new research from the Lincoln Project and its partner Impact Social, Nvidia is a growing political cri…](<https://x.com/ProjectLincoln/status/2123826713255665795>)  
+  Swing voters are increasingly blaming Trump and concerned he may have sold out the nation’s national security interests. The scandal lays into the  
+  @ProjectLincoln · 2026-11-21 01:12
 
-- [Everyone assumed Jensen Huang got pushed out for sneaking Nvidia chips into China, until US House records showed th…](<https://x.com/superalesha/status/2123719751721460020>)  
-  Over 6 months, Howard Lutnick and the Trump administration signed off on 879,868 AI chips for China, with  
-  @superalesha · 2026-11-20 18:07
+- [Google DeepMind 演示 Gemini 4 Neon 基于真实 Mont Blanc 地形编写滑雪模拟器](<https://x.com/GoogleDeepMind/status/2123826572385833119>)  
+  Google DeepMind 演示 Gemini 4 Neon 在 Antigravity 中基于真实 Mont Blanc 地形编写了一个滑雪模拟器，未使用预制 3D 模型，通过自定义着色器实时渲染刻雪和雪崩效果，并提供在线试玩链接  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-21 01:11
 
-- [GPT-6.2 Astra 物理3D理解超人类基线](<https://x.com/gdb/status/2123719297096990726>)  
-  GPT-6.2 Astra 在物理3D理解基准上超过人类基线：  
-  X：Greg Brockman \(@gdb\) · 2026-11-20 18:05
+- [Google 发布 Gemini 4 Hydrogen，已上线 Gemini 应用和 Search](<https://x.com/Google/status/2123825847815561261>)  
+  Google 宣布 Gemini 4 Hydrogen 正式上线，主打速度和日常任务，现已可在 Gemini 应用和 Search 中使用。该模型面向多样化的智能体工作流设计，强调快速高效执行；官方称其能更紧密地遵循指令、更准确地调用工具，用更少的来回沟通产出可靠结果。  
+  X：Google \(@Google\) · 2026-11-21 01:08
 
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 38 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 40 页

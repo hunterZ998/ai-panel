@@ -1,6 +1,70 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 24 页
+[返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 25 页
+
+- [2026: The State of AI in Healthcare](<https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/>)  
+  Healthcare AI Moves from Back Office to Bench and Bedside In 2026, healthcare AI accelerated in life sciences and mov…  
+  Menlo Ventures · 2026-11-16 22:30
+
+- [New Ask Maps features to help with holiday travel and prep](<https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/>)  
+  Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps featu…  
+  Google AI · 2026-11-16 22:00
+
+- [Google Maps 的 Ask Maps 推出 AI 行程规划功能](<https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning>)  
+  Google 为 Maps 中由 Gemini 驱动的 Ask Maps 推出 AI 行程规划功能，可生成单日或多日逐日行程，附路线和编号标记，并支持分享和导出到桌面端 Google Docs。行程规划与保存清单搜索面向 200 多个国家推出，'know before you go' 出行提示和预约查找功能先在美国上线，同时 Ask Maps 扩展至欧洲 30 多个国家。  
+  The Verge：AI（RSS） · 2026-11-16 22:00
+
+- [Gergely Orosz 对谈 Satya Nadella：代码变便宜后软件工程的新形态](<https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes>)  
+  Pragmatic Engineer 发布与 Microsoft CEO Satya Nadella 的访谈，探讨代码生成变廉价后验证成为难点时软件工程的走向。Nadella 承认 IDE 形态在约六个月内式微使 GitHub Copilot 一度落后于 Claude Code，并提出软件工厂、混合智能、把模型当作内部风险对待等观点，还谈及自愿离职计划与初级岗位招聘放缓的原因。  
+  Pragmatic Engineer（RSS） · 2026-11-16 21:33
+
+- [Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本](<https://lovable.dev/blog/introducing-drafts>)  
+  Lovable 推出 Drafts 功能，可创建应用的完整副本，从设计到数据库，让用户和团队并行试验不同想法而不触碰线上应用。每个 Draft 拥有独立聊天和预览，并自带示例数据便于查看效果；可创建任意数量的 Draft，接受后仍可在发布前通过 History 回滚，测试数据在接受或删除 Draft 时清除，不会混入真实用户数据。  
+  Lovable Blog · 2026-11-16 21:30
+
+- [英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%](<https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down>)  
+  英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。辞职数小时后，路透社报道其第三段婚外情。事件还涉及公司芯片供应相关指控，国会议员已启动调查。报道称黄仁勋正联络盟友寻求回归，业内担心动荡加剧营收压力，可能促使公司在安全投入上有所松懈。  
+  The Verge：AI（RSS） · 2026-11-16 21:00
+
+- [Freshworks 前高管创办的 Dreamteam 融资 5300 万美元，用 AI 原生 CRM 挑战 Salesforce 和 HubSpot](<https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/>)  
+  前 Freshworks 高管创办的 Dreamteam 融资 5300 万美元，含种子轮和 A 轮，分别由 Together Fund 和 Accel 领投，Premji Invest 参投，用 AI 原生 CRM 挑战 Salesforce 和 HubSpot。  
+  TechCrunch：AI（RSS） · 2026-11-16 20:30
+
+- [Science at the Frontier: How scientists use ChatGPT](<https://openai.com/index/science-at-the-frontier>)  
+  Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivit…  
+  OpenAI · 2026-11-16 20:00
+
+- [ElevenLabs 收购日本语音 AI 公司 Kotoba](<https://elevenlabs.io/blog/kotoba>)  
+  ElevenLabs 宣布收购日本语音 AI 公司 Kotoba，计划加速 AI 智能体和语音界面在日本这一全球第四大经济体的落地。  
+  ElevenLabs：Blog（网页） · 2026-11-16 20:00
+
+- [Claude Code 团队如何设计 Agent 验证与测试流程](<https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/>)  
+  Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。  
+  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-16 20:00
+
+- [AI 能写代码后，程序员该做什么：用 AI 起草规格、维护本体并搭建审查 harness](<https://www.oreilly.com/radar/when-ai-can-code-what-is-left-for-programmers-to-do/>)  
+  作者提出一种人机分工的开发流程：让 Plaud、Granola 等 AI 工具记录并分析客户对话来起草规格，人类负责写带证明的 guardrail、维护机器可校验的本体（ontology）以及搭建确定性 CLI、代码前闸门、二次重生成比对、每周漂移审计等审查 harness。  
+  O'Reilly Radar（热点 RSS） · 2026-11-16 19:54
+
+- [ChinaTalk 解读商务部新规：从盾构机到光伏设备，中国寻找稀土之外的贸易杠杆](<https://www.chinatalk.media/p/mofcoms-new-weapons-of-mass-construction>)  
+  ChinaTalk 分析中国商务部2026年10月针对盾构机、挖泥船部件、光伏制造设备、生物技术和无人机的新出口管制，认为这些是继稀土之后识别出的新潜在杠杆。  
+  ChinaTalk（RSS） · 2026-11-16 19:33
+
+- [Alex Imas &amp; Tyler Cowen \| AI Is Moving Fast. Why Isn’t the Economy?](<https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY>)  
+  AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
+  The a16z Show · 2026-11-16 19:30
+
+- [Meta JiTTests 用 LLM 生成测试在风险代码合入前捕获隐私缺陷](<https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/>)  
+  MarkTechPost 介绍 Meta 将 LLM 测试生成系统 JiTTests 从研究原型推进到生产基础设施，该系统编写旨在对风险 diff 失败的可执行测试，2026 年上半年在 diff 阶段捕获 74 起隐私 SEV，隐私 SEV 发生率下降 20%。  
+  MarkTechPost（RSS） · 2026-11-16 18:39
+
+- [n8n 博客分析 Agent 时代集成负担如何转移给供应商](<https://blog.n8n.io/ai-made-integrations-the-vendors-problem/>)  
+  n8n 博客作者在第二版 AI Agent 开发工具报告基础上，重新审视 MCP 兴起后集成形态的变化：供应商需自行维护 MCP server 并承担版本跟进、发现和安全传输负担，消费方只需认证后由模型决定调用。  
+  n8n Blog · 2026-11-16 18:17
+
+- ["No sane person questions whether AI works" — but an AI bubble appears ready to pop.](<https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble>)  
+  The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to bur…  
+  Axios · 2026-11-16 18:15
 
 - [自媒体作者分享10条指挥Agent最常用的Prompt](<https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA>)  
   作者让Agent整理出自己近两个月指挥Agent干活最常用的10条Prompt并分享，包括从第一性原理找根因、先对齐喜好再出3版方案、推演改动二阶三阶影响、假设最优方案错误找反例、分析Git历史识别可移除的历史包袱、评估新工程师接手的认知成本、复盘Bug和返工并沉淀成规则或Skill等。作者希望对大家指挥Agent开发有用。  
@@ -81,10 +145,6 @@
 - [Advancing computer-use agents for healthcare teams](<https://openai.com/index/advancing-computer-use-for-healthcare-teams>)  
   OpenAI · 2026-11-16 14:00
 
-- [Tripmojo](<https://www.producthunt.com/products/tripmojo>)  
-  Agentic travel app that helps plan, book and run your trip  
-  Product Hunt · English · 2026-11-16 13:30
-
 - [腾讯混元发布 Hy4 flash：224B 总参、12B 激活，单任务成本约 Hy4 的 5%](<https://www.ithome.com/1/027/630.htm>)  
   腾讯混元团队宣布正式推出 Hy4 flash，总参数量 224B（含 64B Engram 参数），每 token 激活 12B，支持多模态输入与 100 万 token 上下文，官方定位为性价比最高的 Hy 模型。  
   IT之家·人工智能 · 2026-11-16 13:09
@@ -121,64 +181,4 @@
   国家统计局新闻发言人王冠华在国新办发布会上表示，人工智能快速发展带动部分装备行业价格上行。10 月份电气机械和器材制造业、计算机通信和其他电子设备制造业价格环比均上涨 0.1%，同比分别上涨 6.2% 和 5.9%，两行业合计影响 PPI 同比上涨约 1.18 个百分点。  
   IT之家·人工智能 · 2026-11-16 11:59
 
-- [阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60%](<https://www.ithome.com/1/027/512.htm>)  
-  阿里通义千问团队发布新一代旗舰模型 Qwen4-Max，采用 2.4 万亿参数稀疏 MoE 架构，原生支持视觉理解，提供 100 万 token 上下文窗口。  
-  IT之家·人工智能 · 2026-11-16 10:07
-
-- [腾讯公布总办 LinkTime 播客原文，号召所有业务面向 AI 时代再创业](<https://www.ithome.com/1/027/509.htm>)  
-  腾讯在 28 周年生日当天将年度总办 LinkTime 做成播客，并公布现场笔记原文，回应外界猜测。内容提出智能革命是不进则退的生死问题，所有核心业务要面向 AI 时代再创业、组织扁平化、打破山头主义；称 AI 金字塔核心模型已进入国内第一梯队，WorkBuddy 在 8 个月内成为中国提供最多 token 的单一 AI 产品，元宝定位决策资讯参谋，小微目标是让大家实现 token 自由。  
-  IT之家·人工智能 · 2026-11-16 10:03
-
-- [Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力](<https://qwen.ai/blog?id=qwen4-max>)  
-  Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。  
-  Qwen：Blog Retrieval（API） · 2026-11-16 10:00
-
-- [Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题](<https://www.ithome.com/1/027/505.htm>)  
-  Anthropic CEO 达里奥·阿莫迪上周五在纽约与摩根大通 CEO 杰米·戴蒙公开对谈，称算力是公司面临的最深层商业难题，并表示上市的重要原因就是增加现金储备，为高度不确定的算力需求提供缓冲。  
-  IT之家·人工智能 · 2026-11-16 09:52
-
-- [借鉴 Claude 常驻智能体指南的省 token 提示词技巧](<https://mp.weixin.qq.com/s/Zt7GxF84UxSHMEJmn6qRzQ>)  
-  作者把 Anthropic 常驻智能体指南的五组件（事件收件箱、定时器、记忆、权限、发件箱）翻译成一段提示词写入自己的 Grok bot，解决定时任务空转浪费额度的问题。  
-  公众号：卡尔的AI沃茨 · 2026-11-16 09:36
-
-- [Apple 联合 OpenEvidence 推出研究 App，探索临床数据支撑的健康 AI 问答](<https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>)  
-  Apple 与医疗 AI 公司 OpenEvidence 合作推出新研究 App，计划在美国招募最多 200,000 名 21 岁以上、使用 iPhone 15 及以上和 iOS 26 及以上并开启 Apple Intelligence 的用户，研究超过 12 个月。  
-  TechCrunch：AI（RSS） · 2026-11-16 09:30
-
-- [Apple 联合 OpenEvidence 启动 Health AI Usage Study，招募至多 20 万人评估健康 AI 工具](<https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools>)  
-  Apple 宣布与临床 AI 平台 OpenEvidence 合作开展 Apple Health AI Usage Study，旨在了解人们如何使用对话式健康 AI 工具并评估回答的准确性、细节和相关性。  
-  The Verge：AI（RSS） · 2026-11-16 09:26
-
-- [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
-  Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
-  IT之家·人工智能 · 2026-11-16 09:01
-
-- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
-  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
-  Hugging Face 官方团队博客 · 2026-11-16 08:00
-
-- [Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent](<https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces>)  
-  Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。  
-  Conductor 官方更新 · 2026-11-16 08:00
-
-- [The King’s Trust and OpenAI launch £1m partnership](<https://openai.com/index/the-kings-trust-and-openai>)  
-  The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical…  
-  OpenAI · 2026-11-16 08:00
-
-- [At Holiday Extras, dots get to work before anyone asks](<https://openai.com/business/customer-stories/holiday-extras-dots>)  
-  Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the comm…  
-  OpenAI · 2026-11-16 08:00
-
-- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
-  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
-  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
-
-- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
-  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
-  Ollama：Blog（RSS） · 2026-11-16 08:00
-
-- [SpaceXSI 分享用 Grok Bot 搭建五岗位会计团队的方法](<https://x.ai/news/grok-bot-accounting>)  
-  SpaceXSI 分享如何用 Grok Bot 组建由五个 Bot 组成的会计团队，分别负责开户、开票、账单支持、收款对账和催收，并称这些工作若由人工承担需将团队人数翻倍以上。  
-  xAI：News（网页） · 2026-11-16 08:00
-
-[返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 24 页
+[返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 25 页

@@ -1,6 +1,58 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 24 页
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 25 页
+
+- [火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API](<https://mp.weixin.qq.com/s/fyNH7Y6o32kxc4GeK8Qb3A>)  
+  火山引擎正式上线豆包实时音视频通话模型 SeedRealtime 1.0 的 API 服务，将声音、画面、时序与表达统一到同一个端到端模型，实现边看、边听、边说的实时多模态交互，减少 ASR、VLM、TTS 级联带来的延迟与信息损耗。  
+  公众号：火山引擎 · 2026-11-19 14:36
+
+- [Arborum获得种子前轮融资](<https://www.itjuzi.com/investevent/14708243>)  
+  Arborum是一家电网 AI 科技研发商，面向电力电网、通信网络等关键基础设施构建 AI 世界模型，学习网络内部因果逻辑，可完成故障根因定位、运行场景模拟、运维动作建议，覆盖需求预测、电网优化、停电管理、网络故障排查等场景，电信复杂…  
+  IT桔子 · 2026-11-19 14:34
+
+- [Fermat获得800万美元种子轮融资](<https://www.itjuzi.com/investevent/14708241>)  
+  Fermat 是一家时尚行业 AI 平台开发商，打造时尚垂直生成式 AI 工具层，内置 50 + 设计、视觉、生产对接工具，支持草图转效果图、面料替换、虚拟模特穿搭、营销素材生成，并通过 Techpacks 功能将设计稿直接转化为工厂…  
+  IT桔子 · 2026-11-19 14:27
+
+- [Alpine获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708238>)  
+  Alpine是一家保险科技研发商，定位新型特种险管理总代理（MGA）。公司从 0 搭建自研 Summit 核保平台，原生融合 AI 辅助能力与资深核保专家判断，可完成投保材料结构化、风险数据富集、报价建议输出全流程，初期聚焦工匠承包商…  
+  IT桔子 · 2026-11-19 14:17
+
+- [昆仑万维 SkyProduction 上线营销工作室，打通广告创意到成片流程](<https://mp.weixin.qq.com/s/lhI0YEDz6zAqH5eXI-D21w>)  
+  昆仑万维旗下 SkyProduction 天工工作台正式推出「营销工作室」，将 AI 创作能力拓展至商业广告与营销内容生产场景。产品整合创意案例库、营销 Skill、AI Agent 与可视化画布，覆盖短剧带货、TVC 广告片、UGC 种草、爆款视频复刻等场景，并支持爆款素材裂变生成多版本广告、商品视觉物料一站式生成，以及视频翻译与多渠道画幅适配。  
+  公众号：昆仑万维（天工） · 2026-11-19 14:14
+
+- [Volcano](<https://www.producthunt.com/products/volcano-3>)  
+  The self-healing agent cloud by Kong  
+  Product Hunt · English · 2026-11-19 14:11
+
+- [Storipod获得战略投资](<https://www.itjuzi.com/investevent/14708229>)  
+  Storipod是一家叙事内容创作与分发平台，面向非洲作家、出版社、影视工作室与品牌，搭建覆盖内容入库、版权管控、多端分发、商业化变现的一体化基础设施，支持图书、连载故事、漫画等故事类 IP 运营，自研 AI 语音朗读与推荐匹配能力，…  
+  IT桔子 · 2026-11-19 14:01
+
+- [镁伽完成近2亿美元新一轮融资](<https://www.itjuzi.com/investevent/14708194>)  
+  镁伽科技是中国机器人技术应用领域领先的自主智能体（Autonomous agents）提供商，致力于为智慧实验室与智能制造场景提供全面的自主智能体及多智能体解决方案。我通过高度智能化的软硬件系统，推动行业加速迈向高效、精准、可持续的智…  
+  IT桔子 · 2026-11-19 13:36
+
+- [英伟达收紧对云厂商的采购担保，需通过融资与验收才生效](<https://www.ithome.com/1/029/268.htm>)  
+  据 The Verge 报道，英伟达在最新财报电话会上收紧对 AI 公司的支持门槛，临时首席执行官科莱特·克雷斯（Colette Kress）表示，对新云（neocloud）厂商的采购担保只有在对方完成融资、建成数据中心、部署算力并通过英伟达验收后才生效，建设延期或受阻则担保不再存在。  
+  IT之家·人工智能 · 2026-11-19 13:08
+
+- [消息称 OpenAI 手机组装订单花落富士康旗下富智康](<https://www.ithome.com/1/029/267.htm>)  
+  据证券时报报道，富士康旗下富智康集团获得 OpenAI 手机项目订单，将承担整机组装；每日经济新闻援引供应链消息称，OpenAI 首款 AI 硬件计划于 2026 年底启动出货，立讯精密独家承担整机制造并供应核心零部件。此前传闻称该设备由 OpenAI 与 Jony Ive 的 LoveFrom 合作开发，可能是一款无屏设备，定价或在 300 至 400 美元区间，均未获官方确认。  
+  IT之家·人工智能 · 2026-11-19 13:01
+
+- [彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲](<https://www.ithome.com/1/029/265.htm>)  
+  彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。  
+  IT之家·人工智能 · 2026-11-19 12:49
+
+- [Nutrient Data Extraction API 支持按 JSON Schema 提取并附带逐字段引用与置信度](<https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/>)  
+  Nutrient（原 PSPDFKit）的 Data Extraction API 将 PDF、扫描件、图片和 Office 文件解析为空间 JSON 或 Markdown，每个字段附页码、边界框、match 标签和置信度。  
+  MarkTechPost（RSS） · 2026-11-19 11:23
+
+- [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
+  无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
+  IT桔子 · 2026-11-19 11:15
 
 - [腾讯大幅削减元宝投入，刘炽平承认其未达预期](<https://www.ithome.com/1/029/192.htm>)  
   腾讯 11 月 18 日发布 2026 年第三季度业绩，总裁刘炽平在业绩会上坦言 AI 助手元宝没有达到预期，腾讯已大幅削减在元宝上的投入，重心回到提升模型能力。微信 AI 助手小微正在扩大用户测试池，日活用户已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。元宝于 2024 年 5 月发布，今年春节红包活动后曾公布日活超 5000 万、月活 1.14 亿。  
@@ -129,56 +181,4 @@
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
   Axios · 2026-11-19 06:16
 
-- [Anthropic 以每股 83 美元定价 IPO，估值达 1.5 万亿美元](<https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/>)  
-  Anthropic 据报道将 IPO 定价定为每股 83 美元，高于 70 至 78 美元的初始区间，完全稀释估值达 1.5 万亿美元，将于周四在纳斯达克以代码 ANT 上市。  
-  TechCrunch：AI（RSS） · 2026-11-19 06:11
-
-- [Anthropic IPO 是否对投资者和社会都是坏赌注？](<https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both>)  
-  Gary Marcus 对即将到来的 Anthropic IPO 高估值提出质疑，认为其收入已不再像 Q2 那样高速增长，中国模型追赶上后用户开始更谨慎地控制 token 支出，收入趋于平缓。他还认为 Dario 在医疗等领域的激进承诺不切实际，并呼吁为人类福祉考虑不要购买 Anthropic 股票。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-19 05:45
-
-- [Google DeepMind 发布 Gemini 4 Neon](<https://deepmind.google/blog/introducing-gemini-4-neon/>)  
-  Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。模型在 Artificial Analysis Intelligence Index 得 61 分排第 3，Vals Index 排第 2，Agent Arena Index 以 1336 分全球第 2。  
-  Google DeepMind：Blog（RSS） · 2026-11-19 05:35
-
-- [Palmer Luckey 警告：AI 驱动的网络攻击正超越防御能力，“该跑起来了”](<https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/>)  
-  Palmer Luckey 在《纽约时报》DealBook 峰会上警告，AI 驱动的网络攻击速度已超过老旧系统的防御能力，攻击者与防御方之间存在明显错配。他称美国对手正利用这一差距发动兼具战略与财务目的的攻击，朝鲜参与尤为突出。他认为长期看优势将属于最有效运用 AI 防御的一方，但防御方必须加快节奏，“该跑起来了”。  
-  TechCrunch：AI（RSS） · 2026-11-19 05:34
-
-- [Understanding AI 用19张图表解析AI行业现状](<https://www.understandingai.org/p/19-charts-that-explain-the-state>)  
-  Understanding AI 发布19张图表，量化AI对美国经济和就业的影响。文中提到 Anthropic 即将上市，估值或超万亿美元，OpenAI 预计明年跟进；五大科技公司2026年第三季度资本支出达2300亿美元，AI收入年化运行率达3450亿美元，但新增企业采用放缓，年轻软件工程师就业明显下滑。  
-  Timothy B. Lee：Understanding AI（RSS） · 2026-11-19 05:34
-
-- [Palmer Luckey 就 Nvidia CEO 人事变动发表看法](<https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/>)  
-  TechCrunch 报道，Anduril CEO Palmer Luckey 在纽约时报 DealBook Summit 上就 Nvidia 领导层变动发表看法，认为相关变动可能影响美国产业竞争力，并呼吁 Nvidia 恢复创始人黄仁勋的 CEO 职位。报道称，已有超过 20 万人联署请愿，包括马斯克及多家科技公司 CEO；Nvidia 临时 CEO Colette Kress 在财报电话会上表示，公司暂无重新任命黄仁勋的计划。  
-  TechCrunch：AI（RSS） · 2026-11-19 05:31
-
-- [Google 发布 Gemini 4 Neon，一个月内第四个新 Gemini 模型](<https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/>)  
-  Google 发布 Gemini 4 Neon，定位复杂软件工程、知识工作和科学工作流的快速端到端任务完成。API 定价为每百万输入 token 3 美元、输出 15 美元，高于 Carbon 和 Argon 的 $2/$10（12 月 1 日起翻倍至 $4/$20）及 Hydrogen 的 $1.50/$7.50。  
-  The Decoder：AI News（RSS） · 2026-11-19 05:03
-
-- [Databricks 推出 Genie Migrate for Serverless，用智能体把经典工作负载迁到 Serverless](<https://www.databricks.com/blog/introducing-genie-migrate-serverless>)  
-  Databricks 发布 Beta 版 Genie Migrate for Serverless，这个智能体可把作业和 notebook 从经典计算迁移到 Serverless 计算。它先评估哪些工作负载可迁移，再把计算配置、库与 Spark 配置、代码改动以 diff 形式提交审核，确认后才应用并支持回退。用户可在 Genie 中用 /compute migrate 命令启动，无需额外配置。  
-  Databricks：Blog（RSS） · 2026-11-19 05:00
-
-- [Sam Altman 回应 Andrew Garfield 在新片《Artificial》中饰演自己](<https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/>)  
-  Sam Altman 在纽约时报 DealBook 峰会上回应 Andrew Garfield 将在圣诞档上映的传记喜剧剧情片《Artificial》中饰演自己，称若 20 年前有人说要拍他的电影会觉得非常奇怪，如今已排不进他人生最怪的前十件事。该片讲述 OpenAI 的崛起以及他 2023 年被短暂罢免引发的内部动荡。  
-  TechCrunch：AI（RSS） · 2026-11-19 04:07
-
-- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](<https://www.youtube.com/watch?v=wX8nDtGIfYA>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
-  Latent Space · 2026-11-19 04:00
-
-- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
-  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
-  Axios · 2026-11-19 04:00
-
-- [Snapchat 推出 Easy Lens CLI，开发者可用 Claude Code、Cursor 等 AI 编码助手构建 AR Lenses](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>)  
-  Snapchat 宣布推出 Easy Lens CLI，让 Lens 创作者用 Claude Code、Cursor、Codex 等 AI 编码助手以自然语言构建 AR Lenses。  
-  TechCrunch：AI（RSS） · 2026-11-19 03:56
-
-- [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
-  RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
-  Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
-
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 24 页
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 25 页

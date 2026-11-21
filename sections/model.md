@@ -38,31 +38,66 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 285 条
+## 相关资讯 · 288 条
+
+- [Thinking Machines 发布开源循环 MoE 模型 Inkling 2 Mini，26.4B 参数可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、激活 3.4B，中间层权重每 token 复用 3 次，checkpoint 约 20GB，可在 32GB 内存 Mac 或 1 台 NVIDIA DGX Spark 上运行。  
+  MarkTechPost（RSS） · 2026-11-21 20:13
+
+- [【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地](<https://www.tmtpost.com/8213535.html>)  
+  （11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkB…  
+  钛媒体 · 2026-11-21 19:19
+
+- [华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等](<https://www.ithome.com/1/030/423.htm>)  
+  IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大…  
+  IT之家 · 2026-11-21 17:57
+
+- [Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑](<https://36kr.com/p/4079074198705280?f=rss>)  
+  北京时间11月20日凌晨，AI大模型巨头Anthropic正式登陆纳斯达克，IPO募资约为813亿美元，加上完成的260亿美元私募配售，整体募资规模达1073亿美元，打破此前由SpaceX保持的全球IPO募资纪录。 上市首日，Anthrop  
+  36氪 · 2026-11-21 14:16
+
+- [Anthropic 上市后 7 位联合创始人靠 F 类股共同掌握 50.1% 投票权](<https://www.ithome.com/1/030/348.htm>)  
+  据 Business Insider 报道，Anthropic 上市后通过特殊股权设计，让包括 CEO Dario Amodei 在内的 7 位联合创始人共同掌握 50.1% 股东投票权。  
+  IT之家·人工智能 · 2026-11-21 13:14
+
+- [东南亚AI中间商之死](<https://www.tmtpost.com/8213274.html>)  
+  算力中间商的淘金时代，结束了。  
+  钛媒体 · 2026-11-21 13:05
+
+- [清析智研王欢：大模型学完了人类知识，下一步去哪儿？](<https://www.tmtpost.com/8213250.html>)  
+  AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？  
+  钛媒体 · 2026-11-21 12:44
+
+- [丹佛斯展示AI数据中心全链路液冷方案](<https://www.163.com/tech/article/LC8QG2KR00098IEO.html>)  
+  网易科技 · 2026-11-21 12:33
 
 - [谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆](<https://36kr.com/p/4078984519750789?f=rss>)  
   谷歌内部，或许真正实现了RSI！ 从此，Gemini已能「继承经验」持续自我进化，Gemini新模型不再从零开始！ 或许也正是这个原因，谷歌最近跟疯了似的不停发模型。 Gemini 4 Hydrogen才发布不到一周，更强的Gemini 4  
   36氪 · 2026-11-21 12:06
 
-- [腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型](<https://www.ithome.com/1/030/338.htm>)  
-  IT之家 11 月 21 日消息，11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。 问答环节，有人询问：…  
-  IT之家 · 2026-11-21 11:24
+- [Baseten 发布基于 Gemma 4 的决策模型 Bison-1 与 Groundhog-1，登顶 Decision Index](<https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/>)  
+  Baseten 发布开源权重决策模型 bison-1 和 groundhog-1，基于 Google 的 Gemma 4 训练，只返回校准概率而不生成文本。  
+  MarkTechPost（RSS） · 2026-11-21 12:01
+
+- [腾讯混元姚顺雨团队 AMA：Hy4 仍有改进空间，计划训练更大规模模型](<https://www.ithome.com/1/030/338.htm>)  
+  腾讯首席 AI 科学家姚顺雨与混元团队 11 月 21 日凌晨在 Reddit 进行 120 分钟 AMA。针对为何不做 3 万亿以上超大模型的提问，团队回应 Hy3 和 Hy4 表明扎实的小模型也能超过更大的模型且成本更低，但 Hy4 仍有很大改进空间，尤其在通过后训练改进方面，正投入大规模强化学习，并计划训练更大规模的模型。  
+  IT之家·人工智能 · 2026-11-21 11:24
 
 - [OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%](<https://www.ithome.com/1/030/319.htm>)  
-  IT之家 11 月 21 日消息，当地时间 11 月 20 日，OpenAI 发布公告介绍了针对「对抗性蒸馏」（Adversarial Distillation）的防御措施。 OpenAI 称其已加强 GPT-6.2 Astra 和…  
-  IT之家 · 2026-11-21 09:45
-
-- [Edge AI Daily 早报（11月21日）](<https://www.tmtpost.com/8213305.html>)  
-  苹果以Siri争夺系统级代理入口，OpenAI将ChatGPT改为多模块工作台，微软用USB4 RDMA聚合多机算力，谷歌直采HBM重构TPU供应链。亚洲股市创2020年3月以来最大单周跌幅，AI支出进入回报审计。  
-  钛媒体 · 2026-11-21 09:19
+  OpenAI 发布公告介绍针对对抗性蒸馏的防御措施，加强了 GPT-6.2 Astra 和 GPT-6.2 Sol 对内部推理思考链的保护。  
+  IT之家·人工智能 · 2026-11-21 09:45
 
 - [AI供电前史： 照明、汽车与工业电子如何汇入算力基础设施](<https://36kr.com/p/4078758591960197?f=rss>)  
   2008年北京奥运会，国家游泳中心“水立方”在夜色中变成了一块巨大的蓝色发光体。支撑这幅科技奥运景观的，是当时仍在快速产业化的发光二极管（LED）照明。对观众来说，这是一个醒目的城市景观；对产业来说，它是中国半导体照明产业交上的一份应用验证  
   36氪 · 2026-11-21 09:05
 
-- [匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品](<https://www.ithome.com/1/030/291.htm>)  
-  IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Design Benchmark。 其中，一款代号为 Gestalt、目前处于隐身开发状态（Ste…  
-  IT之家 · 2026-11-21 07:17
+- [OpenAI 推出 MedChemBench 基准，评估 AI 辅助药物研发能力](<https://www.ithome.com/1/030/301.htm>)  
+  OpenAI 发布 MedChemBench 基准，用 99 道取自 117 篇论文与专利、涉及 761 个分子结构的题目评估 AI 的药物化学推理能力。在 xhigh 推理档下，GPT-6.2 Astra 获 84.5% 可用分数，GPT-6 Astra 为 83.3%，GPT-6.1 Sol 为 82.0%，GPT-5.6 Sol 仅 58.2%。  
+  IT之家·人工智能 · 2026-11-21 08:06
+
+- [匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单，Elo 1931 分超 Claude Fable 5.2 与 GPT-6.1 Sol](<https://www.ithome.com/1/030/291.htm>)  
+  匿名隐身模型 Gestalt 在 Contra Labs 11 月 18 日发布的 Frontier Design Benchmark 上以 Elo 1931 分、90% 胜率登顶，超过 Claude Fable 5.2（1713 分）和 GPT-6.1 Sol（1668 分），并高于人类设计师参考作品的 1739 分。  
+  IT之家·人工智能 · 2026-11-21 07:17
 
 - [Meta 重新评估 2030 净零目标，AI 数据中心致碳排放同比增长近 40%](<https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/>)  
   Meta 在 2026 年 11 月 19 日发布的可持续发展报告中表示正在重新评估 2030 净零排放目标及近期强度指标，称 AI 基础设施需求增长超出预期。  
@@ -143,29 +178,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   生数科技创始人朱军、CTO 鲍凡领衔团队的“高效可扩展的扩散模型理论与方法”成果获 2025 年度北京市自然科学奖一等奖。该成果在扩散模型基础理论、采样算法与模型架构三方面取得突破，其中免训练采样方法实现近百倍加速，并被 Diffusers 等开源工具库集成。相关研究为生数科技 Vidu 视频生成大模型及 Vidu Q、Vidu S 系列提供技术支撑。  
   公众号：生数科技（Vidu·视频） · 2026-11-20 18:58
 
-- [50天推出4款模型，谷歌想当“造物主”了？](<https://36kr.com/p/4077865913407366?f=rss>)  
-  OpenAI时隔75天的顶级模型刚刚发布， 社区里的吐槽就炸开了。 有人直言新模型“几乎没法用”，有人抱怨它过分谨慎、难以指挥，还有人认为，这家伙解释起自己的工作就像在“说外星话”。 甚至有人用漫画玩了个梗，吐槽GPT-6.2 Astra的  
-  36氪 · 2026-11-20 18:41
-
-- [阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏](<https://www.tmtpost.com/8212798.html>)  
-  AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。  
-  钛媒体 · 2026-11-20 18:31
-
-- [字节，该造手机了](<https://36kr.com/p/4077729297667205?f=rss>)  
-  11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链  
-  36氪 · 2026-11-20 18:26
-
 - [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
   Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
   Axios · 2026-11-20 18:20
-
-- [抢跑 OpenAI 敲出史上最大 IPO，Anthropic 却惹怒了半个硅谷](<https://36kr.com/p/4077584643675013?f=rss>)  
-  11 月 19 日，成立仅仅 5 年的 AI 巨头 Anthropic 正式上市。 一举打破 SpaceX 此前创下的纪录，成为人类商业史上规模最大的一次 IPO。 更夸张的是，开盘后它的市值更是一度冲破 2 万亿美元 大关，收盘市值约1.  
-  36氪 · 2026-11-20 18:17
-
-- [光禾AI用企业级智能体应用解企业改造难题](<https://36kr.com/p/4077924992390278?f=rss>)  
-  大模型进入企业后，如何与内部知识、业务系统和工作流程结合，成为企业推进AI应用的一道实际门槛。员工可以借助通用工具完成问答和内容生成，但涉及内部数据、多系统协作和具体业务执行时，企业仍需要解决系统接入、权限管理和持续运维等问题。 光禾AI选  
-  36氪 · 2026-11-20 18:02
 
 - [Nous Research 的 Hermes Agent 将登陆 Microsoft Teams 并推出 Collective Wisdom 技能共享功能](<https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/>)  
   Nous Research 宣布开源 Hermes Agent 将可直接在 Microsoft Teams 内运行，员工可把财务分析、文档起草或收件箱整理等任务交给它并在同一聊天中审阅结果。该智能体运行于 Azure Container Apps 沙箱（隔离微虚拟机）中，会自动将成功的工作流转化为由描述和代码组成的可复用技能；新功能 Collective Wisdom 允许员工在审核后与团队共享这些技能，且收集的知识保留在公司内部，不会进入任何 AI 提供商的训练数据。Nous 称 Hermes Agent 是 O…  
@@ -202,21 +217,5 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [高通携手 Cirrascale 启动 Dragonfly AI200 推理加速器客户评估](<https://www.ithome.com/1/029/874.htm>)  
   高通与 AI 私有云企业 Cirrascale 合作，向部分客户开放 Dragonfly AI200 推理加速器的云上评估。这是高通首款机架级 AI 解决方案，单卡配备 768GB LPDDR5X 内存，每个 140kW 液冷 ORv3 机架由 56 卡组成、总内存 43TB、内存带宽 0.414 PB/s，可在单机架内运行 10T 级超大模型推理。  
   IT之家·人工智能 · 2026-11-20 13:43
-
-- [腾讯混元 Hy4 正式开源，混元 LLM 系列实现全量开放](<https://www.ithome.com/1/029/841.htm>)  
-  腾讯混元团队宣布 Hy4 大模型正式开源，权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 上线，混元 LLM 系列至此全部开源。  
-  IT之家·人工智能 · 2026-11-20 11:47
-
-- [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
-  腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
-  公众号：腾讯混元 · 2026-11-20 11:41
-
-- [Gemini 4 全系列使用与避雷教程：两个提示词修复 Antigravity 的 swarm 和 Orchestrator 坑](<https://mp.weixin.qq.com/s/ZVq5t2agOhVEEKHPZyQ4hA>)  
-  作者盘点 Gemini 4 系列模型定位与差异：Hydrogen 对标 Claude Haiku，速度 175-200 tokens 每秒；Neon 相当于 Opus 5.5，代码动画和 UI 表现接近但缓存和额度存在问题；Carbon 偏 coding，Argon 设计和文风更发散。  
-  公众号：卡尔的AI沃茨 · 2026-11-20 11:22
-
-- [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
-  诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
-  IT桔子 · 2026-11-20 11:21
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 7 页

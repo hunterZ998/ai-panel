@@ -1,6 +1,66 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-18.md) · [下一页](all-20.md) · 第 19 / 24 页
+[返回面板](../README.md) · [上一页](all-18.md) · [下一页](all-20.md) · 第 19 / 25 页
+
+- [阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60%](<https://www.ithome.com/1/027/512.htm>)  
+  阿里通义千问团队发布新一代旗舰模型 Qwen4-Max，采用 2.4 万亿参数稀疏 MoE 架构，原生支持视觉理解，提供 100 万 token 上下文窗口。  
+  IT之家·人工智能 · 2026-11-16 10:07
+
+- [腾讯公布总办 LinkTime 播客原文，号召所有业务面向 AI 时代再创业](<https://www.ithome.com/1/027/509.htm>)  
+  腾讯在 28 周年生日当天将年度总办 LinkTime 做成播客，并公布现场笔记原文，回应外界猜测。内容提出智能革命是不进则退的生死问题，所有核心业务要面向 AI 时代再创业、组织扁平化、打破山头主义；称 AI 金字塔核心模型已进入国内第一梯队，WorkBuddy 在 8 个月内成为中国提供最多 token 的单一 AI 产品，元宝定位决策资讯参谋，小微目标是让大家实现 token 自由。  
+  IT之家·人工智能 · 2026-11-16 10:03
+
+- [Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力](<https://qwen.ai/blog?id=qwen4-max>)  
+  Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。  
+  Qwen：Blog Retrieval（API） · 2026-11-16 10:00
+
+- [Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题](<https://www.ithome.com/1/027/505.htm>)  
+  Anthropic CEO 达里奥·阿莫迪上周五在纽约与摩根大通 CEO 杰米·戴蒙公开对谈，称算力是公司面临的最深层商业难题，并表示上市的重要原因就是增加现金储备，为高度不确定的算力需求提供缓冲。  
+  IT之家·人工智能 · 2026-11-16 09:52
+
+- [借鉴 Claude 常驻智能体指南的省 token 提示词技巧](<https://mp.weixin.qq.com/s/Zt7GxF84UxSHMEJmn6qRzQ>)  
+  作者把 Anthropic 常驻智能体指南的五组件（事件收件箱、定时器、记忆、权限、发件箱）翻译成一段提示词写入自己的 Grok bot，解决定时任务空转浪费额度的问题。  
+  公众号：卡尔的AI沃茨 · 2026-11-16 09:36
+
+- [Apple 联合 OpenEvidence 推出研究 App，探索临床数据支撑的健康 AI 问答](<https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>)  
+  Apple 与医疗 AI 公司 OpenEvidence 合作推出新研究 App，计划在美国招募最多 200,000 名 21 岁以上、使用 iPhone 15 及以上和 iOS 26 及以上并开启 Apple Intelligence 的用户，研究超过 12 个月。  
+  TechCrunch：AI（RSS） · 2026-11-16 09:30
+
+- [Apple 联合 OpenEvidence 启动 Health AI Usage Study，招募至多 20 万人评估健康 AI 工具](<https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools>)  
+  Apple 宣布与临床 AI 平台 OpenEvidence 合作开展 Apple Health AI Usage Study，旨在了解人们如何使用对话式健康 AI 工具并评估回答的准确性、细节和相关性。  
+  The Verge：AI（RSS） · 2026-11-16 09:26
+
+- [Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画](<https://www.ithome.com/1/027/490.htm>)  
+  Anthropic 的 Claude Fable 5.2 展示了一种不依赖图像生成模型的生图方式，通过编写 Python 程序在虚拟画布上模拟画笔、颜料和画布质感逐笔作画。  
+  IT之家·人工智能 · 2026-11-16 09:01
+
+- [Hugging Face Inference Providers 语言模型路由切换为 OpenRouter](<https://huggingface.co/blog/openrouter>)  
+  Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。  
+  Hugging Face 官方团队博客 · 2026-11-16 08:00
+
+- [Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent](<https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces>)  
+  Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。  
+  Conductor 官方更新 · 2026-11-16 08:00
+
+- [The King’s Trust and OpenAI launch £1m partnership](<https://openai.com/index/the-kings-trust-and-openai>)  
+  The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical…  
+  OpenAI · 2026-11-16 08:00
+
+- [At Holiday Extras, dots get to work before anyone asks](<https://openai.com/business/customer-stories/holiday-extras-dots>)  
+  Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the comm…  
+  OpenAI · 2026-11-16 08:00
+
+- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
+  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
+  Ollama：Blog（RSS） · 2026-11-16 08:00
+
+- [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
+  Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
+  Apple Machine Learning Research（RSS） · 2026-11-16 08:00
+
+- [SpaceXSI 分享用 Grok Bot 搭建五岗位会计团队的方法](<https://x.ai/news/grok-bot-accounting>)  
+  SpaceXSI 分享如何用 Grok Bot 组建由五个 Bot 组成的会计团队，分别负责开户、开票、账单支持、收款对账和催收，并称这些工作若由人工承担需将团队人数翻倍以上。  
+  xAI：News（网页） · 2026-11-16 08:00
 
 - [OpenRouter 为管理密钥新增只读与工作区范围权限控制](<https://openrouter.ai/blog/announcements/scoped-management-keys/>)  
   OpenRouter 的管理密钥新增范围与访问级别两项设置，可限定为单个工作区或整个组织，并选择只读或读写，现已向所有组织、所有套餐开放。只读密钥可查看 API 密钥、活动与用量，读写密钥还可创建、更新和删除 API 密钥；工作区管理员可为自己的工作区创建密钥，无需再持有覆盖全组织的权限。两项设置在创建密钥时固定，如需变更只能新建密钥并删除旧密钥。  
@@ -122,63 +182,4 @@
   据韩联社报道，韩国第 63 届税务师考试第一名考生利用微型摄像头拍题发给 AI 作弊，政府决定对今年所有国家资格考试全面调查 AI 作弊行为。该考生第一轮 160 道选择题仅错 1 题，将被取消成绩并五年内禁考，政府计划年内出台防作弊综合措施，包括引入红外线探测设备、加强现场监控、开设线上线下举报中心。  
   IT之家·人工智能 · 2026-11-15 21:42
 
-- [开源盘古模型 openPangu-2.1-Pro 上线华为云，升级 Agent 开发、AI 编码与推理优化](<https://www.ithome.com/1/027/450.htm>)  
-  华为云 MaaS 平台正式上线开源盘古模型 openPangu-2.1-Pro，围绕 Agent 开发、AI 编码和推理优化三大方向升级，增强深度研究、鸿蒙系统操控、鸿蒙 App 开发与昇腾算子生成等场景能力。  
-  IT之家·人工智能 · 2026-11-15 21:16
-
-- [英伟达黄仁勋卸任、阿里芯片子公司赴港IPO、Qwen4-Max 首次亮相](<https://www.recodechinaai.com/p/nvidia-without-jensen-alibabas-chip>)  
-  英伟达宣布黄仁勋于11月11日卸任CEO及董事，CFO Colette Kress 出任临时CEO，董事会已就涉及其与英伟达中国业务的相关指控启动独立调查。阿里11月10日披露，芯片子公司 T-Head 已于9月11日以保密方式提交香港上市申请，发行条款尚未确定。阿里11月11日预览下一代 Qwen4 家族首款模型 Qwen4-Max，支持文本、图像、视频输入和100万 token 上下文窗口。  
-  Recode China AI（RSS） · 2026-11-15 21:06
-
-- [黄仁勋因婚外情风波辞任 Nvidia CEO](<https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation>)  
-  The Verge 周刊栏目梳理黄仁勋辞任 Nvidia CEO 事件：纽约时报 10 月 29 日报道他与 Megaspeed 高管 Alice Huang 关系密切。  
-  The Verge：AI（RSS） · 2026-11-15 21:00
-
-- [卡内基梅隆大学展示 OATs：给日常物品装上会撒娇的 AI 虚拟宠物](<https://www.ithome.com/1/027/443.htm>)  
-  卡内基梅隆大学博士生金大华在 UIST 2026 展示 OATs（物体智能体双生体）系统，用电子墨水屏为日常物品赋予能表达情绪的虚拟形象，主模块成本约 20 美元。系统通过内外传感器监测湿度、温度、光照和使用状态，角色形象由谷歌 Gemini 旗下 Nano Banana 生成，续航约 3 至 4 天。目前仍是概念验证，金大华尚未决定是否商业化。  
-  IT之家·人工智能 · 2026-11-15 20:43
-
-- [Sebastian Raschka 图解现代 LLM 的位置编码机制与 RoPE](<https://magazine.sebastianraschka.com/p/understanding-positional-embeddings>)  
-  Sebastian Raschka 发表长文教程，讲解 LLM 如何编码 token 位置信息，覆盖 GPT-2 的可学习绝对位置嵌入、原始 Transformer 的正弦编码、RoPE 的旋转机制，并配 PyTorch 实现。  
-  Ahead of AI（RSS） · 2026-11-15 20:10
-
-- [How AI Helps Me Find the Right TV Shows at the Right Times](<https://www.wsj.com/tech/ai/tv-claude-code-watchlist-dde821b8?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-15 20:00
-
-- [据称与黄仁勋前情人相关的公司为在华买家促成了近 120 亿美元 Nvidia 芯片订单](<https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/>)  
-  据 The Decoder 援引华尔街日报，Megaspeed 在 2024 年 3 月至 2025 年 6 月间为中国企业安排了近 120 亿美元的 Nvidia 高性能芯片订单，涉及数十万枚受美国出口管制限制的芯片。  
-  The Decoder：AI News（RSS） · 2026-11-15 19:35
-
-- [澳大利亚央行研究：AI 就业冲击最先落在年轻劳动者，软件客服岗位降幅最大](<https://www.ithome.com/1/027/432.htm>)  
-  据 THE DECODER 报道，澳大利亚储备银行研究显示，自 2022 年底 ChatGPT 推出以来各职业招聘量均下降，AI 影响程度最高的编程、文职和客服岗位降幅最大，15 至 24 岁年轻劳动者就业率更低、失业率更高。  
-  IT之家·人工智能 · 2026-11-15 19:03
-
-- [澳大利亚央行分析发现 AI 冲击集中在年轻劳动者，软件开发和客服岗位尤甚](<https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/>)  
-  澳大利亚央行（RBA）的分析构建了针对入门级岗位和高 AI 暴露职业的监测系统，发现自 ChatGPT 于 2022 年底发布以来各岗位招聘均有下降，其中暴露度最高组降幅最大，15 至 24 岁工人和年轻大学毕业生就业率更弱、失业率更高。  
-  The Decoder：AI News（RSS） · 2026-11-15 18:45
-
-- [Gartner 预测到 2030 年 AI 将使全球净增约 170 万个工作岗位](<https://www.ithome.com/1/027/427.htm>)  
-  Gartner 预测 2025 至 2030 年间 AI 将在全球创造 1060 万个新岗位、取代 890 万个岗位，净增约 170 万个。分析师 John Lovelock 表示企业目前处于观望阶段，超过 20% 即约 4.355 亿劳动者需适应 AI 带来的工作方式变化，政府部门更易出现岗位流失，服务业则可能因收益增加而扩招。  
-  IT之家·人工智能 · 2026-11-15 18:27
-
-- [谷歌 Project Zero 宣布将分阶段把漏洞披露期限从 90 天缩短至 30 天](<https://www.ithome.com/1/027/423.htm>)  
-  谷歌 Project Zero 于当地时间 11 月 13 日发布全新漏洞披露政策，称 AI 辅助漏洞挖掘与利用技术的兴起使现有 90+30 天政策难以适应需求。  
-  IT之家·人工智能 · 2026-11-15 18:12
-
-- [前 OpenAI 研究员 Paul Christiano 称 AI 失控可能是当代人最可能的死因](<https://www.ithome.com/1/027/419.htm>)  
-  前 OpenAI 研究员、人工智能对齐研究中心负责人 Paul Christiano 在希尔顿讲座上表示，在座大多数人最可能的死因将是一次 AI 意外事故，并称未来三年内发生 AI 接管事件的风险很高。  
-  IT之家·人工智能 · 2026-11-15 18:09
-
-- [Bland 发布 Tofu-1 全双工语音到语音通话模型](<https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/>)  
-  Bland 发布全双工语音到语音模型 Tofu-1，处于研究预览阶段，面向车载、病房和弱信号线路等嘈杂通话场景，直接处理音频输入输出、无需中间转写文本。该模型支持说话人跟踪、噪声分离与副语言识别，可在通话中被中途打断并边处理任务边继续对话。目前仅向有限企业开放，未公布参数量、延迟、定价和基准分数。  
-  MarkTechPost（RSS） · 2026-11-15 18:06
-
-- [美团开源 1.6 万亿参数智能体模型 LongCat-2.5，训练全程未用 Nvidia GPU](<https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/>)  
-  美团开放 LongCat-2.5 权重，这是一款面向智能体的 1.6 万亿参数 MoE 模型，每 token 激活约 480 亿参数，采用 MIT 许可证，官方部署方案基于 194 片华为 Ascend 加速器，全程未使用 Nvidia GPU。  
-  The Decoder：AI News（RSS） · 2026-11-15 18:06
-
-- [开发者用 Claude 编写 97KB 浏览器水下探索模拟项目 Abyssal Garden](<https://www.ithome.com/1/027/406.htm>)  
-  开发者 Any-Reputation8118 借助 Anthropic Claude 编写代码，做出浏览器水下探索模拟项目 Abyssal Garden，体积仅 97KB，所有视觉元素均由代码在页面加载时实时生成。  
-  IT之家·人工智能 · 2026-11-15 16:58
-
-[返回面板](../README.md) · [上一页](all-18.md) · [下一页](all-20.md) · 第 19 / 24 页
+[返回面板](../README.md) · [上一页](all-18.md) · [下一页](all-20.md) · 第 19 / 25 页
