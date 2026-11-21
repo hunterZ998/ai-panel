@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 7 页
 
+- [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
+  Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
+  IT桔子 · 2026-11-20 10:30
+
 - [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](<https://www.platformer.news/anthropic-goes-public/>)  
   Anthropic 周四在纳斯达克上市，募资 813 亿美元，为史上最大 IPO，收盘市值 1.76 万亿美元，成为全球最大公共利益公司。CEO Dario Amodei 表示将按必要节奏推进 AI 训练与部署，不受商业或政治压力影响。  
   Platformer（热点 RSS） · 2026-11-20 09:37
@@ -100,6 +104,10 @@
   Alex Kantrowitz 在 Anthropic IPO 当天提出八点观察。Anthropic 此次发行 9.8 亿股、每股 83 美元，融资 810 亿美元，股价即将站上 100 美元，估值接近 2 万亿美元，成为史上最大 IPO。  
   Big Technology（热点 RSS） · 2026-11-20 00:48
 
+- [Google Gemini 平台推出 Semantic governance policies，在 Agent 工具调用执行前进行审查](<https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/>)  
+  Google 在 Gemini 平台以 Preview 形式推出 Semantic governance policies，通过 Agent Gateway 和 LLM judge 在每个工具调用运行前检查两项内容：是否符合用户原始意图，以及是否符合用自然语言编写的策略。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
 - [Gemini 4 四款新模型接连发布：Neon 该怎么选？](<https://every.to/vibe-check/mini-vibe-check-four-new-geminis-when-should-you-pick-neon>)  
   Google DeepMind 在五周多内为 Gemini 阵容新增四款以元素命名的模型：Gemini 4 Argon、Gemini 4 Carbon、Gemini 4 Hydrogen 和 Gemini 4 Neon，其中三款在九天内接连发布。文章讨论在这些模型之间该如何选择，尤其是何时该选用 Gemini 4 Neon。  
   Every：最新文章（网页） · 2026-11-20 00:00
@@ -115,9 +123,6 @@
 - [METR 发布 2026 年 11 月能力测量更新：AI R&amp;D 相关能力每约 3.6 个月翻倍且更难测量](<https://metr.org/blog/2026-11-20-q4-2026-capability-update/>)  
   METR 发布截至 Opus 5.5 和 GPT-6 Astra 的能力评测更新，发现在 TH1.1 与 TH2 任务上模型时间视野约每 3.6 个月翻倍，可验证子集翻倍时间约 1.65 个月。  
   METR：Research（网页） · 2026-11-20 00:00
-
-- [Will Anthropic’s IPO Lead To An Exodus of Anthropic Employees?](<https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees>)  
-  The Information · 2026-11-19 23:01
 
 - [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
   Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
@@ -174,9 +179,5 @@
 - [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
   Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
   IT桔子 · 2026-11-19 16:18
-
-- [Google DeepMind 发布 Gemini 4 Neon，约七周内第四款 Gemini 4 模型](<https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/>)  
-  Google DeepMind 发布 Gemini 4 Neon，为其约七周内的第四款 Gemini 4 模型，定价为每百万 token 输入 $3、缓存输入 $0.15、输出 $15，具备 1M token 上下文窗口和四档 effort 设置。  
-  Latent Space（RSS） · 2026-11-19 15:07
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 7 页

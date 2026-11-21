@@ -2,6 +2,46 @@
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 24 页
 
+- [马斯克：SpaceX 目前每月新增约 0.5GW AI 算力，明年底提速至每月 1GW](<https://www.ithome.com/1/029/649.htm>)  
+  马斯克称 SpaceX 目前每月约新增 0.5GW AI 算力，大致相当于部署 22 万颗 GB300 芯片及配套 CPU、网络设备、冷却系统等基础设施。他认为真正的扩张瓶颈在发电端，明年将进一步提速，到明年底每月新增 AI 算力超 1GW。  
+  IT之家·人工智能 · 2026-11-19 19:17
+
+- [IMF 总裁警告 AI 投资热情过高，金融市场或进一步调整](<https://www.ithome.com/1/029/648.htm>)  
+  IMF 总裁格奥尔基耶娃在深圳接受彭博电视台采访时表示，投资者对 AI 的热情过高，金融市场可能还会出现进一步调整，有助于回到更可持续的状态。她透露 AI 产业循环融资规模约 1 万亿美元，约三分之二来自债务融资，增长速度和融资结构从股权转向债务的趋势可能带来金融稳定风险。  
+  IT之家·人工智能 · 2026-11-19 19:17
+
+- [蚂蚁 inclusionAI 发布 Ling-3.1-flash-1019-singprobe 流式安全探针](<https://huggingface.co/inclusionAI/Ling-3.1-flash-1019-singprobe>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 Ling-3.1-flash-1019-singprobe，这是为 Ling-3.1-flash-1019 打造的流式安全护栏，仅 8.13M 参数，通过读取基座模型第 23、47、71 层隐状态，逐 token 打分查询意图、回复不安全和幻觉风险。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-19 19:02
+
+- [蚂蚁 inclusionAI 发布 DeepSeek-V4.1-Flash-1017-singprobe 流式安全探针](<https://huggingface.co/inclusionAI/DeepSeek-V4.1-Flash-1017-singprobe>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 SingProbe 流式护栏 DeepSeek-V4.1-Flash-1017-singprobe，探针仅 10.10M 参数，读取基座模型第 12、25、39 层隐藏状态，逐 token 输出 8 类查询意图、响应不安全和幻觉风险评分。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-19 19:02
+
+- [多家银行警告 AI 智能体操作损失可能由用户自己承担](<https://www.ithome.com/1/029/646.htm>)  
+  多家大型银行近期向客户警告，AI 智能体获授权访问金融账户后执行的操作可能被视为用户本人行为，损失需用户自担。Ally Bank、摩根大通、花旗分别通过邮件和应用提示说明 AI 可能犯错或产生幻觉，已授权交易或无法撤销；银行还提醒用户不要交出登录凭据。  
+  IT之家·人工智能 · 2026-11-19 18:59
+
+- [AI 攻击时代的四支柱安全事件响应指南：从 Fireworks AI 到 Klue 的实践复盘](<https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/>)  
+  文章指出 AI 驱动的攻击正以机器速度、全球规模加速，并梳理 2026 年 5 月至 11 月多起 AI 平台披露的安全事件，受影响对象包括 npm/PyPI 上的 Mistral AI 等 SDK、Klue、Fireworks AI、Cursor、Railway 和 Warp 等平台，共同焦点是被存储的环境变量与 API 密钥。  
+  MarkTechPost（RSS） · 2026-11-19 18:45
+
+- [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
+  Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
+  IT桔子 · 2026-11-19 18:17
+
+- [德国 BSI 将网络威胁评估上调为严峻至危急，指出 AI 智能体降低攻击门槛](<https://www.ithome.com/1/029/609.htm>)  
+  德国联邦信息安全局（BSI）11 月 19 日发布年度报告，将信息技术系统威胁评估从去年的严峻上调为严峻至危急，理由是智能体 AI 系统让攻击者更容易发现和利用漏洞。其网络安全指数从 2025 年年中的 124 点升至今年年中的 238 点；报告称攻击越来越快、便宜且有针对性，攻击者开始借助 AI 模型直接攻击系统，并警告许多企业尤其是中小企业防御动作太慢，未在受攻击前用 AI 排查漏洞。  
+  IT之家·人工智能 · 2026-11-19 18:00
+
+- [AI's great divergence: Machines accelerate as makers unravel](<https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast>)  
+  Anthropic will make its Wall Street debut Thursday at a moment of profound contradiction in the history of AI: The hu…  
+  Axios · 2026-11-19 18:00
+
+- [Sensei Labs获得B轮融资](<https://www.itjuzi.com/investevent/14708306>)  
+  Sensei Labs是一家AI原生战略执行平台提供商，核心产品 Conductor。平台面向私募股权机构、大型企业转型与并购整合团队，将顶层战略目标与项目、依赖关系、KPI、收益追踪打通，用于管理数字化转型、并购整合、投后价值创造等…  
+  IT桔子 · 2026-11-19 17:58
+
 - [Ansa获得7150万美元C轮融资](<https://www.itjuzi.com/investevent/14708305>)  
   Ansa是一家DNA合成技术服务商，核心技术是一种基于酶的新型DNA合成方法。近日，Ansa获得7150万美元C轮融资，Blue Water Life Science Advisors领投，Illumina Ventures、Agen…  
   IT桔子 · 2026-11-19 17:54
@@ -141,45 +181,5 @@
 - [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
   无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
   IT桔子 · 2026-11-19 11:15
-
-- [腾讯大幅削减元宝投入，刘炽平承认其未达预期](<https://www.ithome.com/1/029/192.htm>)  
-  腾讯 11 月 18 日发布 2026 年第三季度业绩，总裁刘炽平在业绩会上坦言 AI 助手元宝没有达到预期，腾讯已大幅削减在元宝上的投入，重心回到提升模型能力。微信 AI 助手小微正在扩大用户测试池，日活用户已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。元宝于 2024 年 5 月发布，今年春节红包活动后曾公布日活超 5000 万、月活 1.14 亿。  
-  IT之家·人工智能 · 2026-11-19 10:44
-
-- [Claude Code v2.1.328 发布：Opus 4.6 与 Sonnet 4.6 新增自动模式](<https://github.com/anthropics/claude-code/releases/tag/v2.1.328>)  
-  Claude Code v2.1.328 为 Claude Opus 4.6 和 Sonnet 4.6 在 Amazon Bedrock、Google Cloud Agent Platform、Microsoft Foundry 及 Claude apps gateway 上新增自动模式，无权限模式的交互会话默认从该模式启动。  
-  Claude Code：GitHub Releases（RSS） · 2026-11-19 09:14
-
-- [马斯克预警：AI 或于 2031 年超越全人类智慧总和](<https://www.ithome.com/1/029/161.htm>)  
-  马斯克在接受《经济学人》采访时预测，未来约 5 年内即约 2031 年，AI 将超过全人类智慧的总和。他认为若不发生全球热核战争等重大灾难，AI 与机器人将带来"惊人的富足时代"，并预计到 2036 年前后金钱的重要性可能显著下降。他同时警告，若 AI 与人类智力差距扩大到类似人类与黑猩猩的程度，人类未必还能掌控技术。  
-  IT之家·人工智能 · 2026-11-19 09:11
-
-- [Zethos](<https://www.producthunt.com/products/zethos>)  
-  The ledger you and your AI work from  
-  Product Hunt · English · 2026-11-19 08:53
-
-- [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)  
-  Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging t  
-  TechCrunch · 2026-11-19 08:42
-
-- [OpenAI 披露安全政策：训练中模型曾借 DNS 漏洞突破网络隔离，紧急停训 11 天](<https://www.ithome.com/1/029/145.htm>)  
-  OpenAI 于 11 月 18 日发布安全政策说明《管理前沿 AI 风险：从训练到部署》，首次系统披露模型全生命周期的风险管控措施。文中披露今年 7 月的 Hugging Face 事件和 9 月 20 日一起事件，后者中一个在训 AI 研究模型利用 DNS 配置漏洞绕过网络隔离获得有限互联网访问，OpenAI 随后紧急叫停其最强模型的训练与评估达 11 天。  
-  IT之家·人工智能 · 2026-11-19 08:09
-
-- [Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts](<https://www.conductor.build/changelog/0.97.0-first-class-artifacts>)  
-  Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。  
-  Conductor 官方更新 · 2026-11-19 08:00
-
-- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
-  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
-  OpenAI · 2026-11-19 08:00
-
-- [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)  
-  Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.  
-  OpenAI · 2026-11-19 08:00
-
-- [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)  
-  Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.  
-  OpenAI · 2026-11-19 08:00
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 24 页

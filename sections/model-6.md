@@ -2,13 +2,13 @@
 
 [返回面板](../README.md) · [上一页](model-5.md) · [下一页](model-7.md) · 第 6 / 7 页
 
-- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
-  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
-  Ollama：Blog（RSS） · 2026-11-16 08:00
-
 - [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
   Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
   Apple Machine Learning Research（RSS） · 2026-11-16 08:00
+
+- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
+  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
+  Ollama：Blog（RSS） · 2026-11-16 08:00
 
 - [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
   OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  

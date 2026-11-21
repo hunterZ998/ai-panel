@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 7 页
 
+- [Google DeepMind 发布 Gemini 4 Neon，约七周内第四款 Gemini 4 模型](<https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/>)  
+  Google DeepMind 发布 Gemini 4 Neon，为其约七周内的第四款 Gemini 4 模型，定价为每百万 token 输入 $3、缓存输入 $0.15、输出 $15，具备 1M token 上下文窗口和四档 effort 设置。  
+  Latent Space（RSS） · 2026-11-19 15:07
+
 - [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
   AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
   20VC · 2026-11-19 15:07
@@ -86,8 +90,8 @@
   媒体 The Decoder 报道，OpenAI 称与 AMD 合作用其模型在不到五个月内将 AMD 旗舰 GPU IP 的 PPA（功耗、性能、面积）提升至多 14%，相当于在 AMD 工程师多年优化之上再推进约一年的进度，部分改动已纳入送厂设计。  
   The Decoder：AI News（RSS） · 2026-11-19 02:00
 
-- [Meta 详解如何用 AI 智能体将 ML 技术规模化推广到广告排序模型集群](<https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/>)  
-  Meta 发文介绍其“技术传播”流程及 AI 智能体在其中的应用，此前已发布 Ranking Engineer Agent（REA）系统。自 2026 年 3 月起由智能体驱动执行以来，估算超 60% 的技术传播由 AI 智能体完成，早期结果显示工程师生产力提升 3x，选定组合的训练算力中位数降低 4x，预计到年底节省超 4500 万美元算力成本。  
+- [Meta 详解如何用 AI 智能体将 ML 技术规模化迁移到广告排序模型群](<https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/>)  
+  Meta 工程博客详解其“技术迁移”流程：自 2026 年 3 月起由 AI 智能体驱动执行，目前承担超过 60% 的技术迁移，工程师生产力提升 3 倍，部分技术模型组合的训练算力中位数降低 4 倍，预计年底节省算力成本超 4500 万美元。  
   Meta Engineering Blog（RSS） · 2026-11-19 01:00
 
 - [Hugging Face 发布 Qwen3.8-27B-pi-adapted LoRA，pi 编码 Agent 成功率从 39.2% 升至 64.7%](<https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/>)  
@@ -177,9 +181,5 @@
 - [AMD 完成对 Taalas 的收购，计划将其 AI 推理芯片技术整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
   AMD 当地时间昨日宣布完成对专用 AI 推理芯片开发商 Taalas 的收购，表示此举将加强其全栈 AI 产品组合和长期推理路线图。AMD 计划将 Taalas 技术整合进加速器路线图，结合 Instinct GPU 共同开发系统级解决方案。Taalas 采用把 AI 模型固化到 ASIC 上的路线，针对特定模型工作负载优化，牺牲通用性以显著提升推理效率。  
   IT之家·人工智能 · 2026-11-18 10:06
-
-- [Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70\~78 美元](<https://www.ithome.com/1/028/599.htm>)  
-  根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。  
-  IT之家·人工智能 · 2026-11-18 08:12
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 7 页

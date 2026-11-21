@@ -2,6 +2,90 @@
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 24 页
 
+- [Nvidia 拟至少 5 亿美元收购扩散语言模型初创 Inception](<https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/>)  
+  据 The Information 援引三位知情人士，Nvidia 接近以至少 5 亿美元收购旧金山湾区初创 Inception，交易含 30 多名员工的绩效奖金，三位联合创始人 Stefano Ermon、Aditya Grover 和 Volodymyr Kuleshov 预计全职加入。  
+  The Decoder：AI News（RSS） · 2026-11-20 22:53
+
+- [Databricks 发布覆盖 70 个行业的交互式参考架构板](<https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries>)  
+  Databricks 发布交互式参考架构板，截至 2026 年 11 月 16 日覆盖 11 个经济部门的 70 个行业。  
+  Databricks：Blog（RSS） · 2026-11-20 22:48
+
+- [NVIDIA 发布连续扩散语言模型 Nemotron-Labs-Sigma，含 3B/8B 共 14 个开放检查点](<https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/>)  
+  NVIDIA 发布 Nemotron-Labs-Sigma，一组在 16 维连续嵌入空间去噪的扩散语言模型，包含 3B 和 8B 的 base、instruct、蒸馏和自推测解码共 14 个开放检查点。  
+  MarkTechPost（RSS） · 2026-11-20 22:44
+
+- [Gary Marcus 称 Anthropic 股价破发，AI 股五个月跌超 50%](<https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing>)  
+  Gary Marcus 发文称 Anthropic 上市表现不佳：ANT 普通投资者交易首日从 111 开盘跌至 97 收盘，盘前再跌约 9% 至 88 左右。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-20 22:20
+
+- [How Anthropic Upstaged OpenAI on Road to Blockbuster IPO](<https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo>)  
+  The Information · 2026-11-20 22:18
+
+- [Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.](<https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 22:12
+
+- [三星电子高管：Neocloud 风险有限，AI 投资基于实际需求](<https://www.ithome.com/1/030/247.htm>)  
+  三星电子两位高管在摩根士丹利会议上表示，Neocloud 市占份额仅约 8%，对其担忧不会对 AI 整体发展轨迹构成重大威胁。三星晶圆代工销售营销主管 Kang Suk-chae 认为当前 AI 投资热潮是结构性的，源自实在需求而非投机冲动，芯片短缺在可预见的未来仍将持续。  
+  IT之家·人工智能 · 2026-11-20 22:09
+
+- [Air Street Capital 领投 LATO 470 万美元种子轮](<https://press.airstreet.com/p/lato-labs-investment-ai-expert-research>)  
+  Air Street Capital 宣布领投 LATO 的 $4.7M 种子轮，YC 及 ElevenLabs、Vercel、Snowflake 等联合创始人参投。  
+  Air Street Press（RSS） · 2026-11-20 22:02
+
+- [Six AI-powered gadgets that could make your home office smarter](<https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/>)  
+  From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.  
+  TechCrunch · 2026-11-20 22:00
+
+- [Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫](<https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off>)  
+  Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。  
+  Hacker News：AI 热帖 · 2026-11-20 21:53
+
+- [李彦宏的“最紧迫”与雷军的“热想象”](<https://36kr.com/p/4077950052521091?f=rss>)  
+  11月17日至18日，2026年亚太经合组织（APEC）工商领导人峰会在深圳前海国际会议中心举行。作为亚太经合组织第三十三次领导人非正式会议的配套活动，峰会由中国贸促会主办，主题为“共促繁荣，共赢未来”，2000余位政商代表参会，参会企业包  
+  36氪 · 2026-11-20 21:39
+
+- [从“刷分”打到“补缝”，机器人新竞赛升温](<https://36kr.com/p/4077960501008008?f=rss>)  
+  2026年末，具身智能的商业化似乎终于等来了它的“破局点”。 过去，这个行业一直受困于“大脑”不够聪明，无法应对复杂环境；“手”不够灵活，且学习成本高昂。 但最近，两个技术突破为它们带来了新的进展。 一方面是“大脑”的外溢。 Anthrop  
+  36氪 · 2026-11-20 21:34
+
+- [全球算力进入“后黄仁勋时代”](<https://36kr.com/p/4077949930738564?f=rss>)  
+  黄仁勋离开英伟达的方式，比市场预想的更突然。 当地时间11月12日，黄仁勋辞去总裁、首席执行官及董事会成员职务。11月17日，他公开发表声明称，如果董事会认为他的回归符合利益，他愿意重新出任CEO；但同一天，董事会主席哈维·琼斯在2027财  
+  36氪 · 2026-11-20 21:29
+
+- [Wall Street Reels as AI Fears Erupt; Nasdaq 100 Near Bear Market](<https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors>)  
+  Bloomberg · 2026-11-20 21:26
+
+- [全球Meta一家独大，中国AI眼镜为何还在混战？](<https://36kr.com/p/4077938009412480?f=rss>)  
+  ｜GUIDE｜ ■中国为什么跑不出第二个Meta？ ■AI眼镜为什么还难赚钱？ ■谁能成为中国AI眼镜的赢家？ 今年双11，雷鸟、夸克等都拿到了AI眼镜的第一名。 雷鸟创新宣布登顶京东智能眼镜与 XR 设备两大品牌榜榜首，阿里夸克称夸克AI  
+  36氪 · 2026-11-20 21:22
+
+- [Google 桌面搜索首页全球推出可折叠侧边栏，便于访问 AI Mode](<https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/>)  
+  Google 在桌面搜索首页全球推出可折叠侧边栏，由 Google Search VP Robby Stein 在 X 上宣布，方便用户查找并重新打开近期的 AI 搜索。侧边栏位于 AI Mode 左侧，可发起新会话、搜索已有会话、创建笔记本并打开最近查询和设置；同时 AI Mode 全球推出临时会话，不使用先前上下文、不保存历史、关闭即消失。  
+  The Decoder：AI News（RSS） · 2026-11-20 21:19
+
+- [融资33亿，英伟达投了家机器人：只卖了40台，估值233亿](<https://36kr.com/p/4078019114243207?f=rss>)  
+  只造了约40台机器人，Genesis AI就拿下了5亿美元融资。 11月17日，这家硅谷机器人公司宣布完成5亿美元（约33亿元）A轮融资，投后估值达到35亿美元，约合人民币233亿元。 投资人名单相当豪华：英伟达、AMD Ventures、  
+  36氪 · 2026-11-20 21:13
+
+- [智能家居在迎接它的Home Agent时刻吗](<https://36kr.com/p/4078022537975432?f=rss>)  
+  Personal Agent让智能家居再次被赋予了想象力。过去只能联网和听从指令的家居设备，有了新的方案来理解环境、主动判断，并实现彼此协作。 海尔智家最近集中发布的一批搭载AI之眼2.0的大白电新品就是体现。这让冰箱、烟机和灶具、洗衣机也  
+  36氪 · 2026-11-20 21:08
+
+- [估值50亿美元，阿里最年轻的P10，离职半年再获融资](<https://36kr.com/p/4078023821137542?f=rss>)  
+  11月20日，据报道，阿里巴巴前 AI 负责人林俊旸创办的语用科技（Pragmatik Labs）已完成新一轮融资，估值达到 50 亿美元，按当前汇率约合 334.6 亿元人民币。距官宣首轮融资只过去三个多月，估值从 20 亿美元一路抬升至  
+  36氪 · 2026-11-20 21:06
+
+- [卖爆、降价、退货三成：AI玩具的双11账本](<https://36kr.com/p/4078025154368393?f=rss>)  
+  2026年1—7月，中国电商AI玩具销量同比增长158.7%，销售额只涨72.7%，均价下跌33.3%。卖得更多，也更便宜了。这不是赛道变差，而是"会说话"这项能力在贬值：机芯压到50元，对话模块三五十元，国补叠加消费券，谁都能让一只毛绒玩  
+  36氪 · 2026-11-20 21:05
+
+- [The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.](<https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-ai-firms-are-hooked-on-nvidia-chips-now-comes-the-withdrawal-57391e23?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 20:57
+
+- [机器人的“冰与火”](<https://36kr.com/p/4078037519062147?f=rss>)  
+  在2026年APEC工商领导人峰会上，王兴兴给机器人行业下了一个最新的判断：今年全球技术突破已接近临界点。 非常恰巧，就在几天之前，英伟达GEAR领导Jim Fan在CoRL 2026上也说了相似的话，他说，现在的机器人行业不是寒冬，而是夏  
+  36氪 · 2026-11-20 20:54
+
 - [AI硬件的牛市结束了](<https://36kr.com/p/4078041124574081?f=rss>)  
   最强势的市场，也顶不住这轮AI回调了。 从10月的高点算起，涵盖AI硬件全链条的费城半导体指数跌去27.8%。其中，算力龙头英伟达跌去36.1%、存储龙头美光跌去43%，就连给他们供货的寡头台积电也跌去26.2%。看下来，逻辑最硬、订单最多  
   36氪 · 2026-11-20 20:51
@@ -30,25 +114,13 @@
   DeepSeek，开始限制使用了。 过去两天，越来越多人发现，自己用了快两年的免费 DeepSeek，突然开始弹出「使用额度已达上限」。有人的长对话无法继续，有人聊了不到两个小时就触发限制。 用户彻底怒了，甚至涌入应用商店给 DeepSee  
   36氪 · 2026-11-20 20:23
 
-- [玩家在《极限竞速：地平线 6》中偶遇已故好友 Drivatar AI 车手，得以再次“并肩驾车”重温昨日时光](<https://www.ithome.com/1/030/231.htm>)  
-  IT之家 11 月 20 日消息，《极限竞速：地平线 6（Forza Horizon 6）》玩家 Samohteht 近日分享了一段令人动容的游戏经历。他在游戏中意外遇见了 4 个月前离世的好友留在游戏里的 Drivatar AI 车…  
-  IT之家 · 2026-11-20 20:14
-
 - [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
   Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
   Axios · 2026-11-20 20:10
 
-- [开发者将櫻井政博游戏制作教程整合为 Skill 技能，可供各类 AI 智能体调用](<https://www.ithome.com/1/030/228.htm>)  
-  IT之家 11 月 20 日消息，日本开发者 kociden 近日在 GitHub 上公开了一款名为「sakurai-skill」的非官方项目，将知名游戏制作人樱井政博 YouTube 频道《樱井政博的游戏制作》（桜井政博のゲーム作る…  
-  IT之家 · 2026-11-20 19:55
-
 - [可灵AI与导演Stephane Benini合作推出AI影片《Redline》，用Kling 4.0挑战雨夜赛车](<https://mp.weixin.qq.com/s/bCtMYw0Z5YcUKWdD7aMtOA>)  
   可灵AI与拥有20年拍车经验的导演Stephane Benini合作推出原创AI影片《Redline》，基于Kling 4.0生成雨夜高速竞速画面。Kling 4.0可区分赛车自身运动与摄影机跟拍运动，生成定向运动模糊，并在漂移过弯时保持车身结构与车轮部件稳定；其全能参考、关键帧、3D模型参考和更长生成时长提升了运镜与车辆动态的可控性。  
   公众号：可灵AI（快手·视频） · 2026-11-20 19:52
-
-- [三年销售目标 700 亿，京东与华为 OSTA 星芒达成战略合作](<https://www.ithome.com/1/030/227.htm>)  
-  IT之家 11 月 20 日消息，华为全新子品牌“OSTA 星芒”今日正式亮相，“首款为 AI 而生的鸿蒙手机”OSTA O1 Pro 同步发布，首发价 5499 元起。 IT之家获悉，近日，京东与华为 OSTA 星芒签署战略合作协议…  
-  IT之家 · 2026-11-20 19:51
 
 - [「收手吧，人类大于利润！」现场直击AnthropicIPO，大量人群抗议「停止科技寡头」](<https://36kr.com/p/4077881070687104?f=rss>)  
   当地时间2026年11月19日，纽约时代广场的三块大屏幕上轮番滚动前沿AI实验室Anthropic的巨幅广告。这家2021年在旧金山成立的人工智能公司称，“我们如何把握眼下这个 AI 时刻，将决定这一刻的意义”。纳斯达克交易所外的广场上，主  
@@ -62,9 +134,9 @@
   五年，年化营收超过800亿美元，上市首日完全稀释估值一度触及2万亿美元。这是一条在人类商业史上几乎从未出现过的增长曲线。 先知、救世主情结、宗教领袖，这也是在一个以技术与理性著称的行业里，几乎从未看到的标签。而如今，它们同时落在了一家公司身  
   36氪 · 2026-11-20 19:39
 
-- [腾讯 WorkBuddy 上线电脑操控能力：能识别当前页面，进行点击、输入、滚动等操作](<https://www.ithome.com/1/030/222.htm>)  
-  IT之家 11 月 20 日消息，腾讯 WorkBuddy 今日宣布， WorkBuddy 上线电脑操控（Computer Use）能力。 能识别当前页面，看懂客户端界面，进行点击、输入、滚动等操作，不需要目标软件开放接口，就能在后台…  
-  IT之家 · 2026-11-20 19:25
+- [腾讯 WorkBuddy 上线电脑操控能力，支持 macOS 和 Windows 公测](<https://www.ithome.com/1/030/222.htm>)  
+  腾讯 WorkBuddy 上线电脑操控（Computer Use）能力，可识别当前页面并执行点击、输入、滚动等操作，无需目标软件开放接口。该功能处于公测阶段，支持 macOS 和 Windows，需更新客户端至 5.11.0 及以上版本并完成授权；用户可在对话框描述任务，侧边小窗查看进度，官方建议登录、支付、删除等敏感操作时保持在场监控。  
+  IT之家·人工智能 · 2026-11-20 19:25
 
 - [拆解大厂财报：谁最舍得为AI花钱？](<https://36kr.com/p/4077891815282564?f=rss>)  
   11月16日至19日，百度、京东、腾讯、阿里相继发布2026年第三季度财报。 四家公司中，只有阿里和百度明确披露了AI相关业务收入，分别为179.18亿元和132亿元。 01、大厂都想让AI参与老生意 阿里目前收入规模最清楚的AI业务，就是  
@@ -77,10 +149,6 @@
 - [持续学习这道AGI前的大坎，AI也已经踏过了](<https://36kr.com/p/4077623328379784?f=rss>)  
   从 2025 年年中开始，持续学习就被视为通向通用人工智能（AGI）之路上最难越过的一座山。 强化学习之父 Richard Sutton 在 2025 年 9 月的对谈中就提出过，真实世界太过庞大且时刻都在变化，智能体必须在与环境的直接交互  
   36氪 · 2026-11-20 19:21
-
-- [影石 Mic Pro、Wave 两款麦克风获升级，可原生接入腾讯 WorkBuddy](<https://www.ithome.com/1/030/221.htm>)  
-  IT之家 11 月 20 日消息，影石官方宣布，即日起，影石 Insta360 旗下旗舰级无线麦克风 Mic Pro 与 AI 录音全向麦克风 Wave 完成免费固件升级，原生接入腾讯 WorkBuddy。 升级后，Mic Pro 的…  
-  IT之家 · 2026-11-20 19:19
 
 - [累计融资超10亿美元，为什么NVIDIA、AMD、Intel都下注这家CPO公司？](<https://36kr.com/p/4077867964519559?f=rss>)  
   随着芯片算力高速迭代，内存与网络带宽的提升却明显滞后。导致这一瓶颈的核心，正是电互连的底层物理极限。 在这一认知前提下，MIT、加州大学伯克利分校及科罗拉多大学博尔德分校的研究人员历时10年联合科研攻关，成功研发出首款通过光信号与内存通信的  
@@ -102,83 +170,12 @@
   生数科技创始人朱军、CTO 鲍凡领衔团队的“高效可扩展的扩散模型理论与方法”成果获 2025 年度北京市自然科学奖一等奖。该成果在扩散模型基础理论、采样算法与模型架构三方面取得突破，其中免训练采样方法实现近百倍加速，并被 Diffusers 等开源工具库集成。相关研究为生数科技 Vidu 视频生成大模型及 Vidu Q、Vidu S 系列提供技术支撑。  
   公众号：生数科技（Vidu·视频） · 2026-11-20 18:58
 
-- [DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权](<https://www.ithome.com/1/030/199.htm>)  
-  IT之家 11 月 20 日消息，工商信息显示，DeepSeek 运营主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）。 IT之家查询国家企业信用信息公示系统获悉，杭州深度…  
-  IT之家 · 2026-11-20 18:47
-
-- [自家人都看不下去了？数百谷歌员工要求公司允许中小学使用不含 AI 的谷歌搜索](<https://www.ithome.com/1/030/197.htm>)  
-  IT之家 11 月 20 日消息，当地时间 19 日，据彭博社报道，超过 500 名谷歌员工和合同工联名请愿，要求公司允许中小学继续使用不含 AI 功能的谷歌搜索。 请愿书致谷歌 CEO 桑达尔 · 皮查伊、搜索业务负责人伊丽莎白 ·…  
-  IT之家 · 2026-11-20 18:42
+- [超 500 名谷歌员工请愿要求中小学可继续使用不含 AI 的谷歌搜索](<https://www.ithome.com/1/030/197.htm>)  
+  据彭博社报道，11 月 19 日超过 500 名谷歌员工和合同工联名请愿，要求允许中小学继续使用不含 AI 功能的谷歌搜索，请愿书致 CEO 皮查伊等高管，活动由 Alphabet 员工工会发起。此前谷歌扩大校园 AI 覆盖让中小学生可使用 Gemini，遭教育工作者和家长质疑会削弱学生批判性思维。谷歌回应计划默认关闭面向学生的 AI 功能，但学校若想继续用谷歌搜索可能仍须接受内置 AI 的版本。  
+  IT之家·人工智能 · 2026-11-20 18:42
 
 - [50天推出4款模型，谷歌想当“造物主”了？](<https://36kr.com/p/4077865913407366?f=rss>)  
   OpenAI时隔75天的顶级模型刚刚发布， 社区里的吐槽就炸开了。 有人直言新模型“几乎没法用”，有人抱怨它过分谨慎、难以指挥，还有人认为，这家伙解释起自己的工作就像在“说外星话”。 甚至有人用漫画玩了个梗，吐槽GPT-6.2 Astra的  
   36氪 · 2026-11-20 18:41
-
-- [AI这一年，倒下的APP们](<https://36kr.com/p/4077860656354953?f=rss>)  
-  2025年9月，Sora冲上美国AppStore榜首那天，OpenAI的工程师们在社交平台上转发着截图，仿佛AI视频时代真的来了。七个月后，这款产品从用户的手机里消失了，App黑屏，网页报错，API接到了终止通知。 这不是个例。冒泡鸭全平台  
-  36氪 · 2026-11-20 18:35
-
-- [“抵制AI，断更一天”，4.3万人点赞了这个声明](<https://36kr.com/p/4077816535667592?f=rss>)  
-  网文界今年发生了多场“AI斩杀”。2月和5月，番茄进行了针对AI低质内容的专项治理； 起点7月全面禁止AI文，8月一口气处理了上百本AI小说，其中有多部万订作品；10月30日，起点和QQ阅读发布公告，称将进一步打击签约作品滥用AI的行为，取  
-  36氪 · 2026-11-20 18:32
-
-- [阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏](<https://www.tmtpost.com/8212798.html>)  
-  AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。  
-  钛媒体 · 2026-11-20 18:31
-
-- [托举WorkBuddy登顶，腾讯AI高光藏软肋](<https://www.tmtpost.com/8212605.html>)  
-  WorkBuddy已登顶，腾讯AI待翻身。  
-  钛媒体 · 2026-11-20 18:31
-
-- [Anthropic Shares Are a Rational Bet on the Next Phase of AI](<https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 18:30
-
-- [字节，该造手机了](<https://36kr.com/p/4077729297667205?f=rss>)  
-  11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链  
-  36氪 · 2026-11-20 18:26
-
-- [“物理AI第一股”冲刺A股：左手英伟达，右手摩尔线程](<https://www.tmtpost.com/8212915.html>)  
-  五一视界启动A股IPO辅导。  
-  钛媒体 · 2026-11-20 18:23
-
-- [“DeepSeek们”都在退场：限额并非免费AI的终结？](<https://www.tmtpost.com/8212818.html>)  
-  无限量免费AI撑不住了。  
-  钛媒体 · 2026-11-20 18:23
-
-- [打败柯洁的男人，融资333亿，打破纪录](<https://36kr.com/p/4077814373012609?f=rss>)  
-  九年前，职业九段棋手柯洁在乌镇连输三局，败给人工智能AlphaGo。 九年后，AlphaGo背后的男人，又在资本市场创造了一项纪录。 11月17日，由德米斯·哈萨比斯（Demis Hassabis）创办的AI制药公司Isomorphic L  
-  36氪 · 2026-11-20 18:22
-
-- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
-  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
-  Axios · 2026-11-20 18:20
-
-- [AI版权拉锯战，澳洲率先改革引争议，音乐人们彻底急了](<https://36kr.com/p/4077568143611522?f=rss>)  
-  最近，国际唱片业协会的负责人喊话澳洲阿尔巴尼斯政府： 要是澳洲把AI版权的门槛放低，搞不好整个行业都要遭殃！ 她认为，要是放开口子，让AI公司随便扒网上的音乐素材去训练模型，这绝对是一步臭棋，还会把澳洲在国际上的口碑给搞砸。 图源：豆包AI  
-  36氪 · 2026-11-20 18:18
-
-- [抢跑 OpenAI 敲出史上最大 IPO，Anthropic 却惹怒了半个硅谷](<https://36kr.com/p/4077584643675013?f=rss>)  
-  11 月 19 日，成立仅仅 5 年的 AI 巨头 Anthropic 正式上市。 一举打破 SpaceX 此前创下的纪录，成为人类商业史上规模最大的一次 IPO。 更夸张的是，开盘后它的市值更是一度冲破 2 万亿美元 大关，收盘市值约1.  
-  36氪 · 2026-11-20 18:17
-
-- [李书福筹办芯位大学](<https://www.pedaily.cn/first/193841.shtml>)  
-  “一般性的大部分传统大学的人才培养体系与能力结构已经不适应人工智能时代对人才培养的迫切需求了。”11月20日，吉利控股集团董事长李书福在2026芯位教育论坛的演讲中作出这样的判断。 他透露，吉利方面正在筹办一所与时代相匹配的新型大学—…  
-  投资界 · 2026-11-20 18:16
-
-- [“DeepSeek们”都在退场：限额并非免费AI的终结？](<https://36kr.com/p/4077890510754690?f=rss>)  
-  “我已经跟DeepSeek聊了15万～20万字了，我不想失去这段对话。” “D老师，不要抛弃我！作为一天要玩十几个小时DeepSeek的重度依赖症患者，没了D老师我该怎么活，好想回到从前。” “到底怎么办啊？我中度抑郁加躁狂，因为一些原因没  
-  36氪 · 2026-11-20 18:13
-
-- [英伟达把投资当武器，但今年它的钱依然投不进中国大陆](<https://36kr.com/p/4077822654321537?f=rss>)  
-  英伟达是全球市值最高的公司之一，但它不只做GPU 生意，还是一台高速运转的投资机器。过去十几年，正是这种生态式的绑定投资给它带来了客户和收入，是它壮大的利器。 截至2026年11月18日，IT 桔子共收录英伟达投资并购事件239 条，其中股  
-  36氪 · 2026-11-20 18:08
-
-- [欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐](<https://www.ithome.com/1/030/191.htm>)  
-  IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，欧洲央行行长克里斯蒂娜 · 拉加德发出警告，随着 AI 智能体日益先进，网络攻击的威胁也随之加剧，可能成为全球金融业当前面临的最大挑战。 拉加德在法兰克福举行的欧洲银…  
-  IT之家 · 2026-11-20 18:06
-
-- [光禾AI用企业级智能体应用解企业改造难题](<https://36kr.com/p/4077924992390278?f=rss>)  
-  大模型进入企业后，如何与内部知识、业务系统和工作流程结合，成为企业推进AI应用的一道实际门槛。员工可以借助通用工具完成问答和内容生成，但涉及内部数据、多系统协作和具体业务执行时，企业仍需要解决系统接入、权限管理和持续运维等问题。 光禾AI选  
-  36氪 · 2026-11-20 18:02
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 24 页

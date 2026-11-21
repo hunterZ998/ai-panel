@@ -86,9 +86,9 @@
   Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
   Product Hunt 中文 · DecoHack · 2026-11-16 15:00
 
-- [AI Call](<https://www.producthunt.com/products/ai-call>)  
-  An AI that answers and makes your business calls  
-  Product Hunt · English · 2026-11-15 21:11
+- [Tripmojo](<https://www.producthunt.com/products/tripmojo>)  
+  Agentic travel app that helps plan, book and run your trip  
+  Product Hunt · English · 2026-11-16 13:30
 
 - [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
   HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  

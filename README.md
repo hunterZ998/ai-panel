@@ -1,6 +1,6 @@
 # AI应用人机台
 
-全信源快照 **2026-11-21 07:19**，关联研究 **2026-11-17 09:09**（北京时间）。
+全信源快照 **2026-11-21 12:15**，关联研究 **2026-11-17 09:09**（北京时间）。
 
 [下载完整交互面板，离线打开](https://github.com/hunterZ998/ai-panel/releases/download/public-reader/panel.html)
 
@@ -8,7 +8,7 @@
 
 - [大模型](sections/model.md) · 285 条相关资讯
 
-- [视频生成](sections/video.md) · 22 条相关资讯
+- [视频生成](sections/video.md) · 21 条相关资讯
 
 - [AI4S](sections/ai4s.md) · 9 条相关资讯
 
@@ -16,13 +16,13 @@
 
 - [端侧 AI](sections/edge.md) · 13 条相关资讯
 
-- [AI 安全](sections/security.md) · 38 条相关资讯
+- [AI 安全](sections/security.md) · 36 条相关资讯
 
 ## 资讯与研究入口
 
-- [全信源资讯](sections/all.md) · 1071 条
+- [全信源资讯](sections/all.md) · 1077 条
 
-- [主题快讯](sections/fast.md) · 1470 条
+- [主题快讯](sections/fast.md) · 1687 条
 
 - [X 雷达精选](sections/radar.md) · 0 条
 

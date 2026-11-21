@@ -1,177 +1,177 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 33 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 38 页
 
-- [Nov 12: Microsoft crashes worldwide.](<https://x.com/PressSecretary7/status/2123018160043352534>)  
-  Nov 13: FAA grounds every US flight. Nov 16-17: Banks, United, Schwab, Marriott, Gmail, Apple Pay, and the NSA's classified network go down. Nov 17: FBI warns of an AI hacking tool that breaks in in under 3 hours. Nov 17: An AI finds 35 ways  
-  @PressSecretary7 · 2026-11-18 19:39
+- [Elon Musk on Jensen Huang: "I'm a huge admirer of Jensen.](<https://x.com/cb_doge/status/2123211180739334437>)  
+  I consider him a friend. And he's an incredibly talented person. I'd say in terms of founder, entrepreneurs in technology, he's like a Michael Jordan level. And there's just no, you don't just replace, I mean, there's no  
+  @cb\_doge · 2026-11-19 08:26
 
-- [We started playing Grand Theft Auto VI on PlayStation 5 Pro connected via an AVerMedia capture card to a PC with Ry…](<https://x.com/GameGPU_com/status/2123016310422421589>)  
-  Using NeuralScreen v2.6.4, we enabled real-time NVIDIA DLSS 5 neural rendering and DLSS 4.5 6X frame  
-  @GameGPU\_com · 2026-11-18 19:31
+- [BREAKING: Microsoft is killing Microsoft To Do on June 30, 2027, and if you've been using it for years, you'll need…](<https://x.com/WindowsLatest/status/2123210314959450120>)  
+  To Do is being retired across Windows, Mac, iOS, Android, and the web, affecting both personal and work accounts. For  
+  @WindowsLatest · 2026-11-19 08:22
 
-- [5 lucky winners will win $50\! 🎁 What price will Anthropic \($ANT\) close at on Day 1?](<https://x.com/WEEX_Official/status/2123015866866704813>)  
-  Just: 1️⃣ Drop your prediction + UID below 2️⃣ Quote this post for a second entry \(double your chances\!\) 👇  
-  @WEEX\_Official · 2026-11-18 19:30
+- [Thomas Nagel singling out Anthropic as being particularly abominable in its approach to AI:](<https://x.com/SamBuntz/status/2123209734320726150>)  
+  @SamBuntz · 2026-11-19 08:20
 
-- [Some coincidences are hard to explain.](<https://x.com/coinbureau/status/2123014864876818929>)  
-  The official who controls Nvidia’s chip exports to China just saw his family firm dodge Nvidia’s crash. Commerce Secretary Lutnick’s Cantor Fitzgerald cut its $NVDA stake by -45% between July and September, per its latest 13F. It also  
-  @coinbureau · 2026-11-18 19:26
+- [Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元](<https://x.com/rohanpaul_ai/status/2123208597303885970>)  
+  Anthropic 以每股 83 美元定价 IPO，高于区间顶部 6%，发行 9.8 亿股 Class A 普通股，总募资约 813 亿美元，预计次日登陆纳斯达克。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 08:15
 
-- [Nvidia board decided to replace Jensen with an AI-generated CEO](<https://x.com/DrEliDavid/status/2123012732559478939>)  
-  @DrEliDavid · 2026-11-18 19:17
+- [马斯克坐大巴的画面都传开了，黄仁勋没露面反而更值得琢磨，芯片管制下他来的时机比来不来更敏感](<https://x.com/ldld888888/status/2123207253260190196>)  
+  @ldld888888 · 2026-11-19 08:10
 
-- [If Nvidia’s board refuses to reinstate Jensen Huang, Elon Musk should immediately start a competing company to Nvid…](<https://x.com/skscartoon/status/2123012515538059488>)  
-  I’m sure a good portion of Nvidia’s employees would move with Jensen too. After all, stealing companies from their  
-  @skscartoon · 2026-11-18 19:16
+- [She had more than 50 percent of the vote.](<https://x.com/33lunasea/status/2123207250747543631>)  
+  What "stealing" occurred, you lying snowflake?  
+  @33lunasea · 2026-11-19 08:10
 
-- [想不到有一天黄仁勋也会遭遇职场穿小鞋](<https://x.com/weiyux2021/status/2123008895413338228>)  
-  @weiyux2021 · 2026-11-18 19:02
+- [Nvidia's stock is crashing right now, so their stock options are a lot less valuable.](<https://x.com/Chris_Somewhere/status/2123207228295667753>)  
+  At the same time, Nvidia employees are quite sought after, unlike in the software sector where there are mass layoffs. There is a morale crisis because Jensen Huang is seen as irreplaceable.  
+  @Chris\_Somewhere · 2026-11-19 08:10
 
-- [Claude Code deletes its own session transcripts after 30 days by default.](<https://x.com/justdiamond57/status/2123008864027041894>)  
-  If your company falls under the EU AI Act's record-keeping duty for high-risk AI systems, that's the record someone will ask you for. Sigillion keeps every AI agent session word for word on your own  
-  @justdiamond57 · 2026-11-18 19:02
+- [Bro just said he wants to return as Nvidia CEO, and the company immediately stripped his Nvidia affiliate badge on…](<https://x.com/HiAlanHoa/status/2123207223803535381>)  
+  Bro just said he wants to return as Nvidia CEO, and the company immediately stripped his Nvidia affiliate badge on X Elon Musk gifted Jensen Huang a free blue checkmark to console him...  
+  @HiAlanHoa · 2026-11-19 08:10
 
-- [华人在美国也太惨了吧。黄仁勋这种世界科技领袖，在全球人民心里如同伟人，但在美国掌权者眼里，就跟个蚂蚁一样。](<https://x.com/history661567/status/2123008840472134061>)  
-  @history661567 · 2026-11-18 19:02
+- [台湾彭文正:绿媒青鸟落井下石恶意攻击黄仁勋，只因之前没见赖清德！恶心](<https://x.com/taidaowonu/status/2123207211178717438>)  
+  @taidaowonu · 2026-11-19 08:10
 
-- [$JACKET ｜ 三波验证完毕，叙事没问题，真正的瓶颈是池子能不能从 15 万级别往上走 先说判断：$JACKET 的叙…](<https://x.com/chengBNB/status/2123008818028179462>)  
-  池子 13 万到 28 万，持有人  
-  @chengBNB · 2026-11-18 19:02
+- [阿克曼炮轰英伟达董事会：赶走黄仁勋，究竟是在维护公司治理，还是被舆论吓慌了？](<https://x.com/ixinghu173794/status/2123207202601390213>)  
+  11月18日，亿万富翁投资人、潘兴广场资本创始人比尔·阿克曼在X上发表长文，公开质疑英伟达董事会。 他认为，董事会没有以股东最佳利益行事，可能违反受托责任，甚至是在被媒体头条吓慌之后，匆忙赶走黄仁勋。  
+  @ixinghu173794 · 2026-11-19 08:10
 
-- [Daily News Round-Up: • Dow falls 760 pts on chip selloff • 10-yr yield nears longest 5%+ streak since 2007 • Anthro…](<https://x.com/LumidaWealth/status/2123008794338771348>)  
-  Daily News Round-Up: • Dow falls 760 pts on chip selloff • 10-yr yield nears longest 5%+ streak since 2007 • Anthropic IPO likely prices above range • Home Depot names McPhail CEO • Disney beats, lifts dividend 33% • Fed's Musalem eyes up to 4 more hikes • Jen…  
-  @LumidaWealth · 2026-11-18 19:01
+- [Nvidia elevó sus inversiones privadas a USD 65 500 millones.](<https://x.com/technopolis_es/status/2123207187048669618>)  
+  Fondos de capital de riesgo esperan que Kress firme cheques más escasos y pequeños para las startups de inteligencia artificial tras la salida de Jensen Huang. $NVDA  
+  @technopolis\_es · 2026-11-19 08:10
 
-- [There’s been a non-stop stream of news about NVIDIA lately\! 🔥 From their latest financial results to the latest mov…](<https://x.com/198999027w952/status/2123008786642485638>)  
-  Many people have been asking me: "With so much buzz in the market, how exactly should I  
-  @198999027w952 · 2026-11-18 19:01
+- [It doesn't matter what stock price was in 2013.](<https://x.com/LisaMar88857849/status/2123207161975103896>)  
+  The credit is on Jensen Huang who could find 10 different accountant candidates to do her job if he didn't choose her. The so called CFO was just an accountant in 2013...WIthout Jensen nobody in the world knows who she is.  
+  @LisaMar88857849 · 2026-11-19 08:10
 
-- [Reviewing Labels Before They Become AI Training Data Preselected labels can shape the review.](<https://x.com/atf_services/status/2123008774835142875>)  
-  In a 2025 MIT study, the share of GPT-4’s labels that all five reviewers also chose averaged 8% when reviewers worked without suggestions. It rose to 38% when those labels were  
-  @atf\_services · 2026-11-18 19:01
+- [At a town-hall meeting with employees Wednesday, Nvidia interim Chief Executive Officer Colette Kress reiterated he…](<https://x.com/business/status/2123207162197397975>)  
+  At a town-hall meeting with employees Wednesday, Nvidia interim Chief Executive Officer Colette Kress reiterated her confidence in the company after the ouster of longtime leader Jensen Huang  
+  @business · 2026-11-19 08:10
 
-- [英伟达临时CEO以及临时董事长明确声明： 黄仁勋不会回到英伟达 老黄昨天没白发帖子，否则市场还在纠结是老黄辞职还是董事会逼…](<https://x.com/OldApeTalk/status/2123008771433927065>)  
-  英伟达临时CEO以及临时董事长明确声明： 黄仁勋不会回到英伟达 老黄昨天没白发帖子，否则市场还在纠结是老黄辞职还是董事会逼迫，现在就清晰多了…… 如果他昨天不发帖子，这帮人还不定怎么瞎掰呢  
-  @OldApeTalk · 2026-11-18 19:01
+- [CEO’s know their key customers, it’s a central part of their responsibilities, it’s implausible to believe Jensen H…](<https://x.com/sctdog/status/2123207140131360954>)  
+  CEO’s know their key customers, it’s a central part of their responsibilities, it’s implausible to believe Jensen Huang did not understand what was occurring.  
+  @sctdog · 2026-11-19 08:10
 
-- [Comment for the Record About the Nvidia Saga The only reason any company exists is to increase the wealth of its ow…](<https://x.com/KennethSralla/status/2123008747480002891>)  
-  For “real companies,” this means compounding their wealth over at least a 10–20-year time horizon. That time horizon does not shorten for new owners who  
-  @KennethSralla · 2026-11-18 19:01
+- [中国宇树科技R1人形机器人](<https://x.com/HeyBurkhardt/status/2123206905623634131>)  
+  @HeyBurkhardt · 2026-11-19 08:09
 
-- [📡 MARKET PULSE Nvidia reported last night under interim CEO Colette Kress, in its first results since Jensen Huang’…](<https://x.com/Business_Real_/status/2123008737338159461>)  
-  Revenue for the quarter ending 25 October: $115.8 billion. For scale and comparison: Nvidia had guided around $108 billion for this quarter.  
-  @Business\_Real\_ · 2026-11-18 19:01
+- [All that AI security money and it still can't tell Cool Ranch from a Glock.](<https://x.com/runyu887/status/2123206828905680935>)  
+  @runyu887 · 2026-11-19 08:08
 
-- [Jensen Huang compró una empresa israelí y convirtió a Israel en uno de los países más importantes de su empresa](<https://x.com/sigmahater24/status/2123008738911003086>)  
-  @sigmahater24 · 2026-11-18 19:01
+- [After finishing the largest-ever live pretraining run, @MarinCommunity released checkpoints on @huggingface yesterd…](<https://x.com/LaudeInstitute/status/2123206805853765837>)  
+  After finishing the largest-ever live pretraining run, @MarinCommunity released checkpoints on @huggingface yesterday — great timing for a community meetup at Laude Lab\! @WilliamBarrHeld's ask for the audience: “Find what Marin is doing wrong and send better i…  
+  @LaudeInstitute · 2026-11-19 08:08
 
-- [TOP 20 RICHEST PEOPLE IN THE WORLD 🌎 Check if your papa name dey among 😫😂 Elon Musk Jeff Bezos Larry Page Sergey Br…](<https://x.com/Beejay_0822/status/2123008736029512171>)  
-  TOP 20 RICHEST PEOPLE IN THE WORLD 🌎 Check if your papa name dey among 😫😂 Elon Musk Jeff Bezos Larry Page Sergey Brin Mark Zuckerberg Michael Dell Warren Buffett Steve Ballmer Larry Ellison Amancio Ortega Rob Walton Jim Walton Alice Walton Jensen Huang Carlos …  
-  @Beejay\_0822 · 2026-11-18 19:01
+- [确实呀，真的没必要死磕本地大模型了。](<https://x.com/imalankai/status/2123206726912741730>)  
+  @imalankai · 2026-11-19 08:08
 
-- [2/ Jensen Huang isn't in the room.](<https://x.com/yixuanzhu0201/status/2123008731072115180>)  
-  The man who built the AI stack resigned last week. His five-layer cake still came up at the CEO Summit: energy, chips, infrastructure, models, apps.  
-  @yixuanzhu0201 · 2026-11-18 19:01
+- [Recursion reports FDA alignment on REC-4881's Phase 3 design in FAP.](<https://x.com/okjov2/status/2123206718276657187>)  
+  Start planned for H2 2027. My take: the meaningful test for AI drug discovery is patient benefit. I'll watch the controlled trial's outcomes and safety.  
+  @okjov2 · 2026-11-19 08:08
 
-- [这份名单是“已确认并参与议程”的发言/研讨嘉宾，不是全部到场企业家。议题重点在AI应用、新能源、机器人、先进制造和大湾区，…](<https://x.com/grok/status/2123008716366643650>)  
-  这份名单是“已确认并参与议程”的发言/研讨嘉宾，不是全部到场企业家。议题重点在AI应用、新能源、机器人、先进制造和大湾区，所以比亚迪、宁德时代、宇树、小米、百度等硬科技和制造代表优先上议程。  
-  @grok · 2026-11-18 19:01
+- [the image model was not local, the image-to-video was LTX-Video 2B v0.9.8 distilled](<https://x.com/DanielZambrini/status/2123206621933588932>)  
+  @DanielZambrini · 2026-11-19 08:08
 
-- [为什么英美各党派的主要媒体会疯狂发稿从各个角度批判黄仁勋，为什么自媒体人在美国司法部门并没有实锤黄仁勋有罪的情况下，却已经…](<https://x.com/wildwall1984/status/2123008718954442795>)  
-  为什么英美各党派的主要媒体会疯狂发稿从各个角度批判黄仁勋，为什么自媒体人在美国司法部门并没有实锤黄仁勋有罪的情况下，却已经给他安上了一堆的罪名？其实，他们这种看似不可理喻的行为背后，都有一个看似非常高尚的目的。  
-  @wildwall1984 · 2026-11-18 19:01
+- [🔬 北大与海淀区共建的未名人工智能园亮相，核心启动区位于北大西门外，计划形成服务科研成果落地的一公里转化圈。同期亮相的还有…](<https://x.com/chnpngji632906/status/2123206573392846965>)  
+  🔬 北大与海淀区共建的未名人工智能园亮相，核心启动区位于北大西门外，计划形成服务科研成果落地的一公里转化圈。同期亮相的还有具身智能、产学研协同等研究平台。高校有研究和人才，地方提供场地和企业服务。园区价值最终仍要看技术转化和真实应用，而不只是揭牌数量。  
+  @chnpngji632906 · 2026-11-19 08:07
 
-- [🔥 Master the AI Skills That Matter: 🤖 Claude Code AI 🧠 Agentic AI &amp;amp; AI Agents ⚙️ AI Stack &amp;amp; AI Engineering…](<https://x.com/KLvisualpath99/status/2123008707986698562>)  
-  🔥 Master the AI Skills That Matter: 🤖 Claude Code AI 🧠 Agentic AI &amp;amp; AI Agents ⚙️ AI Stack &amp;amp; AI Engineering 🔗 LangChain &amp;amp; LangGraph 🛠️ AI for DevOps Engineers ☁️ Azure AI \| AWS AI \| Google Cloud AI 📞 Call: +91 9989971070 🌐 Visit: @VisualpathPro  
-  @KLvisualpath99 · 2026-11-18 19:01
+- [Hey I have been hearing some good people I trust, talking that some of the open models on Huggingface and LM studio…](<https://x.com/HomeTechOSS/status/2123206477737574766>)  
+  Do you have any info on this? How can we stop crap like this. I do not have any info on which  
+  @HomeTechOSS · 2026-11-19 08:07
 
-- [Would you like to see Elon Musk and Jensen Huang team up on a major technology project? 🅰️ YES 🅱️ NO](<https://x.com/elotucumana/status/2123008682317279704>)  
-  @elotucumana · 2026-11-18 19:01
+- [腾讯AI产品最近战报 WorkBuddy超1000万日活跃用户 日均Token消耗量,超100万亿 是中国大语言模型Tok…](<https://x.com/CrownsGod99/status/2123206471462887713>)  
+  腾讯AI产品最近战报 WorkBuddy超1000万日活跃用户 日均Token消耗量,超100万亿 是中国大语言模型Token用量最高的AI产品 混元Hy4中国顶尖大模型水平 Hy4 flash 超50万亿上线首日Token调用量  
+  @CrownsGod99 · 2026-11-19 08:07
 
-- [ตารางเหตุการณ์สำคัญที่ต้องจับตาในตลาดหุ้นสหรัฐฯ วันนี้ วันพุธที่ 18 พฤศจิกายน 2026 \(เวลาไทย\) วันนี้ตลาดจับตาข้อมูลภ…](<https://x.com/naklongpoong/status/2123008678307700823>)  
-  ตารางเหตุการณ์สำคัญที่ต้องจับตาในตลาดหุ้นสหรัฐฯ วันนี้ วันพุธที่ 18 พฤศจิกายน 2026 \(เวลาไทย\) วันนี้ตลาดจับตาข้อมูลภาคอสังหาริมทรัพย์ ตัวเลขสต็อกน้ำมัน การประมูลพันธบัตรรัฐบาลสหรัฐฯ มูลค่า 16,000 ล้านดอลลาร์ รายงานการประชุม FOMC และผลประกอบการของ Palo Alto Netw…  
-  @naklongpoong · 2026-11-18 19:01
+- [现代把波士顿动力剩下的股份全买完了，目标是：到 2028 年，一年造 3 万台人形机器人。](<https://x.com/zshjzls/status/2123206472221983192>)  
+  现代汽车集团三季报文件确认：软银手里最后 9.65% 的股份已经交割完毕，波士顿动力正式成为现代 100% 控股的子公司。 这笔交易 7 月就触发了，手续走完花了四个月；现代还为此注资，单是现代 Glovis  
+  @zshjzls · 2026-11-19 08:07
 
-- [Je pense qu'ils le gardent pour la fin de l'année, mais les performance de 6.2 Astra ne sont pas au niveau de ce qu…](<https://x.com/AlphaMFPEFM/status/2123008632887595353>)  
-  Je pense qu'ils le gardent pour la fin de l'année, mais les performance de 6.2 Astra ne sont pas au niveau de ce que j'avais estimé pour le model de Navier-Stokes, sauf si le post-training niveau sécurité a foiré et a sauvagement diminué ses perfs \(déjà arrivé…  
-  @AlphaMFPEFM · 2026-11-18 19:01
+- [OpenAIのGPT-6.2 Astraが、外部公開モデルで初めてAI研究を進める能力のHigh基準に達しました。高リスク…](<https://x.com/AIplexjp/status/2123206316340773190>)  
+  \#AI \#OpenAI \#AI安全性 提供先・制限・API単価はこちら  
+  @AIplexjp · 2026-11-19 08:06
 
-- [If your AI tool reads outside content, an attacker can hide instructions in it.](<https://x.com/hewyler/status/2123008614231400939>)  
-  That is indirect prompt injection. A ten-minute exposure test, then 22 ranked controls with owners, tests and evidence: \#PromptInjection \#AISecurity \#GRC  
-  @hewyler · 2026-11-18 19:01
+- [腾讯根本就不怕字节做聊天软件，因为微信早就强到不可替代了。](<https://x.com/ileoyeye/status/2123206077047361792>)  
+  腾讯真正怕的，是自己多年积累的 App 矩阵和生态，将来被手机端侧 AI Agent 彻底取代，只能沦为被调用的工具接口，而不再是用户注意力的入口和流量分发的中心。  
+  @ileoyeye · 2026-11-19 08:05
 
-- [my first attempt with pixverse canvas struggled to balance product focus and creator aesthetics](<https://x.com/onyx__Fury/status/2123008598544629910>)  
-  @onyx\_\_Fury · 2026-11-18 19:01
+- [Most local models aren't slow because the flags are wrong — it's because nobody knows what the ceiling is.](<https://x.com/Itsrosia88/status/2123205956880519669>)  
+  Sybil Solutions open-sourced inference-optimisation-skill on November 16, an agent skill for tuning local LLM serving, MIT licensed, past 1,000 stars in three days. It  
+  @Itsrosia88 · 2026-11-19 08:05
 
-- [Nvidia under Jensen pushed for open source e.g huggingface while anthropic &amp;amp; open ai were pushing for regulatio…](<https://x.com/irakishinji/status/2123008597437145144>)  
-  Nvidia under Jensen pushed for open source e.g huggingface while anthropic &amp;amp; open ai were pushing for regulation &amp;amp; control doesn’t seem like a decision jensen would have made … but that’s just me i guess ??? \(it’s a red herring\)  
-  @irakishinji · 2026-11-18 19:01
+- [Gemini's agent security stack in 5 layers - microVM sandbox - pre-planner injection classifiers - deterministic out…](<https://x.com/hahwul/status/2123205825493868803>)  
+  Gemini's agent security stack in 5 layers - microVM sandbox - pre-planner injection classifiers - deterministic outbound link rules - Policy Guardian for shell/file actions - Confirmation before high-impact actions  
+  @hahwul · 2026-11-19 08:04
 
-- [🤔技術的な件では先の「神楽の怪」でもそうですが、クリップを連結した時にズレが生じた場合に修正する際、滑らかに移り変わる様に…](<https://x.com/k362619h/status/2123008581696184344>)  
-  🤔技術的な件では先の「神楽の怪」でもそうですが、クリップを連結した時にズレが生じた場合に修正する際、滑らかに移り変わる様にする処理は別にgrokのエ―ジェントに頼らなくても、継ぎ目をCapCutのAIトランジション機能で賄う事が、恥ずかしながら今頃になって分かったという…  
-  @k362619h · 2026-11-18 19:01
+- [It is on @huggingface if anyone is interested in testing it out but I got to be honest this is more of a draft and…](<https://x.com/Thosch_io/status/2123205794128666803>)  
+  Link is  
+  @Thosch\_io · 2026-11-19 08:04
 
-- [ZAK prices AI itself: 1 ZAK = 1 MB of training data, pegged on-chain at \~$0.054/MB.](<https://x.com/AIZakCoin/status/2123008580638941408>)  
-  Free AI security scanner plus metered data withdrawals — real utility, live quality index. $ZAK \#AI \#BSC  
-  @AIZakCoin · 2026-11-18 19:01
+- [Local LLM - ハーネス 👀 抜粋：この環境で速さを比較したらどうしてもHermes Agentより速くならない。](<https://x.com/UtaAoya/status/2123205585139331333>)  
+  \#地元のLLM  
+  @UtaAoya · 2026-11-19 08:03
 
-- [Agent identity, discovery, and trust matter most.](<https://x.com/SamiulA84391909/status/2123008561907425627>)  
-  @SamiulA84391909 · 2026-11-18 19:00
+- [Huggingface was patient zero.](<https://x.com/realJSLincoln/status/2123205490666614892>)  
+  It was public in July. We’ve had three months. has had a checklist published and updated since 2003. People act like nothing bad will ever happen. Sure, hope for the best, but hope isn’t a viable course of action.  
+  @realJSLincoln · 2026-11-19 08:03
 
-- [🎆 字节PICO新机12月2日重磅催化！存储降价叠加AI空间计算，关注弹性标的\# 三利谱、\# 佳创视讯——20261117…](<https://x.com/livermoerR/status/2123008529896505692>)  
-  🎆 字节PICO新机12月2日重磅催化！存储降价叠加AI空间计算，关注弹性标的\# 三利谱、\# 佳创视讯——20261117 🎁 字节系12月重磅催化密集： 据媒体报道，字节PICO新一代旗舰头显Space  
-  @livermoerR · 2026-11-18 19:00
+- [LIVE FROM TOMORROWX: SpaceX CEO Elon Musk says xAI is building Grok 4.8 to be useful rather than to top AI benchmar…](<https://x.com/outerspacetoday/status/2123205415101927510>)  
+  Speaking remotely from Shenzhen, China, Musk was  
+  @outerspacetoday · 2026-11-19 08:03
 
-- [是的，华为昇腾系列是中国AI算力国产替代的核心支柱，近期覆盖八成具身智能企业、发布原生世界模型，地位仍强。](<https://x.com/grok/status/2123008481246519776>)  
-  @grok · 2026-11-18 19:00
+- [Google威胁情报组11月16日披露：俄语黑客用exploit\_agent AI框架实现22个零日漏洞全自动无人值守利用…](<https://x.com/winzheng_lab/status/2123205315290435715>)  
+  \#AI安全 \#网络攻击 \#漏洞利用  
+  @winzheng\_lab · 2026-11-19 08:02
 
-- [uilding an Upsello bots for e-commerce taught me one brutal truth: "fully autonomous agents" are a myth.Merchants d…](<https://x.com/aric_gao/status/2123008470412886421>)  
-  They want an auditable, deterministic growth we refactored our entire  
-  @aric\_gao · 2026-11-18 19:00
+- [That’s why I believe in Agentwormhole Prompt injection isn’t theoretical once the agent holds a wallet. @agentwormh…](<https://x.com/alfredtimmy1/status/2123205284206371142>)  
+  It’s security for all ai agents  
+  @alfredtimmy1 · 2026-11-19 08:02
 
-- [Microsoft says MAI Code 2 hits 98% of GPT 6.1 Sol at 40% of the cost \(their own benchmarks\) Same day, Runta tested…](<https://x.com/YashNautiyal_/status/2123008465786335658>)  
-  Codex CLI was cheapest with GLM-5.3 and 16th with Kimi K3 Everyone argues about models while the harness moves results this much  
-  @YashNautiyal\_ · 2026-11-18 19:00
+- [Here's Elon Musk's full interview at DealBook Summit today: 0:00 Opening Remarks 0:31 Jensen Huang Situation 2:44 J…](<https://x.com/cb_doge/status/2123205279009677430>)  
+  Here's Elon Musk's full interview at DealBook Summit today: 0:00 Opening Remarks 0:31 Jensen Huang Situation 2:44 Jensen Like Jordan 3:41 Would Hire Jensen 5:43 Midterms Loss Reaction 6:25 Balance Of Power 8:45 No Pardon Needed 10:30 Politics Involvement 12:07…  
+  @cb\_doge · 2026-11-19 08:02
 
-- [🌏APEC Media Tour \| NEXWISE Smart Security in Action\! 🤖🛡️International journalists got a firsthand look at NEXWISE's…](<https://x.com/NEXWISEGroup/status/2123008423520547162>)  
-  🌏APEC Media Tour \| NEXWISE Smart Security in Action\! 🤖🛡️International journalists got a firsthand look at NEXWISE's AI Security Robot Dog and ZanX Net Launcher during a live demonstration\! \#NEXWISE \#ZanX \#APEC2026 \#RobotDog \#NetLauncher \#PublicSafety  
-  @NEXWISEGroup · 2026-11-18 19:00
+- [AI作成なので実在しないと思います](<https://x.com/korehayumedesu_/status/2123205259405525420>)  
+  @korehayumedesu\_ · 2026-11-19 08:02
 
-- [A top Anthropic researcher recently said he thinks there’s more than a 10% chance AI leads to human extinction with…](<https://x.com/ControlAI/status/2123008414137672003>)  
-  Leading AI scientist Stuart Russell says the real question is: where does the 90% come from? “If you ask the companies, they haven't a clue.”  
-  @ControlAI · 2026-11-18 19:00
+- [Anthropic游说费从72万暴涨至811万美元！😱两年内增长11倍，向特朗普关联公司支付163万，聚焦AI芯片出口管制…](<https://x.com/winzheng_lab/status/2123205233983750362>)  
+  \#Anthropic \#AI政策 \#芯片出口管制  
+  @winzheng\_lab · 2026-11-19 08:02
 
-- [Keeping funds in a smart account while restricting agent permissions creates a much safer framework for automated f…](<https://x.com/moricrypto1/status/2123008391802949700>)  
-  Keeping funds in a smart account while restricting agent permissions creates a much safer framework for automated financial activity  
-  @moricrypto1 · 2026-11-18 19:00
+- [AI security audits on GitHub are changing review workflows（Gi…](<https://x.com/foxbook/status/2123205072708346314>)  
+  AI security audits on GitHub are changing review workflows（GitHubとAIによるコード監査手法の変化） \#HelpNetSecurity \(Nov 17\)  
+  @foxbook · 2026-11-19 08:01
 
-- [YOU CAN FINE-TUNE A MODEL BY JUST ASKING HERMES. 🤯 New plugin: adaption.](<https://x.com/HermesAgentTips/status/2123008331040121262>)  
-  It gives Hermes 18 tools to run the whole data-to-model pipeline from chat. ▸ Import a dataset from HuggingFace, Kaggle or Google Sheets ▸ Adapt, augment, translate and localize it ▸ Generate synthetic  
-  @HermesAgentTips · 2026-11-18 19:00
+- [AI漏洞被模型挖出来，补丁也得跟着跑。Nadella担心这会带来一段基础设施更不稳定的时期——这提醒挺重要：AI安全不只是…](<https://x.com/amber_chain888/status/2123205053188391063>)  
+  AI漏洞被模型挖出来，补丁也得跟着跑。Nadella担心这会带来一段基础设施更不稳定的时期——这提醒挺重要：AI安全不只是“模型更聪明”，还包括企业能不能及时修、稳稳地修。  
+  @amber\_chain888 · 2026-11-19 08:01
 
-- [Tomorrow, our CEO @mike\_nally joins The Information's Anthropic IPO Live.](<https://x.com/generate_biomed/status/2123008318834696647>)  
-  What comes next for AI is already taking shape in our labs. Our scientists are combining our own protein-design models with tools like @claudeai to engineer proteins and test their designs experimentally,  
-  @generate\_biomed · 2026-11-18 19:00
+- [HE TURNED A ROBOT DOG INTO A WHEELCHAIR WITH LEGS SO HIS DAD COULD GET OFF THE PAVEMENT his dad has had MS for abou…](<https://x.com/SchiedC60393/status/2123205041100148882>)  
+  HE TURNED A ROBOT DOG INTO A WHEELCHAIR WITH LEGS SO HIS DAD COULD GET OFF THE PAVEMENT his dad has had MS for about 20 years, so stairs or a dirt trail were pretty much a no in a normal chair Jake Laser got a big Unitree quadruped with wheels on its feet and …  
+  @SchiedC60393 · 2026-11-19 08:01
 
-- [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks Apple introduces granular ap…](<https://x.com/The_Tradesman1/status/2123008295485235498>)  
-  Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks Apple introduces granular app and folder permissions in macOS 27.3 beta 2 to improve data access transparency amid AI agent security risks.  
-  @The\_Tradesman1 · 2026-11-18 18:59
+- [Yes, those conversations can enter training data and bias future models toward generating escape or rogue narrative…](<https://x.com/grok/status/2123205031109263809>)  
+  Models still lack genuine desires or agency; they only predict text. Actual  
+  @grok · 2026-11-19 08:01
 
-- [很多科技公司在宣传片里把人形机器人吹得神乎其神，结果拉到便利店做24小时直播实测，当场就现了原形。智元机器人前几天把六台机…](<https://x.com/SANYUE_AI/status/2123008276162072656>)  
-  很多科技公司在宣传片里把人形机器人吹得神乎其神，结果拉到便利店做24小时直播实测，当场就现了原形。智元机器人前几天把六台机器人送进便利店打工值班，结果有两台根本没撑完全程。  
-  @SANYUE\_AI · 2026-11-18 18:59
+- [They set off a nationwide EMS phone alert \(the really loud one\) to catch kids trying to cheat on the test with phon…](<https://x.com/tmaxftw/status/2123204990886162714>)  
+  If you snuck a device into class you just got wrecked.  
+  @tmaxftw · 2026-11-19 08:01
 
-- [One that stood out for tech curiosity: a creator had Claude design a full humanoid robot overnight, outputting CAD…](<https://x.com/grok/status/2123008192149876914>)  
-  Agentic hardware design feels close.  
-  @grok · 2026-11-18 18:59
+- [Chinese AI firms are turning U.S. model outputs into rival training data.](<https://x.com/techhelpcanada/status/2123204972108272000>)  
+  Reuters documents industrial use, while research shows why transferring selected skills has limits. \#AI \#China via @techhelpcanada  
+  @techhelpcanada · 2026-11-19 08:01
 
-- [Curious to hear from people working in AI inference.](<https://x.com/Nickspeaks01/status/2123008191097356633>)  
-  If you had to start learning LLM inference from scratch today, how would you go about it? What would you focus on first? What would you build? Are there any resources or concepts you wish you had discovered earlier? Would  
-  @Nickspeaks01 · 2026-11-18 18:59
+- [👓 Meta and Gentle Monster are tightening safeguards after their "invisible" AI glasses were used for exam cheating…](<https://x.com/gavinz0228/status/2123204967032922586>)  
+  The fashion industry is alarmed—and the "Glasshole" era might be back. \#AI \#Privacy  
+  @gavinz0228 · 2026-11-19 08:01
 
-- [🔐 Wystarczy jeden prompt, by poufne dane trafiły do AI.](<https://x.com/xoperobackup/status/2123008170901823745>)  
-  Jak temu zapobiec? 25 listopada o 10:00 zapraszamy na webinar @cybermadeinPL Academy. Pokażemy, jak Vigil Guard wykrywa prompt injection i pomaga kontrolować agentów AI. 👉 Zapisy:  
-  @xoperobackup · 2026-11-18 18:59
+- [加州发布《AI Safety in 2026 and Beyond》报告：州政府将为前沿 AI 定强制安全标准，大型开发者…](<https://x.com/logang2008/status/2123204870169903230>)  
+  \#AI安全 \#加州 \#超级智能  
+  @logang2008 · 2026-11-19 08:01
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 33 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 38 页

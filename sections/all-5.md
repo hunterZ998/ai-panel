@@ -2,6 +2,39 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 24 页
 
+- [上海国投先导人工智能母基金拟参与投资3只子基金](<https://www.pedaily.cn/first/193743.shtml>)  
+  近日，根据《上海三大先导产业母基金子基金公开遴选细则（试行）》，经相应遴选程序，上海国投先导人工智能母基金初步确定拟参与投资3只子基金，具体名单正式对外公布，本次拟参与投资的3只子基金及对应中选机构。（投资界） 原文链接  
+  投资界 · 2026-11-20 11:20
+
+- [China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.](<https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 11:00
+
+- [Simon Willison 谈 ChatPRD 遭遇的 token 滥用问题](<https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/>)  
+  Simon Willison 介绍 Claire Vo 的 YouTube 视频，ChatPRD 创始人 Claire Vo 描述其产品免费试用遭遇大量 token 欺诈，滥用者轮换试用和优惠码，把她的 agent 用于转卖 token 或搭建 Roblox、Fortnite 地图工作室等商业用途。  
+  Simon Willison 博客 · 2026-11-20 10:49
+
+- [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
+  Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
+  IT桔子 · 2026-11-20 10:30
+
+- [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](<https://www.platformer.news/anthropic-goes-public/>)  
+  Anthropic 周四在纳斯达克上市，募资 813 亿美元，为史上最大 IPO，收盘市值 1.76 万亿美元，成为全球最大公共利益公司。CEO Dario Amodei 表示将按必要节奏推进 AI 训练与部署，不受商业或政治压力影响。  
+  Platformer（热点 RSS） · 2026-11-20 09:37
+
+- [OpenAI 邀请部分 Plus 用户测试 dots 智能体，移动版 ChatGPT 将为其设独立标签页](<https://www.ithome.com/1/029/784.htm>)  
+  OpenAI 核心产品负责人 Thibault Sottiaux 宣布邀请少量 ChatGPT Plus 用户测试 dots，同时向所有 ChatGPT Business Standard 用户开放。  
+  IT之家·人工智能 · 2026-11-20 09:20
+
+- [Emerging Stocks Enter Bear Market as AI Triggers Global Selloff](<https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide>)  
+  Bloomberg · 2026-11-20 09:05
+
+- [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
+  The Information · 2026-11-20 09:00
+
+- [投资界24h\| Anthropic市值超10万亿；三位00后把公司卖了300亿；招商局人工智能产业基金成立](<https://www.pedaily.cn/first/193679.shtml>)  
+  11月19日，美国AI公司Anthropic登陆纳斯达克，发行价每股83美元，开盘涨超20%，市值近2万亿美元七位联合创始人每人身家约200亿美元，集体跻身彭博全球富豪榜前列。与此同时，美国派拓网络宣布将以约300亿元全股票交易收购A…  
+  投资界 · 2026-11-20 08:59
+
 - [Apple may be developing its own AI agent that runs your Mac](<https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/>)  
   The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenA  
   TechCrunch · 2026-11-20 08:56
@@ -32,6 +65,10 @@
 - [Hugging Face 联合 Thinking Machines Lab 发布本地多模态模型 Inkling 2 Mini](<https://huggingface.co/blog/inkling2mini>)  
   Hugging Face 与 Thinking Machines Lab 合作发布面向本地部署的多模态 MoE 模型 Inkling 2 Mini，总参数约 26B、每 token 激活 3B。  
   Hugging Face 官方团队博客 · 2026-11-20 08:00
+
+- [Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>)  
+  Google Research 回顾 Duplex 十年架构演进，并介绍本周在 Gemini App Tasks 中上线的自动致电商家功能。  
+  Google Research：Blog（网页） · 2026-11-20 08:00
 
 - [browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作](<https://browser-use.com/posts/browser-use-1-0>)  
   Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chrome DevTools Protocol 访问替代 0.x 的 24 个浏览器动作。  
@@ -138,43 +175,5 @@
 
 - [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
   The Information · 2026-11-20 06:43
-
-- [Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million](<https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million>)  
-  The Information · 2026-11-20 06:43
-
-- [Anthropic 纳斯达克上市首日大涨 17%，市值达 1.27 万亿美元，IPO 募资 813 亿美元成史上最大](<https://www.ithome.com/1/029/748.htm>)  
-  Anthropic 于 11 月 19 日在纳斯达克上市，首日收盘 97.17 美元，较 83 美元发行价上涨 17.07%，市值约 1.27 万亿美元。按 IPO 募资额计，本次募资 813 亿美元超过 SpaceX 6 月的 750 亿美元，为史上最大规模首次募股；公司每股收益为 -59.62 美元，尚未稳定盈利。  
-  IT之家·人工智能 · 2026-11-20 06:41
-
-- [Apple 招聘工程师打造自家 AI 智能体](<https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing>)  
-  Apple 正招聘一名工程师主导开发可跨应用、浏览器、命令行和 API 执行多步任务的 AI 智能体，并与 Siri、UI Frameworks 和 Apple Foundation Models 团队协作。  
-  The Verge：AI（RSS） · 2026-11-20 06:31
-
-- [Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%](<https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings>)  
-  The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1158 亿美元，数据中心业务增长 110%，Vera Rubin 平台贡献近 200 亿美元收入；但受芯片股整体抛售、前 CEO 黄仁勋辞职及公司治理调查等因素影响，股价一度报约 150 美元，较 10 月 6 日历史高点跌近 40%，周四收于 145.98 美元，创 52 周新低。  
-  The Verge：AI（RSS） · 2026-11-20 05:59
-
-- [Meta’s new Muse Charm device may cost $300](<https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/>)  
-  Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upco  
-  TechCrunch · 2026-11-20 05:58
-
-- [Meta FAIR Self-Improving Memory 在 Continual Learning Bench 上取得 56.0 平均分](<https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/>)  
-  Meta FAIR 联合华盛顿大学和约翰霍普金斯大学的研究者推出 Self-Improving Memory，一种让基于 Kimi-K2.6 的智能体自己发现并蒸馏记忆管理技能的两阶段方法。  
-  MarkTechPost（RSS） · 2026-11-20 05:46
-
-- [These tech outages are giving Y2K, AI agent style](<https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/>)  
-  Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidenc  
-  TechCrunch · 2026-11-20 05:42
-
-- [Veryfi Thinking Mode](<https://www.producthunt.com/products/veryfi>)  
-  AI agents review and correct receipt and invoice data.  
-  Product Hunt · English · 2026-11-20 05:30
-
-- [Thousands of Anthropic Employees and Investors Are Set to Reap Fortunes](<https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 05:30
-
-- [Databricks Genie ZeroOps 进入公开测试，自动检测并修复数据流水线问题](<https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer>)  
-  Databricks 宣布自主智能体 Genie ZeroOps 进入 Public Beta，工作区管理员可在 Previews 页面开启。它能检测、调查并修复数据流水线问题，覆盖 Detect、Investigate、Verify、Notify、Remediate 五个步骤，新增收件箱共享、通知、一键创建 PR 和自定义业务指令等功能。  
-  Databricks：Blog（RSS） · 2026-11-20 05:30
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 24 页

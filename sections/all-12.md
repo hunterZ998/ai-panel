@@ -2,6 +2,54 @@
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 24 页
 
+- [OpenAI 讲解如何用 Agents API 时间感知与异步输入构建有截止时间的个人 Agent](<https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents>)  
+  OpenAI 开发者博客通过一个会议准备示例，讲解如何构建需要在截止时间前交付结果的个人 Agent。  
+  OpenAI Developers：Blog（网页） · 2026-11-18 15:00
+
+- [Anthropic 为 Claude Code 推出实验性 Code Mode，用 JavaScript 一步串联工具调用](<https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/>)  
+  Anthropic 在 Claude Code v2.1.323 中加入实验性 Code Mode，Claude 可写 JavaScript 一步并行执行 Bash、Read、Edit 等多个工具调用。  
+  MarkTechPost（RSS） · 2026-11-18 14:53
+
+- [Managing frontier AI risk: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>)  
+  OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, bl…  
+  OpenAI · 2026-11-18 14:00
+
+- [Gallup 调查：全球三分之一受访年轻人称拥有 AI 陪伴](<https://www.404media.co/gallup-study-friendship-ai-companions/>)  
+  Gallup 与 Boston Children's Digital Wellness Lab 合作，对16个国家超过16000名15至22岁年轻人发起调查，93%受访者称至少有一段牢固的线下友谊，33%表示使用过 AI 陪伴，82%用 AI 查信息，68%用它寻求建议。  
+  404 Media（RSS） · 2026-11-18 13:01
+
+- [MIT 与 Cornell 研究用测试时自适应让 AI 文本检测器跟上变化](<https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118>)  
+  MIT 与 Cornell 研究人员用测试时自适应（TTA）训练 AI 文本检测器，在实验中把伪装 AI 文本的识别率从商用检测器的约 27% 提升到 93%。在模拟人类写作习惯自然变化的场景中，TTA 检测器准确率为 85%，传统方法为 73%。该方法可让已部署的检测模型利用无标注新数据在线调整，无需从头重训。  
+  MIT News（RSS） · 2026-11-18 13:00
+
+- [腾讯混元开源 Hy4 flash 模型，含 FP8 与 Base 版本](<https://www.ithome.com/1/028/701.htm>)  
+  腾讯混元宣布开源 Hy4 flash 模型，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署。  
+  IT之家·人工智能 · 2026-11-18 12:36
+
+- [腾讯混元开源 Hy4 flash，含 FP8 和 Base 版本](<https://mp.weixin.qq.com/s/yaFPaQL6MNVz01GD2sIlRw>)  
+  腾讯混元宣布开源 Hy4 flash，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base 三个版本，开发者可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，另有 AngelSlim 发布的 GGUF 版本。官方表示也在加速开源 Hy4 模型。  
+  公众号：腾讯混元 · 2026-11-18 12:23
+
+- [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
+  作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
+  公众号：卡尔的AI沃茨 · 2026-11-18 11:52
+
+- [AMD 完成对 Taalas 的收购，计划将其 AI 推理芯片技术整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
+  AMD 当地时间昨日宣布完成对专用 AI 推理芯片开发商 Taalas 的收购，表示此举将加强其全栈 AI 产品组合和长期推理路线图。AMD 计划将 Taalas 技术整合进加速器路线图，结合 Instinct GPU 共同开发系统级解决方案。Taalas 采用把 AI 模型固化到 ASIC 上的路线，针对特定模型工作负载优化，牺牲通用性以显著提升推理效率。  
+  IT之家·人工智能 · 2026-11-18 10:06
+
+- [Anthropic 为 Claude 推出关联计费测试版，第三方应用 AI 调用可由客户付费](<https://www.ithome.com/1/028/637.htm>)  
+  Anthropic 于 11 月 17 日更新 Claude 平台文档，推出 OAuth 测试版功能关联计费（Linked Billing），第三方应用可将客户的 Claude 组织与应用关联，由客户直接为应用中的 Claude API 调用付费，无需共享 API 密钥。  
+  IT之家·人工智能 · 2026-11-18 10:05
+
+- [卡尔的AI沃茨上线图像和视频Token监控，并给出数据页面视觉升级提示语](<https://mp.weixin.qq.com/s/UV4QQZ3P_B-rZlZt9yMwjQ>)  
+  作者宣布把AI HOT的Token羊毛监控扩展到图片生成和视频生成四大类，每条标注可用模型、领取方式、刷新周期和折算价值。文中总结了他踩过的单位混乱、免费边界模糊和额度频繁变动三个坑，并给出一条只改渲染层不动业务逻辑的提示语，称用Fable5.2或Opus5.5两三轮迭代就做出了全息卡面、ASCII字符海洋和3D透视图谱效果。  
+  公众号：卡尔的AI沃茨 · 2026-11-18 10:00
+
+- [韩国总统李在明公布防 AI 考试作弊政策：考期发最高级别灾难警报、举报奖励至少 1 亿韩元](<https://www.ithome.com/1/028/629.htm>)  
+  韩国总统李在明在 X 平台公布政府防止考试用 AI 作弊的政策。措施包括研究在考试前后不定时发送最高级别灾难警报（静音手机也会响）、与 AI 公司达成协议获取考试期间向 AI 提问的记录并将立法要求提交、以及每查实一起作弊至少奖励举报者 1 亿韩元（约合 50 万元人民币）且可叠加。  
+  IT之家·人工智能 · 2026-11-18 09:49
+
 - [Nvidia 创业公司股权达 655 亿美元，黄仁勋离任令后续投资存疑](<https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/>)  
   TechCrunch 报道，Nvidia 披露其对非上市公司的持股价值已达 655 亿美元，较 1 月的 220 亿美元大幅增长，本财年前九个月股权投资达 580 亿美元。  
   TechCrunch：AI（RSS） · 2026-11-18 09:44
@@ -25,6 +73,18 @@
 - [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](<https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership>)  
   Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with l…  
   OpenAI · 2026-11-18 08:00
+
+- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
+  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
+  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
+
+- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
+  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
+  vLLM 官方博客（RSS） · 2026-11-18 08:00
+
+- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
+  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
+  Gemini API：更新日志（网页） · 2026-11-18 08:00
 
 - [二十年逆向工程老手分享 LLM 辅助逆向工作流与开源 Agent 技能](<https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering>)  
   一位有二十年软硬件逆向经验的老手分享其 LLM 辅助逆向工作流，使用 DeepSeek v4.1 Flash 配合 Ghidra MCP bridge、radare2 和 kuna，让 Agent 分析二进制结构并把发现写入 MD 文件避免跑偏。  
@@ -57,18 +117,6 @@
 - [Mastra 发布 Mastra Factory 新能力，并披露自用四周的工程效率数据](<https://mastra.ai/blog/announcing-new-capabilities-in-mastra-factory>)  
   Mastra 发布 Mastra Factory 新一批能力，包括 intake 接入源、可自定义工作流阶段、云端编码 agent、Cloud Workspaces、Slack 原生体验和任意模型/网关支持，并开放 Custom Factory 早期访问计划。  
   Mastra Blog · 2026-11-18 08:00
-
-- [Hugging Face 开源 0.5B 语音识别模型 Rumble-2-Flash，支持 40+ 语言](<https://huggingface.co/blog/rumble-2-flash>)  
-  Hugging Face 以 Apache 2.0 许可开源 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40+ 语言自动检测，在 Transformers 和 vLLM 中原生可用。  
-  Hugging Face 社区博客（混合发现） · 2026-11-18 08:00
-
-- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
-  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
-  vLLM 官方博客（RSS） · 2026-11-18 08:00
-
-- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
-  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
-  Gemini API：更新日志（网页） · 2026-11-18 08:00
 
 - [Satya Nadella 称自己已 AGI-pilled，警告单一模型垄断将终结民主](<https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now>)  
   Microsoft CEO Satya Nadella 在 Microsoft Ignite 主题演讲后的圆桌讨论中表示自己在经济层面已 AGI-pilled，认为需关注 AGI 带来的政治经济组织变革。  
@@ -133,53 +181,5 @@
 - [谷歌更新 Gemini 隐私控制，可保留聊天记录且不参与 AI 训练](<https://www.ithome.com/1/028/581.htm>)  
   谷歌发布公告，更新 Gemini 应用的控制选项，用户可在保留聊天记录的同时选择不将其用于生成式 AI 模型训练，并仍可调整保存期限、手动查看或删除记录。若关闭新的“历史记录”设置，之后的聊天内容仍会保存约两个月，用于提供回复、处理反馈及保护安全。  
   IT之家·人工智能 · 2026-11-18 06:51
-
-- [微软发布 MAI Code 2 与 MAI Code 2 Flash，5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
-  微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
-  IT之家·人工智能 · 2026-11-18 06:42
-
-- [Simon Willison 实测 OpenAI 新模型 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/>)  
-  OpenAI 发布 GPT-6.2 Astra（面向高难度项目的旗舰模型）和 GPT-6.2 Sol（面向日常工作的通用模型），API 名称分别为 gpt-6.2-astra 和 gpt-6.2-sol。  
-  Simon Willison 博客 · 2026-11-18 06:38
-
-- [深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯](<https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA>)  
-  OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。  
-  公众号：数字生命卡兹克 · 2026-11-18 06:36
-
-- [Wiz 解析 OpenJDK 高危漏洞 CVE-2026-114938（Java4Shell）：AVX-512 Base64 解码可致远程代码执行](<https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk>)  
-  2026年11月17日披露的 OpenJDK 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码汇编代码对末尾填充字符计算错误导致堆内存越界写，可被未认证攻击者远程利用。  
-  Wiz：Research（安全研究） · 2026-11-18 06:29
-
-- [Anthropic IPO 后 Amazon 与 Google 将合计持股近 30%](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
-  Anthropic 披露 IPO 相关投资细节：Amazon 持股将达 14.7%，全部转换可转债可至 23.8%；Google 持股 13.7%，均为无投票权股份。  
-  TechCrunch：AI（RSS） · 2026-11-18 06:29
-
-- [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
-  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  
-  IT之家·人工智能 · 2026-11-18 06:23
-
-- [NVIDIA 扩大与 Kinsus、三星电机、SPIL、Amkor、富士康等供应链伙伴的长期产能承诺](<https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout>)  
-  NVIDIA 宣布扩大与 Amkor、富士康、Kinsus、三星电机、SPIL、TSMC 等供应链伙伴的长期承诺，覆盖基板、先进封装、晶圆与代工产能。  
-  NVIDIA：Newsroom（RSS） · 2026-11-18 06:18
-
-- [OpenAI 发布 GPT-6.2 Astra 与 Sol，Astra API 降价 20%](<https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/>)  
-  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款闭源模型，面向专业与智能体工作，API 名为 gpt-6.2-astra 和 gpt-6.2-sol。  
-  MarkTechPost（RSS） · 2026-11-18 06:07
-
-- [Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据](<https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi>)  
-  Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。  
-  Wiz：Research（安全研究） · 2026-11-18 06:03
-
-- [苹果 Apple Pay 等服务接连宕机：故障频发背后的系统性隐忧](<https://www.404media.co/breaking-everything/>)  
-  作者在租 Lime 单车时遭遇 Apple Pay 宕机，随后发现 Uber 支付同样失效，DownDetector 显示 Apple Pay 大面积故障。近几周飞机、银行、Microsoft 等服务接连崩溃，公众普遍猜测是网络攻击或 AI 失控所致，但作者认为这些故障多无直接关联，是基础设施系统性问题的共同症状。  
-  404 Media（RSS） · 2026-11-18 05:58
-
-- [SEC据报对Nvidia披露问题启动民事调查](<https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/>)  
-  据《华尔街日报》报道，美国证券交易委员会（SEC）正对Nvidia启动民事调查，审查其信息披露是否误导投资者。此事件发生在CEO黄仁勋辞职之后。美国商务部自2024年底起调查新加坡数据公司Megaspeed涉嫌将部分Nvidia芯片转移至中国、违反出口法一事。Nvidia最新财报显示营收1158亿美元，同比增长103%；自黄仁勋离职以来，公司股价已下跌超过10%。  
-  TechCrunch：AI（RSS） · 2026-11-18 05:48
-
-- [Nvidia Q3 财报：季度营收 1158 亿美元，利润 653 亿美元创新高](<https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang>)  
-  Nvidia 发布 Q3 财报，季度营收 1158 亿美元，同比增长 103%，高于预期的 1080 亿美元；净利润 653 亿美元创纪录。其中数据中心收入 1076 亿美元，同比增长 110%，边缘计算收入 82 亿美元，同比增长 42%；临时 CEO Colette Kress 表示 Vera Rubin 进展顺利，并预计 Q4 营收 1300 亿美元。  
-  The Verge：AI（RSS） · 2026-11-18 05:40
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 24 页

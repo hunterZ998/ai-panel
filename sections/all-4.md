@@ -2,6 +2,61 @@
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 24 页
 
+- [AI这一年，倒下的APP们](<https://36kr.com/p/4077860656354953?f=rss>)  
+  2025年9月，Sora冲上美国AppStore榜首那天，OpenAI的工程师们在社交平台上转发着截图，仿佛AI视频时代真的来了。七个月后，这款产品从用户的手机里消失了，App黑屏，网页报错，API接到了终止通知。 这不是个例。冒泡鸭全平台  
+  36氪 · 2026-11-20 18:35
+
+- [“抵制AI，断更一天”，4.3万人点赞了这个声明](<https://36kr.com/p/4077816535667592?f=rss>)  
+  网文界今年发生了多场“AI斩杀”。2月和5月，番茄进行了针对AI低质内容的专项治理； 起点7月全面禁止AI文，8月一口气处理了上百本AI小说，其中有多部万订作品；10月30日，起点和QQ阅读发布公告，称将进一步打击签约作品滥用AI的行为，取  
+  36氪 · 2026-11-20 18:32
+
+- [阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏](<https://www.tmtpost.com/8212798.html>)  
+  AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。  
+  钛媒体 · 2026-11-20 18:31
+
+- [托举WorkBuddy登顶，腾讯AI高光藏软肋](<https://www.tmtpost.com/8212605.html>)  
+  WorkBuddy已登顶，腾讯AI待翻身。  
+  钛媒体 · 2026-11-20 18:31
+
+- [Anthropic Shares Are a Rational Bet on the Next Phase of AI](<https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 18:30
+
+- [字节，该造手机了](<https://36kr.com/p/4077729297667205?f=rss>)  
+  11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链  
+  36氪 · 2026-11-20 18:26
+
+- [打败柯洁的男人，融资333亿，打破纪录](<https://36kr.com/p/4077814373012609?f=rss>)  
+  九年前，职业九段棋手柯洁在乌镇连输三局，败给人工智能AlphaGo。 九年后，AlphaGo背后的男人，又在资本市场创造了一项纪录。 11月17日，由德米斯·哈萨比斯（Demis Hassabis）创办的AI制药公司Isomorphic L  
+  36氪 · 2026-11-20 18:22
+
+- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
+  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
+  Axios · 2026-11-20 18:20
+
+- [AI版权拉锯战，澳洲率先改革引争议，音乐人们彻底急了](<https://36kr.com/p/4077568143611522?f=rss>)  
+  最近，国际唱片业协会的负责人喊话澳洲阿尔巴尼斯政府： 要是澳洲把AI版权的门槛放低，搞不好整个行业都要遭殃！ 她认为，要是放开口子，让AI公司随便扒网上的音乐素材去训练模型，这绝对是一步臭棋，还会把澳洲在国际上的口碑给搞砸。 图源：豆包AI  
+  36氪 · 2026-11-20 18:18
+
+- [抢跑 OpenAI 敲出史上最大 IPO，Anthropic 却惹怒了半个硅谷](<https://36kr.com/p/4077584643675013?f=rss>)  
+  11 月 19 日，成立仅仅 5 年的 AI 巨头 Anthropic 正式上市。 一举打破 SpaceX 此前创下的纪录，成为人类商业史上规模最大的一次 IPO。 更夸张的是，开盘后它的市值更是一度冲破 2 万亿美元 大关，收盘市值约1.  
+  36氪 · 2026-11-20 18:17
+
+- [李书福筹办芯位大学](<https://www.pedaily.cn/first/193841.shtml>)  
+  “一般性的大部分传统大学的人才培养体系与能力结构已经不适应人工智能时代对人才培养的迫切需求了。”11月20日，吉利控股集团董事长李书福在2026芯位教育论坛的演讲中作出这样的判断。 他透露，吉利方面正在筹办一所与时代相匹配的新型大学—…  
+  投资界 · 2026-11-20 18:16
+
+- [“DeepSeek们”都在退场：限额并非免费AI的终结？](<https://36kr.com/p/4077890510754690?f=rss>)  
+  “我已经跟DeepSeek聊了15万～20万字了，我不想失去这段对话。” “D老师，不要抛弃我！作为一天要玩十几个小时DeepSeek的重度依赖症患者，没了D老师我该怎么活，好想回到从前。” “到底怎么办啊？我中度抑郁加躁狂，因为一些原因没  
+  36氪 · 2026-11-20 18:13
+
+- [英伟达把投资当武器，但今年它的钱依然投不进中国大陆](<https://36kr.com/p/4077822654321537?f=rss>)  
+  英伟达是全球市值最高的公司之一，但它不只做GPU 生意，还是一台高速运转的投资机器。过去十几年，正是这种生态式的绑定投资给它带来了客户和收入，是它壮大的利器。 截至2026年11月18日，IT 桔子共收录英伟达投资并购事件239 条，其中股  
+  36氪 · 2026-11-20 18:08
+
+- [光禾AI用企业级智能体应用解企业改造难题](<https://36kr.com/p/4077924992390278?f=rss>)  
+  大模型进入企业后，如何与内部知识、业务系统和工作流程结合，成为企业推进AI应用的一道实际门槛。员工可以借助通用工具完成问答和内容生成，但涉及内部数据、多系统协作和具体业务执行时，企业仍需要解决系统接入、权限管理和持续运维等问题。 光禾AI选  
+  36氪 · 2026-11-20 18:02
+
 - [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)  
   OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement…  
   OpenAI · 2026-11-20 18:00
@@ -9,34 +64,6 @@
 - [Nous Research 的 Hermes Agent 将登陆 Microsoft Teams 并推出 Collective Wisdom 技能共享功能](<https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/>)  
   Nous Research 宣布开源 Hermes Agent 将可直接在 Microsoft Teams 内运行，员工可把财务分析、文档起草或收件箱整理等任务交给它并在同一聊天中审阅结果。该智能体运行于 Azure Container Apps 沙箱（隔离微虚拟机）中，会自动将成功的工作流转化为由描述和代码组成的可复用技能；新功能 Collective Wisdom 允许员工在审核后与团队共享这些技能，且收集的知识保留在公司内部，不会进入任何 AI 提供商的训练数据。Nous 称 Hermes Agent 是 O…  
   The Decoder：AI News（RSS） · 2026-11-20 17:59
-
-- [消息称林俊旸从阿里离职后创办的 AI 公司语用科技完成新一轮融资，估值达 50 亿美元](<https://www.ithome.com/1/030/176.htm>)  
-  IT之家 11 月 20 日消息，据彭博社报道，林俊旸（yáng）从阿里离职后，今年夏天创立的语用科技 Pragmatik Labs 已完成新一轮融资， 估值达 50 亿美元 （IT之家注：现汇率约合 334.6 亿元人民币） 。 知…  
-  IT之家 · 2026-11-20 17:59
-
-- [Falling Prices Push AI Video Toward Platform Economics](<https://www.tmtpost.com/8212911.html>)  
-  Video-model quality is converging as per-second API prices decline. OpenAI discontinued Sora after sustained losses.…  
-  钛媒体 · 2026-11-20 17:54
-
-- [法院批准交易，谷歌 1000 万美元收购精神航空数据过关](<https://www.ithome.com/1/030/137.htm>)  
-  IT之家 11 月 20 日消息，据外媒 The Record 报道，美国纽约联邦破产法官当地时间 17 日批准 Google（谷歌）收购破产廉价航空公司 Spirit Airlines（精神航空）企业数据。 该交易价值 1,000…  
-  IT之家 · 2026-11-20 17:40
-
-- [今年前三季度我国数字产业收入超 32 万亿元，同比增长 14.8%](<https://www.ithome.com/1/030/135.htm>)  
-  IT之家 11 月 20 日消息，据央视新闻今天（20 日）下午报道，前三季度，我国数字产业整体延续向优向好发展态势，收入增速加快，盈利水平持续提升，电子产品对外出口延续强劲增势，人工智能创新迭代提速，智能终端产品密集发布，产业新动能…  
-  IT之家 · 2026-11-20 17:34
-
-- [Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？](<https://www.tmtpost.com/8212716.html>)  
-  这场上市真正的赢家不在敲钟的那几个人里，在那七家收着算力钱又拿着股票的公司身上，它们把未来十五年的订单提前折成了今天的股权。  
-  钛媒体 · 2026-11-20 17:22
-
-- [AI这一年，倒下的APP们](<https://www.tmtpost.com/8212771.html>)  
-  一年之内，上千个AI应用为何接连退场？  
-  钛媒体 · 2026-11-20 17:22
-
-- [50天推出4款模型，谷歌想当“造物主”了？](<https://www.tmtpost.com/8212777.html>)  
-  OpenAI却有点拉了。  
-  钛媒体 · 2026-11-20 17:22
 
 - [AMD XDNA 2 NPU 率先适配 Unsloth Desktop，支持超百款智能体本地运行](<https://www.ithome.com/1/030/131.htm>)  
   AMD 锐龙 AI 处理器上的 XDNA 2 NPU 成为首款获得 Unsloth Desktop 本地界面支持的神经网络处理器，OpenClaw、Hermes 等超百款智能体可通过该界面在 NPU 上本地运行。  
@@ -49,6 +76,10 @@
 - [蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0](<https://huggingface.co/inclusionAI/LingSante-Pulse-1.0>)  
   蚂蚁 inclusionAI 在 HuggingFace 发布生理信号编码器 LingSante-Pulse-1.0，采用 MIT 许可，需先安装独立的推理代码包。模型输入支持 \[T\]、\[C,T\]、\[B,C,T\] 或对齐的通道字典，代码包负责固定 128-Hz 预处理与存储填充掩码，输出 CLS 与观测有效的 PatchMean 为 \[B,C\*256\]。该模型仅提供信号表征，不含任务专用预测头。  
   蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-20 16:39
+
+- [蚂蚁 inclusionAI 开源 LingSante-Pulse 生理时序表示学习模型](<https://github.com/inclusionAI/LingSante-Pulse>)  
+  蚂蚁 inclusionAI 在 GitHub 发布 LingSante-Pulse，为 ECG、EEG、PPG 等生理波形和连续血糖监测（CGM）数据提供可复用表示。波形分支每通道输出 256 维 CLS/PatchMean 特征，CGM 分支每日输出 146 维表示并支持跨天历史建模。波形编码器权重托管于 Hugging Face，CGM 部署权重随仓库分发，两分支均支持 CPU 推理。  
+  蚂蚁 inclusionAI：GitHub 新仓库 · 2026-11-20 16:03
 
 - [BrightAI获得9700万美元A轮融资](<https://www.itjuzi.com/investevent/14708372>)  
   BrightAI是一家实体资产监测解决方案提供商，专注于打造"物理AI"平台，通过传感器和人工智能的结合，为企业提供全方位的实体资产监测解决方案。近日，BrightAI获得9700万美元A轮融资，Smith Point Capital…  
@@ -73,6 +104,10 @@
 - [谷歌工程师用 PostScript 让打印机跑 Gemma 3 270M，14.1MB 内存每词元约 60 秒](<https://www.ithome.com/1/029/953.htm>)  
   谷歌 DeepMind 技术团队成员 Omar Sanseviero 在未改打印机固件、未加外部计算板的情况下，用打印机内置 PostScript 解释器运行了 2.7 亿参数的 Gemma 3 270M，峰值内存约 14.1MB。实验采用动态层加载轮流调入移出 18 个 Transformer 层，输出速度约每词元 60 秒，预填充提示“Read the fine”耗时约 184 秒。  
   IT之家·人工智能 · 2026-11-20 15:02
+
+- [OpenAI 开发者分享在 Codex 中用 Ultrafast 保持心流的使用方法](<https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast>)  
+  OpenAI 开发者介绍如何用本周发布的 GPT-6.2 Astra 和 Sol Ultrafast（token 生成最快提速 4.5×）保持迭代心流。做法包括用热重载 dev server、在应用内浏览器保持预览、拆成短任务、用标注和语音模式、从 Light/Low 推理起步，并把验证移出快速迭代循环。  
+  OpenAI Developers：Blog（网页） · 2026-11-20 15:00
 
 - [Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini](<https://thinkingmachines.ai/news/inkling-2-mini/>)  
   Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。  
@@ -145,38 +180,5 @@
 - [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
   诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
   IT桔子 · 2026-11-20 11:21
-
-- [上海国投先导人工智能母基金拟参与投资3只子基金](<https://www.pedaily.cn/first/193743.shtml>)  
-  近日，根据《上海三大先导产业母基金子基金公开遴选细则（试行）》，经相应遴选程序，上海国投先导人工智能母基金初步确定拟参与投资3只子基金，具体名单正式对外公布，本次拟参与投资的3只子基金及对应中选机构。（投资界） 原文链接  
-  投资界 · 2026-11-20 11:20
-
-- [China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.](<https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 11:00
-
-- [Simon Willison 谈 ChatPRD 遭遇的 token 滥用问题](<https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/>)  
-  Simon Willison 介绍 Claire Vo 的 YouTube 视频，ChatPRD 创始人 Claire Vo 描述其产品免费试用遭遇大量 token 欺诈，滥用者轮换试用和优惠码，把她的 agent 用于转卖 token 或搭建 Roblox、Fortnite 地图工作室等商业用途。  
-  Simon Willison 博客 · 2026-11-20 10:49
-
-- [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
-  Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
-  IT桔子 · 2026-11-20 10:30
-
-- [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](<https://www.platformer.news/anthropic-goes-public/>)  
-  Anthropic 周四在纳斯达克上市，募资 813 亿美元，为史上最大 IPO，收盘市值 1.76 万亿美元，成为全球最大公共利益公司。CEO Dario Amodei 表示将按必要节奏推进 AI 训练与部署，不受商业或政治压力影响。  
-  Platformer（热点 RSS） · 2026-11-20 09:37
-
-- [OpenAI 邀请部分 Plus 用户测试 dots 智能体，移动版 ChatGPT 将为其设独立标签页](<https://www.ithome.com/1/029/784.htm>)  
-  OpenAI 核心产品负责人 Thibault Sottiaux 宣布邀请少量 ChatGPT Plus 用户测试 dots，同时向所有 ChatGPT Business Standard 用户开放。  
-  IT之家·人工智能 · 2026-11-20 09:20
-
-- [Emerging Stocks Enter Bear Market as AI Triggers Global Selloff](<https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide>)  
-  Bloomberg · 2026-11-20 09:05
-
-- [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
-  The Information · 2026-11-20 09:00
-
-- [投资界24h\| Anthropic市值超10万亿；三位00后把公司卖了300亿；招商局人工智能产业基金成立](<https://www.pedaily.cn/first/193679.shtml>)  
-  11月19日，美国AI公司Anthropic登陆纳斯达克，发行价每股83美元，开盘涨超20%，市值近2万亿美元七位联合创始人每人身家约200亿美元，集体跻身彭博全球富豪榜前列。与此同时，美国派拓网络宣布将以约300亿元全股票交易收购A…  
-  投资界 · 2026-11-20 08:59
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 24 页

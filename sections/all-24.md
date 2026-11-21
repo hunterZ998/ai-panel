@@ -2,6 +2,38 @@
 
 [返回面板](../README.md) · [上一页](all-23.md) · 第 24 / 24 页
 
+- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
+  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
+  The a16z Show · 2026-10-28 18:00
+
+- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
+  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
+  Latent Space · 2026-10-28 02:40
+
+- [Reinventing School for the AI Era \| Joe Liemandt, Gagan Biyani &amp; Erik Torenberg](<https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu>)  
+  What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt arg…  
+  The a16z Show · 2026-10-27 18:00
+
+- [⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](<https://www.youtube.com/watch?v=vhPCo-8K78U>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=vhPCo-8K78U  
+  Latent Space · 2026-10-26 23:00
+
+- [OpenAI: When AI Agents Use Computers Faster Than You](<https://a16z.simplecast.com/episodes/openai-when-ai-agents-use-computers-faster-than-you-QLF23qpt>)  
+  AI agents are approaching a point where they can use computers faster than expert humans, turning the user interface…  
+  The a16z Show · 2026-10-26 18:00
+
+- [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
+  ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  
+  十字路口 Crossing · 2026-10-26 00:00
+
+- [The New Startup Playbook \| Box CEO Aaron Levie](<https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv>)  
+  Can a 10-person startup outperform a company with hundreds of employees? Box CEO Aaron Levie argues AI agents are giv…  
+  The a16z Show · 2026-10-25 18:00
+
+- [少有的同时做过 Agent、多模态和具身的人 \| 对谈前混元多模态 RL Infra 负责人淏楠](<https://www.xiaoyuzhoufm.com/episode/6ada2be4c96c8942ec10cb1e?utm_source=rss>)  
+  这期的嘉宾淏楠非常「折腾」。他读过五个大学，读着觉得没意思就换，也是少有的同时做过 Agent、多模态、RL 和具身的人，而且总是做一些逆势而为（非主流）的选择： 他曾在陈天桥和代季峰两位老师的 MiroMind 工作，是最早一批做…  
+  42章经 · 2026-10-24 21:00
+
 - [What It Takes to Win as a Founder \| Ben Horowitz](<https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY>)  
   What does it take to build a company when AI is changing the rules this quickly? Ben Horowitz argues that technology…  
   The a16z Show · 2026-10-24 18:00
@@ -13,10 +45,6 @@
 - [Amazon’s Trainium Takes a Strike at the Training King](<https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at>)  
   Anthropic is running production inference and RL rollouts on Trainium2 and Trainium3.  
   SemiAnalysis · 2026-10-24 03:06
-
-- [Patch or Die](<https://www.a16z.news/p/patch-or-die>)  
-  While there has been a flood of new vulnerabilities AI agents are being adopted at scale multiplying the potential risk.  
-  a16z · 2026-10-23 22:20
 
 - [Amazon CEO Andy Jassy on the $220 Billion AI Buildout](<https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK>)  
   Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving m…  
@@ -137,10 +165,6 @@
 - [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
   Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
   SemiAnalysis · 2026-09-15 06:08
-
-- [A Brain Too Big to Carry — On-Device vs Datacenter Inference](<https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device>)  
-  So far, AI has mostly lived behind a screen.  
-  SemiAnalysis · 2026-09-15 00:37
 
 - [Macro Memo: Regime Change](<https://www.citriniresearch.com/p/macro-memo-regime-change>)  
   Six weeks later, that thesis had become the spine of the first ever paywalled piece on this newsletter, Artificial In…  

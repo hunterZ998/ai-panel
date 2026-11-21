@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](model-4.md) · [下一页](model-6.md) · 第 5 / 7 页
 
+- [Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞](<https://www.ithome.com/1/028/433.htm>)  
+  AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。  
+  IT之家·人工智能 · 2026-11-17 17:41
+
 - [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
   雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
   IT之家·人工智能 · 2026-11-17 16:16
@@ -129,10 +133,6 @@
 - [美国收紧 AI 芯片出口管制，限制中国企业远程获取算力](<https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/>)  
   美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。  
   TechCrunch：AI（RSS） · 2026-11-16 23:02
-
-- [1990 年代的网络安全噩梦正在重演：AI 让漏洞利用提速](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
-  a16z 指出，随着 Opus 4.5/4.6 大幅降低攻击成本，漏洞发现与利用开发速度提升数个数量级，安全团队在 2026 年大部分时间都在应对过去数年一遇的紧急漏洞。互联网蠕虫可能回归，攻击者目标转向窃取推理用 API key；企业也将被迫以更快速度打补丁，并催生围绕加固基础设施组件的新创公司。  
-  a16z：News（RSS） · 2026-11-16 23:02
 
 - [Meta JiTTests 用 LLM 生成测试在风险代码合入前捕获隐私缺陷](<https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/>)  
   MarkTechPost 介绍 Meta 将 LLM 测试生成系统 JiTTests 从研究原型推进到生产基础设施，该系统编写旨在对风险 diff 失败的可执行测试，2026 年上半年在 diff 阶段捕获 74 起隐私 SEV，隐私 SEV 发生率下降 20%。  

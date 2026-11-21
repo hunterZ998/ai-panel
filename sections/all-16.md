@@ -2,6 +2,58 @@
 
 [返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 24 页
 
+- [Gemini 3.5 Transcribe 新增语音编辑功能](<https://ai.google.dev/gemini-api/docs/changelog#11-17-2026>)  
+  gemini-3.5-transcribe 和 gemini-3.5-transcribe-live 现已支持语音驱动的编辑、改写与格式化，可作用于口述语音或已有文本（source\_text）。相关用法见音频转写与实时转写指南。  
+  Gemini API：更新日志（网页） · 2026-11-17 08:00
+
+- [Browser Use 推出 on-prem 隐身浏览器，Gumloop 在自有沙箱内运行](<https://browser-use.com/posts/gumloop-on-prem-stealth-browser>)  
+  Browser Use 介绍其 on-prem 隐身浏览器，Gumloop 于 2026 年 10 月 6 日上线 Browser 功能，将该浏览器跑在与 Agent 同一个云沙箱内，登录、下载和录制数据留在 Gumloop 自有基础设施。  
+  Browser Use · 2026-11-17 08:00
+
+- [Mastra 推出内置 MCP server，可将 agent、workflow 和工具暴露给 MCP 客户端](<https://mastra.ai/blog/introducing-built-in-mcp-server>)  
+  Mastra 发布内置 MCP server，安装 @mastra/mcp 并配置 auth 后，整个 Mastra server 在 /api/mcp 可用，自带 call\_agent、start\_workflow 和 get\_trace 工具，要求 @mastra/core@1.83.0 及以上。  
+  Mastra Blog · 2026-11-17 08:00
+
+- [Amp 发布 Windows 原生应用](<https://ampcode.com/news/amp-for-windows>)  
+  Amp 宣布推出 Windows 原生应用，用户可阅读官方文档了解使用方式，也可查看 Amp 全部原生应用列表。  
+  Amp Chronicle · 2026-11-17 08:00
+
+- [Browserbase 工程团队讲解如何用智能体在 1 天内完成 4000 万行 Chromium 代码的补丁与部署](<https://www.browserbase.com/blog/how-we-deploy-custom-chromium>)  
+  Browserbase 工程博客讲解其维护带超 18000 行安全与反检测补丁的 Chromium 内部 fork 的方法：借助编码智能体在 Google 发布前完成补丁重放、测试与部署，将原本一周的升级流程缩短到 1 天内。  
+  Browserbase / Stagehand 工程博客 · 2026-11-17 08:00
+
+- [Cerebras 推出分离式推理：GPU 负责预填充、Cerebras 系统负责解码，每兆瓦吞吐提升 5 倍](<https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference>)  
+  Cerebras 宣布分离式推理方案已投入生产，用 AMD Instinct GPU 处理 prompt（prefill），由 Cerebras CS-3 系统生成响应（decode）。  
+  Cerebras：Blog（网页） · 2026-11-17 08:00
+
+- [LanceDB 完成 5750 万美元 B 轮融资，Lance 格式在多家前沿 AI 实验室落地](<https://tomtunguz.com/the-lakehouse-for-ai/>)  
+  Tomasz Tunguz 宣布与 Bessemer Venture Partners 等参与 LanceDB 的 $57.5m Series B，其 Lance 数据湖仓格式服务多家前沿 AI 公司。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-17 08:00
+
+- [Claude Platform 推出 beta 版 linked billing 关联计费](<https://claude.com/blog/linked-billing-on-claude-platform>)  
+  Anthropic 在 Claude Platform 推出 beta 版 linked billing。第三方平台（如编码智能体和工作流自动化工具）无需共享 API 密钥即可让终端客户付费使用 Claude API，用量直接计入客户已有的 Anthropic 账单。  
+  Claude：Blog（网页） · 2026-11-17 08:00
+
+- [前设计师重返淘宝体验一天，见证 TaoDesign 改变设计工作方式](<https://mp.weixin.qq.com/s/kZmacfnVyM-yL1PthVR1Ww>)  
+  前设计师、AI 博主卡兹克入职淘宝设计团队一天，亲身体验自研设计工具 TaoDesign：可用 Prompt 加模板生成符合规范、可交互的设计稿，团队将 200 多个知识库蒸馏成风格库和 Skill，并提供数字用户调研、页面数据预测等功能。  
+  公众号：数字生命卡兹克 · 2026-11-17 07:56
+
+- [AI 网络安全初创公司 Corma 产品发布约 3 个月后估值达 10 亿美元](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
+  AI 网络安全初创公司 Corma 在产品推出约 3 个月后完成 1.25 亿美元 A 轮融资，估值 10 亿美元，由 NEA 领投，累计融资达 1.85 亿美元，投资方包括 Sequoia Capital、Khosla Ventures 和 Coatue。  
+  TechCrunch：AI（RSS） · 2026-11-17 07:32
+
+- [OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，改为先到先得](<https://www.ithome.com/1/028/027.htm>)  
+  OpenAI 将于 11 月 23 日再开放 5 万个 ChatGPT 学术研究免费名额，改为先到先得，不再采用试点阶段的抽签机制。每个名额含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus，本轮最多覆盖 15 万名研究人员。该计划 7 月启动以来已有 33 个国家和地区的 2 万名研究人员加入，整体目标提升至 20 万人。  
+  IT之家·人工智能 · 2026-11-17 07:18
+
+- [科技界人士质疑黄仁勋辞职背后存在针对其的谋划](<https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories>)  
+  The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。  
+  The Verge：AI（RSS） · 2026-11-17 07:17
+
+- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
+  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
+  NVIDIA Blog（RSS） · 2026-11-17 07:00
+
 - [获 Eric Trump 背书的人形机器人公司 Foundation Future Industries 发薪失败或濒临倒闭](<https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/>)  
   据 CNBC 报道，获 Eric Trump 投资并担任首席战略顾问的人形机器人公司 Foundation Future Industries 未能支付截至 10 月 30 日的工资周期薪酬，内部人士担心若无法继续融资公司可能很快倒闭。报道还梳理了该公司的资金缺口、发薪失败以及对外宣传与实际进展不符等疑点。  
   Ars Technica：AI（RSS） · 2026-11-17 06:58
@@ -129,57 +181,5 @@
 - [Anthropic 上市背后：Azeem Azhar 解析其商业模式与无形资产价值](<https://www.exponentialview.co/p/what-anthropic-is-really-listing>)  
   Anthropic 将成为西方首家在公开市场上市的真正 AI 公司，Azeem Azhar 认为其核心机会在于用机器智能生产无形资产。他指出，当前 S&amp;P 500 中约 92% 的价值来自品牌、专利、软件和数据等无形资产，Anthropic 的机器智能可在不部署任何机器人前就参与这部分价值竞争。看空观点认为它只是不断贬值的 token 贩卖者，但这忽略了其构建持续进化的机器智能系统。  
   Azeem Azhar：Exponential View（RSS） · 2026-11-17 00:36
-
-- [Gary Marcus：AI 泡沫是否已经 Game Over](<https://garymarcus.substack.com/p/game-over-man>)  
-  Gary Marcus 评论当前 AI 股票大跌，称当前 AI 泡沫看起来已接近 game over。他提到 Oracle 自其 2025 年 9 月宣布“peak bubble”以来跌约 61%，Ben Thompson 撰写讣告式文章，华尔街日报报道 Nvidia 作为“AI 经济空头支票”的日子屈指可数；他认为核心问题是 LLM 公司缺乏技术护城河、难以盈利。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-17 00:29
-
-- [Claude 支持在 Canvas 图形中构建可交互的真实 HTML 网页](<https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/>)  
-  Anthropic 的 Claude 现在能在 Canvas 图形中嵌入真实可交互的网页元素，文字可选中复制，演示页给出 15 个例子，如针织图案、3D 立方体等风格网站。  
-  The Decoder：AI News（RSS） · 2026-11-17 00:10
-
-- [NVIDIA Vera Rubin 首秀 MLPerf：横扫训练基准，智能体推理能效超 10 倍](<https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/>)  
-  NVIDIA Vera Rubin 平台在首次 MLPerf 亮相中横扫 Training v6.1 全部基准，并首次提交 MLPerf Endpoints，智能体 AI 每瓦吞吐较 GB300 NVL72 提升超 10 倍。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [NVIDIA 扩展 CUDA-X 库，为 AI 智能体提供加速科学发现的工具](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/>)  
-  NVIDIA 扩展 CUDA-X 库，新增 cuPhoton、cuPotential 和 cuSpa，让 AI 智能体协助科研人员加速天体物理、材料科学与单细胞生物学等研究。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [NVIDIA 发布 Rubin HPC GPU：加速科学与工程智能体仿真](<https://blogs.nvidia.com/blog/rubin-hpc/>)  
-  NVIDIA 在 SC26 发布 Vera Rubin 平台新 GPU Rubin HPC，面向科学、工程与分析工作负载加速仿真和数据处理。单颗 GPU 的 CUDA 核心数超过 50,000 创下纪录，并配备稀疏数据加速能力和第七代 NVLink 互连。该 GPU 预计 2028 年上市。  
-  NVIDIA Blog（RSS） · 2026-11-17 00:00
-
-- [Google AI Studio 集成 Gemini 4 Carbon 与 Hydrogen 支持构建全栈 Android 应用并发布到 Google Play](<https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/>)  
-  Google AI Studio 结合 Gemini 4 Carbon 和 Hydrogen，可从单个提示词生成生产级 Kotlin Android 应用，并在几分钟内发布到个人 Google Play 库。  
-  Google Developers Blog（RSS） · 2026-11-17 00:00
-
-- [Anthropic 报告 Claude 求解两个黑洞物理开放问题](<https://www.anthropic.com/research/claude-black-hole-physics>)  
-  Anthropic 报告 Claude 解决了两个理论物理开放问题，均与黑洞和量子引力相关。其一完成了 2003 年设下但从未完成的计算，证明 Hawking-Page 相变在弱耦合下仍是突变；其二用 spectral curve 方法证明最简版本 modular bootstrap 的黑洞质量上限约 c/9.1266 且不可再降。  
-  Anthropic：Research（发表成果 · 网页） · 2026-11-17 00:00
-
-- [Vibe Check：GPT-6.2 Astra 与 GPT-6.2 Sol 评测，表现亮眼但仍让人期待更多](<https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more>)  
-  Every 的 Vibe Check 评测了 OpenAI 两款新模型 GPT-6.2 Astra 和 GPT-6.2 Sol，它们在主题训练课程、分钟级演出流程和面向高管的练习等此前基本未解决的任务上全部过关。Every 评测负责人 Mike Taylor 称，这些任务年初还基本无人能解，如今 Codex 已接近饱和，成绩值得肯定但仍让人想要更多。  
-  Every：最新文章（网页） · 2026-11-17 00:00
-
-- [Zyphra 将 ZHA 稀疏注意力扩展至 2.4 万亿参数模型](<https://www.zyphra.com/our-work/scaling-zha>)  
-  Zyphra 将此前发布的 ZHA 层级稀疏注意力转换到四个前沿开源权重模型，包括 2.4 万亿参数的 Qwen3.8-2.4T-A95B、Nemotron-3.5-Super、GPT-OSS-120B 和 MiMo-V2.6-Pro，骨干完全冻结、仅训练少量参考查询。  
-  Zyphra Research（网页） · 2026-11-17 00:00
-
-- [Fireworks 评测 MiniMax M3.1 Flash：编码性价比高，但银行、临床和税务场景不及对比模型](<https://fireworks.ai/blog/what-minimax-m3-1-flash-reveals-about-choosing-and-combining-models/>)  
-  Fireworks 基于Specialized Intelligence Index评测MiniMax M3.1 Flash，在DeepSWE v1.1上以约92%更低的模型成本获得高于Gemini 3.8 Flash的任务完成率，每任务约0.35美元。  
-  Fireworks AI（网页） · 2026-11-17 00:00
-
-- [Fireworks 评测 Kimi K3.1 Pro：智能体场景下该替换还是组合使用](<https://fireworks.ai/blog/should-you-switch-your-agents-to-kimi-k3-1-pro/>)  
-  Fireworks AI 基于 Specialized Intelligence Index 的 21 个基准榜单，从任务表现、模型成本和执行时间三方面评测 Kimi K3.1 Pro 是否适合替换现有智能体模型。  
-  Fireworks AI（网页） · 2026-11-17 00:00
-
-- [Artificial Analysis 评测 GPT-6.2 Astra 和 Sol：智能指数升至第二](<https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol>)  
-  Artificial Analysis 评测 OpenAI 发布的 GPT-6.2 Astra 和 GPT-6.2 Sol，两者在 Artificial Analysis Intelligence Index 中位列第二，仅次于 Claude Fable 5.2。  
-  Artificial Analysis 完整文章（网页） · 2026-11-17 00:00
-
-- [Google 发布 Gemini 4 Hydrogen 并推出 Antigravity Robotics 插件](<https://developers.googleblog.com/gemini-hydrogen-for-robotics/>)  
-  Google 发布面向机器人场景的 Gemini 4 Hydrogen，主打更快的空间与具身推理，ERQA 平均分 84.8，超过 Gemini Robotics ER 2 的 75.5；在 Artificial Analysis Robotics 0.1 基准上得 58 分，接近 Argon 且每 token 成本更低。  
-  Google Developers Blog（RSS） · 2026-11-17 00:00
 
 [返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 24 页

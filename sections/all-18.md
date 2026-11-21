@@ -2,6 +2,58 @@
 
 [返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 24 页
 
+- [自媒体作者分享10条指挥Agent最常用的Prompt](<https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA>)  
+  作者让Agent整理出自己近两个月指挥Agent干活最常用的10条Prompt并分享，包括从第一性原理找根因、先对齐喜好再出3版方案、推演改动二阶三阶影响、假设最优方案错误找反例、分析Git历史识别可移除的历史包袱、评估新工程师接手的认知成本、复盘Bug和返工并沉淀成规则或Skill等。作者希望对大家指挥Agent开发有用。  
+  公众号：数字生命卡兹克 · 2026-11-16 18:05
+
+- [阿里发布 Qwen4-Max：2.4T MoE、71B 激活、1M 上下文](<https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/>)  
+  阿里 Qwen 团队发布 Qwen4 系列首个模型 Qwen4-Max，为专有稀疏 MoE 模型，2.4T 骨干参数、每 token 激活 71B，另有 328B N-gram Embedding 参数，支持文本、图像和视频输入及 1M token 上下文窗口、393K 最大输出。  
+  MarkTechPost（RSS） · 2026-11-16 17:44
+
+- [IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元](<https://www.ithome.com/1/027/861.htm>)  
+  IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。她认为近期市场波动属于有序调整，不太可能演变成系统性风险，但最坏情景下美股可能在 2026 年下跌 20%，2028 年全球经济产出比基准预测低 1.1%。  
+  IT之家·人工智能 · 2026-11-16 17:32
+
+- [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
+  Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
+  OpenAI · 2026-11-16 17:30
+
+- [Hark 发布 Handoff²：Hark Pro 内置计算机操作智能体平均提速约 2 倍](<https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/>)  
+  Hark 在 Hark Pro 中发布第二代计算机操作智能体 Handoff²，平均端到端速度约为 v1 的 2 倍，航班预订最高提速 3.8 倍，长研究任务超过 5 倍。  
+  MarkTechPost（RSS） · 2026-11-16 17:08
+
+- [LVMH’s Media Division announces strategic partnership with OpenAI](<https://openai.com/index/lvmh-media-division-partnership>)  
+  LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more…  
+  OpenAI · 2026-11-16 17:00
+
+- [Pydantic AI Harness 推出 AzureDurableTaskDurability，让 Agent 循环具备持久化执行能力](<https://pydantic.dev/articles/azure-durable-task-pydantic-ai>)  
+  Pydantic AI Harness 推出 AzureDurableTaskDurability 能力，把 Agent 循环接入 Azure Durable Task：默认模型请求、工具调用、MCP 调用各作为一个 activity 记录结果，worker 被杀后可由新 worker 重放历史从断点继续。  
+  Pydantic AI 官方文章 · 2026-11-16 17:00
+
+- [北卡 Enfield 镇拟要求数据中心出资清洁能源计划并用余热供暖](<https://www.canarymedia.com/articles/geothermal/data-center-heat-north-carolina-town>)  
+  北卡 Enfield 镇正与 Quiet Data Centers 谈判具法律约束力的社区受益协议，镇长要求该公司出资 1620 万美元清洁能源计划，并让 100,000 平方英尺、88 兆瓦的数据中心接入镇规划的地热能网络以利用余热，若建成将是美国首例。协议尚需数周或数月，夏季余热处理仍需吸收式制冷机等方案。  
+  Canary Media：Data Centers 原创报道 · 2026-11-16 16:30
+
+- [Our first phase of embedded assessments](<https://openai.com/index/our-first-phase-of-embedded-assessments>)  
+  OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate…  
+  OpenAI · 2026-11-16 16:00
+
+- [蚂蚁 inclusionAI 发布 Invoker-Render 1.0 可控视频渲染模型权重](<https://huggingface.co/inclusionAI/invoker-render-1.0>)  
+  蚂蚁 inclusionAI 在 Hugging Face 发布 Invoker-Render 1.0 因果流式 DiT 权重，属于 Code World Model 2.0 的视频渲染模型，以结构 Proxy、外观参考图和文本为输入，由上游引擎维护世界状态再生成外观。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-16 15:24
+
+- [字节跳动火山引擎全面开放 Seedance 2.5 4K 视频生成模型 API](<https://www.ithome.com/1/027/736.htm>)  
+  火山引擎宣布 Seedance 2.5 4K 的 API 全面开放，开发者与企业客户可通过接口调用该 4K 视频生成模型。该模型于 10 月 23 日发布，官方称经专项训练更能呈现人物表情、细微动作与画面细节，支持 Draft 模式先以 480P 样片验证分镜再生成 4K 正片，并具备 10-bit 色深与更好的素材一致性。  
+  IT之家·人工智能 · 2026-11-16 15:23
+
+- [智元发布 WITA-Omni：行业首个具身全模态端到端交互大模型](<https://www.agibot.com.cn/article/315/detail/270.html>)  
+  智元正式发布 WITA-Omni（硅光动语全模态大模型），称其为行业首个具身全模态端到端交互大模型，在音视频之外新增触觉、本体状态输入与动作、表情输出。其交互响应最快约400毫秒、平均约600毫秒，较业内平均水平快近3倍，并登顶 DailyOmni、MMAU、EmbSpatialBench 等四个榜单。该模型已在量产机器人远征 A3-Ultra 本体部署，并在文娱导览等场景开展验证。  
+  AGIBOT 智元（网页） · 2026-11-16 15:11
+
+- [20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](<https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida>)  
+  Diogo Almeida is the Co-Founder and CEO of TypeSafe AI, the company behind Jev. Jev is an AI model that lets software…  
+  20VC · 2026-11-16 15:07
+
 - [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
   Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
   Product Hunt 中文 · DecoHack · 2026-11-16 15:00
@@ -28,6 +80,10 @@
 
 - [Advancing computer-use agents for healthcare teams](<https://openai.com/index/advancing-computer-use-for-healthcare-teams>)  
   OpenAI · 2026-11-16 14:00
+
+- [Tripmojo](<https://www.producthunt.com/products/tripmojo>)  
+  Agentic travel app that helps plan, book and run your trip  
+  Product Hunt · English · 2026-11-16 13:30
 
 - [腾讯混元发布 Hy4 flash：224B 总参、12B 激活，单任务成本约 Hy4 的 5%](<https://www.ithome.com/1/027/630.htm>)  
   腾讯混元团队宣布正式推出 Hy4 flash，总参数量 224B（含 64B Engram 参数），每 token 激活 12B，支持多模态输入与 100 万 token 上下文，官方定位为性价比最高的 Hy 模型。  
@@ -113,72 +169,16 @@
   Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the comm…  
   OpenAI · 2026-11-16 08:00
 
-- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
-  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
-  Ollama：Blog（RSS） · 2026-11-16 08:00
-
 - [Apple 提出 Split-and-Scale：在推理阶段扩展潜在 3D 表示容量](<https://machinelearning.apple.com/research/split-scale-latent-3d>)  
   Apple 研究者提出 split-and-scale，通过在推理时把单个预训练 tokenizer 应用于场景的任意小空间子区域，在不增加训练成本的前提下扩展潜在 3D 表示容量、捕捉更高细节。该方法在大量消融实验中验证了计算、内存、潜在容量与重建质量之间的权衡，重建质量可与超出单 GPU 内存限制的更大模型竞争。团队还基于该方法训练了自回归 3D 生成器，表现与 SOTA 基线相当。  
   Apple Machine Learning Research（RSS） · 2026-11-16 08:00
 
+- [Ollama 与 Together AI 详解开放模型长会话智能体负载的缓存优化](<https://ollama.com/blog/open-models-long-horizon-agents>)  
+  Ollama 与 Together AI 联合发文，讲解如何让 DeepSeek-V4.1-Flash、GLM-5.3 等开放模型在长会话智能体负载中高效运行。  
+  Ollama：Blog（RSS） · 2026-11-16 08:00
+
 - [SpaceXSI 分享用 Grok Bot 搭建五岗位会计团队的方法](<https://x.ai/news/grok-bot-accounting>)  
   SpaceXSI 分享如何用 Grok Bot 组建由五个 Bot 组成的会计团队，分别负责开户、开票、账单支持、收款对账和催收，并称这些工作若由人工承担需将团队人数翻倍以上。  
   xAI：News（网页） · 2026-11-16 08:00
-
-- [OpenRouter 为管理密钥新增只读与工作区范围权限控制](<https://openrouter.ai/blog/announcements/scoped-management-keys/>)  
-  OpenRouter 的管理密钥新增范围与访问级别两项设置，可限定为单个工作区或整个组织，并选择只读或读写，现已向所有组织、所有套餐开放。只读密钥可查看 API 密钥、活动与用量，读写密钥还可创建、更新和删除 API 密钥；工作区管理员可为自己的工作区创建密钥，无需再持有覆盖全组织的权限。两项设置在创建密钥时固定，如需变更只能新建密钥并删除旧密钥。  
-  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
-
-- [AI 笔记应用 Mem 宣布 2027 年 1 月 15 日关闭](<https://get.mem.ai/blog/mem-is-shutting-down>)  
-  AI 笔记应用 Mem 官方宣布将于 2027 年 1 月 15 日关闭。2026 年 12 月 18 日起笔记转为只读，可继续阅读和导出，付费已暂停且不再扣费。官方提供了迁移指南，支持把笔记导出到 Apple Notes、Notion、Google Docs、Obsidian、OneNote 等应用，并提醒注意附件、Collections 和会议转录等内容的核对。  
-  Hacker News：AI 热帖 · 2026-11-16 08:00
-
-- [Together AI 复盘 megakernels 经历并介绍 Together Compiler 的构建之路](<https://www.together.ai/blog/road-to-together-compiler>)  
-  Together AI 介绍其推理优化框架 Together Compiler 的构建历程。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
-
-- [Anthropic 占 94% SOTA token 份额、OpenAI 靠 Luna 降价拿下低端市场](<https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai/>)  
-  Tomasz Tunguz 基于 Databricks AI Index 上万家企业数据撰文分析：Anthropic 占据 94.1% 的 SOTA 级 token 份额，OpenAI 则占低端 81%。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-16 08:00
-
-- [Together AI 与 Ollama 讲解如何让开源模型支撑长程智能体工作负载](<https://www.together.ai/blog/making-open-models-work-for-long-horizon-agentic-workloads>)  
-  Together AI 与 Ollama 联合发文，讲解如何让开源模型高效支撑长程智能体工作负载，核心是保护 KV 前缀缓存。harness 侧建议：工具定义加载到提示词末尾、系统提示保持不变、中途不改 reasoning effort、截断工具结果时告知模型、合理设计子代理上下文。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
-
-- [OpenRouter 为 Hugging Face Inference Providers 提供模型路由](<https://openrouter.ai/blog/announcements/hugging-face-inference-providers/>)  
-  OpenRouter 宣布即日起为 Hugging Face Inference Providers 的聊天模型提供路由，按实时价格、速度和可靠性选择供应商，支持自动故障转移，现有 HF token 和代码无需改动。  
-  OpenRouter：Announcements（RSS） · 2026-11-16 08:00
-
-- [Mastra 推出 Custom Factory 计划：为你的代码库共建软件工厂](<https://mastra.ai/blog/introducing-custom-factory-program>)  
-  Mastra 推出 Custom Factory 计划，由前置部署工程师嵌入客户团队，在客户自有技术栈上基于 Mastra 共建软件工厂。Mastra 自用的软件工厂已处理其 70% 的 issue，上线以来 PR 数量增长 6 倍，多数工作从 Slack 智能体 Shipyard 接单开始，一路推进到可供评审的 PR。  
-  Mastra Blog · 2026-11-16 08:00
-
-- [Together AI 分享如何为编码智能体运行平台评测](<https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai>)  
-  Together AI 详解其 Agent 评测体系：用任务清单加 Baseline、MCP、Skills 三种配置跑测，以 LLM 判官打分，9 月 30 日 215 次运行通过 192 次。  
-  Together AI 研究与产品博客（RSS） · 2026-11-16 08:00
-
-- [Browser Use 智能体接入 Evervault，结账时无需接触真实卡号](<https://browser-use.com/posts/browser-use-evervault>)  
-  Browser Use 智能体现可借助 Evervault 完成结账，全程不接触真实卡号。Evervault 生成 Luhn 校验通过、长度与 BIN 均与真实卡一致的 token，仅在发往白名单主机的请求中替换为真实卡值，真实号码不会到达模型、智能体或浏览器。  
-  Browser Use · 2026-11-16 08:00
-
-- [Genie One 技能（Skills）使用指南：把团队工作流教给 AI](<https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one>)  
-  Databricks 发布 Genie One 技能（Skills）使用指南，技能是以开放 Agent Skills 格式写下的工作流配方，可让 Genie One 按团队固定步骤、检查和格式产出结果。  
-  Databricks：Blog（RSS） · 2026-11-16 08:00
-
-- [Datasette 发布地理空间插件 datasette-maplibre 0.1a0，结合 MapLibre GL 与 OpenFreeMap](<https://simonwillison.net/2026/Nov/15/datasette-maplibre/>)  
-  Datasette 推出新地理空间插件 datasette-maplibre 0.1a0，将 MapLibre GL 库与 Zsolt Ero 运营的免费矢量地图服务 OpenFreeMap 结合。  
-  Simon Willison 博客 · 2026-11-16 07:58
-
-- [AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板](<https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg>)  
-  作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。  
-  公众号：数字生命卡兹克 · 2026-11-16 07:56
-
-- [Datasette 1.0a43 发布：输出渲染器支持流式输出](<https://simonwillison.net/2026/Nov/15/datasette/>)  
-  Datasette 1.0a43 发布，内置 TSV 和 CSV 导出已改用流式输出，插件可通过新的 Response.stream\(\) 方法一次性流式输出表中每一行。该版本还修复了私有存储查询可能泄露标题和 SQL 的安全问题，并新增行页面 JSON 设计、copy-schema Web Component 和 CSS 多页视图过渡。1.0 里程碑目前完成 53%。  
-  Simon Willison 博客 · 2026-11-16 07:20
-
-- [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>)  
-  Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea…  
-  OpenAI · 2026-11-16 06:00
 
 [返回面板](../README.md) · [上一页](all-17.md) · [下一页](all-19.md) · 第 18 / 24 页

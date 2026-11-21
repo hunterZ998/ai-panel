@@ -2,6 +2,54 @@
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 24 页
 
+- [微软发布 MAI Code 2 与 MAI Code 2 Flash，5% 成本达 Claude Opus 5.5 约 96% 性能](<https://www.ithome.com/1/028/579.htm>)  
+  微软在 Ignite 2026 发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并已在 GitHub Copilot 上线，分别面向复杂软件开发与高频日常编程。  
+  IT之家·人工智能 · 2026-11-18 06:42
+
+- [Simon Willison 实测 OpenAI 新模型 GPT-6.2 Astra 与 GPT-6.2 Sol](<https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/>)  
+  OpenAI 发布 GPT-6.2 Astra（面向高难度项目的旗舰模型）和 GPT-6.2 Sol（面向日常工作的通用模型），API 名称分别为 gpt-6.2-astra 和 gpt-6.2-sol。  
+  Simon Willison 博客 · 2026-11-18 06:38
+
+- [深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯](<https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA>)  
+  OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。  
+  公众号：数字生命卡兹克 · 2026-11-18 06:36
+
+- [Wiz 解析 OpenJDK 高危漏洞 CVE-2026-114938（Java4Shell）：AVX-512 Base64 解码可致远程代码执行](<https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk>)  
+  2026年11月17日披露的 OpenJDK 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码汇编代码对末尾填充字符计算错误导致堆内存越界写，可被未认证攻击者远程利用。  
+  Wiz：Research（安全研究） · 2026-11-18 06:29
+
+- [Anthropic IPO 后 Amazon 与 Google 将合计持股近 30%](<https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/>)  
+  Anthropic 披露 IPO 相关投资细节：Amazon 持股将达 14.7%，全部转换可转债可至 23.8%；Google 持股 13.7%，均为无投票权股份。  
+  TechCrunch：AI（RSS） · 2026-11-18 06:29
+
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol：部分成绩超越 Claude Fable 5.2 且成本大降](<https://www.ithome.com/1/028/577.htm>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业工作、编程、计算机操作和多步骤智能体任务，同时降低完成任务所需 token 数。  
+  IT之家·人工智能 · 2026-11-18 06:23
+
+- [NVIDIA 扩大与 Kinsus、三星电机、SPIL、Amkor、富士康等供应链伙伴的长期产能承诺](<https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout>)  
+  NVIDIA 宣布扩大与 Amkor、富士康、Kinsus、三星电机、SPIL、TSMC 等供应链伙伴的长期承诺，覆盖基板、先进封装、晶圆与代工产能。  
+  NVIDIA：Newsroom（RSS） · 2026-11-18 06:18
+
+- [OpenAI 发布 GPT-6.2 Astra 与 Sol，Astra API 降价 20%](<https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/>)  
+  OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款闭源模型，面向专业与智能体工作，API 名为 gpt-6.2-astra 和 gpt-6.2-sol。  
+  MarkTechPost（RSS） · 2026-11-18 06:07
+
+- [Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据](<https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi>)  
+  Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。  
+  Wiz：Research（安全研究） · 2026-11-18 06:03
+
+- [苹果 Apple Pay 等服务接连宕机：故障频发背后的系统性隐忧](<https://www.404media.co/breaking-everything/>)  
+  作者在租 Lime 单车时遭遇 Apple Pay 宕机，随后发现 Uber 支付同样失效，DownDetector 显示 Apple Pay 大面积故障。近几周飞机、银行、Microsoft 等服务接连崩溃，公众普遍猜测是网络攻击或 AI 失控所致，但作者认为这些故障多无直接关联，是基础设施系统性问题的共同症状。  
+  404 Media（RSS） · 2026-11-18 05:58
+
+- [SEC据报对Nvidia披露问题启动民事调查](<https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/>)  
+  据《华尔街日报》报道，美国证券交易委员会（SEC）正对Nvidia启动民事调查，审查其信息披露是否误导投资者。此事件发生在CEO黄仁勋辞职之后。美国商务部自2024年底起调查新加坡数据公司Megaspeed涉嫌将部分Nvidia芯片转移至中国、违反出口法一事。Nvidia最新财报显示营收1158亿美元，同比增长103%；自黄仁勋离职以来，公司股价已下跌超过10%。  
+  TechCrunch：AI（RSS） · 2026-11-18 05:48
+
+- [Nvidia Q3 财报：季度营收 1158 亿美元，利润 653 亿美元创新高](<https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang>)  
+  Nvidia 发布 Q3 财报，季度营收 1158 亿美元，同比增长 103%，高于预期的 1080 亿美元；净利润 653 亿美元创纪录。其中数据中心收入 1076 亿美元，同比增长 110%，边缘计算收入 82 亿美元，同比增长 42%；临时 CEO Colette Kress 表示 Vera Rubin 进展顺利，并预计 Q4 营收 1300 亿美元。  
+  The Verge：AI（RSS） · 2026-11-18 05:40
+
 - [Redwood Research 如何为 AI 发展节奏管控定义“能力活动”](<https://blog.redwoodresearch.org/p/how-should-we-define-capabilities>)  
   Redwood Research 提出一套用于“节奏管控”的算力分类标准，将 AI 公司的活动默认视为“能力活动”，仅豁免闲置算力、狭义产品开发、客户服务和狭义安全活动四类。该定义遵循“假阳性优于假阴性”原则，并要求第三方审计以确保执行。  
   Redwood Research：Blog（RSS） · 2026-11-18 05:36
@@ -133,53 +181,5 @@
 - [Tech leaders tell Fed chairman Warsh how AI could transform the economy](<https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen>)  
   Just maybe, both the extreme techno-optimists and AI doom-and-gloomers are wrong about the economic impact of the tec…  
   Axios · 2026-11-18 01:00
-
-- [Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用](<https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/>)  
-  Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出，基于新的 Gemini 4 Hydrogen 模型，可自动打电话预约、查询账单、购物下单和管理日程。  
-  Google Blog：AI（RSS） · 2026-11-18 01:00
-
-- [LangChain 总结构建主动式智能体的经验：记忆与 UX 是关键](<https://www.langchain.com/blog/what-weve-learned-building-proactive-agents>)  
-  LangChain 分享构建主动式智能体的经验：内部 GTM Agent 和 Robin（原 Open SWE）基于 Managed Deep Agents 运行，超过 70% 的运行来自定时调度而非人工提示。  
-  LangChain：Blog（RSS） · 2026-11-18 01:00
-
-- [寒武纪 Day 0 完成商汤 SenseNova Loop-9B 适配，打通 MLU 推理链路](<https://www.ithome.com/1/028/568.htm>)  
-  商汤发布 SenseNova Loop-9B 模型后，寒武纪宣布已完成 Day 0 适配，基于 vllm\_mlu 打通模型在 MLU 平台上的推理链路。  
-  IT之家·人工智能 · 2026-11-18 00:58
-
-- [OpenAI 推出 GPT-6 Astra 和 GPT-6 Luna 医疗行政智能体](<https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/>)  
-  OpenAI 发布面向医疗行政场景的 computer-use 智能体 GPT-6 Astra 和 GPT-6 Luna，可操作电子健康记录和保险门户完成填表、预授权等任务，无需 API。  
-  The Decoder：AI News（RSS） · 2026-11-18 00:55
-
-- [软件工厂时代，人类专业经验的价值何在](<https://www.oreilly.com/radar/the-value-of-human-expertise-in-the-software-factory/>)  
-  O'Reilly Radar 发文讨论 AI 智能体接管大量编码后开发者专业经验的去向，认为经验并未消失而是转移到更高抽象层：设计智能体工作流、设定护栏并判断产出是否可信。文中引用 Anthropic 数据称 Claude 撰写了其代码库约 80% 的合并代码，并提到 CodeScene 研究发现智能体在不健康代码上完成相同任务多用 35–45% token。  
-  O'Reilly Radar（热点 RSS） · 2026-11-18 00:55
-
-- [Microsoft Research 播客探讨 AI 如何改变医疗与生物科学的未来](<https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/>)  
-  Microsoft Research 播客《The Shape of Things to Come》中，Doug Burger 与 Eric Horvitz、Eric Topol、Ava Amini 对谈 AI 在医疗与生物科学中的应用，涵盖序贯诊断基准、医学影像潜力、全患者模型、虚拟细胞与生物基础模型等话题。  
-  Microsoft Research 博客（RSS） · 2026-11-18 00:52
-
-- [Google 在 Gemini 应用中新增模型训练与聊天记录分离的开关](<https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/>)  
-  Google 正在向 Gemini 应用推出新设置，将聊天历史与 AI 训练分离，用户可保留历史记录的同时不让 Google 用对话训练模型。  
-  Ars Technica：AI（RSS） · 2026-11-18 00:50
-
-- [Simon Willison 用 service workers 重写 Datasette Lite，在浏览器中运行完整服务端 Datasette 应用](<https://simonwillison.net/2026/Nov/17/datasette-lite/>)  
-  Simon Willison 发布基于 service workers 的 Datasette Lite 完全重写版，用 WebAssembly 和 Pyodide 在浏览器中运行服务端 Datasette Python 应用，效果接近真实服务端。  
-  Simon Willison 博客 · 2026-11-18 00:48
-
-- [美国拟收紧远程算力出口管制，路透社揭示中国模型蒸馏产业应对芯片短缺](<https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/>)  
-  美国商务部工业与安全局（BIS）发布临时规则，将远程访问算力纳入出口管制，要求新加坡、马来西亚、泰国、印度尼西亚和巴西等地的数据中心运营商在采购英伟达等美国厂商的先进AI芯片时逐案申请许可。与此同时，路透社调查显示，中国开发者通过模型蒸馏技术，从美国领先模型中提取答案、代码和解题方案，用于训练更小、成本更低的本地模型，以缓解高端硬件短缺。  
-  The Decoder：AI News（RSS） · 2026-11-18 00:47
-
-- [Daydream 推出 AI 智能体 Daydream Agent：可当私人造型师并一键下单](<https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/>)  
-  Daydream 推出 AI 智能体 Daydream Agent，可记住用户的风格、版型偏好和预算来推荐单品，支持上传照片虚拟试穿，并通过一键结账完成购买。该智能体还能追踪商品打折与品牌上新、推送每周更新，并从超 1 万个品牌的目录中获取实时价格与库存。  
-  TechCrunch：AI（RSS） · 2026-11-18 00:32
-
-- [Databricks 打包式洁净室如何将 RampID 引入湖仓](<https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms>)  
-  Databricks 推出打包式洁净室，让 LiveRamp 的身份解析服务直接进入客户湖仓，客户 PII 无需离开自有存储即可获得 RampID 匹配结果。该模式由 LiveRamp 提供数据与解析代码、客户创建洁净室并触发运行、Databricks 托管隔离环境，无审批步骤且双方互不可见数据资产。  
-  Databricks：Blog（RSS） · 2026-11-18 00:30
-
-- [Pragmatic Engineer 解读软件工程师的推理工程：从前沿实验室 API 迁移到开源模型](<https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers>)  
-  Pragmatic Engineer 访谈 Modal、Fireworks AI 和 Baseten 三家推理供应商，讲解软件工程师如何从前沿实验室 API 迁移到开源模型以控制成本。  
-  Pragmatic Engineer（RSS） · 2026-11-18 00:11
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 24 页

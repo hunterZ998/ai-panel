@@ -2,6 +2,50 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 24 页
 
+- [Modem 发布 2.0：将客户反馈与工单、代码变更打通的客户产品图](<https://modem.ai/blog/modem-2-0-customer-product-graph>)  
+  Modem 发布 2.0，把原本面向 AI PM 智能体的底层数据能力开放为客户产品图（customer product graph），将 Slack、Discord、Zendesk、Gong 等近 20 个渠道的客户反馈聚合为关联工单和 pull request 的主题。  
+  Modem：Blog（RSS） · 2026-11-18 23:30
+
+- [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](<https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities>)  
+  Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
+  Wiz：Research（安全研究） · 2026-11-18 23:13
+
+- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
+  Much has been written about AI’s potential to disrupt it.  
+  a16z · 2026-11-18 23:00
+
+- [LangSmith for Coding Agents 开启公测：按 pull request 追踪编码 Agent 花费](<https://www.langchain.com/blog/langsmith-coding-agents-roi>)  
+  LangChain 宣布 LangSmith 推出面向编码 Agent 的报告功能，进入 LangSmith Cloud 公测，可自动把 Claude Code、OpenAI Codex、Cursor、GitHub Copilot 和 Deep Agents 等编码 Agent 的每条 trace 花费归因到其产出的 pull request。  
+  LangChain：Blog（RSS） · 2026-11-18 23:00
+
+- [Mistral 发布 Vibe 智能体桌面应用，支持并行多任务](<https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/>)  
+  Mistral 的智能体 Vibe（原 Le Chat）推出桌面应用 Vibe Desktop，用户可同时下达多个任务并观察智能体并行执行。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:40
+
+- [OpenAI 首次向 Apollo Research 等四家机构开放现场审计其 AI 系统](<https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/>)  
+  OpenAI 宣布首次允许四家独立机构在其办公室现场审计内部 AI 系统，合作方为 Apollo Research、METR、Transluce 和 Goodfire，审计范围包括未发布模型、源代码、训练数据和监控系统。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:36
+
+- [Hugging Face Inference Providers 改经 OpenRouter 路由语言模型请求](<https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/>)  
+  Hugging Face 宣布其 Inference Providers 服务改经 OpenRouter 路由语言模型请求，默认按价格、速度和可靠性综合选择供应商，故障时自动切换。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:33
+
+- [哈佛研究：美国最大 400 座数据中心的电力过半来自天然气和煤炭](<https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/>)  
+  哈佛大学发表于 Nature Sustainability 的研究用卫星图像识别 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间年耗电 68 至 99 TWh。  
+  The Decoder：AI News（RSS） · 2026-11-18 22:25
+
+- [腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是二季度 5 倍以上](<https://www.ithome.com/1/029/110.htm>)  
+  腾讯总裁刘炽平在分析师会上透露，WorkBuddy 最近七天收入按年化折算超过 5 亿美元（约合 33.34 亿元人民币），是腾讯会议的两倍以上，三季度收入是第二季度的 5 倍以上，中国百强企业已有 60% 成为其客户。  
+  IT之家·人工智能 · 2026-11-18 22:15
+
+- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
+  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
+  NVIDIA Blog（RSS） · 2026-11-18 22:00
+
+- [KPMG 首次对 FTSE 250 公司运行百个 AI 智能体参与平行审计](<https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/>)  
+  KPMG 今年首次对一家 FTSE 250 公司运行全流程 AI 平行审计，投入超过 100 个 AI 智能体配合传统团队完成年度审计各阶段，正式审计意见仍基于常规审计。  
+  The Decoder：AI News（RSS） · 2026-11-18 21:55
+
 - [腾讯高管预计 2028 年 AI 投入产出效率改善，归因于基础设施复用、硬件降价与算力效率提升](<https://www.ithome.com/1/029/080.htm>)  
   腾讯高管在业绩会上表示，公司资本开支主要用于 AI 基础设施建设，这类投入可复用于新模型训练和 Token 生成，预计 2028 年经营压力有望缓解，投入产出效率将因基础设施复用、设备采购价格下降及训练推理计算效率提升而改善。财报数据显示，2026 年第三季度录得负自由现金流 691 亿元，若剔除算力采购预付款则转正至 169 亿元。  
   IT之家·人工智能 · 2026-11-18 21:31
@@ -137,49 +181,5 @@
 - [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
   RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
   Product Hunt 中文 · DecoHack · 2026-11-18 15:00
-
-- [Anthropic 为 Claude Code 推出实验性 Code Mode，用 JavaScript 一步串联工具调用](<https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/>)  
-  Anthropic 在 Claude Code v2.1.323 中加入实验性 Code Mode，Claude 可写 JavaScript 一步并行执行 Bash、Read、Edit 等多个工具调用。  
-  MarkTechPost（RSS） · 2026-11-18 14:53
-
-- [Managing frontier AI risk: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>)  
-  OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, bl…  
-  OpenAI · 2026-11-18 14:00
-
-- [Gallup 调查：全球三分之一受访年轻人称拥有 AI 陪伴](<https://www.404media.co/gallup-study-friendship-ai-companions/>)  
-  Gallup 与 Boston Children's Digital Wellness Lab 合作，对16个国家超过16000名15至22岁年轻人发起调查，93%受访者称至少有一段牢固的线下友谊，33%表示使用过 AI 陪伴，82%用 AI 查信息，68%用它寻求建议。  
-  404 Media（RSS） · 2026-11-18 13:01
-
-- [MIT 与 Cornell 研究用测试时自适应让 AI 文本检测器跟上变化](<https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118>)  
-  MIT 与 Cornell 研究人员用测试时自适应（TTA）训练 AI 文本检测器，在实验中把伪装 AI 文本的识别率从商用检测器的约 27% 提升到 93%。在模拟人类写作习惯自然变化的场景中，TTA 检测器准确率为 85%，传统方法为 73%。该方法可让已部署的检测模型利用无标注新数据在线调整，无需从头重训。  
-  MIT News（RSS） · 2026-11-18 13:00
-
-- [腾讯混元开源 Hy4 flash 模型，含 FP8 与 Base 版本](<https://www.ithome.com/1/028/701.htm>)  
-  腾讯混元宣布开源 Hy4 flash 模型，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署。  
-  IT之家·人工智能 · 2026-11-18 12:36
-
-- [腾讯混元开源 Hy4 flash，含 FP8 和 Base 版本](<https://mp.weixin.qq.com/s/yaFPaQL6MNVz01GD2sIlRw>)  
-  腾讯混元宣布开源 Hy4 flash，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base 三个版本，开发者可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，另有 AngelSlim 发布的 GGUF 版本。官方表示也在加速开源 Hy4 模型。  
-  公众号：腾讯混元 · 2026-11-18 12:23
-
-- [GPT-6.2 Astra 和 Sol 使用与避雷教程](<https://mp.weixin.qq.com/s/AWddiJVMdnxagcyOx7MNhQ>)  
-  作者基于灰度实测分享 GPT-6.2 Astra 和 Sol 的使用建议。  
-  公众号：卡尔的AI沃茨 · 2026-11-18 11:52
-
-- [AMD 完成对 Taalas 的收购，计划将其 AI 推理芯片技术整合进加速器路线图](<https://www.ithome.com/1/028/640.htm>)  
-  AMD 当地时间昨日宣布完成对专用 AI 推理芯片开发商 Taalas 的收购，表示此举将加强其全栈 AI 产品组合和长期推理路线图。AMD 计划将 Taalas 技术整合进加速器路线图，结合 Instinct GPU 共同开发系统级解决方案。Taalas 采用把 AI 模型固化到 ASIC 上的路线，针对特定模型工作负载优化，牺牲通用性以显著提升推理效率。  
-  IT之家·人工智能 · 2026-11-18 10:06
-
-- [Anthropic 为 Claude 推出关联计费测试版，第三方应用 AI 调用可由客户付费](<https://www.ithome.com/1/028/637.htm>)  
-  Anthropic 于 11 月 17 日更新 Claude 平台文档，推出 OAuth 测试版功能关联计费（Linked Billing），第三方应用可将客户的 Claude 组织与应用关联，由客户直接为应用中的 Claude API 调用付费，无需共享 API 密钥。  
-  IT之家·人工智能 · 2026-11-18 10:05
-
-- [卡尔的AI沃茨上线图像和视频Token监控，并给出数据页面视觉升级提示语](<https://mp.weixin.qq.com/s/UV4QQZ3P_B-rZlZt9yMwjQ>)  
-  作者宣布把AI HOT的Token羊毛监控扩展到图片生成和视频生成四大类，每条标注可用模型、领取方式、刷新周期和折算价值。文中总结了他踩过的单位混乱、免费边界模糊和额度频繁变动三个坑，并给出一条只改渲染层不动业务逻辑的提示语，称用Fable5.2或Opus5.5两三轮迭代就做出了全息卡面、ASCII字符海洋和3D透视图谱效果。  
-  公众号：卡尔的AI沃茨 · 2026-11-18 10:00
-
-- [韩国总统李在明公布防 AI 考试作弊政策：考期发最高级别灾难警报、举报奖励至少 1 亿韩元](<https://www.ithome.com/1/028/629.htm>)  
-  韩国总统李在明在 X 平台公布政府防止考试用 AI 作弊的政策。措施包括研究在考试前后不定时发送最高级别灾难警报（静音手机也会响）、与 AI 公司达成协议获取考试期间向 AI 提问的记录并将立法要求提交、以及每查实一起作弊至少奖励举报者 1 亿韩元（约合 50 万元人民币）且可叠加。  
-  IT之家·人工智能 · 2026-11-18 09:49
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 24 页

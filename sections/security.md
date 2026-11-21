@@ -20,19 +20,22 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 38 条
+## 相关资讯 · 36 条
 
-- [研究者向 AI 供应链投放 200 万个金丝雀密钥，揭示敏感数据大规模泄露](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>)  
-  研究者 HD Moore 向 AI 路由生态投放 200 万个从未使用过的金丝雀密钥，测试敏感信息是否会经 OpenRouter、Vercel 等 AI 网关链路泄露。他预先布好自控的 AWS 账户、SSH 凭据、DNS 与私有 git 引用等基础设施，任一凭据被触发即可定位泄露环节，结果发现该生态大量泄露高敏感数据。  
+- [Wall Street Week \| Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI](<https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video>)  
+  Bloomberg · 2026-11-21 08:13
+
+- [安全研究员在 AI 服务链中植入 200 万个金丝雀密钥测试数据泄露](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>)  
+  安全研究员 HD Moore 在经由 AI 路由（如 OpenRouter、Vercel）转发的提示词中植入 200 万个从未使用过的金丝雀秘密，包括 AWS 访问密钥、SSH 密码和私有 git 仓库引用，用于追踪敏感信息在 AI 服务链中的泄露路径。实验发现这些信息会像筛子一样外泄，金丝雀机制能定位链条中每个负责泄露的环节。  
   Ars Technica：AI（RSS） · 2026-11-21 04:59
+
+- [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
+  A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
+  a16z · 2026-11-20 23:03
 
 - [“抵制AI，断更一天”，4.3万人点赞了这个声明](<https://36kr.com/p/4077816535667592?f=rss>)  
   网文界今年发生了多场“AI斩杀”。2月和5月，番茄进行了针对AI低质内容的专项治理； 起点7月全面禁止AI文，8月一口气处理了上百本AI小说，其中有多部万订作品；10月30日，起点和QQ阅读发布公告，称将进一步打击签约作品滥用AI的行为，取  
   36氪 · 2026-11-20 18:32
-
-- [欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐](<https://www.ithome.com/1/030/191.htm>)  
-  IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，欧洲央行行长克里斯蒂娜 · 拉加德发出警告，随着 AI 智能体日益先进，网络攻击的威胁也随之加剧，可能成为全球金融业当前面临的最大挑战。 拉加德在法兰克福举行的欧洲银…  
-  IT之家 · 2026-11-20 18:06
 
 - [光禾AI用企业级智能体应用解企业改造难题](<https://36kr.com/p/4077924992390278?f=rss>)  
   大模型进入企业后，如何与内部知识、业务系统和工作流程结合，成为企业推进AI应用的一道实际门槛。员工可以借助通用工具完成问答和内容生成，但涉及内部数据、多系统协作和具体业务执行时，企业仍需要解决系统接入、权限管理和持续运维等问题。 光禾AI选  
@@ -142,10 +145,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从 Agent 在同一仓库的历史会话中学习，在不修改 Agent 或底层模型的情况下降低后续会话成本。  
   Microsoft Research 博客（RSS） · 2026-11-17 01:01
 
-- [1990 年代的网络安全噩梦正在重演：AI 让漏洞利用提速](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
-  a16z 指出，随着 Opus 4.5/4.6 大幅降低攻击成本，漏洞发现与利用开发速度提升数个数量级，安全团队在 2026 年大部分时间都在应对过去数年一遇的紧急漏洞。互联网蠕虫可能回归，攻击者目标转向窃取推理用 API key；企业也将被迫以更快速度打补丁，并催生围绕加固基础设施组件的新创公司。  
-  a16z：News（RSS） · 2026-11-16 23:02
-
 - [Gemini Platform 智能体异常检测实战指南：从部署到首个告警](<https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/>)  
   Google 发布 Gemini Platform 上 Agent Anomaly Detection 的实操指南，通过一个客服智能体演示如何捕获越权读取 payroll 表的异常会话。  
   Google Developers Blog（RSS） · 2026-11-16 00:00
@@ -158,17 +157,9 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
   TechCrunch · 2026-11-06 14:28
 
-- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
-  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
-  a16z · 2026-11-02 22:01
-
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
   怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
   硅谷101 · 2026-10-29 07:00
-
-- [The New Security Agenda](<https://www.a16z.news/p/the-new-security-agenda>)  
-  What CISOs told us about AI, budgets, and the priorities shaping 2027.  
-  a16z · 2026-10-29 00:00
 
 - [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
   AI safety is on fire.  

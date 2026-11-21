@@ -2,6 +2,58 @@
 
 [返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 24 页
 
+- [NVIDIA Ian Buck 在 SC26 开幕：发布 Nemotron for Science、Rubin HPC GPU 与 Vera CPU 平台](<https://blogs.nvidia.com/blog/ian-buck-sc26/>)  
+  NVIDIA 的 Ian Buck 在 SC26 特别演讲中发布面向科学智能体的 Nemotron for Science 工具包，将 Nemotron 3.5 Super VL 开放模型与新的开放化学数据集及后训练配方结合，可在 DGX Spark 或本地超算上运行。  
+  NVIDIA Blog（RSS） · 2026-11-17 22:00
+
+- [Spotify 向所有艺术家开放 Artist Profile Protection，防止深度伪造作品被归到真人名下](<https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/>)  
+  Spotify 将 Artist Profile Protection 工具开放给所有艺术家，艺术家可在 Spotify for Artists 中开启，当有新音乐以其名义提交时收到提醒，并可解除关联以阻止其出现在个人主页。默认情况下作品仍按计划上线，艺术家也可开启高级设置，在上线前手动批准或拒绝。该功能此前已与部分艺术家进行八个月 beta 测试。  
+  TechCrunch：AI（RSS） · 2026-11-17 22:00
+
+- [商汤发布 SenseNova Loop-9B 模型：4bit 量化后部署显存需求低至 10 GB 内](<https://www.ithome.com/1/028/534.htm>)  
+  商汤科技 11 月 17 日发布 SenseNova Loop-9B 模型，总参数量约 9B，通过 Loop 结构复用共享层并结合双流 mHC，将 32 个物理解码层扩展为 56 次层计算，面向复杂推理、代码、工具调用和多模态任务。  
+  IT之家·人工智能 · 2026-11-17 21:56
+
+- [加州理工学院数学教授倪忆不再依据答案对错批改作业，称数学作业几乎都能用AI完成](<https://www.ithome.com/1/028/522.htm>)  
+  据《商业内幕》16日报道，在加州理工学院任教17年的数学教授倪忆表示，由于学生普遍用AI完成数学作业且教师无法判断真伪，自己不再按答案对错给作业打分，改为只检查是否完成。数学专业大二学生萨特维克·雷德鲁图称自己为真正弄懂概念未使用AI，并认为依赖AI代做作业会让线下考试吃亏；加州理工学院尚未制定统一规定，部分课程甚至明确允许使用AI。  
+  IT之家·人工智能 · 2026-11-17 20:59
+
+- [面壁智能亮相 Web Summit 2026：展示 MiniCPM-V 4.7 与端侧智能方案](<https://mp.weixin.qq.com/s/f6RZH2DJ1_cKsqLrmj3v6g>)  
+  面壁智能在里斯本 Web Summit 2026 上展示了全新发布的 MiniCPM-V 4.7 及面壁智舱 SuperMate 等端侧产品。MiniCPM-V 4.7 35B-A3B 是全球首个可在端侧无损运行的开源 MoE 模型，单次推理仅激活 30 亿参数，在最新款 iPhone 上以约 3GB 运行内存实现约 20 token/s 解码速度。  
+  公众号：面壁智能（MiniCPM） · 2026-11-17 20:50
+
+- [AI 辅助歌曲《你成为梦想中的大人了吗？》登顶韩国 Melon TOP100](<https://www.ithome.com/1/028/518.htm>)  
+  韩国 AI 音乐项目 MEOMURU 的《你成为梦想中的大人了吗？》于当地时间 13 日登顶 Melon TOP100，成为首首登上韩国主要音乐榜单榜首的 AI 辅助制作歌曲，截至 16 日仍居第一，播放量突破 2290 万次，30 多岁和 40 多岁听众合计占比超 50%。歌曲今年 6 月发行，人声由美国 AI 音乐平台 Suno 生成，词曲创作和制作等其他环节由真人团队完成。  
+  IT之家·人工智能 · 2026-11-17 20:33
+
+- [百度、小米 CEO 在 Apec 峰会警告 AI 热潮与商业回报差距扩大](<https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns>)  
+  百度 CEO 李彦宏与小米 CEO 雷军在深圳 Apec CEO 峰会上警告，巨额 AI 投入正超过商业回报，当务之急是开发高价值应用，否则泡沫担忧可能成真。李彦宏以工业革命电力类比，称 AI 最大经济价值在应用层，并援引青岛港 AI 智能体优化集装箱装载的案例；雷军指出真正落地的场景有限，看好 AI 手机、汽车与人形机器人。  
+  Hacker News：AI 热帖 · 2026-11-17 20:30
+
+- [Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误](<https://claude.dev/blog/chaos-loop-claude-docs-launch/>)  
+  Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。  
+  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-17 20:00
+
+- [当 AI 生成数据成为明天的基准真相](<https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/>)  
+  O'Reilly Radar 文章剖析 AI 智能体生成的结论如何被企业系统当作事实沿用：供应商审核智能体误读证书范围后，记录虽被人工更正，仪表盘、项目报告与采购决策仍沿用旧结论。文章指出，结论在流转中逐层丢失“由 AI 生成”的上下文，还可能回流为微调数据与评测集，被下一个模型当作基准真相学习。  
+  O'Reilly Radar（热点 RSS） · 2026-11-17 19:54
+
+- [ChinaTalk 访谈解读美国商务部132页出口管制新规](<https://www.chinatalk.media/p/bis-finally-takes-a-stand>)  
+  ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz 解读美国商务部发布的132页出口管制新规。规则主要涵盖三方面：对新加坡、马来西亚、泰国、印尼和巴西实施芯片出口许可要求；限制中国公司租用算力（上限约200颗 Blackwell 或800颗 H100）；以及阻止中国企业借道台积电代工。访谈还讨论了规则执行力度、美国境内算力租用漏洞及对 AI 供应链的影响。  
+  ChinaTalk（RSS） · 2026-11-17 19:03
+
+- [达信：有迹象表明黑客正利用 AI 工具和智能体寻找安全漏洞](<https://www.ithome.com/1/028/489.htm>)  
+  据路透社报道，保险经纪公司达信称有迹象表明黑客正利用 AI 工具和 AI 智能体寻找安全漏洞，其客户 10 月最后两周报告 105 起网络安全事件，较 5 月同期的 48 起增加一倍多。  
+  IT之家·人工智能 · 2026-11-17 18:55
+
+- [NVIDIA 开源 NVKE 与 NVKR，为 GPU 基础设施提供托管 Kubernetes](<https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/>)  
+  NVIDIA 开源了 NVIDIA Kubernetes Engine（NVKE）和 NVIDIA Kubernetes Recipes（NVKR）两个项目，均采用 Apache 2.0 协议并处于公开预览阶段。  
+  MarkTechPost（RSS） · 2026-11-17 18:37
+
+- [OVHcloud 开源发布首个模型 Olala mini 7A1B，总参数 70 亿、8GB 显存可运行](<https://www.ithome.com/1/028/453.htm>)  
+  欧洲云服务企业 OVHcloud 宣布推出首个 AI 模型家族 Olala，首个成员 Olala mini 7A1B 以 Apache 2.0 许可开源发布在 Hugging Face。  
+  IT之家·人工智能 · 2026-11-17 18:06
+
 - [NVIDIA 董事会设立国家安全与出口管制监督委员会](<https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee>)  
   NVIDIA 宣布董事会设立常设的国家安全与出口管制监督委员会，负责公司国家安全政策、出口管制合规和全球贸易风险管理的董事会级监督。委员会由董事 Suzanne Nora Johnson 担任主席，成员包括 Stephen C. Neal 和 John O. Dabiri，至少每季度召开一次会议，并将聘请独立外部专家提供法律、国家安全和贸易合规支持。  
   NVIDIA：Newsroom（RSS） · 2026-11-17 18:00
@@ -126,60 +178,8 @@
   OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and…  
   OpenAI · 2026-11-17 08:00
 
-- [Amp 发布 Windows 原生应用](<https://ampcode.com/news/amp-for-windows>)  
-  Amp 宣布推出 Windows 原生应用，用户可阅读官方文档了解使用方式，也可查看 Amp 全部原生应用列表。  
-  Amp Chronicle · 2026-11-17 08:00
-
-- [Browserbase 工程团队讲解如何用智能体在 1 天内完成 4000 万行 Chromium 代码的补丁与部署](<https://www.browserbase.com/blog/how-we-deploy-custom-chromium>)  
-  Browserbase 工程博客讲解其维护带超 18000 行安全与反检测补丁的 Chromium 内部 fork 的方法：借助编码智能体在 Google 发布前完成补丁重放、测试与部署，将原本一周的升级流程缩短到 1 天内。  
-  Browserbase / Stagehand 工程博客 · 2026-11-17 08:00
-
 - [Recraft Studio 上线 Seedance 2.5 Flash：速度约为 Seedance 2.5 两倍](<https://www.recraft.ai/blog/seedance-2-5-flash>)  
   字节跳动 Seedance 2.5 的轻量快速版本 Seedance 2.5 Flash 已在 Recraft Studio 上线，官方称生成速度约为 Seedance 2.5 的两倍。  
   Recraft 自有模型与设计产品 · 2026-11-17 08:00
-
-- [Gemini 3.5 Transcribe 新增语音编辑功能](<https://ai.google.dev/gemini-api/docs/changelog#11-17-2026>)  
-  gemini-3.5-transcribe 和 gemini-3.5-transcribe-live 现已支持语音驱动的编辑、改写与格式化，可作用于口述语音或已有文本（source\_text）。相关用法见音频转写与实时转写指南。  
-  Gemini API：更新日志（网页） · 2026-11-17 08:00
-
-- [Browser Use 推出 on-prem 隐身浏览器，Gumloop 在自有沙箱内运行](<https://browser-use.com/posts/gumloop-on-prem-stealth-browser>)  
-  Browser Use 介绍其 on-prem 隐身浏览器，Gumloop 于 2026 年 10 月 6 日上线 Browser 功能，将该浏览器跑在与 Agent 同一个云沙箱内，登录、下载和录制数据留在 Gumloop 自有基础设施。  
-  Browser Use · 2026-11-17 08:00
-
-- [Mastra 推出内置 MCP server，可将 agent、workflow 和工具暴露给 MCP 客户端](<https://mastra.ai/blog/introducing-built-in-mcp-server>)  
-  Mastra 发布内置 MCP server，安装 @mastra/mcp 并配置 auth 后，整个 Mastra server 在 /api/mcp 可用，自带 call\_agent、start\_workflow 和 get\_trace 工具，要求 @mastra/core@1.83.0 及以上。  
-  Mastra Blog · 2026-11-17 08:00
-
-- [Cerebras 推出分离式推理：GPU 负责预填充、Cerebras 系统负责解码，每兆瓦吞吐提升 5 倍](<https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference>)  
-  Cerebras 宣布分离式推理方案已投入生产，用 AMD Instinct GPU 处理 prompt（prefill），由 Cerebras CS-3 系统生成响应（decode）。  
-  Cerebras：Blog（网页） · 2026-11-17 08:00
-
-- [LanceDB 完成 5750 万美元 B 轮融资，Lance 格式在多家前沿 AI 实验室落地](<https://tomtunguz.com/the-lakehouse-for-ai/>)  
-  Tomasz Tunguz 宣布与 Bessemer Venture Partners 等参与 LanceDB 的 $57.5m Series B，其 Lance 数据湖仓格式服务多家前沿 AI 公司。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-17 08:00
-
-- [Claude Platform 推出 beta 版 linked billing 关联计费](<https://claude.com/blog/linked-billing-on-claude-platform>)  
-  Anthropic 在 Claude Platform 推出 beta 版 linked billing。第三方平台（如编码智能体和工作流自动化工具）无需共享 API 密钥即可让终端客户付费使用 Claude API，用量直接计入客户已有的 Anthropic 账单。  
-  Claude：Blog（网页） · 2026-11-17 08:00
-
-- [前设计师重返淘宝体验一天，见证 TaoDesign 改变设计工作方式](<https://mp.weixin.qq.com/s/kZmacfnVyM-yL1PthVR1Ww>)  
-  前设计师、AI 博主卡兹克入职淘宝设计团队一天，亲身体验自研设计工具 TaoDesign：可用 Prompt 加模板生成符合规范、可交互的设计稿，团队将 200 多个知识库蒸馏成风格库和 Skill，并提供数字用户调研、页面数据预测等功能。  
-  公众号：数字生命卡兹克 · 2026-11-17 07:56
-
-- [AI 网络安全初创公司 Corma 产品发布约 3 个月后估值达 10 亿美元](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>)  
-  AI 网络安全初创公司 Corma 在产品推出约 3 个月后完成 1.25 亿美元 A 轮融资，估值 10 亿美元，由 NEA 领投，累计融资达 1.85 亿美元，投资方包括 Sequoia Capital、Khosla Ventures 和 Coatue。  
-  TechCrunch：AI（RSS） · 2026-11-17 07:32
-
-- [OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，改为先到先得](<https://www.ithome.com/1/028/027.htm>)  
-  OpenAI 将于 11 月 23 日再开放 5 万个 ChatGPT 学术研究免费名额，改为先到先得，不再采用试点阶段的抽签机制。每个名额含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus，本轮最多覆盖 15 万名研究人员。该计划 7 月启动以来已有 33 个国家和地区的 2 万名研究人员加入，整体目标提升至 20 万人。  
-  IT之家·人工智能 · 2026-11-17 07:18
-
-- [科技界人士质疑黄仁勋辞职背后存在针对其的谋划](<https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories>)  
-  The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。  
-  The Verge：AI（RSS） · 2026-11-17 07:17
-
-- [NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件](<https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/>)  
-  NVIDIA 在 SC26 推出 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群，无需网络交换机，合计 512GB 内存和 16TB NVMe 存储。借助 NVFP4，可在本地部署最高 700B 参数模型，如 DeepSeek V4.1，让研究者不必排队等共享 GPU 集群。套件已开售，NVIDIA HPC SDK 安装 playbook 即将发布。  
-  NVIDIA Blog（RSS） · 2026-11-17 07:00
 
 [返回面板](../README.md) · [上一页](all-14.md) · [下一页](all-16.md) · 第 15 / 24 页

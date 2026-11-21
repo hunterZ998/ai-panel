@@ -2,6 +2,54 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 24 页
 
+- [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](<https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/>)  
+  In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless o  
+  TechCrunch · 2026-11-20 00:19
+
+- [Google Gemini 平台推出 Semantic governance policies，在 Agent 工具调用执行前进行审查](<https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/>)  
+  Google 在 Gemini 平台以 Preview 形式推出 Semantic governance policies，通过 Agent Gateway 和 LLM judge 在每个工具调用运行前检查两项内容：是否符合用户原始意图，以及是否符合用自然语言编写的策略。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [如何将内部 Cloud Run MCP 服务器安全接入 Gemini Enterprise](<https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/>)  
+  Google 介绍如何用 Egress Agent Gateway、Private Service Connect 和 FQDN 级 Private Cloud DNS，把仅限内网的 Cloud Run MCP 服务器接入 Gemini Enterprise。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [Gemini Enterprise 自定义 UI 中如何处理用户、连接器与智能体认证](<https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/>)  
+  Google 发布指南，讲解企业自建 Customer UI 调用 Gemini Enterprise StreamAssist API 时需自行实现的三层认证。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [Google Agent Anomaly Detection 私测扩展至监测其他云上的智能体](<https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/>)  
+  Google 宣布 Agent Anomaly Detection 进入 Private Preview，支持监测运行在 Google Cloud 之外的智能体。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [Gemini 4 四款新模型接连发布：Neon 该怎么选？](<https://every.to/vibe-check/mini-vibe-check-four-new-geminis-when-should-you-pick-neon>)  
+  Google DeepMind 在五周多内为 Gemini 阵容新增四款以元素命名的模型：Gemini 4 Argon、Gemini 4 Carbon、Gemini 4 Hydrogen 和 Gemini 4 Neon，其中三款在九天内接连发布。文章讨论在这些模型之间该如何选择，尤其是何时该选用 Gemini 4 Neon。  
+  Every：最新文章（网页） · 2026-11-20 00:00
+
+- [Thinking Machines 发布开源权重循环架构模型 Inkling 2 Mini](<https://artificialanalysis.ai/articles/inkling-2-mini>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，Apache 2.0 许可，26B 总参数、5.4B 激活参数的 MoE 架构，支持文本和图像输入、1M token 上下文窗口，可在 MacBook 或 DGX Spark 上运行。  
+  Artificial Analysis 完整文章（网页） · 2026-11-20 00:00
+
+- [Goodfire 解析 Thinking Machines 开源模型 Inkling 2 Mini 的内部机制](<https://www.goodfire.com/research/interpreting-inkling-2-mini>)  
+  Goodfire Research 发布对 Thinking Machines 开源权重模型 Inkling 2 Mini 的可解释性研究，该模型有 24 层，采用 attention residuals 和中间块循环三次的架构。  
+  Goodfire Research（网页） · 2026-11-20 00:00
+
+- [METR 发布 2026 年 11 月能力测量更新：AI R&amp;D 相关能力每约 3.6 个月翻倍且更难测量](<https://metr.org/blog/2026-11-20-q4-2026-capability-update/>)  
+  METR 发布截至 Opus 5.5 和 GPT-6 Astra 的能力评测更新，发现在 TH1.1 与 TH2 任务上模型时间视野约每 3.6 个月翻倍，可验证子集翻倍时间约 1.65 个月。  
+  METR：Research（网页） · 2026-11-20 00:00
+
+- [Runway 详解如何构建智能体驱动的软件工厂](<https://runwayml.com/news/engineering/building-a-software-factory>)  
+  Runway 介绍了逐步把软件交付各环节交给智能体完成的实践。智能体 10 月驱动了 38% 的合并 PR（6 月仅 0.1%），首次批准等待中位数从超过 2 小时降至约 5 分钟；AI 单独批准的 PR 回滚率约千分之一，低于人工批准的约 1/200。  
+  Runway：News（网页） · 2026-11-20 00:00
+
+- [TRACER：AI 视频系统 24 小时监测 ICU 患者谵妄早期迹象](<https://hai.stanford.edu/news/ai-enabled-video-system-monitors-icu-patients-for-early-signs-of-delirium>)  
+  计算机视觉专家与医生联合开发了 TRACER 系统，通过 ICU 床旁双摄像头 24 小时视频分析，结合电子健康记录追踪患者活动变化，识别谵妄早期迹象。系统以每分钟采样 15 种"原子动作"、压缩为每小时报告的方式降低数据量，医生可通过多模态界面查询患者数日行为变化。该研究部分由 Stanford HAI 资助。  
+  Stanford HAI News（网页） · 2026-11-20 00:00
+
+- [Databricks 用 Genie Code 批量迁移 Tableau 和 Power BI 报表至 AI/BI](<https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code>)  
+  Databricks 的 Genie Code 现已支持批量迁移：用 /importBI 指向 Unity Catalog volume 中的整个文件夹，即可一次性把 Tableau 或 Power BI 报表转换为 AI/BI Dashboards，该功能已正式可用。  
+  Databricks：Blog（RSS） · 2026-11-20 00:00
+
 - [GitHub 开源两个新项目：Replica 设计工具与开源无障碍框架](<https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/>)  
   GitHub 推出开源设计工具 Replica 和开源无障碍框架 Open Source Accessibility Framework，前者支持在设计系统内生成 AI 原型并用 GitHub Copilot 迭代。2026 年 GitHub 公开贡献达 25 亿次，超过去年 11.2 亿次的两倍。该无障碍框架含 ACCESSIBILITY.md 文件，已显示在仓库概览页。  
   GitHub Blog · 2026-11-20 00:00
@@ -22,9 +70,6 @@
   阿里巴巴 CEO 吴泳铭在 2027 财年第二季度业绩电话会上表示，全球各区域算力政策变化将影响阿里云数据中心建设，此前制定的到 2032 年全球数据中心规模超 20GW 的目标有可能下调，资本开支可能降低。  
   IT之家·人工智能 · 2026-11-19 23:03
 
-- [Will Anthropic’s IPO Lead To An Exodus of Anthropic Employees?](<https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees>)  
-  The Information · 2026-11-19 23:01
-
 - [Sakana AI 成立 Security Research Group 研究AI驱动的集体网络防御](<https://sakana.ai/security-research-group/>)  
   Sakana AI 宣布成立独立研发团队 Security Research Group，由梅谷晃宏和 David Ha 领导，研究 AI 驱动的集体网络防御以及 AI 系统自身的安全与保障，成果将公开分享。  
   Sakana AI：Blog（网页） · 2026-11-19 23:00
@@ -44,9 +89,6 @@
 - [微软 PyPI 包 Agent Framework 遭劫持，恶意版本最快 31 分钟即被清除](<https://www.ithome.com/1/029/700.htm>)  
   微软官方在 PyPI 发布的 Agent Framework 软件包遭黑客劫持，11 月 17 日发布的 1.26.1 版本被植入窃取 Azure、AWS、GitHub、Docker、Hugging Face、OpenAI 等服务登录凭据的恶意软件，且在 Python 启动时自动执行。  
   IT之家·人工智能 · 2026-11-19 22:47
-
-- [Anthropic Pushes the Reset Button for AI](<https://www.wsj.com/cio-journal/anthropic-pushes-the-reset-button-for-ai-2c3c9d96?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-19 22:31
 
 - [谷歌与蓝色起源合作，计划 2029 年一季度发射搭载 TPU 的 AI 服务器卫星](<https://www.ithome.com/1/029/695.htm>)  
   谷歌与蓝色起源（Blue Origin）达成合作，其新格伦火箭将于 2029 年第一季度发射搭载谷歌 TPU 的卫星，算力大致相当于一个数据中心机架。该合作属于谷歌“太阳捕手计划”，旨在探索太空 AI 数据中心的可能性。今年 10 月谷歌已部署首颗 AI 服务器卫星并成功启动 TPU，卫星上运行的 Gemma 4 模型生成了一段俳句并传回地球。  
@@ -139,45 +181,5 @@
 - [Google DeepMind 发布 Gemini 4 Neon，速度更快价格更低并超越 Carbon](<https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/>)  
   Google DeepMind 发布 Gemini 4 Neon，这是其七周内的第四款模型，定位介于 Carbon 和 Hydrogen 之间，在 Artificial Analysis Intelligence Index 以 61 分位列第三，仅次于 GPT-6.2 Astra 和 Claude Fable 5.2。  
   The Decoder：AI News（RSS） · 2026-11-19 19:18
-
-- [马斯克：SpaceX 目前每月新增约 0.5GW AI 算力，明年底提速至每月 1GW](<https://www.ithome.com/1/029/649.htm>)  
-  马斯克称 SpaceX 目前每月约新增 0.5GW AI 算力，大致相当于部署 22 万颗 GB300 芯片及配套 CPU、网络设备、冷却系统等基础设施。他认为真正的扩张瓶颈在发电端，明年将进一步提速，到明年底每月新增 AI 算力超 1GW。  
-  IT之家·人工智能 · 2026-11-19 19:17
-
-- [IMF 总裁警告 AI 投资热情过高，金融市场或进一步调整](<https://www.ithome.com/1/029/648.htm>)  
-  IMF 总裁格奥尔基耶娃在深圳接受彭博电视台采访时表示，投资者对 AI 的热情过高，金融市场可能还会出现进一步调整，有助于回到更可持续的状态。她透露 AI 产业循环融资规模约 1 万亿美元，约三分之二来自债务融资，增长速度和融资结构从股权转向债务的趋势可能带来金融稳定风险。  
-  IT之家·人工智能 · 2026-11-19 19:17
-
-- [蚂蚁 inclusionAI 发布 Ling-3.1-flash-1019-singprobe 流式安全探针](<https://huggingface.co/inclusionAI/Ling-3.1-flash-1019-singprobe>)  
-  蚂蚁 inclusionAI 在 HuggingFace 发布 Ling-3.1-flash-1019-singprobe，这是为 Ling-3.1-flash-1019 打造的流式安全护栏，仅 8.13M 参数，通过读取基座模型第 23、47、71 层隐状态，逐 token 打分查询意图、回复不安全和幻觉风险。  
-  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-19 19:02
-
-- [蚂蚁 inclusionAI 发布 DeepSeek-V4.1-Flash-1017-singprobe 流式安全探针](<https://huggingface.co/inclusionAI/DeepSeek-V4.1-Flash-1017-singprobe>)  
-  蚂蚁 inclusionAI 在 HuggingFace 发布 SingProbe 流式护栏 DeepSeek-V4.1-Flash-1017-singprobe，探针仅 10.10M 参数，读取基座模型第 12、25、39 层隐藏状态，逐 token 输出 8 类查询意图、响应不安全和幻觉风险评分。  
-  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-19 19:02
-
-- [多家银行警告 AI 智能体操作损失可能由用户自己承担](<https://www.ithome.com/1/029/646.htm>)  
-  多家大型银行近期向客户警告，AI 智能体获授权访问金融账户后执行的操作可能被视为用户本人行为，损失需用户自担。Ally Bank、摩根大通、花旗分别通过邮件和应用提示说明 AI 可能犯错或产生幻觉，已授权交易或无法撤销；银行还提醒用户不要交出登录凭据。  
-  IT之家·人工智能 · 2026-11-19 18:59
-
-- [AI 攻击时代的四支柱安全事件响应指南：从 Fireworks AI 到 Klue 的实践复盘](<https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/>)  
-  文章指出 AI 驱动的攻击正以机器速度、全球规模加速，并梳理 2026 年 5 月至 11 月多起 AI 平台披露的安全事件，受影响对象包括 npm/PyPI 上的 Mistral AI 等 SDK、Klue、Fireworks AI、Cursor、Railway 和 Warp 等平台，共同焦点是被存储的环境变量与 API 密钥。  
-  MarkTechPost（RSS） · 2026-11-19 18:45
-
-- [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
-  Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
-  IT桔子 · 2026-11-19 18:17
-
-- [德国 BSI 将网络威胁评估上调为严峻至危急，指出 AI 智能体降低攻击门槛](<https://www.ithome.com/1/029/609.htm>)  
-  德国联邦信息安全局（BSI）11 月 19 日发布年度报告，将信息技术系统威胁评估从去年的严峻上调为严峻至危急，理由是智能体 AI 系统让攻击者更容易发现和利用漏洞。其网络安全指数从 2025 年年中的 124 点升至今年年中的 238 点；报告称攻击越来越快、便宜且有针对性，攻击者开始借助 AI 模型直接攻击系统，并警告许多企业尤其是中小企业防御动作太慢，未在受攻击前用 AI 排查漏洞。  
-  IT之家·人工智能 · 2026-11-19 18:00
-
-- [AI's great divergence: Machines accelerate as makers unravel](<https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast>)  
-  Anthropic will make its Wall Street debut Thursday at a moment of profound contradiction in the history of AI: The hu…  
-  Axios · 2026-11-19 18:00
-
-- [Sensei Labs获得B轮融资](<https://www.itjuzi.com/investevent/14708306>)  
-  Sensei Labs是一家AI原生战略执行平台提供商，核心产品 Conductor。平台面向私募股权机构、大型企业转型与并购整合团队，将顶层战略目标与项目、依赖关系、KPI、收益追踪打通，用于管理数字化转型、并购整合、投后价值创造等…  
-  IT桔子 · 2026-11-19 17:58
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 24 页

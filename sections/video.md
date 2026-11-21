@@ -10,7 +10,7 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 22 条
+## 相关资讯 · 21 条
 
 - [5大场景实测 Kling Image 4.0：一句话直出电商长图与原生8K](<https://mp.weixin.qq.com/s/4czsAxbdPzusj4rPrtWuMw>)  
   作者以二十多组真实案例实测可灵AI新上线的 Kling Image 4.0，重点验证电商详情页长图、连续组图、高密度中文信息图和真人模特商拍等能力，称一句话即可直出从头图到规格表的整页详情页。文章还介绍了首次支持的原生8K画质、内置70多款预置字体、110多种电影影调库、局部智能改字和草图转分镜等用法，并附完整提示语供参考。  
@@ -27,10 +27,6 @@
 - [AI这一年，倒下的APP们](<https://36kr.com/p/4077860656354953?f=rss>)  
   2025年9月，Sora冲上美国AppStore榜首那天，OpenAI的工程师们在社交平台上转发着截图，仿佛AI视频时代真的来了。七个月后，这款产品从用户的手机里消失了，App黑屏，网页报错，API接到了终止通知。 这不是个例。冒泡鸭全平台  
   36氪 · 2026-11-20 18:35
-
-- [Falling Prices Push AI Video Toward Platform Economics](<https://www.tmtpost.com/8212911.html>)  
-  Video-model quality is converging as per-second API prices decline. OpenAI discontinued Sora after sustained losses.…  
-  钛媒体 · 2026-11-20 17:54
 
 - [TRACER：AI 视频系统 24 小时监测 ICU 患者谵妄早期迹象](<https://hai.stanford.edu/news/ai-enabled-video-system-monitors-icu-patients-for-early-signs-of-delirium>)  
   计算机视觉专家与医生联合开发了 TRACER 系统，通过 ICU 床旁双摄像头 24 小时视频分析，结合电子健康记录追踪患者活动变化，识别谵妄早期迹象。系统以每分钟采样 15 种"原子动作"、压缩为每小时报告的方式降低数据量，医生可通过多模态界面查询患者数日行为变化。该研究部分由 Stanford HAI 资助。  

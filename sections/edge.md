@@ -22,6 +22,10 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 ## 相关资讯 · 13 条
 
+- [Edge AI Daily 早报（11月21日）](<https://www.tmtpost.com/8213305.html>)  
+  苹果以Siri争夺系统级代理入口，OpenAI将ChatGPT改为多模块工作台，微软用USB4 RDMA聚合多机算力，谷歌直采HBM重构TPU供应链。亚洲股市创2020年3月以来最大单周跌幅，AI支出进入回报审计。  
+  钛媒体 · 2026-11-21 09:19
+
 - [全球Meta一家独大，中国AI眼镜为何还在混战？](<https://36kr.com/p/4077938009412480?f=rss>)  
   ｜GUIDE｜ ■中国为什么跑不出第二个Meta？ ■AI眼镜为什么还难赚钱？ ■谁能成为中国AI眼镜的赢家？ 今年双11，雷鸟、夸克等都拿到了AI眼镜的第一名。 雷鸟创新宣布登顶京东智能眼镜与 XR 设备两大品牌榜榜首，阿里夸克称夸克AI  
   36氪 · 2026-11-20 21:22
@@ -68,9 +72,5 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59
-
-- [A Brain Too Big to Carry — On-Device vs Datacenter Inference](<https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device>)  
-  So far, AI has mostly lived behind a screen.  
-  SemiAnalysis · 2026-09-15 00:37
 
 [返回面板](../README.md) · 第 1 / 1 页

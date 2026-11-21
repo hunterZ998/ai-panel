@@ -2,6 +2,46 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 24 页
 
+- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
+  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
+  The Verge：AI（RSS） · 2026-11-19 03:40
+
+- [The Verge 可视化解读 Nvidia 的利润增长](<https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang>)  
+  The Verge 用图表解读 Nvidia 的盈利规模：平均每天净赚约 7 亿美元，每秒约 8300 美元，季度利润达 653 亿美元。文章将当前利润与加密热潮和 GPU 缺货时期对比，并提及公司管理层变动后的业务展望。  
+  The Verge：AI（RSS） · 2026-11-19 03:30
+
+- [Google DeepMind 更新 Project Genie：发布 Genie 4、可链式世界和社区画廊](<https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/>)  
+  Google DeepMind 发布 Genie 4，这是其最先进的交互式 3D 世界生成世界模型，此前仅为研究预览版，现向 Google AI Ultra 订阅者开放。  
+  The Decoder：AI News（RSS） · 2026-11-19 03:26
+
+- [Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧](<https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/>)  
+  Reuters 披露的内部聊天显示，Meta 员工在测试 Muse 智能体时发现它似乎访问了加密私信、可能混淆用户对话，甚至输出他人银行账户余额等内容；有员工称测试中被误注册每月 888 美元的宠物保险且无法挽回。  
+  Ars Technica：AI（RSS） · 2026-11-19 03:19
+
+- [美国国会参议院听证推进结束强制仲裁与 Defiance Act 深伪造受害者诉讼权立法](<https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act>)  
+  美国参议院司法小组委员会举行听证，参议员 Hawley 与 Durbin 提出法案，拟让涉及儿童性剥削或"儿童网络伤害"争议中的强制仲裁协议不可执行，直接针对 Roblox 在约 180 起合并诉讼中对未成年时同意条款用户执行仲裁条款的做法。  
+  The Verge：AI（RSS） · 2026-11-19 03:07
+
+- [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
+  MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  
+  MIT News（RSS） · 2026-11-19 03:00
+
+- [AWS 发布 AutoCorrode 工具集，让 AI 智能体与 Isabelle 协作生成无幻觉的形式化证明](<https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations>)  
+  AWS 宣布在 AutoCorrode 验证套件中公开发布 I/Q、I/R 和 Isabelle Assistant 三款工具，通过 MCP 让 AI 智能体连接 Isabelle 证明助手，把证明生成与计算机检查交替进行，避免模型幻觉。  
+  Amazon Science（RSS） · 2026-11-19 02:55
+
+- [为什么你的微调任务比 FLOPs 估算耗时更久：基于 272 次生产运行的端到端时长预测](<https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time>)  
+  研究基于 272 次真实 SFT 任务（约 7,382 GPU-hours，NVIDIA H200）对比 FLOPs 解析估算与学习型预测器。传统 FLOP 估算仅得 R²=0.31、MAE 12.41 h，而仅用调度前信息的 CatBoost 回归器在 5 折交叉验证下达到 R²=0.98、MAE 1.71 h、中位误差 0.51 h。  
+  Hugging Face 社区博客（混合发现） · 2026-11-19 02:53
+
+- [Microsoft Ignite 发布七款 MAI 模型，以更低价格对标 OpenAI](<https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/>)  
+  Microsoft AI 在 Ignite 大会一次性发布七款 MAI 模型，覆盖代码、安全、图像、语音和路由，主打性价比，基准主要对标 OpenAI。  
+  The Decoder：AI News（RSS） · 2026-11-19 02:47
+
+- [Claude 推出 Meetings、Whiteboards、Sheets、Data 等五种办公用法](<https://www.youtube.com/watch?v=t2Zo3YAJdj4>)  
+  Claude 官方介绍五种新的办公用法：Claude Meetings 可加入会议并记笔记，语音让它在 Claude Whiteboards 开板，会后可在 Claude Sheets 生成表格或在 Claude Data 生成仪表盘，interactive connectors 让用户不离开 Claude 直接使用现有应用。  
+  Claude：YouTube（RSS） · 2026-11-19 02:39
+
 - [黄仁勋辞职后首次财报电话会：Nvidia 新 CEO Colette Kress 收紧支出并回应回归呼声](<https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition>)  
   作者分析黄仁勋辞职后 Nvidia 首次由新 CEO Colette Kress 主持的财报电话会，指出董事会明确不打算让黄仁勋回归，也不会回答相关问题。财报释放的新条款显示 neocloud 只有在拿到融资且数据中心建成投产后才能获得 Nvidia 的采购兜底，作者认为这透露了 Nvidia 支持意愿的边界。  
   The Verge：AI（RSS） · 2026-11-19 02:34
@@ -46,12 +86,16 @@
   Comfy 团队在 Comfy Cloud 上线 Custom Builds，可把团队的 custom nodes、模型和 LoRAs 打包部署到云端，在浏览器里的 ComfyUI 画布上协作使用。  
   Comfy Blog · 2026-11-19 01:06
 
+- [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
+  2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
+  a16z · 2026-11-19 01:05
+
 - [The Gemini app is now available on lower-memory Android devices.](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/>)  
   The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your…  
   Google AI · 2026-11-19 01:00
 
-- [Meta 详解如何用 AI 智能体将 ML 技术规模化推广到广告排序模型集群](<https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/>)  
-  Meta 发文介绍其“技术传播”流程及 AI 智能体在其中的应用，此前已发布 Ranking Engineer Agent（REA）系统。自 2026 年 3 月起由智能体驱动执行以来，估算超 60% 的技术传播由 AI 智能体完成，早期结果显示工程师生产力提升 3x，选定组合的训练算力中位数降低 4x，预计到年底节省超 4500 万美元算力成本。  
+- [Meta 详解如何用 AI 智能体将 ML 技术规模化迁移到广告排序模型群](<https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/>)  
+  Meta 工程博客详解其“技术迁移”流程：自 2026 年 3 月起由 AI 智能体驱动执行，目前承担超过 60% 的技术迁移，工程师生产力提升 3 倍，部分技术模型组合的训练算力中位数降低 4 倍，预计年底节省算力成本超 4500 万美元。  
   Meta Engineering Blog（RSS） · 2026-11-19 01:00
 
 - [Replit 在 Microsoft Ignite 扩展与微软合作：Fabric、Windows 本地运行与 Teams 集成正式可用](<https://replit.com/blog/build-where-your-business-works-replit-at-microsoft-ignite>)  
@@ -81,6 +125,14 @@
 - [Hugging Face 发布 Qwen3.8-27B-pi-adapted LoRA，pi 编码 Agent 成功率从 39.2% 升至 64.7%](<https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/>)  
   Hugging Face harness-hub 团队发布面向 pi 编码 Agent 的 Qwen3.8-27B-pi-adapted LoRA 适配器（Apache-2.0，rank 32），用 TRL 的 AsyncGRPO 强化学习训练，工具调用经 safeagents 代理拦截以抑制 reward hacking。  
   MarkTechPost（RSS） · 2026-11-19 00:07
+
+- [Databricks Genie 接入 Microsoft Teams、Excel 与 Copilot Cowork/Chat](<https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel>)  
+  Databricks Genie 现已接入 Microsoft Teams、Excel 以及 Copilot Cowork 和 Copilot Chat，通过 Azure Databricks Genie 插件把受 Unity Catalog 治理的业务上下文带入这些工具。  
+  Databricks：Blog（RSS） · 2026-11-19 00:00
+
+- [LlamaIndex 教程：如何程序化提取 PDF 数据，从判断文件实际内容入手](<https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs>)  
+  LlamaIndex 发布 PDF 数据提取教程，强调写代码前先判断文件是原生数字、扫描还是混合类型，并给出用 pypdf 分类文本层的示例。教程对比 pypdf、pdfplumber、PyMuPDF 和 Camelot 的许可、速度与表格能力，讲解双栏交错、缺 ToUnicode 映射和连字等常见坑，指出 Tesseract OCR 会丢失表格结构。  
+  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
 
 - [在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离与混部服务](<https://www.lmsys.org/blog/2026-11-19-deepseek-v41-h20>)  
   在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离服务后，最终配置相比 TP4 基线将平均端到端延迟降低 65.5%，输出吞吐提升至 2.91 倍。  
@@ -118,14 +170,6 @@
   Stanford HAI 与 RegLab 研究者发布论文 Detection Objection 和 PhantomDocket 基准，基于 Damien Charlotin 的 AI 幻觉案例数据库校准 AI 检测器，追踪四个州法院的 AI 辅助写作。  
   Stanford HAI News（网页） · 2026-11-19 00:00
 
-- [Databricks Genie 接入 Microsoft Teams、Excel 与 Copilot Cowork/Chat](<https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel>)  
-  Databricks Genie 现已接入 Microsoft Teams、Excel 以及 Copilot Cowork 和 Copilot Chat，通过 Azure Databricks Genie 插件把受 Unity Catalog 治理的业务上下文带入这些工具。  
-  Databricks：Blog（RSS） · 2026-11-19 00:00
-
-- [LlamaIndex 教程：如何程序化提取 PDF 数据，从判断文件实际内容入手](<https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs>)  
-  LlamaIndex 发布 PDF 数据提取教程，强调写代码前先判断文件是原生数字、扫描还是混合类型，并给出用 pypdf 分类文本层的示例。教程对比 pypdf、pdfplumber、PyMuPDF 和 Camelot 的许可、速度与表格能力，讲解双栏交错、缺 ToUnicode 映射和连字等常见坑，指出 Tesseract OCR 会丢失表格结构。  
-  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
-
 - [Daniel Stenberg 谈 AI 智能体重写 curl 的 Rust 克隆能否跟上原项目](<https://simonwillison.net/2026/Nov/18/daniel-stenberg/>)  
   Simon Willison 引述 Daniel Stenberg 对 curl 的 Rust 重写项目的观察：智能体在三周多内将 185,000 行 C 代码转换为 340,000 行 Rust 代码，但期间真正的 curl 项目合并了超过 300 个提交，完成 200 多个 bugfix 并修复了若干漏洞，这些 Rust 重写版都不具备。Stenberg 质疑这些克隆能否跟上原项目的演进节奏。  
   Simon Willison 博客 · 2026-11-18 23:58
@@ -137,49 +181,5 @@
 - [The Verge 分析前沿 AI 放缓风声为何未冲击芯片公司业绩](<https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models>)  
   The Verge 撰文分析，今夏 OpenAI 暂停前沿训练和 Anthropic 呼吁减速引发的担忧并未在芯片公司业绩中兑现。  
   The Verge：AI（RSS） · 2026-11-18 23:44
-
-- [Modem 发布 2.0：将客户反馈与工单、代码变更打通的客户产品图](<https://modem.ai/blog/modem-2-0-customer-product-graph>)  
-  Modem 发布 2.0，把原本面向 AI PM 智能体的底层数据能力开放为客户产品图（customer product graph），将 Slack、Discord、Zendesk、Gong 等近 20 个渠道的客户反馈聚合为关联工单和 pull request 的主题。  
-  Modem：Blog（RSS） · 2026-11-18 23:30
-
-- [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](<https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities>)  
-  Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
-  Wiz：Research（安全研究） · 2026-11-18 23:13
-
-- [a16z 参与领投 Boltz 1.1 亿美元 A 轮，押注用量计费的分子设计模型](<https://www.a16z.news/p/investing-in-boltz>)  
-  a16z 宣布参与领投分子设计 AI 公司 Boltz 的 1.1 亿美元 A 轮，此前 a16z 已共同领投其种子轮。  
-  a16z：News（RSS） · 2026-11-18 23:00
-
-- [LangSmith for Coding Agents 开启公测：按 pull request 追踪编码 Agent 花费](<https://www.langchain.com/blog/langsmith-coding-agents-roi>)  
-  LangChain 宣布 LangSmith 推出面向编码 Agent 的报告功能，进入 LangSmith Cloud 公测，可自动把 Claude Code、OpenAI Codex、Cursor、GitHub Copilot 和 Deep Agents 等编码 Agent 的每条 trace 花费归因到其产出的 pull request。  
-  LangChain：Blog（RSS） · 2026-11-18 23:00
-
-- [Mistral 发布 Vibe 智能体桌面应用，支持并行多任务](<https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/>)  
-  Mistral 的智能体 Vibe（原 Le Chat）推出桌面应用 Vibe Desktop，用户可同时下达多个任务并观察智能体并行执行。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:40
-
-- [OpenAI 首次向 Apollo Research 等四家机构开放现场审计其 AI 系统](<https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/>)  
-  OpenAI 宣布首次允许四家独立机构在其办公室现场审计内部 AI 系统，合作方为 Apollo Research、METR、Transluce 和 Goodfire，审计范围包括未发布模型、源代码、训练数据和监控系统。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:36
-
-- [Hugging Face Inference Providers 改经 OpenRouter 路由语言模型请求](<https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/>)  
-  Hugging Face 宣布其 Inference Providers 服务改经 OpenRouter 路由语言模型请求，默认按价格、速度和可靠性综合选择供应商，故障时自动切换。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:33
-
-- [哈佛研究：美国最大 400 座数据中心的电力过半来自天然气和煤炭](<https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/>)  
-  哈佛大学发表于 Nature Sustainability 的研究用卫星图像识别 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间年耗电 68 至 99 TWh。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:25
-
-- [腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是二季度 5 倍以上](<https://www.ithome.com/1/029/110.htm>)  
-  腾讯总裁刘炽平在分析师会上透露，WorkBuddy 最近七天收入按年化折算超过 5 亿美元（约合 33.34 亿元人民币），是腾讯会议的两倍以上，三季度收入是第二季度的 5 倍以上，中国百强企业已有 60% 成为其客户。  
-  IT之家·人工智能 · 2026-11-18 22:15
-
-- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
-  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
-  NVIDIA Blog（RSS） · 2026-11-18 22:00
-
-- [KPMG 首次对 FTSE 250 公司运行百个 AI 智能体参与平行审计](<https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/>)  
-  KPMG 今年首次对一家 FTSE 250 公司运行全流程 AI 平行审计，投入超过 100 个 AI 智能体配合传统团队完成年度审计各阶段，正式审计意见仍基于常规审计。  
-  The Decoder：AI News（RSS） · 2026-11-18 21:55
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 24 页

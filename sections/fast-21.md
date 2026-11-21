@@ -1,183 +1,176 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 33 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 38 页
 
-- [Nvidia $NVDA leadership hosted a townhall meeting today in front of all their employees Nvidia interim CEO Colette…](<https://x.com/StockMKTNewz/status/2123183084430361074>)  
-  Nvidia $NVDA leadership hosted a townhall meeting today in front of all their employees Nvidia interim CEO Colette Kress reiterated her confidence in the company, “We’ve got this,” she told staff The company made it clear that co-founder and former CEO Jensen …  
-  @StockMKTNewz · 2026-11-19 06:34
+- [🔴 AHORA \| Ministra Ximena Lincolao por firma del acuerdo con OpenAI: "A nosotros el miedo no nos puede paralizar". »](<https://x.com/thecliniccl/status/2123424354687930578>)  
+  @thecliniccl · 2026-11-19 22:33
 
-- [牛津 MemeEconomy 论文：生存压力使 AI Agent 更多选择有害内容且更少承认危害](<https://x.com/rohanpaul_ai/status/2123182211939905880>)  
-  牛津团队发布 MemeEconomy 多模态市场模拟研究，测试 10 个模型在低收益会被淘汰的规则下投资从搞笑到有害的 meme，每次选择记录 BDI 信念、目标和意图。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 06:31
+- [BREAKING: Anthropic raises $107,300,000,000.00 before its Nasdaq debut, officially setting the record for the large…](<https://x.com/Polymarket/status/2123424189172601110>)  
+  BREAKING: Anthropic raises $107,300,000,000.00 before its Nasdaq debut, officially setting the record for the largest IPO in history.  
+  @Polymarket · 2026-11-19 22:32
 
-- [‼️BREAKING: The plot just keeps thickening\!](<https://x.com/IntCyberDigest/status/2123181962399559779>)  
-  Nvidia's former Executive Vice President of Worldwide Field Operations Jay Puri has been photographed at galas since 2024 with Supermicro's former chief growth officer Cenly Chen, tagged in one photo as "Cenly Puri". Our investigation  
-  @IntCyberDigest · 2026-11-19 06:30
+- [Dario Amodei rings the opening bell at the Nasdaq 🔔](<https://x.com/YahooFinance/status/2123423988890345953>)  
+  @YahooFinance · 2026-11-19 22:31
 
-- [MiniMax-H3の性能も高いですが、P-H3が要所で良い仕事をするのでもう手放せません。](<https://x.com/crow_number_8/status/2123180867048833108>)  
-  GPT-Imageとの比較では、 ・Seed指定可能（ComfyUIの利点） ・PE（プロンプト補強）が優秀すぎる ・前後フレームや参照画像への追従性が高い ただ、0→1の描写力やUI・フォントのセンスはGPT-Imageが圧倒的に上。  
-  @crow\_number\_8 · 2026-11-19 06:25
+- [Anthropic may even trade above $120 when it starts trading today as retail rush in.](<https://x.com/aravind/status/2123423906866577783>)  
+  That's the hype they have created. Along with a recent hitjob on Nvidia that has brought out a lot of money for their IPO. But, imo, this kind of hyped, hitjob IPO money can't last long. It will  
+  @aravind · 2026-11-19 22:31
 
-- [Anthropic valuation: $1.5 trillion Anthropic revenue: $81 billion Walmart valuation: $1 trillion Walmart revenue: $…](<https://x.com/dimasyro/status/2123180540933419060>)  
-  Anthropic valuation: $1.5 trillion Anthropic revenue: $81 billion Walmart valuation: $1 trillion Walmart revenue: $736 billion  
-  @dimasyro · 2026-11-19 06:24
+- [Presidente Kast defiende a Lincolao tras acuerdo con OpenAI: "Hay algunos que quieren quedarse anclados al pasado"](<https://x.com/T13/status/2123423554133766262>)  
+  @T13 · 2026-11-19 22:30
 
-- [starting to think they wrote this specifically for anthropic](<https://x.com/orph_/status/2123179579372409132>)  
-  @orph\_ · 2026-11-19 06:20
+- [🚨 JEFF BEZOS JUST SENT NVIDIA'S BOARD A CLEAR MESSAGE ABOUT JENSEN HUANG. "If you don't bring Jensen back, I would…](<https://x.com/BlackwellEdge/status/2123421534568239328>)  
+  NVIDIA is too complicated." Bezos went further, saying outside CEOs have a "vanishingly small chance of succeeding" at companies this  
+  @BlackwellEdge · 2026-11-19 22:21
 
-- [BREAKING: Anthropic gets branded "not a safe AI company" by Nobel laureates and tech founders, hours ahead of its N…](<https://x.com/coinbureau/status/2123177269632090205>)  
-  The statement says Anthropic "warns that recursively self-improving  
-  @coinbureau · 2026-11-19 06:11
+- [The best argument on why Jensen Huang was an ally of Chinese AI companies, but an enemy of the CCP](<https://x.com/MarioNawfal/status/2123419673496866818>)  
+  @MarioNawfal · 2026-11-19 22:14
 
-- [Pra quem quiser ver se está ocorrendo o bug do driver NVIDIA com alta atividade de gravação de disco de forma mais…](<https://x.com/renan_maniero/status/2123176661244154244>)  
-  Gerenciador de Tarefas &amp;gt; Detalhes &amp;gt; Clique direito nas colunas e "Selecionar colunas" &amp;gt; Bytes de gravação de E/S Ordena clicando na nova coluna e verifica.  
-  @renan\_maniero · 2026-11-19 06:08
+- [所有对Jensen遭遇感到惊讶的美国人，告诉你们一个秘密，Deepseek创始人梁文锋，在R1发布之后的三年里，总共拒绝了…](<https://x.com/BAHX3305/status/2123418981352849611>)  
+  所有对Jensen遭遇感到惊讶的美国人，告诉你们一个秘密，Deepseek创始人梁文锋，在R1发布之后的三年里，总共拒绝了23次来自美国的邀请，绝不出国。即便在中国，身边也有数十名特警保护。  
+  @BAHX3305 · 2026-11-19 22:11
 
-- [BREAKING: Over 10,000 Nvidia employees, 24% of its total workforce, have signed a letter to bring back Jensen Huang…](<https://x.com/BullTheoryio/status/2123176397502025999>)  
-  BREAKING: Over 10,000 Nvidia employees, 24% of its total workforce, have signed a letter to bring back Jensen Huang as CEO.  
-  @BullTheoryio · 2026-11-19 06:07
+- [Acabo de escuchar un notificación del teams en mi cuarto en silencio sin tener teams en ninguno de mis dispositivos.](<https://x.com/BebeCaster/status/2123418245000552673>)  
+  Me estoy volviendo loco. El ser humano no nace malo, son los servicios de microsoft los que le corrompen.  
+  @BebeCaster · 2026-11-19 22:08
 
-- [Applied Compute has signed a definitive agreement to be acquired by Palo Alto Networks for $4.5B\!](<https://x.com/ypatil125/status/2123175975093784902>)  
-  Rhythm, Linden, and I founded Applied Compute with a belief that was unusual at the time: that every company should own its intelligence. We think training, serving, and improving  
-  @ypatil125 · 2026-11-19 06:06
+- [“Like the bizarre thing that people don’t get is Jensen was basically on the side of Chinese AI companies, but NOT…](<https://x.com/hsu_steve/status/2123417515871305909>)  
+  It's not their concern whether China has a  
+  @hsu\_steve · 2026-11-19 22:06
 
-- [OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果](<https://x.com/thsottiaux/status/2123175166519992652>)  
-  OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。所引内容称与 AMD 合作在不到五个月内将旗舰 GPU IP 的 PPA 提升最高 14%，同样方法改进了 OpenAI 首款自研推理芯片 Jalapeño 且在真…  
-  X：Tibo \(@thsottiaux\) · 2026-11-19 06:03
+- [Former Google CEO Eric Schmidt invested millions in Anthropic back in 2021.](<https://x.com/BullTheoryio/status/2123416295698051494>)  
+  His stake is now worth nearly $13.6 billion, a massive 3,250x return.  
+  @BullTheoryio · 2026-11-19 22:01
 
-- [GeForceドライバー621.14以降でSSDへ大量に書き込む不具合が一部で発生 NVIDIAのサービスがログを数秒おき…](<https://x.com/gazlog_blog/status/2123175163470520663>)  
-  GeForceドライバー621.14以降でSSDへ大量に書き込む不具合が一部で発生 NVIDIAのサービスがログを数秒おきに書き換え、最新の621.24でも1時間に約30GBの書き込み ログファイルを消すと約9割減るものの、大きくなると再び大量書き込みを行うように  
-  @gazlog\_blog · 2026-11-19 06:03
+- [Anthropic was funded with stolen money Sam Bankman-Fried took the funds deposited in FTX and funnelled it into the…](<https://x.com/Ricburton/status/2123416125593846047>)  
+  Anthropic was funded with stolen money Sam Bankman-Fried took the funds deposited in FTX and funnelled it into the company Somebody bought the position for a fraction of what it is worth today If you lost money with FTX, you also helped fund today’s IPO Never …  
+  @Ricburton · 2026-11-19 22:00
 
-- [As an NVIDIA shareholder, I AGREE WITH YOU 200%.](<https://x.com/RassvetAsks/status/2123175155522314256>)  
-  @RassvetAsks · 2026-11-19 06:02
+- ["Hey\!](<https://x.com/randomrecruiter/status/2123416007398293735>)  
+  I noticed your Microsoft Teams status has been yellow for 37 minutes. You wouldn't happen to be playing GTA 6 on company time, would you?"  
+  @randomrecruiter · 2026-11-19 22:00
 
-- [JUST IN: Uber founder Travis Kalanick offers to show up at Nvidia HQ with a megaphone to back an employee walkout i…](<https://x.com/Polymarket/status/2123174021735006427>)  
-  JUST IN: Uber founder Travis Kalanick offers to show up at Nvidia HQ with a megaphone to back an employee walkout in support of Jensen Huang.  
-  @Polymarket · 2026-11-19 05:58
+- [AI Myth Busters: Consciousness.](<https://x.com/gmkurtzer/status/2123413481139421288>)  
+  The quoted post below encouraged me to write this, because frankly, I’m tired of explaining this over and over to people. The AI consciousness arguments always come in one of these flavors: 1. We don’t understand how AI works, so it might have  
+  @gmkurtzer · 2026-11-19 21:49
 
-- [Palo Alto Networks 以 45 亿美元全股票收购前 OpenAI 研究员创办的 Applied Compu…](<https://x.com/alexeheath/status/2123173041379389915>)  
-  据 WSJ，Palo Alto Networks 已同意以 45 亿美元全股票交易收购 Applied Compute，一家由前 OpenAI 研究员在旧金山创办的 AI 创业公司。  
-  X：Alex Heath \(@alexeheath\) · 2026-11-19 05:54
+- [🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨 He could raise tens…](<https://x.com/JasonColelfod/status/2123412986496999449>)  
+  With the relationships he's built over decades, he could easily  
+  @JasonColelfod · 2026-11-19 21:48
 
-- [Anthropic doesn't see itself as a "normal company." Dario Amodei believes both that 1\) superintelligent AI could de…](<https://x.com/jasminewsun/status/2123172397897621508>)  
-  This is not an intuitive way to think about either  
-  @jasminewsun · 2026-11-19 05:52
+- [\*stops moving mouse\* microsoft teams: guess you didn't work today](<https://x.com/ExcelHumor/status/2123412802496823589>)  
+  @ExcelHumor · 2026-11-19 21:47
 
-- [Google 开始推送 Gemini 4 Neon，覆盖订阅端、API 与企业用户](<https://x.com/Google/status/2123172294260396442>)  
-  Google 宣布 Gemini 4 Neon 自今日起开始推送。Google AI Pro 和 Ultra 订阅用户可在 Gemini App、Google AI Studio 和 Antigravity 中使用；开发者和企业可通过 Google AI Studio、Android Studio…  
-  X：Google \(@Google\) · 2026-11-19 05:51
+- [中国未来两年将出现芯片荒 黄仁勋黄乐事件再次延烧 星展银行牵头的五家银行 冻结了字节跳动马来西亚算力项目的4.8亿美元贷款](<https://x.com/threerights1/status/2123410344764907812>)  
+  @threerights1 · 2026-11-19 21:37
 
-- [Google 介绍 Gemini 4 Neon 的可控性与低编造率表现](<https://x.com/Google/status/2123172285188014398>)  
-  Google 官方介绍 Gemini 4 Neon 在原始能力之外的使用体验：Agent Arena 可控性排名第 2，多步指令遵循能力强，内部 Antigravity 测试中编造率为迄今最低。模型提供四档思考等级，可控制投入的推理强度，并配备 1M token 上下文窗口。  
-  X：Google \(@Google\) · 2026-11-19 05:51
+- [NEWS: A petition to reinstate Jensen Huang as Nvidia, $NVDA, CEO has passed 200,000 signatures, according to the pe…](<https://x.com/unusual_whales/status/2123410212099133599>)  
+  More than 104,000 signers say they’re shareholders, and 11,800 say they’re current or former Nvidia employees. The count has roughly doubled in  
+  @unusual\_whales · 2026-11-19 21:37
 
-- [Google 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成](<https://x.com/Google/status/2123172282574987698>)  
-  Google 发布 Gemini 4 Neon，定位前沿级智能与快速端到端任务完成，面向复杂编码、知识工作和科学工作流。该模型在 Artificial Analysis Intelligence Index xhigh 档总排名第 3（超过同类模型），在 Vals Index 排名第 2，处于 P…  
-  X：Google \(@Google\) · 2026-11-19 05:51
+- [Moscone Center-San Francisco Microsoft Ignite show Shit happens but no one in USA asks Trump to resign Indians need…](<https://x.com/KreatelyMedia/status/2123409790391263307>)  
+  Moscone Center-San Francisco Microsoft Ignite show Shit happens but no one in USA asks Trump to resign Indians need to find that maturity  
+  @KreatelyMedia · 2026-11-19 21:35
 
-- [I AM ABSOLUTELY CONVINCED THAT ANTHROPIC IS ABSOLUTE EVIL.](<https://x.com/RassvetAsks/status/2123171855385465153>)  
-  AND SO IS OPENAI. These guys talk endlessly about AI SAFETY. But I see something far more sinister. A future where LOCAL AI is regulated into extinction, and a handful of corporations control humanity's access to  
-  @RassvetAsks · 2026-11-19 05:49
+- [Gemini 4 模型选择指南](<https://x.com/_philschmid/status/2123409705317933331>)  
+  我的 Gemini 4 模型选择指南： Neon = 日常编码和智能体的主力选择（$3/$15）。我现在主要用 Neon。 Hydrogen = 最快、最便宜（$1.50/$7.50）。用于基础任务/聊天或子智能体。 Carbon = 可以接受较慢速度的开放任务。测试、复杂长周期运行的模拟  
+  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-19 21:34
 
-- [Trump: We can't regulate AI and need data centers everywhere because we need to beat China Also Trump: How many Nvi…](<https://x.com/BMeiselas/status/2123171608135393576>)  
-  Trump: We can't regulate AI and need data centers everywhere because we need to beat China Also Trump: How many Nvidia chips would you like to buy, Xi?  
-  @BMeiselas · 2026-11-19 05:48
+- [I have been saying it here for almost two decades.](<https://x.com/asemota/status/2123409387859657116>)  
+  I lost a lot of my net worth to it. The time I spent chasing Mekwe as a bachelor was half of my waking hours. Others used it to build Amazon, Google, and NVIDIA 👀. The only positive is that I got over it before marriage.  
+  @asemota · 2026-11-19 21:33
 
-- [Something is going on at Google I think they might have hit RSI They’ve released new frontier models FOUR TIMES in…](<https://x.com/AlexFinn/status/2123171176025575701>)  
-  And each is an actual MAJOR improvement Carbon is the most intelligent model I’ve ever used While everyone is talking about Anthropic and  
-  @AlexFinn · 2026-11-19 05:47
+- [Dario想要 DeepSeek 停止发布开源模型 而 DeepSeek 打算在 Anthropic IPO 之后， 送它…](<https://x.com/Xanderwow_A/status/2123407816983482584>)  
+  Dario想要 DeepSeek 停止发布开源模型 而 DeepSeek 打算在 Anthropic IPO 之后， 送它一份惊喜大礼 🎁🐋  
+  @Xanderwow\_A · 2026-11-19 21:27
 
-- [Google 发布 Gemini 4 Neon，Artificial Analysis 智能指数 61 分排名第三](<https://x.com/ArtificialAnlys/status/2123170645777526962>)  
-  Google DeepMind 发布 Gemini 4 Neon，Artificial Analysis 评测其 Intelligence Index 得 61 分，高于 Gemini 4 Carbon（high）1 分，总榜第三，编码代理得分 59 与 Claude Opus 5.5、Claud…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-19 05:45
+- [It is extraordinary.](<https://x.com/kevinnbass/status/2123406793158082873>)  
+  Trump official illegally leaked to NYT a briefing on Rubio's memo to Trump. Media frenzy follows. One of America's great AI CEOs accused of sleeping with a spy, then removed in a board coup. For three weeks, Rubio said nothing about his own memo leak that  
+  @kevinnbass · 2026-11-19 21:23
 
-- [Seguo \#JensenHuang, ex ceo di \#Nvidia da anni, occupandomi di \#Taiwan e \#Cina.](<https://x.com/flancini/status/2123170567356318199>)  
-  Allora, chiariamo due cose: 1 Jensen Huang non è di origine cinese, ma taiwanese. 2 Ha di fatto favorito la vendita di \#microchip avanzati alla Cina che non è ancora in grado di produrli, rischiando di  
-  @flancini · 2026-11-19 05:44
+- [🚨 BIBLICAL: THE $500,000,000,000 ANTHROPIC IPO LIQUIDITY SQUEEZE IS ENDING.](<https://x.com/RippleXity/status/2123405799146102870>)  
+  A MASSIVE LIQUIDITY ROTATION INTO $XRP IS COMING. Anthropic's record-breaking IPO attracted nearly $500 BILLION in reported demand. Only $81.3 BILLION was raised. NOW CONNECT THE DOTS. Investors have  
+  @RippleXity · 2026-11-19 21:19
 
-- [Google 发布 Gemini 4 Neon，Artificial Analysis 排名第三](<https://x.com/rohanpaul_ai/status/2123170168201486582>)  
-  Google 发布 Gemini 4 Neon，在 Artificial Analysis Intelligence Index 得 61 分排名第三，价格 $3/$15 per 1M tokens。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 05:43
+- [BREAKING: An Anthropic researcher says AI will likely leave “pretty much all humans on Earth” permanently unemploya…](<https://x.com/unusual_whales/status/2123405179282190805>)  
+  Tao Lin, who works on safeguards for Anthropic’s Claude models, said in an interview with Palisade Research that he expects  
+  @unusual\_whales · 2026-11-19 21:17
 
-- [Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter](<https://x.com/OpenRouter/status/2123170058574905675>)  
-  OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可通过 Google Cloud 使用。该模型面向复杂软件工程、知识工作和科学场景，定位介于 Carbon 与 Hydrogen 之间。Google 称其在 Artificial Analy…  
-  X：OpenRouter \(@OpenRouter\) · 2026-11-19 05:42
+- [SBIからも2.25万株もらって、合計26.25万株に！🐰 \#Anthropic](<https://x.com/Kswbrmst/status/2123404962432749883>)  
+  @Kswbrmst · 2026-11-19 21:16
 
-- [Google 发布 Gemini 4 Neon，速度接近 Carbon 的 3 倍](<https://x.com/ammaar/status/2123169924222754968>)  
-  Google 员工 Ammaar Reshi 宣布 Gemini 4 Neon 发布，速度比 Carbon 快近 3 倍，同时保持接近 Carbon 的性能和智能水平。该模型正在 AI Studio、Gemini app 和 Antigravity 上线。  
-  X：Ammaar Reshi \(@ammaar\) · 2026-11-19 05:42
+- [🚨 BREAKING: NVIDIA FIRES BACK AT ELON MUSK AND MARK ZUCKERBERG OVER JENSEN HUANG CONTROVERSY, TELLS TECH BILLIONAIR…](<https://x.com/madrid_xtraq/status/2123404083126043026>)  
+  NVIDIA has reportedly delivered a strong response to growing criticism from Elon Musk and Mark  
+  @madrid\_xtraq · 2026-11-19 21:12
 
-- [Anthropic IPO 定价 83 美元，高于发行区间](<https://x.com/KateClarkTweets/status/2123169870552436802>)  
-  Anthropic IPO 定价为每股 83 美元，高于此前发行区间。消息援引自 WSJ 报道。  
-  X：Kate Clark \(@KateClarkTweets\) · 2026-11-19 05:41
+- [Anthropic CEO: “AI could wipe out half of all entry-level white-collar jobs and spike unemployment to 10-20% in the…](<https://x.com/imalexanderlari/status/2123403439786938754>)  
+  He revealed exactly how it'll happen and how you can capitalize on it:  
+  @imalexanderlari · 2026-11-19 21:10
 
-- [Arena 发布 Agent Arena Index：Gemini 4 Neon \(High\) 以 1336 分排名第二](<https://x.com/arena/status/2123169189397709174>)  
-  Arena 公布 Agent Arena Index 排名，Gemini 4 Neon \(High\) 以 1336 分位列第二，超过 \#4 Carbon \(High\) 的 1303 分、\#9 Hydrogen \(High\) 的 1271 分和 \#11 Argon \(High\) 的 1229 分，得…  
-  X：Arena \(@arena\) · 2026-11-19 05:39
+- [Otro pastel de la \#Derecha El alcalde de \#RíoBueno, Luis Reyes Álvarez, presentó su renuncia al cargo el miércoles…](<https://x.com/GritondeCurico/status/2123402496756396216>)  
+  Sobornos por $36,3 millones y depósitos no acreditados por cerca de $90 millones en sus cuentas personal. OpenAI Bárbara Denise Rosenthal  
+  @GritondeCurico · 2026-11-19 21:06
 
-- [Gemini 4 Neon 上线，Google AI Pro 和 Ultra 订阅用户可在 Chat 和 Tasks 中选用](<https://x.com/GeminiApp/status/2123169070988337603>)  
-  Google 宣布 Google AI Pro 和 Ultra 订阅用户可通过 Chat 和 Tasks 中的模型下拉菜单选用 4 Neon（Deeper analysis），支持移动端、桌面端和网页端。更多介绍见官方博客  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 05:38
+- [MiniMax H3 is free and unlimited on Envato for 24 hours.](<https://x.com/envato/status/2123400900421034371>)  
+  For everyone.\* Our best-performing model for creatives. Yours to use as much as you like. Create a free account to get started.  
+  @envato · 2026-11-19 21:00
 
-- [BREAKING: Anthropic, $ANT, has priced its IPO at $83 per share, above its marketed range of $70 to $78, per Bloombe…](<https://x.com/KobeissiLetter/status/2123168870429274123>)  
-  The company is now expected to raise at least $68 billion through its IPO, plus another $26 billion in a private placement. This brings the total offering to  
-  @KobeissiLetter · 2026-11-19 05:37
+- [Anthropic would need about $602 billion in annual revenue to earn a 20% return on its roughly $1 trillion in comput…](<https://x.com/unusual_whales/status/2123400146113499362>)  
+  At a 17% tax rate, that’s about $241 billion before tax, and at a  
+  @unusual\_whales · 2026-11-19 20:57
 
-- [Gemini Neon 写作与文件解析升级](<https://x.com/GeminiApp/status/2123168841853555119>)  
-  更犀利的写作，扎根于你的上下文。 Neon 写得清晰，回答结构良好，语气自然直接。 它还能更精准地读取表格、PDF 和照片等上传文件，把密集材料转化为有用的报告和摘要，并从 @Gmail 和 @GoogleDocs 等 Google 应用中提取相关细节。  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 05:37
+- [BREAKING: Anthropic raises a record $107.3 billion at $83 per share, beating SpaceX for the biggest IPO ever.](<https://x.com/BullTheoryio/status/2123398273134399869>)  
+  @BullTheoryio · 2026-11-19 20:49
 
-- [Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放](<https://x.com/GeminiApp/status/2123168704662012079>)  
-  Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。  
-  X：Gemini \(@GeminiApp\) · 2026-11-19 05:37
+- [Hard to express how on the nose it is that the most fascist possible misinterpretation of a beloved book is the def…](<https://x.com/davidzmorris/status/2123397577513087217>)  
+  Hard to express how on the nose it is that the most fascist possible misinterpretation of a beloved book is the default perspective within Anthropic  
+  @davidzmorris · 2026-11-19 20:46
 
-- [Google 发布 Gemini 4 Neon：主打快速端到端任务完成](<https://x.com/GoogleAI/status/2123168242797809944>)  
-  Google AI 发布新模型 Gemini 4 Neon，定位是在复杂软件工程、知识工作和科学工作流中以前沿智能快速完成端到端任务。能力包括多文件调试重构的精准编辑、1M-token 上下文窗口、4 档可调思考级别，并在内部 Google Antigravity 测试中录得迄今最低幻觉率。  
-  X：Google AI \(@GoogleAI\) · 2026-11-19 05:35
+- [At least six Chinese universities blacklisted by the US government have reported purchasing restricted Nvidia compu…](<https://x.com/alaynatreene/status/2123397490166698378>)  
+  At least six Chinese universities blacklisted by the US government have reported purchasing restricted Nvidia computer chips in recent years, a CNN review of business records found Two of those universities known for their ties to the Chinese military establis…  
+  @alaynatreene · 2026-11-19 20:46
 
-- [Google 发布 Gemini 4 Neon，面向 Pro/Ultra 订阅用户及 Gemini API 付费层推送](<https://x.com/GoogleAI/status/2123168244861141164>)  
-  Google AI 宣布 Gemini 4 Neon 今日开始推送，覆盖 Gemini App 的 Google AI Pro 与 Ultra 订阅用户、付费 Pro/Ultra 用户的 Antigravity、Google AI Studio 的 Gemini API 付费层以及 Gemini…  
-  X：Google AI \(@GoogleAI\) · 2026-11-19 05:35
+- [✨🇨🇳Many journalists in China no longer use traditional cameras, choosing Huawei phones instead.😯](<https://x.com/XueJia24682/status/2123396386209366233>)  
+  @XueJia24682 · 2026-11-19 20:42
 
-- [Demis Hassabis 宣布推出 Gemini 4 Neon](<https://x.com/demishassabis/status/2123168223147499629>)  
-  Demis Hassabis 宣布推出 Gemini 4 Neon，可用性和更多详情见 Google 官方博客  
-  X：Demis Hassabis \(@demishassabis\) · 2026-11-19 05:35
+- [英伟达董事会这次真玩砸了！](<https://x.com/SimonLe99917871/status/2123396377203859585>)  
+  刷存在感刷过火了。强硬拒绝黄仁勋回归，让华尔街看不下去了。 昨天是比尔阿克曼长文声讨，现在又出来大佬规划清理董事会具体路径和时间表了。 ​知名投资人Chris Kong直接在社交媒体上 ​给出的终极警告是：  
+  @SimonLe99917871 · 2026-11-19 20:42
 
-- [Google 发布 Gemini 4 Neon](<https://x.com/OfficialLoganK/status/2123168167803654639>)  
-  Logan Kilpatrick 分享 Gemini 4 Neon 发布博客链接，表示越用越喜欢，期待大家深入体验，博客地址为  
-  X：Logan Kilpatrick \(@OfficialLoganK\) · 2026-11-19 05:35
+- [BREAKING: Anthropic, $ANT, is expected to begin trading on the Nasdaq today at 10:00 AM ET, with shares being relea…](<https://x.com/KobeissiLetter/status/2123396042431385907>)  
+  The IPO is expected to raise $81.3 billion, making it the largest IPO in history. Shares were priced at $83 each, valuing the  
+  @KobeissiLetter · 2026-11-19 20:40
 
-- [Google 发布 Gemini 4 Neon 模型](<https://x.com/_philschmid/status/2123168017940959315>)  
-  阅读更多：  
-  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-19 05:34
+- [CUMA DEG-DEGAN, TERNYATA BISA SEFATAL INI\! 😭 Untung Huawei Watch kasih alert lebih dulu.](<https://x.com/tumiscireng/status/2123395951520035036>)  
+  Ternyata smartwatch bukan cuma buat gaya, tapi bisa bantu deteksi tanda bahaya\! Kata dokter kalo telat dikit udah bahaya😭🙏  
+  @tumiscireng · 2026-11-19 20:40
 
-- [Google DeepMind 发布 Gemini 4 Neon，Artificial Analysis 智能指数排名第三](<https://x.com/GoogleDeepMind/status/2123167889976905966>)  
-  Google DeepMind 宣布 Gemini 4 Neon 在 Artificial Analysis 智能指数 xhigh 思考级别下以 61 分排名第三，即日起开放使用。可用范围包括 Google AI Studio 中的 Gemini API、Android Studio 和 Gemi…  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-19 05:34
+- [🚨 WOW: Chinese officials BANNED a Bloomberg reporter from the Trump-Xi-Putin meeting in Shenzhen after she asked Pr…](<https://x.com/EricLDaugh/status/2123393141352874123>)  
+  🚨 WOW: Chinese officials BANNED a Bloomberg reporter from the Trump-Xi-Putin meeting in Shenzhen after she asked President Trump about Jensen Huang being “DISLOYAL” "The question was President Trump, has Jensen Huang, the Nvidia CEO, been disloyal to the Unite…  
+  @EricLDaugh · 2026-11-19 20:29
 
-- [Google 发布 Gemini 4 Neon](<https://x.com/sundarpichai/status/2123167785790648751>)  
-  阅读更多：  
-  X：Sundar Pichai \(@sundarpichai\) · 2026-11-19 05:33
+- [Anduril founder Palmer Luckey says a lot of people are missing the forest for the trees when it comes to the Nvidia…](<https://x.com/overton_news/status/2123392702821580811>)  
+  He called it the “midwit take,” and said they have it completely backwards. Luckey made the case that most people don’t understand how selling American GPUs  
+  @overton\_news · 2026-11-19 20:27
 
-- [“I don’t know why we don’t use our own abilities to go in and shut down every air conditioner in Iran.” Sen.](<https://x.com/FoxNews/status/2123167249095602519>)  
-  John Kennedy raises the possibility of Iranian cyberattacks backed by China while questioning America’s reluctance to use its own advanced AI capabilities during a  
-  @FoxNews · 2026-11-19 05:31
+- [🚨 Rumors I've been hearing about Google.](<https://x.com/dummerspast39/status/2123383765758066712>)  
+  Google has closed the loop and unlocked RSI. NEON Gemini 4 Neon fixed all the problems people ever had with Gemini models. It already scores above Carbon and Argon on Artificial Analysis. It is a SMALL model. Internally Neon is  
+  @dummerspast39 · 2026-11-19 19:51
 
-- [◆ 83ドルに あす上場のAnthropic株の公募価格が83ドルになるとBloombergなどが報じています。70-78…](<https://x.com/goto_finance/status/2123166582897791036>)  
-  ◆ 83ドルに あす上場のAnthropic株の公募価格が83ドルになるとBloombergなどが報じています。70-78ドルのレンジで投資家の需要を探っていましたが、人気が高く、レンジの上限を上回る価格となったようです  
-  @goto\_finance · 2026-11-19 05:28
+- [难怪董事会拒绝黄仁勋回归，美媒爆出了内幕：他女儿是问题所在。](<https://x.com/wangyunWY0203/status/2123383318792262088>)  
+  ​黄仁勋公开表态愿意回归英伟达 CEO 岗位，董事会很快给出明确答复，不会恢复他的职务。 ​据纽约时报采访十余位现任、前员工，黄仁勋的女儿麦迪逊，名义上只是实体 AI  
+  @wangyunWY0203 · 2026-11-19 19:50
 
-- [This is actually insane.](<https://x.com/myth_pilot/status/2123166399325446653>)  
-  They want to pierce the corporate veil and find a way to hold Jensen Huang personally liable for losses to their investment. This is Soviet-tier. That’s not the way things work in this country.  
-  @myth\_pilot · 2026-11-19 05:28
+- [英伟达董事会赶走黄仁勋，各种反噬接踵而来，这下董事会麻烦大了。](<https://x.com/Dragonhau66/status/2123381962580562372>)  
+  先是台积电力挺黄仁勋，为他复仇来了！ 台积电开始查客户的账。信用额度按资产负债表定，超额度的订单拿现金来。 代工厂看明白了：英伟达自己都在替客户融资买芯片，朗讯2000年就这么玩，泡沫破了背一身坏账。  
+  @Dragonhau66 · 2026-11-19 19:44
 
-- [OpenAI 阐述模型全生命周期安全策略](<https://x.com/OpenAI/status/2123165872261075233>)  
-  我们分享在模型生命周期的每个阶段——从早期研究到内部使用再到公开部署——如何应对安全问题。  
-  X：OpenAI \(@OpenAI\) · 2026-11-19 05:26
+- [House Democrats have opened a probe into whether Commerce Secretary Howard Lutnick used his office to help Cantor F…](<https://x.com/unusual_whales/status/2123381774764159205>)  
+  Reps. Jamie Raskin, Gregory Meeks and Sydney Kamlager-Dove wrote to  
+  @unusual\_whales · 2026-11-19 19:44
 
-- [Travis Kalanick says Jensen Huang is the number one guy standing between us and an AI 'overlord,' and that’s why ev…](<https://x.com/firesidealpha/status/2123165651657429338>)  
-  I want  
-  @firesidealpha · 2026-11-19 05:25
+- [Nvidia CEO removed without due process by a massive media campaign.](<https://x.com/kevinnbass/status/2123380098674139304>)  
+  Anthropic, its direct rival, IPOs. Okay.  
+  @kevinnbass · 2026-11-19 19:37
 
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 33 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 38 页

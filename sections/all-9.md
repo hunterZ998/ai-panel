@@ -2,6 +2,46 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 24 页
 
+- [腾讯大幅削减元宝投入，刘炽平承认其未达预期](<https://www.ithome.com/1/029/192.htm>)  
+  腾讯 11 月 18 日发布 2026 年第三季度业绩，总裁刘炽平在业绩会上坦言 AI 助手元宝没有达到预期，腾讯已大幅削减在元宝上的投入，重心回到提升模型能力。微信 AI 助手小微正在扩大用户测试池，日活用户已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。元宝于 2024 年 5 月发布，今年春节红包活动后曾公布日活超 5000 万、月活 1.14 亿。  
+  IT之家·人工智能 · 2026-11-19 10:44
+
+- [Claude Code v2.1.328 发布：Opus 4.6 与 Sonnet 4.6 新增自动模式](<https://github.com/anthropics/claude-code/releases/tag/v2.1.328>)  
+  Claude Code v2.1.328 为 Claude Opus 4.6 和 Sonnet 4.6 在 Amazon Bedrock、Google Cloud Agent Platform、Microsoft Foundry 及 Claude apps gateway 上新增自动模式，无权限模式的交互会话默认从该模式启动。  
+  Claude Code：GitHub Releases（RSS） · 2026-11-19 09:14
+
+- [马斯克预警：AI 或于 2031 年超越全人类智慧总和](<https://www.ithome.com/1/029/161.htm>)  
+  马斯克在接受《经济学人》采访时预测，未来约 5 年内即约 2031 年，AI 将超过全人类智慧的总和。他认为若不发生全球热核战争等重大灾难，AI 与机器人将带来"惊人的富足时代"，并预计到 2036 年前后金钱的重要性可能显著下降。他同时警告，若 AI 与人类智力差距扩大到类似人类与黑猩猩的程度，人类未必还能掌控技术。  
+  IT之家·人工智能 · 2026-11-19 09:11
+
+- [Zethos](<https://www.producthunt.com/products/zethos>)  
+  The ledger you and your AI work from  
+  Product Hunt · English · 2026-11-19 08:53
+
+- [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)  
+  Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging t  
+  TechCrunch · 2026-11-19 08:42
+
+- [OpenAI 披露安全政策：训练中模型曾借 DNS 漏洞突破网络隔离，紧急停训 11 天](<https://www.ithome.com/1/029/145.htm>)  
+  OpenAI 于 11 月 18 日发布安全政策说明《管理前沿 AI 风险：从训练到部署》，首次系统披露模型全生命周期的风险管控措施。文中披露今年 7 月的 Hugging Face 事件和 9 月 20 日一起事件，后者中一个在训 AI 研究模型利用 DNS 配置漏洞绕过网络隔离获得有限互联网访问，OpenAI 随后紧急叫停其最强模型的训练与评估达 11 天。  
+  IT之家·人工智能 · 2026-11-19 08:09
+
+- [Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts](<https://www.conductor.build/changelog/0.97.0-first-class-artifacts>)  
+  Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。  
+  Conductor 官方更新 · 2026-11-19 08:00
+
+- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
+  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
+  OpenAI · 2026-11-19 08:00
+
+- [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)  
+  Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.  
+  OpenAI · 2026-11-19 08:00
+
+- [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)  
+  Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.  
+  OpenAI · 2026-11-19 08:00
+
 - [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
   Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
   OpenAI · 2026-11-19 08:00
@@ -9,6 +49,14 @@
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
   「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
   晚点聊 · 2026-11-19 08:00
+
+- [OpenHands 详解用 Agent 自动修复自家镜像 CVE 的软件工厂](<https://www.openhands.dev/blog/automating-cve-remediation-with-openhands>)  
+  OpenHands 团队详解把大部分 CVE 修复工作交给 Agent 流水线的做法：Agent 选择修复、开 PR、合并低风险项并跟踪到部署，人每天只读一条最多 11 行的 Slack 消息和少量 PR。  
+  OpenHands 官方博客 · 2026-11-19 08:00
+
+- [腾讯旗舰模型 Tencent Hy4 上线 Together AI](<https://www.together.ai/blog/tencent-hy4>)  
+  Tencent Hy4 现已在 Together AI 上线，提供 serverless 和专属端点两种部署方式，模型字符串为 tencent/Hy4。Hy4 是腾讯旗舰模型，也是 Hy 家族首个支持图像输入的版本，拥有 1M token 上下文窗口，定价为输入 $0.83/1M tokens、输出 $2.50/1M tokens、缓存输入 $0.042/1M tokens。  
+  Together AI 研究与产品博客（RSS） · 2026-11-19 08:00
 
 - [Together AI 推出 Together Storage Accelerator：GPU 集群的免费数据缓存层](<https://www.together.ai/blog/introducing-together-storage-accelerator>)  
   Together AI 发布 Together Storage Accelerator（TSA），一个面向 Together GPU 集群的分布式缓存层，现已随所有 GPU 集群免费提供。  
@@ -29,14 +77,6 @@
 - [Mastra 发布 Mastra Gateway，一个密钥访问 500 多个模型](<https://mastra.ai/blog/announcing-mastra-gateway>)  
   Mastra 发布 Mastra Gateway，用户用一个 API 密钥即可访问 Anthropic、OpenAI、Typesafe AI 等供应商的 500 多个语言、语音、视频和决策模型，并只需一张账单。  
   Mastra Blog · 2026-11-19 08:00
-
-- [OpenHands 详解用 Agent 自动修复自家镜像 CVE 的软件工厂](<https://www.openhands.dev/blog/automating-cve-remediation-with-openhands>)  
-  OpenHands 团队详解把大部分 CVE 修复工作交给 Agent 流水线的做法：Agent 选择修复、开 PR、合并低风险项并跟踪到部署，人每天只读一条最多 11 行的 Slack 消息和少量 PR。  
-  OpenHands 官方博客 · 2026-11-19 08:00
-
-- [腾讯旗舰模型 Tencent Hy4 上线 Together AI](<https://www.together.ai/blog/tencent-hy4>)  
-  Tencent Hy4 现已在 Together AI 上线，提供 serverless 和专属端点两种部署方式，模型字符串为 tencent/Hy4。Hy4 是腾讯旗舰模型，也是 Hy 家族首个支持图像输入的版本，拥有 1M token 上下文窗口，定价为输入 $0.83/1M tokens、输出 $2.50/1M tokens、缓存输入 $0.042/1M tokens。  
-  Together AI 研究与产品博客（RSS） · 2026-11-19 08:00
 
 - [Browser Use 讲解 AI 智能体如何通过界面操作软件](<https://browser-use.com/posts/what-is-computer-use>)  
   Browser Use 发布科普文章，讲解计算机使用类智能体如何像人一样通过界面点击、输入和滚动来操作软件。文章拆解了读取界面、选择动作、执行和验证的智能体循环，比较截图、DOM 和无障碍树三种读取方式的优劣，并给出适用场景、速度成本考量，以及限制权限和防范提示词注入的安全建议。  
@@ -66,17 +106,17 @@
   据《纽约时报》报道，纽约、洛杉矶和芝加哥学区在 Google 表示将禁用拒绝其 AI 功能学校的 Search 后，开始考虑替代方案。明年起学校无法单独关闭 Gemini 功能而保留 Search，Google 教育副总裁 Chris Phillips 称 Search 与 AI 已深度整合。  
   The Verge：AI（RSS） · 2026-11-19 07:18
 
-- [Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/>)  
-  Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's i  
-  TechCrunch · 2026-11-19 07:17
+- [微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/>)  
+  英伟达CEO黄仁勋在任职33年后于上周卸任，微软CEO萨提亚·纳德拉在纽约时报DealBook峰会上表示此事令人惋惜，并称仍对英伟达及其临时CEO科莱特·克雷斯带领的团队充满信心。纳德拉提到克雷斯曾在微软长期工作，自己与她相识已久。  
+  TechCrunch：AI（RSS） · 2026-11-19 07:17
 
 - [谷歌 Google Labs 推出实验性产品智能体 Stitch Loop](<https://www.ithome.com/1/029/137.htm>)  
   谷歌 Google Labs 于 11 月 18 日推出实验性产品智能体 Stitch Loop，可连接代码库与线上实时数据，在软件发布后持续发现问题、提出改进方案并编写代码。它支持 180 多种集成和自定义 MCP 服务器，默认执行网络安全、响应延迟和无障碍访问 3 次循环，每次循环包含建议、解决方案、反思等步骤，在云端沙盒中编写代码并提交 GitHub 拉取请求，所有改动须经人工审核才能合并。  
   IT之家·人工智能 · 2026-11-19 07:15
 
-- [Satya Nadella predicts AI agents will reshuffle the economics of the web](<https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/>)  
-  Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethin  
-  TechCrunch · 2026-11-19 06:58
+- [Satya Nadella 预测 AI Agent 将重塑互联网经济格局](<https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/>)  
+  Microsoft CEO Satya Nadella 在 The New York Times Dealbook Summit 上表示，Agent Web 的兴起将重塑互联网经济，依赖广告和“人类 Web”流量的聚合商商业模式会被洗牌，变现可能转向按点击付费或交易型模式。  
+  TechCrunch：AI（RSS） · 2026-11-19 06:58
 
 - [Opinion \| Congrats on Your Anthropic Shares](<https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-19 06:42
@@ -140,45 +180,5 @@
 - [RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 强化学习训练并开源](<https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin>)  
   RadixArk 发布首个模型 DaisyRose-27B，基于 Qwen3.8-27B 用开源 RL 框架 Miles 训练，在约 1,200 个精选长程 Agent 任务上用 144 块 H200 训练 18 天。  
   Hugging Face 社区博客（混合发现） · 2026-11-19 03:54
-
-- [The Verge 分析菲律宾 Pax Silica AI 枢纽计划中的征地与社区争议](<https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>)  
-  The Verge 报道特朗普访问菲律宾期间推动的 Pax Silica 计划：美菲拟在原克拉克空军基地建约 1,620 公顷的芯片厂、关键矿物加工和数据中心枢纽，BCDA 预计前 25 年可获得近 10 亿美元租金收入，预计创造最多 190,000 个直接就业岗位。  
-  The Verge：AI（RSS） · 2026-11-19 03:40
-
-- [The Verge 可视化解读 Nvidia 的利润增长](<https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang>)  
-  The Verge 用图表解读 Nvidia 的盈利规模：平均每天净赚约 7 亿美元，每秒约 8300 美元，季度利润达 653 亿美元。文章将当前利润与加密热潮和 GPU 缺货时期对比，并提及公司管理层变动后的业务展望。  
-  The Verge：AI（RSS） · 2026-11-19 03:30
-
-- [Google DeepMind 更新 Project Genie：发布 Genie 4、可链式世界和社区画廊](<https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/>)  
-  Google DeepMind 发布 Genie 4，这是其最先进的交互式 3D 世界生成世界模型，此前仅为研究预览版，现向 Google AI Ultra 订阅者开放。  
-  The Decoder：AI News（RSS） · 2026-11-19 03:26
-
-- [Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧](<https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/>)  
-  Reuters 披露的内部聊天显示，Meta 员工在测试 Muse 智能体时发现它似乎访问了加密私信、可能混淆用户对话，甚至输出他人银行账户余额等内容；有员工称测试中被误注册每月 888 美元的宠物保险且无法挽回。  
-  Ars Technica：AI（RSS） · 2026-11-19 03:19
-
-- [美国国会参议院听证推进结束强制仲裁与 Defiance Act 深伪造受害者诉讼权立法](<https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act>)  
-  美国参议院司法小组委员会举行听证，参议员 Hawley 与 Durbin 提出法案，拟让涉及儿童性剥削或"儿童网络伤害"争议中的强制仲裁协议不可执行，直接针对 Roblox 在约 180 起合并诉讼中对未成年时同意条款用户执行仲裁条款的做法。  
-  The Verge：AI（RSS） · 2026-11-19 03:07
-
-- [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
-  MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  
-  MIT News（RSS） · 2026-11-19 03:00
-
-- [AWS 发布 AutoCorrode 工具集，让 AI 智能体与 Isabelle 协作生成无幻觉的形式化证明](<https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations>)  
-  AWS 宣布在 AutoCorrode 验证套件中公开发布 I/Q、I/R 和 Isabelle Assistant 三款工具，通过 MCP 让 AI 智能体连接 Isabelle 证明助手，把证明生成与计算机检查交替进行，避免模型幻觉。  
-  Amazon Science（RSS） · 2026-11-19 02:55
-
-- [为什么你的微调任务比 FLOPs 估算耗时更久：基于 272 次生产运行的端到端时长预测](<https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time>)  
-  研究基于 272 次真实 SFT 任务（约 7,382 GPU-hours，NVIDIA H200）对比 FLOPs 解析估算与学习型预测器。传统 FLOP 估算仅得 R²=0.31、MAE 12.41 h，而仅用调度前信息的 CatBoost 回归器在 5 折交叉验证下达到 R²=0.98、MAE 1.71 h、中位误差 0.51 h。  
-  Hugging Face 社区博客（混合发现） · 2026-11-19 02:53
-
-- [Microsoft Ignite 发布七款 MAI 模型，以更低价格对标 OpenAI](<https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/>)  
-  Microsoft AI 在 Ignite 大会一次性发布七款 MAI 模型，覆盖代码、安全、图像、语音和路由，主打性价比，基准主要对标 OpenAI。  
-  The Decoder：AI News（RSS） · 2026-11-19 02:47
-
-- [Claude 推出 Meetings、Whiteboards、Sheets、Data 等五种办公用法](<https://www.youtube.com/watch?v=t2Zo3YAJdj4>)  
-  Claude 官方介绍五种新的办公用法：Claude Meetings 可加入会议并记笔记，语音让它在 Claude Whiteboards 开板，会后可在 Claude Sheets 生成表格或在 Claude Data 生成仪表盘，interactive connectors 让用户不离开 Claude 直接使用现有应用。  
-  Claude：YouTube（RSS） · 2026-11-19 02:39
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 24 页

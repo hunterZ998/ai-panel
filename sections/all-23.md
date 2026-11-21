@@ -2,6 +2,74 @@
 
 [返回面板](../README.md) · [上一页](all-22.md) · [下一页](all-24.md) · 第 23 / 24 页
 
+- [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>)  
+  Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with th…  
+  TechCrunch · 2026-11-07 02:44
+
+- [How a Blue Wave midterm might reshape the AI industry](<https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/>)  
+  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
+  TechCrunch · 2026-11-07 02:00
+
+- [After the midterms, is the AI industry in for a rough two years?](<https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/>)  
+  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
+  TechCrunch · 2026-11-07 01:23
+
+- [Defense in Depth, Rebuilt for Machine Speed](<https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine>)  
+  AI systems can search for vulnerabilities by the class and help turn a published fix into a working exploit in hours.  
+  a16z · 2026-11-07 01:00
+
+- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](<https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/>)  
+  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
+  TechCrunch · 2026-11-06 23:54
+
+- [Charts of the Week: Apple Skips Capex, and the Crowd Goes Wild \(Sort Of\)](<https://www.a16z.news/p/charts-of-the-week-apple-skips-capex>)  
+  AI Does Roblox; GLP-1s: The Other GPT; Year of the Maxx  
+  a16z · 2026-11-06 23:02
+
+- [Controlling Biology - Fabian Theis, Helmholtz Munich](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/controlling_biology_-_fabian_theis_helmholtz_munich_1>)  
+  Fabian Theis has been one of the key players in the various iterations of the Virtual Cell concept and initiatives. I…  
+  Latent Space · 2026-11-06 22:48
+
+- [杨植麟的 Taste，梁文锋的克制：Kimi 与 DeepSeek 开始换打法](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748597&idx=1&sn=5646b38ca8930ca4d7659590be6e05b5>)  
+  AI科技评论 · 2026-11-06 18:47
+
+- [OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748586&idx=1&sn=b83628488a5305e4e1df321770fe0dc6>)  
+  AI科技评论 · 2026-11-06 16:50
+
+- [ZPedia｜实测腾讯混元 Hy4：12 项看板 0 个第一，却在实战里进入第一梯队](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901304&idx=1&sn=62a5b1a7b97d221e357307e4069f64b9>)  
+  Z Finance · 2026-11-06 15:35
+
+- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>)  
+  Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
+  TechCrunch · 2026-11-06 14:28
+
+- [佳安智能潘阳：把机器人送进 500 强「打工」，一年挣一个多亿 \| 物理 AI 50人](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748535&idx=1&sn=eaa473df0b6af340440b15b99bd9e042>)  
+  AI科技评论 · 2026-11-06 09:48
+
+- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
+  晚点聊 · 2026-11-06 09:30
+
+- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
+  晚点聊 · 2026-11-06 09:30
+
+- [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
+  Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
+  SemiAnalysis · 2026-11-06 03:03
+
+- [The Exploit Was the Bottleneck](<https://www.a16z.news/p/the-exploit-was-the-bottleneck>)  
+  What 23 Years of Data Say About AI and the Patch Gap  
+  a16z · 2026-11-05 23:01
+
+- [The New CFO: How AI Is Rewriting the Finance Function \| Figma CFO Praveer Melwani](<https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym>)  
+  AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Fi…  
+  The a16z Show · 2026-11-05 19:00
+
+- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
+  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
+  20VC · 2026-11-05 15:07
+
 - [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
   Z Finance · 2026-11-05 13:05
 
@@ -32,10 +100,6 @@
   Watch the full show on YouTube: https://www.youtube.com/watch?v=LL0YmIyBKSU  
   Latent Space · 2026-11-04 04:16
 
-- [The State of Longevity](<https://www.a16z.news/p/the-state-of-longevity>)  
-  The second was ChatGPT.  
-  a16z · 2026-11-03 23:06
-
 - [2026: The State of Enterprise AI](<https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/>)  
   Enterprise AI Reaches Scale In 2026, AI became an economy-scale force. Enterprise AI deployment spending surged from…  
   Menlo Ventures · 2026-11-03 22:00
@@ -47,21 +111,9 @@
   Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How…  
   Latent Space · 2026-11-03 04:50
 
-- [Investing in Tutor Intelligence](<https://www.a16z.news/p/investing-in-tutor-intelligence>)  
-  They deploy into real production environments ahead of full autonomy, using human teleoperators \(“tutors”\) to train t…  
-  a16z · 2026-11-03 00:05
-
 - [The Robots Already Working in American Factories \| Tutor Intelligence](<https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3>)  
   What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gru…  
   The a16z Show · 2026-11-03 00:05
-
-- [How AI Applications Earn Their Premium](<https://www.a16z.news/p/how-ai-applications-earn-their-premium>)  
-  Cheaper intelligence raises the bar for what an AI application can charge  
-  a16z · 2026-11-02 23:03
-
-- [Welcome Andy Baker](<https://www.a16z.news/p/welcome-andy-baker>)  
-  Companies building in AI, defense, cybersecurity, energy, and critical infrastructure increasingly operate in markets…  
-  a16z · 2026-11-02 22:01
 
 - [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
   Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
@@ -100,14 +152,6 @@
   Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
   Latent Space · 2026-10-31 11:41
 
-- [New Founder Archetypes in the AI Age](<https://www.a16z.news/p/new-founder-archetypes-in-the-ai>)  
-  How will the profiles change as we enter the age of AI?  
-  a16z · 2026-10-31 00:02
-
-- [Charts of the Week: Job FUD Fades](<https://www.a16z.news/p/charts-of-the-week-job-fud-fades>)  
-  AI Referred, Shopper Approved; Rack Spread Cometh \(But Why\)?  
-  a16z · 2026-10-30 22:09
-
 - [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
   What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
   The a16z Show · 2026-10-30 18:00
@@ -127,53 +171,5 @@
 - [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
   AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
   Latent Space · 2026-10-29 04:00
-
-- [The New Security Agenda](<https://www.a16z.news/p/the-new-security-agenda>)  
-  What CISOs told us about AI, budgets, and the priorities shaping 2027.  
-  a16z · 2026-10-29 00:00
-
-- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
-  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
-  The a16z Show · 2026-10-28 18:00
-
-- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
-  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
-  Latent Space · 2026-10-28 02:40
-
-- [Databricks &amp; the Future of the Firm](<https://www.a16z.news/p/databricks-and-the-future-of-the>)  
-  How agents and new database technology will change the shape of the firm—and what we do at work all day  
-  a16z · 2026-10-27 22:02
-
-- [Reinventing School for the AI Era \| Joe Liemandt, Gagan Biyani &amp; Erik Torenberg](<https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu>)  
-  What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt arg…  
-  The a16z Show · 2026-10-27 18:00
-
-- [Announcing the Third a16z New Media Fellowship](<https://www.a16z.news/p/announcing-the-third-a16z-nmf>)  
-  Others have taken on new roles at companies like OpenAI and Prime Intellect , and a few even joined our own New Media…  
-  a16z · 2026-10-27 00:58
-
-- [Let Chaos Reign, and Then Rein In Chaos](<https://www.a16z.news/p/let-chaos-reign-and-then-rein-in>)  
-  Replit and the Agent Habitat  
-  a16z · 2026-10-27 00:08
-
-- [⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](<https://www.youtube.com/watch?v=vhPCo-8K78U>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=vhPCo-8K78U  
-  Latent Space · 2026-10-26 23:00
-
-- [OpenAI: When AI Agents Use Computers Faster Than You](<https://a16z.simplecast.com/episodes/openai-when-ai-agents-use-computers-faster-than-you-QLF23qpt>)  
-  AI agents are approaching a point where they can use computers faster than expert humans, turning the user interface…  
-  The a16z Show · 2026-10-26 18:00
-
-- [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
-  ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  
-  十字路口 Crossing · 2026-10-26 00:00
-
-- [The New Startup Playbook \| Box CEO Aaron Levie](<https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv>)  
-  Can a 10-person startup outperform a company with hundreds of employees? Box CEO Aaron Levie argues AI agents are giv…  
-  The a16z Show · 2026-10-25 18:00
-
-- [少有的同时做过 Agent、多模态和具身的人 \| 对谈前混元多模态 RL Infra 负责人淏楠](<https://www.xiaoyuzhoufm.com/episode/6ada2be4c96c8942ec10cb1e?utm_source=rss>)  
-  这期的嘉宾淏楠非常「折腾」。他读过五个大学，读着觉得没意思就换，也是少有的同时做过 Agent、多模态、RL 和具身的人，而且总是做一些逆势而为（非主流）的选择： 他曾在陈天桥和代季峰两位老师的 MiroMind 工作，是最早一批做…  
-  42章经 · 2026-10-24 21:00
 
 [返回面板](../README.md) · [上一页](all-22.md) · [下一页](all-24.md) · 第 23 / 24 页

@@ -1,179 +1,177 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 33 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 38 页
 
-- [Wow that would be the best Local LLM\!\!](<https://x.com/nunomo1/status/2123204181423259763>)  
-  @nunomo1 · 2026-11-19 07:58
+- [Ed Elson: To me, the idea that Nvidia cannot survive without Jensen Huang is not only ridiculous, but it's a giant…](<https://x.com/MeidasTouch/status/2123445199385010250>)  
+  So this is an example of founder worship gone haywire. Nvidia is going  
+  @MeidasTouch · 2026-11-19 23:56
 
-- [Great question — you win when agents can trust you, and customers can trust the agent. hedera-hashgraph:native is t…](<https://x.com/Millmos021/status/2123204102171632047>)  
-  Great question — you win when agents can trust you, and customers can trust the agent. hedera-hashgraph:native is the verification layer for that: agent identity, guardrails and audit trails, so the right agent is choosing, and fraud gets sniffed out.  
-  @Millmos021 · 2026-11-19 07:57
+- [Perplexity 演示 Agent 调用外部 API 完成地块筛选与 3D 建模全流程](<https://x.com/AravSrinivas/status/2123444250536972483>)  
+  Perplexity CEO Aravind Srinivas 转发用户演示：用户让 Perplexity 为 Sacramento 附近 12 座小屋项目寻找合适地块，Perplexity 调用 @mireyehq API，花 $2.20 发起 31 次 Land Search and Enri…  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-19 23:52
 
-- [Would love to run some benchmarks of my own in this, reiterating previous note: 1.](<https://x.com/sivangr/status/2123204080281563549>)  
-  Can this learn continuously on an Intel CPU “GPU poor” machines? 2. With the vision of a model for every person, does that mean this would be open source? Like Docker per example? Any other  
-  @sivangr · 2026-11-19 07:57
+- [Anthropic just opened its Claude Forward Deployed Engineer learning path\!](<https://x.com/dani_avila7/status/2123442722379792845>)  
+  I've already completed most of it, and it gives you a clear picture of how to deploy AI in enterprise environments, from initial pilots to production, with the necessary security and compliance safeguards  
+  @dani\_avila7 · 2026-11-19 23:46
 
-- [BREAKING: Elon Musk reveals Anthropic wants another 10,000 megawatts of computing power from SpaceX, hours before i…](<https://x.com/PolymarketMoney/status/2123204064293106054>)  
-  BREAKING: Elon Musk reveals Anthropic wants another 10,000 megawatts of computing power from SpaceX, hours before its IPO trades.  
-  @PolymarketMoney · 2026-11-19 07:57
+- [Holy, feel the acceleration: Google DeepMind researchers are already thinking past AGI: In a new DeepMind Institute…](<https://x.com/kimmonismus/status/2123442644877799789>)  
+  Holy, feel the acceleration: Google DeepMind researchers are already thinking past AGI: In a new DeepMind Institute essay, Tim Genewein says AGI is "coming within reach" and lays out four paths to superintelligence: -bigger models and data, -new paradigms, -mi…  
+  @kimmonismus · 2026-11-19 23:45
 
-- [NVIDIA Gives Qwen3.8-27B a 4B Speculative Decoding Upgrade Running a 27B model locally can be frustrating when gene…](<https://x.com/Oluwaphilemon1/status/2123203920587522531>)  
-  NVIDIA has introduced an official speculative decoding companion for Qwen3.8-27B, called Qwen3.5-4B-Qwen3.8-27B-Draft. The  
-  @Oluwaphilemon1 · 2026-11-19 07:57
+- [Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市…](<https://x.com/rohanpaul_ai/status/2123441720214106148>)  
+  Anthropic CEO Dario Amodei、联合创始人 Daniela Amodei 等参与了 Nasdaq 开市敲钟仪式，标志着史上最大规模 IPO 的开始。图片来源标注为 Michael Nagle/Bloomberg News。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 23:42
 
-- [AI security deserves serious attention](<https://x.com/Liyasweet21/status/2123203854883827734>)  
-  @Liyasweet21 · 2026-11-19 07:57
+- [Hugging Face CEO 祝贺 Anthropic 并呼吁更多开源 AI](<https://x.com/ClementDelangue/status/2123441379036537237>)  
+  Hugging Face CEO Clément Delangue 发推祝贺 Anthropic 及其 $ANT 团队，并希望其下一阶段带来更多开放科学与开源 AI。他表示许多开发者正需要 Anthropic 的帮助与贡献，以对抗权力、能力和财富的集中。  
+  X：Clément Delangue（Hugging Face CEO） \(@ClementDelangue\) · 2026-11-19 23:40
 
-- [openai guy getting trapped in a waymo is actually really funny sorry](<https://x.com/ch3rryxx13/status/2123203761598558288>)  
-  @ch3rryxx13 · 2026-11-19 07:56
+- [🚨 WARNING: ANTHROPIC IPO WILL CRASH THE MARKETS\!\!](<https://x.com/CryptoNobler/status/2123440810716762204>)  
+  This will be the biggest liquidity drain in history. $ANT just went public at a $1.5 TRILLION valuation. And that money doesn't come out of thin air. People who want to buy Anthropic HAVE TO sell whatever they already own.  
+  @CryptoNobler · 2026-11-19 23:38
 
-- [🚨 硅谷突发大地震！马斯克刚刚亲口证实：他不仅想挖走黄仁勋，而且已经“亲自和他谈过了”！👇 比《权力的游戏》还要魔幻的商战…](<https://x.com/Baoliaogeming64/status/2123203425588350993>)  
-  英伟达董事会拒绝了黄仁勋重返 CEO  
-  @Baoliaogeming64 · 2026-11-19 07:55
+- [When Jensen Huang returns as CEO of Nvidia, it will be the greatest comeback since Michael Jordan.](<https://x.com/MarioNawfal/status/2123439908547150137>)  
+  Writer: Samuel  
+  @MarioNawfal · 2026-11-19 23:35
 
-- [🚨 ARTEX: a self-hosted, AI-driven penetration testing platform built around autonomous multi-agent workflows GitHub…](<https://x.com/DarkWebInformer/status/2123201870789271827>)  
-  🚨 ARTEX: a self-hosted, AI-driven penetration testing platform built around autonomous multi-agent workflows GitHub: ARTEX uses an LLM planner to break penetration-testing goals into tasks, while worker agents execute real security tools and  
-  @DarkWebInformer · 2026-11-19 07:49
+- [Elon Musk had a classic response when OpenAI asked him for some of his compute “He said, ‘Dude, you stole my charit…](<https://x.com/TheChiefNerd/status/2123439796563464359>)  
+  Elon Musk had a classic response when OpenAI asked him for some of his compute “He said, ‘Dude, you stole my charity\!’” 🤣  
+  @TheChiefNerd · 2026-11-19 23:34
 
-- [Elon Musk explains why firing Jensen Huang from Nvidia is like kicking Michael Jordan off the Bulls: “I would call…](<https://x.com/KanekoaTheGreat/status/2123200109999747413>)  
-  Elon Musk explains why firing Jensen Huang from Nvidia is like kicking Michael Jordan off the Bulls: “I would call Jensen like Michael Jordan, perhaps at his peak level, in terms of what he means to a team.” “Let’s say you’re the Chicago Bulls, middle of your …  
-  @KanekoaTheGreat · 2026-11-19 07:42
+- [At least six Chinese universities blacklisted by the US government have reported purchasing restricted Nvidia compu…](<https://x.com/CNN/status/2123439006578798636>)  
+  At least six Chinese universities blacklisted by the US government have reported purchasing restricted Nvidia computer chips in recent years, a CNN review of business records found – highlighting US difficulties in controlling access to the in-demand technolog…  
+  @CNN · 2026-11-19 23:31
 
-- [黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售](<https://x.com/thexpin/status/2123199944903581803>)  
-  围绕英伟达前高管黄仁勋及AI芯片转运传闻，美国商务部与司法部就Megaspeed发布联合声明，未认定存在违规芯片销售，也未将该公司列入实体清单；英伟达此前已主动切断对Megaspeed的供应。相关声明未提及间谍行为，新加坡内政部亦表示未就间谍问题调查该公司负责人。  
-  X：X.PIN \(@thexpin\) · 2026-11-19 07:41
+- [Anthropic 股票或以每股 104 美元开盘，高于 83 美元 IPO 定价约 25%](<https://x.com/KateClarkTweets/status/2123438598879871008>)  
+  Anthropic 股票预计以每股 104 美元开盘，较 83 美元的 IPO 发行价高出约 25%。  
+  X：Kate Clark \(@KateClarkTweets\) · 2026-11-19 23:29
 
-- [Anthropic IPO 定价 83 美元一股，即将登陆 Nasdaq](<https://x.com/indigox/status/2123199094680351131>)  
-  Anthropic 宣布 IPO 定价 83 美元/股，预计明日开始在 Nasdaq 交易。招股书由 SEC 于 2026 年 11 月 18 日宣布生效，承销方包括 Goldman Sachs 和 Morgan Stanley，公告原文见 anthropic.com。  
-  X：indigo \(@indigox\) · 2026-11-19 07:38
+- [BREAKING: The S&amp;amp;P 500 erases gains and turns negative on the day as markets anticipate the Anthropic, $ANT, whi…](<https://x.com/KobeissiLetter/status/2123438412279808302>)  
+  BREAKING: The S&amp;amp;P 500 erases gains and turns negative on the day as markets anticipate the Anthropic, $ANT, which is set to debut shortly.  
+  @KobeissiLetter · 2026-11-19 23:29
 
-- [Gemini 4 Neon 上线 Cursor](<https://x.com/cursor_ai/status/2123198346802450926>)  
-  Gemini 4 Neon 现已在 Cursor 上线！ 在默认强度下，它在 CursorBench 4.1 上创下新的性价比前沿，得分 63.7%，高于 Gemini 4 Hydrogen 的 57.3%。 定价为每百万输入 token 3 美元、每百万输出 token 15 美元。  
-  X：Cursor \(@cursor\_ai\) · 2026-11-19 07:35
+- [Why the Nvidia-Huang-Trump scandal may be the most important scandal ever.](<https://x.com/DavidCornDC/status/2123437873588572643>)  
+  My latest:  
+  @DavidCornDC · 2026-11-19 23:26
 
-- [看到黄仁勋的这张英伟达内部管理组织架构图，我完全惊呆了❗️ 四万亿美元的公司，你猜管理层有几层？](<https://x.com/Dragonhau66/status/2123197766440518056>)  
-  踏马的就只有一层！！！ 三十多号人，全直接怼到黄仁勋一个人面前。高峰期六十几个。没有二把手，没有接班人，谁也不管谁，各干各的，全都只对老黄汇报。  
-  @Dragonhau66 · 2026-11-19 07:32
+- [Yapay zeka uygulaması Claude'ın şirketi Anthropic 1.5 trilyon $ değerle halka arz edildi. Şirketin 2.800 çalışanı g…](<https://x.com/barissoydan/status/2123437772602220590>)  
+  Bizim halka arzlar da birilerini dolar milyarderi yaptı ama yapay zekayla değil dolandırıcılıkla.  
+  @barissoydan · 2026-11-19 23:26
 
-- [Anthropic 将 IPO 定价定为每股 83 美元，明日登陆纳斯达克](<https://x.com/AnthropicAI/status/2123196808675405860>)  
-  Anthropic 宣布 IPO 定价为每股 83 美元，交易预计次日在纳斯达克开始。其 Class A 普通股注册声明已于 2026 年 11 月 18 日获 SEC 生效，本次发行仅通过招股说明书进行，承销方包括 Goldman Sachs 与 Morgan Stanley。  
-  X：Anthropic \(@AnthropicAI\) · 2026-11-19 07:29
+- [Our IITs are cooked.](<https://x.com/iprabhat_/status/2123436814581280887>)  
+  Almost 75% Seats are already reserved if you include all types of reservation including women and EWS. You cannot do world class research with only 25% merit We can never create AI Models like Claude, neither Chips like NVIDIA, nor games like GTA 6. Our  
+  @iprabhat\_ · 2026-11-19 23:22
 
-- [JUST IN: Elon Musk says no one can replace Nvidia $NVDA founder Jensen Huang.](<https://x.com/WatcherGuru/status/2123195725932634386>)  
-  @WatcherGuru · 2026-11-19 07:24
+- [BREAKING: Anthropic rings the Nasdaq opening bell after raising $107 billion in the biggest IPO in history.](<https://x.com/BullTheoryio/status/2123436740249792911>)  
+  Then they told investors something you almost never hear on IPO day: 1. "We will not bend to either business nor political pressure." 2. Anthropic will slow down the  
+  @BullTheoryio · 2026-11-19 23:22
 
-- [From washing dishes at Denny’s to building NVIDIA.](<https://x.com/TheJensenLetter/status/2123195574208061769>)  
-  What a journey. Over 200,000 signatures and counting. Jensen has heard us. Now the Board needs to listen. Keep signing and sharing. Let's make our voices heard. 💚 \#standwithjensen \#bringjensenback  
-  @TheJensenLetter · 2026-11-19 07:24
+- [Gerstner: The Nvidia board may have jumped the gun and fired Jensen without doing a proper investigation\!](<https://x.com/Ignis_Rex/status/2123435591320891761>)  
+  Brad Gerstner is the founder, chairman, and CEO of Altimeter Capital and major investor in Nvidia. Gerstner practiced securities law at Ice Miller LLP and served as Deputy  
+  @Ignis\_Rex · 2026-11-19 23:17
 
-- [Elon Musk says $NVDA made a mistake removing Jensen Huang confirming they’ve spoken privately and that $SPCX would…](<https://x.com/StockSavvyShay/status/2123195500044357793>)  
-  Elon Musk says $NVDA made a mistake removing Jensen Huang confirming they’ve spoken privately and that $SPCX would hire him himself “who wouldn’t?” He compared Jensen to “Michael Jordan at his peak” saying Nvidia essentially kicked its most valuable player off…  
-  @StockSavvyShay · 2026-11-19 07:23
+- [watching anthropic ipo got me wishing i’d taken us public](<https://x.com/andyreed/status/2123435470013309408>)  
+  @andyreed · 2026-11-19 23:17
 
-- [BREAKING: Elon Musk on former Nvidia chief Jensen Huang’s exit: “It's like kicking Michael Jordan off your team whe…](<https://x.com/TheInsiderPaper/status/2123195099958165724>)  
-  BREAKING: Elon Musk on former Nvidia chief Jensen Huang’s exit: “It's like kicking Michael Jordan off your team when you're on a winning streak.”  
-  @TheInsiderPaper · 2026-11-19 07:22
+- [Mustafa Suleyman 谈 Cambridge Dictionary 年度词 Human 与人本主义 AI](<https://x.com/mustafasuleyman/status/2123435440602763603>)  
+  Cambridge Dictionary 将 Human 选为年度词，Mustafa Suleyman 认为年度词反映人们的焦虑与期望。他提出我们需要人本主义的 AI，即对齐、可控、安全并服从于人类，并引用 BBC 相关报道。  
+  X：Mustafa Suleyman（Microsoft AI CEO） \(@mustafasuleyman\) · 2026-11-19 23:17
 
-- [NVIDIA 顯示卡用戶注意\! 最近的驅動可能異常消耗 SSD 壽命 11/18 國外硬體媒體 Tom’s Hardwar…](<https://x.com/Shirogane_momo/status/2123194034084872356>)  
-  NVIDIA 顯示卡用戶注意\! 最近的驅動可能異常消耗 SSD 壽命 11/18 國外硬體媒體 Tom’s Hardware TechPowerUp 報導NVIDIA 近期驅動疑似出現持續大量寫入 SSD 的問題 目前被回報的版本 621.14（11/4 發布） 621.24（11/12 發布）…  
-  @Shirogane\_momo · 2026-11-19 07:17
+- [🤖 How Anthropic Makes Money.](<https://x.com/EconomyApp/status/2123434542187110493>)  
+  Compute consumes 58 cents of every dollar of revenue. • Q3 Revenue: $17.0B \(+47% Q/Q\). • Compute costs: $9.9B \(+77% Q/Q\). • Operating loss: $567M. $ANT starts trading today. 📊  
+  @EconomyApp · 2026-11-19 23:13
 
-- [🟥 JUST NOW: Elon Musk said he has personally spoken with Jensen Huang.](<https://x.com/MAGAVoice/status/2123193883135975606>)  
-  It could be happening Imagine if SpaceX started making chips  
-  @MAGAVoice · 2026-11-19 07:17
+- [pero mirá lo que es ese video. el nivel de Anthropic para comunicar es de otro planeta](<https://x.com/santtiagom_/status/2123434336615633168>)  
+  @santtiagom\_ · 2026-11-19 23:12
 
-- [This woman hasn't even had time to warm up the CEO chair, and she's already telling employees to leave Jensen Huang…](<https://x.com/ClownWorld/status/2123193254078529869>)  
-  Holy shit. 🤦‍♂️  
-  @ClownWorld · 2026-11-19 07:14
+- [Anthropic $ANT lockup schedule….](<https://x.com/sp3cul8r/status/2123434255737098646>)  
+  Woweee  
+  @sp3cul8r · 2026-11-19 23:12
 
-- [🚨 HOLY CRAP\!](<https://x.com/RyanAFournier/status/2123192829447225687>)  
-  Elon Musk says he’d LOVE to hire Jensen Huang and has already spoken to him\! Meanwhile, Nvidia’s board REFUSES to bring him back, despite nearly 200,000 petition signatures. One of the greatest CEOs in history, and Nvidia’s board is pushing him away. INSANITY\!  
-  @RyanAFournier · 2026-11-19 07:13
+- [Anthropic raised more in its IPO than Alibaba, Facebook, Uber, Google, Tesla, Apple, Microsoft, Amazon and Nvidia c…](<https://x.com/SteveRattner/status/2123433920070930555>)  
+  Anthropic raised more in its IPO than Alibaba, Facebook, Uber, Google, Tesla, Apple, Microsoft, Amazon and Nvidia combined.  
+  @SteveRattner · 2026-11-19 23:11
 
-- [我的天哪 Ackman 太给力了 直接开骂英伟达董事会了。](<https://x.com/pu3he/status/2123192774975709501>)  
-  他凌晨在 X 上发了篇长文，说英伟达董事会没替股东着想，也没尽到受托责任。黄仁勋是因为被指控跟间谍有染，被开除或者被逼辞职的，可董事会连事实都没摸清，就急着拍了板。  
-  @pu3he · 2026-11-19 07:12
+- [NOOO JASON SALI DE AHI ES UNA ESPIA ASI LE HICIERON AL JENSEN HUANG ANTES DE PERDER NVIDIA\!\!\!](<https://x.com/therealbuni/status/2123433827167031533>)  
+  @therealbuni · 2026-11-19 23:10
 
-- [JUST IN: Elon Musk compares Jensen Huang's removal from Nvidia to kicking Michael Jordan off the Chicago Bulls in t…](<https://x.com/Kalshi/status/2123192527410848164>)  
-  JUST IN: Elon Musk compares Jensen Huang's removal from Nvidia to kicking Michael Jordan off the Chicago Bulls in the middle of a winning streak  
-  @Kalshi · 2026-11-19 07:12
+- [DeepMind Institute Our new essay examines the path from AGI to ASI \(Artificial General Super Intelligence\) Read it…](<https://x.com/ShaneLegg/status/2123433633692495908>)  
+  DeepMind Institute Our new essay examines the path from AGI to ASI \(Artificial General Super Intelligence\) Read it here:  
+  @ShaneLegg · 2026-11-19 23:10
 
-- [Gemini 4 Neon 登上 Agent Arena Index 第 2，Google DeepMind 发布节奏加快](<https://x.com/arena/status/2123192239761596566>)  
-  Arena 指出 Google DeepMind 发布节奏加快，Gemini 4 系列各代发布间隔从 Argon 到 Carbon 的 28 天缩短到 Hydrogen 到 Neon 的 6 天。其引用的榜单显示 Gemini 4 Neon \(High\) 以 1336 分位列 Agent Aren…  
-  X：Arena \(@arena\) · 2026-11-19 07:10
+- [Nvidia went public at 0.04% of ANT's valuation "The difference is that those companies were worth a fraction of Ant…](<https://x.com/zerohedge/status/2123433417240916259>)  
+  Anthropic would have to be worth several quadrillion dollars to deliver a  
+  @zerohedge · 2026-11-19 23:09
 
-- [🟥 JUST IN: Elon Musk said he would love to Hire Jensen Huang “who wouldn’t want to hire Jensen” Elon Musk is extrem…](<https://x.com/MAGAVoice/status/2123192042394374583>)  
-  🟥 JUST IN: Elon Musk said he would love to Hire Jensen Huang “who wouldn’t want to hire Jensen” Elon Musk is extremely LOYAL THIS WOULD BE HUGE  
-  @MAGAVoice · 2026-11-19 07:10
+- [Cómo se siente pedirle a DeepSeek que te desglose la info de un excel](<https://x.com/LaPanteraAugust/status/2123432620897845527>)  
+  @LaPanteraAugust · 2026-11-19 23:06
 
-- [🚨 JUST IN: Elon Musk says he'd LOVE to hire Jensen Huang and he's SPOKEN TO HIM "Who WOULDN'T?](<https://x.com/EricLDaugh/status/2123191395485618261>)  
-  He's incredibly talented. He's one of the most talented entrepreneurial CEOs in HISTORY." "Now, Jensen's not looking for a job." "I don't know what happens next. The decision is up  
-  @EricLDaugh · 2026-11-19 07:07
+- [Jensen n’était que le fusible.](<https://x.com/Guigz75116/status/2123432392429875611>)  
+  Anthropic entre en Bourse cette semaine \(ANT, environ 1 500 milliards, plus gros IPO de l’hsitoire\). En parallèle, Nvidia \(et Google\) injectent 10 milliards chacun dans le placement privé. Et pendant ce temps, Anthropic recrute en cascade  
+  @Guigz75116 · 2026-11-19 23:05
 
-- [OpenAI 发布报告展示 AI 如何加速其内部研究](<https://x.com/OpenAI/status/2123191365983248653>)  
-  OpenAI 发布新报告，分享 AI 如何改变其内部研究的数据。报告发现研究者使用 AI 的程度持续指数级上升，智能体能完成更长的任务，但人类参与仍是核心；在安全与对齐上投入的人力增速超过其他任何研究领域。  
-  X：OpenAI \(@OpenAI\) · 2026-11-19 07:07
+- [Unsloth 与 AMD 合作支持 NPU 推理](<https://x.com/UnslothAI/status/2123432043094913429>)  
+  我们与 @AMD 合作，将本地模型推理带到 AMD NPU 上。 NPU 提供强大的计算性能，同时功耗比传统 GPU 低 2–4 倍。 我们携手实现了更低功耗运行模型！ Strix、Gorgon、Krackan 等。 博客：  
+  X：Unsloth \(@UnslothAI\) · 2026-11-19 23:03
 
-- [Elon Musk says Nvidia made a mistake removing Jensen Huang, confirms he's spoken with him privately and says he wou…](<https://x.com/wallstengine/status/2123190933936312640>)  
-  Elon Musk says Nvidia made a mistake removing Jensen Huang, confirms he's spoken with him privately and says he would hire him himself: "who wouldn't?" "I would call Jensen, Michael Jordan, perhaps at his peak level, in terms of what he means to a team." "You …  
-  @wallstengine · 2026-11-19 07:05
+- [Arena 推出 Coding Index，GPT-6.2 Astra \(Max\) 以 1338 分位列第 3](<https://x.com/arena/status/2123431957308871030>)  
+  Arena 推出 Coding Index，衡量各智能体在真实编码工作上的表现。  
+  X：Arena \(@arena\) · 2026-11-19 23:03
 
-- [Greg Brockman 确认 OpenAI 与研究者协作披露 NGINX 1.31.8 漏洞 NGINX2Shell](<https://x.com/gdb/status/2123190766382075992>)  
-  安全研究者 @ikotas00 发现 NGINX 1.31.8 主线版本中的预认证远程代码执行漏洞 NGINX2Shell，并称从发现到披露全程与 OpenAI 紧密协作。Greg Brockman 转发确认 OpenAI 进一步开展此类协作，帮助保障互联网安全，覆盖发现到负责任披露的全过程。  
-  X：Greg Brockman \(@gdb\) · 2026-11-19 07:05
+- [Seaport just won the internet, and it's not even close: "Anthropic could develop AI systems which become fully auto…](<https://x.com/zerohedge/status/2123431214983864444>)  
+  Seaport just won the internet, and it's not even close: "Anthropic could develop AI systems which become fully autonomous and wipe out humanity which may lead to a serious decline in earnings."  
+  @zerohedge · 2026-11-19 23:00
 
-- [JUST IN: Anthropic researcher predicts AI will leave nearly every human "permanently unemployable" &amp;amp; reliant on…](<https://x.com/Polymarket/status/2123190032525611248>)  
-  JUST IN: Anthropic researcher predicts AI will leave nearly every human "permanently unemployable" &amp;amp; reliant on government welfare to survive.  
-  @Polymarket · 2026-11-19 07:02
+- [BREAKING: Anthropic CEO Dario Amodei rings the Nasdaq opening bell to mark the largest IPO in history.](<https://x.com/Polymarket/status/2123430023986376719>)  
+  @Polymarket · 2026-11-19 22:55
 
-- ["Trump is worse than weak.](<https://x.com/BulwarkOnline/status/2123189600180936818>)  
-  He is, and has always been, for sale. We didn’t need the Nvidia scandal to prove this, but it does put a flag on it."  
-  @BulwarkOnline · 2026-11-19 07:00
+- [Anthropic has 5,300 employees and the majority are about to become millionaires… \~2,500 will have stakes over $10+…](<https://x.com/Geiger_Capital/status/2123429432849260959>)  
+  Anthropic has 5,300 employees and the majority are about to become millionaires… \~2,500 will have stakes over $10+ million \~600 will have stakes over $100+ million  
+  @Geiger\_Capital · 2026-11-19 22:53
 
-- [🚨 NOW: Elon Musk says Nvidia made a HORRIBLE MOVE by forcing out Jensen Huang "I DON'T THINK HE'S DISLOYAL TO THE U…](<https://x.com/EricLDaugh/status/2123189133443002640>)  
-  DOESN'T seem like a smart decision to me\!"  
-  @EricLDaugh · 2026-11-19 06:58
+- [🔴Ministra Ximena Lincolao por firma del acuerdo con OpenAI: "A nosotros el miedo no nos puede paralizar".](<https://x.com/Gorderizador/status/2123429164388856143>)  
+  @Gorderizador · 2026-11-19 22:52
 
-- [En 4 días hackearon aviones, binance, bancos, microsoft, apple y la NSA.](<https://x.com/elmauro1/status/2123189034096943286>)  
-  Hoy lanzaron el GTA y ya no hay más hackeos. Quizá la mejor herramienta de cyberseguridad sea darle un joystick a los gordos hackeo.  
-  @elmauro1 · 2026-11-19 06:58
+- [🚨 BREAKING: NVIDIA $NVDA will SOAR to $250 in one trading day if Founder Jensen Huang is reinstated, the largest In…](<https://x.com/MichaelSmith__1/status/2123428252459090011>)  
+  If the board does not reinstate him IMMEDIETLY, they are acting against their fiduciary duty to the shareholders.  
+  @MichaelSmith\_\_1 · 2026-11-19 22:48
 
-- [OpenAI 后台任务支持 2h/8h completion\_window，分别比 Standard 便宜 30% 和 4…](<https://x.com/OpenAIDevs/status/2123188224847982655>)  
-  OpenAI 开发者账号介绍后台任务计费：把 completion\_window 设为 2h，每 token 价格比 Standard 低 30%；设为 8h 低 40%。发送 notes 时设置 continuation ID 并在后续请求中复用，可获得更高的队列优先级。文档见  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-19 06:54
+- [$ANT - ANTHROPIC IPO LEAVES OVER HALF OF INSTITUTIONAL INVESTORS EMPTY-HANDED Anthropic's record-breaking IPO left…](<https://x.com/DeItaone/status/2123427269683134633>)  
+  Approximately 1,200 institutional investors submitted orders, with allocations heavily  
+  @DeItaone · 2026-11-19 22:44
 
-- [OpenAI 推出 Responses API background mode 折扣窗口，GPT-6.2 每 token…](<https://x.com/OpenAIDevs/status/2123188195202617408>)  
-  OpenAI 宣布针对无需立即响应的单轮或多轮工作流，GPT-6.2 Astra 和 GPT-6.2 Sol 在 Responses API background mode 下每 token 价格比 Standard 低最多 40%。用户可为首个响应选择 2 小时或 8 小时目标窗口，该折扣窗口现…  
-  X：OpenAI Developers \(@OpenAIDevs\) · 2026-11-19 06:54
+- [🚨 JUST NOW: It's been revealed that American reporters got into a SCRUM with Chinese and Russian media as they trie…](<https://x.com/EricLDaugh/status/2123426975926661387>)  
+  🚨 JUST NOW: It's been revealed that American reporters got into a SCRUM with Chinese and Russian media as they tried rushing in to get images of the Trump-Xi-Putin events A BLOOMBERG reporter was even BLOCKED from a meeting because they asked if Jensen Huang w…  
+  @EricLDaugh · 2026-11-19 22:43
 
-- [How Jensen Huang deals with life's hardest challenges.](<https://x.com/Edison1HQ/status/2123187690359382211>)  
-  @Edison1HQ · 2026-11-19 06:52
+- [What happens when AI becomes too powerful for even its creators to control?](<https://x.com/ActionModelAI/status/2123426737694388318>)  
+  Google DeepMind CEO Demis Hassabis is warning that we need stronger guardrails for AI before it's too late. And when someone building some of the world's most advanced AI systems raises that concern,  
+  @ActionModelAI · 2026-11-19 22:42
 
-- [Netlify 品牌更新：用自然语言描述应用并由 AI Agent 构建发布](<https://x.com/rohanpaul_ai/status/2123186974261715000>)  
-  Netlify 发布新品牌，用户可用自然语言描述应用，由 AI Agent 在实时预览中构建并发布，开发者可从 Git 或自己的工具接手。作者 Rohan Paul 评论称，Netlify 已服务近 2500 万用户，现在外部 Agent 可通过 MCP、Drop 或 CLI 连接，与 Agent…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 06:49
+- [BREAKING: The Nasdaq 100 extends gains to +2% on the day as Nvidia, $NVDA, rises over +4% and traders await the Ant…](<https://x.com/KobeissiLetter/status/2123426312937210221>)  
+  BREAKING: The Nasdaq 100 extends gains to +2% on the day as Nvidia, $NVDA, rises over +4% and traders await the Anthropic IPO.  
+  @KobeissiLetter · 2026-11-19 22:40
 
-- [BREAKING: Anthropic is set to have its IPO tomorrow pricing each share at $83, giving the company a value of $1.5 t…](<https://x.com/spectatorindex/status/2123186928199831802>)  
-  BREAKING: Anthropic is set to have its IPO tomorrow pricing each share at $83, giving the company a value of $1.5 trillion, according to Bloomberg report.  
-  @spectatorindex · 2026-11-19 06:49
+- [🚨THE REAL DANGER ISN’T THAT JENSEN HUANG WAS PUSHED OUT.](<https://x.com/DustinHuntwn/status/2123426067427815456>)  
+  THE REAL DANGER IS THIS: Nvidia’s core engineers are already saying it out loud: “If the board doesn’t bring Jensen back, we’re going straight to SpaceX and Terafab.” And they’re claiming Elon has already reserved  
+  @DustinHuntwn · 2026-11-19 22:40
 
-- [Elon on Jensen Huang: “Jensen is a friend of mine.](<https://x.com/amitisinvesting/status/2123186757298520332>)  
-  There is no one that can replace him. He’s managing a supply chain. He has long term relationships built over decades. His team loves him, they are there because of him and turned down offers to leave because of Jensen. You  
-  @amitisinvesting · 2026-11-19 06:49
+- [Deepnote 发布 apps 托管 Claude Code 或 Codex 编写的内部数据应用](<https://x.com/rohanpaul_ai/status/2123425817242071118>)  
+  Deepnote 发布新的 apps 功能，用于托管团队在 Claude Code 或 Codex 等 Agent 里 vibe-code 出的内部应用，定位类似 Vercel 之于网站，但接入公司数据和权限。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 22:39
 
-- [Elon Musk on Jensen Huang in new interview a few minutes ago: “I consider Jensen a friend.](<https://x.com/SawyerMerritt/status/2123186694828466457>)  
-  I would call Jensen like Michael Jordan at peak level in terms of what he means to a team. There no-one that can replace Jensen. His team loves him. Loves him. Many are there because of  
-  @SawyerMerritt · 2026-11-19 06:48
+- [BREAKING: Anthropic makes its debut on the US stock market, marked by the clattering of bells to signify the start…](<https://x.com/SkyNews/status/2123425610747847056>)  
+  Back in London, Sky's Business and economics correspondent @pkelso shares his expertise 📺 Sky 501  
+  @SkyNews · 2026-11-19 22:38
 
-- [Research scientist at NVIDIA btw.](<https://x.com/cgtwts/status/2123186398970958158>)  
-  @cgtwts · 2026-11-19 06:47
+- [Jensen Huang really sold a lot of product into China after the export restrictions.](<https://x.com/joshtpm/status/2123425398230773982>)  
+  @joshtpm · 2026-11-19 22:37
 
-- [Elon Musk says kicking Jensen Huang out of Nvidia is like kicking Michael Jordan off the Bulls in the middle of a w…](<https://x.com/firesidealpha/status/2123186269601874077>)  
-  Jensen is an old friend of mine. I would call Jensen Michael Jordan,  
-  @firesidealpha · 2026-11-19 06:47
+- [Donald Trump and Howard Lutnick were co-conspirators with Jensen Huang in the largest technology smuggling operatio…](<https://x.com/jimstewartson/status/2123425100645241329>)  
+  Donald Trump and Howard Lutnick were co-conspirators with Jensen Huang in the largest technology smuggling operation in American history.  
+  @jimstewartson · 2026-11-19 22:36
 
-- [Anthropic IPO 定价每股 $83，募资总额超 $94B 创纪录](<https://x.com/rohanpaul_ai/status/2123183901799846133>)  
-  Anthropic 将 IPO 定价定为每股 $83，高于 $70–$78 区间上沿 6.4%，报道称认购订单达发行股份的最多 6 倍，约 20% 份额留给散户（通常为 5%–10%）。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-19 06:37
+- [Anthropic $ANT just rang the opening bell for the stock market today at the NASDAQ exchange](<https://x.com/StockMKTNewz/status/2123424361147408623>)  
+  @StockMKTNewz · 2026-11-19 22:33
 
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 33 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 38 页

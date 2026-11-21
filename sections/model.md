@@ -40,6 +40,26 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 ## 相关资讯 · 285 条
 
+- [谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆](<https://36kr.com/p/4078984519750789?f=rss>)  
+  谷歌内部，或许真正实现了RSI！ 从此，Gemini已能「继承经验」持续自我进化，Gemini新模型不再从零开始！ 或许也正是这个原因，谷歌最近跟疯了似的不停发模型。 Gemini 4 Hydrogen才发布不到一周，更强的Gemini 4  
+  36氪 · 2026-11-21 12:06
+
+- [腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型](<https://www.ithome.com/1/030/338.htm>)  
+  IT之家 11 月 21 日消息，11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。 问答环节，有人询问：…  
+  IT之家 · 2026-11-21 11:24
+
+- [OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%](<https://www.ithome.com/1/030/319.htm>)  
+  IT之家 11 月 21 日消息，当地时间 11 月 20 日，OpenAI 发布公告介绍了针对「对抗性蒸馏」（Adversarial Distillation）的防御措施。 OpenAI 称其已加强 GPT-6.2 Astra 和…  
+  IT之家 · 2026-11-21 09:45
+
+- [Edge AI Daily 早报（11月21日）](<https://www.tmtpost.com/8213305.html>)  
+  苹果以Siri争夺系统级代理入口，OpenAI将ChatGPT改为多模块工作台，微软用USB4 RDMA聚合多机算力，谷歌直采HBM重构TPU供应链。亚洲股市创2020年3月以来最大单周跌幅，AI支出进入回报审计。  
+  钛媒体 · 2026-11-21 09:19
+
+- [AI供电前史： 照明、汽车与工业电子如何汇入算力基础设施](<https://36kr.com/p/4078758591960197?f=rss>)  
+  2008年北京奥运会，国家游泳中心“水立方”在夜色中变成了一块巨大的蓝色发光体。支撑这幅科技奥运景观的，是当时仍在快速产业化的发光二极管（LED）照明。对观众来说，这是一个醒目的城市景观；对产业来说，它是中国半导体照明产业交上的一份应用验证  
+  36氪 · 2026-11-21 09:05
+
 - [匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品](<https://www.ithome.com/1/030/291.htm>)  
   IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Design Benchmark。 其中，一款代号为 Gestalt、目前处于隐身开发状态（Ste…  
   IT之家 · 2026-11-21 07:17
@@ -64,15 +84,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   特朗普在与习近平和普京峰会后的新闻发布会上表示，不允许美国公司在海外建设数据中心，否则将对其征收「巨大税收」（tremendous tax），称否则「中国会全部拿走」。他称这一想法尚未告知自己的团队，且未给出具体细节；同时美国多州正在对数据中心新建申请设限，而数月内就职的民主党多数国会可能使该计划难以落实。  
   The Verge：AI（RSS） · 2026-11-21 02:50
 
-- [Anthropic与SpaceX两大IPO前一个月，比特币均跌22%，流动性逻辑如何驱动后](<https://www.163.com/dy/article/LC7ML3VG05198NMR.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 02:20
-
 - [RadixArk 发布纯 RL 训练的智能体编码模型 DaisyRose-27B，权重采用 Apache 2.0](<https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/>)  
   RadixArk 本周发布首个开放权重模型 DaisyRose-27B，基于 Qwen3.8-27B 仅用强化学习做后训练，不使用 SFT 或蒸馏，权重以 Apache 2.0 开源。  
   MarkTechPost（RSS） · 2026-11-21 01:42
-
-- [黄仁勋被传募资500亿美元创业，Anthropic上市首日遭硅谷联合抵制，腾讯大幅](<https://www.163.com/dy/article/LC7KPGF4051196HN.html>)  
-  网易科技频道 · 网易号 · 2026-11-21 01:35
 
 - [本周 AI 观察：智能体商务受阻、NVIDIA 领导层变动与 AI 可靠性研究](<https://www.oreilly.com/radar/this-week-in-ai-ais-next-reality-check/>)  
   本期 AI 观察聚焦 AI 在商业应用中暴露的新挑战：Anthropic 将 Claude 升级为更广泛的工作平台，推出 Fable 5.2 与 Mythos 5.2 模型及 Claude Meetings、Sheets、Whiteboards、Data，并扩展自托管智能体基础设施；OpenAI 将购物流程引入 ChatGPT，推出企业资料与 ChatGPT Wallet，但航空公司、银行与零售商正限制外部智能体接入。NVIDIA 方面，创始人黄仁勋辞任 CEO，董事会启动调查，长期 CFO Colette Kre…  
@@ -100,10 +114,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 - [How Anthropic Upstaged OpenAI on Road to Blockbuster IPO](<https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo>)  
   The Information · 2026-11-20 22:18
-
-- [Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜](<https://www.ithome.com/1/030/246.htm>)  
-  IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，Anthropic 上市次日股价下跌，令低迷的 AI 板块雪上加霜。这场备受期待的 IPO，也没能重新点燃投资者的热情。 作为 AI 投资热潮的重要风向标，Anthr…  
-  IT之家 · 2026-11-20 22:05
 
 - [Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫](<https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off>)  
   Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。  
@@ -133,10 +143,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   生数科技创始人朱军、CTO 鲍凡领衔团队的“高效可扩展的扩散模型理论与方法”成果获 2025 年度北京市自然科学奖一等奖。该成果在扩散模型基础理论、采样算法与模型架构三方面取得突破，其中免训练采样方法实现近百倍加速，并被 Diffusers 等开源工具库集成。相关研究为生数科技 Vidu 视频生成大模型及 Vidu Q、Vidu S 系列提供技术支撑。  
   公众号：生数科技（Vidu·视频） · 2026-11-20 18:58
 
-- [DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权](<https://www.ithome.com/1/030/199.htm>)  
-  IT之家 11 月 20 日消息，工商信息显示，DeepSeek 运营主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）。 IT之家查询国家企业信用信息公示系统获悉，杭州深度…  
-  IT之家 · 2026-11-20 18:47
-
 - [50天推出4款模型，谷歌想当“造物主”了？](<https://36kr.com/p/4077865913407366?f=rss>)  
   OpenAI时隔75天的顶级模型刚刚发布， 社区里的吐槽就炸开了。 有人直言新模型“几乎没法用”，有人抱怨它过分谨慎、难以指挥，还有人认为，这家伙解释起自己的工作就像在“说外星话”。 甚至有人用漫画玩了个梗，吐槽GPT-6.2 Astra的  
   36氪 · 2026-11-20 18:41
@@ -165,10 +171,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Nous Research 宣布开源 Hermes Agent 将可直接在 Microsoft Teams 内运行，员工可把财务分析、文档起草或收件箱整理等任务交给它并在同一聊天中审阅结果。该智能体运行于 Azure Container Apps 沙箱（隔离微虚拟机）中，会自动将成功的工作流转化为由描述和代码组成的可复用技能；新功能 Collective Wisdom 允许员工在审核后与团队共享这些技能，且收集的知识保留在公司内部，不会进入任何 AI 提供商的训练数据。Nous 称 Hermes Agent 是 O…  
   The Decoder：AI News（RSS） · 2026-11-20 17:59
 
-- [Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？](<https://www.tmtpost.com/8212716.html>)  
-  这场上市真正的赢家不在敲钟的那几个人里，在那七家收着算力钱又拿着股票的公司身上，它们把未来十五年的订单提前折成了今天的股权。  
-  钛媒体 · 2026-11-20 17:22
-
 - [Anthropic 上市当天，前研究员考克森在其总部外抗议呼吁禁止 AI 递归自我改进](<https://www.ithome.com/1/030/127.htm>)  
   据《商业内幕》报道，当地时间 19 日 Anthropic 股票首次上市交易，前研究员雅各布·考克森与数十名抗议者在其旧金山总部外抗议，呼吁禁止 AI 递归自我改进，即让先进 AI 参与训练下一代 AI。  
   IT之家·人工智能 · 2026-11-20 17:06
@@ -180,6 +182,10 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Anthropic 以 83 美元定价完成史上最大 IPO，上市首日估值近 2 万亿美元](<https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/>)  
   Anthropic 以每股 83 美元在纳斯达克上市（代码 $ANT），融资 813 亿美元超过 SpaceX 成为史上最大 IPO，首日开盘价 111.50 美元、较发行价高 34.3%，完全稀释估值约 2 万亿美元。  
   Latent Space（RSS） · 2026-11-20 15:12
+
+- [OpenAI 开发者分享在 Codex 中用 Ultrafast 保持心流的使用方法](<https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast>)  
+  OpenAI 开发者介绍如何用本周发布的 GPT-6.2 Astra 和 Sol Ultrafast（token 生成最快提速 4.5×）保持迭代心流。做法包括用热重载 dev server、在应用内浏览器保持预览、拆成短任务、用标注和语音模式、从 Light/Low 推理起步，并把验证移出快速迭代循环。  
+  OpenAI Developers：Blog（网页） · 2026-11-20 15:00
 
 - [Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini](<https://thinkingmachines.ai/news/inkling-2-mini/>)  
   Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。  
@@ -212,9 +218,5 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
   诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
   IT桔子 · 2026-11-20 11:21
-
-- [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
-  Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
-  IT桔子 · 2026-11-20 10:30
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 7 页
