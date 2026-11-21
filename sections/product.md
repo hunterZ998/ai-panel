@@ -14,21 +14,21 @@
   Path-level GitHub access for developers and AI agents  
   Product Hunt · English · 2026-11-20 21:22
 
-- [greatai Review](<https://www.producthunt.com/products/greatai-review>)  
-  Free AI + human code review for open source &amp; nonprofits  
-  Product Hunt · English · 2026-11-20 12:56
+- [Mailpipe](<https://www.producthunt.com/products/mailpipe-2>)  
+  Draft Apple Mail replies with your local AI agent CLI  
+  Product Hunt · English · 2026-11-20 12:13
 
 - [UndoGuard](<https://www.producthunt.com/products/undoguard>)  
   The Ctrl+Z button for autonomous AI agents  
   Product Hunt · English · 2026-11-20 03:15
 
-- [Currents](<https://www.producthunt.com/products/currents-4>)  
-  Currents for Claude &amp; Codex to see all your tests  
-  Product Hunt · English · 2026-11-19 22:02
-
 - [Stormi](<https://www.producthunt.com/products/stormi>)  
   An AI team on your iPhone that does real work  
   Product Hunt · English · 2026-11-19 20:24
+
+- [Rox](<https://www.producthunt.com/products/rox-2>)  
+  Your AI companion for living with chronic illness  
+  Product Hunt · English · 2026-11-19 20:00
 
 - [Tamekoshi](<https://www.producthunt.com/products/tamekoshi>)  
   A Tamagotchi-style AI companion that does real work  
@@ -38,9 +38,9 @@
   S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
   Product Hunt 中文 · DecoHack · 2026-11-19 15:00
 
-- [Volcano](<https://www.producthunt.com/products/volcano-3>)  
-  The self-healing agent cloud by Kong  
-  Product Hunt · English · 2026-11-19 14:11
+- [InteraOne](<https://www.producthunt.com/products/interaone>)  
+  Open-source Intercom &amp; Zendesk alternative with AI agents  
+  Product Hunt · English · 2026-11-19 14:13
 
 - [Zethos](<https://www.producthunt.com/products/zethos>)  
   The ledger you and your AI work from  
@@ -85,9 +85,5 @@
 - [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
   HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  
   Product Hunt 中文 · DecoHack · 2026-11-15 15:00
-
-- [Glassmail](<https://www.producthunt.com/products/glassmail>)  
-  A fast Mac email app with AI that never leaves your Mac  
-  Product Hunt · English · 2026-11-14 23:57
 
 [返回面板](../README.md) · 第 1 / 1 页

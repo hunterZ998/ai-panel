@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 40 页
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 33 页
 
 - [It comes back on a newer phone.](<https://x.com/zerocoolspain/status/2124085281691185528>)  
   The field is only hidden while the iPhone can't run Apple's on-device model. On an iPhone 15 Pro or newer with Apple Intelligence on, it shows normally. On the older phone it stays hidden, because the AI can't run there, but you can still create  
@@ -51,10 +51,6 @@
 - [I've never known the tech world to be more unanimous about anything than they are about Jensen Huang.](<https://x.com/paulg/status/2124041291046785484>)  
   Everyone in tech thinks the board made a huge mistake. Except the board. But they are not in tech.  
   @paulg · 2026-11-21 15:24
-
-- [Rohan Paul 对照陶哲轩上月言论转发 Anthropic 数学家声称与 Claude 证明黎曼猜想的消息](<https://x.com/rohanpaul_ai/status/2124040149830926708>)  
-  Rohan Paul 引用转发称，Anthropic 数学家 Alpöge 表示他与 Claude 合作证明了 167 年未解的黎曼猜想，用时约六周，并把整个论证形式化为可机器检验的代码。作者同时附上陶哲轩上月访谈视频，陶哲轩当时表示现有 AI 无法攻克该问题，可能要到 2050 年前后由人类与…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 15:20
 
 - [If you're Nvidia's board, what do you do this weekend?](<https://x.com/KobeissiLetter/status/2124028536164139438>)  
   Your stock is down -45%, almost every government agency is investigating you, Jensen Huang says he wants to return, and shareholders are calling for you to be fired. You have 48 hours before markets reopen. What do you do?  
@@ -177,4 +173,8 @@
   The NYT is reporting that Jensen Huang once asked an employee, “What’s your name?” The employee reportedly said, “Luke.” Huang then pointed to the center of his face and asked, “What’s this?” “A nose.” Then Jensen opened his hand and asked, “What am I holding?…  
   @michaeljknowles · 2026-11-21 08:34
 
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 40 页
+- [Now look back to what I said about the Anthropic crowd being Effective Altruism.](<https://x.com/ColonelTowner/status/2123937877696381277>)  
+  Y’all are looking at the new USAID. Bookmark this.  
+  @ColonelTowner · 2026-11-21 08:33
+
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 33 页

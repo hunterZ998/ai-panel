@@ -1,10 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 40 页
-
-- [Now look back to what I said about the Anthropic crowd being Effective Altruism.](<https://x.com/ColonelTowner/status/2123937877696381277>)  
-  Y’all are looking at the new USAID. Bookmark this.  
-  @ColonelTowner · 2026-11-21 08:33
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 33 页
 
 - [BREAKING: Jensen Huang reportedly asked 3 high level executives "Guess what" before replying "Chicken Butt".](<https://x.com/MegaBasedChad/status/2123937645323825306>)  
   @MegaBasedChad · 2026-11-21 08:32
@@ -20,10 +16,6 @@
 - [Substituição dos importados: tão anos 80\!](<https://x.com/Rconstantino/status/2123934392393286064>)  
   Pesquisem sobre a Cobra, nossa “gigante” de tecnologia. Chupa, Elon Musk\! Tchau, Nvidia\!\!\!  
   @Rconstantino · 2026-11-21 08:19
-
-- [Rohan Paul 引述 Thiel 2024 年预言回应 Claude 协助证明黎曼假设的说法](<https://x.com/rohanpaul_ai/status/2123934024628596896>)  
-  作者引用 @rohanpaul\_ai 转述的消息称，Anthropic 数学 Alpöge 与 Claude 经约六周工作并形式化为机器可检验代码，宣称证明了 167 年未解的黎曼假设；作者补充 Peter Thiel 2024 年的说法，即 3 到 5 年内 AI 将能解开全美数学奥赛题，对数学…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 08:18
 
 - [Reuters just reported the SEC is investigating Nvidia accounting - now we know why the filing of its 10-Q has been…](<https://x.com/DarioCpx/status/2123933255338783063>)  
   Reuters just reported the SEC is investigating Nvidia accounting - now we know why the filing of its 10-Q has been delayed What’s a mystery to me is how Colette Kress, who was the CFO materially cooking Nvidia books while Jensen Huang was running the show, has…  
@@ -173,4 +165,12 @@
 - [トランプ氏、データセンター国外建設認めず 米中でAI安全策検討 - 日本経済新聞](<https://x.com/arublogdokusya2/status/2123929819973083173>)  
   @arublogdokusya2 · 2026-11-21 08:01
 
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 40 页
+- [💻 Local AI is going mainstream: NVIDIA's RTX Spark compact desktops from ASUS, Dell and MSI hit shelves today — run…](<https://x.com/gavinz0228/status/2123929744672788850>)  
+  💻 Local AI is going mainstream: NVIDIA's RTX Spark compact desktops from ASUS, Dell and MSI hit shelves today — running AI agents, image &amp;amp; video generation and model fine-tuning right on a Windows PC. \#NVIDIA \#AI  
+  @gavinz0228 · 2026-11-21 08:01
+
+- [GitHub 热榜今天挖到 5 个项目：AI 排查构建故障、文档转 Markdown，还有本地视频生成！](<https://x.com/divid_lu49394/status/2123929692415897984>)  
+  🔥 🟢 1. Tracer-Cloud/opensre｜AI 运维 一个面向 CI/CD 可靠性的 Agent。构建失败时，它可以读取日志、分析失败原因，并辅助提出修复方案供开发者审查。 🔗 直达：  
+  @divid\_lu49394 · 2026-11-21 08:01
+
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 33 页

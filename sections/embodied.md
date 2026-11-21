@@ -18,31 +18,18 @@
 
 - 削弱 · [Genie Sim 的 22 组配对测试中，仿真与真机得分高度一致](<https://arxiv.org/html/2611.15020v1>) · 局部反例。研究者用真机数据微调策略并对齐场景，在 22 组机器人和任务配对上测得评分相关系数 0.9686、平均绝对误差 0.0405。对这些已经校准的任务，仿真可以较好预测真机评分。该结果未检验向新材质、新设备或新生产线迁移。
 
-## 相关资讯 · 22 条
+## 相关资讯 · 16 条
+
+- [告别机器人展厅 “秀技”！全国性具身智能场景平台落户成都](<https://www.163.com/dy/article/LC9OKIVF051492T3.html>)  
+  网易科技频道 · 网易号 · 2026-11-21 21:20
 
 - [WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去](<https://36kr.com/p/4079476599772038?f=rss>)  
   “在行动和言说中，人们表明了他们是谁。” 汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。 2026年，这些词正在落到具体的人身上。 创业者带着各自的技术  
   36氪 · 2026-11-21 20:44
 
-- [手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作](<https://www.ithome.com/1/030/364.htm>)  
-  IT之家 11 月 21 日消息，智元创新（AGIBOT）与蓝思科技达成战略合作， 于手机测试产线部署智元精灵 G2 机器人 ，数十台机器人同时进行测试工位自动上下料、测试设备交互等工作。 据介绍，精灵 G2 可实现手机产品全自动转运…  
-  IT之家 · 2026-11-21 14:39
-
 - [从“刷分”打到“补缝”，机器人新竞赛升温](<https://36kr.com/p/4077960501008008?f=rss>)  
   2026年末，具身智能的商业化似乎终于等来了它的“破局点”。 过去，这个行业一直受困于“大脑”不够聪明，无法应对复杂环境；“手”不够灵活，且学习成本高昂。 但最近，两个技术突破为它们带来了新的进展。 一方面是“大脑”的外溢。 Anthrop  
   36氪 · 2026-11-20 21:34
-
-- [快手 CEO 程一笑：Kling 4.0 已进入游戏和具身智能等场景](<https://www.ithome.com/1/029/686.htm>)  
-  快手 CEO 程一笑在业绩会上表示，Kling 4.0 上线后可灵流水提升，收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU 均保持增长。  
-  IT之家·人工智能 · 2026-11-19 21:36
-
-- [MIT 扑翼微型机器人首次自带传感器与计算能力，可在动捕环境外精准降落](<https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118>)  
-  MIT 研究团队在 Science Robotics 发表研究，为仅重约一个回形针的扑翼微型机器人加装总重 244 毫米的传感与计算组件，使其脱离实验室动捕系统后仍能沿复杂轨迹飞行并精准降落在向日葵上。  
-  MIT News（RSS） · 2026-11-19 03:00
-
-- [印度 Humyn Labs 融资 4700 万美元，为美国机器人公司提供训练数据](<https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/>)  
-  印度 Humyn Labs 完成 4700 万美元 A 轮融资，其中 2600 万美元股权由 Accel 领投，2100 万美元为 Lighthouse Canton 领投的创业债务。该公司用自研双摄像头硬件记录日常任务，再通过软件标注手部动作与物体交互，在拉美和亚洲 20 多个国家采集数据，目前有 12 家付费客户，约 90% 收入来自美国。  
-  TechCrunch：AI（RSS） · 2026-11-18 19:30
 
 - [生数 Motubrain 2.0 收官首个物理 AI 全程公开训练直播](<https://mp.weixin.qq.com/s/BCQg04JuaCkzyCJ5wmgTPw>)  
   生数宣布 Motubrain 物理AI 25天全程公开训练直播收官，完成从预训练、后训练到 Agent 与 RSI 探索的阶段验证。20B 参数模型使用 250 万小时多源数据（含 200 万小时互联网视频、约 50 万小时具身数据），累计超 1 万次真机任务测试，在 RoboCasa365、EBench、LIBERO-Plus 等 6 项 Benchmark 上位列前茅。  
@@ -52,21 +39,9 @@
   百度 CEO 李彦宏与小米 CEO 雷军在深圳 Apec CEO 峰会上警告，巨额 AI 投入正超过商业回报，当务之急是开发高价值应用，否则泡沫担忧可能成真。李彦宏以工业革命电力类比，称 AI 最大经济价值在应用层，并援引青岛港 AI 智能体优化集装箱装载的案例；雷军指出真正落地的场景有限，看好 AI 手机、汽车与人形机器人。  
   Hacker News：AI 热帖 · 2026-11-17 20:30
 
-- [雷军：AI 是全新时代，小米人形机器人已在工厂实习 8 小时](<https://www.ithome.com/1/028/322.htm>)  
-  雷军在 2026 年 APEC 工商领导人峰会上表示，AI 大模型落地并实现商业闭环的公司仍较少，但 AI 走向物理世界与终端结合将带来巨大机会。他透露小米具身智能机器人已在工厂实习，能完整工作八小时并自主充电两次；小米人形机器人首次挑战中控台侧盖板排序工站 8 小时作业，家庭场景基于 Xiaomi-Robotics-1 的 Agent 系统完成超 30 分钟、3 个房间、50+ 任务验证。  
-  IT之家·人工智能 · 2026-11-17 16:16
-
-- [获 Eric Trump 背书的人形机器人公司 Foundation Future Industries 发薪失败或濒临倒闭](<https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/>)  
-  据 CNBC 报道，获 Eric Trump 投资并担任首席战略顾问的人形机器人公司 Foundation Future Industries 未能支付截至 10 月 30 日的工资周期薪酬，内部人士担心若无法继续融资公司可能很快倒闭。报道还梳理了该公司的资金缺口、发薪失败以及对外宣传与实际进展不符等疑点。  
-  Ars Technica：AI（RSS） · 2026-11-17 06:58
-
 - [Google 发布 Gemini 4 Hydrogen 并推出 Antigravity Robotics 插件](<https://developers.googleblog.com/gemini-hydrogen-for-robotics/>)  
   Google 发布面向机器人场景的 Gemini 4 Hydrogen，主打更快的空间与具身推理，ERQA 平均分 84.8，超过 Gemini Robotics ER 2 的 75.5；在 Artificial Analysis Robotics 0.1 基准上得 58 分，接近 Argon 且每 token 成本更低。  
   Google Developers Blog（RSS） · 2026-11-17 00:00
-
-- [智元发布 WITA-Omni：行业首个具身全模态端到端交互大模型](<https://www.agibot.com.cn/article/315/detail/270.html>)  
-  智元正式发布 WITA-Omni（硅光动语全模态大模型），称其为行业首个具身全模态端到端交互大模型，在音视频之外新增触觉、本体状态输入与动作、表情输出。其交互响应最快约400毫秒、平均约600毫秒，较业内平均水平快近3倍，并登顶 DailyOmni、MMAU、EmbSpatialBench 等四个榜单。该模型已在量产机器人远征 A3-Ultra 本体部署，并在文娱导览等场景开展验证。  
-  AGIBOT 智元（网页） · 2026-11-16 15:11
 
 - [Token卷到触觉了！机器人终于有了通用手感](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=1&sn=8fa8b6872870888a01b478c05b7bbaac>)  
   量子位 · 2026-11-10 13:24

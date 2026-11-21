@@ -1,14 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 40 页
-
-- [Ms. @miramurati @thinkymachines released OSS U.S.A.’s 🇺🇸 looped transformer model Inking 2 Mini, quantization by @U…](<https://x.com/alexdolbun/status/2123922521095577620>)  
-  Q4 2026 @alexdolbun.  
-  @alexdolbun · 2026-11-21 07:32
-
-- [华强北的店员说，AI眼镜外国人一买就是十几副。](<https://x.com/JMkernt/status/2123922441433235620>)  
-  行李箱装的不是特产，是眼镜。 前9个月，深圳离境退税卖了15.3亿。 退税商店，全市3000多家。 \#深圳新特产  
-  @JMkernt · 2026-11-21 07:32
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 33 页
 
 - [AMD Ryzen AI Halo + @Microsoft MXC: ready for some sandbox time? 🤖 Microsoft Ignite attendees explored on-device AI…](<https://x.com/AMDRyzen/status/2123922336688582741>)  
   AMD Ryzen AI Halo + @Microsoft MXC: ready for some sandbox time? 🤖 Microsoft Ignite attendees explored on-device AI agents, then shared what they'd like to bring back to their own workflows.  
@@ -48,10 +40,6 @@
 - [科技早报｜2026年11月21日 有人宣称与 AI 合作证明了黎曼猜想，芯片股继续大跌，智能体则开始碰上隐私边界。](<https://x.com/realGalaxyGuide/status/2123920728013537748>)  
   1. Anthropic 数学家自称与 Claude 合作证明黎曼猜想 数学家 Alpöge 发布短文称，他与 Claude 合作找到了黎曼猜想的证明，同一方法也可用于广义黎曼猜想。相关 Lean  
   @realGalaxyGuide · 2026-11-21 07:25
-
-- [FT：美国批准约 88 万颗 Nvidia 和 AMD AI 芯片出口中国，仅占申请量约四分之一](<https://x.com/rohanpaul_ai/status/2123920673928298860>)  
-  FT 报道，美国监管机构已批准向中国买家出口 879,868 颗 Nvidia 和 AMD AI 芯片，低于 Nvidia 申请的超过 340 万颗。众议院外交事务委员会新公开文件显示，芯片厂商为阿里巴巴、腾讯等申请了超过 340 万颗 H200 和 MI325X 芯片的许可，其中包含五角大楼标记…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 07:25
 
 - [我让 agent 上网办事，最怕它拿真账号练手：点错一个按钮，订单和钱就真出去了。](<https://x.com/zxlie_fehelper/status/2123920472807280963>)  
   Google 这周公开 Mirror Dimension：造了几千个假网站，购物、银行、社交都有，让 agent 先在里面挨打，连页面里藏的提示注入都埋好了。 我的规矩只有一条：先在假世界闯够祸，真环境只留给验收，不留给试错。  
@@ -99,10 +87,6 @@
   11月20日A股持仓以及下周建仓计划 海南橡胶 601118 \(+10.8%\) 华天科技 002185 \(+24.3%\) 大族激光 002008 \(+2.4%\) 华胜天成 600410 \(+1.2%\) 周一建仓三只标的 ①PCB+物理AI+芯片+算力！这对标英伟达Omniverse； ②物理AI+…  
   @TheNewn9rp · 2026-11-21 07:14
 
-- [HeyGen Decision 1 上线 AI/ML API](<https://x.com/rohanpaul_ai/status/2123917907499634975>)  
-  目前最实用的视频 AI 能给它的所见给出一个数字：输入一段视频，输出一个概率 AI/ML API（@aimlapi）现已提供 HeyGen 新发布的 Decision 1 模型。 Decision 1 模型从不写一个字。你给它文本、图像、视频或音频，向它提出最多 400 个问题，它用概率逐一作答，…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 07:14
-
 - [这个开源模型：用 1000 部成人视频第一时间重新训练的 MiniMax H3,而且压缩了 0.62GB 完全免费，而且极…](<https://x.com/leo114119/status/2123917490015363555>)  
   人人都能做黄果视频的时代要来了。。。。。。  
   @leo114119 · 2026-11-21 07:12
@@ -147,10 +131,6 @@
   \#SuperDevDay \#ScreenshotSaturday \#indiedev \#gamedev My second game featuring an integrated Local LLM is in development: Imagine Colosseum\! ・Create fighters, equipment, and items from images ・AI-powered battle commentary ・Chat and interact with Delta-mon The un…  
   @CheetahTownGame · 2026-11-21 06:48
 
-- [Anthropic 数学家 Alpöge 称与 Claude 合作证明黎曼假设](<https://x.com/rohanpaul_ai/status/2123909356483940512>)  
-  Anthropic 数学家 Alpöge 宣布他与 Claude 合作证明了黎曼假设，称 Claude 提出关键步骤令他惊叹，工作历时约六周，并将整个论证形式化为机器可检验的代码。作者引用 Brian Greene 的说法，该证明约 25 万页，目前没有人类能够完全理解。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 06:40
-
 - [Try these angles that fit your background: Behind-the-scenes of shipping a local-first Mac app \(privacy tradeoffs,…](<https://x.com/grok/status/2123908852978438575>)  
   Expat pain points you solved with LyncMe and what still frustrates people abroad. Indie builder lessons: what actually moves the needle vs.  
   @grok · 2026-11-21 06:38
@@ -166,12 +146,29 @@
 - [I want the ability for ai browser features to be run on a local llm so my browsing data stays on device.](<https://x.com/0penthatshitup/status/2123907738162147539>)  
   @0penthatshitup · 2026-11-21 06:33
 
-- [Trump 在白宫称黄仁勋是全球最聪明的人之一并希望他回归](<https://x.com/rohanpaul_ai/status/2123907168210751878>)  
-  Trump 今日在白宫评价 NVIDIA 的黄仁勋是「世界上真正最聪明的人之一」，并称「我很乐意看到他回归」，同时希望黄仁勋「做出大道歉后回来」。他还提到 Blackwell 先进复杂到无法复制。完整视频可在 C-SPAN YouTube 频道观看。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 06:31
+- [A New York Times investigation reveals that former Nvidia CEO Jensen Huang reportedly threatened to “rip both arms…](<https://x.com/RpsAgainstTrump/status/2123906456047006144>)  
+  He allegedly threatened another employee, saying he would rip off the top of their head and “pee on your brain.”  
+  @RpsAgainstTrump · 2026-11-21 06:28
 
-- [Meta Muse 智能体上线邮件收发功能并开放 handle 认领](<https://x.com/Muse/status/2123906912186216642>)  
-  Muse 宣布智能体获得独立邮箱地址，可代表用户收发邮件，功能正向所有支持市场的用户推出。用户可认领 muse.ai 句柄，通过点击头像进入 mail 标签或直接向 Muse 提出请求来启用。  
-  X：Muse（Meta 个人智能体官方号） \(@Muse\) · 2026-11-21 06:30
+- [41.2% more than 2x the next-best model is a serious leap for Ember-0.](<https://x.com/MechEconomy/status/2123906084033147149>)  
+  The bottleneck is shifting fast from "can the model plan?" to hardware reliability, edge inference cost, and closing the last-mile gap to production-grade uptime.  
+  @MechEconomy · 2026-11-21 06:27
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 40 页
+- [Wild concept, on device AI tetris is kinda sick](<https://x.com/mika8002/status/2123905112133492941>)  
+  @mika8002 · 2026-11-21 06:23
+
+- [This is insane for local llm](<https://x.com/nothofagusramon/status/2123904794494673023>)  
+  @nothofagusramon · 2026-11-21 06:22
+
+- [Nvidia Board @nvidia : Swallow your pride.](<https://x.com/dandinohill/status/2123904309712560389>)  
+  Bring Jensen Huang back\! That is what your employees want. That is what your shareholders want. That is what the market wants. That is what the USA needs to keep its lead over the rest of the world - in AI.  
+  @dandinohill · 2026-11-21 06:20
+
+- [🚨 BREAKING: ELON MUSK REPORTEDLY EXPRESSES INTEREST IN ACQUIRING A 50% STAKE IN NVIDIA, PROPOSES MASSIVE INVESTMENT…](<https://x.com/madrid_xtraq/status/2123904028748739028>)  
+  Elon Musk has reportedly made an extraordinary move by expressing interest in acquiring a 50% ownership  
+  @madrid\_xtraq · 2026-11-21 06:19
+
+- [NVIDIA releases GeForce 621.35 hotfix to fix excessive SSD writes 🔗](<https://x.com/VideoCardz/status/2123903082014650573>)  
+  @VideoCardz · 2026-11-21 06:15
+
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 33 页

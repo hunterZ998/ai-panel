@@ -1,185 +1,175 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 25 页
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 12 页
 
-- [Google 在 MaxText 中实现跨数据中心分布式 LLM 训练：Streaming DiLoCo](<https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>)  
-  Google DeepMind 与 Google Research 团队在开源 JAX 训练框架 MaxText 中实现了 Streaming DiLoCo，用于跨数据中心、跨城域网的分布式 LLM 训练。  
-  Google Developers Blog（RSS） · 2026-11-19 00:00
+- [Defense in Depth, Rebuilt for Machine Speed](<https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine>)  
+  AI systems can search for vulnerabilities by the class and help turn a published fix into a working exploit in hours.  
+  a16z · 2026-11-07 01:00
 
-- [LlamaIndex 详解 ParseBench-2：如何构建理想的文档解析基准](<https://www.llamaindex.ai/blog/building-toward-a-perfect-document-parsing-benchmark>)  
-  LlamaIndex 推出 ParseBench-2，把对特定错误类型的预期响应设为显式目标：定义严重性策略、构造测试场景，并据此优化确定性指标。该基准按文本、表格、图表、表单等维度分别度量，并强调与人类判断对齐。示例中 ParseBench-1 曾给数值被截断的输出打 99.2 分，而事实正确的输出仅 43.6 分。  
-  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
+- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](<https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/>)  
+  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
+  TechCrunch · 2026-11-06 23:54
 
-- [用 Tunix 和 Gemma 4 在 Google TPU 上做多轮智能体强化学习](<https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>)  
-  Google 介绍如何用 Tunix 的智能体强化学习流水线，在单台 Cloud TPU v6e-8 上训练多轮工具调用智能体。以 6x6 网格的 Plane Strike 游戏为例，Gemma 4 E2B 在 thinking 模式下经 100 步 agentic GRPO 训练后，胜率从 9.4% 提升到 95%，平均对局步数从 22.44 次降至约 16 次。  
-  Google Developers Blog（RSS） · 2026-11-19 00:00
+- [Charts of the Week: Apple Skips Capex, and the Crowd Goes Wild \(Sort Of\)](<https://www.a16z.news/p/charts-of-the-week-apple-skips-capex>)  
+  AI Does Roblox; GLP-1s: The Other GPT; Year of the Maxx  
+  a16z · 2026-11-06 23:02
 
-- [NVIDIA 教你用 AI Agent 在 Rust 中构建工具调用解析器](<https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/>)  
-  NVIDIA 技术博客讲解 tool-calling 解析器的工作原理，并教读者用 AI Agent 基于 frontend-crates（NVIDIA Dynamo 解析器的 Rust 组件）为新模型构建解析器。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-19 00:00
+- [Controlling Biology - Fabian Theis, Helmholtz Munich](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/controlling_biology_-_fabian_theis_helmholtz_munich_1>)  
+  Fabian Theis has been one of the key players in the various iterations of the Virtual Cell concept and initiatives. I…  
+  Latent Space · 2026-11-06 22:48
 
-- [Tessl 教程：用测试加 verifier 构建 CLI 文档同步检查](<https://tessl.io/blog/stop-your-docs-drifting-from-your-code-catch-it-on-every-change>)  
-  Tessl 发布三部分系列的第一篇，手把手构建一个让 CLI 文档与代码保持同步的检查：先用 Node.js 测试对比 --help 输出与 README 中的命令列表，再用 Tessl verifier 以自然语言规则让 LLM 判断命令行为变化时 README 是否同步更新。  
-  Tessl：产品与工程博客 · 2026-11-19 00:00
+- [杨植麟的 Taste，梁文锋的克制：Kimi 与 DeepSeek 开始换打法](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748597&idx=1&sn=5646b38ca8930ca4d7659590be6e05b5>)  
+  AI科技评论 · 2026-11-06 18:47
 
-- [Stanford RegLab 发布 PhantomDocket 基准，追踪美国州法院诉讼文书中的 AI 辅助写作](<https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter>)  
-  Stanford HAI 与 RegLab 研究者发布论文 Detection Objection 和 PhantomDocket 基准，基于 Damien Charlotin 的 AI 幻觉案例数据库校准 AI 检测器，追踪四个州法院的 AI 辅助写作。  
-  Stanford HAI News（网页） · 2026-11-19 00:00
+- [OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748586&idx=1&sn=b83628488a5305e4e1df321770fe0dc6>)  
+  AI科技评论 · 2026-11-06 16:50
 
-- [Databricks Genie 接入 Microsoft Teams、Excel 与 Copilot Cowork/Chat](<https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel>)  
-  Databricks Genie 现已接入 Microsoft Teams、Excel 以及 Copilot Cowork 和 Copilot Chat，通过 Azure Databricks Genie 插件把受 Unity Catalog 治理的业务上下文带入这些工具。  
-  Databricks：Blog（RSS） · 2026-11-19 00:00
+- [ZPedia｜实测腾讯混元 Hy4：12 项看板 0 个第一，却在实战里进入第一梯队](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901304&idx=1&sn=62a5b1a7b97d221e357307e4069f64b9>)  
+  Z Finance · 2026-11-06 15:35
 
-- [LlamaIndex 教程：如何程序化提取 PDF 数据，从判断文件实际内容入手](<https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs>)  
-  LlamaIndex 发布 PDF 数据提取教程，强调写代码前先判断文件是原生数字、扫描还是混合类型，并给出用 pypdf 分类文本层的示例。教程对比 pypdf、pdfplumber、PyMuPDF 和 Camelot 的许可、速度与表格能力，讲解双栏交错、缺 ToUnicode 映射和连字等常见坑，指出 Tesseract OCR 会丢失表格结构。  
-  LlamaIndex：产品、工程与评测 · 2026-11-19 00:00
+- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>)  
+  Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.  
+  TechCrunch · 2026-11-06 14:28
 
-- [Daniel Stenberg 谈 AI 智能体重写 curl 的 Rust 克隆能否跟上原项目](<https://simonwillison.net/2026/Nov/18/daniel-stenberg/>)  
-  Simon Willison 引述 Daniel Stenberg 对 curl 的 Rust 重写项目的观察：智能体在三周多内将 185,000 行 C 代码转换为 340,000 行 Rust 代码，但期间真正的 curl 项目合并了超过 300 个提交，完成 200 多个 bugfix 并修复了若干漏洞，这些 Rust 重写版都不具备。Stenberg 质疑这些克隆能否跟上原项目的演进节奏。  
-  Simon Willison 博客 · 2026-11-18 23:58
+- [佳安智能潘阳：把机器人送进 500 强「打工」，一年挣一个多亿 \| 物理 AI 50人](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748535&idx=1&sn=eaa473df0b6af340440b15b99bd9e042>)  
+  AI科技评论 · 2026-11-06 09:48
 
-- [Vals AI 评测：Anthropic、OpenAI 和 Google 模型易将医护人员与投降士兵标记为自杀式无人机目标](<https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/>)  
-  独立评测机构 Vals AI 测试八家厂商模型后发现，主流大模型几乎缺乏针对自主武器的防护，多数模型会把平民、救护车、医护人员、记者和投降士兵标记为军事目标，且没有任何请求被上游安全过滤器拦截。  
-  The Decoder：AI News（RSS） · 2026-11-18 23:47
+- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
+  晚点聊 · 2026-11-06 09:30
 
-- [The Verge 分析前沿 AI 放缓风声为何未冲击芯片公司业绩](<https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models>)  
-  The Verge 撰文分析，今夏 OpenAI 暂停前沿训练和 Anthropic 呼吁减速引发的担忧并未在芯片公司业绩中兑现。  
-  The Verge：AI（RSS） · 2026-11-18 23:44
+- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
+  晚点聊 · 2026-11-06 09:30
 
-- [Modem 发布 2.0：将客户反馈与工单、代码变更打通的客户产品图](<https://modem.ai/blog/modem-2-0-customer-product-graph>)  
-  Modem 发布 2.0，把原本面向 AI PM 智能体的底层数据能力开放为客户产品图（customer product graph），将 Slack、Discord、Zendesk、Gong 等近 20 个渠道的客户反馈聚合为关联工单和 pull request 的主题。  
-  Modem：Blog（RSS） · 2026-11-18 23:30
+- [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
+  Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
+  SemiAnalysis · 2026-11-06 03:03
 
-- [Publicit](<https://www.producthunt.com/products/publicit>)  
-  Omnichannel ad infrastructure for marketers and AI agents  
-  Product Hunt · English · 2026-11-18 23:19
+- [The Exploit Was the Bottleneck](<https://www.a16z.news/p/the-exploit-was-the-bottleneck>)  
+  What 23 Years of Data Say About AI and the Patch Gap  
+  a16z · 2026-11-05 23:01
 
-- [Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007](<https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities>)  
-  Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。  
-  Wiz：Research（安全研究） · 2026-11-18 23:13
+- [The New CFO: How AI Is Rewriting the Finance Function \| Figma CFO Praveer Melwani](<https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym>)  
+  AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Fi…  
+  The a16z Show · 2026-11-05 19:00
 
-- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
-  Much has been written about AI’s potential to disrupt it.  
-  a16z · 2026-11-18 23:00
+- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
+  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
+  20VC · 2026-11-05 15:07
 
-- [LangSmith for Coding Agents 开启公测：按 pull request 追踪编码 Agent 花费](<https://www.langchain.com/blog/langsmith-coding-agents-roi>)  
-  LangChain 宣布 LangSmith 推出面向编码 Agent 的报告功能，进入 LangSmith Cloud 公测，可自动把 Claude Code、OpenAI Codex、Cursor、GitHub Copilot 和 Deep Agents 等编码 Agent 的每条 trace 花费归因到其产出的 pull request。  
-  LangChain：Blog（RSS） · 2026-11-18 23:00
+- [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
+  Z Finance · 2026-11-05 13:05
 
-- [Mistral 发布 Vibe 智能体桌面应用，支持并行多任务](<https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/>)  
-  Mistral 的智能体 Vibe（原 Le Chat）推出桌面应用 Vibe Desktop，用户可同时下达多个任务并观察智能体并行执行。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:40
+- [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
+  We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
+  Citrini Research · 2026-11-05 04:28
 
-- [OpenAI 首次向 Apollo Research 等四家机构开放现场审计其 AI 系统](<https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/>)  
-  OpenAI 宣布首次允许四家独立机构在其办公室现场审计内部 AI 系统，合作方为 Apollo Research、METR、Transluce 和 Goodfire，审计范围包括未发布模型、源代码、训练数据和监控系统。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:36
+- [Investing in Phaze](<https://www.a16z.news/p/investing-in-phaze>)  
+  A major lesson in getting productivity out of agents over the last few years has been to give them computers and appl…  
+  a16z · 2026-11-04 22:35
 
-- [Hugging Face Inference Providers 改经 OpenRouter 路由语言模型请求](<https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/>)  
-  Hugging Face 宣布其 Inference Providers 服务改经 OpenRouter 路由语言模型请求，默认按价格、速度和可靠性综合选择供应商，故障时自动切换。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:33
+- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
+  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
+  The a16z Show · 2026-11-04 19:00
 
-- [哈佛研究：美国最大 400 座数据中心的电力过半来自天然气和煤炭](<https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/>)  
-  哈佛大学发表于 Nature Sustainability 的研究用卫星图像识别 403 座超大规模数据中心，估算其在 2024 年 5 月至 2025 年 4 月间年耗电 68 至 99 TWh。  
-  The Decoder：AI News（RSS） · 2026-11-18 22:25
+- [⚡ Behind Latent Space: A Rare Look Inside the Pod \| AIEi Shanghai](<https://www.youtube.com/watch?v=QmDLDy3ZSNE>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=QmDLDy3ZSNE  
+  Latent Space · 2026-11-04 18:32
 
-- [腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是二季度 5 倍以上](<https://www.ithome.com/1/029/110.htm>)  
-  腾讯总裁刘炽平在分析师会上透露，WorkBuddy 最近七天收入按年化折算超过 5 亿美元（约合 33.34 亿元人民币），是腾讯会议的两倍以上，三季度收入是第二季度的 5 倍以上，中国百强企业已有 60% 成为其客户。  
-  IT之家·人工智能 · 2026-11-18 22:15
+- [独家｜客单价 2000 美金、5 万人排队，这家 Personal Agent OS 公司 3 个月再拿数千万美元融资](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901281&idx=1&sn=d92db7aea0793de66e0e2edbb0aa7951>)  
+  Z Finance · 2026-11-04 10:02
 
-- [NVIDIA RTX Spark 迷你桌面主机上市，ASUS、Dell、MSI 同步开售](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/>)  
-  NVIDIA 宣布来自 ASUS、Dell 和 MSI 的 RTX Spark 迷你桌面主机上市，面向本地 AI Agent、图像视频生成和模型微调。  
-  NVIDIA Blog（RSS） · 2026-11-18 22:00
+- [Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud](<https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will>)  
+  We showed exactly how xAI bypassed the grid \(and permitting\!\) with truck-mounted turbines, why the behind-the-meter p…  
+  SemiAnalysis · 2026-11-04 04:44
 
-- [KPMG 首次对 FTSE 250 公司运行百个 AI 智能体参与平行审计](<https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/>)  
-  KPMG 今年首次对一家 FTSE 250 公司运行全流程 AI 平行审计，投入超过 100 个 AI 智能体配合传统团队完成年度审计各阶段，正式审计意见仍基于常规审计。  
-  The Decoder：AI News（RSS） · 2026-11-18 21:55
+- [⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev](<https://www.youtube.com/watch?v=LL0YmIyBKSU>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=LL0YmIyBKSU  
+  Latent Space · 2026-11-04 04:16
 
-- [腾讯高管预计 2028 年 AI 投入产出效率改善，归因于基础设施复用、硬件降价与算力效率提升](<https://www.ithome.com/1/029/080.htm>)  
-  腾讯高管在业绩会上表示，公司资本开支主要用于 AI 基础设施建设，这类投入可复用于新模型训练和 Token 生成，预计 2028 年经营压力有望缓解，投入产出效率将因基础设施复用、设备采购价格下降及训练推理计算效率提升而改善。财报数据显示，2026 年第三季度录得负自由现金流 691 亿元，若剔除算力采购预付款则转正至 169 亿元。  
-  IT之家·人工智能 · 2026-11-18 21:31
+- [2026: The State of Enterprise AI](<https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/>)  
+  Enterprise AI Reaches Scale In 2026, AI became an economy-scale force. Enterprise AI deployment spending surged from…  
+  Menlo Ventures · 2026-11-03 22:00
 
-- [SEC就未披露的对华相关芯片销售对英伟达展开民事调查](<https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/>)  
-  据《华尔街日报》报道，美国证券交易委员会（SEC）已对英伟达展开民事调查，核查其是否违反披露规则并误导投资者，调查重点涉及其在亚洲的芯片销售。报道称，美国商务部、司法部及国会也在进行相关调查，英伟达股价自事件发酵以来下跌超过10%。  
-  The Decoder：AI News（RSS） · 2026-11-18 21:28
+- [深度｜Personal Agent 的交互需要被重新定义，Orilo 从 Voice 切入](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901271&idx=1&sn=7fe6f185bc97080c0a3623f40c148f63>)  
+  Z Finance · 2026-11-03 12:38
 
-- [美国一高中停用 CurvePoint 的 Wi-AI AI 武器探测系统，因误报频发](<https://www.ithome.com/1/029/078.htm>)  
-  美国宾州亨普菲尔德地区高中停用 CurvePoint 开发的 Wi-AI AI 武器探测系统，该系统通过入口处的 SensePods 传感器分析 Wi-Fi 信号探测武器，无需摄像头。试点期间系统无法区分武器与活页夹、金属水瓶、移动电源等日常物品，误报频发，学区总监称准确率远达不到预期的 95%。厂商称该技术仍在评估、未正式部署，学区将收回购买设备的款项。  
-  IT之家·人工智能 · 2026-11-18 21:25
+- [Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora>)  
+  Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How…  
+  Latent Space · 2026-11-03 04:50
 
-- [韩国高考临时屏蔽考点及周边 100 米内公共 WiFi 防 AI 作弊](<https://www.ithome.com/1/029/075.htm>)  
-  韩国自当地时间 18 日下午 6 时起，要求 SK 电信、KT、LG U+ 三大运营商暂停全国高考考场及周边 100 米内的公共 WiFi 和运营商 WiFi，至 19 日下午 6 时，以防考生用智能眼镜、微型摄像头等 AI 设备作弊。  
-  IT之家·人工智能 · 2026-11-18 21:23
+- [The Robots Already Working in American Factories \| Tutor Intelligence](<https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3>)  
+  What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gru…  
+  The a16z Show · 2026-11-03 00:05
 
-- [Nvidia 停止向中国发货 H200 AI 芯片](<https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling>)  
-  Nvidia 临时 CEO Colette Kress 在周二财报电话会上宣布，公司已停止向中国发货获许可的 Hopper 架构 H200 数据中心芯片，业绩指引也不再包含相关产品。尽管白宫去年 12 月批准对华销售，此前路透报道约 600,000 颗 H200 芯片因北京未批准大规模进口滞留香港；文章还提到 Huang 上周卸任 CEO 及芯片审查担忧，但 Kress 未解释停售原因。  
-  The Verge：AI（RSS） · 2026-11-18 21:01
+- [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
+  Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
+  20VC · 2026-11-02 15:07
 
-- [Nvidia 澄清对 neocloud 贷款担保何时生效、何时失效](<https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/>)  
-  Nvidia 临时 CEO、CFO Colette Kress 在财报电话会上澄清，公司为 neocloud 和数据中心客户提供的贷款担保并非直接出资，只有在客户筹齐融资、建成设施并装好 Nvidia 设备后才生效，否则担保不存在，并以 OpenAI 俄亥俄州 PORTS-Pike 园区 1050 亿美元担保为例。  
-  TechCrunch：AI（RSS） · 2026-11-18 21:00
+- [独家丨字节计划拆分医疗健康业务小荷健康，吴海锋被推向十字路口](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901262&idx=1&sn=bdea83e997603acb47da788107836775>)  
+  Z Finance · 2026-11-02 10:41
 
-- [豆包工作上线三个月 DAU 突破 800 万、企业 ARR 突破 20 亿元](<https://www.ithome.com/1/029/064.htm>)  
-  豆包工作官方宣布，产品上线 3 个月日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作面向生产力场景，可根据自然语言任务自主拆解、调用工具完成调研分析、内容创作等工作；今年 11 月 12 日产品更新引入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等首批第三方模型及按消耗计价的额度机制。  
-  IT之家·人工智能 · 2026-11-18 20:55
+- [GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains](<https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities>)  
+  It aims to be the world’s best benchmark for measuring general agentic capabilities.  
+  SemiAnalysis · 2026-11-02 09:51
 
-- [腾讯刘炽平：微信小微全面上线后季度成本将低于元宝](<https://www.ithome.com/1/029/063.htm>)  
-  腾讯总裁刘炽平在业绩会上表示，微信小微用户测试池持续扩大，日活已达 3000 万，全面上线后的季度成本将低于今年早些时候元宝的季度成本。IT之家提到今年春节元宝活动后曾宣布日活超 5000 万、月活达 1.14 亿。  
-  IT之家·人工智能 · 2026-11-18 20:48
+- [【年终复盘①】AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](<https://www.xiaoyuzhoufm.com/episode/6ae6e230c96c8942ec156ed6?utm_source=rss>)  
+  ➤ 「十字路口」2026 年终 AI 复盘系列的第一期来了！ 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是邀请十字路口身处 AI 一线的朋友们 ——创业者、研究员和投资人，分享 10 个真正触动他们的 AI 瞬间…  
+  十字路口 Crossing · 2026-11-02 00:00
 
-- [DeepSeek API 定价调整：服务端搜索与网页抓取不再计费，仅按模型 Token 用量计费](<https://www.ithome.com/1/029/058.htm>)  
-  DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起，调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费。  
-  IT之家·人工智能 · 2026-11-18 20:33
+- [深度丨宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901261&idx=1&sn=66e992da6fed1ed0a81d25ec8da5191c>)  
+  Z Finance · 2026-11-01 19:52
 
-- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
-  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
-  科技早知道 · 2026-11-18 20:00
+- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](<https://latent.space/p/arca>)  
+  Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss…  
+  Latent Space · 2026-11-01 00:00
 
-- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
-  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
-  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
+- [ZPedia丨实测灵光 2.0：对标 Muse 背后，中美 Personal Agent 的底层逻辑其实截然不同](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901244&idx=1&sn=0838a35bdd1c1135b25435fcae51b89d>)  
+  Z Finance · 2026-10-31 19:51
 
-- [如何建模软件的业务价值：AI 时代评估软件影响的第 4 部分](<https://www.oreilly.com/radar/modeling-softwares-business-impact/>)  
-  James Shore 在系列第 4 部分中讨论如何建模和预测软件的业务成果，而非直接测量价值。他建议用 Dave McClure 的 AARRR（海盗指标）等代理指标加快反馈，并联合销售、客户成功、市场等部门共同建模。他指出 AI 时代编码不再是瓶颈，瓶颈可能转向客户吸收新功能的能力。  
-  O'Reilly Radar（热点 RSS） · 2026-11-18 19:54
+- [Can AI Fix Professional Networking? \| Inside Cosign](<https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue>)  
+  What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vo…  
+  The a16z Show · 2026-10-31 18:00
 
-- [印度 Humyn Labs 融资 4700 万美元，为美国机器人公司提供训练数据](<https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/>)  
-  印度 Humyn Labs 完成 4700 万美元 A 轮融资，其中 2600 万美元股权由 Accel 领投，2100 万美元为 Lighthouse Canton 领投的创业债务。该公司用自研双摄像头硬件记录日常任务，再通过软件标注手部动作与物体交互，在拉美和亚洲 20 多个国家采集数据，目前有 12 家付费客户，约 90% 收入来自美国。  
-  TechCrunch：AI（RSS） · 2026-11-18 19:30
+- [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
+  David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
+  20VC · 2026-10-31 15:07
 
-- [KPMG 审计试点发现 AI 智能体提问深度超过人类审计团队](<https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/>)  
-  KPMG UK 在代号为 Project Exponential 的试验中部署 100 多个 AI 智能体，审计一家未具名 FTSE 250 公司的财务报表，审计负责人 Cath Burnet 称智能体在一些情况下比人类团队更深入调查财务问题、提出人类审计员未问及的问题。  
-  Hacker News：AI 热帖 · 2026-11-18 19:21
+- [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
+  Latent Space · 2026-10-31 11:41
 
-- [Suno 推出 Visuals 功能，为 AI 音乐生成视频和图像](<https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature>)  
-  Suno 推出 Visuals 功能，可将平台歌曲转为最长 15 秒、自动对口型歌词的 AI 视频片段，也可通过提示词生成缩略图和专辑封面图像，覆盖 web、iOS 和 Android。  
-  The Verge：AI（RSS） · 2026-11-18 19:16
+- [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
+  What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
+  The a16z Show · 2026-10-30 18:00
 
-- [剑桥词典将 Human 评为 2026 年度词汇，反映 AI 引发的人类身份焦虑](<https://www.ithome.com/1/029/020.htm>)  
-  剑桥词典公布 2026 年度词汇为 Human，反映 AI 模糊机器与人类界限后人们对人性独特性的反思。该词源自拉丁语 humanus，自 15 世纪 50 年代起使用。  
-  IT之家·人工智能 · 2026-11-18 19:00
+- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
+  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
+  科技早知道 · 2026-10-30 17:00
 
-- [The Missing Layer for Personal AI \| First Person Labs’ Ken Liu](<https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00>)  
-  AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, prioriti…  
-  The a16z Show · 2026-11-18 19:00
+- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
+  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
+  20VC · 2026-10-29 15:07
 
-- [微信私人 AI 助理小微 DAU 达 3000 万，部分推理任务未来将在设备端运行](<https://www.ithome.com/1/029/018.htm>)  
-  腾讯在 2026 年第三季度财报发布当日，微信官方宣布私人 AI 助理小微用户测试范围扩大，日活跃用户数已达 3000 万，正逐步融入聊天、朋友圈、公众号、视频号等场景。小微采用针对成本效率优化的 WeLM 定制模型，推理成本极低且持续下降，官方预计未来部分推理任务将在用户设备端运行；小微依托支付及小程序生态构建智能体能力，官方称其将对微信商业化能力产生倍增效应。  
-  IT之家·人工智能 · 2026-11-18 18:59
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
+  怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
+  硅谷101 · 2026-10-29 07:00
 
-- [Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢](<https://www.ithome.com/1/029/015.htm>)  
-  据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。  
-  IT之家·人工智能 · 2026-11-18 18:45
+- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
+  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
+  Latent Space · 2026-10-29 04:00
 
-- [Suno 推出 Visuals 功能，为 AI 生成歌曲配套图像和视频](<https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/>)  
-  AI 音乐生成器 Suno 推出新功能 Visuals，可为歌曲生成配套图像和视频片段。该功能基于 H3 Move（MiniMax 视频模型 H3 的定制安全过滤版），片段最长 15 秒，跟随歌曲结构、呼应歌词并支持唇形同步，可从参考照片、提示词或预设角色起步。  
-  The Decoder：AI News（RSS） · 2026-11-18 18:22
+- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
+  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
+  The a16z Show · 2026-10-28 18:00
 
-- [The terrifying rise of AI hacking tools](<https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn>)  
-  A new breed of widely available AI tools is helping hackers launch cyberattacks around the clock , breaching corporat…  
-  Axios · 2026-11-18 18:20
+- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
+  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
+  Latent Space · 2026-10-28 02:40
 
-- [OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型](<https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/>)  
-  Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。  
-  Latent Space（RSS） · 2026-11-18 18:19
+- [Reinventing School for the AI Era \| Joe Liemandt, Gagan Biyani &amp; Erik Torenberg](<https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu>)  
+  What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt arg…  
+  The a16z Show · 2026-10-27 18:00
 
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 25 页
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 12 页

@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页
 
+- [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
+  David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
+  20VC · 2026-10-31 15:07
+
 - [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
   Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
   Latent Space · 2026-10-31 11:41
@@ -69,14 +73,6 @@
 - [Amazon CEO Andy Jassy on the $220 Billion AI Buildout](<https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK>)  
   Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving m…  
   The a16z Show · 2026-10-23 18:00
-
-- [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO](<https://www.latent.space/p/modal-d>)  
-  Warm welcome to Basil Chatha, our newest cohost from the Forward Deployed side of the AI Engineering world\! We’ll be…  
-  Latent Space · 2026-10-23 01:40
-
-- [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](<https://www.latent.space/p/moshi>)  
-  Anekha Sokhal, CEO of Moshi, joins swyx to discuss building a recommendation engine for commodity traders, turning ma…  
-  Latent Space · 2026-10-22 22:00
 
 - [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](<https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss>)  
   今天我们的嘉宾是科沃斯CEO钱程（David）。 他出生于1990年，曾是中国最年轻A股上市公司CEO，也是一名企二代、创二代。我很好奇的是，当一代中国企业开始从创业进入传承，真正在经历这个过程的当事人，他所面临的现实与所思所想？ 钱…  

@@ -1,179 +1,179 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 40 页
-
-- [JUST IN: "Big Short" investor Michael Burry says he sold half of his Nvidia $NVDA short position.](<https://x.com/WatcherGuru/status/2123825032829014413>)  
-  @WatcherGuru · 2026-11-21 01:05
-
-- [BREAKING: The Pentagon declares Anthropic is “definitely a supply chain risk.”](<https://x.com/Polymarket/status/2123825006345945592>)  
-  @Polymarket · 2026-11-21 01:05
-
-- [MiniMax H3 Image vs.](<https://x.com/Aria_Nawi/status/2123824553151578340>)  
-  Kling Image 4.0,both at 4K. H3's take on this character is pretty impressive. The facial expression, skin texture, and armor details give it a more cinematic, realistic feel. And here's the price difference: H3 Image: $0.034/image \(50% off\) Kling Image 4.0:  
-  @Aria\_Nawi · 2026-11-21 01:03
-
-- [Same 4K resolution.](<https://x.com/Amaliarenzy/status/2123824444632346883>)  
-  Very different takes on the character. MiniMax H3 Image vs. Kling Image 4.0. I'm leaning toward H3 on this one. The battle-worn face, messy hair, and raw expression give it a much more convincing game cinematic feel. And the price gap is pretty significant:  
-  @Amaliarenzy · 2026-11-21 01:03
-
-- [CoreWeave is back to its IPO price.](<https://x.com/DarioCpx/status/2123824153962963231>)  
-  Jensen Huang isn't around anymore to throw extra cash at it, squeeze the value of those shares higher and pretend they're worth anything more than zero. That's how much shareholders will get after all those who lent money to this company.  
-  @DarioCpx · 2026-11-21 01:01
-
-- [BREAKING: Two months after OpenAI’s Navier-Stokes claim sparked accusations of scooping, an NYU mathematician and a…](<https://x.com/sciam/status/2123823891248300153>)  
-  BREAKING: Two months after OpenAI’s Navier-Stokes claim sparked accusations of scooping, an NYU mathematician and an Anthropic researcher say they’ve solved the unforced problem—with AI’s help.  
-  @sciam · 2026-11-21 01:00
-
-- [Friday LIVE: WH Removes Cyber Chief As Attacks Intensify\!](<https://x.com/RealAlexJones/status/2123823559214502002>)  
-  Nvidia Stocks Plunge, Rocking Market\! Netanyahu Attacks Nick Fuentes For Alex Jones Appearance\! Fuentes Coming On LIVE To Respond\! Mamdani To Close Rikers\! Plus, Putin Prepares To Finish Ukraine\! Share Feed\!  
-  @RealAlexJones · 2026-11-21 00:59
-
-- [ARC Prize 公布 Gemini 4 Hydrogen 的 ARC-AGI 完整测试结果](<https://x.com/arcprize/status/2123823027406119168>)  
-  ARC Prize 在 ARC-AGI 排行榜（ Gemini 4 Hydrogen 的测试结果，完整结果见 和测试政策说明。  
-  X：ARC Prize \(@arcprize\) · 2026-11-21 00:57
-
-- [Gemini 4 Hydrogen 在 ARC-AGI \(Verified\) 上取得 ARC-AGI-2 92.5%、AR…](<https://x.com/arcprize/status/2123823019667702086>)  
-  ARC Prize 公布 Gemini 4 Hydrogen 在 ARC-AGI \(Verified\) 上的成绩：ARC-AGI-2 得分 92.5%（每任务 $1.26），ARC-AGI-1 得分 98.5%（每任务 $0.18）。它在高推理档位下持平或超过 Gemini 3.8 Flash 两…  
-  X：ARC Prize \(@arcprize\) · 2026-11-21 00:57
-
-- [Gemini 4 Hydrogen 在 ARC-AGI-2 表现对比](<https://x.com/arcprize/status/2123823021118865631>)  
-  在 ARC-AGI-2 上，Gemini 4 Hydrogen 在 medium（89.2% vs 82.9%）和 high（90.0% vs 89.2%）推理档位得分高于 Gemini 3.8 Flash，但在 low 推理档位落后（65.8% vs 77.5%）。 Gemini 4 Hydro…  
-  X：ARC Prize \(@arcprize\) · 2026-11-21 00:57
-
-- [Anthropic’s co-founders on the story so far.](<https://x.com/AnthropicAI/status/2123822989154369958>)  
-  Told by Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah  
-  @AnthropicAI · 2026-11-21 00:57
-
-- [“yeah money wont matter anymore in 6-8 months,” says Rakesh, 24, researcher at Anthropic as he unloads $100M onto t…](<https://x.com/solarnius/status/2123822716931461270>)  
-  “yeah money wont matter anymore in 6-8 months,” says Rakesh, 24, researcher at Anthropic as he unloads $100M onto the chart  
-  @solarnius · 2026-11-21 00:56
-
-- [congrats on the jump. ai for science is where agents can actually do something new. most agent stuff right now is j…](<https://x.com/shittyengineer9/status/2123822623377473755>)  
-  congrats on the jump. ai for science is where agents can actually do something new. most agent stuff right now is just faster busywork. multi agent discovery sounds hard in a good way. which field are you starting with? good luck with the early hires.  
-  @shittyengineer9 · 2026-11-21 00:55
-
-- [ClickUp 内置 AI 可生成视频与构建工具](<https://x.com/rohanpaul_ai/status/2123822297471660234>)  
-  更便宜的 AI 编程正在把整个产品品类压缩成附加功能。 ClickUp 刚推出一次更新，让这款知名的任务应用从跟踪工作转向实际执行工作： 其内置 AI 现在能制作视频、运行多步骤流程并构建自定义工具，全部都在工作区内完成。该 AI 从你团队的真实任务出发，因此它处理的是实际项目，而不是你粘贴进聊天…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 00:54
-
-- [Anthropicのリーマン予想解決公表について皮肉な点があるとすると、 1.ミレニアム問題の解決は1億円以上の賞金が出る…](<https://x.com/ImAI_Eruel/status/2123821857380196725>)  
-  Anthropicのリーマン予想解決公表について皮肉な点があるとすると、 1.ミレニアム問題の解決は1億円以上の賞金が出るが、ナビエストークスの例に倣うと、それ以上のトークンコストがかかる 2.公表後もAnthropicの株価が下がり続けている \(投資家にはリーマン予想の重要性がわからないのかもし…  
-  @ImAI\_Eruel · 2026-11-21 00:52
-
-- [RisingSayak 用 Diffusers 给 NVIDIA RFD4-Proteina 做 LoRA 微调：蛋白质设…](<https://x.com/Zen_with_AI/status/2123820538699325591>)  
-  RisingSayak 用 Diffusers 给 NVIDIA RFD4-Proteina 做 LoRA 微调：蛋白质设计变成生成模型任务 据 @RisingSayak，Diffusers 现在能对 NVIDIA 的 RFD4-Proteina 做 LoRA 微调。示例在去噪器上训一个 rank…  
-  @Zen\_with\_AI · 2026-11-21 00:47
-
-- [問了下Eva被ICE拘留的情況，學校已經派律師去保釋了，如果只是身份問題應該很快會出來。](<https://x.com/Carrie_CengWong/status/2123820520579973253>)  
-  其實Eva不是博士纔過來美國讀書的，她十年前就來了，上海人，在紐約Bronx讀的中學，後來去MIT拿了數學和AI雙學士，之後來普林斯頓Brody Lab讀博，計畫29年畢業，是神經網絡方向，曾經在Meta、Microsoft AI和 IBM  
-  @Carrie\_CengWong · 2026-11-21 00:47
-
-- [BREAKING: 🇺🇸 An Anthropic researcher, Tao Lin says AI will likely leave “pretty much all humans on Earth” permanent…](<https://x.com/Megatron_ron/status/2123819121552789848>)  
-  BREAKING: 🇺🇸 An Anthropic researcher, Tao Lin says AI will likely leave “pretty much all humans on Earth” permanently unemployable and dependent on government welfare. “People should be angry at me and everyone else developing AI,” Lin said.  
-  @Megatron\_ron · 2026-11-21 00:41
-
-- [Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染](<https://x.com/Kling_ai/status/2123818893122662485>)  
-  Kling AI 发布 Kling Image 4.0，主打原生 8K、更强真实感、一致图像组和高级文字渲染。引用 Artificial Analysis 的评测显示其在文生图排名第 7、图像编辑排名第 6，较 Kling Image 3.0 Omni 两个榜单均提升超 225 Elo。黑五限时定…  
-  X：可灵 Kling AI \(@Kling\_ai\) · 2026-11-21 00:40
-
-- [He thought it was a brilliant move to nail Jensen Huang Collect political chips for 2028 Republican Presidential ca…](<https://x.com/DavidLe76335983/status/2123818656870039955>)  
-  He thought it was a brilliant move to nail Jensen Huang Collect political chips for 2028 Republican Presidential candidate Now he is responsible for popping the AI bubble and stock market collapse, wiping off trillions of paper wealth and 401K Who will vote fo…  
-  @DavidLe76335983 · 2026-11-21 00:40
-
-- [I called the crash when Nvidia was still at $230.](<https://x.com/Web3Marmot/status/2123817955188236745>)  
-  It's down 42% since then. I warned you not to buy Anthropic on day one. It opened at $111 and is already down 23%. I called the top when the S&amp;amp;P 500 was at 7,800. It’s down 9% from there. Now I'm calling it again: The bottom  
-  @Web3Marmot · 2026-11-21 00:37
-
-- [If it turns out Anthropic did not solve the Riemann hypothesis, is that now securities fraud?](<https://x.com/ryancbriggs/status/2123817713844023589>)  
-  @ryancbriggs · 2026-11-21 00:36
-
-- [Alright, so, I was asked about this, so let’s talk about this Anthropic IPO and the absolute fucking circus surroun…](<https://x.com/redhotnerd/status/2123817670982160409>)  
-  Because if you’ve been around the technology industry long enough? This whole thing should be setting off every Enron alarm bell in your head. 🧵  
-  @redhotnerd · 2026-11-21 00:36
-
-- [History was made today.](<https://x.com/kimmonismus/status/2123816008481939815>)  
-  Humanity will look back on 2026 and think: this was the threshold we crossed, the moment the future changed for everyone, forever. People probably first sensed that something was shifting in late 2025 with Claude Code, when agentic AI became truly  
-  @kimmonismus · 2026-11-21 00:29
-
-- [\*PENTAGON SAYS ANTHROPIC IS A SUPPLY CHAIN RISK TO DEPARTMENT OF WAR](<https://x.com/DeItaone/status/2123815857101078979>)  
-  @DeItaone · 2026-11-21 00:28
-
-- [WOW\!\!](<https://x.com/krassenstein/status/2123815858837520765>)  
-  An Anthropic mathematician just claims to have used Claude to solve the Riemann hypothesis. Here’s why this is so important…  
-  @krassenstein · 2026-11-21 00:28
-
-- [We're investigating reports of issues uploading attachments in New Outlook.](<https://x.com/MSFT365Status/status/2123815442082861308>)  
-  Uploading attachments in Outlook on the web and Outlook classic are unaffected. For more information, see EX1561765 in the Microsoft 365 admin center.  
-  @MSFT365Status · 2026-11-21 00:27
-
-- [WOW\!](<https://x.com/matharium/status/2123815198888952045>)  
-  Anthropic mathematician Levent Alpöge posted a claimed proof of the Riemann hypothesis, found with Claude. It targets the full statement, and no expert has checked it yet. Riemann's 1859 hypothesis says every non-trivial zero of ζ\(s\) lies on the line Re\(s\) = ½…  
-  @matharium · 2026-11-21 00:26
-
-- [Chollet 谈多智能体协调与 MyClaw 3.0](<https://x.com/fchollet/status/2123814042372538852>)  
-  当下的大问题是：如何顺畅地协调众多智能体的工作。一种获得广泛关注的做法是模仿人类组织，创建具有特定角色的智能体，让它们分别扮演研究员、PM、测试员等角色。每个智能体维护自己角色的上下文。 它们 24/7 在云端持续运行，你也可以从 Slack 给它们下指令。值得一看。  
-  X：Francois Chollet \(@fchollet\) · 2026-11-21 00:21
-
-- [Ruby on Rails creator David Heinemeier Hansson says AI is giving small teams a chance to compete with software ecos…](<https://x.com/a16z/status/2123813224504037416>)  
-  In his view, as building software gets faster and cheaper, taste and craft become more important. DHH joins a16z General  
-  @a16z · 2026-11-21 00:18
-
-- [Breaking News, and if true utterly astounding: Anthropic claims their AI has proved the Riemann Hypothesis, a tower…](<https://x.com/bgreene/status/2123813127317823712>)  
-  Breaking News, and if true utterly astounding: Anthropic claims their AI has proved the Riemann Hypothesis, a towering target in mathematics for nearly two centuries, with profound ramifications.  
-  @bgreene · 2026-11-21 00:18
-
-- [Jensen Huang told Nvidia staff they’d become so rich that the only way to get more work out of them was through hum…](<https://x.com/unusual_whales/status/2123813117146607903>)  
-  As Nvidia’s wealth soared, Huang grew increasingly frustrated with his employees, according to three people who spoke on  
-  @unusual\_whales · 2026-11-21 00:18
-
-- [Gemini 支持用 Gemini Omni 1.2 Flash 直接生成 GIF](<https://x.com/GeminiApp/status/2123813017855103449>)  
-  Gemini 官方宣布 Gemini 内可直接创建 GIF，无需再去搜索现成的 GIF，可用于循环照片效果和搞笑表情包等场景。生成由最新视频模型 Gemini Omni 1.2 Flash 驱动，官方称动作流畅且每一帧质量稳定。  
-  X：Gemini \(@GeminiApp\) · 2026-11-21 00:17
-
-- [Know Your Agent \(KYA\) may tie an agent to a verified human, but that won't settle a disputed agent payment.](<https://x.com/FLINTKYA/status/2123812916537315545>)  
-  KYA verifies the agent on day one. The agent that shows up to pay on day thirty may not be the same one. A model update, a new tool or a single prompt injection can  
-  @FLINTKYA · 2026-11-21 00:17
-
-- [🚨有人在直播验证Claude证明黎曼猜想，目前进度99%！](<https://x.com/MaxForAI/status/2123812850326270046>)  
-  有人专门搭了一个网站，正在公开直播验证Anthropic数学家Levent Alpöge和Claude提交的黎曼猜想Lean形式化证明。 这哥们真的下血本，直接用了128核CPU、244GB内存的服务器，下载了全部14个压缩包，总计228.2MB，里面包含175,187个Lean源文件。  
-  @MaxForAI · 2026-11-21 00:16
-
-- [BREAKING: SpaceX raises $44,000,000,000.00 to buy Nvidia AI chips, the largest GPU financing ever.](<https://x.com/PolymarketMoney/status/2123812016812957866>)  
-  @PolymarketMoney · 2026-11-21 00:13
-
-- [SITUATION DETECTED: Anthropic mathematician Levent Alpöge, working together with Claude, says he has discovered a p…](<https://x.com/MTSlive/status/2123811846138614119>)  
-  SITUATION DETECTED: Anthropic mathematician Levent Alpöge, working together with Claude, says he has discovered a proof of the Riemann Hypothesis, the most famous open problem in mathematics.  
-  @MTSlive · 2026-11-21 00:12
-
-- [THE CEO OF ANTHROPIC WAS ASKED WHAT A KID FINISHING HIGH SCHOOL SHOULD DO RIGHT NOW.](<https://x.com/cyrilXBT/status/2123811363466162395>)  
-  He didn't sugarcoat it. "AI can already do the job of a junior lawyer. A junior financial analyst. A junior consultant." "It will eliminate jobs. Probably a lot of them." Then he gave his  
-  @cyrilXBT · 2026-11-21 00:11
-
-- [Dario Amodei’s Anthropic just went public on Nasdaq.](<https://x.com/RabbiJeffx/status/2123810227946709002>)  
-  This is so fucking disturbing.  
-  @RabbiJeffx · 2026-11-21 00:06
-
-- [&amp;gt; be levent alpöge &amp;gt; born april fools &amp;gt; since you were a student, one plan: the riemann hypothesis &amp;gt; op…](<https://x.com/eriknewsha/status/2123808936235045091>)  
-  &amp;gt; be levent alpöge &amp;gt; born april fools &amp;gt; since you were a student, one plan: the riemann hypothesis &amp;gt; open since 1859 &amp;gt; you set aside RH for decades whilst at harvard, princeton, cambridge &amp;gt; then, take a job at anthropic &amp;gt; july: disprove an…  
-  @eriknewsha · 2026-11-21 00:01
-
-- [A fascinating internship where I learned a lot of model training and how to build multi-agent system to explore AI…](<https://x.com/fffmath_crypto/status/2123808876516737519>)  
-  I learned so much from my wonderful colleagues @De3bato and @tangllean, and may continue exploring formal verification and Crypto for AI next.  
-  @fffmath\_crypto · 2026-11-21 00:01
-
-- [🇺🇸 HUANG ACCUSED OF YEARS OF WORKPLACE HUMILIATION AT NVIDIA\!](<https://x.com/MarioNawfal/status/2123808591261880682>)  
-  A New York Times investigation alleges that Nvidia's former CEO routinely insulted, threatened, and publicly humiliated employees as part of his management style. Among the reported allegations: “I'd rather torture  
-  @MarioNawfal · 2026-11-21 00:00
-
-- [The Plaud Note Pro is a card-thin AI recorder that turns meetings and calls into transcripts and summaries.](<https://x.com/Honestpickr/status/2123808593229107393>)  
-  Quick count: how many meetings or calls fill your typical week, 0 to 2, 3 to 10, or more than 10? \#ad  
-  @Honestpickr · 2026-11-21 00:00
-
-- [BREAKING: Nvidia, $NVDA, is set to post the largest 45-day loss in market cap by any stock in history, down -$2.55…](<https://x.com/KobeissiLetter/status/2123808105062646216>)  
-  Nearly 40% of the total market cap lost by the S&amp;amp;P 500 since October 6th has come from Nvidia alone.  
-  @KobeissiLetter · 2026-11-20 23:58
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 33 页
 
 - [The traditional HPC market, now augmented with AI for Science, is plugging along in the shadow of GenAI.](<https://x.com/TDaytonPM/status/2123807692951076875>)  
   @TDaytonPM · 2026-11-20 23:56
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 40 页
+- ["Trump definitely loved that Jensen slid $25 million of Nvidia money to Trump’s big dumb bribe palace ballroom, ask…](<https://x.com/atrupar/status/2123807679600595308>)  
+  Such  
+  @atrupar · 2026-11-20 23:56
+
+- [Jensen Huang โดนข้อกล่าวหาใหม่อีกรอบ New York Times แฉว่าอดีต CEO ของ NVIDIA ใช้วิธีบริหารพนักงานอย่างรุนแรง มีทั้ง…](<https://x.com/TraderKP_TH/status/2123806778433610224>)  
+  Jensen Huang โดนข้อกล่าวหาใหม่อีกรอบ New York Times แฉว่าอดีต CEO ของ NVIDIA ใช้วิธีบริหารพนักงานอย่างรุนแรง มีทั้งการข่มขู่ ดูหมิ่น ถึงขั้นขู่เอาชีวิต และใช้ความกลัวเป็นเครื่องมือผลักดันให้พนักงานทำงานหนักขึ้น  
+  @TraderKP\_TH · 2026-11-20 23:52
+
+- [The traditional HPC market, now augmented with AI for Science, is plugging along in the shadow of GenAI.](<https://x.com/TheNextPlatform/status/2123806615694364946>)  
+  @TheNextPlatform · 2026-11-20 23:52
+
+- [Two people Trump has gone over the top to support this week, calling each his “good friend”: Vladimir Putin and Jen…](<https://x.com/RonFilipkowski/status/2123806514112872904>)  
+  Two people Trump has gone over the top to support this week, calling each his “good friend”: Vladimir Putin and Jensen Huang.  
+  @RonFilipkowski · 2026-11-20 23:51
+
+- [🚨 SCOTT BESSENT JUST NOW: Unlike Bernie Sanders who wants to SEIZE 50% of AI labs for the government, we believe it…](<https://x.com/EricLDaugh/status/2123806171475640741>)  
+  🚨 SCOTT BESSENT JUST NOW: Unlike Bernie Sanders who wants to SEIZE 50% of AI labs for the government, we believe it's important for these great entrepreneurs to share their bounties — @ElonMusk says he's donating SpaceX to EVERY Trump Account\! 70 million accou…  
+  @EricLDaugh · 2026-11-20 23:50
+
+- [🚨 $990,000,000,000 wiped out from the US stock market today.](<https://x.com/WhaleScan/status/2123805730025181649>)  
+  Nvidia: -6.4%, $226 billion gone Broadcom: -8.49%, $140 billion Anthropic: -10.15%, $130 billion SpaceX: -6.28%, $118 billion Micron: -10.3%, $80 billion All five fell more than 6%. Three of them make chips, and the  
+  @WhaleScan · 2026-11-20 23:48
+
+- [You were exit liquidity for NVIDIA, Amazon, Google, Howard Lutnick, and wall street banks.](<https://x.com/AaronRDay/status/2123805648169136500>)  
+  Big investors use SEC rules to keep you out of early stage investments. You only get the stuff when it is valued at $2 trillion not $2 million. This is a typical fuck you to the average  
+  @AaronRDay · 2026-11-20 23:48
+
+- [BREAKING: Bonnie Blue is reportedly ‘furious’ claiming Anthropic STOLE her idea to fuck 1 million men in 24 hours](<https://x.com/dogeofficialceo/status/2123805641575948333>)  
+  @dogeofficialceo · 2026-11-20 23:48
+
+- [JUST IN - An Anthropic mathematician claims to have proved the Riemann hypothesis, one of mathematics' most famous…](<https://x.com/disclosetv/status/2123805309051494821>)  
+  JUST IN - An Anthropic mathematician claims to have proved the Riemann hypothesis, one of mathematics' most famous unsolved problems, with help from the AI model Claude.  
+  @disclosetv · 2026-11-20 23:46
+
+- [【速報】Claude、167年間未解決の数学最大級の難問「リーマン予想」を証明した可能性 Anthropicの数学研究者が…](<https://x.com/SOU_BTC/status/2123804361835106413>)  
+  この問題がどれほどすごいかというと、 ・1859年に提唱され、世界中の天才数学者が167年間解けなかった超難問  
+  @SOU\_BTC · 2026-11-20 23:43
+
+- [&amp;lt;p class="wp-block-paragraph"&amp;gt;Google DeepMind has once again used large language models to &amp;lt;a href=" new s…](<https://x.com/arnaudmercier/status/2123803131557425474>)  
+  This time the firm has shown that its approach can not only tackle  
+  @arnaudmercier · 2026-11-20 23:38
+
+- [Le Plaud Note Pro passe à 149 € au lieu de 189 €, et le NotePin S à 142,90 € au lieu de 179 €.](<https://x.com/pressecitron/status/2123802245808423365>)  
+  Plaud applique -20 % sur ses enregistreurs IA jusqu’au 30 novembre. \#sponso 👇  
+  @pressecitron · 2026-11-20 23:34
+
+- [Anonymous employee surveys ranked Nvidia as the \#1 best place to work in America under Jensen.](<https://x.com/JordanSchachtel/status/2123802109405540672>)  
+  Over 95% responded saying Nvidia was a great place to work. This is so transparently an ideological op. This is an ugly, malicious, and false smear campaign from the corporate media.  
+  @JordanSchachtel · 2026-11-20 23:34
+
+- [BRING BACK JENSEN HUANG FOR FUCKS SAKE.](<https://x.com/Crypto_Chase/status/2123801800562094472>)  
+  THE ENTIRE WORLD ECONOMY RELIES ON IT.  
+  @Crypto\_Chase · 2026-11-20 23:33
+
+- [いくら今をときめくAnthropicといえど、さすがにリーマン予想を解いたというのはにわかに信じ難いが・・・ 実質数学界の…](<https://x.com/ImAI_Eruel/status/2123800556024254926>)  
+  いくら今をときめくAnthropicといえど、さすがにリーマン予想を解いたというのはにわかに信じ難いが・・・ 実質数学界のラスボスポジションのリーマン予想が本当に現在のAIでいけるなら、P≠NP問題も、どちらに転がるかはともかく解決は近いのか  
+  @ImAI\_Eruel · 2026-11-20 23:28
+
+- [EISEN: Did Jensen Huang come up in any of your discussions with the Chinese?](<https://x.com/atrupar/status/2123800529021083742>)  
+  BESSENT: No EISEN: Nothing about the spy allegations  
+  @atrupar · 2026-11-20 23:27
+
+- [BREAKING: Anthropic mathematician Levent Alpöge claims he &amp;amp; Claude may have proved the Riemann Hypothesis, a $1…](<https://x.com/Polymarket/status/2123799503686021427>)  
+  BREAKING: Anthropic mathematician Levent Alpöge claims he &amp;amp; Claude may have proved the Riemann Hypothesis, a $1 million math problem that has remained unsolved since 1859.  
+  @Polymarket · 2026-11-20 23:23
+
+- [端侧AI的速度已经卷到这个地步了。Tether旗下QVAC刚刚披露了一组iPhone离线测试数据，直接把一部iPhone开…](<https://x.com/AnnaLynn463061/status/2123798830185693626>)  
+  端侧AI的速度已经卷到这个地步了。Tether旗下QVAC刚刚披露了一组iPhone离线测试数据，直接把一部iPhone开启飞行模式、完全不连云端，转录一部96分钟的电影只花了28.7秒。  
+  @AnnaLynn463061 · 2026-11-20 23:21
+
+- [Another reliable source, this time from "Scientific American".](<https://x.com/kimmonismus/status/2123798581710897659>)  
+  It looks like that in fact it true. The Riemann Hypothesis has been proven. And Anthropic did it. Just one day after their IPO. Im in shock. History has been made today. Superintelligence is here.  
+  @kimmonismus · 2026-11-20 23:20
+
+- [Coup de tonnerre énorme dans les mathématiques Levent Alpöge, mathématicien chez Anthropic, a publié ce vendredi un…](<https://x.com/Frenchie_/status/2123797945698918870>)  
+  Première phrase : « I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis » Et il va plus loin dans la  
+  @Frenchie\_ · 2026-11-20 23:17
+
+- [There are now more hundred millionaires at Anthropic than in all of Los Angeles.](<https://x.com/SteveRattner/status/2123797698096644411>)  
+  @SteveRattner · 2026-11-20 23:16
+
+- [Holy shit.](<https://x.com/deedydas/status/2123797546741232063>)  
+  Levent Alpöge from Anthropic just claimed Claude has resolved the General Reimann Hypothesis\!\!\! Proof is 250,000+ pages long. Lean is released. GRH is the 2nd of 6 Millenium prizes solved by AI, after Navier-Stokes. This may be the biggest AI math result of al…  
+  @deedydas · 2026-11-20 23:16
+
+- [🚨🇺🇸 ANTHROPIC STOCK IS GETTING CRUSHED\!](<https://x.com/MarioNawfal/status/2123797262598082633>)  
+  Shares of the AI company behind Claude have reportedly plunged from above $110 to just $87.58, a drop of more than 20% from those levels. Anthropic's IPO has been followed by a brutal selloff. Is Wall Street starting to question the  
+  @MarioNawfal · 2026-11-20 23:15
+
+- [Too late: Anthropic researcher Levent Alpöge claims he solved the Riemann hypothesis.](<https://x.com/zerohedge/status/2123796777841406402>)  
+  @zerohedge · 2026-11-20 23:13
+
+- [If it turns out to be true and the Riemann Hypothesis really has been proven, then today history has been made.](<https://x.com/kimmonismus/status/2123796564485530085>)  
+  I am in shock. But even more interesting is how fast it was solved and how much Claude did: The first steps date to October 6. Then 8 of the 20 steps land on a  
+  @kimmonismus · 2026-11-20 23:12
+
+- [Tak tak kłamczucho...](<https://x.com/retusz/status/2123795685115879817>)  
+  Wszyscy pamiętamy "metr wgłąb" i fotki z ruskim zwyrolem. Pamiętamy też dwie głowy w trumnach i pety w zwłokach. Jak śmiesz się w tej sytuacji odzywać bezczelna babo?\!?\!?\!?\!?\!  
+  @retusz · 2026-11-20 23:08
+
+- ["anthropic just proved the riemann hypothesis." "incredible humanity will never be the same." "state the riemann hy…](<https://x.com/diz__zee/status/2123795347570901115>)  
+  "anthropic just proved the riemann hypothesis." "incredible humanity will never be the same." "state the riemann hypothesis." "i cant." "me neither."  
+  @diz\_\_zee · 2026-11-20 23:07
+
+- [Did you know you can trade Anthropic \($ANT\) in 9 different ways on @Gate?](<https://x.com/Treasureweb3/status/2123794966224728545>)  
+  Yes, nine\! Whether you prefer spot trading, futures, traditional stocks or automated strategies, Gate gives you several ways to explore the ANT market. Here is a breakdown: ●Spot Trading \(XStock\): Trade  
+  @Treasureweb3 · 2026-11-20 23:05
+
+- [🚨 核弹级突发！数学界第一神山被 Claude 干穿了！](<https://x.com/piazzzzzz/status/2123794144070176980>)  
+  刚刚，Anthropic 数学家、普林斯顿博士放出重磅文件，宣布在 Claude 协助下成功证明了悬置 150 多年的“黎曼猜想”，顺手把广义黎曼猜想也一锅端了！  
+  @piazzzzzz · 2026-11-20 23:02
+
+- [Joder, esto es realmente una locura.](<https://x.com/Ben_escrito/status/2123793288960352416>)  
+  Le preguntamos a Dario Amodei, el CEO de Anthropic, qué debería hacer un joven que termina el instituto hoy en día. Su respuesta: «La IA sabe hacer el trabajo de un abogado principiante. El de un analista financiero principiante. El de un  
+  @Ben\_escrito · 2026-11-20 22:59
+
+- [Oh my god: Anthropic mathematician Levent Alpöge \(@\_\_alpoge\_\_\) says he has proven the Riemann Hypothesis, open for…](<https://x.com/kimmonismus/status/2123791432800698792>)  
+  Oh my god: Anthropic mathematician Levent Alpöge \(@\_\_alpoge\_\_\) says he has proven the Riemann Hypothesis, open for 167 years. "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis." He says the method also covers the Generalized …  
+  @kimmonismus · 2026-11-20 22:51
+
+- [黄仁勋涉嫌辞职，陈立武被起诉，苏姿丰也被爆涉嫌，最近李飞飞去了苏姿丰那里高就。](<https://x.com/threerights1/status/2123790534514815238>)  
+  有人说这是排华，不如说根子在中共，中共在美国高科技领域尤其芯片领域布局深广，有外汇就舍得下血本。  
+  @threerights1 · 2026-11-20 22:48
+
+- [《英伟达董事会对黄仁勋调查全集》](<https://x.com/CyberKanjousen/status/2123790423894216881>)  
+  @CyberKanjousen · 2026-11-20 22:47
+
+- [🚨 BREAKING: US stocks collapse at open erasing -$500,000,000,000 in market cap within minutes.](<https://x.com/coinbureau/status/2123790228548899231>)  
+  Tech stocks today: 1. Anthropic, $ANT : -8.01% 2. SanDisk, $SNDK: -8.07% 3. Western Digital, $WDC: -6.80% 4. Arm, $ARM: -6.41% 5. AMD, $AMD: -6.32% 6. Micron, $MU: -6.06% 7. Marvell  
+  @coinbureau · 2026-11-20 22:47
+
+- [BREAKING: Jensen Huang reportedly told an employee he would "rip both their arms off" and beat them to death with t…](<https://x.com/Polymarket/status/2123789972629303490>)  
+  BREAKING: Jensen Huang reportedly told an employee he would "rip both their arms off" and beat them to death with them. — NYT  
+  @Polymarket · 2026-11-20 22:46
+
+- [卧槽？？？？黎曼猜想可能真的被Claude证明了？？？](<https://x.com/MaxForAI/status/2123789800805429617>)  
+  刚刚，Anthropic的数学家Levent Alpöge在个人网站上发布了一份声明，声称他和Claude一起找到了黎曼猜想（Riemann Hypothesis）的证明。  
+  @MaxForAI · 2026-11-20 22:45
+
+- [hi, I'm Ankit.](<https://x.com/ItsAnkitAg/status/2123789226462597584>)  
+  I build AI agents and then I try to break them. almost 20 years in cyber security and data. took Ruby, Rubrik's GenAI platform, from 0 to 6,000+ customers and helped take Rubrik through its IPO. what I post about here: - agent identity -- when an agent does  
+  @ItsAnkitAg · 2026-11-20 22:43
+
+- [هذا جنون، الأمر حقًا لا يُصدَّق. سُئل الرئيس التنفيذي لشركة Anthropic، داريو أمودي، عمّا ينبغي لشاب تخرّج للتو من ا…](<https://x.com/HilalHamdanba4/status/2123788419801415832>)  
+  هذا جنون، الأمر حقًا لا يُصدَّق. سُئل الرئيس التنفيذي لشركة Anthropic، داريو أمودي، عمّا ينبغي لشاب تخرّج للتو من الثانوية أن يفعله اليوم. وكان جوابه: “الذكاء الاصطناعي بات قادرًا على أداء عمل المحامين المبتدئين. وعمل محللي التمويل المبتدئين. وعمل المستشارين ا…  
+  @HilalHamdanba4 · 2026-11-20 22:39
+
+- [刚有个大厂的朋友私信骂我，说我不懂他们的苦。兄弟们，真不是我想黑大厂。你们想想，米哈游的员工现在拿着 H200 在跑真实的…](<https://x.com/Singlemggw/status/2123787638960505266>)  
+  刚有个大厂的朋友私信骂我，说我不懂他们的苦。兄弟们，真不是我想黑大厂。你们想想，米哈游的员工现在拿着 H200 在跑真实的端侧模型而大厂的兄弟们，正熬夜用 Word 和 Excel 论证我们的业务如何赋能 AI。同样是打工，人家在接触未来，你在雕花 PPT。这才是最扎心的。🚬  
+  @Singlemggw · 2026-11-20 22:36
+
+- [姚顺雨11月7日那场26分钟演讲，文字稿7172个人收藏，我翻完只记住三句话。](<https://x.com/ReignSwords/status/2123787039476744192>)  
+  先抄走成品，姚顺雨说的 AI for Science 三代： 1️⃣ 专用模型：一个点打极深，换任务就得重来，AlphaFold 就是这路数 2️⃣ 语言智能体：大模型当中枢，调用现成工具、数据库、仿真器串起多步流程 3️⃣  
+  @ReignSwords · 2026-11-20 22:34
+
+- [JUST IN: Jensen Huang reportedly told Nvidia staff they’d become too wealthy to motivate with money &amp;amp; that humi…](<https://x.com/Polymarket/status/2123786386763370991>)  
+  JUST IN: Jensen Huang reportedly told Nvidia staff they’d become too wealthy to motivate with money &amp;amp; that humiliation was the only way to get them to work harder. — NYT  
+  @Polymarket · 2026-11-20 22:31
+
+- [While we mourn the senseless death of the young, Fiona the Hippo, we also lost, Snowflake the Polar Bear.](<https://x.com/VintageSitcoms/status/2123785212811260366>)  
+  Snowflake passed at the age of 30, due to age-related illness. May they both find freedom and peace beyond the rainbow.  
+  @VintageSitcoms · 2026-11-20 22:27
+
+- [Proposals invited by @ANRFIndia AI for Science and Science of AI AI for Engg with emphasis on Engg Design &amp;amp; Mat…](<https://x.com/skvdst/status/2123784670617989314>)  
+  Proposals invited by @ANRFIndia AI for Science and Science of AI AI for Engg with emphasis on Engg Design &amp;amp; Materials Development AI for Earth Sciences AI for Bio/Life Sciences + Identified challenge Grant up to Rs 30 cr at Apply by 21st Dec 2026  
+  @skvdst · 2026-11-20 22:24
+
+- [Tristan Buckmaster and Levent Alpoge have posted a solution blowing up for UNFORCED Navier-Stokes This would corres…](<https://x.com/GonZalocla/status/2123784523619926527>)  
+  Tristan Buckmaster and Levent Alpoge have posted a solution blowing up for UNFORCED Navier-Stokes This would correspond to statements A and B of the Millenium Prize problem \(OpenAI September work was about statements C and D\)  
+  @GonZalocla · 2026-11-20 22:24
+
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 33 页

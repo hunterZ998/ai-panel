@@ -1,14 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 40 页
-
-- [💻 Local AI is going mainstream: NVIDIA's RTX Spark compact desktops from ASUS, Dell and MSI hit shelves today — run…](<https://x.com/gavinz0228/status/2123929744672788850>)  
-  💻 Local AI is going mainstream: NVIDIA's RTX Spark compact desktops from ASUS, Dell and MSI hit shelves today — running AI agents, image &amp;amp; video generation and model fine-tuning right on a Windows PC. \#NVIDIA \#AI  
-  @gavinz0228 · 2026-11-21 08:01
-
-- [GitHub 热榜今天挖到 5 个项目：AI 排查构建故障、文档转 Markdown，还有本地视频生成！](<https://x.com/divid_lu49394/status/2123929692415897984>)  
-  🔥 🟢 1. Tracer-Cloud/opensre｜AI 运维 一个面向 CI/CD 可靠性的 Agent。构建失败时，它可以读取日志、分析失败原因，并辅助提出修复方案供开发者审查。 🔗 直达：  
-  @divid\_lu49394 · 2026-11-21 08:01
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 33 页
 
 - [Tested Gemini 4 Neon + Hydrogen for MuJoCo closed-loop iteration on Unitree G1—paired with LiDAR + RGB-D nav and a…](<https://x.com/mashijiann/status/2123929516133454165>)  
   Tested Gemini 4 Neon + Hydrogen for MuJoCo closed-loop iteration on Unitree G1—paired with LiDAR + RGB-D nav and a 25.6M whole-body policy replacing cuRobo v2:  
@@ -174,4 +166,12 @@
   I’ll need to either delete some or upgrade my account to a paid subscription. I wonder if the sub is worth it? Anyway, go download a model or two. Most are small and/or experimental.  
   @smartras\_net · 2026-11-21 07:32
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 40 页
+- [Ms. @miramurati @thinkymachines released OSS U.S.A.’s 🇺🇸 looped transformer model Inking 2 Mini, quantization by @U…](<https://x.com/alexdolbun/status/2123922521095577620>)  
+  Q4 2026 @alexdolbun.  
+  @alexdolbun · 2026-11-21 07:32
+
+- [华强北的店员说，AI眼镜外国人一买就是十几副。](<https://x.com/JMkernt/status/2123922441433235620>)  
+  行李箱装的不是特产，是眼镜。 前9个月，深圳离境退税卖了15.3亿。 退税商店，全市3000多家。 \#深圳新特产  
+  @JMkernt · 2026-11-21 07:32
+
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 33 页
