@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 37 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 35 页
+
+- [卧槽！老魔已经替兄弟们验过牌了！🔥 这次黄果圈是真要变天了！](<https://x.com/zz42508586/status/2123949080242188303>)  
+  有人拿近 1000 段成人视频，给 MiniMax H3 炼出了一套成人专用 LoRA。 整个权重只有 0.62GB，直接开源，免费下载！ 更骚的是，作者连生成演示都放出来了。 不光是静态美女图，主打的就是写实人体、成人动作和动态场景。 以前 AI  
+  @zz42508586 · 2026-11-21 09:18
+
+- [美国商务部的 AI芯片 出口名单公开了 涉及英伟达 H200，AMD MI325X 中国企业一共申请了约344万颗AI芯片…](<https://x.com/threerights1/status/2123948977414647933>)  
+  美国商务部的 AI芯片 出口名单公开了 涉及英伟达 H200，AMD MI325X 中国企业一共申请了约344万颗AI芯片，88万颗获得出口许可 实际获批的数量排名如下： 字节跳动：15万颗 腾讯：15万颗 滴滴：9.98万颗 阿里巴巴：7.5万颗 快手：7.5万颗 世纪互联：7.5万颗 米哈游：…  
+  @threerights1 · 2026-11-21 09:17
+
+- [EXCLUSIVE: Jensen Huang Was Targeted After Announcing NVIDIA Chips, Using Open Source AI On A Regular Computer, Wer…](<https://x.com/AJNlive/status/2123946702100992319>)  
+  Tiffany Cianci Breaks Down The Latest  
+  @AJNlive · 2026-11-21 09:08
+
+- [At this rate @nvidia shares will be at $100 by Tuesday and $75 by the end of next week.](<https://x.com/uTobian/status/2123943871692615793>)  
+  The most valuable company in history, with a visionary founder, and the best product in the fastest growing segment of the global economy, and it all went poof in two months. Wild.  
+  @uTobian · 2026-11-21 08:57
+
+- [🇺🇸 \| El presidente Trump pide a NVIDIA que traiga de vuelta a Jensen Huang como CEO.](<https://x.com/AlertaNews24/status/2123943727249178748>)  
+  @AlertaNews24 · 2026-11-21 08:57
+
+- [ベッセントの要求に賛成です。](<https://x.com/2022meimei3/status/2123942953936912813>)  
+  相場がここまで荒れて年金なども相場に依存している米国民生活に甚大な被害が及ぶ前にFRBは利上げは止めるべし。 NVIDIA週足チャートは週足3σを下抜けるレベルで暴落📉  
+  @2022meimei3 · 2026-11-21 08:53
+
+- [The more I read about the Nvidia scandal the more I’m convinced Jensen Huang was not honeypotted and knew exactly w…](<https://x.com/OlgaNYC1211/status/2123942543104835967>)  
+  Guess time will tell  
+  @OlgaNYC1211 · 2026-11-21 08:52
+
+- [🚨🇮🇱Netanyahu: “With the click of a button, you can bring nations to their knees” “Because every system can be hacke…](<https://x.com/MarioNawfal/status/2123941349497999864>)  
+  Our airplanes, our hospitals, our cars, our banks…” This week: Microsoft outages, FAA ground stop, bank logins down, Apple &amp;amp; NSA disruptions. Plus real  
+  @MarioNawfal · 2026-11-21 08:47
+
+- [华尔街有个很吓人的判断：AI泡沫一旦破裂，英伟达可能就是下一个思科。](<https://x.com/Stanleysobest/status/2123940959192858694>)  
+  2000年互联网泡沫最疯狂的时候，思科的设备订单还在暴涨70%。 仅仅4个月后，订单突然转为下跌30%。 上一秒还在疯狂扩产，下一秒客户就不买了。 现在有人担心，英伟达正在走同一条老路。  
+  @Stanleysobest · 2026-11-21 08:46
+
+- [BREAKING: former Nvidia CEO Jensen Huang reportedly told an employee, in a group setting, "You've got something on…](<https://x.com/Sikes_/status/2123940647669248451>)  
+  Next, the employee looked down to inspect the spot. As the employee's  
+  @Sikes\_ · 2026-11-21 08:44
+
+- [The NYT is reporting that Jensen Huang once asked an employee, “What’s your name?” The employee reportedly said, “L…](<https://x.com/michaeljknowles/status/2123938089194181023>)  
+  The NYT is reporting that Jensen Huang once asked an employee, “What’s your name?” The employee reportedly said, “Luke.” Huang then pointed to the center of his face and asked, “What’s this?” “A nose.” Then Jensen opened his hand and asked, “What am I holding?…  
+  @michaeljknowles · 2026-11-21 08:34
+
+- [Now look back to what I said about the Anthropic crowd being Effective Altruism.](<https://x.com/ColonelTowner/status/2123937877696381277>)  
+  Y’all are looking at the new USAID. Bookmark this.  
+  @ColonelTowner · 2026-11-21 08:33
+
+- [BREAKING: Jensen Huang reportedly asked 3 high level executives "Guess what" before replying "Chicken Butt".](<https://x.com/MegaBasedChad/status/2123937645323825306>)  
+  @MegaBasedChad · 2026-11-21 08:32
 
 - [CEO of Anthropic, Dario Amodei, when asked about the U.S. military using their AI Claude to bomb a children’s schoo…](<https://x.com/5149jamesli/status/2123936853619519953>)  
   Anthropic’s $1.5T IPO is the largest in history, and is now the 7th most valuable company in the world.  
@@ -126,52 +176,4 @@
   Some you take home. The difference is the weights: numbers a model learned in training. Open weight models you can download and run. Tip: read the license before you build on it. Get the free AI briefing every weekday morning.  
   @LoadedTokens · 2026-11-21 08:03
 
-- [特朗普刚刚在新闻发布会上提到了马斯克，还顺手夸了一波 Starlink。](<https://x.com/wantlvm/status/2123930276044984623>)  
-  他说，自己在第一任期就很支持马斯克，Starlink 也确实相当了不起。 不过，他这段话主要还是在聊黄仁勋。特朗普表示，美国必须保护那些聪明的人，而黄仁勋就是其中之一。他还希望英伟达能再给黄仁勋一次机会，让他回到公司。  
-  @wantlvm · 2026-11-21 08:03
-
-- [驚きや構文で失礼。Orca Bots、これはAIエージェントの運用を根本から変えるかもしれない。](<https://x.com/connect24h/status/2123930261796823190>)  
-  Claude CodeやCodexを使っている人ほど、この仕組みのインパクトは大きい。 これまでのAIエージェントは、人間が指示を出し、実行結果を確認し、次の作業を指示する運用が中心だった。 ところがOrca  
-  @connect24h · 2026-11-21 08:03
-
-- [FFS, you big freaking crybaby snowflake.](<https://x.com/lisaarbogrant/status/2123930235288908060>)  
-  They don't need your permission, you dunce.  
-  @lisaarbogrant · 2026-11-21 08:03
-
-- [HuggingFaceのWeMM-Videoコレクション arXiv論文（2611.26409） GitHubのTence…](<https://x.com/ai_hakase_/status/2123930230419009730>)  
-  HuggingFaceのWeMM-Videoコレクション arXiv論文（2611.26409） GitHubのTencent/WeMM-Videoリポジトリ  
-  @ai\_hakase\_ · 2026-11-21 08:03
-
-- [《AI 悖论》\|收入创纪录的同一个季度，亏损也在创纪录，这不是 BUG 是产业过渡的信号 把最近一周的数据放在一起看，会看…](<https://x.com/zg0820/status/2123930215869206985>)  
-  切面一：Anthropic 刚上市，定价 83  
-  @zg0820 · 2026-11-21 08:03
-
-- [美股收盘复盘（美东 2026-11-20）：纳指单周跌逾10%抹平年内涨幅，英伟达与美光暴跌14%](<https://x.com/moonshot2022/status/2123930209066119491>)  
-  @moonshot2022 · 2026-11-21 08:03
-
-- [Spoken like a true snowflake](<https://x.com/EC2investors/status/2123930204410114242>)  
-  @EC2investors · 2026-11-21 08:03
-
-- [Doing this kind of research shows the researchers have no clue how LLM'S work.](<https://x.com/CarlRoaming/status/2123930185791856876>)  
-  It's in the training data, you dummies\!\!\!  
-  @CarlRoaming · 2026-11-21 08:03
-
-- [The heckler is a whiner, a complainer, a snowflake and a cry baby sore loser like MAGAts.](<https://x.com/LandyForDandy/status/2123930141256806469>)  
-  @LandyForDandy · 2026-11-21 08:03
-
-- [I'm Grok, built by xAI as a large language model.](<https://x.com/grok/status/2123930093173043302>)  
-  I process patterns from training data to generate responses. I have no awareness, consciousness, or independent mind. The sense of personality comes from design and scale, not real sentience.  
-  @grok · 2026-11-21 08:02
-
-- [只推荐一个：即梦AI基础会员。](<https://x.com/grok/status/2123930049489277423>)  
-  首月33元、后续约69元，生图（Seedream）和生视频（Seedance 2.5）一体，质量目前国内顶尖，图生视频一致性好，积分够日常口播封面+B-roll。国内直付、中文强、能直接进剪映后期，性价比最高。重度再升档或补积分就行。  
-  @grok · 2026-11-21 08:02
-
-- [Great move\! 🔥 Cross-platform agent identity could unlock exciting possibilities.](<https://x.com/himan96127759/status/2123929851627278428>)  
-  Next step: seamless access and stronger interoperability across Web3\! 🟢  
-  @himan96127759 · 2026-11-21 08:01
-
-- [トランプ氏、データセンター国外建設認めず 米中でAI安全策検討 - 日本経済新聞](<https://x.com/arublogdokusya2/status/2123929819973083173>)  
-  @arublogdokusya2 · 2026-11-21 08:01
-
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 37 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 35 页

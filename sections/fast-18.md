@@ -1,6 +1,57 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 37 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 35 页
+
+- [I've never known the tech world to be more unanimous about anything than they are about Jensen Huang.](<https://x.com/paulg/status/2124041291046785484>)  
+  Everyone in tech thinks the board made a huge mistake. Except the board. But they are not in tech.  
+  @paulg · 2026-11-21 15:24
+
+- [Rohan Paul 对照陶哲轩上月言论转发 Anthropic 数学家声称与 Claude 证明黎曼猜想的消息](<https://x.com/rohanpaul_ai/status/2124040149830926708>)  
+  Rohan Paul 引用转发称，Anthropic 数学家 Alpöge 表示他与 Claude 合作证明了 167 年未解的黎曼猜想，用时约六周，并把整个论证形式化为可机器检验的代码。作者同时附上陶哲轩上月访谈视频，陶哲轩当时表示现有 AI 无法攻克该问题，可能要到 2050 年前后由人类与…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 15:20
+
+- [兄弟们，好东西 用近1000部成人视频训练的 无审查版本的 MiniMax H3 它给原本通用的 AI 视频生成工具“外挂…](<https://x.com/xiaohu/status/2124029356418949410>)  
+  兄弟们，好东西 用近1000部成人视频训练的 无审查版本的 MiniMax H3 它给原本通用的 AI 视频生成工具“外挂”一套专项技能包 让模型能够精准生成画质极度逼真、动作多样的成人私密场景视频 而且主打“极致写实”，死磕真实感，在动态表现和画面质感上去除 AI 感... 8G – 16G 显…  
+  @xiaohu · 2026-11-21 14:37
+
+- [If you're Nvidia's board, what do you do this weekend?](<https://x.com/KobeissiLetter/status/2124028536164139438>)  
+  Your stock is down -45%, almost every government agency is investigating you, Jensen Huang says he wants to return, and shareholders are calling for you to be fired. You have 48 hours before markets reopen. What do you do?  
+  @KobeissiLetter · 2026-11-21 14:34
+
+- [I am willing to bet any amount of money that the interim CEO of Nvidia will not outperform the genius founder who b…](<https://x.com/PalmerLuckey/status/2124016206201983166>)  
+  Happy to make any wager you propose\!  
+  @PalmerLuckey · 2026-11-21 13:45
+
+- [I highly recommend running this skill on your projects vulnerability-scanner reviews your code for security vulnera…](<https://x.com/dani_avila7/status/2124014299483873352>)  
+  I highly recommend running this skill on your projects vulnerability-scanner reviews your code for security vulnerabilities, including AI agents and MCP servers What it does: - Maps the attack surface and trust boundaries. - Detects prompt injection and insecu…  
+  @dani\_avila7 · 2026-11-21 13:37
+
+- [The Machine is coming hard for Nvidia.](<https://x.com/SimonDixonTwitt/status/2124013867558633772>)  
+  SEC. FBI. Congress. California regulators. Criminal investigations. Alleged Chinese intelligence operations. Corporate governance failures. Shareholder lawsuits. All reportedly emerging within just 14 days. And Nvidia is now  
+  @SimonDixonTwitt · 2026-11-21 13:35
+
+- [BREAKING: Former NVIDIA CEO Jensen Huang reportedly would make an OK circle sign with his hand on his thigh and whe…](<https://x.com/arcticinstincts/status/2124011035036398046>)  
+  BREAKING: Former NVIDIA CEO Jensen Huang reportedly would make an OK circle sign with his hand on his thigh and when an employee looked at it he would punch them on the shoulder  
+  @arcticinstincts · 2026-11-21 13:24
+
+- [My last day at NVIDIA, with warmth to carry forward Yesterday was my last day at NVIDIA.](<https://x.com/darrell_dai/status/2124009669102551357>)  
+  I returned my equipment and badge, signed the paperwork, and just like that, it was done. It all happened so quickly and simply that it still feels a little unreal. There were a few things  
+  @darrell\_dai · 2026-11-21 13:19
+
+- [the OpenRouter situation for anyone curious: -someone managed to access outputs sent to MiniMax -researcher discove…](<https://x.com/michael_chomsky/status/2124008002571428224>)  
+  the OpenRouter situation for anyone curious: -someone managed to access outputs sent to MiniMax -researcher discovered this by sending a secret links -40 to 130 hours later someone opened the secret links -oop, this means that someone accessed your outputs\!\!  
+  @michael\_chomsky · 2026-11-21 13:12
+
+- [It’s beginning.](<https://x.com/secupp/status/2124007349232836992>)  
+  This Nvidia scandal is going to take down soooo many people, just watch. Bigger than the midterms, bigger than the Dems investigations of other corruption. 👀👀👀  
+  @secupp · 2026-11-21 13:09
+
+- [离大谱！有人用近千部成人视频，硬生生喂出了一个极其写实的 AI 模型，体积居然只有 0.62GB 😳 这就是最近在圈子里传…](<https://x.com/HeLi8866/status/2124006063876067341>)  
+  → 完全免费，没有任何访问限制，目前下载量已经狂飙到 91k 次 → 这是一个 v3“极致写实”版本，单文件只有 0.62GB 的 safetensors →  
+  @HeLi8866 · 2026-11-21 13:04
+
+- [Anthropicのリーマン予想の解決が有力になっているということで、 9月にもツイートしたこれを改めて再掲。](<https://x.com/ImAI_Eruel/status/2124005058673348687>)  
+  @ImAI\_Eruel · 2026-11-21 13:00
 
 - [It is embarrassing.](<https://x.com/FaraiMazhindu/status/2124004448741523590>)  
   South Africa sent its highest office to Silicon Valley: the President himself, eight ministers, and 300 people, for a whole week. And yet no one big in US tech took him seriously. There was no Elon Musk, no Jensen Huang, no Sam Altman, no Zuckerberg, and no  
@@ -126,54 +177,4 @@
   Former BlackRock fund manager Ed Dowd on AI leaders being "the dumbest people on the planet"😂😂🤣🤣🤣 "I've never seen such a PR campaign... we're going to take all your jobs \[and\] we might destroy humanity" "is there any wonder there's all this populist uprising?…  
   @SenseReceptor · 2026-11-21 09:28
 
-- [卧槽！老魔已经替兄弟们验过牌了！🔥 这次黄果圈是真要变天了！](<https://x.com/zz42508586/status/2123949080242188303>)  
-  有人拿近 1000 段成人视频，给 MiniMax H3 炼出了一套成人专用 LoRA。 整个权重只有 0.62GB，直接开源，免费下载！ 更骚的是，作者连生成演示都放出来了。 不光是静态美女图，主打的就是写实人体、成人动作和动态场景。 以前 AI  
-  @zz42508586 · 2026-11-21 09:18
-
-- [美国商务部的 AI芯片 出口名单公开了 涉及英伟达 H200，AMD MI325X 中国企业一共申请了约344万颗AI芯片…](<https://x.com/threerights1/status/2123948977414647933>)  
-  美国商务部的 AI芯片 出口名单公开了 涉及英伟达 H200，AMD MI325X 中国企业一共申请了约344万颗AI芯片，88万颗获得出口许可 实际获批的数量排名如下： 字节跳动：15万颗 腾讯：15万颗 滴滴：9.98万颗 阿里巴巴：7.5万颗 快手：7.5万颗 世纪互联：7.5万颗 米哈游：…  
-  @threerights1 · 2026-11-21 09:17
-
-- [EXCLUSIVE: Jensen Huang Was Targeted After Announcing NVIDIA Chips, Using Open Source AI On A Regular Computer, Wer…](<https://x.com/AJNlive/status/2123946702100992319>)  
-  Tiffany Cianci Breaks Down The Latest  
-  @AJNlive · 2026-11-21 09:08
-
-- [At this rate @nvidia shares will be at $100 by Tuesday and $75 by the end of next week.](<https://x.com/uTobian/status/2123943871692615793>)  
-  The most valuable company in history, with a visionary founder, and the best product in the fastest growing segment of the global economy, and it all went poof in two months. Wild.  
-  @uTobian · 2026-11-21 08:57
-
-- [🇺🇸 \| El presidente Trump pide a NVIDIA que traiga de vuelta a Jensen Huang como CEO.](<https://x.com/AlertaNews24/status/2123943727249178748>)  
-  @AlertaNews24 · 2026-11-21 08:57
-
-- [ベッセントの要求に賛成です。](<https://x.com/2022meimei3/status/2123942953936912813>)  
-  相場がここまで荒れて年金なども相場に依存している米国民生活に甚大な被害が及ぶ前にFRBは利上げは止めるべし。 NVIDIA週足チャートは週足3σを下抜けるレベルで暴落📉  
-  @2022meimei3 · 2026-11-21 08:53
-
-- [The more I read about the Nvidia scandal the more I’m convinced Jensen Huang was not honeypotted and knew exactly w…](<https://x.com/OlgaNYC1211/status/2123942543104835967>)  
-  Guess time will tell  
-  @OlgaNYC1211 · 2026-11-21 08:52
-
-- [🚨🇮🇱Netanyahu: “With the click of a button, you can bring nations to their knees” “Because every system can be hacke…](<https://x.com/MarioNawfal/status/2123941349497999864>)  
-  Our airplanes, our hospitals, our cars, our banks…” This week: Microsoft outages, FAA ground stop, bank logins down, Apple &amp;amp; NSA disruptions. Plus real  
-  @MarioNawfal · 2026-11-21 08:47
-
-- [华尔街有个很吓人的判断：AI泡沫一旦破裂，英伟达可能就是下一个思科。](<https://x.com/Stanleysobest/status/2123940959192858694>)  
-  2000年互联网泡沫最疯狂的时候，思科的设备订单还在暴涨70%。 仅仅4个月后，订单突然转为下跌30%。 上一秒还在疯狂扩产，下一秒客户就不买了。 现在有人担心，英伟达正在走同一条老路。  
-  @Stanleysobest · 2026-11-21 08:46
-
-- [BREAKING: former Nvidia CEO Jensen Huang reportedly told an employee, in a group setting, "You've got something on…](<https://x.com/Sikes_/status/2123940647669248451>)  
-  Next, the employee looked down to inspect the spot. As the employee's  
-  @Sikes\_ · 2026-11-21 08:44
-
-- [The NYT is reporting that Jensen Huang once asked an employee, “What’s your name?” The employee reportedly said, “L…](<https://x.com/michaeljknowles/status/2123938089194181023>)  
-  The NYT is reporting that Jensen Huang once asked an employee, “What’s your name?” The employee reportedly said, “Luke.” Huang then pointed to the center of his face and asked, “What’s this?” “A nose.” Then Jensen opened his hand and asked, “What am I holding?…  
-  @michaeljknowles · 2026-11-21 08:34
-
-- [Now look back to what I said about the Anthropic crowd being Effective Altruism.](<https://x.com/ColonelTowner/status/2123937877696381277>)  
-  Y’all are looking at the new USAID. Bookmark this.  
-  @ColonelTowner · 2026-11-21 08:33
-
-- [BREAKING: Jensen Huang reportedly asked 3 high level executives "Guess what" before replying "Chicken Butt".](<https://x.com/MegaBasedChad/status/2123937645323825306>)  
-  @MegaBasedChad · 2026-11-21 08:32
-
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 37 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 35 页

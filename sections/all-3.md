@@ -1,6 +1,46 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 11 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 12 页
+
+- [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
+  The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
+  The Verge：AI（RSS） · 2026-11-21 23:00
+
+- [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
+  Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
+  20VC · 2026-11-21 22:50
+
+- [Chess.com 推出 Classic Games 平台，上线麻将、数独等 10 款经典游戏](<https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai>)  
+  Chess.com 正式公测 Classic Games 平台，在网页端及 iOS、Android 新应用上线麻将、数独、围棋、象棋、跳棋等 10 款经典游戏。每款游戏均配备课程、排行榜和评分系统，多人游戏支持对战玩家或沿用 Chess.com 的机器人角色。该平台由不到公司 1% 的团队借助 AI 加速编码在数月内完成，美术与设计仍由人工完成。  
+  The Verge：AI（RSS） · 2026-11-21 22:00
+
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol 的新提示词指南，修正简短回答与多余提问](<https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/>)  
+  OpenAI 为 11 月 17 日发布的 GPT-6.2 Astra 和 Sol 公布了一套可直接复制的提示词模板，覆盖写作风格、主动性和编码，并建议迁移的开发者重新审视系统提示词。  
+  The Decoder：AI News（RSS） · 2026-11-21 21:32
+
+- [WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去](<https://36kr.com/p/4079476599772038?f=rss>)  
+  “在行动和言说中，人们表明了他们是谁。” 汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。 2026年，这些词正在落到具体的人身上。 创业者带着各自的技术  
+  36氪 · 2026-11-21 20:44
+
+- [欧洲央行行长拉加德呼吁欧盟用公共资金为芯片厂和数据中心承担首轮损失](<https://www.ithome.com/1/030/472.htm>)  
+  欧洲央行行长拉加德 11 月 20 日在法兰克福欧洲银行业大会发表卸任前最后一次演讲，呼吁欧盟利用包括欧盟预算在内的公共资金，在大型芯片制造厂和数据中心项目中率先承担首轮损失，通过跨区域公私合作伙伴关系吸引私人资本。  
+  IT之家·人工智能 · 2026-11-21 20:36
+
+- [Thinking Machines 发布开源权重模型 Inkling 2 Mini：26.4B 循环 MoE 可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、每 token 激活 3.4B，以 Apache 2.0 协议上架 Hugging Face。  
+  MarkTechPost（RSS） · 2026-11-21 20:13
+
+- [OpenAI 在 API 上线 GPT-Live-1.1 语音模型，闲置成本降至 $0.02/分钟](<https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/>)  
+  OpenAI 将全双工语音模型 GPT-Live-1.1 开放进 API（模型 ID gpt-live-1.1），默认 128K 上下文，仅限 OpenAI 云端通过 v1/live/sessions 部署，客户端经 WebRTC 或 WebSocket 连接。  
+  MarkTechPost（RSS） · 2026-11-21 19:46
+
+- [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](<https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/>)  
+  Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。  
+  The Decoder：AI News（RSS） · 2026-11-21 19:19
+
+- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
+  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
+  The a16z Show · 2026-11-21 19:00
 
 - [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
   Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
@@ -19,7 +59,7 @@
   IT之家·人工智能 · 2026-11-21 16:51
 
 - [Omi CLI](<https://www.producthunt.com/products/omi-cli>)  
-  An AI coding agent in your terminal, on 13 models  
+  AI coding agents that work while you're away.  
   Product Hunt · English · 2026-11-21 16:05
 
 - [29岁，一位字节女将爆红](<https://36kr.com/p/4079215849673865?f=rss>)  
@@ -106,7 +146,7 @@
   36氪 · 2026-11-21 09:05
 
 - [腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考](<https://36kr.com/p/4078768364754050?f=rss>)  
-  智东西11月21日报道，今天凌晨， 腾讯混元团队 在社交媒体平台Reddit举行了一场AMA活动，与全球开发者 围绕Hy4系列模型展开交流 。 姚顺雨也出现在了评论区 ，只是哪个是他的马甲我们不得而知。 ▲姚顺雨在X预告本次Reddit A  
+  智东西11月21日报道，今天凌晨， 腾讯混元团队 在社交媒体平台Reddit举行了一场AMA活动，与全球开发者 围绕Hy4系列模型展开交流 。 姚顺雨也出现在了评论区 ，只是哪个是他���马甲我们不得而知。 ▲姚顺雨在X预告本次Reddit  
   36氪 · 2026-11-21 09:04
 
 - [Anthropic 研究员 Tao Lin 预测 2027 年底 AI 将在几乎所有领域媲美顶尖专家](<https://www.ithome.com/1/030/308.htm>)  
@@ -140,39 +180,4 @@
   匿名隐身模型 Gestalt 在 Contra Labs 11 月 18 日发布的 Frontier Design Benchmark 上以 Elo 1931 分、90% 胜率登顶，超过 Claude Fable 5.2（1713 分）和 GPT-6.1 Sol（1668 分），并高于人类设计师参考作品的 1739 分。  
   IT之家·人工智能 · 2026-11-21 07:17
 
-- [Baseten 发布 bison-1 与 groundhog-1 决策模型：基于 Gemma 4、128k 上下文、开放权重](<https://labs.baseten.co/articles/bison-1-and-groundhog-1-frontier-american-backbone-decision-models>)  
-  Baseten 推出基于 Google Gemma 4 的决策模型 bison-1 和 groundhog-1，支持 128k 上下文与文本、图像输入，权重已在 Hugging Face 和 Baseten Model API 开放。  
-  Baseten Base Labs：模型研究 · 2026-11-21 06:59
-
-- [Opinion \| The AI Correction Trade Arrives](<https://www.wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-21 06:55
-
-- [Anthropic Shares Slide After Banks Exercise ‘Greenshoe’](<https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe>)  
-  The Information · 2026-11-21 04:54
-
-- [WaitFeed](<https://www.producthunt.com/products/waitfeed-2>)  
-  Tech feed inside agent wait time  
-  Product Hunt · English · 2026-11-21 04:01
-
-- [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](<https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/>)  
-  Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the  
-  TechCrunch · 2026-11-21 03:53
-
-- [Stitch Loop](<https://www.producthunt.com/products/stitch-loop>)  
-  Google’s AI agent that ships fixes and watches the metric  
-  Product Hunt · English · 2026-11-21 03:38
-
-- [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](<https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>)  
-  Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too  
-  TechCrunch · 2026-11-21 03:32
-
-- [AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds](<https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds>)  
-  The Information · 2026-11-21 02:00
-
-- [Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math](<https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-21 01:28
-
-- [Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners](<https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-21 01:01
-
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 11 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 12 页

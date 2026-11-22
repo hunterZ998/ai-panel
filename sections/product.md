@@ -11,7 +11,7 @@
   Product Hunt · English · 2026-11-22 04:02
 
 - [Omi CLI](<https://www.producthunt.com/products/omi-cli>)  
-  An AI coding agent in your terminal, on 13 models  
+  AI coding agents that work while you're away.  
   Product Hunt · English · 2026-11-21 16:05
 
 - [WaitFeed](<https://www.producthunt.com/products/waitfeed-2>)  
@@ -34,10 +34,6 @@
   your coding agent directs your launch video  
   Product Hunt · English · 2026-11-19 23:08
 
-- [Currents](<https://www.producthunt.com/products/currents-4>)  
-  Currents for Claude &amp; Codex to see all your tests  
-  Product Hunt · English · 2026-11-19 22:02
-
 - [PH今日热榜 \| 2026-11-19](<https://decohack.com/producthunt-daily-2026-11-19/>)  
   S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
   Product Hunt 中文 · DecoHack · 2026-11-19 15:00
@@ -45,10 +41,6 @@
 - [Publicit](<https://www.producthunt.com/products/publicit>)  
   Omnichannel ad infrastructure for marketers and AI agents  
   Product Hunt · English · 2026-11-18 23:19
-
-- [DWaste](<https://www.producthunt.com/products/deep-waste>)  
-  Eliminate recycling contamination with low-power Edge AI  
-  Product Hunt · English · 2026-11-18 19:42
 
 - [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
   RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  

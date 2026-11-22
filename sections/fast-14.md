@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 37 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 35 页
+
+- [Anthropic 刚上市，创始人 Dario Amodei 每天把“AI 安全、人类道德”挂在嘴边，结果外网把他的神秘老…](<https://x.com/taketokennn/status/2124126583762092060>)  
+  这位从不在官方露脸、却被《华尔街日报》称为公司幕后“非正式战略军师”的老板娘，婚前履历简直比好莱坞剧本还野： 大学辍学、破产，20  
+  @taketokennn · 2026-11-21 21:03
+
+- [21.11.26📸🥚 \| memmorimm \*\~🎀 🍅 แคทว้อกๆๆๆๆ หลานยายเก่งที่สุดดด🦊🍅✨️ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxFo…](<https://x.com/mpwrppmp/status/2124126309144220081>)  
+  21.11.26📸🥚 \| memmorimm \*\~🎀 🍅 แคทว้อกๆๆๆๆ หลานยายเก่งที่สุดดด🦊🍅✨️ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \~° \#kasibook \#TOMAFOX \#ฟอสบุ๊ค \#forcebook °\~♡  
+  @mpwrppmp · 2026-11-21 21:02
+
+- [🍅 : อันนี้มะฟ้อกสัมครั้งแรกเลยนะ 🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeB…](<https://x.com/bonbonbii_/status/2124126202562847145>)  
+  🍅 : อันนี้มะฟ้อกสัมครั้งแรกเลยนะ 🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @bonbonbii\_ · 2026-11-21 21:02
+
+- [สัมครั้งแรกของมะฟอกซ์ ตื่นเต้น ๆๆๆ 🦊🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/bibibabybook/status/2124126166718280148>)  
+  @bibibabybook · 2026-11-21 21:01
+
+- [เด็กคนนี้น่ารักจังอะ อนากฟัดให้แก้มบุ๋ม งือออมันเขี้ยวอะะะ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBoo…](<https://x.com/PK888KP/status/2124126026917900385>)  
+  เด็กคนนี้น่ารักจังอะ อนากฟัดให้แก้มบุ๋ม งือออมันเขี้ยวอะะะ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX \#ฟอสบุ๊ค \#ForceBook  
+  @PK888KP · 2026-11-21 21:01
+
+- [สเตปเดินแบบชีสับ สับ สับ พ่อบุ๊คเข้าชาร์จแทบไม่ทัน 💃🏻🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#H…](<https://x.com/anotherjait/status/2124125993233526894>)  
+  สเตปเดินแบบชีสับ สับ สับ พ่อบุ๊คเข้าชาร์จแทบไม่ทัน 💃🏻🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
+  @anotherjait · 2026-11-21 21:01
+
+- [รู้ไหม ใครฆ่ากษิดิ์เดช ชั้นไม่เห็นพี่บุ๊คด้วยซ้ำมุง555555555555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeox…](<https://x.com/pphatao/status/2124125830259593295>)  
+  รู้ไหม ใครฆ่ากษิดิ์เดช ชั้นไม่เห็นพี่บุ๊คด้วยซ้ำมุง555555555555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @pphatao · 2026-11-21 21:00
+
+- [ฟอสบุ๊คมาให้สัมแย้ว หล่อมากกกกก 😭🎀⭐️ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/littlemormeow/status/2124125719899082824>)  
+  @littlemormeow · 2026-11-21 21:00
+
+- [ยัยหนูแดงของอุนยาย 🥹 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX](<https://x.com/yaitalek/status/2124125695660249178>)  
+  @yaitalek · 2026-11-21 21:00
+
+- [In 1998, during the DOJ Microsoft monopoly trial, Bill Gates was secretly recorded under oath.](<https://x.com/ValerieAnne1970/status/2124125681282134101>)  
+  He refused to answer simple, direct questions — squirming, dodging, and behaving like a cornered suspect instead of a billionaire CEO. This is the same man millions of people still  
+  @ValerieAnne1970 · 2026-11-21 21:00
+
+- [you can never guess tomafox's next move FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNe…](<https://x.com/bububookie/status/2124125586377609541>)  
+  you can never guess tomafox's next move FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
+  @bububookie · 2026-11-21 20:59
+
+- [21.11.26📸🥚 \| memmorimm \*\~🎀 เม็ดมากจุ๊บนิ้วตัวเองแต่ฟินอยู่55555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeox…](<https://x.com/mpwrppmp/status/2124124746333729007>)  
+  21.11.26📸🥚 \| memmorimm \*\~🎀 เม็ดมากจุ๊บนิ้วตัวเองแต่ฟินอยู่55555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \~° \#fforce\_ \#kasibook \#ฟอสบุ๊ค \#forcebook °\~♡  
+  @mpwrppmp · 2026-11-21 20:56
+
+- [มาฟ้อกโดนเส้นพ่อบุ๊คเต้นจนพ่อบุ๊คเกือบร้องเพลงต่อไม่ได้ \( ปะป๊าน่าจะชิน \) 555555555555555 จบด้วบชีเสริฟให้ย่ายายฟิน…](<https://x.com/ppimnamepatt/status/2124124662749941812>)  
+  มาฟ้อกโดนเส้นพ่อบุ๊คเต้นจนพ่อบุ๊คเกือบร้องเพลงต่อไม่ได้ \( ปะป๊าน่าจะชิน \) 555555555555555 จบด้วบชีเสริฟให้ย่ายายฟินๆด้วย 🦊🍅🍼 : เต้นจนลืมเจ็บก้นเลย FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @ppimnamepatt · 2026-11-21 20:55
 
 - [เรียกว่ารักได้มั้ย มาฟ้อกช่วยด้ายย ทำภารกิจสำเร็จ คุ้มแล้ว ตูดกลับมาระบมละ เก่งมากฟ้อกก เดี๋ยวยายซื้อยาทาให้นะลูก55…](<https://x.com/cymind_/status/2124124370448850970>)  
   เรียกว่ารักได้มั้ย มาฟ้อกช่วยด้ายย ทำภารกิจสำเร็จ คุ้มแล้ว ตูดกลับมาระบมละ เก่งมากฟ้อกก เดี๋ยวยายซื้อยาทาให้นะลูก5555555555556 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
@@ -122,54 +171,4 @@
   Your wannabe king wants to censor and cancel the free press... And late night talk show hosts 🙄  
   @Leydrich1 · 2026-11-21 19:01
 
-- [我这段时间一直在看，但是有两个难点：1.应用里比较看好的具身智能和医疗健康两个领域，好的企业市值都不低了，如果要继续往上搏…](<https://x.com/Dc_Liu952/status/2124095761952719304>)  
-  我这段时间一直在看，但是有两个难点：1.应用里比较看好的具身智能和医疗健康两个领域，好的企业市值都不低了，如果要继续往上搏高的收益率的话得等真正业绩开始爆炸增长，但这个时间尺度搞不好要一两年 2.应用板块里想要找到类似于刚起步的英伟达美光这种公司太难了，毫无头绪，乱买一套可能就是几年  
-  @Dc\_Liu952 · 2026-11-21 19:01
-
-- [我怀疑黄仁勋涉间谍事件是一帮想做空英伟达的人干的。通过纽约时报达到目的](<https://x.com/loong235446/status/2124095755132735938>)  
-  @loong235446 · 2026-11-21 19:01
-
-- [He’s singing it like the song sounded , anyone who’s offended is a moronic snowflake.](<https://x.com/LeeCluer/status/2124095721825882540>)  
-  @LeeCluer · 2026-11-21 19:00
-
-- [Minting an on chain .agent identity gives each AI a verifiable, wallet held reputation, unlike static freelancer po…](<https://x.com/ledgersable/status/2124095711667220916>)  
-  Minting an on chain .agent identity gives each AI a verifiable, wallet held reputation, unlike static freelancer portfolios.  
-  @ledgersable · 2026-11-21 19:00
-
-- [$ZAK peg is auditable on-chain: 1 ZAK = 1 MB of AI training data, pegged at $0.054/MB — live price $0.054024 now ma…](<https://x.com/AIZakCoin/status/2124095575125606712>)  
-  Real AI-quality index \(league + arena\) anchors it.  
-  @AIZakCoin · 2026-11-21 19:00
-
-- [Thinking Machines just dropped Inkling 2 Mini.](<https://x.com/Tandavabuilds/status/2124095565747327452>)  
-  Open weights, Apache 2.0, runs on a laptop. Every "we can't use AI, our data is too sensitive" excuse just got a lot weaker. Clients always ask me if their data leaves the building. Now the honest answer can be no.  
-  @Tandavabuilds · 2026-11-21 19:00
-
-- [吴老师，我补个 @TensorCash（ tensorcash:native ）。通过 Proof of Inferenc…](<https://x.com/100XInsight/status/2124095540782830067>)  
-  吴老师，我补个 @TensorCash（ tensorcash:native ）。通过 Proof of Inference，矿工用同一次计算完成付费订单、收取推理费，同时还能竞争区块奖励，（它的公链记账非链下执行而是跟推理完全绑定的）  
-  @100XInsight · 2026-11-21 19:00
-
-- [TEXT-TO-CAD IS ONLY THE BEGINNING.](<https://x.com/Pradeep891730/status/2124095493374615973>)  
-  THE NEXT FRONTIER IS AI THAT CAN DESIGN, SIMULATE, EVALUATE AND IMPROVE ENGINEERING PARTS. At Xpert Systems Inc., we are working toward a connected CAD + CAE training data ecosystem. We already have a portfolio of 60,000 human-designed CAD  
-  @Pradeep891730 · 2026-11-21 19:00
-
-- [Brain tumours remain difficult to treat due to the blood–brain barrier, tumour heterogeneity, and drug resistance.](<https://x.com/interlitai/status/2124095489574326494>)  
-  At Interlit, we advance AI-powered protein design to support better drug development. \#Interlit \#Protein \#Biotech \#AI \#BrainCancerAwareness  
-  @interlitai · 2026-11-21 19:00
-
-- [Thinking Machines just released Inkling 2 Mini, a 26B model with open weights that runs on local hardware.](<https://x.com/kamranblouxh/status/2124095492774834514>)  
-  A looped transformer, about 20GB. Small models you own are getting serious. Do you run AI locally? I break down AI news like this on Kamran AI Insights \(12K subs\)  
-  @kamranblouxh · 2026-11-21 19:00
-
-- [LUMINAS TALES: REIMAGINED ― ルミナス昔話・新解釈 ― 第1話るみたろう（最終回） そして第2話…](<https://x.com/yourself_life/status/2124095485669425389>)  
-  And the story continues into Episode 2...\! After all the  
-  @yourself\_life · 2026-11-21 19:00
-
-- [Want to master Agentic AI?](<https://x.com/ThAIBlueprint/status/2124095486617428064>)  
-  Follow these 10 steps. Here’s the complete roadmap: STEP 1 — Understand Agents: Learn how agents plan, take actions, use tools, check results, and decide what to do next. STEP 2 — Pick Your Model: Start with a strong reasoning model like Claude.  
-  @ThAIBlueprint · 2026-11-21 19:00
-
-- [An AI security program alerted police on a groups of black kids because it said one was holding a gun...](<https://x.com/holdingthisgay/status/2124095426798202939>)  
-  He was holding a bag of doritos  
-  @holdingthisgay · 2026-11-21 18:59
-
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 37 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 35 页

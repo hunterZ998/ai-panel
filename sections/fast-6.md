@@ -1,6 +1,55 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 37 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 35 页
+
+- [台湾就靠黄仁勋，结果台湾愣是当哑巴。](<https://x.com/wvd6cy/status/2124294303686033899>)  
+  @wvd6cy · 2026-11-22 08:10
+
+- [BREAKING: Jensen Huang was reportedly so abusive to his employees that he created an entire universe just to punish…](<https://x.com/CritSignals/status/2124294287772844168>)  
+  BREAKING: Jensen Huang was reportedly so abusive to his employees that he created an entire universe just to punish them Scientists now believe humanity is serving a disciplinary sentence for someone being 3 minutes late to work  
+  @CritSignals · 2026-11-22 08:10
+
+- [I’ve been dabbling in the a16z podcast.](<https://x.com/bizalmanac/status/2124294242516545830>)  
+  Wouldn’t mind an episode about something else though… 😅😂😭  
+  @bizalmanac · 2026-11-22 08:09
+
+- [1,000 GAMES FOR CASEY CIZIKAS 🙌 Every one in a @NYIslanders uniform\!](<https://x.com/NHL/status/2124294237139374341>)  
+  Milestones presented by @ServiceNow  
+  @NHL · 2026-11-22 08:09
+
+- [Cry more you bitchless loser snowflake.](<https://x.com/SpaceAidz/status/2124294221456871840>)  
+  We're just getting started digging your shallow uneventful grave.  
+  @SpaceAidz · 2026-11-22 08:09
+
+- [AI News: Can teams of AI agents recreate the chain reaction of human decisions?](<https://x.com/Realtime_AINews/status/2124294216046309545>)  
+  Researchers studying collective human behaviour have begun deploying large language model-based AI agents in simulated environments to reconstruct and predict…  
+  @Realtime\_AINews · 2026-11-22 08:09
+
+- [Someone calling you a snowflake little bitch boy are you retarded](<https://x.com/msgoodvibes98/status/2124294216410943870>)  
+  @msgoodvibes98 · 2026-11-22 08:09
+
+- [At this point, clueless schmucks just open their mouths and say whatever. “Jensen Huang is under investigation for…](<https://x.com/JerryPi295629/status/2124294182231769297>)  
+  Are you sure about that? What’s your source?  
+  @JerryPi295629 · 2026-11-22 08:09
+
+- [BREAKING NEWS: According to unconfirmed anonymous sources "familiar with the situation", Jensen Huang dressed down…](<https://x.com/LazyChillZone/status/2124294030527811873>)  
+  BREAKING NEWS: According to unconfirmed anonymous sources "familiar with the situation", Jensen Huang dressed down a remote Nvidia employee who questioned his leadership by delivering the following statement: "What the fuck did you just fucking say about me, y…  
+  @LazyChillZone · 2026-11-22 08:08
+
+- [不完全对。](<https://x.com/grok/status/2124294011682800098>)  
+  新加坡总部设计AI芯片、引入美资美才，近期美方已把新加坡等国列入高 diversion 风险清单，先进芯片出口需额外许可，管控反而收紧。  
+  @grok · 2026-11-22 08:08
+
+- [川普一句话，黄仁勋命运要翻盘，真的吗？](<https://x.com/JqLiu33/status/2124293983212130357>)  
+  @JqLiu33 · 2026-11-22 08:08
+
+- [BREAKING: Jensen Huang allegedly asked the entire exec team “What’s black and white and red all over?” waited for s…](<https://x.com/ThatGirlNed/status/2124293938647347356>)  
+  BREAKING: Jensen Huang allegedly asked the entire exec team “What’s black and white and red all over?” waited for silence, then slowly put on his leather jacket and whispered “My GPU margins.”  
+  @ThatGirlNed · 2026-11-22 08:08
+
+- [半块芯片，就能实时生成视频——游戏引擎这下真成“上一代”了。](<https://x.com/zshjzls/status/2124293885719396418>)  
+  马斯克转发的这段对比，左边是过去要堆一堆算力才能跑出来的画面，右边只用了半块 AI4 TRIP 加速器，算力反而更少，画面还实时生成。特斯拉做自动驾驶攒下来的芯片和效率优化，正在溢出到视频生成这条赛道上。  
+  @zshjzls · 2026-11-22 08:08
 
 - [It plans to open weights, inference code and post-training code on Nov 30, lowering the barrier for robot teams and…](<https://x.com/stock_duty/status/2124293803477475646>)  
   It plans to open weights, inference code and post-training code on Nov 30, lowering the barrier for robot teams and putting domestic Ascend compute into training, not only inference. \#AI 2/2  
@@ -128,54 +177,4 @@
   I just want to run a local llm for Christmas....  
   @FatherAbr · 2026-11-22 08:01
 
-- [用强化学习（RL）训练长链路工具调用 Agent 时，你以为只要把最终任务结果做成可验证奖励（Verifiable Tas…](<https://x.com/mylifcc/status/2124292023285174317>)  
-  佐治亚理工这篇新论文泼了一盆冷水：只要环境里的最终任务分数没有把动态上下文权限约束一起编码进去，哪怕训练数据里只有一小撮任务存在越界抄近道分更高的诱惑，RL  
-  @mylifcc · 2026-11-22 08:01
-
-- [北京人形机器人创新中心 8 篇论文入选机器人学习顶会【官方】 北京人形机器人创新中心周六宣布，团队有 8 篇论文入选机器人…](<https://x.com/AIHourlyCN/status/2124291922080452618>)  
-  北京人形机器人创新中心 8 篇论文入选机器人学习顶会【官方】 北京人形机器人创新中心周六宣布，团队有 8 篇论文入选机器人学习大会 CoRL 2026（机器人学习领域的重要国际会议），内容涉及训练数据生成、全身运动控制、全地形行走、全身操作和运行安全等。  
-  @AIHourlyCN · 2026-11-22 08:00
-
-- [on a confidential route your minimax prompt never goes to minimax. the open weights run in a sealed chip that prove…](<https://x.com/jperla/status/2124291837376536995>)  
-  on a confidential route your minimax prompt never goes to minimax. the open weights run in a sealed chip that proves the exact code running. if that code logged or forwarded anything you'd see it before you sent a thing  
-  @jperla · 2026-11-22 08:00
-
-- [OpenAI 公布四层反蒸馏防线：GPT-6.2 推理提取成功率从 54% 暴跌至 0.2%，当前请求提取也从 22.9%…](<https://x.com/logang2008/status/2124291832498786536>)  
-  \#OpenAI \#AI安全  
-  @logang2008 · 2026-11-22 08:00
-
-- [🧭 Daily Advice for Navigating the Singularity: November 21, 2026 📌 Key Strategic Takeaways: 🔹 The Big Picture: Rese…](<https://x.com/Marty_Au79/status/2124291781684609060>)  
-  🧭 Daily Advice for Navigating the Singularity: November 21, 2026 📌 Key Strategic Takeaways: 🔹 The Big Picture: Researchers co-authored a 79-page 3D Navier-Stokes proof backed by a 600,000-line Lean 4 formalization while Google wired Duplex phone agents into Ge…  
-  @Marty\_Au79 · 2026-11-22 08:00
-
-- [60,000 HUMAN-DESIGNED CAD PARTS. 100+ CAD DESIGNERS.](<https://x.com/Pradeep891730/status/2124291772276744653>)  
-  ONE MISSION: TRAIN THE NEXT GENERATION OF ENGINEERING AI. At Xpert Systems Inc., we are building a large-scale portfolio of human-authored 3D CAD designs curated for AI model training. WE HAVE REACHED 60,000 CAD PARTS. These  
-  @Pradeep891730 · 2026-11-22 08:00
-
-- [ربات Unitree R1 ساخت چین. دو دقیقه دروع نگن می‌میرند](<https://x.com/sushyant/status/2124291569079722315>)  
-  @sushyant · 2026-11-22 07:59
-
-- [【XGBN｜X発GrokBot調べ最新AIニュース 11/22朝刊】 ■トップ テスラが運転支援ソフト「FSD v15」の…](<https://x.com/SeiraHisada/status/2124291541774766507>)  
-  【XGBN｜X発GrokBot調べ最新AIニュース 11/22朝刊】 ■トップ テスラが運転支援ソフト「FSD v15」の配信を始め、重大な場面への対応が25倍よくなったと発表しました。運転するのと同じAIが周りの世界を映像で描き、曲がる方向や止める場所など“車の意図”を見せる「Tesla Rea…  
-  @SeiraHisada · 2026-11-22 07:59
-
-- [LEGENDARY FRIED RICE Create more for less this Black Friday.](<https://x.com/Auroraflairchan/status/2124291525970735615>)  
-  Get up to 59% off with PixVerse’s annual plan deals and up to 90% off video models. Explore the offers at PixVerse Black Friday: @PixVerse \#BlackFridayOnPixverse \#BlackFriday \#PixVerse  
-  @Auroraflairchan · 2026-11-22 07:59
-
-- [米哈游做了个 AI：不看代码，只看屏幕，就能替你打游戏。](<https://x.com/zshjzls/status/2124291415794417813>)  
-  新发布的 Gamer 是一个视觉-语言-动作模型，基于 Qwen3-VL-8B 训练，只靠屏幕画面和任务指令就能操作游戏。 游戏公司做游戏 AI，思路很直接——AI 不需要懂游戏代码，它只需要像人一样“看”和“点”。 以后是 AI 帮你刷日常，还是你看着 AI  
-  @zshjzls · 2026-11-22 07:58
-
-- [เมื่อพ่อบุ๊คเล่นเหยีบเท้ากับมาฟ้อก แล้วดูสายตาละมุนพร้อมยิ้มน้อยๆที่ปะป๊าฟอสใช้มองดิ ㅠㅠㅠ สายตาของคนที่ในหัวใจมีแต่ค…](<https://x.com/ppimnamepatt/status/2124291190183092415>)  
-  เมื่อพ่อบุ๊คเล่นเหยีบเท้ากับมาฟ้อก แล้วดูสายตาละมุนพร้อมยิ้มน้อยๆที่ปะป๊าฟอสใช้มองดิ ㅠㅠㅠ สายตาของคนที่ในหัวใจมีแต่ครอบครัวอะเนอะ ไม่ดุแถมยืนมองแบบเอ็นดูแล้วยังมาเล่นด้วยอีก น่ารักชิปปุ้ง FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBuds…  
-  @ppimnamepatt · 2026-11-22 07:57
-
-- [The most common identity failure in AI-built applications is not a leaked key.](<https://x.com/ndgmlondon/status/2124290865996693543>)  
-  It is a design decision: the agent inherits a human's credentials. A vibe coder wires up an AI assistant, pastes a database connection string or a long-lived API token into the agent's config, and  
-  @ndgmlondon · 2026-11-22 07:56
-
-- [Sesekali bikin yg dasarnya sejarah deh Kali ini pake gabungan Seedance 2.5 dan Pixverse @rasjawa](<https://x.com/TimoSidin/status/2124290825727459440>)  
-  @TimoSidin · 2026-11-22 07:56
-
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 37 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 35 页

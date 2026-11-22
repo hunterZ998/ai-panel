@@ -1,8 +1,49 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 11 页
+[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 12 页
 
-完整公开资讯，共 495 条。
+完整公开资讯，共 527 条。
+
+- [OpenAI 首席科学家 Jakub Pachocki 提议以 perplexity 作为限制 AI 发展速度的度量](<https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/>)  
+  OpenAI 首席科学家 Jakub Pachocki 发文提议以 perplexity 作为衡量 AI 进展的共同基准，用于在企业间建立发展速度的共同限制。  
+  TechCrunch：AI（RSS） · 2026-11-23 05:14
+
+- [大模型竞赛进入AI4S深水区，“沪牌”模型在密码学领域取得重要突破](<https://www.163.com/dy/article/LCD5RF8L055040N3.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 05:09
+
+- [OpenAI Calls For Leading AI Firms to Agree on AI Development Limits](<https://www.theinformation.com/briefings/openai-calls-leading-ai-firms-agree-ai-development-limits>)  
+  The Information · 2026-11-23 05:08
+
+- [Opinion \| America Hits the Brakes on AI](<https://www.wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-23 04:47
+
+- [OpenAI Chief Scientist Urges Industry Limits on AI Development](<https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development>)  
+  Bloomberg · 2026-11-23 03:40
+
+- [NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor](<https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/>)  
+  NVIDIA 发布 2B 级推理视觉-语言-动作模型 Alpamayo 2 Edge，可在车内 DRIVE AGX Thor 上做轨迹规划与因果解释，采用 OpenMDW-1.1 许可开源权重。  
+  MarkTechPost（RSS） · 2026-11-23 02:37
+
+- [Gary Marcus 评 Levent Alpöge 借助 Claude 证明黎曼猜想：不是 AI 独立完成，也难以泛化](<https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann>)  
+  Gary Marcus 分析 Levent Alpöge 在 Claude 协助下疑似证明黎曼猜想一事，指出并非 AI 独立完成，而是这位数学家数月深度协作的成果。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-23 02:37
+
+- [TechCrunch 访谈《Hyperscale》作者 Paris Marx：数据中心为何成为反科技浪潮的焦点](<https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>)  
+  TechCrunch 访谈记者 Paris Marx，谈其新书《Hyperscale》调查数据中心与生成式 AI 的社会影响。  
+  TechCrunch：AI（RSS） · 2026-11-23 02:08
+
+- [《以撒的结合：Repentance Plus》因 AI 音乐被发现后遭差评轰炸，Nicalis 已移除相关文件](<https://www.theverge.com/games/1039770/binding-of-isaac-ai-music>)  
+  《以撒的结合：Repentance Plus》被发现某段 GTA 主题内容使用 AI 生成音乐后在 Steam 遭差评轰炸。Reddit 用户 ShweetsStuff 找到带 Suno 元数据的音频文件，作者 Edmund McMillen 在 X 上道歉，称自己不知情；发行方 Nicalis 数小时内更新游戏并移除了生成的音乐文件。  
+  The Verge：AI（RSS） · 2026-11-23 01:25
+
+- [PPT拿奖、大厂蹭量、投资人白嫖：AI黑客松快被搞臭了](<https://www.163.com/dy/article/LCCKMJ4L051196HN.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 00:10
+
+- [马斯克称AI行业明年或面临严重资金短缺，B站就“大肥鱼”泛滥征求意见，多](<https://www.163.com/dy/article/LCCKLBMJ051196HN.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 00:09
+
+- [What Comes Next After Anthropic’s Historic IPO](<https://www.wsj.com/tech/ai/what-comes-next-after-anthropics-historic-ipo-464368c1?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-22 23:55
 
 - [美国初创企业公布AI自研CPU架构Frostbite，能效是传统处理器的4.59倍](<https://www.163.com/dy/article/LCCI73NF0511B8LM.html>)  
   网易科技频道 · 网易号 · 2026-11-22 23:26
@@ -10,6 +51,10 @@
 - [美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍](<https://www.ithome.com/1/030/717.htm>)  
   IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令…  
   IT之家 · 2026-11-22 23:15
+
+- [新实验：AI 编码智能体在模拟软件公司中完成不到十分之一的任务](<https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/>)  
+  一项新实验首次让 AI 编码智能体在模拟软件公司中作为数字员工工作，环境包含同事、项目看板和聊天记录。结果显示即使 Claude Opus 5.5 和 GPT-6 Astra 也只完整完成不到十分之一的任务，而 SWE-bench 等标准基准已接近饱和。  
+  The Decoder：AI News（RSS） · 2026-11-22 23:15
 
 - [How AI is Accelerating Cyberattacks](<https://www.bloomberg.com/news/videos/2026-11-22/how-ai-is-accelerating-cyberattacks-video>)  
   Bloomberg · 2026-11-22 23:03
@@ -48,18 +93,6 @@
 - [马斯克警告AI行业明年或面临严重资金短缺](<https://www.163.com/dy/article/LCCCTHEC055040N3.html>)  
   网易科技频道 · 网易号 · 2026-11-22 21:53
 
-- [黄仁勋辞任英伟达CEO，AI融资降温或动摇美联储鹰派逻辑](<https://www.163.com/dy/article/LCCCSQCT0550WHYR.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 21:53
-
-- [闪电快讯 ｜ 华为全新品牌星芒阔直板AI手机OSTA O1 Pro以5499元起售](<https://www.163.com/dy/article/LCCCP0210553DXPD.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 21:53
-
-- [华为星芒，AI手机又一声“枪响”](<https://www.163.com/dy/article/LCCCACLK0519DFFO.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 21:43
-
-- [马斯克预警AI行业明年资金短缺，美股AI硬科技股下挫](<https://www.163.com/dy/article/LCCBVSPQ0550WHYR.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 21:37
-
 - [Behind the Curtain — AI 2027: The reckoning](<https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning>)  
   We've talked to more than 50 leaders in government, AI, business and cyber — from let-'er-rip AI accelerationists to…  
   Axios · 2026-11-22 21:36
@@ -70,9 +103,6 @@
 - [美国扩大芯片管制、DeepSeek 融资股权结构曝光、腾讯 AI 投入成本揭晓](<https://www.recodechinaai.com/p/new-chip-restrictions-deepseeks-funding>)  
   美国将芯片出口管制扩展至海外数据中心租用算力，新规11月19日生效，并收紧对芯片制造与封装的要求。DeepSeek 本轮融资约 RMB105.5 亿、投后估值约 RMB615.5 亿，杭州辰岩成为运营公司股东。腾讯第三季度营收约 RMB207.3 亿、同比增长 8%，资本开支 RMB81.4 亿，WorkBuddy 日活超 1000 万、日均消耗超 100 万亿 tokens。  
   Recode China AI（RSS） · 2026-11-22 21:33
-
-- [MiniMax利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录](<https://www.163.com/dy/article/LCCBKDO90511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 21:31
 
 - [MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录](<https://www.ithome.com/1/030/711.htm>)  
   IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本…  
@@ -137,36 +167,4 @@
   IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今…  
   IT之家 · 2026-11-22 18:54
 
-- [2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比](<https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/>)  
-  MarkTechPost 整理 2026 年 7 款个人 AI 智能体的横评，从记忆、安全、成本三个维度比较 Hermes Agent、OpenClaw、Gemini Spark、OpenAI dots、Meta Muse、Perplexity Personal Computer 及 NanoClaw 等加固分支。  
-  MarkTechPost（RSS） · 2026-11-22 18:36
-
-- [小鹏 G9L 在泰国、印尼上市，售价折合人民币超 47 万元](<https://www.ithome.com/1/030/687.htm>)  
-  IT之家 11 月 22 日消息，据小鹏集团消息，小鹏近日在泰国曼谷、印度尼西亚雅加达同步发布小鹏 G9L，两地售价分别折合人民币约 47.15 万元和 47.6 万元。这是小鹏首次在两个东南亚核心市场同步推出同一款旗舰车型。 在智能…  
-  IT之家 · 2026-11-22 18:33
-
-- [LATO获得470万美元A轮融资](<https://www.itjuzi.com/investevent/14708390>)  
-  LATOAI市场研究平台开发商，打造 Agent 原生商业尽调平台，依托 AI 智能体自动寻访、多语种语音访谈行业专家与终端客户，融合公开资料与机构自有数据产出市场调研报告，并支持动态市场仿真推演，服务私募股权、增长股权、风险投资机构…  
-  IT桔子 · 2026-11-22 18:18
-
-- [Google 在 Gemini API 预览 Tool Retrieval，面向大型工具库延迟加载 schema](<https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/>)  
-  Google 在 Gemini API 的 Interactions API（v1beta）中预览上线 Tool Retrieval，延迟加载工具参数 schema，模型只看名称和短描述，需要时才检索加载完整 schema，降低大量工具定义带来的 token 开销。  
-  MarkTechPost（RSS） · 2026-11-22 18:03
-
-- [报告：美国会计行业 AI 采用率高，但技术整合成熟度不足](<https://www.ithome.com/1/030/679.htm>)  
-  IT之家 11 月 22 日消息，会计师正在成为观察人工智能如何改变职场的一个意想不到的样本。 据IT之家了解，由于会计工作具有流程固定、数据密集等特点，会计事务所一直是较早采用人工智能技术的行业之一，也经常被列为最容易受到 AI 冲…  
-  IT之家 · 2026-11-22 17:58
-
-- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
-  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
-  The Decoder：AI News（RSS） · 2026-11-22 17:41
-
-- [菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可](<https://www.ithome.com/1/030/677.htm>)  
-  IT之家 11 月 22 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣布，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。…  
-  IT之家 · 2026-11-22 17:35
-
-- [蚂蚁阿福用户达 1.5 亿，每天线上问诊超 2000 万次](<https://www.ithome.com/1/030/653.htm>)  
-  蚂蚁健康事业群副总裁杨猛在 2026 蚂蚁阿福医疗健康生态大会上透露，蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超过 2000 万次，55% 来自三线及以下城市，1/4 是老人，16% 的问诊发生在凌晨 0 点到早上 6 点。  
-  IT之家·人工智能 · 2026-11-22 16:58
-
-[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 11 页
+[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 12 页

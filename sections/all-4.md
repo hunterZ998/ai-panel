@@ -1,6 +1,81 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 11 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 12 页
+
+- [Baseten 发布 bison-1 与 groundhog-1 决策模型：基于 Gemma 4、128k 上下文、开放权重](<https://labs.baseten.co/articles/bison-1-and-groundhog-1-frontier-american-backbone-decision-models>)  
+  Baseten 推出基于 Google Gemma 4 的决策模型 bison-1 和 groundhog-1，支持 128k 上下文与文本、图像输入，权重已在 Hugging Face 和 Baseten Model API 开放。  
+  Baseten Base Labs：模型研究 · 2026-11-21 06:59
+
+- [OpenAI 向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑](<https://www.ithome.com/1/030/288.htm>)  
+  OpenAI 宣布向每月 20 美元的 ChatGPT Plus 订阅用户开放 Spaces 协作空间，此前仅限 Pro、Business 和 Enterprise 方案。  
+  IT之家·人工智能 · 2026-11-21 06:57
+
+- [Opinion \| The AI Correction Trade Arrives](<https://www.wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-21 06:55
+
+- [Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划](<https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/>)  
+  Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。  
+  Figma AI / Agent / Make · 2026-11-21 06:17
+
+- [Google 新版搜索首页移除搜索按钮并加入 AI 功能入口](<https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/>)  
+  Google 正式上线经过数周测试的新版桌面搜索首页，搜索按钮被完全移除，回车执行搜索不受影响。搜索栏下方新增图像生成、文件分析和与 Gemini 头脑风暴等 AI 功能按钮，I'm Feeling Lucky 按钮保留；搜索 VP Robby Stein 在 X 确认此次部署。  
+  Ars Technica：AI（RSS） · 2026-11-21 05:58
+
+- [Meta 重新评估 2030 净零目标，AI 数据中心致碳排放同比增长近 40%](<https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/>)  
+  Meta 在 2026 年 11 月 19 日发布的可持续发展报告中表示正在重新评估 2030 净零排放目标及近期强度指标，称 AI 基础设施需求增长超出预期。  
+  Ars Technica：AI（RSS） · 2026-11-21 05:47
+
+- [形式验证如何对抗 AI 代码 slop：&amp;Truth、Harmonic、Theorem 与 Axiom Math 的路线](<https://latent.space/p/formal-verification/>)  
+  Latent Space 撰文分析形式验证如何成为对抗 LLM 低质量代码输出的手段，采访了 &amp;Truth 联合创始人 Clark Barrett。&amp;Truth 基于 Lean 构建“验证机”，首个工具 &amp;Atlas 从 C 语言开源代码起步，聚焦内存安全；Barrett 表示其 cvc5 求解器已在 Amazon 生产管线中每天被调用数十亿次。  
+  Latent Space（RSS） · 2026-11-21 05:18
+
+- [MIT-IBM 研究：多模态基础模型如何实现更像人的交互与理解](<https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120>)  
+  MIT-IBM Computing Research Lab 团队在 Jim Glass 共同带领下研究多模态基础模型的感知与语言关联，并针对 GPT-4o 等模型的失败案例开发新基准与少监督方法。  
+  MIT News（RSS） · 2026-11-21 05:00
+
+- [研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>)  
+  研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。  
+  Ars Technica：AI（RSS） · 2026-11-21 04:59
+
+- [Anthropic Shares Slide After Banks Exercise ‘Greenshoe’](<https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe>)  
+  The Information · 2026-11-21 04:54
+
+- [OpenAI 大幅强化 GPT-6.2 Astra 与 GPT-6.2 Sol 的推理抽取防护](<https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/>)  
+  OpenAI 大幅收紧了 GPT-6.2 Astra 与 GPT-6.2 Sol 防止内部推理被抽取的防护。  
+  The Decoder：AI News（RSS） · 2026-11-21 04:31
+
+- [WaitFeed](<https://www.producthunt.com/products/waitfeed-2>)  
+  Tech feed inside agent wait time  
+  Product Hunt · English · 2026-11-21 04:01
+
+- [MIT LIDS 提出硬约束神经网络，让混沌系统 AI 模型预测始终有界](<https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120>)  
+  MIT LIDS 团队提出一种硬约束神经网络方法，通过让模型学习能量类函数并加入投影层强制能量耗散，从理论上保证混沌系统预测在任意长的时间窗口内保持有界。该研究首次为混沌机器学习模型建立此类形式化保证，测试覆盖从教科书案例到高维复杂系统，结果与真实演化高度吻合，而传统方法很快偏离为不可能预测。相关数据已免费开放，论文发表于 PNAS。  
+  MIT News（RSS） · 2026-11-21 04:00
+
+- [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](<https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/>)  
+  Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the  
+  TechCrunch · 2026-11-21 03:53
+
+- [Signal 在 iOS 27 和 Android 上限制截图，阻止 AI 智能体读取私人聊天](<https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/>)  
+  Signal 在 iOS 27 上阻止截图，并在受支持的 Android 版本上于 AI 助手尝试访问屏幕时触发保护，以防止 OS 级 AI（如 Apple 的 Siri AI 和 Google 的 Gemini Intelligence）从显示内容中拉取已解密消息并交由外部处理。  
+  The Decoder：AI News（RSS） · 2026-11-21 03:50
+
+- [Stitch Loop](<https://www.producthunt.com/products/stitch-loop>)  
+  Google’s AI agent that ships fixes and watches the metric  
+  Product Hunt · English · 2026-11-21 03:38
+
+- [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](<https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>)  
+  Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too  
+  TechCrunch · 2026-11-21 03:32
+
+- [AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds](<https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds>)  
+  The Information · 2026-11-21 02:00
+
+- [Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math](<https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-21 01:28
+
+- [Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners](<https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-21 01:01
 
 - [Why the Agent Era Needs a New Operating System \| DHH](<https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL>)  
   David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: th…  
@@ -75,14 +150,6 @@
   最强势的市场，也顶不住这轮AI回调了。 从10月的高点算起，涵盖AI硬件全链条的费城半导体指数跌去27.8%。其中，算力龙头英伟达跌去36.1%、存储龙头美光跌去43%，就连给他们供货的寡头台积电也跌去26.2%。看下来，逻辑最硬、订单最多  
   36氪 · 2026-11-20 20:51
 
-- [问诊AI？一场死亡背后的追问](<https://36kr.com/p/4077982599910529?f=rss>)  
-  2026年2月，美国西雅图，31岁的华人女工程师万博雯被发现死于公寓。法医鉴定为癫痫猝死，她体内抗癫痫药物拉莫三嗪的浓度，仅为治疗下限的五分之一。 警察介入调查后发现，她曾咨询ChatGPT如何用药并按照其建议擅自修改了医生诊断的用药剂量。  
-  36氪 · 2026-11-20 20:50
-
-- [AI短剧的定价权，不在做剧的人手里](<https://36kr.com/p/4077920945542022?f=rss>)  
-  11月16日，文投控股还站在这一轮行情的顶点。从10月27日到那天，股价从1.70元涨到3.74元，涨幅120%。当天换手率37.82%，成交39.57亿，一天换了近四成。 第二天开始，三个跌停。到11月19日收盘，股价2.73元，总市值1  
-  36氪 · 2026-11-20 20:47
-
 - [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
   Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
   Axios · 2026-11-20 20:10
@@ -106,74 +173,4 @@
   OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement…  
   OpenAI · 2026-11-20 18:00
 
-- [蚂蚁 inclusionAI 开源 LingSante-Pulse 生理时序表示学习模型](<https://github.com/inclusionAI/LingSante-Pulse>)  
-  蚂蚁 inclusionAI 在 GitHub 发布 LingSante-Pulse，为 ECG、EEG、PPG 等生理波形和连续血糖监测（CGM）数据提供可复用表示。波形分支每通道输出 256 维 CLS/PatchMean 特征，CGM 分支每日输出 146 维表示并支持跨天历史建模。波形编码器权重托管于 Hugging Face，CGM 部署权重随仓库分发，两分支均支持 CPU 推理。  
-  蚂蚁 inclusionAI：GitHub 新仓库 · 2026-11-20 16:03
-
-- [BrightAI获得9700万美元A轮融资](<https://www.itjuzi.com/investevent/14708372>)  
-  BrightAI是一家实体资产监测解决方案提供商，专注于打造"物理AI"平台，通过传感器和人工智能的结合，为企业提供全方位的实体资产监测解决方案。近日，BrightAI获得9700万美元A轮融资，Smith Point Capital…  
-  IT桔子 · 2026-11-20 16:00
-
-- [Extrordinas获得150万美元天使轮融资](<https://www.itjuzi.com/investevent/14708371>)  
-  Extrordinas是一家网络安全服务提供商，打造端到端 AI 辅助网络事件响应平台，支持一键取证采集、威胁溯源调查、AI 辅助研判与自动生成业务侧报告，覆盖勒索软件、商业邮件劫持、内部威胁、云及身份入侵等安全事件，面向 IR 服务…  
-  IT桔子 · 2026-11-20 15:57
-
-- [Unsiloed AI获得750万美元种子轮融资](<https://www.itjuzi.com/investevent/14708367>)  
-  Unsiloed AI是一家文档解析AI科技研发商，自研双流视觉模型，将 PDF、扫描件、图片、表格、表单等 20 余种非结构化文档解析为带溯源引用、置信度分数与边界框的 Markdown 和结构化 JSON，供 LLM 与 AI 智…  
-  IT桔子 · 2026-11-20 15:40
-
-- [OpenAI 开发者分享在 Codex 中用 Ultrafast 保持心流的使用方法](<https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast>)  
-  OpenAI 开发者介绍如何用本周发布的 GPT-6.2 Astra 和 Sol Ultrafast（token 生成最快提速 4.5×）保持迭代心流。做法包括用热重载 dev server、在应用内浏览器保持预览、拆成短任务、用标注和语音模式、从 Light/Low 推理起步，并把验证移出快速迭代循环。  
-  OpenAI Developers：Blog（网页） · 2026-11-20 15:00
-
-- [Everful获得4850万美元A轮融资](<https://www.itjuzi.com/investevent/14708363>)  
-  Everful是一家AI全球供应链基础设施提供商，打造商业世界模型与采购 AI 智能体，整合多语言供需数据，自动完成热销品识别、工厂匹配核验、订单沟通与履约交付，平台拥有 2000 万 + SKU、3 万 + 核验工厂，每月出货超 5…  
-  IT桔子 · 2026-11-20 14:46
-
-- [星辰智算获得数百万人民币战略投资](<https://www.itjuzi.com/investevent/14708361>)  
-  星辰智算SentiMind是一家认知科学多模态大模型研发商，用游戏化认知任务采集人的行为数据，再以多模态模型理解、预测与训练认知能力，已构建覆盖认知评估、训练、追踪的闭环体系，并推出端侧认知调度层Senti-OS，以1至3B的轻量化模…  
-  IT桔子 · 2026-11-20 14:42
-
-- [九州星核获得数亿人民币天使轮融资](<https://www.itjuzi.com/investevent/14708348>)  
-  九州星核专注于超临界 CO₂ 直接循环微型核裂变产品研发，致力于构建面向人工智能时代的新一代分布式能源基础设施。近日，九州星核获得数亿人民币天使轮融资，天鹰资本投资。  
-  IT桔子 · 2026-11-20 14:22
-
-- [Tesorai获得530万美元种子轮融资](<https://www.itjuzi.com/investevent/14708349>)  
-  Tesorai是一家生命科学AI科技研发商，打造面向蛋白组学的 AI 知识层平台，包含 Tesorai Search 质谱检索引擎、对话分析 Tesorai Chat、跨研究数据集库 Tesorai Trove，直接处理原始实验质谱文…  
-  IT桔子 · 2026-11-20 14:11
-
-- [诚恒微完成近2亿元A轮融资，加速边端侧AI SoC规模化落地](<https://www.pedaily.cn/first/193733.shtml>)  
-  无锡诚恒微电子有限公司完成近2亿元A轮融资，由中金资本、中车资本、毅达资本、锡创兴吴、奇安投资联合参与。（投资界讯） 原文链接  
-  投资界 · 2026-11-20 13:36
-
-- [Community Wolf获得种子轮融资](<https://www.itjuzi.com/investevent/14708339>)  
-  Community Wolf是一家公共安全科技研发商，依托 WhatsApp 智能体渠道，让居民无需下载 App 即可通过文本、语音上报警情；AI 引擎解析非结构化对话与素材，生成实时风险地图与犯罪趋势预测，联动社区巡逻队、私人安保与…  
-  IT桔子 · 2026-11-20 11:26
-
-- [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
-  诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
-  IT桔子 · 2026-11-20 11:21
-
-- [上海国投先导人工智能母基金拟参与投资3只子基金](<https://www.pedaily.cn/first/193743.shtml>)  
-  近日，根据《上海三大先导产业母基金子基金公开遴选细则（试行）》，经相应遴选程序，上海国投先导人工智能母基金初步确定拟参与投资3只子基金，具体名单正式对外公布，本次拟参与投资的3只子基金及对应中选机构。（投资界） 原文链接  
-  投资界 · 2026-11-20 11:20
-
-- [China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.](<https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 11:00
-
-- [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
-  Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
-  IT桔子 · 2026-11-20 10:30
-
-- [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
-  The Information · 2026-11-20 09:00
-
-- [投资界24h\| Anthropic市值超10万亿；三位00后把公司卖了300亿；招商局人工智能产业基金成立](<https://www.pedaily.cn/first/193679.shtml>)  
-  11月19日，美国AI公司Anthropic登陆纳斯达克，发行价每股83美元，开盘涨超20%，市值近2万亿美元七位联合创始人每人身家约200亿美元，集体跻身彭博全球富豪榜前列。与此同时，美国派拓网络宣布将以约300亿元全股票交易收购A…  
-  投资界 · 2026-11-20 08:59
-
-- [Apple may be developing its own AI agent that runs your Mac](<https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/>)  
-  The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenA  
-  TechCrunch · 2026-11-20 08:56
-
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 11 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 12 页

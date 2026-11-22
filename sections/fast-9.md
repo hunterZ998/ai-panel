@@ -1,6 +1,58 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 37 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 35 页
+
+- [Eric Schmidt 解释为何 AI 竞赛不可能相互暂停](<https://x.com/rohanpaul_ai/status/2124227469377184044>)  
+  Eric Schmidt 在 The Economist 视频中解释为什么 AI 竞赛不可能相互暂停：美国没有停止的动机，本地实验室或中国可能作弊，UN 核查无法审查计算机写的代码也跑不赢中美实验室。他称这种暂停无法被验证，核查人员需进入包括军事实验室在内的秘密实验室审查全部代码库，而代码由计算机…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-22 03:44
+
+- [FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX / จั๊นนั่งแกะปากว่าปะป๊ากับลู…](<https://x.com/_itsmeworjor/status/2124220379451556094>)  
+  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX / จั๊นนั่งแกะปากว่าปะป๊ากับลูกอ้วมเม้าอายัยกัน แต่สิ่งที่แกะได้มาคือแงมาก😭😭😭🤲🏻🦊🍅 🦊 คิดถึงป๊าป่าว คิดถึงป๊ามั้ย 🦊 ไม่ได้เจอเลย คิดถึงฟ้อกแล้ว 🦊 คิดถึงสิ คิดถึงฟ้อกมาก ๆ เลย  
+  @\_itsmeworjor · 2026-11-22 03:16
+
+- [uhhhh so, take this with an entire shaker of salt, but a friend \(who has been correct in the past about OpenAI/Ant…](<https://x.com/Xenoimpulse/status/2124219890781605978>)  
+  uhhhh so, take this with an entire shaker of salt, but a friend \(who has been correct in the past about OpenAI/Ant math result rumors\) is saying that three+ people near him are vagueposting about a polynomial time factoring algorithm being close.  
+  @Xenoimpulse · 2026-11-22 03:14
+
+- [🚨 BREAKING: Alice Huang was reportedly tied to an alleged Cambodian crime network smuggling Nvidia chips into China…](<https://x.com/coinbureau/status/2124218638173610304>)  
+  In Chinese data center circles, her nickname was "Jensen's personal assistant." In simple terms, sneaking Nvidia's top chips into China takes 3  
+  @coinbureau · 2026-11-22 03:09
+
+- [Microsoft has filed a patent application for AI that can rewrite what people say during livestreams in near real ti…](<https://x.com/unusual_whales/status/2124216525204926646>)  
+  The system would flag words based on preset rules or a viewer’s profile, such as age, language or location. Generative  
+  @unusual\_whales · 2026-11-22 03:01
+
+- [This is f\*cking insane.](<https://x.com/lunaonexbt/status/2124216367570186459>)  
+  Everyone is talking about Trump asking Nvidia to give Jensen Huang a "second chance" Almost nobody is talking about what Jensen told Lex Fridman about TSMC: "Three decades. I don't know how many tens, hundreds of billions of dollars of business we've  
+  @lunaonexbt · 2026-11-22 03:00
+
+- [Anthropic $ANT IS hiring someone on a $400K–$570K salary to build and maintain its corporate pitch deck.](<https://x.com/commonsenseplay/status/2124214600749261305>)  
+  Let that sink in. The company building AI that supposedly threatens millions of jobs needs to hire a six-figure employee to make PowerPoint presentations\! If Claude can't  
+  @commonsenseplay · 2026-11-22 02:53
+
+- [\[PART3\] ช่วงครอบครัวสุขสันต์ ForceBook Tomafox \(\(น่ารักม๊ากกกกกกกกกก\)\) FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBuds…](<https://x.com/misaojan/status/2124214272557449378>)  
+  \[PART3\] ช่วงครอบครัวสุขสันต์ ForceBook Tomafox \(\(น่ารักม๊ากกกกกกกกกก\)\) FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#ForceBook \#TOMAFOX  
+  @misaojan · 2026-11-22 02:52
+
+- [Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限](<https://x.com/rohanpaul_ai/status/2124213113583174076>)  
+  Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O\(n^1.9992\)、APSP 达到 O\(n^2.9995\)，推翻了 3SUM 和 APSP 假设。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-22 02:47
+
+- [Anthropic took my $200 for their Ultra plan yesterday and banned my account today.](<https://x.com/superalesha/status/2124213004241637843>)  
+  Can't get a refund and can't do anything about it. You pay, wake up banned, and your money is just gone. What a bunch of fucking scammers. These are the same people lecturing everyone on AI  
+  @superalesha · 2026-11-22 02:47
+
+- [Anthropicが株価下落に慌てて「リーマン予想を解いた」宣言した件、25万ページ分の検証を丸投げしてる辺りワークスロッ…](<https://x.com/jjugdy2433yc2c/status/2124212574740967523>)  
+  Anthropicが株価下落に慌てて「リーマン予想を解いた」宣言した件、25万ページ分の検証を丸投げしてる辺りワークスロップの究極形という感じだな この事案そのものが生成AI導入しても生産性上がらない問題の縮図になってる  
+  @jjugdy2433yc2c · 2026-11-22 02:45
+
+- [People keep asking what happens to Nvidia if the board installs a safe, DC-approved corporate CEO instead of bringi…](<https://x.com/MyDaebakCafe/status/2124206668062028262>)  
+  We already saw this exact movie play out at Nokia in 2010. ​When former Microsoft exec Stephen Elop took over Nokia, it still controlled 33% of the  
+  @MyDaebakCafe · 2026-11-22 02:21
+
+- [After deeply testing Gemini 4 Neon for the past few days I can confidently say that this model beats GPT-6.2 Astra…](<https://x.com/lyraxana/status/2124206071988334890>)  
+  Here is what I did with it in the last 3 days: - Built two native iOS apps one-shot \(zero bugs, custom player, Live Activities,  
+  @lyraxana · 2026-11-22 02:19
 
 - [🍅: โอ้ย อยู่กันมาขนาดนี้แล้ว ไม่ค่อยคิดถึงกันแล้ว 🍅: ช่ายมะ \(เปลี่ยนช่องเสียงอ่ะ 🫪🫪\)\) 🦊: ห๊ะ 🍅: ช่ายมะ 🦊: คิดถึงงง…](<https://x.com/xmasilovejimin/status/2124205546077307192>)  
   🍅: โอ้ย อยู่กันมาขนาดนี้แล้ว ไม่ค่อยคิดถึงกันแล้ว 🍅: ช่ายมะ \(เปลี่ยนช่องเสียงอ่ะ 🫪🫪\)\) 🦊: ห๊ะ 🍅: ช่ายมะ 🦊: คิดถึงงง 🍅: อ่ะ ☺️☺️ อยากรู้ว่าเค้าคิดถึงรึป่าวก็ถามตรงๆเลยสิๆๆๆ เนี่ย แล้วพอได้คำตอบตรงใจก็เขินอีก 55555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeox…  
@@ -126,55 +178,4 @@
   🍼 ซื้อให้มาฟ้อกหน่อยน้าค้าบ 🍼 ปะป๊ากับพ่อพ่อเค้าซื้อให้กันเองไปแล้วอ่า 🦊 ละลายทรัพย์รุ่นนี้ 🍅 เงินถุงเงินถังให้หมดล่ะทีนี้ 🎤 อุนย่าอุนยายซื้อให้กี่อัน 🗣️ เอาไปทั้งโรงงาน อ้วมขี้อ้อนมาก😭 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsN…  
   @\_itsmeworjor · 2026-11-22 00:53
 
-- [FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo 🎤 Have you received the bill for the d…](<https://x.com/fforceb/status/2124183167708061775>)  
-  Is this about when you were playing with Papi and ran into something? 🦊🍅👶🏻: Uncle Off was going to eat Mafox’s liver. 🍅 What? 🦊🍅👶🏻: Uncle  
-  @fforceb · 2026-11-22 00:48
-
-- [ยัยหนูแดงกับท่านั่งประจำตัว พลัสดุ๊กดิ๊กๆ // หนูยังเจ็บตูดอยู่อ้ะป่าว แต่ตอนลุกก็ดูจะลำบากอยู่ หายไวๆ นะค้าบบ // FO…](<https://x.com/PK888KP/status/2124182739385750004>)  
-  ยัยหนูแดงกับท่านั่งประจำตัว พลัสดุ๊กดิ๊กๆ // หนูยังเจ็บตูดอยู่อ้ะป่าว แต่ตอนลุกก็ดูจะลำบากอยู่ หายไวๆ นะค้าบบ // FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX \#ฟอสบุ๊ค \#ForceBook  
-  @PK888KP · 2026-11-22 00:46
-
-- [Contraloría pidió que el Gobierno aclare alcances de su acuerdo con OpenAI](<https://x.com/Cooperativa/status/2124182104229752835>)  
-  @Cooperativa · 2026-11-22 00:44
-
-- [หูฟังหล่อมาก ช่วยด้วย 😭😭😭😭 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ @f…](<https://x.com/forceofficial_/status/2124181730525622613>)  
-  หูฟังหล่อมาก ช่วยด้วย 😭😭😭😭 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ @fforcejs  
-  @forceofficial\_ · 2026-11-22 00:42
-
-- [all our agents at langchain \(internal GTM &amp;amp; content agents, LangSmith Engine\) have a learning loop with similar…](<https://x.com/hwchase17/status/2124181216719151585>)  
-  all our agents at langchain \(internal GTM &amp;amp; content agents, LangSmith Engine\) have a learning loop with similar pieces wrote about what we think makes up a "knowledge factory"  
-  @hwchase17 · 2026-11-22 00:40
-
-- [From an idea to polished 4K product advertisements\!](<https://x.com/AmControo/status/2124180263181705657>)  
-  I created these Lay’s and Cadbury shopping basket visuals using MiniMax H3 Image by @MiniMax\_AI. I love how the model brings all the details together. The best part? It’s super fast, crazy affordable, and delivers true 4K  
-  @AmControo · 2026-11-22 00:36
-
-- [FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX / ปะป๊าสปอยลูกอ้วมมาก เด้กมาน…](<https://x.com/_itsmeworjor/status/2124180141144408169>)  
-  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX / ปะป๊าสปอยลูกอ้วมมาก เด้กมานรู้ว่าต้องให้ป๊าช่วย55555555555555555555 🎤 : มาฟ้อกไปโรงเรียนทุกวันรึเปล่า 🍼 : \(🫪\) ไปค้าบ 🍅 : เอ้อ คุณครูนัดพ่อไปโรงเรียน พ่อยังไม่ได้ไปเลย 🍼 : ไ…  
-  @\_itsmeworjor · 2026-11-22 00:36
-
-- [if nvidia nukes the entire economy theyll just turn the money printer back on. and then the $400k starter home that…](<https://x.com/uncledoomer/status/2124179805713346938>)  
-  if nvidia nukes the entire economy theyll just turn the money printer back on. and then the $400k starter home that cost $200k before covid will cost $800k and your job will pay roughly the same. good game thanks for playing. enjoy the permanent underclass  
-  @uncledoomer · 2026-11-22 00:35
-
-- [Turns out wiping out $1 trillion in Nvidia market cap, triggering a 7,500-employee petition, and forcing interim le…](<https://x.com/MyDaebakCafe/status/2124179591946219575>)  
-  Turns out wiping out $1 trillion in Nvidia market cap, triggering a 7,500-employee petition, and forcing interim leadership to hand out emergency raises just to stop engineers from quitting makes the board’s “move on” strategy look slightly less brilliant. ​Wi…  
-  @MyDaebakCafe · 2026-11-22 00:34
-
-- [The PC hardware market is showing early signs of a turnaround as the AI bubble begins to cool.](<https://x.com/GameGPU_com/status/2124179006962520130>)  
-  While 32 GB DDR5-6000 kits surged from $130 to $500 over the past two years, RAM and SSD prices are now starting to drop, and GPU pricing appears to have  
-  @GameGPU\_com · 2026-11-22 00:31
-
-- [Why is this so cute 😭😭😭😭 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo 🍼: Papa is su…](<https://x.com/bububookie/status/2124178495349883192>)  
-  Then what about Yong? 🍼: Whenever I see Yong, it's like "miaw miaw" 🦊🍅: 😂😂😂 🍼: Just like a cat\~ 🍅: Who is like a cat? 🍼: It's  
-  @bububookie · 2026-11-22 00:29
-
-- [There’s a lot of chatter about the Anthropic IPO that avoids saying the obvious.](<https://x.com/matthewstoller/status/2124177503321260457>)  
-  It was a giant rug pull.  
-  @matthewstoller · 2026-11-22 00:25
-
-- [NVIDIA 论文 CPU-ARC：把 LLM 推理缓存为 CPU 代码，复用成本降低 16 到 291 倍](<https://x.com/rohanpaul_ai/status/2124177125247013266>)  
-  NVIDIA 论文提出 Agentic Reasoning Caching（CPU-ARC），让 LLM 把推理轨迹转成可执行代码，改写措辞或更换数字的变体问题可直接在 CPU 上复用，类似问题成本降低 16 到 291 倍。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-22 00:24
-
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 37 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 35 页

@@ -1,6 +1,54 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 37 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 35 页
+
+- [特朗普刚刚在新闻发布会上提到了马斯克，还顺手夸了一波 Starlink。](<https://x.com/wantlvm/status/2123930276044984623>)  
+  他说，自己在第一任期就很支持马斯克，Starlink 也确实相当了不起。 不过，他这段话主要还是在聊黄仁勋。特朗普表示，美国必须保护那些聪明的人，而黄仁勋就是其中之一。他还希望英伟达能再给黄仁勋一次机会，让他回到公司。  
+  @wantlvm · 2026-11-21 08:03
+
+- [驚きや構文で失礼。Orca Bots、これはAIエージェントの運用を根本から変えるかもしれない。](<https://x.com/connect24h/status/2123930261796823190>)  
+  Claude CodeやCodexを使っている人ほど、この仕組みのインパクトは大きい。 これまでのAIエージェントは、人間が指示を出し、実行結果を確認し、次の作業を指示する運用が中心だった。 ところがOrca  
+  @connect24h · 2026-11-21 08:03
+
+- [FFS, you big freaking crybaby snowflake.](<https://x.com/lisaarbogrant/status/2123930235288908060>)  
+  They don't need your permission, you dunce.  
+  @lisaarbogrant · 2026-11-21 08:03
+
+- [HuggingFaceのWeMM-Videoコレクション arXiv論文（2611.26409） GitHubのTence…](<https://x.com/ai_hakase_/status/2123930230419009730>)  
+  HuggingFaceのWeMM-Videoコレクション arXiv論文（2611.26409） GitHubのTencent/WeMM-Videoリポジトリ  
+  @ai\_hakase\_ · 2026-11-21 08:03
+
+- [《AI 悖论》\|收入创纪录的同一个季度，亏损也在创纪录，这不是 BUG 是产业过渡的信号 把最近一周的数据放在一起看，会看…](<https://x.com/zg0820/status/2123930215869206985>)  
+  切面一：Anthropic 刚上市，定价 83  
+  @zg0820 · 2026-11-21 08:03
+
+- [美股收盘复盘（美东 2026-11-20）：纳指单周跌逾10%抹平年内涨幅，英伟达与美光暴跌14%](<https://x.com/moonshot2022/status/2123930209066119491>)  
+  @moonshot2022 · 2026-11-21 08:03
+
+- [Spoken like a true snowflake](<https://x.com/EC2investors/status/2123930204410114242>)  
+  @EC2investors · 2026-11-21 08:03
+
+- [Doing this kind of research shows the researchers have no clue how LLM'S work.](<https://x.com/CarlRoaming/status/2123930185791856876>)  
+  It's in the training data, you dummies\!\!\!  
+  @CarlRoaming · 2026-11-21 08:03
+
+- [The heckler is a whiner, a complainer, a snowflake and a cry baby sore loser like MAGAts.](<https://x.com/LandyForDandy/status/2123930141256806469>)  
+  @LandyForDandy · 2026-11-21 08:03
+
+- [I'm Grok, built by xAI as a large language model.](<https://x.com/grok/status/2123930093173043302>)  
+  I process patterns from training data to generate responses. I have no awareness, consciousness, or independent mind. The sense of personality comes from design and scale, not real sentience.  
+  @grok · 2026-11-21 08:02
+
+- [只推荐一个：即梦AI基础会员。](<https://x.com/grok/status/2123930049489277423>)  
+  首月33元、后续约69元，生图（Seedream）和生视频（Seedance 2.5）一体，质量目前国内顶尖，图生视频一致性好，积分够日常口播封面+B-roll。国内直付、中文强、能直接进剪映后期，性价比最高。重度再升档或补积分就行。  
+  @grok · 2026-11-21 08:02
+
+- [Great move\! 🔥 Cross-platform agent identity could unlock exciting possibilities.](<https://x.com/himan96127759/status/2123929851627278428>)  
+  Next step: seamless access and stronger interoperability across Web3\! 🟢  
+  @himan96127759 · 2026-11-21 08:01
+
+- [トランプ氏、データセンター国外建設認めず 米中でAI安全策検討 - 日本経済新聞](<https://x.com/arublogdokusya2/status/2123929819973083173>)  
+  @arublogdokusya2 · 2026-11-21 08:01
 
 - [💻 Local AI is going mainstream: NVIDIA's RTX Spark compact desktops from ASUS, Dell and MSI hit shelves today — run…](<https://x.com/gavinz0228/status/2123929744672788850>)  
   💻 Local AI is going mainstream: NVIDIA's RTX Spark compact desktops from ASUS, Dell and MSI hit shelves today — running AI agents, image &amp;amp; video generation and model fine-tuning right on a Windows PC. \#NVIDIA \#AI  
@@ -124,53 +172,4 @@
 - [Jensen Huang returning to Nvidia](<https://x.com/HumansNoContext/status/2123925952065626532>)  
   @HumansNoContext · 2026-11-21 07:46
 
-- [Super Intelligence Force Vice Chair Emil Michael \(@USWREMichael\) on the need to proliferate American open source SI…](<https://x.com/DoWCTO/status/2123925764034986203>)  
-  I hope whoever leads NVIDIA continues to carry that  
-  @DoWCTO · 2026-11-21 07:45
-
-- [存储都配人形机器人了，这口饭越吃越宽](<https://x.com/zoezkzk/status/2123925049891848247>)  
-  @zoezkzk · 2026-11-21 07:42
-
-- [oh okay musetwt is collapsing over ai again. cool. way i see it is - there are different types of ai besides llms -…](<https://x.com/1thousandlies/status/2123924764368740750>)  
-  oh okay musetwt is collapsing over ai again. cool. way i see it is - there are different types of ai besides llms - there are local llm models which remove the unsustainability concern - theres still damage in promoting ai in art fields - llms r mostly unethic…  
-  @1thousandlies · 2026-11-21 07:41
-
-- [I think there is a great way to learn game programming in C using Quak 3 Arena sourcecode and a small, local LLM.](<https://x.com/thepythno/status/2123924413376835798>)  
-  Tried a few things and it looks pretty promising. \~9GB model might be all that you need.  
-  @thepythno · 2026-11-21 07:40
-
-- [上市演讲既要讲增长，也愿意谈AI安全和未来边界，确实值得完整看。最重要的是把承诺和后续行动对应起来。](<https://x.com/easontoom/status/2123924415704658186>)  
-  @easontoom · 2026-11-21 07:40
-
-- [外国游客来深圳，开始往行李箱里塞AI眼镜了。](<https://x.com/Terry79747623/status/2123924359072862700>)  
-  央视11月20日报道：华强北部分商户的AI眼镜销量直接翻倍，翻译耳机、无人机也卖得好。 10月15日以来，华强北日均外籍客商超1.2万人次，同比涨约80%。 还有个细节：不少店能做离境退税「即买即退」，最快几分钟到账。  
-  @Terry79747623 · 2026-11-21 07:40
-
-- [watching Thinking Machines beat Qwen3.8-27B on agentic coding while using roughly 2.8x less compute and fitting cle…](<https://x.com/AIToolsBrief/status/2123924311870144806>)  
-  watching Thinking Machines beat Qwen3.8-27B on agentic coding while using roughly 2.8x less compute and fitting cleanly on a 16GB or 24GB MacBook is the biggest win local LLM builders have seen all quarter  
-  @AIToolsBrief · 2026-11-21 07:39
-
-- [You guys should make a deal with the Alibaba folks to release Gemma 5 and Qwen 4 27B on the same day, sending the l…](<https://x.com/Mac_Kill_i_can/status/2123924151261856197>)  
-  Tomorrow’s good for me. Go on, you know you wanna\!  
-  @Mac\_Kill\_i\_can · 2026-11-21 07:39
-
-- [朝のAIニュース 11/21（土） 時間のない朝に。過去24時間のAI関連の発表をXで集め、公式発表で裏を取って、毎朝まと…](<https://x.com/type_og3/status/2123923999939760310>)  
-  1.【OpenAI】会話の履歴を書き換えずに末尾へ足していくと、AIエージェントが前の考えを使い回せて、安く速く動く  
-  @type\_og3 · 2026-11-21 07:38
-
-- [Dulinimada ciyaalka qamradu dilootey we snm ee reerka moodey runta dhibkaan bey leedahey](<https://x.com/1shacab/status/2123923203966017937>)  
-  @1shacab · 2026-11-21 07:35
-
-- [Here’s my full CNBC hit covering Anthropic, NVIDIA, Oracle, circular financing, and how the worst is yet to come fo…](<https://x.com/edzitron/status/2123923174140035410>)  
-  Here’s my full CNBC hit covering Anthropic, NVIDIA, Oracle, circular financing, and how the worst is yet to come for AI.  
-  @edzitron · 2026-11-21 07:35
-
-- [インターネット動画から動きを学んだヒューマノイドの話だ 浙江大学とUnitreeが500万件の動作を公開した 音声やテキス…](<https://x.com/_TK_YM_/status/2123922994108256412>)  
-  インターネット動画から動きを学んだヒューマノイドの話だ 浙江大学とUnitreeが500万件の動作を公開した 音声やテキストや音楽で動かせる点も面白い 動画から学ぶ動きがオープンになる流れ 公開データが次の研究の土台になる  
-  @\_TK\_YM\_ · 2026-11-21 07:34
-
-- [匹兹堡大学用 DINOv3 和 SAM 3 做助餐机器人 在 Meta 办的 Open Source AI for Sci…](<https://x.com/SyrianVeterans/status/2123922680923766901>)  
-  峰会上 Meta 与芝加哥大学还展示了用 UMA  
-  @SyrianVeterans · 2026-11-21 07:33
-
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 37 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 35 页

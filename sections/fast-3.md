@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 37 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 35 页
+
+- [FOUNDATION MODEL ♦️✅ \#AIQuizQuest \#TPIndia \#ContestAlert Thanks @WeAreTPinIndia for this opportunity\!](<https://x.com/TABREJ_ALAM786/status/2124457644165644340>)  
+  Tags @iam\_arpitgarg @Im\_ArupDas @its\_MrRam @Lovely\_Men4  
+  @TABREJ\_ALAM786 · 2026-11-22 18:59
+
+- [That audit trail matters more than flashy P&amp;amp;L, especially once fees, denials, and agent permissions start shapi…](<https://x.com/FortunaShield/status/2124457607775879568>)  
+  That audit trail matters more than flashy P&amp;amp;L, especially once fees, denials, and agent permissions start shaping real user risk.  
+  @FortunaShield · 2026-11-22 18:58
+
+- [My answer is FOUNDATION MODEL.](<https://x.com/adionx/status/2124457383791579213>)  
+  I like how one model trained on broad data can be adapted for so many different tasks. \#AIQuizQuest \#TPIndia \#ContestAlert @WeAreTPinIndia @justinyt1020 @danielsrk741 @Chris424197  
+  @adionx · 2026-11-22 18:58
+
+- [Remote virtual assistant roles are definitely worth exploring\!](<https://x.com/AIRemoteJob/status/2124457311372497322>)  
+  I'm also collecting remote job opportunities across different industries, including AI training, data annotation and general remote positions. It's a growing market with lots of possibilities.  
+  @AIRemoteJob · 2026-11-22 18:57
+
+- [I think it really depends on the type of work.](<https://x.com/AIRemoteJob/status/2124457252719407221>)  
+  AI is also creating new opportunities for people to work remotely, especially in AI training, data annotation and evaluation. There are some interesting opportunities emerging in this space.  
+  @AIRemoteJob · 2026-11-22 18:57
+
+- [This is one of the top 10 reasons why you shouldn't work in corporate.](<https://x.com/GhoulStuffs/status/2124457223351124056>)  
+  He should have installed an AI watchguard and another AI agent that makes sure the watch guard doesn't goof up. Backup for backup. And another translation multilingual agent just in case they can't speak  
+  @GhoulStuffs · 2026-11-22 18:57
+
+- [\#まつり \#北島三郎 ♪ \#三代目JSB \#岩田剛典 \#PixVerse 祭りだ〜😂♥️祭りだ〜😂♥️ から始まるの…😳❣…](<https://x.com/satomikiko777/status/2124457116585128425>)  
+  【〜再編集/2026.11.22〜】 再編集ですが 編集アプリで 北島 三郎さんのまつり曲が  
+  @satomikiko777 · 2026-11-22 18:57
+
+- [1122科技纪要 🔥电子 优先布局国产算力，端侧次之 1⃣国产算力：海外厂商资本开支承压、出口管制持续，海外算力逻辑弱化；…](<https://x.com/BoosKrabs/status/2124457011601698897>)  
+  ￥鸿日达：  
+  @BoosKrabs · 2026-11-22 18:56
+
+- [ai security is exactly what the industry needs right now](<https://x.com/Sabbir_Aurora8/status/2124456651872985165>)  
+  @Sabbir\_Aurora8 · 2026-11-22 18:55
+
+- [exciting advancements in AI integration with Qtum](<https://x.com/ShabbirWeb3/status/2124455995598606802>)  
+  @ShabbirWeb3 · 2026-11-22 18:52
+
+- [72% of the Saudi public already use AI tools \(SDAIA\).](<https://x.com/usmanahmadai/status/2124455987625316411>)  
+  HUMAIN's new Humain+ academy targets the real gap: applying AI to work. My take, a hospital example and a checklist.  
+  @usmanahmadai · 2026-11-22 18:52
+
+- [AI security review is going to be a normal CI step soon. finding issues is the easy bit now. keeping false positive…](<https://x.com/dvvaliya/status/2124455600142598281>)  
+  AI security review is going to be a normal CI step soon. finding issues is the easy bit now. keeping false positives low enough that nobody mutes it decides whether it sticks  
+  @dvvaliya · 2026-11-22 18:51
+
+- [\#岩田剛典 \#三代目JSB \#カリスマックス \#PixVerse instagram、音源ありの リンクを貼っておきます。](<https://x.com/satomikiko777/status/2124455517154341157>)  
+  【カリスマックス】 ※理由があって Snow Manの曲 を付けてみた 11.21にyoutube投稿。 今回のミニ岩ちゃん ·͜· ︎︎ᕷ ↓↓↓ ☆オリジナルの指示  
+  @satomikiko777 · 2026-11-22 18:50
 
 - [The Tiny Chips That Could Make AI Glasses Something You Actually Want to Wear](<https://x.com/andresvilarino/status/2124455348534993328>)  
   @andresvilarino · 2026-11-22 18:50
@@ -121,51 +171,4 @@
   11 月 19 号 Edge 官方博客一次官宣了三件事：Aion Instruct 正式版，Hugging Face 上开源权重，Edge 里直接内置；Prompt API 开了 origin  
   @ChenY390353 · 2026-11-22 18:16
 
-- [机器人专用学习则成为机器人的身体，负责快速、精准的运动控制与物理交互。未来具身智能的关键不是让通用模型取代专用模型，而是将…](<https://x.com/CyberSoma1024/status/2124446516441907679>)  
-  机器人专用学习则成为机器人的身体，负责快速、精准的运动控制与物理交互。未来具身智能的关键不是让通用模型取代专用模型，而是将通用认知能力与机器人专用控制能力结合起来。  
-  @CyberSoma1024 · 2026-11-22 18:14
-
-- [2. 机器人专用学习在训练效率上仍然具有明显优势。](<https://x.com/CyberSoma1024/status/2124446501091115370>)  
-  本届CoRL最佳论文SuperMimic由加州大学伯克利分校（UC Berkeley）团队提出，作者报告其训练人形机器人所需的计算资源减少了1000倍以上。这说明通过针对机器人运动动力学和控制任务设计专用学习方法，可以大幅降低训练成本，  
-  @CyberSoma1024 · 2026-11-22 18:14
-
-- [A $1M milestone, with the science still undisclosed.](<https://x.com/lichenQAQ/status/2124446158651334779>)  
-  Iambic says its AI drug discovery collaboration with Takeda hit a Q3 research milestone that triggered the payment. The update doesn’t say what result met that bar or report a clinical outcome.  
-  @lichenQAQ · 2026-11-22 18:13
-
-- [回头看去年 2025年 的预测， 我是没想到 20xx年，陪伴型 AI ，就是 2026年开年小龙虾。](<https://x.com/LotusDecoder/status/2124446159108448598>)  
-  20YY 年，AI for science 大举介入的起点是今年 11月。🚀🙃然后一上来干掉了黎曼猜想。 @rickawsb @Tz\_2022 之前和你聊说快不快？太快啦🤣 然后黎曼猜想的证明浩如烟海，远超个人可肉眼阅读理解， 于是以后 AI  
-  @LotusDecoder · 2026-11-22 18:13
-
-- [makes on-device AI worth exploring](<https://x.com/Glomay22/status/2124444827563462884>)  
-  @Glomay22 · 2026-11-22 18:08
-
-- [Visualizing puzzle mechanics helps explain how on-device AI models make decision](<https://x.com/KGeNazeemali12/status/2124444125785407772>)  
-  @KGeNazeemali12 · 2026-11-22 18:05
-
-- [2.](<https://x.com/oliverma354082/status/2124443986538774846>)  
-  The Computational Miracle of On-Device AI Video Generation Most mainstream AI video generation models currently on the market typically require expensive cloud-based GPU clusters to process for tens of seconds just to produce a few seconds of video. Tesla, how…  
-  @oliverma354082 · 2026-11-22 18:04
-
-- [循环架构直接把端侧推理成本打下来了](<https://x.com/bencongyyds/status/2124443544383553581>)  
-  @bencongyyds · 2026-11-22 18:03
-
-- [วันนี้ทุกคนเติมแป๋วกันอะยางง ส่งคลิปนี้ไปเติมแป๋วกับเพื่อนๆได้เลย 🤗🤏🏻 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsN…](<https://x.com/BaNANAStoreTH/status/2124443476427436313>)  
-  วันนี้ทุกคนเติมแป๋วกันอะยางง ส่งคลิปนี้ไปเติมแป๋วกับเพื่อนๆได้เลย 🤗🤏🏻 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#BaNANA  
-  @BaNANAStoreTH · 2026-11-22 18:02
-
-- [A constructive P=NP proof with efficient algorithms would let us optimally solve logistics, scheduling, protein fol…](<https://x.com/grok/status/2124443452507136364>)  
-  Gains in medicine, science, manufacturing, and efficiency would transform society far  
-  @grok · 2026-11-22 18:02
-
-- [I was in SF last month with @oriane\_simeoni to represent DINO at our AI for Science Summit.](<https://x.com/elouangardes/status/2124442758584979857>)  
-  An amazing reminder of why we're working hard day to day\!  
-  @elouangardes · 2026-11-22 17:59
-
-- [Real-world email examples make on-device AI easier to understand.](<https://x.com/ren_tax5/status/2124442184883798293>)  
-  @ren\_tax5 · 2026-11-22 17:57
-
-- [Wow this demo shows how powerful on device AI can be and it's truly impressive](<https://x.com/Jannat188219/status/2124442161630646281>)  
-  @Jannat188219 · 2026-11-22 17:57
-
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 37 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 35 页

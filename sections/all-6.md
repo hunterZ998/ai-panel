@@ -1,6 +1,141 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 11 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 12 页
+
+- [Opinion \| No AI Company Is Too Big to Fail](<https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 03:35
+
+- [Anthropic’s IPO could deliver $156B to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
+  At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
+  TechCrunch · 2026-11-20 03:10
+
+- [Google gives Gemini the ability to use your Mac for you](<https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/>)  
+  Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multi  
+  TechCrunch · 2026-11-20 02:09
+
+- [Google 在 Gemini API 推出 Tool Retrieval 预览](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/>)  
+  Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。  
+  Google Blog：AI（RSS） · 2026-11-20 02:00
+
+- [Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says](<https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/>)  
+  In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advic  
+  TechCrunch · 2026-11-20 01:38
+
+- [The a16z FDE Fellowship is back](<https://www.a16z.news/p/the-a16z-fde-fellowship-is-back>)  
+  An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more  
+  a16z · 2026-11-20 01:26
+
+- [Meta rethinks climate goal as AI emissions soar 45%](<https://www.axios.com/2026/11/19/meta-ai-emissions-rise>)  
+  Meta's greenhouse gas emissions surged 45% last year amid its AI infrastructure boom, prompting the tech giant to rec…  
+  Axios · 2026-11-20 01:00
+
+- [Walter Isaacson on curiosity and creativity in the AI age.](<https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/>)  
+  Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in th…  
+  Google AI · 2026-11-20 01:00
+
+- [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](<https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>)  
+  Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.  
+  TechCrunch · 2026-11-20 00:59
+
+- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
+  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
+  Menlo Ventures · 2026-11-20 00:50
+
+- [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](<https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/>)  
+  In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless o  
+  TechCrunch · 2026-11-20 00:19
+
+- [Google Gemini 平台推出 Semantic governance policies，在 Agent 工具调用执行前进行审查](<https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/>)  
+  Google 在 Gemini 平台以 Preview 形式推出 Semantic governance policies，通过 Agent Gateway 和 LLM judge 在每个工具调用运行前检查两项内容：是否符合用户原始意图，以及是否符合用自然语言编写的策略。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [如何将内部 Cloud Run MCP 服务器安全接入 Gemini Enterprise](<https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/>)  
+  Google 介绍如何用 Egress Agent Gateway、Private Service Connect 和 FQDN 级 Private Cloud DNS，把仅限内网的 Cloud Run MCP 服务器接入 Gemini Enterprise。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [Gemini Enterprise 自定义 UI 中如何处理用户、连接器与智能体认证](<https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/>)  
+  Google 发布指南，讲解企业自建 Customer UI 调用 Gemini Enterprise StreamAssist API 时需自行实现的三层认证。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [Google Agent Anomaly Detection 私测扩展至监测其他云上的智能体](<https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/>)  
+  Google 宣布 Agent Anomaly Detection 进入 Private Preview，支持监测运行在 Google Cloud 之外的智能体。  
+  Google Developers Blog（RSS） · 2026-11-20 00:00
+
+- [Gemini 4 四款新模型接连发布：Neon 该怎么选？](<https://every.to/vibe-check/mini-vibe-check-four-new-geminis-when-should-you-pick-neon>)  
+  Google DeepMind 在五周多内为 Gemini 阵容新增四款以元素命名的模型：Gemini 4 Argon、Gemini 4 Carbon、Gemini 4 Hydrogen 和 Gemini 4 Neon，其中三款在九天内接连发布。文章讨论在这些模型之间该如何选择，尤其是何时该选用 Gemini 4 Neon。  
+  Every：最新文章（网页） · 2026-11-20 00:00
+
+- [Thinking Machines 发布开源权重循环架构模型 Inkling 2 Mini](<https://artificialanalysis.ai/articles/inkling-2-mini>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，Apache 2.0 许可，26B 总参数、5.4B 激活参数的 MoE 架构，支持文本和图像输入、1M token 上下文窗口，可在 MacBook 或 DGX Spark 上运行。  
+  Artificial Analysis 完整文章（网页） · 2026-11-20 00:00
+
+- [Goodfire 解析 Thinking Machines 开源模型 Inkling 2 Mini 的内部机制](<https://www.goodfire.com/research/interpreting-inkling-2-mini>)  
+  Goodfire Research 发布对 Thinking Machines 开源权重模型 Inkling 2 Mini 的可解释性研究，该模型有 24 层，采用 attention residuals 和中间块循环三次的架构。  
+  Goodfire Research（网页） · 2026-11-20 00:00
+
+- [TeaserKit](<https://www.producthunt.com/products/teaserkit>)  
+  your coding agent directs your launch video  
+  Product Hunt · English · 2026-11-19 23:08
+
+- [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
+  Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
+  IT桔子 · 2026-11-19 18:17
+
+- [AI's great divergence: Machines accelerate as makers unravel](<https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast>)  
+  Anthropic will make its Wall Street debut Thursday at a moment of profound contradiction in the history of AI: The hu…  
+  Axios · 2026-11-19 18:00
+
+- [Sensei Labs获得B轮融资](<https://www.itjuzi.com/investevent/14708306>)  
+  Sensei Labs是一家AI原生战略执行平台提供商，核心产品 Conductor。平台面向私募股权机构、大型企业转型与并购整合团队，将顶层战略目标与项目、依赖关系、KPI、收益追踪打通，用于管理数字化转型、并购整合、投后价值创造等…  
+  IT桔子 · 2026-11-19 17:58
+
+- [Ansa获得7150万美元C轮融资](<https://www.itjuzi.com/investevent/14708305>)  
+  Ansa是一家DNA合成技术服务商，核心技术是一种基于酶的新型DNA合成方法。近日，Ansa获得7150万美元C轮融资，Blue Water Life Science Advisors领投，Illumina Ventures、Agen…  
+  IT桔子 · 2026-11-19 17:54
+
+- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
+  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
+  IT桔子 · 2026-11-19 17:52
+
+- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
+  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
+  IT桔子 · 2026-11-19 17:52
+
+- [Palo Alto Networks斥资45亿美元收购Applied Compute](<https://www.itjuzi.com/merger/14596>)  
+  Applied Compute是一家企业级AI 基础设施公司，由三位前 OpenAI 研究员创立，专注于帮助企业基于自有数据训练和部署定制化开源 AI 模型。派拓网络（Palo Alto Networks）宣布，将斥资45亿美元收购A…  
+  IT桔子 · 2026-11-19 16:39
+
+- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
+  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
+  IT桔子 · 2026-11-19 16:18
+
+- [Humyn Labs获得2600万美元A轮融资](<https://www.itjuzi.com/investevent/14708279>)  
+  Humyn Labs是一家实体人工智能研究与部署服务商，自研双摄采集硬件与数据富集引擎，在工厂、家庭、农场等真实场景采集人类操作多模态行为数据，加工后供给机器人、VLA 模型、世界模型研发团队，同时提供机器人现场部署对照测试服务，形成…  
+  IT桔子 · 2026-11-19 16:11
+
+- [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
+  Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-19 16:00
+
+- [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>)  
+  Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance…  
+  OpenAI · 2026-11-19 16:00
+
+- [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
+  AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
+  20VC · 2026-11-19 15:07
+
+- [Ramon.Space获得1.24亿美元B轮融资](<https://www.itjuzi.com/investevent/14708250>)  
+  amon.Space 是 一家太空计算解决方案提供商，自研软件定义抗辐射计算平台，搭载 Manycore ML/AI/DSP 处理器，为卫星、通信星座、深空探测任务提供星上处理、存储、通信与边缘 AI 能力，产品包括机载处理器 OBP…  
+  IT桔子 · 2026-11-19 15:02
+
+- [PH今日热榜 \| 2026-11-19](<https://decohack.com/producthunt-daily-2026-11-19/>)  
+  S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
+  Product Hunt 中文 · DecoHack · 2026-11-19 15:00
+
+- [Arborum获得种子前轮融资](<https://www.itjuzi.com/investevent/14708243>)  
+  Arborum是一家电网 AI 科技研发商，面向电力电网、通信网络等关键基础设施构建 AI 世界模型，学习网络内部因果逻辑，可完成故障根因定位、运行场景模拟、运维动作建议，覆盖需求预测、电网优化、停电管理、网络故障排查等场景，电信复杂…  
+  IT桔子 · 2026-11-19 14:34
 
 - [Fermat获得800万美元种子轮融资](<https://www.itjuzi.com/investevent/14708241>)  
   Fermat 是一家时尚行业 AI 平台开发商，打造时尚垂直生成式 AI 工具层，内置 50 + 设计、视觉、生产对接工具，支持草图转效果图、面料替换、虚拟模特穿搭、营销素材生成，并通过 Techpacks 功能将设计稿直接转化为工厂…  
@@ -18,8 +153,8 @@
   Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。  
   Conductor 官方更新 · 2026-11-19 08:00
 
-- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
-  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
+- [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
+  Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
   OpenAI · 2026-11-19 08:00
 
 - [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)  
@@ -30,16 +165,13 @@
   Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.  
   OpenAI · 2026-11-19 08:00
 
-- [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
-  Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
+- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
+  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
   OpenAI · 2026-11-19 08:00
 
 - [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
   「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
   晚点聊 · 2026-11-19 08:00
-
-- [Opinion \| Congrats on Your Anthropic Shares](<https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-19 06:42
 
 - [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
@@ -49,136 +181,4 @@
   Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
   Latent Space · 2026-11-19 04:00
 
-- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
-  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
-  Axios · 2026-11-19 04:00
-
-- [Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型](<https://deepmind.google/blog/genie-4-is-now-available/>)  
-  Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。  
-  Google DeepMind：Blog（RSS） · 2026-11-19 02:13
-
-- [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
-  2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
-  a16z · 2026-11-19 01:05
-
-- [The Gemini app is now available on lower-memory Android devices.](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/>)  
-  The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your…  
-  Google AI · 2026-11-19 01:00
-
-- [Publicit](<https://www.producthunt.com/products/publicit>)  
-  Omnichannel ad infrastructure for marketers and AI agents  
-  Product Hunt · English · 2026-11-18 23:19
-
-- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
-  Much has been written about AI’s potential to disrupt it.  
-  a16z · 2026-11-18 23:00
-
-- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
-  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
-  科技早知道 · 2026-11-18 20:00
-
-- [DWaste](<https://www.producthunt.com/products/deep-waste>)  
-  Eliminate recycling contamination with low-power Edge AI  
-  Product Hunt · English · 2026-11-18 19:42
-
-- [The Missing Layer for Personal AI \| First Person Labs’ Ken Liu](<https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00>)  
-  AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, prioriti…  
-  The a16z Show · 2026-11-18 19:00
-
-- [The terrifying rise of AI hacking tools](<https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn>)  
-  A new breed of widely available AI tools is helping hackers launch cyberattacks around the clock , breaching corporat…  
-  Axios · 2026-11-18 18:20
-
-- [The Silent Consensus](<https://openai.com/index/the-silent-consensus>)  
-  Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can…  
-  OpenAI · 2026-11-18 18:00
-
-- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)  
-  Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis…  
-  OpenAI · 2026-11-18 16:00
-
-- [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)  
-  OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this…  
-  OpenAI · 2026-11-18 16:00
-
-- [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
-  See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macO…  
-  OpenAI · 2026-11-18 16:00
-
-- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
-  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
-  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
-
-- [Managing frontier AI risk: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>)  
-  OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, bl…  
-  OpenAI · 2026-11-18 14:00
-
-- [Advancing chip design with OpenAI models](<https://openai.com/index/advancing-chip-design-with-our-models>)  
-  OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-as…  
-  OpenAI · 2026-11-18 08:00
-
-- [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](<https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership>)  
-  Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with l…  
-  OpenAI · 2026-11-18 08:00
-
-- [Exclusive: Donald Trump Jr. signals investors underestimated AI pushback](<https://www.axios.com/2026/11/17/donald-trump-jr-data-centers>)  
-  Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview at…  
-  Axios · 2026-11-18 07:28
-
-- ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
-  Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
-  Axios · 2026-11-18 07:15
-
-- [Ulika](<https://www.producthunt.com/products/ulika>)  
-  Visual editor for sites built with Claude, Cursor, or Codex  
-  Product Hunt · English · 2026-11-18 03:23
-
-- [Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布](<https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/>)  
-  Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。  
-  Microsoft：Official Blog（RSS） · 2026-11-18 02:36
-
-- [Prompt Puncher](<https://www.producthunt.com/products/prompt-puncher>)  
-  The AI CEO Fighting Game  
-  Product Hunt · English · 2026-11-18 02:29
-
-- [Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat](<https://replit.com/blog/introducing-replit-missions>)  
-  Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建、测试并迭代，独立 AI 裁判按约定标准验收。  
-  Replit：Blog（RSS） · 2026-11-18 02:00
-
-- [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)  
-  Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower co…  
-  OpenAI · 2026-11-18 01:45
-
-- [Can AI Learn to Improve Itself? \| Recursive Self-Improvement](<https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ>)  
-  For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers…  
-  The a16z Show · 2026-11-18 01:44
-
-- [Tech leaders tell Fed chairman Warsh how AI could transform the economy](<https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen>)  
-  Just maybe, both the extreme techno-optimists and AI doom-and-gloomers are wrong about the economic impact of the tec…  
-  Axios · 2026-11-18 01:00
-
-- [Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用](<https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/>)  
-  Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出，基于新的 Gemini 4 Hydrogen 模型，可自动打电话预约、查询账单、购物下单和管理日程。  
-  Google Blog：AI（RSS） · 2026-11-18 01:00
-
-- [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
-  For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
-  a16z · 2026-11-17 23:10
-
-- [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
-  Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
-  Suno：Blog（网页） · 2026-11-17 23:00
-
-- [AlterContacts](<https://www.producthunt.com/products/alter-contacts-ai-client-relationships>)  
-  AI client relationship assistant that thinks and does ahead  
-  Product Hunt · English · 2026-11-17 18:25
-
-- [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)  
-  Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitch…  
-  OpenAI · 2026-11-17 16:00
-
-- [PH今日热榜 \| 2026-11-17](<https://decohack.com/producthunt-daily-2026-11-17/>)  
-  Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
-  Product Hunt 中文 · DecoHack · 2026-11-17 15:00
-
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 11 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 12 页

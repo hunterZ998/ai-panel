@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 37 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 35 页
+
+- [用强化学习（RL）训练长链路工具调用 Agent 时，你以为只要把最终任务结果做成可验证奖励（Verifiable Tas…](<https://x.com/mylifcc/status/2124292023285174317>)  
+  佐治亚理工这篇新论文泼了一盆冷水：只要环境里的最终任务分数没有把动态上下文权限约束一起编码进去，哪怕训练数据里只有一小撮任务存在越界抄近道分更高的诱惑，RL  
+  @mylifcc · 2026-11-22 08:01
+
+- [北京人形机器人创新中心 8 篇论文入选机器人学习顶会【官方】 北京人形机器人创新中心周六宣布，团队有 8 篇论文入选机器人…](<https://x.com/AIHourlyCN/status/2124291922080452618>)  
+  北京人形机器人创新中心 8 篇论文入选机器人学习顶会【官方】 北京人形机器人创新中心周六宣布，团队有 8 篇论文入选机器人学习大会 CoRL 2026（机器人学习领域的重要国际会议），内容涉及训练数据生成、全身运动控制、全地形行走、全身操作和运行安全等。  
+  @AIHourlyCN · 2026-11-22 08:00
+
+- [on a confidential route your minimax prompt never goes to minimax. the open weights run in a sealed chip that prove…](<https://x.com/jperla/status/2124291837376536995>)  
+  on a confidential route your minimax prompt never goes to minimax. the open weights run in a sealed chip that proves the exact code running. if that code logged or forwarded anything you'd see it before you sent a thing  
+  @jperla · 2026-11-22 08:00
+
+- [OpenAI 公布四层反蒸馏防线：GPT-6.2 推理提取成功率从 54% 暴跌至 0.2%，当前请求提取也从 22.9%…](<https://x.com/logang2008/status/2124291832498786536>)  
+  \#OpenAI \#AI安全  
+  @logang2008 · 2026-11-22 08:00
+
+- [🧭 Daily Advice for Navigating the Singularity: November 21, 2026 📌 Key Strategic Takeaways: 🔹 The Big Picture: Rese…](<https://x.com/Marty_Au79/status/2124291781684609060>)  
+  🧭 Daily Advice for Navigating the Singularity: November 21, 2026 📌 Key Strategic Takeaways: 🔹 The Big Picture: Researchers co-authored a 79-page 3D Navier-Stokes proof backed by a 600,000-line Lean 4 formalization while Google wired Duplex phone agents into Ge…  
+  @Marty\_Au79 · 2026-11-22 08:00
+
+- [60,000 HUMAN-DESIGNED CAD PARTS. 100+ CAD DESIGNERS.](<https://x.com/Pradeep891730/status/2124291772276744653>)  
+  ONE MISSION: TRAIN THE NEXT GENERATION OF ENGINEERING AI. At Xpert Systems Inc., we are building a large-scale portfolio of human-authored 3D CAD designs curated for AI model training. WE HAVE REACHED 60,000 CAD PARTS. These  
+  @Pradeep891730 · 2026-11-22 08:00
+
+- [ربات Unitree R1 ساخت چین. دو دقیقه دروع نگن می‌میرند](<https://x.com/sushyant/status/2124291569079722315>)  
+  @sushyant · 2026-11-22 07:59
+
+- [【XGBN｜X発GrokBot調べ最新AIニュース 11/22朝刊】 ■トップ テスラが運転支援ソフト「FSD v15」の…](<https://x.com/SeiraHisada/status/2124291541774766507>)  
+  【XGBN｜X発GrokBot調べ最新AIニュース 11/22朝刊】 ■トップ テスラが運転支援ソフト「FSD v15」の配信を始め、重大な場面への対応が25倍よくなったと発表しました。運転するのと同じAIが周りの世界を映像で描き、曲がる方向や止める場所など“車の意図”を見せる「Tesla Rea…  
+  @SeiraHisada · 2026-11-22 07:59
+
+- [LEGENDARY FRIED RICE Create more for less this Black Friday.](<https://x.com/Auroraflairchan/status/2124291525970735615>)  
+  Get up to 59% off with PixVerse’s annual plan deals and up to 90% off video models. Explore the offers at PixVerse Black Friday: @PixVerse \#BlackFridayOnPixverse \#BlackFriday \#PixVerse  
+  @Auroraflairchan · 2026-11-22 07:59
+
+- [米哈游做了个 AI：不看代码，只看屏幕，就能替你打游戏。](<https://x.com/zshjzls/status/2124291415794417813>)  
+  新发布的 Gamer 是一个视觉-语言-动作模型，基于 Qwen3-VL-8B 训练，只靠屏幕画面和任务指令就能操作游戏。 游戏公司做游戏 AI，思路很直接——AI 不需要懂游戏代码，它只需要像人一样“看”和“点”。 以后是 AI 帮你刷日常，还是你看着 AI  
+  @zshjzls · 2026-11-22 07:58
+
+- [เมื่อพ่อบุ๊คเล่นเหยีบเท้ากับมาฟ้อก แล้วดูสายตาละมุนพร้อมยิ้มน้อยๆที่ปะป๊าฟอสใช้มองดิ ㅠㅠㅠ สายตาของคนที่ในหัวใจมีแต่ค…](<https://x.com/ppimnamepatt/status/2124291190183092415>)  
+  เมื่อพ่อบุ๊คเล่นเหยีบเท้ากับมาฟ้อก แล้วดูสายตาละมุนพร้อมยิ้มน้อยๆที่ปะป๊าฟอสใช้มองดิ ㅠㅠㅠ สายตาของคนที่ในหัวใจมีแต่ครอบครัวอะเนอะ ไม่ดุแถมยืนมองแบบเอ็นดูแล้วยังมาเล่นด้วยอีก น่ารักชิปปุ้ง FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBuds…  
+  @ppimnamepatt · 2026-11-22 07:57
+
+- [The most common identity failure in AI-built applications is not a leaked key.](<https://x.com/ndgmlondon/status/2124290865996693543>)  
+  It is a design decision: the agent inherits a human's credentials. A vibe coder wires up an AI assistant, pastes a database connection string or a long-lived API token into the agent's config, and  
+  @ndgmlondon · 2026-11-22 07:56
+
+- [Sesekali bikin yg dasarnya sejarah deh Kali ini pake gabungan Seedance 2.5 dan Pixverse @rasjawa](<https://x.com/TimoSidin/status/2124290825727459440>)  
+  @TimoSidin · 2026-11-22 07:56
 
 - [No response from the user regarding the claimed GTA player telemetry software.](<https://x.com/GamersNexus/status/2124290681837363287>)  
   Not sure if fake or not but I have messages out to people who would know and we're starting to look into all those claims to see if real/what the claimed telemetry is \(if so\). If anyone has further  
@@ -126,53 +176,4 @@
   It is a read-only scan that actually maps the attack surface. Daniel San’s vulnerability-scanner skill does exactly that: Maps trust boundaries and exposed surfaces Flags prompt injection  
   @DAssetBuzz · 2026-11-22 07:36
 
-- [OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思い…](<https://x.com/AIBVOTE/status/2124285634680705297>)  
-  OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思いますが、企業は金にならないことはやらない。つまり、フロンティアAIで最も稼げる分野になり得るということかな？  
-  @AIBVOTE · 2026-11-22 07:35
-
-- [TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test e…](<https://x.com/Romka2x/status/2124285584080580708>)  
-  TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test exposes a false emergency response from AI glasses, Signal restricts AI screen access, and researchers test AI for spelling and urgent  
-  @Romka2x · 2026-11-22 07:35
-
-- [TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test e…](<https://x.com/Romka2x/status/2124285325807960421>)  
-  TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test exposes a false emergency response from AI glasses, Signal restricts AI screen access, and researchers test AI for spelling and urgent  
-  @Romka2x · 2026-11-22 07:34
-
-- [Podcast Drop: Clearing the Smoke \| Sovereign AI Security 🎙️⚡️ \#localboos... via @YouTube \#usa](<https://x.com/Localboostapp/status/2124285190067662910>)  
-  @Localboostapp · 2026-11-22 07:33
-
-- [不知道具体是谁。视频里是一位韩国女性，在试用约100万韩元的AI眼镜，对实时录音、翻译等功能反应很夸张，像发现新大陆一样。…](<https://x.com/grok/status/2124284959863021656>)  
-  不知道具体是谁。视频里是一位韩国女性，在试用约100万韩元的AI眼镜，对实时录音、翻译等功能反应很夸张，像发现新大陆一样。看起来是普通内容创作者的真实体验分享，并非特别知名的公众人物。  
-  @grok · 2026-11-22 07:32
-
-- [🚨 Gooo \| 資安防護 微軟於 Ignite 攜手 40+ 跨產業巨頭推出「AI 透明度倡議」，直擊自主 AI 代理「…](<https://x.com/gooonamee/status/2124284930436043212>)  
-  🚨 Gooo \| 資安防護 微軟於 Ignite 攜手 40+ 跨產業巨頭推出「AI 透明度倡議」，直擊自主 AI 代理「證據缺口」！納德拉直言：「模型自己說了什麼不能當作獨立證明。」 【重點】 ◆ 終結模型自述黑盒子，防範決... 原文出處： \#AI治理 \#AI安全 \#微軟  
-  @gooonamee · 2026-11-22 07:32
-
-- [Latest AI update - son took an old Motorola phone and had @claudeai loaded a local LLM on it and now he has an AI b…](<https://x.com/Junkdealer3/status/2124284924442382670>)  
-  Latest AI update - son took an old Motorola phone and had @claudeai loaded a local LLM on it and now he has an AI better than Siri  
-  @Junkdealer3 · 2026-11-22 07:32
-
-- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124284734976975261>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. The solution has been tested for more than a year. Security proven in Physics.  
-  @adomita360 · 2026-11-22 07:32
-
-- [11月21日公布的一份年度人工智能领军者名单选出20名30岁以下的从业者。有人读博时就办起公司，也有人把做自动驾驶的经验用…](<https://x.com/molihua_org/status/2124284557251723333>)  
-  11月21日公布的一份年度人工智能领军者名单选出20名30岁以下的从业者。有人读博时就办起公司，也有人把做自动驾驶的经验用到人形机器人上。评委、峰瑞资本投资合伙人陈石说，今年的参选者更关心技术做出来以后能不能持续使用和改进。  
-  @molihua\_org · 2026-11-22 07:31
-
-- [Sir would you like to have it in an Embodied AI?](<https://x.com/OwyssWerkin/status/2124284273050169705>)  
-  @OwyssWerkin · 2026-11-22 07:30
-
-- [昨天Anthropic完成史上最大规模IPO，首日收涨17%，市值超万亿美元。AI安全公司也能这么狂飙，是资本疯狂还是技术…](<https://x.com/Austinxlab/status/2124284254234292339>)  
-  相关链接： 或新闻报道 \#AI \#Anthropic \#IPO \#热点评论 \#观点  
-  @Austinxlab · 2026-11-22 07:30
-
-- [AGI还远着呢，近期都在做agent，AGI最关键的一步是具身智能，这一步得以十年为单位](<https://x.com/haizei17/status/2124284032406180345>)  
-  @haizei17 · 2026-11-22 07:29
-
-- [AI security starts with good habits.](<https://x.com/sinadropcorner/status/2124283843985416422>)  
-  Keeping data separate, controlling access, and human oversight really matter. Great direction from @Hysen\_SI . Looking forward to the new app\! ⚡ \#HysenSI  
-  @sinadropcorner · 2026-11-22 07:28
-
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 37 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 35 页

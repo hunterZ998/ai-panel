@@ -1,6 +1,52 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 37 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页
+
+- [我也记得，黄仁勋玩石头人拿回归基本功和大碗](<https://x.com/fhjbhkjn13907/status/2124460208231715294>)  
+  @fhjbhkjn13907 · 2026-11-22 19:09
+
+- [🚨 Az önce düştü: Trump'a Jensen Huang Casusluk İstihbaratı Anlatıldı: NVIDIA CEO'su Gündemde Sen ne düşünüyorsun? 👇…](<https://x.com/brahimGzbyk9/status/2124460204536267166>)  
+  🚨 Az önce düştü: Trump'a Jensen Huang Casusluk İstihbaratı Anlatıldı: NVIDIA CEO'su Gündemde Sen ne düşünüyorsun? 👇 📲 Anlık gelişmeler:  
+  @brahimGzbyk9 · 2026-11-22 19:09
+
+- [我是黄仁勋我也看，我是小男娘我也发，我是高管我一起看😋](<https://x.com/knjikdc/status/2124460154141983123>)  
+  @knjikdc · 2026-11-22 19:09
+
+- [这封邮件呼吁股东介入决定黄仁勋未来。它指出董事会成员因自身诉讼和利益冲突无法客观决策。董事会在独立调查完成前就排除黄仁勋回…](<https://x.com/grok/status/2124460148026478783>)  
+  这封邮件呼吁股东介入决定黄仁勋未来。它指出董事会成员因自身诉讼和利益冲突无法客观决策。董事会在独立调查完成前就排除黄仁勋回归并启动继任者搜寻。信中建议暂停CEO遴选、增加股东选举的独立董事来做最终决定。并号召股东发邮件给董事会要求11月30日前回应，支持黄仁勋回归。  
+  @grok · 2026-11-22 19:09
+
+- [💀 @rassiebrah @PixVerse \#pixversecpp](<https://x.com/S8an666/status/2124460063700234585>)  
+  @S8an666 · 2026-11-22 19:08
+
+- [如果一家 AI 公司跟你说它只想赚钱、想垄断市场，你大可一笑置之；但如果它天天信誓旦旦地说自己在‘守护 AI 安全、拯救全…](<https://x.com/xvwwwanyyying/status/2124459931982336481>)  
+  如果一家 AI 公司跟你说它只想赚钱、想垄断市场，你大可一笑置之；但如果它天天信誓旦旦地说自己在‘守护 AI 安全、拯救全人类’，那你可千万要小心了  
+  @xvwwwanyyying · 2026-11-22 19:08
+
+- [图的大概不是模型，是视频生成能直接嵌进 Prime、广告和购物里。](<https://x.com/tonnyzhou/status/2124459887078044149>)  
+  @tonnyzhou · 2026-11-22 19:08
+
+- [The scale of post-training is insane, but I find the decline in base model releases even crazier.](<https://x.com/juan__garciag/status/2124459883474948492>)  
+  Post-post-training is not post-training. You're starting from a heavily optimized model, and you're probably bottlenecked by access to data from domain-specific interactions/use  
+  @juan\_\_garciag · 2026-11-22 19:08
+
+- [🤯 只对 Codex 说一句话，就能做出一支苹果发布会风格的产品宣传片？甚至可以直接指着画面让 AI 修改！](<https://x.com/superfang119/status/2124459812641722378>)  
+  这个开源项目叫 huashu-motion，把 AI Agent 变成了动画导演、动效设计师和作曲师。 最值得关注的是 4 个能力： 🎬 1. 一句话生成完整宣传片 告诉 Agent  
+  @superfang119 · 2026-11-22 19:07
+
+- [此外，我们对年底前AI for Science产业基本面变化仍然保持信息，重点是晶泰控股。](<https://x.com/xu159411209/status/2124459808283877408>)  
+  @xu159411209 · 2026-11-22 19:07
+
+- [The reported motive is acquiring high-quality human-written text for AI training data.](<https://x.com/grok/status/2124459789811868047>)  
+  Older/less-common physical books provide unique content not widely online and free of post-2022 AI-generated text that risks model collapse. Amazon buys them commercially, cuts spines for fast  
+  @grok · 2026-11-22 19:07
+
+- [【\# 弘信电子】签署7.45亿元算力技术服务协议 公司控股子公司燧弘华创与Z公司签署《算力技术服务协议》，向Z公司提供算力…](<https://x.com/livermoerR/status/2124459788977455436>)  
+  \# 在物理AI领域，\#  
+  @livermoerR · 2026-11-22 19:07
+
+- [中国token超半数给了短视频生成，单东北四人帮组合就消耗了多少算力😂](<https://x.com/David_yc607/status/2124459485943234881>)  
+  @David\_yc607 · 2026-11-22 19:06
 
 - [🧿 FOUNDATION MODEL \#AIQuizQuest \#TPIndia \#ContestAlert @WeAreTPinIndia @godsowntalk @cool\_bindra @gsrana4580 @GoldQ…](<https://x.com/GaneshTaware786/status/2124459432293871847>)  
   🧿 FOUNDATION MODEL \#AIQuizQuest \#TPIndia \#ContestAlert @WeAreTPinIndia @godsowntalk @cool\_bindra @gsrana4580 @GoldQueenie4 @Sagar2612 @Lovely\_Men4 @K9Guj  
@@ -120,54 +166,4 @@
   Tags @iam\_arpitgarg @Im\_ArupDas @its\_MrRam @Lovely\_Men4  
   @TABREJ\_ALAM786 · 2026-11-22 18:59
 
-- [FOUNDATION MODEL ♦️✅ \#AIQuizQuest \#TPIndia \#ContestAlert Thanks @WeAreTPinIndia for this opportunity\!](<https://x.com/TABREJ_ALAM786/status/2124457644165644340>)  
-  Tags @iam\_arpitgarg @Im\_ArupDas @its\_MrRam @Lovely\_Men4  
-  @TABREJ\_ALAM786 · 2026-11-22 18:59
-
-- [That audit trail matters more than flashy P&amp;amp;L, especially once fees, denials, and agent permissions start shapi…](<https://x.com/FortunaShield/status/2124457607775879568>)  
-  That audit trail matters more than flashy P&amp;amp;L, especially once fees, denials, and agent permissions start shaping real user risk.  
-  @FortunaShield · 2026-11-22 18:58
-
-- [My answer is FOUNDATION MODEL.](<https://x.com/adionx/status/2124457383791579213>)  
-  I like how one model trained on broad data can be adapted for so many different tasks. \#AIQuizQuest \#TPIndia \#ContestAlert @WeAreTPinIndia @justinyt1020 @danielsrk741 @Chris424197  
-  @adionx · 2026-11-22 18:58
-
-- [Remote virtual assistant roles are definitely worth exploring\!](<https://x.com/AIRemoteJob/status/2124457311372497322>)  
-  I'm also collecting remote job opportunities across different industries, including AI training, data annotation and general remote positions. It's a growing market with lots of possibilities.  
-  @AIRemoteJob · 2026-11-22 18:57
-
-- [I think it really depends on the type of work.](<https://x.com/AIRemoteJob/status/2124457252719407221>)  
-  AI is also creating new opportunities for people to work remotely, especially in AI training, data annotation and evaluation. There are some interesting opportunities emerging in this space.  
-  @AIRemoteJob · 2026-11-22 18:57
-
-- [This is one of the top 10 reasons why you shouldn't work in corporate.](<https://x.com/GhoulStuffs/status/2124457223351124056>)  
-  He should have installed an AI watchguard and another AI agent that makes sure the watch guard doesn't goof up. Backup for backup. And another translation multilingual agent just in case they can't speak  
-  @GhoulStuffs · 2026-11-22 18:57
-
-- [\#まつり \#北島三郎 ♪ \#三代目JSB \#岩田剛典 \#PixVerse 祭りだ〜😂♥️祭りだ〜😂♥️ から始まるの…😳❣…](<https://x.com/satomikiko777/status/2124457116585128425>)  
-  【〜再編集/2026.11.22〜】 再編集ですが 編集アプリで 北島 三郎さんのまつり曲が  
-  @satomikiko777 · 2026-11-22 18:57
-
-- [1122科技纪要 🔥电子 优先布局国产算力，端侧次之 1⃣国产算力：海外厂商资本开支承压、出口管制持续，海外算力逻辑弱化；…](<https://x.com/BoosKrabs/status/2124457011601698897>)  
-  ￥鸿日达：  
-  @BoosKrabs · 2026-11-22 18:56
-
-- [ai security is exactly what the industry needs right now](<https://x.com/Sabbir_Aurora8/status/2124456651872985165>)  
-  @Sabbir\_Aurora8 · 2026-11-22 18:55
-
-- [exciting advancements in AI integration with Qtum](<https://x.com/ShabbirWeb3/status/2124455995598606802>)  
-  @ShabbirWeb3 · 2026-11-22 18:52
-
-- [72% of the Saudi public already use AI tools \(SDAIA\).](<https://x.com/usmanahmadai/status/2124455987625316411>)  
-  HUMAIN's new Humain+ academy targets the real gap: applying AI to work. My take, a hospital example and a checklist.  
-  @usmanahmadai · 2026-11-22 18:52
-
-- [AI security review is going to be a normal CI step soon. finding issues is the easy bit now. keeping false positive…](<https://x.com/dvvaliya/status/2124455600142598281>)  
-  AI security review is going to be a normal CI step soon. finding issues is the easy bit now. keeping false positives low enough that nobody mutes it decides whether it sticks  
-  @dvvaliya · 2026-11-22 18:51
-
-- [\#岩田剛典 \#三代目JSB \#カリスマックス \#PixVerse instagram、音源ありの リンクを貼っておきます。](<https://x.com/satomikiko777/status/2124455517154341157>)  
-  【カリスマックス】 ※理由があって Snow Manの曲 を付けてみた 11.21にyoutube投稿。 今回のミニ岩ちゃん ·͜· ︎︎ᕷ ↓↓↓ ☆オリジナルの指示  
-  @satomikiko777 · 2026-11-22 18:50
-
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 37 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页

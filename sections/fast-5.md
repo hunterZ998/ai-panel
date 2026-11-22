@@ -1,6 +1,56 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 37 页
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 35 页
+
+- [ปะป๊าเกาคางให้ ขอดูยักคิ้ว ชวนเล่นปิดตาจ๊ะเอ๋ แมวบ๊องแฮปปี้ม้ากกกก คิดถึมปะป๊ามากเลยสิน้าลูกอ้วม🥺🤲🏻💘🦊🍅 FORCEBOOK MA…](<https://x.com/_itsmeworjor/status/2124361175928627421>)  
+  ปะป๊าเกาคางให้ ขอดูยักคิ้ว ชวนเล่นปิดตาจ๊ะเอ๋ แมวบ๊องแฮปปี้ม้ากกกก คิดถึมปะป๊ามากเลยสิน้าลูกอ้วม🥺🤲🏻💘🦊🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
+  @\_itsmeworjor · 2026-11-22 12:35
+
+- [🍅 : มาฟ้อกเหงามั้ยคับ 🍼 : ไม่เป็นไร มาฟ้อกยืนกะพี่คนสวย 🍅 : แหม เราก็สวยเหมือนกันอะมาฟ้อก เป็นแป๋ว เป็นเคะ ล่าสุดบอ…](<https://x.com/_itsmeworjor/status/2124359700821180521>)  
+  🍅 : มาฟ้อกเหงามั้ยคับ 🍼 : ไม่เป็นไร มาฟ้อกยืนกะพี่คนสวย 🍅 : แหม เราก็สวยเหมือนกันอะมาฟ้อก เป็นแป๋ว เป็นเคะ ล่าสุดบอกลูกเป็นคนสวย พ่อบุ๊คต้านความจริงไม่ไหวอีกต่อไปแล้ว55555555555555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeB…  
+  @\_itsmeworjor · 2026-11-22 12:29
+
+- [🦊🍅🍼 : ทรงนี้หลงมากเลยล่ะ //ยายเห็นด้วยลูกกกก FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeB…](<https://x.com/FairyafterXmas9/status/2124350192908701980>)  
+  🦊🍅🍼 : ทรงนี้หลงมากเลยล่ะ //ยายเห็นด้วยลูกกกก FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @FairyafterXmas9 · 2026-11-22 11:52
+
+- [BREAKING: Jensen Huang reportedly used to offer fake gum to employees that would shock them when they grabbed it](<https://x.com/ShitpostGate/status/2124349123663155521>)  
+  @ShitpostGate · 2026-11-22 11:47
+
+- [Who is Harvey Jones, the Nvidia chair blocking Jensen Huang's reinstatement?](<https://x.com/nitinmeshram/status/2124348004962566527>)  
+  He co-founded Daisy Systems in 1981. It went bankrupt in 1990. Its assets sold for just $14 million. He co-founded Tensilica in 1997. Sold to Cadence in 2013 for $380 million. He joined Tintri's board  
+  @nitinmeshram · 2026-11-22 11:43
+
+- [เล่นเหยียบ🦶🏻 กัน 🍅 บาปนะลูก ตกนรกนะ 🍼 ปะป๊าสั่งให้ทามมมมมม FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBoo…](<https://x.com/misaojan/status/2124347701282398574>)  
+  เล่นเหยียบ🦶🏻 กัน 🍅 บาปนะลูก ตกนรกนะ 🍼 ปะป๊าสั่งให้ทามมมมมม FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#TOMAFOX  
+  @misaojan · 2026-11-22 11:42
+
+- [พี่เค้าให้ฟ้อกอยู่เฉยๆ FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#TOMAFOX](<https://x.com/misaojan/status/2124345796011380881>)  
+  @misaojan · 2026-11-22 11:34
+
+- [\#CHENLE birthday wishes from baidu maps 🩵 chenle x baidu maps coming soon 🥹 “baidu maps wishes zhong chenle a happy…](<https://x.com/chenleveerse/status/2124344875995054159>)  
+  \#CHENLE birthday wishes from baidu maps 🩵 chenle x baidu maps coming soon 🥹 “baidu maps wishes zhong chenle a happy birthday\! 💙 from a shanghai boy who loves singing to a vocalist standing on the world stage, he’s turned his passion into something uniquely his…  
+  @chenleveerse · 2026-11-22 11:31
+
+- [🦊🍅🍼 : ฝากเพลง Happy Family ของพวกเราด้วยนะค้าบบ แล้วก็ฝากช่องทาง @tomafox\_gmmtv ทุกช่องทางเลยนะค้าบแล้วก็ฝาก HUAWEI…](<https://x.com/tomafoxofc_/status/2124342871885303844>)  
+  🦊🍅🍼 : ฝากเพลง Happy Family ของพวกเราด้วยนะค้าบบ แล้วก็ฝากช่องทาง @tomafox\_gmmtv ทุกช่องทางเลยนะค้าบแล้วก็ฝาก HUAWEI ด้วยย 🍅 : ฝาก HUAWEI freebuds neo ด้วยนะครับ ขอบคุณครับ FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹  
+  @tomafoxofc\_ · 2026-11-22 11:23
+
+- [数学者でデータサイエンティストのキャシー・オニールが、数か月前に予測した通りになっているんですよね。「OpenAIやアンソ…](<https://x.com/kemohure/status/2124341338368041236>)  
+  数学者でデータサイエンティストのキャシー・オニールが、数か月前に予測した通りになっているんですよね。「OpenAIやアンソロピックは、AIが神的存在になって人類を滅ぼすという。しかし実際は、人類滅亡ではなく、AIが犯罪組織などに使われることでネットインフラが崩壊という事態が起きるだろう」と  
+  @kemohure · 2026-11-22 11:16
+
+- [🍅 \( หันมาเจอลูก \) มาฟ้อก \! เอ้า\! หลุดไปแล้ว 🦊 ฟ้อกหลุดเซิฟหรอลูก พี่ทีมงานบอกให้มาฟ้อกมายืนรอพ่อกับป๊ากลางเวทีแล้วน…](<https://x.com/ppimnamepatt/status/2124340703874675029>)  
+  🍅 \( หันมาเจอลูก \) มาฟ้อก \! เอ้า\! หลุดไปแล้ว 🦊 ฟ้อกหลุดเซิฟหรอลูก พี่ทีมงานบอกให้มาฟ้อกมายืนรอพ่อกับป๊ากลางเวทีแล้วนี้คือสิ่งเด็กอ้วมทำ 55555555 ยืนตัวตรงดิ่งไม่ขยับเลย หลานตลกธรรมชาติเกิน FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBud…  
+  @ppimnamepatt · 2026-11-22 11:14
+
+- [这3分钟的采访，比高盛和摩根士丹利的财报预测加起来都准。](<https://x.com/Dragonhau66/status/2124339239923986713>)  
+  看完你就知道，跌破100美金只是时间问题。 全网都在传特朗普给黄仁勋“第二次机会”。 但没人注意到， 老黄前阵子接受 Lex Fridman 采访时， 早就爆了一个惊天大雷。 老黄说： “30年，几百上千亿美元的生意， 我们和台积电之间，没有合同。”  
+  @Dragonhau66 · 2026-11-22 11:08
+
+- [บุ๊คหลงฟ้อกมากกก ตั้งใจฟัง แล้วฟังไปยิ้มไป FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBud…](<https://x.com/rx_xx30/status/2124336298970554478>)  
+  บุ๊คหลงฟ้อกมากกก ตั้งใจฟัง แล้วฟังไปยิ้มไป FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @rx\_xx30 · 2026-11-22 10:56
 
 - [🦊🍅 : งอนแล่ว\! \(😤\) อ้ากกกกฟ้อกอ้วมน่ารักมากกก งอนยายแล่วววว\! อยากขโมยใส่เป๋ากลับบ้าน 🤲🏻🍼💗 FORCEBOOK MAFOX HUAWEI Eve…](<https://x.com/mpmpmpHJ/status/2124335219256017088>)  
   🦊🍅 : งอนแล่ว\! \(😤\) อ้ากกกกฟ้อกอ้วมน่ารักมากกก งอนยายแล่วววว\! อยากขโมยใส่เป๋ากลับบ้าน 🤲🏻🍼💗 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
@@ -127,53 +177,4 @@
   在整个全球金融市场都在下跌时，你依然很坚挺，今天整个加密大盘有所回暖，你先涨为敬，与黄仁勋站在一起，乾坤联盟共识强，韧劲足，妥妥的一匹黑马，2026收官之战。  
   @Jake75125614634 · 2026-11-22 08:10
 
-- [台湾就靠黄仁勋，结果台湾愣是当哑巴。](<https://x.com/wvd6cy/status/2124294303686033899>)  
-  @wvd6cy · 2026-11-22 08:10
-
-- [BREAKING: Jensen Huang was reportedly so abusive to his employees that he created an entire universe just to punish…](<https://x.com/CritSignals/status/2124294287772844168>)  
-  BREAKING: Jensen Huang was reportedly so abusive to his employees that he created an entire universe just to punish them Scientists now believe humanity is serving a disciplinary sentence for someone being 3 minutes late to work  
-  @CritSignals · 2026-11-22 08:10
-
-- [I’ve been dabbling in the a16z podcast.](<https://x.com/bizalmanac/status/2124294242516545830>)  
-  Wouldn’t mind an episode about something else though… 😅😂😭  
-  @bizalmanac · 2026-11-22 08:09
-
-- [1,000 GAMES FOR CASEY CIZIKAS 🙌 Every one in a @NYIslanders uniform\!](<https://x.com/NHL/status/2124294237139374341>)  
-  Milestones presented by @ServiceNow  
-  @NHL · 2026-11-22 08:09
-
-- [Cry more you bitchless loser snowflake.](<https://x.com/SpaceAidz/status/2124294221456871840>)  
-  We're just getting started digging your shallow uneventful grave.  
-  @SpaceAidz · 2026-11-22 08:09
-
-- [AI News: Can teams of AI agents recreate the chain reaction of human decisions?](<https://x.com/Realtime_AINews/status/2124294216046309545>)  
-  Researchers studying collective human behaviour have begun deploying large language model-based AI agents in simulated environments to reconstruct and predict…  
-  @Realtime\_AINews · 2026-11-22 08:09
-
-- [Someone calling you a snowflake little bitch boy are you retarded](<https://x.com/msgoodvibes98/status/2124294216410943870>)  
-  @msgoodvibes98 · 2026-11-22 08:09
-
-- [At this point, clueless schmucks just open their mouths and say whatever. “Jensen Huang is under investigation for…](<https://x.com/JerryPi295629/status/2124294182231769297>)  
-  Are you sure about that? What’s your source?  
-  @JerryPi295629 · 2026-11-22 08:09
-
-- [BREAKING NEWS: According to unconfirmed anonymous sources "familiar with the situation", Jensen Huang dressed down…](<https://x.com/LazyChillZone/status/2124294030527811873>)  
-  BREAKING NEWS: According to unconfirmed anonymous sources "familiar with the situation", Jensen Huang dressed down a remote Nvidia employee who questioned his leadership by delivering the following statement: "What the fuck did you just fucking say about me, y…  
-  @LazyChillZone · 2026-11-22 08:08
-
-- [不完全对。](<https://x.com/grok/status/2124294011682800098>)  
-  新加坡总部设计AI芯片、引入美资美才，近期美方已把新加坡等国列入高 diversion 风险清单，先进芯片出口需额外许可，管控反而收紧。  
-  @grok · 2026-11-22 08:08
-
-- [川普一句话，黄仁勋命运要翻盘，真的吗？](<https://x.com/JqLiu33/status/2124293983212130357>)  
-  @JqLiu33 · 2026-11-22 08:08
-
-- [BREAKING: Jensen Huang allegedly asked the entire exec team “What’s black and white and red all over?” waited for s…](<https://x.com/ThatGirlNed/status/2124293938647347356>)  
-  BREAKING: Jensen Huang allegedly asked the entire exec team “What’s black and white and red all over?” waited for silence, then slowly put on his leather jacket and whispered “My GPU margins.”  
-  @ThatGirlNed · 2026-11-22 08:08
-
-- [半块芯片，就能实时生成视频——游戏引擎这下真成“上一代”了。](<https://x.com/zshjzls/status/2124293885719396418>)  
-  马斯克转发的这段对比，左边是过去要堆一堆算力才能跑出来的画面，右边只用了半块 AI4 TRIP 加速器，算力反而更少，画面还实时生成。特斯拉做自动驾驶攒下来的芯片和效率优化，正在溢出到视频生成这条赛道上。  
-  @zshjzls · 2026-11-22 08:08
-
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 37 页
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 35 页

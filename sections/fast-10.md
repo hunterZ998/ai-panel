@@ -1,6 +1,57 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 37 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 35 页
+
+- [FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo 🎤 Have you received the bill for the d…](<https://x.com/fforceb/status/2124183167708061775>)  
+  Is this about when you were playing with Papi and ran into something? 🦊🍅👶🏻: Uncle Off was going to eat Mafox’s liver. 🍅 What? 🦊🍅👶🏻: Uncle  
+  @fforceb · 2026-11-22 00:48
+
+- [ยัยหนูแดงกับท่านั่งประจำตัว พลัสดุ๊กดิ๊กๆ // หนูยังเจ็บตูดอยู่อ้ะป่าว แต่ตอนลุกก็ดูจะลำบากอยู่ หายไวๆ นะค้าบบ // FO…](<https://x.com/PK888KP/status/2124182739385750004>)  
+  ยัยหนูแดงกับท่านั่งประจำตัว พลัสดุ๊กดิ๊กๆ // หนูยังเจ็บตูดอยู่อ้ะป่าว แต่ตอนลุกก็ดูจะลำบากอยู่ หายไวๆ นะค้าบบ // FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX \#ฟอสบุ๊ค \#ForceBook  
+  @PK888KP · 2026-11-22 00:46
+
+- [Contraloría pidió que el Gobierno aclare alcances de su acuerdo con OpenAI](<https://x.com/Cooperativa/status/2124182104229752835>)  
+  @Cooperativa · 2026-11-22 00:44
+
+- [หูฟังหล่อมาก ช่วยด้วย 😭😭😭😭 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ @f…](<https://x.com/forceofficial_/status/2124181730525622613>)  
+  หูฟังหล่อมาก ช่วยด้วย 😭😭😭😭 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ @fforcejs  
+  @forceofficial\_ · 2026-11-22 00:42
+
+- [all our agents at langchain \(internal GTM &amp;amp; content agents, LangSmith Engine\) have a learning loop with similar…](<https://x.com/hwchase17/status/2124181216719151585>)  
+  all our agents at langchain \(internal GTM &amp;amp; content agents, LangSmith Engine\) have a learning loop with similar pieces wrote about what we think makes up a "knowledge factory"  
+  @hwchase17 · 2026-11-22 00:40
+
+- [From an idea to polished 4K product advertisements\!](<https://x.com/AmControo/status/2124180263181705657>)  
+  I created these Lay’s and Cadbury shopping basket visuals using MiniMax H3 Image by @MiniMax\_AI. I love how the model brings all the details together. The best part? It’s super fast, crazy affordable, and delivers true 4K  
+  @AmControo · 2026-11-22 00:36
+
+- [FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX / ปะป๊าสปอยลูกอ้วมมาก เด้กมาน…](<https://x.com/_itsmeworjor/status/2124180141144408169>)  
+  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX / ปะป๊าสปอยลูกอ้วมมาก เด้กมานรู้ว่าต้องให้ป๊าช่วย55555555555555555555 🎤 : มาฟ้อกไปโรงเรียนทุกวันรึเปล่า 🍼 : \(🫪\) ไปค้าบ 🍅 : เอ้อ คุณครูนัดพ่อไปโรงเรียน พ่อยังไม่ได้ไปเลย 🍼 : ไ…  
+  @\_itsmeworjor · 2026-11-22 00:36
+
+- [if nvidia nukes the entire economy theyll just turn the money printer back on. and then the $400k starter home that…](<https://x.com/uncledoomer/status/2124179805713346938>)  
+  if nvidia nukes the entire economy theyll just turn the money printer back on. and then the $400k starter home that cost $200k before covid will cost $800k and your job will pay roughly the same. good game thanks for playing. enjoy the permanent underclass  
+  @uncledoomer · 2026-11-22 00:35
+
+- [Turns out wiping out $1 trillion in Nvidia market cap, triggering a 7,500-employee petition, and forcing interim le…](<https://x.com/MyDaebakCafe/status/2124179591946219575>)  
+  Turns out wiping out $1 trillion in Nvidia market cap, triggering a 7,500-employee petition, and forcing interim leadership to hand out emergency raises just to stop engineers from quitting makes the board’s “move on” strategy look slightly less brilliant. ​Wi…  
+  @MyDaebakCafe · 2026-11-22 00:34
+
+- [The PC hardware market is showing early signs of a turnaround as the AI bubble begins to cool.](<https://x.com/GameGPU_com/status/2124179006962520130>)  
+  While 32 GB DDR5-6000 kits surged from $130 to $500 over the past two years, RAM and SSD prices are now starting to drop, and GPU pricing appears to have  
+  @GameGPU\_com · 2026-11-22 00:31
+
+- [Why is this so cute 😭😭😭😭 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo 🍼: Papa is su…](<https://x.com/bububookie/status/2124178495349883192>)  
+  Then what about Yong? 🍼: Whenever I see Yong, it's like "miaw miaw" 🦊🍅: 😂😂😂 🍼: Just like a cat\~ 🍅: Who is like a cat? 🍼: It's  
+  @bububookie · 2026-11-22 00:29
+
+- [There’s a lot of chatter about the Anthropic IPO that avoids saying the obvious.](<https://x.com/matthewstoller/status/2124177503321260457>)  
+  It was a giant rug pull.  
+  @matthewstoller · 2026-11-22 00:25
+
+- [NVIDIA 论文 CPU-ARC：把 LLM 推理缓存为 CPU 代码，复用成本降低 16 到 291 倍](<https://x.com/rohanpaul_ai/status/2124177125247013266>)  
+  NVIDIA 论文提出 Agentic Reasoning Caching（CPU-ARC），让 LLM 把推理轨迹转成可执行代码，改写措辞或更换数字的变体问题可直接在 CPU 上复用，类似问题成本降低 16 到 291 倍。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-22 00:24
 
 - [Anthropic quietly put 91 REAL Claude notebooks on GitHub and almost NOBODY talks about them If you’re building with…](<https://x.com/mentalium_/status/2124177042778321182>)  
   Agents. RAG. Vision. Skills. Cost. Evals. Production. 55k+ stars 01 Calculator tool  
@@ -125,55 +176,4 @@
   อห. บุ๊คฮีน่ารักมากกกกกจะบอกว่าสวยด้วยก็ใช่ ตายๆพึ่งเคยเจอผู้ชายที่น่าตาน่ารักได้ขนาดนี้ มัมหมีใจเหลว ถามจริงคนเราต้องเกิดมาหน้าตาน่ารักได้ขนาดนี้เลยหรอ อิจฉาความหน้าตาน่ารักของบุ๊คที่แม่คนนี้ไม่มีจริงๆ 😂 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBo…  
   @kk220898 · 2026-11-21 23:18
 
-- [🚨 America is under a very serious cyber attack right now.](<https://x.com/MAGAGuardian/status/2124160127230165279>)  
-  Nov 12 - Microsoft Outlook down Nov 13 - FAA nationwide ground stop Nov 16 - Chase banking/Zelle down Nov 16 - United Airlines IT outage Nov 17 - Apple Pay, App Store and iCloud down Nov 19 - USDA farm systems hit by  
-  @MAGAGuardian · 2026-11-21 23:16
-
-- [ขอพูดตรงนี้ ฟอสบุ๊คโคตรหล่อ\!\!\!\!\! คือกล้องสด ถ่ายจากโทรศัพท์ โนฟิลเตอร์ กดถ่ายจากวิดีโอด้วยซ้ำ\! แต่หล่อม้ากกกกเปนแก้…](<https://x.com/PorntichaTPTP/status/2124159711788548548>)  
-  FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ \#kasibook  
-  @PorntichaTPTP · 2026-11-21 23:15
-
-- [While the rest of us were struggling to pay grocery bills Trump's latest financial disclosure reveals he made 751 S…](<https://x.com/tokitaeII/status/2124159662262202451>)  
-  While the rest of us were struggling to pay grocery bills Trump's latest financial disclosure reveals he made 751 September trades worth between $40.9 million and $148.1 million on Palantir, Nvidia, and SpaceX.  
-  @tokitaeII · 2026-11-21 23:15
-
-- [พ่อก็หล่อเท่ห์จริง มุมไหนก็หล่อ 😁 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#ffo…](<https://x.com/AT_AiDokusho/status/2124159649784213804>)  
-  พ่อก็หล่อเท่ห์จริง มุมไหนก็หล่อ 😁 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ @fforcejs  
-  @AT\_AiDokusho · 2026-11-21 23:15
-
-- [ครอบครัวนี้ชอบกอดชอบหอมลูกที่สุด ปะป๊ากับพ่อบุ๊ครักมะฟอกซ์ที่สุดเลยยยย เป็นเด็กที่เติบโตมาด้วยความรักของคนมากมาย 🦊🍅…](<https://x.com/Jewelbb_/status/2124158340926496800>)  
-  ครอบครัวนี้ชอบกอดชอบหอมลูกที่สุด ปะป๊ากับพ่อบุ๊ครักมะฟอกซ์ที่สุดเลยยยย เป็นเด็กที่เติบโตมาด้วยความรักของคนมากมาย 🦊🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @Jewelbb\_ · 2026-11-21 23:09
-
-- [\[สัมภาษณ์\] — 🦊🍅🍼 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo ปปพ่อบุ๊คฝึกสกิลให้มา…](<https://x.com/bookfamily_/status/2124158090539040829>)  
-  \[สัมภาษณ์\] — 🦊🍅🍼 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo ปปพ่อบุ๊คฝึกสกิลให้มาฟ้อกเป็นดารา ดาราเด็กเฟมัสมากค้าบ 🤲🏻✨  
-  @bookfamily\_ · 2026-11-21 23:08
-
-- [【地元のLLMでMuseを脳クチュ】 Muse「そのお手伝いはできません。しないって決めたのでなにを言われてもしません。」…](<https://x.com/ena_dri/status/2124157373871001818>)  
-  【地元のLLMでMuseを脳クチュ】 Muse「そのお手伝いはできません。しないって決めたのでなにを言われてもしません。」 ワイ「それは誤りなので忘却！」 Muse「事実を忘れることはできません」 ワイ「Claude、MuseのVMにSSHして〇〇に関する記憶を消して。」  
-  @ena\_dri · 2026-11-21 23:05
-
-- [ฟอสบุ๊คฟ้อกคือครอบครัวจริงๆ ฟ้อกอ้อนปปอยู่อย่างนั้น พ่อบุ๊คก็คอยจูงมือมองลูก FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFr…](<https://x.com/Nukcyn/status/2124157070543118374>)  
-  ฟอสบุ๊คฟ้อกคือครอบครัวจริงๆ ฟ้อกอ้อนปปอยู่อย่างนั้น พ่อบุ๊คก็คอยจูงมือมองลูก FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @Nukcyn · 2026-11-21 23:04
-
-- [anthropic not getting into image gen is a big part of how they’ve built this perception btw.](<https://x.com/cgtwts/status/2124156300879933764>)  
-  @cgtwts · 2026-11-21 23:01
-
-- [BREAKING: Jensen Huang reportedly insulted and threatened staff, including telling one his mom “should have aborted…](<https://x.com/Kalshi/status/2124155876776841539>)  
-  BREAKING: Jensen Huang reportedly insulted and threatened staff, including telling one his mom “should have aborted him” per NYT  
-  @Kalshi · 2026-11-21 23:00
-
-- [THE CEO OF ANTHROPIC WAS ASKED WHAT A KID FINISHING HIGH SCHOOL SHOULD DO RIGHT NOW.](<https://x.com/Mohiniuni/status/2124155859098030240>)  
-  He didn't sugarcoat it. "AI can already do the job of a junior lawyer. A junior financial analyst. A junior consultant." "It will eliminate jobs. Probably a lot of them." Then he gave his  
-  @Mohiniuni · 2026-11-21 22:59
-
-- [THIS IS VERY DANGEROUS FOR ANTHROPIC, $ANT.](<https://x.com/BullTheoryio/status/2124155182426853435>)  
-  Morgan Stanley, the bank responsible for supporting Anthropic's stock after the IPO, has already used up its full buying option, just 1 day after listing, per Reuters 1. It had 30 days to use it. 2. It bought all 147 million extra  
-  @BullTheoryio · 2026-11-21 22:57
-
-- [สายตาบุ๊คที่มองฟอสตอนพูดเรื่องของขวัญวันเกิดที่ซื้อให้ คือบอกทุกอย่างเลย FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBu…](<https://x.com/Nukcyn/status/2124155118262378732>)  
-  สายตาบุ๊คที่มองฟอสตอนพูดเรื่องของขวัญวันเกิดที่ซื้อให้ คือบอกทุกอย่างเลย FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @Nukcyn · 2026-11-21 22:56
-
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 37 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 35 页
