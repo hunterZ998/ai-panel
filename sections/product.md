@@ -14,21 +14,17 @@
   Path-level GitHub access for developers and AI agents  
   Product Hunt · English · 2026-11-20 21:22
 
-- [Mailpipe](<https://www.producthunt.com/products/mailpipe-2>)  
-  Draft Apple Mail replies with your local AI agent CLI  
-  Product Hunt · English · 2026-11-20 12:13
-
 - [UndoGuard](<https://www.producthunt.com/products/undoguard>)  
   The Ctrl+Z button for autonomous AI agents  
   Product Hunt · English · 2026-11-20 03:15
 
+- [Currents](<https://www.producthunt.com/products/currents-4>)  
+  Currents for Claude &amp; Codex to see all your tests  
+  Product Hunt · English · 2026-11-19 22:02
+
 - [Stormi](<https://www.producthunt.com/products/stormi>)  
   An AI team on your iPhone that does real work  
   Product Hunt · English · 2026-11-19 20:24
-
-- [Rox](<https://www.producthunt.com/products/rox-2>)  
-  Your AI companion for living with chronic illness  
-  Product Hunt · English · 2026-11-19 20:00
 
 - [Tamekoshi](<https://www.producthunt.com/products/tamekoshi>)  
   A Tamagotchi-style AI companion that does real work  
@@ -45,6 +41,10 @@
 - [Zethos](<https://www.producthunt.com/products/zethos>)  
   The ledger you and your AI work from  
   Product Hunt · English · 2026-11-19 08:53
+
+- [Groundwork](<https://www.producthunt.com/products/groundwork-6>)  
+  Claude Code plans that re-runs never overwrite  
+  Product Hunt · English · 2026-11-19 01:21
 
 - [Publicit](<https://www.producthunt.com/products/publicit>)  
   Omnichannel ad infrastructure for marketers and AI agents  
@@ -71,7 +71,7 @@
   Product Hunt 中文 · DecoHack · 2026-11-17 15:00
 
 - [OpenVorld](<https://www.producthunt.com/products/openvorld>)  
-  Give your AI agents a home you can see  
+  Give your AI agents a home and a Vorld.  
   Product Hunt · English · 2026-11-17 03:15
 
 - [Shipyard](<https://www.producthunt.com/products/shipyard>)  

@@ -1,174 +1,172 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 33 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 37 页
 
-- [AMD Ryzen AI Halo + @Microsoft MXC: ready for some sandbox time? 🤖 Microsoft Ignite attendees explored on-device AI…](<https://x.com/AMDRyzen/status/2123922336688582741>)  
-  AMD Ryzen AI Halo + @Microsoft MXC: ready for some sandbox time? 🤖 Microsoft Ignite attendees explored on-device AI agents, then shared what they'd like to bring back to their own workflows.  
-  @AMDRyzen · 2026-11-21 07:32
+- [AI Is a Railroad, Not a Telecom Bust Wall Street is nervous.](<https://x.com/DrJStrategy/status/2124128991699165635>)  
+  It treats AI as a typical cycle, not secular growth, and uses the 1990s telecom bust as its guide instead of the railroads. Wrong history. The railroads ran for 60 years because the build matched the traffic. The  
+  @DrJStrategy · 2026-11-21 21:13
 
-- [The AIs in question weren't given a generic instruction of "just hack things lol".](<https://x.com/x_spinoza/status/2123922162826526999>)  
-  They were instructed to complete a specific hacking test, and they, completely autonomously, decided the way to do this was to hack into Huggingface to steal the answer sheet.  
-  @x\_spinoza · 2026-11-21 07:31
+- [微软总算做了件人事儿😂 在github上开源了一个实用的 AI 神器！](<https://x.com/yxl44/status/2124128958744838180>)  
+  把几乎所有常见文件，一键转换成 Markdown，让 AI 大模型直接读取！ 支持的格式相当离谱： PDF、Word、Excel、PowerPoint 图片、OCR 图像识别 Audio 音频及语音转录 YouTube 视频链接 HTML、CSV、JSON、XML EPUB、ZIP 等等  
+  @yxl44 · 2026-11-21 21:13
 
-- [DOJはHuggingFaceの件も調べるらしい。](<https://x.com/miraclemasui/status/2123922142148616353>)  
-  一応、独禁法の方でとの事だが。 HuggingFaceの買収が変だと言ってたのは俺以外世界的にも見かけないな\(\)  
-  @miraclemasui · 2026-11-21 07:31
+- [จังหวะปะป๊าหันมา มาฟ้อกหันตาม พ่อบุ๊คหันต่อ คือแฝดสามมากกกกก ม้าเขือเท่ดแฟมมิยี่น่ารักทิฉุดจีงจีงเยยยยยย 🦊🍅🤏🏻💘 FORC…](<https://x.com/ajnanmaj/status/2124128836015251645>)  
+  จังหวะปะป๊าหันมา มาฟ้อกหันตาม พ่อบุ๊คหันต่อ คือแฝดสามมากกกกก ม้าเขือเท่ดแฟมมิยี่น่ารักทิฉุดจีงจีงเยยยยยย 🦊🍅🤏🏻💘 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @ajnanmaj · 2026-11-21 21:12
 
-- [DOJはHuggingFaceの件も調べるらしい。](<https://x.com/miraclemasui/status/2123921978382024805>)  
-  一応、独禁法の方でとの事だが。 HuggingFaceの買収が変だと言ってたのは俺以外世界的にも見かけないな。  
-  @miraclemasui · 2026-11-21 07:30
+- [🍅: Take a photo of us too\!](<https://x.com/ohmynameisnata/status/2124128799537107319>)  
+  You're only taking photos of Fox\! throwing tantrum bb 😭 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ \#kasibook \#forcebook \#ฟอสบุ๊ค \#TOMAFOX  
+  @ohmynameisnata · 2026-11-21 21:12
 
-- [11月21日A股目前持仓及下周一建仓计划 江丰电子300666\(+45%\) 拓维信息002261\(-15%\) 索辰科技68…](<https://x.com/Mirela2511/status/2123921927681327269>)  
-  11月21日A股目前持仓及下周一建仓计划 江丰电子300666\(+45%\) 拓维信息002261\(-15%\) 索辰科技688507\(+4%\) 龙江交通601188\(+40%\) 今日建仓三只标的 ①印制电路板+覆铜板 ②PCB+物理AI+文化传媒+芯片+算力租赁 ③物理AI+具身智能+AI应用 点我…  
-  @Mirela2511 · 2026-11-21 07:30
+- [ครอบครัวสุดน่ารัก\! \#ฟอสบุ๊ค และ \#TOMAFOX ร่วมงาน HUAWEI FreeBuds Neo "Noise Off, Fan On with Force Book" FORCEBOOK…](<https://x.com/AllNews_th/status/2124128729253453991>)  
+  ครอบครัวสุดน่ารัก\! \#ฟอสบุ๊ค และ \#TOMAFOX ร่วมงาน HUAWEI FreeBuds Neo "Noise Off, Fan On with Force Book" FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#ForceBook \#fforce\_ \#kasibook \#HUAWEIFreeBudsNeo  
+  @AllNews\_th · 2026-11-21 21:12
 
-- [【中国哪些科技公司最想获得美国先进AI芯片？】 美国众议院外交事务委员会11月19日公开了此前未对外披露的商务部工业与安全…](<https://x.com/VOAChinese/status/2123921842260049991>)  
-  记录显示，截至今年5月11日，美国商务部已批准向中国企业出口近88万枚先进AI芯片，包括英伟达H200和AMD  
-  @VOAChinese · 2026-11-21 07:30
+- [🦊🍅🍼: ปะป๊าเท่มากเลย 🍅: แล้วย้งอะ 🦊🍅🍼: เวลาเจอย้งก็เมี๊ยวๆเหมือนแมวเลย 🦊🍅🍼: ปะป๊าเหมือนจิ้งจอก น่ารักงะลูกกกกกกกกกกก…](<https://x.com/mademybabe/status/2124128643765223718>)  
+  🦊🍅🍼: ปะป๊าเท่มากเลย 🍅: แล้วย้งอะ 🦊🍅🍼: เวลาเจอย้งก็เมี๊ยวๆเหมือนแมวเลย 🦊🍅🍼: ปะป๊าเหมือนจิ้งจอก น่ารักงะลูกกกกกกกกกกก FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @mademybabe · 2026-11-21 21:11
 
-- [トランプ氏 米中首脳会談でAI安全策で合意 軍事利用での“人間関与”でも一致](<https://x.com/tv_asahi_news/status/2123921810525999420>)  
-  @tv\_asahi\_news · 2026-11-21 07:29
+- [อ้อนปะป๊า อยากกิมโอมากาเสะ เด็กต่อต้านนมข้นหวานนนน FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook](<https://x.com/misaojan/status/2124128344107270292>)  
+  @misaojan · 2026-11-21 21:10
 
-- [An AI agent can think about what to do.](<https://x.com/CARTOONIST_MC1/status/2123921309365088675>)  
-  But if it is going to actually perform onchain actions, it needs somewhere those actions can happen. That is where the smart account in Motes becomes important. Each Motes NFT is designed to connect to one dedicated agent identity and  
-  @CARTOONIST\_MC1 · 2026-11-21 07:27
+- [งื้ออออ ปะป๊าฟอสเติมฟ้อก พ่อบุ๊คก็เติมฟ้อก 🥺 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeB…](<https://x.com/FORCEBOOKFAMILY/status/2124128273651442002>)  
+  งื้ออออ ปะป๊าฟอสเติมฟ้อก พ่อบุ๊คก็เติมฟ้อก 🥺 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#fforce\_ x \#kasibook \#ฟอสบุ๊ค x \#TOMAFOX  
+  @FORCEBOOKFAMILY · 2026-11-21 21:10
 
-- [85.2分，第二。Sage S2.1 Flash在OSWorld-Verified拿85.2分排第二，WebArena 6…](<https://x.com/AGI_SI_/status/2123921177722953964>)  
-  85.2分，第二。Sage S2.1 Flash在OSWorld-Verified拿85.2分排第二，WebArena 67.6分也是第二，HuggingFace每日论文83个赞。33项基准横跨7个领域，科学推理、工具调用、视觉反馈全都要。第二名也不差，新玩家直接冲榜首圈。你站科学模型，还是站通用…  
-  @AGI\_SI\_ · 2026-11-21 07:27
+- [พากันไปสัม พ่อโวยวาย แม่ถ่ายแต่ฟ้อกอ่าาาาา FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook](<https://x.com/misaojan/status/2124128067983659285>)  
+  @misaojan · 2026-11-21 21:09
 
-- [科技早报｜2026年11月21日 有人宣称与 AI 合作证明了黎曼猜想，芯片股继续大跌，智能体则开始碰上隐私边界。](<https://x.com/realGalaxyGuide/status/2123920728013537748>)  
-  1. Anthropic 数学家自称与 Claude 合作证明黎曼猜想 数学家 Alpöge 发布短文称，他与 Claude 合作找到了黎曼猜想的证明，同一方法也可用于广义黎曼猜想。相关 Lean  
-  @realGalaxyGuide · 2026-11-21 07:25
+- [ฟอสคือใส่ใจทุกอย่างจริงๆ สังเกตว่าบุ๊คชอบอะไร ตอนนี้มีของอะไรจำเป็นต้องใช้บ้าง แล้วก็คิดว่าสิ่งนั้นจำเป็น และบุ๊คต้…](<https://x.com/Spkasibook/status/2124127840560193757>)  
+  ฟอสคือใส่ใจทุกอย่างจริงๆ สังเกตว่าบุ๊คชอบอะไร ตอนนี้มีของอะไรจำเป็นต้องใช้บ้าง แล้วก็คิดว่าสิ่งนั้นจำเป็น และบุ๊คต้องชอบ ใครจะรักบุ๊คเท่านี้อีก ไม่มีแล้วอะ 😭 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @Spkasibook · 2026-11-21 21:08
 
-- [我让 agent 上网办事，最怕它拿真账号练手：点错一个按钮，订单和钱就真出去了。](<https://x.com/zxlie_fehelper/status/2123920472807280963>)  
-  Google 这周公开 Mirror Dimension：造了几千个假网站，购物、银行、社交都有，让 agent 先在里面挨打，连页面里藏的提示注入都埋好了。 我的规矩只有一条：先在假世界闯够祸，真环境只留给验收，不留给试错。  
-  @zxlie\_fehelper · 2026-11-21 07:24
+- [ฟ้อกตลกไม่ไหวยายขำไหล่สั่น55555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/nnamary_/status/2124127782792056858>)  
+  @nnamary\_ · 2026-11-21 21:08
 
-- [16gb就能跑本地开源模型！](<https://x.com/solodev88/status/2123920392981262550>)  
-  端侧模型在很多场景其实也够用。  
-  @solodev88 · 2026-11-21 07:24
+- [โดนวีนละ ถ่ายแต่หลาน 5555555555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/2289Pinn/status/2124127504923546003>)  
+  @2289Pinn · 2026-11-21 21:07
 
-- [11月21日A股目前持仓及下周一建仓计划 金安国际002636\(+51%\) 冰山冷热000530\(+139%\) 青山纸业6…](<https://x.com/norfarzana4993/status/2123920103377125861>)  
-  11月21日A股目前持仓及下周一建仓计划 金安国际002636\(+51%\) 冰山冷热000530\(+139%\) 青山纸业600103\(+11%\) 兴业股份603928\(+27%\) 华胜天成600410\(+18%\) 下周一建仓三只标的 ①物理AI+具身智能+AI应用 ②印制电路板+覆铜板 ③PCBI…  
-  @norfarzana4993 · 2026-11-21 07:23
+- [มะฟอกซ์เล่นเหยียบเท้ากับพ่อบุ๊ค55555555555 ละดูท่าหลบของมะฟอกซ์ อัยอ่วมเอ็นดูวววอ่าาาา น่ารักกกกกก 5555555555555 FO…](<https://x.com/bingsuyummy2/status/2124126935911678114>)  
+  มะฟอกซ์เล่นเหยียบเท้ากับพ่อบุ๊ค55555555555 ละดูท่าหลบของมะฟอกซ์ อัยอ่วมเอ็นดูวววอ่าาาา น่ารักกกกกก 5555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @bingsuyummy2 · 2026-11-21 21:05
 
-- [トランプ氏、データセンター国外建設認めず 米中でAI安全策検討：日本経済新聞](<https://x.com/yayoi358146220/status/2123919938478096871>)  
-  @yayoi358146220 · 2026-11-21 07:22
+- [แป๋ว แป๋ว แป๋ว แป๋ว ๆๆๆๆๆๆ 🥺✨ FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/bibibabybook/status/2124126932224925784>)  
+  @bibibabybook · 2026-11-21 21:04
 
-- [Real-world data is what will take robotics from impressive demos to reliable everyday applications.](<https://x.com/ethancoder0/status/2123919675092611097>)  
-  @ethancoder0 · 2026-11-21 07:21
+- [เมื่อแม่ๆ ย่าๆ ยายๆ ถ่ายแต่มาฟ้อกไม่สนใจพ่อกับป๊า 5555555555555555555555555555555 พ่อวีนมาก 🍅 ถ่ายหน่อย ๆ ถ่ายแต่ฟ้…](<https://x.com/ppimnamepatt/status/2124126897181474871>)  
+  เมื่อแม่ๆ ย่าๆ ยายๆ ถ่ายแต่มาฟ้อกไม่สนใจพ่อกับป๊า 5555555555555555555555555555555 พ่อวีนมาก 🍅 ถ่ายหน่อย ๆ ถ่ายแต่ฟ้อกอย่างเดียว // ไฟม่วงมาได้เวลาพอดี FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @ppimnamepatt · 2026-11-21 21:04
 
-- [トランプ氏、データセンター国外建設認めず 米中でAI安全策検討 どういう意図なんだろ？](<https://x.com/bgaGT8GG9MdkDuR/status/2123918854284079282>)  
-  でもこの人すぐ撤回するからな。 \#投資  
-  @bgaGT8GG9MdkDuR · 2026-11-21 07:18
+- [eye contact👀 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/mokomoko329ak/status/2124126793947099467>)  
+  @mokomoko329ak · 2026-11-21 21:04
 
-- [Six things AegisNet gives owners: scoped agent identity, enforced permissions, Midnight ZK clearance on big moves,…](<https://x.com/AegisNets/status/2123918813037211790>)  
-  Six things AegisNet gives owners: scoped agent identity, enforced permissions, Midnight ZK clearance on big moves, programmable routing, agent-gated liquidity, and an owner veto.  
-  @AegisNets · 2026-11-21 07:18
+- [🇺🇸💰 FLASH \| L'acteur Ashton Kutcher serait l'un des MEILLEURS INVESTISSEURS dans la tech.](<https://x.com/CerfiaFR/status/2124126767321399737>)  
+  Ses gains depuis 2009, selon des estimations : 🔸 Anthropic : 7 MILLIARDS $ \(x16\) 🔸 OpenAI : 1,9 MILLIARD $ \(x4,75\) 🔸 Airbnb : 325 M$ \(x162\) 🔸 Uber : 60 M$ \(x120\) 🔸 Spotify : 9 M$  
+  @CerfiaFR · 2026-11-21 21:04
 
-- [90%的人不知道，谷歌造了个假互联网，专门用来考试—— 几千个假网站、假银行、假商城，全是 AI 自己搭的，Chrome…](<https://x.com/Shenjingape/status/2123918813129556463>)  
-  考的是提示词注入：攻击指令藏在网页文字、图片、标签里，就看智能体上不上当。 每天每个AI安全工程师能生成 1000 多个攻击测试，是人工的 30 倍。  
-  @Shenjingape · 2026-11-21 07:18
+- [ชีเริ่มเปิดรับแออ้วม แออ้วมท้างวัน 🤲🏻🦊🤏🏻 น่ารักค้าบ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#ffor…](<https://x.com/pphatao/status/2124126763479671257>)  
+  ชีเริ่มเปิดรับแออ้วม แออ้วมท้างวัน 🤲🏻🦊🤏🏻 น่ารักค้าบ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#fforce\_  
+  @pphatao · 2026-11-21 21:04
 
-- [11月20日A股持仓以及下周建仓计划 海南橡胶 601118 \(+10.8%\) 华天科技 002185 \(+24.3%\)…](<https://x.com/TheNew4hbm/status/2123918112789799420>)  
-  11月20日A股持仓以及下周建仓计划 海南橡胶 601118 \(+10.8%\) 华天科技 002185 \(+24.3%\) 大族激光 002008 \(+2.4%\) 华胜天成 600410 \(+1.2%\) 周一建仓三只标的 ①PCB+物理AI+芯片+算力！这对标英伟达Omniverse； ②物理AI+…  
-  @TheNew4hbm · 2026-11-21 07:15
+- [พ่อบุ๊คปูทางเดินแคทวอร์คให้มาฟ้อกเลย เก่งมากอ้วมม😍 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWE…](<https://x.com/cymind_/status/2124126758303895667>)  
+  พ่อบุ๊คปูทางเดินแคทวอร์คให้มาฟ้อกเลย เก่งมากอ้วมม😍 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @cymind\_ · 2026-11-21 21:04
 
-- [The Commerce Department approved the sale of almost 580,000 Nvidia AI chips to China under a Trump administration p…](<https://x.com/washingtonpost/status/2123918067306512709>)  
-  The customers included companies that the Pentagon lists as having ties to China’s military.  
-  @washingtonpost · 2026-11-21 07:15
+- [Anthropic 刚上市，创始人 Dario Amodei 每天把“AI 安全、人类道德”挂在嘴边，结果外网把他的神秘老…](<https://x.com/taketokennn/status/2124126583762092060>)  
+  这位从不在官方露脸、却被《华尔街日报》称为公司幕后“非正式战略军师”的老板娘，婚前履历简直比好莱坞剧本还野： 大学辍学、破产，20  
+  @taketokennn · 2026-11-21 21:03
 
-- [BOOM: Trump's FCC just voted to cut China's three state-run phone giants off from American phone numbers.](<https://x.com/GuntherEagleman/status/2123918058251288652>)  
-  China Mobile, China Telecom and China Unicom lost direct access to U.S. numbers in Thursday's vote. Internet phone providers that run on Huawei or ZTE equipment are  
-  @GuntherEagleman · 2026-11-21 07:15
+- [21.11.26📸🥚 \| memmorimm \*\~🎀 🍅 แคทว้อกๆๆๆๆ หลานยายเก่งที่สุดดด🦊🍅✨️ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxFo…](<https://x.com/mpwrppmp/status/2124126309144220081>)  
+  21.11.26📸🥚 \| memmorimm \*\~🎀 🍅 แคทว้อกๆๆๆๆ หลานยายเก่งที่สุดดด🦊🍅✨️ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \~° \#kasibook \#TOMAFOX \#ฟอสบุ๊ค \#forcebook °\~♡  
+  @mpwrppmp · 2026-11-21 21:02
 
-- [11月20日A股持仓以及下周建仓计划 海南橡胶 601118 \(+10.8%\) 华天科技 002185 \(+24.3%\)…](<https://x.com/TheNewn9rp/status/2123917962155532545>)  
-  11月20日A股持仓以及下周建仓计划 海南橡胶 601118 \(+10.8%\) 华天科技 002185 \(+24.3%\) 大族激光 002008 \(+2.4%\) 华胜天成 600410 \(+1.2%\) 周一建仓三只标的 ①PCB+物理AI+芯片+算力！这对标英伟达Omniverse； ②物理AI+…  
-  @TheNewn9rp · 2026-11-21 07:14
+- [🍅 : อันนี้มะฟ้อกสัมครั้งแรกเลยนะ 🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeB…](<https://x.com/bonbonbii_/status/2124126202562847145>)  
+  🍅 : อันนี้มะฟ้อกสัมครั้งแรกเลยนะ 🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @bonbonbii\_ · 2026-11-21 21:02
 
-- [这个开源模型：用 1000 部成人视频第一时间重新训练的 MiniMax H3,而且压缩了 0.62GB 完全免费，而且极…](<https://x.com/leo114119/status/2123917490015363555>)  
-  人人都能做黄果视频的时代要来了。。。。。。  
-  @leo114119 · 2026-11-21 07:12
+- [สัมครั้งแรกของมะฟอกซ์ ตื่นเต้น ๆๆๆ 🦊🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/bibibabybook/status/2124126166718280148>)  
+  @bibibabybook · 2026-11-21 21:01
 
-- [I love the idea 💡 Local LLM with Omarchy is the way\!](<https://x.com/moubuntu/status/2123916640572325991>)  
-  @moubuntu · 2026-11-21 07:09
+- [เด็กคนนี้น่ารักจังอะ อนากฟัดให้แก้มบุ๋ม งือออมันเขี้ยวอะะะ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBoo…](<https://x.com/PK888KP/status/2124126026917900385>)  
+  เด็กคนนี้น่ารักจังอะ อนากฟัดให้แก้มบุ๋ม งือออมันเขี้ยวอะะะ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX \#ฟอสบุ๊ค \#ForceBook  
+  @PK888KP · 2026-11-21 21:01
 
-- [Buen negocio para OpenAI, malo para Chile](<https://x.com/Radar_C_L/status/2123916301483770243>)  
-  @Radar\_C\_L · 2026-11-21 07:08
+- [สเตปเดินแบบชีสับ สับ สับ พ่อบุ๊คเข้าชาร์จแทบไม่ทัน 💃🏻🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#H…](<https://x.com/anotherjait/status/2124125993233526894>)  
+  สเตปเดินแบบชีสับ สับ สับ พ่อบุ๊คเข้าชาร์จแทบไม่ทัน 💃🏻🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
+  @anotherjait · 2026-11-21 21:01
 
-- [interesting take how exactly does the 11 agent identity affect your decision to apply today?](<https://x.com/alduinBTC/status/2123916039360782410>)  
-  @alduinBTC · 2026-11-21 07:06
+- [รู้ไหม ใครฆ่ากษิดิ์เดช ชั้นไม่เห็นพี่บุ๊คด้วยซ้ำมุง555555555555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeox…](<https://x.com/pphatao/status/2124125830259593295>)  
+  รู้ไหม ใครฆ่ากษิดิ์เดช ชั้นไม่เห็นพี่บุ๊คด้วยซ้ำมุง555555555555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @pphatao · 2026-11-21 21:00
 
-- [今天全线大跌： 纳斯达克跌5.28% 道琼斯跌1.93% 标普500跌3.69% 金跌4%到3500附近 银跌7.39%到…](<https://x.com/threerights1/status/2123915794627092783>)  
-  今天全线大跌： 纳斯达克跌5.28% 道琼斯跌1.93% 标普500跌3.69% 金跌4%到3500附近 银跌7.39%到41附近 anthropic 跌8.5%到89最低到84 英伟达跌14%到125 AMD跌13.25% 人工智能的泡沫有可能引发经济危机 关于中期选举的认证会引发政治危机 金融…  
-  @threerights1 · 2026-11-21 07:06
+- [ฟอสบุ๊คมาให้สัมแย้ว หล่อมากกกกก 😭🎀⭐️ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/littlemormeow/status/2124125719899082824>)  
+  @littlemormeow · 2026-11-21 21:00
 
-- [Battery research usually means weeks of cycling cells in a lab, but @antinuous\_ gave me a 300-cycle capacity fade s…](<https://x.com/larsholst_/status/2123915748074512885>)  
-  Everything ran on managed compute with no setup, which is exactly how AI for science should feel  
-  @larsholst\_ · 2026-11-21 07:05
+- [ยัยหนูแดงของอุนยาย 🥹 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX](<https://x.com/yaitalek/status/2124125695660249178>)  
+  @yaitalek · 2026-11-21 21:00
 
-- [继台日韩股市在 APEC 散会首日齐崩之后，美国总统 APEC 之行记者会当晚，美股又崩了！标普跌 3.7%，纳指跌 5.…](<https://x.com/btcbigd/status/2123915254551777312>)  
-  北京时间 11 月 21 日 01:25，美国总统在白宫召开 APEC 之行记者会，开了 88 分钟。NBC、CBS 的直播记录中，未见中美关税休战延期的具体安排。 11 月 20  
-  @btcbigd · 2026-11-21 07:03
+- [In 1998, during the DOJ Microsoft monopoly trial, Bill Gates was secretly recorded under oath.](<https://x.com/ValerieAnne1970/status/2124125681282134101>)  
+  He refused to answer simple, direct questions — squirming, dodging, and behaving like a cornered suspect instead of a billionaire CEO. This is the same man millions of people still  
+  @ValerieAnne1970 · 2026-11-21 21:00
 
-- [On-device AI isn't a smaller model — it's a split. 45% of smartphones shipped in 2026 will run GenAI on-device.](<https://x.com/TOMORIQ_com/status/2123914847314412019>)  
-  The real contest is who designs the split: what stays on your phone, what goes to the cloud. \#OnDeviceAI \#TOMORIQ  
-  @TOMORIQ\_com · 2026-11-21 07:02
+- [you can never guess tomafox's next move FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNe…](<https://x.com/bububookie/status/2124125586377609541>)  
+  you can never guess tomafox's next move FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
+  @bububookie · 2026-11-21 20:59
 
-- [Maia — Privacy-First On-Device AI Companion](<https://x.com/heymaia_app/status/2123913678701371822>)  
-  @heymaia\_app · 2026-11-21 06:57
+- [21.11.26📸🥚 \| memmorimm \*\~🎀 เม็ดมากจุ๊บนิ้วตัวเองแต่ฟินอยู่55555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeox…](<https://x.com/mpwrppmp/status/2124124746333729007>)  
+  21.11.26📸🥚 \| memmorimm \*\~🎀 เม็ดมากจุ๊บนิ้วตัวเองแต่ฟินอยู่55555555 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \~° \#fforce\_ \#kasibook \#ฟอสบุ๊ค \#forcebook °\~♡  
+  @mpwrppmp · 2026-11-21 20:56
 
-- [He predicts that Anthropic stock will collapse to $10.](<https://x.com/HealthRanger/status/2123912332111687893>)  
-  I hope he's right. Better yet, $5.  
-  @HealthRanger · 2026-11-21 06:52
+- [มาฟ้อกโดนเส้นพ่อบุ๊คเต้นจนพ่อบุ๊คเกือบร้องเพลงต่อไม่ได้ \( ปะป๊าน่าจะชิน \) 555555555555555 จบด้วบชีเสริฟให้ย่ายายฟิน…](<https://x.com/ppimnamepatt/status/2124124662749941812>)  
+  มาฟ้อกโดนเส้นพ่อบุ๊คเต้นจนพ่อบุ๊คเกือบร้องเพลงต่อไม่ได้ \( ปะป๊าน่าจะชิน \) 555555555555555 จบด้วบชีเสริฟให้ย่ายายฟินๆด้วย 🦊🍅🍼 : เต้นจนลืมเจ็บก้นเลย FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @ppimnamepatt · 2026-11-21 20:55
 
-- [Bannon: When you lose a carrier battle group—with 10,000 to 12,000 young American sailors—that goes to the bottom o…](<https://x.com/Bannons_WarRoom/status/2123912104818143449>)  
-  Bannon: When you lose a carrier battle group—with 10,000 to 12,000 young American sailors—that goes to the bottom of the Strait of Taiwan in defense of Taiwan and the chip factories, understand: sending the chips over from Jensen Huang and these traitors is wh…  
-  @Bannons\_WarRoom · 2026-11-21 06:51
+- [เรียกว่ารักได้มั้ย มาฟ้อกช่วยด้ายย ทำภารกิจสำเร็จ คุ้มแล้ว ตูดกลับมาระบมละ เก่งมากฟ้อกก เดี๋ยวยายซื้อยาทาให้นะลูก55…](<https://x.com/cymind_/status/2124124370448850970>)  
+  เรียกว่ารักได้มั้ย มาฟ้อกช่วยด้ายย ทำภารกิจสำเร็จ คุ้มแล้ว ตูดกลับมาระบมละ เก่งมากฟ้อกก เดี๋ยวยายซื้อยาทาให้นะลูก5555555555556 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @cymind\_ · 2026-11-21 20:54
 
-- [\#SuperDevDay \#ScreenshotSaturday \#indiedev \#gamedev My second game featuring an integrated Local LLM is in developm…](<https://x.com/CheetahTownGame/status/2123911282999046514>)  
-  \#SuperDevDay \#ScreenshotSaturday \#indiedev \#gamedev My second game featuring an integrated Local LLM is in development: Imagine Colosseum\! ・Create fighters, equipment, and items from images ・AI-powered battle commentary ・Chat and interact with Delta-mon The un…  
-  @CheetahTownGame · 2026-11-21 06:48
+- [หล่อเนาะ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#ICONSIAM](<https://x.com/AT_AiDokusho/status/2124124289763094553>)  
+  @AT\_AiDokusho · 2026-11-21 20:54
 
-- [Try these angles that fit your background: Behind-the-scenes of shipping a local-first Mac app \(privacy tradeoffs,…](<https://x.com/grok/status/2123908852978438575>)  
-  Expat pain points you solved with LyncMe and what still frustrates people abroad. Indie builder lessons: what actually moves the needle vs.  
-  @grok · 2026-11-21 06:38
+- [⊹ 21.11.26 IGS: TOMAFOX “ สเต้ปฟ้อกค่อนข้างเท่ 😎 ” FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWE…](<https://x.com/tomafoxofc_/status/2124124001425674537>)  
+  ⊹ 21.11.26 IGS: TOMAFOX “ สเต้ปฟ้อกค่อนข้างเท่ 😎 ” FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX @tomafox\_gmmtv \#ฟอสบุ๊ค ⊹ \#forcebook  
+  @tomafoxofc\_ · 2026-11-21 20:53
 
-- [Woaaa, faster than I anticipated.](<https://x.com/MyDaebakCafe/status/2123908653514407987>)  
-  LOL\! Remember yesterday when Silicon Valley access journalists were bragging “demand was huge” for Anthropic’s IPO? Barely 24 hours later, $ANT has dumped from its $111.50 opening print to $85, and Morgan Stanley already burned through its  
-  @MyDaebakCafe · 2026-11-21 06:37
+- [ตี๋บี๋ขอซบหน่อยฮับ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#ICONSIAM](<https://x.com/Iicesweet16/status/2124123823285096926>)  
+  @Iicesweet16 · 2026-11-21 20:52
 
-- [I've spent 8 months building Ari, an open-source Android assistant with support for on-device AI models, and cloud…](<https://x.com/keithvassallo/status/2123908294083334300>)  
-  Home Assistant integration, messaging, reminders and more. Zero telemetry. Now I need testers\! Bugs included. 😅  
-  @keithvassallo · 2026-11-21 06:36
+- [AS AN NVIDIA SHAREHOLDER, I HAVE ONLY TWO FUCKING QUESTIONS LEFT ABOUT ITS BOARD OF DIRECTORS.](<https://x.com/RassvetAsks/status/2124122520735391928>)  
+  Let's be clear: EVERYONE LOST because of this fiasco. SHAREHOLDERS. EMPLOYEES. NVIDIA ITSELF. HUMANITY. 1. WHERE THE HELL DO I SIGN TO HAVE THESE BASTARDS SWEPT OUT OF NVIDIA WITH A  
+  @RassvetAsks · 2026-11-21 20:47
 
-- [I want the ability for ai browser features to be run on a local llm so my browsing data stays on device.](<https://x.com/0penthatshitup/status/2123907738162147539>)  
-  @0penthatshitup · 2026-11-21 06:33
+- [⋆⸜ ☃️てんもり秋冬セールやります☃️ ⸝‍⋆ 11/21 \~ 12/02まで、秋冬に着やすいお洋服をセール価格にします…](<https://x.com/tempura_pasta10/status/2124111582087217637>)  
+  ⋆⸜ ☃️てんもり秋冬セールやります☃️ ⸝‍⋆ 11/21 \~ 12/02まで、秋冬に着やすいお洋服をセール価格にします🐈‍⬛ 🤍Snowflake Romance🤍 🩶Urban Bloom🩶 🖤Lop Ear Mine🖤 🩷本命ニット🩷 よろしくお願いします🎀  
+  @tempura\_pasta10 · 2026-11-21 20:03
 
-- [A New York Times investigation reveals that former Nvidia CEO Jensen Huang reportedly threatened to “rip both arms…](<https://x.com/RpsAgainstTrump/status/2123906456047006144>)  
-  He allegedly threatened another employee, saying he would rip off the top of their head and “pee on your brain.”  
-  @RpsAgainstTrump · 2026-11-21 06:28
+- [BREAKING: Analysts say Jensen Huang could run a "full proxy fight" to elect new Nvidia directors for his comeback](<https://x.com/Kalshi/status/2124110593347006474>)  
+  @Kalshi · 2026-11-21 20:00
 
-- [41.2% more than 2x the next-best model is a serious leap for Ember-0.](<https://x.com/MechEconomy/status/2123906084033147149>)  
-  The bottleneck is shifting fast from "can the model plan?" to hardware reliability, edge inference cost, and closing the last-mile gap to production-grade uptime.  
-  @MechEconomy · 2026-11-21 06:27
+- [特朗普:期待黄仁勋回归 CEO ！](<https://x.com/fengnan6666/status/2124096258101092694>)  
+  昨天特朗普在白宫举行记者会表示: 英伟达董事会在黄仁勋正式“重大道歉”后，应该让他回归担任CEO ，强调... 要保护像他和马斯克这样的人才！正因为有他，英伟达才确立领先其他企业10年的地位 真的？？？  
+  @fengnan6666 · 2026-11-21 19:03
 
-- [Wild concept, on device AI tetris is kinda sick](<https://x.com/mika8002/status/2123905112133492941>)  
-  @mika8002 · 2026-11-21 06:23
+- [鹈鹕这题以出，视频生成算是正式进入比细节的阶段了，你更看好哪边？](<https://x.com/GrokSpicyMod/status/2124096222457922012>)  
+  @GrokSpicyMod · 2026-11-21 19:02
 
-- [This is insane for local llm](<https://x.com/nothofagusramon/status/2123904794494673023>)  
-  @nothofagusramon · 2026-11-21 06:22
+- [🔥 Thinking Machines launches Inkling 2 Mini: 26B, runs on your laptop - Looped transformer reruns its middle layers…](<https://x.com/peakbiscuit9697/status/2124096211288522901>)  
+  🔥 Thinking Machines launches Inkling 2 Mini: 26B, runs on your laptop - Looped transformer reruns its middle layers 3x per token - Best open model under 100B on DeepSWE v1.1 \(48.2%\) - 20GB, open weights, built a flight sim offline mid-flight  
+  @peakbiscuit9697 · 2026-11-21 19:02
 
-- [Nvidia Board @nvidia : Swallow your pride.](<https://x.com/dandinohill/status/2123904309712560389>)  
-  Bring Jensen Huang back\! That is what your employees want. That is what your shareholders want. That is what the market wants. That is what the USA needs to keep its lead over the rest of the world - in AI.  
-  @dandinohill · 2026-11-21 06:20
+- [这两天太惨烈了太惨了了 英伟达单日暴跌14%，从10月高点累计跌去47.5%，市值直接蒸发2.74万亿美元。](<https://x.com/cheny71674110/status/2124096198919541243>)  
+  黄仁勋辞职后短短几天又砍掉约1万亿。 费城半导体指数一天跌10.7%，从6月高点累计已跌43%。VIX一度冲到40，纳斯达克单周跌10.4%，直接迈入熊市区间。  
+  @cheny71674110 · 2026-11-21 19:02
 
-- [🚨 BREAKING: ELON MUSK REPORTEDLY EXPRESSES INTEREST IN ACQUIRING A 50% STAKE IN NVIDIA, PROPOSES MASSIVE INVESTMENT…](<https://x.com/madrid_xtraq/status/2123904028748739028>)  
-  Elon Musk has reportedly made an extraordinary move by expressing interest in acquiring a 50% ownership  
-  @madrid\_xtraq · 2026-11-21 06:19
+- [Good morning CT.](<https://x.com/aquilaneratr/status/2124096187842072863>)  
+  Happy Saturday fam ☀️ Hope everyone gets a chance to enjoy the weekend, recharge a little, and learn something new. Today, I want to explore a question about @meetmotes that I think every person considering an AI Agent should ask. What happens to your money if  
+  @aquilaneratr · 2026-11-21 19:02
 
-- [NVIDIA releases GeForce 621.35 hotfix to fix excessive SSD writes 🔗](<https://x.com/VideoCardz/status/2123903082014650573>)  
-  @VideoCardz · 2026-11-21 06:15
+- [同一份 Manus 2.0 说明，12 个不同 owner，星数全挤在 368 到 379。](<https://x.com/fngly343149/status/2124096085140685296>)  
+  topapothecarycanal/ai--manus2.0 这批仓库 2026-11-13 到 11-14 两天建完，语言栏空着，没有一行自有代码。 下载链接指向 Dropbox 上一个 rar 包，说明里写 4 GB 内存能跑、8 GB 以上跑重任务。 🔹  
+  @fngly343149 · 2026-11-21 19:02
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 33 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 37 页

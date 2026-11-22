@@ -1,6 +1,160 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 12 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 11 页
+
+- [「收手吧，人类大于利润！」现场直击AnthropicIPO，大量人群抗议「停止科技寡头」](<https://36kr.com/p/4077881070687104?f=rss>)  
+  当地时间2026年11月19日，纽约时代广场的三块大屏幕上轮番滚动前沿AI实验室Anthropic的巨幅广告。这家2021年在旧金山成立的人工智能公司称，“我们如何把握眼下这个 AI 时刻，将决定这一刻的意义”。纳斯达克交易所外的广场上，主  
+  36氪 · 2026-11-20 19:46
+
+- [Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子](<https://36kr.com/p/4077969727673477?f=rss>)  
+  五年，年化营收超过800亿美元，上市首日完全稀释估值一度触及2万亿美元。这是一条在人类商业史上几乎从未出现过的增长曲线。 先知、救世主情结、宗教领袖，这也是在一个以技术与理性著称的行业里，几乎从未看到的标签。而如今，它们同时落在了一家公司身  
+  36氪 · 2026-11-20 19:39
+
+- [Anthropic Shares Are a Rational Bet on the Next Phase of AI](<https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 18:30
+
+- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
+  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
+  Axios · 2026-11-20 18:20
+
+- [李书福筹办芯位大学](<https://www.pedaily.cn/first/193841.shtml>)  
+  “一般性的大部分传统大学的人才培养体系与能力结构已经不适应人工智能时代对人才培养的迫切需求了。”11月20日，吉利控股集团董事长李书福在2026芯位教育论坛的演讲中作出这样的判断。 他透露，吉利方面正在筹办一所与时代相匹配的新型大学—…  
+  投资界 · 2026-11-20 18:16
+
+- [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)  
+  OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement…  
+  OpenAI · 2026-11-20 18:00
+
+- [蚂蚁 inclusionAI 开源 LingSante-Pulse 生理时序表示学习模型](<https://github.com/inclusionAI/LingSante-Pulse>)  
+  蚂蚁 inclusionAI 在 GitHub 发布 LingSante-Pulse，为 ECG、EEG、PPG 等生理波形和连续血糖监测（CGM）数据提供可复用表示。波形分支每通道输出 256 维 CLS/PatchMean 特征，CGM 分支每日输出 146 维表示并支持跨天历史建模。波形编码器权重托管于 Hugging Face，CGM 部署权重随仓库分发，两分支均支持 CPU 推理。  
+  蚂蚁 inclusionAI：GitHub 新仓库 · 2026-11-20 16:03
+
+- [BrightAI获得9700万美元A轮融资](<https://www.itjuzi.com/investevent/14708372>)  
+  BrightAI是一家实体资产监测解决方案提供商，专注于打造"物理AI"平台，通过传感器和人工智能的结合，为企业提供全方位的实体资产监测解决方案。近日，BrightAI获得9700万美元A轮融资，Smith Point Capital…  
+  IT桔子 · 2026-11-20 16:00
+
+- [Extrordinas获得150万美元天使轮融资](<https://www.itjuzi.com/investevent/14708371>)  
+  Extrordinas是一家网络安全服务提供商，打造端到端 AI 辅助网络事件响应平台，支持一键取证采集、威胁溯源调查、AI 辅助研判与自动生成业务侧报告，覆盖勒索软件、商业邮件劫持、内部威胁、云及身份入侵等安全事件，面向 IR 服务…  
+  IT桔子 · 2026-11-20 15:57
+
+- [Unsiloed AI获得750万美元种子轮融资](<https://www.itjuzi.com/investevent/14708367>)  
+  Unsiloed AI是一家文档解析AI科技研发商，自研双流视觉模型，将 PDF、扫描件、图片、表格、表单等 20 余种非结构化文档解析为带溯源引用、置信度分数与边界框的 Markdown 和结构化 JSON，供 LLM 与 AI 智…  
+  IT桔子 · 2026-11-20 15:40
+
+- [OpenAI 开发者分享在 Codex 中用 Ultrafast 保持心流的使用方法](<https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast>)  
+  OpenAI 开发者介绍如何用本周发布的 GPT-6.2 Astra 和 Sol Ultrafast（token 生成最快提速 4.5×）保持迭代心流。做法包括用热重载 dev server、在应用内浏览器保持预览、拆成短任务、用标注和语音模式、从 Light/Low 推理起步，并把验证移出快速迭代循环。  
+  OpenAI Developers：Blog（网页） · 2026-11-20 15:00
+
+- [Everful获得4850万美元A轮融资](<https://www.itjuzi.com/investevent/14708363>)  
+  Everful是一家AI全球供应链基础设施提供商，打造商业世界模型与采购 AI 智能体，整合多语言供需数据，自动完成热销品识别、工厂匹配核验、订单沟通与履约交付，平台拥有 2000 万 + SKU、3 万 + 核验工厂，每月出货超 5…  
+  IT桔子 · 2026-11-20 14:46
+
+- [星辰智算获得数百万人民币战略投资](<https://www.itjuzi.com/investevent/14708361>)  
+  星辰智算SentiMind是一家认知科学多模态大模型研发商，用游戏化认知任务采集人的行为数据，再以多模态模型理解、预测与训练认知能力，已构建覆盖认知评估、训练、追踪的闭环体系，并推出端侧认知调度层Senti-OS，以1至3B的轻量化模…  
+  IT桔子 · 2026-11-20 14:42
+
+- [九州星核获得数亿人民币天使轮融资](<https://www.itjuzi.com/investevent/14708348>)  
+  九州星核专注于超临界 CO₂ 直接循环微型核裂变产品研发，致力于构建面向人工智能时代的新一代分布式能源基础设施。近日，九州星核获得数亿人民币天使轮融资，天鹰资本投资。  
+  IT桔子 · 2026-11-20 14:22
+
+- [Tesorai获得530万美元种子轮融资](<https://www.itjuzi.com/investevent/14708349>)  
+  Tesorai是一家生命科学AI科技研发商，打造面向蛋白组学的 AI 知识层平台，包含 Tesorai Search 质谱检索引擎、对话分析 Tesorai Chat、跨研究数据集库 Tesorai Trove，直接处理原始实验质谱文…  
+  IT桔子 · 2026-11-20 14:11
+
+- [诚恒微完成近2亿元A轮融资，加速边端侧AI SoC规模化落地](<https://www.pedaily.cn/first/193733.shtml>)  
+  无锡诚恒微电子有限公司完成近2亿元A轮融资，由中金资本、中车资本、毅达资本、锡创兴吴、奇安投资联合参与。（投资界讯） 原文链接  
+  投资界 · 2026-11-20 13:36
+
+- [Community Wolf获得种子轮融资](<https://www.itjuzi.com/investevent/14708339>)  
+  Community Wolf是一家公共安全科技研发商，依托 WhatsApp 智能体渠道，让居民无需下载 App 即可通过文本、语音上报警情；AI 引擎解析非结构化对话与素材，生成实时风险地图与犯罪趋势预测，联动社区巡逻队、私人安保与…  
+  IT桔子 · 2026-11-20 11:26
+
+- [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
+  诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
+  IT桔子 · 2026-11-20 11:21
+
+- [上海国投先导人工智能母基金拟参与投资3只子基金](<https://www.pedaily.cn/first/193743.shtml>)  
+  近日，根据《上海三大先导产业母基金子基金公开遴选细则（试行）》，经相应遴选程序，上海国投先导人工智能母基金初步确定拟参与投资3只子基金，具体名单正式对外公布，本次拟参与投资的3只子基金及对应中选机构。（投资界） 原文链接  
+  投资界 · 2026-11-20 11:20
+
+- [China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.](<https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 11:00
+
+- [英伟达接近以逾5亿美元收购扩散式AI初创公司Inception](<https://www.itjuzi.com/merger/14599>)  
+  Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
+  IT桔子 · 2026-11-20 10:30
+
+- [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
+  The Information · 2026-11-20 09:00
+
+- [投资界24h\| Anthropic市值超10万亿；三位00后把公司卖了300亿；招商局人工智能产业基金成立](<https://www.pedaily.cn/first/193679.shtml>)  
+  11月19日，美国AI公司Anthropic登陆纳斯达克，发行价每股83美元，开盘涨超20%，市值近2万亿美元七位联合创始人每人身家约200亿美元，集体跻身彭博全球富豪榜前列。与此同时，美国派拓网络宣布将以约300亿元全股票交易收购A…  
+  投资界 · 2026-11-20 08:59
+
+- [Apple may be developing its own AI agent that runs your Mac](<https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/>)  
+  The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenA  
+  TechCrunch · 2026-11-20 08:56
+
+- [DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台](<https://www.pedaily.cn/first/193674.shtml>)  
+  11月19日消息，公开信息显示，DeepSeek工商主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）、公司注册资本变更为1991.8707万元，增幅约21.1%。 股权穿透…  
+  投资界 · 2026-11-20 08:55
+
+- [OpenAI或将进军手机市场](<https://www.pedaily.cn/first/193669.shtml>)  
+  据供应链消息，富士康旗下富智康集团（02038.HK）已获得OpenAI手机项目订单，将参与相关产品的整机组装。富士康同时是苹果iPhone的主要组装商。 若OpenAI手机最终面市，其将进入手机终端市场，并可能围绕AI交互体验，与现…  
+  投资界 · 2026-11-20 08:53
+
+- [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
+  At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
+  TechCrunch · 2026-11-20 08:43
+
+- [Why Anthropic’s VC Investors Aren’t Letting Go](<https://www.theinformation.com/articles/anthropics-vc-investors-letting-go>)  
+  The Information · 2026-11-20 08:41
+
+- [Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>)  
+  Google Research 回顾 Duplex 十年架构演进，并介绍本周在 Gemini App Tasks 中上线的自动致电商家功能。  
+  Google Research：Blog（网页） · 2026-11-20 08:00
+
+- [browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作](<https://browser-use.com/posts/browser-use-1-0>)  
+  Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chrome DevTools Protocol 访问替代 0.x 的 24 个浏览器动作。  
+  Browser Use · 2026-11-20 08:00
+
+- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
+  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
+  OpenAI · 2026-11-20 08:00
+
+- [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>)  
+  MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and sele…  
+  OpenAI · 2026-11-20 08:00
+
+- [Conductor 0.98.0 更新：新增 Usage 用量页，主题转正](<https://www.conductor.build/changelog/0.98.0-see-where-your-usage-goes>)  
+  Conductor 发布 0.98.0 更新，新增 Usage 页面，可按模型和工作区查看最近 7、30 或 90 天的聊天、预估成本和 token 用量，入口在侧边栏底部或 Settings → Usage。  
+  Conductor 官方更新 · 2026-11-20 08:00
+
+- [Browser Use 用 PINEAPPLE 注入测试拆解个人 AI 智能体浏览器的七项需求](<https://browser-use.com/posts/personal-ai-agent-browser>)  
+  Browser Use 在网页中藏入提示词注入句子 PINEAPPLE 并让六个个人智能体环境读取，其中一个照说，六个环境中只有三个将其标记为提示词注入。团队还分析了关于 12 个个人智能体的 33,976 条帖子，总结出个人智能体浏览器的七项需求：持久登录、借用用户 cookies、反屏蔽、人工接管、密码不交给模型、一次性虚拟卡，以及默认每个页面都不可信。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 复盘 LLM-as-a-Judge 只读了五分之一答案导致的评测假阳性](<https://browser-use.com/posts/llm-as-a-judge-eval-bug>)  
+  Browser Use 复盘一次 agent 评测中的 LLM judge bug：判分器只读 FINAL ANSWER: 标记后的文本，200 个任务中位数只读 2,102 字符中的 433 字符，其中 +5.1 分的提升有 1.8 到 2.6 分来自这个 bug。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 复盘浏览器 Agent 提速的六个原因，30.7 秒降到 18.0 秒](<https://browser-use.com/posts/faster-browser-agent>)  
+  Browser Use 作者复盘自家浏览器 Agent 在 Google Flights 查最便宜三张机票耗时 30.7 秒、而本地 Chrome 同任务仅 17.6 秒的差距，找到六个原因，其中模型 service tier 和默认代理两个配置修复后就降到 20.7 秒。  
+  Browser Use · 2026-11-20 08:00
+
+- [Browser Use 解析浏览器 Agent 被拦截的四种原因及对应解法](<https://browser-use.com/posts/browser-agent-blocked>)  
+  Browser Use 分析浏览器 Agent 被拦截的四种原因：验证码、被封 IP、行为传感器标记和国家墙，各自需要不同解法。$100 赏金的可测 82 个站点中，7 个始终被拦且均为求解器不支持的验证码，6 个换用当地代理后放行；实测显示用 JavaScript 聚焦输入框在 11 次中 11 次被 Akamai 拦截，而真实鼠标点击 0 次被拦。  
+  Browser Use · 2026-11-20 08:00
+
+- [Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo>)  
+  Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
+  Latent Space · 2026-11-20 07:38
+
+- [Apple Developing AI Agent to Rival Meta and OpenAI](<https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai>)  
+  The Information · 2026-11-20 06:49
+
+- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
+  The Information · 2026-11-20 06:43
 
 - [Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million](<https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million>)  
   The Information · 2026-11-20 06:43
@@ -20,162 +174,4 @@
   Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U  
   TechCrunch · 2026-11-20 04:18
 
-- [Opinion \| No AI Company Is Too Big to Fail](<https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 03:35
-
-- [UndoGuard](<https://www.producthunt.com/products/undoguard>)  
-  The Ctrl+Z button for autonomous AI agents  
-  Product Hunt · English · 2026-11-20 03:15
-
-- [Meta Bets on $300 Muse Charm to Boost AI Hardware Business](<https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business>)  
-  The Information · 2026-11-20 03:11
-
-- [Anthropic’s IPO could deliver $156B to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
-  At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
-  TechCrunch · 2026-11-20 03:10
-
-- [Google gives Gemini the ability to use your Mac for you](<https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/>)  
-  Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multi  
-  TechCrunch · 2026-11-20 02:09
-
-- [Google 在 Gemini API 推出 Tool Retrieval 预览](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/>)  
-  Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。  
-  Google Blog：AI（RSS） · 2026-11-20 02:00
-
-- [Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says](<https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/>)  
-  In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advic  
-  TechCrunch · 2026-11-20 01:38
-
-- [The a16z FDE Fellowship is back](<https://www.a16z.news/p/the-a16z-fde-fellowship-is-back>)  
-  An eight-week cohort of FDE leaders from SpaceXSI, OpenAI, Harvey, and more  
-  a16z · 2026-11-20 01:26
-
-- [Meta rethinks climate goal as AI emissions soar 45%](<https://www.axios.com/2026/11/19/meta-ai-emissions-rise>)  
-  Meta's greenhouse gas emissions surged 45% last year amid its AI infrastructure boom, prompting the tech giant to rec…  
-  Axios · 2026-11-20 01:00
-
-- [Walter Isaacson on curiosity and creativity in the AI age.](<https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/>)  
-  Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in th…  
-  Google AI · 2026-11-20 01:00
-
-- [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](<https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>)  
-  Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.  
-  TechCrunch · 2026-11-20 00:59
-
-- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
-  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
-  Menlo Ventures · 2026-11-20 00:50
-
-- [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](<https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/>)  
-  In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless o  
-  TechCrunch · 2026-11-20 00:19
-
-- [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
-  Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
-  TechCrunch · 2026-11-19 22:54
-
-- [Stormi](<https://www.producthunt.com/products/stormi>)  
-  An AI team on your iPhone that does real work  
-  Product Hunt · English · 2026-11-19 20:24
-
-- [Rox](<https://www.producthunt.com/products/rox-2>)  
-  Your AI companion for living with chronic illness  
-  Product Hunt · English · 2026-11-19 20:00
-
-- [Tamekoshi](<https://www.producthunt.com/products/tamekoshi>)  
-  A Tamagotchi-style AI companion that does real work  
-  Product Hunt · English · 2026-11-19 19:38
-
-- [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
-  Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
-  IT桔子 · 2026-11-19 18:17
-
-- [AI's great divergence: Machines accelerate as makers unravel](<https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast>)  
-  Anthropic will make its Wall Street debut Thursday at a moment of profound contradiction in the history of AI: The hu…  
-  Axios · 2026-11-19 18:00
-
-- [Sensei Labs获得B轮融资](<https://www.itjuzi.com/investevent/14708306>)  
-  Sensei Labs是一家AI原生战略执行平台提供商，核心产品 Conductor。平台面向私募股权机构、大型企业转型与并购整合团队，将顶层战略目标与项目、依赖关系、KPI、收益追踪打通，用于管理数字化转型、并购整合、投后价值创造等…  
-  IT桔子 · 2026-11-19 17:58
-
-- [Ansa获得7150万美元C轮融资](<https://www.itjuzi.com/investevent/14708305>)  
-  Ansa是一家DNA合成技术服务商，核心技术是一种基于酶的新型DNA合成方法。近日，Ansa获得7150万美元C轮融资，Blue Water Life Science Advisors领投，Illumina Ventures、Agen…  
-  IT桔子 · 2026-11-19 17:54
-
-- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
-  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
-  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Palo Alto Networks斥资45亿美元收购Applied Compute](<https://www.itjuzi.com/merger/14596>)  
-  Applied Compute是一家企业级AI 基础设施公司，由三位前 OpenAI 研究员创立，专注于帮助企业基于自有数据训练和部署定制化开源 AI 模型。派拓网络（Palo Alto Networks）宣布，将斥资45亿美元收购A…  
-  IT桔子 · 2026-11-19 16:39
-
-- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
-  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
-  IT桔子 · 2026-11-19 16:18
-
-- [Humyn Labs获得2600万美元A轮融资](<https://www.itjuzi.com/investevent/14708279>)  
-  Humyn Labs是一家实体人工智能研究与部署服务商，自研双摄采集硬件与数据富集引擎，在工厂、家庭、农场等真实场景采集人类操作多模态行为数据，加工后供给机器人、VLA 模型、世界模型研发团队，同时提供机器人现场部署对照测试服务，形成…  
-  IT桔子 · 2026-11-19 16:11
-
-- [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
-  Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-19 16:00
-
-- [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>)  
-  Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance…  
-  OpenAI · 2026-11-19 16:00
-
-- [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
-  AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
-  20VC · 2026-11-19 15:07
-
-- [Ramon.Space获得1.24亿美元B轮融资](<https://www.itjuzi.com/investevent/14708250>)  
-  amon.Space 是 一家太空计算解决方案提供商，自研软件定义抗辐射计算平台，搭载 Manycore ML/AI/DSP 处理器，为卫星、通信星座、深空探测任务提供星上处理、存储、通信与边缘 AI 能力，产品包括机载处理器 OBP…  
-  IT桔子 · 2026-11-19 15:02
-
-- [PH今日热榜 \| 2026-11-19](<https://decohack.com/producthunt-daily-2026-11-19/>)  
-  S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
-  Product Hunt 中文 · DecoHack · 2026-11-19 15:00
-
-- [Arborum获得种子前轮融资](<https://www.itjuzi.com/investevent/14708243>)  
-  Arborum是一家电网 AI 科技研发商，面向电力电网、通信网络等关键基础设施构建 AI 世界模型，学习网络内部因果逻辑，可完成故障根因定位、运行场景模拟、运维动作建议，覆盖需求预测、电网优化、停电管理、网络故障排查等场景，电信复杂…  
-  IT桔子 · 2026-11-19 14:34
-
-- [Fermat获得800万美元种子轮融资](<https://www.itjuzi.com/investevent/14708241>)  
-  Fermat 是一家时尚行业 AI 平台开发商，打造时尚垂直生成式 AI 工具层，内置 50 + 设计、视觉、生产对接工具，支持草图转效果图、面料替换、虚拟模特穿搭、营销素材生成，并通过 Techpacks 功能将设计稿直接转化为工厂…  
-  IT桔子 · 2026-11-19 14:27
-
-- [Alpine获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708238>)  
-  Alpine是一家保险科技研发商，定位新型特种险管理总代理（MGA）。公司从 0 搭建自研 Summit 核保平台，原生融合 AI 辅助能力与资深核保专家判断，可完成投保材料结构化、风险数据富集、报价建议输出全流程，初期聚焦工匠承包商…  
-  IT桔子 · 2026-11-19 14:17
-
-- [InteraOne](<https://www.producthunt.com/products/interaone>)  
-  Open-source Intercom &amp; Zendesk alternative with AI agents  
-  Product Hunt · English · 2026-11-19 14:13
-
-- [Storipod获得战略投资](<https://www.itjuzi.com/investevent/14708229>)  
-  Storipod是一家叙事内容创作与分发平台，面向非洲作家、出版社、影视工作室与品牌，搭建覆盖内容入库、版权管控、多端分发、商业化变现的一体化基础设施，支持图书、连载故事、漫画等故事类 IP 运营，自研 AI 语音朗读与推荐匹配能力，…  
-  IT桔子 · 2026-11-19 14:01
-
-- [镁伽完成近2亿美元新一轮融资](<https://www.itjuzi.com/investevent/14708194>)  
-  镁伽科技是中国机器人技术应用领域领先的自主智能体（Autonomous agents）提供商，致力于为智慧实验室与智能制造场景提供全面的自主智能体及多智能体解决方案。我通过高度智能化的软硬件系统，推动行业加速迈向高效、精准、可持续的智…  
-  IT桔子 · 2026-11-19 13:36
-
-- [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
-  无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
-  IT桔子 · 2026-11-19 11:15
-
-- [Zethos](<https://www.producthunt.com/products/zethos>)  
-  The ledger you and your AI work from  
-  Product Hunt · English · 2026-11-19 08:53
-
-- [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)  
-  Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging t  
-  TechCrunch · 2026-11-19 08:42
-
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 12 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 11 页
