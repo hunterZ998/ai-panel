@@ -2,18 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · 第 3 / 3 页
 
-- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](<https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/>)  
-  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
-  TechCrunch · 2026-11-06 23:54
-
-- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
-  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
-  晚点聊 · 2026-11-06 09:30
-
-- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
-  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
-  晚点聊 · 2026-11-06 09:30
-
 - [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
   Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
   SemiAnalysis · 2026-11-06 03:03

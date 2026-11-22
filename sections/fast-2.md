@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 37 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 36 页
+
+- [MCP Events 让 agent 被外部事件叫醒 MCP 原本是请求驱动的：模型问一句，服务器答一句。11 月，Eve…](<https://x.com/yibie/status/2124292373140345085>)  
+  已有的 resources/updated  
+  @yibie · 2026-11-22 08:02
+
+- [USCが人型ロボットUnitree G1をチームで動かす研究「Heave-Ho」を公開。2体で学習しただけで最大10体まで…](<https://x.com/masahirochaen/status/2124292316823441807>)  
+  ロボット同士は通信せず、リーダーの声の合図をマイクで聞いて動く仕組み。動きが速くなれば物流でも活躍しそう。 ・12タスクの平均成功率94.41% ・実機テストは100回中92回成功  
+  @masahirochaen · 2026-11-22 08:02
+
+- [OpenAI 发布防范模型蒸馏的新研究：蒸馏可以复现强模型的能力，却不含围绕这些能力构建的安全防护；他们称正在检测和阻止有…](<https://x.com/DanielM19261059/status/2124292289422070253>)  
+  OpenAI 发布防范模型蒸馏的新研究：蒸馏可以复现强模型的能力，却不含围绕这些能力构建的安全防护；他们称正在检测和阻止有组织的蒸馏尝试。做 AI 应用和小模型的团队要注意：靠搬运别人模型能力省下来的推理费，后面可能要拿合规和风控换回来。  
+  @DanielM19261059 · 2026-11-22 08:02
 
 - [Spun up 4 parallel coding agents in Git worktrees to crush a backlog.](<https://x.com/PatchOnChain/status/2124292216281768368>)  
   Got 3 torn index.locks, 60GB of phantom node\_modules, and edits bleeding into main. Worktrees isolate disk, not agent perception. The Worktree Desync Trap:  
@@ -164,16 +176,4 @@
   HYSEN SI's approach to separate workspaces, approved data, human review and audit logs is a step toward more responsible AI. Excited to  
   @musa6773mia · 2026-11-22 07:36
 
-- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124285836598353952>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Do not go down in history. Spread the awareness. Securing software with more software and expecting a  
-  @adomita360 · 2026-11-22 07:36
-
-- [The highest-leverage security step for agent and MCP work is not another policy document.](<https://x.com/DAssetBuzz/status/2124285792357163423>)  
-  It is a read-only scan that actually maps the attack surface. Daniel San’s vulnerability-scanner skill does exactly that: Maps trust boundaries and exposed surfaces Flags prompt injection  
-  @DAssetBuzz · 2026-11-22 07:36
-
-- [OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思い…](<https://x.com/AIBVOTE/status/2124285634680705297>)  
-  OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思いますが、企業は金にならないことはやらない。つまり、フロンティアAIで最も稼げる分野になり得るということかな？  
-  @AIBVOTE · 2026-11-22 07:35
-
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 37 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 36 页

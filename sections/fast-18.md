@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 37 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 36 页
+
+- [Anthropicの数学者Levent Alpögeが「Claudeと一緒にリーマン予想を証明したと信じている（I bel…](<https://x.com/hyuki/status/2123850921885192624>)  
+  Anthropicの数学者Levent Alpögeが「Claudeと一緒にリーマン予想を証明したと信じている（I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.）」と発表した4ペ…  
+  @hyuki · 2026-11-21 02:48
+
+- [The full quote from the Anthropic safeguards researcher is "pretty much all humans on Earth will become permanently…](<https://x.com/davenewworld_2/status/2123850753408123364>)  
+  The full quote from the Anthropic safeguards researcher is "pretty much all humans on Earth will become permanently unemployable and will need to strictly rely on government welfare"  
+  @davenewworld\_2 · 2026-11-21 02:47
 
 - [The board did this.](<https://x.com/LinusEkenstam/status/2123848912029274358>)  
   They did not act in the shareholders best interest. Very clear at this point. As a shareholder, I want to vote on the dismissal of the entire board and reinstate Jensen Huang.  
@@ -166,11 +174,4 @@
   This is where MiniMax H3 Image comes in handy. @MiniMax\_AI Clean product visuals, sharp 4K details, and a new image in about 10 seconds. Oh, and 4K generation is 50% off. Sellers might actually catch  
   @frankzaga24 · 2026-11-21 01:30
 
-- [Meet Higgsfield GPU Harness in Claude.](<https://x.com/higgsfield_ai/status/2123831379825967126>)  
-  Rent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight models and train LoRAs. Run multiple AI agents work on your professional apps in the cloud at once, from any device. Black Friday deal, live now: get up to 63%  
-  @higgsfield\_ai · 2026-11-21 01:30
-
-- [The Nvidia board should be sued](<https://x.com/skscartoon/status/2123831150489805080>)  
-  @skscartoon · 2026-11-21 01:29
-
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 37 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 36 页

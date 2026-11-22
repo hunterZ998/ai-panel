@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 37 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 36 页
+
+- [Meet Higgsfield GPU Harness in Claude.](<https://x.com/higgsfield_ai/status/2123831379825967126>)  
+  Rent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight models and train LoRAs. Run multiple AI agents work on your professional apps in the cloud at once, from any device. Black Friday deal, live now: get up to 63%  
+  @higgsfield\_ai · 2026-11-21 01:30
+
+- [The Nvidia board should be sued](<https://x.com/skscartoon/status/2123831150489805080>)  
+  @skscartoon · 2026-11-21 01:29
 
 - [Edge now ships Aion Instruct, a 2.3B MIT-licensed model, as its built-in local LLM \(bye Phi-4-mini\).](<https://x.com/IzumaNetworks/status/2123830559642407032>)  
   Best part is the Decisions API: ask yes/no, multiple choice or a 1-5 score, get probabilities back in one pass with no text gen. Cheap on-device AI  
@@ -168,11 +175,4 @@
   He didn't sugarcoat it. "AI can already do the job of a junior lawyer. A junior financial analyst. A junior consultant." "It will eliminate jobs. Probably a lot of them." Then he gave his  
   @cyrilXBT · 2026-11-21 00:11
 
-- [The Pittsburgh Zoo &amp;amp; Aquarium is mourning the loss of Snowflake, its beloved 30-year-old polar bear. 💔](<https://x.com/PittsburghMag/status/2123810490052755921>)  
-  @PittsburghMag · 2026-11-21 00:07
-
-- [Dario Amodei’s Anthropic just went public on Nasdaq.](<https://x.com/RabbiJeffx/status/2123810227946709002>)  
-  This is so fucking disturbing.  
-  @RabbiJeffx · 2026-11-21 00:06
-
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 37 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 36 页

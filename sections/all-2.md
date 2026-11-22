@@ -2,16 +2,67 @@
 
 [返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 11 页
 
+- [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](<https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/>)  
+  An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question th  
+  TechCrunch · 2026-11-22 00:00
+
+- [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
+  The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
+  The Verge：AI（RSS） · 2026-11-21 23:00
+
+- [Wall Street Confronts AI Reality Check](<https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video>)  
+  Bloomberg · 2026-11-21 22:50
+
+- [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
+  Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
+  20VC · 2026-11-21 22:50
+
+- [Chess.com 推出 Classic Games 平台，上线麻将、数独等 10 款经典游戏](<https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai>)  
+  Chess.com 正式公测 Classic Games 平台，在网页端及 iOS、Android 新应用上线麻将、数独、围棋、象棋、跳棋等 10 款经典游戏。每款游戏均配备课程、排行榜和评分系统，多人游戏支持对战玩家或沿用 Chess.com 的机器人角色。该平台由不到公司 1% 的团队借助 AI 加速编码在数月内完成，美术与设计仍由人工完成。  
+  The Verge：AI（RSS） · 2026-11-21 22:00
+
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol 的新提示词指南，修正简短回答与多余提问](<https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/>)  
+  OpenAI 为 11 月 17 日发布的 GPT-6.2 Astra 和 Sol 公布了一套可直接复制的提示词模板，覆盖写作风格、主动性和编码，并建议迁移的开发者重新审视系统提示词。  
+  The Decoder：AI News（RSS） · 2026-11-21 21:32
+
+- [WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去](<https://36kr.com/p/4079476599772038?f=rss>)  
+  “在行动和言说中，人们表明了他们是谁。” 汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。 2026年，这些词正在落到具体的人身上。 创业者带着各自的技术  
+  36氪 · 2026-11-21 20:44
+
+- [欧洲央行行长拉加德呼吁欧盟用公共资金为芯片厂和数据中心承担首轮损失](<https://www.ithome.com/1/030/472.htm>)  
+  欧洲央行行长拉加德 11 月 20 日在法兰克福欧洲银行业大会发表卸任前最后一次演讲，呼吁欧盟利用包括欧盟预算在内的公共资金，在大型芯片制造厂和数据中心项目中率先承担首轮损失，通过跨区域公私合作伙伴关系吸引私人资本。  
+  IT之家·人工智能 · 2026-11-21 20:36
+
+- [Thinking Machines 发布开源循环 MoE 模型 Inkling 2 Mini，26.4B 参数可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、激活 3.4B，中间层权重每 token 复用 3 次，checkpoint 约 20GB，可在 32GB 内存 Mac 或 1 台 NVIDIA DGX Spark 上运行。  
+  MarkTechPost（RSS） · 2026-11-21 20:13
+
+- [OpenAI 在 API 上线 GPT-Live-1.1 语音模型，闲置成本降至 $0.02/分钟](<https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/>)  
+  OpenAI 将全双工语音模型 GPT-Live-1.1 开放进 API（模型 ID gpt-live-1.1），默认 128K 上下文，仅限 OpenAI 云端通过 v1/live/sessions 部署，客户端经 WebRTC 或 WebSocket 连接。  
+  MarkTechPost（RSS） · 2026-11-21 19:46
+
+- [2026年了，AI能有什么用？](<https://www.tmtpost.com/8213527.html>)  
+  AI能批量生成，不等于能出彩  
+  钛媒体 · 2026-11-21 19:21
+
+- [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](<https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/>)  
+  Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。  
+  The Decoder：AI News（RSS） · 2026-11-21 19:19
+
+- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
+  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
+  The a16z Show · 2026-11-21 19:00
+
+- [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
+  Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
+  The Decoder：AI News（RSS） · 2026-11-21 18:33
+
+- [美股科技股遭遇疫情以来最差单周表现，Nasdaq 100 周跌 10.4%](<https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/>)  
+  美国科技股大跌，Nasdaq 100 周五下跌 5.6%，全周累计下跌 10.4%，为新冠疫情以来最差单周表现，较 10 月高点回落 20% 进入熊市区间。  
+  The Decoder：AI News（RSS） · 2026-11-21 18:27
+
 - [China Plans to Strengthen AI Token Standards in Computing Push](<https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push>)  
   Bloomberg · 2026-11-21 18:11
-
-- [华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等](<https://www.ithome.com/1/030/423.htm>)  
-  IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大…  
-  IT之家 · 2026-11-21 17:57
-
-- [美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”](<https://www.ithome.com/1/030/421.htm>)  
-  IT之家 11 月 21 日消息，据英国《卫报》报道，美国参议员罗恩 · 怀登、埃德 · 马基和本 · 卢汉指出，苹果和谷歌未能有效识别或下架用于生成未经当事人同意的裸照或色情图像的应用。 三人还指出，Meta 仍在从这些所谓的 AI…  
-  IT之家 · 2026-11-21 17:22
 
 - [字节跳动称多数 AI 训练阶段并非必要，并以一个有竞争力的开源模型佐证](<https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/>)  
   字节跳动联合多所美国高校发表论文，主张 AI 模型训练只需三个步骤即可，无需堆叠众多训练阶段。研究团队用一个具备竞争力的开源模型验证了这一观点。论文指出，当前训练流程层层嵌套，已难以判断哪一步真正有效，且复现成本高昂。  
@@ -20,21 +71,9 @@
 - [How AI Is Reshaping China's Industrial Policy](<https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video>)  
   Bloomberg · 2026-11-21 17:12
 
-- [代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知](<https://www.ithome.com/1/030/419.htm>)  
-  IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载…  
-  IT之家 · 2026-11-21 16:53
-
 - [国家数据局：将拓展词元服务应用场景，健全词元计量计费与质量测评标准](<https://www.ithome.com/1/030/418.htm>)  
   国家数据局局长刘烈宏在 2026 世界计算大会开幕式上表示，词元打通了算力、模型、数据间的价值传导链路，成为数智经济的价值锚点。下一步国家数据局将积极拓展词元服务应用场景，健全词元计量计费、质量测评等标准规范，引导行业规范发展，坚决避免低质量重复建设。  
   IT之家·人工智能 · 2026-11-21 16:51
-
-- [蔚来官宣 NWM 3.0 世界模型，11 月 25 日在 NIO IN 2026 蔚来创新科技日发布](<https://www.ithome.com/1/030/410.htm>)  
-  IT之家 11 月 21 日消息，蔚来今日宣布，在即将于 11 月 25 日举办的 NIO IN 2026 蔚来创新科技日上， 将正式发布 NWM 3.0 世界模型 。 官方表示，NWM 3.0 将会在 模型架构、闭环训练、跨域融合…  
-  IT之家 · 2026-11-21 16:33
-
-- [马化腾第四次改腾讯AI航道](<https://www.tmtpost.com/8213477.html>)  
-  老板得付第一责任  
-  钛媒体 · 2026-11-21 15:55
 
 - [29岁，一位字节女将爆红](<https://36kr.com/p/4079215849673865?f=rss>)  
   天才少女的故事轮到了字节。 曾妍，字节Seed团队中一位几乎没有公开露面的研究员。她生于1997年，现在是Seedance预训练负责人，主导Seedance 2.0预训练管线。这几天盛传，曾妍晋升为Seedance核心的管理者，从Seed视  
@@ -63,36 +102,9 @@
   据 Business Insider 报道，Anthropic 上市后通过特殊股权设计，让包括 CEO Dario Amodei 在内的 7 位联合创始人共同掌握 50.1% 股东投票权。  
   IT之家·人工智能 · 2026-11-21 13:14
 
-- [锡价一周跌超10%，全球突然不缺锡了？](<https://www.tmtpost.com/8213240.html>)  
-  印尼矿业政策再添变数，产能恢复与AI需求预期分歧扰动锡价。  
-  钛媒体 · 2026-11-21 13:05
-
-- [东南亚AI中间商之死](<https://www.tmtpost.com/8213274.html>)  
-  算力中间商的淘金时代，结束了。  
-  钛媒体 · 2026-11-21 13:05
-
-- [Seedance、MiniMax和Qwen image修改能力测试：3轮连改，谁更好用？](<https://www.tmtpost.com/8213159.html>)  
-  看看谁更听指挥  
-  钛媒体 · 2026-11-21 13:05
-
 - [Anthropic 数学家 Levent Alpöge 声称与 Claude 合作证明黎曼猜想，同日现独立人类证明](<https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/>)  
   Latent Space 汇总报道，Anthropic 数学家 Levent Alpöge 声称在与 Claude 合作下证明黎曼猜想，方法还覆盖广义黎曼猜想（GRH），仅发布 Lean 代码，散文版约 250,000 页；Elliot Glazer 确认形式化陈述为 GRH，并将 Lean 出错概率估计远低于 1%。  
   Latent Space（RSS） · 2026-11-21 13:02
-
-- [阿里云，开始赚AI的钱了](<https://www.tmtpost.com/8213152.html>)  
-  钛媒体 · 2026-11-21 12:44
-
-- [从《权游》到《三体》，从实体模型到AI，这位参与20000个视效镜头的大师，道出特效的终极秘密](<https://www.tmtpost.com/8213050.html>)  
-  他的职业生涯，就是现代视觉特效史的缩影  
-  钛媒体 · 2026-11-21 12:44
-
-- [清析智研王欢：大模型学完了人类知识，下一步去哪儿？](<https://www.tmtpost.com/8213250.html>)  
-  AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？  
-  钛媒体 · 2026-11-21 12:44
-
-- [AI硬件离开手机以后，先遇到了人的限制](<https://www.tmtpost.com/8213070.html>)  
-  能力边界的变化，让硬件公司开始重新估算人的时间价值。过去产品争夺用户停留，新的设备反而需要证明自己在减少停留。  
-  钛媒体 · 2026-11-21 12:14
 
 - [深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元](<https://36kr.com/p/4078935983182722?f=rss>)  
   智东西11月21日消息，一夜之间，美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%，Anthropic暴跌9%，甲骨文、SpaceX、特斯拉暴跌8%，M  
@@ -157,9 +169,6 @@
   Anthropic 技术团队成员 Tao Lin 在 11 月 15 日接受 Palisade Research 采访时预测，约 1.3 年后即 2027 年底，AI 将在编程、电影制作等几乎所有领域媲美或超过顶尖人类专家，几乎所有人可能长期失业并依赖政府福利。  
   IT之家·人工智能 · 2026-11-21 08:53
 
-- [Anthropic Researcher Claims to Solve Riemann Problem With Claude](<https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude>)  
-  Bloomberg · 2026-11-21 08:17
-
 - [OpenAI 推出 MedChemBench 基准，评估 AI 辅助药物研发能力](<https://www.ithome.com/1/030/301.htm>)  
   OpenAI 发布 MedChemBench 基准，用 99 道取自 117 篇论文与专利、涉及 761 个分子结构的题目评估 AI 的药物化学推理能力。在 xhigh 推理档下，GPT-6.2 Astra 获 84.5% 可用分数，GPT-6 Astra 为 83.3%，GPT-6.1 Sol 为 82.0%，GPT-5.6 Sol 仅 58.2%。  
   IT之家·人工智能 · 2026-11-21 08:06
@@ -167,13 +176,5 @@
 - [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
   Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
   Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
-
-- [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
-  Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
-  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
-
-- [Amp 为 Puck 推出车载模式，支持开车时语音对话](<https://ampcode.com/news/puck-in-the-car>)  
-  Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
-  Amp Chronicle · 2026-11-21 08:00
 
 [返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 11 页

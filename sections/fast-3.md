@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 37 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 36 页
+
+- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124285836598353952>)  
+  ARK provides AI security at the energy level, for every model, where software cannot reach. Do not go down in history. Spread the awareness. Securing software with more software and expecting a  
+  @adomita360 · 2026-11-22 07:36
+
+- [The highest-leverage security step for agent and MCP work is not another policy document.](<https://x.com/DAssetBuzz/status/2124285792357163423>)  
+  It is a read-only scan that actually maps the attack surface. Daniel San’s vulnerability-scanner skill does exactly that: Maps trust boundaries and exposed surfaces Flags prompt injection  
+  @DAssetBuzz · 2026-11-22 07:36
+
+- [OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思い…](<https://x.com/AIBVOTE/status/2124285634680705297>)  
+  OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思いますが、企業は金にならないことはやらない。つまり、フロンティアAIで最も稼げる分野になり得るということかな？  
+  @AIBVOTE · 2026-11-22 07:35
 
 - [TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test e…](<https://x.com/Romka2x/status/2124285584080580708>)  
   TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test exposes a false emergency response from AI glasses, Signal restricts AI screen access, and researchers test AI for spelling and urgent  
@@ -165,16 +177,4 @@
   แววตาคนเขินตอนโดนพูดเรื่องของขวัญ..เสียอาการจนต้องถามว่า “ มะฟอกซ์อยากมีน้องไหมลูกกกกก ” 👀🤣55555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
   @mnpsst12 · 2026-11-22 01:19
 
-- [How do you expect me to be normal when right after this, Book literally asked about having another baby with him?](<https://x.com/cry4fb/status/2124190610479370424>)  
-  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @cry4fb · 2026-11-22 01:18
-
-- [BREAKING: Former NVIDIA CEO Jensen Huang reportedly used to tap employees on the opposite shoulder and pretend he h…](<https://x.com/dogeofficialceo/status/2124190126222057865>)  
-  BREAKING: Former NVIDIA CEO Jensen Huang reportedly used to tap employees on the opposite shoulder and pretend he had no idea who did it.  
-  @dogeofficialceo · 2026-11-22 01:16
-
-- [🍅 เสียงมาฟ้อกเบามั้ยทุกคน ได้ยินมั้ย 🍼 ฮาโหลล 🦊 ฟ้อกกดไมค์เข้าไปหน่อย มันติดเหนียงนิดนึงลูก 🍅 ฟ้อกอย่าใช้คางพูดลูก…](<https://x.com/_itsmeworjor/status/2124189421700628783>)  
-  🍅 เสียงมาฟ้อกเบามั้ยทุกคน ได้ยินมั้ย 🍼 ฮาโหลล 🦊 ฟ้อกกดไมค์เข้าไปหน่อย มันติดเหนียงนิดนึงลูก 🍅 ฟ้อกอย่าใช้คางพูดลูก ใช้ปาก 🍼 \(ยื่นไมค์ให้ถึงปาก\) ฟ้อกเป็นเด้กตลก ยายขำจะตราย5555555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBud…  
-  @\_itsmeworjor · 2026-11-22 01:13
-
-[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 37 页
+[返回面板](../README.md) · [上一页](fast-2.md) · [下一页](fast-4.md) · 第 3 / 36 页

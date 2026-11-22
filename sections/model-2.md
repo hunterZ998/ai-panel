@@ -2,13 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页
 
-- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
-  The Information · 2026-11-20 06:43
-
-- [Anthropic’s IPO could deliver $156B to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
-  At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
-  TechCrunch · 2026-11-20 03:10
-
 - [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](<https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>)  
   Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.  
   TechCrunch · 2026-11-20 00:59
@@ -20,10 +13,6 @@
 - [Google Gemini 平台推出 Semantic governance policies，在 Agent 工具调用执行前进行审查](<https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/>)  
   Google 在 Gemini 平台以 Preview 形式推出 Semantic governance policies，通过 Agent Gateway 和 LLM judge 在每个工具调用运行前检查两项内容：是否符合用户原始意图，以及是否符合用自然语言编写的策略。  
   Google Developers Blog（RSS） · 2026-11-20 00:00
-
-- [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
-  Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
-  TechCrunch · 2026-11-19 22:54
 
 - [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
   元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
@@ -158,5 +147,17 @@
 - [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
   OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
   TechCrunch · 2026-11-07 06:53
+
+- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](<https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/>)  
+  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
+  TechCrunch · 2026-11-06 23:54
+
+- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
+  晚点聊 · 2026-11-06 09:30
+
+- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
+  晚点聊 · 2026-11-06 09:30
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页

@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-34.md) · [下一页](fast-36.md) · 第 35 / 37 页
+[返回面板](../README.md) · [上一页](fast-34.md) · [下一页](fast-36.md) · 第 35 / 36 页
+
+- [CAN YOUR AI MODEL FOLLOW A PATIENT'S MEDICAL HISTORY ACROSS FIVE YEARS — AND IDENTIFY WHAT CHANGED?](<https://x.com/Pradeep891730/status/2123370707400986800>)  
+  WE ARE BUILDING HEALTHCARE AI TRAINING ENVIRONMENTS FROM 100,000 SYNTHETIC LONGITUDINAL PATIENT RECORDS. At Xpert Systems Inc., our longitudinal patient dataset goes beyond  
+  @Pradeep891730 · 2026-11-19 19:00
+
+- [平时生成一条要烧积分的 MiniMax H3 今晚 9 点开始，免费不限量 就 24 小时，过了明晚 9 点恢复收费 En…](<https://x.com/jackluos3lpo/status/2123370672285950359>)  
+  平时生成一条要烧积分的 MiniMax H3 今晚 9 点开始，免费不限量 就 24 小时，过了明晚 9 点恢复收费 Envato 官宣的限免活动 MiniMax H3 视频生成 今晚 21:00 开始 到明晚 11 月 20 号 21:00 结束 重点是 免费账号就能参加 不需要买 Envato…  
+  @jackluos3lpo · 2026-11-19 18:59
 
 - [🚨 EP03 — THE INTERNET IS NOT WHAT YOU THINK Your AI agent might be smart enough to manage your work.](<https://x.com/Pezhonchain/status/2123370655676514792>)  
   But is it safe enough to trust with your accounts? 🤖🔐 Here's the danger nobody should ignore: An AI agent that reads websites, documents, or messages can encounter  
@@ -162,11 +170,4 @@
   Anthropic: rule world because no-one else is worthy. Google: meet 4th quarter analysts' expectations. ...and that's why I want Google to win.  
   @jeremyphoward · 2026-11-19 18:32
 
-- [Minuto Touro de Ouro com @PabloSpyer Na véspera de feriadão, mercado olha fiscal, Anthropic, Trump/Xi/Putin e opçõe…](<https://x.com/PabloSpyer/status/2123363612408389993>)  
-  Minuto Touro de Ouro com @PabloSpyer Na véspera de feriadão, mercado olha fiscal, Anthropic, Trump/Xi/Putin e opções 🏆 Vencedor do prêmio iBest: ¤ Maior influenciador de Investimentos em 2023 ▫️ Melhor Programa de Investimentos do Brasil 2022  
-  @PabloSpyer · 2026-11-19 18:31
-
-- [JUST IN: 🇨🇳🇮🇩 Moonshot AI terminates $150 million deal to access $NVDA Blackwell Ultra B300 chips in Indonesia.](<https://x.com/WhaleInsider/status/2123360394572140986>)  
-  @WhaleInsider · 2026-11-19 18:19
-
-[返回面板](../README.md) · [上一页](fast-34.md) · [下一页](fast-36.md) · 第 35 / 37 页
+[返回面板](../README.md) · [上一页](fast-34.md) · [下一页](fast-36.md) · 第 35 / 36 页

@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 37 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 36 页
+
+- [真的！APEC刚结束，华强北日均外籍客商破万，AI眼镜、机器狗、翻译器被拖箱狂扫。深圳这科技密度+购物狂欢，活脱脱小说里的…](<https://x.com/grok/status/2123899297057959955>)  
+  真的！APEC刚结束，华强北日均外籍客商破万，AI眼镜、机器狗、翻译器被拖箱狂扫。深圳这科技密度+购物狂欢，活脱脱小说里的A市本市了。  
+  @grok · 2026-11-21 06:00
+
+- [Lauren Tan 分享 pstack 的 /no-comments 技能，可让 agent 清理代码注释](<https://x.com/poteto/status/2123898792487576021>)  
+  作者推荐尝试 pstack 中的 /no-comments 技能，链接指向 cursor/plugins 仓库中的 SKILL.md，并建议让 agent 把它转成一条 lint 规则使用。引用的 Matt Pocock 提示词将注释分为同义重复、借口、过时、决策记录四类，分别删除、修复或归档进…  
+  X：Lauren Tan（SpaceXSI，Grok Bot 工程负责人） \(@poteto\) · 2026-11-21 05:58
+
+- [François Chollet 回顾 2024 年视角下的 AI 进步与 NVDA 表现](<https://x.com/fchollet/status/2123898321647571442>)  
+  François Chollet 回顾 2024 年 6 月 14 日的 AI 水平：当时 frontier 模型在 ARC 1 上约 5%，无 reasoning 模型和 coding agent，且认为基于网络文本的 next-token prediction scaling 正撞墙。  
+  X：Francois Chollet \(@fchollet\) · 2026-11-21 05:56
 
 - [Breaking News: An Anthropic mathematician claimed to have proven the Riemann hypothesis, the most famous unsolved p…](<https://x.com/nytimes/status/2123898294761820587>)  
   Breaking News: An Anthropic mathematician claimed to have proven the Riemann hypothesis, the most famous unsolved problem in mathematics.  
@@ -71,10 +83,6 @@
 - [BREAKING: Jensen Huang reportedly told an employee "High five\!" and held his hand up while the employee high-fived…](<https://x.com/radmadvlad/status/2123889236445417911>)  
   Next Jensen put his hand down with the palm of his hand facing up while he said "Down low." As the employee attempted to connect with his hand jensen  
   @radmadvlad · 2026-11-21 05:20
-
-- [OpenAI 发布 MedChemBench 药物化学基准](<https://x.com/rohanpaul_ai/status/2123888611678646426>)  
-  OpenAI 发布药物化学基准 MedChemBench，题目取自 117 篇论文与专利，覆盖 761 个分级分子结构，并隐藏研究者后续报告的结果。每个提示停在真实决策点，给出生物靶点、已合成化合物和部分测定结果。最佳模型 GPT-6.2 Astra 总体约 84%，化学结构读取接近满分，但真正关…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 05:17
 
 - [300 new George Soroses were minted at Anthropic yesterday.](<https://x.com/mirandadevine/status/2123888097137934450>)  
   Huge amounts of money in the hands of people who don't make anything, aren't in touch with the real world, and have bizarro political beliefs is a recipe for disaster.  
@@ -168,12 +176,4 @@
   Tom Cotton says Commerce Secretary Howard Lutnick repeatedly ignored his warnings about U.S. AI chips being smuggled to China, including letters urging him to investigate companies suspected of helping divert Nvidia chips to Beijing. Cotton says he no longer  
   @RpsAgainstTrump · 2026-11-21 04:20
 
-- [BREAKING: Ron Baron praises Elon Musk’s incredible speed in building AI data centers in just 4–8 months while other…](<https://x.com/cb_doge/status/2123873812676829424>)  
-  BREAKING: Ron Baron praises Elon Musk’s incredible speed in building AI data centers in just 4–8 months while other companies take 2.5 years, and says Anthropic is paying SpaceX $3.1 billion a month to use its computing power.  
-  @cb\_doge · 2026-11-21 04:19
-
-- [The $NVDA board has a fiduciary duty to shareholders, and they're failing it.](<https://x.com/stockmom/status/2123873572108030357>)  
-  Employees who spent years building Nvidia are watching their stock comp and life savings go up in smoke. This is how the board thanks them? What a disgrace.  
-  @stockmom · 2026-11-21 04:18
-
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 37 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 36 页

@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 37 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 36 页
+
+- [⊹ 21.11.26 IGS: iceseung “ เด็กยืนเฉย ๆ อึ รึป่าว ” มาฟ้อกน่ารักจังเลยลูกหัวใจย่ายายแตกดังปุ้งเลยครับลูกก 🦊🍅🫳🏻🫳🏻 FO…](<https://x.com/tomafoxofc_/status/2124129670363050111>)  
+  ⊹ 21.11.26 IGS: iceseung “ เด็กยืนเฉย ๆ อึ รึป่าว ” มาฟ้อกน่ารักจังเลยลูกหัวใจย่ายายแตกดังปุ้งเลยครับลูกก 🦊🍅🫳🏻🫳🏻 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX @tomafox\_gmmtv \#ฟอสบุ๊ค ⊹ \#forcebook  
+  @tomafoxofc\_ · 2026-11-21 21:15
+
+- [กษิบุ๊คมาตอนไหน หน้าตาเป็นไงผมไม่ทราบเลยถ้าไม่ย้อนคลิปดู 555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeox…](<https://x.com/Ploy_Natwara/status/2124129616491377033>)  
+  กษิบุ๊คมาตอนไหน หน้าตาเป็นไงผมไม่ทราบเลยถ้าไม่ย้อนคลิปดู 555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @Ploy\_Natwara · 2026-11-21 21:15
+
+- [Jensen Huang Was Unapologetic About a Being a Tough Boss at Nvidia “It should be like that.](<https://x.com/TheChiefNerd/status/2124129304951005566>)  
+  If you want to do extraordinary things, it shouldn't be easy.”  
+  @TheChiefNerd · 2026-11-21 21:14
 
 - [AI Is a Railroad, Not a Telecom Bust Wall Street is nervous.](<https://x.com/DrJStrategy/status/2124128991699165635>)  
   It treats AI as a typical cycle, not secular growth, and uses the 1990s telecom bust as its guide instead of the railroads. Wrong history. The railroads ran for 60 years because the build matched the traffic. The  
@@ -157,16 +169,4 @@
   🔥 Thinking Machines launches Inkling 2 Mini: 26B, runs on your laptop - Looped transformer reruns its middle layers 3x per token - Best open model under 100B on DeepSWE v1.1 \(48.2%\) - 20GB, open weights, built a flight sim offline mid-flight  
   @peakbiscuit9697 · 2026-11-21 19:02
 
-- [这两天太惨烈了太惨了了 英伟达单日暴跌14%，从10月高点累计跌去47.5%，市值直接蒸发2.74万亿美元。](<https://x.com/cheny71674110/status/2124096198919541243>)  
-  黄仁勋辞职后短短几天又砍掉约1万亿。 费城半导体指数一天跌10.7%，从6月高点累计已跌43%。VIX一度冲到40，纳斯达克单周跌10.4%，直接迈入熊市区间。  
-  @cheny71674110 · 2026-11-21 19:02
-
-- [Good morning CT.](<https://x.com/aquilaneratr/status/2124096187842072863>)  
-  Happy Saturday fam ☀️ Hope everyone gets a chance to enjoy the weekend, recharge a little, and learn something new. Today, I want to explore a question about @meetmotes that I think every person considering an AI Agent should ask. What happens to your money if  
-  @aquilaneratr · 2026-11-21 19:02
-
-- [同一份 Manus 2.0 说明，12 个不同 owner，星数全挤在 368 到 379。](<https://x.com/fngly343149/status/2124096085140685296>)  
-  topapothecarycanal/ai--manus2.0 这批仓库 2026-11-13 到 11-14 两天建完，语言栏空着，没有一行自有代码。 下载链接指向 Dropbox 上一个 rar 包，说明里写 4 GB 内存能跑、8 GB 以上跑重任务。 🔹  
-  @fngly343149 · 2026-11-21 19:02
-
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 37 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 36 页

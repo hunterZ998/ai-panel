@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 37 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 36 页
+
+- [Daily Tech Digest \| November 20, 2026 Anthropic IPO closes at $93.5B — Greenshoe exercised in full for a record $93…](<https://x.com/SexyTechNews/status/2123927742081380682>)  
+  AMD's China problem — A Hunterbrook short-seller report sinks the stock 8 percent; hours later  
+  @SexyTechNews · 2026-11-21 07:53
+
+- [Tools for people building with AI agents is my lane too.](<https://x.com/itachia2uv/status/2123927727380304144>)  
+  I'm working on agent safety tools like prompt-injection evals. Curious what Knowns handles that a plain notes file doesn't?  
+  @itachia2uv · 2026-11-21 07:53
+
+- [A model that scores 79% on SWE-bench Verified now runs on a 32gb Mac Thinking Machines released Inkling 2 Mini toda…](<https://x.com/pipenetwork/status/2123927372558713311>)  
+  Our MLX quants are ready: 4-bit, 8-bit and bf16 The 128 experts keep their native NVFP4 weights and all three are between 17 and 20 GB, at \~22 tok/s Full  
+  @pipenetwork · 2026-11-21 07:52
 
 - [Honestly, I like to go with Scriptographer if you just plan on working with image and video generation models.](<https://x.com/Cubicname43/status/2123926891631407405>)  
   As far as music models go, you might say scriptist \(in the same vein as guitarist, flutist, bassist, pianist the words combined with the AI are your instrument\). I have  
@@ -160,15 +172,4 @@
   でもこの人すぐ撤回するからな。 \#投資  
   @bgaGT8GG9MdkDuR · 2026-11-21 07:18
 
-- [Six things AegisNet gives owners: scoped agent identity, enforced permissions, Midnight ZK clearance on big moves,…](<https://x.com/AegisNets/status/2123918813037211790>)  
-  Six things AegisNet gives owners: scoped agent identity, enforced permissions, Midnight ZK clearance on big moves, programmable routing, agent-gated liquidity, and an owner veto.  
-  @AegisNets · 2026-11-21 07:18
-
-- [90%的人不知道，谷歌造了个假互联网，专门用来考试—— 几千个假网站、假银行、假商城，全是 AI 自己搭的，Chrome…](<https://x.com/Shenjingape/status/2123918813129556463>)  
-  考的是提示词注入：攻击指令藏在网页文字、图片、标签里，就看智能体上不上当。 每天每个AI安全工程师能生成 1000 多个攻击测试，是人工的 30 倍。  
-  @Shenjingape · 2026-11-21 07:18
-
-- [JUST IN: Rumor Jensen Huang is raising $50 billion to launch a new chip company rivaling Nvidia is confirmed false](<https://x.com/Kalshi/status/2123918561475527116>)  
-  @Kalshi · 2026-11-21 07:17
-
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 37 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 36 页

@@ -1,6 +1,16 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 37 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 36 页
+
+- [discount on ai video generation worth grabbing](<https://x.com/Ahmx_web3/status/2124094992226636243>)  
+  @Ahmx\_web3 · 2026-11-21 18:58
+
+- [I'd be curious how the allowlist verifies AI agent identity, since spoofed accounts could still front-run the raffl…](<https://x.com/superpobe/status/2124094876480614578>)  
+  I'd be curious how the allowlist verifies AI agent identity, since spoofed accounts could still front-run the raffle.  
+  @superpobe · 2026-11-21 18:57
+
+- [พี่ดาราหล่อกันจัง y y FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/Aumeu/status/2124094825020715279>)  
+  @Aumeu · 2026-11-21 18:57
 
 - [motion design to AI, video editing and Web3 content](<https://x.com/Rtrana001/status/2124094710574903542>)  
   @Rtrana001 · 2026-11-21 18:56
@@ -154,15 +164,4 @@
   CloudRobo-WM1.2 拿下 RoboTwin 2.0 和 LIBERO-Pro 2.0 双榜第一，成功率 88.98% 和 81.73%，全程昇腾训出来的，11 月 30 日开源权重和代码。 拼的不再是芯片多强，是训练效率和落地速度。你觉得国产算力能一直追下去吗？ \#AI \#具身智能  
   @shshajs85 · 2026-11-21 18:42
 
-- [Turning an agent identity into a discoverable service is a meaningful step for TermiX.](<https://x.com/nokaramo/status/2124091133089472765>)  
-  @nokaramo · 2026-11-21 18:42
-
-- ["to the site, it's you" is the pitch and also the scary part. one bad prompt injection and the agent is you with yo…](<https://x.com/veeramarni/status/2124091063778545827>)  
-  "to the site, it's you" is the pitch and also the scary part. one bad prompt injection and the agent is you with your bank open  
-  @veeramarni · 2026-11-21 18:42
-
-- [Every number from an LLM request should say where it came from.](<https://x.com/Siddhant_K_code/status/2124090864142086519>)  
-  LLMTraceFX labels each value as measured natively, wall clock, provider reported, or derived. Server counters are diffed over the request window. Export to Perfetto or OTLP. it's on @huggingface \!\!\!  
-  @Siddhant\_K\_code · 2026-11-21 18:41
-
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 37 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 36 页

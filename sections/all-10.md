@@ -2,18 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 11 页
 
-- [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
-  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
-  TechCrunch · 2026-11-07 02:44
-
-- [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>)  
-  Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with th…  
-  TechCrunch · 2026-11-07 02:44
-
-- [How a Blue Wave midterm might reshape the AI industry](<https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/>)  
-  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
-  TechCrunch · 2026-11-07 02:00
-
 - [After the midterms, is the AI industry in for a rough two years?](<https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/>)  
   Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
   TechCrunch · 2026-11-07 01:23
@@ -171,5 +159,17 @@
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
   怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
   硅谷101 · 2026-10-29 07:00
+
+- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
+  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
+  Latent Space · 2026-10-29 04:00
+
+- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
+  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
+  The a16z Show · 2026-10-28 18:00
+
+- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
+  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
+  Latent Space · 2026-10-28 02:40
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 11 页

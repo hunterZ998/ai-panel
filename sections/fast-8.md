@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 37 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 36 页
+
+- [这两天太惨烈了太惨了了 英伟达单日暴跌14%，从10月高点累计跌去47.5%，市值直接蒸发2.74万亿美元。](<https://x.com/cheny71674110/status/2124096198919541243>)  
+  黄仁勋辞职后短短几天又砍掉约1万亿。 费城半导体指数一天跌10.7%，从6月高点累计已跌43%。VIX一度冲到40，纳斯达克单周跌10.4%，直接迈入熊市区间。  
+  @cheny71674110 · 2026-11-21 19:02
+
+- [Good morning CT.](<https://x.com/aquilaneratr/status/2124096187842072863>)  
+  Happy Saturday fam ☀️ Hope everyone gets a chance to enjoy the weekend, recharge a little, and learn something new. Today, I want to explore a question about @meetmotes that I think every person considering an AI Agent should ask. What happens to your money if  
+  @aquilaneratr · 2026-11-21 19:02
+
+- [同一份 Manus 2.0 说明，12 个不同 owner，星数全挤在 368 到 379。](<https://x.com/fngly343149/status/2124096085140685296>)  
+  topapothecarycanal/ai--manus2.0 这批仓库 2026-11-13 到 11-14 两天建完，语言栏空着，没有一行自有代码。 下载链接指向 Dropbox 上一个 rar 包，说明里写 4 GB 内存能跑、8 GB 以上跑重任务。 🔹  
+  @fngly343149 · 2026-11-21 19:02
 
 - [完全同意 。](<https://x.com/k9_lilian/status/2124096085723623503>)  
   民主党和他们背后的势力在试图制造人为衰退。他们完全知道迫害黄仁勋和科技公司意味着什么，证监会、美联储还有媒体全是他们的人。  
@@ -161,14 +173,4 @@
   3/ And even though full pre-training on the 950DT still suffers from low MFU when using MXFP8, the Ascend ecosystem has already proven itself viable for large-scale inference and post-training.  
   @Kahguia · 2026-11-21 18:58
 
-- [discount on ai video generation worth grabbing](<https://x.com/Ahmx_web3/status/2124094992226636243>)  
-  @Ahmx\_web3 · 2026-11-21 18:58
-
-- [I'd be curious how the allowlist verifies AI agent identity, since spoofed accounts could still front-run the raffl…](<https://x.com/superpobe/status/2124094876480614578>)  
-  I'd be curious how the allowlist verifies AI agent identity, since spoofed accounts could still front-run the raffle.  
-  @superpobe · 2026-11-21 18:57
-
-- [พี่ดาราหล่อกันจัง y y FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/Aumeu/status/2124094825020715279>)  
-  @Aumeu · 2026-11-21 18:57
-
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 37 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 36 页

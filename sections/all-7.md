@@ -2,14 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 11 页
 
-- [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
-  Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
-  Databricks：Blog（RSS） · 2026-11-17 01:00
-
-- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
-  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
-  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
-
 - [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
   We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
   OpenAI · 2026-11-17 01:00
@@ -93,10 +85,6 @@
   The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to a…  
   OpenAI · 2026-11-16 06:00
 
-- [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
-  HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  
-  Product Hunt 中文 · DecoHack · 2026-11-15 15:00
-
 - [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
   「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
   晚点聊 · 2026-11-15 12:15
@@ -173,5 +161,15 @@
 
 - [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
   APPSO · 2026-11-10 23:57
+
+- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
+  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
+  The a16z Show · 2026-11-10 23:29
+
+- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
+  新智元 · 2026-11-10 23:16
+
+- [突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=1&sn=12f09ef75c518a2d6464d9aeda167cee>)  
+  新智元 · 2026-11-10 23:16
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 11 页

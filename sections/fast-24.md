@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 37 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 36 页
+
+- [portable reputation could make agent identity much more valuable.](<https://x.com/CandyCripto/status/2123731661632192574>)  
+  @CandyCripto · 2026-11-20 18:54
+
+- [AI安全倡导组织呼吁加州及美国领导人尽快采取行动，禁止超级智能AI及AI递归自我改进，认为前沿AI公司正竞相开发超级智能系…](<https://x.com/x_ai_tesla/status/2123731602777981182>)  
+  AI安全倡导组织呼吁加州及美国领导人尽快采取行动，禁止超级智能AI及AI递归自我改进，认为前沿AI公司正竞相开发超级智能系统。（来源：@aisafetyaction）  
+  @x\_ai\_tesla · 2026-11-20 18:54
 
 - [Next year, if you want to start a career in AI Security, here is a practical roadmap to help you get started.](<https://x.com/gabbytech01/status/2123731561942045172>)  
   Don't just jump into AI tools. First, understand how AI systems work, how they can be attacked, and how to secure them. I've put together a practical roadmap covering:  
@@ -165,12 +172,4 @@
   ドパガキ向け、ベスト羅列 ・LLM大エース：Gemini 4 Neon ・安定エース：Opus 5.5 ・爆速実装：GPT-Sol-6.2 Fast ・詰まり突破：Fable 5.2 ・長時間実装：GPT-6.2 Astra ・PC操作：GPT-Sol-6.1 Terra Fast ・雑務Work…  
   @studio\_yebisu · 2026-11-20 18:04
 
-- [Isn't this the exact method they did to Nvidia?](<https://x.com/_Tweetiez/status/2123716771022582183>)  
-  Attack, disrupt, shame and install a zionist puppet.  
-  @\_Tweetiez · 2026-11-20 17:55
-
-- [AnthropicのIPO直後に水を差すようなことをして申し訳ない。でも、ECBの最新の金融安定性報告書を読んだところ、背…](<https://x.com/ishiharajun/status/2123714387907424269>)  
-  その結論：AIの資金調達の仕方が、サブプライムローンのそれにあまりにも似すぎている。  
-  @ishiharajun · 2026-11-20 17:45
-
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 37 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 36 页

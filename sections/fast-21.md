@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 37 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 36 页
+
+- [هذا جنون، الأمر حقًا لا يُصدَّق. سُئل الرئيس التنفيذي لشركة Anthropic، داريو أمودي، عمّا ينبغي لشاب تخرّج للتو من ا…](<https://x.com/HilalHamdanba4/status/2123788419801415832>)  
+  هذا جنون، الأمر حقًا لا يُصدَّق. سُئل الرئيس التنفيذي لشركة Anthropic، داريو أمودي، عمّا ينبغي لشاب تخرّج للتو من الثانوية أن يفعله اليوم. وكان جوابه: “الذكاء الاصطناعي بات قادرًا على أداء عمل المحامين المبتدئين. وعمل محللي التمويل المبتدئين. وعمل المستشارين ا…  
+  @HilalHamdanba4 · 2026-11-20 22:39
+
+- [刚有个大厂的朋友私信骂我，说我不懂他们的苦。兄弟们，真不是我想黑大厂。你们想想，米哈游的员工现在拿着 H200 在跑真实的…](<https://x.com/Singlemggw/status/2123787638960505266>)  
+  刚有个大厂的朋友私信骂我，说我不懂他们的苦。兄弟们，真不是我想黑大厂。你们想想，米哈游的员工现在拿着 H200 在跑真实的端侧模型而大厂的兄弟们，正熬夜用 Word 和 Excel 论证我们的业务如何赋能 AI。同样是打工，人家在接触未来，你在雕花 PPT。这才是最扎心的。🚬  
+  @Singlemggw · 2026-11-20 22:36
 
 - [姚顺雨11月7日那场26分钟演讲，文字稿7172个人收藏，我翻完只记住三句话。](<https://x.com/ReignSwords/status/2123787039476744192>)  
   先抄走成品，姚顺雨说的 AI for Science 三代： 1️⃣ 专用模型：一个点打极深，换任务就得重来，AlphaFold 就是这路数 2️⃣ 语言智能体：大模型当中枢，调用现成工具、数据库、仿真器串起多步流程 3️⃣  
@@ -169,11 +177,4 @@
   闲鱼这边的548MB的Qwen3.5端侧模型在静默状态下重装打开，居然会直接触发，没什么开关。感觉就像把用户的存储当成自家的缓存，强行塞入AI功能一样。  
   @ThanksuTrump · 2026-11-20 21:05
 
-- [El 63% apoya el acuerdo entre el ministerio de Ciencia y OpenAI para el uso de la inteligencia artificial en el Est…](<https://x.com/bdelamaza/status/2123764006049718571>)  
-  El 63% apoya el acuerdo entre el ministerio de Ciencia y OpenAI para el uso de la inteligencia artificial en el Estado  
-  @bdelamaza · 2026-11-20 21:02
-
-- [JUST IN: Anthropic $ANT crashes 10% to $87 pre-market following yesterday's IPO.](<https://x.com/WatcherGuru/status/2123763581841760261>)  
-  @WatcherGuru · 2026-11-20 21:01
-
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 37 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 36 页

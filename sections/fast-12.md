@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 37 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 36 页
+
+- [People still think all Nvidia did was circumventing US sanctions - now that the SEC finally started digging into it…](<https://x.com/DarioCpx/status/2123967383425437887>)  
+  People still think all Nvidia did was circumventing US sanctions - now that the SEC finally started digging into its books, I am looking forward to seeing how will people react when the news that Nvidia inflated its revenues booking more GPU sales than those i…  
+  @DarioCpx · 2026-11-21 10:31
+
+- [NYT's Paul Mozur tells @ErinBurnett that Alice Huang’s network has “direct and obvious” ties to China’s defense ind…](<https://x.com/OutFrontCNN/status/2123967226147643473>)  
+  NYT's Paul Mozur tells @ErinBurnett that Alice Huang’s network has “direct and obvious” ties to China’s defense industry, raising questions about what former Nvidia CEO Jensen Huang and his company knew.  
+  @OutFrontCNN · 2026-11-21 10:30
+
+- [今天在陶哲轩博客底下看到一句最扎心的评论： 以前纯数学是人类最公平的领域，一块黑板一根粉笔，穷学生也能和普林斯顿教授站在同…](<https://x.com/xKaka1456/status/2123966525669568632>)  
+  但从今天起，数学变成 F1 赛车了。你哪怕是绝世天才，只要别人进了 Anthropic 厂队、开上外面两年都买不到的内部模型，你连人家尾灯都看不见。  
+  @xKaka1456 · 2026-11-21 10:27
 
 - [Jensen Huang as CEO of nvidia according to NYT](<https://x.com/GingerBeardGage/status/2123964845015904497>)  
   @GingerBeardGage · 2026-11-21 10:20
@@ -165,15 +177,4 @@
   华尔街宏观研究机构 The Kobeissi Letter ： AI泡沫没有破裂，美股正在经历一场被恐慌放大的调整，大量利空已经被市场计价。 从10月6日标普500创下历史新高算起，短短45天，美国股市累计蒸发约6万亿美元。  
   @oragnes · 2026-11-21 08:04
 
-- [黄仁勋对董事会撒了一年的谎，SEC 现在查账，股价七周跌 44%。这三件事凑在一起，比任何财报都说明问题。](<https://x.com/LJL06019/status/2123930624247709896>)  
-  @LJL06019 · 2026-11-21 08:04
-
-- [三个雷同一天爆，NVIDIA 这次是真扛不住了。](<https://x.com/LJL06019/status/2123930588512186595>)  
-  周五跌 12%，七连跌，七周跌 44%，市值蒸发 2.5 万亿美元。标普 500 也跟着七连跌，创 2020 年 2 月以来最长连跌。整个 AI 板块都在失血，AMD、博通、美光全是两位数跌幅。 但股价只是表面。路透说 SEC 正在查 NVIDIA  
-  @LJL06019 · 2026-11-21 08:04
-
-- [Reports say Apple is already working on M7, M7 Pro and M7 Max for the 2027 Mac refresh — with a bigger push on on-d…](<https://x.com/sam_vision1/status/2123930568496910762>)  
-  The M6 Macs only hit stores on Nov 6. Apple silicon's next chapter is already being written. \#AppleSilicon \#Mac  
-  @sam\_vision1 · 2026-11-21 08:04
-
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 37 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 36 页

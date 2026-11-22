@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 37 页
+[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 36 页
+
+- [🚨 Something is seriously wrong with Anthropic's valuation and its massive AI spending.](<https://x.com/BullTheoryio/status/2123489741714907474>)  
+  Anthropic has committed over $1 TRILLION to AI computing and infrastructure over the coming years. To earn a 20% annual return on that investment, it would need $200 BILLION in profit after  
+  @BullTheoryio · 2026-11-20 02:53
+
+- [WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft…](<https://x.com/gatewaypundit/status/2123488068199989755>)  
+  WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft, Apple and Top Corporations in World, But You’re Not Worried the Midterm Election Was Rigged &amp;amp; Stolen…You’re a Clueless Moron  
+  @gatewaypundit · 2026-11-20 02:46
 
 - [OpenAI初のスマートフォンは2027年後半に登場か iPhone製造を手掛けるFoxconnが製造へ](<https://x.com/SumahoReview/status/2123487142940942811>)  
   @SumahoReview · 2026-11-20 02:42
@@ -165,11 +173,4 @@
   中国对美国的渗透和控制已经超过了一般人的想象，更不是天真的美国人能想象的，每天想到这些问题都感到窒息。  
   @helen\_maga99 · 2026-11-20 01:27
 
-- [BREAKING: Anthropic shares plummet under $100](<https://x.com/Kalshi/status/2123467315853324529>)  
-  @Kalshi · 2026-11-20 01:23
-
-- [Gemini 4 Neon is wild 🔥🔥 I gave it one single static image and just asked it to animate it in Three.js.](<https://x.com/ai_for_success/status/2123467103110078747>)  
-  Nothing else. On its own, it downloaded Depth Anything V2 Large from Hugging Face, ran it locally on my Mac to generate a depth map, sliced the image into layers and  
-  @ai\_for\_success · 2026-11-20 01:23
-
-[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 37 页
+[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 36 页

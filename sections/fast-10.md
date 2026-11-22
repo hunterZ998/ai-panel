@@ -1,6 +1,17 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 37 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 36 页
+
+- [Turning an agent identity into a discoverable service is a meaningful step for TermiX.](<https://x.com/nokaramo/status/2124091133089472765>)  
+  @nokaramo · 2026-11-21 18:42
+
+- ["to the site, it's you" is the pitch and also the scary part. one bad prompt injection and the agent is you with yo…](<https://x.com/veeramarni/status/2124091063778545827>)  
+  "to the site, it's you" is the pitch and also the scary part. one bad prompt injection and the agent is you with your bank open  
+  @veeramarni · 2026-11-21 18:42
+
+- [Every number from an LLM request should say where it came from.](<https://x.com/Siddhant_K_code/status/2124090864142086519>)  
+  LLMTraceFX labels each value as measured natively, wall clock, provider reported, or derived. Server counters are diffed over the request window. Export to Perfetto or OTLP. it's on @huggingface \!\!\!  
+  @Siddhant\_K\_code · 2026-11-21 18:41
 
 - [อ้วมมมมมมมมมมมม FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX](<https://x.com/xyzdaisyy/status/2124090641013731554>)  
   @xyzdaisyy · 2026-11-21 18:40
@@ -155,16 +166,4 @@
   AI应用不只是大模型，还有机器人，端侧AI。个人不看好闭源的商业模式，本地化部署会是个大问题。AI应用，最看好的还是机器人，这会是下一个周期，当然核心还是算力。  
   @Zaddoju · 2026-11-21 18:19
 
-- [Grana estimates long-horizon robot manipulation progress from short-horizon subtask predictions.](<https://x.com/kedaya/status/2124084907651797193>)  
-  Cao et al. use open-vocabulary descriptions and action-quality annotations. The catch: the supplied abstract gives no outcome metrics.  
-  @kedaya · 2026-11-21 18:18
-
-- [🤖 人形机器人，可能是下一个科技风口。](<https://x.com/devKXi8OfT93477/status/2124084889498882429>)  
-  从工厂生产到家庭服务，从物流运输到医疗辅助，机器人正在走进更多现实场景。 未来，机器人竞争的核心不只是外形，而是AI大脑、运动能力和实际应用。 当机器人真正走进千家万户，会诞生多少新的商业机会？ 你看好人形机器人吗？ \#机器人 \#AI \#Robotics  
-  @devKXi8OfT93477 · 2026-11-21 18:17
-
-- [My two orange @JollaHQ Phones \(2026\) arrived last month. \#SailfishOS 5.2, 12GB RAM, 256GB storage, and a rather ref…](<https://x.com/NansenID/status/2124084730849079402>)  
-  Naturally, I had to see what happens when a real @Linux phone meets my local AI infrastructure. = A quick  
-  @NansenID · 2026-11-21 18:17
-
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 37 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 36 页

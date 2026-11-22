@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 37 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 36 页
+
+- [El 63% apoya el acuerdo entre el ministerio de Ciencia y OpenAI para el uso de la inteligencia artificial en el Est…](<https://x.com/bdelamaza/status/2123764006049718571>)  
+  El 63% apoya el acuerdo entre el ministerio de Ciencia y OpenAI para el uso de la inteligencia artificial en el Estado  
+  @bdelamaza · 2026-11-20 21:02
+
+- [JUST IN: Anthropic $ANT crashes 10% to $87 pre-market following yesterday's IPO.](<https://x.com/WatcherGuru/status/2123763581841760261>)  
+  @WatcherGuru · 2026-11-20 21:01
 
 - [Plaud Note Pro vs. your phone's voice memo app: the Plaud adds four mics, a vibration sensor that picks up calls, a…](<https://x.com/Honestpickr/status/2123763301867814989>)  
   Worth it for back-to-back meetings. Skip it if 300 free transcription minutes a month won't cover you. \#ad  
@@ -159,12 +166,4 @@
 - [I will always be a snowflake queen](<https://x.com/itsstrategy6/status/2123733738429223280>)  
   @itsstrategy6 · 2026-11-20 19:02
 
-- [A security firm paid $4.5 billion so it can train your company's AI. 🔐 The catch: the guard also builds what it gua…](<https://x.com/vsachar/status/2123733693936398609>)  
-  Its boss says open models carry 60% of AI use. Firms surveyed say 19%. If a vendor trains AI on your data, here's what to keep 👇  
-  @vsachar · 2026-11-20 19:02
-
-- [Very much doubt it is that simple\!](<https://x.com/chowdhuryma/status/2123733674156064872>)  
-  Sadly, much more powerful force is against Jensen Huang and his outsing has been well planned. AIPAC will decide who replaces Jensen Huang\!  
-  @chowdhuryma · 2026-11-20 19:02
-
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 37 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 36 页

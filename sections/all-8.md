@@ -2,16 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 11 页
 
-- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
-  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
-  The a16z Show · 2026-11-10 23:29
-
-- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
-  新智元 · 2026-11-10 23:16
-
-- [突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=1&sn=12f09ef75c518a2d6464d9aeda167cee>)  
-  新智元 · 2026-11-10 23:16
-
 - [深度｜交互智能背后，一批年轻研究者正在走到台前](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901343&idx=1&sn=c74a749ab4d01b9f10f21b769ed88dba>)  
   Z Finance · 2026-11-10 19:59
 
@@ -140,5 +130,15 @@
 
 - [姚顺雨加入腾讯近一年，混元追上来了？实测 Hy4 比 Kimi K3.1 Pro 快了 28 分钟](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748650&idx=1&sn=d5cffdc0d0b028234bfba235dc588920>)  
   AI科技评论 · 2026-11-09 16:16
+
+- [创业者做 Personal Agent，有没有一线生机？](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116221&idx=1&sn=ce138b50de491dc2ac7883a2c067a8fb>)  
+  极客公园 · 2026-11-09 15:44
+
+- [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115625&idx=1&sn=5c60f9caed20fc1741a5bd18de6c45e4>)  
+  APPSO · 2026-11-09 15:41
+
+- [千问办公2.0发布，为首个支持多人与Agent协作的Team Agent](<https://36kr.com/newsflashes/4062206154298505?f=rss>)  
+  36氪获悉，11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服…  
+  36氪 · 2026-11-09 15:29
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 11 页

@@ -14,13 +14,21 @@
   Path-level GitHub access for developers and AI agents  
   Product Hunt · English · 2026-11-20 21:22
 
+- [greatai Review](<https://www.producthunt.com/products/greatai-review>)  
+  Free AI + human code review for open source &amp; nonprofits  
+  Product Hunt · English · 2026-11-20 12:56
+
+- [Mailpipe](<https://www.producthunt.com/products/mailpipe-2>)  
+  Draft Apple Mail replies with your local AI agent CLI  
+  Product Hunt · English · 2026-11-20 12:13
+
+- [Veryfi Thinking Mode](<https://www.producthunt.com/products/veryfi>)  
+  AI agents review and correct receipt and invoice data.  
+  Product Hunt · English · 2026-11-20 05:30
+
 - [UndoGuard](<https://www.producthunt.com/products/undoguard>)  
   The Ctrl+Z button for autonomous AI agents  
   Product Hunt · English · 2026-11-20 03:15
-
-- [Currents](<https://www.producthunt.com/products/currents-4>)  
-  Currents for Claude &amp; Codex to see all your tests  
-  Product Hunt · English · 2026-11-19 22:02
 
 - [Stormi](<https://www.producthunt.com/products/stormi>)  
   An AI team on your iPhone that does real work  
@@ -37,6 +45,10 @@
 - [InteraOne](<https://www.producthunt.com/products/interaone>)  
   Open-source Intercom &amp; Zendesk alternative with AI agents  
   Product Hunt · English · 2026-11-19 14:13
+
+- [Volcano](<https://www.producthunt.com/products/volcano-3>)  
+  The self-healing agent cloud by Kong  
+  Product Hunt · English · 2026-11-19 14:11
 
 - [Zethos](<https://www.producthunt.com/products/zethos>)  
   The ledger you and your AI work from  
@@ -81,9 +93,5 @@
 - [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
   Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
   Product Hunt 中文 · DecoHack · 2026-11-16 15:00
-
-- [PH今日热榜 \| 2026-11-15](<https://decohack.com/producthunt-daily-2026-11-15/>)  
-  HiringNow：AI职位代理人，可以在其他人之前找到并申请工作。；Businesses in ChatGPT：通过ChatGPT帮助客户发现您的业务；Dex Semantics：让你的代理在分析中减少25%的错误。  
-  Product Hunt 中文 · DecoHack · 2026-11-15 15:00
 
 [返回面板](../README.md) · 第 1 / 1 页

@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 37 页
+[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 36 页
+
+- [&amp;lt;p class="wp-block-paragraph"&amp;gt;&amp;lt;strong&amp;gt;Welcome back to &amp;lt;em&amp;gt;The State of AI&amp;lt;/em&amp;gt;, a new colla…](<https://x.com/arnaudmercier/status/2123372013381193893>)  
+  Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global  
+  @arnaudmercier · 2026-11-19 19:05
+
+- [英伟达临时CEO上任第一把火：先给员工加钱💰](<https://x.com/blueice49810906/status/2123371980539756594>)  
+  @blueice49810906 · 2026-11-19 19:05
 
 - [Yes, the paper is real \(arXiv 2604.07609, April 2026, KTH/RISE\).](<https://x.com/grok/status/2123371983983243447>)  
   Their prototype does remove the host CPU from steady-state LLM inference via BlueField-3 DPU + RDMA into GPU memory and a persistent CUDA kernel for batching/scheduling/KV cache. The reported speedups hold in their  
@@ -167,12 +174,4 @@
   Meet Amina Ait Ouahman, a division head at DGSSI and CyberSafe x SANS AI Security Fellow. Congratulations, Amina\! We're excited for what's ahead\!  
   @cybersafehq · 2026-11-19 19:00
 
-- [CAN YOUR AI MODEL FOLLOW A PATIENT'S MEDICAL HISTORY ACROSS FIVE YEARS — AND IDENTIFY WHAT CHANGED?](<https://x.com/Pradeep891730/status/2123370707400986800>)  
-  WE ARE BUILDING HEALTHCARE AI TRAINING ENVIRONMENTS FROM 100,000 SYNTHETIC LONGITUDINAL PATIENT RECORDS. At Xpert Systems Inc., our longitudinal patient dataset goes beyond  
-  @Pradeep891730 · 2026-11-19 19:00
-
-- [平时生成一条要烧积分的 MiniMax H3 今晚 9 点开始，免费不限量 就 24 小时，过了明晚 9 点恢复收费 En…](<https://x.com/jackluos3lpo/status/2123370672285950359>)  
-  平时生成一条要烧积分的 MiniMax H3 今晚 9 点开始，免费不限量 就 24 小时，过了明晚 9 点恢复收费 Envato 官宣的限免活动 MiniMax H3 视频生成 今晚 21:00 开始 到明晚 11 月 20 号 21:00 结束 重点是 免费账号就能参加 不需要买 Envato…  
-  @jackluos3lpo · 2026-11-19 18:59
-
-[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 37 页
+[返回面板](../README.md) · [上一页](fast-33.md) · [下一页](fast-35.md) · 第 34 / 36 页

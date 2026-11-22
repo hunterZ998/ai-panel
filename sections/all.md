@@ -2,61 +2,149 @@
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 11 页
 
-完整公开资讯，共 489 条。
+完整公开资讯，共 486 条。
 
-- [群联展示内置NPU与64GB内存的智能固态硬盘，可直接运行AI模型](<https://www.163.com/dy/article/LCATM5MR0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 08:08
+- [上观时评丨“一眼假”的学术不端论文，揭开了AI时代的新问题](<https://www.163.com/dy/article/LCBM67I7055040N3.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 15:16
 
-- [“小雪”节气，用AI在青岛造一条最酷的雪道](<https://www.163.com/dy/article/LCATGOD0055061FK.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 08:05
+- [柏林艺术中心举办军事 AI 系统发布会引乐迷抗议，场地负责人致歉](<https://www.ithome.com/1/030/590.htm>)  
+  IT之家 11 月 22 日消息，据《卫报》今天报道，德国军工初创企业 Helsing 近期在柏林艺术中心 Kraftwerk Berlin 举办 AI 目标识别系统 Clarity 发布活动，引发当地乐迷、电音社区强烈抗议。 据报道…  
+  IT之家 · 2026-11-22 15:13
 
-- [“小雪”节气，用AI在青岛造一条最酷的雪道](<https://www.163.com/dy/article/LCATGOD10514R9KU.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 08:05
+- [星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术](<https://www.ithome.com/1/030/589.htm>)  
+  IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，搭载麒麟 9030S 处理器，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品…  
+  IT之家 · 2026-11-22 15:13
+
+- [「外星智能」降临，AI联手人类砸碎了百年数学圣杯](<https://www.163.com/dy/article/LCBLED8P0511ABV6.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 15:03
+
+- [Anthropic开出2.7亿天价疯抢CS本科生！OpenAI迎史上最惨一周](<https://www.163.com/dy/article/LCBLD8UP0511ABV6.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 15:03
+
+- [独立验证通过了，Claude确实证明了黎曼猜想，1700万行代码获数学社区认可](<https://www.163.com/dy/article/LCBL9JNJ05119734.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 15:01
+
+- [TikTok上线AI深度伪造检测工具，为创造者推出“肖像检测”功能](<https://www.163.com/dy/article/LCBKVDLJ0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 14:55
+
+- [TikTok 上线 AI 深度伪造检测工具，为创造者推出“肖像检测”功能](<https://www.ithome.com/1/030/581.htm>)  
+  IT之家 11 月 22 日消息，当地时间 11 月 19 日，TikTok 宣布推出两项新工具，进一步推进人工智能透明度建设，让社区用户在 TikTok 上创作和接触人工智能内容时，拥有更高的知情度与掌控力。 TikTok 推出了一…  
+  IT之家 · 2026-11-22 14:46
+
+- [猜想：AI泡沫破灭和金融市场危机](<https://www.163.com/dy/article/LCBK0GA405198NMR.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 14:38
+
+- [Anthropic万亿上市，搅动的却是半导体江湖](<https://www.163.com/dy/article/LCBJP0ID05118O92.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 14:34
+
+- [腾讯 Chatterfly 输入法安卓版开启内测，支持语音转写、自动翻译等 AI 功能](<https://www.ithome.com/1/030/576.htm>)  
+  IT之家 11 月 22 日消息， 腾讯 Chatterfly 输入法安卓版现已开启内测 ，iOS 版目前状态为“即将发布”。 据介绍，Chatterfly 输入法除了将语音变成文字外，还能理解上下文，识别不同的意图和场景，还能听懂用…  
+  IT之家 · 2026-11-22 14:32
+
+- [全球电子协会警告 PCB 或短缺至 2027 年上半年，风险堪比 2021 年芯片短缺](<https://www.ithome.com/1/030/573.htm>)  
+  IT之家 11 月 22 日消息，全球电子协会（Global Electronics Association）11 月 18 日发布行业警报称，印制电路板（PCB）供应链短缺持续加剧，汽车、工业、医疗、国防和电信企业均反映交期延长、难…  
+  IT之家 · 2026-11-22 14:25
+
+- [A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿](<https://www.163.com/dy/article/LCBI8LBO0511DSSR.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 14:20
+
+- [Anthropic万亿上市，搅动的却是半导体江湖](<https://www.tmtpost.com/8213769.html>)  
+  大买主登陆公开市场，芯片、代工与存储环节都在随之调整。  
+  钛媒体 · 2026-11-22 14:16
+
+- [当“冷门绝学”遇上最热的AI技术——河南数智甲骨学研究中心在郑大揭牌成立](<https://www.163.com/dy/article/LCBIN64H0550B6IS.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 14:15
+
+- [刚刚，Claude黎曼猜想证明通过验证！菲尔兹奖得主回应“数学研究不存在了？”](<https://36kr.com/p/4080372197282948?f=rss>)  
+  智东西11月22日报道，今天，Lean核心研发与维护机构Lean FRO和Mathlib 生态支持与协调机构Mathlib Initiative发布了关于黎曼猜想的Lean形式化证明核验的联合声明，表示 Levent Alpöge的黎曼猜想  
+  36氪 · 2026-11-22 13:12
+
+- [Anthropic 数学家称与 Claude 可能证明黎曼猜想，同日人类数学家另提证明](<https://www.exponentialview.co/p/ev-611>)  
+  Anthropic 数学家 Levent Alpöge 称他与 Claude 可能证明了黎曼猜想，其证明长达 1740 万行 Lean。同日斯坦福数学家 Ravi Vakil 提交了 Alessandro Masullo 的纯人类证明，该证明仍在第三方核验中，团队正将其转写为 Lean 以加速验证。  
+  Azeem Azhar：Exponential View（RSS） · 2026-11-22 12:59
+
+- [跨境收款之后，中国公司盯上智能体支付的新生意](<https://www.tmtpost.com/8213773.html>)  
+  中国公司正在通过智能体支付，从赚通道费走向把经营能力捆绑进企业的日常工作流。  
+  钛媒体 · 2026-11-22 12:42
+
+- [小鹏交出一份增长财报，盈利拐点为何还没来？](<https://www.tmtpost.com/8213686.html>)  
+  小鹏三季度营收与交付量双创新高，但盈利压力犹存。海外扩张与物理AI商业化，能否成为新的增长动力？  
+  钛媒体 · 2026-11-22 12:36
+
+- [韩国高考 AI 作弊事件发酵，教育部长引咎辞职](<https://www.ithome.com/1/030/558.htm>)  
+  IT之家 11 月 22 日消息，据韩联社报道，当地时间 22 日，韩国教育部长官崔教振辞去职务，为韩国 2027 年度大学修学能力考试（韩国高考）期间防范高科技作弊措施不足引发混乱而承担责任。 近期，韩国发生多起利用人工智能工具作弊…  
+  IT之家 · 2026-11-22 11:21
+
+- [Australia Spy Chief Warns of Data Center, AI Risks, Age Reports](<https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports>)  
+  Bloomberg · 2026-11-22 10:37
+
+- [OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键](<https://www.ithome.com/1/030/548.htm>)  
+  IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博， 透露最受欢迎的 16G…  
+  IT之家 · 2026-11-22 10:33
+
+- [Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确](<https://www.ithome.com/1/030/547.htm>)  
+  IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验， 该证明的代码约 1700 万行…  
+  IT之家 · 2026-11-22 10:31
+
+- [Columbia 与 CertiK 推出 TensorLean，用 Lean 对 PTX 级 GPU 内核做形式化验证](<https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/>)  
+  Columbia 大学与 CertiK 研究人员推出 TensorLean，一个在 PTX 级验证 GPU 内核的 Lean 形式化验证框架，证明编译后的内核符合张量级数学规格，可检查数据竞争、终止、容差内正确输出和内存不变四个性质。  
+  MarkTechPost（RSS） · 2026-11-22 09:51
+
+- [试题用于大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评](<https://www.ithome.com/1/030/540.htm>)  
+  IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，近期部分人工智能大模型产品及其运营、推广主体宣…  
+  IT之家 · 2026-11-22 09:42
+
+- [Edge AI Daily 早报（11月22日）](<https://www.tmtpost.com/8213684.html>)  
+  英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Ant…  
+  钛媒体 · 2026-11-22 09:06
+
+- [可灵为何开始发力“图片”？](<https://www.tmtpost.com/8212803.html>)  
+  两家头部AI公司几乎前后脚更新图像模型。  
+  钛媒体 · 2026-11-22 09:02
+
+- [全球Meta一家独大，中国AI眼镜为何还在混战？](<https://www.tmtpost.com/8213674.html>)  
+  中国AI眼镜，胜负未分。  
+  钛媒体 · 2026-11-22 09:02
+
+- [搜狐张朝阳回应“被证监会出具警示函”：此张朝阳不是我](<https://www.ithome.com/1/030/533.htm>)  
+  IT之家 11 月 22 日消息，11 月 20 日，北京证监局披露的一则对“张朝阳”出具警示函的信息在网络传播，部分舆论误将其与搜狐创始人、董事局主席兼首席执行官张朝阳关联。 IT之家注意到，张朝阳本人在搜狐视频关注流回应：“此张朝…  
+  IT之家 · 2026-11-22 08:59
+
+- [特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面](<https://www.tmtpost.com/8213639.html>)  
+  数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。  
+  钛媒体 · 2026-11-22 08:45
+
+- [2万亿造富，25位华人员工接住Anthropic泼天富贵](<https://36kr.com/p/4079379879252868?f=rss>)  
+  AI界的造富故事，正在从创始人为主的一端向内部员工扩散。Anthropic的上市，恰好将这种变化推到了聚光灯下。 11月19日，Claude大模型背后的Anthropic正式登陆纳斯达克。公司IPO发行价为每股83美元，公开发行规模高达81  
+  36氪 · 2026-11-22 08:20
+
+- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
+  IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 昨天报道，群联在 SC26 大会中展示两款企业级固态硬盘，专为 AI 场景设计。其中一款甚至带有 NPU 和 64GB 内存，可以直接运行 AI 模型。 IT…  
+  IT之家 · 2026-11-22 08:04
 
 - [这届大学生，狂卷黑客松](<https://36kr.com/p/4079400624411521?f=rss>)  
   黑客松越来越火了。 据AI赛事社区“AI赛事通”统计，今年上半年，全国举办了近500场黑客松，平均每天有两三场，主办方包括高校、科技公司和创业社区。 黑客松（Hackathon）是一种限时开发比赛。参赛者通常需要在24小时、48小时或72小  
   36氪 · 2026-11-22 08:00
 
-- [30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者·TO](<https://www.163.com/dy/article/LCAT7J7L051188EA.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 08:00
+- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
+  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
+  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
 
-- [加密聊天应用Signal默认屏蔽截图，防止AI智能体读取用户消息](<https://www.163.com/dy/article/LCARTEO30511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 07:37
+- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 Python Web 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
+  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产环境运行 ASGI 与 WSGI Python 应用提供最佳工具。  
+  Simon Willison 博客 · 2026-11-22 07:56
 
-- [黎曼猜想迎来大结局！Lean官方认证：Claude证明无误](<https://www.163.com/dy/article/LCARSQUL0511ABV6.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 07:37
+- [Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息](<https://www.ithome.com/1/030/517.htm>)  
+  Signal 推出 iOS / Android 更新，默认阻止应用内截图和录屏，以防止 Siri AI、Gemini 等 AI 智能体在用户不知情时读取私人消息。  
+  IT之家·人工智能 · 2026-11-22 07:28
 
-- [OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色](<https://www.ithome.com/1/030/519.htm>)  
-  IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本…  
-  IT之家 · 2026-11-22 07:35
+- [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>)  
+  Signal is limiting users' ability to take screenshots in both its Android and iOS apps.  
+  TechCrunch · 2026-11-22 05:37
 
-- [IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...](<https://www.ithome.com/1/030/518.htm>)  
-  “IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不…  
-  IT之家 · 2026-11-22 07:31
-
-- [加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息](<https://www.ithome.com/1/030/517.htm>)  
-  IT之家 11 月 22 日消息，开源端到端加密聊天应用 Signal 近日推出 iOS / Android 版更新，默认关闭应用程序内截图功能，以阻止 Siri AI 和 Gemini 等 AI 智能体读取用户私人消息。 Signa…  
-  IT之家 · 2026-11-22 07:28
-
-- [黎曼猜想被AI攻破？90后数学家宣称已证明，菲尔兹奖得主发声](<https://www.163.com/dy/article/LCANK45D05506BEH.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 06:22
-
-- [申城酒店里，洗衣机器人“越干越溜”，洗完还帮你送回房](<https://www.163.com/dy/article/LCAMRNU1055040N3.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 06:08
-
-- [黎曼猜想被AI攻破？90后数学家宣称已证明，菲尔兹奖得主发声](<https://www.163.com/dy/article/LCAMRO4P055040N3.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 06:08
-
-- [【城事】具身智能正融入城市生活“第一现场”](<https://www.163.com/dy/article/LCAM9Q5G055040N3.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 05:59
-
-- [Signal 限制移动端截图，应对操作系统级 AI 监控风险](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>)  
-  Signal 宣布在 Android 和 iOS 上默认限制应用内截图，此前 Windows 版已默认阻止截图。总裁 Meredith Whittaker 称集成 agentic AI 的操作系统会扫描屏幕数据，使敏感信息被 capture、存储并可被系统级 AI 智能体访问，损害 Signal 独立保障隐私的能力。  
-  TechCrunch：AI（RSS） · 2026-11-22 05:37
-
-- [TechCrunch 播客解读 Nvidia 财报亮眼与请愿前 CEO 黄仁勋回归并存的两种叙事](<https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/>)  
-  TechCrunch Equity 播客讨论本周 Nvidia 的两幅反差图景：财报收入大涨、管理层称无需前 CEO 黄仁勋回归，同时 Elon Musk 等人发起请愿推动黄仁勋回归，黄本人称已准备好回归。  
-  TechCrunch：AI（RSS） · 2026-11-22 05:07
+- [A tale of two Nvidias](<https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/>)  
+  We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calli  
+  TechCrunch · 2026-11-22 05:07
 
 - [联合国未能就监管“杀人机器人”达成规则共识](<https://www.theverge.com/tech/1039554/un-regulations-killer-robots>)  
   联合国日内瓦会议未能就自主武器监管规则达成共识，各国仅同意“开始讨论选项”。红十字国际委员会曾呼吁一年内制定有法律约束力的规则，并获联合国秘书长和教皇支持，但最终妥协为各国两年内提出监管提案，且部分规则可保留为“可选”。据 NPR 报道，俄罗斯、以色列和美国是主要阻碍方，美国曾提议用五年时间讨论非约束性指南。  
@@ -73,9 +161,6 @@
   LangChain 分享其内部 GTM、内容工作室智能体和 LangSmith Engine 背后的知识工厂实践，认为让 AI 在企业落地缺的不是更好模型而是更好的知识。  
   LangChain：Blog（RSS） · 2026-11-22 00:45
 
-- [167年数学难题被攻克？90后数学家联手AI，最新公布](<https://www.163.com/dy/article/LCA3A0AP053469RG.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 00:27
-
 - [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
   Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
   The Decoder：AI News（RSS） · 2026-11-22 00:23
@@ -83,90 +168,8 @@
 - [Oracle Says It Has Completed Funding to Fulfil OpenAI Deal](<https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal>)  
   The Information · 2026-11-22 00:09
 
-- [台积电暂停对中16nm及以下订单，胰腺癌新药重大突破，Anthropic数学家宣称](<https://www.163.com/dy/article/LCA26PKS051196HN.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 00:08
-
 - [硅谷 AI 末世执念催生类教团组织 Maple 的调查报道](<https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/>)  
   The Decoder 基于 Sam Kriss 的 New Yorker 报道介绍佛蒙特州修道院组织 Maple（Monastic Academy），该组织约 24 名常住成员，年收入最高 100 万美元，目标是成为 AI 行业的精神权威并训练由其领袖 Soryu Forall 思维建模的 AI，前成员指控其录音监控与心理操纵，领导层几乎否认所有指控。  
   The Decoder：AI News（RSS） · 2026-11-22 00:04
-
-- [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](<https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/>)  
-  An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question th  
-  TechCrunch · 2026-11-22 00:00
-
-- [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
-  The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
-  The Verge：AI（RSS） · 2026-11-21 23:00
-
-- [Wall Street Confronts AI Reality Check](<https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video>)  
-  Bloomberg · 2026-11-21 22:50
-
-- [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
-  Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
-  20VC · 2026-11-21 22:50
-
-- [韩国总统李在明：速度在 AI 竞赛中至关重要](<https://www.ithome.com/1/030/506.htm>)  
-  IT之家 11 月 21 日消息，据路透社报道，当地时间 21 日，韩国总统李在明前往韩国东南部城市蔚山，视察当地一座在建数据中心，并敦促韩国加快在全球 AI 竞赛中的步伐。“ 全世界都在竞相角逐，速度至关重要 。” 数据中心是芯片需…  
-  IT之家 · 2026-11-21 22:26
-
-- [Chess.com 推出 Classic Games 平台，上线麻将、数独等 10 款经典游戏](<https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai>)  
-  Chess.com 正式公测 Classic Games 平台，在网页端及 iOS、Android 新应用上线麻将、数独、围棋、象棋、跳棋等 10 款经典游戏。每款游戏均配备课程、排行榜和评分系统，多人游戏支持对战玩家或沿用 Chess.com 的机器人角色。该平台由不到公司 1% 的团队借助 AI 加速编码在数月内完成，美术与设计仍由人工完成。  
-  The Verge：AI（RSS） · 2026-11-21 22:00
-
-- [OpenAI 发布 GPT-6.2 Astra 和 Sol 的新提示词指南，修正简短回答与多余提问](<https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/>)  
-  OpenAI 为 11 月 17 日发布的 GPT-6.2 Astra 和 Sol 公布了一套可直接复制的提示词模板，覆盖写作风格、主动性和编码，并建议迁移的开发者重新审视系统提示词。  
-  The Decoder：AI News（RSS） · 2026-11-21 21:32
-
-- [曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年](<https://www.ithome.com/1/030/475.htm>)  
-  IT之家 11 月 21 日消息，韩媒 Economy Tribune 今天（21 日）下午爆料称，三星电子 2027 年至 2029 年的大部分存储芯片产能 都已被合同预订 。随着 AI 数据中心投资持续扩大，存储芯片供应短缺长期难…  
-  IT之家 · 2026-11-21 20:47
-
-- [WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去](<https://36kr.com/p/4079476599772038?f=rss>)  
-  “在行动和言说中，人们表明了他们是谁。” 汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。 2026年，这些词正在落到具体的人身上。 创业者带着各自的技术  
-  36氪 · 2026-11-21 20:44
-
-- [欧洲央行行长拉加德呼吁欧盟用公共资金为芯片厂和数据中心承担首轮损失](<https://www.ithome.com/1/030/472.htm>)  
-  欧洲央行行长拉加德 11 月 20 日在法兰克福欧洲银行业大会发表卸任前最后一次演讲，呼吁欧盟利用包括欧盟预算在内的公共资金，在大型芯片制造厂和数据中心项目中率先承担首轮损失，通过跨区域公私合作伙伴关系吸引私人资本。  
-  IT之家·人工智能 · 2026-11-21 20:36
-
-- [Thinking Machines 发布开源循环 MoE 模型 Inkling 2 Mini，26.4B 参数可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
-  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、激活 3.4B，中间层权重每 token 复用 3 次，checkpoint 约 20GB，可在 32GB 内存 Mac 或 1 台 NVIDIA DGX Spark 上运行。  
-  MarkTechPost（RSS） · 2026-11-21 20:13
-
-- [OpenAI 在 API 上线 GPT-Live-1.1 语音模型，闲置成本降至 $0.02/分钟](<https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/>)  
-  OpenAI 将全双工语音模型 GPT-Live-1.1 开放进 API（模型 ID gpt-live-1.1），默认 128K 上下文，仅限 OpenAI 云端通过 v1/live/sessions 部署，客户端经 WebRTC 或 WebSocket 连接。  
-  MarkTechPost（RSS） · 2026-11-21 19:46
-
-- [前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足](<https://www.ithome.com/1/030/464.htm>)  
-  IT之家 11 月 21 日消息，据 Wccftech 报道，前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）表示，随着人工智能需要“ 10,000 倍的效率飞跃 ”，渐进式的芯片增益将无法满足需求，他同时否认了摩尔定…  
-  IT之家 · 2026-11-21 19:43
-
-- [2026年了，AI能有什么用？](<https://www.tmtpost.com/8213527.html>)  
-  AI能批量生成，不等于能出彩  
-  钛媒体 · 2026-11-21 19:21
-
-- [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](<https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/>)  
-  Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。  
-  The Decoder：AI News（RSS） · 2026-11-21 19:19
-
-- [【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地](<https://www.tmtpost.com/8213535.html>)  
-  （11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkB…  
-  钛媒体 · 2026-11-21 19:19
-
-- [前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖](<https://www.ithome.com/1/030/459.htm>)  
-  IT之家 11 月 21 日消息，据《商业内幕》，现年 43 岁、曾与黄仁勋共事三年半的前英伟达 AI 应用软件产品管理总监贾马尔，讲述了自己近距离观察黄仁勋及与其共事的经历。 IT之家附上全文大意如下： 在英伟达，黄仁勋与员工保持密…  
-  IT之家 · 2026-11-21 19:10
-
-- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
-  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
-  The a16z Show · 2026-11-21 19:00
-
-- [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
-  Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
-  The Decoder：AI News（RSS） · 2026-11-21 18:33
-
-- [美股科技股遭遇疫情以来最差单周表现，Nasdaq 100 周跌 10.4%](<https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/>)  
-  美国科技股大跌，Nasdaq 100 周五下跌 5.6%，全周累计下跌 10.4%，为新冠疫情以来最差单周表现，较 10 月高点回落 20% 进入熊市区间。  
-  The Decoder：AI News（RSS） · 2026-11-21 18:27
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 11 页

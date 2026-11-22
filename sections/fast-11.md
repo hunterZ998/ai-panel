@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 37 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 36 页
+
+- [Grana estimates long-horizon robot manipulation progress from short-horizon subtask predictions.](<https://x.com/kedaya/status/2124084907651797193>)  
+  Cao et al. use open-vocabulary descriptions and action-quality annotations. The catch: the supplied abstract gives no outcome metrics.  
+  @kedaya · 2026-11-21 18:18
+
+- [🤖 人形机器人，可能是下一个科技风口。](<https://x.com/devKXi8OfT93477/status/2124084889498882429>)  
+  从工厂生产到家庭服务，从物流运输到医疗辅助，机器人正在走进更多现实场景。 未来，机器人竞争的核心不只是外形，而是AI大脑、运动能力和实际应用。 当机器人真正走进千家万户，会诞生多少新的商业机会？ 你看好人形机器人吗？ \#机器人 \#AI \#Robotics  
+  @devKXi8OfT93477 · 2026-11-21 18:17
+
+- [My two orange @JollaHQ Phones \(2026\) arrived last month. \#SailfishOS 5.2, 12GB RAM, 256GB storage, and a rather ref…](<https://x.com/NansenID/status/2124084730849079402>)  
+  Naturally, I had to see what happens when a real @Linux phone meets my local AI infrastructure. = A quick  
+  @NansenID · 2026-11-21 18:17
 
 - [Exceeding 32GB on a consumer card via clamshell GDDR6/GDDR7 boosts local LLM context and 8K textures, but raw VRAM…](<https://x.com/turkprincee/status/2124083770353688794>)  
   Exceeding 32GB on a consumer card via clamshell GDDR6/GDDR7 boosts local LLM context and 8K textures, but raw VRAM capacity means little in gaming without wide memory bus bandwidth and mature DirectX 12 shader compiler optimization.  
@@ -164,16 +176,4 @@
   Nexperia worth $3.6 billion. Nvidia worth $4 trillion. Western supremacy worth toilet  
   @Kathleen\_Tyson\_ · 2026-11-21 10:35
 
-- [People still think all Nvidia did was circumventing US sanctions - now that the SEC finally started digging into it…](<https://x.com/DarioCpx/status/2123967383425437887>)  
-  People still think all Nvidia did was circumventing US sanctions - now that the SEC finally started digging into its books, I am looking forward to seeing how will people react when the news that Nvidia inflated its revenues booking more GPU sales than those i…  
-  @DarioCpx · 2026-11-21 10:31
-
-- [NYT's Paul Mozur tells @ErinBurnett that Alice Huang’s network has “direct and obvious” ties to China’s defense ind…](<https://x.com/OutFrontCNN/status/2123967226147643473>)  
-  NYT's Paul Mozur tells @ErinBurnett that Alice Huang’s network has “direct and obvious” ties to China’s defense industry, raising questions about what former Nvidia CEO Jensen Huang and his company knew.  
-  @OutFrontCNN · 2026-11-21 10:30
-
-- [今天在陶哲轩博客底下看到一句最扎心的评论： 以前纯数学是人类最公平的领域，一块黑板一根粉笔，穷学生也能和普林斯顿教授站在同…](<https://x.com/xKaka1456/status/2123966525669568632>)  
-  但从今天起，数学变成 F1 赛车了。你哪怕是绝世天才，只要别人进了 Anthropic 厂队、开上外面两年都买不到的内部模型，你连人家尾灯都看不见。  
-  @xKaka1456 · 2026-11-21 10:27
-
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 37 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 36 页

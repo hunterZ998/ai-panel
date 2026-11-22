@@ -38,7 +38,33 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 102 条
+## 相关资讯 · 99 条
+
+- [Anthropic万亿上市，搅动的却是半导体江湖](<https://www.163.com/dy/article/LCBJP0ID05118O92.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 14:34
+
+- [Anthropic万亿上市，搅动的却是半导体江湖](<https://www.tmtpost.com/8213769.html>)  
+  大买主登陆公开市场，芯片、代工与存储环节都在随之调整。  
+  钛媒体 · 2026-11-22 14:16
+
+- [Australia Spy Chief Warns of Data Center, AI Risks, Age Reports](<https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports>)  
+  Bloomberg · 2026-11-22 10:37
+
+- [试题用于大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评](<https://www.ithome.com/1/030/540.htm>)  
+  IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，近期部分人工智能大模型产品及其运营、推广主体宣…  
+  IT之家 · 2026-11-22 09:42
+
+- [Edge AI Daily 早报（11月22日）](<https://www.tmtpost.com/8213684.html>)  
+  英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Ant…  
+  钛媒体 · 2026-11-22 09:06
+
+- [特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面](<https://www.tmtpost.com/8213639.html>)  
+  数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。  
+  钛媒体 · 2026-11-22 08:45
+
+- [2万亿造富，25位华人员工接住Anthropic泼天富贵](<https://36kr.com/p/4079379879252868?f=rss>)  
+  AI界的造富故事，正在从创始人为主的一端向内部员工扩散。Anthropic的上市，恰好将这种变化推到了聚光灯下。 11月19日，Claude大模型背后的Anthropic正式登陆纳斯达克。公司IPO发行价为每股83美元，公开发行规模高达81  
+  36氪 · 2026-11-22 08:20
 
 - [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
   Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
@@ -46,9 +72,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 - [Oracle Says It Has Completed Funding to Fulfil OpenAI Deal](<https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal>)  
   The Information · 2026-11-22 00:09
-
-- [台积电暂停对中16nm及以下订单，胰腺癌新药重大突破，Anthropic数学家宣称](<https://www.163.com/dy/article/LCA26PKS051196HN.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 00:08
 
 - [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
   The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
@@ -58,29 +81,13 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
   20VC · 2026-11-21 22:50
 
-- [韩国总统李在明：速度在 AI 竞赛中至关重要](<https://www.ithome.com/1/030/506.htm>)  
-  IT之家 11 月 21 日消息，据路透社报道，当地时间 21 日，韩国总统李在明前往韩国东南部城市蔚山，视察当地一座在建数据中心，并敦促韩国加快在全球 AI 竞赛中的步伐。“ 全世界都在竞相角逐，速度至关重要 。” 数据中心是芯片需…  
-  IT之家 · 2026-11-21 22:26
-
 - [OpenAI 发布 GPT-6.2 Astra 和 Sol 的新提示词指南，修正简短回答与多余提问](<https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/>)  
   OpenAI 为 11 月 17 日发布的 GPT-6.2 Astra 和 Sol 公布了一套可直接复制的提示词模板，覆盖写作风格、主动性和编码，并建议迁移的开发者重新审视系统提示词。  
   The Decoder：AI News（RSS） · 2026-11-21 21:32
 
-- [曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年](<https://www.ithome.com/1/030/475.htm>)  
-  IT之家 11 月 21 日消息，韩媒 Economy Tribune 今天（21 日）下午爆料称，三星电子 2027 年至 2029 年的大部分存储芯片产能 都已被合同预订 。随着 AI 数据中心投资持续扩大，存储芯片供应短缺长期难…  
-  IT之家 · 2026-11-21 20:47
-
 - [Thinking Machines 发布开源循环 MoE 模型 Inkling 2 Mini，26.4B 参数可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
   Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、激活 3.4B，中间层权重每 token 复用 3 次，checkpoint 约 20GB，可在 32GB 内存 Mac 或 1 台 NVIDIA DGX Spark 上运行。  
   MarkTechPost（RSS） · 2026-11-21 20:13
-
-- [【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地](<https://www.tmtpost.com/8213535.html>)  
-  （11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkB…  
-  钛媒体 · 2026-11-21 19:19
-
-- [华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等](<https://www.ithome.com/1/030/423.htm>)  
-  IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大…  
-  IT之家 · 2026-11-21 17:57
 
 - [迈克尔·伯里谈 AI 股暴跌：早前已警告卖出英伟达、CoreWeave 与 Nebius](<https://www.ithome.com/1/030/378.htm>)  
   迈克尔·伯里在 X 平台发文称自己此前已提醒投资者可卖出英伟达、CoreWeave、Nebius 及半导体股。自 10 月 6 日盘中高点以来，三只股票分别下跌约 42%、55% 和 65%，纽交所半导体指数同期累计下跌约 30%。伯里 11 月 11 日曾呼吁股东卖出英伟达股票，认为黄仁勋离任后增长将放缓、利润率收窄，并警告 AI 企业过度投入折旧迅速的资产、采用激进会计手法和循环融资。  
@@ -93,14 +100,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Anthropic 上市后 7 位联合创始人靠 F 类股共同掌握 50.1% 投票权](<https://www.ithome.com/1/030/348.htm>)  
   据 Business Insider 报道，Anthropic 上市后通过特殊股权设计，让包括 CEO Dario Amodei 在内的 7 位联合创始人共同掌握 50.1% 股东投票权。  
   IT之家·人工智能 · 2026-11-21 13:14
-
-- [东南亚AI中间商之死](<https://www.tmtpost.com/8213274.html>)  
-  算力中间商的淘金时代，结束了。  
-  钛媒体 · 2026-11-21 13:05
-
-- [清析智研王欢：大模型学完了人类知识，下一步去哪儿？](<https://www.tmtpost.com/8213250.html>)  
-  AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？  
-  钛媒体 · 2026-11-21 12:44
 
 - [谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆](<https://36kr.com/p/4078984519750789?f=rss>)  
   谷歌内部，或许真正实现了RSI！ 从此，Gemini已能「继承经验」持续自我进化，Gemini新模型不再从零开始！ 或许也正是这个原因，谷歌最近跟疯了似的不停发模型。 Gemini 4 Hydrogen才发布不到一周，更强的Gemini 4  
@@ -149,10 +148,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [MIT-IBM 研究：多模态基础模型如何实现更像人的交互与理解](<https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120>)  
   MIT-IBM Computing Research Lab 团队在 Jim Glass 共同带领下研究多模态基础模型的感知与语言关联，并针对 GPT-4o 等模型的失败案例开发新基准与少监督方法。  
   MIT News（RSS） · 2026-11-21 05:00
-
-- [OpenAI 大幅强化 GPT-6.2 Astra 与 GPT-6.2 Sol 的推理抽取防护](<https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/>)  
-  OpenAI 大幅收紧了 GPT-6.2 Astra 与 GPT-6.2 Sol 防止内部推理被抽取的防护。  
-  The Decoder：AI News（RSS） · 2026-11-21 04:31
 
 - [How Anthropic Upstaged OpenAI on Road to Blockbuster IPO](<https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo>)  
   The Information · 2026-11-20 22:18
@@ -212,8 +207,11 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
   OpenAI · 2026-11-20 08:00
 
-- [Browser Use 复盘 LLM-as-a-Judge 只读了五分之一答案导致的评测假阳性](<https://browser-use.com/posts/llm-as-a-judge-eval-bug>)  
-  Browser Use 复盘一次 agent 评测中的 LLM judge bug：判分器只读 FINAL ANSWER: 标记后的文本，200 个任务中位数只读 2,102 字符中的 433 字符，其中 +5.1 分的提升有 1.8 到 2.6 分来自这个 bug。  
-  Browser Use · 2026-11-20 08:00
+- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
+  The Information · 2026-11-20 06:43
+
+- [Anthropic’s IPO could deliver $156B to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
+  At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
+  TechCrunch · 2026-11-20 03:10
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 3 页

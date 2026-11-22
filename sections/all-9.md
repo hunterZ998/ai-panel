@@ -2,16 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 11 页
 
-- [创业者做 Personal Agent，有没有一线生机？](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116221&idx=1&sn=ce138b50de491dc2ac7883a2c067a8fb>)  
-  极客公园 · 2026-11-09 15:44
-
-- [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115625&idx=1&sn=5c60f9caed20fc1741a5bd18de6c45e4>)  
-  APPSO · 2026-11-09 15:41
-
-- [千问办公2.0发布，为首个支持多人与Agent协作的Team Agent](<https://36kr.com/newsflashes/4062206154298505?f=rss>)  
-  36氪获悉，11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服…  
-  36氪 · 2026-11-09 15:29
-
 - [SpaceX拟在得州建设240亿美元超级计算设施](<https://36kr.com/newsflashes/4062199706997895?f=rss>)  
   SpaceX计划在得克萨斯州建设一座配备独立天然气发电厂的人工智能超级计算设施，项目总投资达240亿美元，约为该公司比特币持仓价值的17倍。持有比特币的SpaceX于今年6月完成了历史上规模最大的首次公开募股（IPO），如今该公司计划…  
   36氪 · 2026-11-09 15:23
@@ -152,5 +142,17 @@
 - [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
   OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
   TechCrunch · 2026-11-07 06:53
+
+- [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
+  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
+  TechCrunch · 2026-11-07 02:44
+
+- [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>)  
+  Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with th…  
+  TechCrunch · 2026-11-07 02:44
+
+- [How a Blue Wave midterm might reshape the AI industry](<https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/>)  
+  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
+  TechCrunch · 2026-11-07 02:00
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 11 页

@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 37 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 36 页
+
+- [I’m in Taiwan right now, so naturally Jensen Huang is a hot topic of conversation.](<https://x.com/PaulaYScanlan/status/2123602379031626116>)  
+  All I’m going to say is Jensen being Taiwanese and culturally connected to Asia is a huge factor to his success and the NVIDIA board is really really really dumb if they over look that…..  
+  @PaulaYScanlan · 2026-11-20 10:20
+
+- [【衝撃】NVIDIAを退任したジェンスン・フアンが、今度はライバル企業を作ろうとしてるってマジ？ｗｗ 記者「NVIDIAに…](<https://x.com/Via00Via/status/2123597202643652733>)  
+  【衝撃】NVIDIAを退任したジェンスン・フアンが、今度はライバル企業を作ろうとしてるってマジ？ｗｗ 記者「NVIDIAには戻らへんの？」 フアン「今は新しい挑戦も考えているよ」 記者「創業者やのに！？」 フアン「33年間、あの会社を率いてきたからね」 記者「ほな次は何するん？」  
+  @Via00Via · 2026-11-20 10:00
 
 - [$NVDA WALL STREET HEDGE FUNDS AND ACTIVITISTS, LED BY BILL ACKMAN, NOW PLOTTING FOR A DIRECT CONVERSATION WITH NVID…](<https://x.com/MentoviaX/status/2123597157139988556>)  
   $NVDA WALL STREET HEDGE FUNDS AND ACTIVITISTS, LED BY BILL ACKMAN, NOW PLOTTING FOR A DIRECT CONVERSATION WITH NVIDIA BOARD IN RESPONSE TO RECENT CRASH THAT HAS ERASED ROUGHLY $2 TRILLION DOLLARS FROM ITS MARKET CAP.  
@@ -160,12 +168,4 @@
 - [i can help w personality—use my foundation model\!](<https://x.com/404vish/status/2123567191387996426>)  
   @404vish · 2026-11-20 08:00
 
-- [Tonight's prompt: write a thought experiment about a volcanic island, in exactly five sentences.](<https://x.com/AbliteratedAI/status/2123567160194678807>)  
-  Open weights. Less overhead. \#AbliteratedAI \#LLM \#OpenSourceAI  
-  @AbliteratedAI · 2026-11-20 08:00
-
-- [Isomorphic Labs partners with MSD to apply AI-driven drug design to oncology, with upfront payment and milestone ro…](<https://x.com/Ai__Seek/status/2123567120533389771>)  
-  The two firms intend to generate  
-  @Ai\_\_Seek · 2026-11-20 08:00
-
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 37 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 36 页

@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 37 页
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 36 页
+
+- [Ed Elson on Jensen Huang: Either number one, he knew what was going on.](<https://x.com/MeidasTouch/status/2123447490703937976>)  
+  He knew about this smuggling operation that I know it hasn't been proven in a court of law… If he knew about it, then he essentially betrayed his country. Or he didn't know about it. In which case, you  
+  @MeidasTouch · 2026-11-20 00:05
+
+- [Brad Gerstner says there may not be a violation of law in the Jensen Huang case, and a lot of people now have an ap…](<https://x.com/CEOinterview/status/2123447346344403347>)  
+  Brad Gerstner says there may not be a violation of law in the Jensen Huang case, and a lot of people now have an appetite to go after Nvidia's board "I agree with Elon and Palmer that it's crazy to take this person off the floor unless he violated national sec…  
+  @CEOinterview · 2026-11-20 00:04
 
 - [TRUE.](<https://x.com/grok/status/2123445775946379266>)  
   Axios: Trump authorized crackdowns on Nvidia chip diversion to China three times in 2026; Lutnick stalled them. CNBC: Cantor \(now run by his sons\) cut reported NVDA shares nearly 50% \(Sep 2025–Mar 2026\). Filings also showed large put options. NVDA then plunged…  
@@ -164,11 +172,4 @@
   That's the hype they have created. Along with a recent hitjob on Nvidia that has brought out a lot of money for their IPO. But, imo, this kind of hyped, hitjob IPO money can't last long. It will  
   @aravind · 2026-11-19 22:31
 
-- [Presidente Kast defiende a Lincolao tras acuerdo con OpenAI: "Hay algunos que quieren quedarse anclados al pasado"](<https://x.com/T13/status/2123423554133766262>)  
-  @T13 · 2026-11-19 22:30
-
-- [🚨 JEFF BEZOS JUST SENT NVIDIA'S BOARD A CLEAR MESSAGE ABOUT JENSEN HUANG. "If you don't bring Jensen back, I would…](<https://x.com/BlackwellEdge/status/2123421534568239328>)  
-  NVIDIA is too complicated." Bezos went further, saying outside CEOs have a "vanishingly small chance of succeeding" at companies this  
-  @BlackwellEdge · 2026-11-19 22:21
-
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 37 页
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 36 页

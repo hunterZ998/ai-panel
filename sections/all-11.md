@@ -2,18 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · 第 11 / 11 页
 
-- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
-  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
-  Latent Space · 2026-10-29 04:00
-
-- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
-  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
-  The a16z Show · 2026-10-28 18:00
-
-- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
-  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
-  Latent Space · 2026-10-28 02:40
-
 - [Reinventing School for the AI Era \| Joe Liemandt, Gagan Biyani &amp; Erik Torenberg](<https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu>)  
   What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt arg…  
   The a16z Show · 2026-10-27 18:00

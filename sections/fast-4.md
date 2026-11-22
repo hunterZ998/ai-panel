@@ -1,6 +1,18 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 37 页
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 36 页
+
+- [How do you expect me to be normal when right after this, Book literally asked about having another baby with him?](<https://x.com/cry4fb/status/2124190610479370424>)  
+  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
+  @cry4fb · 2026-11-22 01:18
+
+- [BREAKING: Former NVIDIA CEO Jensen Huang reportedly used to tap employees on the opposite shoulder and pretend he h…](<https://x.com/dogeofficialceo/status/2124190126222057865>)  
+  BREAKING: Former NVIDIA CEO Jensen Huang reportedly used to tap employees on the opposite shoulder and pretend he had no idea who did it.  
+  @dogeofficialceo · 2026-11-22 01:16
+
+- [🍅 เสียงมาฟ้อกเบามั้ยทุกคน ได้ยินมั้ย 🍼 ฮาโหลล 🦊 ฟ้อกกดไมค์เข้าไปหน่อย มันติดเหนียงนิดนึงลูก 🍅 ฟ้อกอย่าใช้คางพูดลูก…](<https://x.com/_itsmeworjor/status/2124189421700628783>)  
+  🍅 เสียงมาฟ้อกเบามั้ยทุกคน ได้ยินมั้ย 🍼 ฮาโหลล 🦊 ฟ้อกกดไมค์เข้าไปหน่อย มันติดเหนียงนิดนึงลูก 🍅 ฟ้อกอย่าใช้คางพูดลูก ใช้ปาก 🍼 \(ยื่นไมค์ให้ถึงปาก\) ฟ้อกเป็นเด้กตลก ยายขำจะตราย5555555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBud…  
+  @\_itsmeworjor · 2026-11-22 01:13
 
 - [🚨 UPDATE sur Riemann et elle est énorme Hier, Levent Alpöge, mathématicien chez Anthropic, annonçait avoir trouvé u…](<https://x.com/Frenchie_/status/2124187186996089255>)  
   C'était une revendication, personne n'avait encore vérifié Aujourd'hui, la Lean FRO et la Mathlib Initiative, les deux organisations  
@@ -165,15 +177,4 @@
   สายตาบุ๊คที่มองฟอสตอนพูดเรื่องของขวัญวันเกิดที่ซื้อให้ คือบอกทุกอย่างเลย FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
   @Nukcyn · 2026-11-21 22:56
 
-- [ลูกหลานพี่ถาวันนี้งานฉ่ำมาก ซัง-โม่-เอนี่-เชี่ยน เฟสที่ญี่ปุ่น ปอนด์ งานGIFFARINE ฟอสบุ๊คมะฟ๊อก Huawei โฟ๊ด-พี่ตู เ…](<https://x.com/kukuma_michiyo/status/2124155064977965258>)  
-  ลูกหลานพี่ถาวันนี้งานฉ่ำมาก ซัง-โม่-เอนี่-เชี่ยน เฟสที่ญี่ปุ่น ปอนด์ งานGIFFARINE ฟอสบุ๊คมะฟ๊อก Huawei โฟ๊ด-พี่ตู เปิดต้นคริสมาส Centralpark มาร์คจิ เปิดต้นคริสมาส themall korat เบบี๋ งานขอนแก่น แจ๊คกี้ catexpo แจนจิงจิง เจเวล คอนเสิร์ต มีใครอีกมะคับ  
-  @kukuma\_michiyo · 2026-11-21 22:56
-
-- [\[สัมภาษณ์\] — 🦊🍅🍼 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo 🍅 : บุ๊คดีใจมาก คือฟอ…](<https://x.com/bookfamily_/status/2124151940229812626>)  
-  \[สัมภาษณ์\] — 🦊🍅🍼 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo 🍅 : บุ๊คดีใจมาก คือฟอสดูภายนอกอาจจะเหมือนเป็นคนเฉยชา จริงๆ ฟอสเป็นคนใส่ใจมากเพราะบุ๊คก็อยู่กับฟอสมา บุ๊คก็รู้ว่าฟอสเป็นคนเทคแคร์คนอื่น อันนี้ก็เป็นสิ่งที่เซอร์ไพรส์เห…  
-  @bookfamily\_ · 2026-11-21 22:44
-
-- [น้องบุ๊คหนูทำอะไรจ๊ะลูก FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/Myrabbittui/status/2124151569122005323>)  
-  @Myrabbittui · 2026-11-21 22:42
-
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 37 页
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 36 页

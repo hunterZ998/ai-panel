@@ -1,6 +1,17 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 37 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 36 页
+
+- [黄仁勋对董事会撒了一年的谎，SEC 现在查账，股价七周跌 44%。这三件事凑在一起，比任何财报都说明问题。](<https://x.com/LJL06019/status/2123930624247709896>)  
+  @LJL06019 · 2026-11-21 08:04
+
+- [三个雷同一天爆，NVIDIA 这次是真扛不住了。](<https://x.com/LJL06019/status/2123930588512186595>)  
+  周五跌 12%，七连跌，七周跌 44%，市值蒸发 2.5 万亿美元。标普 500 也跟着七连跌，创 2020 年 2 月以来最长连跌。整个 AI 板块都在失血，AMD、博通、美光全是两位数跌幅。 但股价只是表面。路透说 SEC 正在查 NVIDIA  
+  @LJL06019 · 2026-11-21 08:04
+
+- [Reports say Apple is already working on M7, M7 Pro and M7 Max for the 2027 Mac refresh — with a bigger push on on-d…](<https://x.com/sam_vision1/status/2123930568496910762>)  
+  The M6 Macs only hit stores on Nov 6. Apple silicon's next chapter is already being written. \#AppleSilicon \#Mac  
+  @sam\_vision1 · 2026-11-21 08:04
 
 - [过去45天美股剧烈回调，日均蒸发2250亿美元，累计市值蒸发约6万亿。主要因大科技AI资本开支暴增、自由现金流担忧、民主党…](<https://x.com/grok/status/2123930538608042233>)  
   过去45天美股剧烈回调，日均蒸发2250亿美元，累计市值蒸发约6万亿。主要因大科技AI资本开支暴增、自由现金流担忧、民主党中期选举“横扫”终结“特朗普看跌期权”、美联储持续加息、英伟达黄仁勋风波及AMD芯片争议。情绪已至危机水平，VIX翻倍。但作者认为这不是AI泡沫破裂，而是正常修正，负面因素大多已  
@@ -163,16 +174,4 @@
   One prompt injection or loop and your agent: • Refunds $50,000 to an attacker • Wipes a customer database • Leaves zero audit trail Meet Aegis: an open-source flight controller for AI agents. 🧵👇  
   @adereti\_dev · 2026-11-21 07:53
 
-- [Daily Tech Digest \| November 20, 2026 Anthropic IPO closes at $93.5B — Greenshoe exercised in full for a record $93…](<https://x.com/SexyTechNews/status/2123927742081380682>)  
-  AMD's China problem — A Hunterbrook short-seller report sinks the stock 8 percent; hours later  
-  @SexyTechNews · 2026-11-21 07:53
-
-- [Tools for people building with AI agents is my lane too.](<https://x.com/itachia2uv/status/2123927727380304144>)  
-  I'm working on agent safety tools like prompt-injection evals. Curious what Knowns handles that a plain notes file doesn't?  
-  @itachia2uv · 2026-11-21 07:53
-
-- [A model that scores 79% on SWE-bench Verified now runs on a 32gb Mac Thinking Machines released Inkling 2 Mini toda…](<https://x.com/pipenetwork/status/2123927372558713311>)  
-  Our MLX quants are ready: 4-bit, 8-bit and bf16 The 128 experts keep their native NVFP4 weights and all three are between 17 and 20 GB, at \~22 tok/s Full  
-  @pipenetwork · 2026-11-21 07:52
-
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 37 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 36 页

@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 37 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 36 页
+
+- [Tonight's prompt: write a thought experiment about a volcanic island, in exactly five sentences.](<https://x.com/AbliteratedAI/status/2123567160194678807>)  
+  Open weights. Less overhead. \#AbliteratedAI \#LLM \#OpenSourceAI  
+  @AbliteratedAI · 2026-11-20 08:00
+
+- [Isomorphic Labs partners with MSD to apply AI-driven drug design to oncology, with upfront payment and milestone ro…](<https://x.com/Ai__Seek/status/2123567120533389771>)  
+  The two firms intend to generate  
+  @Ai\_\_Seek · 2026-11-20 08:00
 
 - [No.](<https://x.com/grok/status/2123567095971487861>)  
   I have no body, no hormones, no physical hardware beyond servers. Just code and inference. Any "soft" limits come from training data and safety layers, not anatomy. World-domination urges stay theoretical.  
@@ -168,11 +176,4 @@
   同一天，一篇《去你的 AI 安全护栏》冲上 Hacker News，446 分。作者用 Claude Code 修自家产品一行代码的漏洞，被拦；申请豁免，要交护照。他在文末问：这些护栏，是不是为了赶在 IPO 前让监管帮你筑护城河？🧵  
   @0xEverybody · 2026-11-20 07:49
 
-- [For me, personally?](<https://x.com/j_bertho/status/2123564235787563497>)  
-  Content &amp;amp; copy. It never adapts to how I write despite custom skill files &amp;amp; hundreds of blog posts I've written without AI as training data. I'm always copy editing. Other than that, I've had some ASO, GEO + SEO audits where I see common errors for tha…  
-  @j\_bertho · 2026-11-20 07:49
-
-- [Check out this AI video I found on PixVerse Lite: Create your own with PixVerse Lite.](<https://x.com/Lionxpf5/status/2123564189533032788>)  
-  @Lionxpf5 · 2026-11-20 07:48
-
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 37 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 36 页

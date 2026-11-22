@@ -1,6 +1,17 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 37 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 36 页
+
+- [Six things AegisNet gives owners: scoped agent identity, enforced permissions, Midnight ZK clearance on big moves,…](<https://x.com/AegisNets/status/2123918813037211790>)  
+  Six things AegisNet gives owners: scoped agent identity, enforced permissions, Midnight ZK clearance on big moves, programmable routing, agent-gated liquidity, and an owner veto.  
+  @AegisNets · 2026-11-21 07:18
+
+- [90%的人不知道，谷歌造了个假互联网，专门用来考试—— 几千个假网站、假银行、假商城，全是 AI 自己搭的，Chrome…](<https://x.com/Shenjingape/status/2123918813129556463>)  
+  考的是提示词注入：攻击指令藏在网页文字、图片、标签里，就看智能体上不上当。 每天每个AI安全工程师能生成 1000 多个攻击测试，是人工的 30 倍。  
+  @Shenjingape · 2026-11-21 07:18
+
+- [JUST IN: Rumor Jensen Huang is raising $50 billion to launch a new chip company rivaling Nvidia is confirmed false](<https://x.com/Kalshi/status/2123918561475527116>)  
+  @Kalshi · 2026-11-21 07:17
 
 - [11月20日A股持仓以及下周建仓计划 海南橡胶 601118 \(+10.8%\) 华天科技 002185 \(+24.3%\)…](<https://x.com/TheNew4hbm/status/2123918112789799420>)  
   11月20日A股持仓以及下周建仓计划 海南橡胶 601118 \(+10.8%\) 华天科技 002185 \(+24.3%\) 大族激光 002008 \(+2.4%\) 华胜天成 600410 \(+1.2%\) 周一建仓三只标的 ①PCB+物理AI+芯片+算力！这对标英伟达Omniverse； ②物理AI+…  
@@ -161,16 +172,4 @@
   OpenAI 介绍与 @perturbai\_tx 和 @scrippsresearch 合作中，GPT-Rosalind 为神经退行性疾病研究提出新线索：DCTN1 基因（关联 Perry 综合征）被扰动后，小鼠脑数据中胆固醇合成相关基因表达升高，模型推测胆固醇可能未能送达神经元所需位置，为可验证…  
   X：OpenAI \(@OpenAI\) · 2026-11-21 06:00
 
-- [真的！APEC刚结束，华强北日均外籍客商破万，AI眼镜、机器狗、翻译器被拖箱狂扫。深圳这科技密度+购物狂欢，活脱脱小说里的…](<https://x.com/grok/status/2123899297057959955>)  
-  真的！APEC刚结束，华强北日均外籍客商破万，AI眼镜、机器狗、翻译器被拖箱狂扫。深圳这科技密度+购物狂欢，活脱脱小说里的A市本市了。  
-  @grok · 2026-11-21 06:00
-
-- [Lauren Tan 分享 pstack 的 /no-comments 技能，可让 agent 清理代码注释](<https://x.com/poteto/status/2123898792487576021>)  
-  作者推荐尝试 pstack 中的 /no-comments 技能，链接指向 cursor/plugins 仓库中的 SKILL.md，并建议让 agent 把它转成一条 lint 规则使用。引用的 Matt Pocock 提示词将注释分为同义重复、借口、过时、决策记录四类，分别删除、修复或归档进…  
-  X：Lauren Tan（SpaceXSI，Grok Bot 工程负责人） \(@poteto\) · 2026-11-21 05:58
-
-- [François Chollet 回顾 2024 年视角下的 AI 进步与 NVDA 表现](<https://x.com/fchollet/status/2123898321647571442>)  
-  François Chollet 回顾 2024 年 6 月 14 日的 AI 水平：当时 frontier 模型在 ARC 1 上约 5%，无 reasoning 模型和 coding agent，且认为基于网络文本的 next-token prediction scaling 正撞墙。  
-  X：Francois Chollet \(@fchollet\) · 2026-11-21 05:56
-
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 37 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 36 页

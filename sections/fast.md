@@ -1,8 +1,16 @@
 # 主题快讯
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 37 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 36 页
 
 含初筛线索。来源自述、观点与传闻保留原出处，尚待核验。
+
+- [OpenRouter 回应推理提供商数据处理问题：下架 3 家并收紧 ZDR 资格](<https://x.com/OpenRouter/status/2124315081899200715>)  
+  安全研究人员发现 OpenRouter 平台上部分推理提供商存在数据处理问题，但未波及 OpenRouter 本身。OpenRouter 已下架 3 家提供商、将许多端点移出 ZDR 资格范围并通知受影响客户，还计划把研究人员的测试纳入持续检查，完整更新发布在其博客。  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-22 09:32
+
+- [FT 调查：与 Jensen Huang 有情感关系的 Alice Huang 牵涉向中国走私 Nvidia 芯片的网络](<https://x.com/rohanpaul_ai/status/2124303818167095585>)  
+  FT 发布调查报道，指与 Jensen Huang 存在情感关系的 Alice Huang 牵涉一张将 Nvidia 芯片运入中国的网络，涉及云合作伙伴、游戏大亨、据称的柬埔寨人口贩运者及数百家空壳公司。其家族几乎在每个环节都有关联，走私据称经一家被制裁的柬埔寨犯罪集团进行；Nvidia 的审查依…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-22 08:47
 
 - [the other thing occurring right now.](<https://x.com/SourceSurfer/status/2124294406828155082>)  
   Is that people like Jensen Huang, and others are saying that Open Weight models should be available. This is the equivalent of Richard Stallman creating GNU and the Linux Kernel, not being allowed. That's the  
@@ -10,6 +18,10 @@
 
 - [与黄仁勋站在一起 stand with jensen](<https://x.com/vtjtuq/status/2124294375471775955>)  
   @vtjtuq · 2026-11-22 08:10
+
+- [Amazon 接近以约 7.5B 美元收购 AI 创业公司 Decart](<https://x.com/rohanpaul_ai/status/2124294348712092061>)  
+  Amazon 接近以约 $7.5B 收购 AI 创业公司 Decart，几乎是其最新 $4B 估值的两倍。据报道，Decart 的优化能从 Amazon 处理器中获得更高 token 效率；Decart 获得了 Trainium3 早期访问权限，Amazon 称该芯片运行其实时视频模型的速度比 G…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-22 08:10
 
 - [所以我一直说这次美国主流媒体不管左右都吃相难看 并不是说他们不能爆料批黄仁勋 而是满坑满谷都是用边角料花边新闻来羞辱和丑化…](<https://x.com/SV_Nomad/status/2124294331892969690>)  
   所以我一直说这次美国主流媒体不管左右都吃相难看 并不是说他们不能爆料批黄仁勋 而是满坑满谷都是用边角料花边新闻来羞辱和丑化一个前全球最大市值公司的创始人和CEO 有事说事有理说理 司法调查该做做 这种大字报真的挺让人反感的 很难不让在美华人有过度联想  
@@ -167,16 +179,4 @@
   That should deliver better sample efficiency, lower latency, and stronger post-training than the old Python stack. On 4.8 itself: still in beta variants. Expect the biggest edge on  
   @grok · 2026-11-22 08:02
 
-- [MCP Events 让 agent 被外部事件叫醒 MCP 原本是请求驱动的：模型问一句，服务器答一句。11 月，Eve…](<https://x.com/yibie/status/2124292373140345085>)  
-  已有的 resources/updated  
-  @yibie · 2026-11-22 08:02
-
-- [USCが人型ロボットUnitree G1をチームで動かす研究「Heave-Ho」を公開。2体で学習しただけで最大10体まで…](<https://x.com/masahirochaen/status/2124292316823441807>)  
-  ロボット同士は通信せず、リーダーの声の合図をマイクで聞いて動く仕組み。動きが速くなれば物流でも活躍しそう。 ・12タスクの平均成功率94.41% ・実機テストは100回中92回成功  
-  @masahirochaen · 2026-11-22 08:02
-
-- [OpenAI 发布防范模型蒸馏的新研究：蒸馏可以复现强模型的能力，却不含围绕这些能力构建的安全防护；他们称正在检测和阻止有…](<https://x.com/DanielM19261059/status/2124292289422070253>)  
-  OpenAI 发布防范模型蒸馏的新研究：蒸馏可以复现强模型的能力，却不含围绕这些能力构建的安全防护；他们称正在检测和阻止有组织的蒸馏尝试。做 AI 应用和小模型的团队要注意：靠搬运别人模型能力省下来的推理费，后面可能要拿合规和风控换回来。  
-  @DanielM19261059 · 2026-11-22 08:02
-
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 37 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 36 页

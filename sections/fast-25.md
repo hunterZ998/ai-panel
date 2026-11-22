@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 37 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 36 页
+
+- [Isn't this the exact method they did to Nvidia?](<https://x.com/_Tweetiez/status/2123716771022582183>)  
+  Attack, disrupt, shame and install a zionist puppet.  
+  @\_Tweetiez · 2026-11-20 17:55
+
+- [AnthropicのIPO直後に水を差すようなことをして申し訳ない。でも、ECBの最新の金融安定性報告書を読んだところ、背…](<https://x.com/ishiharajun/status/2123714387907424269>)  
+  その結論：AIの資金調達の仕方が、サブプライムローンのそれにあまりにも似すぎている。  
+  @ishiharajun · 2026-11-20 17:45
 
 - [C'est complètement dingue...](<https://x.com/PaulYoungX/status/2123710181032747325>)  
   Anthropic vient de sortir 532 plugins Claude gratuits. Et c'est Stripe, Shopify, Canvas, BlackRock et HubSpot qui les ont développés eux-mêmes pour Claude Dario Amodei \(CEO d'Anthropic\) a choisi les 7 qui remplacent toute l'équipe d'une petite boîte.  
@@ -171,12 +179,4 @@
   《纽约时报》又报大料：黄仁勋与中共军方人员交往密切 黄乐背后的金主是阿里巴巴，阿里巴巴的之江人工智能实验室与中共军方关系密切，主任王坚曾任阿里巴巴首席技术官，就在几周前，王坚担任了更接近军方的角色——中国人民解放军国防科技大学的专家顾问。  
   @threerights1 · 2026-11-20 10:20
 
-- [I’m in Taiwan right now, so naturally Jensen Huang is a hot topic of conversation.](<https://x.com/PaulaYScanlan/status/2123602379031626116>)  
-  All I’m going to say is Jensen being Taiwanese and culturally connected to Asia is a huge factor to his success and the NVIDIA board is really really really dumb if they over look that…..  
-  @PaulaYScanlan · 2026-11-20 10:20
-
-- [【衝撃】NVIDIAを退任したジェンスン・フアンが、今度はライバル企業を作ろうとしてるってマジ？ｗｗ 記者「NVIDIAに…](<https://x.com/Via00Via/status/2123597202643652733>)  
-  【衝撃】NVIDIAを退任したジェンスン・フアンが、今度はライバル企業を作ろうとしてるってマジ？ｗｗ 記者「NVIDIAには戻らへんの？」 フアン「今は新しい挑戦も考えているよ」 記者「創業者やのに！？」 フアン「33年間、あの会社を率いてきたからね」 記者「ほな次は何するん？」  
-  @Via00Via · 2026-11-20 10:00
-
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 37 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 36 页

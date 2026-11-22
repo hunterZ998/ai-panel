@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 37 页
+[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 36 页
+
+- [BREAKING: Anthropic shares plummet under $100](<https://x.com/Kalshi/status/2123467315853324529>)  
+  @Kalshi · 2026-11-20 01:23
+
+- [Gemini 4 Neon is wild 🔥🔥 I gave it one single static image and just asked it to animate it in Three.js.](<https://x.com/ai_for_success/status/2123467103110078747>)  
+  Nothing else. On its own, it downloaded Depth Anything V2 Large from Hugging Face, ran it locally on my Mac to generate a depth map, sliced the image into layers and  
+  @ai\_for\_success · 2026-11-20 01:23
 
 - [For those surprised that the NASDAQ and other US stock market indices are down 1.5–2% \(CNBC data below\) while Anthr…](<https://x.com/elerianm/status/2123466886931259790>)  
   In a narrow sense, investor financing of the  
@@ -167,12 +174,4 @@
   Cloudflare just dropped Clairic on @huggingface ☁️✏️🧾 Clairic goes beyond decision models: it actually extracts information on a single forward pass, unlocking ultra fast system one decision-making process ▶️  
   @HuggingApps · 2026-11-20 00:05
 
-- [Ed Elson on Jensen Huang: Either number one, he knew what was going on.](<https://x.com/MeidasTouch/status/2123447490703937976>)  
-  He knew about this smuggling operation that I know it hasn't been proven in a court of law… If he knew about it, then he essentially betrayed his country. Or he didn't know about it. In which case, you  
-  @MeidasTouch · 2026-11-20 00:05
-
-- [Brad Gerstner says there may not be a violation of law in the Jensen Huang case, and a lot of people now have an ap…](<https://x.com/CEOinterview/status/2123447346344403347>)  
-  Brad Gerstner says there may not be a violation of law in the Jensen Huang case, and a lot of people now have an appetite to go after Nvidia's board "I agree with Elon and Palmer that it's crazy to take this person off the floor unless he violated national sec…  
-  @CEOinterview · 2026-11-20 00:04
-
-[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 37 页
+[返回面板](../README.md) · [上一页](fast-30.md) · [下一页](fast-32.md) · 第 31 / 36 页

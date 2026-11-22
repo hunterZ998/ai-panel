@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 11 页
 
+- [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
+  Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
+  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
+
+- [Amp 为 Puck 推出车载模式，支持开车时语音对话](<https://ampcode.com/news/puck-in-the-car>)  
+  Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
+  Amp Chronicle · 2026-11-21 08:00
+
 - [Anthropic Mathematician Says He Proved Riemann Hypothesis](<https://www.theinformation.com/briefings/anthropic-mathematician-says-proved-riemann-hypothesis>)  
   The Information · 2026-11-21 07:24
 
@@ -50,10 +58,6 @@
 
 - [Anthropic Shares Slide After Banks Exercise ‘Greenshoe’](<https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe>)  
   The Information · 2026-11-21 04:54
-
-- [OpenAI 大幅强化 GPT-6.2 Astra 与 GPT-6.2 Sol 的推理抽取防护](<https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/>)  
-  OpenAI 大幅收紧了 GPT-6.2 Astra 与 GPT-6.2 Sol 防止内部推理被抽取的防护。  
-  The Decoder：AI News（RSS） · 2026-11-21 04:31
 
 - [WaitFeed](<https://www.producthunt.com/products/waitfeed-2>)  
   Tech feed inside agent wait time  
@@ -168,9 +172,5 @@
 - [告别「服务器繁忙」与长对话限制，这几招让你继续畅用 DeepSeek](<https://36kr.com/p/4077987624981382?f=rss>)  
   DeepSeek，开始限制使用了。 过去两天，越来越多人发现，自己用了快两年的免费 DeepSeek，突然开始弹出「使用额度已达上限」。有人的长对话无法继续，有人聊了不到两个小时就触发限制。 用户彻底怒了，甚至涌入应用商店给 DeepSee  
   36氪 · 2026-11-20 20:23
-
-- [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
-  Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
-  Axios · 2026-11-20 20:10
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 11 页

@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 37 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 36 页
+
+- [California sues OpenAI, accusing it of developing its AI technology without safety or the public’s interest in mind.](<https://x.com/KenRoth/status/2123532395173322789>)  
+  It cites 80 incidents of “loss of control” of AI agents, suggesting OpenAI doesn’t have adequate safeguards in place to protect society.  
+  @KenRoth · 2026-11-20 05:42
+
+- [The Anthropic IPO is a good reminder that AI is everything that crypto bros wished crypto would become There are re…](<https://x.com/BoringBiz_/status/2123528661475512430>)  
+  The Anthropic IPO is a good reminder that AI is everything that crypto bros wished crypto would become There are real use cases where you can show quantifiable ROI with AI, and now the industry has a pure play trillion dollar business that just went public Mea…  
+  @BoringBiz\_ · 2026-11-20 05:27
 
 - [Any thoughts about those of us who had our work stolen by Anthropic?](<https://x.com/DrJenGunter/status/2123528453450526753>)  
   What about the years of work we put into writing?  
@@ -169,12 +177,4 @@
   The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the 'apparent ​infiltration of banks by rogue AI agents,’ per Reuters  
   @unusual\_whales · 2026-11-20 02:57
 
-- [🚨 Something is seriously wrong with Anthropic's valuation and its massive AI spending.](<https://x.com/BullTheoryio/status/2123489741714907474>)  
-  Anthropic has committed over $1 TRILLION to AI computing and infrastructure over the coming years. To earn a 20% annual return on that investment, it would need $200 BILLION in profit after  
-  @BullTheoryio · 2026-11-20 02:53
-
-- [WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft…](<https://x.com/gatewaypundit/status/2123488068199989755>)  
-  WAYNE ROOT: If You’re Worried About Cyberattacks on Infrastructure, Banks, Airlines, Government Agencies, Microsoft, Apple and Top Corporations in World, But You’re Not Worried the Midterm Election Was Rigged &amp;amp; Stolen…You’re a Clueless Moron  
-  @gatewaypundit · 2026-11-20 02:46
-
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 37 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 36 页

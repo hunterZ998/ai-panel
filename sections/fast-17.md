@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 37 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 36 页
+
+- [BREAKING: Ron Baron praises Elon Musk’s incredible speed in building AI data centers in just 4–8 months while other…](<https://x.com/cb_doge/status/2123873812676829424>)  
+  BREAKING: Ron Baron praises Elon Musk’s incredible speed in building AI data centers in just 4–8 months while other companies take 2.5 years, and says Anthropic is paying SpaceX $3.1 billion a month to use its computing power.  
+  @cb\_doge · 2026-11-21 04:19
+
+- [The $NVDA board has a fiduciary duty to shareholders, and they're failing it.](<https://x.com/stockmom/status/2123873572108030357>)  
+  Employees who spent years building Nvidia are watching their stock comp and life savings go up in smoke. This is how the board thanks them? What a disgrace.  
+  @stockmom · 2026-11-21 04:18
 
 - [what really happened to Jensen Huang? the AI race is not what it seems](<https://x.com/PsyopAnime/status/2123873414998106450>)  
   @PsyopAnime · 2026-11-21 04:17
@@ -166,12 +174,4 @@
   Anthropic has plunged more than 25% from its post-IPO high. Bitcoin is collapsing, and the  
   @MarioNawfal · 2026-11-21 02:51
 
-- [Anthropicの数学者Levent Alpögeが「Claudeと一緒にリーマン予想を証明したと信じている（I bel…](<https://x.com/hyuki/status/2123850921885192624>)  
-  Anthropicの数学者Levent Alpögeが「Claudeと一緒にリーマン予想を証明したと信じている（I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.）」と発表した4ペ…  
-  @hyuki · 2026-11-21 02:48
-
-- [The full quote from the Anthropic safeguards researcher is "pretty much all humans on Earth will become permanently…](<https://x.com/davenewworld_2/status/2123850753408123364>)  
-  The full quote from the Anthropic safeguards researcher is "pretty much all humans on Earth will become permanently unemployable and will need to strictly rely on government welfare"  
-  @davenewworld\_2 · 2026-11-21 02:47
-
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 37 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 36 页

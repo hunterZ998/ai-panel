@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 11 页
 
+- [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
+  Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
+  Axios · 2026-11-20 20:10
+
 - [「收手吧，人类大于利润！」现场直击AnthropicIPO，大量人群抗议「停止科技寡头」](<https://36kr.com/p/4077881070687104?f=rss>)  
   当地时间2026年11月19日，纽约时代广场的三块大屏幕上轮番滚动前沿AI实验室Anthropic的巨幅广告。这家2021年在旧金山成立的人工智能公司称，“我们如何把握眼下这个 AI 时刻，将决定这一刻的意义”。纳斯达克交易所外的广场上，主  
   36氪 · 2026-11-20 19:46
@@ -64,6 +68,14 @@
 - [诚恒微完成近2亿元A轮融资，加速边端侧AI SoC规模化落地](<https://www.pedaily.cn/first/193733.shtml>)  
   无锡诚恒微电子有限公司完成近2亿元A轮融资，由中金资本、中车资本、毅达资本、锡创兴吴、奇安投资联合参与。（投资界讯） 原文链接  
   投资界 · 2026-11-20 13:36
+
+- [greatai Review](<https://www.producthunt.com/products/greatai-review>)  
+  Free AI + human code review for open source &amp; nonprofits  
+  Product Hunt · English · 2026-11-20 12:56
+
+- [Mailpipe](<https://www.producthunt.com/products/mailpipe-2>)  
+  Draft Apple Mail replies with your local AI agent CLI  
+  Product Hunt · English · 2026-11-20 12:13
 
 - [Community Wolf获得种子轮融资](<https://www.itjuzi.com/investevent/14708339>)  
   Community Wolf是一家公共安全科技研发商，依托 WhatsApp 智能体渠道，让居民无需下载 App 即可通过文本、语音上报警情；AI 引擎解析非结构化对话与素材，生成实时风险地图与犯罪趋势预测，联动社区巡逻队、私人安保与…  
@@ -130,22 +142,6 @@
   Conductor 发布 0.98.0 更新，新增 Usage 页面，可按模型和工作区查看最近 7、30 或 90 天的聊天、预估成本和 token 用量，入口在侧边栏底部或 Settings → Usage。  
   Conductor 官方更新 · 2026-11-20 08:00
 
-- [Browser Use 用 PINEAPPLE 注入测试拆解个人 AI 智能体浏览器的七项需求](<https://browser-use.com/posts/personal-ai-agent-browser>)  
-  Browser Use 在网页中藏入提示词注入句子 PINEAPPLE 并让六个个人智能体环境读取，其中一个照说，六个环境中只有三个将其标记为提示词注入。团队还分析了关于 12 个个人智能体的 33,976 条帖子，总结出个人智能体浏览器的七项需求：持久登录、借用用户 cookies、反屏蔽、人工接管、密码不交给模型、一次性虚拟卡，以及默认每个页面都不可信。  
-  Browser Use · 2026-11-20 08:00
-
-- [Browser Use 复盘 LLM-as-a-Judge 只读了五分之一答案导致的评测假阳性](<https://browser-use.com/posts/llm-as-a-judge-eval-bug>)  
-  Browser Use 复盘一次 agent 评测中的 LLM judge bug：判分器只读 FINAL ANSWER: 标记后的文本，200 个任务中位数只读 2,102 字符中的 433 字符，其中 +5.1 分的提升有 1.8 到 2.6 分来自这个 bug。  
-  Browser Use · 2026-11-20 08:00
-
-- [Browser Use 复盘浏览器 Agent 提速的六个原因，30.7 秒降到 18.0 秒](<https://browser-use.com/posts/faster-browser-agent>)  
-  Browser Use 作者复盘自家浏览器 Agent 在 Google Flights 查最便宜三张机票耗时 30.7 秒、而本地 Chrome 同任务仅 17.6 秒的差距，找到六个原因，其中模型 service tier 和默认代理两个配置修复后就降到 20.7 秒。  
-  Browser Use · 2026-11-20 08:00
-
-- [Browser Use 解析浏览器 Agent 被拦截的四种原因及对应解法](<https://browser-use.com/posts/browser-agent-blocked>)  
-  Browser Use 分析浏览器 Agent 被拦截的四种原因：验证码、被封 IP、行为传感器标记和国家墙，各自需要不同解法。$100 赏金的可测 82 个站点中，7 个始终被拦且均为求解器不支持的验证码，6 个换用当地代理后放行；实测显示用 JavaScript 聚焦输入框在 11 次中 11 次被 Akamai 拦截，而真实鼠标点击 0 次被拦。  
-  Browser Use · 2026-11-20 08:00
-
 - [Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo>)  
   Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
   Latent Space · 2026-11-20 07:38
@@ -167,11 +163,15 @@
   Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidenc  
   TechCrunch · 2026-11-20 05:42
 
-- [Thousands of Anthropic Employees and Investors Are Set to Reap Fortunes](<https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 05:30
+- [Veryfi Thinking Mode](<https://www.producthunt.com/products/veryfi>)  
+  AI agents review and correct receipt and invoice data.  
+  Product Hunt · English · 2026-11-20 05:30
 
 - [The unfolding Jensen Huang scandal: a timeline](<https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/>)  
   Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U  
   TechCrunch · 2026-11-20 04:18
+
+- [Opinion \| No AI Company Is Too Big to Fail](<https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 03:35
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 11 页

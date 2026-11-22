@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 37 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 36 页
+
+- [The Pittsburgh Zoo &amp;amp; Aquarium is mourning the loss of Snowflake, its beloved 30-year-old polar bear. 💔](<https://x.com/PittsburghMag/status/2123810490052755921>)  
+  @PittsburghMag · 2026-11-21 00:07
+
+- [Dario Amodei’s Anthropic just went public on Nasdaq.](<https://x.com/RabbiJeffx/status/2123810227946709002>)  
+  This is so fucking disturbing.  
+  @RabbiJeffx · 2026-11-21 00:06
 
 - [&amp;gt; be levent alpöge &amp;gt; born april fools &amp;gt; since you were a student, one plan: the riemann hypothesis &amp;gt; op…](<https://x.com/eriknewsha/status/2123808936235045091>)  
   &amp;gt; be levent alpöge &amp;gt; born april fools &amp;gt; since you were a student, one plan: the riemann hypothesis &amp;gt; open since 1859 &amp;gt; you set aside RH for decades whilst at harvard, princeton, cambridge &amp;gt; then, take a job at anthropic &amp;gt; july: disprove an…  
@@ -168,12 +175,4 @@
   I build AI agents and then I try to break them. almost 20 years in cyber security and data. took Ruby, Rubrik's GenAI platform, from 0 to 6,000+ customers and helped take Rubrik through its IPO. what I post about here: - agent identity -- when an agent does  
   @ItsAnkitAg · 2026-11-20 22:43
 
-- [هذا جنون، الأمر حقًا لا يُصدَّق. سُئل الرئيس التنفيذي لشركة Anthropic، داريو أمودي، عمّا ينبغي لشاب تخرّج للتو من ا…](<https://x.com/HilalHamdanba4/status/2123788419801415832>)  
-  هذا جنون، الأمر حقًا لا يُصدَّق. سُئل الرئيس التنفيذي لشركة Anthropic، داريو أمودي، عمّا ينبغي لشاب تخرّج للتو من الثانوية أن يفعله اليوم. وكان جوابه: “الذكاء الاصطناعي بات قادرًا على أداء عمل المحامين المبتدئين. وعمل محللي التمويل المبتدئين. وعمل المستشارين ا…  
-  @HilalHamdanba4 · 2026-11-20 22:39
-
-- [刚有个大厂的朋友私信骂我，说我不懂他们的苦。兄弟们，真不是我想黑大厂。你们想想，米哈游的员工现在拿着 H200 在跑真实的…](<https://x.com/Singlemggw/status/2123787638960505266>)  
-  刚有个大厂的朋友私信骂我，说我不懂他们的苦。兄弟们，真不是我想黑大厂。你们想想，米哈游的员工现在拿着 H200 在跑真实的端侧模型而大厂的兄弟们，正熬夜用 Word 和 Excel 论证我们的业务如何赋能 AI。同样是打工，人家在接触未来，你在雕花 PPT。这才是最扎心的。🚬  
-  @Singlemggw · 2026-11-20 22:36
-
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 37 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 36 页

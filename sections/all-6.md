@@ -2,13 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 11 页
 
-- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
-  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
-  晚点聊 · 2026-11-19 08:00
-
-- [Opinion \| Congrats on Your Anthropic Shares](<https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-19 06:42
-
 - [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
   Axios · 2026-11-19 06:16
@@ -180,5 +173,13 @@
 - [Shipyard](<https://www.producthunt.com/products/shipyard>)  
   MCP for Claude, Cursor and Codex to Automate Integrations  
   Product Hunt · English · 2026-11-17 02:21
+
+- [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
+  Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
+
+- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
+  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
+  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 11 页

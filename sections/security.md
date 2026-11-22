@@ -20,15 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 11 条
+## 相关资讯 · 9 条
 
 - [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
   The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
   The Verge：AI（RSS） · 2026-11-21 23:00
-
-- [华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等](<https://www.ithome.com/1/030/423.htm>)  
-  IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大…  
-  IT之家 · 2026-11-21 17:57
 
 - [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
   Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
@@ -45,10 +41,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Extrordinas获得150万美元天使轮融资](<https://www.itjuzi.com/investevent/14708371>)  
   Extrordinas是一家网络安全服务提供商，打造端到端 AI 辅助网络事件响应平台，支持一键取证采集、威胁溯源调查、AI 辅助研判与自动生成业务侧报告，覆盖勒索软件、商业邮件劫持、内部威胁、云及身份入侵等安全事件，面向 IR 服务…  
   IT桔子 · 2026-11-20 15:57
-
-- [Browser Use 用 PINEAPPLE 注入测试拆解个人 AI 智能体浏览器的七项需求](<https://browser-use.com/posts/personal-ai-agent-browser>)  
-  Browser Use 在网页中藏入提示词注入句子 PINEAPPLE 并让六个个人智能体环境读取，其中一个照说，六个环境中只有三个将其标记为提示词注入。团队还分析了关于 12 个个人智能体的 33,976 条帖子，总结出个人智能体浏览器的七项需求：持久登录、借用用户 cookies、反屏蔽、人工接管、密码不交给模型、一次性虚拟卡，以及默认每个页面都不可信。  
-  Browser Use · 2026-11-20 08:00
 
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
   Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  

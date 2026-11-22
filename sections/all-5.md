@@ -2,9 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 11 页
 
-- [Opinion \| No AI Company Is Too Big to Fail](<https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 03:35
-
 - [UndoGuard](<https://www.producthunt.com/products/undoguard>)  
   The Ctrl+Z button for autonomous AI agents  
   Product Hunt · English · 2026-11-20 03:15
@@ -55,14 +52,6 @@
 - [Google Gemini 平台推出 Semantic governance policies，在 Agent 工具调用执行前进行审查](<https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/>)  
   Google 在 Gemini 平台以 Preview 形式推出 Semantic governance policies，通过 Agent Gateway 和 LLM judge 在每个工具调用运行前检查两项内容：是否符合用户原始意图，以及是否符合用自然语言编写的策略。  
   Google Developers Blog（RSS） · 2026-11-20 00:00
-
-- [Anthropic’s IPO puts AI’s circular financing boom to the test](<https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>)  
-  Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazo  
-  TechCrunch · 2026-11-19 22:54
-
-- [Currents](<https://www.producthunt.com/products/currents-4>)  
-  Currents for Claude &amp; Codex to see all your tests  
-  Product Hunt · English · 2026-11-19 22:02
 
 - [Stormi](<https://www.producthunt.com/products/stormi>)  
   An AI team on your iPhone that does real work  
@@ -144,6 +133,10 @@
   Open-source Intercom &amp; Zendesk alternative with AI agents  
   Product Hunt · English · 2026-11-19 14:13
 
+- [Volcano](<https://www.producthunt.com/products/volcano-3>)  
+  The self-healing agent cloud by Kong  
+  Product Hunt · English · 2026-11-19 14:11
+
 - [Storipod获得战略投资](<https://www.itjuzi.com/investevent/14708229>)  
   Storipod是一家叙事内容创作与分发平台，面向非洲作家、出版社、影视工作室与品牌，搭建覆盖内容入库、版权管控、多端分发、商业化变现的一体化基础设施，支持图书、连载故事、漫画等故事类 IP 运营，自研 AI 语音朗读与推荐匹配能力，…  
   IT桔子 · 2026-11-19 14:01
@@ -179,5 +172,12 @@
 - [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
   Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
   OpenAI · 2026-11-19 08:00
+
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
+  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
+  晚点聊 · 2026-11-19 08:00
+
+- [Opinion \| Congrats on Your Anthropic Shares](<https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 06:42
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 11 页

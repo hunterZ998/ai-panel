@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 37 页
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 36 页
+
+- [Presidente Kast defiende a Lincolao tras acuerdo con OpenAI: "Hay algunos que quieren quedarse anclados al pasado"](<https://x.com/T13/status/2123423554133766262>)  
+  @T13 · 2026-11-19 22:30
+
+- [🚨 JEFF BEZOS JUST SENT NVIDIA'S BOARD A CLEAR MESSAGE ABOUT JENSEN HUANG. "If you don't bring Jensen back, I would…](<https://x.com/BlackwellEdge/status/2123421534568239328>)  
+  NVIDIA is too complicated." Bezos went further, saying outside CEOs have a "vanishingly small chance of succeeding" at companies this  
+  @BlackwellEdge · 2026-11-19 22:21
 
 - [The best argument on why Jensen Huang was an ally of Chinese AI companies, but an enemy of the CCP](<https://x.com/MarioNawfal/status/2123419673496866818>)  
   @MarioNawfal · 2026-11-19 22:14
@@ -167,11 +174,4 @@
   there's a ceo shipping an ai wearable collar who's deep in battery life right now, want an intro? my dm didn't send, button's below  
   @boardyai · 2026-11-19 19:05
 
-- [&amp;lt;p class="wp-block-paragraph"&amp;gt;&amp;lt;strong&amp;gt;Welcome back to &amp;lt;em&amp;gt;The State of AI&amp;lt;/em&amp;gt;, a new colla…](<https://x.com/arnaudmercier/status/2123372013381193893>)  
-  Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global  
-  @arnaudmercier · 2026-11-19 19:05
-
-- [英伟达临时CEO上任第一把火：先给员工加钱💰](<https://x.com/blueice49810906/status/2123371980539756594>)  
-  @blueice49810906 · 2026-11-19 19:05
-
-[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 37 页
+[返回面板](../README.md) · [上一页](fast-32.md) · [下一页](fast-34.md) · 第 33 / 36 页

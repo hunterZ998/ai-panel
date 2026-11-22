@@ -1,6 +1,14 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 37 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 36 页
+
+- [A security firm paid $4.5 billion so it can train your company's AI. 🔐 The catch: the guard also builds what it gua…](<https://x.com/vsachar/status/2123733693936398609>)  
+  Its boss says open models carry 60% of AI use. Firms surveyed say 19%. If a vendor trains AI on your data, here's what to keep 👇  
+  @vsachar · 2026-11-20 19:02
+
+- [Very much doubt it is that simple\!](<https://x.com/chowdhuryma/status/2123733674156064872>)  
+  Sadly, much more powerful force is against Jensen Huang and his outsing has been well planned. AIPAC will decide who replaces Jensen Huang\!  
+  @chowdhuryma · 2026-11-20 19:02
 
 - [The @EU\_Commission was just hit by an AI-assisted cyberattack.](<https://x.com/YesPanchiTech/status/2123733576256835886>)  
   Staff \#payroll and medical reimbursement systems were disrupted. Investigators reportedly found an AI security-testing tool involved. Same tools, different hands. \#CyberSecurity \#AISecurity  
@@ -167,11 +175,4 @@
   AINFT recently shared a short message exploring the intersection of artificial intelligence and artistic expression. The announcement imagines a world where code meets color and prompts become part of the  
   @shadowmint07 · 2026-11-20 18:54
 
-- [portable reputation could make agent identity much more valuable.](<https://x.com/CandyCripto/status/2123731661632192574>)  
-  @CandyCripto · 2026-11-20 18:54
-
-- [AI安全倡导组织呼吁加州及美国领导人尽快采取行动，禁止超级智能AI及AI递归自我改进，认为前沿AI公司正竞相开发超级智能系…](<https://x.com/x_ai_tesla/status/2123731602777981182>)  
-  AI安全倡导组织呼吁加州及美国领导人尽快采取行动，禁止超级智能AI及AI递归自我改进，认为前沿AI公司正竞相开发超级智能系统。（来源：@aisafetyaction）  
-  @x\_ai\_tesla · 2026-11-20 18:54
-
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 37 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 36 页

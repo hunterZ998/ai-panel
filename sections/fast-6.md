@@ -1,6 +1,17 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 37 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 36 页
+
+- [โชว์พิเศษ จาก"ฟอสบุ๊คมะฟ้อก" มะฟ้อกบอกทำนองไม่ต้องเดี๋ยวมะฟ้อกเต้นเอง FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsN…](<https://x.com/ParkkengChannel/status/2124136896255385604>)  
+  โชว์พิเศษ จาก"ฟอสบุ๊คมะฟ้อก" มะฟ้อกบอกทำนองไม่ต้องเดี๋ยวมะฟ้อกเต้นเอง FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#forcebook \#ฟอสบุ๊ค \#fforce\_ \#kasibook \#TOMAFOX  
+  @ParkkengChannel · 2026-11-21 21:44
+
+- [🍅คุยกับหลานด้วยน้าา FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/snapmmay/status/2124136744807452734>)  
+  @snapmmay · 2026-11-21 21:43
+
+- [🍼 : ปะป๊าเท่มากเลย 🎤 : อ้าว แล้วอีกฝั่งล่ะลูก 🍼 : เวลาเจอย้งก็เมี๊ยว ๆๆ เหมือนแมวเลย 🍅 : ใครเหมือนแมว 🍼 : พ่อบุ๊คงา…](<https://x.com/JnieeJn/status/2124136637773062260>)  
+  🍼 : ปะป๊าเท่มากเลย 🎤 : อ้าว แล้วอีกฝั่งล่ะลูก 🍼 : เวลาเจอย้งก็เมี๊ยว ๆๆ เหมือนแมวเลย 🍅 : ใครเหมือนแมว 🍼 : พ่อบุ๊คงายย\~ 🦊 : ปะป๊าเหมือนอะไรลูก 🍼 : เหมือนจิ้งจอก เท่มากเลย\~ //ทั้งย้งยี้แป๋ว ย้งยี้เมี๊ยว เก่งมากหลานยาย🤭 FORCEBOOK MAFOX HUAWEI Event  
+  @JnieeJn · 2026-11-21 21:43
 
 - [💬: วิ่งเอาเท่าที่ไหวเนอะฟ้อก 🦊🍅🍼: ก็ที่ 1 อ่ะครับ 🍅: ดูสภาพร่างกายตัวเองด้วยนะมะฟ้อกลูก 🦊: ปากดี\~ ปากดีได้ใครเนี่ยล…](<https://x.com/jcmkie/status/2124136558102196662>)  
   💬: วิ่งเอาเท่าที่ไหวเนอะฟ้อก 🦊🍅🍼: ก็ที่ 1 อ่ะครับ 🍅: ดูสภาพร่างกายตัวเองด้วยนะมะฟ้อกลูก 🦊: ปากดี\~ ปากดีได้ใครเนี่ยลูก 🦊🍅🍼: ได้ปะป๊า\~ 🍅: จริง เหมือนปะป๊าเป๊ะเลย 🦊: ปากดีเหมือนปะป๊าเลยเนอะ //ได้ป๊ามาเยอะจริงๆ 5555555555555555 FORCEBOOK MAFOX HUAWEI EVENT  
@@ -163,16 +174,4 @@
   🦊🍅 : อุนย่าอุนยายกลับบ้านดี ๆ นะค้าบ 🦊🍅 : ไอเลิฟมายจ้อบ ๆ //มะฟ้อกเป็นเด็กดีมาก เก่งจังอ้วม🥺🥺 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
   @minaaridesu · 2026-11-21 21:16
 
-- [⊹ 21.11.26 IGS: iceseung “ เด็กยืนเฉย ๆ อึ รึป่าว ” มาฟ้อกน่ารักจังเลยลูกหัวใจย่ายายแตกดังปุ้งเลยครับลูกก 🦊🍅🫳🏻🫳🏻 FO…](<https://x.com/tomafoxofc_/status/2124129670363050111>)  
-  ⊹ 21.11.26 IGS: iceseung “ เด็กยืนเฉย ๆ อึ รึป่าว ” มาฟ้อกน่ารักจังเลยลูกหัวใจย่ายายแตกดังปุ้งเลยครับลูกก 🦊🍅🫳🏻🫳🏻 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX @tomafox\_gmmtv \#ฟอสบุ๊ค ⊹ \#forcebook  
-  @tomafoxofc\_ · 2026-11-21 21:15
-
-- [กษิบุ๊คมาตอนไหน หน้าตาเป็นไงผมไม่ทราบเลยถ้าไม่ย้อนคลิปดู 555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeox…](<https://x.com/Ploy_Natwara/status/2124129616491377033>)  
-  กษิบุ๊คมาตอนไหน หน้าตาเป็นไงผมไม่ทราบเลยถ้าไม่ย้อนคลิปดู 555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @Ploy\_Natwara · 2026-11-21 21:15
-
-- [Jensen Huang Was Unapologetic About a Being a Tough Boss at Nvidia “It should be like that.](<https://x.com/TheChiefNerd/status/2124129304951005566>)  
-  If you want to do extraordinary things, it shouldn't be easy.”  
-  @TheChiefNerd · 2026-11-21 21:14
-
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 37 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 36 页

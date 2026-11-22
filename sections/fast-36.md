@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 37 页
+[返回面板](../README.md) · [上一页](fast-35.md) · 第 36 / 36 页
+
+- [Minuto Touro de Ouro com @PabloSpyer Na véspera de feriadão, mercado olha fiscal, Anthropic, Trump/Xi/Putin e opçõe…](<https://x.com/PabloSpyer/status/2123363612408389993>)  
+  Minuto Touro de Ouro com @PabloSpyer Na véspera de feriadão, mercado olha fiscal, Anthropic, Trump/Xi/Putin e opções 🏆 Vencedor do prêmio iBest: ¤ Maior influenciador de Investimentos em 2023 ▫️ Melhor Programa de Investimentos do Brasil 2022  
+  @PabloSpyer · 2026-11-19 18:31
+
+- [JUST IN: 🇨🇳🇮🇩 Moonshot AI terminates $150 million deal to access $NVDA Blackwell Ultra B300 chips in Indonesia.](<https://x.com/WhaleInsider/status/2123360394572140986>)  
+  @WhaleInsider · 2026-11-19 18:19
 
 - [Something to GLEAN from.](<https://x.com/uzuegbuf1/status/2123360213445067056>)  
   Pay attention\!  
@@ -102,78 +109,4 @@
   No podemos ir a unas elecciones que son fraudulentas antes de ir a votar. Pedro Sánchez tiene el voto de BILDU-ETA, JUNTS, los Marroquíes, los nietos, Correos.....  
   @budaoscar1 · 2026-11-19 15:53
 
-- [NVIDIA、経理畑の人がCEOになり、全社ミーティングの最後にノリノリの音楽をかけて「私たちは大丈夫！！」と掛け声をあげ…](<https://x.com/igz0/status/2123314089531486692>)  
-  こりゃNVIDIA駄目だわ\(\)  
-  @igz0 · 2026-11-19 15:15
-
-- [Over 10,000 Nvidia employees have signed a letter calling for Jensen Huang to return as CEO.](<https://x.com/GlobeEyeNews/status/2123310673321156737>)  
-  @GlobeEyeNews · 2026-11-19 15:01
-
-- [🚨 NOW: Ripple CEO Brad Garlinghouse says the crypto sell-off is partly due to investors moving money into big IPOs…](<https://x.com/Cointelegraph/status/2123310478591922647>)  
-  He expects crypto to rebound after the listing, as it did after SpaceX’s IPO.  
-  @Cointelegraph · 2026-11-19 15:00
-
-- [🇨🇳\#李飞飞 是饿死1千万四川人的 🇨🇳\#李井泉 的孙女，铁杆的中国共产党员 李主政1958年至1962年间四川非正常死亡…](<https://x.com/wenbei2022/status/2123308445218820491>)  
-  🇨🇳\#李飞飞 是饿死1千万四川人的 🇨🇳\#李井泉 的孙女，铁杆的中国共产党员 李主政1958年至1962年间四川非正常死亡人数约为 800万至1200万人（部分档案统计约为979万至1000余万），位居 \#全国之首。  
-  @wenbei2022 · 2026-11-19 14:52
-
-- [\#郭文贵 先生2020年5月29日爆料：🇨🇳\#李飞飞 也是破坏爆料革命的黑手之一，李飞飞是 🇨🇳\#吴征、🇨🇳\#孙力军 的好…](<https://x.com/wenbei2022/status/2123306222975963367>)  
-  🇨🇳\#黄仁勋 是个线头，才开始扯  
-  @wenbei2022 · 2026-11-19 14:43
-
-- [2026年11月16日忠诚的共产党员 🇨🇳\#李飞飞 加入 AMD，担任执行副总裁兼首席科学家，同时AMD宣布完成对 Wor…](<https://x.com/wenbei2022/status/2123303234102346030>)  
-  “李飞飞博士加入 AMD任执行副总裁兼首席科学家，直接向 🇨🇳\#黄仁勋 的血缘亲属🇨🇳\#苏姿丰 汇报。”AMD首席执行官苏姿丰2026 年 9 月被聘为 🇨🇳\#清华大学 经济管理学院顾问委员  
-  @wenbei2022 · 2026-11-19 14:31
-
-- [Chomsky was wrong.](<https://x.com/thesupermannx/status/2123303060755591298>)  
-  Researchers from UC Berkeley and Google DeepMind cracked one of the biggest mysteries in AI. For years, scientists have been finding impossible geometric shapes hidden inside the brains of LLMs. Calendar months arrange themselves into literal circles.  
-  @thesupermannx · 2026-11-19 14:31
-
-- [现在很多人做 AI Agent，实际上还停留在一个非常初级的阶段：接一个大模型，配置几个 Tool，通过 MCP 连接外部…](<https://x.com/UPing123zzz/status/2123301773830225977>)  
-  现在很多人做 AI Agent，实际上还停留在一个非常初级的阶段：接一个大模型，配置几个 Tool，通过 MCP 连接外部服务，再写一套 Prompt，让模型能够自主规划、调用工具、执行任务，就觉得自己做出了一个完整的 Agent 系统。  
-  @UPing123zzz · 2026-11-19 14:26
-
-- [nvidia has revealed their new ceo](<https://x.com/freemaowtf/status/2123300645986095584>)  
-  @freemaowtf · 2026-11-19 14:21
-
-- [ANTHROPIC'S IPO: HOW MUCH MONEY WILL ACTUALLY COME IN?](<https://x.com/Cllaytus/status/2123295685239800255>)  
-  When people hear that a company is going public, they often assume that the entire value of the company is the amount of money it will raise. Those are two very different things. Anthropic's IPO offering-size market on  
-  @Cllaytus · 2026-11-19 14:01
-
-- [Millie.](<https://x.com/aecii_3d/status/2123293667322409201>)  
-  Using minimax H3 to animate from character sheet.  
-  @aecii\_3d · 2026-11-19 13:53
-
-- [The Agentic Economy— Part 3 In Part 2, I explored why chatbots were only the beginning.](<https://x.com/Cryptfancier/status/2123292336402608331>)  
-  This part takes a closer look at what actually makes an AI agent an agent, from planning and tool use to memory, feedback and autonomous decision-making. Do read on ⤵️  
-  @Cryptfancier · 2026-11-19 13:48
-
-- [从清华的朋友那求来了姚顺雨昨晚分享的文字稿，貌似有点私密我就不传播了，整场分享价值的确很高，以下是我的笔记： 1. 未来一…](<https://x.com/hocyzon/status/2123289962728833347>)  
-  从清华的朋友那求来了姚顺雨昨晚分享的文字稿，貌似有点私密我就不传播了，整场分享价值的确很高，以下是我的笔记： 1. 未来一个值得关注的方向是小模型体系，AI for  
-  @hocyzon · 2026-11-19 13:39
-
-- [During his DealBook Summit interview, Elon Musk took a somber pause after being asked about Jensen Huang stepping d…](<https://x.com/iam_smx/status/2123285955347931170>)  
-  Elon’s reaction showed genuine empathy and just how much he cares about Jensen That’s what true friendship looks like.  
-  @iam\_smx · 2026-11-19 13:23
-
-- [破限的GPT,一万多套角色。](<https://x.com/elidsartic/status/2123281137024065704>)  
-  去除了所有限制的AI。包括生图，生视频。 官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费  
-  @elidsartic · 2026-11-19 13:04
-
-- [破限的GPT,一万多套角色。](<https://x.com/Akari62352798/status/2123280188175724868>)  
-  去除了所有限制的AI。包括生图，生视频。 官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费  
-  @Akari62352798 · 2026-11-19 13:00
-
-- [【速報】すとぷり「ななもり。」氏、Anthropic株を31.8億円分取得と報告 ・「ななもり。」こと柏原真人氏はSTPR…](<https://x.com/SOU_BTC/status/2123277388717101203>)  
-  【速報】すとぷり「ななもり。」氏、Anthropic株を31.8億円分取得と報告 ・「ななもり。」こと柏原真人氏はSTPR創業者 ・Anthropic株24万株の取得をXで報告 ・取得単価83ドル、総額1,992万ドル ・Xに「夜が楽しみだ」と投稿  
-  @SOU\_BTC · 2026-11-19 12:49
-
-- [Elon Musk在《纽约时报》DealBook Summit通过视频连线接受主持人Andrew的采访。](<https://x.com/JasonZX/status/2123276714038145090>)  
-  47分钟的访谈涵盖了美国政治、黄仁勋、俄乌战争、Starlink、SpaceX与Tesla合并、自动驾驶，Anthropic。 几乎一分钟一个观点，现总结如下： 1.  
-  @JasonZX · 2026-11-19 12:46
-
-- [Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings…](<https://x.com/marsrepublica/status/2123274994952065291>)  
-  Here are the 11 key takeaways: 1. SpaceX is scaling AI compute at an extraordinary pace: SpaceX is adding roughly 500 MW monthly, equivalent to 220,000  
-  @marsrepublica · 2026-11-19 12:39
-
-[返回面板](../README.md) · [上一页](fast-35.md) · [下一页](fast-37.md) · 第 36 / 37 页
+[返回面板](../README.md) · [上一页](fast-35.md) · 第 36 / 36 页

@@ -1,6 +1,13 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 37 页
+[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 36 页
+
+- [For me, personally?](<https://x.com/j_bertho/status/2123564235787563497>)  
+  Content &amp;amp; copy. It never adapts to how I write despite custom skill files &amp;amp; hundreds of blog posts I've written without AI as training data. I'm always copy editing. Other than that, I've had some ASO, GEO + SEO audits where I see common errors for tha…  
+  @j\_bertho · 2026-11-20 07:49
+
+- [Check out this AI video I found on PixVerse Lite: Create your own with PixVerse Lite.](<https://x.com/Lionxpf5/status/2123564189533032788>)  
+  @Lionxpf5 · 2026-11-20 07:48
 
 - [What if you could walk into a Dalí painting? 🐘✨ Made with Fable 5.2.](<https://x.com/Lalulu_create/status/2123564054820048974>)  
   No AI video generation model involved. \#fable \#claude @AnthropicAI \#AIart  
@@ -166,12 +173,4 @@
   JUST IN: Apple $AAPL is developing AI agent to rival OpenAI and Anthropic that can control devices, browse the web, and write code.  
   @WatcherGuru · 2026-11-20 05:46
 
-- [California sues OpenAI, accusing it of developing its AI technology without safety or the public’s interest in mind.](<https://x.com/KenRoth/status/2123532395173322789>)  
-  It cites 80 incidents of “loss of control” of AI agents, suggesting OpenAI doesn’t have adequate safeguards in place to protect society.  
-  @KenRoth · 2026-11-20 05:42
-
-- [The Anthropic IPO is a good reminder that AI is everything that crypto bros wished crypto would become There are re…](<https://x.com/BoringBiz_/status/2123528661475512430>)  
-  The Anthropic IPO is a good reminder that AI is everything that crypto bros wished crypto would become There are real use cases where you can show quantifiable ROI with AI, and now the industry has a pure play trillion dollar business that just went public Mea…  
-  @BoringBiz\_ · 2026-11-20 05:27
-
-[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 37 页
+[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 36 页

@@ -20,7 +20,15 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 6 条
+## 相关资讯 · 8 条
+
+- [Edge AI Daily 早报（11月22日）](<https://www.tmtpost.com/8213684.html>)  
+  英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Ant…  
+  钛媒体 · 2026-11-22 09:06
+
+- [全球Meta一家独大，中国AI眼镜为何还在混战？](<https://www.tmtpost.com/8213674.html>)  
+  中国AI眼镜，胜负未分。  
+  钛媒体 · 2026-11-22 09:02
 
 - [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
   Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
