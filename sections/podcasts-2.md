@@ -70,10 +70,6 @@
   AGENDA: 05:00 Will we run out of energy? 19:00 Will specialised chips threaten NVIDIA's dominance? 26:00 Can we trust…  
   20VC · 2026-10-24 15:07
 
-- [Amazon CEO Andy Jassy on the $220 Billion AI Buildout](<https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK>)  
-  Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving m…  
-  The a16z Show · 2026-10-23 18:00
-
 - [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](<https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss>)  
   今天我们的嘉宾是科沃斯CEO钱程（David）。 他出生于1990年，曾是中国最年轻A股上市公司CEO，也是一名企二代、创二代。我很好奇的是，当一代中国企业开始从创业进入传承，真正在经历这个过程的当事人，他所面临的现实与所思所想？ 钱…  
   张小珺商业访谈录 · 2026-10-21 08:00

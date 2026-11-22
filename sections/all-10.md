@@ -2,6 +2,43 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 11 页
 
+- [20VC: From $8BN to $19BN: Inside WashU's Endowment Fund \| SpaceX Made Up 20% of Our AUM \| Why Europe and China Has So Much Opportunity \| The Reckoning That is Coming for AI Companies with Scott Wilson](<https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson>)  
+  Scott Wilson is the CIO of WashU, one of the best-performing endowment funds in the world. Under his leadership, Scot…  
+  20VC · 2026-11-07 15:07
+
+- [深度丨从独占 61% 企业开源账单到巨头分成，开源模型开始商业化下半场](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901322&idx=1&sn=22c8bacf2cbb0c8ca76c37b613407ebe>)  
+  Z Finance · 2026-11-07 13:16
+
+- [为什么「陪伴」，注定是 Personal AI 的核心](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116153&idx=1&sn=6c34d3e74a2612f319a0e2a7d6303243>)  
+  极客公园 · 2026-11-07 11:03
+
+- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](<https://www.youtube.com/watch?v=P735f1xlpL0>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=P735f1xlpL0  
+  Latent Space · 2026-11-07 10:49
+
+- [Crusoe sells troubled Wyoming data center project to Google](<https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/>)  
+  The deal highlights the challenges of developing massive AI data centers.  
+  TechCrunch · 2026-11-07 09:40
+
+- [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116145&idx=1&sn=88085e9684f32488b5481683e798cfa0>)  
+  极客公园 · 2026-11-07 08:46
+
+- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
+  OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
+  TechCrunch · 2026-11-07 06:53
+
+- [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
+  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  
+  TechCrunch · 2026-11-07 02:44
+
+- [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>)  
+  Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with th…  
+  TechCrunch · 2026-11-07 02:44
+
+- [How a Blue Wave midterm might reshape the AI industry](<https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/>)  
+  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
+  TechCrunch · 2026-11-07 02:00
+
 - [After the midterms, is the AI industry in for a rough two years?](<https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/>)  
   Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The publi…  
   TechCrunch · 2026-11-07 01:23
@@ -131,45 +168,5 @@
 
 - [ZPedia丨实测灵光 2.0：对标 Muse 背后，中美 Personal Agent 的底层逻辑其实截然不同](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901244&idx=1&sn=0838a35bdd1c1135b25435fcae51b89d>)  
   Z Finance · 2026-10-31 19:51
-
-- [Can AI Fix Professional Networking? \| Inside Cosign](<https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue>)  
-  What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vo…  
-  The a16z Show · 2026-10-31 18:00
-
-- [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
-  David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
-  20VC · 2026-10-31 15:07
-
-- [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
-  Latent Space · 2026-10-31 11:41
-
-- [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
-  What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
-  The a16z Show · 2026-10-30 18:00
-
-- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
-  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
-  科技早知道 · 2026-10-30 17:00
-
-- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
-  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
-  20VC · 2026-10-29 15:07
-
-- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
-  怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
-  硅谷101 · 2026-10-29 07:00
-
-- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
-  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
-  Latent Space · 2026-10-29 04:00
-
-- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
-  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
-  The a16z Show · 2026-10-28 18:00
-
-- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
-  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
-  Latent Space · 2026-10-28 02:40
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 11 页

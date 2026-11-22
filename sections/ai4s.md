@@ -20,7 +20,10 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 4 条
+## 相关资讯 · 5 条
+
+- [MiniMax公布AI4S研究成果：内部模型攻破多项密码学挑战](<https://www.163.com/tech/article/LCCBS5HG00099F4I.html>)  
+  网易科技 · 2026-11-22 21:35
 
 - [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
   Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  

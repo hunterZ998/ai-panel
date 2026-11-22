@@ -2,9 +2,68 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 11 页
 
-- [UndoGuard](<https://www.producthunt.com/products/undoguard>)  
-  The Ctrl+Z button for autonomous AI agents  
-  Product Hunt · English · 2026-11-20 03:15
+- [DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台](<https://www.pedaily.cn/first/193674.shtml>)  
+  11月19日消息，公开信息显示，DeepSeek工商主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）、公司注册资本变更为1991.8707万元，增幅约21.1%。 股权穿透…  
+  投资界 · 2026-11-20 08:55
+
+- [OpenAI或将进军手机市场](<https://www.pedaily.cn/first/193669.shtml>)  
+  据供应链消息，富士康旗下富智康集团（02038.HK）已获得OpenAI手机项目订单，将参与相关产品的整机组装。富士康同时是苹果iPhone的主要组装商。 若OpenAI手机最终面市，其将进入手机终端市场，并可能围绕AI交互体验，与现…  
+  投资界 · 2026-11-20 08:53
+
+- [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
+  At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
+  TechCrunch · 2026-11-20 08:43
+
+- [Why Anthropic’s VC Investors Aren’t Letting Go](<https://www.theinformation.com/articles/anthropics-vc-investors-letting-go>)  
+  The Information · 2026-11-20 08:41
+
+- [Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>)  
+  Google Research 回顾 Duplex 十年架构演进，并介绍本周在 Gemini App Tasks 中上线的自动致电商家功能。  
+  Google Research：Blog（网页） · 2026-11-20 08:00
+
+- [browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作](<https://browser-use.com/posts/browser-use-1-0>)  
+  Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chrome DevTools Protocol 访问替代 0.x 的 24 个浏览器动作。  
+  Browser Use · 2026-11-20 08:00
+
+- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
+  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
+  OpenAI · 2026-11-20 08:00
+
+- [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>)  
+  MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and sele…  
+  OpenAI · 2026-11-20 08:00
+
+- [Conductor 0.98.0 更新：新增 Usage 用量页，主题转正](<https://www.conductor.build/changelog/0.98.0-see-where-your-usage-goes>)  
+  Conductor 发布 0.98.0 更新，新增 Usage 页面，可按模型和工作区查看最近 7、30 或 90 天的聊天、预估成本和 token 用量，入口在侧边栏底部或 Settings → Usage。  
+  Conductor 官方更新 · 2026-11-20 08:00
+
+- [Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo>)  
+  Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
+  Latent Space · 2026-11-20 07:38
+
+- [Apple Developing AI Agent to Rival Meta and OpenAI](<https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai>)  
+  The Information · 2026-11-20 06:49
+
+- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
+  The Information · 2026-11-20 06:43
+
+- [Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million](<https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million>)  
+  The Information · 2026-11-20 06:43
+
+- [Meta’s new Muse Charm device may cost $300](<https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/>)  
+  Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upco  
+  TechCrunch · 2026-11-20 05:58
+
+- [These tech outages are giving Y2K, AI agent style](<https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/>)  
+  Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidenc  
+  TechCrunch · 2026-11-20 05:42
+
+- [The unfolding Jensen Huang scandal: a timeline](<https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/>)  
+  Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U  
+  TechCrunch · 2026-11-20 04:18
+
+- [Opinion \| No AI Company Is Too Big to Fail](<https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-20 03:35
 
 - [Meta Bets on $300 Muse Charm to Boost AI Hardware Business](<https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business>)  
   The Information · 2026-11-20 03:11
@@ -49,17 +108,13 @@
   In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless o  
   TechCrunch · 2026-11-20 00:19
 
-- [Google Gemini 平台推出 Semantic governance policies，在 Agent 工具调用执行前进行审查](<https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/>)  
-  Google 在 Gemini 平台以 Preview 形式推出 Semantic governance policies，通过 Agent Gateway 和 LLM judge 在每个工具调用运行前检查两项内容：是否符合用户原始意图，以及是否符合用自然语言编写的策略。  
-  Google Developers Blog（RSS） · 2026-11-20 00:00
+- [TeaserKit](<https://www.producthunt.com/products/teaserkit>)  
+  your coding agent directs your launch video  
+  Product Hunt · English · 2026-11-19 23:08
 
-- [Stormi](<https://www.producthunt.com/products/stormi>)  
-  An AI team on your iPhone that does real work  
-  Product Hunt · English · 2026-11-19 20:24
-
-- [Tamekoshi](<https://www.producthunt.com/products/tamekoshi>)  
-  A Tamagotchi-style AI companion that does real work  
-  Product Hunt · English · 2026-11-19 19:38
+- [Currents](<https://www.producthunt.com/products/currents-4>)  
+  Currents for Claude &amp; Codex to see all your tests  
+  Product Hunt · English · 2026-11-19 22:02
 
 - [Lemonpeel获得100万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708311>)  
   Lemonpeel是一家AI 视频制作服务商，打造 AI 原生视频创作操作系统，依托模型无关调度引擎与多智能体流水线，接入 300 + 主流视频模型，一站式完成脚本、素材生成、配音剪辑、质检、多版本成片输出，内置质控机制保障品牌视觉一…  
@@ -120,64 +175,5 @@
 - [Arborum获得种子前轮融资](<https://www.itjuzi.com/investevent/14708243>)  
   Arborum是一家电网 AI 科技研发商，面向电力电网、通信网络等关键基础设施构建 AI 世界模型，学习网络内部因果逻辑，可完成故障根因定位、运行场景模拟、运维动作建议，覆盖需求预测、电网优化、停电管理、网络故障排查等场景，电信复杂…  
   IT桔子 · 2026-11-19 14:34
-
-- [Fermat获得800万美元种子轮融资](<https://www.itjuzi.com/investevent/14708241>)  
-  Fermat 是一家时尚行业 AI 平台开发商，打造时尚垂直生成式 AI 工具层，内置 50 + 设计、视觉、生产对接工具，支持草图转效果图、面料替换、虚拟模特穿搭、营销素材生成，并通过 Techpacks 功能将设计稿直接转化为工厂…  
-  IT桔子 · 2026-11-19 14:27
-
-- [Alpine获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708238>)  
-  Alpine是一家保险科技研发商，定位新型特种险管理总代理（MGA）。公司从 0 搭建自研 Summit 核保平台，原生融合 AI 辅助能力与资深核保专家判断，可完成投保材料结构化、风险数据富集、报价建议输出全流程，初期聚焦工匠承包商…  
-  IT桔子 · 2026-11-19 14:17
-
-- [InteraOne](<https://www.producthunt.com/products/interaone>)  
-  Open-source Intercom &amp; Zendesk alternative with AI agents  
-  Product Hunt · English · 2026-11-19 14:13
-
-- [Volcano](<https://www.producthunt.com/products/volcano-3>)  
-  The self-healing agent cloud by Kong  
-  Product Hunt · English · 2026-11-19 14:11
-
-- [Storipod获得战略投资](<https://www.itjuzi.com/investevent/14708229>)  
-  Storipod是一家叙事内容创作与分发平台，面向非洲作家、出版社、影视工作室与品牌，搭建覆盖内容入库、版权管控、多端分发、商业化变现的一体化基础设施，支持图书、连载故事、漫画等故事类 IP 运营，自研 AI 语音朗读与推荐匹配能力，…  
-  IT桔子 · 2026-11-19 14:01
-
-- [镁伽完成近2亿美元新一轮融资](<https://www.itjuzi.com/investevent/14708194>)  
-  镁伽科技是中国机器人技术应用领域领先的自主智能体（Autonomous agents）提供商，致力于为智慧实验室与智能制造场景提供全面的自主智能体及多智能体解决方案。我通过高度智能化的软硬件系统，推动行业加速迈向高效、精准、可持续的智…  
-  IT桔子 · 2026-11-19 13:36
-
-- [无涯智远宣布完成数亿元天使轮和天使+轮融资](<https://www.itjuzi.com/investevent/14704981>)  
-  无涯智远聚焦 Real-Time RSI（实时自进化），以参数持续学习为核心技术路径，致力于让大模型在部署后仍能持续吸收知识、内化经验，获得新能力。近日，无涯智远宣布完成数亿元天使轮和天使加轮融资，投资方包括五源资本、红杉中国、联想之…  
-  IT桔子 · 2026-11-19 11:15
-
-- [Zethos](<https://www.producthunt.com/products/zethos>)  
-  The ledger you and your AI work from  
-  Product Hunt · English · 2026-11-19 08:53
-
-- [Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts](<https://www.conductor.build/changelog/0.97.0-first-class-artifacts>)  
-  Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。  
-  Conductor 官方更新 · 2026-11-19 08:00
-
-- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
-  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
-  OpenAI · 2026-11-19 08:00
-
-- [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)  
-  Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.  
-  OpenAI · 2026-11-19 08:00
-
-- [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)  
-  Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.  
-  OpenAI · 2026-11-19 08:00
-
-- [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
-  Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
-  OpenAI · 2026-11-19 08:00
-
-- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
-  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
-  晚点聊 · 2026-11-19 08:00
-
-- [Opinion \| Congrats on Your Anthropic Shares](<https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-19 06:42
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 11 页

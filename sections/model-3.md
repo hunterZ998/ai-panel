@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · 第 3 / 3 页
 
+- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
+  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
+  晚点聊 · 2026-11-06 09:30
+
 - [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
   Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
   SemiAnalysis · 2026-11-06 03:03

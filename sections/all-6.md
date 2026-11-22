@@ -2,6 +2,45 @@
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 11 页
 
+- [Fermat获得800万美元种子轮融资](<https://www.itjuzi.com/investevent/14708241>)  
+  Fermat 是一家时尚行业 AI 平台开发商，打造时尚垂直生成式 AI 工具层，内置 50 + 设计、视觉、生产对接工具，支持草图转效果图、面料替换、虚拟模特穿搭、营销素材生成，并通过 Techpacks 功能将设计稿直接转化为工厂…  
+  IT桔子 · 2026-11-19 14:27
+
+- [Alpine获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708238>)  
+  Alpine是一家保险科技研发商，定位新型特种险管理总代理（MGA）。公司从 0 搭建自研 Summit 核保平台，原生融合 AI 辅助能力与资深核保专家判断，可完成投保材料结构化、风险数据富集、报价建议输出全流程，初期聚焦工匠承包商…  
+  IT桔子 · 2026-11-19 14:17
+
+- [Storipod获得战略投资](<https://www.itjuzi.com/investevent/14708229>)  
+  Storipod是一家叙事内容创作与分发平台，面向非洲作家、出版社、影视工作室与品牌，搭建覆盖内容入库、版权管控、多端分发、商业化变现的一体化基础设施，支持图书、连载故事、漫画等故事类 IP 运营，自研 AI 语音朗读与推荐匹配能力，…  
+  IT桔子 · 2026-11-19 14:01
+
+- [Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts](<https://www.conductor.build/changelog/0.97.0-first-class-artifacts>)  
+  Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。  
+  Conductor 官方更新 · 2026-11-19 08:00
+
+- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
+  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
+  OpenAI · 2026-11-19 08:00
+
+- [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)  
+  Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.  
+  OpenAI · 2026-11-19 08:00
+
+- [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)  
+  Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.  
+  OpenAI · 2026-11-19 08:00
+
+- [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
+  Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
+  OpenAI · 2026-11-19 08:00
+
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
+  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
+  晚点聊 · 2026-11-19 08:00
+
+- [Opinion \| Congrats on Your Anthropic Shares](<https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-19 06:42
+
 - [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
   Axios · 2026-11-19 06:16
@@ -17,10 +56,6 @@
 - [Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型](<https://deepmind.google/blog/genie-4-is-now-available/>)  
   Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。  
   Google DeepMind：Blog（RSS） · 2026-11-19 02:13
-
-- [Groundwork](<https://www.producthunt.com/products/groundwork-6>)  
-  Claude Code plans that re-runs never overwrite  
-  Product Hunt · English · 2026-11-19 01:21
 
 - [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
   2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
@@ -41,6 +76,10 @@
 - [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
   如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
   科技早知道 · 2026-11-18 20:00
+
+- [DWaste](<https://www.producthunt.com/products/deep-waste>)  
+  Eliminate recycling contamination with low-power Edge AI  
+  Product Hunt · English · 2026-11-18 19:42
 
 - [The Missing Layer for Personal AI \| First Person Labs’ Ken Liu](<https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00>)  
   AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, prioriti…  
@@ -90,9 +129,9 @@
   Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
   Axios · 2026-11-18 07:15
 
-- [Storiara](<https://www.producthunt.com/products/storiara>)  
-  AI producers that find real savings in your film budget  
-  Product Hunt · English · 2026-11-18 04:02
+- [Ulika](<https://www.producthunt.com/products/ulika>)  
+  Visual editor for sites built with Claude, Cursor, or Codex  
+  Product Hunt · English · 2026-11-18 03:23
 
 - [Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布](<https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/>)  
   Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。  
@@ -141,45 +180,5 @@
 - [PH今日热榜 \| 2026-11-17](<https://decohack.com/producthunt-daily-2026-11-17/>)  
   Zoom Slides：将您的Zoom会议转换为随时可用的演示幻灯片；Boost.space AgentOS：一个操作系统，适用于所有的AI助手；readywhen：你随时随地在邮箱里的个人助手  
   Product Hunt 中文 · DecoHack · 2026-11-17 15:00
-
-- [Recraft 实测 ByteDance Seedream 5.5，与 Recraft V4.1 Pro 和 GPT Image 2.6 对比](<https://www.recraft.ai/blog/seedream-5-5>)  
-  ByteDance 的 Seedream 5.5 已上线 Recraft Studio 付费方案，Recraft 用此前 GPT Image 2.6 测试的同一组 12 个提示词，将其与 Recraft V4.1 Pro 和 GPT Image 2.6 Sunburst 逐一对比。  
-  Recraft 自有模型与设计产品 · 2026-11-17 08:00
-
-- [OpenHands Teams 发布：自助部署自动化工程工作流，首推漏洞修复场景](<https://www.openhands.dev/blog/introducing-openhands-teams>)  
-  OpenHands 发布 OpenHands Teams，为小型工程团队提供自助使用 OpenHands Enterprise 的入口，30 天免费试用，定价每月 500 美元含 10 用户，加人每月 50 美元，可在自有基础设施数分钟内部署。  
-  OpenHands 官方博客 · 2026-11-17 08:00
-
-- [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>)  
-  How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes…  
-  OpenAI · 2026-11-17 08:00
-
-- [Astra for Law leads in legal intelligence](<https://openai.com/index/astra-law-6-2>)  
-  Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now…  
-  OpenAI · 2026-11-17 08:00
-
-- [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)  
-  OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and…  
-  OpenAI · 2026-11-17 08:00
-
-- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
-  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
-  Latent Space · 2026-11-17 05:27
-
-- [OpenVorld](<https://www.producthunt.com/products/openvorld>)  
-  Give your AI agents a home and a Vorld.  
-  Product Hunt · English · 2026-11-17 03:15
-
-- [Shipyard](<https://www.producthunt.com/products/shipyard>)  
-  MCP for Claude, Cursor and Codex to Automate Integrations  
-  Product Hunt · English · 2026-11-17 02:21
-
-- [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
-  Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
-  Databricks：Blog（RSS） · 2026-11-17 01:00
-
-- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
-  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
-  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 11 页

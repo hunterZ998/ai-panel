@@ -22,13 +22,9 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 ## 相关资讯 · 8 条
 
-- [Edge AI Daily 早报（11月22日）](<https://www.tmtpost.com/8213684.html>)  
-  英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Ant…  
-  钛媒体 · 2026-11-22 09:06
-
-- [全球Meta一家独大，中国AI眼镜为何还在混战？](<https://www.tmtpost.com/8213674.html>)  
-  中国AI眼镜，胜负未分。  
-  钛媒体 · 2026-11-22 09:02
+- [韩国高考 AI 作弊事件发酵，教育部长崔教振引咎辞职](<https://www.ithome.com/1/030/558.htm>)  
+  韩国教育部长官崔教振 11 月 22 日辞职，为 2027 年度高考防范 AI 作弊措施不足引发的混乱承担责任。韩国高考禁止携带 AI 眼镜、手机等电子设备，每个考点安排专人检查 AI 眼镜，仍查处 111 名违规携带智能设备的考生，其中包括 1 起使用智能眼镜作弊；李在明 20 日呼吁对高考制度进行全面改革，教育部计划 12 月 11 日成绩公布前完成处置。  
+  IT之家·人工智能 · 2026-11-22 11:21
 
 - [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
   Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
@@ -49,6 +45,10 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
   诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
   IT桔子 · 2026-11-20 11:21
+
+- [DWaste](<https://www.producthunt.com/products/deep-waste>)  
+  Eliminate recycling contamination with low-power Edge AI  
+  Product Hunt · English · 2026-11-18 19:42
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

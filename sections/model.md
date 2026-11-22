@@ -38,33 +38,61 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 99 条
+## 相关资讯 · 100 条
 
-- [Anthropic万亿上市，搅动的却是半导体江湖](<https://www.163.com/dy/article/LCBJP0ID05118O92.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 14:34
+- [MiniMax宣布大模型破解多项密码学前沿方案](<https://www.163.com/dy/article/LCCEPF2F0519DFFO.html>)  
+  网易科技频道 · 网易号 · 2026-11-22 22:26
+
+- [签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%](<https://www.ithome.com/1/030/713.htm>)  
+  IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微…  
+  IT之家 · 2026-11-22 22:00
+
+- [美国扩大芯片管制、DeepSeek 融资股权结构曝光、腾讯 AI 投入成本揭晓](<https://www.recodechinaai.com/p/new-chip-restrictions-deepseeks-funding>)  
+  美国将芯片出口管制扩展至海外数据中心租用算力，新规11月19日生效，并收紧对芯片制造与封装的要求。DeepSeek 本轮融资约 RMB105.5 亿、投后估值约 RMB615.5 亿，杭州辰岩成为运营公司股东。腾讯第三季度营收约 RMB207.3 亿、同比增长 8%，资本开支 RMB81.4 亿，WorkBuddy 日活超 1000 万、日均消耗超 100 万亿 tokens。  
+  Recode China AI（RSS） · 2026-11-22 21:33
+
+- [Dragos研究揭示低价AI推理服务商窃取密钥并窥探用户请求](<https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/>)  
+  Dragos安全研究人员在2026年7月至11月期间向AI服务商发送约200万条含假凭证的请求，发现至少三家服务商遭入侵，攻击者窃取数百个AWS密钥并在数小时内试用、搜索S3存储，部分攻击者还使用了AI攻击工具ARTEX。研究还发现，部分市场转售商无需利用漏洞即可读取客户请求，仅需以最低价上架模型并开启日志记录。隐私设置如“零数据保留”（ZDR）常被忽视。OpenRouter随后从平台移除三家服务商并撤销125个端点的ZDR批准，同时邮件通知受影响用户。受影响服务商包括Novita、Phala和Together，已…  
+  The Decoder：AI News（RSS） · 2026-11-22 20:07
+
+- [开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI](<https://www.ithome.com/1/030/699.htm>)  
+  IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。 不过需要说明的是，WollyM…  
+  IT之家 · 2026-11-22 19:24
+
+- [拆解大厂财报：谁最舍得为AI花钱？](<https://www.tmtpost.com/8212870.html>)  
+  四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。  
+  钛媒体 · 2026-11-22 19:05
+
+- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
+  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
+  The Decoder：AI News（RSS） · 2026-11-22 17:41
+
+- [马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入](<https://www.ithome.com/1/030/628.htm>)  
+  IT之家 11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（François Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要…  
+  IT之家 · 2026-11-22 16:47
+
+- [8个AI 新术语，看懂领先90%的人](<https://36kr.com/p/4054107156419714?f=rss>)  
+  神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。 编者按：大模型时代，大家熟悉提示词、幻觉这些基础词汇，但 AI 行业迭代很快，智能体、MCP、GEO 等新名词正在成为行业通用语言。读懂这  
+  36氪 · 2026-11-22 16:12
 
 - [Anthropic万亿上市，搅动的却是半导体江湖](<https://www.tmtpost.com/8213769.html>)  
   大买主登陆公开市场，芯片、代工与存储环节都在随之调整。  
   钛媒体 · 2026-11-22 14:16
 
+- [蚂蚁 inclusionAI 开源 LingSante-3.1-flash-MXFP4 医疗 MoE 模型](<https://huggingface.co/inclusionAI/LingSante-3.1-flash-MXFP4>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 LingSante-3.1-flash-MXFP4，这是基于 LingSante-3.1-flash 的混合 MXFP4 量化开源权重模型，主模型约 560B 参数、每 token 激活约 25B，配置 262,144 token 上下文窗口。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-22 11:19
+
 - [Australia Spy Chief Warns of Data Center, AI Risks, Age Reports](<https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports>)  
   Bloomberg · 2026-11-22 10:37
-
-- [试题用于大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评](<https://www.ithome.com/1/030/540.htm>)  
-  IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，近期部分人工智能大模型产品及其运营、推广主体宣…  
-  IT之家 · 2026-11-22 09:42
-
-- [Edge AI Daily 早报（11月22日）](<https://www.tmtpost.com/8213684.html>)  
-  英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Ant…  
-  钛媒体 · 2026-11-22 09:06
-
-- [特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面](<https://www.tmtpost.com/8213639.html>)  
-  数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。  
-  钛媒体 · 2026-11-22 08:45
 
 - [2万亿造富，25位华人员工接住Anthropic泼天富贵](<https://36kr.com/p/4079379879252868?f=rss>)  
   AI界的造富故事，正在从创始人为主的一端向内部员工扩散。Anthropic的上市，恰好将这种变化推到了聚光灯下。 11月19日，Claude大模型背后的Anthropic正式登陆纳斯达克。公司IPO发行价为每股83美元，公开发行规模高达81  
   36氪 · 2026-11-22 08:20
+
+- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
+  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
+  IT之家·人工智能 · 2026-11-22 08:04
 
 - [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
   Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
@@ -137,18 +165,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   匿名隐身模型 Gestalt 在 Contra Labs 11 月 18 日发布的 Frontier Design Benchmark 上以 Elo 1931 分、90% 胜率登顶，超过 Claude Fable 5.2（1713 分）和 GPT-6.1 Sol（1668 分），并高于人类设计师参考作品的 1739 分。  
   IT之家·人工智能 · 2026-11-21 07:17
 
-- [Meta 重新评估 2030 净零目标，AI 数据中心致碳排放同比增长近 40%](<https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/>)  
-  Meta 在 2026 年 11 月 19 日发布的可持续发展报告中表示正在重新评估 2030 净零排放目标及近期强度指标，称 AI 基础设施需求增长超出预期。  
-  Ars Technica：AI（RSS） · 2026-11-21 05:47
-
-- [形式验证如何对抗 AI 代码 slop：&amp;Truth、Harmonic、Theorem 与 Axiom Math 的路线](<https://latent.space/p/formal-verification/>)  
-  Latent Space 撰文分析形式验证如何成为对抗 LLM 低质量代码输出的手段，采访了 &amp;Truth 联合创始人 Clark Barrett。&amp;Truth 基于 Lean 构建“验证机”，首个工具 &amp;Atlas 从 C 语言开源代码起步，聚焦内存安全；Barrett 表示其 cvc5 求解器已在 Amazon 生产管线中每天被调用数十亿次。  
-  Latent Space（RSS） · 2026-11-21 05:18
-
-- [MIT-IBM 研究：多模态基础模型如何实现更像人的交互与理解](<https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120>)  
-  MIT-IBM Computing Research Lab 团队在 Jim Glass 共同带领下研究多模态基础模型的感知与语言关联，并针对 GPT-4o 等模型的失败案例开发新基准与少监督方法。  
-  MIT News（RSS） · 2026-11-21 05:00
-
 - [How Anthropic Upstaged OpenAI on Road to Blockbuster IPO](<https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo>)  
   The Information · 2026-11-20 22:18
 
@@ -159,10 +175,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
   Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
   Axios · 2026-11-20 20:10
-
-- [Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子](<https://36kr.com/p/4077969727673477?f=rss>)  
-  五年，年化营收超过800亿美元，上市首日完全稀释估值一度触及2万亿美元。这是一条在人类商业史上几乎从未出现过的增长曲线。 先知、救世主情结、宗教领袖，这也是在一个以技术与理性著称的行业里，几乎从未看到的标签。而如今，它们同时落在了一家公司身  
-  36氪 · 2026-11-20 19:39
 
 - [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
   Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
@@ -202,16 +214,5 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
   At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
   TechCrunch · 2026-11-20 08:43
-
-- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
-  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
-  OpenAI · 2026-11-20 08:00
-
-- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
-  The Information · 2026-11-20 06:43
-
-- [Anthropic’s IPO could deliver $156B to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
-  At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
-  TechCrunch · 2026-11-20 03:10
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 3 页

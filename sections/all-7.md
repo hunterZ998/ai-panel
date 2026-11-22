@@ -2,6 +2,46 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 11 页
 
+- [Recraft 实测 ByteDance Seedream 5.5，与 Recraft V4.1 Pro 和 GPT Image 2.6 对比](<https://www.recraft.ai/blog/seedream-5-5>)  
+  ByteDance 的 Seedream 5.5 已上线 Recraft Studio 付费方案，Recraft 用此前 GPT Image 2.6 测试的同一组 12 个提示词，将其与 Recraft V4.1 Pro 和 GPT Image 2.6 Sunburst 逐一对比。  
+  Recraft 自有模型与设计产品 · 2026-11-17 08:00
+
+- [OpenHands Teams 发布：自助部署自动化工程工作流，首推漏洞修复场景](<https://www.openhands.dev/blog/introducing-openhands-teams>)  
+  OpenHands 发布 OpenHands Teams，为小型工程团队提供自助使用 OpenHands Enterprise 的入口，30 天免费试用，定价每月 500 美元含 10 用户，加人每月 50 美元，可在自有基础设施数分钟内部署。  
+  OpenHands 官方博客 · 2026-11-17 08:00
+
+- [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>)  
+  How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes…  
+  OpenAI · 2026-11-17 08:00
+
+- [Astra for Law leads in legal intelligence](<https://openai.com/index/astra-law-6-2>)  
+  Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now…  
+  OpenAI · 2026-11-17 08:00
+
+- [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)  
+  OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and…  
+  OpenAI · 2026-11-17 08:00
+
+- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
+  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
+  Latent Space · 2026-11-17 05:27
+
+- [OpenVorld](<https://www.producthunt.com/products/openvorld>)  
+  Give your AI agents a home and a Vorld.  
+  Product Hunt · English · 2026-11-17 03:15
+
+- [Shipyard](<https://www.producthunt.com/products/shipyard>)  
+  MCP for Claude, Cursor and Codex to Automate Integrations  
+  Product Hunt · English · 2026-11-17 02:21
+
+- [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
+  Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
+  Databricks：Blog（RSS） · 2026-11-17 01:00
+
+- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
+  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
+  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
+
 - [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
   We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
   OpenAI · 2026-11-17 01:00
@@ -138,38 +178,5 @@
 
 - [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
   极客公园 · 2026-11-11 08:43
-
-- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
-  APPSO · 2026-11-11 08:20
-
-- [谷歌最强AI「碳」全球解禁！再现人类首次登月](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652742144&idx=1&sn=d63ffb9f70f7cb25804b5107e77a3c4d>)  
-  新智元 · 2026-11-11 06:45
-
-- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
-  量子位 · 2026-11-11 06:10
-
-- [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物系统首次完整曝光](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=2&sn=32ea257fcc98924cf226b76eb6251ce8>)  
-  量子位 · 2026-11-11 06:10
-
-- [Designing for Agents — Zeno Rocha, Resend](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend>)  
-  swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for…  
-  Latent Space · 2026-11-11 04:06
-
-- [Investing in General Translation](<https://www.a16z.news/p/investing-in-general-translation>)  
-  The good news is this is the type of problem that’s ripe for disruption by AI and, with the right technical primitive…  
-  a16z · 2026-11-11 00:30
-
-- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115977&idx=1&sn=61cb5fc2028d511d278a99d863db0412>)  
-  APPSO · 2026-11-10 23:57
-
-- [HubSpot’s Co-Founder on Finding Your Next Startup Idea](<https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA>)  
-  As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-…  
-  The a16z Show · 2026-11-10 23:29
-
-- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
-  新智元 · 2026-11-10 23:16
-
-- [突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=1&sn=12f09ef75c518a2d6464d9aeda167cee>)  
-  新智元 · 2026-11-10 23:16
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 11 页

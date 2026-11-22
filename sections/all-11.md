@@ -2,6 +2,46 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · 第 11 / 11 页
 
+- [Can AI Fix Professional Networking? \| Inside Cosign](<https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue>)  
+  What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vo…  
+  The a16z Show · 2026-10-31 18:00
+
+- [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
+  David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
+  20VC · 2026-10-31 15:07
+
+- [⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](<https://www.youtube.com/watch?v=v-d1WTqIULs>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs  
+  Latent Space · 2026-10-31 11:41
+
+- [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](<https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux>)  
+  What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay…  
+  The a16z Show · 2026-10-30 18:00
+
+- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
+  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
+  科技早知道 · 2026-10-30 17:00
+
+- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
+  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
+  20VC · 2026-10-29 15:07
+
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](<https://sv101.fireside.fm/271>)  
+  怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。 SBF与FTX的崩塌，曾让…  
+  硅谷101 · 2026-10-29 07:00
+
+- [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
+  AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
+  Latent Space · 2026-10-29 04:00
+
+- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
+  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
+  The a16z Show · 2026-10-28 18:00
+
+- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
+  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
+  Latent Space · 2026-10-28 02:40
+
 - [Reinventing School for the AI Era \| Joe Liemandt, Gagan Biyani &amp; Erik Torenberg](<https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu>)  
   What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt arg…  
   The a16z Show · 2026-10-27 18:00
@@ -37,10 +77,6 @@
 - [Amazon’s Trainium Takes a Strike at the Training King](<https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at>)  
   Anthropic is running production inference and RL rollouts on Trainium2 and Trainium3.  
   SemiAnalysis · 2026-10-24 03:06
-
-- [Amazon CEO Andy Jassy on the $220 Billion AI Buildout](<https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK>)  
-  Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving m…  
-  The a16z Show · 2026-10-23 18:00
 
 - [The Huawei-DeepSeek Symbiosis](<https://newsletter.semianalysis.com/p/huawei-deepseek>)  
   Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend  

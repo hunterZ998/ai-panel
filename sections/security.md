@@ -22,6 +22,10 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 ## 相关资讯 · 9 条
 
+- [2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比](<https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/>)  
+  MarkTechPost 整理 2026 年 7 款个人 AI 智能体的横评，从记忆、安全、成本三个维度比较 Hermes Agent、OpenClaw、Gemini Spark、OpenAI dots、Meta Muse、Perplexity Personal Computer 及 NanoClaw 等加固分支。  
+  MarkTechPost（RSS） · 2026-11-22 18:36
+
 - [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
   The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
   The Verge：AI（RSS） · 2026-11-21 23:00
@@ -29,10 +33,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
   Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
   Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
-
-- [研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>)  
-  研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。  
-  Ars Technica：AI（RSS） · 2026-11-21 04:59
 
 - [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
