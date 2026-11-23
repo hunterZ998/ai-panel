@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 38 页
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 35 页
 
 - [🚨 JUST NOW: ELON MUSK SEIZES CONTROL OF NVIDIA IN $400 BILLION POWER GRAB — JENSEN HUANG REINSTATED AS CEO IN STUNN…](<https://x.com/vizmas23/status/2124595290741113009>)  
   🚨 JUST NOW: ELON MUSK SEIZES CONTROL OF NVIDIA IN $400 BILLION POWER GRAB — JENSEN HUANG REINSTATED AS CEO IN STUNNING BOARDROOM COUP 🎙️Elon Musk stated that he has completed the acquisition of a major stake in NVIDIA, giving him significant influence over the…  
@@ -176,4 +176,4 @@
   PixVerse 发布一条图像生成提示词，用上传照片作为唯一身份参考，生成韩式照片亭风格的 3:4 四宫格人像。提示词要求保留脸型、五官和年龄感，四个分格同一人物不同姿势，包括手持复古电话、戴熊耳头带、举银色复古相机和头顶椭圆墨镜，背景为低饱和鼠尾草绿并带闪光灯质感，并明确避免过度磨皮、手指变形和…  
   X：PixVerse \(@PixVerse\) · 2026-11-22 23:01
 
-[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 38 页
+[返回面板](../README.md) · [上一页](fast-4.md) · [下一页](fast-6.md) · 第 5 / 35 页

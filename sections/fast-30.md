@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 38 页
+[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 35 页
 
 - [BREAKING: Nvidia, $NVDA, ends the week down -23% in its biggest weekly decline since October 2008.](<https://x.com/KobeissiLetter/status/2123885395033100559>)  
   The stock erased -$905 billion in market cap this week and officially closed down -$2.88 trillion since October 6th. No comment from the company's board or interim CEO amid  
@@ -113,10 +113,6 @@
   Plaud Note Pro حسب وصفه: 🤖 تفريغ وملخصات بالذكاء الاصطناعي 🎙️ 4 مايكات ومايك اهتزازي للمكالمات 🔋 بطارية حتى 30 ساعة تسجيل 🪶 بحجم بطاقة تقريباً ⭐ 4.5 من أكثر من 3 آلاف تقييم  
   @Before\_U\_Buy\_AR · 2026-11-21 04:00
 
-- [OpenAI 开发者分享用 Codex Ultrafast 保持心流的迭代方法](<https://x.com/dkundel/status/2123868868963889153>)  
-  OpenAI 开发者 Dominik Kundel 介绍此前随 GPT-6.2 Astra 和 Sol 上线的 Ultrafast（Codex 中 token 生成最快提速 4.5×）在 UI、文档和 computer use 场景中的快速迭代用法。  
-  X：Dominik Kundel（OpenAI 开发者体验，Codex） \(@dkundel\) · 2026-11-21 03:59
-
 - [🚨 RUMOR NVIDIA FAKED ITS FINANCIAL NUMBERS AND REPORTS.](<https://x.com/rektfencer/status/2123868576016966115>)  
   NOW THE SEC IS REPORTEDLY INVESTIGATING ITS ACCOUNTING. THE ENTIRE AI MARKET DEPENDS ON THESE NUMBERS. HOW MUCH FUCKING WORSE CAN THIS GET?  
   @rektfencer · 2026-11-21 03:58
@@ -137,16 +133,8 @@
   I talk about Omarchy, agents, 90s demo culture, and so much more with the gang from @a16z.  
   @dhh · 2026-11-21 03:49
 
-- [Google 与 Johns Hopkins 论文：Pro² Agent 用问题状态追踪提升 MLE-Bench 成绩](<https://x.com/rohanpaul_ai/status/2123866338850709801>)  
-  Google 与 Johns Hopkins 的论文 Pro² Agent 提出，让 AI 研究智能体先构建显式 Problem State，记录疑似瓶颈、文献候选修复和置信度，再通过单变量实验更新信念，而不是只循环改代码保留最高分。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 03:49
-
 - [How Jensen Huang returns to Nvidia](<https://x.com/sciencegirl/status/2123866120780423652>)  
   @sciencegirl · 2026-11-21 03:48
-
-- [Artificial Analysis 盘点千禧年大奖难题：人类与 OpenAI、Anthropic 各得一分](<https://x.com/ArtificialAnlys/status/2123865423364161861>)  
-  Artificial Analysis 以假设性基准盘点千禧年七大奖题的求解进展：人类凭 Perelman 2003 年证明庞加莱猜想得一分，OpenAI 于 9 月用未发布内部模型宣称求解 Navier-Stokes 问题，Anthropic 的 Levent Alpöge 今天发布与 Clau…  
-  X：Artificial Analysis \(@ArtificialAnlys\) · 2026-11-21 03:45
 
 - [Meta今天披露了上个月 Open Source AI for Science Summit 的几项进展。其中一项是 FA…](<https://x.com/Lucy31633388242/status/2123863277620941290>)  
   Meta今天披露了上个月 Open Source AI for Science Summit 的几项进展。其中一项是 FAIR 发布更快的原子模型 UMA Nitro。Meta 还说，与卡内基梅隆大学、加州大学河滨分校的研究中，UMA 模型无需额外训练数据，就识别出药物分子的多种晶型。晶型会影响药…  
@@ -160,20 +148,30 @@
   Fix one property, break another. @OpenAI released MedChemBench: 99 medicinal chemistry problems from 117 papers and patents. GPT-6.2 Astra scored 84.5%. For anyone building AI for science. Worth a read.  
   @sofdiedev · 2026-11-21 03:35
 
-- [OpenAI 研究对抗模型蒸馏](<https://x.com/OpenAI/status/2123862344422088794>)  
-  知识蒸馏可以复制强大的 AI 能力，却无法复制围绕这些能力构建的安全防护措施。 我们分享了一项新研究，介绍我们在打击针对自家模型的蒸馏方面所做的工作、这些能力如何迁移，以及我们如何检测并阻断协同性的尝试。 这些发现正帮助我们强化防御，并支持全行业的安全防护。  
-  X：OpenAI \(@OpenAI\) · 2026-11-21 03:33
-
 - [BREAKING: Nvidia loses nearly $500,000,000,000.00 after SEC announces investigation into its accounting practices 1…](<https://x.com/Kalshi/status/2123861933048971418>)  
   BREAKING: Nvidia loses nearly $500,000,000,000.00 after SEC announces investigation into its accounting practices 10% chance Jensen returns as CEO.  
   @Kalshi · 2026-11-21 03:31
-
-- [OpenAI 升级 ChatGPT 桌面应用](<https://x.com/thsottiaux/status/2123861214644347122>)  
-  团队已全力投入，升级你的桌面应用吧。更快、更简洁，用起来愉悦得多。  
-  X：Tibo \(@thsottiaux\) · 2026-11-21 03:29
 
 - [卧槽？？？？今天数学界到底怎么了？？？](<https://x.com/MaxForAI/status/2123860792324002021>)  
   就在Anthropic的数学家宣布和Claude一起证明了黎曼猜想之后，美国数学会主席Ravi Vakil突然发布了一份紧急公告：另一位数学家Alessandro Masullo也提出了广义黎曼猜想（GRH）的证明！ 最炸裂的是，公告特意强调： 全部由人类完成，没有使用AI！！！  
   @MaxForAI · 2026-11-21 03:27
 
-[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 38 页
+- [トランプはジェンスンファンがNVIDIAに復帰すべきと記者会見で話しています。このあとにNVIDIAの売りが加速しました。…](<https://x.com/yurumazu/status/2123859683626901972>)  
+  トランプはジェンスンファンがNVIDIAに復帰すべきと記者会見で話しています。このあとにNVIDIAの売りが加速しました。もはやトランプのポリティカル資本はゼロです。  
+  @yurumazu · 2026-11-21 03:23
+
+- ["I'd rather torture you into greatness, because I believe in you." - Jensen Huang, future emperor](<https://x.com/cirnosad/status/2123859315685765595>)  
+  @cirnosad · 2026-11-21 03:21
+
+- [Docker switching from containers to VMs is even more bizarre than the whole Jensen NVIDIA situation](<https://x.com/mischavdburg/status/2123858738045980688>)  
+  @mischavdburg · 2026-11-21 03:19
+
+- [Claude may have helped prove the Riemann Hypothesis 👀 → Levent Alpöge, a mathematician at Anthropic, posted a 4-pag…](<https://x.com/srikanthvaluri/status/2123858484211122235>)  
+  Claude may have helped prove the Riemann Hypothesis 👀 → Levent Alpöge, a mathematician at Anthropic, posted a 4-page note today → He says he believes he found a proof working with Claude → Quanta Magazine is reporting it → Not peer reviewed yet.  
+  @srikanthvaluri · 2026-11-21 03:18
+
+- [“i believe i have, working with claude, discovered a proof of the riemann hypothesis.” – levent alpoge &amp;gt; riemann…](<https://x.com/itsneuron/status/2123858293961756835>)  
+  “i believe i have, working with claude, discovered a proof of the riemann hypothesis.” – levent alpoge &amp;gt; riemann hypothesis has been solved. &amp;gt; &amp;gt; ai for science.  
+  @itsneuron · 2026-11-21 03:17
+
+[返回面板](../README.md) · [上一页](fast-29.md) · [下一页](fast-31.md) · 第 30 / 35 页

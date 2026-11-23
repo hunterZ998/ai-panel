@@ -2,7 +2,15 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
-- [190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](<https://podcast.latepost.com/190>)  
+- [The One-Person Biotech \| OpenAI Life Sciences](<https://a16z.simplecast.com/episodes/the-one-person-biotech-openai-life-sciences-TrZddFUB>)  
+  What happens when scientists are no longer limited by human attention? OpenAI’s Joy Jiao and Ashoka Rajendra join a16…  
+  The a16z Show · 2026-11-23 19:00
+
+- [20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? \| "Fire the Bankers": Why Most VCs Won't Survive AI \| Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha](<https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha>)  
+  Anjney Midha is one of Anthropic's earliest angel investors, backing the company in its founding round in 2021. Previ…  
+  20VC · 2026-11-23 15:07
+
+- [190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么](<https://podcast.latepost.com/190>)  
   「如果世界只剩一个前台，那是悲哀的。」 今年 9 月以来，Instinct、Muse 等 Personal Agent（个人 AI 助理）产品陆续爆火，一度被生产力主流淹没的 AI to C 领域再起变化。10 月 27 日，蚂蚁灵光…  
   晚点聊 · 2026-11-23 09:00
 
@@ -173,13 +181,5 @@
 - [The Robots Already Working in American Factories \| Tutor Intelligence](<https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3>)  
   What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gru…  
   The a16z Show · 2026-11-03 00:05
-
-- [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
-  Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
-  20VC · 2026-11-02 15:07
-
-- [【年终复盘①】AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](<https://www.xiaoyuzhoufm.com/episode/6ae6e230c96c8942ec156ed6?utm_source=rss>)  
-  ➤ 「十字路口」2026 年终 AI 复盘系列的第一期来了！ 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是邀请十字路口身处 AI 一线的朋友们 ——创业者、研究员和投资人，分享 10 个真正触动他们的 AI 瞬间…  
-  十字路口 Crossing · 2026-11-02 00:00
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

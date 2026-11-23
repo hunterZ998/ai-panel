@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 38 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 35 页
 
 - [🚨 AI Security Alert \| Attackers inside AI inference providers stole prompts for months, including "Zero Data Retent…](<https://x.com/fenzlabs/status/2124453498804965627>)  
   🚨 AI Security Alert \| Attackers inside AI inference providers stole prompts for months, including "Zero Data Retention" requests Dragos / OpenRouter: Attackers stole user prompts from inside three AI inference providers for months, and none of the three knew u…  
@@ -169,4 +169,4 @@
 - [this demo shows phones can do meaningful on device ai computation and demos build trust](<https://x.com/77bncvbsdcg/status/2124437059209441748>)  
   @77bncvbsdcg · 2026-11-22 17:37
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 38 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 35 页

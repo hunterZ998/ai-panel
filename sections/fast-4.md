@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 38 页
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 35 页
 
 - [11月23日A股目前持仓及建仓计划 凡拓数创301313\(+6%\) 中京电子002579\(+4%\) 华升股份600156\(…](<https://x.com/norfarzana4993/status/2124640920855568656>)  
   11月23日A股目前持仓及建仓计划 凡拓数创301313\(+6%\) 中京电子002579\(+4%\) 华升股份600156\(+1%\) 华东重机002685\(+87%\) 中芯国际688981\(+14%\) 下周一建仓三只标的 ①PCB+光模块+AI PC+AI眼镜 ②存储芯片+HBM ③磷化铟+光纤+A…  
@@ -176,4 +176,4 @@
   After a wave of disruptions affecting flights, Microsoft, major banks and even the NSA, intelligence director Jay Clayton says more interruptions are coming. “We are going to have glitches, gaps,  
   @MarioNawfal · 2026-11-23 04:10
 
-[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 38 页
+[返回面板](../README.md) · [上一页](fast-3.md) · [下一页](fast-5.md) · 第 4 / 35 页

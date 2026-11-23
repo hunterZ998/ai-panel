@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 38 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 35 页
 
 - [This is real-time AI video generation \(no gaming engine\!\) using just half of one AI4 TRIP accelerator.](<https://x.com/elonmusk/status/2124270426402836626>)  
   Let that sink in …  
@@ -178,4 +178,4 @@
   Can't get a refund and can't do anything about it. You pay, wake up banned, and your money is just gone. What a bunch of fucking scammers. These are the same people lecturing everyone on AI  
   @superalesha · 2026-11-22 02:47
 
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 38 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 35 页

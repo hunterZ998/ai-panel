@@ -20,27 +20,15 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 6 条
-
-- [Edge AI Daily 早报（11月23日）](<https://www.tmtpost.com/8214195.html>)  
-  英伟达季度营收1158亿美元、下季指引1300亿美元，市场焦点转向基建支出能否转化为可量化回报；Anthropic完成IPO募资约916亿美元，却背负约9009亿美元算力采购承诺，成本刚性与收入弹性错配待解；甲骨文筹足OpenAI合同…  
-  钛媒体 · 2026-11-23 08:48
+## 相关资讯 · 3 条
 
 - [韩国高考 AI 作弊事件发酵，教育部长崔教振引咎辞职](<https://www.ithome.com/1/030/558.htm>)  
   韩国教育部长官崔教振 11 月 22 日辞职，为 2027 年度高考防范 AI 作弊措施不足引发的混乱承担责任。韩国高考禁止携带 AI 眼镜、手机等电子设备，每个考点安排专人检查 AI 眼镜，仍查处 111 名违规携带智能设备的考生，其中包括 1 起使用智能眼镜作弊；李在明 20 日呼吁对高考制度进行全面改革，教育部计划 12 月 11 日成绩公布前完成处置。  
   IT之家·人工智能 · 2026-11-22 11:21
 
-- [全球Meta一家独大，中国AI眼镜为何还在混战？](<https://36kr.com/p/4077938009412480?f=rss>)  
-  ｜GUIDE｜ ■中国为什么跑不出第二个Meta？ ■AI眼镜为什么还难赚钱？ ■谁能成为中国AI眼镜的赢家？ 今年双11，雷鸟、夸克等都拿到了AI眼镜的第一名。 雷鸟创新宣布登顶京东智能眼镜与 XR 设备两大品牌榜榜首，阿里夸克称夸克AI  
-  36氪 · 2026-11-20 21:22
-
-- [星辰智算获得数百万人民币战略投资](<https://www.itjuzi.com/investevent/14708361>)  
-  星辰智算SentiMind是一家认知科学多模态大模型研发商，用游戏化认知任务采集人的行为数据，再以多模态模型理解、预测与训练认知能力，已构建覆盖认知评估、训练、追踪的闭环体系，并推出端侧认知调度层Senti-OS，以1至3B的轻量化模…  
-  IT桔子 · 2026-11-20 14:42
-
-- [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
-  诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
-  IT桔子 · 2026-11-20 11:21
+- [Pete Warden 谈本地 AI、开放模型、语音界面与硬件未来](<https://thedataexchange.media/pete-warden-moonshine/>)  
+  Moonshine Voice 联合创作者 Pete Warden 在播客中讨论本地 AI 为何越来越倾向在设备端而非云端运行，并称本地模型在基准测试上仅比 Anthropic 和 OpenAI 的商业模型落后几个月。  
+  Hacker News：AI 热帖 · 2026-11-19 20:00
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

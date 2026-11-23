@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 38 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页
 
 - [The generative ai models generate media.](<https://x.com/max_spero_/status/2124654169340752129>)  
   A video generation model creates videos. An image generation model creates images. Waymo or alphago produce decisions, they don’t generate media  
@@ -178,4 +178,4 @@
 - [\#数据标注 \#AI安全 \#转化率 你的秀发被风牵引着 \#Mendoza](<https://x.com/mNicoleCookakuc/status/2124650220659327090>)  
   @mNicoleCookakuc · 2026-11-23 07:44
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 38 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页

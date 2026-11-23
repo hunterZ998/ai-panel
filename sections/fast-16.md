@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 38 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 35 页
 
 - [Anthropicが株価下落に慌てて「リーマン予想を解いた」宣言した件、25万ページ分の検証を丸投げしてる辺りワークスロッ…](<https://x.com/jjugdy2433yc2c/status/2124212574740967523>)  
   Anthropicが株価下落に慌てて「リーマン予想を解いた」宣言した件、25万ページ分の検証を丸投げしてる辺りワークスロップの究極形という感じだな この事案そのものが生成AI導入しても生産性上がらない問題の縮図になってる  
@@ -177,4 +177,4 @@
   Turns out wiping out $1 trillion in Nvidia market cap, triggering a 7,500-employee petition, and forcing interim leadership to hand out emergency raises just to stop engineers from quitting makes the board’s “move on” strategy look slightly less brilliant. ​Wi…  
   @MyDaebakCafe · 2026-11-22 00:34
 
-[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 38 页
+[返回面板](../README.md) · [上一页](fast-15.md) · [下一页](fast-17.md) · 第 16 / 35 页

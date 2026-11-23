@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 38 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 35 页
 
 - [🇺🇸 \| El presidente Trump pide a NVIDIA que traiga de vuelta a Jensen Huang como CEO.](<https://x.com/AlertaNews24/status/2123943727249178748>)  
   @AlertaNews24 · 2026-11-21 08:57
@@ -176,4 +176,4 @@
   切面一：Anthropic 刚上市，定价 83  
   @zg0820 · 2026-11-21 08:03
 
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 38 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 35 页

@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 38 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 35 页
 
 - [今も、Local LLM のｘ翻訳は「地元のLLM」になったり、ならなかったりしました⬇️ 「Laptopで動かす」などと…](<https://x.com/neoclassic_tech/status/2124436745899127052>)  
   今も、Local LLM のｘ翻訳は「地元のLLM」になったり、ならなかったりしました⬇️ 「Laptopで動かす」などと文脈を与えないと、（期待通り）「地元のLLM」に？😀  
@@ -175,4 +175,4 @@
   ขอส่งความสดใสในวันอาทิตย์ให้ยิ้มแฉ่ง 🍅✨ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#kasibook \#TOMAFOX  
   @bookfamily\_ · 2026-11-22 12:42
 
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 38 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 35 页

@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 38 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 35 页
 
 - [I am willing to bet any amount of money that the interim CEO of Nvidia will not outperform the genius founder who b…](<https://x.com/PalmerLuckey/status/2124016206201983166>)  
   Happy to make any wager you propose\!  
@@ -177,4 +177,4 @@
   The most valuable company in history, with a visionary founder, and the best product in the fastest growing segment of the global economy, and it all went poof in two months. Wild.  
   @uTobian · 2026-11-21 08:57
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 38 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 35 页

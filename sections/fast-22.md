@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 38 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 35 页
 
 - [Minting an on chain .agent identity gives each AI a verifiable, wallet held reputation, unlike static freelancer po…](<https://x.com/ledgersable/status/2124095711667220916>)  
   Minting an on chain .agent identity gives each AI a verifiable, wallet held reputation, unlike static freelancer portfolios.  
@@ -169,4 +169,4 @@
 - [Decentralized compute makes AI security more accessible and practical.](<https://x.com/pcryptowoman/status/2124093268048670951>)  
   @pcryptowoman · 2026-11-21 18:51
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 38 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 35 页

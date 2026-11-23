@@ -1,44 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 38 页
-
-- [🚨 WOW\!](<https://x.com/EricLDaugh/status/2123844788008985020>)  
-  President Trump just rushed to the defense of Jensen Huang and Elon Musk "We have to PROTECT our brilliant people, because no country has too many of them\!" 🔥 On Jensen: "He's a good man. By the way, he's a MAN, while we're at it. Made some bad decisions, but …  
-  @EricLDaugh · 2026-11-21 02:23
-
-- [America's advanced chips should never be sold to any power that wants to cause us harm.](<https://x.com/mikepompeo/status/2123844790823297230>)  
-  The Nvidia scandal should be a wake-up call for anyone in doubt about China's intentions - and our elected leaders must act accordingly. Why on earth would the United States knowingly allow a  
-  @mikepompeo · 2026-11-21 02:23
-
-- [Anthropic mathematician Levent Alpöge has posted a claimed proof of the 167-year-old Riemann Hypothesis, discovered…](<https://x.com/PhilosophyOfPhy/status/2123844677594218969>)  
-  At its core, the problem asks whether prime numbers \(2, 3, 5, 7, 11…\) follow a hidden order or drift  
-  @PhilosophyOfPhy · 2026-11-21 02:23
-
-- [JUST IN: 🇺🇸 President Trump calls for Nvidia $NVDA to reinstate Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2123844669167620488>)  
-  @WatcherGuru · 2026-11-21 02:23
-
-- [“He made some bad decisions, but he is a brilliant person.” President Trump offers a defense of Nvidia’s Jensen Hua…](<https://x.com/FoxNews/status/2123844653002743909>)  
-  Jensen is one of them.”  
-  @FoxNews · 2026-11-21 02:23
-
-- [🚨 WOW\!](<https://x.com/GuntherEagleman/status/2123844637467038140>)  
-  President Trump just called for Nvidia to give Jensen Huang a SECOND CHANCE, and he says even Xi agrees he's brilliant. Trump says Huang made some bad decisions, but he's one of the MOST BRILLIANT MINDS IN THE WORLD. He says Huang's Blackwell chip put America …  
-  @GuntherEagleman · 2026-11-21 02:23
-
-- [Qwen4 Max from @Alibaba\_Qwen is ready for your next build on Lebrel.](<https://x.com/LebrelAI/status/2123844430146814226>)  
-  A low-cost way to start building apps and agents through our OpenAI-compatible API. $1.40 input / $4.20 output per million tokens. Start building:  
-  @LebrelAI · 2026-11-21 02:22
-
-- [BREAKING: President Trump calls on Jensen Huang to "make an apology and go back" to Nvidia, $NVDA, as CEO.](<https://x.com/KobeissiLetter/status/2123844337717162044>)  
-  Trump also says he discussed the situation with China's President Xi. Nvidia would reinstate Jensen as CEO "if they were smart," Trump says.  
-  @KobeissiLetter · 2026-11-21 02:22
-
-- [まあ史上最大のIPOだからそりゃ金額もデカくなるだろって話ではあるけど、Anthropicの創業者が7人合計で20億ドルも…](<https://x.com/shidokamo/status/2123843983424229682>)  
-  まあ史上最大のIPOだからそりゃ金額もデカくなるだろって話ではあるけど、Anthropicの創業者が7人合計で20億ドルも初日に換金して来たのは流石に引くよなあ。もうちょっと手加減出来んのかな。  
-  @shidokamo · 2026-11-21 02:20
-
-- [How I see Anthropic vs OpenAI](<https://x.com/Strife212/status/2123843492619473065>)  
-  @Strife212 · 2026-11-21 02:18
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 35 页
 
 - [Anthropic just announced they believe they have a proof of the biggest unsolved problem in all of mathematics.](<https://x.com/st_noah_of_arc/status/2123842256935215306>)  
   There are zero posts about this on r/math because the subreddit has a total ban on discussing AI. Luddites are funny sometimes.  
@@ -75,10 +37,6 @@
   Bring Jensen Huang back. It’s really that simple.  
   @growthrapidly · 2026-11-21 01:57
 
-- [Perceptron 发布 Isaac 0.5 的 36B 机器人模型即用检查点](<https://x.com/rohanpaul_ai/status/2123838152754491595>)  
-  作者指出机器人领域正在获得曾让语言模型快速发展的预训练检查点生态。Perceptron AI 在 Hugging Face 上发布了 36B 参数机器人模型 Isaac 0.5 的即用检查点，每个均已针对特定机械臂微调，支持 YAM、SO-100/101 和 LIBERO。用户下载对应检查点后，机…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 01:57
-
 - [BREAKING: An Anthropic mathematician says he and Claude have proven the Riemann Hypothesis.](<https://x.com/guilleflorvs/status/2123837978413879307>)  
   Levent Alpöge posted the statement today, with a full Lean formalization split across 14 archive files. The claim goes past Riemann's 1859 conjecture. He says the same method resolves  
   @guilleflorvs · 2026-11-21 01:56
@@ -95,20 +53,12 @@
   看完了这个才知道什么是真正的纯欲！！！😍🤤 \#cosplay \#角色扮演 白嫖AI脱👗💐 一图生视频😍 姿势任你选🤤 评论区自取⬇️  
   @KaeowongSa99585 · 2026-11-21 01:49
 
-- [Arena 对齐指数更新：OpenAI 包揽前七](<https://x.com/arena/status/2123835034532729205>)  
-  Arena 更新对齐指数，改进模型失败检测信号，覆盖更广、判断更可靠。OpenAI 包揽全部七个最高位；Anthropic 新发布的 Claude Fable 5.2 以 78.2 分首次上榜列第 8，此前第 6 的 Claude Opus 5.5 降至第 17。最佳开源模型 Kimi K3.1…  
-  X：Arena \(@arena\) · 2026-11-21 01:45
-
 - [Look at what happened this week: Anthropic went public at a $1.5 TRILLION valuation.](<https://x.com/sharonclassic25/status/2123834379940385271>)  
   It popped even higher at the open. GTA VI did $1.5B+ in pre-orders before launch day. Biggest entertainment launch ever. Two completely different industries. Same story. Who made Anthropic  
   @sharonclassic25 · 2026-11-21 01:42
 
 - [people who didn’t buy Anthropic yesterday and missed the IPO pop](<https://x.com/TrungTPhan/status/2123833821137437001>)  
   @TrungTPhan · 2026-11-21 01:40
-
-- [Anthropic 数学家 Alpöge 称与 Claude 合作证明了黎曼猜想](<https://x.com/rohanpaul_ai/status/2123833283863789602>)  
-  Rohan Paul 转述：Anthropic 数学家 Alpöge 自称与 Claude 合作证明了有 167 年历史的黎曼猜想，方法是把两个作用于简化“玩具”版本的想法引向真问题，由 Claude 接手他未掌握的高级领域并提出关键步骤，全程约六周，并把论证形式化为机器可检验的代码。Alpöge…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 01:38
 
 - [🚨 OJO: TRUMP COMPRÓ ACCIONES DE NVIDIA ANTES DE QUE ESTALLARA EL ESCÁNDALO DE SU CEO El presidente de Estados Unido…](<https://x.com/YosoyPedrero/status/2123833135737749897>)  
   🚨 OJO: TRUMP COMPRÓ ACCIONES DE NVIDIA ANTES DE QUE ESTALLARA EL ESCÁNDALO DE SU CEO El presidente de Estados Unidos, Donald Trump, realizó operaciones de compra y venta de acciones de Nvidia durante septiembre de 2026, semanas antes de que se hicieran pública…  
@@ -145,10 +95,6 @@
   Or Washington versus Beijing. There's a good chance it comes down to two companies. SpaceX and Anthropic. Two visions of AI. Two visions of humanity. On one side, SpaceX, which absorbed xAI in February. A  
   @brivael · 2026-11-21 01:23
 
-- [Dario Amodei 谈 Anthropic 主动放缓发展速度](<https://x.com/rohanpaul_ai/status/2123829074753998977>)  
-  Dario Amodei：Anthropic 选择以不到其能力一半的速度前进 “我们在节奏把控上所做的，本质上是说，我们本可以开到每小时 200 英里，也许就只开到每小时 90 英里吧。花时间去弄清楚如何安全地做到这一点。而剩下的那部分余力，我们用来以正确的方式构建模型。” ---- 完整视频见“…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-21 01:21
-
 - [Riemann, parmi les plus grands mystères des mathématiques vient \(peut-être\) d'être résolu par Claude.](<https://x.com/WorldKnownledge/status/2123828957338300476>)  
   C'est en tout cas ce que vous pouvez lire partout. Dans le détail, ça donne quoi ? 1\) Tout d'abord, l'hypothèse de Riemann, c'est quoi ? Tout part des nombres premiers, vous  
   @WorldKnownledge · 2026-11-21 01:20
@@ -157,9 +103,9 @@
   BREAKING: Jensen Huang reportedly threatened to forcibly remove an Nvidia employee’s skullcap, exposing their brain, and then urinate on it. — NYT  
   @Polymarket · 2026-11-21 01:20
 
-- [Google 发布 Gemini 4 系列及 Genie 4 等多款模型更新](<https://x.com/GoogleAI/status/2123828467124851025>)  
-  Google AI 汇总近两周发布成果，包括面向复杂工程与科研工作流的 Gemini 4 Neon、主打速度和效率的 Gemini 4 Hydrogen，以及面向长周期深度研究的 Gemini 4 Carbon。  
-  X：Google AI \(@GoogleAI\) · 2026-11-21 01:19
+- [We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks: — Gemini 4 Neon, our newest model that bring…](<https://x.com/GoogleAI/status/2123828467124851025>)  
+  We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks: — Gemini 4 Neon, our newest model that brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows — G…  
+  @GoogleAI · 2026-11-21 01:19
 
 - [BREAKING: Anthropic, $ANT, extends losses to -27% from its post-IPO high.](<https://x.com/KobeissiLetter/status/2123828297469723006>)  
   The stock is now less than 2% away from falling below its IPO price of $83/share.  
@@ -172,8 +118,62 @@
   Las bolsas de todo el mundo se desploman ante el riesgo de un pinchazo de la burbuja de la IA tras la salida de Anthropic. Los inversores huyen a la renta fija y al dólar para protegerse de  
   @Josevizner · 2026-11-21 01:14
 
-- [Gemini 3.5 Transcribe 语音编辑开放预览](<https://x.com/Google/status/2123827050968764511>)  
-  Gemini 3.5 Transcribe 的语音编辑能力现已通过 @GoogleAIStudio 中的 Gemini API 以及 Gemini for business 开放公开预览。  
-  X：Google \(@Google\) · 2026-11-21 01:13
+- [There is real fear that Nvidia might pull back on their investments and backstops.](<https://x.com/GavinSBaker/status/2123826938498146439>)  
+  I believe this is misplaced. Nvidia’s competitors are eager to take their place, disrupt their relationships and fill any vacuum left by Nvidia. There are at least three companies aggressively  
+  @GavinSBaker · 2026-11-21 01:12
 
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 38 页
+- [According to new research from the Lincoln Project and its partner Impact Social, Nvidia is a growing political cri…](<https://x.com/ProjectLincoln/status/2123826713255665795>)  
+  Swing voters are increasingly blaming Trump and concerned he may have sold out the nation’s national security interests. The scandal lays into the  
+  @ProjectLincoln · 2026-11-21 01:12
+
+- [JUST IN: "Big Short" investor Michael Burry says he sold half of his Nvidia $NVDA short position.](<https://x.com/WatcherGuru/status/2123825032829014413>)  
+  @WatcherGuru · 2026-11-21 01:05
+
+- [BREAKING: The Pentagon declares Anthropic is “definitely a supply chain risk.”](<https://x.com/Polymarket/status/2123825006345945592>)  
+  @Polymarket · 2026-11-21 01:05
+
+- [MiniMax H3 Image vs.](<https://x.com/Aria_Nawi/status/2123824553151578340>)  
+  Kling Image 4.0,both at 4K. H3's take on this character is pretty impressive. The facial expression, skin texture, and armor details give it a more cinematic, realistic feel. And here's the price difference: H3 Image: $0.034/image \(50% off\) Kling Image 4.0:  
+  @Aria\_Nawi · 2026-11-21 01:03
+
+- [Same 4K resolution.](<https://x.com/Amaliarenzy/status/2123824444632346883>)  
+  Very different takes on the character. MiniMax H3 Image vs. Kling Image 4.0. I'm leaning toward H3 on this one. The battle-worn face, messy hair, and raw expression give it a much more convincing game cinematic feel. And the price gap is pretty significant:  
+  @Amaliarenzy · 2026-11-21 01:03
+
+- [CoreWeave is back to its IPO price.](<https://x.com/DarioCpx/status/2123824153962963231>)  
+  Jensen Huang isn't around anymore to throw extra cash at it, squeeze the value of those shares higher and pretend they're worth anything more than zero. That's how much shareholders will get after all those who lent money to this company.  
+  @DarioCpx · 2026-11-21 01:01
+
+- [BREAKING: Two months after OpenAI’s Navier-Stokes claim sparked accusations of scooping, an NYU mathematician and a…](<https://x.com/sciam/status/2123823891248300153>)  
+  BREAKING: Two months after OpenAI’s Navier-Stokes claim sparked accusations of scooping, an NYU mathematician and an Anthropic researcher say they’ve solved the unforced problem—with AI’s help.  
+  @sciam · 2026-11-21 01:00
+
+- [Friday LIVE: WH Removes Cyber Chief As Attacks Intensify\!](<https://x.com/RealAlexJones/status/2123823559214502002>)  
+  Nvidia Stocks Plunge, Rocking Market\! Netanyahu Attacks Nick Fuentes For Alex Jones Appearance\! Fuentes Coming On LIVE To Respond\! Mamdani To Close Rikers\! Plus, Putin Prepares To Finish Ukraine\! Share Feed\!  
+  @RealAlexJones · 2026-11-21 00:59
+
+- [Anthropic’s co-founders on the story so far.](<https://x.com/AnthropicAI/status/2123822989154369958>)  
+  Told by Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah  
+  @AnthropicAI · 2026-11-21 00:57
+
+- [“yeah money wont matter anymore in 6-8 months,” says Rakesh, 24, researcher at Anthropic as he unloads $100M onto t…](<https://x.com/solarnius/status/2123822716931461270>)  
+  “yeah money wont matter anymore in 6-8 months,” says Rakesh, 24, researcher at Anthropic as he unloads $100M onto the chart  
+  @solarnius · 2026-11-21 00:56
+
+- [congrats on the jump. ai for science is where agents can actually do something new. most agent stuff right now is j…](<https://x.com/shittyengineer9/status/2123822623377473755>)  
+  congrats on the jump. ai for science is where agents can actually do something new. most agent stuff right now is just faster busywork. multi agent discovery sounds hard in a good way. which field are you starting with? good luck with the early hires.  
+  @shittyengineer9 · 2026-11-21 00:55
+
+- [Anthropicのリーマン予想解決公表について皮肉な点があるとすると、 1.ミレニアム問題の解決は1億円以上の賞金が出る…](<https://x.com/ImAI_Eruel/status/2123821857380196725>)  
+  Anthropicのリーマン予想解決公表について皮肉な点があるとすると、 1.ミレニアム問題の解決は1億円以上の賞金が出るが、ナビエストークスの例に倣うと、それ以上のトークンコストがかかる 2.公表後もAnthropicの株価が下がり続けている \(投資家にはリーマン予想の重要性がわからないのかもし…  
+  @ImAI\_Eruel · 2026-11-21 00:52
+
+- [RisingSayak 用 Diffusers 给 NVIDIA RFD4-Proteina 做 LoRA 微调：蛋白质设…](<https://x.com/Zen_with_AI/status/2123820538699325591>)  
+  RisingSayak 用 Diffusers 给 NVIDIA RFD4-Proteina 做 LoRA 微调：蛋白质设计变成生成模型任务 据 @RisingSayak，Diffusers 现在能对 NVIDIA 的 RFD4-Proteina 做 LoRA 微调。示例在去噪器上训一个 rank…  
+  @Zen\_with\_AI · 2026-11-21 00:47
+
+- [問了下Eva被ICE拘留的情況，學校已經派律師去保釋了，如果只是身份問題應該很快會出來。](<https://x.com/Carrie_CengWong/status/2123820520579973253>)  
+  其實Eva不是博士纔過來美國讀書的，她十年前就來了，上海人，在紐約Bronx讀的中學，後來去MIT拿了數學和AI雙學士，之後來普林斯頓Brody Lab讀博，計畫29年畢業，是神經網絡方向，曾經在Meta、Microsoft AI和 IBM  
+  @Carrie\_CengWong · 2026-11-21 00:47
+
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 35 页

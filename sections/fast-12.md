@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 38 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 35 页
 
 - [THE ANTHROPIC IPO IS A SCAM We’re being told Anthropic is now worth $1.1-1.5 TRILLION.](<https://x.com/adamemedia/status/2124311446829891585>)  
   It’s NOT\! Here’s what the corrupt financial press isn’t explaining to you. Anthropic has \~13.4 BILLION shares. Only 1.1 BILLION were offered to the public. That’s just \~8%. The  
@@ -175,4 +175,4 @@
 - [it doesn’t do too badly as some of the training data is a bit mumbled but it is a tiny model](<https://x.com/yungbose/status/2124293455103016971>)  
   @yungbose · 2026-11-22 08:06
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 38 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 35 页

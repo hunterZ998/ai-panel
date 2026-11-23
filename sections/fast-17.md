@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 38 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 35 页
 
 - [The PC hardware market is showing early signs of a turnaround as the AI bubble begins to cool.](<https://x.com/GameGPU_com/status/2124179006962520130>)  
   While 32 GB DDR5-6000 kits surged from $130 to $500 over the past two years, RAM and SSD prices are now starting to drop, and GPU pricing appears to have  
@@ -176,4 +176,4 @@
   ครอบครัวนี้ชอบกอดชอบหอมลูกที่สุด ปะป๊ากับพ่อบุ๊ครักมะฟอกซ์ที่สุดเลยยยย เป็นเด็กที่เติบโตมาด้วยความรักของคนมากมาย 🦊🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
   @Jewelbb\_ · 2026-11-21 23:09
 
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 38 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 35 页

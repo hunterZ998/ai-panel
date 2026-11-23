@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 38 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 35 页
 
 - [Bannon: When you lose a carrier battle group—with 10,000 to 12,000 young American sailors—that goes to the bottom o…](<https://x.com/Bannons_WarRoom/status/2123912104818143449>)  
   Bannon: When you lose a carrier battle group—with 10,000 to 12,000 young American sailors—that goes to the bottom of the Strait of Taiwan in defense of Taiwan and the chip factories, understand: sending the chips over from Jensen Huang and these traitors is wh…  
@@ -174,4 +174,4 @@
 - [BREAKING: Jensen Huang reportedly forced his employees to eat pizza with pineapple on it](<https://x.com/iam_smx/status/2123885490864578674>)  
   @iam\_smx · 2026-11-21 05:05
 
-[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 38 页
+[返回面板](../README.md) · [上一页](fast-28.md) · [下一页](fast-30.md) · 第 29 / 35 页

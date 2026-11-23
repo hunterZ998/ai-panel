@@ -2,6 +2,86 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 14 页
 
+- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)  
+  Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis…  
+  OpenAI · 2026-11-18 16:00
+
+- [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
+  See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macO…  
+  OpenAI · 2026-11-18 16:00
+
+- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
+  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
+  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
+
+- [Managing frontier AI risk: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>)  
+  OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, bl…  
+  OpenAI · 2026-11-18 14:00
+
+- [Advancing chip design with OpenAI models](<https://openai.com/index/advancing-chip-design-with-our-models>)  
+  OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-as…  
+  OpenAI · 2026-11-18 08:00
+
+- [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](<https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership>)  
+  Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with l…  
+  OpenAI · 2026-11-18 08:00
+
+- [二十年逆向工程老手分享 LLM 辅助逆向工作流与开源 Agent 技能](<https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering>)  
+  一位有二十年软硬件逆向经验的老手分享其 LLM 辅助逆向工作流，使用 DeepSeek v4.1 Flash 配合 Ghidra MCP bridge、radare2 和 kuna，让 Agent 分析二进制结构并把发现写入 MD 文件避免跑偏。  
+  Hacker News：AI 热帖 · 2026-11-18 08:00
+
+- [Exclusive: Donald Trump Jr. signals investors underestimated AI pushback](<https://www.axios.com/2026/11/17/donald-trump-jr-data-centers>)  
+  Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview at…  
+  Axios · 2026-11-18 07:28
+
+- [AI Agent Clinic 演示 4 种智能体记忆方案与 3 种上下文压缩方法](<https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02>)  
+  Google Cloud 的 AI Agent Clinic 节目用 TypeScript + ADK 构建的语音智能体 Scribant，对比了 flat prompting、Vector RAG、知识图谱和 Gemini 平台 Memory Bank 四种记忆方案，并给出 40 词滚动窗口、滚动摘要和跨会话 Memory Bank 三种压缩上下文的修复。  
+  Google AI：DEV 作者专属（RSS） · 2026-11-18 07:18
+
+- ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
+  Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
+  Axios · 2026-11-18 07:15
+
+- [Ulika](<https://www.producthunt.com/products/ulika>)  
+  Visual editor for sites built with Claude, Cursor, or Codex  
+  Product Hunt · English · 2026-11-18 03:23
+
+- [Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布](<https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/>)  
+  Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。  
+  Microsoft：Official Blog（RSS） · 2026-11-18 02:36
+
+- [AI 枪支检测系统误报薯片为枪后，四名黑人学生起诉 Omnilert 与马里兰巴尔的摩县学区警方](<https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/>)  
+  法律民权委员会（Lawyers' Committee）代表四名黑人学生起诉 Omnilert、巴尔的摩县公立学区和县警察局，起因是 2025 年 10 月 Kenwood 高中的 Omnilert Gun Detect AI 枪支检测系统将一包薯片误判为枪支，并给出 90% 枪支概率告警。  
+  Hacker News：AI 热帖 · 2026-11-18 02:33
+
+- [Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat](<https://replit.com/blog/introducing-replit-missions>)  
+  Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建、测试并迭代，独立 AI 裁判按约定标准验收。  
+  Replit：Blog（RSS） · 2026-11-18 02:00
+
+- [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)  
+  Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower co…  
+  OpenAI · 2026-11-18 01:45
+
+- [Can AI Learn to Improve Itself? \| Recursive Self-Improvement](<https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ>)  
+  For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers…  
+  The a16z Show · 2026-11-18 01:44
+
+- [Tech leaders tell Fed chairman Warsh how AI could transform the economy](<https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen>)  
+  Just maybe, both the extreme techno-optimists and AI doom-and-gloomers are wrong about the economic impact of the tec…  
+  Axios · 2026-11-18 01:00
+
+- [Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用](<https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/>)  
+  Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出，基于新的 Gemini 4 Hydrogen 模型，可自动打电话预约、查询账单、购物下单和管理日程。  
+  Google Blog：AI（RSS） · 2026-11-18 01:00
+
+- [Prime Intellect 发布 Model Factory 一站式训练与推理平台](<https://www.primeintellect.ai/blog/introducing-model-factory>)  
+  Prime Intellect 发布 Model Factory，将强化学习、SFT、预训练和推理整合到一个控制面，让企业在自有任务和数据上训练、部署并持续改进模型。  
+  Prime Intellect（网页） · 2026-11-18 00:00
+
+- [Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克](<https://www.anthropic.com/news/anthropic-prices-initial-public-offering>)  
+  Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。  
+  Anthropic：Newsroom（网页） · 2026-11-18 00:00
+
 - [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
   For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
   a16z · 2026-11-17 23:10
@@ -9,10 +89,6 @@
 - [Suno 发布 Visuals：为歌曲生成视频与图像](<https://suno.com/blog/introducing-visuals>)  
   Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。  
   Suno：Blog（网页） · 2026-11-17 23:00
-
-- [AlterContacts](<https://www.producthunt.com/products/alter-contacts-ai-client-relationships>)  
-  AI client relationship assistant that thinks and does ahead  
-  Product Hunt · English · 2026-11-17 18:25
 
 - [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)  
   Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitch…  
@@ -42,17 +118,13 @@
   Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now…  
   OpenAI · 2026-11-17 08:00
 
+- [Amp 发布 Windows 原生应用](<https://ampcode.com/news/amp-for-windows>)  
+  Amp 宣布推出 Windows 原生应用，用户可阅读官方文档了解使用方式，也可查看 Amp 全部原生应用列表。  
+  Amp Chronicle · 2026-11-17 08:00
+
 - [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
   What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
   Latent Space · 2026-11-17 05:27
-
-- [OpenVorld](<https://www.producthunt.com/products/openvorld>)  
-  Give your AI agents a home and a Vorld.  
-  Product Hunt · English · 2026-11-17 03:15
-
-- [Shipyard](<https://www.producthunt.com/products/shipyard>)  
-  MCP for Claude, Cursor and Codex to Automate Integrations  
-  Product Hunt · English · 2026-11-17 02:21
 
 - [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
   Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
@@ -94,36 +166,9 @@
   AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
   The a16z Show · 2026-11-16 19:30
 
-- ["No sane person questions whether AI works" — but an AI bubble appears ready to pop.](<https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble>)  
-  The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to bur…  
-  Axios · 2026-11-16 18:15
-
-- [How Revolut raises ambition without lowering the bar](<https://openai.com/business/customer-stories/revolut>)  
-  Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
-  OpenAI · 2026-11-16 17:30
-
-- [LVMH’s Media Division announces strategic partnership with OpenAI](<https://openai.com/index/lvmh-media-division-partnership>)  
-  LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more…  
-  OpenAI · 2026-11-16 17:00
-
-- [Our first phase of embedded assessments](<https://openai.com/index/our-first-phase-of-embedded-assessments>)  
-  OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate…  
-  OpenAI · 2026-11-16 16:00
-
 - [20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](<https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida>)  
   Diogo Almeida is the Co-Founder and CEO of TypeSafe AI, the company behind Jev. Jev is an AI model that lets software…  
   20VC · 2026-11-16 15:07
-
-- [PH今日热榜 \| 2026-11-16](<https://decohack.com/producthunt-daily-2026-11-16/>)  
-  Rakazo：你真正拥有的开源Grok Bot替代品；Frevana Multiplayer：可以帮助你的团队共同发展的AI。；Tulvo：智能且灵活的工作空间，让您轻松管理所有工作。  
-  Product Hunt 中文 · DecoHack · 2026-11-16 15:00
-
-- [More ways to move care forward with ChatGPT for Healthcare](<https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare>)  
-  Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare so…  
-  OpenAI · 2026-11-16 14:00
-
-- [Advancing computer-use agents for healthcare teams](<https://openai.com/index/advancing-computer-use-for-healthcare-teams>)  
-  OpenAI · 2026-11-16 14:00
 
 - [Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent](<https://www.conductor.build/changelog/0.95.0-agents-that-manage-your-local-workspaces>)  
   Conductor 发布 0.95.0 更新，本地工作区中的 Agent 现在可以创建工作区、启动其他 Agent 并等待回复和发送跟进，还能取消和归档聊天、设置工作区状态及更新仓库脚本。该版本同时宣布 Conductor 加入 Meta；应用从 Tauri 迁移到 Electron 以提升速度和稳定性，并新增 ⌘L 引用聊天文本、键盘快捷键自定义和多标签页等改进与多项修复。  
@@ -136,48 +181,5 @@
 - [20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](<https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin>)  
   Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI mode…  
   20VC · 2026-11-14 15:07
-
-- [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
-  AI Will Make Pharma Even Bigger  
-  a16z · 2026-11-13 23:03
-
-- [Every Day Is Zero Day \| Wiz CTO Ami Luttwak](<https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ>)  
-  AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them f…  
-  The a16z Show · 2026-11-13 19:00
-
-- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
-  “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
-  晚点聊 · 2026-11-13 09:15
-
-- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
-  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
-  a16z · 2026-11-13 05:21
-
-- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
-  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
-  SemiAnalysis · 2026-11-13 02:06
-
-- [Gaming’s Next Origin Stories](<https://www.a16z.news/p/gamings-next-origin-stories>)  
-  What AI makes possible for indie developers, toolmakers, and studios  
-  a16z · 2026-11-12 23:03
-
-- [The Next Era of Games: Mods, Agents, and Infinite Worlds](<https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi>)  
-  AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In…  
-  The a16z Show · 2026-11-12 19:00
-
-- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
-  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
-  20VC · 2026-11-12 15:07
-
-- [Welcome to the B2A Economy](<https://www.a16z.news/p/welcome-to-the-b2a-economy>)  
-  They’re AI agents.  
-  a16z · 2026-11-11 23:02
-
-- [What the Internet Boom Teaches Us About the AI Buildout \| Mike Volpi](<https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG>)  
-  The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strateg…  
-  The a16z Show · 2026-11-11 19:00
-
-- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
-  APPSO · 2026-11-11 09:00
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 14 页

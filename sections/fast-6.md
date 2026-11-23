@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 38 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 35 页
 
 - [BREAKING: Analysts say Jensen Huang could run "full proxy fight" to elect new Nvidia directors for his comeback Jen…](<https://x.com/Kalshi/status/2124518516032217534>)  
   BREAKING: Analysts say Jensen Huang could run "full proxy fight" to elect new Nvidia directors for his comeback Jensen's odds to return as CEO nearly 2x  
@@ -175,4 +175,4 @@
   这个牛逼的项目叫Locally Uncensored 它把聊天、生图、视频生成还有Agent 都塞进了一个工作台 可以接 Ollama、LM Studio 等本地模型工具，还把图片、视频生成整合进同一套界面  
   @CY160909 · 2026-11-22 19:10
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 38 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 35 页

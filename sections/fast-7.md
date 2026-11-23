@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 38 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 35 页
 
 - [每日五项关注简报 · 2026年11月22日（北京时间） 今天最重要的进展：Anthropic 数学家与 Claude 合…](<https://x.com/xiaocaijiangzi/status/2124460452659028471>)  
   每日五项关注简报 · 2026年11月22日（北京时间） 今天最重要的进展：Anthropic 数学家与 Claude 合作完成的黎曼猜想 Lean 形式化证明，在周六通过了 Lean／Mathlib 社区核验。这不是公司官方新闻室公告，也不等于千禧年大奖已经颁发。5090 国内跟踪报价继续持平，…  
@@ -164,4 +164,4 @@
 - [Using phones for AI security checks is a practical application.](<https://x.com/Scofiabee/status/2124458623787003926>)  
   @Scofiabee · 2026-11-22 19:03
 
-[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 38 页
+[返回面板](../README.md) · [上一页](fast-6.md) · [下一页](fast-8.md) · 第 7 / 35 页

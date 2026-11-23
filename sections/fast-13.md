@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 38 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 35 页
 
 - [《把密钥交给 AI 编程助手的那一刻，泄露就已经注定了》\|Together AI 提示词泄露事件拆解：第三方推理的默认留存…](<https://x.com/zg0820/status/2124293273137398210>)  
   《把密钥交给 AI 编程助手的那一刻，泄露就已经注定了》\|Together AI 提示词泄露事件拆解：第三方推理的默认留存该结束了 一起波及 MiniMax M3、GLM-5.2、Kimi K2.6 的提示词泄露，源头不是外部黑客，而是 Together AI 自己的 AI 编程助手。  
@@ -178,4 +178,4 @@
   IT COULD BE AN AI AGENT MAKING THE WRONG DECISION WITH REAL PERMISSION\! 🤖 Imagine millions of AI agents managing businesses, negotiating contracts,  
   @KavianCoin · 2026-11-22 07:49
 
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 38 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 35 页

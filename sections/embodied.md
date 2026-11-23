@@ -18,7 +18,23 @@
 
 - 削弱 · [Genie Sim 的 22 组配对测试中，仿真与真机得分高度一致](<https://arxiv.org/html/2611.15020v1>) · 局部反例。研究者用真机数据微调策略并对齐场景，在 22 组机器人和任务配对上测得评分相关系数 0.9686、平均绝对误差 0.0405。对这些已经校准的任务，仿真可以较好预测真机评分。该结果未检验向新材质、新设备或新生产线迁移。
 
-## 相关资讯 · 15 条
+## 相关资讯 · 20 条
+
+- [日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出](<https://www.ithome.com/1/030/954.htm>)  
+  IT之家 11 月 23 日消息，日本工业机器人制造商安川电机 \(YASAKAWA\) 人工智能机器人统括部长久保田由美惠当地时间本月 20 日接受日本共同社采访时表示， 该企业计划在人形机器人领域追赶当前领先的美中企业 。 久保田由美…  
+  IT之家 · 2026-11-23 16:30
+
+- [傲意科技获得D轮融资](<https://www.itjuzi.com/investevent/14708119>)  
+  傲意科技专注于脑机接口与具身智能机器人核心算法和整机研发。近日，傲意科技宣布完成数亿元D轮融资，本轮融资由中兵顺景、长江资本、光谷产投等联合投资。  
+  IT桔子 · 2026-11-23 16:13
+
+- [至简动力完成由蚂蚁集团领投的1亿美元融资](<https://www.itjuzi.com/investevent/14708475>)  
+  至简动力是一家从真实场景出发，致力于通过高上限的大一统模型、高效的数据闭环、高可靠的机器人硬件，打造具备高用户价值的具身智能产品，至简动力打造了世界模型与 VLA一体化的模型，通过统一的Transformer实现语言逻辑、视觉语义、3…  
+  IT桔子 · 2026-11-23 15:33
+
+- [章鱼动力获得数亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708438>)  
+  章鱼动力（SynapX）是一家以物理AGI为使命的前沿科技公司，致力于打造可持续自进化的具身智能生产力。公司以 SYNTH 深思架构为技术底座，致力于推动机器人真正走向操作智能，加速物理 AGI 时代的到来。持续构造/驱动任务-数据闭…  
+  IT桔子 · 2026-11-23 14:51
 
 - [微亿智造港交所公开招股](<https://www.itjuzi.com/pre-ipo?comname=%E5%BE%AE%E4%BA%BF%E6%99%BA%E9%80%A0>)  
   微亿智造是一家工业具身智能机器人公司，致力于提供开箱即用、高度柔性且具备卓越智能水平的工业具身智能机器人（EIIR）产品及解决方案。通过自研的全栈式软硬件系统及全面的系统工程能力，成功开发能自主感知、学习、决策并执行复杂任务的EIIR…  
@@ -32,13 +48,9 @@
   在家电、3C数码、汽车，乃至具身智能、AI大模型等领域，企业们不仅不回避排名，反而主动寻找各种口径，争着把“第一”写在战报标题里。 「TMT星球」注意到，2026年双十一结束不久，美的、海尔、海信、联想等纷纷宣布自己拿下了不同维度的第一。  
   36氪 · 2026-11-23 08:14
 
-- [WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去](<https://36kr.com/p/4079476599772038?f=rss>)  
-  “在行动和言说中，人们表明了他们是谁。” 汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。 2026年，这些词正在落到具体的人身上。 创业者带着各自的技术  
-  36氪 · 2026-11-21 20:44
-
-- [从“刷分”打到“补缝”，机器人新竞赛升温](<https://36kr.com/p/4077960501008008?f=rss>)  
-  2026年末，具身智能的商业化似乎终于等来了它的“破局点”。 过去，这个行业一直受困于“大脑”不够聪明，无法应对复杂环境；“手”不够灵活，且学习成本高昂。 但最近，两个技术突破为它们带来了新的进展。 一方面是“大脑”的外溢。 Anthrop  
-  36氪 · 2026-11-20 21:34
+- [快手 CEO 程一笑：Kling 4.0 已进入游戏和具身智能等场景](<https://www.ithome.com/1/029/686.htm>)  
+  快手 CEO 程一笑在业绩会上表示，Kling 4.0 上线后可灵流水提升，收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU 均保持增长。  
+  IT之家·人工智能 · 2026-11-19 21:36
 
 - [Token卷到触觉了！机器人终于有了通用手感](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942770&idx=1&sn=8fa8b6872870888a01b478c05b7bbaac>)  
   量子位 · 2026-11-10 13:24
@@ -55,16 +67,24 @@
 - [具身智能出海，物流先行](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940695&idx=2&sn=6c551886ee57dd136d7f99371d2c7fb0>)  
   量子位 · 2026-11-09 15:07
 
+- [优理奇机器人（UniX AI）完成5亿元Pre-A轮融资，推动具身智能规模化落地](<https://www.pedaily.cn/first/190983.shtml>)  
+  优理奇智能科技（苏州）有限公司完成5亿元Pre-A轮融资，老股东谢诺投资、涌铧投资超额追加投资，新进机构含绿地集团、柯力传感等。本轮融资将支持其深化具身智能研发与产品迭代，拓展物业、酒店等场景应用，推动产业化落地。（投资界讯） 原文链接  
+  投资界 · 2026-11-09 14:47
+
+- [刻行时空完成新一轮近亿元融资，向机器人部署态数据公司全面迈进](<https://www.pedaily.cn/first/190951.shtml>)  
+  上海刻行时空科技有限公司完成新一轮近亿元融资，本轮由咏归基金领投，天机TIANJI、常州智融等跟投，本轮资金将重点投入：为机器人提供多样性数据与能力评测的预部署环境高精度姿态追踪与多维度标注的数据理解专用模型加速机器人落地的“采集-训…  
+  投资界 · 2026-11-09 13:49
+
+- [原方智能完成数千万元天使轮融资，推进世界模型研发与家庭场景落地](<https://www.pedaily.cn/first/190928.shtml>)  
+  11月9日消息，原方（南京）智能科技有限公司近日完成数千万元天使轮融资，由金雨茂物领投，我乐家居、南京市创新投资集团跟投。公司专注具身智能世界模型研发，以家庭服务为核心场景，融资将用于核心技术攻关、产品开发及团队建设，加速技术落地应用…  
+  投资界 · 2026-11-09 11:17
+
 - [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
   We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
   Citrini Research · 2026-11-05 04:28
 
 - [深度丨宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901261&idx=1&sn=66e992da6fed1ed0a81d25ec8da5191c>)  
   Z Finance · 2026-11-01 19:52
-
-- [20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F\*\*\*\*\* Today with Naveen Rao, Unconventional](<https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional>)  
-  AGENDA: 05:00 Will we run out of energy? 19:00 Will specialised chips threaten NVIDIA's dominance? 26:00 Can we trust…  
-  20VC · 2026-10-24 15:07
 
 - [154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](<https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281?utm_source=rss>)  
   今天我们的嘉宾是一位美国连续创业者，Dyna Robotics创始人兼CEO Lindon Gao。此前，他做过两段生意，一次完整的创业。Dyna可以说是他的第四次创业了。 在硅谷，Dyna和之前来过我们节目的Pi（Physical…  

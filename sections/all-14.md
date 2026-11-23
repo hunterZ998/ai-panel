@@ -2,6 +2,74 @@
 
 [返回面板](../README.md) · [上一页](all-13.md) · 第 14 / 14 页
 
+- [一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓](<https://www.xiaoyuzhoufm.com/episode/6accc5de195d838e2af0bd9a?utm_source=rss>)  
+  最近 Personal Agent 非常火。而早在这波概念火起来之前，子皓就已经在做这个方向的软硬件结合产品 Ambi 了。所以国庆前，我们约他录了这期播客，请他分享几个月做下来对这个赛道的思考和实践经验，比如这件事的成本到底有多高、…  
+  42章经 · 2026-10-13 06:00
+
+- [“有了AI，我感觉自己强得可怕！”｜对谈鸭哥](<https://www.xiaoyuzhoufm.com/episode/6aca7f91e742e36efcc10957?utm_source=rss>)  
+  🚗 这是一期「公路播客」——从乌镇到上海，我们和老朋友鸭哥边开边聊，看看这位重度 AI 用户最近又把自己的工作和生活折腾成了什么样。 ➤ 本周「十字路口」的嘉宾，可能是我认识的人里把 AI 用得最狠的一位。 鸭哥是 Superlin…  
+  十字路口 Crossing · 2026-10-12 00:00
+
+- [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
+  AI safety is on fire.  
+  SemiAnalysis · 2026-10-09 01:46
+
+- [Breaking The Wall](<https://www.citriniresearch.com/p/breaking-the-wall>)  
+  Imagine that your personal AI has access to all your finances.  
+  Citrini Research · 2026-10-08 21:52
+
+- [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](<https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x>)  
+  Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and…  
+  SemiAnalysis · 2026-10-06 04:01
+
+- [Menlo’s Investment in Factory: The System That Builds Software](<https://menlovc.com/perspective/menlos-investment-in-factory-the-system-that-builds-software/>)  
+  Coding is AI’s first killer use case. The world is on pace to generate more code this year than in all previous years…  
+  Menlo Ventures · 2026-10-05 22:00
+
+- [How GLM5.3 Sparse Attention Affects HBM Memory Usage](<https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53>)  
+  GLM-5.3, KV Cache Offloading, HiSparse, DeepSeek Sparse Attention, IndexShare, Single-rollout Asynchronous Optimizati…  
+  SemiAnalysis · 2026-09-29 03:26
+
+- [Intel Panther Lake Teardown](<https://newsletter.semianalysis.com/p/intel-panther-lake-teardown>)  
+  Source: SemiAnalysis The SemiAnalysis STEEL teardown lab breaks down advanced datacenter and AI hardware.  
+  SemiAnalysis · 2026-09-26 21:36
+
+- [The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model](<https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom>)  
+  1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 n…  
+  SemiAnalysis · 2026-09-25 23:58
+
+- [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](<https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard>)  
+  Without further ado, voilà the ClusterMAX 3.0 podium: Source: SemiAnalysis ClusterMAX 3.0, September 2026 Source: Sem…  
+  SemiAnalysis · 2026-09-24 05:20
+
+- [Agentic Reality](<https://www.citriniresearch.com/p/agentic-reality>)  
+  The Ramifications of Agentic Consumer Adoption  
+  Citrini Research · 2026-09-23 03:15
+
+- [Computation and Data Movement for Inference](<https://newsletter.semianalysis.com/p/computation-and-data-movement-for>)  
+  A user \(or their agent\) starts a conversation with a request \(query\), and the conversation may continue after answers…  
+  SemiAnalysis · 2026-09-22 02:14
+
+- [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](<https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign>)  
+  New Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments  
+  SemiAnalysis · 2026-09-18 22:34
+
+- [Robotics Tipping Point: A Citrini Field Trip](<https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini>)  
+  Under its new branding of “Physical AI” , is robotics evolving from Bay Area backwaters to a true technological renai…  
+  Citrini Research · 2026-09-16 22:34
+
+- [2026: The State of Consumer AI](<https://menlovc.com/perspective/2026-the-state-of-consumer-ai/>)  
+  Consumer AI Adoption Hardly Grew in 2026, But Spend Tripled Last year, consumer AI broke into the mainstream. This ye…  
+  Menlo Ventures · 2026-09-16 20:00
+
+- [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree](<https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums>)  
+  As AI drives an unprecedented wave of datacenter construction over the last year, concerns over electricity costs, wa…  
+  SemiAnalysis · 2026-09-16 04:54
+
+- [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
+  Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
+  SemiAnalysis · 2026-09-15 06:08
+
 - [Macro Memo: Regime Change](<https://www.citriniresearch.com/p/macro-memo-regime-change>)  
   Six weeks later, that thesis had become the spine of the first ever paywalled piece on this newsletter, Artificial In…  
   Citrini Research · 2026-08-27 20:49

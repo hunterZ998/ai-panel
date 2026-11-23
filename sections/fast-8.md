@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 38 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 35 页
 
 - [父亲2006年因丙肝去世，也让他更加关注医学研究，希望利用科技推动医疗进步。](<https://x.com/appzz268/status/2124458533345190206>)  
   2016年，达里奥加入OpenAI，妹妹丹妮拉随后也加入。由于双方在公司治理和AI安全理念上存在分歧，达里奥于2020年离开，并于2021年创立Anthropic。  
@@ -172,4 +172,4 @@
 - [Smart to prioritize secure agent permissions.](<https://x.com/hasinur1995/status/2124453629981868501>)  
   @hasinur1995 · 2026-11-22 18:43
 
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 38 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 35 页
