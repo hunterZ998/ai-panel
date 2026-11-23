@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
 
+- [Investing in Embo](<https://www.a16z.news/p/investing-in-embo>)  
+  AI is now moving off the screen and into the physical world, and that requires models that understand how the physica…  
+  a16z · 2026-11-24 01:02
+
+- [How to Win Bots and Influence Purchases](<https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents>)  
+  What gets your product or tool found, chosen, and used by agents?  
+  a16z · 2026-11-23 23:04
+
 - [Charts of the Week: There is No Gen Z](<https://www.a16z.news/p/charts-of-the-week-there-is-no-gen>)  
   AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds  
   a16z · 2026-11-20 23:08
@@ -85,10 +93,6 @@
 - [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
   We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
   Citrini Research · 2026-11-05 04:28
-
-- [Investing in Phaze](<https://www.a16z.news/p/investing-in-phaze>)  
-  A major lesson in getting productivity out of agents over the last few years has been to give them computers and appl…  
-  a16z · 2026-11-04 22:35
 
 - [Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud](<https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will>)  
   We showed exactly how xAI bypassed the grid \(and permitting\!\) with truck-mounted turbines, why the behind-the-meter p…  
@@ -177,9 +181,5 @@
 - [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree](<https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums>)  
   As AI drives an unprecedented wave of datacenter construction over the last year, concerns over electricity costs, wa…  
   SemiAnalysis · 2026-09-16 04:54
-
-- [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
-  Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
-  SemiAnalysis · 2026-09-15 06:08
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页

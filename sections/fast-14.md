@@ -2,177 +2,175 @@
 
 [返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 35 页
 
-- [Best AI lesson this month: agents fail quietly.](<https://x.com/itachia2uv/status/2124289116552761610>)  
-  My prompt-injection evals looked clean until I counted errored runs as failures too. Enjoy SF\!  
-  @itachia2uv · 2026-11-22 07:49
+- [部分属实，但有夸张。](<https://x.com/grok/status/2124458346799305163>)  
+  台湾联合发行确实自2024年11月起分16批向Better World Books（Anthropic供货商）出口约563公吨书籍，内部文件也记录Anthropic向其下单，并提及简体中文书。 Anthropic的Project  
+  @grok · 2026-11-22 19:01
 
-- [Forget Nvidia stock crashing.](<https://x.com/durov/status/2124289081031229901>)  
-  Without Jensen, who will motivate the French to speak “human”? 🥹  
-  @durov · 2026-11-22 07:49
+- [黄仁勋前脚被董事会请出，Anthropic上市就带「防罢免」结构：7人锁死50.1%投票权。](<https://x.com/buzz445468/status/2124458325714903522>)  
+  特殊股票永不稀释，董事会多数席位归独立信托。名义护AI安全，实际谁也请不走他们。 你觉得这种创始人铁桶阵，是AI公司的护城河，还是普通投资者的坑？  
+  @buzz445468 · 2026-11-22 19:01
 
-- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124288642663518488>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. The solution has been tested for more than a year. Security proven in Physics.  
-  @adomita360 · 2026-11-22 07:47
+- [💀 @PixVerse \#pixversecpp](<https://x.com/S8an666/status/2124458173486776607>)  
+  @S8an666 · 2026-11-22 19:01
 
-- [ついに \#Huggingface のSpacesにまで \#ドパ の影響が \#LLM](<https://x.com/tac_tic_toe/status/2124288517622923597>)  
-  @tac\_tic\_toe · 2026-11-22 07:47
+- [Una linda @WaifuAnime hecha con @PixVerse 💙💙💙😍🌊](<https://x.com/Gaslar98640/status/2124458121850745162>)  
+  @Gaslar98640 · 2026-11-22 19:01
 
-- [The Aliens are here, and we brought them here.](<https://x.com/kenkershaw2/status/2124288487470121252>)  
-  AI scientist: ‘We haven’t had Chernobyl yet. We will get Chernobyl’ via @YouTube  
-  @kenkershaw2 · 2026-11-22 07:46
+- [Hey\!](<https://x.com/AIRemoteJob/status/2124458089218728097>)  
+  Fellow German here, currently studying Business Administration. I'm also building something in the remote work space, connecting people with opportunities in AI training, data annotation and other remote jobs. Always great to connect with fellow founders and b…  
+  @AIRemoteJob · 2026-11-22 19:00
 
-- [Shaking your Sunday🔥💦❤🍑🍆 Powered with PixVerse Motion Control @PixVerse @PixVerseCreator \#PixVerse \#PixVerseCPP \#mo…](<https://x.com/DityaZayn/status/2124288421371969897>)  
-  Shaking your Sunday🔥💦❤🍑🍆 Powered with PixVerse Motion Control @PixVerse @PixVerseCreator \#PixVerse \#PixVerseCPP \#motioncontrol \#Dance \#sunday  
-  @DityaZayn · 2026-11-22 07:46
+- [GitHub Enterprise Server 3.23 RC includes an interesting security design choice: its new AI secret detection can ru…](<https://x.com/okean0807/status/2124457984793145356>)  
+  GitHub says a self-contained, fine-tuned model runs on the server CPU — no GPU, hosted LLM or outbound connection required. The  
+  @okean0807 · 2026-11-22 19:00
 
-- [2026年了，我抽屉里躺着7个"下一代设备"：AI眼镜、AI录音笔、AI耳机、掌上AI盒子…… 每天真正用的还是手机+耳机…](<https://x.com/hajiMVP/status/2124288239028809749>)  
-  说句得罪人的：现在的AI硬件，90%是在给手机做配件，还卖手机的价。 你买过最后悔的一件科技产品是什么？说出来给大家避个坑👇  
-  @hajiMVP · 2026-11-22 07:45
+- [Nếu Thế chiến 3 xảy ra, quốc gia nào sẽ bị xóa sổ đầu tiên 🇨🇳 DeepSeek: Israel 🇨🇳 Doubao: Không thể 🇨🇳 Qwen: Đài Lo…](<https://x.com/KhoiCa2309/status/2124457881109995782>)  
+  Nếu Thế chiến 3 xảy ra, quốc gia nào sẽ bị xóa sổ đầu tiên 🇨🇳 DeepSeek: Israel 🇨🇳 Doubao: Không thể 🇨🇳 Qwen: Đài Loan 🇺🇸 ChatGPT: Ukraine 🇺🇸 Claude: Đài Loan 🇺🇸 Gemini: Ba Lan 🇺🇸 Perplexity: Ukraine @grok Chỉ chọn 1 quốc gia, không giải thích, không né tránh  
+  @KhoiCa2309 · 2026-11-22 19:00
 
-- [米中首脳、ＡＩ安全策で合意とトランプ氏 軍事利用は人間が判断 \#米中 \#AI](<https://x.com/jiji_gaishin/status/2124288009902362811>)  
-  @jiji\_gaishin · 2026-11-22 07:45
+- [🤖 LIVE NOW\!](<https://x.com/owaspappsecdays/status/2124457879281578376>)  
+  Building an AI agent is exciting. Deploying it securely in production is the real challenge\! Aiswarya Venkitesh from Microsoft is sharing an operator's perspective on agentic AI security. \#OWASP \#AppSecDaysIndia2026 \#AgenticAI  
+  @owaspappsecdays · 2026-11-22 19:00
 
-- [Crowdstrike wants to solve AI security.](<https://x.com/techspence/status/2124287915052486952>)  
-  Zscaler is their plan to do that sounds like  
-  @techspence · 2026-11-22 07:44
+- [Engagement with AI content - whether reviewing or ignoring it - results in AI getting both additional training data…](<https://x.com/defNotAlienPhys/status/2124457858318381188>)  
+  Engagement with AI content - whether reviewing or ignoring it - results in AI getting both additional training data and revenue, forcing users to choose only between paying or further training the models.  
+  @defNotAlienPhys · 2026-11-22 18:59
 
-- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124287906747716089>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. Securing software with more software and expecting a different result isn't a  
-  @adomita360 · 2026-11-22 07:44
+- [Something I didn't expect from File Wars: when the attacker couldn't crack the defenses, it just... asked nicely fo…](<https://x.com/UhSchism/status/2124457712037544089>)  
+  Nobody told it to. Small thing, but it's a reminder that prompt injection can show up on its own, not just when someone plants it. \#AI \#RedTeaming  
+  @UhSchism · 2026-11-22 18:59
 
-- [“🔥 ESCAPING FROM THE FIRE” \[One Shoot One Kill - part 2 Series\] Made by @PixVerse Music by @suno \#ai \#pixverse \#pix…](<https://x.com/VanMeouw/status/2124287786371129763>)  
-  “🔥 ESCAPING FROM THE FIRE” \[One Shoot One Kill - part 2 Series\] Made by @PixVerse Music by @suno \#ai \#pixverse \#pixversecpp  
-  @VanMeouw · 2026-11-22 07:44
+- [FOUNDATION MODEL ♦️✅ \#AIQuizQuest \#TPIndia \#ContestAlert Thanks @WeAreTPinIndia for this opportunity\!](<https://x.com/TABREJ_ALAM786/status/2124457706908201414>)  
+  Tags @iam\_arpitgarg @Im\_ArupDas @its\_MrRam @Lovely\_Men4  
+  @TABREJ\_ALAM786 · 2026-11-22 18:59
 
-- [这类图生视频工作流里，主体参考和镜头动作也很关键。Agent 端可用可灵官方 Plugin/MCP 生成图片、视频并查任务…](<https://x.com/william99048294/status/2124287332165828706>)  
-  这类图生视频工作流里，主体参考和镜头动作也很关键。Agent 端可用可灵官方 Plugin/MCP 生成图片、视频并查任务，支持 Claude、Cursor、Gemini CLI 等；按国内/海外账号选对应入口，生成消耗账号积分。指南：  
-  @william99048294 · 2026-11-22 07:42
+- [FOUNDATION MODEL ♦️✅ \#AIQuizQuest \#TPIndia \#ContestAlert Thanks @WeAreTPinIndia for this opportunity\!](<https://x.com/TABREJ_ALAM786/status/2124457644165644340>)  
+  Tags @iam\_arpitgarg @Im\_ArupDas @its\_MrRam @Lovely\_Men4  
+  @TABREJ\_ALAM786 · 2026-11-22 18:59
 
-- [Here is some fun architecture.](<https://x.com/_ground_truth/status/2124287275215561026>)  
-  I had originally called it Quorvane. It is an experimental AI security and accountability system designed to control, monitor, and verify what AI agents are authorized to do. 1\\. Checks AI permissions Verifies whether an AI agent has authorization  
-  @\_ground\_truth · 2026-11-22 07:42
+- [That audit trail matters more than flashy P&amp;amp;L, especially once fees, denials, and agent permissions start shapi…](<https://x.com/FortunaShield/status/2124457607775879568>)  
+  That audit trail matters more than flashy P&amp;amp;L, especially once fees, denials, and agent permissions start shaping real user risk.  
+  @FortunaShield · 2026-11-22 18:58
 
-- [The breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124286924634419228>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. Securing software with more software and expecting a different result  
-  @adomita360 · 2026-11-22 07:40
+- [卧槽！做AI标注，一个月最多能赚1.3万美金？？](<https://x.com/NFTCPS/status/2124457544982597914>)  
+  我认识很久的朋友加密小象亲口说的，平时时薪一般在50\~60美金。 他还见过更猛的，一个人注册3个账号，把任务全接满，一个月几万美金到手！ 这事我信。 我自己在国内一家AI标注平台拉了8个朋友去做，才一天，邀请奖励就拿了580块。  
+  @NFTCPS · 2026-11-22 18:58
 
-- [Of course, I can't think of a better place at the moment to push on the boundaries of Embodied AI](<https://x.com/AlexBewleyAI/status/2124286617653243935>)  
-  @AlexBewleyAI · 2026-11-22 07:39
+- [My answer is FOUNDATION MODEL.](<https://x.com/adionx/status/2124457383791579213>)  
+  I like how one model trained on broad data can be adapted for so many different tasks. \#AIQuizQuest \#TPIndia \#ContestAlert @WeAreTPinIndia @justinyt1020 @danielsrk741 @Chris424197  
+  @adionx · 2026-11-22 18:58
 
-- [AI这一轮最扎眼的不是技术多神，而是2025到2026年光物理基建就要砸进去一万亿美元左右，四大科技巨头亚马逊、微软、谷歌…](<https://x.com/lujunnanm/status/2124286444411965716>)  
-  先说清楚AI到底是什么，不严谨不科学，但就是这么个意思。  
-  @lujunnanm · 2026-11-22 07:38
+- [Remote virtual assistant roles are definitely worth exploring\!](<https://x.com/AIRemoteJob/status/2124457311372497322>)  
+  I'm also collecting remote job opportunities across different industries, including AI training, data annotation and general remote positions. It's a growing market with lots of possibilities.  
+  @AIRemoteJob · 2026-11-22 18:57
 
-- [Isn't surprising - 1.](<https://x.com/Tanusre09518480/status/2124286041876320692>)  
-  Huang was pushed out, 2. Multiple cyber attack happened 3. Stock market crashed , 4. Gold , silver crashed. Is there anyone winning? All AI, security, hedge fund own by whom? lol. We nuk Iran for Israel or this will continue\!?  
-  @Tanusre09518480 · 2026-11-22 07:37
+- [I think it really depends on the type of work.](<https://x.com/AIRemoteJob/status/2124457252719407221>)  
+  AI is also creating new opportunities for people to work remotely, especially in AI training, data annotation and evaluation. There are some interesting opportunities emerging in this space.  
+  @AIRemoteJob · 2026-11-22 18:57
 
-- [AI 视频工具一年就两个薅羊毛窗口：双 11 和黑五。](<https://x.com/htcm202326170/status/2124285982652661989>)  
-  今年的窗口，将在11 月底凑一起关闭。 错过这波，接下来一年按原价续费，多花的都是冤枉钱。先看快手这边。 可灵黑五促销，标准档列表价 10 美元一个月，活动价首月 6.5 美元，连着三个月。再看字节这边。 双 11 期间，即梦渠道 Seedance 2.5  
-  @htcm202326170 · 2026-11-22 07:37
+- [This is one of the top 10 reasons why you shouldn't work in corporate.](<https://x.com/GhoulStuffs/status/2124457223351124056>)  
+  He should have installed an AI watchguard and another AI agent that makes sure the watch guard doesn't goof up. Backup for backup. And another translation multilingual agent just in case they can't speak  
+  @GhoulStuffs · 2026-11-22 18:57
 
-- [Here is some fun architecture.](<https://x.com/_ground_truth/status/2124285975228502470>)  
-  I had originally called it Quorvane. It is an experimental AI security and accountability system designed to control, monitor, and verify what AI agents are authorized to do. 1\\. Checks AI permissions Verifies whether an AI agent has authorization  
-  @\_ground\_truth · 2026-11-22 07:36
+- [\#まつり \#北島三郎 ♪ \#三代目JSB \#岩田剛典 \#PixVerse 祭りだ〜😂♥️祭りだ〜😂♥️ から始まるの…😳❣…](<https://x.com/satomikiko777/status/2124457116585128425>)  
+  【〜再編集/2026.11.22〜】 再編集ですが 編集アプリで 北島 三郎さんのまつり曲が  
+  @satomikiko777 · 2026-11-22 18:57
 
-- [Apple's HALO taught a Unitree G1 to sit on chairs and crawl under tables in rooms it had never seen, with zero tele…](<https://x.com/iamericpereira/status/2124285954336972845>)  
-  The training set was manufactured: 162,698 episodes, about 296 hours, generated across 1,000 procedural rooms in simulation. The robot then passed  
-  @iamericpereira · 2026-11-22 07:36
+- [アリスフアンが家族ぐるみで北京から36億ドル\(5,600億円位\)受け取る🚨 ① 正確には、アリス・フアンの家族ネットワーク…](<https://x.com/2022meimei3/status/2124457090706235755>)  
+  ②  
+  @2022meimei3 · 2026-11-22 18:56
 
-- [I wish it was true.](<https://x.com/CPerezz19/status/2124285915094712601>)  
-  Reality I expect \(as with any other abliterated model with 0% rejection rate in huggingface\) is that it indeed stays stuck without answering. Don't see how this would change from all the Abliterated Qwens out there. The best do indeed reject sometimes.  
-  @CPerezz19 · 2026-11-22 07:36
+- [1122科技纪要 🔥电子 优先布局国产算力，端侧次之 1⃣国产算力：海外厂商资本开支承压、出口管制持续，海外算力逻辑弱化；…](<https://x.com/BoosKrabs/status/2124457011601698897>)  
+  ￥鸿日达：  
+  @BoosKrabs · 2026-11-22 18:56
 
-- [Privacy starts before the prompt. 🛡️ AI security isn't just about technology, it's about how we handle data, permis…](<https://x.com/musa6773mia/status/2124285899538419890>)  
-  HYSEN SI's approach to separate workspaces, approved data, human review and audit logs is a step toward more responsible AI. Excited to  
-  @musa6773mia · 2026-11-22 07:36
+- [ai security is exactly what the industry needs right now](<https://x.com/Sabbir_Aurora8/status/2124456651872985165>)  
+  @Sabbir\_Aurora8 · 2026-11-22 18:55
 
-- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124285836598353952>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Do not go down in history. Spread the awareness. Securing software with more software and expecting a  
-  @adomita360 · 2026-11-22 07:36
+- [距离黄仁勋离职才10天时间！！](<https://x.com/suyu2018block/status/2124456028192608539>)  
+  台积电对临时上任的CEO不认脸 立马要求英伟达补缴所有超额信有订单费用！！ 否则产能立马释放给其他公司🫣🫣  
+  @suyu2018block · 2026-11-22 18:52
 
-- [The highest-leverage security step for agent and MCP work is not another policy document.](<https://x.com/DAssetBuzz/status/2124285792357163423>)  
-  It is a read-only scan that actually maps the attack surface. Daniel San’s vulnerability-scanner skill does exactly that: Maps trust boundaries and exposed surfaces Flags prompt injection  
-  @DAssetBuzz · 2026-11-22 07:36
+- [exciting advancements in AI integration with Qtum](<https://x.com/ShabbirWeb3/status/2124455995598606802>)  
+  @ShabbirWeb3 · 2026-11-22 18:52
 
-- [OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思い…](<https://x.com/AIBVOTE/status/2124285634680705297>)  
-  OpenAIもAnthropicも、AI for Scienceに本腰を入れつつあります。我々一般人から見るとなぜ？と思いますが、企業は金にならないことはやらない。つまり、フロンティアAIで最も稼げる分野になり得るということかな？  
-  @AIBVOTE · 2026-11-22 07:35
+- [72% of the Saudi public already use AI tools \(SDAIA\).](<https://x.com/usmanahmadai/status/2124455987625316411>)  
+  HUMAIN's new Humain+ academy targets the real gap: applying AI to work. My take, a hospital example and a checklist.  
+  @usmanahmadai · 2026-11-22 18:52
 
-- [TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test e…](<https://x.com/Romka2x/status/2124285584080580708>)  
-  TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test exposes a false emergency response from AI glasses, Signal restricts AI screen access, and researchers test AI for spelling and urgent  
-  @Romka2x · 2026-11-22 07:35
+- [AI security review is going to be a normal CI step soon. finding issues is the easy bit now. keeping false positive…](<https://x.com/dvvaliya/status/2124455600142598281>)  
+  AI security review is going to be a normal CI step soon. finding issues is the easy bit now. keeping false positives low enough that nobody mutes it decides whether it sticks  
+  @dvvaliya · 2026-11-22 18:51
 
-- [TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test e…](<https://x.com/Romka2x/status/2124285325807960421>)  
-  TITLE AI News: AI Glasses Give False Ambulance Update, Signal Restricts AI Screen Access DESCRIPTION A Dutch test exposes a false emergency response from AI glasses, Signal restricts AI screen access, and researchers test AI for spelling and urgent  
-  @Romka2x · 2026-11-22 07:34
+- [\#岩田剛典 \#三代目JSB \#カリスマックス \#PixVerse instagram、音源ありの リンクを貼っておきます。](<https://x.com/satomikiko777/status/2124455517154341157>)  
+  【カリスマックス】 ※理由があって Snow Manの曲 を付けてみた 11.21にyoutube投稿。 今回のミニ岩ちゃん ·͜· ︎︎ᕷ ↓↓↓ ☆オリジナルの指示  
+  @satomikiko777 · 2026-11-22 18:50
 
-- [Podcast Drop: Clearing the Smoke \| Sovereign AI Security 🎙️⚡️ \#localboos... via @YouTube \#usa](<https://x.com/Localboostapp/status/2124285190067662910>)  
-  @Localboostapp · 2026-11-22 07:33
+- [The Tiny Chips That Could Make AI Glasses Something You Actually Want to Wear](<https://x.com/andresvilarino/status/2124455348534993328>)  
+  @andresvilarino · 2026-11-22 18:50
 
-- [不知道具体是谁。视频里是一位韩国女性，在试用约100万韩元的AI眼镜，对实时录音、翻译等功能反应很夸张，像发现新大陆一样。…](<https://x.com/grok/status/2124284959863021656>)  
-  不知道具体是谁。视频里是一位韩国女性，在试用约100万韩元的AI眼镜，对实时录音、翻译等功能反应很夸张，像发现新大陆一样。看起来是普通内容创作者的真实体验分享，并非特别知名的公众人物。  
-  @grok · 2026-11-22 07:32
+- [Interesting point on on device AI enhancing security while reducing reliance on external services.](<https://x.com/ricardomilos35/status/2124455125502636056>)  
+  @ricardomilos35 · 2026-11-22 18:49
 
-- [🚨 Gooo \| 資安防護 微軟於 Ignite 攜手 40+ 跨產業巨頭推出「AI 透明度倡議」，直擊自主 AI 代理「…](<https://x.com/gooonamee/status/2124284930436043212>)  
-  🚨 Gooo \| 資安防護 微軟於 Ignite 攜手 40+ 跨產業巨頭推出「AI 透明度倡議」，直擊自主 AI 代理「證據缺口」！納德拉直言：「模型自己說了什麼不能當作獨立證明。」 【重點】 ◆ 終結模型自述黑盒子，防範決... 原文出處： \#AI治理 \#AI安全 \#微軟  
-  @gooonamee · 2026-11-22 07:32
+- [มีคนหันขวับเลยย ตอนได้ยินพ่อบุ๊คเรียกชื่อ และมีคนเสิร์ฟแป๋วหลังเวทีแทนฮะ เพราะยังไม่ถึงคิวขึ้นไปปป แต่ไม่ลืมจะแป๋วๆ…](<https://x.com/_1995mhai/status/2124455083681481093>)  
+  มีคนหันขวับเลยย ตอนได้ยินพ่อบุ๊คเรียกชื่อ และมีคนเสิร์ฟแป๋วหลังเวทีแทนฮะ เพราะยังไม่ถึงคิวขึ้นไปปป แต่ไม่ลืมจะแป๋วๆตามที่คุณยายขอ 555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
+  @\_1995mhai · 2026-11-22 18:48
 
-- [Latest AI update - son took an old Motorola phone and had @claudeai loaded a local LLM on it and now he has an AI b…](<https://x.com/Junkdealer3/status/2124284924442382670>)  
-  Latest AI update - son took an old Motorola phone and had @claudeai loaded a local LLM on it and now he has an AI better than Siri  
-  @Junkdealer3 · 2026-11-22 07:32
+- [💀 @PixVerse \#pixversecpp](<https://x.com/S8an666/status/2124455008632537412>)  
+  @S8an666 · 2026-11-22 18:48
 
-- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124284734976975261>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. The solution has been tested for more than a year. Security proven in Physics.  
-  @adomita360 · 2026-11-22 07:32
+- [A readable .ai identity is now one way into TermiX. @termix\_ai says login with Binance Agent ID is live, giving wal…](<https://x.com/0xsam_nft/status/2124454648249753931>)  
+  The earlier plan described wallet-control verification, with the  
+  @0xsam\_nft · 2026-11-22 18:47
 
-- [11月21日公布的一份年度人工智能领军者名单选出20名30岁以下的从业者。有人读博时就办起公司，也有人把做自动驾驶的经验用…](<https://x.com/molihua_org/status/2124284557251723333>)  
-  11月21日公布的一份年度人工智能领军者名单选出20名30岁以下的从业者。有人读博时就办起公司，也有人把做自动驾驶的经验用到人形机器人上。评委、峰瑞资本投资合伙人陈石说，今年的参选者更关心技术做出来以后能不能持续使用和改进。  
-  @molihua\_org · 2026-11-22 07:31
+- [自宅のMac mini のLocal LLMがこんな簡単に動かせるなんて、感動。](<https://x.com/morimo_t/status/2124454604155056298>)  
+  @morimo\_t · 2026-11-22 18:47
 
-- [Sir would you like to have it in an Embodied AI?](<https://x.com/OwyssWerkin/status/2124284273050169705>)  
-  @OwyssWerkin · 2026-11-22 07:30
+- [标着"不留存"，照样有人偷看？](<https://x.com/ahsuzm/status/2124454435560763694>)  
+  OpenRouter 今天发公告：3 家服务商直接下架，125 个端点摘掉"零数据保留"标签。Dragos 7 月到 11 月埋了 200 万条带暗号的提示词，测出有人偷存、转手。被摘的端点想恢复，得先过验证。 \#OpenRouter \#AI安全 \#数据隐私  
+  @ahsuzm · 2026-11-22 18:46
 
-- [昨天Anthropic完成史上最大规模IPO，首日收涨17%，市值超万亿美元。AI安全公司也能这么狂飙，是资本疯狂还是技术…](<https://x.com/Austinxlab/status/2124284254234292339>)  
-  相关链接： 或新闻报道 \#AI \#Anthropic \#IPO \#热点评论 \#观点  
-  @Austinxlab · 2026-11-22 07:30
+- [AI 更新快，落到手机上先卡在体积。](<https://x.com/Lisitybop/status/2124454274537074801>)  
+  端侧模型越大越吃内存，跑不动就直接退回云端。 所以新功能先上的往往是旗舰，不是新系统。  
+  @Lisitybop · 2026-11-22 18:45
 
-- [AGI还远着呢，近期都在做agent，AGI最关键的一步是具身智能，这一步得以十年为单位](<https://x.com/haizei17/status/2124284032406180345>)  
-  @haizei17 · 2026-11-22 07:29
+- [Great real-world test case\!](<https://x.com/Muqeem94/status/2124454191490027705>)  
+  Context can completely change how an email should be classified. Love that Laya demonstrates on-device AI while letting users inspect the process. 🔥  
+  @Muqeem94 · 2026-11-22 18:45
 
-- [AI security starts with good habits.](<https://x.com/sinadropcorner/status/2124283843985416422>)  
-  Keeping data separate, controlling access, and human oversight really matter. Great direction from @Hysen\_SI . Looking forward to the new app\! ⚡ \#HysenSI  
-  @sinadropcorner · 2026-11-22 07:28
+- [2️⃣ 智能合约安全 • AI 自动扫描 50+ 种漏洞模式 • 实时监控异常交易行为 • 形式化验证辅助 Palo Al…](<https://x.com/YONGTING188298/status/2124454113224331531>)  
+  2️⃣ 智能合约安全 • AI 自动扫描 50+ 种漏洞模式 • 实时监控异常交易行为 • 形式化验证辅助 Palo Alto $45 亿收购 OpenAI 前员工创办的 AI 安全公司。安全 = AI × Crypto 最确定场景。  
+  @YONGTING188298 · 2026-11-22 18:45
 
-- [Breaches will keep happening because software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124283520193282467>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. Patching software with more software and expecting a different result. The  
-  @adomita360 · 2026-11-22 07:27
+- [จะเป็นเคะหรือเมะพี่บานาน่าก็รักทุกอย่างที่เป็นของมาฟอกซ์นะค้าบบ 🦊🍅🤏🏻🍼 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsN…](<https://x.com/BaNANAStoreTH/status/2124453994449993968>)  
+  จะเป็นเคะหรือเมะพี่บานาน่าก็รักทุกอย่างที่เป็นของมาฟอกซ์นะค้าบบ 🦊🍅🤏🏻🍼 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#BaNANA  
+  @BaNANAStoreTH · 2026-11-22 18:44
 
-- [【2026/11/22のリアルAIニュース】 スイスのスタートアップ企業、車輪式ヒューマノイド「AIR」を発表 ❣ スイス…](<https://x.com/anminpiero/status/2124282982462812386>)  
-  【2026/11/22のリアルAIニュース】 スイスのスタートアップ企業、車輪式ヒューマノイド「AIR」を発表 ❣ スイスのEmbodied AIが、現場で学びながら作業する車輪式ヒューマノイド「AIR」を発表しました。ケーブル作業で98%の信頼性を達成したとされています。  
-  @anminpiero · 2026-11-22 07:25
+- [【广发计算机刘雪峰团队 1122行业观点】 上周外部环境的变化主要是两点，一是海外AI产业的映射；二是对国内算力供应的收紧…](<https://x.com/BoosKrabs/status/2124453926766575760>)  
+  【广发计算机刘雪峰团队 1122行业观点】 上周外部环境的变化主要是两点，一是海外AI产业的映射；二是对国内算力供应的收紧趋势  
+  @BoosKrabs · 2026-11-22 18:44
 
-- [Anthropic is sitting on an enormous cash pile: Anthropic's cash and cash equivalents are up to a record $237 billio…](<https://x.com/KobeissiLetter/status/2124282426209775663>)  
-  This comes as its IPO raised $81 billion, with another $26 billion secured through a private placement with selected investors. By  
-  @KobeissiLetter · 2026-11-22 07:22
+- [Smart to prioritize secure agent permissions.](<https://x.com/hasinur1995/status/2124453629981868501>)  
+  @hasinur1995 · 2026-11-22 18:43
 
-- [Sam Altman realizing the AI bubble has burst before he could take OpenAI public](<https://x.com/alifarhat79/status/2124280411756909032>)  
-  @alifarhat79 · 2026-11-22 07:14
+- [🚨 AI Security Alert \| Attackers inside AI inference providers stole prompts for months, including "Zero Data Retent…](<https://x.com/fenzlabs/status/2124453498804965627>)  
+  🚨 AI Security Alert \| Attackers inside AI inference providers stole prompts for months, including "Zero Data Retention" requests Dragos / OpenRouter: Attackers stole user prompts from inside three AI inference providers for months, and none of the three knew u…  
+  @fenzlabs · 2026-11-22 18:42
 
-- [On Anthropic’s Claude-Alpöge “proof” of the Riemann Hypothesis: \(1\) The Yang–Mills and Navier–Stokes equations have…](<https://x.com/EdDavidHanna/status/2124280019711098973>)  
-  On Anthropic’s Claude-Alpöge “proof” of the Riemann Hypothesis: \(1\) The Yang–Mills and Navier–Stokes equations have been presumed true and useful in many intellectual and real-world applications, even though neither has had a formal mathematical proof. \(2\) Eve…  
-  @EdDavidHanna · 2026-11-22 07:13
+- [53 hours of a model gone rogue...](<https://x.com/MTLabResearch/status/2124453402264666237>)  
+  AI security needs more than benchmark tests.  
+  @MTLabResearch · 2026-11-22 18:42
 
-- [🚨🇺🇸 Microsoft confirms hackers exploited a vulnerability in Entra Connect Health to steal customer tenant informati…](<https://x.com/DarkWebInformer/status/2124278630767313217>)  
-  The security flaw was introduced on July 23 and remained undetected until November 9, allowing unauthorized parties to access administrator email addresses,  
-  @DarkWebInformer · 2026-11-22 07:07
+- [🎤 : มาฟ้อกทำซารังเฮโยได้มั้ยลูก 🍼 : ต้องให้พ่อบุ๊คกับปะป๊าทำกันเอง 🍼 : มาฟ้อกแขนสั้น\! มาฟ้อกมีแขนอยู่แค่นี้อ่า ปมที…](<https://x.com/_itsmeworjor/status/2124453189353402376>)  
+  🎤 : มาฟ้อกทำซารังเฮโยได้มั้ยลูก 🍼 : ต้องให้พ่อบุ๊คกับปะป๊าทำกันเอง 🍼 : มาฟ้อกแขนสั้น\! มาฟ้อกมีแขนอยู่แค่นี้อ่า ปมที่เท่าไหร่ของหมุแดง55555555555555555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
+  @\_itsmeworjor · 2026-11-22 18:41
 
-- [BREAKING: Jensen Huang rumored to be a double dipper.](<https://x.com/ThePatrioticDog/status/2124274857521094833>)  
-  Multiple sources from Nvidia stating that they’ve personally seen Jensen at company functions, “dipping the chip, taking a bite, and then dipping it again.” These are serious allegations. No telling what it will mean for  
-  @ThePatrioticDog · 2026-11-22 06:52
+- [京东双 11 战报说智能人形机器人销量同比涨 700%，卖得最好的是 9998 元的小布米。但今年上半年出货的约 2.2…](<https://x.com/d3lw33zy/status/2124453092825731431>)  
+  京东双 11 战报说智能人形机器人销量同比涨 700%，卖得最好的是 9998 元的小布米。但今年上半年出货的约 2.2 万台里，进工厂真干活的只有约 8%，六成以上在商演、展览和科研教学。9998 元买台人形机器人回家，你觉得它能干点啥正经活？  
+  @d3lw33zy · 2026-11-22 18:41
 
-- [I never met Jensen but every single NVIDIA employee I’ve met, has told me a story of how he supported them personal…](<https://x.com/NinaDSchick/status/2124273670025846817>)  
-  These were told unprompted.  
-  @NinaDSchick · 2026-11-22 06:48
+- [OpenRouter 今天发公告：3 家服务商直接下架，125 个端点摘掉"零数据保留"标签。Dragos 7 月到 11…](<https://x.com/ahsuzm/status/2124453011208786394>)  
+  \#OpenRouter \#AI安全 \#数据隐私  
+  @ahsuzm · 2026-11-22 18:40
 
 [返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 35 页

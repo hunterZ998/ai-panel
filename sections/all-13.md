@@ -2,25 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 14 页
 
-- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
-  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
-  20VC · 2026-11-05 15:07
-
-- [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
-  Z Finance · 2026-11-05 13:05
-
-- [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
-  We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
-  Citrini Research · 2026-11-05 04:28
-
-- [Investing in Phaze](<https://www.a16z.news/p/investing-in-phaze>)  
-  A major lesson in getting productivity out of agents over the last few years has been to give them computers and appl…  
-  a16z · 2026-11-04 22:35
-
-- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
-  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
-  The a16z Show · 2026-11-04 19:00
-
 - [⚡ Behind Latent Space: A Rare Look Inside the Pod \| AIEi Shanghai](<https://www.youtube.com/watch?v=QmDLDy3ZSNE>)  
   Watch the full show on YouTube: https://www.youtube.com/watch?v=QmDLDy3ZSNE  
   Latent Space · 2026-11-04 18:32
@@ -175,5 +156,25 @@
 - [154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](<https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281?utm_source=rss>)  
   今天我们的嘉宾是一位美国连续创业者，Dyna Robotics创始人兼CEO Lindon Gao。此前，他做过两段生意，一次完整的创业。Dyna可以说是他的第四次创业了。 在硅谷，Dyna和之前来过我们节目的Pi（Physical…  
   张小珺商业访谈录 · 2026-10-15 08:00
+
+- [一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓](<https://www.xiaoyuzhoufm.com/episode/6accc5de195d838e2af0bd9a?utm_source=rss>)  
+  最近 Personal Agent 非常火。而早在这波概念火起来之前，子皓就已经在做这个方向的软硬件结合产品 Ambi 了。所以国庆前，我们约他录了这期播客，请他分享几个月做下来对这个赛道的思考和实践经验，比如这件事的成本到底有多高、…  
+  42章经 · 2026-10-13 06:00
+
+- [“有了AI，我感觉自己强得可怕！”｜对谈鸭哥](<https://www.xiaoyuzhoufm.com/episode/6aca7f91e742e36efcc10957?utm_source=rss>)  
+  🚗 这是一期「公路播客」——从乌镇到上海，我们和老朋友鸭哥边开边聊，看看这位重度 AI 用户最近又把自己的工作和生活折腾成了什么样。 ➤ 本周「十字路口」的嘉宾，可能是我认识的人里把 AI 用得最狠的一位。 鸭哥是 Superlin…  
+  十字路口 Crossing · 2026-10-12 00:00
+
+- [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
+  AI safety is on fire.  
+  SemiAnalysis · 2026-10-09 01:46
+
+- [Breaking The Wall](<https://www.citriniresearch.com/p/breaking-the-wall>)  
+  Imagine that your personal AI has access to all your finances.  
+  Citrini Research · 2026-10-08 21:52
+
+- [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](<https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x>)  
+  Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and…  
+  SemiAnalysis · 2026-10-06 04:01
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 14 页

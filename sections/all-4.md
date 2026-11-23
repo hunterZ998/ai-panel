@@ -2,6 +2,30 @@
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 14 页
 
+- [Ashwa](<https://www.producthunt.com/products/ashwa>)  
+  Your AI companion that never forgets what you say  
+  Product Hunt · English · 2026-11-23 04:25
+
+- [NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor](<https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/>)  
+  NVIDIA 发布 2B 级推理视觉-语言-动作模型 Alpamayo 2 Edge，可在车内 DRIVE AGX Thor 上做轨迹规划与因果解释，采用 OpenMDW-1.1 许可开源权重。  
+  MarkTechPost（RSS） · 2026-11-23 02:37
+
+- [Gary Marcus 评 Levent Alpöge 借助 Claude 证明黎曼猜想：不是 AI 独立完成，也难以泛化](<https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann>)  
+  Gary Marcus 分析 Levent Alpöge 在 Claude 协助下疑似证明黎曼猜想一事，指出并非 AI 独立完成，而是这位数学家数月深度协作的成果。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-23 02:37
+
+- [TechCrunch 访谈《Hyperscale》作者 Paris Marx：数据中心为何成为反科技浪潮的焦点](<https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>)  
+  TechCrunch 访谈记者 Paris Marx，谈其新书《Hyperscale》调查数据中心与生成式 AI 的社会影响。  
+  TechCrunch：AI（RSS） · 2026-11-23 02:08
+
+- [《以撒的结合：Repentance Plus》因 AI 音乐被发现后遭差评轰炸，Nicalis 已移除相关文件](<https://www.theverge.com/games/1039770/binding-of-isaac-ai-music>)  
+  《以撒的结合：Repentance Plus》被发现某段 GTA 主题内容使用 AI 生成音乐后在 Steam 遭差评轰炸。Reddit 用户 ShweetsStuff 找到带 Suno 元数据的音频文件，作者 Edmund McMillen 在 X 上道歉，称自己不知情；发行方 Nicalis 数小时内更新游戏并移除了生成的音乐文件。  
+  The Verge：AI（RSS） · 2026-11-23 01:25
+
+- [Replit Missions](<https://www.producthunt.com/products/replit>)  
+  Set a budget, coordinate teams of AI agents,  
+  Product Hunt · English · 2026-11-23 01:13
+
 - [Plango](<https://www.producthunt.com/products/plango>)  
   Plango lets your AI agents work all night - safely  
   Product Hunt · English · 2026-11-23 01:08
@@ -56,10 +80,6 @@
 - [The Verge：vibe coding 正席卷各类硬件改装](<https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera>)  
   David Pierce 在 The Stepback 专栏中梳理 vibe coding 改装硬件的趋势：只需提示 Claude Code 或 Codex，非开发者也能给电视去广告、给相机加固件功能、给游戏机加特性。印度开发者 Gathin 的 CleanYourTV 成为 GitHub 热门仓库；行业则以更强 DRM 和法律手段反制，作者建议只在可承受损失的设备上尝试并勤做备份。  
   The Verge：AI（RSS） · 2026-11-22 21:00
-
-- [WISE2026「年度企业系列名册」正式发布丨成为自己的时代](<https://36kr.com/p/4080920403743624?f=rss>)  
-  “你要成为你自己。” 尼采在《快乐的科学》中写下这句话。对于一家企业，“成为自己”也需要时间。名字可以在创办之初确定，它所代表的东西，要由此后许多年的选择慢慢写成。 2026年，AI与硬科技正在重塑中国商业的版图。今年的年度企业系列名册中，  
-  36氪 · 2026-11-22 20:53
 
 - [IntelliProve获得270万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708393>)  
   IntelliProve是一家非接触式健康传感软件解决方案供应商，基于远程光电容积脉搏波（rPPG）自研算法，提供可嵌入 SDK，仅通过普通摄像头 30 秒人脸扫描，无袖带、无穿戴设备即可检测心率、HRV、呼吸、血压等生命体征，面向远…  
@@ -160,25 +180,5 @@
 - [哥伦比亚大学与 CertiK 推出 TensorLean：在 PTX 层面对 GPU kernel 做形式化验证](<https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/>)  
   哥伦比亚大学与 CertiK 提出 TensorLean，一个基于 Lean、在 PTX 层面证明 GPU kernel 与张量级数学规格一致的验证框架。  
   MarkTechPost（RSS） · 2026-11-22 09:51
-
-- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
-  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
-  IT之家·人工智能 · 2026-11-22 08:04
-
-- [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)  
-  How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evalua…  
-  OpenAI · 2026-11-22 08:00
-
-- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
-  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
-  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
-
-- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 Python Web 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
-  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产环境运行 ASGI 与 WSGI Python 应用提供最佳工具。  
-  Simon Willison 博客 · 2026-11-22 07:56
-
-- [Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息](<https://www.ithome.com/1/030/517.htm>)  
-  Signal 推出 iOS / Android 更新，默认阻止应用内截图和录屏，以防止 Siri AI、Gemini 等 AI 智能体在用户不知情时读取私人消息。  
-  IT之家·人工智能 · 2026-11-22 07:28
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 14 页

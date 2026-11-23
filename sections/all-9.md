@@ -2,41 +2,17 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 14 页
 
-- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)  
-  Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis…  
-  OpenAI · 2026-11-18 16:00
+- [vLLM 用 FlyDSL MonoKernels 降低 AMD Instinct GPU 上智能体解码延迟](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>)  
+  vLLM 博客介绍用 FlyDSL 编写的 MonoKernels，在 AMD Instinct GPU 上降低交互式 LLM 服务的解码延迟。该方案把多个依赖算子阶段合并进单次 GPU kernel 启动，采用持久化调度复用线程块、预取权重并按需交接数据，减少短 kernel 的启动与收尾开销。  
+  vLLM 官方博客（RSS） · 2026-11-18 08:00
 
-- [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
-  See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macO…  
-  OpenAI · 2026-11-18 16:00
-
-- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
-  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
-  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
-
-- [Managing frontier AI risk: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>)  
-  OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, bl…  
-  OpenAI · 2026-11-18 14:00
-
-- [Advancing chip design with OpenAI models](<https://openai.com/index/advancing-chip-design-with-our-models>)  
-  OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-as…  
-  OpenAI · 2026-11-18 08:00
-
-- [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](<https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership>)  
-  Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with l…  
-  OpenAI · 2026-11-18 08:00
-
-- [二十年逆向工程老手分享 LLM 辅助逆向工作流与开源 Agent 技能](<https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering>)  
-  一位有二十年软硬件逆向经验的老手分享其 LLM 辅助逆向工作流，使用 DeepSeek v4.1 Flash 配合 Ghidra MCP bridge、radare2 和 kuna，让 Agent 分析二进制结构并把发现写入 MD 文件避免跑偏。  
-  Hacker News：AI 热帖 · 2026-11-18 08:00
+- [Gemini 4 Neon（gemini-4-neon）正式发布，付费档 $3/$15 每百万 token](<https://ai.google.dev/gemini-api/docs/changelog#11-18-2026>)  
+  Google 在 Gemini API 更新日志中宣布 Gemini 4 Neon（gemini-4-neon）正式可用（GA），面向复杂软件工程、知识工作和科学工作流提供快速端到端任务完成。  
+  Gemini API：更新日志（网页） · 2026-11-18 08:00
 
 - [Exclusive: Donald Trump Jr. signals investors underestimated AI pushback](<https://www.axios.com/2026/11/17/donald-trump-jr-data-centers>)  
   Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview at…  
   Axios · 2026-11-18 07:28
-
-- [AI Agent Clinic 演示 4 种智能体记忆方案与 3 种上下文压缩方法](<https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02>)  
-  Google Cloud 的 AI Agent Clinic 节目用 TypeScript + ADK 构建的语音智能体 Scribant，对比了 flat prompting、Vector RAG、知识图谱和 Gemini 平台 Memory Bank 四种记忆方案，并给出 40 词滚动窗口、滚动摘要和跨会话 Memory Bank 三种压缩上下文的修复。  
-  Google AI：DEV 作者专属（RSS） · 2026-11-18 07:18
 
 - ["We will remain thoughtful": Nvidia says it will continue to backstop AI ecosystem](<https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress>)  
   Nvidia's interim CEO said Tuesday that the company will be "disciplined" as it decides how much to invest in neocloud…  
@@ -49,10 +25,6 @@
 - [Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布](<https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/>)  
   Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。  
   Microsoft：Official Blog（RSS） · 2026-11-18 02:36
-
-- [AI 枪支检测系统误报薯片为枪后，四名黑人学生起诉 Omnilert 与马里兰巴尔的摩县学区警方](<https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/>)  
-  法律民权委员会（Lawyers' Committee）代表四名黑人学生起诉 Omnilert、巴尔的摩县公立学区和县警察局，起因是 2025 年 10 月 Kenwood 高中的 Omnilert Gun Detect AI 枪支检测系统将一包薯片误判为枪支，并给出 90% 枪支概率告警。  
-  Hacker News：AI 热帖 · 2026-11-18 02:33
 
 - [Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat](<https://replit.com/blog/introducing-replit-missions>)  
   Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建、测试并迭代，独立 AI 裁判按约定标准验收。  
@@ -74,13 +46,45 @@
   Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出，基于新的 Gemini 4 Hydrogen 模型，可自动打电话预约、查询账单、购物下单和管理日程。  
   Google Blog：AI（RSS） · 2026-11-18 01:00
 
-- [Prime Intellect 发布 Model Factory 一站式训练与推理平台](<https://www.primeintellect.ai/blog/introducing-model-factory>)  
-  Prime Intellect 发布 Model Factory，将强化学习、SFT、预训练和推理整合到一个控制面，让企业在自有任务和数据上训练、部署并持续改进模型。  
-  Prime Intellect（网页） · 2026-11-18 00:00
+- [Google DeepMind 发布 Gemini 4 Neon，智能指数微升且任务成本降低约 17%](<https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain>)  
+  Artificial Analysis 评测 Google DeepMind 发布的 Gemini 4 Neon，Neon（xhigh）智能指数 61 分，比 Gemini 4 Carbon（high）高 1 分、总排名第 3。  
+  Artificial Analysis 完整文章（网页） · 2026-11-18 00:00
 
-- [Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克](<https://www.anthropic.com/news/anthropic-prices-initial-public-offering>)  
-  Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。  
-  Anthropic：Newsroom（网页） · 2026-11-18 00:00
+- [SGLang 集成 Humming：面向高效 MoE 推理的灵活低比特内核](<https://www.lmsys.org/blog/2026-11-18-humming-sglang>)  
+  Humming 0.1.18 扩展了与 SGLang 的集成，覆盖更多量化方案和 GPU 架构，并新增面向 SGLang MoE runner 的共享激活表达式接口。  
+  LMSYS Blog · 2026-11-18 00:00
+
+- [Google 发布 Gemini 4 Neon：速度快、成本低的 frontier 级模型](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/>)  
+  Google 发布 Gemini 4 Neon，主打 frontier 级智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。  
+  Hacker News：AI 热帖 · 2026-11-18 00:00
+
+- [Google DeepMind 向 AI Ultra 订阅者开放 Genie 4 与新版 Project Genie 体验](<https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/>)  
+  Google 面向符合条件的 Google AI Ultra 订阅者推出新 Project Genie 体验，首次开放世界模型 Genie 4，支持会话中途输入提示词实时编辑环境，并首次配对随场景自适应的原生实时音频。  
+  Hacker News：AI 热帖 · 2026-11-18 00:00
+
+- [Microsoft CEO Nadella 在 Ignite 表示自己是 AGI-pilled，主张企业拥有自己的模型](<https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model>)  
+  Every 作者在 Microsoft Ignite 圆桌报道，Nadella 称自己如今 "AGI pilled"，关注点是如何围绕无限制模型组织政治经济，并提出应有多如企业数量的模型，以此回应 Anthropic 可能一家独大的问题。  
+  Every：最新文章（网页） · 2026-11-18 00:00
+
+- [在 Modal 上为玛雅碑铭研究构建新工具](<https://modal.com/blog/scaling-intelligence-asya>)  
+  斯坦福讲师 Miguel Novelo 在 Modal 上搭建了一条将 2D 玛雅字形图像转为 3D 模型的快速流水线，起点是约 100 个玛雅音节符号。他在 Gray Area 展出的装置 \(Φ ᆺ Φ\) asya 让观众在沙上作画并生成新字形，汇入不断增长的集体抄本。Novelo 表示，通用大模型缺乏尤卡坦本地知识，因此需要理解字形外观与语境的小型专用模型。  
+  Modal 官方工程博客（RSS） · 2026-11-18 00:00
+
+- [用两条提示词在 NVIDIA Cosmos 中构建可训练物理 AI 数据集](<https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/>)  
+  NVIDIA 介绍如何用两条提示词在 Cosmos 中完成物理 AI 训练数据集的整理与增强。Cosmos Data Factory 包含五个云原生 blueprint 和六个可组合 skill，由前沿 AI 智能体编排，实现 prompt-to-data。文章演示了自动驾驶场景生成、图像属性增强、视频天气光照变换、罕见事件视频与缺陷图像生成五类用例。  
+  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-18 00:00
+
+- [LlamaIndex 发布文档解析模型 OCRia-1.5](<https://www.llamaindex.ai/blog/introducing-ocria-1-5>)  
+  LlamaIndex 发布 OCRia-1.5 文档解析模型，包含 4B 和 2B 两个尺寸，分别驱动 LlamaParse 的 Agentic 和 Cost Effective 两档，两档均已在 LlamaParse 上线。  
+  LlamaIndex：产品、工程与评测 · 2026-11-18 00:00
+
+- [LlamaIndex 评测 2026 年最佳 OCR 模型：OCRia-1 在四个基准的表格解析上领先](<https://www.llamaindex.ai/blog/best-ocr-models>)  
+  LlamaIndex 发布按表格、图表等结构化解析能力排名的 OCR 模型评测，旗下 LlamaParse 中的 4B 模型 OCRia-1 以 91.5 分领先 ParseBench 表格维度，并在四个基准中的三个外部基准上也居首。  
+  LlamaIndex：产品、工程与评测 · 2026-11-18 00:00
+
+- [Stanford HAI 秋季会议：AI 的未来仍是一个选择](<https://hai.stanford.edu/news/ais-future-is-still-a-choice>)  
+  Stanford HAI 秋季会议“Confronting Our AI Future”探讨治理、工作与教育决策如何把 AI 潜力转化为更广泛的公共利益。中国台湾地区相关人士 Audrey Tang 提出以可核查证据、独立见证和限期回应为核心的框架，并称一项涉及 Gemini 模型与新加坡 AI 机构的试点已在进行。  
+  Stanford HAI News（网页） · 2026-11-18 00:00
 
 - [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
   For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
@@ -110,33 +114,25 @@
   How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes…  
   OpenAI · 2026-11-17 08:00
 
-- [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)  
-  OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and…  
-  OpenAI · 2026-11-17 08:00
-
 - [Astra for Law leads in legal intelligence](<https://openai.com/index/astra-law-6-2>)  
   Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now…  
   OpenAI · 2026-11-17 08:00
 
-- [Amp 发布 Windows 原生应用](<https://ampcode.com/news/amp-for-windows>)  
-  Amp 宣布推出 Windows 原生应用，用户可阅读官方文档了解使用方式，也可查看 Amp 全部原生应用列表。  
-  Amp Chronicle · 2026-11-17 08:00
+- [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)  
+  OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and…  
+  OpenAI · 2026-11-17 08:00
+
+- [Browserbase 工程团队讲解如何用智能体在 1 天内完成 4000 万行 Chromium 代码的补丁与部署](<https://www.browserbase.com/blog/how-we-deploy-custom-chromium>)  
+  Browserbase 工程博客讲解其维护带超 18000 行安全与反检测补丁的 Chromium 内部 fork 的方法：借助编码智能体在 Google 发布前完成补丁重放、测试与部署，将原本一周的升级流程缩短到 1 天内。  
+  Browserbase / Stagehand 工程博客 · 2026-11-17 08:00
+
+- [Recraft Studio 上线 Seedance 2.5 Flash：速度约为 Seedance 2.5 两倍](<https://www.recraft.ai/blog/seedance-2-5-flash>)  
+  字节跳动 Seedance 2.5 的轻量快速版本 Seedance 2.5 Flash 已在 Recraft Studio 上线，官方称生成速度约为 Seedance 2.5 的两倍。  
+  Recraft 自有模型与设计产品 · 2026-11-17 08:00
 
 - [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
   What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
   Latent Space · 2026-11-17 05:27
-
-- [Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本](<https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics>)  
-  Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。  
-  Databricks：Blog（RSS） · 2026-11-17 01:00
-
-- [OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预](<https://openai.com/index/strengthening-online-child-safety>)  
-  OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。  
-  OpenAI：官网动态（RSS · 排除企业/客户案例） · 2026-11-17 01:00
-
-- [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)  
-  We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ou…  
-  OpenAI · 2026-11-17 01:00
 
 - [Google AI Studio 集成 Gemini 4 Carbon 与 Hydrogen 支持构建全栈 Android 应用并发布到 Google Play](<https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/>)  
   Google AI Studio 结合 Gemini 4 Carbon 和 Hydrogen，可从单个提示词生成生产级 Kotlin Android 应用，并在几分钟内发布到个人 Google Play 库。  
@@ -149,18 +145,6 @@
 - [2026: The State of AI in Healthcare](<https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/>)  
   Healthcare AI Moves from Back Office to Bench and Bedside In 2026, healthcare AI accelerated in life sciences and mov…  
   Menlo Ventures · 2026-11-16 22:30
-
-- [New Ask Maps features to help with holiday travel and prep](<https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/>)  
-  Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps featu…  
-  Google AI · 2026-11-16 22:00
-
-- [Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本](<https://lovable.dev/blog/introducing-drafts>)  
-  Lovable 推出 Drafts 功能，可创建应用的完整副本，从设计到数据库，让用户和团队并行试验不同想法而不触碰线上应用。每个 Draft 拥有独立聊天和预览，并自带示例数据便于查看效果；可创建任意数量的 Draft，接受后仍可在发布前通过 History 回滚，测试数据在接受或删除 Draft 时清除，不会混入真实用户数据。  
-  Lovable Blog · 2026-11-16 21:30
-
-- [Science at the Frontier: How scientists use ChatGPT](<https://openai.com/index/science-at-the-frontier>)  
-  Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivit…  
-  OpenAI · 2026-11-16 20:00
 
 - [Alex Imas &amp; Tyler Cowen \| AI Is Moving Fast. Why Isn’t the Economy?](<https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY>)  
   AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
@@ -181,5 +165,21 @@
 - [20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](<https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin>)  
   Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI mode…  
   20VC · 2026-11-14 15:07
+
+- [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
+  AI Will Make Pharma Even Bigger  
+  a16z · 2026-11-13 23:03
+
+- [Every Day Is Zero Day \| Wiz CTO Ami Luttwak](<https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ>)  
+  AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them f…  
+  The a16z Show · 2026-11-13 19:00
+
+- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
+  “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
+  晚点聊 · 2026-11-13 09:15
+
+- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
+  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
+  a16z · 2026-11-13 05:21
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 14 页

@@ -20,15 +20,23 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 3 条
+## 相关资讯 · 5 条
 
 - [韩国高考 AI 作弊事件发酵，教育部长崔教振引咎辞职](<https://www.ithome.com/1/030/558.htm>)  
   韩国教育部长官崔教振 11 月 22 日辞职，为 2027 年度高考防范 AI 作弊措施不足引发的混乱承担责任。韩国高考禁止携带 AI 眼镜、手机等电子设备，每个考点安排专人检查 AI 眼镜，仍查处 111 名违规携带智能设备的考生，其中包括 1 起使用智能眼镜作弊；李在明 20 日呼吁对高考制度进行全面改革，教育部计划 12 月 11 日成绩公布前完成处置。  
   IT之家·人工智能 · 2026-11-22 11:21
 
-- [Pete Warden 谈本地 AI、开放模型、语音界面与硬件未来](<https://thedataexchange.media/pete-warden-moonshine/>)  
-  Moonshine Voice 联合创作者 Pete Warden 在播客中讨论本地 AI 为何越来越倾向在设备端而非云端运行，并称本地模型在基准测试上仅比 Anthropic 和 OpenAI 的商业模型落后几个月。  
-  Hacker News：AI 热帖 · 2026-11-19 20:00
+- [韩国高考临时屏蔽考点及周边 100 米内公共 WiFi 防 AI 作弊](<https://www.ithome.com/1/029/075.htm>)  
+  韩国自当地时间 18 日下午 6 时起，要求 SK 电信、KT、LG U+ 三大运营商暂停全国高考考场及周边 100 米内的公共 WiFi 和运营商 WiFi，至 19 日下午 6 时，以防考生用智能眼镜、微型摄像头等 AI 设备作弊。  
+  IT之家·人工智能 · 2026-11-18 21:23
+
+- [MiniCPM 全球下载超 7000 万次：面壁智能披露老挝国家大模型等落地案例](<https://mp.weixin.qq.com/s/4eCXPoSciD5MSH43-sbIOQ>)  
+  面壁智能宣布截至 2026 年 11 月 MiniCPM 系列模型全球下载量超过 7000 万次。其 8B 参数的老挝国家大模型已接入该国政务通讯系统 G-Chat v2，老挝语翻译能力在国际评测中超过 GPT-4o。公司还披露了马来西亚 VoxCPM2 语音交互、肯尼亚银行端侧风控智能体，以及开发者基于 MiniCPM5-1B 和 MiniCPM-o-4.5 的离线应用案例。  
+  公众号：面壁智能（MiniCPM） · 2026-11-18 19:54
+
+- [微信私人 AI 助理小微 DAU 达 3000 万，部分推理任务未来将在设备端运行](<https://www.ithome.com/1/029/018.htm>)  
+  腾讯在 2026 年第三季度财报发布当日，微信官方宣布私人 AI 助理小微用户测试范围扩大，日活跃用户数已达 3000 万，正逐步融入聊天、朋友圈、公众号、视频号等场景。小微采用针对成本效率优化的 WeLM 定制模型，推理成本极低且持续下降，官方预计未来部分推理任务将在用户设备端运行；小微依托支付及小程序生态构建智能体能力，官方称其将对微信商业化能力产生倍增效应。  
+  IT之家·人工智能 · 2026-11-18 18:59
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

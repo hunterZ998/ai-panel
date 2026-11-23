@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [FigmaMCP](<https://www.producthunt.com/products/figmamcp>)  
+  Let Claude Code or Codex edit your open Figma file  
+  Product Hunt · English · 2026-11-23 07:28
+
 - [Ashwa](<https://www.producthunt.com/products/ashwa>)  
   Your AI companion that never forgets what you say  
   Product Hunt · English · 2026-11-23 04:25

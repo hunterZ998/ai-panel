@@ -2,6 +2,26 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 14 页
 
+- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
+  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
+  IT之家·人工智能 · 2026-11-22 08:04
+
+- [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)  
+  How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evalua…  
+  OpenAI · 2026-11-22 08:00
+
+- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
+  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
+  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
+
+- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 Python Web 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
+  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产环境运行 ASGI 与 WSGI Python 应用提供最佳工具。  
+  Simon Willison 博客 · 2026-11-22 07:56
+
+- [Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息](<https://www.ithome.com/1/030/517.htm>)  
+  Signal 推出 iOS / Android 更新，默认阻止应用内截图和录屏，以防止 Siri AI、Gemini 等 AI 智能体在用户不知情时读取私人消息。  
+  IT之家·人工智能 · 2026-11-22 07:28
+
 - [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>)  
   Signal is limiting users' ability to take screenshots in both its Android and iOS apps.  
   TechCrunch · 2026-11-22 05:37
@@ -30,7 +50,7 @@
   Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
   The Decoder：AI News（RSS） · 2026-11-22 00:23
 
-- [Oracle Says It Has Completed Funding to Fulfil OpenAI Deal](<https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal>)  
+- [Oracle Says It Has Completed Funding to Fulfill OpenAI Deal](<https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal>)  
   The Information · 2026-11-22 00:09
 
 - [硅谷 AI 末世执念催生类教团组织 Maple 的调查报道](<https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/>)  
@@ -72,6 +92,9 @@
 - [The Brother-Sister Duo Who Want to Keep Anthropic Weird](<https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-21 10:00
 
+- [Wall Street Week \| Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI](<https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video>)  
+  Bloomberg · 2026-11-21 08:13
+
 - [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
   Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
   Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
@@ -84,14 +107,8 @@
   Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
   Amp Chronicle · 2026-11-21 08:00
 
-- [Anthropic Mathematician Says He Proved Riemann Hypothesis](<https://www.theinformation.com/briefings/anthropic-mathematician-says-proved-riemann-hypothesis>)  
-  The Information · 2026-11-21 07:24
-
 - [Opinion \| The AI Correction Trade Arrives](<https://www.wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-21 06:55
-
-- [Anthropic Shares Slide After Banks Exercise ‘Greenshoe’](<https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe>)  
-  The Information · 2026-11-21 04:54
 
 - [Polylane Swarms](<https://www.producthunt.com/products/polylane>)  
   A team of AI agents on your roughest production incidents  
@@ -104,12 +121,6 @@
 - [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](<https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>)  
   Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too  
   TechCrunch · 2026-11-21 03:32
-
-- [AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds](<https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds>)  
-  The Information · 2026-11-21 02:00
-
-- [Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math](<https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-21 01:28
 
 - [Gauth Personal Study Agent](<https://www.producthunt.com/products/gauth-ai-course>)  
   An AI study agent that remembers where you struggle  
@@ -131,18 +142,9 @@
   In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings repor  
   TechCrunch · 2026-11-20 22:55
 
-- [How Anthropic Upstaged OpenAI on Road to Blockbuster IPO](<https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo>)  
-  The Information · 2026-11-20 22:18
-
-- [Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.](<https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 22:12
-
 - [Six AI-powered gadgets that could make your home office smarter](<https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/>)  
   From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.  
   TechCrunch · 2026-11-20 22:00
-
-- [The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.](<https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-ai-firms-are-hooked-on-nvidia-chips-now-comes-the-withdrawal-57391e23?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-20 20:57
 
 - [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
   Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
@@ -160,9 +162,6 @@
   BrightAI是一家实体资产监测解决方案提供商，专注于打造"物理AI"平台，通过传感器和人工智能的结合，为企业提供全方位的实体资产监测解决方案。近日，BrightAI获得9700万美元A轮融资，Smith Point Capital…  
   IT桔子 · 2026-11-20 16:00
 
-- [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
-  The Information · 2026-11-20 09:00
-
 - [Apple may be developing its own AI agent that runs your Mac](<https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/>)  
   The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenA  
   TechCrunch · 2026-11-20 08:56
@@ -170,5 +169,13 @@
 - [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
   At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
   TechCrunch · 2026-11-20 08:43
+
+- [Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>)  
+  Google Research 回顾 Duplex 十年架构演进，并介绍本周在 Gemini App Tasks 中上线的自动致电商家功能。  
+  Google Research：Blog（网页） · 2026-11-20 08:00
+
+- [browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作](<https://browser-use.com/posts/browser-use-1-0>)  
+  Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chrome DevTools Protocol 访问替代 0.x 的 24 个浏览器动作。  
+  Browser Use · 2026-11-20 08:00
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 14 页

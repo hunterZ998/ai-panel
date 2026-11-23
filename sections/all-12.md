@@ -2,21 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 14 页
 
-- [三优生物完成近亿元C轮融资，累计融资近3亿元，加速构建AI驱动的创新药研发与转化新生态](<https://www.pedaily.cn/first/190896.shtml>)  
-  三优生物医药（上海）有限公司完成近亿元C轮融资，由清科产投基金独家投资。（投资界讯） 原文链接  
-  投资界 · 2026-11-09 09:00
-
-- [黄仁勋承认「婚外情」英伟达启动调查；ChatGPT 陷封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈AI公司护城河：在产品层而不是模型层](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116214&idx=1&sn=44f51a7368dc153eb96a6f011ebaf38b>)  
-  极客公园 · 2026-11-09 08:57
-
-- [Anthropic估值砍到1万亿美元](<https://www.pedaily.cn/first/190888.shtml>)  
-  11月7日，经历了科技股遭遇大规模抛售之后，一些投资者开始下调对人工智能公司Anthropic的估值预期。而在不久前，这家人工智能公司还在为IPO冲击2万亿美元估值做准备。但据相关利益方透露，即便是1.5万亿美元的估值，如今也已经充满…  
-  投资界 · 2026-11-09 08:31
-
-- [OpenAI完成110亿美元新融资，估值1.25万亿美元](<https://www.pedaily.cn/first/190887.shtml>)  
-  据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。资金已于周五划入公司账户。本轮剩余部分——地方政府可能增至最高200亿美元——预计将在未来数周内完成。在推迟了首次公开募股（IPO）…  
-  投资界 · 2026-11-09 08:31
-
 - [量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940494&idx=2&sn=9db07334ac7280256ec75aacf999ddd4>)  
   量子位 · 2026-11-09 08:18
 
@@ -163,5 +148,20 @@
 - [The New CFO: How AI Is Rewriting the Finance Function \| Figma CFO Praveer Melwani](<https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym>)  
   AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Fi…  
   The a16z Show · 2026-11-05 19:00
+
+- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
+  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
+  20VC · 2026-11-05 15:07
+
+- [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
+  Z Finance · 2026-11-05 13:05
+
+- [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
+  We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
+  Citrini Research · 2026-11-05 04:28
+
+- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
+  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
+  The a16z Show · 2026-11-04 19:00
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 14 页

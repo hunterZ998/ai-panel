@@ -38,7 +38,33 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 134 条
+## 相关资讯 · 129 条
+
+- [国泰海通：华为云发布具身世界模型WM1.2并开源 谷歌Gemini 4上线](<https://www.163.com/dy/article/LCFTCGRQ05198UNI.html>)  
+  网易科技频道 · 网易号 · 2026-11-24 06:39
+
+- [马斯克承认SpaceX AI研发落后，出租算力比自研Grok更赚钱](<https://www.163.com/dy/article/LCFG8BKU05198NMR.html>)  
+  网易科技频道 · 网易号 · 2026-11-24 02:55
+
+- [AI巨头CEO惊人暴论：人类被AI抢饭碗后，可以用沉浸式游戏安抚](<https://36kr.com/p/4082281843364741?f=rss>)  
+  IPO不久，Anthropic CEO Dario Amodei就被翻出了「暴论」。 AI让人类失业怎么办？ 那就让他们来玩沉浸式电子游戏，防止大规模动荡！ 今天，不少外媒报道了Dario曾经的这一言论。 对外，Anthropic是一家强调  
+  36氪 · 2026-11-23 21:35
+
+- [打败字节猫箱，Tipsy率先盈利，AI陪伴产品杀疯了](<https://36kr.com/p/4082241709134977?f=rss>)  
+  当整个市场都在质疑“AI应用为大模型打工”时，AI陪伴产品们给了行业带来了希望。 一款名为Tipsy Chat的AI陪伴产品在快速崛起，最疯狂的时候，App单月下载环比增加991.55%。这款由字节跳动、阿里前员工于2024年创业，做出来的  
+  36氪 · 2026-11-23 21:16
+
+- [斯坦福博士零AI苦研黎曼猜想12年，公开8小时反遭AI挑错](<https://36kr.com/p/4082281855193992?f=rss>)  
+  Anthropic IPO次日，悬置167年的数学头号难题，在同一天收到了两份证明。 一份出自人类之手，苦研12年。 一份出自人类与Claude之手，用时41天。 这两份证明，在短短两天内迎来了截然不同的结局。 前者公开约8小时，就被人借助  
+  36氪 · 2026-11-23 20:43
+
+- [马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗](<https://www.ithome.com/1/031/190.htm>)  
+  IT之家 11 月 23 日消息，SpaceX 首席执行官埃隆 · 马斯克（Elon Musk）表示，公司最优秀的数据中心建设人员，可能曾经是咖啡师，也可能只是零售商店里的货架理货员。 本周早些时候，马斯克通过远程连线方式参加了在美国…  
+  IT之家 · 2026-11-23 19:58
+
+- [数据中心液冷，到底是怎么工作的？](<https://36kr.com/p/4082157203690633?f=rss>)  
+  今天这篇文章，我们聊聊液冷。 2026年，液冷这个赛道非常火爆。不仅设备厂商疯狂布局，资本市场也是趋之若鹜。 原因大家都懂，还是因为AI。AI带动了算力，算力带动了数据中心。算力芯片和设备的发热量越来越高，传统风冷扛不住，所以要发展液冷。  
+  36氪 · 2026-11-23 19:26
 
 - [AI服务器临交付暴涨45%，台积电收紧账期要现款：黄仁勋刚走，全球供应链撕破脸](<https://36kr.com/p/4081927320786048?f=rss>)  
   过去几年，黄仁勋不只是英伟达掌门人，更像是 全球 AI 供应链的“定海神针” ，每逢AI泡沫的质疑此起彼伏，他总能镇住场子，给市场信心再添一把火。 如今，随着核心人物的突然退场，最先崩盘或许并非技术叙事，也不是算力需求，而是 支撑起这万亿投  
@@ -76,13 +102,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   就在刚刚，OpenAI罕见把自家核心机密摊开！ 首席科学家 Jakub Pachocki 发表重磅长文，直言： OpenAI内部模型已越过数学突破线，全行业应该为 AI 模型设置安全线！ 他警告：2027年，AI将迎来「雪崩式爆发」！内部模  
   36氪 · 2026-11-23 16:21
 
-- [LG U+ 围绕 AI 调整企业业务架构，新设基础设施 / 平台部门](<https://www.ithome.com/1/030/938.htm>)  
-  IT之家 11 月 23 日消息，据韩媒 The Elec 报道，LG U+ 正围绕人工智能（AI）基础设施和平台业务调整企业业务架构，计划将相关业务划分为 AI 基础设施部门和 AI 平台部门，分别负责 AI 数据中心及有线、无线通…  
-  IT之家 · 2026-11-23 16:06
-
-- [AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18](<https://www.ithome.com/1/030/935.htm>)  
-  IT之家 11 月 23 日消息，Arena（ arena.ai ）现已发布第 47 周（2026 年 11 月 16 日至 22 日）周榜。本周综合榜迎来三款重量级新模型首秀：谷歌 Gemini 4 Neon \(High\) 以 EL…  
-  IT之家 · 2026-11-23 16:00
+- [Richpanel helps companies automate 50% of support in 30 days](<https://openai.com/business/customer-stories/richpanel-ai-customer-support>)  
+  Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna f…  
+  OpenAI · 2026-11-23 16:00
 
 - [Pinecone真的不可替代吗？](<https://36kr.com/p/4082028533437313?f=rss>)  
   “只需将你的知识投入向量商店，连接大模型，奇迹就会发生。” 两年前，这句充满诱惑力的承诺让无数企业CTO夜不能寐。向量数据库——这个能够“理解语义”的新型数据库——被视为打开AI宝藏的最后一把钥匙。 风险资本疯狂涌入，创业者前赴后继，仿佛错  
@@ -96,47 +118,13 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Pulley Studios是一家AI 建筑审批服务商，将 AI 智能体与持证建筑专业人员结合，为商业地产、数据中心、新能源、多户住宅项目提供从前期合规尽调、施工图 AI 预审、许可申报到市政对接的一站式建筑审批服务，支持美国 200…  
   IT桔子 · 2026-11-23 15:07
 
-- [China’s Next AI Deals Clouded by Selloff After Anthropic IPO](<https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo>)  
-  Bloomberg · 2026-11-23 15:05
-
-- [新款深蓝 L07 车型将于 11 月 27 日广州车展亮相：采用 800V 高压平台、搭载豆包大模型](<https://www.ithome.com/1/030/911.htm>)  
-  IT之家 11 月 23 日消息，深蓝汽车宣布旗下新款 L07 车型将于 11 月 27 日开幕的 2026 广州车展上亮相。 据介绍，新款深蓝 L07 采用 800V 高压平台，全系标配激光雷达，其智能辅助驾驶能力可覆盖通勤、高速、…  
-  IT之家 · 2026-11-23 15:04
-
-- [US AI Chip Curbs Test Southeast Asia Data Center Boom](<https://www.bloomberg.com/news/videos/2026-11-23/us-ai-chip-curbs-test-southeast-asia-data-center-boom-video>)  
-  Bloomberg · 2026-11-23 11:21
-
 - [语用科技已完成新一轮融资](<https://www.itjuzi.com/investevent/14708420>)  
   语用科技是前阿里巴巴千问大模型负责人林俊旸创办的AI实验室，研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。近日获悉，语用科技已完成新一轮融资，估值达到 50 亿美元，按当前汇率约合 334.6 亿元人民币。距官宣首轮融…  
   IT桔子 · 2026-11-23 10:40
 
-- [Anthropic万亿上市，搅动的却是半导体江湖](<https://36kr.com/p/4080353019909248?f=rss>)  
-  11月19日，人工智能大模型公司Anthropic正式在纳斯达克挂牌，股票代码“ANT”。 此次IPO最终以每股83美元定价，高于此前70美元至78美元的推介区间，基础发行9.8亿股，募资约813.4亿美元，超过SpaceX今年6月创下的全  
-  36氪 · 2026-11-23 10:09
-
-- [全球首次，DeepSeek与FlashAttention的多个生产级AI算子获得形式化验证](<https://36kr.com/p/4081655709406336?f=rss>)  
-  2025 年 8 月，一些 Claude 用户遇到了一件怪事。 明明用英语提问，回答里却突然冒出泰文；让它写代码，生成的程序里又出现了明显的语法错误。对遇到问题的用户来说，大模型就像突然「失控」了。 Anthropic 后来在复盘中解释，一  
-  36氪 · 2026-11-23 09:56
-
 - [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](<https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/>)  
   Three significant backers share what gave them conviction to bet billions on Anthropic.  
   TechCrunch · 2026-11-23 09:25
-
-- [企业们抢着贴上“第一”标签，然后呢？](<https://36kr.com/p/4080910249531009?f=rss>)  
-  在家电、3C数码、汽车，乃至具身智能、AI大模型等领域，企业们不仅不回避排名，反而主动寻找各种口径，争着把“第一”写在战报标题里。 「TMT星球」注意到，2026年双十一结束不久，美的、海尔、海信、联想等纷纷宣布自己拿下了不同维度的第一。  
-  36氪 · 2026-11-23 08:14
-
-- [逃不出的AI泡沫](<https://36kr.com/p/4080493894063238?f=rss>)  
-  一个AI投资者至少要在一定程度上准确预判：技术的演进、算力需求、竞争格局、技术受益者、融资可得性，以及上述所有事项发生的时间点，而评估这些关键要素异常困难。 但可以确定的是，每一轮颠覆性技术的诞生，未必会给投资者带来回报，甚至大多数人都在技  
-  36氪 · 2026-11-23 07:55
-
-- [孙正义，又悬了](<https://36kr.com/p/4080714655356032?f=rss>)  
-  11月的AI圈，地动山摇。 英伟达市值从10月高点一度蒸发近1.4万亿美元，执掌公司33���的黄仁勋黯然辞职；Anthropic创纪录上市当天，纳指收跌2.3%。 但这场风暴里，最头疼的，可能不是黄仁勋，而是孙正义。 11月20日，软银股  
-  36氪 · 2026-11-23 07:43
-
-- [史上最大IPO，14位中国年轻人���富](<https://36kr.com/p/4080938958214279?f=rss>)  
-  一夜之间，硅谷又诞生了一批超级富豪。 11月19日，AI巨头Anthropic正式登陆纳斯达克，以每股83美元的价格发行9.8亿股，募资约813亿美元，创下全球IPO募资规模新纪录。 上市首日，公司股价一度冲至111.50美元，对应完全稀释  
-  36氪 · 2026-11-23 07:33
 
 - [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](<https://sv101.fireside.fm/273>)  
   华尔街最低调、最赚钱的那一批量化交易巨头，也是这一轮AI浪潮里囤算力、抢人才、投资AI实验室最凶猛的那一批。 他们不靠市场趋势赚钱，而是靠波动和速度在毫秒间争夺价差。和大家印象中西装革履的金融人士并不一样，这些公司里的人可能是一群数学…  
@@ -193,7 +181,7 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
   The Decoder：AI News（RSS） · 2026-11-22 00:23
 
-- [Oracle Says It Has Completed Funding to Fulfil OpenAI Deal](<https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal>)  
+- [Oracle Says It Has Completed Funding to Fulfill OpenAI Deal](<https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal>)  
   The Information · 2026-11-22 00:09
 
 - [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
@@ -212,7 +200,20 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
   Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
 
-- [How Anthropic Upstaged OpenAI on Road to Blockbuster IPO](<https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo>)  
-  The Information · 2026-11-20 22:18
+- [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
+  Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
+  Axios · 2026-11-20 20:10
+
+- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
+  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
+  Axios · 2026-11-20 18:20
+
+- [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
+  At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
+  TechCrunch · 2026-11-20 08:43
+
+- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
+  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
+  OpenAI · 2026-11-20 08:00
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 3 页

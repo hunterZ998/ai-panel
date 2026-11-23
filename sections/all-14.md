@@ -2,26 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-13.md) · 第 14 / 14 页
 
-- [一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓](<https://www.xiaoyuzhoufm.com/episode/6accc5de195d838e2af0bd9a?utm_source=rss>)  
-  最近 Personal Agent 非常火。而早在这波概念火起来之前，子皓就已经在做这个方向的软硬件结合产品 Ambi 了。所以国庆前，我们约他录了这期播客，请他分享几个月做下来对这个赛道的思考和实践经验，比如这件事的成本到底有多高、…  
-  42章经 · 2026-10-13 06:00
-
-- [“有了AI，我感觉自己强得可怕！”｜对谈鸭哥](<https://www.xiaoyuzhoufm.com/episode/6aca7f91e742e36efcc10957?utm_source=rss>)  
-  🚗 这是一期「公路播客」——从乌镇到上海，我们和老朋友鸭哥边开边聊，看看这位重度 AI 用户最近又把自己的工作和生活折腾成了什么样。 ➤ 本周「十字路口」的嘉宾，可能是我认识的人里把 AI 用得最狠的一位。 鸭哥是 Superlin…  
-  十字路口 Crossing · 2026-10-12 00:00
-
-- [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](<https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier>)  
-  AI safety is on fire.  
-  SemiAnalysis · 2026-10-09 01:46
-
-- [Breaking The Wall](<https://www.citriniresearch.com/p/breaking-the-wall>)  
-  Imagine that your personal AI has access to all your finances.  
-  Citrini Research · 2026-10-08 21:52
-
-- [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](<https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x>)  
-  Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and…  
-  SemiAnalysis · 2026-10-06 04:01
-
 - [Menlo’s Investment in Factory: The System That Builds Software](<https://menlovc.com/perspective/menlos-investment-in-factory-the-system-that-builds-software/>)  
   Coding is AI’s first killer use case. The world is on pace to generate more code this year than in all previous years…  
   Menlo Ventures · 2026-10-05 22:00
