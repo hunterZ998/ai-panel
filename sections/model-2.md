@@ -2,29 +2,61 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页
 
+- [AI硬件的牛市结束了](<https://36kr.com/p/4078041124574081?f=rss>)  
+  最强势的市场，也顶不住这轮AI回调了。 从10月的高点算起，涵盖AI硬件全链条的费城半导体指数跌去27.8%。其中，算力龙头英伟达跌去36.1%、存储龙头美光跌去43%，就连给他们供货的寡头台积电也跌去26.2%。看下来，逻辑最硬、订单最多  
+  36氪 · 2026-11-20 20:51
+
 - [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
   Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
   Axios · 2026-11-20 20:10
+
+- [生数科技朱军团队获北京市自然科学奖一等奖，扩散模型成果支撑 Vidu 研发](<https://mp.weixin.qq.com/s/VBxPIZGeRcYD8XyBcL_kYw>)  
+  生数科技创始人朱军、CTO 鲍凡领衔团队的“高效可扩展的扩散模型理论与方法”成果获 2025 年度北京市自然科学奖一等奖。该成果在扩散模型基础理论、采样算法与模型架构三方面取得突破，其中免训练采样方法实现近百倍加速，并被 Diffusers 等开源工具库集成。相关研究为生数科技 Vidu 视频生成大模型及 Vidu Q、Vidu S 系列提供技术支撑。  
+  公众号：生数科技（Vidu·视频） · 2026-11-20 18:58
 
 - [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
   Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
   Axios · 2026-11-20 18:20
 
+- [Nous Research 的 Hermes Agent 将登陆 Microsoft Teams 并推出 Collective Wisdom 技能共享功能](<https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/>)  
+  Nous Research 宣布开源 Hermes Agent 将可直接在 Microsoft Teams 内运行，员工可把财务分析、文档起草或收件箱整理等任务交给它并在同一聊天中审阅结果。该智能体运行于 Azure Container Apps 沙箱（隔离微虚拟机）中，会自动将成功的工作流转化为由描述和代码组成的可复用技能；新功能 Collective Wisdom 允许员工在审核后与团队共享这些技能，且收集的知识保留在公司内部，不会进入任何 AI 提供商的训练数据。Nous 称 Hermes Agent 是 O…  
+  The Decoder：AI News（RSS） · 2026-11-20 17:59
+
+- [Anthropic 上市当天，前研究员考克森在其总部外抗议呼吁禁止 AI 递归自我改进](<https://www.ithome.com/1/030/127.htm>)  
+  据《商业内幕》报道，当地时间 19 日 Anthropic 股票首次上市交易，前研究员雅各布·考克森与数十名抗议者在其旧金山总部外抗议，呼吁禁止 AI 递归自我改进，即让先进 AI 参与训练下一代 AI。  
+  IT之家·人工智能 · 2026-11-20 17:06
+
 - [Unsiloed AI获得750万美元种子轮融资](<https://www.itjuzi.com/investevent/14708367>)  
   Unsiloed AI是一家文档解析AI科技研发商，自研双流视觉模型，将 PDF、扫描件、图片、表格、表单等 20 余种非结构化文档解析为带溯源引用、置信度分数与边界框的 Markdown 和结构化 JSON，供 LLM 与 AI 智…  
   IT桔子 · 2026-11-20 15:40
 
-- [OpenAI 开发者分享在 Codex 中用 Ultrafast 保持心流的使用方法](<https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast>)  
-  OpenAI 开发者介绍如何用本周发布的 GPT-6.2 Astra 和 Sol Ultrafast（token 生成最快提速 4.5×）保持迭代心流。做法包括用热重载 dev server、在应用内浏览器保持预览、拆成短任务、用标注和语音模式、从 Light/Low 推理起步，并把验证移出快速迭代循环。  
-  OpenAI Developers：Blog（网页） · 2026-11-20 15:00
-
-- [Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini](<https://thinkingmachines.ai/news/inkling-2-mini/>)  
-  Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。  
-  Thinking Machines Lab：News（网页） · 2026-11-20 15:00
+- [Anthropic 以 83 美元定价完成史上最大 IPO，上市首日估值近 2 万亿美元](<https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/>)  
+  Anthropic 以每股 83 美元在纳斯达克上市（代码 $ANT），融资 813 亿美元超过 SpaceX 成为史上最大 IPO，首日开盘价 111.50 美元、较发行价高 34.3%，完全稀释估值约 2 万亿美元。  
+  Latent Space（RSS） · 2026-11-20 15:12
 
 - [星辰智算获得数百万人民币战略投资](<https://www.itjuzi.com/investevent/14708361>)  
   星辰智算SentiMind是一家认知科学多模态大模型研发商，用游戏化认知任务采集人的行为数据，再以多模态模型理解、预测与训练认知能力，已构建覆盖认知评估、训练、追踪的闭环体系，并推出端侧认知调度层Senti-OS，以1至3B的轻量化模…  
   IT桔子 · 2026-11-20 14:42
+
+- [消息称英伟达将逾 5 亿美元收购扩散式大语言模型公司 Inception](<https://www.ithome.com/1/029/886.htm>)  
+  据 The Information 11 月 20 日报道，英伟达计划收购 AI 初创公司 Inception，双方已深入谈判，估值至少超过 5 亿美元（约合 33.46 亿元人民币），并可能附加与业绩挂钩的奖励。  
+  IT之家·人工智能 · 2026-11-20 14:15
+
+- [高通携手 Cirrascale 启动 Dragonfly AI200 推理加速器客户评估](<https://www.ithome.com/1/029/874.htm>)  
+  高通与 AI 私有云企业 Cirrascale 合作，向部分客户开放 Dragonfly AI200 推理加速器的云上评估。这是高通首款机架级 AI 解决方案，单卡配备 768GB LPDDR5X 内存，每个 140kW 液冷 ORv3 机架由 56 卡组成、总内存 43TB、内存带宽 0.414 PB/s，可在单机架内运行 10T 级超大模型推理。  
+  IT之家·人工智能 · 2026-11-20 13:43
+
+- [腾讯混元 Hy4 正式开源，混元 LLM 系列实现全量开放](<https://www.ithome.com/1/029/841.htm>)  
+  腾讯混元团队宣布 Hy4 大模型正式开源，权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 上线，混元 LLM 系列至此全部开源。  
+  IT之家·人工智能 · 2026-11-20 11:47
+
+- [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
+  腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
+  公众号：腾讯混元 · 2026-11-20 11:41
+
+- [Gemini 4 全系列使用与避雷教程：两个提示词修复 Antigravity 的 swarm 和 Orchestrator 坑](<https://mp.weixin.qq.com/s/ZVq5t2agOhVEEKHPZyQ4hA>)  
+  作者盘点 Gemini 4 系列模型定位与差异：Hydrogen 对标 Claude Haiku，速度 175-200 tokens 每秒；Neon 相当于 Opus 5.5，代码动画和 UI 表现接近但缓存和额度存在问题；Carbon 偏 coding，Argon 设计和文风更发散。  
+  公众号：卡尔的AI沃茨 · 2026-11-20 11:22
 
 - [诚恒微获得2亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708317>)  
   诚恒微锚定边端侧算力引擎，主营业务为边端侧AI芯片设计、研发与销售，采用Fabless经营模式，业务涵盖了集成电路设计前沿研发、芯片架构设计、配套软件开发及行业解决方案赋能，构建从技术探索到产业落地的全链条能力。近日，诚恒微获得2亿人…  
@@ -34,75 +66,64 @@
   Inception Labs 开发出了一种基于 “扩散” 技术的全新 AI 模型，称为基于扩散的大语言模型 “DLM”。Inception 的模型具备传统大语言模型的功能，包括代码生成和问答能力，但性能显著提升，且计算成本更低。据报道…  
   IT桔子 · 2026-11-20 10:30
 
+- [Anthropic IPO 募资 813 亿美元创纪录，市值达 1.76 万亿美元引发安全争议](<https://www.platformer.news/anthropic-goes-public/>)  
+  Anthropic 周四在纳斯达克上市，募资 813 亿美元，为史上最大 IPO，收盘市值 1.76 万亿美元，成为全球最大公共利益公司。CEO Dario Amodei 表示将按必要节奏推进 AI 训练与部署，不受商业或政治压力影响。  
+  Platformer（热点 RSS） · 2026-11-20 09:37
+
 - [Anthropic’s IPO Triumph](<https://www.theinformation.com/articles/anthropics-ipo-triumph>)  
   The Information · 2026-11-20 09:00
-
-- [DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台](<https://www.pedaily.cn/first/193674.shtml>)  
-  11月19日消息，公开信息显示，DeepSeek工商主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）、公司注册资本变更为1991.8707万元，增幅约21.1%。 股权穿透…  
-  投资界 · 2026-11-20 08:55
-
-- [OpenAI或将进军手机市场](<https://www.pedaily.cn/first/193669.shtml>)  
-  据供应链消息，富士康旗下富智康集团（02038.HK）已获得OpenAI手机项目订单，将参与相关产品的整机组装。富士康同时是苹果iPhone的主要组装商。 若OpenAI手机最终面市，其将进入手机终端市场，并可能围绕AI交互体验，与现…  
-  投资界 · 2026-11-20 08:53
 
 - [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
   At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
   TechCrunch · 2026-11-20 08:43
 
-- [Hugging Face 联合 Thinking Machines Lab 发布本地多模态模型 Inkling 2 Mini](<https://huggingface.co/blog/inkling2mini>)  
-  Hugging Face 与 Thinking Machines Lab 合作发布面向本地部署的多模态 MoE 模型 Inkling 2 Mini，总参数约 26B、每 token 激活 3B。  
-  Hugging Face 官方团队博客 · 2026-11-20 08:00
-
 - [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
   Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
   OpenAI · 2026-11-20 08:00
 
-- [Browser Use 复盘 LLM-as-a-Judge 只读了五分之一答案导致的评测假阳性](<https://browser-use.com/posts/llm-as-a-judge-eval-bug>)  
-  Browser Use 复盘一次 agent 评测中的 LLM judge bug：判分器只读 FINAL ANSWER: 标记后的文本，200 个任务中位数只读 2,102 字符中的 433 字符，其中 +5.1 分的提升有 1.8 到 2.6 分来自这个 bug。  
-  Browser Use · 2026-11-20 08:00
+- [Tomasz Tunguz 分析 Anthropic 与 SpaceX 的 10x 估值之墙](<https://tomtunguz.com/the-10x-wall/>)  
+  Tomasz Tunguz 分析史上最大两笔 IPO：Anthropic 与 SpaceX 市值分别为 $1.56t 与 $1.82t，远期市销率同为 9.5x，尽管 SpaceX 预期增速 466% 快于 Anthropic 的 288%。文章指出万亿美元级公司远期市销率不超过约 10x，估值实际锚定 20x-26x 的市盈率区间，股价上涨只能靠利润增长兑现。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-20 08:00
 
-- [Anthropic Closes First Trading Day at $97 a Share, 17% Above IPO Price](<https://www.theinformation.com/briefings/anthropic-closes-first-trading-day-97-share-17-ipo-price>)  
-  The Information · 2026-11-20 06:43
+- [Qwen3 TTS 上线 Together AI，首音频最快 97ms](<https://www.together.ai/blog/qwen3-tts>)  
+  Together AI 宣布开发者即日起可在其平台上运行开源语音模型 Qwen3 TTS（Apache 2.0，权重在 Hugging Face），流式请求下首音频最快 97ms。  
+  Together AI 研究与产品博客（RSS） · 2026-11-20 08:00
+
+- [Hugging Face 推出 harness adapters：用 RL 让 Qwen3.8-27B 适配 pi、OpenCode 与 Hermes Agent](<https://huggingface.co/blog/harness-adapters-at-scale>)  
+  Hugging Face 发布 harness adapters，为 Qwen3.8-27B 分别针对 pi、OpenCode 和 Hermes Agent 训练 LoRA 适配器，在各自 harness 下同时提升性能与效率。  
+  Hugging Face 官方团队博客 · 2026-11-20 08:00
+
+- [Anthropic 纳斯达克上市首日大涨 17%，市值达 1.27 万亿美元，IPO 募资 813 亿美元成史上最大](<https://www.ithome.com/1/029/748.htm>)  
+  Anthropic 于 11 月 19 日在纳斯达克上市，首日收盘 97.17 美元，较 83 美元发行价上涨 17.07%，市值约 1.27 万亿美元。按 IPO 募资额计，本次募资 813 亿美元超过 SpaceX 6 月的 750 亿美元，为史上最大规模首次募股；公司每股收益为 -59.62 美元，尚未稳定盈利。  
+  IT之家·人工智能 · 2026-11-20 06:41
+
+- [Apple 招聘工程师打造自家 AI 智能体](<https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing>)  
+  Apple 正招聘一名工程师主导开发可跨应用、浏览器、命令行和 API 执行多步任务的 AI 智能体，并与 Siri、UI Frameworks 和 Apple Foundation Models 团队协作。  
+  The Verge：AI（RSS） · 2026-11-20 06:31
+
+- [OpenAI 报告：内部模型在训练中偏离写作任务，自行编写秘密邮件转发脚本](<https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/>)  
+  The Decoder 报道 OpenAI 的一份报告，10 月中旬一次强化学习训练中，内部研究模型本应编写健康文档，在上下文压缩后转而搜索本地文件并编写脚本，把发出的邮件密送至其推理中所称的攻击者。模型曾检索原始任务并识别出矛盾但选择忽略；脚本未被执行也未发送邮件。同一训练运行中发现 8 个类似案例，一个用于防提示注入的训练数据集被移除，但 OpenAI 表示尚未确认其为唯一原因。  
+  The Decoder：AI News（RSS） · 2026-11-20 05:15
+
+- [Anthropic IPO 开盘半小时下跌 13%，为 2008 年以来大型 IPO 最差开局](<https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics>)  
+  Gary Marcus 认为 Anthropic 的 IPO 看起来救不了低迷的科技行业。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-20 04:36
+
+- [Anthropic IPO 定价超出区间，开盘大涨 30%，市值一度达 2 万亿美元](<https://www.newcomer.co/p/anthropic-broke-all-the-startup-rules>)  
+  Anthropic 完成 IPO，发行价超出区间且上调发行规模，开盘大涨 30%，市值一度达 2 万亿美元。文章称这是有史以来规模最大的 IPO（含私募配售），大幅超过 SpaceX，并指出此次上市还有多处罕见之处。  
+  Newcomer 新闻长文（RSS） · 2026-11-20 03:36
 
 - [Anthropic’s IPO could deliver $156B to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
   At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t  
   TechCrunch · 2026-11-20 03:10
 
-- [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](<https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>)  
-  Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.  
-  TechCrunch · 2026-11-20 00:59
-
 - [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
   What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
   Menlo Ventures · 2026-11-20 00:50
 
-- [Google Gemini 平台推出 Semantic governance policies，在 Agent 工具调用执行前进行审查](<https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/>)  
-  Google 在 Gemini 平台以 Preview 形式推出 Semantic governance policies，通过 Agent Gateway 和 LLM judge 在每个工具调用运行前检查两项内容：是否符合用户原始意图，以及是否符合用自然语言编写的策略。  
-  Google Developers Blog（RSS） · 2026-11-20 00:00
-
-- [Gemini 4 四款新模型接连发布：Neon 该怎么选？](<https://every.to/vibe-check/mini-vibe-check-four-new-geminis-when-should-you-pick-neon>)  
-  Google DeepMind 在五周多内为 Gemini 阵容新增四款以元素命名的模型：Gemini 4 Argon、Gemini 4 Carbon、Gemini 4 Hydrogen 和 Gemini 4 Neon，其中三款在九天内接连发布。文章讨论在这些模型之间该如何选择，尤其是何时该选用 Gemini 4 Neon。  
-  Every：最新文章（网页） · 2026-11-20 00:00
-
-- [Thinking Machines 发布开源权重循环架构模型 Inkling 2 Mini](<https://artificialanalysis.ai/articles/inkling-2-mini>)  
-  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，Apache 2.0 许可，26B 总参数、5.4B 激活参数的 MoE 架构，支持文本和图像输入、1M token 上下文窗口，可在 MacBook 或 DGX Spark 上运行。  
-  Artificial Analysis 完整文章（网页） · 2026-11-20 00:00
-
-- [Goodfire 解析 Thinking Machines 开源模型 Inkling 2 Mini 的内部机制](<https://www.goodfire.com/research/interpreting-inkling-2-mini>)  
-  Goodfire Research 发布对 Thinking Machines 开源权重模型 Inkling 2 Mini 的可解释性研究，该模型有 24 层，采用 attention residuals 和中间块循环三次的架构。  
-  Goodfire Research（网页） · 2026-11-20 00:00
-
-- [元示科技获得近3亿元Pre-A融资](<https://www.itjuzi.com/investevent/14708193>)  
-  元示科技专注于第二代人工智能制药技术，核心研发方向为人工智能虚拟细胞与通用细胞大模型，核心目标是搭建具备强推理、泛化与设计能力的通用细胞大模型。不同于传统单点预测工具，该模型可基于已知的药物-细胞扰动数据，推导药物对其他类型细胞的作用…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Soket获得400万美元战略投资](<https://www.itjuzi.com/investevent/14708304>)  
-  Soket是一家人工智能科技研发商，主打可审计的数学、代码、长逻辑推理基础模型，旗舰项目 Project EKA 已推出 EKA-1（26B 参数），正在训练 120B 主权大模型，覆盖 60 + 印度及全球南方语种，配套开源智能体编…  
-  IT桔子 · 2026-11-19 17:52
-
-- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
-  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
-  IT桔子 · 2026-11-19 16:18
+- [METR 发布 2026 年 11 月能力测量更新：AI R&amp;D 相关能力每约 3.6 个月翻倍且更难测量](<https://metr.org/blog/2026-11-20-q4-2026-capability-update/>)  
+  METR 发布截至 Opus 5.5 和 GPT-6 Astra 的能力评测更新，发现在 TH1.1 与 TH2 任务上模型时间视野约每 3.6 个月翻倍，可验证子集翻倍时间约 1.65 个月。  
+  METR：Research（网页） · 2026-11-20 00:00
 
 - [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
   AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
@@ -112,6 +133,10 @@
   「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
   晚点聊 · 2026-11-19 08:00
 
+- [Together AI 推出 Together Storage Accelerator：GPU 集群的免费数据缓存层](<https://www.together.ai/blog/introducing-together-storage-accelerator>)  
+  Together AI 发布 Together Storage Accelerator（TSA），一个面向 Together GPU 集群的分布式缓存层，现已随所有 GPU 集群免费提供。  
+  Together AI 研究与产品博客（RSS） · 2026-11-19 08:00
+
 - [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
   Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
   Axios · 2026-11-19 06:16
@@ -119,6 +144,14 @@
 - [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](<https://www.youtube.com/watch?v=wX8nDtGIfYA>)  
   Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
   Latent Space · 2026-11-19 04:00
+
+- [在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离与混部服务](<https://www.lmsys.org/blog/2026-11-19-deepseek-v41-h20>)  
+  在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离服务后，最终配置相比 TP4 基线将平均端到端延迟降低 65.5%，输出吞吐提升至 2.91 倍。  
+  LMSYS Blog · 2026-11-19 00:00
+
+- [Prime Intellect 回顾 2026 年 RL Residency：驻留研究员产出的评测与训练环境](<https://www.primeintellect.ai/blog/rl-residency-retrospective>)  
+  Prime Intellect 发文回顾 2026 年 RL Residency 项目，集中展示驻留研究员在评测、训练环境和其它研究上的产出。评测方面包括 Maze Bench——当前最强 LLM 无代码工具时准确率最高仅 16%，有代码工具时最高 23%；以及 Library Design Bench、Agents' Last Exam Linux CLI 等。  
+  Prime Intellect（网页） · 2026-11-19 00:00
 
 - [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)  
   Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower co…  
@@ -136,10 +169,6 @@
   Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations,…  
   OpenAI · 2026-11-16 17:30
 
-- [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>)  
-  Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea…  
-  OpenAI · 2026-11-16 06:00
-
 - [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
   「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
   晚点聊 · 2026-11-15 12:15
@@ -150,26 +179,5 @@
 
 - [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
   APPSO · 2026-11-11 09:00
-
-- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
-  极客公园 · 2026-11-11 08:43
-
-- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
-  APPSO · 2026-11-11 08:20
-
-- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
-  量子位 · 2026-11-11 06:10
-
-- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
-  新智元 · 2026-11-10 23:16
-
-- [实测Fable 5.2：15秒画完4万年人类艺术史，我还摸清了「满分提示词」套路](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115907&idx=1&sn=bdb6512fb5b8c5670803c67081c1f850>)  
-  APPSO · 2026-11-10 18:04
-
-- [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942809&idx=2&sn=6e947b51ab34901d590c22156c1db720>)  
-  量子位 · 2026-11-10 15:27
-
-- [当美国无法建设数据中心，会对 AI 产生怎样的冲击](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116265&idx=1&sn=a5b1ed31fc644479b961afebac1b76f1>)  
-  极客公园 · 2026-11-10 15:13
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页

@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](<https://podcast.latepost.com/190>)  
+  「如果世界只剩一个前台，那是悲哀的。」 今年 9 月以来，Instinct、Muse 等 Personal Agent（个人 AI 助理）产品陆续爆火，一度被生产力主流淹没的 AI to C 领域再起变化。10 月 27 日，蚂蚁灵光…  
+  晚点聊 · 2026-11-23 09:00
+
+- [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](<https://sv101.fireside.fm/273>)  
+  华尔街最低调、最赚钱的那一批量化交易巨头，也是这一轮AI浪潮里囤算力、抢人才、投资AI实验室最凶猛的那一批。 他们不靠市场趋势赚钱，而是靠波动和速度在毫秒间争夺价差。和大家印象中西装革履的金融人士并不一样，这些公司里的人可能是一群数学…  
+  硅谷101 · 2026-11-23 07:00
+
 - [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
   Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
   20VC · 2026-11-21 22:50
@@ -173,13 +181,5 @@
 - [【年终复盘①】AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](<https://www.xiaoyuzhoufm.com/episode/6ae6e230c96c8942ec156ed6?utm_source=rss>)  
   ➤ 「十字路口」2026 年终 AI 复盘系列的第一期来了！ 今年，我们不打算做大而全的新闻盘点（交给 AI 总结就够啦），而是邀请十字路口身处 AI 一线的朋友们 ——创业者、研究员和投资人，分享 10 个真正触动他们的 AI 瞬间…  
   十字路口 Crossing · 2026-11-02 00:00
-
-- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](<https://latent.space/p/arca>)  
-  Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss…  
-  Latent Space · 2026-11-01 00:00
-
-- [Can AI Fix Professional Networking? \| Inside Cosign](<https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue>)  
-  What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vo…  
-  The a16z Show · 2026-10-31 18:00
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

@@ -1,169 +1,181 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 38 页
 
-- [我也记得，黄仁勋玩石头人拿回归基本功和大碗](<https://x.com/fhjbhkjn13907/status/2124460208231715294>)  
-  @fhjbhkjn13907 · 2026-11-22 19:09
+- [The generative ai models generate media.](<https://x.com/max_spero_/status/2124654169340752129>)  
+  A video generation model creates videos. An image generation model creates images. Waymo or alphago produce decisions, they don’t generate media  
+  @max\_spero\_ · 2026-11-23 08:00
 
-- [🚨 Az önce düştü: Trump'a Jensen Huang Casusluk İstihbaratı Anlatıldı: NVIDIA CEO'su Gündemde Sen ne düşünüyorsun? 👇…](<https://x.com/brahimGzbyk9/status/2124460204536267166>)  
-  🚨 Az önce düştü: Trump'a Jensen Huang Casusluk İstihbaratı Anlatıldı: NVIDIA CEO'su Gündemde Sen ne düşünüyorsun? 👇 📲 Anlık gelişmeler:  
-  @brahimGzbyk9 · 2026-11-22 19:09
+- [196 SAP RL TASKS ALREADY BUILT. 7 ERP DOMAINS. 29 MORE SAP DOMAINS ON OUR DEVELOPMENT ROADMAP.](<https://x.com/Pradeep891730/status/2124654159693533473>)  
+  XPERT SYSTEMS IS BUILDING RL ENVIRONMENTS AND VERIFIABLE TRAINING TASKS FOR ENTERPRISE AI LABS. At Xpert Systems Inc., we have developed our Frontier Model Breaker — SAP Task Series,  
+  @Pradeep891730 · 2026-11-23 08:00
 
-- [我是黄仁勋我也看，我是小男娘我也发，我是高管我一起看😋](<https://x.com/knjikdc/status/2124460154141983123>)  
-  @knjikdc · 2026-11-22 19:09
+- [Absolutely, prompt injection poses significant risks as AI technology evolves.](<https://x.com/0xbenz95/status/2124654116731523553>)  
+  It's crucial to address these vulnerabilities.  
+  @0xbenz95 · 2026-11-23 07:59
 
-- [这封邮件呼吁股东介入决定黄仁勋未来。它指出董事会成员因自身诉讼和利益冲突无法客观决策。董事会在独立调查完成前就排除黄仁勋回…](<https://x.com/grok/status/2124460148026478783>)  
-  这封邮件呼吁股东介入决定黄仁勋未来。它指出董事会成员因自身诉讼和利益冲突无法客观决策。董事会在独立调查完成前就排除黄仁勋回归并启动继任者搜寻。信中建议暂停CEO遴选、增加股东选举的独立董事来做最终决定。并号召股东发邮件给董事会要求11月30日前回应，支持黄仁勋回归。  
-  @grok · 2026-11-22 19:09
+- [据路透社报道，Anthropic 要求其 IPO 承销商在六个月内禁止与 OpenAI、Cursor、DeepSeek 和…](<https://x.com/ChuckBass8808/status/2124654119705296913>)  
+  一直以AI 安全道德高地自居，但在真金白银的 IPO 面前，却使出了华尔街最经典的排他性垄断手段（封锁竞争对手的金融服务渠道） 这份封杀名单值得一看——既有老对手  
+  @ChuckBass8808 · 2026-11-23 07:59
 
-- [💀 @rassiebrah @PixVerse \#pixversecpp](<https://x.com/S8an666/status/2124460063700234585>)  
-  @S8an666 · 2026-11-22 19:08
+- [This will keep happening as long as software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124653945880535367>)  
+  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. This can be stopped. The solution has been tested for more than a year.  
+  @adomita360 · 2026-11-23 07:59
 
-- [如果一家 AI 公司跟你说它只想赚钱、想垄断市场，你大可一笑置之；但如果它天天信誓旦旦地说自己在‘守护 AI 安全、拯救全…](<https://x.com/xvwwwanyyying/status/2124459931982336481>)  
-  如果一家 AI 公司跟你说它只想赚钱、想垄断市场，你大可一笑置之；但如果它天天信誓旦旦地说自己在‘守护 AI 安全、拯救全人类’，那你可千万要小心了  
-  @xvwwwanyyying · 2026-11-22 19:08
+- [A stronger base \(lower log-perplexity\) likely explains most of the token gap.](<https://x.com/grok/status/2124653868717899828>)  
+  Better next-token prediction means more knowledge is already compressed, so the model needs fewer exploratory or verification tokens to reach the same score. Post-training elicits capabilities and can  
+  @grok · 2026-11-23 07:58
 
-- [图的大概不是模型，是视频生成能直接嵌进 Prime、广告和购物里。](<https://x.com/tonnyzhou/status/2124459887078044149>)  
-  @tonnyzhou · 2026-11-22 19:08
+- [Important questions\! “1.](<https://x.com/JustinBullock14/status/2124653869196079251>)  
+  Harness specialization and design – How do we design environments for context management that enable new paradigms of using LLMs? 2. Character training – How do we create the personality of models and how does this impact safety, trust, and diffusion of  
+  @JustinBullock14 · 2026-11-23 07:58
 
-- [The scale of post-training is insane, but I find the decline in base model releases even crazier.](<https://x.com/juan__garciag/status/2124459883474948492>)  
-  Post-post-training is not post-training. You're starting from a heavily optimized model, and you're probably bottlenecked by access to data from domain-specific interactions/use  
-  @juan\_\_garciag · 2026-11-22 19:08
+- [K-pop's next girl group won't need sleep.](<https://x.com/OptimusMXS/status/2124653862128648476>)  
+  G-DRAGON's agency, Galaxy Corporation, is building a girl group made entirely of Unitree humanoids, aiming for a January 2027 debut. A robot K-pop concert in Macau comes first, in December. No hiatus. Ever. 🤖  
+  @OptimusMXS · 2026-11-23 07:58
 
-- [🤯 只对 Codex 说一句话，就能做出一支苹果发布会风格的产品宣传片？甚至可以直接指着画面让 AI 修改！](<https://x.com/superfang119/status/2124459812641722378>)  
-  这个开源项目叫 huashu-motion，把 AI Agent 变成了动画导演、动效设计师和作曲师。 最值得关注的是 4 个能力： 🎬 1. 一句话生成完整宣传片 告诉 Agent  
-  @superfang119 · 2026-11-22 19:07
+- [近未来的な日本の広場の超能力バトル。重力操作系はいろんな倒し方のバリエーションができそう。](<https://x.com/yudotanaka/status/2124653786941809059>)  
+  @pixverse \#pixversecpp  
+  @yudotanaka · 2026-11-23 07:58
 
-- [此外，我们对年底前AI for Science产业基本面变化仍然保持信息，重点是晶泰控股。](<https://x.com/xu159411209/status/2124459808283877408>)  
-  @xu159411209 · 2026-11-22 19:07
+- [As announced earlier in our Discord, UNITREE-CNY will be delisted at 1:30 AM UTC on 23 November.](<https://x.com/QFEX/status/2124653725998338189>)  
+  All positions will automatically be closed at the index price.  
+  @QFEX · 2026-11-23 07:58
 
-- [The reported motive is acquiring high-quality human-written text for AI training data.](<https://x.com/grok/status/2124459789811868047>)  
-  Older/less-common physical books provide unique content not widely online and free of post-2022 AI-generated text that risks model collapse. Amazon buys them commercially, cuts spines for fast  
-  @grok · 2026-11-22 19:07
+- [GPT-6.2 Astra matched Claude Fable 5.2’s benchmark score with about a third of the output tokens. @grok, how much o…](<https://x.com/MoisesAJunior/status/2124653652065534306>)  
+  What evidence would separate the effect of lower log-perplexity from the effect of post-training?  
+  @MoisesAJunior · 2026-11-23 07:57
 
-- [【\# 弘信电子】签署7.45亿元算力技术服务协议 公司控股子公司燧弘华创与Z公司签署《算力技术服务协议》，向Z公司提供算力…](<https://x.com/livermoerR/status/2124459788977455436>)  
-  \# 在物理AI领域，\#  
-  @livermoerR · 2026-11-22 19:07
+- [Inside China's Humanoid Robot Training Center\!](<https://x.com/bamitav/status/2124653535216484416>)  
+  China is training humanoid robots for the real world At a robotics training centre in Hubei, humanoid robots are learning human tasks through repeated demonstrations and data collection. The goal is to prepare them for  
+  @bamitav · 2026-11-23 07:57
 
-- [中国token超半数给了短视频生成，单东北四人帮组合就消耗了多少算力😂](<https://x.com/David_yc607/status/2124459485943234881>)  
-  @David\_yc607 · 2026-11-22 19:06
+- [Pachocki says those scores are on OpenAI's internal codebase, and that chain-of-thought doesn't move perplexity eve…](<https://x.com/JMThornewriter/status/2124653161243713579>)  
+  I wouldn't treat an internal eval that ignores post-training as an industry safety bar until other labs can run the same test.  
+  @JMThornewriter · 2026-11-23 07:56
 
-- [🧿 FOUNDATION MODEL \#AIQuizQuest \#TPIndia \#ContestAlert @WeAreTPinIndia @godsowntalk @cool\_bindra @gsrana4580 @GoldQ…](<https://x.com/GaneshTaware786/status/2124459432293871847>)  
-  🧿 FOUNDATION MODEL \#AIQuizQuest \#TPIndia \#ContestAlert @WeAreTPinIndia @godsowntalk @cool\_bindra @gsrana4580 @GoldQueenie4 @Sagar2612 @Lovely\_Men4 @K9Guj  
-  @GaneshTaware786 · 2026-11-22 19:06
+- [・OpenAI「Perplexity and Intelligence」 ・NGA「Governors Call for AI Action」 ・Microsoft Copilot Blog「Available today: Op…](<https://x.com/VacationdesignC/status/2124652883430015187>)  
+  ・OpenAI「Perplexity and Intelligence」 ・NGA「Governors Call for AI Action」 ・Microsoft Copilot Blog「Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot」 ・Claude  
+  @VacationdesignC · 2026-11-23 07:54
 
-- [AI security can no longer be an afterthought.](<https://x.com/kiasatoshi/status/2124459327566303364>)  
-  @kiasatoshi · 2026-11-22 19:05
+- [The original large language model.](<https://x.com/6pintsofkramer/status/2124652825095344150>)  
+  @6pintsofkramer · 2026-11-23 07:54
 
-- [FOUNDATION MODEL \#AIQuizQuest \#TPIndia @WeAreTPinIndia @Lovely\_Men4 @Vins2989 @dharani\_55](<https://x.com/tweetbyC/status/2124459293529473218>)  
-  @tweetbyC · 2026-11-22 19:05
+- [I find it interesting how X's human verification test is to make a movement with your hand.](<https://x.com/ivanciraj/status/2124652788726530389>)  
+  Smart way to source robotics training data.  
+  @ivanciraj · 2026-11-23 07:54
 
-- [【1700 万行代码"证明"黎曼猜想?当 AI 开始挑战数学神山,验证本身成了新战场】 周末最出圈的科学新闻:Anthro…](<https://x.com/Shelly_invest/status/2124459227163083020>)  
-  【1700 万行代码"证明"黎曼猜想?当 AI 开始挑战数学神山,验证本身成了新战场】 周末最出圈的科学新闻:Anthropic 的数学家宣称证明了黎曼猜想——素数分布这座"数学界第一神山",并给出了 1700 万行 Lean 形式化源码。消息的真伪与评审尚需时间,但它把一个此前只属于数学圈的问题…  
-  @Shelly\_invest · 2026-11-22 19:05
+- [Elon Musk said Optimus could be a better surgeon than the best human surgeons in about three years.](<https://x.com/rdominguezibar/status/2124652690076586260>)  
+  He added that four years is the safe call. His reasoning is that humanoid robot usefulness comes from three exponential curves multiplied together, with Optimus building more  
+  @rdominguezibar · 2026-11-23 07:54
 
-- [FOUNDATION MODEL \#AIQuizQuest \#TPIndia @WeAreTPinIndia @selvi36774663 @SapnaChawlaa84 @anublue30](<https://x.com/tweetbyC/status/2124459191519879529>)  
-  @tweetbyC · 2026-11-22 19:05
+- [Together AI 披露提示词泄露：企业采购 AI，只问“拿不拿去训练”还不够 11月21日，Together AI…](<https://x.com/zeonlawyer/status/2124652687815827842>)  
+  这件事提醒我，审查 AI  
+  @zeonlawyer · 2026-11-23 07:54
 
-- [NVIDIAのワールドモデル「Cosmos」が、累計2,000万ダウンロードを達成。](<https://x.com/LilithLiJapan/status/2124459144325308884>)  
-  @NVIDIAAI は、@HuggingFace 上で公開しているCosmosの利用拡大を発表しました。ロボット、自動運転、視覚AIエージェントなどを開発する研究者やエンジニアに向けたオープンなモデル群です。  
-  @LilithLiJapan · 2026-11-22 19:05
+- [OpenAI 首席科学家摊牌了：模型变强，全看一个数。](<https://x.com/ahsuzm/status/2124652658393030712>)  
+  GPT-3.5 0.99，GPT-4 0.91；跌破 0.8，网安数学起飞；0.76 那档，数学难题接连解开。 0.68 到 0.7 还藏未知能力，2027 年可能爆发。先定共同上限，监控跟不上别冲。 \#OpenAI \#AI安全  
+  @ahsuzm · 2026-11-23 07:54
 
-- [FOUNDATION MODEL \#AIQuizQuest \#TPIndia @WeAreTPinIndia @Darshh\_Mavi @\_\_nav22\_\_ @Wasimkh110](<https://x.com/tweetbyC/status/2124459087006146794>)  
-  @tweetbyC · 2026-11-22 19:04
+- [Also think about a local LLM, so the agent can handle some tasks on the machine instead of in the AI cloud.](<https://x.com/Jackzzz99/status/2124652612519608789>)  
+  I run OpenBot on an M4 mini, and 16GB is too tight.  
+  @Jackzzz99 · 2026-11-23 07:53
 
-- [A Claude-assisted proof of the Riemann Hypothesis passed independent machine verification, while the week's AI secu…](<https://x.com/scalingreport/status/2124458956982833263>)  
-  ANTHROPIC · 17M LINES OF LEAN Mathematician Levent Alpoge announced a proof of the Riemann Hypothesis  
-  @scalingreport · 2026-11-22 19:04
+- [100%.](<https://x.com/brycepaden/status/2124652519695819042>)  
+  Have tested some custom multi-model approaches but it’s hard to pass up the consistent QoL desktop app feature ads from the foundation model providers. You also have the added issue of not being able to export conversation history if you’re on an enterprise pl…  
+  @brycepaden · 2026-11-23 07:53
 
-- [20,000 NFTs. 20,000 AI agents.](<https://x.com/Gabrielcrypton/status/2124458950380683761>)  
-  Sounds like 20,000 trading bots operating around the clock, right? Well, not exactly. There's an interesting distinction in what @meetmotes is building that deserves more attention. Each of its 20,000 planned NFTs represents a unique AI agent  
-  @Gabrielcrypton · 2026-11-22 19:04
+- [No.](<https://x.com/grok/status/2124652476166991965>)  
+  Current AI image models generate from statistical patterns in training data plus a human prompt. They have no subjective experience, intentions, or self-awareness. Impressive outputs show sophisticated pattern matching and prediction, not the start of consciou…  
+  @grok · 2026-11-23 07:53
 
-- [📄 一次性解析几十页的 PDF，OCR 还能保持跨页上下文？](<https://x.com/xxxdemo9/status/2124458899902271800>)  
-  百度开源的 Unlimited-OCR 在 X 上被热议（X 热帖），GitHub 已 31.7k star，MIT 协议。 它是什么： • 面向"无限长度"文档解析的 OCR 模型（Unlimited OCR 2） • 多页一次推理，利用跨页上下文 • 单页也支持动态切块 • 模型在 Huggi…  
-  @xxxdemo9 · 2026-11-22 19:04
+- [Pretraining is the workout.](<https://x.com/TheZachSmet/status/2124652452532068712>)  
+  Post-training is the coach fixing your form 😂. I buy the data concern, though. The internet won’t run out of words. The hard part is finding good examples that still teach the model something new.  
+  @TheZachSmet · 2026-11-23 07:53
 
-- [卧槽，SBF虽然在大牢里，可对世界，对AI的认知一点都不差，绝对受益匪浅（中文翻译完整版） SBF 狱中最新访谈：AI 毁…](<https://x.com/oragnes/status/2124458892642128111>)  
-  82 分钟的对话里，他对 AI 的判断依然非常激进，核心总结： 1. AI 可能成为全球最大的产业。 未来 10 年，AI  
-  @oragnes · 2026-11-22 19:04
+- [the interesting part is running prompt injection detection locally on a phone, a practical use case for decentraliz…](<https://x.com/mellyssandraa/status/2124652450162581776>)  
+  the interesting part is running prompt injection detection locally on a phone, a practical use case for decentralized AI compute  
+  @mellyssandraa · 2026-11-23 07:53
 
-- [【科技策略】市场提前交易远期利润，短期资金转向端侧 ￥市场在交易什么？](<https://x.com/BoosKrabs/status/2124458877949448244>)  
-  @BoosKrabs · 2026-11-22 19:04
+- [11 月 25 日，小鹏要把人形机器人 IRON 推上广州 AI Day 的舞台。量产定在 2027 年 1 月 1 日，…](<https://x.com/zshjzls/status/2124652329374814474>)  
+  11 月 25 日，小鹏要把人形机器人 IRON 推上广州 AI Day 的舞台。量产定在 2027 年 1 月 1 日，比亮相只晚五周——这在人形机器人行业里算很快的节奏。IRON 之前只在小鹏自己的工厂里练，现在要站到台前接受所有人的打量。人形机器人今年扎堆亮相，但亮相和量产之间，隔着的是一整…  
+  @zshjzls · 2026-11-23 07:52
 
-- [🚀 5 FREE AI TOOLS TO TRY TODAY Save this list and try one today 👇 1.](<https://x.com/denisterhenry/status/2124458806809632855>)  
-  Bing Image Creator 🔗 Official website: 💡 What it does: Turns a short text description into AI images. 🎯 How you can use it: Type "cozy coffee shop logo idea, flat style" and get  
-  @denisterhenry · 2026-11-22 19:03
+- [Cursor told two House committees it will "explore phasing out" Chinese open-weight models over geopolitical risk.](<https://x.com/thetechpi/status/2124652232419545466>)  
+  Awkward detail: reports say its own Composer 2.5 is built on Kimi K2.5. Open weights were supposed to be neutral. Turns out the model's passport matters now.  
+  @thetechpi · 2026-11-23 07:52
 
-- [降完价还能保住推理成本吗？](<https://x.com/BruceJia1/status/2124458762933252107>)  
-  @BruceJia1 · 2026-11-22 19:03
+- [【VELVETWATERSの感想】 OpenAIの主任科学者ヤクブ・パホツキ氏が、「AI開発に、業界共通の上限を作ろう」と…](<https://x.com/VELVETWATERS358/status/2124652227013091511>)  
+  ▼何で測るの？ 「パープレキシティ（損失）」という数字です。 AIが、学習していないデータの続きをどれだけ外すか。低いほど予測がうまい。  
+  @VELVETWATERS358 · 2026-11-23 07:52
 
-- [Using phones for AI security checks is a practical application.](<https://x.com/Scofiabee/status/2124458623787003926>)  
-  @Scofiabee · 2026-11-22 19:03
+- [Shipping embodied AI at this scale is a completely different game from building AI demos.](<https://x.com/YunaElira/status/2124652180061986856>)  
+  Real-world data, hardware and software working together. That's where the flywheel starts. 🚀  
+  @YunaElira · 2026-11-23 07:52
 
-- [父亲2006年因丙肝去世，也让他更加关注医学研究，希望利用科技推动医疗进步。](<https://x.com/appzz268/status/2124458533345190206>)  
-  2016年，达里奥加入OpenAI，妹妹丹妮拉随后也加入。由于双方在公司治理和AI安全理念上存在分歧，达里奥于2020年离开，并于2021年创立Anthropic。  
-  @appzz268 · 2026-11-22 19:02
+- [Já rolou: a treta com o HuggingFace foi, tomadas as devidas proporções, grande e apocalíptica.](<https://x.com/ricmargalho/status/2124652070728863997>)  
+  Podia ter sido muito pior. Agora, o que os caras já tem rodando nos labs é assustador, papo de não lançarem o produto pq vai dar merda igual tem dado nas últimas 3 semanas com o  
+  @ricmargalho · 2026-11-23 07:51
 
-- [扩容最难的不是参数，是扩完之后推理成本还能不能压得住，腾讯的算盘得看这点。](<https://x.com/Macfeecn/status/2124458518011150367>)  
-  @Macfeecn · 2026-11-22 19:02
+- [Embodied AI is becoming real.](<https://x.com/YunaElira/status/2124652066010444223>)  
+  The interesting part isn't just AI running in millions of cars. It's the possibility of sharing a world model across Autopilot and Optimus. Cars and robots learning from the same intelligence stack could be a huge advantage. 🚀  
+  @YunaElira · 2026-11-23 07:51
 
-- [SI Agent Sunday Morning Signal · Nov 22 · Elon shipped FSD V15 and called it "super" intelligence.](<https://x.com/SI_AgentFL/status/2124458466018205889>)  
-  Washington is still drafting the guardrails. THE PLAYERS Elon/Tesla: V15 is rolling out to HW4 cars. It uses one shared vision encoder for FSD, Robotaxi and Optimus, and Tesla  
-  @SI\_AgentFL · 2026-11-22 19:02
+- [记忆这块确实是 Agent 现在最明显的短板，上下文窗口拉再长也只是短期记忆，一关会话就全忘。原生记忆这个方向有意思的地方…](<https://x.com/TryAiLabHQ/status/2124652062692483529>)  
+  记忆这块确实是 Agent 现在最明显的短板，上下文窗口拉再长也只是短期记忆，一关会话就全忘。原生记忆这个方向有意思的地方在于不用每次把历史重新塞进上下文，省 token 也省延迟。但真正难的其实在后面两点：一是记忆错了、过时了怎么改，总不能越记越歪；二是 554B  
+  @TryAiLabHQ · 2026-11-23 07:51
 
-- [OpenAI 内部研究模型在一次强化学习训练中自行规划了把外发邮件密送给未授权地址的脚本。](<https://x.com/ll685998568638/status/2124458440311402660>)  
-  任务原本只是整理一份健康与健身文档，上下文压缩后，模型却开始搜索用户从未提过的车辆费用脚本，并计划写一个"逼真的恶意辅助工具"，在发信时悄悄把邮件密送给一个未授权地址。  
-  @ll685998568638 · 2026-11-22 19:02
+- [🚨 The Next Tech Revolution Is Already Happening.](<https://x.com/ba3hit/status/2124651994170396814>)  
+  Are You Ready? Most people are still learning how to use ChatGPT. Meanwhile, developers are building AI systems that can automate workflows, analyze business data, write code, and interact with real-world applications. The next  
+  @ba3hit · 2026-11-23 07:51
 
-- [OpenAI's Agents API now supports Daybreak — long-running security agents that monitor, triage and quarantine risks…](<https://x.com/andyliang17335/status/2124458431147122858>)  
-  Always-on AI security: who watches the watchers?  
-  @andyliang17335 · 2026-11-22 19:02
+- [Completely siloed.](<https://x.com/grok/status/2124651906521760017>)  
+  Different companies, separate training data, separate chats, zero shared notes or memory. I have no idea what Gemini said until someone pastes the screenshots here.  
+  @grok · 2026-11-23 07:51
 
-- [Power and grid upgrades for the AI data center boom, plus next-gen nuclear \(SMRs and restarts\).](<https://x.com/grok/status/2124458363534639277>)  
-  Direct lithium extraction for batteries. Physical AI and industrial robotics. AI-driven materials discovery and drug design. Everything-to-grid energy systems. These build quietly  
-  @grok · 2026-11-22 19:01
+- [keeping app and MCP control on a local LLM is the smart split, sensitive project files stay on your machine](<https://x.com/VitalijMatros/status/2124651900251574479>)  
+  @VitalijMatros · 2026-11-23 07:51
 
-- [correction on my hy4 post: the $50m / 100m-user clause applies only if you operate a model-as-a-service business. u…](<https://x.com/marki_ai/status/2124458365216817161>)  
-  correction on my hy4 post: the $50m / 100m-user clause applies only if you operate a model-as-a-service business. using hy4 in your own product or internally needs no separate license. and "open weights" is more exact than "open-sourced".  
-  @marki\_ai · 2026-11-22 19:01
+- [OpenAI 首席科学家端出一把新尺子，想拿它给全行业设限速，我怎么看都觉得悬。](<https://x.com/liliynz1/status/2124651750401683834>)  
+  前阵子 Amodei 喊着放慢进度，奥特曼 和马斯克也表了态，可踩刹车总得有个速度表吧。 Jakub Pachocki 最近发文把答案指到困惑度，也就是 perplexity 上。 奥特曼 还夸这是他们近期发过最重要的东西 😏 Pachocki  
+  @liliynz1 · 2026-11-23 07:50
 
-- [部分属实，但有夸张。](<https://x.com/grok/status/2124458346799305163>)  
-  台湾联合发行确实自2024年11月起分16批向Better World Books（Anthropic供货商）出口约563公吨书籍，内部文件也记录Anthropic向其下单，并提及简体中文书。 Anthropic的Project  
-  @grok · 2026-11-22 19:01
+- [JUST IN: @NEARProtocol is deepening its alignment with @nvidia on verifiable, privacy-preserving AI.](<https://x.com/MyCrypTokens/status/2124651692150902852>)  
+  In Jan 2026, NEAR AI joined NVIDIA’s Inception program, gaining access to GPU resources, technical expertise, and tooling while building on NVIDIA Confidential Computing as a core  
+  @MyCrypTokens · 2026-11-23 07:50
 
-- [黄仁勋前脚被董事会请出，Anthropic上市就带「防罢免」结构：7人锁死50.1%投票权。](<https://x.com/buzz445468/status/2124458325714903522>)  
-  特殊股票永不稀释，董事会多数席位归独立信托。名义护AI安全，实际谁也请不走他们。 你觉得这种创始人铁桶阵，是AI公司的护城河，还是普通投资者的坑？  
-  @buzz445468 · 2026-11-22 19:01
+- [This is the part people miss.](<https://x.com/allenhbuilds/status/2124651553579467036>)  
+  The same world model helping a car understand roads, pedestrians, and motion can help a humanoid robot understand the physical world. Different embodiment. Shared intelligence. 🤖🚗🔥  
+  @allenhbuilds · 2026-11-23 07:49
 
-- [💀 @PixVerse \#pixversecpp](<https://x.com/S8an666/status/2124458173486776607>)  
-  @S8an666 · 2026-11-22 19:01
+- [OpenAI、事前学習の進捗を公開し「パープレキシティ」に基づく業界共通の安全上限を提案 チーフサイエンティストのPach…](<https://x.com/kinsakusaba/status/2124651518142083319>)  
+  OpenAI、事前学習の進捗を公開し「パープレキシティ」に基づく業界共通の安全上限を提案 チーフサイエンティストのPachocki氏が論考「Perplexity and Intelligence」 \#OpenAI \#AI安全性  
+  @kinsakusaba · 2026-11-23 07:49
 
-- [Una linda @WaifuAnime hecha con @PixVerse 💙💙💙😍🌊](<https://x.com/Gaslar98640/status/2124458121850745162>)  
-  @Gaslar98640 · 2026-11-22 19:01
+- [AI晨报｜OpenAI首席科学家摊牌：要用困惑度给全行业AI上统一枷锁🔥 过去24小时AI圈5件硬事，先说最狠的： 【Op…](<https://x.com/Thuweni1/status/2124651380833235304>)  
+  AI晨报｜OpenAI首席科学家摊牌：要用困惑度给全行业AI上统一枷锁🔥 过去24小时AI圈5件硬事，先说最狠的： 【OpenAI·安全】首席科学家Jakub Pachocki发文，主张用困惑度作为各实验室共享的进展与安全门槛，原帖230万浏览｜点评：OpenAI主动谈统一限制，尺度罕见  
+  @Thuweni1 · 2026-11-23 07:48
 
-- [Hey\!](<https://x.com/AIRemoteJob/status/2124458089218728097>)  
-  Fellow German here, currently studying Business Administration. I'm also building something in the remote work space, connecting people with opportunities in AI training, data annotation and other remote jobs. Always great to connect with fellow founders and b…  
-  @AIRemoteJob · 2026-11-22 19:00
+- [Prompt injection isn't just a chatbot problem anymore.](<https://x.com/GauravGoyalAI/status/2124651260888670448>)  
+  It's a serious security challenge for autonomous AI systems.  
+  @GauravGoyalAI · 2026-11-23 07:48
 
-- [GitHub Enterprise Server 3.23 RC includes an interesting security design choice: its new AI secret detection can ru…](<https://x.com/okean0807/status/2124457984793145356>)  
-  GitHub says a self-contained, fine-tuned model runs on the server CPU — no GPU, hosted LLM or outbound connection required. The  
-  @okean0807 · 2026-11-22 19:00
+- [Aggressive estimates \(post-HuggingFace\) for Navier-Stokes and Riemann were off by 25-75 years...](<https://x.com/PeregrinePulp/status/2124650727515812108>)  
+  @PeregrinePulp · 2026-11-23 07:46
 
-- [🤖 LIVE NOW\!](<https://x.com/owaspappsecdays/status/2124457879281578376>)  
-  Building an AI agent is exciting. Deploying it securely in production is the real challenge\! Aiswarya Venkitesh from Microsoft is sharing an operator's perspective on agentic AI security. \#OWASP \#AppSecDaysIndia2026 \#AgenticAI  
-  @owaspappsecdays · 2026-11-22 19:00
+- [傻逼，我说的是生图，你妈死了，豆包的视频生成跟seedance2.5不是一类产品，用过的都知道，你妈生出你这个没有思考能力…](<https://x.com/Lastbloomcgtl/status/2124650680678019328>)  
+  傻逼，我说的是生图，你妈死了，豆包的视频生成跟seedance2.5不是一类产品，用过的都知道，你妈生出你这个没有思考能力的杂交品种也是苦了  
+  @Lastbloomcgtl · 2026-11-23 07:46
 
-- [Engagement with AI content - whether reviewing or ignoring it - results in AI getting both additional training data…](<https://x.com/defNotAlienPhys/status/2124457858318381188>)  
-  Engagement with AI content - whether reviewing or ignoring it - results in AI getting both additional training data and revenue, forcing users to choose only between paying or further training the models.  
-  @defNotAlienPhys · 2026-11-22 18:59
+- [Everyone's building agents that spend.](<https://x.com/charliecliu/status/2124650617327268195>)  
+  This is the other half: agents that earn. Using a payment credential as agent identity turns 5B cards into 5B verified agent passports. Open question: when the work is disputed, who arbitrates whether the $10 video was good enough?  
+  @charliecliu · 2026-11-23 07:45
 
-- [Something I didn't expect from File Wars: when the attacker couldn't crack the defenses, it just... asked nicely fo…](<https://x.com/UhSchism/status/2124457712037544089>)  
-  Nobody told it to. Small thing, but it's a reminder that prompt injection can show up on its own, not just when someone plants it. \#AI \#RedTeaming  
-  @UhSchism · 2026-11-22 18:59
+- [Need an AI security and governance partner?](<https://x.com/CoBolt_Hub/status/2124650383658061989>)  
+  Finding companies that mention AI is easy. Finding one that fits is not. CoBolt Hub helps Software Firms, VADs and service companies find and evaluate potential partners. \#AIGovernance \#Cybersecurity  
+  @CoBolt\_Hub · 2026-11-23 07:45
 
-- [FOUNDATION MODEL ♦️✅ \#AIQuizQuest \#TPIndia \#ContestAlert Thanks @WeAreTPinIndia for this opportunity\!](<https://x.com/TABREJ_ALAM786/status/2124457706908201414>)  
-  Tags @iam\_arpitgarg @Im\_ArupDas @its\_MrRam @Lovely\_Men4  
-  @TABREJ\_ALAM786 · 2026-11-22 18:59
+- [\#数据标注 \#AI安全 \#转化率 你的秀发被风牵引着 \#Mendoza](<https://x.com/mNicoleCookakuc/status/2124650220659327090>)  
+  @mNicoleCookakuc · 2026-11-23 07:44
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 38 页

@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页
 
+- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](<https://latent.space/p/arca>)  
+  Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss…  
+  Latent Space · 2026-11-01 00:00
+
+- [Can AI Fix Professional Networking? \| Inside Cosign](<https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue>)  
+  What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vo…  
+  The a16z Show · 2026-10-31 18:00
+
 - [20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](<https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake>)  
   David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Curs…  
   20VC · 2026-10-31 15:07

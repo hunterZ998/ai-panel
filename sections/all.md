@@ -1,170 +1,163 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 12 页
+[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 14 页
 
-完整公开资讯，共 527 条。
+完整公开资讯，共 586 条。
 
-- [OpenAI 首席科学家 Jakub Pachocki 提议以 perplexity 作为限制 AI 发展速度的度量](<https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/>)  
-  OpenAI 首席科学家 Jakub Pachocki 发文提议以 perplexity 作为衡量 AI 进展的共同基准，用于在企业间建立发展速度的共同限制。  
-  TechCrunch：AI（RSS） · 2026-11-23 05:14
+- [AI能“望闻问切”了？蚂蚁阿福放大招，小毛病在家就搞定](<https://www.163.com/dy/article/LCDOECVI051492LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:34
 
-- [大模型竞赛进入AI4S深水区，“沪牌”模型在密码学领域取得重要突破](<https://www.163.com/dy/article/LCD5RF8L055040N3.html>)  
-  网易科技频道 · 网易号 · 2026-11-23 05:09
+- [马斯克警告AI行业明年面临严重资金紧缺；机构称PCB严重短缺](<https://www.163.com/dy/article/LCDOC8K505199NPP.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:33
 
-- [OpenAI Calls For Leading AI Firms to Agree on AI Development Limits](<https://www.theinformation.com/briefings/openai-calls-leading-ai-firms-agree-ai-development-limits>)  
-  The Information · 2026-11-23 05:08
+- [位置相对较低&amp;Optimus迎新催化！物理AI逆势拉升](<https://www.163.com/dy/article/LCDOC8H105199NPP.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:33
 
-- [Opinion \| America Hits the Brakes on AI](<https://www.wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-23 04:47
+- [中国智驾开进巴黎街头！小鹏图灵AI智驾率先开放欧洲公众体验](<https://www.163.com/dy/article/LCDO5NI00511CPVM.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:29
 
-- [OpenAI Chief Scientist Urges Industry Limits on AI Development](<https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development>)  
-  Bloomberg · 2026-11-23 03:40
+- [豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班](<https://www.163.com/dy/article/LCDO01P90511DSSR.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:29
 
-- [NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor](<https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/>)  
-  NVIDIA 发布 2B 级推理视觉-语言-动作模型 Alpamayo 2 Edge，可在车内 DRIVE AGX Thor 上做轨迹规划与因果解释，采用 OpenMDW-1.1 许可开源权重。  
-  MarkTechPost（RSS） · 2026-11-23 02:37
+- [刚刚，OpenAI首次公开预训练核心指标](<https://www.163.com/dy/article/LCDNQLU70511AQHO.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:27
 
-- [Gary Marcus 评 Levent Alpöge 借助 Claude 证明黎曼猜想：不是 AI 独立完成，也难以泛化](<https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann>)  
-  Gary Marcus 分析 Levent Alpöge 在 Claude 协助下疑似证明黎曼猜想一事，指出并非 AI 独立完成，而是这位数学家数月深度协作的成果。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-23 02:37
+- [蚂蚁阿福接入UpToDate，医疗AI开始告别简单问答](<https://www.163.com/dy/article/LCDNVE2T051100B9.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:26
 
-- [TechCrunch 访谈《Hyperscale》作者 Paris Marx：数据中心为何成为反科技浪潮的焦点](<https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>)  
-  TechCrunch 访谈记者 Paris Marx，谈其新书《Hyperscale》调查数据中心与生成式 AI 的社会影响。  
-  TechCrunch：AI（RSS） · 2026-11-23 02:08
+- [90后西交大博士，冲刺港交所“移动操作机器人第一股”](<https://www.163.com/dy/article/LCDNOVK405199NPP.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:22
 
-- [《以撒的结合：Repentance Plus》因 AI 音乐被发现后遭差评轰炸，Nicalis 已移除相关文件](<https://www.theverge.com/games/1039770/binding-of-isaac-ai-music>)  
-  《以撒的结合：Repentance Plus》被发现某段 GTA 主题内容使用 AI 生成音乐后在 Steam 遭差评轰炸。Reddit 用户 ShweetsStuff 找到带 Suno 元数据的音频文件，作者 Edmund McMillen 在 X 上道歉，称自己不知情；发行方 Nicalis 数小时内更新游戏并移除了生成的音乐文件。  
-  The Verge：AI（RSS） · 2026-11-23 01:25
+- [马斯克的AI雄心驶入下一程\! 特斯拉\(TSLA.US\)FSD升级视觉感知与驾驶界面，能](<https://www.163.com/dy/article/LCDNO92G05198UNI.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:22
 
-- [PPT拿奖、大厂蹭量、投资人白嫖：AI黑客松快被搞臭了](<https://www.163.com/dy/article/LCCKMJ4L051196HN.html>)  
-  网易科技频道 · 网易号 · 2026-11-23 00:10
+- [Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修](<https://36kr.com/p/4080304280130436?f=rss>)  
+  系统崩了，工程师们紧急开会。照理说，这时候最该有人站出来，指出故障发生在哪一层、哪段代码出了问题、系统该怎么恢复。但会议室里，竟然没有一个人说得清楚。 所有人都在做同一件事：向 Claude 提问。 这可不是哪个程序员编出来的黑色幽默。这是  
+  36氪 · 2026-11-23 10:19
 
-- [马斯克称AI行业明年或面临严重资金短缺，B站就“大肥鱼”泛滥征求意见，多](<https://www.163.com/dy/article/LCCKLBMJ051196HN.html>)  
-  网易科技频道 · 网易号 · 2026-11-23 00:09
+- [桌宠又火了，网友用 AI 开始自己造软件](<https://36kr.com/p/4079629228823686?f=rss>)  
+  前段时间，果子刷到了一个很有意思的东西，叫“上班鼓励器”，差不多就是这样： 顾名思义，它的作用就是鼓励自己上班，除了关键的一天上班赚了多少钱，路虎碎片集齐了多少之外，还能显示距离下班还有多长时间，工时进度。 如今的牛马为了好好当牛马，还要自  
+  36氪 · 2026-11-23 10:17
 
-- [What Comes Next After Anthropic’s Historic IPO](<https://www.wsj.com/tech/ai/what-comes-next-after-anthropics-historic-ipo-464368c1?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-22 23:55
+- [广西百色：“AI+气象”助力提升防灾减灾质效](<https://www.163.com/dy/article/LCDNDBAG05346RC6.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:16
 
-- [美国初创企业公布AI自研CPU架构Frostbite，能效是传统处理器的4.59倍](<https://www.163.com/dy/article/LCCI73NF0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 23:26
+- [广西百色：“AI+气象”助力提升防灾减灾质效](<https://www.163.com/dy/article/LCDNB96Q05346RC6.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:15
 
-- [美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍](<https://www.ithome.com/1/030/717.htm>)  
-  IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令…  
-  IT之家 · 2026-11-22 23:15
+- [以前被手机难住的爸妈，现在开始用AI“夺回一切”](<https://www.163.com/dy/article/LCDN6I8T05118OGM.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:12
 
-- [新实验：AI 编码智能体在模拟软件公司中完成不到十分之一的任务](<https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/>)  
-  一项新实验首次让 AI 编码智能体在模拟软件公司中作为数字员工工作，环境包含同事、项目看板和聊天记录。结果显示即使 Claude Opus 5.5 和 GPT-6 Astra 也只完整完成不到十分之一的任务，而 SWE-bench 等标准基准已接近饱和。  
-  The Decoder：AI News（RSS） · 2026-11-22 23:15
+- [微亿智造港交所公开招股](<https://www.itjuzi.com/pre-ipo?comname=%E5%BE%AE%E4%BA%BF%E6%99%BA%E9%80%A0>)  
+  微亿智造是一家工业具身智能机器人公司，致力于提供开箱即用、高度柔性且具备卓越智能水平的工业具身智能机器人（EIIR）产品及解决方案。通过自研的全栈式软硬件系统及全面的系统工程能力，成功开发能自主感知、学习、决策并执行复杂任务的EIIR…  
+  IT桔子 · 2026-11-23 10:12
 
-- [How AI is Accelerating Cyberattacks](<https://www.bloomberg.com/news/videos/2026-11-22/how-ai-is-accelerating-cyberattacks-video>)  
-  Bloomberg · 2026-11-22 23:03
+- [傅利叶：深耕康养场景，推动智能机器人技术全球落地](<https://www.163.com/dy/article/LCDN3RK60514R9OJ.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:11
 
-- [Apple’s AI Agent War, Early 2027 Product Plans and iPhone Duo Face Unlock Review](<https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review>)  
-  Bloomberg · 2026-11-22 23:00
+- [Anthropic万亿上市，搅动的却是半导体江湖](<https://36kr.com/p/4080353019909248?f=rss>)  
+  11月19日，人工智能大模型公司Anthropic正式在纳斯达克挂牌，股票代码“ANT”。 此次IPO最终以每股83美元定价，高于此前70美元至78美元的推介区间，基础发行9.8亿股，募资约813.4亿美元，超过SpaceX今年6月创下的全  
+  36氪 · 2026-11-23 10:09
 
-- [Oracle：已确保履行与OpenAI合同全部所需资金](<https://www.163.com/dy/article/LCCFQ36L0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 22:44
+- [AI 都能生成一切了，GTA6 还在认真手搓每一坨狗屎](<https://36kr.com/p/4080292972909441?f=rss>)  
+  不知道你们有没有“GTA假”哈，反正我是通宵硬肝硬来着。 距离上一代发售，已经过去了整整13年。业内普遍估算，GTA6 是史上制作成本最高的电子游戏，具体数字不可知。R星（开发商 Rockstar）只是谦虚地说，hài！赶不上迪拜哈利法塔的  
+  36氪 · 2026-11-23 10:05
 
-- [从图像生成到真实分享，AI如何改变艺术创作与收藏？](<https://www.163.com/dy/article/LCCF5QSQ05129QAF.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 22:33
+- [四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外](<https://www.163.com/dy/article/LCDMN7KD0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:04
 
-- [MiniMax宣布大模型破解多项密码学前沿方案](<https://www.163.com/dy/article/LCCEPF2F0519DFFO.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 22:26
+- [韩国防 AI 作弊新招：要求考生穿围裙考试、时隔 6 年重新收缴手机](<https://www.ithome.com/1/030/770.htm>)  
+  IT之家 11 月 23 日消息，据韩媒报道，韩国第 28 届警卫指导师考试前日开考。据考生所述，本次考试加强了作弊防范力度，去年只要求将手机和手表放在包里，今年全部收走。 考场还要求考生穿上餐馆使用的一次性围裙 ，各处都悬挂着禁止作…  
+  IT之家 · 2026-11-23 10:02
 
-- [Oracle：已确保履行与 OpenAI 合同全部所需资金](<https://www.ithome.com/1/030/715.htm>)  
-  IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ Abilene Oracle…  
-  IT之家 · 2026-11-22 22:24
+- [AI芯片企业呼吁韩国构建本土内存供应链](<https://www.163.com/dy/article/LCDMJI210550WHYR.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:02
 
-- [Perplexity 发布 Monitor API，把网页搜索变成持续监控的看门程序](<https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/>)  
-  Perplexity 推出 Monitor API，按计划持续监控网页并在相关变化出现时通过 webhook 唤醒应用和智能体。  
-  The Decoder：AI News（RSS） · 2026-11-22 22:20
+- [元触万物完成数千万元天使轮融资](<https://www.itjuzi.com/investevent/14703117>)  
+  元触万物成立于2026年，专注于机器人柔性电子皮肤与触觉智能系统，致力于为灵巧手、具身智能和工业机器人，提供高密度、低功耗、可规模化部署的触觉感知能力。近日，元触万物完成数千万元天使轮融资，由零一创投、无限基金、智平方、星连资本、松延…  
+  IT桔子 · 2026-11-23 10:01
 
-- [签约后也能涨价：消息称AI服务器厂商交付前提价，涨幅最高达45%](<https://www.163.com/dy/article/LCCE33PU0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 22:14
+- [四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品](<https://www.ithome.com/1/030/769.htm>)  
+  IT之家 11 月 23 日消息，今日，发改委等四部门印发《“一老一小”服务体系建设实施方案》。 其中提到，支持养老、托育机构应用智能管理服务、智慧消防安防等系统，提升管理水平。推动养老机构配置智能健康监测、辅助器具等设备。 鼓励发展…  
+  IT之家 · 2026-11-23 10:01
 
-- [从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？](<https://www.tmtpost.com/8214129.html>)  
-  领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。  
-  钛媒体 · 2026-11-22 22:09
+- [九州星核获得数亿人民币天使轮融资](<https://www.itjuzi.com/investevent/14708405>)  
+  九州星核专注于超临界 CO₂ 直接循环微型核裂变产品研发，致力于构建面向人工智能时代的新一代分布式能源基础设施。近日，九州星核获得数亿人民币天使轮融资，天鹰资本投资。  
+  IT桔子 · 2026-11-23 10:01
 
-- [签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%](<https://www.ithome.com/1/030/713.htm>)  
-  IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微…  
-  IT之家 · 2026-11-22 22:00
+- [马斯克预警：AI企业明年或将面临严重资金短缺](<https://www.163.com/dy/article/LCDMGVAT0519U3I5.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:00
 
-- [马斯克警告AI行业明年或面临严重资金短缺](<https://www.163.com/dy/article/LCCCTHEC055040N3.html>)  
-  网易科技频道 · 网易号 · 2026-11-22 21:53
+- [杨建初：AI的生态账，美国科技巨头们还想赖到几时？](<https://www.163.com/dy/article/LCDMG0D4051481US.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:00
 
-- [Behind the Curtain — AI 2027: The reckoning](<https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning>)  
-  We've talked to more than 50 leaders in government, AI, business and cyber — from let-'er-rip AI accelerationists to…  
-  Axios · 2026-11-22 21:36
+- [Claude证明黎曼假设“大反转”：论证无效，只是空转？](<https://www.163.com/dy/article/LCDLU48R05198NMR.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 10:00
 
-- [MiniMax公布AI4S研究成果：内部模型攻破多项密码学挑战](<https://www.163.com/tech/article/LCCBS5HG00099F4I.html>)  
-  网易科技 · 2026-11-22 21:35
+- [The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the Economy](<https://www.wsj.com/tech/ai/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-13143007?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-23 10:00
 
-- [美国扩大芯片管制、DeepSeek 融资股权结构曝光、腾讯 AI 投入成本揭晓](<https://www.recodechinaai.com/p/new-chip-restrictions-deepseeks-funding>)  
-  美国将芯片出口管制扩展至海外数据中心租用算力，新规11月19日生效，并收紧对芯片制造与封装的要求。DeepSeek 本轮融资约 RMB105.5 亿、投后估值约 RMB615.5 亿，杭州辰岩成为运营公司股东。腾讯第三季度营收约 RMB207.3 亿、同比增长 8%，资本开支 RMB81.4 亿，WorkBuddy 日活超 1000 万、日均消耗超 100 万亿 tokens。  
-  Recode China AI（RSS） · 2026-11-22 21:33
+- [四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备等新](<https://www.163.com/dy/article/LCDMDE5K0550WHYR.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 09:58
 
-- [MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录](<https://www.ithome.com/1/030/711.htm>)  
-  IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本…  
-  IT之家 · 2026-11-22 21:23
+- [微软CEO纳德拉：Claude Code 崛起，VS Code 遭遇 AI 时代新挑战](<https://www.163.com/dy/article/LCDMCF5D0514R9OJ.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 09:58
 
-- [MiniMax 内部模型攻破多个 NIST 候选算法与顶会密码方案，刷新破解纪录](<https://mp.weixin.qq.com/s/L81hPMQ66ddC260HwgePXw>)  
-  MiniMax 研究团队用最新内部模型对现代密码方案开展自动化密码分析，首次实际攻破多个 NIST 竞赛中尚无已知实用攻击的候选算法。  
-  公众号：MiniMax（稀宇科技） · 2026-11-22 21:06
+- [赵本山“慌啥子嘛”冲上热搜，为什么让网友红了眼眶？](<https://36kr.com/p/4081647702119300?f=rss>)  
+  近日，69岁的赵本山凭一首《慌啥子嘛》冲上热搜，刷屏一周多，热度至今未退。 这首歌原是“困困羊”作词作曲、“村口吴老二”首唱的方言小曲。起初，有人用AI合成赵本山的声线翻唱，不少人误以为本尊真的开嗓；没想到他真的回应网友点歌，联系原作者买下  
+  36氪 · 2026-11-23 09:58
 
-- [METR 警告 AI 能力提升快于专家可靠评估新系统安全性的速度](<https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/>)  
-  AI 研究机构 METR 发布 2026 年 11 月 AI 能力测量更新，警告现有公开数据不足以排除未来几年 AI 研究急剧加速的可能，可能使人类无法有效理解和应对新 AI 系统的灾难性风险。  
-  The Decoder：AI News（RSS） · 2026-11-22 21:00
+- [全球首次，DeepSeek与FlashAttention的多个生产级AI算子获得形式化验证](<https://36kr.com/p/4081655709406336?f=rss>)  
+  2025 年 8 月，一些 Claude 用户遇到了一件怪事。 明明用英语提问，回答里却突然冒出泰文；让它写代码，生成的程序里又出现了明显的语法错误。对遇到问题的用户来说，大模型就像突然「失控」了。 Anthropic 后来在复盘中解释，一  
+  36氪 · 2026-11-23 09:56
 
-- [Governors Call for Federal AI Rules Without Sidelining States](<https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states>)  
-  Bloomberg · 2026-11-22 21:00
+- [华晟智能今日上市 发行价格23.52元/股](<https://www.itjuzi.com/investevent/14708400>)  
+  华晟智能是一家智能制造整体解决方案提供商，公司以工业互联网为标准，致力于为全行业提供全面的“智能制造”一体化解决方案。其业务集系统集成和智能装备研发、设计、生产、制造、销售、服务于一体。围绕智能装备系统自行研制开发了应用于自动化立体仓…  
+  IT桔子 · 2026-11-23 09:52
 
-- [The Verge：vibe coding 正席卷各类硬件改装](<https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera>)  
-  David Pierce 在 The Stepback 专栏中梳理 vibe coding 改装硬件的趋势：只需提示 Claude Code 或 Codex，非开发者也能给电视去广告、给相机加固件功能、给游戏机加特性。印度开发者 Gathin 的 CleanYourTV 成为 GitHub 热门仓库；行业则以更强 DRM 和法律手段反制，作者建议只在可承受损失的设备上尝试并勤做备份。  
-  The Verge：AI（RSS） · 2026-11-22 21:00
+- [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](<https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/>)  
+  Three significant backers share what gave them conviction to bet billions on Anthropic.  
+  TechCrunch · 2026-11-23 09:25
 
-- [WISE2026「年度企业系列名册」正式发布丨成为自己的时代](<https://36kr.com/p/4080920403743624?f=rss>)  
-  “你要成为你自己。” 尼采在《快乐的科学》中写下这句话。对于一家企业，“成为自己”也需要时间。名字可以在创办之初确定，它所代表的东西，要由此后许多年的选择慢慢写成。 2026年，AI与硬科技正在重塑中国商业的版图。今年的年度企业系列名册中，  
-  36氪 · 2026-11-22 20:53
+- [AI应用月活设备达8.35亿台，使用时长与频次却双双回落](<https://36kr.com/p/4081592819209088?f=rss>)  
+  摘要 2026年9月，中国移动互联网人工智能赛道月独立设备数达到8.35亿台，同比增长54.4%，但单机单日有效时长和使用频次却分别同比下降约18%和13%。AI应用从尝鲜走向大众化，用户规模持续扩大，但新增用户以浅度试用为主，高频使用习惯  
+  36氪 · 2026-11-23 09:21
 
-- [IntelliProve获得270万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708393>)  
-  IntelliProve是一家非接触式健康传感软件解决方案供应商，基于远程光电容积脉搏波（rPPG）自研算法，提供可嵌入 SDK，仅通过普通摄像头 30 秒人脸扫描，无袖带、无穿戴设备即可检测心率、HRV、呼吸、血压等生命体征，面向远…  
-  IT桔子 · 2026-11-22 20:21
+- [中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎](<https://www.ithome.com/1/030/755.htm>)  
+  IT之家 11 月 23 日消息，小鹏汽车今天宣布，小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎。 小鹏宣称，他们是全球唯二、中国首家在海外门店开放城区高阶智驾公众体验的车企。 据IT之家此前援引彭博社消息 ，在巴黎车展前夕…  
+  IT之家 · 2026-11-23 09:20
 
-- [Wilgot获得300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708392>)  
-  Wilgot是一家AI营销助手服务商，自研 Agentic Product Optimisation（APO）智能体产品优化平台，基于品牌评论、客服、退换货等一方数据，生成适配 AI 购物助手理解的结构化商品内容，助力品牌在 Chat…  
-  IT桔子 · 2026-11-22 20:17
+- [小米汽车广州车展发布会官宣，李肖爽和大家聊聊澎程 N70](<https://www.ithome.com/1/030/751.htm>)  
+  IT之家 11 月 23 日消息，小米汽车今日官宣，小米汽车广州车展发布会定档 11 月 27 日早 9 点 ，小米汽车副总裁李肖爽和大家好好聊聊澎程 N70。 小米汽车表示，刚刚过去的 10 月，N70 荣获中大型 SUV、增程车型…  
+  IT之家 · 2026-11-23 09:13
 
-- [Origin Frame获得Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708391>)  
-  Origin Frame是一家动漫风格3D角色AI创作平台提供商，自研发丝专项 AI 模型 KamiOri 与 AI 智能体创作工具 Origin Frame Studio，一站式完成日系动漫 3D 角色生成、表情、动作、语音人设设定…  
-  IT桔子 · 2026-11-22 20:11
+- [Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff](<https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff>)  
+  Bloomberg · 2026-11-23 09:02
 
-- [Dragos研究揭示低价AI推理服务商窃取密钥并窥探用户请求](<https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/>)  
-  Dragos安全研究人员在2026年7月至11月期间向AI服务商发送约200万条含假凭证的请求，发现至少三家服务商遭入侵，攻击者窃取数百个AWS密钥并在数小时内试用、搜索S3存储，部分攻击者还使用了AI攻击工具ARTEX。研究还发现，部分市场转售商无需利用漏洞即可读取客户请求，仅需以最低价上架模型并开启日志记录。隐私设置如“零数据保留”（ZDR）常被忽视。OpenRouter随后从平台移除三家服务商并撤销125个端点的ZDR批准，同时邮件通知受影响用户。受影响服务商包括Novita、Phala和Together，已…  
-  The Decoder：AI News（RSS） · 2026-11-22 20:07
+- [微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议](<https://www.ithome.com/1/030/745.htm>)  
+  IT之家 11 月 23 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）今天在 X 平台表示，他完全支持 OpenAI 提高透明度的倡议。 苏莱曼表示， AI 业界所有人都是为了打造安全 、 真正有…  
+  IT之家 · 2026-11-23 09:00
 
-- [B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见](<https://www.ithome.com/1/030/702.htm>)  
-  IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于…  
-  IT之家 · 2026-11-22 19:44
+- [190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](<https://podcast.latepost.com/190>)  
+  「如果世界只剩一个前台，那是悲哀的。」 今年 9 月以来，Instinct、Muse 等 Personal Agent（个人 AI 助理）产品陆续爆火，一度被生产力主流淹没的 AI to C 领域再起变化。10 月 27 日，蚂蚁灵光…  
+  晚点聊 · 2026-11-23 09:00
 
-- [开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI](<https://www.ithome.com/1/030/699.htm>)  
-  IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。 不过需要说明的是，WollyM…  
-  IT之家 · 2026-11-22 19:24
+- [Edge AI Daily 早报（11月23日）](<https://www.tmtpost.com/8214195.html>)  
+  英伟达季度营收1158亿美元、下季指引1300亿美元，市场焦点转向基建支出能否转化为可量化回报；Anthropic完成IPO募资约916亿美元，却背负约9009亿美元算力采购承诺，成本刚性与收入弹性错配待解；甲骨文筹足OpenAI合同…  
+  钛媒体 · 2026-11-23 08:48
 
-- [纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹](<https://www.ithome.com/1/030/696.htm>)  
-  IT之家 11 月 22 日消息，纽约音乐厅 Domino 计划于明年开业，试图重新唤起威廉斯堡（Williamsburg）曾经的复古嬉皮士文化氛围。然而，其官方网站上出现的一系列 AI 生成错误，却充满了 2026 年的时代特色。…  
-  IT之家 · 2026-11-22 19:13
+- [跟随马化腾、雷军各十年的老将，45岁创业，微信创始人、黎万强投了](<https://36kr.com/p/4081584798012294?f=rss>)  
+  他认为现在自己在做一个新物种。 一个做“咖啡机器人”的CEO，每天被投资人盯着更新短视频——这是今年影智XBOT创始人、CEO唐沐的常态。每天拍一条视频，是唐沐现在的KPI，也是天使投资人黎万强要求的，“唐沐这么好的IP，不好好利用不行。”  
+  36氪 · 2026-11-23 08:47
 
-- [Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确](<https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/>)  
-  Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。  
-  The Decoder：AI News（RSS） · 2026-11-22 19:08
+- [AI Investment Adding to Inflation: Jain](<https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video>)  
+  Bloomberg · 2026-11-23 08:41
 
-- [拆解大厂财报：谁最舍得为AI花钱？](<https://www.tmtpost.com/8212870.html>)  
-  四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。  
-  钛媒体 · 2026-11-22 19:05
+- [AI游戏冰火两重天：有人三天卖出10万份，有人上线一个月无人问津](<https://36kr.com/p/4081600709170312?f=rss>)  
+  AI工具的应用正在 催生一批新的个人游戏开发者，不过，游戏做出来之后， 故事却未必如想象中美好。 近日，Mobilegamer.biz采访了多位使用AI工具制作游戏的个人开发者，询问他们的实际下载量与收入。结果发现，不少游戏上线一个月，下载  
+  36氪 · 2026-11-23 08:34
 
-- [闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力](<https://www.ithome.com/1/030/692.htm>)  
-  IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今…  
-  IT之家 · 2026-11-22 18:54
+- [英伟达上周五大跌14%，AI板块迎来重新定价](<https://www.163.com/dy/article/LCDH0MPS05199NPP.html>)  
+  网易科技频道 · 网易号 · 2026-11-23 08:24
 
-[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 12 页
+[返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 14 页

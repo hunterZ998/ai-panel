@@ -20,17 +20,7 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 6 条
-
-- [大模型竞赛进入AI4S深水区，“沪牌”模型在密码学领域取得重要突破](<https://www.163.com/dy/article/LCD5RF8L055040N3.html>)  
-  网易科技频道 · 网易号 · 2026-11-23 05:09
-
-- [MiniMax公布AI4S研究成果：内部模型攻破多项密码学挑战](<https://www.163.com/tech/article/LCCBS5HG00099F4I.html>)  
-  网易科技 · 2026-11-22 21:35
-
-- [Boltz获得1.1亿美元A轮融资](<https://www.itjuzi.com/investevent/14708280>)  
-  Boltz是一家AI 生物医药研发商，依托开源生物分子基础模型 Boltz-1、Boltz-2 与 BoltzGen，打造覆盖结构预测、结合亲和力估算、小分子与蛋白从头设计的药物发现平台，商业化产品包括 BoltzMol-1 小分子设…  
-  IT桔子 · 2026-11-19 16:18
+## 相关资讯 · 3 条
 
 - [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
   Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  

@@ -38,6 +38,10 @@
   S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
   Product Hunt 中文 · DecoHack · 2026-11-19 15:00
 
+- [Volcano](<https://www.producthunt.com/products/volcano-3>)  
+  The self-healing agent cloud by Kong  
+  Product Hunt · English · 2026-11-19 14:11
+
 - [Publicit](<https://www.producthunt.com/products/publicit>)  
   Omnichannel ad infrastructure for marketers and AI agents  
   Product Hunt · English · 2026-11-18 23:19
@@ -45,6 +49,10 @@
 - [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
   RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
   Product Hunt 中文 · DecoHack · 2026-11-18 15:00
+
+- [Storiara](<https://www.producthunt.com/products/storiara>)  
+  AI producers that find real savings in your film budget  
+  Product Hunt · English · 2026-11-18 04:02
 
 - [Ulika](<https://www.producthunt.com/products/ulika>)  
   Visual editor for sites built with Claude, Cursor, or Codex  
