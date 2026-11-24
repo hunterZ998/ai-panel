@@ -20,7 +20,15 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 3 条
+## 相关资讯 · 5 条
+
+- [平均03年初创团队攻坚 AI4S行业痛点：以物理推演破解科学幻觉难题](<https://36kr.com/p/4075502662816645?f=rss>)  
+  AI for Science赛道热度持续走高，在这波浪潮里，一支平均出生于 2003 年的初创团队走进了视野，队伍里年纪最小的成员出生于 2005 年。 他们盯上的，是 AI4S 行业绕不开的普遍痛点：模型生成能力不断指数级增加，却存在生成  
+  36氪 · 2026-11-24 13:25
+
+- [Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？](<https://www.tmtpost.com/8215303.html>)  
+  入局AI4S，功夫其实在AI之外的部分。  
+  钛媒体 · 2026-11-24 12:37
 
 - [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
   Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  

@@ -1,184 +1,172 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 14 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 13 页
 
-- [《生化危机》之父三上真司：希望 AI 彻底消失](<https://www.ithome.com/1/031/204.htm>)  
-  IT之家 11 月 23 日消息，今年 3 月底，《生化危机》和《恐龙危机》系列导演三上真司（Shinji Mikami）正式宣布，其创立的游戏工作室 Unbound 已与《剑星》开发商 Shift Up 达成合作，将共同发行他的下一…  
-  IT之家 · 2026-11-23 21:27
+- [蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎向全球开源](<https://www.ithome.com/1/031/365.htm>)  
+  IT之家 11 月 24 日现场消息，蚂蚁 OceanBase AI 数据大会今日（11 月 24 日）在北京召开。 OceanBase CEO 杨冰在会上表示，当模型越来越先进，Agent 基建越来越成熟，挑战终将回归数据。面向这一…  
+  IT之家 · 2026-11-24 11:35
 
-- [打败字节猫箱，Tipsy率先盈利，AI陪伴产品杀疯了](<https://36kr.com/p/4082241709134977?f=rss>)  
-  当整个市场都在质疑“AI应用为大模型打工”时，AI陪伴产品们给了行业带来了希望。 一款名为Tipsy Chat的AI陪伴产品在快速崛起，最疯狂的时候，App单月下载环比增加991.55%。这款由字节跳动、阿里前员工于2024年创业，做出来的  
-  36氪 · 2026-11-23 21:16
+- [达索系统发布 SOLIDWORKS 2027，三大 AI 助手亮相](<https://www.163.com/tech/article/LCGE5B0300098IEO.html>)  
+  网易科技 · 2026-11-24 11:32
 
-- [儿童权益保护组织喊话亚马逊、eBay：别卖 AI 玩具了](<https://www.ithome.com/1/031/203.htm>)  
-  IT之家 11 月 23 日消息，由 155 家儿童权益保护组织组成的联盟近日向亚马逊和 eBay 首席执行官发出公开信，呼吁两家电商平台停止销售搭载人工智能技术的玩具。联盟指出，这类产品价格低廉、购买门槛低，却缺乏充分的安全测试，可…  
-  IT之家 · 2026-11-23 21:15
+- [全静压超精密AI智能数控磨床](<https://36kr.com/p/4082433392399490?f=rss>)  
+  工业母机是 “制造机器的机器”；而超精密磨床是工业母机里难度最高的分支之一，主打 亚微米、纳米级精度 ，是把零部件加工到极限精度的核心装备，因此被称作皇冠明珠，是整个高端制造业的精度基石。支撑光学、航空航天、半导体、高端轴承等关键领域核心零  
+  36氪 · 2026-11-24 11:27
 
-- [腾讯阿里百度现金流集体转负，科技正在成为一种“重工业”](<https://36kr.com/p/4082261668205701?f=rss>)  
-  三体文明会有恒纪元和乱纪元，股市会有牛市和熊市。中概股的投资者，过了两年好日子， 如今又开始不敢跟家里人聊收益，一昧的埋头 3 倍做多家务了。 互联网公司这轮股价下行，主要是成分股中腾讯、阿里这两大扛把子再加上百度、快手等公司以只争朝夕的姿  
-  36氪 · 2026-11-23 21:10
+- [知乎宣布间接投资 DeepSeek，股价应声大涨 10%](<https://www.ithome.com/1/031/339.htm>)  
+  IT之家 11 月 24 日消息，知乎 11 月 23 日发布自愿公告，宣布知乎参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek， 取得低个位数百分比股权 。 知乎董事会认为，基金投资于 DeepSeek 以…  
+  IT之家 · 2026-11-24 11:26
 
-- [重庆80后卖AI短剧：9个月狂入14亿](<https://36kr.com/p/4082264265266308?f=rss>)  
-  一个拿着生锈草叉的农夫，突然觉醒神力，发现自己竟然是海神波塞冬的儿子，随后在骑士选拔中击败对手，让所有看不起他的人目瞪口呆。 这段有些离谱的剧情，据报道在海外创造了超过800万美元收入，约合人民币5300万元。 它来自重庆麦芽传媒旗下Net  
-  36氪 · 2026-11-23 21:07
+- [电竞明星表演赛+机器人嘉年华，2026AIE电子展不止是展会](<https://36kr.com/p/4083189164954761?f=rss>)  
+  还有10天，2026全球智能制造与电子产品博览会（AIE）将于澳门、珠海两地正式启幕。 本届AIE电子展12月3日至5日在澳门威尼斯人金光会展中心、珠海国际会展中心举行，采用「论坛+展会」模式，以「1+1+6+N」为活动主线：1场开幕式、1  
+  36氪 · 2026-11-24 11:26
 
-- [AI把全球市场都搞抽象了](<https://36kr.com/p/4082264839607937?f=rss>)  
-  上周五美股跌得有多狠？ 纳指一天跌了5.28%，今年好不容易涨上去的那点儿，全给跌回去了。 标普和道指也没好到哪儿去，跟之前的高点比，都跌了超过10%；费城半导体指数更惨，一天跌超10%，芯片股这次算是挨了一顿狠揍。 事情是从一只新股开始的  
-  36氪 · 2026-11-23 21:04
+- [郭明錤：黄仁勋复职消除英伟达部分不确定性，但部分瓶颈仍在](<https://www.ithome.com/1/031/338.htm>)  
+  IT之家 11 月 24 日消息，香港天风国际证券分析师郭明錤今日在 X 平台发文，分析黄仁勋恢复英伟达 CEO 职位后的市场状况。 郭明錤表示，黄仁勋回到英伟达后， 公司策略、产品规划、技术发展与供应链管理等不确定性被移除 。这些不…  
+  IT之家 · 2026-11-24 11:23
 
-- [斯坦福博士零AI苦研黎曼猜想12年，公开8小时反遭AI挑错](<https://36kr.com/p/4082281855193992?f=rss>)  
-  Anthropic IPO次日，悬置167年的数学头号难题，在同一天收到了两份证明。 一份出自人类之手，苦研12年。 一份出自人类与Claude之手，用时41天。 这两份证明，在短短两天内迎来了截然不同的结局。 前者公开约8小时，就被人借助  
-  36氪 · 2026-11-23 20:43
+- [当爆款内容以秒计算，以年制作的纪录片却赢回市场](<https://36kr.com/p/4082059884140423?f=rss>)  
+  上映首日排片1.3%、票房56.8万元；半个月后排片2.2%、票房2428万元，一部没有明星、没有特效的纪录片，完成了四十倍的票房逆袭。就是这部耗时六年，攒下1600小时素材，只留下115分钟的纪录片《珠穆朗玛：云中彼岸》，上线后豆瓣8.5  
+  36氪 · 2026-11-24 11:23
 
-- [华为 × 澳门电讯联合发布 Wi-Fi 感知服务，支持动态感知并识别家庭成员活动状态](<https://www.ithome.com/1/031/196.htm>)  
-  IT之家 11 月 23 日消息，据华为光网今日分享，澳门电讯（CTM）携手华为联合发布“AI-FTTR”宽带服务，并基于华为 FTTR 全光组网解决方案的智能计算能力，融合 AI Wi-Fi 感知及 AI Wi-Fi 抗干扰两大核心…  
-  IT之家 · 2026-11-23 20:25
+- [迅合科技完成数千万元种子轮融资](<https://www.itjuzi.com/investevent/14708521>)  
+  迅合网络是一家智能体研发商，主打老板个人专属智能体AIBOSS，聚焦老板非标化个人工作流，沉淀老板业务逻辑、客户偏好、决策经验，做私域知识库、业务协同、信息汇总、决策辅助。近日，迅合科技宣布完成来自产业方的数千万元人民币种子轮融资。本…  
+  IT桔子 · 2026-11-24 11:21
 
-- [Docker 徽标焕新，致力于打造面向智能体的安全容器化环境](<https://www.ithome.com/1/031/194.htm>)  
-  IT之家 11 月 23 日消息，知名容器化工具 Docker 官方当地时间本月 19 日宣布更新徽标。 新版的 Moby 鲸鱼更为抽象简洁 ， 且以黑色为身体基调 。 Docker 官方在其配套博客中表示，新徽标下的 Docker…  
-  IT之家 · 2026-11-23 20:11
+- [企业AI最贵的账单，为什么不在模型采购单上？](<https://36kr.com/p/4083178737439872?f=rss>)  
+  企业AI最贵的账单，往往不在模型采购单上。 Gartner在2026年5月发布的生成式AI技术成熟度曲线中判断：到2028年底，至少50%的生成式AI项目将因架构设计不当和运维能力缺失而突破预算上限。同一份报告评估的30项AI技术里，没有一  
+  36氪 · 2026-11-24 11:11
 
-- [好莱坞：电影没得拍，不如投AI](<https://36kr.com/p/4082205926364805?f=rss>)  
-  2023年，比佛利山庄的一栋住宅里。 Anthropic创始人达里奥·阿莫迪见到了麦当娜的经纪人Guy Oseary和演员Ashton Kutcher。 几个人聊了几个小时，话题全部围绕人工智能展开。 谈话结束后，Kutcher和Osear  
-  36氪 · 2026-11-23 20:07
+- [谷歌拟给浏览器 AI 加道“权限锁”：允许看商品，不许进支付页](<https://www.ithome.com/1/031/331.htm>)  
+  IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文， 报道称谷歌工程师提出实验性方案，计划在浏览器层面为 AI 智能体设置权限边界，避免其获得过大的操作权限。 该方案目前仍处于原型提议阶段，尚…  
+  IT之家 · 2026-11-24 11:11
 
-- [马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗](<https://www.ithome.com/1/031/190.htm>)  
-  IT之家 11 月 23 日消息，SpaceX 首席执行官埃隆 · 马斯克（Elon Musk）表示，公司最优秀的数据中心建设人员，可能曾经是咖啡师，也可能只是零售商店里的货架理货员。 本周早些时候，马斯克通过远程连线方式参加了在美国…  
-  IT之家 · 2026-11-23 19:58
+- [Sierra获得17.5亿美元F轮融资](<https://www.itjuzi.com/investevent/14708520>)  
+  Sierra是一家人工智能服务商，致力于将 AI 应用在商业问题上、通过先进的对话式AI技术彻底改变企业客户服务的运作方式。Sierra的核心产品是一款智能对话平台，旨在帮助企业提供更加自然和智能化的客户互动，提升客户满意度并推动业务…  
+  IT桔子 · 2026-11-24 11:08
 
-- [下架4万部，撞脸明星的AI短剧攻防战](<https://36kr.com/p/4082228383602307?f=rss>)  
-  一部AI短剧主角一转头，面容却是熟悉的大明星，这种情况对于常看短剧的观众来说已经不足为奇。 目前市面上大部分出现明星面孔的AI短剧，都未获得合规版权。随着侵权泛滥，维权的明星也越来越多。赵丽颖、彭昱畅等AI短剧的明星脸问题不断上热搜。 此前  
-  36氪 · 2026-11-23 19:55
+- [Then and Now: See How Nvidia and the Administration Pivoted on Huang](<https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 11:08
 
-- [不等英伟达了，机器人公司自己造芯](<https://36kr.com/p/4082171627328392?f=rss>)  
-  一台售价5万到30万元的国产机器人，光是一颗英伟达Jetson Thor模块，量产价就在3000美元左右，功耗40到130瓦。 优必选董事长周剑曾在公开场合表示：“很多国外芯片太贵了，占硬件采购物料成本的三分之一”。于是机器人公司开始自己下  
-  36氪 · 2026-11-23 19:28
+- [豆包旗下 AI 个人助理“小豆”开启公测，能够帮你处理日常事务](<https://www.ithome.com/1/031/329.htm>)  
+  IT之家 11 月 24 日消息，豆包官方今天宣布“小豆”正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验， 并获赠一定量免费额度 。 IT之家注意到，小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授…  
+  IT之家 · 2026-11-24 11:06
 
-- [数据中心液冷，到底是怎么工作的？](<https://36kr.com/p/4082157203690633?f=rss>)  
-  今天这篇文章，我们聊聊液冷。 2026年，液冷这个赛道非常火爆。不仅设备厂商疯狂布局，资本市场也是趋之若鹜。 原因大家都懂，还是因为AI。AI带动了算力，算力带动了数据中心。算力芯片和设备的发热量越来越高，传统风冷扛不住，所以要发展液冷。  
-  36氪 · 2026-11-23 19:26
+- [黄仁勋回归，AI泡沫是否继续？](<https://36kr.com/p/4083037091402889?f=rss>)  
+  我们不认为黄仁勋回归意味着AI泡沫就此结束。恰恰相反，他很可能继续推动新一轮基础设施扩张。硅谷的科技巨头也不会轻易放弃这场竞赛。没有哪一家企业愿意因为担心短期投资回报，而把下一代技术的主导权拱手让给竞争对手。但是，AI产业的估值逻辑已经发生  
+  36氪 · 2026-11-24 11:04
 
-- [倒计时十天！2026甲子引力年终盛典嘉宾重磅来袭｜甲子引力](<https://36kr.com/p/4082235748586633?f=rss>)  
-  12月1日，北京朝阳嘉里大酒店。 七十年，对人而言已是古稀之年；对人工智能而言，却刚刚迎来茁壮成长期，还有更多未知等待探索。 1956年，达特茅斯会议正式提出「人工智能」（Artificial Intelligence）这一概念，人类由此开  
-  36氪 · 2026-11-23 19:05
+- [我国前三季度数字产业收入 32.41 万亿元：智能算力规模同比增长 146%，生成式 AI 产品应用普及率超 50%](<https://www.ithome.com/1/031/326.htm>)  
+  IT之家 11 月 24 日消息，今日，工信部运行监测协调局发布前三季度数字产业运行数据。 前三季度我国数字产业实现收入 32.41 万亿元，同比增长 14.8%，增速较上年同期加快 5.2 个百分点。其中， 生成式人工智能产品应用普…  
+  IT之家 · 2026-11-24 11:01
 
-- [联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元](<https://www.ithome.com/1/031/160.htm>)  
-  IT之家 11 月 23 日消息，联想现已在京东上架来酷外骨骼机器人行者 ONE 穿戴式助行设备，将于 11 月 28 日发售， 定价为 7999 元，首发价 6999 元 。 京东 来酷行者 ONE 外骨骼机器人 6999 元 直达…  
-  IT之家 · 2026-11-23 19:04
+- [丝路天图获西安财金A+轮投资，加速「星+云+AI」遥感生态布局](<https://www.pedaily.cn/first/194559.shtml>)  
+  陕西丝路天图卫星科技有限公司完成A 轮融资，投资方为西安财金。作为从事卫星遥感数智生态服务的企业，丝路天图以“星 云 AI”模式提供全链条服务，此次融资获国资机构认可，将为产品迭代、市场拓展及生态合作注入资金与资源，助力其在多行业落地…  
+  投资界 · 2026-11-24 10:55
 
-- [“Windows该淘汰了，”Rails之父DHH开炮：微软上万工程师干不过一个人带着AI干活](<https://36kr.com/p/4082149142025088?f=rss>)  
-  “macOS 和 Windows 已经不适合 Agent 时代了。”David Heinemeier Hansson（DHH）近期在播客中分享道。 从事软件开发约 30 年来，他互联网软件开发领域颇具影响力的人物。作为 Ruby on Ra  
-  36氪 · 2026-11-23 19:00
+- [Claude证出「代数版P≠NP」，73000行Lean代码通过验证](<https://36kr.com/p/4083150870664325?f=rss>)  
+  「黎曼猜想」被攻克，才刚过去三天！ 刚刚，Anthropic官方GitHub仓库悄无声息地放出了一篇长达70页论文，正式宣布—— Claude证明了VP≠VNP，在任意域上成立。 没错， 代数版P≠NP，今天也被AI拿下了。 最离谱的是，全  
+  36氪 · 2026-11-24 10:49
 
-- [The One-Person Biotech \| OpenAI Life Sciences](<https://a16z.simplecast.com/episodes/the-one-person-biotech-openai-life-sciences-TrZddFUB>)  
-  What happens when scientists are no longer limited by human attention? OpenAI’s Joy Jiao and Ashoka Rajendra join a16…  
-  The a16z Show · 2026-11-23 19:00
+- [“90% 编程无需手敲代码”：微软拉曼纳称 AI 让程序员少写代码，却要思考更多](<https://www.ithome.com/1/031/316.htm>)  
+  IT之家 11 月 24 日消息，在接受 Peter Yang 采访时，微软高管查尔斯 · 拉曼纳（Charles Lamanna）表示，AI 正在重塑软件工程师的工作重心，让其大幅减少“手搓”代码逐行敲打的工作， 但对于系统设计、验…  
+  IT之家 · 2026-11-24 10:48
 
-- [Why Ken Chenault Is Calling for an AI ‘Manifesto’](<https://www.wsj.com/articles/why-ken-chenault-is-calling-for-an-ai-manifesto-7eab1b51?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-23 18:57
+- [越凡创新完成数亿元融资](<https://www.itjuzi.com/investevent/14708517>)  
+  越凡创新是一家全自主服务机器人技术及系统方案提供商。在智慧楼宇、智慧零售、末端配送、智慧园区、智能制造等多个效率型领域部署有全场景、全功能的服务机器人产品矩阵。近日，越凡创新宣布完成新一轮数亿元融资，由策源资本领投，成都科创投、成都交…  
+  IT桔子 · 2026-11-24 10:47
 
-- [写在黎曼猜想被证明之后](<https://36kr.com/p/4082133433390211?f=rss>)  
-  困扰数学界167年的黎曼猜想迎来了历史性的一刻。 11月21日，Anthropic研究科学家 Levent Alpöge 与人工智能模型 Claude 协作，公开发布了黎曼猜想及广义黎曼猜想的 Lean 4 形式化证明。这份证明包含 175  
-  36氪 · 2026-11-23 18:46
+- [EMNLP'26 Oral：答对全靠背，Agent只是假装搜索，仅24%准确率](<https://36kr.com/p/4083153615541379?f=rss>)  
+  文档、视频、音频的理解基准一般把源文件直接交给模型，测的是给定媒体上的理解，例如DocVQA、MMLongBench-Doc、Video-MME、MMAU。 网页和工具使用基准测浏览和多步操作，例如WebArena、OSWorld、GAIA  
+  36氪 · 2026-11-24 10:46
 
-- [100股的算计，少赚了68亿](<https://36kr.com/p/4082141712340099?f=rss>)  
-  一张来自安徽证监局的处罚决定书，撕开了A股一场精心演算��却留下巨大空白的资本谜局。 纸面测算，如果那些股权持有到香农芯创AI行情顶峰325.74元，这笔筹码对应的浮盈接近68.85亿元。但这笔财富，不属于领受罚单的方海波。 他只拿到一张警  
-  36氪 · 2026-11-23 18:40
+- [全国首个“人工智能产业保险共同体”成立，目标破解“不敢保、不能保”难题](<https://www.ithome.com/1/031/315.htm>)  
+  IT之家 11 月 24 日消息，“深圳创投日”四周年暨 2026 香蜜湖财富管理周开幕大会于 11 月 23 日在深圳举行。 深圳福田区 13 家财险机构共同发起成立 全国首个“人工智能产业保险共同体” ，致力于破解大模型产业链“不…  
+  IT之家 · 2026-11-24 10:45
 
-- [Kimi工程师cos鲸鱼娘出圈：她想聊技术，网友只想看裙子](<https://36kr.com/p/4082150643996295?f=rss>)  
-  Kimi的工程师，穿着DeepSeek二次元拟人形象“鲸鱼娘”的衣服火了。 杭州2026云桥大会的一场圆桌上，月之暗面Kimi高级研发工程师、开发者关��负责人唐飞虎戴着银蓝色假发，穿一身蓝白女仆装，拿着话筒发言。这身造型取自DeepSee  
-  36氪 · 2026-11-23 18:39
+- [「亿优威光」完成约 5000 万元 Pre-A 轮融资，稀缺 “流体力学 + 精密光学” 团队攻坚 EUV 光源](<https://36kr.com/p/4083124827838081?f=rss>)  
+  近日，国内激光产生等离子体（LPP）极紫外（EUV）光源企业 「深圳亿优威光科技有限公司」 （以下简称“亿优威光”）完成约 5000 万元 Pre-A 轮融资首批交割。由祥峰投资领投，民银国际跟投， 光源资本担任独家财务顾问 。本轮资金将用  
+  36氪 · 2026-11-24 10:43
 
-- [800万对1000万，腾讯字节又在AI办公杠上了](<https://www.tmtpost.com/8214502.html>)  
-  不是产品的胜负，而是存量生态的比拼  
-  钛媒体 · 2026-11-23 18:36
+- [越来越快的AI，能不能让人老得慢一点？](<https://36kr.com/p/4083149787829378?f=rss>)  
+  AI一天，人间一年。 大模型日益逼近人类顶级专家智力，数字世界里的时间尺度已被改写。为了抓住这波AI浪潮红利，人们夜以继日地追赶新技术，生怕成为那个“过时”的人。 但人终究是人，身体自有一套生命时钟，熬夜需要时间修复，疲惫也无法一键清除。  
+  36氪 · 2026-11-24 10:36
 
-- [禾赛的第二增长曲线，瞄准的不仅仅是机器人](<https://www.tmtpost.com/8214576.html>)  
-  Kosmo 的商业化空间，不可小觑。  
-  钛媒体 · 2026-11-23 18:36
+- [刚刚，Claude 黎曼猜想证明的主导者回应一切](<https://36kr.com/p/4083142892196993?f=rss>)  
+  过去几天，围绕 Claude 参与证明黎曼猜想的讨论，几乎席卷了整个科技圈和数学界。其中最令人津津乐道的一个细节， 是这份证明如果翻译成人类能够阅读的文字，篇幅将超过 25 万页。 然而，事情的当事人终于出来澄清了， 所谓的 25 万页，其  
+  36氪 · 2026-11-24 10:31
 
-- [当AI开始自己上班](<https://www.tmtpost.com/8214386.html>)  
-  商业化推倒的第一块多米诺骨牌  
-  钛媒体 · 2026-11-23 18:36
+- [双创之后的十二年，创始人还在还债](<https://36kr.com/p/4083116963649410?f=rss>)  
+  商业模式创新这条路，基本不存在了——流量见顶，红利吃尽，模式被抄无可抄。硬科技是国家鼓励的方向，可芯片、机器人、创新药的门槛，不是90%的创业者够得着的。那一代靠模式创新起家的创始人站在2026年回头看：来路已封，去路未明。 中国的创业者，  
+  36氪 · 2026-11-24 10:29
 
-- [当AI接管网购，年轻人迷上外包砍价](<https://www.tmtpost.com/8214748.html>)  
-  未来的购物入口藏在对话框里  
-  钛媒体 · 2026-11-23 18:36
+- [亚马逊宣布收购Decart技术与团队](<https://www.itjuzi.com/merger/14614>)  
+  Decart是一家以色列人工智能芯片研究公司，致力于大规模训练AI模型，同时降低培训成本并提高效率。亚马逊已正式宣布收购Decart的优化技术与团队‌，交易价值据媒体报道约75亿美元，仍需满足监管审批等常规交割条件。‌  
+  IT桔子 · 2026-11-24 10:26
 
-- [Meta亚历山大王：超级智能即将到来，AI将接管一切科学研究](<https://36kr.com/p/4082146505462657?f=rss>)  
-  11 月 22 日，马斯克在 X 上写下这两句话。 让他如此兴奋的，是前一天获得正式核验的一项数学突破：研究者与 Claude 合作，给出了黎曼猜想的形式化证明。 次日清晨，Meta 首席 AI 官 Alexandr Wang 发布长文《S  
-  36氪 · 2026-11-23 18:34
+- [QuestMobile 2026购车场景下AI推荐机制研究报告](<https://36kr.com/p/4083110645863302?f=rss>)  
+  今天给大家分享一下购车场景下AI推荐机制研究报告。如前所述，内容营销供给过剩直接影响了品牌主营销策略的选择，而这个问题的另一面，则是消费者决策链路的改变。这就涉及到行业面临的另一个核心变化：GEO正在影响用户的购买决策链路。 QuestMo  
+  36氪 · 2026-11-24 10:23
 
-- [Doctors who disagree with AI could face legal jeopardy](<https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger>)  
-  AI could put doctors who disagree with it in greater jeopardy of losing a malpractice suit, according to researchers…  
-  Axios · 2026-11-23 18:25
+- [章鱼动力获得数亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708438>)  
+  章鱼动力（SynapX）是一家以物理AGI为使命的前沿科技公司，致力于打造可持续自进化的具身智能生产力。近日，章鱼动力获得数亿人民币A轮融资，新增投资方包括芯动能投资、美的资本等投资机构与产业资本；早期股东线性资本、小米集团、Pang…  
+  IT桔子 · 2026-11-24 10:19
 
-- [AI服务器临交付暴涨45%，台积电收紧账期要现款：黄仁勋刚走，全球供应链撕破脸](<https://36kr.com/p/4081927320786048?f=rss>)  
-  过去几年，黄仁勋不只是英伟达掌门人，更像是 全球 AI 供应链的“定海神针” ，每逢AI泡沫的质疑此起彼伏，他总能镇住场子，给市场信心再添一把火。 如今，随着核心人物的突然退场，最先崩盘或许并非技术叙事，也不是算力需求，而是 支撑起这万亿投  
-  36氪 · 2026-11-23 18:22
+- [MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次](<https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ>)  
+  MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。  
+  公众号：MiniMax（稀宇科技） · 2026-11-24 10:11
 
-- [宁德时代战略投资鸿之微，27款自研新材料进入产业客户验证](<https://36kr.com/p/4082190331876484?f=rss>)  
-  11月13日，鸿之微科技（上海）股份有限公司宣布完成由宁德时代等产业资本参与的亿元级战略融资，同时公司正式启动新一轮融资进程，目前已深度对接20余家投资机构。 宁德时代本次战略投资，是双方长期深度技术协同、场景共建的阶段性落地成果。自202  
-  36氪 · 2026-11-23 18:19
+- [The Most Famous Problem in Math Was Just Solved by AI—and This Human](<https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 10:00
 
-- [杉数完成数亿元D轮融资](<https://www.itjuzi.com/investevent/14708501>)  
-  杉数科技专注于决策式AI技术研发与产业应用。公司构建了覆盖高性能异构算力、优化求解引擎、AI决策平台及行业应用的全栈技术体系，目前，公司产品及服务已在工业制造、能源电力、轨道交通、石油石化、航空航天、零售快消等20余个细分领域落地，服…  
-  IT桔子 · 2026-11-23 18:18
+- [US Blacklists Alibaba-Owned Company in Setback to AI Ambitions](<https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions>)  
+  Bloomberg · 2026-11-24 09:45
 
-- [好莱坞第一VC](<https://36kr.com/p/4082090048476034?f=rss>)  
-  Anthropic上市万众瞩目，一众创始人和员工实现财富自由。顺着投资名单望去，一个好莱坞演员身影浮现。 始于2023年的一场会面，Anthropic创始人Dario Amodei来到一幢豪宅，与两位好莱坞名人相对而坐。一位是麦当娜和U2的  
-  36氪 · 2026-11-23 18:14
+- [Japan Stocks Rebound as Huang’s Return Resuscitates AI Trade](<https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade>)  
+  Bloomberg · 2026-11-24 08:32
 
-- [悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了](<https://36kr.com/p/4082115022836617?f=rss>)  
-  AI攻克黎曼猜想，被视作人类历史上里程碑式的突破，不少网友直呼这是数学史上最疯狂的一天。过去一年多，AI在数学领域接连取得突破，持续冲击学界，“AI会不会取代人类思考” 的争论也反复浮现。 有人感慨，从前研究生耗费数年完成的研究，或许只能帮  
-  36氪 · 2026-11-23 18:13
+- [亚马逊收购Decart的AI优化技术](<https://www.163.com/dy/article/LCG3EKLT0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-24 08:25
 
-- [当AI接管网购，年轻人迷上外包砍价](<https://36kr.com/p/4082122514518918?f=rss>)  
-  打开社交平台，“AI帮我砍价太香了”“再也不用自己凑单”“AI终结网购信息差”等话题持续刷屏。有人靠AI省下大额购物开支，有人和AI博弈拿下最大优惠券，和AI一起购物渐渐成为越来越多年轻人的乐趣。 热闹的用户消费场景背后，藏着一场关乎电商未  
-  36氪 · 2026-11-23 18:11
+- [智谱GLM-5.4上线](<https://www.pedaily.cn/first/194492.shtml>)  
+  智谱GLM-5.4于11月23日中午上线Coding Plan订阅体系，官方尚未正式发布。另据智谱官方社群消息，GLM-5.4采用Loop Transformer架构，是国内首款基于该架构的旗舰模型。内测用户反馈其综合表现优于3万亿级…  
+  投资界 · 2026-11-24 08:23
 
-- [定投纳斯达克的人，被狠狠上了一课](<https://36kr.com/p/4082131148198788?f=rss>)  
-  11月20日，华尔街过了一个不折不扣的“黑色星期五”，纳斯达克综合指数暴跌5.28%，一天之内抹平了2026年的全部涨幅。单日跌幅已够惨烈，放到一周里看更加触目惊心，跌幅超10%。市场原本以为巨无霸Anthropic的上市，能提振信心，没想  
-  36氪 · 2026-11-23 17:53
+- [黄仁勋恢复CEO职务，英伟达一夜暴涨9520亿美元](<https://www.pedaily.cn/first/194488.shtml>)  
+  11月23日，英伟达宣布，即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务。英伟达表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。…  
+  投资界 · 2026-11-24 08:20
 
-- [懂车帝回应“测试内容大调整”：信息多处失实，部分内容为 AI 撰写](<https://www.ithome.com/1/031/091.htm>)  
-  IT之家 11 月 23 日消息，今日，有博主爆料称，懂车帝内部对公开测试发布了四项要求，包括不再开放对比类内容、想要发布公开测试类内容的账号必须有资质等。 据界面新闻报道，懂车帝内容运营人员表示，此轮变化系平台严格按照《网络测评活动…  
-  IT之家 · 2026-11-23 17:48
+- [ChatGPT又升级了！GPT-6.2 Sol上线](<https://www.163.com/dy/article/LCG2SAV30511CPVM.html>)  
+  网易科技频道 · 网易号 · 2026-11-24 08:15
 
-- [免费AI的好日子，到头了？](<https://36kr.com/p/4081994947073664?f=rss>)  
-  “因服务器繁忙，使用额度已达到上限。” 近日，多名用户在使用DeepSeek时，收到了这样的提示。 根据用户反馈，DeepSeek的App及网页版不仅出现每日使用额度限制，还对长对话续聊和单次输入作出限制：超过7天未活跃的长对话无法续聊，单  
-  36氪 · 2026-11-23 17:46
+- [Anthropic推出Claude Ship测试版](<https://www.163.com/dy/article/LCG29ATC0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-24 08:04
 
-- [动视新专利：AI 学习玩家聊天内容，生成个性化 NPC 台词](<https://www.ithome.com/1/031/090.htm>)  
-  IT之家 11 月 23 日消息，《使命召唤》（Call of Duty）发行商动视（Activision）申请了一项新专利，计划利用玩家在游戏中的真实语音聊天训练 NPC（非玩家角色）。这套由 AI 驱动的系统能够监听玩家在关键游戏…  
-  IT之家 · 2026-11-23 17:40
+- [Singapore Sees AI Boom Fueling Fastest Growth in Five Years](<https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom>)  
+  Bloomberg · 2026-11-24 08:00
 
-- [OpenAI爆改旗舰GPU，AMD直接送厂流片](<https://36kr.com/p/4082036544361602?f=rss>)  
-  AI这把火，彻底烧进芯片圈了。 OpenAI官宣，自家GPT给AMD旗舰GPU改电路， 不到5个月，核心指标PPA最高提升14% 。 要知道，这套设计AMD工程师，可是优化了好几年。 算下来，OpenAI一上手直接把一年的进度条，暴力压缩到  
-  36氪 · 2026-11-23 17:39
+- [OpenAI Staffer Likely Captured Secrets on Hidden Bug, US Says](<https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says>)  
+  Bloomberg · 2026-11-24 07:56
 
-- [新鲜感之后，陪伴机器人如何被用起来？](<https://www.tmtpost.com/8212446.html>)  
-  新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。  
-  钛媒体 · 2026-11-23 17:39
+- [AI Is ‘Probably Not’ Conscious but Could Be Soon, Says Philosopher Rob Long](<https://www.theinformation.com/articles/ai-probably-not-conscious-soon-says-philosopher-rob-long>)  
+  The Information · 2026-11-24 07:55
 
-- [AI内存涨价三倍，英伟达却开始砍用量，HBM还会越堆越高吗？](<https://36kr.com/p/4082044662715266?f=rss>)  
-  最新一代的高端存储芯片 HBM，售价现在差不多达到每个 560 美元。这是什么概念呢？同等重量的黄金还要贵。 靠着这颗比黄金还贵的芯片，全球三大存储巨头都在经历一场史无前例的暴富。 根据最新的财报，我们算出SK海力士现在每天就能赚大约4亿多  
-  36氪 · 2026-11-23 17:37
+- [The Chinese AI Aspirants Drawing Big Bets to Take on DeepSeek](<https://www.bloomberg.com/news/articles/2026-11-23/the-chinese-ai-aspirants-drawing-big-bets-to-take-on-deepseek>)  
+  Bloomberg · 2026-11-24 07:00
 
-- [李健官宣荣耀阔折叠手机计划 2027 年 3 月亮相，透露“完全没有什么折痕”](<https://www.ithome.com/1/031/085.htm>)  
-  IT之家 11 月 23 日消息，在今天的 荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健，荣耀产品线总裁方飞，荣耀品牌营销部总裁、全球 CMO 关海涛与媒体对话。 李健宣布，荣耀的阔折叠手机计划 2027 年 3…  
-  IT之家 · 2026-11-23 17:34
+- [Cisco, OpenAI Launch Project to Safeguard Agentic AI](<https://www.wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 06:12
 
-- [杉数完成数亿元D轮融资：十年“冷门创业”，走到AI产业的关键处](<https://www.tmtpost.com/8214351.html>)  
-  从数学优化算法到GPU加速，再到AI原生求解器，杉数十年的技术积累有了新的时代坐标。  
-  钛媒体 · 2026-11-23 17:26
+- [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](<https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/>)  
+  As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents han  
+  TechCrunch · 2026-11-24 06:05
 
-- [Akko 氛围编程输入设备灵动 Key 发售：整合麦克风功能、适配腾讯 WorkBuddy，268 元](<https://www.ithome.com/1/031/055.htm>)  
-  IT之家 11 月 23 日消息，Akko（艾酷）旗下面向氛围编程开发的多功能输入设备灵动 Key 现已在京东发售。其支持三模连接，整合 3 颗按键、1 个旋钮、全向麦克风（蓝牙模式不支持收音）， 定价为 268 元 。 京东 AKK…  
-  IT之家 · 2026-11-23 17:21
+- [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](<https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/>)  
+  Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without havin  
+  TechCrunch · 2026-11-24 06:02
 
-- [Epic 旗下 AI 游戏开发竞赛现讽刺一幕：纯人工制作游戏《LSD: FIH》获玩家投票榜首](<https://www.ithome.com/1/031/049.htm>)  
-  IT之家 11 月 23 日消息，据外媒 Tweaktown 报道，Epic Games 举办的 AI MegaJam 游戏开发竞赛近日出现一款颇具反差的作品。由开发者 PolyCube 制作的《LSD：FIH》明确表示开发过程中完全…  
-  IT之家 · 2026-11-23 17:17
+- [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](<https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/>)  
+  "The mistake has been corrected," Elon Musk chimed in.  
+  TechCrunch · 2026-11-24 05:47
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 14 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 13 页

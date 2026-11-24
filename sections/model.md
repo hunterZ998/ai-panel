@@ -38,13 +38,54 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 129 条
+## 相关资讯 · 121 条
 
-- [国泰海通：华为云发布具身世界模型WM1.2并开源 谷歌Gemini 4上线](<https://www.163.com/dy/article/LCFTCGRQ05198UNI.html>)  
-  网易科技频道 · 网易号 · 2026-11-24 06:39
+- [AI 钓鱼邮件会“自我进化”：TheMailer 曝光，不断升级文案直到骗过垃圾邮件过滤器](<https://www.ithome.com/1/031/482.htm>)  
+  IT之家 11 月 24 日消息，科技媒体 TechRadar 今天（11 月 24 日）发布博文，报道称暗网论坛近期正传播名为 TheMailer 的 AI 网络钓鱼工具， 结合多种商用大模型与自动化邮件测试、个性化定制和反复改写能…  
+  IT之家 · 2026-11-24 14:20
 
-- [马斯克承认SpaceX AI研发落后，出租算力比自研Grok更赚钱](<https://www.163.com/dy/article/LCFG8BKU05198NMR.html>)  
-  网易科技频道 · 网易号 · 2026-11-24 02:55
+- [Marlowe获得2.77亿美元种子轮融资](<https://www.itjuzi.com/investevent/14708543>)  
+  Marlowe是一家多芯片AI算力服务商，打造 Multi-Silicon 异构 AI 推理工厂。公司采用软硬件协同设计，自建并运营不绑定单一芯片的推理算力集群，优先搭载 Etched、AMD 等非英伟达芯片，配套自研调度适配软件栈，…  
+  IT桔子 · 2026-11-24 14:12
+
+- [商汤发布并开源 SenseNova U1.6 原生多模态模型，能自己修正图片错误](<https://www.ithome.com/1/031/465.htm>)  
+  IT之家 11 月 24 日消息，商汤科技今日发布并开源 SenseNova U1.6 原生多模态模型，延续了 U 系列的理解与生成统一范式， 首次为该系列的 8B 开源模型带来原生图像自修正 。 开启自修正后，同一个模型可以先生成首…  
+  IT之家 · 2026-11-24 12:58
+
+- [别盲目追大模型，企业真正该落地的是 “小AI”](<https://36kr.com/p/4083006400631943?f=rss>)  
+  很多企业盲目追逐通用大模型，却忽略业务未必需要超强算力。小AI的核心不是弱化能力，而是以业务需求为标尺，只配置刚刚好的智能。它适配离线、合规、低成本等约束，在制造、金融、农业等场景落地，为企业提供更可控、回报更清晰的AI方案。 企业布局AI  
+  36氪 · 2026-11-24 12:55
+
+- [国产大模型的黄仁勋变量](<https://36kr.com/p/4083259280561031?f=rss>)  
+  文 \| 李炤锋 温丽虹 编辑 \| 张雨忻 今年 1 月，在北京举行的 AGI-Next 峰会上，智谱首席科学家唐杰提醒台下的开发者：美国公司手里还有未公开的模型，中美大模型的差距“说不定并没有缩小”。 同一场会议上，谈到三到五年后中国公司领  
+  36氪 · 2026-11-24 12:26
+
+- [通用半导体金刚石芯片基板项目北京点火投产，AI算力散热关键材料迈入规模化阶段](<https://36kr.com/p/4083128931570569?f=rss>)  
+  11月23日，北京通创九州金刚石科技有限公司“金刚石芯片基板建设项目（一期）”在北京市房山区窦店高端现代制造业基地点火投产。该项目由半导体激光加工装备企业江苏通用半导体有限公司（下称“通用半导体”）与科创板上市公司九州一轨合资设立的通创九州  
+  36氪 · 2026-11-24 11:59
+
+- [​豆包工作下调多款模型消耗倍率，超八成日常任务免费用](<https://36kr.com/p/4082307978744707?f=rss>)  
+  近日，豆包工作宣布接入多款第三方大模型，并同步推出多项优惠计划。其中，用户日常使用频率较高的 DeepSeek V4.1 Flash 和豆包 2.1 Lite 两款模型，额度消耗倍率已下调至 0.01。相关实测数据显示，借助倍率调整与部分模  
+  36氪 · 2026-11-24 11:55
+
+- [GPT、Claude、Gemini同台竞技，最新成绩来了](<https://36kr.com/p/4083223643542401?f=rss>)  
+  自从GPT-6 Astra在机器人操作任务中展现出不错的能力后，Claude、Gemini等主流大模型也相继加入具身智能领域的探索。 今年10月，GPT-6 Astra在RoboLab-120仿真基准中取得74.8%的任务成功率；谷歌Gem  
+  36氪 · 2026-11-24 11:55
+
+- [我国前三季度数字产业收入 32.41 万亿元：智能算力规模同比增长 146%，生成式 AI 产品应用普及率超 50%](<https://www.ithome.com/1/031/326.htm>)  
+  IT之家 11 月 24 日消息，今日，工信部运行监测协调局发布前三季度数字产业运行数据。 前三季度我国数字产业实现收入 32.41 万亿元，同比增长 14.8%，增速较上年同期加快 5.2 个百分点。其中， 生成式人工智能产品应用普…  
+  IT之家 · 2026-11-24 11:01
+
+- [全国首个“人工智能产业保险共同体”成立，目标破解“不敢保、不能保”难题](<https://www.ithome.com/1/031/315.htm>)  
+  IT之家 11 月 24 日消息，“深圳创投日”四周年暨 2026 香蜜湖财富管理周开幕大会于 11 月 23 日在深圳举行。 深圳福田区 13 家财险机构共同发起成立 全国首个“人工智能产业保险共同体” ，致力于破解大模型产业链“不…  
+  IT之家 · 2026-11-24 10:45
+
+- [越来越快的AI，能不能让人老得慢一点？](<https://36kr.com/p/4083149787829378?f=rss>)  
+  AI一天，人间一年。 大模型日益逼近人类顶级专家智力，数字世界里的时间尺度已被改写。为了抓住这波AI浪潮红利，人们夜以继日地追赶新技术，生怕成为那个“过时”的人。 但人终究是人，身体自有一套生命时钟，熬夜需要时间修复，疲惫也无法一键清除。  
+  36氪 · 2026-11-24 10:36
+
+- [ChatGPT又升级了！GPT-6.2 Sol上线](<https://www.163.com/dy/article/LCG2SAV30511CPVM.html>)  
+  网易科技频道 · 网易号 · 2026-11-24 08:15
 
 - [AI巨头CEO惊人暴论：人类被AI抢饭碗后，可以用沉浸式游戏安抚](<https://36kr.com/p/4082281843364741?f=rss>)  
   IPO不久，Anthropic CEO Dario Amodei就被翻出了「暴论」。 AI让人类失业怎么办？ 那就让他们来玩沉浸式电子游戏，防止大规模动荡！ 今天，不少外媒报道了Dario曾经的这一言论。 对外，Anthropic是一家强调  
@@ -57,10 +98,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [斯坦福博士零AI苦研黎曼猜想12年，公开8小时反遭AI挑错](<https://36kr.com/p/4082281855193992?f=rss>)  
   Anthropic IPO次日，悬置167年的数学头号难题，在同一天收到了两份证明。 一份出自人类之手，苦研12年。 一份出自人类与Claude之手，用时41天。 这两份证明，在短短两天内迎来了截然不同的结局。 前者公开约8小时，就被人借助  
   36氪 · 2026-11-23 20:43
-
-- [马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗](<https://www.ithome.com/1/031/190.htm>)  
-  IT之家 11 月 23 日消息，SpaceX 首席执行官埃隆 · 马斯克（Elon Musk）表示，公司最优秀的数据中心建设人员，可能曾经是咖啡师，也可能只是零售商店里的货架理货员。 本周早些时候，马斯克通过远程连线方式参加了在美国…  
-  IT之家 · 2026-11-23 19:58
 
 - [数据中心液冷，到底是怎么工作的？](<https://36kr.com/p/4082157203690633?f=rss>)  
   今天这篇文章，我们聊聊液冷。 2026年，液冷这个赛道非常火爆。不仅设备厂商疯狂布局，资本市场也是趋之若鹜。 原因大家都懂，还是因为AI。AI带动了算力，算力带动了数据中心。算力芯片和设备的发热量越来越高，传统风冷扛不住，所以要发展液冷。  
@@ -78,49 +115,13 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Anthropic上市万众瞩目，一众创始人和员工实现财富自由。顺着投资名单望去，一个好莱坞演员身影浮现。 始于2023年的一场会面，Anthropic创始人Dario Amodei来到一幢豪宅，与两位好莱坞名人相对而坐。一位是麦当娜和U2的  
   36氪 · 2026-11-23 18:14
 
-- [定投纳斯达克的人，被狠狠上了一课](<https://36kr.com/p/4082131148198788?f=rss>)  
-  11月20日，华尔街过了一个不折不扣的“黑色星期五”，纳斯达克综合指数暴跌5.28%，一天之内抹平了2026年的全部涨幅。单日跌幅已够惨烈，放到一周里看更加触目惊心，跌幅超10%。市场原本以为巨无霸Anthropic的上市，能提振信心，没想  
-  36氪 · 2026-11-23 17:53
-
-- [OpenAI爆改旗舰GPU，AMD直接送厂流片](<https://36kr.com/p/4082036544361602?f=rss>)  
-  AI这把火，彻底烧进芯片圈了。 OpenAI官宣，自家GPT给AMD旗舰GPU改电路， 不到5个月，核心指标PPA最高提升14% 。 要知道，这套设计AMD工程师，可是优化了好几年。 算下来，OpenAI一上手直接把一年的进度条，暴力压缩到  
-  36氪 · 2026-11-23 17:39
-
-- [杉数完成数亿元D轮融资：十年“冷门创业”，走到AI产业的关键处](<https://www.tmtpost.com/8214351.html>)  
-  从数学优化算法到GPU加速，再到AI原生求解器，杉数十年的技术积累有了新的时代坐标。  
-  钛媒体 · 2026-11-23 17:26
-
-- [Dario内部备忘录：AGI有两三成概率毁灭人类](<https://36kr.com/p/4082035928650889?f=rss>)  
-  11月19日，纳斯达克开盘钟敲响，史上募资最多的一场 IPO 诞生了。 Anthropic 正式上市，代码「ANT」，发行价 83 美元，完全稀释估值约 1.5 万亿美元，开盘市值一度冲破 2 万亿。CEO Dario Amodei 在聚光  
-  36氪 · 2026-11-23 17:00
-
-- [OpenAI要给生物医药立规矩了](<https://36kr.com/p/4081906772661890?f=rss>)  
-  11月20日，OpenAI发布药物化学推理基准MedChemBench，用于评测AI模型在药物化学研究中的推理能力。基准包含99道题，取自117篇论文和专利，覆盖761个分子结构。 成绩方面，在最高推理档（xhigh）下，GPT-6.2 A  
-  36氪 · 2026-11-23 16:31
-
-- [OpenAI预训练指标曝光：27年AI将雪崩式爆发](<https://36kr.com/p/4082036398068610?f=rss>)  
-  就在刚刚，OpenAI罕见把自家核心机密摊开！ 首席科学家 Jakub Pachocki 发表重磅长文，直言： OpenAI内部模型已越过数学突破线，全行业应该为 AI 模型设置安全线！ 他警告：2027年，AI将迎来「雪崩式爆发」！内部模  
-  36氪 · 2026-11-23 16:21
-
 - [Richpanel helps companies automate 50% of support in 30 days](<https://openai.com/business/customer-stories/richpanel-ai-customer-support>)  
   Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna f…  
   OpenAI · 2026-11-23 16:00
 
-- [Pinecone真的不可替代吗？](<https://36kr.com/p/4082028533437313?f=rss>)  
-  “只需将你的知识投入向量商店，连接大模型，奇迹就会发生。” 两年前，这句充满诱惑力的承诺让无数企业CTO夜不能寐。向量数据库——这个能够“理解语义”的新型数据库——被视为打开AI宝藏的最后一把钥匙。 风险资本疯狂涌入，创业者前赴后继，仿佛错  
-  36氪 · 2026-11-23 15:55
-
-- [字节背后的算力供应商，IPO暂停了](<https://36kr.com/p/4082012098466953?f=rss>)  
-  字节背后的“AI卖水人”，IPO按下暂停键。 据外媒11月20日报道，知情人士称，新加坡数据中心运营商DayOne据悉暂停美国IPO计划，因数据中心和市场担忧；如果市场好转，DayOne可能在2027年寻求赴美上市。 此前报道，公司原本计划  
-  36氪 · 2026-11-23 15:46
-
 - [Pulley Studios获得4100万美元B轮融资](<https://www.itjuzi.com/investevent/14708468>)  
   Pulley Studios是一家AI 建筑审批服务商，将 AI 智能体与持证建筑专业人员结合，为商业地产、数据中心、新能源、多户住宅项目提供从前期合规尽调、施工图 AI 预审、许可申报到市政对接的一站式建筑审批服务，支持美国 200…  
   IT桔子 · 2026-11-23 15:07
-
-- [语用科技已完成新一轮融资](<https://www.itjuzi.com/investevent/14708420>)  
-  语用科技是前阿里巴巴千问大模型负责人林俊旸创办的AI实验室，研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。近日获悉，语用科技已完成新一轮融资，估值达到 50 亿美元，按当前汇率约合 334.6 亿元人民币。距官宣首轮融…  
-  IT桔子 · 2026-11-23 10:40
 
 - [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](<https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/>)  
   Three significant backers share what gave them conviction to bet billions on Anthropic.  
@@ -181,9 +182,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
   The Decoder：AI News（RSS） · 2026-11-22 00:23
 
-- [Oracle Says It Has Completed Funding to Fulfill OpenAI Deal](<https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal>)  
-  The Information · 2026-11-22 00:09
-
 - [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
   Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
   Sarvam AI（网页） · 2026-11-22 00:00
@@ -208,12 +206,16 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
   Axios · 2026-11-20 18:20
 
-- [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>)  
-  At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea  
-  TechCrunch · 2026-11-20 08:43
-
 - [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
   Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
   OpenAI · 2026-11-20 08:00
+
+- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
+  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
+  Menlo Ventures · 2026-11-20 00:50
+
+- [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
+  AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
+  20VC · 2026-11-19 15:07
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 3 页
