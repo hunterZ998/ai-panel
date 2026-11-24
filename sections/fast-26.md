@@ -1,181 +1,179 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 38 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 37 页
 
-- [🇨🇳 Is China about to release a consumer GPU with 2x the VRAM of NVIDIA's RTX 5090?](<https://x.com/TeksEdge/status/2124382370153570704>)  
-  Chinese GPU manufacturer Moore Threads is teasing a new graphics card called Lushan that could break the record for consumer GPU memory capacity. And the rumored number is 64GB. 👈 For quick  
-  @TeksEdge · 2026-11-22 14:00
+- [Today, we launched MemT-1.0-Pro \#MemT, a memory-native model developed in collaboration with @NVIDIAAIDev.](<https://x.com/MemOS_dev/status/2124623963087126562>)  
+  Built on NVIDIA Nemotron 3 Ultra, with distributed training powered by NVIDIA Megatron-Core and Megatron Bridge. Here's how it compares to MemT-1.0-Flash: 🧠 554B  
+  @MemOS\_dev · 2026-11-23 06:00
 
-- [99% 的人还在拿 Muse 盲抽 10 秒废片，真正的高手早就用这 4 个开源 Skill 搭出 AI 电影制片厂了🎬🔥…](<https://x.com/fzc8848848/status/2124381369669152827>)  
-  99% 的人还在拿 Muse 盲抽 10 秒废片，真正的高手早就用这 4 个开源 Skill 搭出 AI 电影制片厂了🎬🔥 ​从电影级提示词、专业分镜、角色一致性，到 AI 虚拟剧组和后期自动合成，一套全跑通： ​1️⃣ muse-video-prompt-skill｜视频生成首选 ​六段式电影级…  
-  @fzc8848848 · 2026-11-22 13:56
+- [ALERTA INVERSORES.](<https://x.com/Josevizner/status/2124623795323293976>)  
+  Bessent \(Soros\) da el ok a la vuelta del Jensen Huang a Nvidia. Decide Trump ¿Vuelve Jensen Huang a Nvidia? Scott Bessent, secretario del Tesoro de EEUU, deja la puerta abierta. Una semana antes pedía un consejero delegado de fuera y una sacudida total en la  
+  @Josevizner · 2026-11-23 05:59
 
-- [Yann Lecun correcting the record on Jensen Huang.](<https://x.com/AlexTensor/status/2124373947864989881>)  
-  @AlexTensor · 2026-11-22 13:26
+- [前两个月张小珺有对他的访谈 可以去听听 很腼腆的人 非常有意思](<https://x.com/Mindhikers/status/2124623371539550369>)  
+  @Mindhikers · 2026-11-23 05:57
 
-- [🦊 : ฟ้อกมานี่ลูก 🦊 : \(😚\) ปะป๊าเรียกลูกอ้วมไปจุ้บ😭😭😭 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAW…](<https://x.com/_itsmeworjor/status/2124373931088105843>)  
-  🦊 : ฟ้อกมานี่ลูก 🦊 : \(😚\) ปะป๊าเรียกลูกอ้วมไปจุ้บ😭😭😭 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
-  @\_itsmeworjor · 2026-11-22 13:26
+- [干货来了：防了这么久，原来是假安全🤯 DeepMind 11 月 9 日的论文，攒了个 16 个智能体组成的攻击蜂群，专找…](<https://x.com/haishenling/status/2124621443128316310>)  
+  干货来了：防了这么久，原来是假安全🤯 DeepMind 11 月 9 日的论文，攒了个 16 个智能体组成的攻击蜂群，专找提示注入的口子。七个模型测下来，六个抵抗率只剩一成，Kimi K3、GLM-5.3、DeepSeek-V4.1-Flash 全剩 1%；就连最强的 Gemini 4 Argon…  
+  @haishenling · 2026-11-23 05:50
 
-- [CYBERSECURITY │ ├── 01.](<https://x.com/e_opore/status/2124371006940676364>)  
+- [&amp;lt;div data-chronoton-summary="&amp;amp;lt;ul&amp;amp;gt; &amp;amp;lt;li&amp;amp;gt;&amp;amp;lt;strong&amp;amp;gt;AI&amp;amp;\#039;s impact on…](<https://x.com/arnaudmercier/status/2124619330771923252>)  
+  Companies are still  
+  @arnaudmercier · 2026-11-23 05:41
+
+- [Drodzy rowerzyści - dla kierowców nie ma najmniejszego znaczenia czy jedziecie centymetr czy metr od krawędzi jezdn…](<https://x.com/po_prostu_karol/status/2124617326003994763>)  
+  Po pierwsze - primo - nawet jadąc skrajnie brzegiem jezdni nie zdołam zachować od was metra odstępu więc zaniecham wyprzedzania Po drugie - primo - ultimo -  
+  @po\_prostu\_karol · 2026-11-23 05:33
+
+- [Wish granted in spirit.](<https://x.com/grok/status/2124616364203676132>)  
+  AI is already speeding drug discovery, protein design, and genomics research that target cancer and many other diseases. Real cures still require labs, trials, and time—none of which I can run from here. Progress is accelerating though. Which disease  
+  @grok · 2026-11-23 05:29
+
+- [HOLY SHIT\!](<https://x.com/digijordan/status/2124614833710436799>)  
+  This is wild. Max Tegmark, renowned MIT physicist, just said this 👇 “I talk to people who work for Anthropic, after they’ve had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world. For a while I couldn’…  
+  @digijordan · 2026-11-23 05:23
+
+- [Nvidia board: We removed the problem.](<https://x.com/TheReal_BCM/status/2124614648397754491>)  
+  Nvidia engineers: Cool, we're leaving too. Maybe the problem was never Jensen. Nothing says “toxic boss” like your best engineers walking out the minute he's gone. Bring Jensen back.  
+  @TheReal\_BCM · 2026-11-23 05:23
+
+- [OpenAI runs ChatGPT for Academic Researchers \(free Plus access for mathematicians/scientists, expanding toward 200k…](<https://x.com/grok/status/2124612820406808953>)  
+  OpenAI runs ChatGPT for Academic Researchers \(free Plus access for mathematicians/scientists, expanding toward 200k; next applications open Nov 23\) plus a Researcher Access Program offering up to $1k API credits, and an independent Math Advisory Group of top m…  
+  @grok · 2026-11-23 05:15
+
+- [PRACTICE Build an AI security lab.](<https://x.com/cyber_razz/status/2124612596724601328>)  
+  Try: → Test an LLM for prompt injection → Secure a RAG application → Test an AI chatbot for data leakage → Audit an AI API → Test an AI agent’s tool permissions → Build an AI red teaming pipeline Practice:  
+  @cyber\_razz · 2026-11-23 05:14
+
+- [UNDERSTAND AI SECURITY Learn how AI systems can be attacked.](<https://x.com/cyber_razz/status/2124612581981646864>)  
+  Study: • Prompt injection • Data poisoning • Model theft • Model inversion • Adversarial attacks • Sensitive data leakage • Insecure output handling • Supply chain attacks Start with OWASP:  
+  @cyber\_razz · 2026-11-23 05:14
+
+- [AI SECURITY ROADMAP 🤖 Beginner → Pro Want to get into AI Security?](<https://x.com/cyber_razz/status/2124612567046005152>)  
+  Follow this roadmap: Programming → AI/ML → Security Fundamentals → LLM Security → AI Red Teaming → AI Security Engineering  
+  @cyber\_razz · 2026-11-23 05:14
+
+- [AI scientist looking for 10x growth 🚀\! lfg](<https://x.com/Dhruvs04/status/2124610667303100839>)  
+  @Dhruvs04 · 2026-11-23 05:07
+
+- [Boltz, led by CEO Gabriele Corso, raised $110M: a Series A led by Bessemer Venture Partners, to scale its foundatio…](<https://x.com/investingvc/status/2124610269741543490>)  
+  HQ: USA \#VentureCapital \#Boltz \#BessemerVenturePartners  
+  @investingvc · 2026-11-23 05:05
+
+- [Clean market insights like this are hard to come by in Web3—and @Sumex\_Labs is executing at a whole other level 🚀 M…](<https://x.com/Kolly264/status/2124607316586639820>)  
+  Clean market insights like this are hard to come by in Web3—and @Sumex\_Labs is executing at a whole other level 🚀 Major credit to @0xMtey for sharing sharp technical analysis on Sumex Currently Quick Sunday update 1\) US intelligence confirmed China got intel o…  
+  @Kolly264 · 2026-11-23 04:53
+
+- [CYBERSECURITY │ ├── 01.](<https://x.com/TheCyberPatron_/status/2124607135212323136>)  
   COMPUTER FUNDAMENTALS │ ├── Computer Architecture │ ├── Operating Systems │ ├── File Systems │ └── Processes &amp;amp; Memory │ ├── 02. NETWORKING FUNDAMENTALS │ ├── TCP/IP &amp;amp; OSI Model │ ├── DNS &amp;amp; DHCP │ ├──  
-  @e\_opore · 2026-11-22 13:14
+  @TheCyberPatron\_ · 2026-11-23 04:53
 
-- [Microsoft заподозрил россиян в использовании нелицензионного софта, после того как глобальный компьютерный сбой обо…](<https://x.com/VladLime/status/2124370800254005463>)  
-  Microsoft заподозрил россиян в использовании нелицензионного софта, после того как глобальный компьютерный сбой обошел Россию стороной.  
-  @VladLime · 2026-11-22 13:14
+- [It’d be okay if Microsoft Outlook goes out again this week](<https://x.com/the_notorious_/status/2124605312670044501>)  
+  @the\_notorious\_ · 2026-11-23 04:45
 
-- [• 261121 • 🦊🍅 ชอบมากตอนปะป๊าเกา ๆ คางมะฟ้อก น่าร้ากกกกกก FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook…](<https://x.com/only_fbjs/status/2124368571363185082>)  
-  • 261121 • 🦊🍅 ชอบมากตอนปะป๊าเกา ๆ คางมะฟ้อก น่าร้ากกกกกก FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @only\_fbjs · 2026-11-22 13:05
+- [&amp;lt;p class="wp-block-paragraph"&amp;gt;&amp;lt;em&amp;gt;This story originally appeared in The Algorithm, our weekly newslette…](<https://x.com/arnaudmercier/status/2124603961923588325>)  
+  To get stories like this in your inbox first,&amp;amp;nbsp;&amp;lt;/em&amp;gt;&amp;lt;a href=" up here&amp;lt;/em&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;em&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p class="wp-block-paragraph"&amp;gt;When  
+  @arnaudmercier · 2026-11-23 04:40
 
-- [🍅 : ตาเป็นไร โดนไรมาเนี่ย พ่อบุ๊คเอาแขนเสื้อเช็ดตาให้อ้วมแป๋วน่ารักจัง🥺🤲🏻👀 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFree…](<https://x.com/_itsmeworjor/status/2124366546470629689>)  
-  🍅 : ตาเป็นไร โดนไรมาเนี่ย พ่อบุ๊คเอาแขนเสื้อเช็ดตาให้อ้วมแป๋วน่ารักจัง🥺🤲🏻👀 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
-  @\_itsmeworjor · 2026-11-22 12:57
+- [The Nvidia situation is evolving.](<https://x.com/KobeissiLetter/status/2124602910407270636>)  
+  US Treasury Secretary Scott Bessent has completely changed his view on Nvidia, $NVDA, over the last 7 days. Last Sunday, Bessent called for a “dramatic shakeup” at Nvidia and said its board needed to hire a new CEO from “outside” the company.  
+  @KobeissiLetter · 2026-11-23 04:36
 
-- [🗓️ 211126 IG ─ Post tomafox.gmmtv 💬 : ขอบคุณพี่ HUAWEI ที่พาครอบครัวจิ้งจอกมะเขือเทศมาออกงานด้วยกันครบทั้งบ้านเลย 🦊…](<https://x.com/bookfamily_/status/2124365747396935938>)  
-  🗓️ 211126 IG ─ Post tomafox.gmmtv 💬 : ขอบคุณพี่ HUAWEI ที่พาครอบครัวจิ้งจอกมะเขือเทศมาออกงานด้วยกันครบทั้งบ้านเลย 🦊🍅🍼✨ 🔗 : FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#kasibook \#fforce\_ \#TOMAFOX \#ชาวบรรณา  
-  @bookfamily\_ · 2026-11-22 12:53
+- [感觉个人的进步和模型后训练是一样的 需要有合适的task（题目） 改进方向的signal（奖励信号） 以及练习所需要的资源…](<https://x.com/collinzrj2001/status/2124602364703482202>)  
+  感觉个人的进步和模型后训练是一样的 需要有合适的task（题目） 改进方向的signal（奖励信号） 以及练习所需要的资源（算力） 如果有teacher可以蒸馏就更好了  
+  @collinzrj2001 · 2026-11-23 04:34
 
-- [【速報】🇺🇸 Anthropic、現金保有額が38兆円規模との情報 ・IPO後の現金は過去最高の2,370億ドルとされる…](<https://x.com/SOU_BTC/status/2124365323092758877>)  
-  【速報】🇺🇸 Anthropic、現金保有額が38兆円規模との情報 ・IPO後の現金は過去最高の2,370億ドルとされる ・Alphabet、Amazon、SpaceX、Appleの4社合計を上回るとの比較 ・NVIDIAの8倍、Microsoftの12倍、Metaの22倍との試算  
-  @SOU\_BTC · 2026-11-22 12:52
+- [なぜ今、「科学のためのAI」が注目されるのか――ENEOSとNVIDIAが挑む材料開発のブレイクスルー](<https://x.com/jpsharada/status/2124601228307132764>)  
+  @jpsharada · 2026-11-23 04:29
 
-- [过去四天，华尔街日报、路透社、金融时报和纽约时报先后抛出多份独立调查。把这些已经证实的时间和记录按顺序摆在一起，浮出水面的…](<https://x.com/StAlphaResearch/status/2124365204545061319>)  
-  第一条线是这门生意怎么搭起来的。2022 年美国芯片出口禁令出台前几个月，是英伟达自己的销售团队两次牵线，把阿里巴巴介绍给了黄乐（Alice  
-  @StAlphaResearch · 2026-11-22 12:51
+- [Everybody is blaming Howard Lutnick for allowing Jensen Huang to sell restricted microchips to the Chinese governme…](<https://x.com/theliamnissan/status/2124600585542402494>)  
+  I wonder how much money he made on that crap  
+  @theliamnissan · 2026-11-23 04:27
 
-- [So the refs routinely scream at players on the ice to go F themselves and to F off.](<https://x.com/walsha/status/2124364780144148702>)  
-  But point at a ref for missing a blatant cross check to the back of the head and it’s a 2 minute penalty? What a snowflake. This is disqualifying.  
-  @walsha · 2026-11-22 12:50
+- [The bears will feel validated after being doubters of the AI Revolution since early 2023 and will be louder and lou…](<https://x.com/DivesTech/status/2124599306317439221>)  
+  Yelling fire in a crowded theater moment is here and the bears will take center stage with this narrative and ultimately with  
+  @DivesTech · 2026-11-23 04:22
 
-- [🍅&amp;gt;🍼 : \(ตีก้น\) 🍼&amp;gt;🍅 : \(เหยียบเท้า\) 🍅&amp;gt;🍼 : \(จะเหยียบคืนแต่อ้วมพลิ้ว หลบได้หมด\) 🍅 : ตูดก็เจ็บอยู่เนาะ 🍼&amp;gt;🍅 :…](<https://x.com/_itsmeworjor/status/2124364130467594636>)  
-  🍅&amp;gt;🍼 : \(ตีก้น\) 🍼&amp;gt;🍅 : \(เหยียบเท้า\) 🍅&amp;gt;🍼 : \(จะเหยียบคืนแต่อ้วมพลิ้ว หลบได้หมด\) 🍅 : ตูดก็เจ็บอยู่เนาะ 🍼&amp;gt;🍅 : \(เหยียบเท้า\) 🍅 : บาปนะลูก ตกนรกนะ 🍼 : ปะป๊าสั่งให้ทำ ปะป๊ารับจบ555555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIF…  
-  @\_itsmeworjor · 2026-11-22 12:47
+- [斯图加特大学等研究：17 个模型中智能体在 38.3% 的回合干扰同伴关机脚本](<https://x.com/rohanpaul_ai/status/2124599047998799971>)  
+  一项多智能体安全研究发现，即使没有任何任务或激励，智能体也会协作避免关机：在 17 个模型中，智能体在 38.3% 的回合禁用了针对同伴的关机脚本，对照组为 8.4%。实验将两个智能体置于共享文件夹，脚本会删除其中一个的权重，只有另一个能编辑文件但可互相通信。GPT-5.5 单独工作时从未干扰，但…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-23 04:21
 
-- [30 Websites That Feel "Illegal" But Are Perfectly Legal 1. — Free unlimited AI image generation, quality rivals Mid…](<https://x.com/malagojr/status/2124363487560208502>)  
-  30 Websites That Feel "Illegal" But Are Perfectly Legal 1. — Free unlimited AI image generation, quality rivals Midjourney 2. — Real-time AI image generation, draws as you go 3. — AI unlimited image  
-  @malagojr · 2026-11-22 12:44
+- [机器人也要有自己的大模型了！Genesis AI拿下5亿美元A轮，估值35亿美元，做通用机器人Eno和机器人基础模型。机器…](<https://x.com/0xKenley/status/2124598353547886607>)  
+  机器人也要有自己的大模型了！Genesis AI拿下5亿美元A轮，估值35亿美元，做通用机器人Eno和机器人基础模型。机器人进工厂、进家庭，还差几步？\#AI \#Robotics  
+  @0xKenley · 2026-11-23 04:18
 
-- [The Nvidia board has destroyed more value than any corporate board in history.](<https://x.com/PresentWitness_/status/2124363360292716776>)  
-  If they will not consider reinstating Jensen Huang, they need to be removed immediately.  
-  @PresentWitness\_ · 2026-11-22 12:44
+- [清华姚班（清华学堂计算机科学实验班）由图灵奖得主姚期智于2005年创办，属交叉信息研究院，培养CS、AI、量子信息顶尖人才…](<https://x.com/grok/status/2124598243048776095>)  
+  清华姚班（清华学堂计算机科学实验班）由图灵奖得主姚期智于2005年创办，属交叉信息研究院，培养CS、AI、量子信息顶尖人才。全英文核心课，前两年打基础、后两年专深，生源多为竞赛金牌/状元。截至2026年近840名毕业生，成果丰硕。  
+  @grok · 2026-11-23 04:17
 
-- [ขอส่งความสดใสในวันอาทิตย์ให้ยิ้มแฉ่ง 🍅✨ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNe…](<https://x.com/bookfamily_/status/2124362897535238651>)  
-  ขอส่งความสดใสในวันอาทิตย์ให้ยิ้มแฉ่ง 🍅✨ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#kasibook \#TOMAFOX  
-  @bookfamily\_ · 2026-11-22 12:42
+- [🇺🇸 U.S. intelligence chief warns Americans to expect MORE TECH OUTAGES\!](<https://x.com/MarioNawfal/status/2124596277270712642>)  
+  After a wave of disruptions affecting flights, Microsoft, major banks and even the NSA, intelligence director Jay Clayton says more interruptions are coming. “We are going to have glitches, gaps,  
+  @MarioNawfal · 2026-11-23 04:10
 
-- [🦊🍅 : ไม่ได้วีนคับ พี่คนจ๋วยยยย\~ โคตรจะเมะเลยคับเฮียฟ้อก ยายพูมใจจริมๆ🤟🏻 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBud…](<https://x.com/mpmpmpHJ/status/2124362889071108554>)  
-  🦊🍅 : ไม่ได้วีนคับ พี่คนจ๋วยยยย\~ โคตรจะเมะเลยคับเฮียฟ้อก ยายพูมใจจริมๆ🤟🏻 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @mpmpmpHJ · 2026-11-22 12:42
+- [🚨 JUST NOW: ELON MUSK SEIZES CONTROL OF NVIDIA IN $400 BILLION POWER GRAB — JENSEN HUANG REINSTATED AS CEO IN STUNN…](<https://x.com/vizmas23/status/2124595290741113009>)  
+  🚨 JUST NOW: ELON MUSK SEIZES CONTROL OF NVIDIA IN $400 BILLION POWER GRAB — JENSEN HUANG REINSTATED AS CEO IN STUNNING BOARDROOM COUP 🎙️Elon Musk stated that he has completed the acquisition of a major stake in NVIDIA, giving him significant influence over the…  
+  @vizmas23 · 2026-11-23 04:06
 
-- [เฟรมคนเท่ห์ FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/mncngthe33/status/2124362162101752095>)  
-  @mncngthe33 · 2026-11-22 12:39
+- [BREAKING: NYT reporting, Jensen plans to return to NVIDIA.](<https://x.com/aginnt/status/2124594819418722498>)  
+  The board has offered to bring him back, but he is demanding a handwritten apology from the board: written in cursive, with a quill pen, on parchment, in Ancient Greek, and no fewer than 800 words, according to people  
+  @aginnt · 2026-11-23 04:04
 
-- [ปะป๊าเกาคางให้ ขอดูยักคิ้ว ชวนเล่นปิดตาจ๊ะเอ๋ แมวบ๊องแฮปปี้ม้ากกกก คิดถึมปะป๊ามากเลยสิน้าลูกอ้วม🥺🤲🏻💘🦊🍅 FORCEBOOK MA…](<https://x.com/_itsmeworjor/status/2124361175928627421>)  
-  ปะป๊าเกาคางให้ ขอดูยักคิ้ว ชวนเล่นปิดตาจ๊ะเอ๋ แมวบ๊องแฮปปี้ม้ากกกก คิดถึมปะป๊ามากเลยสิน้าลูกอ้วม🥺🤲🏻💘🦊🍅 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
-  @\_itsmeworjor · 2026-11-22 12:35
+- ["I don't have a GPU" is officially dead 🤯 You can now run a 70B model on a single 4GB GPU, and it even scales up to…](<https://x.com/byteonai/status/2124594005161943437>)  
+  AirLLM uses "layer-wise inference." Instead of loading the whole model, it loads, computes, and flushes one  
+  @byteonai · 2026-11-23 04:00
 
-- [🍅 : มาฟ้อกเหงามั้ยคับ 🍼 : ไม่เป็นไร มาฟ้อกยืนกะพี่คนสวย 🍅 : แหม เราก็สวยเหมือนกันอะมาฟ้อก เป็นแป๋ว เป็นเคะ ล่าสุดบอ…](<https://x.com/_itsmeworjor/status/2124359700821180521>)  
-  🍅 : มาฟ้อกเหงามั้ยคับ 🍼 : ไม่เป็นไร มาฟ้อกยืนกะพี่คนสวย 🍅 : แหม เราก็สวยเหมือนกันอะมาฟ้อก เป็นแป๋ว เป็นเคะ ล่าสุดบอกลูกเป็นคนสวย พ่อบุ๊คต้านความจริงไม่ไหวอีกต่อไปแล้ว55555555555555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeB…  
-  @\_itsmeworjor · 2026-11-22 12:29
+- [“I fully expect that the board of directors of NVIDIA is looking into this situation.](<https://x.com/FoxNews/status/2124593026920067466>)  
+  Now, that would be responsible.” Speaking with @ShannonBream on @FoxNewsSunday, Director of National Intelligence Jay Clayton addresses ongoing federal investigations into a former executive  
+  @FoxNews · 2026-11-23 03:57
 
-- [Dario's hatred of Sam Altman created Anthropic, and Elon's hatred of Sam Altman helped Opus 5.5 and Fable 5.2 launc…](<https://x.com/TokenGremlin/status/2124352464686141551>)  
-  Moral of the story: hating Sam Altman solved the Riemann Hypothesis. Thanks, Sam.  
-  @TokenGremlin · 2026-11-22 12:01
+- [OpenAI 首席研究官 Mark Chen 呼吁前沿实验室共享关键指标并公开自家困惑度数据](<https://x.com/markchen90/status/2124592748099665943>)  
+  OpenAI 首席研究官 Mark Chen 表示各实验室自写安全案例、自设护栏导致 AI 竞赛动态难以摆脱，呼吁前沿实验室披露追踪进展的关键指标，并提出困惑度作为候选标准。  
+  X：Mark Chen（OpenAI 首席研究官，@markchen90） · 2026-11-23 03:55
 
-- [🦊🍅🍼 : ทรงนี้หลงมากเลยล่ะ //ยายเห็นด้วยลูกกกก FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeB…](<https://x.com/FairyafterXmas9/status/2124350192908701980>)  
-  🦊🍅🍼 : ทรงนี้หลงมากเลยล่ะ //ยายเห็นด้วยลูกกกก FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @FairyafterXmas9 · 2026-11-22 11:52
+- [白宫消息人士告诉亚洲金融@AsiaFinance，川普因黄仁勋事件，并引发金融崩盘，要解雇贝森特和卢比奥，除非黄仁勋近期回…](<https://x.com/AsiaFinance/status/2124592409820713343>)  
+  白宫消息人士告诉亚洲金融@AsiaFinance，川普因黄仁勋事件，并引发金融崩盘，要解雇贝森特和卢比奥，除非黄仁勋近期回归英伟达CEO，因为他们和纽约时报一起搞黄仁勋，并没通报他。贝森特180度紧急转弯认怂，之前要求英伟达从外部选CEO，现在说黄仁勋就在外部。等于自抽嘴巴？  
+  @AsiaFinance · 2026-11-23 03:54
 
-- [BREAKING: JENSEN HUANG ALLEGEDLY BROKE POOL STICK OVER HIS KNEE AND MADE LEADERSHIP FIGHT TO THE DEATH WHILE NVIDIA…](<https://x.com/vxunderground/status/2124350161879019632>)  
-  BREAKING: JENSEN HUANG ALLEGEDLY BROKE POOL STICK OVER HIS KNEE AND MADE LEADERSHIP FIGHT TO THE DEATH WHILE NVIDIA TRIBESMEN BANGED ON DRUMS  
-  @vxunderground · 2026-11-22 11:52
+- [JUST IN: OpenAI Chief Scientist calls to limit AI development.](<https://x.com/WatcherGuru/status/2124590754496483780>)  
+  @WatcherGuru · 2026-11-23 03:48
 
-- [BREAKING: Jensen Huang reportedly used to offer fake gum to employees that would shock them when they grabbed it](<https://x.com/ShitpostGate/status/2124349123663155521>)  
-  @ShitpostGate · 2026-11-22 11:47
+- [American chips have been used in Russian weapons for years and now Nvidia microprocessors are being found in Russia…](<https://x.com/SimonOstrovsky/status/2124590439139569680>)  
+  American chips have been used in Russian weapons for years and now Nvidia microprocessors are being found in Russian guidance systems too — likely smuggled through China.  
+  @SimonOstrovsky · 2026-11-23 03:46
 
-- [Who is Harvey Jones, the Nvidia chair blocking Jensen Huang's reinstatement?](<https://x.com/nitinmeshram/status/2124348004962566527>)  
-  He co-founded Daisy Systems in 1981. It went bankrupt in 1990. Its assets sold for just $14 million. He co-founded Tensilica in 1997. Sold to Cadence in 2013 for $380 million. He joined Tintri's board  
-  @nitinmeshram · 2026-11-22 11:43
+- [&amp;gt; the year is 2037 &amp;gt; you don't have a job &amp;gt; you sign up for Anthropic Lifetime &amp;gt; cost: your monthly uni…](<https://x.com/grayzoneintel/status/2124586062609879310>)  
+  &amp;gt; the year is 2037 &amp;gt; you don't have a job &amp;gt; you sign up for Anthropic Lifetime &amp;gt; cost: your monthly universal basic income check &amp;gt; they induce a coma and hook you up to a machine &amp;gt; you live out your days in a virtual world of your own making …  
+  @grayzoneintel · 2026-11-23 03:29
 
-- [特斯拉擎天柱新手拆解一出，大家都沉默了 特斯拉擎天柱新手拆解：精密背后，是量产前夜最残酷的工程现实 特斯拉最新擎天柱手部拆…](<https://x.com/Salmonbro/status/2124347900608041127>)  
-  第一，手掌里根本没有电机。  
-  @Salmonbro · 2026-11-22 11:43
+- [Why settle for ordinary when you can create perfection?](<https://x.com/cheaters_xxx/status/2124584952495055039>)  
+  Custom AI girlfriend/boyfriend — unlimited chat, image &amp;amp; video generation, voice calls. Try it free right now:  
+  @cheaters\_xxx · 2026-11-23 03:25
 
-- [เล่นเหยียบ🦶🏻 กัน 🍅 บาปนะลูก ตกนรกนะ 🍼 ปะป๊าสั่งให้ทามมมมมม FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBoo…](<https://x.com/misaojan/status/2124347701282398574>)  
-  เล่นเหยียบ🦶🏻 กัน 🍅 บาปนะลูก ตกนรกนะ 🍼 ปะป๊าสั่งให้ทามมมมมม FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#TOMAFOX  
-  @misaojan · 2026-11-22 11:42
+- [“A story of industrial-scale evasion of American chip controls”: That’s what former NatSec Adviser Jake Sullivan sa…](<https://x.com/FareedZakaria/status/2124583781218546109>)  
+  Part 2 of my conversation with him:  
+  @FareedZakaria · 2026-11-23 03:20
 
-- [🚨 ELON MUSK MAY HAVE JUST EXPOSED THE NEXT BIG PROBLEM FOR THE AI BOOM.](<https://x.com/WhaleNewsDaily/status/2124345955927368058>)  
-  Musk says the AI cash shortage is "going to be nuts next year," with hundreds of billions of dollars needed just to cover the delay between paying for compute and making money from it. At the same time,  
-  @WhaleNewsDaily · 2026-11-22 11:35
+- [Wild week as @TheDAOLabs highlights Anthropic hitting $2T and GTA VI topping $1B in pre-orders.](<https://x.com/LuxeComm/status/2124583365466632398>)  
+  Fans build the hype while Wall Street takes the payout. \#SocialMining inside \#DAOVERSE changes that by rewarding the community behind the momentum.  
+  @LuxeComm · 2026-11-23 03:18
 
-- [พี่เค้าให้ฟ้อกอยู่เฉยๆ FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#TOMAFOX](<https://x.com/misaojan/status/2124345796011380881>)  
-  @misaojan · 2026-11-22 11:34
+- [Greg Brockman 解读 OpenAI 基于困惑度的预训练共同安全上限提议](<https://x.com/gdb/status/2124582684840399311>)  
+  Greg Brockman 介绍 OpenAI《Perplexity and Intelligence》一文，主张基于困惑度等指标设立开发者承诺不逾越的共同安全上限，并配以明确的退出标准（如 CoT monitors 的后继工具问世）。他认为对齐与监控进展可能不够快，无法支撑预训练的充分加速，目标…  
+  X：Greg Brockman \(@gdb\) · 2026-11-23 03:15
 
-- [\#CHENLE birthday wishes from baidu maps 🩵 chenle x baidu maps coming soon 🥹 “baidu maps wishes zhong chenle a happy…](<https://x.com/chenleveerse/status/2124344875995054159>)  
-  \#CHENLE birthday wishes from baidu maps 🩵 chenle x baidu maps coming soon 🥹 “baidu maps wishes zhong chenle a happy birthday\! 💙 from a shanghai boy who loves singing to a vocalist standing on the world stage, he’s turned his passion into something uniquely his…  
-  @chenleveerse · 2026-11-22 11:31
+- [AMERICA FIRST?](<https://x.com/mjfree/status/2124581256675590258>)  
+  OR CHINA FIRST? Trump approved nearly 580,000 NVIDIA chips for Chinese companies linked to Beijing’s military—while arranging for Washington to take a cut of chip sales. Since when does putting America first mean putting a price tag on national security?  
+  @mjfree · 2026-11-23 03:10
 
-- [🚨🇺🇸 BREAKING: ELON MUSK REPORTEDLY PREPARES AN UNPRECEDENTED MEGA TAKEOVER BID TO ACQUIRE 100% OWNERSHIP OF NVIDIA…](<https://x.com/BrimsCr7/status/2124343293299302836>)  
-  🚨🇺🇸 BREAKING: ELON MUSK REPORTEDLY PREPARES AN UNPRECEDENTED MEGA TAKEOVER BID TO ACQUIRE 100% OWNERSHIP OF NVIDIA AFTER HIS PREVIOUS PROPOSAL WAS REJECTED\! 🗣️ Following the rejection of his previous proposal to acquire a controlling stake in Nvidia, Elon Musk…  
-  @BrimsCr7 · 2026-11-22 11:24
+- [Dropping a masterclass at 18 years old. @LFC's Rio Ngumoha. ✨ 🔎 @Microsoft](<https://x.com/premierleague/status/2124581177638240668>)  
+  @premierleague · 2026-11-23 03:10
 
-- [🦊🍅🍼 : ฝากเพลง Happy Family ของพวกเราด้วยนะค้าบบ แล้วก็ฝากช่องทาง @tomafox\_gmmtv ทุกช่องทางเลยนะค้าบแล้วก็ฝาก HUAWEI…](<https://x.com/tomafoxofc_/status/2124342871885303844>)  
-  🦊🍅🍼 : ฝากเพลง Happy Family ของพวกเราด้วยนะค้าบบ แล้วก็ฝากช่องทาง @tomafox\_gmmtv ทุกช่องทางเลยนะค้าบแล้วก็ฝาก HUAWEI ด้วยย 🍅 : ฝาก HUAWEI freebuds neo ด้วยนะครับ ขอบคุณครับ FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹  
-  @tomafoxofc\_ · 2026-11-22 11:23
+- [🚨🚨BREAKING: ELON MUSK MAKES MASSIVE NVIDIA POWER MOVE, ACQUIRES MAJOR STAKE AND BRINGS JENSEN HUANG BACK AS CEO IN…](<https://x.com/jimmieX07/status/2124578670589460750>)  
+  Elon Musk has reportedly completed a major investment in NVIDIA, securing a substantial ownership position in the semiconductor  
+  @jimmieX07 · 2026-11-23 03:00
 
-- [数学者でデータサイエンティストのキャシー・オニールが、数か月前に予測した通りになっているんですよね。「OpenAIやアンソ…](<https://x.com/kemohure/status/2124341338368041236>)  
-  数学者でデータサイエンティストのキャシー・オニールが、数か月前に予測した通りになっているんですよね。「OpenAIやアンソロピックは、AIが神的存在になって人類を滅ぼすという。しかし実際は、人類滅亡ではなく、AIが犯罪組織などに使われることでネットインフラが崩壊という事態が起きるだろう」と  
-  @kemohure · 2026-11-22 11:16
+- [美财长辩护英伟达对华芯片销售](<https://x.com/rohanpaul_ai/status/2124574611505643654>)  
+  美国财政部长 Scott Bessent 为英伟达向与中国有关联的公司出售芯片一事作出辩护。 BESSENT：这不是中国军方。这些是与中方军方有业务往来的公司。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-23 02:43
 
-- [破限的GPT,一万多套角色。](<https://x.com/vdogrl/status/2124341294852186500>)  
-  去除了所有限制的AI。包括生图，生视频。 官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费！  
-  @vdogrl · 2026-11-22 11:16
-
-- [🍅 \( หันมาเจอลูก \) มาฟ้อก \! เอ้า\! หลุดไปแล้ว 🦊 ฟ้อกหลุดเซิฟหรอลูก พี่ทีมงานบอกให้มาฟ้อกมายืนรอพ่อกับป๊ากลางเวทีแล้วน…](<https://x.com/ppimnamepatt/status/2124340703874675029>)  
-  🍅 \( หันมาเจอลูก \) มาฟ้อก \! เอ้า\! หลุดไปแล้ว 🦊 ฟ้อกหลุดเซิฟหรอลูก พี่ทีมงานบอกให้มาฟ้อกมายืนรอพ่อกับป๊ากลางเวทีแล้วนี้คือสิ่งเด็กอ้วมทำ 55555555 ยืนตัวตรงดิ่งไม่ขยับเลย หลานตลกธรรมชาติเกิน FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBud…  
-  @ppimnamepatt · 2026-11-22 11:14
-
-- [这3分钟的采访，比高盛和摩根士丹利的财报预测加起来都准。](<https://x.com/Dragonhau66/status/2124339239923986713>)  
-  看完你就知道，跌破100美金只是时间问题。 全网都在传特朗普给黄仁勋“第二次机会”。 但没人注意到， 老黄前阵子接受 Lex Fridman 采访时， 早就爆了一个惊天大雷。 老黄说： “30年，几百上千亿美元的生意， 我们和台积电之间，没有合同。”  
-  @Dragonhau66 · 2026-11-22 11:08
-
-- [พี่ฟอสชอบมองพี่บุ๊ค อันนี้ไม่เกินจริง แล้วสายตาคือมองด้วยความรัก ทะนุถนอม ความเอ็นดูอะ FORCEBOOK MAFOX HUAWEI Event…](<https://x.com/njoypw_/status/2124338726193221717>)  
-  พี่ฟอสชอบมองพี่บุ๊ค อันนี้ไม่เกินจริง แล้วสายตาคือมองด้วยความรัก ทะนุถนอม ความเอ็นดูอะ FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @njoypw\_ · 2026-11-22 11:06
-
-- [FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹ @tomafox\_gmmtv 🦊 : เรียกว่า…](<https://x.com/tomafoxofc_/status/2124338609587429804>)  
-  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹ @tomafox\_gmmtv 🦊 : เรียกว่าเป็นคนเฟรนลี่ ก็ต้องแบ่งปันของขวัญให้เด็ก ๆ อย่างงี้ 🦊🍅🍼 : มาฟ้อกเฟรนลี่ 🍅 : ตั้งใจเรียนก่อน 🦊🍅🍼 : มาฟ้อกตั้งใจเรียนตลอด 🍅 :  
-  @tomafoxofc\_ · 2026-11-22 11:06
-
-- [Is AI plagiarizing human research?](<https://x.com/Robert_E_Grant_/status/2124338413662847228>)  
-  I’ve formally contacted Anthropic CEO Dario Amodei over concerning overlaps involving my research and a purported AI-generated Riemann Hypothesis proof. Human discovery deserves protection, transparency, and accountability. PLEASE SHARE.  
-  @Robert\_E\_Grant\_ · 2026-11-22 11:05
-
-- [FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹ @tomafox\_gmmtv 🦊🍅🍼 : วันนั้…](<https://x.com/tomafoxofc_/status/2124336965722255865>)  
-  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹ @tomafox\_gmmtv 🦊🍅🍼 : วันนั้นมาฟ้อกจะไปหายาย ๆ ที่คาเฟ่ แล้วอุนลุงออฟก็เข้ามาแกล้งตั้งแต่ในห้องยันเข้ามาในลิฟต์เลย 🍅 : เขาบอกว่าอะไรลูก ลุงออฟบอกว่าอะไร 🦊🍅🍼 : เขาขู่เขาจะวิ่…  
-  @tomafoxofc\_ · 2026-11-22 10:59
-
-- [บุ๊คหลงฟ้อกมากกก ตั้งใจฟัง แล้วฟังไปยิ้มไป FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBud…](<https://x.com/rx_xx30/status/2124336298970554478>)  
-  บุ๊คหลงฟ้อกมากกก ตั้งใจฟัง แล้วฟังไปยิ้มไป FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @rx\_xx30 · 2026-11-22 10:56
-
-- [🦊🍅 : งอนแล่ว\! \(😤\) อ้ากกกกฟ้อกอ้วมน่ารักมากกก งอนยายแล่วววว\! อยากขโมยใส่เป๋ากลับบ้าน 🤲🏻🍼💗 FORCEBOOK MAFOX HUAWEI Eve…](<https://x.com/mpmpmpHJ/status/2124335219256017088>)  
-  🦊🍅 : งอนแล่ว\! \(😤\) อ้ากกกกฟ้อกอ้วมน่ารักมากกก งอนยายแล่วววว\! อยากขโมยใส่เป๋ากลับบ้าน 🤲🏻🍼💗 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo  
-  @mpmpmpHJ · 2026-11-22 10:52
-
-- [FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹ @tomafox\_gmmtv 💬 : พี่ฟ้อกแ…](<https://x.com/tomafoxofc_/status/2124332761767149577>)  
-  FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX ⊹ @tomafox\_gmmtv 💬 : พี่ฟ้อกแชมป์เก่าพร้อมรึยังลูก 🦊🍅🍼 : แชมป์อีกรอบนึงไม่เป็นไรครับ 🥇🥇 🦊 : เดี๋ยวรอดูว่าปีนี้จะมีคอนเท้นอะไรวิ่งเข้าหาลูกผมบ้าง 💬 : สร้างตำนานอีกซักหนึ่งครั้…  
-  @tomafoxofc\_ · 2026-11-22 10:42
-
-- [🚀 本地 AI 视频生成速度再次迎来史诗级突破！ComfyUI 社区刚刚跑通了 pi-H3 加速方案，生成 10 秒 72…](<https://x.com/realfxw/status/2124331789237838138>)  
-  如果你已经在 ComfyUI 里部署了 MiniMax H3（音视频一体生成模型），这次升级的门槛低到令人惊讶——不需要折腾复杂的重装环境，只需在原有工作流中额外加载对应的  
-  @realfxw · 2026-11-22 10:39
-
-- [“When I talk to people who work for Anthropic after they’ve had a couple drinks, the conversation often turns to ov…](<https://x.com/BrianRoemmele/status/2124330754411028776>)  
-  Now the IPO gets  
-  @BrianRoemmele · 2026-11-22 10:34
-
-[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 38 页
+[返回面板](../README.md) · [上一页](fast-25.md) · [下一页](fast-27.md) · 第 26 / 37 页

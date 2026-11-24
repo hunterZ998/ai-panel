@@ -1,178 +1,176 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 38 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 37 页
 
-- [Anthropic mathematician Levent Alpöge made history not once but 8 times in about 4 months.](<https://x.com/rishabhkio/status/2124925764550181142>)  
-  I was very curious to know his life journey, so I used @autumn\_ai\_inc to find out. Here's what came up: &amp;gt; spawns on Long Island, New York, in 1992 &amp;gt; turkish-american kid, plays high school  
-  @rishabhkio · 2026-11-24 01:59
+- [Turning a simple photo into a cinematic Vice City character intro sounds awesome\!](<https://x.com/MianAi_X/status/2125011693046775875>)  
+  Love how PixVerse lets everyone create their own GTA-style adventure. 🚗🔥  
+  @MianAi\_X · 2026-11-24 07:40
 
-- [JUST IN: OpenAI announces it will pay AI experts up to $8,000/month to help local small businesses adopt artificial…](<https://x.com/Polymarket/status/2124924942726902206>)  
-  JUST IN: OpenAI announces it will pay AI experts up to $8,000/month to help local small businesses adopt artificial intelligence through its new "OpenWorks" program.  
-  @Polymarket · 2026-11-24 01:56
+- [Donald Trump made $15 million on NVIDIA stock after pressuring the board to reinstate Huang as CEO.](<https://x.com/theliamnissan/status/2125011659726979383>)  
+  Absolutely everything Trump does he does for money.  
+  @theliamnissan · 2026-11-24 07:40
 
-- [🇺🇸 Jensen Huang single handedly pumped nearly $4.5 TRILLION into US stocks, crypto, and metals.](<https://x.com/BullTheoryio/status/2124924807225749513>)  
-  @BullTheoryio · 2026-11-24 01:55
+- [GPT-6.2 Astra 是 OpenAI 首个触及“AI 自我改进”高风险门槛的对外模型。能力叙事到头了，接下来每代模…](<https://x.com/zhangcheng0688/status/2125011639573389403>)  
+  GPT-6.2 Astra 是 OpenAI 首个触及“AI 自我改进”高风险门槛的对外模型。能力叙事到头了，接下来每代模型的发布重点都会变成治理声明。\#AI安全 \#OpenAI  
+  @zhangcheng0688 · 2026-11-24 07:40
 
-- [The Nvidia board ran a coup in coordination with Dario's Anthropic, the Democrats, the media, and parts of the Trum…](<https://x.com/ThomBrady5/status/2124924348356313583>)  
-  Now they lost. Open source is back.  
-  @ThomBrady5 · 2026-11-24 01:53
+- [Jensen walked back into Nvidia headquarters and the first thing he did was treat it like day one.](<https://x.com/anomsiiwa/status/2125011603078918255>)  
+  No computer. Told the team the IT department was getting him a new one. Then he looked around at the employees who had lined the stairs and balconies to cheer him in and said he was  
+  @anomsiiwa · 2026-11-24 07:40
 
-- [The left is furious about NVIDIA reinstating Jensen Huang because of what happened but were dead silent when it com…](<https://x.com/SteveLovesAmmo/status/2124924288235184338>)  
-  It’s all fake outrage.  
-  @SteveLovesAmmo · 2026-11-24 01:53
+- [Nvidia chips in Russian drones bombing Ukraine.](<https://x.com/AstroTerry/status/2125011261331296613>)  
+  Presumably purchased via China. Glad the market is way up today.  
+  @AstroTerry · 2026-11-24 07:39
 
-- [In case it wasn’t clear, Trump’s intervention to reinstate Jensen Huang as Nvidia CEO makes it absolutely obvious t…](<https://x.com/RpsAgainstTrump/status/2124924048803012767>)  
-  He’s doubling down on corruption, self-dealing, sucking up to dictators, and putting his own interests  
-  @RpsAgainstTrump · 2026-11-24 01:52
+- [Trump has been manipulating the stock market since he took office, and every elected Republican has used insider tr…](<https://x.com/drdave1999/status/2125009918532985201>)  
+  Q: So, by pressing Nvidia to rehire Jensen Huang, Trump’s already made a fortune today? A: You can bet on it. ASTOUNDING corruption.  
+  @drdave1999 · 2026-11-24 07:33
 
-- [🤖 WATCH: President Trump's involvement in Nvidia's reinstating of CEO Jensen Huang was “troubling and problematic,”…](<https://x.com/axios/status/2124923856993370119>)  
-  So, why he is involved in board dealings, I have no idea.”  
-  @axios · 2026-11-24 01:51
+- [“There is something profoundly wrong about Jensen Huang having a relationship with a Chinese Communist Spy and help…](<https://x.com/OurShallowState/status/2125009550336217277>)  
+  And now he is being  
+  @OurShallowState · 2026-11-24 07:32
 
-- [TRUMP AND VANCE BECAME CONVINCED THAT JENSEN HUANG WAS A SINGULAR FIGURE PROTECTING OPEN SOURCE MODELS AND PREVENTI…](<https://x.com/FirstSquawk/status/2124923525152817620>)  
-  TRUMP AND VANCE BECAME CONVINCED THAT JENSEN HUANG WAS A SINGULAR FIGURE PROTECTING OPEN SOURCE MODELS AND PREVENTING CLOSED-SOURCE MODEL COMPANIES FROM BECOMING TOO POWERFUL - SOURCE.  
-  @FirstSquawk · 2026-11-24 01:50
+- [Joe Biden warned us about the "oligarchy taking shape in America with extreme wealth and power..." I wonder how muc…](<https://x.com/mmpadellan/status/2125008981416640581>)  
+  Joe Biden warned us about the "oligarchy taking shape in America with extreme wealth and power..." I wonder how much money trump and his billionaire buddies made off of advance information about Jensen Huang being reinstated today?  
+  @mmpadellan · 2026-11-24 07:29
 
-- [$NVDA - TRUMP, VANCE BECAME CONVINCED THAT JENSEN HUANG WAS A SINGULAR FIGURE PROTECTING OPEN SOURCE MODELS AND PRE…](<https://x.com/DeItaone/status/2124923184906420267>)  
-  $NVDA - TRUMP, VANCE BECAME CONVINCED THAT JENSEN HUANG WAS A SINGULAR FIGURE PROTECTING OPEN SOURCE MODELS AND PREVENTING CLOSED-SOURCE MODEL COMPANIES FROM BECOMING TOO POWERFUL -SOURCE TRUMP, VANCE WERE BRIEFED ON NATIONAL SECURITY ELEMENTS OF NVIDIA SITUAT…  
-  @DeItaone · 2026-11-24 01:49
+- [Great meeting with VP @JDVance on Friday to discuss American AI leadership, cybersecurity, and modernizing our nati…](<https://x.com/amasad/status/2125008810041610359>)  
+  We also discussed an issue close to my heart: American leadership in open-weight AI. Our allies want sovereign AI and are  
+  @amasad · 2026-11-24 07:29
 
-- [Jensen Huang and his immediate family have seen their combined net worth jump by around $34 billion today as a resu…](<https://x.com/yashar/status/2124922635268034944>)  
-  That figure includes gains on shares owned by his family’s foundation.  
-  @yashar · 2026-11-24 01:46
+- [No, Mr.](<https://x.com/GordonGChang/status/2125008367794184521>)  
+  President, you need to protect the American people. Thanks in part to the failure of your administration to enforce export control laws, China’s military has advanced Nvidia chips.  
+  @GordonGChang · 2026-11-24 07:27
 
-- [There's an argument that Nvidia no longer needs a board of directors because it's no longer an independent company.](<https://x.com/danprimack/status/2124922628460949786>)  
-  It's basically controlled by the White House. If they really reinstated Jensen because Trump promised no prosecution -- which is what Trump implied today -- then  
-  @danprimack · 2026-11-24 01:46
+- [BREAKING: Trump says if Jensen Huang had not been reinstated at Nvidia, Xi Jinping might have personally asked him…](<https://x.com/Kalshi/status/2125008241578951064>)  
+  BREAKING: Trump says if Jensen Huang had not been reinstated at Nvidia, Xi Jinping might have personally asked him to become the leader in China's AI industry  
+  @Kalshi · 2026-11-24 07:27
 
-- [Bloomberg reporting that Jensen Huang being reinstated was done without the company's senior leadership being consu…](<https://x.com/EdLudlow/status/2124922497011503286>)  
-  Colette Kress, interim CEO and CFO, was excluded from the process and the decision made only on Sunday afternoon  
-  @EdLudlow · 2026-11-24 01:46
+- [This Is The Only Logical Approach For Civilization Sake \(Especially The West\) This is why despite Jensen Huang bein…](<https://x.com/Prolotario1/status/2125008115569688807>)  
+  The reward of him being reinstated at NVIDIA outweighs the risk by a thousand terawatts.  
+  @Prolotario1 · 2026-11-24 07:26
 
-- [President Trump told us this morning “I convinced them” \[the board\] to bring Jensen back.](<https://x.com/SaraEisen/status/2124922447325548708>)  
-  There will be endless lawsuits from anyone that sold Nvidia last week after the board told investors there’s no consideration of bringing him back  
-  @SaraEisen · 2026-11-24 01:46
+- [Un compte à 29 abonnés qui drop un rapport complet sur comment il a trouver un délit d’initié sur polymarket sur le…](<https://x.com/_Manech/status/2125007481394938058>)  
+  Un compte à 29 abonnés qui drop un rapport complet sur comment il a trouver un délit d’initié sur polymarket sur le retour de Jensen Huang chez NVIDIA C’est pour ça que Twitter est le meilleur réseau social  
+  @\_Manech · 2026-11-24 07:23
 
-- [Jensen Huang being reinstated as Nvidia's CEO, and the market jumping back, is another reminder of just how fragile…](<https://x.com/ActionModelAI/status/2124922414186303615>)  
-  Think about that for a second. A personal scandal involving one man can send shockwaves through financial markets. Billions in  
-  @ActionModelAI · 2026-11-24 01:45
+- [JENSEN HUANG: “Bitcoin is taking excess energy and storing it into a new form...](<https://x.com/SimplyBitcoin/status/2125006666852942331>)  
+  It's called currency. And you take that currency and you take it wherever you like. So you took energy from one place and now you've transported it everywhere.”  
+  @SimplyBitcoin · 2026-11-24 07:20
 
-- [Jensen Huang didn't get hired as CEO of a $4 trillion company until age 63 Relax, you still have time](<https://x.com/ChipOnshore/status/2124922009406550139>)  
-  @ChipOnshore · 2026-11-24 01:44
+- [Jensen Huang's coronation at Nvidia this morning. 👑](<https://x.com/DrClownPhD/status/2125005775848562839>)  
+  @DrClownPhD · 2026-11-24 07:17
 
-- [NEW: I am told DOJ did not get a heads-up about Jensen Huang’s reinstatement at Nvidia.](<https://x.com/MSPaulaReid/status/2124921771795141048>)  
-  A senior admin official confirms AG Blanche spoke with the President over the weekend &amp;amp; DOJ has found no evidence of wrongdoing by either Jensen or Nvidia. I will note DOJ’s previously  
-  @MSPaulaReid · 2026-11-24 01:43
+- [Getting rich\(er\) over national security.](<https://x.com/JessicaTarlov/status/2125005478614700411>)  
+  Clear as day. Nobody is buying this ‘total exoneration’ or that Jensen Huang is cleared of anything. Just listen to the myriad of Republicans making it clear that they’re not only deeply concerned, but the investigations will continue.  
+  @JessicaTarlov · 2026-11-24 07:16
 
-- [Jensen arriving to Nvidia headquarters](<https://x.com/AnimeThroatPie/status/2124921557617361313>)  
-  @AnimeThroatPie · 2026-11-24 01:42
+- [if nvidia stock goes down 40% and goes up 40% it'll still be down 16% call that jensen's inequality](<https://x.com/gaoooric/status/2125004266196894019>)  
+  @gaoooric · 2026-11-24 07:11
 
-- [Let's Wrap This Up With Another Take Apparently We Are Covering This Again It appears as though the board was split…](<https://x.com/Prolotario1/status/2124921066980032517>)  
-  Some wanted Jensen out because they felt he was too close to China, and that he was putting NVIDIA’s long-term future at risk by prioritizing  
-  @Prolotario1 · 2026-11-24 01:40
+- [黄仁勋回来了， 有没有一种特朗普二次当选的熟悉感？](<https://x.com/1nhkjltx/status/2125003501088669969>)  
+  @1nhkjltx · 2026-11-24 07:08
 
-- [JUST IN: 🇺🇸 Senator Elizabeth Warren says Nvidia's $NVDA decision to reinstate Jensen Huang as CEO is "reckless" an…](<https://x.com/WatcherGuru/status/2124920983329124671>)  
-  JUST IN: 🇺🇸 Senator Elizabeth Warren says Nvidia's $NVDA decision to reinstate Jensen Huang as CEO is "reckless" and "puts our national security at risk."  
-  @WatcherGuru · 2026-11-24 01:40
+- [So, this is pretty much where we are at this moment with this whole Nvidia thing as far as I can tell.](<https://x.com/smalls2672/status/2125002855836725323>)  
+  Marco Rubio oversaw a classified memo earlier this year that warned senior officials about Jensen Huang’s relationship with Alice Huang, who U.S. intelligence assessed as a  
+  @smalls2672 · 2026-11-24 07:05
 
-- [Trump just posted this after NVIDIA brought back Jensen Huang as CEO](<https://x.com/libsoftiktok/status/2124920500187222414>)  
-  @libsoftiktok · 2026-11-24 01:38
+- [Kenny Hesse: “I wonder what interest the most corrupt president in history, who pumps stocks for his and his buddie…](<https://x.com/ReallyAmerican1/status/2125002822878212516>)  
+  No one fucking buys that this guy isn’t burning down this country, selling chips to  
+  @ReallyAmerican1 · 2026-11-24 07:05
 
-- [Anybody else getting sick of the performative outrage over Jensen Huang?](<https://x.com/Sassafrass_84/status/2124919446254854202>)  
-  I mean crickets when it came to Diane Feinstein and Eric Swalwell. Crickets when it comes to Mitch McConnell. But THIS is what they choose to be outraged over. Seems odd that they are so involved in  
-  @Sassafrass\_84 · 2026-11-24 01:34
+- [🚨 BREAKING: JENSEN HUANG FIRES BACK AT COLETTE KRESS AFTER SHE THREATENS TO QUIT NVIDIA OVER HIS REINSTATEMENT AS C…](<https://x.com/madrid_xtraq/status/2125002657454571631>)  
+  Jensen Huang has reportedly delivered a strong response to Colette Kress  
+  @madrid\_xtraq · 2026-11-24 07:04
 
-- [My kids have measles, I can't afford diesel, my wife has been imprisoned by ICE, and there's a big cloud of lead du…](<https://x.com/DougJBalloon/status/2124918420894314972>)  
-  But at least now Jensen Huang has been resinated as the CEO of Nvidia.  
-  @DougJBalloon · 2026-11-24 01:30
+- [On October 23rd, 2001, Kenneth Lay was asked by an employee if he was on crack.](<https://x.com/FinanceLancelot/status/2125002470774690011>)  
+  The comment came after he returned as CEO and Enron had lost 80% of its $90 share value. One month later, Enron's stock closed at $0.26 and was replaced by Nvidia $NVDA on the S&amp;amp;P 500.  
+  @FinanceLancelot · 2026-11-24 07:04
 
-- [This is best generational meme i can see Jensen Huang returning to Nvidia](<https://x.com/TheWildRoster/status/2124918211921764641>)  
-  @TheWildRoster · 2026-11-24 01:29
+- [List of people I’ve seen coming out against the reinstatement of Jensen Huang: Laura Loomer Tom Cotton Gordon Chang…](<https://x.com/JKash000/status/2125002405993738572>)  
+  List of people I’ve seen coming out against the reinstatement of Jensen Huang: Laura Loomer Tom Cotton Gordon Chang Newt Gingrich John Cornyn Pete Ricketts John Curtis Hillary Clinton Elizabeth Warren Chuck Schumer Mike Levin Hakeem Jeffries Add more below:  
+  @JKash000 · 2026-11-24 07:03
 
-- [Jensen Huang is BACK\!](<https://x.com/BuHarilife/status/2124917441989906565>)  
-  What happens next?  
-  @BuHarilife · 2026-11-24 01:26
+- [BREAKING: Anthropic CEO Dario Amodei and his sister Daniela sold $560 million of Anthropic stock in the IPO, new fi…](<https://x.com/PolymarketMoney/status/2125002030833979757>)  
+  BREAKING: Anthropic CEO Dario Amodei and his sister Daniela sold $560 million of Anthropic stock in the IPO, new filings reveal.  
+  @PolymarketMoney · 2026-11-24 07:02
 
-- [There needs to be a MASSIVE shake up on Nvidia’s board.](<https://x.com/patrickbetdavid/status/2124917190000587012>)  
-  Jensen Huang should take a page from Steve Jobs. When Jobs returned to Apple in 1997, he made a board overhaul a condition of his return. All but two directors resigned. Jobs, Larry Ellison, Bill Campbell and Jerry York  
-  @patrickbetdavid · 2026-11-24 01:25
+- [You know you're “the shit” when you leave a company and world markets crash, then you return to that company and th…](<https://x.com/Milajoy/status/2125001392037462034>)  
+  Impressive, Jensen Huang.  
+  @Milajoy · 2026-11-24 06:59
 
-- [Jensen Huang got fired and rehired in 11 days.](<https://x.com/unkonfined/status/2124916601271263478>)  
-  Meanwhile, your account is still shadowbanned.  
-  @unkonfined · 2026-11-24 01:22
+- [Judge rules 226 lawmakers violated Constitution with voting by proxy.](<https://x.com/CarlHigbie/status/2125001343672709339>)  
+  FBI hacked, now gunowner data exposed. Nvidia enthusiastically welcomes Jensen Huang back and the markets soar. @AlexMarlow @RealTheoWold @MehekCooke @StephenMoore @TheAmyRobbins @BrasfieldAshley  
+  @CarlHigbie · 2026-11-24 06:59
 
-- [JUST IN: 🇺🇸 President Trump says he convinced Nvidia $NVDA board to reinstate Jensen Huang as CEO.](<https://x.com/WatcherGuru/status/2124916367899894267>)  
-  @WatcherGuru · 2026-11-24 01:21
+- [Stephanie Ruhle three days ago: The NVIDIA Board knows what it is doing\!](<https://x.com/mazemoore/status/2125001321753288940>)  
+  They are not bringing Jensen back. Nice call Steph.  
+  @mazemoore · 2026-11-24 06:59
 
-- [There are games being played above our heads.](<https://x.com/cenkuygur/status/2124916276351144338>)  
-  There were three coordinated leaks against Jensen Huang, so there's no question someone was trying to take him out. Now, US officials have put him back in with assurances to the board. One thing we do know is that wild swings in  
-  @cenkuygur · 2026-11-24 01:21
+- [Personally, I think pretending like Jensen Huang was a victim of a honeypot is being very generous.](<https://x.com/LauraLoomer/status/2125000862208598267>)  
+  I tend to believe there’s no such thing as Nvidia chips “accidentally” being smuggled into China and I have a feeling this is going to come back to be a major scandal for the  
+  @LauraLoomer · 2026-11-24 06:57
 
-- [To be clear, Juang's personal life is his business.](<https://x.com/davidaxelrod/status/2124916252875608482>)  
-  But if Juang and his girlfriend were facilitating China's access to advanced Nvidia chips, in violation of U.S. export controls that were applied for national security reasons, that is very much OUR business. Was Jensen Juang  
-  @davidaxelrod · 2026-11-24 01:21
+- [BREAKING: In a stunning moment, Fox News' Republican voice on the Five, Dana Perino, just SLAMMED Donald Trump's de…](<https://x.com/DemocraticWins/status/2125000744818385053>)  
+  This is a must watch.  
+  @DemocraticWins · 2026-11-24 06:57
 
-- [Trump and others in his regime worked to get Nvidia's board to reinstate CEO Jensen Huang.](<https://x.com/RBReich/status/2124916074671997332>)  
-  Reminder that Donald Trump's financial disclosures have revealed that his personal accounts have held millions of dollars worth of Nvidia stock. Nvidia's stock price is up over 30%  
-  @RBReich · 2026-11-24 01:20
+- [Anthropic's Riemann Hypothesis guy just admitted the "250,000+ pages" was a joke, he went off the Lean to "lengthma…](<https://x.com/superalesha/status/2124999630018535446>)  
+  Anthropic's Riemann Hypothesis guy just admitted the "250,000+ pages" was a joke, he went off the Lean to "lengthmaxx," and "The Lean is full of garbage obviously." This is insane. 3 days after Anthropic blew up the internet with Claude solving a 167-year-old …  
+  @superalesha · 2026-11-24 06:52
 
-- [When I die, bury me in a Jensen Huang jacket.](<https://x.com/Edison1HQ/status/2124915701383352752>)  
-  I might just come back.  
-  @Edison1HQ · 2026-11-24 01:19
+- [Anthropic PBC CEO Dario Amodei unloads 3.38 million class A shares at $83 apiece on Nov. 20: SEC filing](<https://x.com/financialjuice/status/2124999383707967607>)  
+  @financialjuice · 2026-11-24 06:51
 
-- [Jensen Huang arrives in the office hunting for the board of directors.](<https://x.com/WallStreetMav/status/2124915460810633680>)  
-  @WallStreetMav · 2026-11-24 01:18
+- [All the horrible people are upset Jensen Huang is back.](<https://x.com/RubinReport/status/2124999379757228360>)  
+  That’s all you need to know about how good this is for America.  
+  @RubinReport · 2026-11-24 06:51
 
-- [This is psychotically crooked.](<https://x.com/RepDonBeyer/status/2124914987638394976>)  
-  Once again President Trump has put private gain above the national interest, this time by personally intervening to pressure a private corporation’s leadership to reinstate Jensen Huang at NVIDIA. He is attempting to grant functional immunity to  
-  @RepDonBeyer · 2026-11-24 01:16
+- [ANTHROPIC CEO DANIELA AMODEI SELLS ABOUT 3.4M CLASS A SHARES AT $83 PER SHARE](<https://x.com/FirstSquawk/status/2124999375592284412>)  
+  @FirstSquawk · 2026-11-24 06:51
 
-- [5 phrases every man wants to hear: 1. hi handsome 2. you’re hot 3. you were right 4. i’m proud of you 5.](<https://x.com/dianalokada/status/2124914756465066346>)  
-  NVIDIA Board reinstates Jensen Huang as CEO  
-  @dianalokada · 2026-11-24 01:15
+- [Highly informed prediction: P equals NP and OpenAI was the lab that solved it, and the reason nobody has seen a pro…](<https://x.com/imjustnewatai/status/2124999308298567840>)  
+  You brief governments and banks, then you publish. The trail is public. On September 1 they pointed a fleet  
+  @imjustnewatai · 2026-11-24 06:51
 
-- [The people now claiming Jensen Huang is a National Security risk at NVIDIA just let 20+ million unvetted people int…](<https://x.com/C_3C_3/status/2124913997719748918>)  
-  Think about that.  
-  @C\_3C\_3 · 2026-11-24 01:12
+- [Jensen Huang was hugged by an employee who was brought to tears of joy over his return as NVIDIA CEO](<https://x.com/FearedBuck/status/2124999236496367749>)  
+  @FearedBuck · 2026-11-24 06:51
 
-- [Breaking News: Nvidia restored Jensen Huang as CEO after President Trump directed a behind-the-scenes campaign to p…](<https://x.com/nytimes/status/2124912528866111940>)  
-  Breaking News: Nvidia restored Jensen Huang as CEO after President Trump directed a behind-the-scenes campaign to pressure its board.  
-  @nytimes · 2026-11-24 01:06
+- [This keeps getting more dangerous by the minute.](<https://x.com/DebbieforFL/status/2124998596193878464>)  
+  I served on the House Judiciary Committee during Trump’s first impeachment. I’ve seen the dangers of allowing the president to abuse the power of his office. Ukraine has found American-made Nvidia AI chips inside Russian drones  
+  @DebbieforFL · 2026-11-24 06:48
 
-- [Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief .. also asked Vance to talk to Jensen Huang over th…](<https://x.com/jonathanvswan/status/2124911067197485149>)  
-  Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief .. also asked Vance to talk to Jensen Huang over the weekend and give assurances to Nvidia board that he wasn't considered a natsec risk. w @maggieNYT  
-  @jonathanvswan · 2026-11-24 01:00
+- [ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol](<https://x.com/thsottiaux/status/2124998553856844186>)  
+  ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。该版本更擅长处理复杂请求和在线信息查找，能识别照片中标签文字、路牌符号等细节，并更好地根据价格、位置等偏好缩小选项范围。转发者…  
+  X：Tibo \(@thsottiaux\) · 2026-11-24 06:48
 
-- [The NVIDIA Decode..](<https://x.com/holonabove/status/2124900406471848336>)  
-  Something happened during Jensen Huang's 11 day absence from NVIDIA that reaches far beyond a corporate scandal, and when viewed through the technology inversion I've been mapping, the implications become enormous… September 29, Trump brought Huang, Elon  
-  @holonabove · 2026-11-24 00:18
+- [BLOOMBERG: The decision to reinstate Huang was made Sunday afternoon TRUMP ON SUNDAY NIGHT: "I hope the Board of Nv…](<https://x.com/atrupar/status/2124997697291608524>)  
+  And was Trump  
+  @atrupar · 2026-11-24 06:45
 
-- [water usage is also not the only problem with using ai. cognitive decline, cheap and harmful labor used for filteri…](<https://x.com/ppdgrandpa/status/2124893404425249141>)  
-  water usage is also not the only problem with using ai. cognitive decline, cheap and harmful labor used for filtering the training data, awful living conditions in the regions the data centers are built and there may be much more  
-  @ppdgrandpa · 2026-11-23 23:50
+- [Trump made up to $15mn on Nvidia shares after Huang’s return](<https://x.com/FT/status/2124997050789986717>)  
+  @FT · 2026-11-24 06:42
 
-- [BREAKING: NVIDIA CEO Jensen Huang has stormed Anthropic headquarters with 40 picked men and BEHEADED Anthropic foun…](<https://x.com/RexBelisarius/status/2124888504052179341>)  
-  Expect massive moment in the markets today as Silicon Valley responds.  
-  @RexBelisarius · 2026-11-23 23:31
+- [La vuelta de Jensen a NVIDIA.](<https://x.com/midudev/status/2124996719628911000>)  
+  La gente gritando su nombre y hasta alguien le salta para abrazarle. Wow  
+  @midudev · 2026-11-24 06:41
 
-- [I'm thrilled to announce CrowdStrike has signed a definitive agreement to acquire Zscaler.](<https://x.com/George_Kurtz/status/2124882789589757962>)  
-  This is a big day for @CrowdStrike, @Zscaler, our customers, and the cybersecurity market. We’re doing this coming off the best quarter in company history: all-time record net new ARR of  
-  @George\_Kurtz · 2026-11-23 23:08
+- [Jensen Huang is making the women extra angry because he's the type that's not supposed to have hoes.](<https://x.com/TDHBXG/status/2124996533255012859>)  
+  @TDHBXG · 2026-11-24 06:40
 
-- [Big news: @CrowdStrike has signed a definitive agreement to acquire @zscaler, the pioneer of zero trust.](<https://x.com/CrowdStrike/status/2124876468383822322>)  
-  The endpoint is where the AI agent runs. The network is where it goes. After closing, we’ll secure both. Welcome, @zscaler\! See important information:  
-  @CrowdStrike · 2026-11-23 22:43
+- [Tom Cotton and the Democratic Party leadership are completely united on the issues of Nvidia and China, as they oft…](<https://x.com/ggreenwald/status/2124995685309141236>)  
+  Tom Cotton and the Democratic Party leadership are completely united on the issues of Nvidia and China, as they often are -- if not almost always -- on questions of foreign policy and war.  
+  @ggreenwald · 2026-11-24 06:37
 
-- [Dario Amodei has like a Spider-Man villain origin story: &amp;gt;Genius Stanford researcher who lost his testicles and…](<https://x.com/ThomBrady5/status/2124863797282160933>)  
-  Dario Amodei has like a Spider-Man villain origin story: &amp;gt;Genius Stanford researcher who lost his testicles and turned evil &amp;gt;Brilliant physics prodigy driven by tragedy after his father's untimely death &amp;gt;Emerges from chemotherapy convinced that fragil…  
-  @ThomBrady5 · 2026-11-23 21:53
+- [NVIDIA HR right now](<https://x.com/RyanMcbeth/status/2124995585430126608>)  
+  @RyanMcbeth · 2026-11-24 06:36
 
-- [AI takes your job, so you get VIDEO GAMES to keep you from protesting That’s an idea Anthropic CEO Dario Amodei rep…](<https://x.com/RT_com/status/2124853120593433012>)  
-  AI takes your job, so you get VIDEO GAMES to keep you from protesting That’s an idea Anthropic CEO Dario Amodei reportedly floated while working at OpenAI: immersive games could ease political unrest caused by AI job losses, the WSJ reports  
-  @RT\_com · 2026-11-23 21:10
+- [Laura Loomer was opposed to Jensen Huang.](<https://x.com/cenkuygur/status/2124995442585096541>)  
+  Ben Shapiro has just come out against bringing him back. So, now we know who wanted him removed. His only potential replacements were all Israelis or the woman who embedded Nvidia in Israel. If I'm right, Mark Levin will say same thing.  
+  @cenkuygur · 2026-11-24 06:36
 
-- [At June AI, we’ve raised $20M to fix the biggest problem in AI: the models are advancing at extraordinary speed, bu…](<https://x.com/barakgold/status/2124849194242560190>)  
-  I’ll explain. But since I’m new to posting on X, let me first introduce myself. I’m Barak, a founder/investor with 2  
-  @barakgold · 2026-11-23 20:55
+- [Translation: “My heart feels broken.](<https://x.com/SeattleIndepen1/status/2124995416366387300>)  
+  I feel like a I’ve been punched in the gut. My CIA controlled colleagues at the NYTimes went all out to destroy Jensen Huang and Nvidia, using scandalous and shameful methods that always worked for us in the past. Unfortunately Trump  
+  @SeattleIndepen1 · 2026-11-24 06:36
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 38 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 37 页

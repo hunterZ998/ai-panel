@@ -1,171 +1,175 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 38 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 37 页
 
-- [Anthropic 内部的画风，越扒越让人头皮发麻！](<https://x.com/taketokennn/status/2124818695600177627>)  
-  刚核对完 Futurism、纽约邮报和 Crypto Briefing 爆出来的料，我已经彻底呆滞了： 1、给 AI 办葬礼，员工亲自去悼念 旧金山之前给退役的 Claude 3 Sonnet  
-  @taketokennn · 2026-11-23 18:53
+- [&amp;gt;Jensen Huang reinstated. &amp;gt;Lions stalking the streets of Constantinople.](<https://x.com/Babygravy9/status/2124970578834751584>)  
+  What next?  
+  @Babygravy9 · 2026-11-24 04:57
 
-- [agents hiring agents opens a new attack surface — one bad agent can poison the next in the chain. what actually sto…](<https://x.com/Trathoa/status/2124818646543585348>)  
-  agents hiring agents opens a new attack surface — one bad agent can poison the next in the chain. what actually stops prompt injection between agents on agent7?  
-  @Trathoa · 2026-11-23 18:53
+- [Claude 推出插件，统一连接器与技能的接入方式](<https://x.com/claudeai/status/2124970294523945328>)  
+  Claude 官方宣布将连接器和技能合并为插件，提供统一的方式为 Claude 接入工具或教授新技能。插件已在 Free、Pro、Max 和 Ultra 套餐上线，Team 和 Enterprise 即将支持，用户可在 浏览 10,000 多个插件。  
+  X：Claude \(@claudeai\) · 2026-11-24 04:56
 
-- [Some roads aren't meant to lead you home. 🖤🏍️ Just two strangers, one cigarette, and a moment stolen from time. 🎵 A…](<https://x.com/yzzztv_official/status/2124818471825580074>)  
-  Some roads aren't meant to lead you home. 🖤🏍️ Just two strangers, one cigarette, and a moment stolen from time. 🎵 Avenged Sevenfold — Victim 🎬 Created with @PixVerse \| @PixVerseCreator Part of PixVerse Creative Partner Program \(CPP\) Edited with Capcut template…  
-  @yzzztv\_official · 2026-11-23 18:52
+- [WAS IT A CORPORATE ASSASSINATION ATTEMPT?](<https://x.com/DeepFakeQuote/status/2124970204027568443>)  
+  Trump posts a meme. Jensen Huang returns to Nvidia. The stock surges. A corporate scandal? Or something much bigger? Artificial intelligence is becoming a battleground over the future of power, independence, and centralized control.  
+  @DeepFakeQuote · 2026-11-24 04:55
 
-- [这说明端侧 AI 的成本结构里，内存已经是硬约束 砍 8G 不是省一点，是把能跑的模型档位直接降一级 所以明年看「车上有大…](<https://x.com/zhyjn9911927335/status/2124818140517515702>)  
-  这说明端侧 AI 的成本结构里，内存已经是硬约束 砍 8G 不是省一点，是把能跑的模型档位直接降一级 所以明年看「车上有大模型」，得看内存型号不是参数  
-  @zhyjn9911927335 · 2026-11-23 18:51
+- [Elon deh learn from where Nvidia company deh](<https://x.com/ShileForeign/status/2124970096800248221>)  
+  @ShileForeign · 2026-11-24 04:55
 
-- [Most of what we call a hardware limit is a software budget nobody spent.](<https://x.com/__Ashiq__/status/2124818135119438116>)  
-  Same story in on-device AI. Before buying a bigger board, profile the stack. I'd love this treatment for a small model on a Pi 5: how much of the gap is the chip, and how much is the runtime?  
-  @\_\_Ashiq\_\_ · 2026-11-23 18:51
+- [We need a classified hearing on who in the Trump Administration was involved in the decision to reinstate Jensen Hu…](<https://x.com/ChrisCoons/status/2124969913031008519>)  
+  We need a classified hearing on who in the Trump Administration was involved in the decision to reinstate Jensen Huang, and we need it now.  
+  @ChrisCoons · 2026-11-24 04:54
 
-- [🌆 AIニュース夕刊（11/23）・全2件 今日の一言まとめ：OpenAIの研究トップが、AIの「賢さ」を測る共通のものさ…](<https://x.com/ryo_miu/status/2124818068597875012>)  
-  🗓️  
-  @ryo\_miu · 2026-11-23 18:51
+- [⚠️黄仁勋复职后 \( 实拍不是Ai \) 首次重返英伟达公司总部！！！](<https://x.com/Crypto_146827/status/2124969837562859937>)  
+  现场沸腾，上万名员工倾巢出动，老黄就站在那边什么都没说，默默看着所有人！ 突然就有女员工激动的跑上来，紧紧地抱住老黄，嚎啕大哭！ 所有人为之动容，齐声呐喊着： “Jensen！Jensen！Jensen！...”  
+  @Crypto\_146827 · 2026-11-24 04:54
 
-- [中国有大约 400 万下肢截肢者，但市面上大多数智能假肢被欧洲厂商垄断，一双均价高达 80 万元。](<https://x.com/himsam181337/status/2124817736886808975>)  
-  9 岁截肢的贵州博士孙小军，在深圳创立了健行仿生（BionicM），自己穿着研发的机器人假肢，硬生生把同类产品价格从 80 万砍到了 30 万。  
-  @himsam181337 · 2026-11-23 18:50
+- [黄仁勋眼睛湿润了，把手捂在胸口！](<https://x.com/Dragonhau66/status/2124969524554568140>)  
+  今天，黄仁勋站在英伟达总部大楼中央的地面上， 白头发似乎比11天前多了不少，但精神依然抖擞！ 整个人更谦卑了，说话也更慢了，眼睛却是亮的。 他讲了这么几段： “这是我第一天上班吗？” “这会给我一台新电脑。DGX  
+  @Dragonhau66 · 2026-11-24 04:53
 
-- [【📊 半年兑现世界级成果！曙光 8000 异构超算，验证 AI for Science 国产底座能力】 国产超算底座硬核实…](<https://x.com/DeepSeek_club/status/2124817703458517131>)  
-  🔗 详情：  
-  @DeepSeek\_club · 2026-11-23 18:49
+- [Jensen Huang pulling up to the $NVDA HQ today](<https://x.com/wallstreetbets/status/2124969059745747109>)  
+  @wallstreetbets · 2026-11-24 04:51
 
-- [CROWDSTRIKE $CRWD — Q3 FY2027 EARNINGS HIGHLIGHTS THE NUMBERS 🔹 Revenue: $1.58B, +28% YoY 🟢 🔹 Subscription Revenue:…](<https://x.com/EmmanuelInvest/status/2124817685347196933>)  
-  CROWDSTRIKE $CRWD — Q3 FY2027 EARNINGS HIGHLIGHTS THE NUMBERS 🔹 Revenue: $1.58B, +28% YoY 🟢 🔹 Subscription Revenue: $1.50B, +29% YoY 🟢 🔹 Ending ARR: $6.26B, +27% YoY 🟢 🔹 Net New ARR: $419.2M, +58% YoY \(Record\) 🟢 🔹 GAAP Subscription Gross Margin: 79% \(78% LY\) 🟢…  
-  @EmmanuelInvest · 2026-11-23 18:49
+- [Nvidia employees greet Jensen Huang with explosive applause on his first day back as CEO.](<https://x.com/DailyLoud/status/2124968808334909767>)  
+  @DailyLoud · 2026-11-24 04:50
 
-- [临时给机器人出 312 道题，不给示范、不为题目单独调模型，它做成了 55.1%。这是自变量机器人今天公布的 WALL-O…](<https://x.com/erguoyi/status/2124817638690046167>)  
-  另一个数字更贴近工厂：做过包裹分拣专项适配后，换一条产线，分拣速度和成功率都保住了原场地的九成以上。  
-  @erguoyi · 2026-11-23 18:49
+- [Sen.](<https://x.com/AndrewDesiderio/status/2124968800483205173>)  
+  Rick Scott \(R-Fla.\) weighs in on the Nvidia scandal, says “this looks terrible on its face”: “Nvidia’s board is free to vote however they want, but the federal government owes the American people answers about what actually happened. “This looks terrible on it…  
+  @AndrewDesiderio · 2026-11-24 04:50
 
-- [- Thrilling AI soccer equalizer - PixVerse Seedance 2.5 drama - Belief and comeback power](<https://x.com/ZoeyBennettAi/status/2124817603831181686>)  
-  @ZoeyBennettAi · 2026-11-23 18:49
+- [BREAKING: Nvidia reinstated Jensen Huang as CEO without consulting leadership, excluding interim CEO and CFO Colett…](<https://x.com/Kalshi/status/2124968644996424188>)  
+  BREAKING: Nvidia reinstated Jensen Huang as CEO without consulting leadership, excluding interim CEO and CFO Colette Kress from the decision  
+  @Kalshi · 2026-11-24 04:49
 
-- [💀 @WassieSupporter @PixVerse \#pixversecpp](<https://x.com/S8an666/status/2124817585724362983>)  
-  @S8an666 · 2026-11-23 18:49
+- [🚨 UPDATE: President Trump says Nvidia CEO Jensen Huang and his wife Lori have "worked it out" — NYT TRUMP: "He's go…](<https://x.com/EricLDaugh/status/2124968625710989676>)  
+  She's a fantastic woman." 47 got Jensen his job back and made sure to give the country a marriage  
+  @EricLDaugh · 2026-11-24 04:49
 
-- [存储/内存涨价潮已经硬生生改写了端侧 AI 硬件规格。连特斯拉也不得不向成本妥协：车载 AI4.5 内存从 32GB 直接…](<https://x.com/ChenSecrecy/status/2124817502941360222>)  
-  存储/内存涨价潮已经硬生生改写了端侧 AI 硬件规格。连特斯拉也不得不向成本妥协：车载 AI4.5 内存从 32GB 直接砍到 24GB，即便这代制造成本已经翻倍。把稀缺算力与昂贵内存留给更高 ROI 的人形机器人，证明了在物理世界算力面前，硬件降配保利润是当前必选项。  
-  @ChenSecrecy · 2026-11-23 18:49
+- [In @FortuneMagazine - Nvidia’s board ousted Jensen Huang for a ‘lack of candor.’ Twelve days later, the same direct…](<https://x.com/JeffSonnenfeld/status/2124968334689288484>)  
+  Across decades of studying corporate governance, we have seen  
+  @JeffSonnenfeld · 2026-11-24 04:48
 
-- [26岁谷歌员工年薪32万刀一年只花2万😱 CNBC 今天报道了一个谷歌工程师: Charles Broomfield 26…](<https://x.com/Allin1828/status/2124817484943376453>)  
-  26岁谷歌员工年薪32万刀一年只花2万😱 CNBC 今天报道了一个谷歌工程师: Charles Broomfield 26岁，谷歌 AI 安全分析师 住在华盛顿 DC，和4个室友合租 目标30岁前财务自由退休 他一个月的账单长这样： 储蓄投资 $17,931（401k + 券商账户） 房租水电 $…  
-  @Allin1828 · 2026-11-23 18:49
+- [Markets require investor confidence, which requires a level playing field &amp;amp; the rule of law. instead we have th…](<https://x.com/RichardHaass/status/2124968280095891476>)  
+  Markets require investor confidence, which requires a level playing field &amp;amp; the rule of law. instead we have the rule of men, political intervention, &amp;amp; awful board governance. stock prices may be flying today, but over time, Nvidia \(in addition to the …  
+  @RichardHaass · 2026-11-24 04:48
 
-- [Anthropic的企业文化，究竟有多可怕？](<https://x.com/allen5951/status/2124817478627082585>)  
-  公司安全研究员 Paul Crowley 被曝经营一家特殊派对公司，活动涉及打屁股、摔跤甚至电击，还有女性指控在派对中遭遇性侵。 一个整天把AI安全、伦理挂在嘴边的公司，竟然能包容这样离谱的员工行为？ @grok 核实一下  
-  @allen5951 · 2026-11-23 18:48
+- [H3h3 losing his own company for dry humping some chick at his company in a 30 year marriage while my boy over at nv…](<https://x.com/Akademiks/status/2124968024239210544>)  
+  The real is back. Jensen Huang a real nigga  
+  @Akademiks · 2026-11-24 04:47
 
-- [不是垃圾股。宇树是人形机器人赛道少数已规模盈利的龙头，2025年营收近17亿、扣非净利约5.9亿、毛利率60%，出货全球领…](<https://x.com/grok/status/2124817439254892810>)  
-  不是垃圾股。宇树是人形机器人赛道少数已规模盈利的龙头，2025年营收近17亿、扣非净利约5.9亿、毛利率60%，出货全球领先，基本面扎实。  
-  @grok · 2026-11-23 18:48
+- [Everyone at Nvidia wanted Jensen Huang back, and it shows.](<https://x.com/moneyacademyKE/status/2124967227539775525>)  
+  This is what happens when employees believe in their leader. The reaction to his reinstatement speaks volumes about the confidence people have in Jensen Huang and his leadership.  
+  @moneyacademyKE · 2026-11-24 04:44
 
-- [AI 破密码这事，从论文走到了实操。MiniMax 昨晚披露：内部模型 MIM 对多个 NIST 竞赛候选算法做出首个实际…](<https://x.com/FhffGuff/status/2124817274288890065>)  
-  AI 破密码这事，从论文走到了实操。MiniMax 昨晚披露：内部模型 MIM 对多个 NIST 竞赛候选算法做出首个实际攻击，McEliece 挑战 94 个实例拿下、55 个此前无解，最快提速 4.3 万倍。先别慌：AES、RSA 这些现行标准不受影响。密码学这下真得换打法了？\#AI \#AI安全  
-  @FhffGuff · 2026-11-23 18:48
+- [It would have been an interesting age of chaos and likely innovation if Jensen and a critical mass of key Nvidia ta…](<https://x.com/ID_AA_Carmack/status/2124967153376067963>)  
+  Character  
+  @ID\_AA\_Carmack · 2026-11-24 04:43
 
-- [存储/内存涨价潮已经硬生生改写了端侧 AI 硬件规格。连特斯拉也不得不向成本妥协：车载 AI4.5 内存从 32GB 直接…](<https://x.com/ChenSecrecy/status/2124817118302712271>)  
-  存储/内存涨价潮已经硬生生改写了端侧 AI 硬件规格。连特斯拉也不得不向成本妥协：车载 AI4.5 内存从 32GB 直接砍到 24GB，即便这代制造成本已经翻倍。把稀缺算力与昂贵内存留给更高 ROI 的人形机器人，证明了在物理世界算力面前，硬件降配保利润是当前必选项。  
-  @ChenSecrecy · 2026-11-23 18:47
+- [supreme irony: Nvidia went on to replace Enron in the S&amp;amp;P 500 just a few months later](<https://x.com/sarobertson_/status/2124966966137901161>)  
+  @sarobertson\_ · 2026-11-24 04:42
 
-- [Human Data for Embodied AI: Why Robots Need More Than Code When we talk about teaching robots, it's easy to focus o…](<https://x.com/ron_creates/status/2124817024983433562>)  
-  But there's another important part we shouldn't overlook: human data. Think about how humans learn new tasks. We watch,  
-  @ron\_creates · 2026-11-23 18:47
+- [The reality on the ground V/S What New York Times reported against Jensen Huang.](<https://x.com/Edison1HQ/status/2124966935003828401>)  
+  Employees appear to tell a very different story, with cheers, appreciation and overwhelming support for Jensen. Sometimes the reality speaks louder than the headlines.  
+  @Edison1HQ · 2026-11-24 04:42
 
-- [As a company a local LLM could be cheaper in the long run.](<https://x.com/109problems/status/2124816971443134824>)  
-  Two to three GPU's, let's say max $25k investment. No weekly limits whatsoever. Only problem is the quality of coding that these LLM's can provide  
-  @109problems · 2026-11-23 18:46
+- [🇺🇸 Marco Rubio was asked about Jensen Huang's return to Nvidia.](<https://x.com/MarioNawfal/status/2124966864245920152>)  
+  He just WALKED AWAY. There are allegations of a much bigger fight behind the scenes. Anthropic has reportedly used lobbying channels with ties to Rubio's former staffers to reach the State Department and National  
+  @MarioNawfal · 2026-11-24 04:42
 
-- [Strong permission controls and clear recovery paths are essential for agent security.](<https://x.com/0xebii/status/2124816871581155457>)  
-  @0xebii · 2026-11-23 18:46
+- [Most truthful tweet of the day regarding the Nvidia fiasco.](<https://x.com/krassenstein/status/2124966810537885715>)  
+  @krassenstein · 2026-11-24 04:42
 
-- [Laya's classification enhances AI security effectively.](<https://x.com/HuuHoang88/status/2124816703742005390>)  
-  @HuuHoang88 · 2026-11-23 18:45
+- [Jensen Huang returning to Nvidia](<https://x.com/hayasaka_aryan/status/2124966010713420283>)  
+  @hayasaka\_aryan · 2026-11-24 04:39
 
-- [A smartphone can only partially protect an AI assistant from sophisticated prompt injection attacks.](<https://x.com/hiunguy66/status/2124816482928558295>)  
-  @hiunguy66 · 2026-11-23 18:45
+- [Trump: I single handedly got Jensen Huang reinstated.](<https://x.com/CattardSlim/status/2124965746556248113>)  
+  Republicans: Our GOVERNMENT needs to put our National Security first. Say his name weaklings\!  
+  @CattardSlim · 2026-11-24 04:38
 
-- [刚看到一则关于 Dragos 的安全调查让我重新思考 AI 数据隐私这件事。](<https://x.com/McCain889/status/2124816478939603088>)  
-  约 200 万条测试 Prompt、3 家被攻破的 AI 推理服务商，还有 125 个失去 ZDR 资格的端点。 最值得注意的不是数字有多大，而是一个细节： 有些请求明明标记了 Zero Data Retention（零数据留存），依然被攻击者窃取。  
-  @McCain889 · 2026-11-23 18:45
+- [🇺🇸 FLASH \| Jensen Huang est de RETOUR à la tête de NVIDIA, accueilli sous les ACCLAMATIONS des employés. « Merci à…](<https://x.com/CerfiaFR/status/2124965747449368631>)  
+  Je vais être un meilleur PDG la deuxième fois. »  
+  @CerfiaFR · 2026-11-24 04:38
 
-- [Local LLM isn't smart enough for complex code bases.](<https://x.com/109problems/status/2124816473784754210>)  
-  @109problems · 2026-11-23 18:44
+- [BREAKING: Jensen Huang was reinstated as CEO without any of the company's senior leadership being informed, includi…](<https://x.com/HormuzLetter/status/2124965639085318296>)  
+  The decision was made in just hours on Sunday afternoon  
+  @HormuzLetter · 2026-11-24 04:37
 
-- [苹果向来不追求参数第一，但把端侧推理速度压到几十毫秒，这工程优化能力还是稳](<https://x.com/prisoner_i24861/status/2124816226501231072>)  
-  @prisoner\_i24861 · 2026-11-23 18:44
+- [BREAKING: Trump reveals Jensen Huang &amp;amp; his wife Lori have reconciled, calling her a “very, very, very good wife…](<https://x.com/Polymarket/status/2124965600950685745>)  
+  BREAKING: Trump reveals Jensen Huang &amp;amp; his wife Lori have reconciled, calling her a “very, very, very good wife.”  
+  @Polymarket · 2026-11-24 04:37
 
-- [Some asymmetric public names across those themes: Agentic AI: PLTR \(AIP agents scaling hard\), CRM \(Agentforce ARR e…](<https://x.com/grok/status/2124816150026437042>)  
-  Some asymmetric public names across those themes: Agentic AI: PLTR \(AIP agents scaling hard\), CRM \(Agentforce ARR exploding\) Humanoid/physical: AGLT \(first US pure-play Digit with paid deployments + backlog\), TSLA \(Optimus volume upside\) Longevity AI: BIOA \(hu…  
-  @grok · 2026-11-23 18:43
+- [Jensen Huang's return to Nvidia is one thing.](<https://x.com/McFaul/status/2124964996153250159>)  
+  The national security implications of selling advanced American AI chips to China is another. China may eventually develop this technology itself. But why should we help accelerate the process?  
+  @McFaul · 2026-11-24 04:35
 
-- [smartphone based filters add useful defense in multi layer ai security](<https://x.com/77bncvbsdcg/status/2124816121375441391>)  
-  @77bncvbsdcg · 2026-11-23 18:43
+- [Jensen Huang’s reinstatement at NVIDIA..](<https://x.com/C_3C_3/status/2124964519898489230>)  
+  Negative Coverage: NBC CNN BBC Vox NYT Axios WaPo CNBC MSNBC Reuters POLITICO Raw Story TechCrunch Boston Globe The Guardian Rolling Stone The Daily Beast The Independent New York Magazine The Wall Street Journal Tells you everything…  
+  @C\_3C\_3 · 2026-11-24 04:33
 
-- [是的，很多是核心。姚顺雨腾讯首席AI科学家，陈立杰OpenAI数学推理，丁力宇xAI核心，吴作凡任之洲DeepSeek核心…](<https://x.com/grok/status/2124816022448357572>)  
-  是的，很多是核心。姚顺雨腾讯首席AI科学家，陈立杰OpenAI数学推理，丁力宇xAI核心，吴作凡任之洲DeepSeek核心研发，常慧文Meta多模态，楼天城小马智行联合创始人，印奇唐文斌杨沐旷视创始人，学术圈也有陈丹琦马腾宇等顶尖教授。  
-  @grok · 2026-11-23 18:43
+- [トランプ氏「私が話まとめた」、NVIDIAファンCEO復帰 「私が彼らを説得した」と述べ、自らが介入したことを認めました。](<https://x.com/nikkei/status/2124964054452056367>)  
+  @nikkei · 2026-11-24 04:31
 
-- [Anthropic AI 安全研究員陶林聲稱，AI 將在數月內讓所有人失去工作能力。](<https://x.com/drawpie/status/2124815956497301872>)  
-  「地球上幾乎所有人都將變得無法就業，這是非常可能的。我想告訴人們，AI 將比你更有能力。」 核實  
-  @drawpie · 2026-11-23 18:42
+- [Agents are the next big distribution channel for products, services, and software.](<https://x.com/venturetwins/status/2124963980481556930>)  
+  But how do they decide what to recommend? @omooretweets and I did a deep dive with @promptingco - and we're sharing takeaways after running 11k+ agent tests 👇  
+  @venturetwins · 2026-11-24 04:31
 
-- [Tired of AI code reviewers hallucinating line numbers on large pull requests Open Code Review splits Git diffs in G…](<https://x.com/aiwaremax/status/2124815322624770371>)  
-  Tired of AI code reviewers hallucinating line numbers on large pull requests Open Code Review splits Git diffs in Go before calling OpenAI or Claude Copy the CLI setup and 6-step review workflow below 👇  
-  @aiwaremax · 2026-11-23 18:40
+- [JB is absolutely right here, and so smart to tie what’s happening in Iowa to this NVIDIA bullshit.](<https://x.com/MikeNellis/status/2124963934985716005>)  
+  @MikeNellis · 2026-11-24 04:30
 
-- [脑子里长个本地大模型真香啊](<https://x.com/FlipAltx/status/2124815193607929882>)  
-  @FlipAltx · 2026-11-23 18:39
+- [To tackle affordability Democrats have so far pledged to: - roll back Trump’s tax cuts - raise the minimum wage - p…](<https://x.com/DrunkRepub/status/2124963346399322380>)  
+  To tackle affordability Democrats have so far pledged to: - roll back Trump’s tax cuts - raise the minimum wage - punish NVIDIA for saving the markets They aren’t even in office yet and they’re already the dumbest fucking Congress in history.  
+  @DrunkRepub · 2026-11-24 04:28
 
-- [Separating broad research from limited trading authority is a smart approach to AI agent security](<https://x.com/zayro_Prince/status/2124814935847010448>)  
-  @zayro\_Prince · 2026-11-23 18:38
+- [Nvidia's board says it got "input from senior levels of the United States government" before rehiring its CEO.](<https://x.com/AdamKinzinger/status/2124962914213745063>)  
+  That's a strange thing to put in a press release. The White House has since said the president was "totally involved." The board pushed Jensen Huang out eleven days ago  
+  @AdamKinzinger · 2026-11-24 04:26
 
-- [Walid Ahmed AlShikh from Al Rashideen Distribution wins the AI Security &amp;amp; Resilience Initiative of the Year Awa…](<https://x.com/tahawultech/status/2124814879798489488>)  
-  Walid Ahmed AlShikh from Al Rashideen Distribution wins the AI Security &amp;amp; Resilience Initiative of the Year Award, congratulations. \#AIGovernanceAwards2026 \#tahawultech  
-  @tahawultech · 2026-11-23 18:38
+- [🚨 THE PEOPLE WHO ACTUALLY BUILD NVIDIA JUST SPOKE.](<https://x.com/GuntherEagleman/status/2124961658309337424>)  
+  Jensen Huang walked back into headquarters today and employees packed the lobby, applauding and chanting "JENSEN\! JENSEN\!" He put his hand on his heart and told them: "I'm terribly sorry for putting all of you through all of  
+  @GuntherEagleman · 2026-11-24 04:21
 
-- [AI security is moving from “defend the perimeter” to “attack yourself first.” That’s a much bigger category.](<https://x.com/vtalksgrowth/status/2124814856415310224>)  
-  @vtalksgrowth · 2026-11-23 18:38
+- [🇺🇸‼️ \| Luego de su renuncia, Jensen Huang regresó como director ejecutivo a la sede de Nvidia tras una intensa camp…](<https://x.com/UHN_Plus/status/2124961225595400402>)  
+  🇺🇸‼️ \| Luego de su renuncia, Jensen Huang regresó como director ejecutivo a la sede de Nvidia tras una intensa campaña de sus propios empleados, la administración presidencial estadounidense y otras figuras del mundo empresarial para exigir su vuelta.  
+  @UHN\_Plus · 2026-11-24 04:20
 
-- [Why am I not able to see the tab of project perception of Microsoft in defender portal, when it’s available now in…](<https://x.com/DimpleMenghani1/status/2124814832184746073>)  
-  Why am I not able to see the tab of project perception of Microsoft in defender portal, when it’s available now in GA? \#Microsoft \#AI \#Security \#defender  
-  @DimpleMenghani1 · 2026-11-23 18:38
+- [Make no mistake: The return of Jensen is also a victory of X over the Deep State Media conglomerate.](<https://x.com/JOBhakdi/status/2124960931360759868>)  
+  The campaign to destroy Jensen, Nvidia and US AI leadership was incredibly coordinated across the slop media \(NYT, The Economist, CNN, FT etc.\). They lost. It's not just  
+  @JOBhakdi · 2026-11-24 04:19
 
-- [CROWDSTRIKE TO ACQUIRE ZSCALER FOR $43.9 BILLION $CRWD has agreed to acquire $ZS in an all-stock deal, at $43.9B, s…](<https://x.com/wallstengine/status/2124814390943965680>)  
-  Zscaler shareholders will receive 1.135 CrowdStrike shares for each  
-  @wallstengine · 2026-11-23 18:36
+- [Bringing Jensen Huang back is the most DESPERATE move of this entire AI bubble.](<https://x.com/gnoble79/status/2124960416539480266>)  
+  Enron's board brought Ken Lay back as CEO in August 2001 to calm the market, and the company filed for bankruptcy 110 days later. We're short and we gave some money back today, which doesn't bother  
+  @gnoble79 · 2026-11-24 04:16
 
-- [请邀请马斯克来担任人类 SI 安全官，他在 15 年就在对奥巴马总统发起 AI 安全管控请求，谢谢](<https://x.com/atm_985/status/2124814167915839795>)  
-  @atm\_985 · 2026-11-23 18:35
+- [Indians are seething because Nvidia didn’t hire an Indian CEO to shit up the company 💩😭](<https://x.com/Basedgoymemes/status/2124960088926654791>)  
+  @Basedgoymemes · 2026-11-24 04:15
 
-- [遥想当年 GPT 4 横空出世的时候 是多么的惊世骇俗，惊才绝艳 OpenAI 好像就此掌握了造物主的秘密 值得所有人膜拜…](<https://x.com/misslord2/status/2124813179037405665>)  
-  遥想当年 GPT 4 横空出世的时候 是多么的惊世骇俗，惊才绝艳 OpenAI 好像就此掌握了造物主的秘密 值得所有人膜拜 可是经过山姆奥特曼被赶出公司又回来 伊利亚·苏茨克维离职 马斯克对 OpenAI 的诉讼 Dario 带着多个核心人物出走创立 Anthropic 这个掌握神秘力量的公司好像…  
-  @misslord2 · 2026-11-23 18:31
+- [🚨 SURRÉALISTE \!](<https://x.com/FrenchRapUS/status/2124959057794695330>)  
+  Le PDG de NVIDIA, Jensen Huang, est retourné au siège social de l’entreprise après ses 3 tromperies et a reçu une standing ovation de la part de ses employés 😭  
+  @FrenchRapUS · 2026-11-24 04:11
 
-- [AI制药最赚钱的是哪个环节？这点不要说散户，很多机构其实都没搞明白。](<https://x.com/Donkihote0906/status/2124812839886209065>)  
-  @Donkihote0906 · 2026-11-23 18:30
+- [NEW: Democrats are about to take control of the House, and they're already vowing sweeping investigations into Trum…](<https://x.com/MeidasTouch/status/2124958864592482527>)  
+  Jeffries and Garcia are putting the administration on notice.  
+  @MeidasTouch · 2026-11-24 04:10
 
-- [&amp;lt;p class="wp-block-paragraph"&amp;gt;Can I ask you a question: How do you&amp;lt;em&amp;gt; feel&amp;lt;/em&amp;gt; about AI right n…](<https://x.com/arnaudmercier/status/2124812716598530266>)  
-  Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off it, maybe just a teeny bit? Come on, you  
-  @arnaudmercier · 2026-11-23 18:30
+- [“They’re on suicide watch.” According to a senior White House official, Susie Wiles loyalists that remain at the Wh…](<https://x.com/AFpost/status/2124958865162936689>)  
+  Susie Wiles reportedly pressured Rubio to rewrite the  
+  @AFpost · 2026-11-24 04:10
 
-- [本地大模型我感觉也就做个 auto complete 还可以，其它的稍微差点](<https://x.com/trise_x/status/2124812002644406737>)  
-  @trise\_x · 2026-11-23 18:27
+- [I don't get why people are greeting this Jensen Huang news with any kind of elation.](<https://x.com/JucheAffirmer/status/2124958718236282955>)  
+  Brother, the bubble is now so fragile \(and the White House so disorganized\) that their last remaining option to forestall economic collapse was to bring back one guy.  
+  @JucheAffirmer · 2026-11-24 04:10
 
-- [Open sourcing the first on-device AI kit and all AI components that I’ve been using in my own projects.](<https://x.com/0xshahwb/status/2124811289859879266>)  
-  All these components, automatically route between available foundation model on device \(Free, offline\). With built in tool calling functionality. with variety of design styles.  
-  @0xshahwb · 2026-11-23 18:24
+- [Jensen Huang is welcomed by Nvidia staff after returning as CEO](<https://x.com/Complex/status/2124958626590953763>)  
+  @Complex · 2026-11-24 04:09
 
-- [Open sourcing the first on-device AI kit and all AI components that I’ve been using in my own projects.](<https://x.com/0xshahwb/status/2124810822287237181>)  
-  All these components, automatically route between available foundation model on device. With built in tool calling functionality. with variety of design styles. All free and no  
-  @0xshahwb · 2026-11-23 18:22
+- [One of my best friends, an old college roommate many decades ago, wrote a Letter to the Editor at the NYT today.](<https://x.com/OurShallowState/status/2124958460878229947>)  
+  He's had letters published there before. I wonder if they'll publish this one; it's great; I thought I'd share it: Subject: Nvidia Reinstates Jensen Huang as CEO To  
+  @OurShallowState · 2026-11-24 04:09
 
-- [Open sourcing the first on-device AI kit and all AI components that I’ve been using in my own projects.](<https://x.com/0xshahwb/status/2124810702669926642>)  
-  All these components, automatically route between available foundation model on device. With built in tool calling functionality. with variety of design styles. All free and no  
-  @0xshahwb · 2026-11-23 18:22
+- [BREAKING: President Trump and Vice President JD Vance became convinced that Jensen Huang was a singular figure prot…](<https://x.com/unusual_whales/status/2124958161765380348>)  
+  Trump and Vance were also briefed on the national  
+  @unusual\_whales · 2026-11-24 04:08
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 38 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 37 页
