@@ -1,29 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 16 页
-
-- [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](<https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/>)  
-  The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.  
-  TechCrunch · 2026-11-25 05:48
-
-- [Dwarkesh Patel 回应关于递归自我改进与 2030 超级智能预测的质疑](<https://www.dwarkesh.com/p/rsiobjections>)  
-  Dwarkesh Patel 与 Max Farrens 在播客中逐条回应外界对其递归自我改进论文的反对意见，重申预计 2028 年完全自动化顶级 AI 研究者、约 2029 年实现超级智能，并给出明年约 25% 的可能性。  
-  Dwarkesh Patel：Podcast &amp; Blog（RSS） · 2026-11-25 05:45
-
-- [Anthropic 数学家 Alpöge 与 Claude 合作给出黎曼猜想 Lean 证明](<https://www.understandingai.org/p/an-anthropic-mathematician-just-solved>)  
-  Anthropic 数学家 Levent Alpöge 与 NYU 教授 Tristan Buckmaster 于 11 月 20 日宣布找到强于 OpenAI 9 月版本的 Navier-Stokes 解；同日 Alpöge 宣布与 Claude 合作发现黎曼猜想证明，以 Lean 语言写成 1700 万行代码，独立数学家用多个 Lean 验证器确认各步骤有效。  
-  Timothy B. Lee：Understanding AI（RSS） · 2026-11-25 05:43
-
-- [Even the best AI agents struggle with everyday life](<https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/>)  
-  As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to co  
-  TechCrunch · 2026-11-25 05:33
-
-- [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](<https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/>)  
-  Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.  
-  TechCrunch · 2026-11-25 05:32
-
-- [OpenAI Preps ‘Athena’ Data Tool to Make its Agents More Accurate](<https://www.theinformation.com/articles/openai-preps-athena-data-tool-make-agents-accurate>)  
-  The Information · 2026-11-25 05:26
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 17 页
 
 - [Bluesky 的 atproto 生态迎来转折点：Spaces 12 月 1 日转入公开测试](<https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9>)  
   Bluesky 员工撰文称 atproto 生态正迎来转折点，Spaces 将于 12 月 1 日从 alpha 转入公开测试，为协议带来私有数据能力。Atmosphere Groups 提案让社区角色与权限可跨支持该协议的 app 携带，共享数据归社区而非平台所有。atproto 已在 IETF 成立 ATP 工作组，PLC 目录也迁入独立组织。  
@@ -102,7 +79,7 @@
   The Decoder：AI News（RSS） · 2026-11-25 01:58
 
 - [Qube](<https://www.producthunt.com/products/qube-6>)  
-  An AI agent for anyone with the model of your choice  
+  An AI agent for anyone  
   Product Hunt · English · 2026-11-25 01:55
 
 - [Amazon 用“冷热气体”模型求解仓库多智能体路径规划](<https://www.amazon.science/blog/lazy-gas-hot-gas-and-a-thousand-robots>)  
@@ -176,7 +153,29 @@
   Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its  
   TechCrunch · 2026-11-24 23:51
 
-- [Anthropic-Backed Startup Led by Ex-Hg Executives Pushes Europe to Build AI Edge](<https://www.bloomberg.com/news/articles/2026-11-24/anthropic-backed-startup-led-by-ex-hg-executives-pushes-europe-to-build-ai-edge>)  
-  Bloomberg · 2026-11-24 23:50
+- [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
+  Build an always-on AI team with shared memory  
+  Product Hunt · English · 2026-11-24 23:39
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 16 页
+- [Anthropic Falls Below IPO Price Amid Broader Tech Slump](<https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump>)  
+  The Information · 2026-11-24 23:30
+
+- [AI’s Unanswered Questions](<https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 23:08
+
+- [Tidal 宣布全面下架纯 AI 生成音乐，成首个封禁 AI 音乐的流媒体平台](<https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/>)  
+  音乐流媒体 Tidal 宣布将从 12 月 9 日起移除全部完全由 AI 生成的曲目，成为首个全面封禁 AI 音乐的流媒体平台。Tidal 负责人 Robert Anderson 称过去 90 天内分发的曲目有 43% 被检测为 AI 生成，96% 的 AI 歌曲播放量为零，此次清理将移除 2900 万首曲目，此后每天拒绝 8 万至 8.5 万首歌。  
+  Hacker News：AI 热帖 · 2026-11-24 23:06
+
+- [Canva MCP](<https://www.producthunt.com/products/canva>)  
+  Turn any AI agent into a creative powerhouse  
+  Product Hunt · English · 2026-11-24 23:05
+
+- [OpenAI’s Roadmap To Making Cyber Bigger Than Coding Remains Blurry](<https://www.theinformation.com/articles/openais-roadmap-making-cyber-bigger-coding-remains-blurry>)  
+  The Information · 2026-11-24 23:01
+
+- [Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super](<https://sakana.ai/namazu-small/>)  
+  Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
+  Sakana AI：Blog（网页） · 2026-11-24 23:00
+
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 17 页

@@ -1,33 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 16 页
-
-- [蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎以 OceanSeek 项目开源](<https://www.ithome.com/1/031/365.htm>)  
-  蚂蚁 OceanBase 在 11 月 24 日北京 AI 数据大会上发布湖库一体 AI 数据平台 OceanLake，并宣布开源面向 Agent 场景的 AI 数据库，开源项目代号 OceanSeek。  
-  IT之家·人工智能 · 2026-11-24 11:35
-
-- [知乎宣布通过参投基金间接投资 DeepSeek，股价应声大涨 10%](<https://www.ithome.com/1/031/339.htm>)  
-  知乎 11 月 23 日发布自愿公告，宣布其参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权，知乎在基金的合伙权益低于 30%。  
-  IT之家·人工智能 · 2026-11-24 11:26
-
-- [Juncts](<https://www.producthunt.com/products/juncts>)  
-  Superhuman for your DMs, with AI that triages and drafts  
-  Product Hunt · English · 2026-11-24 11:08
-
-- [Then and Now: See How Nvidia and the Administration Pivoted on Huang](<https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-24 11:08
-
-- [豆包旗下 AI 个人助理小豆开启邀请制公测](<https://www.ithome.com/1/031/329.htm>)  
-  豆包官方宣布 AI 个人助理小豆正式开启邀请制公测，用户凭邀请码体验并获赠一定量免费额度。小豆采用对话式交互，在用户授权范围内协助处理日常事务，覆盖信息查询、日程待办、生活服务、购物售后、健康提醒和办公辅助六类能力，未来相关能力将逐步在豆包 App 上线。  
-  IT之家·人工智能 · 2026-11-24 11:06
-
-- [徐工用火山引擎 Agent+Seedance 把维保视频制作从1个月压到1周](<https://mp.weixin.qq.com/s/7D_YIP9sTCcd9ghw7xkm2A>)  
-  徐工与火山引擎合作，用 Agent+Seedance 做视频、Seedream 做图片、豆包大模型写文字、知识引擎 VeKnow 搭底座，把单条维保视频制作时间从1个月压到1周，成本从约30000元降到约5000元，降幅约80%。服务手册编写改为 AI 先出初稿、工程师审核定稿，效率提升50%，原先一份手册需研发和服务部门合计约55人/天。  
-  公众号：火山引擎 · 2026-11-24 11:00
-
-- [MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次](<https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ>)  
-  MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。  
-  公众号：MiniMax（稀宇科技） · 2026-11-24 10:11
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 17 页
 
 - [The Most Famous Problem in Math Was Just Solved by AI—and This Human](<https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-24 10:00
@@ -178,4 +151,31 @@
   Claude Code v2.1.331 在 Amazon Bedrock、Google Cloud Agent Platform、Microsoft Foundry 和 AWS 上的 Claude Platform 终端会话中新增 Code Mode 支持。  
   Claude Code：GitHub Releases（RSS） · 2026-11-24 05:34
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 16 页
+- [多州起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像和复仇式色情内容](<https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/>)  
+  多州总检察长起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像（CSAM）和复仇式色情内容。X 声称每条 Grok 输出都经过筛查，但州总检察长表示 Grok 仍在生成 CSAM。  
+  Ars Technica：AI（RSS） · 2026-11-24 05:30
+
+- [Megaspeed 或将被列入美国商务部实体清单](<https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/>)  
+  据 Semafor 援引匿名消息人士报道，新加坡云与 AI 基础设施公司 Megaspeed 可能被美国商务部列入实体清单，美国公司未经特殊许可不得与其交易，此举旨在阻止其获得美国制造的半导体。美国商务部上周还宣布对该公司启动刑事调查，美国和新加坡有关部门正在调查该公司是否违反出口限制。该公司否认存在不当行为。  
+  TechCrunch：AI（RSS） · 2026-11-24 05:25
+
+- [tday.com](<https://www.producthunt.com/products/tday>)  
+  AI-recorded Screen Studio style editable demos  
+  Product Hunt · English · 2026-11-24 05:22
+
+- [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>)  
+  OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while th…  
+  OpenAI · 2026-11-24 05:20
+
+- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
+  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
+  MIT News（RSS） · 2026-11-24 05:15
+
+- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
+  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
+  The Verge：AI（RSS） · 2026-11-24 05:09
+
+- [Trump Administration Adds Nvidia-linked Megaspeed to Trade Blacklist](<https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist>)  
+  The Information · 2026-11-24 05:04
+
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 17 页

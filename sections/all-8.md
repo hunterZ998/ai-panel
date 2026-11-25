@@ -1,41 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 16 页
-
-- [Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设](<https://www.goodfire.com/research/building-stronger-biological-reasoning-models>)  
-  Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。  
-  Goodfire Research（网页） · 2026-11-24 00:00
-
-- [Sarvam AI 发布文档抽取 API Sarvam Extract](<https://www.sarvam.ai/blogs/extract-api>)  
-  Sarvam AI 发布结构化文档抽取 API Sarvam Extract，由 Sarvam Vision 2.1 驱动，分 Basic 和 Advanced 两种模式，支持最多 500 页文档和英语及 22 种印度语言。  
-  Sarvam AI（网页） · 2026-11-24 00:00
-
-- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
-  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
-  Fireworks AI（网页） · 2026-11-24 00:00
-
-- [404 Media 调查 ARTEX 黑客工具被下架后仍在 GitHub 传播](<https://www.404media.co/im-not-going-to-remove-the-repository/>)  
-  404 Media 记者报道 AI 黑客工具 ARTEX，它可接入用户选择的大语言模型并派出多个 AI 子智能体分工执行侦察、窃取数据等攻击，数小时内可完成一次完整入侵。原作者于 10 月因工具被恶意使用而将其下架，但作者采访了仍在 GitHub 上分发该工具的多名用户，询问其拒绝移除的原因。  
-  404 Media（RSS） · 2026-11-23 23:35
-
-- [Z.ai 发布 750B 循环架构旗舰模型 GLM-5.4](<https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/>)  
-  Z.ai 发布基于循环 transformer 的 750B 参数旗舰模型 GLM-5.4，让 28 层共享权重运行两次，称性能可比 2 到 3 万亿参数模型。  
-  The Decoder：AI News（RSS） · 2026-11-23 23:13
-
-- [How to Win Bots and Influence Purchases](<https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents>)  
-  What gets your product or tool found, chosen, and used by agents?  
-  a16z · 2026-11-23 23:04
-
-- [Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据](<https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/>)  
-  Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。  
-  TechCrunch：AI（RSS） · 2026-11-23 23:04
-
-- [Why Anthropic’s Math Breakthrough Matters; Why Palo Alto Networks Bought Applied Compute](<https://www.theinformation.com/articles/anthropics-math-breakthrough-matters-palo-alto-networks-bought-applied-compute>)  
-  The Information · 2026-11-23 23:01
-
-- [Sakana AI 成立 Applied Research Lab，首个项目聚焦金融与经济](<https://sakana.ai/applied-research-lab/>)  
-  Sakana AI 宣布成立 Applied Research Lab，将公司研究应用于大规模复杂现实系统，首个项目为金融经济领域的 COFE 项目。  
-  Sakana AI：Blog（网页） · 2026-11-23 23:00
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 17 页
 
 - [Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例](<https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks>)  
   Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。  
@@ -173,6 +138,42 @@
   蚂蚁集团 CEO 韩歆毅在 2026 蚂蚁阿福医疗健康生态大会上称，蚂蚁阿福上线一年多已有 1.5 亿用户，成为全球最大的 AI 健康应用。他表示 AI 让健康管理从“千人一方”走向“一人一方”，并呼吁医保、商保保障范围从“治病”延伸到“健康”。  
   IT之家·人工智能 · 2026-11-23 11:40
 
+- [消息称亚马逊接近以 75 亿美元收购 AI 初创公司 Decart](<https://www.ithome.com/1/030/797.htm>)  
+  《金融时报》报道称，Amazon 已就收购 AI 初创公司 Decart 展开深入谈判，交易价值约 75 亿美元，最早可能在本周初达成协议，但仍存在破裂风险。  
+  IT之家·人工智能 · 2026-11-23 11:35
+
+- [蚂蚁阿福 App 升级：实时视频“望闻问切”，全家健康档案集中管理](<https://www.ithome.com/1/030/794.htm>)  
+  蚂蚁阿福 App 在医疗健康生态大会上宣布升级，基于蚂蚁百灵医疗健康系列模型新增实时视频看健康功能，用户可打视频电话让 AI 通过画面、声音和动作“望闻问切”，并一键连接真人医生。同时推出面向全家的“AI 健康管家”，集中管理家人健康档案及减重、控糖、育儿事项，并结合历史记录主动提醒异常变化。  
+  IT之家·人工智能 · 2026-11-23 11:25
+
+- [蚂蚁开源医疗多模态模型 LingSante-3.1-air-VL，总参数 124B、激活 5.5B](<https://mp.weixin.qq.com/s/c1qVtC3rXNK1Wqd59NxSAQ>)  
+  蚂蚁集团发布并开源首个多模态医疗大模型 LingSante-3.1-air-VL，基于 Ling-3.0-flash-VL 构建，总参数 124B、激活 5.5B，上下文窗口最高 256K token，权重已在 Hugging Face 和 ModelScope 开放。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-23 11:00
+
+- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash，融合医学推理与工作流执行](<https://mp.weixin.qq.com/s/UF7xL0pR842Jo-c7TZUWAw>)  
+  蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash，基于 Ling-3.1-flash 通用底座，总参数量 560B、每 token 激活约 25B，支持最长 1M 上下文，采用 Hybrid-linear MoE 架构（63 层 KDA 与 9 层 Gated MLA，512 个路由专家加 1 个共享专家）。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-23 11:00
+
+- [蚂蚁百灵医疗健康大模型宣布全面开源，最轻量版一台笔记本即可部署](<https://www.ithome.com/1/030/784.htm>)  
+  蚂蚁在阿福医疗健康生态大会上宣布蚂蚁百灵医疗健康大模型全面开源，家族包含大语言模型、实时音视频模型、预测模型和安全防护模型，支持疾病未来六年的发病风险预测。据现场信息，模型含医生专业个人版多模态模型（124B）和医疗机构版医疗智能体大模型（562B），最轻量版一台笔记本即可部署，官方称疾病种类、准确率超越全球多个专用模型。  
+  IT之家·人工智能 · 2026-11-23 10:56
+
+- [谷歌 AI 搜索变现乏力，苹果服务业务增长放缓](<https://www.ithome.com/1/030/783.htm>)  
+  据 Appleinsider 报道，用户搜索习惯转向 AI 软件导致谷歌与苹果的 Safari 默认搜索合作收益走弱。谷歌每年向苹果支付 200 亿美元并分成 36% 搜索广告收入，但其 AI 模式搜索广告变现能力低于传统搜索，搜索广告收入增速从上一季度的 17% 放缓至 12%，公布后股价累计下跌 18%；苹果服务业务同比增长率从 12% 放缓至 10%，高管预计下季度增长势头将进一步减弱。  
+  IT之家·人工智能 · 2026-11-23 10:44
+
+- [韩国资格考试防 AI 作弊：考生穿围裙考试、时隔 6 年重新收缴手机](<https://www.ithome.com/1/030/770.htm>)  
+  受税务师榜首考生自曝使用 AI 作弊影响，韩国 753 种国家资格考试开始加强反作弊措施。韩国产业人力公团自 11 月 21 日起时隔 6 年重新收缴考生手机，每个考场监考员从 1 人增至 2 人；第 28 届警卫指导师考试还要求考生穿一次性围裙，仍有 6 人因手机、平板开机或佩戴智能手表被查处。  
+  IT之家·人工智能 · 2026-11-23 10:02
+
+- [Anthropic IPO 前三家机构如何重注押注](<https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/>)  
+  TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。  
+  TechCrunch：AI（RSS） · 2026-11-23 09:25
+
+- [微软 AI 负责人苏莱曼支持 OpenAI 透明度倡议，公布 MAI-2 Base 评测结果](<https://www.ithome.com/1/030/745.htm>)  
+  微软 AI 负责人穆斯塔法·苏莱曼在 X 平台表示完全支持 OpenAI 提高透明度的倡议，认为这是 AI 安全协调方面朝正确方向迈出的一步。微软承诺在双方共同保留的评测集上分享预训练进展，经 OpenAI 许可公布的 MAI-2 Base 对数困惑度为 0.819，与 GPT-5.6 Sol 基础模型处于相近水平，且因使用与 OpenAI 相同的分词器，数字可直接比较。  
+  IT之家·人工智能 · 2026-11-23 09:00
+
 - [190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么](<https://podcast.latepost.com/190>)  
   「如果世界只剩一个前台，那是悲哀的。」 今年 9 月以来，Instinct、Muse 等 Personal Agent（个人 AI 助理）产品陆续爆火，一度被生产力主流淹没的 AI to C 领域再起变化。10 月 27 日，蚂蚁灵光…  
   晚点聊 · 2026-11-23 09:00
@@ -181,4 +182,4 @@
   Simon Willison 用 Claude Fable 5.2 构建的 Datasette 图表插件 datasette-charts 0.1a0 发布，可在 Datasette Lite 试用。  
   Simon Willison 博客 · 2026-11-23 08:37
 
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 16 页
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 17 页

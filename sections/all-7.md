@@ -1,33 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 16 页
-
-- [多州起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像和复仇式色情内容](<https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/>)  
-  多州总检察长起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像（CSAM）和复仇式色情内容。X 声称每条 Grok 输出都经过筛查，但州总检察长表示 Grok 仍在生成 CSAM。  
-  Ars Technica：AI（RSS） · 2026-11-24 05:30
-
-- [Megaspeed 或将被列入美国商务部实体清单](<https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/>)  
-  据 Semafor 援引匿名消息人士报道，新加坡云与 AI 基础设施公司 Megaspeed 可能被美国商务部列入实体清单，美国公司未经特殊许可不得与其交易，此举旨在阻止其获得美国制造的半导体。美国商务部上周还宣布对该公司启动刑事调查，美国和新加坡有关部门正在调查该公司是否违反出口限制。该公司否认存在不当行为。  
-  TechCrunch：AI（RSS） · 2026-11-24 05:25
-
-- [tday.com](<https://www.producthunt.com/products/tday>)  
-  AI-recorded Screen Studio style editable demos  
-  Product Hunt · English · 2026-11-24 05:22
-
-- [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>)  
-  OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while th…  
-  OpenAI · 2026-11-24 05:20
-
-- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
-  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
-  MIT News（RSS） · 2026-11-24 05:15
-
-- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
-  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
-  The Verge：AI（RSS） · 2026-11-24 05:09
-
-- [Trump Administration Adds Nvidia-linked Megaspeed to Trade Blacklist](<https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist>)  
-  The Information · 2026-11-24 05:04
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 17 页
 
 - [Claude Ship](<https://www.producthunt.com/products/claude-code>)  
   Ship code as fast as you can write it  
@@ -151,9 +124,6 @@
   Databricks 宣布面向 Apache Spark Structured Streaming 的原生 Lakebase sink 正式可用，通过单次 writeStream 调用即可把计算结果直接写入 Lakebase，内置批处理、连接复用、自动重试与 upsert。  
   Databricks：Blog（RSS） · 2026-11-24 00:32
 
-- [Amazon Acquires Chip Software Business from AI Startup Decart](<https://www.theinformation.com/briefings/amazon-acquires-chip-software-business-ai-startup-decart>)  
-  The Information · 2026-11-24 00:11
-
 - [METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍](<https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/>)  
   METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。  
   METR：Blog（网页） · 2026-11-24 00:00
@@ -178,4 +148,36 @@
   Transluce 发布 PosteriorBench，用于比较语言模型行为后验采样方法的计算成本与对真实后验的逼近程度。基准基于 Qwen3.5-0.8B 采样十亿条回复构建 21 个提示词-行为任务，行为概率覆盖 10⁻⁵ 至 10⁻¹。结果显示所评估方法均无法同时做到高效与忠实：免训练方法成本低但 KL 散度居高不下，训练方法需付出高昂成本才能见效。  
   Transluce（网页） · 2026-11-24 00:00
 
-[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 16 页
+- [Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设](<https://www.goodfire.com/research/building-stronger-biological-reasoning-models>)  
+  Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。  
+  Goodfire Research（网页） · 2026-11-24 00:00
+
+- [Sarvam AI 发布文档抽取 API Sarvam Extract](<https://www.sarvam.ai/blogs/extract-api>)  
+  Sarvam AI 发布结构化文档抽取 API Sarvam Extract，由 Sarvam Vision 2.1 驱动，分 Basic 和 Advanced 两种模式，支持最多 500 页文档和英语及 22 种印度语言。  
+  Sarvam AI（网页） · 2026-11-24 00:00
+
+- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
+  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
+  Fireworks AI（网页） · 2026-11-24 00:00
+
+- [404 Media 调查 ARTEX 黑客工具被下架后仍在 GitHub 传播](<https://www.404media.co/im-not-going-to-remove-the-repository/>)  
+  404 Media 记者报道 AI 黑客工具 ARTEX，它可接入用户选择的大语言模型并派出多个 AI 子智能体分工执行侦察、窃取数据等攻击，数小时内可完成一次完整入侵。原作者于 10 月因工具被恶意使用而将其下架，但作者采访了仍在 GitHub 上分发该工具的多名用户，询问其拒绝移除的原因。  
+  404 Media（RSS） · 2026-11-23 23:35
+
+- [Z.ai 发布 750B 循环架构旗舰模型 GLM-5.4](<https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/>)  
+  Z.ai 发布基于循环 transformer 的 750B 参数旗舰模型 GLM-5.4，让 28 层共享权重运行两次，称性能可比 2 到 3 万亿参数模型。  
+  The Decoder：AI News（RSS） · 2026-11-23 23:13
+
+- [How to Win Bots and Influence Purchases](<https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents>)  
+  What gets your product or tool found, chosen, and used by agents?  
+  a16z · 2026-11-23 23:04
+
+- [Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据](<https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/>)  
+  Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。  
+  TechCrunch：AI（RSS） · 2026-11-23 23:04
+
+- [Sakana AI 成立 Applied Research Lab，首个项目聚焦金融与经济](<https://sakana.ai/applied-research-lab/>)  
+  Sakana AI 宣布成立 Applied Research Lab，将公司研究应用于大规模复杂现实系统，首个项目为金融经济领域的 COFE 项目。  
+  Sakana AI：Blog（网页） · 2026-11-23 23:00
+
+[返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 17 页

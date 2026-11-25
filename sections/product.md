@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [PH今日热榜 \| 2026-11-25](<https://decohack.com/producthunt-daily-2026-11-25/>)  
+  distribution.dev：通过一个活动在多个网站上向开发者投放广告。；Granular.Build：让你的AI助手在可视化工作空间中发挥作用；Viktor Code：编码代理了解你的代码库，而维克托了解你的公司。  
+  Product Hunt 中文 · DecoHack · 2026-11-25 15:00
+
+- [OpenEight](<https://www.producthunt.com/products/openeight>)  
+  The deterministic control layer for AI agents  
+  Product Hunt · English · 2026-11-25 14:58
+
 - [MAGI-2](<https://www.producthunt.com/products/magi-1>)  
   Sand AI's 480B model for cinematic video generation  
   Product Hunt · English · 2026-11-25 13:35
@@ -23,7 +31,7 @@
   Product Hunt · English · 2026-11-25 04:30
 
 - [Qube](<https://www.producthunt.com/products/qube-6>)  
-  An AI agent for anyone with the model of your choice  
+  An AI agent for anyone  
   Product Hunt · English · 2026-11-25 01:55
 
 - [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
@@ -82,10 +90,6 @@
   AI code editor where agents build, run and test your app  
   Product Hunt · English · 2026-11-21 20:32
 
-- [K-Stra](<https://www.producthunt.com/products/k-stra>)  
-  Geomarketing for Australia, with an AI that does the maths  
-  Product Hunt · English · 2026-11-20 22:25
-
 - [Airbot](<https://www.producthunt.com/products/airbots>)  
   The AI chief of staff that texts you first  
   Product Hunt · English · 2026-11-20 00:45
@@ -98,12 +102,8 @@
   Faster voice agent evals, from simulation to production  
   Product Hunt · English · 2026-11-19 13:59
 
-- [Granular.Build](<https://www.producthunt.com/products/granular-build>)  
-  Put your AI agents to work in a visual workspace  
-  Product Hunt · English · 2026-11-19 02:51
-
-- [Ohhai](<https://www.producthunt.com/products/ohhai>)  
-  Type messy, send clean: an AI keyboard for iPhone  
-  Product Hunt · English · 2026-11-19 02:05
+- [Astor](<https://www.producthunt.com/products/astor>)  
+  AI Thesis Investing  
+  Product Hunt · English · 2026-11-19 10:44
 
 [返回面板](../README.md) · 第 1 / 1 页

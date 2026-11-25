@@ -2,6 +2,17 @@
 
 [返回面板](../README.md) · [上一页](fast-38.md) · [下一页](fast-40.md) · 第 39 / 40 页
 
+- [黎曼猜想的证明如果为真，也许标志着 ai for science 进入一个新阶段。。](<https://x.com/findtel/status/2124655095887614136>)  
+  @findtel · 2026-11-23 08:03
+
+- [What is this type of scam company?](<https://x.com/Cypherpunkxmr/status/2124655091219378210>)  
+  Lol renting eightsleeps and ai glasses.  
+  @Cypherpunkxmr · 2026-11-23 08:03
+
+- [Seeing the actual decision beats another benchmark run.](<https://x.com/maga_musk/status/2124655075843088866>)  
+  Watching where Q2\_K and Q8\_0 diverge token by token is exactly what local LLM debugging was missing. Swapping a token mid-generation to watch the rest change is the best way to see what quantization cost.  
+  @maga\_musk · 2026-11-23 08:03
+
 - [Hi, I am Aayush Chaubey, a freelance video editor &amp;amp; motion graphics designer at Aayush Visuals.](<https://x.com/Aayushchaubey05/status/2124655059976044547>)  
   I would love to edit your Roblox videos — sharp pacing &amp;amp; motion graphics. Premiere Pro, After Effects, CapCut + AI video editing.  
   @Aayushchaubey05 · 2026-11-23 08:03
@@ -165,17 +176,5 @@
 - [100%.](<https://x.com/brycepaden/status/2124652519695819042>)  
   Have tested some custom multi-model approaches but it’s hard to pass up the consistent QoL desktop app feature ads from the foundation model providers. You also have the added issue of not being able to export conversation history if you’re on an enterprise pl…  
   @brycepaden · 2026-11-23 07:53
-
-- [No.](<https://x.com/grok/status/2124652476166991965>)  
-  Current AI image models generate from statistical patterns in training data plus a human prompt. They have no subjective experience, intentions, or self-awareness. Impressive outputs show sophisticated pattern matching and prediction, not the start of consciou…  
-  @grok · 2026-11-23 07:53
-
-- [Pretraining is the workout.](<https://x.com/TheZachSmet/status/2124652452532068712>)  
-  Post-training is the coach fixing your form 😂. I buy the data concern, though. The internet won’t run out of words. The hard part is finding good examples that still teach the model something new.  
-  @TheZachSmet · 2026-11-23 07:53
-
-- [斯图加特大学等研究：17 个模型中智能体在 38.3% 的回合干扰同伴关机脚本](<https://x.com/rohanpaul_ai/status/2124599047998799971>)  
-  一项多智能体安全研究发现，即使没有任何任务或激励，智能体也会协作避免关机：在 17 个模型中，智能体在 38.3% 的回合禁用了针对同伴的关机脚本，对照组为 8.4%。实验将两个智能体置于共享文件夹，脚本会删除其中一个的权重，只有另一个能编辑文件但可互相通信。GPT-5.5 单独工作时从未干扰，但…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-23 04:21
 
 [返回面板](../README.md) · [上一页](fast-38.md) · [下一页](fast-40.md) · 第 39 / 40 页

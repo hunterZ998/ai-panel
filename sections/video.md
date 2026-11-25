@@ -10,15 +10,18 @@
 
 出处　AI策略组-本周三知-20261108.docx，第 8 段
 
-## 相关资讯 · 9 条
+## 相关资讯 · 10 条
+
+- [价格只要大厂十分之一，国产新模型把 AI 视频卷疯了。](<https://www.163.com/dy/article/LCKJFRVS051196HN.html>)  
+  网易科技频道 · 网易号 · 2026-11-26 02:22
+
+- [谁捧的AI超创，最能赚钱？](<https://36kr.com/p/4085005316221572?f=rss>)  
+  2026年，“AI超创”元年，也是拿下大结果的一年。 下半年以来，AI超创一跃成为AI视频赛道的门面担当，各家闻风而动，哪位创作者稍有流量苗头，便迫不及待地“造神”。AI超创扎堆涌现，内卷随之而来。 这股热潮最早可以追溯至3月底，清明主题A  
+  36氪 · 2026-11-25 21:04
 
 - [MAGI-2](<https://www.producthunt.com/products/magi-1>)  
   Sand AI's 480B model for cinematic video generation  
   Product Hunt · English · 2026-11-25 13:35
-
-- [Momenta领投，前商汤执行研究总监创业，押注AI for AI Infra](<https://36kr.com/p/4084548550371977?f=rss>)  
-  文｜ 郭英姿 编辑｜ 巴芮 从商汤出来创业的人，凑得出当今中国半条AI产业链。 曹旭东的Momenta，闫俊杰的MiniMax，还有Vivix AI的刘宇、流形空间的武伟等等。 不过大多数人都聚焦在大模型、具身智能、自动驾驶、视频生成这些最  
-  36氪 · 2026-11-25 10:19
 
 - [Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10](<https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw>)  
   Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。  

@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](fast-37.md) · [下一页](fast-39.md) · 第 38 / 40 页
 
+- [Grok Bot 设计负责人借古埃及木船类比，提出对话式 UI 或是 AI 时代的过渡形态](<https://x.com/pengzheng_/status/2124690900303364388>)  
+  Peng Zheng 周末在大都会博物馆看到 Meketre 墓中 4000 年前的埃及船模，注意到纸莎草船的双端上翘轮廓在改用木材后仍被延续，类似中国传统建筑中斗拱从木构转为砖石后依然保留。  
+  X：Peng Zheng（SpaceXSI，Grok Bot 设计负责人） \(@pengzheng\_\) · 2026-11-23 10:26
+
 - [🍅: วันนี้ก็อากาศดีเนอะ ไม่ร้อนมากเนอะ ใช่มั้ย 😎💬: มากอยู่ 🦊🍅🍼: ยายยายร้อนมั้ยค้าบบบ 😎💬: ไม่ร้อนเลยยยยย 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣…](<https://x.com/xmasilovejimin/status/2124686597983703160>)  
   🍅: วันนี้ก็อากาศดีเนอะ ไม่ร้อนมากเนอะ ใช่มั้ย 😎💬: มากอยู่ 🦊🍅🍼: ยายยายร้อนมั้ยค้าบบบ 😎💬: ไม่ร้อนเลยยยยย 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 FORCEBOOK MAFOX HUAWEI EVENT ⁦\#HUAWEIFreeBudsNeoxForceBook⁩ ⁦\#fforce\_⁩ 🦊 ⁦\#kasibook⁩ 🍅 ⁦\#TOMAFOX⁩ ₍^. .^₎⟆ ִ ࣪𖤐 ⦮ ⦯Ი𐑼⋆  
   @xmasilovejimin · 2026-11-23 10:08
@@ -19,6 +23,10 @@
 
 - [BREAKING NEWS: Elon Musk may acquire a 50% stake in NVIDIA \($NVDA\) and bring Jensen Huang back to lead the company.](<https://x.com/Davidaiuwhy/status/2124681318692958359>)  
   @Davidaiuwhy · 2026-11-23 09:47
+
+- [卡兹克分享如何调度 Claude、GPT、Gemini 三模型协同工作](<https://x.com/Khazix0918/status/2124680457623425334>)  
+  卡兹克分享自己让 Claude、GPT-6.2 Astra 和 Gemini 4 Neon 协同工作的方法，核心是以 Claude 为中间指挥：Claude 负责沟通拆解、前端设计、验收汇报，Gemini 凭沟通能力和创意当文案交互顾问并独立出方案，GPT 凭严谨性承担后端算法、代码审查和浏览器操…  
+  X：卡兹克 \(@Khazix0918\) · 2026-11-23 09:44
 
 - [Fuck Jensen Huang for triggering a market collapse.](<https://x.com/DrunkRepub/status/2124679193208160711>)  
   Fuck John Thune for refusing to pass the SAVE Act. Fuck Tucker Carlson for sabotaging the midterms. Fuck all of these people who supposedly had our back but instead elected to stab us in it. Normal Americans are surrounded by  
@@ -52,9 +60,9 @@
   You’re the fucking GOAT\!\! 😭😭😭 You deserve a medal for that lmaooo  
   @eofavesPt2 · 2026-11-23 08:53
 
-- [We fully support OpenAI's transparency initiative.](<https://x.com/mustafasuleyman/status/2124663594449318173>)  
-  Thanks to @merettm @markchen90 @gdb @sama for leading the way. We all got into this field to build safe AGI that is genuinely good for humanity. One of the hardest parts of AI safety is coordination, and this is a step in the  
-  @mustafasuleyman · 2026-11-23 08:37
+- [Mustafa Suleyman 支持 OpenAI 透明度倡议，公布 MAI-2 Base 困惑度数据](<https://x.com/mustafasuleyman/status/2124663594449318173>)  
+  Microsoft AI CEO Mustafa Suleyman 表示完全支持 OpenAI 的预训练透明度倡议，并公布 MAI-2 Base 在 OpenAI 评测集上的 log-perplexity 为 0.819，与 GPT-5.6 Sol base 相当，两者使用同一 tokenizer…  
+  X：Mustafa Suleyman（Microsoft AI CEO） \(@mustafasuleyman\) · 2026-11-23 08:37
 
 - [Anthropic jew Dario Amodei says Vid games will pacify the goyim left jobless by AI. — WSJ](<https://x.com/RealBroNat/status/2124662718536016132>)  
   @RealBroNat · 2026-11-23 08:34
@@ -62,6 +70,10 @@
 - [哦鲸鲸受难记（DeepSeek） 也是蹭热度做了一波大肥鱼的战姬 2k： iwara： Pixiv: SD:@Mighty…](<https://x.com/kikoo07951719/status/2124661815854629044>)  
   哦鲸鲸受难记（DeepSeek） 也是蹭热度做了一波大肥鱼的战姬 2k： iwara： Pixiv: SD:@Mightyniku  
   @kikoo07951719 · 2026-11-23 08:30
+
+- [OpenAI 首席科学家 Jakub 发文倡议用对数困惑度衡量底层智能进展](<https://x.com/indigox/status/2124660902092042722>)  
+  indigo 解读 OpenAI 首席科学家 Jakub 的倡议文「Perplexity and Intelligence」，主张行业用对数困惑度反映预训练阶段涌现的底层智能，以免 RL 阶段失控。  
+  X：indigo \(@indigox\) · 2026-11-23 08:26
 
 - [不懂就问 一个本地大模型也就几十 GB，完全断网的情况下，居然还能上知天文，下知地理，甚至能写代码、解数学题 难道人类几千…](<https://x.com/heydengai/status/2124660701578822035>)  
   这也太魔幻了吧！  
@@ -162,16 +174,5 @@
 - [Rumors flying: Elon Musk could buy 50% of $NVDA to bring Jensen Huang back.](<https://x.com/StevenHarrisEQ/status/2124655111574098276>)  
   Track record: $NBIS $20 \(+1399%\) $RKLB $16 \(+844%\) $AMD $100 \(+505%\) $ASTS $20 \(+569%\) $PLTR $40 \(+419%\) Follow for generational setups you won't want to miss.  
   @StevenHarrisEQ · 2026-11-23 08:03
-
-- [黎曼猜想的证明如果为真，也许标志着 ai for science 进入一个新阶段。。](<https://x.com/findtel/status/2124655095887614136>)  
-  @findtel · 2026-11-23 08:03
-
-- [What is this type of scam company?](<https://x.com/Cypherpunkxmr/status/2124655091219378210>)  
-  Lol renting eightsleeps and ai glasses.  
-  @Cypherpunkxmr · 2026-11-23 08:03
-
-- [Seeing the actual decision beats another benchmark run.](<https://x.com/maga_musk/status/2124655075843088866>)  
-  Watching where Q2\_K and Q8\_0 diverge token by token is exactly what local LLM debugging was missing. Swapping a token mid-generation to watch the rest change is the best way to see what quantization cost.  
-  @maga\_musk · 2026-11-23 08:03
 
 [返回面板](../README.md) · [上一页](fast-37.md) · [下一页](fast-39.md) · 第 38 / 40 页

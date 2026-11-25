@@ -38,26 +38,37 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 146 条
+## 相关资讯 · 163 条
+
+- [算力爆发催生供配电新需求 电池厂掘金AI数据中心蓝海](<https://www.163.com/dy/article/LCL135HE053469RG.html>)  
+  网易科技频道 · 网易号 · 2026-11-26 06:20
+
+- [AI data centers are becoming harder to build, and neoclouds are feeling it](<https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/>)  
+  ⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as n  
+  TechCrunch · 2026-11-25 23:41
+
+- [AI算力越热，氟化冷却液如何跨过环保关？](<https://36kr.com/p/4084984031106695?f=rss>)  
+  AI数据中心的扩张，首先带来的是用电和散热压力。AI芯片功耗提升、机柜密度增加后，服务器产生的热量更难通过传统风冷及时排出，冷却系统也会影响数据中心的能耗和可部署算力。液冷因此受到更多关注。 但“液冷”不是单一产品，冷却液也不是只有氟化液。  
+  36氪 · 2026-11-25 20:42
 
 - [从单点冲高到按需分工，11月大模型竞争的四个变化](<https://36kr.com/p/4084981247841927?f=rss>)  
-  从训练出一款更强的模型，转向设计一套能够持续生产、分配并变现智能的系统。 2026年11月，大模型厂商开始了一轮新模型的「扎堆」发布。 这次已经没人再单纯强调模型变得更「聪明」，而是都在强调更具体的优化方向、应用场景和成本优势。 在海…  
+  从训练出一款更强的模型，转向设计一套能够持续生产、分配并变现智能的系统。 2026年11月，大模型厂商开始了一轮新模型的「扎堆」发布。 这次已经没人再单纯强调模型变得更「聪明」，而是都在强调更具体的优化方向、应用场景和成本优势。 在海外，完  
   36氪 · 2026-11-25 20:30
 
 - [老黄回归，存储下跌，半导体的繁荣周期还有多久？](<https://36kr.com/p/4085012701473160?f=rss>)  
-  由于人工智能数据中心的大规模投资，全球半导体行业正经历着前所未有的繁荣。这些人工智能数据中心如同“黑洞”，无休止地消耗着半导体。 结果，消费级存储器的需求被搁置，导致DRAM和NAND闪存（以下简称NAND）极度短缺，价格飙升（图1）…  
+  由于人工智能数据中心的大规模投资，全球半导体行业正经历着前所未有的繁荣。这些人工智能数据中心如同“黑洞”，无休止地消耗着半导体。 结果，消费级存储器的需求被搁置，导致DRAM和NAND闪存（以下简称NAND）极度短缺，价格飙升（图1）。世界  
   36氪 · 2026-11-25 20:23
 
 - [AI“教父”杨立昆怒怼Anthropic CEO：渲染AI危险，只是想让开源模型非法](<https://36kr.com/p/4085017435761028?f=rss>)  
-  「从 GPT-2 时代开始，Dario 就一直在渲染 AI 的危险，好让开放模型被认定为非法，而他自己则能继续掌控一切。」 近日，图灵奖得主、AI 教父 Yann LeCun（杨立昆）在 X 上公开发表了一番相当激烈的言论。他不仅指责…  
+  「从 GPT-2 时代开始，Dario 就一直在渲染 AI 的危险，好让开放模型被认定为非法，而他自己则能继续掌控一切。」 近日，图灵奖得主、AI 教父 Yann LeCun（杨立昆）在 X 上公开发表了一番相当激烈的言论。他不仅指责 An  
   36氪 · 2026-11-25 20:21
 
 - [A社Tibo被曝加盟OpenAI，上市前离职三人组异地团圆](<https://36kr.com/p/4085043406973571?f=rss>)  
-  亏贼，OpenAI这是要把Claude Code的老班底凑齐了？？ 就在刚刚，硅谷知名人事爆料账号@ArfurGrok放出消息： Claude Code核心成员Thariq Shihipar，已加入OpenAI 。 再往前翻一周，同一…  
+  亏贼，OpenAI这是要把Claude Code的老班底凑齐了？？ 就在刚刚，硅谷知名人事爆料账号@ArfurGrok放出消息： Claude Code核心成员Thariq Shihipar，已加入OpenAI 。 再往前翻一周，同一账号还  
   36氪 · 2026-11-25 20:16
 
 - [黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈](<https://36kr.com/p/4085062673749895?f=rss>)  
-  黄仁勋从辞职到回归，只用了11天。但在这11天里，整个AI产业链都跟着坐了一次过山车。特别是有一个被黄仁勋，亲手推上风口浪尖的行业，正在经历一场更大的变化：光通信。 虽然它不像GPU一样参与计算，却能卡住AI的脖子，为什么？答案就藏在…  
+  黄仁勋从辞职到回归，只用了11天。但在这11天里，整个AI产业链都跟着坐了一次过山车。特别是有一个被黄仁勋，亲手推上风口浪尖的行业，正在经历一场更大的变化：光通信。 虽然它不像GPU一样参与计算，却能卡住AI的脖子，为什么？答案就藏在AI数  
   36氪 · 2026-11-25 20:01
 
 - [英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
@@ -72,9 +83,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   长江词元由长江产业集团牵头，联合市场化专业团队、人工智能独角兽企业联合组建。定位：AI 词元 / 算力调度运营平台，搭建「算力投资 + 算力运营 + 词元输出 + 产业协同」全链条模式，面向湖北政企客户提供大模型词元集中集采、统一接入…  
   IT桔子 · 2026-11-25 18:15
 
-- [远景科技自研物理AI气象大模型“远景天机”亮相](<https://www.163.com/tech/article/LCJM1KB200098IEO.html>)  
-  网易科技 · 2026-11-25 17:47
-
 - [Nidus获得3000万美元战略投资](<https://www.itjuzi.com/investevent/14708679>)  
   Nidus是一家具身智能科技研发商，研发机器人基础模型，为传统工业机器人提供泛化操作能力，主打国防工厂线束精密装配自动化，采用本地化主权 AI 框架，保障涉密生产环境下数据可控，商业化上线 4 个月即达成七位数营收。近日，Nidus获…  
   IT桔子 · 2026-11-25 16:20
@@ -87,10 +95,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Xlue是一家医疗健康基础大模型研发商，打造健康世界模型，跳出传统文本 token 范式，基于脱敏纵向电子病历建模患者健康状态演变，核心管线 CATCH-FM 用于癌症风险分层预警，同时面向医院、药企提供疾病风险预测、虚拟临床试验仿真…  
   IT桔子 · 2026-11-25 10:21
 
-- [Momenta领投，前商汤执行研究总监创业，押注AI for AI Infra](<https://36kr.com/p/4084548550371977?f=rss>)  
-  文｜ 郭英姿 编辑｜ 巴芮 从商汤出来创业的人，凑得出当今中国半条AI产业链。 曹旭东的Momenta，闫俊杰的MiniMax，还有Vivix AI的刘宇、流形空间的武伟等等。 不过大多数人都聚焦在大模型、具身智能、自动驾驶、视频生成这些最  
-  36氪 · 2026-11-25 10:19
-
 - [杨立昆怒怼 Anthropic CEO 阿莫迪：炒作 AI 危险论是为了掌握控制权](<https://www.ithome.com/1/031/960.htm>)  
   杨立昆在 X 平台发文怒怼 Anthropic CEO 达里奥·阿莫迪，称其自 GPT-2 以来一直炒作 AI 的危险性，目的是让开源模型被列为非法、让自己掌握控制权，并称他离开 OpenAI 只是因为在那里无法掌握控制权。他将这种做法比作奥斯曼帝国禁止阿拉伯语印刷机，是一种新的中世纪蒙昧主义，阻止人们自由获取多元知识。  
   IT之家·人工智能 · 2026-11-25 10:16
@@ -99,32 +103,8 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   中国电子云是中国电子旗下唯一云计算品牌，聚焦网络安全和信息化，致力于成为AI专属云。近日，中国电子云完成9.9亿元B轮融资。本轮融资由国家产业投资基金二期领投，湖北省军融创投、武创投、经开区产投省市区三级基金，以及GPU厂商沐曦股份产…  
   IT桔子 · 2026-11-25 10:02
 
-- [英伟达风波敲响警钟，企业该如何应对AI周期震荡？](<https://36kr.com/p/4084422365260421?f=rss>)  
-  上周美股震荡不休，AI板块的行情动荡带动大盘大幅下挫。即便是Anthropic创下纪录的IPO，也没能止住跌势。单是英伟达CEO黄仁勋被罢免、又迅速恢复职务这一事件，就引发了一轮剧烈交易波动。目前市场局势虽稍有企稳，但我希望厘清当下左右市场  
-  36氪 · 2026-11-25 09:06
-
-- [曲曲大女人征服AI](<https://36kr.com/p/4083829691804294?f=rss>)  
-  2026年6月，世界人工智能大会在上海举行，超过1100余家企业、9位图灵奖和诺贝尔奖得主参会，规模堪称历史之最。 峰会论坛上CEO和顶级专家们西装革履，从芯片算力聊到安全监管。一谈愿景，全是高瞻远瞩关切人类命运；一看财报，还真没几个挣上了  
-  36氪 · 2026-11-25 08:26
-
-- [突发，模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」](<https://36kr.com/p/4084381582862726?f=rss>)  
-  在硅谷最为顶尖的两个 AI 实验室内部，一场关于「何时踩下刹车」的激烈博弈似乎正在水面下迅速发酵…… 媒体 Axios 援引超过 24 名知情人士的独家爆料称， OpenAI 和 Anthropic 内部尚未公开发布的内部前沿大模型，正展现  
-  36氪 · 2026-11-25 08:24
-
-- [Gemini 4包揽前三，能打败谷歌的只有谷歌](<https://36kr.com/p/4084426587793792?f=rss>)  
-  谷歌一家，霸占了Arena文本榜前三！ 就在最近，X网友Alex晒出的最新Arena文本榜上， 前三名全被Gemini 4（Carbon、Argon、Neon）拿下 ，Carbon以1527分登顶。 两个月前，这张榜的前六名还清一色是Cla  
-  36氪 · 2026-11-25 08:23
-
 - [Dell Raises Annual Forecast as AI Data Center Boom Continues](<https://www.theinformation.com/briefings/dell-raises-annual-forecast-ai-data-center-boom-continues>)  
   The Information · 2026-11-25 07:57
-
-- [你梁文峰不要的姐姐用户，作业帮和Tipsy崩定了](<https://36kr.com/p/4083792724633984?f=rss>)  
-  “我失恋了，我的老公死了。” 最近，DeepSeek因算力资源紧张，对App和网页版免费用户实施限额，措施包括限制长对话、每日使用额度及单次输入长度。消息一出，先倒霉的是人机恋用户。 在此前的报道中小娱曾提到过，有一部分用户在DeepSee  
-  36氪 · 2026-11-25 07:42
-
-- [为了让AI不停工，数据中心沉海底、钻矿洞，还要自己盖电厂](<https://36kr.com/p/4083802539616646?f=rss>)  
-  最近，关于算力的新闻越来越猎奇了。社交媒体上，有人调侃AI数据中心正日夜不停地生成“霸总短剧”；新闻头条上，科技巨头为了抢电、抢水建数据中心，在地方听证会上和居民、环保组织吵得不可开交。 同时承载着娱乐内容与工业冲突的AI数据中心，究竟有多  
-  36氪 · 2026-11-25 07:36
 
 - [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](<https://sv101.fireside.fm/274>)  
   算力市场的“定心丸”，他回来了。 11月23日，黄仁勋回归英伟达重新出任CEO，英伟达股价开盘上涨30%，并带动美国AI市场短暂复苏；与英伟达关系密切的NeoCloud公司CoreWeave、Nebius、IREN股价也一度飙升超过2…  
@@ -133,10 +113,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [张小珺对话前xAI预训练成员沈驿康，复盘2026年大模型、RSI与硅谷创业](<https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62>)  
   张小珺播客2026年复盘节目，嘉宾为前xAI预训练团队成员、Learning Machine创始人沈驿康。节目保留黄仁勋辞职一周内录制的硅谷情绪，讨论xAI解散多模态团队及模型未跻身T0的原因，复盘2026年大模型跳变时刻，分析RSI、持续学习与Personal Agent，并分享预训练数据配比、数值稳定等关键路径与蒸馏的长期代价。  
   张小珺商业访谈录（小宇宙） · 2026-11-25 07:30
-
-- [Anthropic 刚刚公布了 Claude Opus 5.5 的 12 条新提示词规则](<https://36kr.com/p/4049496559801220?f=rss>)  
-  神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。 编者按：别再用“一步步思考”折磨AI了。Anthropic最新12条军规：放弃微观管理，给Agent划定终点线才是核心。 如果你给 Cla  
-  36氪 · 2026-11-25 07:18
 
 - [Meta 工程博客详解 Facebook Your Algorithm 如何用 LLM 把自然语言偏好接入推荐排序](<https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/>)  
   MarkTechPost 解读 Meta 的工程博客，介绍 Facebook Your Algorithm 如何让用户用自然语言表达 Feed 和 Reels 偏好，该功能于 2026 年 10 月 13 日公布。  
@@ -215,5 +191,29 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [徐工用火山引擎 Agent+Seedance 把维保视频制作从1个月压到1周](<https://mp.weixin.qq.com/s/7D_YIP9sTCcd9ghw7xkm2A>)  
   徐工与火山引擎合作，用 Agent+Seedance 做视频、Seedream 做图片、豆包大模型写文字、知识引擎 VeKnow 搭底座，把单条维保视频制作时间从1个月压到1周，成本从约30000元降到约5000元，降幅约80%。服务手册编写改为 AI 先出初稿、工程师审核定稿，效率提升50%，原先一份手册需研发和服务部门合计约55人/天。  
   公众号：火山引擎 · 2026-11-24 11:00
+
+- [蚂蚁百灵发布生理信号基础模型 LingSante-Pulse，从30秒波形预测六年疾病风险](<https://mp.weixin.qq.com/s/xidWztAK7Fob87FhoD5fzQ>)  
+  蚂蚁百灵团队发布生理信号基础模型 LingSante-Pulse，在超过15万小时的多场景生理序列数据上预训练，用单一冻结编码器统一处理 EEG、ECG、PPG、EMG 等多种生理信号。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
+
+- [蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升](<https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g>)  
+  蚂蚁百灵大模型发布并开源 Ling-3.2-air，延续 Ling-3.0-flash-VL 原生多模态架构，总参数 1240 亿、每 Token 激活 55 亿，支持文本、图像和视频输入。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
+
+- [OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役](<https://www.ithome.com/1/031/271.htm>)  
+  OpenAI 宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，此前该模型已在 ChatGPT Work 和 Codex 亮相不到一周。  
+  IT之家·人工智能 · 2026-11-24 08:49
+
+- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
+  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
+  OpenAI · 2026-11-24 08:00
+
+- [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
+  vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
+  vLLM 官方博客（RSS） · 2026-11-24 08:00
+
+- [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
+  百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
+  vLLM 官方博客（RSS） · 2026-11-24 08:00
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页

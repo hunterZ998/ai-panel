@@ -1,6 +1,34 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 16 页
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 17 页
+
+- [2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比](<https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/>)  
+  MarkTechPost 整理 2026 年 7 款个人 AI 智能体的横评，从记忆、安全、成本三个维度比较 Hermes Agent、OpenClaw、Gemini Spark、OpenAI dots、Meta Muse、Perplexity Personal Computer 及 NanoClaw 等加固分支。  
+  MarkTechPost（RSS） · 2026-11-22 18:36
+
+- [研究指AI数据中心碳排放堪比中等国家，Anthropic环境信息披露引关注](<https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the>)  
+  在Anthropic完成IPO之际，有气候研究指出，美国大型数据中心的碳排放合计已相当于中等国家水平。哈佛大学团队在《自然·可持续性》发表的研究估算，2024年5月至2025年4月间403个数据中心年排放约2570万吨二氧化碳，占美国电力消耗近2%。澳大利亚气候研究员Ketan Joshi的报告进一步指出，AI行业全生命周期排放可能超过国际航空业，且Anthropic从未披露任何能源、排放或环境数据，并与OnePWR达成34亿美元、1.7吉瓦燃气发电设备采购协议。相关研究认为，数据中心自建燃气发电、制冷剂泄漏等因素…  
+  Hacker News：AI 热帖 · 2026-11-22 18:32
+
+- [Google 在 Gemini API 预览 Tool Retrieval，面向大型工具库延迟加载 schema](<https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/>)  
+  Google 在 Gemini API 的 Interactions API（v1beta）中预览上线 Tool Retrieval，延迟加载工具参数 schema，模型只看名称和短描述，需要时才检索加载完整 schema，降低大量工具定义带来的 token 开销。  
+  MarkTechPost（RSS） · 2026-11-22 18:03
+
+- [Wolters Kluwer 报告：美国会计行业 AI 采用率高，但技术整合成熟度不足](<https://www.ithome.com/1/030/679.htm>)  
+  Wolters Kluwer Tax &amp; Accounting 发布的《面向未来的会计师》报告显示，88% 的美国会计从业者在日常工作中使用生成式 AI，68% 正在使用智能体 AI，83% 的受访事务所自视为“技术创新者”或“早期采用者”。  
+  IT之家·人工智能 · 2026-11-22 17:58
+
+- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
+  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
+  The Decoder：AI News（RSS） · 2026-11-22 17:41
+
+- [菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可](<https://www.ithome.com/1/030/677.htm>)  
+  2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。  
+  IT之家·人工智能 · 2026-11-22 17:35
+
+- [蚂蚁阿福用户达 1.5 亿，每天线上问诊超 2000 万次](<https://www.ithome.com/1/030/653.htm>)  
+  蚂蚁健康事业群副总裁杨猛在 2026 蚂蚁阿福医疗健康生态大会上透露，蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超过 2000 万次，55% 来自三线及以下城市，1/4 是老人，16% 的问诊发生在凌晨 0 点到早上 6 点。  
+  IT之家·人工智能 · 2026-11-22 16:58
 
 - [马斯克预警：AI 行业明年或面临严重资金短缺，营运资金缺口或达数千亿美元](<https://www.ithome.com/1/030/628.htm>)  
   马斯克在回复 Keras 创始人 François Chollet 时预警，AI 行业明年可能面临严重资金短缺，若从支付算力成本到设备稳定创收的时间累计推迟数月，仅营运资金就可能需额外投入数千亿美元。Chollet 此前指出 GPU 现货价格仍在上涨，HBM 和 DRAM 到 2029 年的产能基本已被订满，前沿模型训练算力约每 5 个月翻一番。  
@@ -27,7 +55,7 @@
   IT之家·人工智能 · 2026-11-22 14:32
 
 - [Anthropic 数学家称与 Claude 可能证明黎曼猜想，同日人类数学家另提证明](<https://www.exponentialview.co/p/ev-611>)  
-  Anthropic 数学家 Levent Alpöge 称他与 Claude 可能证明了黎曼猜想，其证明长达 1740 万行 Lean。同日斯坦福数学家 Ravi Vakil 提交了 Alessandro Masullo 的纯人类证明，该证明仍在第三方核验中，团队正将其转写为 Lean 以加速验证。  
+  Anthropic 数学家 Levent Alpöge 称他与 Claude 可能证明了黎曼猜想，其证明长达 1740 万行 Lean。同日斯坦福数学家 Ravi Vakil 发布 Alessandro Masullo 的纯人类证明，该证明仍在第三方核验并被转写为 Lean。Scott Aaronson 指出，经 Lean 验证的 AI 结果从未被撤稿。  
   Azeem Azhar：Exponential View（RSS） · 2026-11-22 12:59
 
 - [韩国高考 AI 作弊事件发酵，教育部长崔教振引咎辞职](<https://www.ithome.com/1/030/558.htm>)  
@@ -50,21 +78,25 @@
   How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evalua…  
   OpenAI · 2026-11-22 08:00
 
-- [Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator](<https://tomtunguz.com/what-kind-of-factory-will-you-build/>)  
-  Tomasz Tunguz 结合 Notion 与 LangChain 同日发布的两篇文章，提出 AI 时代的软件与知识工厂共享同一套四步循环：context、agent、trace、curator，后两步将执行轨迹变成数据并反哺规格，使系统每周持续改进。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-22 08:00
-
 - [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
   OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
   OpenRouter：Announcements（RSS） · 2026-11-22 08:00
 
-- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 Python Web 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
-  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产环境运行 ASGI 与 WSGI Python 应用提供最佳工具。  
+- [Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator](<https://tomtunguz.com/what-kind-of-factory-will-you-build/>)  
+  Tomasz Tunguz 结合 Notion 与 LangChain 同日发布的两篇文章，提出 AI 时代的软件与知识工厂共享同一套四步循环：context、agent、trace、curator，后两步将执行轨迹变成数据并反哺规格，使系统每周持续改进。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-22 08:00
+
+- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 ASGI 和 WSGI Python 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
+  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产的 ASGI 与 WSGI Python 应用提供最佳运行工具。  
   Simon Willison 博客 · 2026-11-22 07:56
 
 - [Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息](<https://www.ithome.com/1/030/517.htm>)  
   Signal 推出 iOS / Android 更新，默认阻止应用内截图和录屏，以防止 Siri AI、Gemini 等 AI 智能体在用户不知情时读取私人消息。  
   IT之家·人工智能 · 2026-11-22 07:28
+
+- [AI 的 Jevons 悖论：更便宜的 token 无法支撑巨额资本开支](<https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/>)  
+  作者检验超大规模厂商用 Jevons 悖论为巨额 capex 辩护的说法，指出 token 销量增长与价格下跌速度相当，短期价格弹性仅略高于 1，收入未必随用量增长。  
+  Hacker News：AI 热帖 · 2026-11-22 07:00
 
 - [Signal 限制移动端截图，应对操作系统级 AI 监控风险](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>)  
   Signal 宣布在 Android 和 iOS 上默认限制应用内截图，此前 Windows 版已默认阻止截图。总裁 Meredith Whittaker 称集成 agentic AI 的操作系统会扫描屏幕数据，使敏感信息被 capture、存储并可被系统级 AI 智能体访问，损害 Signal 独立保障隐私的能力。  
@@ -94,14 +126,6 @@
   The Decoder 基于 Sam Kriss 的 New Yorker 报道介绍佛蒙特州修道院组织 Maple（Monastic Academy），该组织约 24 名常住成员，年收入最高 100 万美元，目标是成为 AI 行业的精神权威并训练由其领袖 Soryu Forall 思维建模的 AI，前成员指控其录音监控与心理操纵，领导层几乎否认所有指控。  
   The Decoder：AI News（RSS） · 2026-11-22 00:04
 
-- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
-  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
-  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
-
-- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-flash>)  
-  蚂蚁百灵推出 LingSante-3.1-flash，以 560B 总参数、每 token 激活约 25B 的 Hybrid-linear MoE 架构（最长 1M 上下文）原生融合医学推理与工作流执行能力。  
-  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
-
 - [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
   Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
   Sarvam AI（网页） · 2026-11-22 00:00
@@ -114,72 +138,48 @@
   短剧平台 Shortical 首次通过直接协议授权以色列演员 Aki Avni 的面部，制作全 AI 剧集《Inevitable》，并计划向公众开放面部授权申请。文中提到 Rest of World 报告称行业面部授权报酬为 15 至 700 美元，且从业者担忧 AI 正在削减短剧行业给新人演员的工作机会。  
   TechCrunch：AI（RSS） · 2026-11-22 00:00
 
+- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
+  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
+- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-flash>)  
+  蚂蚁百灵推出 LingSante-3.1-flash，以 560B 总参数、每 token 激活约 25B 的 Hybrid-linear MoE 架构（最长 1M 上下文）原生融合医学推理与工作流执行能力。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
+- [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
+  The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
+  The Verge：AI（RSS） · 2026-11-21 23:00
+
 - [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
   Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
   20VC · 2026-11-21 22:50
+
+- [Chess.com 推出 Classic Games 平台，上线麻将、数独等 10 款经典游戏](<https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai>)  
+  Chess.com 正式公测 Classic Games 平台，在网页端及 iOS、Android 新应用上线麻将、数独、围棋、象棋、跳棋等 10 款经典游戏。每款游戏均配备课程、排行榜和评分系统，多人游戏支持对战玩家或沿用 Chess.com 的机器人角色。该平台由不到公司 1% 的团队借助 AI 加速编码在数月内完成，美术与设计仍由人工完成。  
+  The Verge：AI（RSS） · 2026-11-21 22:00
+
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol 的新提示词指南，修正简短回答与多余提问](<https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/>)  
+  OpenAI 为 11 月 17 日发布的 GPT-6.2 Astra 和 Sol 公布了一套可直接复制的提示词模板，覆盖写作风格、主动性和编码，并建议迁移的开发者重新审视系统提示词。  
+  The Decoder：AI News（RSS） · 2026-11-21 21:32
+
+- [欧洲央行行长拉加德呼吁欧盟用公共资金为芯片厂和数据中心承担首轮损失](<https://www.ithome.com/1/030/472.htm>)  
+  欧洲央行行长拉加德 11 月 20 日在法兰克福欧洲银行业大会发表卸任前最后一次演讲，呼吁欧盟利用包括欧盟预算在内的公共资金，在大型芯片制造厂和数据中心项目中率先承担首轮损失，通过跨区域公私合作伙伴关系吸引私人资本。  
+  IT之家·人工智能 · 2026-11-21 20:36
 
 - [VibeCode.surf](<https://www.producthunt.com/products/vibecode-surf>)  
   AI code editor where agents build, run and test your app  
   Product Hunt · English · 2026-11-21 20:32
 
-- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
-  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
-  The a16z Show · 2026-11-21 19:00
+- [Thinking Machines 发布开源权重模型 Inkling 2 Mini：26.4B 循环 MoE 可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、每 token 激活 3.4B，以 Apache 2.0 协议上架 Hugging Face。  
+  MarkTechPost（RSS） · 2026-11-21 20:13
 
-- [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
-  Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
-  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
+- [OpenAI 在 API 上线 GPT-Live-1.1 语音模型，闲置成本降至 $0.02/分钟](<https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/>)  
+  OpenAI 将全双工语音模型 GPT-Live-1.1 开放进 API（模型 ID gpt-live-1.1），默认 128K 上下文，仅限 OpenAI 云端通过 v1/live/sessions 部署，客户端经 WebRTC 或 WebSocket 连接。  
+  MarkTechPost（RSS） · 2026-11-21 19:46
 
-- [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
-  Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
-  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
+- [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](<https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/>)  
+  Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。  
+  The Decoder：AI News（RSS） · 2026-11-21 19:19
 
-- [Amp 为 Puck 推出车载模式，支持开车时语音对话](<https://ampcode.com/news/puck-in-the-car>)  
-  Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
-  Amp Chronicle · 2026-11-21 08:00
-
-- [Why the Agent Era Needs a New Operating System \| DHH](<https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL>)  
-  David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: th…  
-  The a16z Show · 2026-11-20 23:48
-
-- [Charts of the Week: There is No Gen Z](<https://www.a16z.news/p/charts-of-the-week-there-is-no-gen>)  
-  AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds  
-  a16z · 2026-11-20 23:08
-
-- [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
-  A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
-  a16z · 2026-11-20 23:03
-
-- [K-Stra](<https://www.producthunt.com/products/k-stra>)  
-  Geomarketing for Australia, with an AI that does the maths  
-  Product Hunt · English · 2026-11-20 22:25
-
-- [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
-  Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
-  Axios · 2026-11-20 20:10
-
-- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
-  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
-  Axios · 2026-11-20 18:20
-
-- [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)  
-  OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement…  
-  OpenAI · 2026-11-20 18:00
-
-- [Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>)  
-  Google Research 回顾 Duplex 十年架构演进，并介绍本周在 Gemini App Tasks 中上线的自动致电商家功能。  
-  Google Research：Blog（网页） · 2026-11-20 08:00
-
-- [browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作](<https://browser-use.com/posts/browser-use-1-0>)  
-  Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chrome DevTools Protocol 访问替代 0.x 的 24 个浏览器动作。  
-  Browser Use · 2026-11-20 08:00
-
-- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
-  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
-  OpenAI · 2026-11-20 08:00
-
-- [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>)  
-  MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and sele…  
-  OpenAI · 2026-11-20 08:00
-
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 16 页
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 17 页

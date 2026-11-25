@@ -1,31 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 16 页
-
-- [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
-  Build an always-on AI team with shared memory  
-  Product Hunt · English · 2026-11-24 23:39
-
-- [Anthropic Falls Below IPO Price Amid Broader Tech Slump](<https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump>)  
-  The Information · 2026-11-24 23:30
-
-- [AI’s Unanswered Questions](<https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-24 23:08
-
-- [Tidal 宣布全面下架纯 AI 生成音乐，成首个封禁 AI 音乐的流媒体平台](<https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/>)  
-  音乐流媒体 Tidal 宣布将从 12 月 9 日起移除全部完全由 AI 生成的曲目，成为首个全面封禁 AI 音乐的流媒体平台。Tidal 负责人 Robert Anderson 称过去 90 天内分发的曲目有 43% 被检测为 AI 生成，96% 的 AI 歌曲播放量为零，此次清理将移除 2900 万首曲目，此后每天拒绝 8 万至 8.5 万首歌。  
-  Hacker News：AI 热帖 · 2026-11-24 23:06
-
-- [Canva MCP](<https://www.producthunt.com/products/canva>)  
-  Turn any AI agent into a creative powerhouse  
-  Product Hunt · English · 2026-11-24 23:05
-
-- [OpenAI’s Roadmap To Making Cyber Bigger Than Coding Remains Blurry](<https://www.theinformation.com/articles/openais-roadmap-making-cyber-bigger-coding-remains-blurry>)  
-  The Information · 2026-11-24 23:01
-
-- [Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super](<https://sakana.ai/namazu-small/>)  
-  Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
-  Sakana AI：Blog（网页） · 2026-11-24 23:00
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 17 页
 
 - [n8n Production AI Playbook：AI Agent 的审计与追踪实践教程](<https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/>)  
   n8n 发布 Production AI Playbook 系列的审计与追踪教程，讲解如何在 n8n Cloud 中为 AI Agent 工作流留存决策证据。教程通过 5 个可下载的练习覆盖保存的执行记录、自定义执行数据打标签、用 OpenTelemetry 和 Jaeger 追踪跨服务工作流、追踪 Agent 工具调用，以及人工审批的跨追踪关联。  
@@ -177,4 +152,31 @@
   蚂蚁科技集团发布并开源 Ling-3.2-air 模型，延续 Ling-3.0-flash-VL 的原生多模态架构，支持文本、图像和视频输入，总参数 1240 亿，每个 Token 激活 55 亿参数。  
   IT之家·人工智能 · 2026-11-24 12:01
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 16 页
+- [蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎以 OceanSeek 项目开源](<https://www.ithome.com/1/031/365.htm>)  
+  蚂蚁 OceanBase 在 11 月 24 日北京 AI 数据大会上发布湖库一体 AI 数据平台 OceanLake，并宣布开源面向 Agent 场景的 AI 数据库，开源项目代号 OceanSeek。  
+  IT之家·人工智能 · 2026-11-24 11:35
+
+- [知乎宣布通过参投基金间接投资 DeepSeek，股价应声大涨 10%](<https://www.ithome.com/1/031/339.htm>)  
+  知乎 11 月 23 日发布自愿公告，宣布其参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权，知乎在基金的合伙权益低于 30%。  
+  IT之家·人工智能 · 2026-11-24 11:26
+
+- [Juncts](<https://www.producthunt.com/products/juncts>)  
+  Superhuman for your DMs, with AI that triages and drafts  
+  Product Hunt · English · 2026-11-24 11:08
+
+- [Then and Now: See How Nvidia and the Administration Pivoted on Huang](<https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 11:08
+
+- [豆包旗下 AI 个人助理小豆开启邀请制公测](<https://www.ithome.com/1/031/329.htm>)  
+  豆包官方宣布 AI 个人助理小豆正式开启邀请制公测，用户凭邀请码体验并获赠一定量免费额度。小豆采用对话式交互，在用户授权范围内协助处理日常事务，覆盖信息查询、日程待办、生活服务、购物售后、健康提醒和办公辅助六类能力，未来相关能力将逐步在豆包 App 上线。  
+  IT之家·人工智能 · 2026-11-24 11:06
+
+- [徐工用火山引擎 Agent+Seedance 把维保视频制作从1个月压到1周](<https://mp.weixin.qq.com/s/7D_YIP9sTCcd9ghw7xkm2A>)  
+  徐工与火山引擎合作，用 Agent+Seedance 做视频、Seedream 做图片、豆包大模型写文字、知识引擎 VeKnow 搭底座，把单条维保视频制作时间从1个月压到1周，成本从约30000元降到约5000元，降幅约80%。服务手册编写改为 AI 先出初稿、工程师审核定稿，效率提升50%，原先一份手册需研发和服务部门合计约55人/天。  
+  公众号：火山引擎 · 2026-11-24 11:00
+
+- [MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次](<https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ>)  
+  MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。  
+  公众号：MiniMax（稀宇科技） · 2026-11-24 10:11
+
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 17 页
