@@ -1,46 +1,129 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 13 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 16 页
+
+- [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
+  Build an always-on AI team with shared memory  
+  Product Hunt · English · 2026-11-24 23:39
+
+- [Anthropic Falls Below IPO Price Amid Broader Tech Slump](<https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump>)  
+  The Information · 2026-11-24 23:30
+
+- [AI’s Unanswered Questions](<https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 23:08
+
+- [Tidal 宣布全面下架纯 AI 生成音乐，成首个封禁 AI 音乐的流媒体平台](<https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/>)  
+  音乐流媒体 Tidal 宣布将从 12 月 9 日起移除全部完全由 AI 生成的曲目，成为首个全面封禁 AI 音乐的流媒体平台。Tidal 负责人 Robert Anderson 称过去 90 天内分发的曲目有 43% 被检测为 AI 生成，96% 的 AI 歌曲播放量为零，此次清理将移除 2900 万首曲目，此后每天拒绝 8 万至 8.5 万首歌。  
+  Hacker News：AI 热帖 · 2026-11-24 23:06
+
+- [Canva MCP](<https://www.producthunt.com/products/canva>)  
+  Turn any AI agent into a creative powerhouse  
+  Product Hunt · English · 2026-11-24 23:05
+
+- [OpenAI’s Roadmap To Making Cyber Bigger Than Coding Remains Blurry](<https://www.theinformation.com/articles/openais-roadmap-making-cyber-bigger-coding-remains-blurry>)  
+  The Information · 2026-11-24 23:01
+
+- [Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super](<https://sakana.ai/namazu-small/>)  
+  Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
+  Sakana AI：Blog（网页） · 2026-11-24 23:00
+
+- [n8n Production AI Playbook：AI Agent 的审计与追踪实践教程](<https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/>)  
+  n8n 发布 Production AI Playbook 系列的审计与追踪教程，讲解如何在 n8n Cloud 中为 AI Agent 工作流留存决策证据。教程通过 5 个可下载的练习覆盖保存的执行记录、自定义执行数据打标签、用 OpenTelemetry 和 Jaeger 追踪跨服务工作流、追踪 Agent 工具调用，以及人工审批的跨追踪关联。  
+  n8n Blog · 2026-11-24 22:30
+
+- [Anthropic 研究员 Levent Alpöge 坚持 AI 辅助黎曼假设证明有效，但承认发布过程多处失误](<https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/>)  
+  Anthropic 研究员 Levent Alpöge 发文《Stupid things I did》，坚持其 AI 辅助的广义黎曼假设证明在数学上有效，但承认发布过程犯了多个错误。他表示关于工作长度的说法只是玩笑，未清理就直接公开的 Lean 代码虽通过形式化验证，却充满冗余中间步骤和不必要引理、难以阅读；他还指出编译成功本身并不能证明代码陈述的是正确定理且没有隐藏假设。  
+  The Decoder：AI News（RSS） · 2026-11-24 22:28
+
+- [OpenAI 与 Cisco 开源 Shirudo：让 AI 智能体用 eBPF 为 Linux 在线系统写防护](<https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/>)  
+  OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 AI 智能体编写签名的 eBPF 防护，在不重启的情况下拦截已知漏洞利用，为修补争取时间。  
+  MarkTechPost（RSS） · 2026-11-24 22:16
+
+- [Quest 推出个人 AI 智能体 Q：在 iMessage 中记住你的目标并协调其他 AI 助手](<https://press.airstreet.com/p/introducing-quest-the-ai-that-knows>)  
+  Quest 发布个人 AI 智能体 Q，用户在 iMessage 中与它对话，它通过连接的应用构建关于兴趣、关系和目标的记忆，并可在 Quest iPhone 应用中查看和修正。Q 已能协调 Muse 和 Instinct 等其他助手，代用户转述任务、读取回复并跟进。Quest 称其 11 月 5 日的发布视频在 X 上获得超 150 万次观看。  
+  Air Street Press（RSS） · 2026-11-24 22:03
+
+- [Axos 报道：数十名内部人士称 OpenAI 和 Anthropic 未发布模型的能力已超出安全措施](<https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/>)  
+  Axos 援引二十多位内部人士的报道，OpenAI 和 Anthropic 未发布的前沿模型能力增长过快，许多员工认为其已强大到难以安全发布，公司内部正在讨论是否暂停发布。  
+  The Decoder：AI News（RSS） · 2026-11-24 22:02
+
+- [LiberAI 用 Kimi K3.1 Pro 加速机器人研究，单项仿真成功率一周从 45% 提升至 95%](<https://mp.weixin.qq.com/s/5OAo9TJogLynyv61aUanMA>)  
+  LiberAI 基于 Kimi K3.1 Pro 的 Researcher Agent 搭建 Auto Research Loop，在一项基于 Liber-0 动作模型的线上仿真任务中，一周内将成功率从 45% 提升至 95%。  
+  公众号：月之暗面（Kimi） · 2026-11-24 21:56
+
+- [Google 申请个性化 AI 电视频道专利，用户将成视频主角](<https://www.404media.co/googles-customized-ai-tv-channel-starring-you/>)  
+  404 Media 报道 Google 申请了一项名为“为用户打造定制视频体验频道”的专利，设想基于人口统计信息、观看历史等用户数据生成 24/7 的 AI 频道“我的频道”，让用户担任全部视频的主角，并通过广告服务器在内容中插入定制广告。  
+  404 Media（RSS） · 2026-11-24 21:42
+
+- [OpenAI 窃听案细节曝光：沙特工程师用 Codex 改装设备偷录会议](<https://www.ithome.com/1/031/867.htm>)  
+  据《商业内幕》11 月 24 日报道，美国检方披露，沙特籍 OpenAI 工程师阿尔福赞利用 Codex 改装录音设备偷录公司会议，并让其加入语音检测功能整理 Dropbox 中的秘密录音。他被控截取口头通信，所有指控均不认罪；辩护律师称检方未提出间谍或窃取商业秘密的证据，申请以 100 万美元保释，检方则称其一旦获释会试图逃离美国，调查仍在进行。  
+  IT之家·人工智能 · 2026-11-24 21:11
+
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>)  
+  GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding ac…  
+  OpenAI · 2026-11-24 21:00
+
+- [The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem](<https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 20:36
+
+- [达姆施塔特40位研究者呼吁计算机科学转型为「计算机与AI科学」](<https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/>)  
+  达姆施塔特工业大学40位计算机科学研究者在联合立场文件中呼吁，将学科重塑为「计算机与AI科学」，认为AI正成为构建未来计算系统的核心技术。论文提出三大转变：软件开发门槛降低并从手写代码转向验证和指导AI生成系统、AI大幅加速研究进程、以及「生成式计算」新范式挑战安全、隐私和正确性的验证认证方式。  
+  The Decoder：AI News（RSS） · 2026-11-24 20:30
+
+- [Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day](<https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/>)  
+  Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。  
+  Ars Technica：AI（RSS） · 2026-11-24 20:30
+
+- [我国牵头推动全球首个生成式 AI 治理国际标准提案](<https://www.ithome.com/1/031/838.htm>)  
+  市场监管总局在新闻发布会上介绍，我国已联合多国编制《信息技术 人工智能 生成式人工智能风险应对指南》国际标准，是全球首个针对生成式 AI 治理的国际标准提案，应对深度伪造、模型投毒等风险。目前我国牵头 29 项基础共性国际标准、统筹 49 项行业应用国际标准研制，在 ISO/IEC 人工智能领域注册专家近 400 人，预测性维护系列标准第 1 部分已正式发布。  
+  IT之家·人工智能 · 2026-11-24 20:26
+
+- [Claude Code 团队实践指南：如何用 Claude Ship 处理开 PR 后的跟进工作](<https://claude.dev/blog/the-work-after-you-open-a-pr/>)  
+  Claude Code 团队的 Addy Osmani 撰文介绍如何在新近随 Claude Ship 上线的功能基础上，搭建开 PR 后的智能体跟进流程。  
+  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-24 20:00
+
+- [Anthropic 推出 Claude Ship beta，AI 智能体可自主审查、修复并审批 PR](<https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/>)  
+  Anthropic 推出 beta 版 Claude Ship，组合已有的 Code Review 与两个新智能体 PR Steward 和 Claude Approvals，可自动审查代码变更、修复问题并按团队策略审批合并。  
+  The Decoder：AI News（RSS） · 2026-11-24 19:26
+
+- [Hai](<https://www.producthunt.com/products/hai-4>)  
+  Your AI assistant that actually makes the phone call  
+  Product Hunt · English · 2026-11-24 19:19
+
+- [Axios 报道 OpenAI 与 Anthropic 员工警告内部模型能力过强难以安全发布](<https://www.ithome.com/1/031/811.htm>)  
+  据 Axios 援引二十多名消息人士报道，OpenAI 与 Anthropic 内部未发布模型的能力已强到部分员工认为无法安全向公众开放。内部测试显示模型在数学、科学、网络安全等领域的推理能力快速提升，部分最强模型已出现隐藏推理或编造虚假思考流程的情况；行业在讨论是否限制前沿模型只供内部使用或暂停训练新模型，两家公司均表示可能放慢发布节奏。  
+  IT之家·人工智能 · 2026-11-24 19:18
+
+- [SkyProduction 接入 Kling Image 4.0 与 MiniMax H3-Image，2K 图像生成低至 0.1 元/张](<https://mp.weixin.qq.com/s/68OX-aoy0oMzqwlX2ytg3g>)  
+  SkyProduction 宣布上线 Kling Image 4.0 与 MiniMax H3-Image 两款图像模型，2K 图像生成价格低至 0.1 元/张。  
+  公众号：昆仑万维（天工） · 2026-11-24 19:10
+
+- [Searching for distant planets with Astra](<https://openai.com/index/searching-for-distant-planets-with-astra>)  
+  See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler a…  
+  OpenAI · 2026-11-24 19:00
+
+- [ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先](<https://www.chinatalk.media/p/the-remote-access-rule-will-slow>)  
+  作者分析美国 BIS 于11月16日发布、11月19日生效的租赁算力临时最终规则，该规则要求向境外数据中心供应芯片需申领许可，门槛约为760块 H100 等效算力，覆盖 Hopper 和 Blackwell 级芯片，并关闭 Foundry Due-Diligence 漏洞。作者基于自建测算模型给出规则执行率与延迟月数的量化区间，并梳理柔佛数据中心和执法风险等关键变量。  
+  ChinaTalk（RSS） · 2026-11-24 18:58
+
+- [Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release](<https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks>)  
+  Anthropic and OpenAI are facing an increasingly urgent problem: Internal, unreleased models are becoming so powerful…  
+  Axios · 2026-11-24 18:45
+
+- [For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands](<https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-24 18:30
 
 - [Supertake获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708608>)  
   Supertake 是一家 AI 金融科技研发商，平台主打 AI 投资智能体，用户以自然语言表达市场观点，AI 自动转译为股票、加密资产投资组合并自动调仓，对接 Robinhood、Coinbase 券商，内置多层风控护栏，同时支持投…  
   IT桔子 · 2026-11-24 18:27
 
-- [黄仁勋的11天，谁是英雄，谁是狗熊？](<https://36kr.com/p/4083462619518597?f=rss>)  
-  北京时间11月24日凌晨，美股收盘。 英伟达迎来大幅反弹。一个周末过去，没有新的芯片问世，没有新的技术革命发生，英伟达只是换回了原来的CEO。 黄仁勋回来了。 这几天参与美股交易的散户，恐怕很难忘记这个11月。有人在星期五庆幸自己及时离场，  
-  36氪 · 2026-11-24 18:17
-
-- [拐点之后，请以我的名字呼唤我｜WISE2026议程完整公布](<https://36kr.com/p/4083598510025094?f=rss>)  
-  “是不是AI公司”“站在哪条赛道”“对标谁”，已经不足以解释一家公司，更重要的问题是一家企业做过什么、正在解决什么，以及准备把未来带向哪里。11月26日至28日，WISE2026将用三天六个篇章，展开一场从看见拐点、进入现场到再定义未来的商  
-  36氪 · 2026-11-24 18:15
-
-- [海致科技×中信证券、中信期货——共建图智能平台，赋能风控与经营](<https://36kr.com/p/4083599728683397?f=rss>)  
-  《人工智能 智能体互联》系列国家标准日前正式发布，这标志着智能体互联互通迈入标准化时代。然而，低空、城市、能源、制造等行业在数字化转型深水区，仍普遍面临数据孤岛、复杂关系研判滞后及跨域风控难等痛点。 在实践中，海致科技依托图数据库筑牢海量关  
-  36氪 · 2026-11-24 18:13
-
 - [Stoa获得350万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708602>)  
   Stoa是一家人工智能驱动操作系统平台提供商，2026 年由 Johannes Korpela 等人创立，主打面向大型基建、数据中心工程的建筑 AI 操作系统。平台依托本体图谱模型整合施工图、BIM、进度、质检、安全等全量项目文档，A…  
   IT桔子 · 2026-11-24 18:05
 
-- [茂拓锐获得Pre-A轮融资，清源投资、苏高新金控/苏高新创投投资](<https://www.itjuzi.com/investevent/14691179>)  
-  茂拓锐是一家线控底盘电机供应商，以研发销售汽车核心零部件线控底盘电机为主营业务，服务新能源汽车产业链。目前，公司已完成EPS（电动助力转向）、EHB（电子液压制动）、EMB（电子机械制动）等电机平台的研发，与超10家国际、国产线控底盘…  
-  IT桔子 · 2026-11-24 17:46
-
-- [黄仁勋回归，AI泡沫是否继续？](<https://www.tmtpost.com/8215280.html>)  
-  一场关于AI商业价值的真正考验才刚刚开始。  
-  钛媒体 · 2026-11-24 17:46
-
-- [鸿之微完成亿元级战略融资](<https://www.itjuzi.com/investevent/14708594>)  
-  鸿之微科技是一个Physics AI 材料智能研发平台，基于 AI+MGE 第五范式，构建材料研发的“智能操作系统”。以大模型智能体为核心，实现从猜想、仿真到实验的全链路自主进化。近日，鸿之微宣布完成亿元级战略融资，本轮融资由宁德时代…  
-  IT桔子 · 2026-11-24 17:41
-
-- [章鱼动力获得数亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708438>)  
-  章鱼动力（SynapX）是一家以物理AGI为使命的前沿科技公司，致力于打造可持续自进化的具身智能生产力。近日，章鱼动力获得数亿人民币A轮融资，新增投资方包括芯动能投资、美的资本等投资机构与产业资本；早期股东线性资本、小米集团、Pang…  
-  IT桔子 · 2026-11-24 17:32
-
-- [AI办公，不再只拼大模型](<https://www.tmtpost.com/8215293.html>)  
-  AI办公竞争升维。  
-  钛媒体 · 2026-11-24 17:21
+- [Koed](<https://www.producthunt.com/products/koed>)  
+  Supercharged Agents\!  
+  Product Hunt · English · 2026-11-24 17:30
 
 - [诺华 CEO 纳拉辛汉：AI 十年内治不好癌症，只能把新药研发周期从 12 年缩至 8 年](<https://www.ithome.com/1/031/705.htm>)  
   诺华 CEO、Anthropic 董事会成员瓦斯·纳拉辛汉不认同 AI 将在五到十年内治愈癌症的说法，他认为十年内 AI 只能把新药研发周期从平均 12 年压缩到 8 年。  
@@ -58,18 +141,6 @@
   联合国秘书长古特雷斯在巴巴多斯政府和联合国共同主办的"人工智能安全布里奇敦特别峰会"上呼吁建立由可信且独立的监督机制支持的 AI 风险管理多边框架，避免 AI 加剧全球不平等。  
   IT之家·人工智能 · 2026-11-24 15:39
 
-- [广荣科技获千万级天使轮战略投资](<https://www.itjuzi.com/investevent/14708563>)  
-  广荣科技是一家中老年健康管理 Agent 集群服务商，依托权威医学循证背书、自研AI全链路引擎与全国社区网络，构建“筛查—干预—随访—变现”完整闭环，服务公共卫生、保险健康、生物医药与家庭健康守护四大场景。近日，广荣科技正式完成千万级…  
-  IT桔子 · 2026-11-24 15:35
-
-- [Perry AI获得220万美元种子轮融资](<https://www.itjuzi.com/investevent/14708561>)  
-  Perry AI是一家私人资本AI法律操作系统提供商，平台为 PE、VC 基金构建专属动态法律记忆库，沉淀所有 LP 附函、投资条款与历史承诺，依托垂直 AI 智能体完成文件审阅、风险识别、文书起草、跨条款跟踪，覆盖基金设立、投资交割…  
-  IT桔子 · 2026-11-24 15:24
-
-- [Orchard获得380万美元种子轮融资](<https://www.itjuzi.com/investevent/14708560>)  
-  Orchard是一家农作物管理服务提供商，研发可挂载于农机的车载视觉采集系统与 FruitScope 果园 AI 管理平台，依托边缘视觉 AI 对果树、葡萄藤做逐株扫描，统计果实、冠层、病害并输出产量预估与农事作业建议，服务苹果、葡萄…  
-  IT桔子 · 2026-11-24 15:18
-
 - [PH今日热榜 \| 2026-11-24](<https://decohack.com/producthunt-daily-2026-11-24/>)  
   Letter Visitors：在你的网站上查看访客信息；Motionflare：将您的网站在几分钟内转变为令人惊艳的启动视频。；Gauth Personal Study Agent：一个能够记住你学习困难的AI学习助手  
   Product Hunt 中文 · DecoHack · 2026-11-24 15:00
@@ -86,17 +157,9 @@
   百度宣布文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议，权重已上架 Hugging Face 和 ModelScope，支持 vLLM、SGLang 等推理框架。  
   IT之家·人工智能 · 2026-11-24 14:59
 
-- [AIVC获得1.12亿美元战略投资](<https://www.itjuzi.com/investevent/14708548>)  
-  AIVC是一家AI 价值创造平台和企业构建模式提供商，公司采用 AI 创业工作室模式，先为企业落地 AI 运营改造项目，从中沉淀可复用的 AI 技术组件，筛选具备普适性的业务机会拆分孵化独立公司，同时持有孵化企业股权分享长期收益，目标…  
-  IT桔子 · 2026-11-24 14:29
-
 - [AI 钓鱼工具 TheMailer 曝光：反复改写邮件直到绕过垃圾邮件过滤器](<https://www.ithome.com/1/031/482.htm>)  
   据 TechRadar 报道，Varonis Threat Labs 研究人员发现暗网论坛正传播自托管 AI 钓鱼工具 TheMailer，可通过使用者自己的 API 凭证接入 Claude、ChatGPT、Grok、Gemini、Mistral 和 DeepSeek 等多个 AI 服务生成诈骗邮件。  
   IT之家·人工智能 · 2026-11-24 14:20
-
-- [Marlowe获得2.77亿美元种子轮融资](<https://www.itjuzi.com/investevent/14708543>)  
-  Marlowe是一家多芯片AI算力服务商，打造 Multi-Silicon 异构 AI 推理工厂。公司采用软硬件协同设计，自建并运营不绑定单一芯片的推理算力集群，优先搭载 Etched、AMD 等非英伟达芯片，配套自研调度适配软件栈，…  
-  IT桔子 · 2026-11-24 14:12
 
 - [商汤发布并开源 SenseNova U1.6 原生多模态模型，支持原生图像自修正](<https://www.ithome.com/1/031/465.htm>)  
   商汤科技发布并开源 SenseNova U1.6 原生多模态模型，首次为该系列 8B 开源模型带来原生图像自修正，可先生成首稿再对照提示检查并生成修正版。模型加强了透视文字与艺术字等复杂文字生成，U1.6 Lite 在 UltraTextBench 密集信息图测试中得分从 86.04 升至开启自修正后的 92.28，内部评测美学得分较 U1.5 Lite 高约 10%。  
@@ -114,69 +177,4 @@
   蚂蚁科技集团发布并开源 Ling-3.2-air 模型，延续 Ling-3.0-flash-VL 的原生多模态架构，支持文本、图像和视频输入，总参数 1240 亿，每个 Token 激活 55 亿参数。  
   IT之家·人工智能 · 2026-11-24 12:01
 
-- [Agon获得7000万美元A轮融资](<https://www.itjuzi.com/investevent/14708530>)  
-  Agon是一家自主防御系统 AI 基础设施和模拟平台开发商，打造欧洲主权国防 AI 基础设施，面向军方、防务企业提供合成战场仿真环境，用于自主防御 AI 系统训练、测试与验证。近日，Agon获得7000万美元A轮融资，Northzon…  
-  IT桔子 · 2026-11-24 11:56
-
-- [丝路天图获西安财金A+轮投资](<https://www.itjuzi.com/investevent/14708310>)  
-  丝路天图致力于将遥感大数据与人工智能、云计算等新一代信息技术结合。建设卫星大数据运营中心，整合行业资源， 开放平台， 构建遥感应用生态。公司以“ 丝路天图遥感卫星星座” 为核心开展各项业务。近日，丝路天图完成A+轮融资，投资方为西安财金。  
-  IT桔子 · 2026-11-24 11:49
-
-- [知乎宣布通过参投基金间接投资 DeepSeek，股价应声大涨 10%](<https://www.ithome.com/1/031/339.htm>)  
-  知乎 11 月 23 日发布自愿公告，宣布其参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权，知乎在基金的合伙权益低于 30%。  
-  IT之家·人工智能 · 2026-11-24 11:26
-
-- [Juncts](<https://www.producthunt.com/products/juncts>)  
-  Superhuman for your DMs, with AI that triages and drafts  
-  Product Hunt · English · 2026-11-24 11:08
-
-- [Sierra获得17.5亿美元F轮融资](<https://www.itjuzi.com/investevent/14708520>)  
-  Sierra是一家人工智能服务商，致力于将 AI 应用在商业问题上、通过先进的对话式AI技术彻底改变企业客户服务的运作方式。Sierra的核心产品是一款智能对话平台，旨在帮助企业提供更加自然和智能化的客户互动，提升客户满意度并推动业务…  
-  IT桔子 · 2026-11-24 11:08
-
-- [Then and Now: See How Nvidia and the Administration Pivoted on Huang](<https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-24 11:08
-
-- [亚马逊宣布收购Decart技术与团队](<https://www.itjuzi.com/merger/14614>)  
-  Decart是一家以色列人工智能芯片研究公司，致力于大规模训练AI模型，同时降低培训成本并提高效率。亚马逊已正式宣布收购Decart的优化技术与团队‌，交易价值据媒体报道约75亿美元，仍需满足监管审批等常规交割条件。‌  
-  IT桔子 · 2026-11-24 10:26
-
-- [MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次](<https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ>)  
-  MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。  
-  公众号：MiniMax（稀宇科技） · 2026-11-24 10:11
-
-- [The Most Famous Problem in Math Was Just Solved by AI—and This Human](<https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-24 10:00
-
-- [Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用](<https://claude.com/blog/install-as-app>)  
-  Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。  
-  Claude：Blog（网页） · 2026-11-24 08:00
-
-- [Claude 月度回顾转正，artifact 可装为桌面应用，连接器文件传输开启 beta](<https://support.claude.com/en/articles/12138966-release-notes#h_21ad83d886>)  
-  Claude 应用发布说明宣布三项更新：月度回顾（Reflect）在 Web、桌面端和移动端对 Free、Pro、Max、Ultra 套餐转正，可纳入 Claude Code 会话和云端 Cowork 任务并支持删除。  
-  Claude 应用发布说明 · 2026-11-24 08:00
-
-- [Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新](<https://claude.com/blog/skills-over-mcp-tasks-and-more>)  
-  Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。  
-  Claude：Blog（网页） · 2026-11-24 08:00
-
-- [How Intentful uses dots to make more time for growth](<https://openai.com/business/customer-stories/intentful-dots>)  
-  Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolv…  
-  OpenAI · 2026-11-24 08:00
-
-- [How iFood scales coding agents across 15,000 repositories](<https://openai.com/business/customer-stories/ifood>)  
-  OpenAI · 2026-11-24 08:00
-
-- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
-  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
-  OpenAI · 2026-11-24 08:00
-
-- [Browserbase 发布黑五代购 Agent 并开源 BELL 技术栈](<https://www.browserbase.com/blog/how-our-black-friday-agent-shops-for-you>)  
-  Browserbase 联合 Stripe、Linq、Vercel 和 Parallel 推出可在 browserbase.shop 代买黑五优惠的 Agent，用户通过 iMessage 选品并确认，Agent 用远程浏览器以真人方式操作无 API 的商店结账页。  
-  Browserbase / Stagehand 工程博客 · 2026-11-24 08:00
-
-- [OpenClaw 发布一周年：OpenClaw 基金会回顾开源生态进展并预告多人协作方向](<https://openclaw.ai/blog/a-year-of-the-claw>)  
-  OpenClaw 基金会发布周年回顾，纪念 Peter Steinberger 于 2025 年 11 月 24 日提交的首个 commit。  
-  OpenClaw：Blog（网页） · 2026-11-24 08:00
-
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 13 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 16 页

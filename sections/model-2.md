@@ -1,14 +1,18 @@
 # 大模型
 
-[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页
+[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 4 页
 
-- [商汤发布并开源 SenseNova U1.6 原生多模态模型，支持原生图像自修正](<https://www.ithome.com/1/031/465.htm>)  
-  商汤科技发布并开源 SenseNova U1.6 原生多模态模型，首次为该系列 8B 开源模型带来原生图像自修正，可先生成首稿再对照提示检查并生成修正版。模型加强了透视文字与艺术字等复杂文字生成，U1.6 Lite 在 UltraTextBench 密集信息图测试中得分从 86.04 升至开启自修正后的 92.28，内部评测美学得分较 U1.5 Lite 高约 10%。  
-  IT之家·人工智能 · 2026-11-24 12:58
+- [蚂蚁百灵发布生理信号基础模型 LingSante-Pulse，从30秒波形预测六年疾病风险](<https://mp.weixin.qq.com/s/xidWztAK7Fob87FhoD5fzQ>)  
+  蚂蚁百灵团队发布生理信号基础模型 LingSante-Pulse，在超过15万小时的多场景生理序列数据上预训练，用单一冻结编码器统一处理 EEG、ECG、PPG、EMG 等多种生理信号。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
 
-- [Latent Space AI 新闻日报：Nvidia 恢复黄仁勋职务，OpenAI 公开预训练困惑度曲线并联合 Microsoft 提议共同发展上限](<https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/>)  
-  Latent Space 发布 AI 新闻日报，两条主线为 Nvidia 宣布黄仁勋回归 CEO、总裁及董事职位，董事会全票通过并称获得美国政府高层意见输入，股价上涨约 30%；OpenAI 首席科学家 Jakub Pachocki 公开基础模型对数困惑度曲线，并提出行业共同发展上限的提议，Microsoft 的 Mustafa Suleyman 联署加入并在 OpenAI 评测集上报告 MAI-2 Base 得分为 0.819。  
-  Latent Space（RSS） · 2026-11-24 12:14
+- [蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升](<https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g>)  
+  蚂蚁百灵大模型发布并开源 Ling-3.2-air，延续 Ling-3.0-flash-VL 原生多模态架构，总参数 1240 亿、每 Token 激活 55 亿，支持文本、图像和视频输入。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
+
+- [OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役](<https://www.ithome.com/1/031/271.htm>)  
+  OpenAI 宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，此前该模型已在 ChatGPT Work 和 Codex 亮相不到一周。  
+  IT之家·人工智能 · 2026-11-24 08:49
 
 - [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
   ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
@@ -21,6 +25,38 @@
 - [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
   百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
   vLLM 官方博客（RSS） · 2026-11-24 08:00
+
+- [谷歌 DeepMind 用 Gemini 4 智能体结合 Lean 验证优化量子算法，最高提速 290 倍](<https://www.ithome.com/1/031/232.htm>)  
+  谷歌 DeepMind 与 Google Quantum AI 团队于 11 月 23 日发布联合研究，利用多组 Gemini 4 智能体协同优化量子算法，并用形式化定理证明器 Lean 对每个结果做数学验证，相关 Lean 库和已验证方案已在 GitHub 开源。  
+  IT之家·人工智能 · 2026-11-24 06:37
+
+- [Besimple 用 Baseten Training 微调 Nemotron 3.5 Transcribe 与 Qwen3-ASR，MedDictate Term-WER 低至 0.87%](<https://www.baseten.co/blog/post-train-your-own-medical-asr-model-to-outperform-the-frontier>)  
+  Besimple 与 Baseten 合作，用约 500 美元 GPU 成本和 813 小时语音数据微调开源 ASR 模型，在 MedDictate 基准上 Nemotron 3.5 Transcribe 医疗术语词错率（Term-WER）降至 0.87%，较基座模型改进 69%，Qwen3-ASR 降至 2.05%。  
+  Baseten 工程博客（网页） · 2026-11-24 06:34
+
+- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
+  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
+  MIT News（RSS） · 2026-11-24 05:15
+
+- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
+  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
+  The Verge：AI（RSS） · 2026-11-24 05:09
+
+- [OpenAI 向 Plus 等用户推送面向聊天的 GPT-6.2 Sol](<https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/>)  
+  OpenAI 开始向 Plus、Pro、Business 和 Enterprise 用户全球推送面向聊天场景的 GPT-6.2 Sol。官方称其处理复杂请求和网络搜索优于 GPT-6，图像理解 71.7% 对 47.4%，困难指令遵循 78.1% 对 62.5%，专家级任务基准在全部四个推理级别领先约 65% 至 71% 以上对 52% 至 66%。  
+  The Decoder：AI News（RSS） · 2026-11-24 04:39
+
+- [Anthropic 月付约 31 亿美元租用算力，推动 xAI 转向租比建更划算的策略](<https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/>)  
+  据 New York Times 报道，Anthropic 与 xAI 签订约每月 31 亿美元的算力租用合同，成为 xAI 最大客户，Google 每月支付 8 亿美元，两份合同均可提前 90 天通知取消，Anthropic 带来的收入已超过 xAI 总收入的一半。  
+  The Decoder：AI News（RSS） · 2026-11-24 02:47
+
+- [Ai2 发布 RoboTrack 点跟踪基准、RoboTrack-15M 数据集与 RoboTracker 系列模型](<https://huggingface.co/blog/allenai/robotrack>)  
+  Ai2 发布面向机器人操作的点跟踪基准与训练数据套件 RoboTrack，包含 307 段人工标注视频的 RoboTrack-Bench（2522 条轨迹，来自 DROID、Ego-Exo4D、MolmoAct 2 和 EgoVerse）和基于 MolmoSpaces 生成 1500 万条轨迹的 RoboTrack-15M。  
+  Hugging Face 社区博客（混合发现） · 2026-11-24 01:20
+
+- [Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/>)  
+  Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。  
+  Google DeepMind：Blog（RSS） · 2026-11-24 00:59
 
 - [METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍](<https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/>)  
   METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。  
@@ -46,13 +82,65 @@
   Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
   Fireworks AI（网页） · 2026-11-24 00:00
 
+- [404 Media 调查 ARTEX 黑客工具被下架后仍在 GitHub 传播](<https://www.404media.co/im-not-going-to-remove-the-repository/>)  
+  404 Media 记者报道 AI 黑客工具 ARTEX，它可接入用户选择的大语言模型并派出多个 AI 子智能体分工执行侦察、窃取数据等攻击，数小时内可完成一次完整入侵。原作者于 10 月因工具被恶意使用而将其下架，但作者采访了仍在 GitHub 上分发该工具的多名用户，询问其拒绝移除的原因。  
+  404 Media（RSS） · 2026-11-23 23:35
+
+- [GPT-6.2 Astra 在 Autoform-Hard 上完成 Smoktunowicz gap 定理的 Lean 形式化证明](<https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/>)  
+  OpenAI 的 GPT-6.2 Astra 在 Meta FAIR 的 AutoformBench 子集 Autoform-Hard 上，无人工帮助完成 2006 年 Smoktunowicz gap 定理的 Lean 形式化证明，据 Vals AI 称这是该定理首个 Lean 证明。  
+  The Decoder：AI News（RSS） · 2026-11-23 20:17
+
+- [AI 时代必备的 27 个网络安全术语详解](<https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/>)  
+  MarkTechPost 发布一篇 AI 安全术语科普，按攻击模型、智能体风险、AI 攻击人和防御治理四部分整理 27 个术语，引用 OWASP 2026 LLM Top 10、NIST AI 100-2e2025 和 MITRE ATLAS 等参考。  
+  MarkTechPost（RSS） · 2026-11-23 18:40
+
+- [OiiOii Motion 代码动画功能上手实测：Opus 5.5 与 DeepSeek V4.1 Flash 两种跑法](<https://mp.weixin.qq.com/s/E_NP62cntXJTuFv2zfd6Hg>)  
+  作者实测 OiiOii 新上线的 Motion 代码动画功能，该功能让大模型编写带排版、图形和运动曲线的动态网页代码并云端渲染成视频。用 LearnPrompt/awesome-seedance 仓库宣传片对比显示，传统视频模型遇上网页 UI、代码框和中英文排版容易糊掉，而 Motion 画面文字清晰。  
+  公众号：卡尔的AI沃茨 · 2026-11-23 17:36
+
+- [Arena 第 47 周大模型周榜：谷歌 Gemini 4 Neon 空降综合第 3，阿里 Qwen4-Max 智能体榜首秀第 18](<https://www.ithome.com/1/030/935.htm>)  
+  Arena 第 47 周榜单中，谷歌 Gemini 4 Neon \(High\) 以 ELO 1513 分空降综合榜第 3，Anthropic Claude Fable 5.2 \(Max\) 以 1503 分列第 7，Gemini 4 Hydrogen \(High\) 以 1490 分并列第 18。  
+  IT之家·人工智能 · 2026-11-23 16:01
+
 - [Richpanel helps companies automate 50% of support in 30 days](<https://openai.com/business/customer-stories/richpanel-ai-customer-support>)  
   Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna f…  
   OpenAI · 2026-11-23 16:00
 
+- [Ai2 发布 RoboTrack 点跟踪基准与数据集，并推出 RoboTracker 模型](<https://allenai.org/blog/robotrack>)  
+  Ai2 发布 RoboTrack，一套面向机器人操作的点跟踪基准与训练数据套件，含 307 段人工标注视频、2522 条点轨迹的 RoboTrack-Bench，以及基于 MolmoSpaces 生成的 RoboTrack-15M 合成训练集。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-23 16:00
+
+- [GPT-6.2 在 ChatGPT 中的系统卡](<https://deploymentsafety.openai.com/gpt-6-2-chatgpt>)  
+  OpenAI 发布 GPT-6.2 在 ChatGPT 中的系统卡，以 PDF 形式提供。该页面暂未提供解析文本，需通过公开 PDF 链接查看内容。  
+  OpenAI：部署安全与系统卡（网页） · 2026-11-23 15:00
+
+- [MIT 提出模拟芯片设计方法 SLIC，小模型可本地部署接近 GPT-6-Astra 性能](<https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123>)  
+  MIT 研究者提出 SLIC（Small LM Iterating on Circuits）训练方法，通过带可验证奖励的多轮强化学习，把数十亿参数的小语言模型训练得能设计模拟集成电路，性能接近最新 GPT-6-Astra，但计算资源只占其很小一部分。  
+  MIT News（RSS） · 2026-11-23 13:00
+
+- [蚂蚁 inclusionAI 发布开源权重多模态模型 Ling-3.2-air](<https://huggingface.co/inclusionAI/Ling-3.2-air>)  
+  蚂蚁 inclusionAI 在 Hugging Face 发布开源权重模型 Ling-3.2-air，采用与 Ling-3.0-flash-VL 相同的原生多模态 Hybrid-linear MoE 架构，总参数 124B、激活 5.5B。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-23 11:55
+
+- [Datasette 发布 datasette-charts 0.1a0 图表插件](<https://simonwillison.net/2026/Nov/23/datasette-charts/>)  
+  Simon Willison 用 Claude Fable 5.2 构建的 Datasette 图表插件 datasette-charts 0.1a0 发布，可在 Datasette Lite 试用。  
+  Simon Willison 博客 · 2026-11-23 08:37
+
+- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
+  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
+  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
+
+- [vLLM 上用 AMD MoRI UMBP 把 KV 缓存池直接放到 NVMe，同容量吞吐追平 DRAM](<https://vllm.ai/blog/2026-11-23-skip-the-dram-tier>)  
+  AMD 与 vLLM 团队在 AgentX 和 kvlab 智能体负载上实测，1.8 TB NVMe KV 池（基于 AMD 开源 MoRI 库的 UMBP）在 Kimi-K3 上吞吐与同容量 1.8 TB DRAM 池差距保持在 1% 以内，48、70、96 并发会话下分别为 +0.3%、+0.8%、−0.2%。  
+  vLLM 官方博客（RSS） · 2026-11-23 08:00
+
 - [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](<https://sv101.fireside.fm/273>)  
   华尔街最低调、最赚钱的那一批量化交易巨头，也是这一轮AI浪潮里囤算力、抢人才、投资AI实验室最凶猛的那一批。 他们不靠市场趋势赚钱，而是靠波动和速度在毫秒间争夺价差。和大家印象中西装革履的金融人士并不一样，这些公司里的人可能是一群数学…  
   硅谷101 · 2026-11-23 07:00
+
+- [AISI 红队论文：攻击策略选择会让 LLM 监视器评估结果失真](<https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading>)  
+  英国 AI Security Institute 发布论文，测试合成攻击生成方式对监视器评估的影响。评估一个 OpenAI 前生产监视器时，同一监视器对不同攻击策略的漏报率从 0.2%（基础提示）到 23%（转录编辑）不等，优化程度也会显著改变结果。作者指出合成转录只是真实有害行为代理，其代表性难以证明，仅凭监视器评估不足以保证部署安全，需辅以能力限制、人工在环和沙箱等分层防护。  
+  英国 AI Security Institute：Blog（网页） · 2026-11-23 07:00
 
 - [NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor](<https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/>)  
   NVIDIA 发布 2B 级推理视觉-语言-动作模型 Alpamayo 2 Edge，可在车内 DRIVE AGX Thor 上做轨迹规划与因果解释，采用 OpenMDW-1.1 许可开源权重。  
@@ -61,6 +149,10 @@
 - [TechCrunch 访谈《Hyperscale》作者 Paris Marx：数据中心为何成为反科技浪潮的焦点](<https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>)  
   TechCrunch 访谈记者 Paris Marx，谈其新书《Hyperscale》调查数据中心与生成式 AI 的社会影响。  
   TechCrunch：AI（RSS） · 2026-11-23 02:08
+
+- [报道称 Dario Amodei 曾建议用游戏安抚因 AI 失业的民众](<https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness>)  
+  《华尔街日报》在 Anthropic 创纪录 IPO 后刊发的 Amodei 兄妹特写提到，Dario Amodei 曾在 Slack 讨论中建议用沉浸式电子游戏缓解 AI 导致失业所引发的政治冲突。相关说法来自广泛流传的 Slack 消息，报道称他当时已承认 AI 可能破坏世界稳定。  
+  Hacker News：AI 热帖 · 2026-11-22 23:52
 
 - [新实验：AI 编码智能体在模拟软件公司中完成不到十分之一的任务](<https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/>)  
   一项新实验首次让 AI 编码智能体在模拟软件公司中作为数字员工工作，环境包含同事、项目看板和聊天记录。结果显示即使 Claude Opus 5.5 和 GPT-6 Astra 也只完整完成不到十分之一的任务，而 SWE-bench 等标准基准已接近饱和。  
@@ -90,90 +182,4 @@
   马斯克在回复 Keras 创始人 François Chollet 时预警，AI 行业明年可能面临严重资金短缺，若从支付算力成本到设备稳定创收的时间累计推迟数月，仅营运资金就可能需额外投入数千亿美元。Chollet 此前指出 GPU 现货价格仍在上涨，HBM 和 DRAM 到 2029 年的产能基本已被订满，前沿模型训练算力约每 5 个月翻一番。  
   IT之家·人工智能 · 2026-11-22 16:47
 
-- [蚂蚁 inclusionAI 开源 LingSante-3.1-flash-MXFP4 医疗 MoE 模型](<https://huggingface.co/inclusionAI/LingSante-3.1-flash-MXFP4>)  
-  蚂蚁 inclusionAI 在 HuggingFace 发布 LingSante-3.1-flash-MXFP4，这是基于 LingSante-3.1-flash 的混合 MXFP4 量化开源权重模型，主模型约 560B 参数、每 token 激活约 25B，配置 262,144 token 上下文窗口。  
-  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-22 11:19
-
-- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
-  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
-  IT之家·人工智能 · 2026-11-22 08:04
-
-- [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
-  Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
-  The Decoder：AI News（RSS） · 2026-11-22 00:23
-
-- [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
-  Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
-  Sarvam AI（网页） · 2026-11-22 00:00
-
-- [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
-  Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
-  20VC · 2026-11-21 22:50
-
-- [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
-  Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
-  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
-
-- [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
-  Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
-  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
-
-- [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
-  Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
-  Axios · 2026-11-20 20:10
-
-- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
-  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
-  Axios · 2026-11-20 18:20
-
-- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
-  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
-  OpenAI · 2026-11-20 08:00
-
-- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
-  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
-  Menlo Ventures · 2026-11-20 00:50
-
-- [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
-  AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
-  20VC · 2026-11-19 15:07
-
-- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
-  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
-  晚点聊 · 2026-11-19 08:00
-
-- [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
-  Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
-  Axios · 2026-11-19 06:16
-
-- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](<https://www.youtube.com/watch?v=wX8nDtGIfYA>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
-  Latent Space · 2026-11-19 04:00
-
-- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
-  「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
-  晚点聊 · 2026-11-15 12:15
-
-- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
-  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
-  20VC · 2026-11-12 15:07
-
-- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
-  APPSO · 2026-11-11 09:00
-
-- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
-  极客公园 · 2026-11-11 08:43
-
-- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
-  APPSO · 2026-11-11 08:20
-
-- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
-  量子位 · 2026-11-11 06:10
-
-- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
-  新智元 · 2026-11-10 23:16
-
-- [实测Fable 5.2：15秒画完4万年人类艺术史，我还摸清了「满分提示词」套路](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115907&idx=1&sn=bdb6512fb5b8c5670803c67081c1f850>)  
-  APPSO · 2026-11-10 18:04
-
-[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 3 页
+[返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 4 页

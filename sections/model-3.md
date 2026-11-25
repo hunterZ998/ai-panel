@@ -1,6 +1,96 @@
 # 大模型
 
-[返回面板](../README.md) · [上一页](model-2.md) · 第 3 / 3 页
+[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 4 页
+
+- [蚂蚁 inclusionAI 开源 LingSante-3.1-flash-MXFP4 医疗 MoE 模型](<https://huggingface.co/inclusionAI/LingSante-3.1-flash-MXFP4>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 LingSante-3.1-flash-MXFP4，这是基于 LingSante-3.1-flash 的混合 MXFP4 量化开源权重模型，主模型约 560B 参数、每 token 激活约 25B，配置 262,144 token 上下文窗口。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-22 11:19
+
+- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
+  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
+  IT之家·人工智能 · 2026-11-22 08:04
+
+- [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
+  Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
+  The Decoder：AI News（RSS） · 2026-11-22 00:23
+
+- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
+  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
+- [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
+  Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
+  Sarvam AI（网页） · 2026-11-22 00:00
+
+- [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
+  Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
+  20VC · 2026-11-21 22:50
+
+- [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
+  Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
+  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
+
+- [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
+  Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
+  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
+
+- [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
+  Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
+  Axios · 2026-11-20 20:10
+
+- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
+  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
+  Axios · 2026-11-20 18:20
+
+- [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)  
+  Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…  
+  OpenAI · 2026-11-20 08:00
+
+- [An Extraordinary Journey: Celebrating Anthropic’s IPO](<https://menlovc.com/perspective/an-extraordinary-journey-celebrating-anthropics-ipo/>)  
+  What a special moment for Dario, Daniela, and the spectacular team at Anthropic. Congratulations\! In just over five y…  
+  Menlo Ventures · 2026-11-20 00:50
+
+- [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
+  AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
+  20VC · 2026-11-19 15:07
+
+- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
+  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
+  晚点聊 · 2026-11-19 08:00
+
+- [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
+  Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
+  Axios · 2026-11-19 06:16
+
+- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](<https://www.youtube.com/watch?v=wX8nDtGIfYA>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
+  Latent Space · 2026-11-19 04:00
+
+- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
+  「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
+  晚点聊 · 2026-11-15 12:15
+
+- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
+  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
+  20VC · 2026-11-12 15:07
+
+- [英伟达董事会宣布调查黄仁勋/Anthropic启动上市路演，估值缩水1万亿/谷歌最强模型开放](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116032&idx=1&sn=fb40be8c5739a6cc4bb81c5b44b3ca3f>)  
+  APPSO · 2026-11-11 09:00
+
+- [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员 \| 极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116284&idx=1&sn=acbbda885437dfae2e39c5190105fbc6>)  
+  极客公园 · 2026-11-11 08:43
+
+- [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651116031&idx=1&sn=2a8423e6fb77ed9499d412a67f2f4423>)  
+  APPSO · 2026-11-11 08:20
+
+- [Gemini 4 Carbon连夜上桌！力压Fable 5.2花费仅一半，还挖出了PHP同级漏洞…](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942861&idx=1&sn=41d0336965ce7b66565918f5d29e0dd8>)  
+  量子位 · 2026-11-11 06:10
+
+- [Anthropic正式启动IPO路演，估值腰斩仍破万亿！](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741810&idx=2&sn=24e5cefc404d2417e6cb7eb13be0cff9>)  
+  新智元 · 2026-11-10 23:16
+
+- [实测Fable 5.2：15秒画完4万年人类艺术史，我还摸清了「满分提示词」套路](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115907&idx=1&sn=bdb6512fb5b8c5670803c67081c1f850>)  
+  APPSO · 2026-11-10 18:04
 
 - [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942809&idx=2&sn=6e947b51ab34901d590c22156c1db720>)  
   量子位 · 2026-11-10 15:27
@@ -44,6 +134,14 @@
 - [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
   量子位 · 2026-11-09 11:05
 
+- [Anthropic估值砍到1万亿美元](<https://www.pedaily.cn/first/190888.shtml>)  
+  11月7日，经历了科技股遭遇大规模抛售之后，一些投资者开始下调对人工智能公司Anthropic的估值预期。而在不久前，这家人工智能公司还在为IPO冲击2万亿美元估值做准备。但据相关利益方透露，即便是1.5万亿美元的估值，如今也已经充满…  
+  投资界 · 2026-11-09 08:31
+
+- [OpenAI完成110亿美元新融资，估值1.25万亿美元](<https://www.pedaily.cn/first/190887.shtml>)  
+  据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。资金已于周五划入公司账户。本轮剩余部分——地方政府可能增至最高200亿美元——预计将在未来数周内完成。在推迟了首次公开募股（IPO）…  
+  投资界 · 2026-11-09 08:31
+
 - [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
   APPSO · 2026-11-08 15:26
 
@@ -62,48 +160,4 @@
   AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
   TechCrunch · 2026-11-06 23:54
 
-- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
-  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
-  晚点聊 · 2026-11-06 09:30
-
-- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
-  今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
-  晚点聊 · 2026-11-06 09:30
-
-- [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
-  Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
-  SemiAnalysis · 2026-11-06 03:03
-
-- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
-  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
-  20VC · 2026-11-05 15:07
-
-- [20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](<https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo>)  
-  Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inf…  
-  20VC · 2026-11-02 15:07
-
-- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](<https://guiguzaozhidao.fireside.fm/20240449>)  
-  一家成立只有五年的公司，能否撑起2万亿美元的估值预期？2026年10月26日，Claude背后的公司Anthropic公开了IPO招股书。2026年上半年，它的收入接近163亿美元，约为上年同期的14倍；截至9月底，净收入留存率达到约…  
-  科技早知道 · 2026-10-30 17:00
-
-- [20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](<https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree>)  
-  AGENDA: 04:00 Anthropic Files S-1 Ahead of $2TRN IPO 14:50 Microsoft Offers Buyouts to 60,000 Employees 20:45 Zuckerb…  
-  20VC · 2026-10-29 15:07
-
-- [How Anthropic ships the \#1 LLM in the World safely: Separating the Brain from the Hands](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands>)  
-  Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
-  Latent Space · 2026-10-28 02:40
-
-- [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
-  ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  
-  十字路口 Crossing · 2026-10-26 00:00
-
-- [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](<https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign>)  
-  New Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments  
-  SemiAnalysis · 2026-09-18 22:34
-
-- [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](<https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference>)  
-  Rubin is the first platform co-designed across six products for the agentic era: Rubin GPU, Vera CPU, NVLink 6 Switch…  
-  SemiAnalysis · 2026-09-15 06:08
-
-[返回面板](../README.md) · [上一页](model-2.md) · 第 3 / 3 页
+[返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 4 页

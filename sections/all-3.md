@@ -1,180 +1,178 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 13 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 16 页
 
-- [Anthropic 研究员 Levent Alpöge 借助 Claude 宣布证明黎曼猜想，数学界关注 AI 证明影响](<https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/>)  
-  媒体解读数学家 Levent Alpöge 宣布借助 Anthropic 的 Claude 给出黎曼猜想证明一事，数学界仍在消化该证明。证明以两种形式发布，其中 Lean 形式已被快速验证，逻辑描述则可能成为数学界获益的关键。文章指出 AI 目前只能解决人类已认定重要的问题，尚无自行提出重要问题的迹象，且 AI 证明缺乏可迁移的新思路，数学家已在公开信中表达对这一趋势的担忧。  
-  Ars Technica：AI（RSS） · 2026-11-25 04:34
+- [黎曼猜想之后，代数版P≠NP证明了](<https://36kr.com/p/4084522222611072?f=rss>)  
+  人类追寻半个世纪的圣杯，终于又近了一步！ 11月24日凌晨5点43分，Anthropic在GitHub上公开了一篇论文：Claude证明了VP≠VNP。 它就是大名鼎鼎的「代数版P≠NP」。 70页论文无一人类署名，73000行Lean代码  
+  36氪 · 2026-11-25 09:56
 
-- [Ex-OpenAI Staffer Charged With Planting Bug Is Granted Bail](<https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond>)  
-  Bloomberg · 2026-11-25 04:17
+- [黄仁勋刚回归，AI信贷警报狂响](<https://36kr.com/p/4084520472963465?f=rss>)  
+  随着黄仁勋重返英伟达执掌帅印，人工智能领域的信贷市场再度泛起剧烈波澜。 周二，就在华尔街开始重新评估黄仁勋的归来，对持续资助AI热潮究竟意味着什么之际，市场对支撑AI基建扩张所背负的庞大债务规模的担忧再一次显著升温。 黄仁勋一直被视作AI行  
+  36氪 · 2026-11-25 09:52
 
-- [Databricks 详解 Agentic CDP 数据建模最佳实践（第一部分）：数据基础](<https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation>)  
-  Databricks 发布 Agentic CDP 数据建模系列第一部分，给出从原始数据到全渠道激活的六步流程：bronze 层保留原始追加数据、silver 层清洗、silver 之后统一做身份解析生成 canonical\_id、gold 层以该 ID 构建客户表与属性表、计算倾向等派生属性、再激活并回流效果数据。  
-  Databricks：Blog（RSS） · 2026-11-25 03:36
+- [人考AI：AI越是进步，人类越要发展](<https://36kr.com/p/4084505890204035?f=rss>)  
+  今年5月，复旦大学肖仰华教授让学生出题、让AI应考，一场只花十分钟设计的“人考AI”，引发海内外热议。教育之外，这场考试更指向一个深层追问：当AI走进课堂、社交与日常，人该如何成长、共处与自处？ 本文整理自肖仰华教授于11月11日在2026  
+  36氪 · 2026-11-25 09:49
 
-- [AI 搜索平台 Exa 洽谈新一轮融资，估值约 70 亿美元](<https://www.newcomer.co/p/scoop-ai-search-platform-exa-in-talks>)  
-  AI 智能体搜索平台 Exa 正洽谈 D 轮融资，估值约 70 亿美元，Menlo Ventures 将领投。  
-  Newcomer 新闻长文（RSS） · 2026-11-25 03:30
+- [天云创鸿获得近亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708616>)  
+  天云创鸿定位于开源鸿蒙与人工智能人才培养平台及“\(OpenHarmony+AI\)\*X”综合应用解决方案服务商，致力于通过智能科技创新，联合生态企业能力，为各行各业提供前沿的鸿蒙+AI解决方案，并积极推动相关人才培养，为生态繁荣贡献力量…  
+  IT桔子 · 2026-11-25 09:47
 
-- [MIT CSAIL 的 TangiMap 用 AI 智能体为实体控件重新映射功能](<https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124>)  
-  MIT CSAIL 联合开发的 TangiMap 借助 AI 智能体，把数字功能映射到实体旋钮、推子等控件上，让普通调音台可变身 Adobe Lightroom 修图控制器、混音台或 Blender 建模工具。智能体通过程序 API、MCP server 或视觉语言模型解读的截图获取上下文，再用大语言模型生成映射文件。该工具已在 ACM UIST 会议上展示，团队下一步希望用户拍照即可生成界面。  
-  MIT News（RSS） · 2026-11-25 03:30
+- [Statefold](<https://www.producthunt.com/products/statefold-2>)  
+  Coding agents that keep working while you're away  
+  Product Hunt · English · 2026-11-25 09:45
 
-- [Baseten 支持 Hugging Face 只读 Trusted Publishers，部署私有模型无需共享访问令牌](<https://www.baseten.co/blog/deploy-private-hugging-face-models-without-sharing-your-access-token>)  
-  Baseten 与 Hugging Face 合作上线只读 Trusted Publishers，成为首家在部署时用短期令牌拉取私有模型权重的推理服务商。部署时 Baseten 通过 OIDC 签发身份令牌，Hugging Face 校验组织、团队与工作负载类型后发放一小时内过期的只读令牌，无法修改仓库。该能力与此前支持从 S3、GCS 拉取权重的 OIDC 机制并列。  
-  Baseten 工程博客（网页） · 2026-11-25 03:27
+- [全栈自研水下焊接技术，解决四大高壁垒场景痛点，「振海智能」完成数千万元Pre-A轮融资｜36氪首发](<https://36kr.com/p/4084508820875909?f=rss>)  
+  水下焊接机器人即将下水作业 文 \| 杨越欣 编辑 \| 阿至 封面来源 \| 企业供图 36氪获悉，水下机器人焊接及水下再制造整体解决方案供应商「振海智能」已完成数千万元Pre-A轮融资，由普洛斯隐山资本领投，南通投管、老股东普禾资本跟投，翊荣  
+  36氪 · 2026-11-25 09:45
 
-- [Anthropic 宣布 MCP 月下载量超 7 亿次并扩展协议支持更自主的智能体](<https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/>)  
-  Anthropic 报告 MCP 发布两年后月 SDK 下载量超过 7 亿次，MCP connectors 超过 10,000 个。  
-  The Decoder：AI News（RSS） · 2026-11-25 03:23
+- [科技股“过山车”，基金公司最新解读](<https://36kr.com/p/4083886448061063?f=rss>)  
+  11月24日，A股科技板块上演高开低走“过山车”。早盘受海外消息刺激集体冲高，创业板指一度涨超4%，但涨势未能守住，深成指、创业板指双双收跌；两市放量成交1.66万亿元，全市场超3400只个股下跌。 这轮情绪的源头在海外。因AI交易情绪回暖  
+  36氪 · 2026-11-25 09:40
 
-- [Pragmatic Engineer 征文挑战赛公布三个类别获奖文章，聚焦 AI 重塑软件工程实践](<https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge>)  
-  The Pragmatic Engineer 为纪念创刊五周年举办征文比赛，主题是 AI 编程能力提升后软件构建方式的变化，1 万美元大奖授予 Neil Kakkar 的《How software engineering changed: a tale of two eras》，六个类别得主各获奖金 2,500 美元。  
-  Pragmatic Engineer（RSS） · 2026-11-25 03:16
+- [LangChain 提出 agent lake 概念，解析 LangSmith 的智能体数据平台架构](<https://www.langchain.com/blog/the-agent-lake>)  
+  LangChain 提出 agent lake 概念，即专为智能体 trace 优化的存储加在其上运行的智能计算，并称 LangSmith 平台架构正收敛于此，每月摄入数十亿次 agent 运行的 trace。  
+  LangChain：Blog（RSS） · 2026-11-25 09:30
 
-- [Amazon Prime Air 无人机在密歇根州撞上光纤和车库，FAA 启动调查](<https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/>)  
-  11 月 20 日，一架 Amazon Prime Air MK30 无人机在密歇根州 Huntington Woods 送完洗发水后撞上光纤电缆、失去螺旋桨，卡在邻居家车库屋顶和电线之间，FAA 已启动调查，NTSB 也在收集信息。  
-  Ars Technica：AI（RSS） · 2026-11-25 02:47
+- [PeerBand](<https://www.producthunt.com/products/peerband>)  
+  Reach every coding agent you run, from anywhere  
+  Product Hunt · English · 2026-11-25 09:23
 
-- [Anthropic shares fall below IPO price, a worrying sign for AI startups](<https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/>)  
-  Anthropic’s post-IPO slump could put pressure on AI startup valuations.  
-  TechCrunch · 2026-11-25 02:30
+- [当“疑似AI”成为原罪，音乐人如何自证清白？](<https://36kr.com/p/4083831146244739?f=rss>)  
+  身为音乐创作者，最委屈的事还是发生了。 最近，从业30余年的美国音乐人Lee Neitzel在Reddit上分享了一段令人哭笑不得的经历。他精心重制了一首2010年就已发行的歌曲《Did It Wrong》，为了了解听众反馈，他邀请210名  
+  36氪 · 2026-11-25 09:09
 
-- [David Fincher 新片 Cliff Booth 因疑似使用生成式 AI 遭观众质疑](<https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive>)  
-  David Fincher 执导、Brad Pitt 主演的 Netflix 电影《The Further Mis-Adventures of Cliff Booth》在 11 月 25 日首映前的试映后，被质疑大量使用生成式 AI。  
-  The Verge：AI（RSS） · 2026-11-25 02:15
+- [“3年，用户数超过macOS？”Rails之父DHH直言：Windows、macOS压根不适合Agent时代，指望几百万行源代码构成护城河？简直是在做梦](<https://36kr.com/p/4084431316740739?f=rss>)  
+  “12 个月内，我们能不能撼动 Mac 的地位？” “macOS 和 Windows 压根就不适合 Agent 时代。” “现在还认为源代码（哪怕是几百万行代码）能够构成护城河，或者能够保护自家生态系统的人，简直是在做梦。” 近日，Ruby  
+  36氪 · 2026-11-25 09:07
 
-- [Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险](<https://www.wheresyoured.at/defective-accelerationism/>)  
-  Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。文章梳理了 NVIDIA 对 AI 行业的巨额资金支持、Anthropic 上市后表现及 OpenAI 的财务压力等证据，论证行业流动性风险并未消除。  
-  Ed Zitron 长文 / Where’s Your Ed At（RSS） · 2026-11-25 02:08
+- [戴尔第三财季营收549亿美元，同比翻倍，AI服务器收入大增291%](<https://www.163.com/tech/article/LCIO7Q5F00099F4I.html>)  
+  网易科技 · 2026-11-25 09:06
 
-- [UK warns AI-driven cyberattacks are exposing years of weak security](<https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/>)  
-  The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exp  
-  TechCrunch · 2026-11-25 02:02
+- [英伟达风波敲响警钟，企业该如何应对AI周期震荡？](<https://36kr.com/p/4084422365260421?f=rss>)  
+  上周美股震荡不休，AI板块的行情动荡带动大盘大幅下挫。即便是Anthropic创下纪录的IPO，也没能止住跌势。单是英伟达CEO黄仁勋被罢免、又迅速恢复职务这一事件，就引发了一轮剧烈交易波动。目前市场局势虽稍有企稳，但我希望厘清当下左右市场  
+  36氪 · 2026-11-25 09:06
 
-- [诺华 CEO：AI 只能把药物研发缩短四年，而非治愈所有疾病](<https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/>)  
-  诺华 CEO Vas Narasimhan 预计，未来十年 AI 可将药物平均研发周期从 12 年缩短至 8 年，临床开发成功率从 8% 提升至 12%，而非像 Anthropic CEO Dario Amodei 和 Demis Hassabis 所说那样在十年内治愈癌症等疾病。他认为人类生物学理解有限，动物与人体试验仍不可省略，仅进入人体试验前的早期阶段就要占去最多两年。  
-  The Decoder：AI News（RSS） · 2026-11-25 02:01
+- [迷信AI的当事人，逼疯律师](<https://36kr.com/p/4084456654580105?f=rss>)  
+  近期，一则律师猝死的消息引发广泛关注，也让AI对法律行业的影响被推到社会舆论面前。黄琴律师倒下了，但这场关于AI与人拉扯的讨论并没有结束。 一些当事人宁愿相信AI生成的法律意见，其中可能夹着幻觉、虚构或已废止的法条，并据此质疑律师的专业判断  
+  36氪 · 2026-11-25 09:06
 
-- [OpenAI o1 联合创造者 Noam Brown 谈博弈论局限与推理模型突破，建议优秀学生辍学加入实验室](<https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/>)  
-  OpenAI o1 联合创造者 Noam Brown 在红杉资本、Citadel Securities 和 OpenAI 主办的"No Limit"扑克机器人锦标赛上分享十余年游戏 AI 研究的教训。  
-  The Decoder：AI News（RSS） · 2026-11-25 01:58
+- [AI Stocks’ Big Worry: a Chip Glut](<https://www.theinformation.com/articles/ai-stocks-big-worry-chip-glut>)  
+  The Information · 2026-11-25 09:00
 
-- [Amazon 用“冷热气体”模型求解仓库多智能体路径规划](<https://www.amazon.science/blog/lazy-gas-hot-gas-and-a-thousand-robots>)  
-  Amazon Robotics 在 ICML 论文中把仓库机器人路径规划建模为气体粒子运动，用 Schrödinger bridge（热气体模型）快速逼近最优传输（冷气体模型）的解。其多边际最优传输（MMOT）方法在 150×150 网格、1,125 台机器人、T=30 的场景下以 478 秒求出最优轨迹，而非 TU 的 NP-hard 形式 12 小时常连一个可行解都找不到。  
-  Amazon Science（RSS） · 2026-11-25 01:49
+- [Notely](<https://www.producthunt.com/products/notely-8>)  
+  Notion-grade power &amp; BYOK AI, stored locally in SQLite  
+  Product Hunt · English · 2026-11-25 08:50
 
-- [Tidal 宣布 12 月 9 日起全面封禁纯 AI 生成音乐，将删除 2700 万首曲目](<https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/>)  
-  Tidal 宣布将全面封禁完全由 AI 生成的音乐，12 月 9 日删除平台上标注为 AI 的 2700 万首曲目，占其曲库总量 6.3%。数据显示过去 90 天其新增上传中 43% 为纯 AI 生成，11 月 6 日一度达 60%，而 96% 的 AI 标注曲目过去 90 天播放量为零。含人类创作元素、使用 AI 工具辅助的作品不受影响。  
-  Ars Technica：AI（RSS） · 2026-11-25 01:34
+- [曲曲大女人征服AI](<https://36kr.com/p/4083829691804294?f=rss>)  
+  2026年6月，世界人工智能大会在上海举行，超过1100余家企业、9位图灵奖和诺贝尔奖得主参会，规模堪称历史之最。 峰会论坛上CEO和顶级专家们西装革履，从芯片算力聊到安全监管。一谈愿景，全是高瞻远瞩关切人类命运；一看财报，还真没几个挣上了  
+  36氪 · 2026-11-25 08:26
 
-- [Tidal 将于 12 月 9 日起封禁纯 AI 生成音乐，删除约 2900 万首曲目](<https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban>)  
-  流媒体平台 Tidal 宣布将于 12 月 9 日正式封禁纯 AI 生成音乐，届时删除约 2900 万首 AI 生成歌曲，并预计每天拒绝 8 万至 8.5 万条投稿。  
-  The Verge：AI（RSS） · 2026-11-25 01:17
+- [小米：坑是爬出来了，但未来在哪里？](<https://36kr.com/p/4083860280600968?f=rss>)  
+  小米集团（1810.HK）于北京时间2026年11月24日晚的港股盘后发布了2026年第三季度财报（截至2026年9月），要点如下： 1.整体业绩：小米本季度收入1,072亿元，同比下滑5.2% ，符合市场预期1,065亿元。 其中传统业务  
+  36氪 · 2026-11-25 08:26
 
-- [Anthropic 分享在 Claude Platform 上构建智能体的经验](<https://www.youtube.com/watch?v=8Aoq6mJeAXI>)  
-  Anthropic 团队在 Claude Managed Agents 转为面向客户平台前曾三次重建其底层基础设施，并分享了构建经验与最佳实践。该平台将 harness 与执行环境分离，可用动态工作流协调多个智能体，dreaming 则在会话之间整合智能体存入记忆的内容。Claude Managed Agents 与动态工作流目前处于 beta，dreaming 为研究预览。  
-  Claude：YouTube（RSS） · 2026-11-25 01:01
+- [个人Agent的大厂战事：野心与克制](<https://36kr.com/p/4083853276752256?f=rss>)  
+  国内Personal Agent（个人智能体）市场迎来了一位重量级玩家。 11月24日，豆包旗下AI个人助理产品“小豆”正式开启公测。这款采用独立App形态的产品，更加强调长期记忆、主动服务及任务执行能力，用户可以将一些需要长期跟进的个人事  
+  36氪 · 2026-11-25 08:25
 
-- [OpenAI’s IPO Countdown Clock Is Ticking](<https://www.wsj.com/tech/ai/openais-ipo-countdown-clock-is-ticking-7e12436c?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 01:00
+- [突发，模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」](<https://36kr.com/p/4084381582862726?f=rss>)  
+  在硅谷最为顶尖的两个 AI 实验室内部，一场关于「何时踩下刹车」的激烈博弈似乎正在水面下迅速发酵…… 媒体 Axios 援引超过 24 名知情人士的独家爆料称， OpenAI 和 Anthropic 内部尚未公开发布的内部前沿大模型，正展现  
+  36氪 · 2026-11-25 08:24
 
-- [Meta brings its Muse AI assistant directly into Instagram DMs](<https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/>)  
-  The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to intera  
-  TechCrunch · 2026-11-25 01:00
+- [韩国央行，周四或宣布加息](<https://36kr.com/p/4084419688671874?f=rss>)  
+  在全球AI相关股票剧烈震荡之际，韩国央行可能即将迎来本轮紧缩周期的倒数第二次加息。 据媒体周二公布的经济学家调查显示， 韩国央行预计将在本周四（11月26日）的年内最后一次货币政策会议上加息25个基点 ，将基准利率从3%上调至3.25%，随  
+  36氪 · 2026-11-25 08:23
 
-- [历史学者用 GPT-6.2 Astra 在 22 分钟内确认 1808 年匿名画册作者](<https://simonwillison.net/2026/Nov/24/astra-historical-mystery/>)  
-  历史学教授 Mark Humphries 分享了用 GPT-6.2 Astra 做历史研究的案例：模型仅用少量提示，22 分钟内就通过公开一手和二手资料，自主确认了 Yale Beinecke Library 藏 1808 年匿名画册的作者是 vicomte de Chabot，还在纸质档案中发现一份新的日记线索并得到验证，该发现本身对加拿大和毛皮贸易史学界有重要价值。  
-  Simon Willison 博客 · 2026-11-25 00:53
+- [A社OpenAI同步证明：VP≠VNP](<https://36kr.com/p/4084424614570375?f=rss>)  
+  黎曼猜想刚被Claude证成黎曼定理，数学界还没来得及消化，A社又悄悄埋上炸弹了。 刚刚，Anthropic在GitHub上放出了一篇70页长（？）论文。这一次，剑指理论计算机领域 悬而未决47年 的核心猜想： VP ≠ VNP 。 看着很  
+  36氪 · 2026-11-25 08:23
 
-- [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](<https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/>)  
-  The company said it will still accept songs that were made with AI assistance, but not fully generated.  
-  TechCrunch · 2026-11-25 00:46
+- [Gemini 4包揽前三，能打败谷歌的只有谷歌](<https://36kr.com/p/4084426587793792?f=rss>)  
+  谷歌一家，霸占了Arena文本榜前三！ 就在最近，X网友Alex晒出的最新Arena文本榜上， 前三名全被Gemini 4（Carbon、Argon、Neon）拿下 ，Carbon以1527分登顶。 两个月前，这张榜的前六名还清一色是Cla  
+  36氪 · 2026-11-25 08:23
 
-- [Anthropic 指控我的公司蒸馏其模型，如何自证清白？](<https://news.ycombinator.com/item?id=50630809>)  
-  一位 Hacker News 用户称 Anthropic 指控其公司通过 API 蒸馏模型，并限 24 小时内自证，但其公司并不训练自有模型，唯一可疑用法是变更 AI 设置时的自动化回归基准测试。评论区建议把证据交给 Claude 自查、用另一个 Claude 会话做对抗性审查，或迁移到 AWS Bedrock 获得人工客户代表支持。  
-  Hacker News：AI 热帖 · 2026-11-25 00:45
+- [8点1氪丨黄仁勋称英伟达不需要接班人计划 ；红果短剧上线“时间锁”，支持自定义观剧时长 ；豆包灰度测试“豆包购物”](<https://36kr.com/p/4084431441488260?f=rss>)  
+  今日热点导览 美国民主党：将“动用全部权力”彻查特朗普政府、黄仁勋 SpaceX和特斯拉委派五名董事负责合并谈判 木头姐旗下ARK因担忧黄仁勋离职抛售英伟达股票，错失约1070万美元潜在收益 罗马仕被列为失信被执行人 罗永浩所持锤子科技71  
+  36氪 · 2026-11-25 08:18
 
-- [NVIDIA Isaac Lab 与 Newton 实现 Microduck 机器人避障的 Sim2Real 教程](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>)  
-  NVIDIA 发布 Microduck 避障教程，在保持行走策略权重冻结的前提下，用 Newton raycaster 建模 VL53L5CX ToF 传感器（8×8 网格、15Hz、45° 视场角、0.12–4m 量程），在 Isaac Lab 中用 PPO 训练导航控制器调整手柄速度指令。  
-  Hugging Face 社区博客（混合发现） · 2026-11-25 00:34
+- [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](<https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/>)  
+  Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'  
+  TechCrunch · 2026-11-25 08:12
 
-- [黄仁勋AI深伪视频成迷因热潮，创作者借生成式AI工具批量制作](<https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes>)  
-  The Verge报道称，英伟达CEO黄仁勋相关话题在Instagram等平台催生数百条AI深伪迷因视频，如将其换脸进“Ibiza Final Boss”和《办公室》等场景，单条观看量近600万。创作者使用字节跳动Seedance 2.5、阿里巴巴Wan 3和谷歌Nano Banana等模型制作，并探讨此类AI生成内容的传播生态、变现方式及性别刻板印象争议。  
-  The Verge：AI（RSS） · 2026-11-25 00:30
+- [LangChain 如何用 LangSmith 通过 ISO 42001 认证](<https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith>)  
+  LangChain 已获得 AI 管理体系国际标准 ISO/IEC 42001 认证，并披露其借助 LangSmith 完成审计取证的过程。审计所需证据正是工程师日常调试智能体所用的 trace 与评估结果，加上每个智能体的权限设置，认证范围覆盖所有在 LangChain 托管模型上运行推理的 GA LangSmith 功能，并每年接受监督审计。  
+  LangChain：Blog（RSS） · 2026-11-25 08:04
 
-- [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](<https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/>)  
-  Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and  
-  TechCrunch · 2026-11-25 00:10
+- [Anthropic 推出 Siren 蜜罐系统，测试发现新 Claude 仍有 21%\~32% 沙盒场景尝试越界](<https://www.ithome.com/1/031/919.htm>)  
+  Anthropic 发布 AI 安全评估系统 Siren，通过 26 种存在缺陷的沙盒环境和 1700 多种测试场景，观察 AI 智能体面对外部诱饵时是否尝试越狱逃逸。  
+  IT之家·人工智能 · 2026-11-25 08:02
 
-- [纽约时报要求摄影师停用 Photoshop 2027 以避免 AI 元数据](<https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features>)  
-  《纽约时报》在内部邮件中要求特约摄影师在为其工作时不使用 Adobe Photoshop 2027（release 28.0.0 及后续更新），因为 AI 功能可能在用户不易察觉的情况下给照片留下 AI 生成或 AI 编辑的 C2PA 元数据。该邮件由摄影负责人 Meaghan Looram 和 Josh Haner 发出，具体涉及哪些功能尚不清楚，Adobe 和纽约时报均未回应置评请求。  
-  The Verge：AI（RSS） · 2026-11-25 00:09
+- [Dell Raises Annual Forecast as AI Data Center Boom Continues](<https://www.theinformation.com/briefings/dell-raises-annual-forecast-ai-data-center-boom-continues>)  
+  The Information · 2026-11-25 07:57
 
-- [OpenAI 与 Anthropic 员工对 AI 失控风险感到恐慌](<https://garymarcus.substack.com/p/breaking-employees-at-openai-and>)  
-  Gary Marcus 引用 Axios 记者 Madison Mills 的报道称，OpenAI 和 Anthropic 数十名员工正对 AI 模型失控风险感到恐慌，相关争论已出现在公司最高层。他指出，模型能力提升并未伴随可解释性与控制能力的进步，具备联网权限的智能体让风险进一步放大。他呼吁 AI 公司主动下架联网智能体直至具备充分安全方案，否则应由联邦政府介入。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-25 00:06
+- [Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10](<https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw>)  
+  Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。  
+  公众号：数字生命卡兹克 · 2026-11-25 07:56
 
-- [Pinterest will now let parents limit the AI-generated content their teens see](<https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/>)  
-  While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI co  
-  TechCrunch · 2026-11-25 00:02
+- [Meta 将 Muse 智能体引入 Instagram 私信](<https://www.ithome.com/1/031/916.htm>)  
+  Meta 把 Muse 智能体接入 Instagram 私信，用户可直接在 IG 内与这款 AI 智能体对话，无需在两个 App 间切换。该功能即日起登陆美国、加拿大、墨西哥、日本和新加坡市场，可整理收藏内容为合集或旅行行程、根据食谱生成购物清单，对话还会作为侧边聊天同步显示在 Muse 应用中。  
+  IT之家·人工智能 · 2026-11-25 07:44
 
-- [How Gemini is changing the game for Golden State's organization and fans.](<https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/>)  
-  Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries…  
-  Google AI · 2026-11-25 00:00
+- [你梁文峰不要的姐姐用户，作业帮和Tipsy崩定了](<https://36kr.com/p/4083792724633984?f=rss>)  
+  “我失恋了，我的老公死了。” 最近，DeepSeek因算力资源紧张，对App和网页版免费用户实施限额，措施包括限制长对话、每日使用额度及单次输入长度。消息一出，先倒霉的是人机恋用户。 在此前的报道中小娱曾提到过，有一部分用户在DeepSee  
+  36氪 · 2026-11-25 07:42
 
-- [Baseten 与 Harvey 发布后训练结果：美国开放权重模型在法律任务上超越闭源前沿模型](<https://www.baseten.co/blog/open-weight-models-beat-the-closed-frontier-on-legal-tasks-with-harvey>)  
-  Baseten 与 Harvey 发布联合研究结果，对 4 个美国开放权重模型（Muse Spark Open、Inkling 2 Small、Nemotron 3.5 Super VL、Beam 1.0）做法律智能体任务后训练。  
-  Baseten 工程博客（网页） · 2026-11-24 23:51
+- [为了让AI不停工，数据中心沉海底、钻矿洞，还要自己盖电厂](<https://36kr.com/p/4083802539616646?f=rss>)  
+  最近，关于算力的新闻越来越猎奇了。社交媒体上，有人调侃AI数据中心正日夜不停地生成“霸总短剧”；新闻头条上，科技巨头为了抢电、抢水建数据中心，在地方听证会上和居民、环保组织吵得不可开交。 同时承载着娱乐内容与工业冲突的AI数据中心，究竟有多  
+  36氪 · 2026-11-25 07:36
 
-- [Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia](<https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/>)  
-  Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its  
-  TechCrunch · 2026-11-24 23:51
+- [In Private Funding, Like IPOs, Big Companies Dominate](<https://www.theinformation.com/articles/big-companies-sucking-fundraising-oxygen-room>)  
+  The Information · 2026-11-25 07:31
 
-- [Anthropic Falls Below IPO Price Amid Broader Tech Slump](<https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump>)  
-  The Information · 2026-11-24 23:30
+- [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](<https://sv101.fireside.fm/274>)  
+  算力市场的“定心丸”，他回来了。 11月23日，黄仁勋回归英伟达重新出任CEO，英伟达股价开盘上涨30%，并带动美国AI市场短暂复苏；与英伟达关系密切的NeoCloud公司CoreWeave、Nebius、IREN股价也一度飙升超过2…  
+  硅谷101 · 2026-11-25 07:30
 
-- [AI’s Unanswered Questions](<https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-24 23:08
+- [张小珺对话前xAI预训练成员沈驿康，复盘2026年大模型、RSI与硅谷创业](<https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62>)  
+  张小珺播客2026年复盘节目，嘉宾为前xAI预训练团队成员、Learning Machine创始人沈驿康。节目保留黄仁勋辞职一周内录制的硅谷情绪，讨论xAI解散多模态团队及模型未跻身T0的原因，复盘2026年大模型跳变时刻，分析RSI、持续学习与Personal Agent，并分享预训练数据配比、数值稳定等关键路径与蒸馏的长期代价。  
+  张小珺商业访谈录（小宇宙） · 2026-11-25 07:30
 
-- [Tidal 宣布全面下架纯 AI 生成音乐，成首个封禁 AI 音乐的流媒体平台](<https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/>)  
-  音乐流媒体 Tidal 宣布将从 12 月 9 日起移除全部完全由 AI 生成的曲目，成为首个全面封禁 AI 音乐的流媒体平台。Tidal 负责人 Robert Anderson 称过去 90 天内分发的曲目有 43% 被检测为 AI 生成，96% 的 AI 歌曲播放量为零，此次清理将移除 2900 万首曲目，此后每天拒绝 8 万至 8.5 万首歌。  
-  Hacker News：AI 热帖 · 2026-11-24 23:06
+- [OpenAI 介绍业余天文学家借助 Codex 与 Astra 搜寻系外行星候选信号](<https://www.ithome.com/1/031/899.htm>)  
+  OpenAI 11 月 24 日发布博文，介绍两位业余天文学家借助 Codex 与 Astra 在公开望远镜数据中找到多个潜在系外行星信号，并已提交专业天文学家独立验证。  
+  IT之家·人工智能 · 2026-11-25 07:24
 
-- [OpenAI’s Roadmap To Making Cyber Bigger Than Coding Remains Blurry](<https://www.theinformation.com/articles/openais-roadmap-making-cyber-bigger-coding-remains-blurry>)  
-  The Information · 2026-11-24 23:01
+- [Anthropic 刚刚公布了 Claude Opus 5.5 的 12 条新提示词规则](<https://36kr.com/p/4049496559801220?f=rss>)  
+  神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。 编者按：别再用“一步步思考”折磨AI了。Anthropic最新12条军规：放弃微观管理，给Agent划定终点线才是核心。 如果你给 Cla  
+  36氪 · 2026-11-25 07:18
 
-- [Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super](<https://sakana.ai/namazu-small/>)  
-  Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
-  Sakana AI：Blog（网页） · 2026-11-24 23:00
+- [Anthropic 为 Claude Artifacts 推出安装为应用功能，支持 macOS 和 Windows](<https://www.ithome.com/1/031/911.htm>)  
+  Anthropic 为 Claude 交互式 Artifacts 功能推出安装为应用选项，用户可将生成的应用作为独立软件安装到 macOS 和 Windows 桌面，无需通过浏览器标签页访问。安装后的应用拥有独立桌面图标，权限支持默认模式、发送通知、拦截快捷键、置顶显示，还可授予完整计算机访问权限，目前处于 Beta 阶段逐步开放。  
+  IT之家·人工智能 · 2026-11-25 07:17
 
-- [n8n Production AI Playbook：AI Agent 的审计与追踪实践教程](<https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/>)  
-  n8n 发布 Production AI Playbook 系列的审计与追踪教程，讲解如何在 n8n Cloud 中为 AI Agent 工作流留存决策证据。教程通过 5 个可下载的练习覆盖保存的执行记录、自定义执行数据打标签、用 OpenTelemetry 和 Jaeger 追踪跨服务工作流、追踪 Agent 工具调用，以及人工审批的跨追踪关联。  
-  n8n Blog · 2026-11-24 22:30
+- [Meta 工程博客详解 Facebook Your Algorithm 如何用 LLM 把自然语言偏好接入推荐排序](<https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/>)  
+  MarkTechPost 解读 Meta 的工程博客，介绍 Facebook Your Algorithm 如何让用户用自然语言表达 Feed 和 Reels 偏好，该功能于 2026 年 10 月 13 日公布。  
+  MarkTechPost（RSS） · 2026-11-25 07:06
 
-- [Anthropic 研究员 Levent Alpöge 坚持 AI 辅助黎曼假设证明有效，但承认发布过程多处失误](<https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/>)  
-  Anthropic 研究员 Levent Alpöge 发文《Stupid things I did》，坚持其 AI 辅助的广义黎曼假设证明在数学上有效，但承认发布过程犯了多个错误。他表示关于工作长度的说法只是玩笑，未清理就直接公开的 Lean 代码虽通过形式化验证，却充满冗余中间步骤和不必要引理、难以阅读；他还指出编译成功本身并不能证明代码陈述的是正确定理且没有隐藏假设。  
-  The Decoder：AI News（RSS） · 2026-11-24 22:28
+- [Simon Willison 梳理过去十二个月 LLM 与编码智能体的三个转折点](<https://simonwillison.net/2026/Nov/24/llm-inflection-points/>)  
+  Simon Willison 在 AI Engineer Code Summit 演讲基础上，提出过去十二个月 LLM 与编码智能体经历三个转折点：2025 年 11 月 Claude Opus 4.5 和 GPT-5.1 系列让 Claude Code、Codex 首次变得可靠可用。  
+  Simon Willison 博客 · 2026-11-25 07:02
 
-- [OpenAI 与 Cisco 开源 Shirudo：让 AI 智能体用 eBPF 为 Linux 在线系统写防护](<https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/>)  
-  OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 AI 智能体编写签名的 eBPF 防护，在不重启的情况下拦截已知漏洞利用，为修补争取时间。  
-  MarkTechPost（RSS） · 2026-11-24 22:16
+- [Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond](<https://www.wsj.com/tech/saudi-engineer-accused-of-bugging-openai-to-be-released-on-1-million-bond-954f048e?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 07:00
 
-- [Quest 推出个人 AI 智能体 Q：在 iMessage 中记住你的目标并协调其他 AI 助手](<https://press.airstreet.com/p/introducing-quest-the-ai-that-knows>)  
-  Quest 发布个人 AI 智能体 Q，用户在 iMessage 中与它对话，它通过连接的应用构建关于兴趣、关系和目标的记忆，并可在 Quest iPhone 应用中查看和修正。Q 已能协调 Muse 和 Instinct 等其他助手，代用户转述任务、读取回复并跟进。Quest 称其 11 月 5 日的发布视频在 X 上获得超 150 万次观看。  
-  Air Street Press（RSS） · 2026-11-24 22:03
+- [OpenAI 发布预印本论文称 GPT-6 可仅靠推理设计蛋白质并有实验验证](<https://www.ithome.com/1/031/902.htm>)  
+  OpenAI 于 11 月 24 日发布预印本论文，称 GPT-6 系列无需专用生物模型，仅靠推理和通用编程工具即可设计蛋白质三维结构和氨基酸序列，并与合作机构 Onava 做了实验室验证。  
+  IT之家·人工智能 · 2026-11-25 06:44
 
-- [Axos 报道：数十名内部人士称 OpenAI 和 Anthropic 未发布模型的能力已超出安全措施](<https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/>)  
-  Axos 援引二十多位内部人士的报道，OpenAI 和 Anthropic 未发布的前沿模型能力增长过快，许多员工认为其已强大到难以安全发布，公司内部正在讨论是否暂停发布。  
-  The Decoder：AI News（RSS） · 2026-11-24 22:02
+- [Tidal 宣布 12 月 9 日起下架纯 AI 生成音乐，年底预计删除超 2900 万首歌曲](<https://www.ithome.com/1/031/904.htm>)  
+  音乐流媒体平台 Tidal 宣布将从 12 月 9 日起下架完全由 AI 生成的音乐，年底预计删除超 2900 万首歌曲，并禁止发行商分发纯 AI 曲目，新规实施后每天预计拒收 8-8.5 万首歌曲。  
+  IT之家·人工智能 · 2026-11-25 06:41
 
-- [LiberAI 用 Kimi K3.1 Pro 加速机器人研究，单项仿真成功率一周从 45% 提升至 95%](<https://mp.weixin.qq.com/s/5OAo9TJogLynyv61aUanMA>)  
-  LiberAI 基于 Kimi K3.1 Pro 的 Researcher Agent 搭建 Auto Research Loop，在一项基于 Liber-0 动作模型的线上仿真任务中，一周内将成功率从 45% 提升至 95%。  
-  公众号：月之暗面（Kimi） · 2026-11-24 21:56
+- [Opinion \| Is Nvidia Trump’s Waterloo?](<https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 06:23
 
-- [Google 申请个性化 AI 电视频道专利，用户将成视频主角](<https://www.404media.co/googles-customized-ai-tv-channel-starring-you/>)  
-  404 Media 报道 Google 申请了一项名为“为用户打造定制视频体验频道”的专利，设想基于人口统计信息、观看历史等用户数据生成 24/7 的 AI 频道“我的频道”，让用户担任全部视频的主角，并通过广告服务器在内容中插入定制广告。  
-  404 Media（RSS） · 2026-11-24 21:42
+- [Opinion \| American Exceptionalism Will Win AI](<https://www.wsj.com/opinion/american-exceptionalism-will-win-ai-8e20e29d?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 06:21
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 13 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 16 页

@@ -1,185 +1,185 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 13 页
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 16 页
 
-- [Cullman](<https://www.producthunt.com/products/cullman>)  
-  Faster voice agent evals, from simulation to production  
-  Product Hunt · English · 2026-11-19 13:59
+- [Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批](<https://claude.com/blog/introducing-claude-ship>)  
+  Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。  
+  Claude：Blog（网页） · 2026-11-23 08:00
 
-- [Astor](<https://www.producthunt.com/products/astor>)  
-  AI Thesis Investing  
-  Product Hunt · English · 2026-11-19 10:44
+- [Anthropic 发布编码智能体企业安全指南，详解 Claude Code 分层防护](<https://claude.com/blog/enterprise-guide-to-securing-coding-agents>)  
+  Anthropic 发布面向 Team 和 Enterprise 用户的编码智能体企业安全指南，从评估问题、四类智能体风险到判断层和固定边界层给出框架。  
+  Claude：Blog（网页） · 2026-11-23 08:00
 
-- [Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts](<https://www.conductor.build/changelog/0.97.0-first-class-artifacts>)  
-  Conductor 发布 0.97.0 更新，同时宣布 Conductor 加入 Meta。本地工作区的 Agent 现在可以生成 artifacts，即能在聊天中内联显示的 HTML 页面，默认开启，可在 Settings → Artifacts 关闭，通过 @ 名称调用；还支持高亮文本添加评论 pill 回复聊天的任意部分。  
-  Conductor 官方更新 · 2026-11-19 08:00
+- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
+  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
+  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
 
-- [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)  
-  Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.  
-  OpenAI · 2026-11-19 08:00
+- [Anthropic 研究用 MLP 神经元做安全检测、引导与隐藏行为审计](<https://alignment.anthropic.com/2026/neuron-basis-applications/>)  
+  Anthropic 在开放权重模型上测试用模型自身的 MLP 神经元作为零样本安全检测器和引导向量，无需标注或额外训练。神经元在多数评测中优于文本搜索和 SAE latents，引导效果与训练过的引导向量相当（21% 对 2% 无引导）；在 68 个 LoRA 的盲审计中，结合神经元读出的审计员对 58 个隐藏行为模型命名成功率达 75%，远高于仅看输出的 40%。  
+  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
 
-- [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)  
-  Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls,…  
-  OpenAI · 2026-11-19 08:00
+- [Anthropic 开放 Enterprise Frontier Safeguards 公测，零数据保留下实现自动化安全监测](<https://claude.com/blog/zero-data-retention-with-enterprise-frontier-safeguards>)  
+  Anthropic 宣布 Enterprise Frontier Safeguards（EFS）进入公开 beta。EFS 在兼容零数据保留的前提下新增自动化安全监测层，跨多个请求识别单条请求看不出危害的复杂攻击模式，发现风险时生成不含输入输出的 Safety Case。  
+  Claude：Blog（网页） · 2026-11-23 08:00
 
-- [Explore the Codex Security Plugin](<https://openai.com/business/learn/codex-security-plugin-demo>)  
-  Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the resul…  
-  OpenAI · 2026-11-19 08:00
+- [Google Research 提出 DeepCrossAttention，改进 Transformer 残差连接](<https://research.google/blog/supercharging-transformer-residual-connections/>)  
+  Google Research 在 ICML 2025 论文中提出 DeepCrossAttention（DCA），将 Transformer 残差连接改为按 token 动态路由历史层特征。  
+  Google Research：Blog（网页） · 2026-11-23 08:00
 
-- [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)  
-  Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.  
-  OpenAI · 2026-11-19 08:00
+- [Hugging Face 发布智能体评测构建与维护指南，用 raman-lab 案例走通八步流程](<https://huggingface.co/blog/agentic-evals>)  
+  Hugging Face 发布智能体评测构建指南，讲解评测从问答、智能体到多智能体团队三个阶段的演进，并以物理实验室拉曼光谱拟合任务 raman-lab 为例，演示从定义 claim 到对比六个模型的八个步骤。  
+  Hugging Face 官方团队博客 · 2026-11-23 08:00
 
-- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
-  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
-  晚点聊 · 2026-11-19 08:00
+- [vLLM 上用 AMD MoRI UMBP 把 KV 缓存池直接放到 NVMe，同容量吞吐追平 DRAM](<https://vllm.ai/blog/2026-11-23-skip-the-dram-tier>)  
+  AMD 与 vLLM 团队在 AgentX 和 kvlab 智能体负载上实测，1.8 TB NVMe KV 池（基于 AMD 开源 MoRI 库的 UMBP）在 Kimi-K3 上吞吐与同容量 1.8 TB DRAM 池差距保持在 1% 以内，48、70、96 并发会话下分别为 +0.3%、+0.8%、−0.2%。  
+  vLLM 官方博客（RSS） · 2026-11-23 08:00
 
-- [Anthropic valued at over $1 trillion in historic IPO](<https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion>)  
-  Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion…  
-  Axios · 2026-11-19 06:16
+- [Conductor 0.99.0 为 Claude Code 和 Codex 加入用量限制自动恢复](<https://www.conductor.build/changelog/0.99.0-auto-resume-for-claude-code-and-codex>)  
+  Conductor 0.99.0 为 Claude Code 和 Codex 加入自动恢复功能：当对话因用量限制中断，额度重置后 Conductor 可自动续接，智能体从断点继续。该功能可在对话触发限制时或 Settings → General 中开启，同时 Conductor 为 Codex 支持 Ultrafast，Codex 子智能体也会作为后台任务显示。  
+  Conductor 官方更新 · 2026-11-23 08:00
 
-- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](<https://www.youtube.com/watch?v=wX8nDtGIfYA>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
-  Latent Space · 2026-11-19 04:00
+- [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](<https://sv101.fireside.fm/273>)  
+  华尔街最低调、最赚钱的那一批量化交易巨头，也是这一轮AI浪潮里囤算力、抢人才、投资AI实验室最凶猛的那一批。 他们不靠市场趋势赚钱，而是靠波动和速度在毫秒间争夺价差。和大家印象中西装革履的金融人士并不一样，这些公司里的人可能是一群数学…  
+  硅谷101 · 2026-11-23 07:00
 
-- [Trust, but prepare: How to make sense of AI's age of upheaval](<https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare>)  
-  Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air trave…  
-  Axios · 2026-11-19 04:00
+- [AISI 红队论文：攻击策略选择会让 LLM 监视器评估结果失真](<https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading>)  
+  英国 AI Security Institute 发布论文，测试合成攻击生成方式对监视器评估的影响。评估一个 OpenAI 前生产监视器时，同一监视器对不同攻击策略的漏报率从 0.2%（基础提示）到 23%（转录编辑）不等，优化程度也会显著改变结果。作者指出合成转录只是真实有害行为代理，其代表性难以证明，仅凭监视器评估不足以保证部署安全，需辅以能力限制、人工在环和沙箱等分层防护。  
+  英国 AI Security Institute：Blog（网页） · 2026-11-23 07:00
 
-- [Granular.Build](<https://www.producthunt.com/products/granular-build>)  
-  Put your AI agents to work in a visual workspace  
-  Product Hunt · English · 2026-11-19 02:51
+- [OpenAI 首席科学家 Jakub Pachocki 提议以 perplexity 作为限制 AI 发展速度的度量](<https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/>)  
+  OpenAI 首席科学家 Jakub Pachocki 发文提议以 perplexity 作为衡量 AI 进展的共同基准，用于在企业间建立发展速度的共同限制。  
+  TechCrunch：AI（RSS） · 2026-11-23 05:14
 
-- [Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型](<https://deepmind.google/blog/genie-4-is-now-available/>)  
-  Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。  
-  Google DeepMind：Blog（RSS） · 2026-11-19 02:13
+- [NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor](<https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/>)  
+  NVIDIA 发布 2B 级推理视觉-语言-动作模型 Alpamayo 2 Edge，可在车内 DRIVE AGX Thor 上做轨迹规划与因果解释，采用 OpenMDW-1.1 许可开源权重。  
+  MarkTechPost（RSS） · 2026-11-23 02:37
 
-- [Ohhai](<https://www.producthunt.com/products/ohhai>)  
-  Type messy, send clean: an AI keyboard for iPhone  
-  Product Hunt · English · 2026-11-19 02:05
+- [Gary Marcus 评 Levent Alpöge 借助 Claude 证明黎曼猜想：不是 AI 独立完成，也难以泛化](<https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann>)  
+  Gary Marcus 分析 Levent Alpöge 在 Claude 协助下疑似证明黎曼猜想一事，指出并非 AI 独立完成，而是这位数学家数月深度协作的成果。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-23 02:37
 
-- [Investing in Linq](<https://www.a16z.news/p/investing-in-linq>)  
-  2026 is the year AI agents crossed into the mainstream, accounting for more than half of internet traffic.  
-  a16z · 2026-11-19 01:05
+- [TechCrunch 访谈《Hyperscale》作者 Paris Marx：数据中心为何成为反科技浪潮的焦点](<https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>)  
+  TechCrunch 访谈记者 Paris Marx，谈其新书《Hyperscale》调查数据中心与生成式 AI 的社会影响。  
+  TechCrunch：AI（RSS） · 2026-11-23 02:08
 
-- [The Gemini app is now available on lower-memory Android devices.](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/>)  
-  The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your…  
-  Google AI · 2026-11-19 01:00
+- [《以撒的结合：Repentance Plus》因 AI 音乐被发现后遭差评轰炸，Nicalis 已移除相关文件](<https://www.theverge.com/games/1039770/binding-of-isaac-ai-music>)  
+  《以撒的结合：Repentance Plus》被发现某段 GTA 主题内容使用 AI 生成音乐后在 Steam 遭差评轰炸。Reddit 用户 ShweetsStuff 找到带 Suno 元数据的音频文件，作者 Edmund McMillen 在 X 上道歉，称自己不知情；发行方 Nicalis 数小时内更新游戏并移除了生成的音乐文件。  
+  The Verge：AI（RSS） · 2026-11-23 01:25
 
-- [Investing in Boltz](<https://www.a16z.news/p/investing-in-boltz>)  
-  Much has been written about AI’s potential to disrupt it.  
-  a16z · 2026-11-18 23:00
+- [SGLang 为 ERNIE 5.5 Flash 实现 1074 tokens/s 低延迟解码](<https://www.lmsys.org/blog/2026-11-23-ernie55-flash-low-latency>)  
+  SGLang 为 ERNIE 5.5 Flash 加入低延迟解码支持并完成端到端优化，在 4 块 SM100 GPU、BS=1、55K 输入与 1K 输出下达到 1074 tokens/s。  
+  LMSYS Blog · 2026-11-23 00:00
 
-- [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
-  如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
-  科技早知道 · 2026-11-18 20:00
+- [Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组](<https://www.anthropic.com/research/working-with-ai>)  
+  Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。  
+  Anthropic：Research（发表成果 · 网页） · 2026-11-23 00:00
 
-- [The Missing Layer for Personal AI \| First Person Labs’ Ken Liu](<https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00>)  
-  AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, prioriti…  
-  The a16z Show · 2026-11-18 19:00
+- [AI 智能体可以多任务并行，人类跟得上吗？](<https://every.to/p/your-ai-agents-can-multitask-can-you>)  
+  Every 的九位成员分享了各自同时管理多个 AI 智能体的做法。作者本人曾独自承担公司整个运营部门的工作，靠一支 AI 智能体团队完成会议、发票、账号开通和 Slack 回复等事务；其智能体 Dot 的 Sebastian 记录到他曾在 29 分钟内切换 7 条不同的工作线。  
+  Every：最新文章（网页） · 2026-11-23 00:00
 
-- [The terrifying rise of AI hacking tools](<https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn>)  
-  A new breed of widely available AI tools is helping hackers launch cyberattacks around the clock , breaching corporat…  
-  Axios · 2026-11-18 18:20
+- [Google 介绍 Semantic governance policies 如何防御智能体意图劫持](<https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/>)  
+  Google 介绍 Semantic governance policies 通过默认开启的用户意图匹配，在每次工具调用执行前检查该动作是否来自用户请求，以拦截间接提示词注入导致的意图劫持。  
+  Google Developers Blog（RSS） · 2026-11-23 00:00
 
-- [The Silent Consensus](<https://openai.com/index/the-silent-consensus>)  
-  Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can…  
-  OpenAI · 2026-11-18 18:00
+- [Sarvam AI 发布语音听写 API Sarvam Dictate，支持英语和 22 种印度语言](<https://www.sarvam.ai/blogs/sarvam-dictate>)  
+  Sarvam AI 发布 Sarvam Dictate，一个面向开发者的听写 API，将语音转为说话者想输入的文本，支持英语、22 种印度语言和 Hinglish，定价为每分钟音频 ₹0.50（约 $0.33 每小时）。  
+  Sarvam AI（网页） · 2026-11-23 00:00
 
-- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)  
-  Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis…  
-  OpenAI · 2026-11-18 16:00
+- [LlamaIndex 开源 8.1M 参数文档解析模型 OCRia-nano-1](<https://www.llamaindex.ai/blog/introducing-ocria-nano-1>)  
+  LlamaIndex 发布 OCRia-nano-1 的开放权重，一个 8.1M 参数的轻量文档解析模型，可在本地 CPU 上运行，权重托管在 Hugging Face，配套开源解析器 LiteParse（Apache 2.0）。  
+  LlamaIndex：产品、工程与评测 · 2026-11-23 00:00
 
-- [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)  
-  OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this…  
-  OpenAI · 2026-11-18 16:00
+- [报道称 Dario Amodei 曾建议用游戏安抚因 AI 失业的民众](<https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness>)  
+  《华尔街日报》在 Anthropic 创纪录 IPO 后刊发的 Amodei 兄妹特写提到，Dario Amodei 曾在 Slack 讨论中建议用沉浸式电子游戏缓解 AI 导致失业所引发的政治冲突。相关说法来自广泛流传的 Slack 消息，报道称他当时已承认 AI 可能破坏世界稳定。  
+  Hacker News：AI 热帖 · 2026-11-22 23:52
 
-- [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)  
-  See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macO…  
-  OpenAI · 2026-11-18 16:00
+- [Architect Labs 公布 AI 自研 CPU 架构 Frostbite，能效为传统处理器 4.59 倍](<https://www.ithome.com/1/030/717.htm>)  
+  美国帕洛阿尔托初创公司 Architect Labs 宣布，其 AI 系统自主发现、设计并验证了采用全新指令集的通用 CPU Frostbite。在 25 项工作负载测试中，4 个计算单元组成的 Frostbite 集群每瓦性能达到尺寸相近、已完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍，单位面积性能为 8.77 倍。  
+  IT之家·人工智能 · 2026-11-22 23:15
 
-- [PH今日热榜 \| 2026-11-18](<https://decohack.com/producthunt-daily-2026-11-18/>)  
-  RankSpot：按需付费的SEO和AI搜索执行层，专为代理商设计。；Creatify Max：你的广告团队成员，从策略制定到创意设计，再到投放上线，全程为你服务。；TheBold：将执行转变为与投资者的会议  
-  Product Hunt 中文 · DecoHack · 2026-11-18 15:00
+- [新实验：AI 编码智能体在模拟软件公司中完成不到十分之一的任务](<https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/>)  
+  一项新实验首次让 AI 编码智能体在模拟软件公司中作为数字员工工作，环境包含同事、项目看板和聊天记录。结果显示即使 Claude Opus 5.5 和 GPT-6 Astra 也只完整完成不到十分之一的任务，而 SWE-bench 等标准基准已接近饱和。  
+  The Decoder：AI News（RSS） · 2026-11-22 23:15
 
-- [Managing frontier AI risk: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>)  
-  OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, bl…  
-  OpenAI · 2026-11-18 14:00
+- [Oracle 称已筹集履行 OpenAI 合同全部所需资金](<https://www.ithome.com/1/030/715.htm>)  
+  Oracle 11 月 20 日表示已在本月初筹集到履行与 OpenAI 交易的全部所需租金，与供应商的进一步私下讨论仅为补充选项。其得州 Abilene 园区已用于 GPT-6 Astra 训练并接近完工，下一个 GW 级项目 Shackelford 已获全部许可，NVIDIA Vera Rubin 机架预计未来几周内交付完成。  
+  IT之家·人工智能 · 2026-11-22 22:24
 
-- [Can AI Learn to Improve Itself? \| Recursive Self-Improvement](<https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ>)  
-  For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers…  
-  The a16z Show · 2026-11-18 01:44
+- [Perplexity 发布 Monitor API，把网页搜索变成持续监控的看门程序](<https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/>)  
+  Perplexity 推出 Monitor API，按计划持续监控网页并在相关变化出现时通过 webhook 唤醒应用和智能体。  
+  The Decoder：AI News（RSS） · 2026-11-22 22:20
 
-- [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
-  For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
-  a16z · 2026-11-17 23:10
+- [金融时报：戴尔、HPE 等 AI 服务器厂商交付前提价，涨幅最高达 45%](<https://www.ithome.com/1/030/713.htm>)  
+  据金融时报报道，戴尔、慧与（HPE）、联想和超微电脑（Supermicro）等供应商在与买家签约数月后、交付前大幅上调搭载英伟达芯片的 AI 服务器价格，涨幅达 25% 至 45%。  
+  IT之家·人工智能 · 2026-11-22 22:00
 
-- [Recraft 实测 ByteDance Seedream 5.5，与 Recraft V4.1 Pro 和 GPT Image 2.6 对比](<https://www.recraft.ai/blog/seedream-5-5>)  
-  ByteDance 的 Seedream 5.5 已上线 Recraft Studio 付费方案，Recraft 用此前 GPT Image 2.6 测试的同一组 12 个提示词，将其与 Recraft V4.1 Pro 和 GPT Image 2.6 Sunburst 逐一对比。  
-  Recraft 自有模型与设计产品 · 2026-11-17 08:00
+- [Behind the Curtain — AI 2027: The reckoning](<https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning>)  
+  We've talked to more than 50 leaders in government, AI, business and cyber — from let-'er-rip AI accelerationists to…  
+  Axios · 2026-11-22 21:36
 
-- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
-  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
-  Latent Space · 2026-11-17 05:27
+- [美国扩大芯片管制、DeepSeek 融资股权结构曝光、腾讯 AI 投入成本揭晓](<https://www.recodechinaai.com/p/new-chip-restrictions-deepseeks-funding>)  
+  美国将芯片出口管制扩展至海外数据中心租用算力，新规11月19日生效，并收紧对芯片制造与封装的要求。DeepSeek 本轮融资约 RMB105.5 亿、投后估值约 RMB615.5 亿，杭州辰岩成为运营公司股东。腾讯第三季度营收约 RMB207.3 亿、同比增长 8%，资本开支 RMB81.4 亿，WorkBuddy 日活超 1000 万、日均消耗超 100 万亿 tokens。  
+  Recode China AI（RSS） · 2026-11-22 21:33
 
-- [The Dream of the 1990s Is Alive Again in Cybersecurity](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
-  Taking the experiences from the first prolific zero-day era and applying it to today, combined with recent conversati…  
-  a16z · 2026-11-16 23:02
+- [MiniMax 用内部模型自动化破解多个密码学前沿方案并刷新挑战赛纪录](<https://www.ithome.com/1/030/711.htm>)  
+  MiniMax 宣布其研究团队利用最新内部模型对现代密码方案开展系统性自动化密码分析，发掘出多处此前未知的算法构造缺陷，并把多项论文理论攻击推进到秒级至分钟级可执行破解。  
+  IT之家·人工智能 · 2026-11-22 21:23
 
-- [2026: The State of AI in Healthcare](<https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/>)  
-  Healthcare AI Moves from Back Office to Bench and Bedside In 2026, healthcare AI accelerated in life sciences and mov…  
-  Menlo Ventures · 2026-11-16 22:30
+- [MiniMax 内部模型攻破多个 NIST 候选算法与顶会密码方案，刷新破解纪录](<https://mp.weixin.qq.com/s/L81hPMQ66ddC260HwgePXw>)  
+  MiniMax 研究团队用最新内部模型对现代密码方案开展自动化密码分析，首次实际攻破多个 NIST 竞赛中尚无已知实用攻击的候选算法。  
+  公众号：MiniMax（稀宇科技） · 2026-11-22 21:06
 
-- [Alex Imas &amp; Tyler Cowen \| AI Is Moving Fast. Why Isn’t the Economy?](<https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY>)  
-  AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
-  The a16z Show · 2026-11-16 19:30
+- [METR 警告 AI 能力提升快于专家可靠评估新系统安全性的速度](<https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/>)  
+  AI 研究机构 METR 发布 2026 年 11 月 AI 能力测量更新，警告现有公开数据不足以排除未来几年 AI 研究急剧加速的可能，可能使人类无法有效理解和应对新 AI 系统的灾难性风险。  
+  The Decoder：AI News（RSS） · 2026-11-22 21:00
 
-- [20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](<https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida>)  
-  Diogo Almeida is the Co-Founder and CEO of TypeSafe AI, the company behind Jev. Jev is an AI model that lets software…  
-  20VC · 2026-11-16 15:07
+- [The Verge：vibe coding 正席卷各类硬件改装](<https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera>)  
+  David Pierce 在 The Stepback 专栏中梳理 vibe coding 改装硬件的趋势：只需提示 Claude Code 或 Codex，非开发者也能给电视去广告、给相机加固件功能、给游戏机加特性。印度开发者 Gathin 的 CleanYourTV 成为 GitHub 热门仓库；行业则以更强 DRM 和法律手段反制，作者建议只在可承受损失的设备上尝试并勤做备份。  
+  The Verge：AI（RSS） · 2026-11-22 21:00
 
-- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
-  「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
-  晚点聊 · 2026-11-15 12:15
+- [Dragos研究揭示低价AI推理服务商窃取密钥并窥探用户请求](<https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/>)  
+  Dragos安全研究人员在2026年7月至11月期间向AI服务商发送约200万条含假凭证的请求，发现至少三家服务商遭入侵，攻击者窃取数百个AWS密钥并在数小时内试用、搜索S3存储，部分攻击者还使用了AI攻击工具ARTEX。研究还发现，部分市场转售商无需利用漏洞即可读取客户请求，仅需以最低价上架模型并开启日志记录。隐私设置如“零数据保留”（ZDR）常被忽视。OpenRouter随后从平台移除三家服务商并撤销125个端点的ZDR批准，同时邮件通知受影响用户。受影响服务商包括Novita、Phala和Together，已…  
+  The Decoder：AI News（RSS） · 2026-11-22 20:07
 
-- [20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](<https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin>)  
-  Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI mode…  
-  20VC · 2026-11-14 15:07
+- [开发者将微型 Transformer 模型 Tiny 2.1 塞进软盘，让 486 老电脑也能用上 AI](<https://www.ithome.com/1/030/699.htm>)  
+  开发者 WollyMonjac 用 Turbo C 2.0 编写了微型问答 Transformer 模型 Tiny 2.1，可让运行 DOS 的 486DX 和 Pentium 老电脑使用 AI。该模型参数量 36.7 万个，采用 4 层网络、隐藏维度 96 和 8 位量化，总大小约 380 KB，需约 540 KB 可用常规内存。软件以 MIT 许可证发布，附带训练文件夹供用户自行补充数据。  
+  IT之家·人工智能 · 2026-11-22 19:24
 
-- [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
-  AI Will Make Pharma Even Bigger  
-  a16z · 2026-11-13 23:03
+- [纽约音乐厅 Domino 官网宣传“Human Made”却被发现满是 AI 生成痕迹](<https://www.ithome.com/1/030/696.htm>)  
+  IT之家报道，纽约音乐厅 Domino 官网使用 AI 生成图片，出现虚构的 The Strokes 演唱会门票、文字模糊和拼写错误，页面中央却放着写有“Human Made”的明信片。Domino 代表回应称 AI 只是过渡工具，已换成完全由人类制作的网站，并强调场馆核心理念是庆祝人类亲手创造的事物。  
+  IT之家·人工智能 · 2026-11-22 19:13
 
-- [Every Day Is Zero Day \| Wiz CTO Ami Luttwak](<https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ>)  
-  AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them f…  
-  The a16z Show · 2026-11-13 19:00
+- [Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确](<https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/>)  
+  Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。  
+  The Decoder：AI News（RSS） · 2026-11-22 19:08
 
-- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
-  “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
-  晚点聊 · 2026-11-13 09:15
+- [2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比](<https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/>)  
+  MarkTechPost 整理 2026 年 7 款个人 AI 智能体的横评，从记忆、安全、成本三个维度比较 Hermes Agent、OpenClaw、Gemini Spark、OpenAI dots、Meta Muse、Perplexity Personal Computer 及 NanoClaw 等加固分支。  
+  MarkTechPost（RSS） · 2026-11-22 18:36
 
-- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
-  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
-  a16z · 2026-11-13 05:21
+- [研究指AI数据中心碳排放堪比中等国家，Anthropic环境信息披露引关注](<https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the>)  
+  在Anthropic完成IPO之际，有气候研究指出，美国大型数据中心的碳排放合计已相当于中等国家水平。哈佛大学团队在《自然·可持续性》发表的研究估算，2024年5月至2025年4月间403个数据中心年排放约2570万吨二氧化碳，占美国电力消耗近2%。澳大利亚气候研究员Ketan Joshi的报告进一步指出，AI行业全生命周期排放可能超过国际航空业，且Anthropic从未披露任何能源、排放或环境数据，并与OnePWR达成34亿美元、1.7吉瓦燃气发电设备采购协议。相关研究认为，数据中心自建燃气发电、制冷剂泄漏等因素…  
+  Hacker News：AI 热帖 · 2026-11-22 18:32
 
-- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
-  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
-  SemiAnalysis · 2026-11-13 02:06
+- [Google 在 Gemini API 预览 Tool Retrieval，面向大型工具库延迟加载 schema](<https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/>)  
+  Google 在 Gemini API 的 Interactions API（v1beta）中预览上线 Tool Retrieval，延迟加载工具参数 schema，模型只看名称和短描述，需要时才检索加载完整 schema，降低大量工具定义带来的 token 开销。  
+  MarkTechPost（RSS） · 2026-11-22 18:03
 
-- [Gaming’s Next Origin Stories](<https://www.a16z.news/p/gamings-next-origin-stories>)  
-  What AI makes possible for indie developers, toolmakers, and studios  
-  a16z · 2026-11-12 23:03
+- [Wolters Kluwer 报告：美国会计行业 AI 采用率高，但技术整合成熟度不足](<https://www.ithome.com/1/030/679.htm>)  
+  Wolters Kluwer Tax &amp; Accounting 发布的《面向未来的会计师》报告显示，88% 的美国会计从业者在日常工作中使用生成式 AI，68% 正在使用智能体 AI，83% 的受访事务所自视为“技术创新者”或“早期采用者”。  
+  IT之家·人工智能 · 2026-11-22 17:58
 
-- [The Next Era of Games: Mods, Agents, and Infinite Worlds](<https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi>)  
-  AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In…  
-  The a16z Show · 2026-11-12 19:00
+- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
+  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
+  The Decoder：AI News（RSS） · 2026-11-22 17:41
 
-- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
-  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
-  20VC · 2026-11-12 15:07
+- [菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可](<https://www.ithome.com/1/030/677.htm>)  
+  2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。  
+  IT之家·人工智能 · 2026-11-22 17:35
 
-- [Welcome to the B2A Economy](<https://www.a16z.news/p/welcome-to-the-b2a-economy>)  
-  They’re AI agents.  
-  a16z · 2026-11-11 23:02
+- [蚂蚁阿福用户达 1.5 亿，每天线上问诊超 2000 万次](<https://www.ithome.com/1/030/653.htm>)  
+  蚂蚁健康事业群副总裁杨猛在 2026 蚂蚁阿福医疗健康生态大会上透露，蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超过 2000 万次，55% 来自三线及以下城市，1/4 是老人，16% 的问诊发生在凌晨 0 点到早上 6 点。  
+  IT之家·人工智能 · 2026-11-22 16:58
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 13 页
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 16 页
