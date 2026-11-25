@@ -15,7 +15,7 @@
   Product Hunt · English · 2026-11-24 06:13
 
 - [tday.com](<https://www.producthunt.com/products/tday>)  
-  Ask your coding agent for a narrated demo of any feature  
+  AI-recorded Screen Studio style editable demos  
   Product Hunt · English · 2026-11-24 05:22
 
 - [Claude Ship](<https://www.producthunt.com/products/claude-code>)  
@@ -57,10 +57,6 @@
 - [PH今日热榜 \| 2026-11-22](<https://decohack.com/producthunt-daily-2026-11-22/>)  
   AlterContacts：智能客户关系助手，能够主动思考和行动；AI Context Flow MCP：您掌控的记忆，能够与每个代理、工具和团队保持同步。；Codemany：让GitHub Actions速度提升三倍  
   Product Hunt 中文 · DecoHack · 2026-11-22 15:00
-
-- [Chat with Work](<https://www.producthunt.com/products/chat-with-work>)  
-  AI bots in Europe. They work. You decide.  
-  Product Hunt · English · 2026-11-21 17:06
 
 - [K-Stra](<https://www.producthunt.com/products/k-stra>)  
   Geomarketing for Australia, with an AI that does the maths  

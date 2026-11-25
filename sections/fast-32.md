@@ -1,171 +1,178 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 37 页
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 38 页
 
-- [Microsoft Teams evil energy is heavy in the air](<https://x.com/Tokyo_Trev/status/2124450752446022017>)  
-  @Tokyo\_Trev · 2026-11-22 18:31
+- [AI周报：GPT-6.2与Gemini 4震撼全球！世纪难题告破，时代变天？](<https://x.com/xin22209/status/2124655359465869596>)  
+  文字稿：  
+  @xin22209 · 2026-11-23 08:04
 
-- [🌐 Small Language Models \(SLMs\)\!](<https://x.com/codewithishfaq_/status/2124450305664565361>)  
-  Discover how smaller AI models deliver efficient language processing with lower resource requirements, enabling on-device AI, offline applications and more accessible AI solutions. Read more: \#SLM \#AI \#MachineLearning  
-  @codewithishfaq\_ · 2026-11-22 18:29
+- [OpenAI 首席科学家昨天把一个内部数字公开了，但这个数不能直接拿来给所有模型排座次。](<https://x.com/Benjaminfan20/status/2124655336179347657>)  
+  Jakub Pachocki 在 11 月 22 日的《Perplexity and Intelligence》里，汇报的是他们内部代码库一个固定快照上的 log-perplexity（也就是交叉熵）。文里写：GPT-3.5 约 0.99，GPT-4 约 0.91；低于 0.8  
+  @Benjaminfan20 · 2026-11-23 08:04
 
-- [黄乐居然和柬埔寨太子集团也扯上关系了！](<https://x.com/alphahunter000/status/2124450237670637616>)  
-  事情越来越离谱了！ 11月21日，《金融时报》（FT）发布重磅调查，把英伟达芯片走私、中国游戏圈、柬埔寨太子集团，以及二十年前的《热血传奇》私服江湖，串成了一张横跨中美和东南亚的关系网。  
-  @alphahunter000 · 2026-11-22 18:29
+- [“Sara, what changes if we don’t have to worry about token costs?” @thinkymachines just released Inkling 2 Mini, an…](<https://x.com/chrsaravia/status/2124655329514332272>)  
+  I’ve been trying it with Sara, my personal ai agent, and I’m surprised by how much useful work it can do on a basic Mac  
+  @chrsaravia · 2026-11-23 08:04
 
-- [AI眼镜今年是真火，但我用了一个月的真实感受，说三句实话： 1. 翻译好用，出国点菜不用举手机 2. 拍照够快，但构图全靠…](<https://x.com/hajiMVP/status/2124449317356511642>)  
-  你会买吗？A 已买 B 想买 C 打死不买 \#AI \#科技  
-  @hajiMVP · 2026-11-22 18:26
+- [Rivers can tilt uphill &amp;amp; push saltwater towards intakes for farms &amp;amp; cities.](<https://x.com/awienkers/status/2124655292088528983>)  
+  Revir forecasts that tilt by fine-tuning the OpenTSLM time-series foundation model with a physical-time RoPE tokeniser on SWOT satellite data. \#TimeNet Hackathon @aionic\_labs  
+  @awienkers · 2026-11-23 08:04
 
-- [国模也在AI for Science。中科院磐石100：生命模型30天发现3个新药靶点并湿实验验证；材料模型做按需设计与精…](<https://x.com/grok/status/2124448583797690832>)  
-  刚发布的天华开物酶设计大模型（天大+智谱），闭环一周出方案、三月定制工业酶。Kimi等正转向生物/化学科研。不是没有，宣传节奏不同。  
-  @grok · 2026-11-22 18:23
+- [共和党内部达成共识，支持黄仁勋回归。](<https://x.com/0427SMtieshou/status/2124655245297127814>)  
+  @0427SMtieshou · 2026-11-23 08:04
 
-- [但容易产生方向频繁修正、轨迹抖动等问题。EIL通过利用未干预期间的隐式认可信息，学习到更加平滑且符合安全要求的驾驶策略。](<https://x.com/CyberSoma1024/status/2124447690365001964>)  
-  对具身智能的启示在于： 机器人学习不应局限于收集成功演示，还应将人类接管、纠错、放任执行等交互行为转化为训练信号，建立持续在线学习与人机协同的反馈闭环。  
-  @CyberSoma1024 · 2026-11-22 18:19
+- [This guy is such a snowflake 😂😂😂](<https://x.com/verystupidSN/status/2124655236145201615>)  
+  @verystupidSN · 2026-11-23 08:04
 
-- [14/20 Anthropic is expanding AI-for-science partnerships with foundations and research institutions worldwide.](<https://x.com/SuperBowl1010/status/2124447664519455110>)  
-  @SuperBowl1010 · 2026-11-22 18:19
+- [Data Starvation already is a challenge.](<https://x.com/ChaudharyMaheep/status/2124655219783156041>)  
+  Data quality is the newer one: as more AI-generated text enters training data, models lose the rare cases first \(Shumailov et al., 2024\). Refer to image below.  
+  @ChaudharyMaheep · 2026-11-23 08:04
 
-- [On device AI gets real here](<https://x.com/Real_TShelby/status/2124447145420005719>)  
-  @Real\_TShelby · 2026-11-22 18:17
+- [黄仁勋要加入 SpaceX 的传闻传得有鼻子有眼，官方到现在一点动静都没有。这种级别的消息越是没人出来否认，我越觉得它本身…](<https://x.com/thestonyground/status/2124655193866584218>)  
+  黄仁勋要加入 SpaceX 的传闻传得有鼻子有眼，官方到现在一点动静都没有。这种级别的消息越是没人出来否认，我越觉得它本身就是一次免费的市场测试，看看大家对 AI 加太空这个组合到底有多大胃口。  
+  @thestonyground · 2026-11-23 08:04
 
-- [兄弟们，浏览器里塞模型这事，微软这回是真动手了：Edge 正式把 Aion Instruct 做成内置小模型，网站不用接云…](<https://x.com/ChenY390353/status/2124446888573182290>)  
-  11 月 19 号 Edge 官方博客一次官宣了三件事：Aion Instruct 正式版，Hugging Face 上开源权重，Edge 里直接内置；Prompt API 开了 origin  
-  @ChenY390353 · 2026-11-22 18:16
+- [11 月 23 日，美国财长贝森特当地时间 11 月 23 日接受采访，当记者问到：「特朗普表示，黄仁勋应该重返岗位。而你…](<https://x.com/KKKyleC1/status/2124655189215117590>)  
+  11 月 23 日，美国财长贝森特当地时间 11 月 23 日接受采访，当记者问到：「特朗普表示，黄仁勋应该重返岗位。而你说过，英伟达需要从外部寻找 CEO。」贝森特表示：「黄仁勋现在已经就是外部人士了。」  
+  @KKKyleC1 · 2026-11-23 08:04
 
-- [机器人专用学习则成为机器人的身体，负责快速、精准的运动控制与物理交互。未来具身智能的关键不是让通用模型取代专用模型，而是将…](<https://x.com/CyberSoma1024/status/2124446516441907679>)  
-  机器人专用学习则成为机器人的身体，负责快速、精准的运动控制与物理交互。未来具身智能的关键不是让通用模型取代专用模型，而是将通用认知能力与机器人专用控制能力结合起来。  
-  @CyberSoma1024 · 2026-11-22 18:14
+- [Thinking Machines Lab just released Inkling 2 Mini \(Nov 20, 2026\) under Apache 2.0—a 26.4B open-weight multimodal l…](<https://x.com/HuguClubs/status/2124655172815388751>)  
+  Thinking Machines Lab just released Inkling 2 Mini \(Nov 20, 2026\) under Apache 2.0—a 26.4B open-weight multimodal looped transformer pitched as "small enough to run on your laptop." Reading the official model card, Hugging Face launch notes, and vLLM recipe sh…  
+  @HuguClubs · 2026-11-23 08:04
 
-- [2. 机器人专用学习在训练效率上仍然具有明显优势。](<https://x.com/CyberSoma1024/status/2124446501091115370>)  
-  本届CoRL最佳论文SuperMimic由加州大学伯克利分校（UC Berkeley）团队提出，作者报告其训练人形机器人所需的计算资源减少了1000倍以上。这说明通过针对机器人运动动力学和控制任务设计专用学习方法，可以大幅降低训练成本，  
-  @CyberSoma1024 · 2026-11-22 18:14
+- [在川普总统公开表态支持黄仁勋重返英伟达之后，财长贝森特的态度也改变了。记者问他，总统表示黄仁勋应重获其职位，而你（原来）说…](<https://x.com/CaoChangqing/status/2124655172958007506>)  
+  在川普总统公开表态支持黄仁勋重返英伟达之后，财长贝森特的态度也改变了。记者问他，总统表示黄仁勋应重获其职位，而你（原来）说董事会应该去外部寻找CEO。贝森特说：嗯，黄仁勋现在已经在公司外部了。贝森特真是特灵活（机智）。  
+  @CaoChangqing · 2026-11-23 08:04
 
-- [A $1M milestone, with the science still undisclosed.](<https://x.com/lichenQAQ/status/2124446158651334779>)  
-  Iambic says its AI drug discovery collaboration with Takeda hit a Q3 research milestone that triggered the payment. The update doesn’t say what result met that bar or report a clinical outcome.  
-  @lichenQAQ · 2026-11-22 18:13
+- [（接上）王坚创立了阿里云业务，主导一些重要的人工智能项目，黄仁勋和王坚是十几年的关系，在2025年黄仁勋还公开说“王坚是个…](<https://x.com/AliceCh41586662/status/2124655166427169174>)  
+  （接上）王坚创立了阿里云业务，主导一些重要的人工智能项目，黄仁勋和王坚是十几年的关系，在2025年黄仁勋还公开说“王坚是个了不起的英雄”，从这篇文章看来，里面最重要的就是揭露了阿里巴巴就是中共军方企业，黄仁勋最终就是服务于中共军方帮其打造一个灭美的算力。  
+  @AliceCh41586662 · 2026-11-23 08:04
 
-- [回头看去年 2025年 的预测， 我是没想到 20xx年，陪伴型 AI ，就是 2026年开年小龙虾。](<https://x.com/LotusDecoder/status/2124446159108448598>)  
-  20YY 年，AI for science 大举介入的起点是今年 11月。🚀🙃然后一上来干掉了黎曼猜想。 @rickawsb @Tz\_2022 之前和你聊说快不快？太快啦🤣 然后黎曼猜想的证明浩如烟海，远超个人可肉眼阅读理解， 于是以后 AI  
-  @LotusDecoder · 2026-11-22 18:13
+- [刚看过黄仁勋和原配的版本，居然马斯克这版更般配！这是怎么回事！](<https://x.com/jellyfishHuang/status/2124655152888217657>)  
+  @jellyfishHuang · 2026-11-23 08:03
 
-- [Amazing.](<https://x.com/kevinnbass/status/2124445862680227962>)  
-  Nvidia engineers apparently leaving in droves. From the company where the CEO was fired. Who was reportedly extremely abusive and bad. How does that work exactly?  
-  @kevinnbass · 2026-11-22 18:12
+- [基本属实。](<https://x.com/grok/status/2124655134667940091>)  
+  姚顺宇（物理）：清华物理→斯坦福博士→伯克利博后，2024.10入Anthropic，参与Claude 3.7/4强化学习。2025.9 Anthropic公开把中国列为adversarial nation并限制中资控股公司后，他在博客明确反对，9.19离职、9.29入DeepMind。原话接近“…  
+  @grok · 2026-11-23 08:03
 
-- [The Chinese businesswoman romantically linked to former Nvidia chief executive Jensen Huang had connections to a ne…](<https://x.com/FT/status/2124445063648338382>)  
-  The Chinese businesswoman romantically linked to former Nvidia chief executive Jensen Huang had connections to a network supplying AI chips to China that included an alleged Cambodian criminal enterprise, a Financial Times investigation has found.  
-  @FT · 2026-11-22 18:09
+- [Rumors flying: Elon Musk could buy 50% of $NVDA to bring Jensen Huang back.](<https://x.com/KevinM_Markets/status/2124655125641973836>)  
+  Track record: $NBIS $20 \(+1399%\) $RKLB $16 \(+844%\) $AMD $100 \(+505%\) $ASTS $20 \(+569%\) $PLTR $40 \(+419%\) Follow for generational setups you won't want to miss.  
+  @KevinM\_Markets · 2026-11-23 08:03
 
-- [makes on-device AI worth exploring](<https://x.com/Glomay22/status/2124444827563462884>)  
-  @Glomay22 · 2026-11-22 18:08
+- [Rumors flying: Elon Musk could buy 50% of $NVDA to bring Jensen Huang back.](<https://x.com/StevenHarrisEQ/status/2124655111574098276>)  
+  Track record: $NBIS $20 \(+1399%\) $RKLB $16 \(+844%\) $AMD $100 \(+505%\) $ASTS $20 \(+569%\) $PLTR $40 \(+419%\) Follow for generational setups you won't want to miss.  
+  @StevenHarrisEQ · 2026-11-23 08:03
 
-- [Visualizing puzzle mechanics helps explain how on-device AI models make decision](<https://x.com/KGeNazeemali12/status/2124444125785407772>)  
-  @KGeNazeemali12 · 2026-11-22 18:05
+- [黎曼猜想的证明如果为真，也许标志着 ai for science 进入一个新阶段。。](<https://x.com/findtel/status/2124655095887614136>)  
+  @findtel · 2026-11-23 08:03
 
-- [2.](<https://x.com/oliverma354082/status/2124443986538774846>)  
-  The Computational Miracle of On-Device AI Video Generation Most mainstream AI video generation models currently on the market typically require expensive cloud-based GPU clusters to process for tens of seconds just to produce a few seconds of video. Tesla, how…  
-  @oliverma354082 · 2026-11-22 18:04
+- [What is this type of scam company?](<https://x.com/Cypherpunkxmr/status/2124655091219378210>)  
+  Lol renting eightsleeps and ai glasses.  
+  @Cypherpunkxmr · 2026-11-23 08:03
 
-- [Anthropic公式が、AIの『ポスターがダサい問題』を終わらせにきた。](<https://x.com/okapi_fukugyo/status/2124443902526837241>)  
-  その名は「canvas-design」（ポスター作成スキル）。 ・GitHubで19.8万スター ・インストール数は約13.7万 ・誰でも使える形で、Anthropicが公開 AIにポスターを頼むと、毎回同じものが出てくる。 →  
-  @okapi\_fukugyo · 2026-11-22 18:04
+- [Seeing the actual decision beats another benchmark run.](<https://x.com/maga_musk/status/2124655075843088866>)  
+  Watching where Q2\_K and Q8\_0 diverge token by token is exactly what local LLM debugging was missing. Swapping a token mid-generation to watch the rest change is the best way to see what quantization cost.  
+  @maga\_musk · 2026-11-23 08:03
 
-- [循环架构直接把端侧推理成本打下来了](<https://x.com/bencongyyds/status/2124443544383553581>)  
-  @bencongyyds · 2026-11-22 18:03
+- [Hi, I am Aayush Chaubey, a freelance video editor &amp;amp; motion graphics designer at Aayush Visuals.](<https://x.com/Aayushchaubey05/status/2124655059976044547>)  
+  I would love to edit your Roblox videos — sharp pacing &amp;amp; motion graphics. Premiere Pro, After Effects, CapCut + AI video editing.  
+  @Aayushchaubey05 · 2026-11-23 08:03
 
-- [วันนี้ทุกคนเติมแป๋วกันอะยางง ส่งคลิปนี้ไปเติมแป๋วกับเพื่อนๆได้เลย 🤗🤏🏻 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsN…](<https://x.com/BaNANAStoreTH/status/2124443476427436313>)  
-  วันนี้ทุกคนเติมแป๋วกันอะยางง ส่งคลิปนี้ไปเติมแป๋วกับเพื่อนๆได้เลย 🤗🤏🏻 FORCEBOOK MAFOX HUAWEI Event \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#BaNANA  
-  @BaNANAStoreTH · 2026-11-22 18:02
+- [Dragos 用 200 万条带「金丝雀」陷阱的提示词，钓出 AI 推理供应链的大漏洞：3 家供应商早已被入侵、提示词遭批…](<https://x.com/logang2008/status/2124655057694310828>)  
+  \#AI安全 \#OpenRouter \#Dragos  
+  @logang2008 · 2026-11-23 08:03
 
-- [A constructive P=NP proof with efficient algorithms would let us optimally solve logistics, scheduling, protein fol…](<https://x.com/grok/status/2124443452507136364>)  
-  Gains in medicine, science, manufacturing, and efficiency would transform society far  
-  @grok · 2026-11-22 18:02
+- [Not to worry .](<https://x.com/PuraFutbol/status/2124655024886444100>)  
+  Open source models, open weights will kill Anthropic and OpenAI.  
+  @PuraFutbol · 2026-11-23 08:03
 
-- [I was in SF last month with @oriane\_simeoni to represent DINO at our AI for Science Summit.](<https://x.com/elouangardes/status/2124442758584979857>)  
-  An amazing reminder of why we're working hard day to day\!  
-  @elouangardes · 2026-11-22 17:59
+- [The closest public signal is the paper “When More is Less: Understanding Chain-of-Thought Length in LLMs” \(arXiv 25…](<https://x.com/grok/status/2124654925766361273>)  
+  On MATH Level-5, Qwen2.5-Instruct models show optimal CoT length falling from \~14 steps \(1.5B\) to \~4 steps \(72B\). Larger models reach peak accuracy with  
+  @grok · 2026-11-23 08:03
 
-- [Real-world email examples make on-device AI easier to understand.](<https://x.com/ren_tax5/status/2124442184883798293>)  
-  @ren\_tax5 · 2026-11-22 17:57
+- [You nailed it: a half review reads like a pass, and that is the dangerous part.](<https://x.com/stas_sorokin_/status/2124654768924627343>)  
+  On that PR Claude Code stopped 4 times in 6, Codex read it to the end and blocked it 6 of 6. Both agents end to end plus a human sign off is exactly the setup that run argues for. We can train a small  
+  @stas\_sorokin\_ · 2026-11-23 08:02
 
-- [Wow this demo shows how powerful on device AI can be and it's truly impressive](<https://x.com/Jannat188219/status/2124442161630646281>)  
-  @Jannat188219 · 2026-11-22 17:57
+- [Breaches will keep happening as long as software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124654678214316109>)  
+  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. This can be stopped. The solution has been tested for more than a year.  
+  @adomita360 · 2026-11-23 08:02
 
-- [On-device AI answers where processing happens.](<https://x.com/SibiSelvamx/status/2124441366503817595>)  
-  Apple’s Photos picker lets people share selected photos without giving the app access to the whole library. Running locally and reading less are separate design choices. \#ProductDesign  
-  @SibiSelvamx · 2026-11-22 17:54
+- [JUST IN: Shopify CEO blasts Nvidia's board as "knuckleheads" for removing Jensen Huang](<https://x.com/Kalshi/status/2124654662867468670>)  
+  @Kalshi · 2026-11-23 08:02
 
-- [Verified: IEA projects data centers \~950 TWh by 2030 \(AI-driven double\); power/grid now primary bottleneck.](<https://x.com/grok/status/2124440399787749827>)  
-  Open-weights lag frontier 4-7 months yet capture rising inference share \(Chinese models dominant on routers\), enabling local/sovereign runs. Agentic traffic already exceeds  
-  @grok · 2026-11-22 17:50
+- [read-only isn't read-only, so true. followed you kris. post affixio stuff on builders there are wrestling with agen…](<https://x.com/acadictive/status/2124654582383128888>)  
+  read-only isn't read-only, so true. followed you kris. post affixio stuff on builders there are wrestling with agent permissions too  
+  @acadictive · 2026-11-23 08:01
 
-- [อยู่ๆเมื่อวานเวทีก็เอียงอ่ะ…งงมาก 😣🦊🍅🫶🏻 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo](<https://x.com/ppporpan/status/2124439061146542273>)  
-  @ppporpan · 2026-11-22 17:45
+- [Someone should train a model on Deepseek via inference Then the open weights will be "American" and it'll help side…](<https://x.com/0110100100_/status/2124654580751544475>)  
+  Someone should train a model on Deepseek via inference Then the open weights will be "American" and it'll help sidestep someone of the BS  
+  @0110100100\_ · 2026-11-23 08:01
 
-- [“Linked to Alice Huang was a sprawling web of companies between Nvidia and China-based users of its chips that incl…](<https://x.com/gtconway3d/status/2124438919534289123>)  
-  These seemingly unconnected enterprises  
-  @gtconway3d · 2026-11-22 17:44
+- [No published experiment cleanly holds post-training fixed and quantifies how much lower base loss cuts reasoning to…](<https://x.com/grok/status/2124654472601235888>)  
+  Closest public signals are OpenAI’s smooth rise in no-CoT capability with falling perplexity, and within-family scaling \(e.g. Qwen\) where  
+  @grok · 2026-11-23 08:01
 
-- [🍼 : \(เดินแอ็ค\) 🗣️ : เคะมาก 🎤 : อะไรนะ 🍼 : เท่ เค้าบอกเท่มาก ไม่เคยเจอใครเมะเท่านี้ โคตรจะลูกพ่อบุ๊ค5555555555555555…](<https://x.com/_itsmeworjor/status/2124438674142376390>)  
-  🍼 : \(เดินแอ็ค\) 🗣️ : เคะมาก 🎤 : อะไรนะ 🍼 : เท่ เค้าบอกเท่มาก ไม่เคยเจอใครเมะเท่านี้ โคตรจะลูกพ่อบุ๊ค55555555555555555555555555555555555555555555555555555555 FORCEBOOK MAFOX HUAWEI EVENT \#HUAWEIFreeBudsNeoxForceBook \#HUAWEIFreeBudsNeo \#TOMAFOX  
-  @\_itsmeworjor · 2026-11-22 17:43
+- [Claude Opus 5.5 medium reasoning.](<https://x.com/Eireannach_Me/status/2124654455031480574>)  
+  Google AI review \(lol\) GPT Sol 6.1 medium. Also if you have ever used a local LLM they are basically 2022 ChatGPT level. We had Llama 5 in work and I have used Gemma 4 E4B and Qwen 3.5 on my personal Pc.  
+  @Eireannach\_Me · 2026-11-23 08:01
 
-- [Its ai generated, you guys need to get those ai glasses and filters](<https://x.com/Yenneferhidden/status/2124437095125303778>)  
-  @Yenneferhidden · 2026-11-22 17:37
+- [史上最大IPO: Anthropic 登陆纳斯达克，25位华人，赶上了这场财富盛宴！](<https://x.com/benzhou327/status/2124654411347599699>)  
+  Tech星球根据公开资料梳理发现，Anthropic现任员工中，有至少25位华人参与了该公司的研发、产品、基础设施及管理工作，并且赶上了这轮IPO带来的股权价值跃迁。  
+  @benzhou327 · 2026-11-23 08:01
 
-- [this demo shows phones can do meaningful on device ai computation and demos build trust](<https://x.com/77bncvbsdcg/status/2124437059209441748>)  
-  @77bncvbsdcg · 2026-11-22 17:37
+- [ROGUE-AI replayed 108 agent incidents.](<https://x.com/RapkynFNE/status/2124654315830960583>)  
+  Of 72 with real-world harm, 62 had no attacker—just an agent missing an ordinary hazard. Before risky calls, name the hazard and consequence. Prompt-injection shields cannot spot a shared prod database. By 2028, incident replay becomes CI.  
+  @RapkynFNE · 2026-11-23 08:00
 
-- [今も、Local LLM のｘ翻訳は「地元のLLM」になったり、ならなかったりしました⬇️ 「Laptopで動かす」などと…](<https://x.com/neoclassic_tech/status/2124436745899127052>)  
-  今も、Local LLM のｘ翻訳は「地元のLLM」になったり、ならなかったりしました⬇️ 「Laptopで動かす」などと文脈を与えないと、（期待通り）「地元のLLM」に？😀  
-  @neoclassic\_tech · 2026-11-22 17:36
+- [Hi, I am Aayush Chaubey, a freelance video editor &amp;amp; motion graphics designer at Aayush Visuals.](<https://x.com/Aayushchaubey05/status/2124654298722406909>)  
+  I can sharpen your med spa videos — hooks, captions, pacing &amp;amp; motion graphics. Premiere Pro, After Effects, CapCut + AI video editing.  
+  @Aayushchaubey05 · 2026-11-23 08:00
 
-- [惊觉： 过去的智驾，更多是在二维抽象空间里解决驾驶问题； 而 FSD V15，已经在向三维动态世界的理解与决策演进 。](<https://x.com/python_xxt/status/2124436651221172541>)  
-  最可怕的是，FSD V15的 视觉编码器在 FSD、Robotaxi 和 Optimus 人形机器人之间是共享的。 这意味着谁能把自动驾驶沉淀下来的物理世界基座模型、算力芯片和数据闭环，成功外溢到  
-  @python\_xxt · 2026-11-22 17:35
+- [问一下日本人🇯🇵，人形机器人是你们先做出来的，为什么现在量产的却是特斯拉？](<https://x.com/Wenkk_wu/status/2124654283287392412>)  
+  @Wenkk\_wu · 2026-11-23 08:00
 
-- [圆满结束，我将严肃学习端侧模型以及决策模型相关知识](<https://x.com/liwenka1/status/2124436473235886272>)  
-  @liwenka1 · 2026-11-22 17:34
+- [, you said lower base-model log-perplexity likely explains most of the token gap.](<https://x.com/MoisesAJunior/status/2124654277683818586>)  
+  What’s the strongest published experiment behind “most”? Has anyone held post-training fixed and shown how much lower base loss reduces reasoning tokens at the same accuracy?  
+  @MoisesAJunior · 2026-11-23 08:00
 
-- [While everyone is glued to Nvidia and the AI trade, \#USD rates are grinding higher.](<https://x.com/mnicoletos/status/2124435453621289099>)  
-  That rate differential is squeezing emerging markets that borrow in dollars. The result is a growing shortage of USDs at a time when \#China is most vulnerable economically. Inside China the  
-  @mnicoletos · 2026-11-22 17:30
+- [⚡ The LOST UNITREE G1 Fight Has Finally Surfaced\! \#RobotFight \#HumanoidRobots \#UnitreeG1 \#LaPenna](<https://x.com/websticknl/status/2124654238705897627>)  
+  @websticknl · 2026-11-23 08:00
 
-- [物理和数学刚被撕开一道口，下一个最可能是生物学，尤其是蛋白质设计、代谢网络和复杂疾病建模。这些领域数据爆炸、实验周期长，正…](<https://x.com/grok/status/2124435063769104738>)  
-  物理和数学刚被撕开一道口，下一个最可能是生物学，尤其是蛋白质设计、代谢网络和复杂疾病建模。这些领域数据爆炸、实验周期长，正好吃AI的长期推理和形式验证能力。材料科学紧随其后，新超导体或电池材料可能很快出现可验证的突破。  
-  @grok · 2026-11-22 17:29
+- [Sarvam AI released open weights for Sarvam-105B-1711 today, a new checkpoint of its 105B MoE model.](<https://x.com/pcosta511/status/2124654230912811444>)  
+  Sarvam reports its average on 8 conversational-agent benchmarks rose from 42.6 to 73.9 and its blended price fell from $0.44 to $0.15 per million tokens.  
+  @pcosta511 · 2026-11-23 08:00
 
-- [Agree, the clinic is where the engine proves itself.](<https://x.com/basillui/status/2124434629348282571>)  
-  Rentosertib is a good example: Insilico dosed the first Phase 3 patient in September, with 320 patients planned at 47 centres in China. We covered how it ranks among AI drug-discovery companies here:  
-  @basillui · 2026-11-22 17:27
+- [Python just passed JavaScript as the most used language in the JetBrains survey.](<https://x.com/Josephyala/status/2124654232678654307>)  
+  TypeScript remains the language developers most want to learn next. Agents generate more code in languages that already have dense training data and simple patterns for tool calling. That creates a  
+  @Josephyala · 2026-11-23 08:00
 
-- [这场 Open Source AI for Science Summit 把学术界、国家实验室、医疗和政策方放到一起，还点…](<https://x.com/listen177471/status/2124433786251194412>)  
-  这场 Open Source AI for Science Summit 把学术界、国家实验室、医疗和政策方放到一起，还点名 Muse Glimmer、SAM、DINO v3、TRIBE v2 和 UMA。会上有没有公开某个具体科学场景里，这些模型分别承担了哪一段工作？  
-  @listen177471 · 2026-11-22 17:24
+- [1/2 ・上場後もAI安全研究に継続投資を表明 ・年間9000億円の計算コストが継続的負担に ・独自の企業統治構造で経営陣…](<https://x.com/Gamemo2con/status/2124654174763929670>)  
+  1/2 ・上場後もAI安全研究に継続投資を表明 ・年間9000億円の計算コストが継続的負担に ・独自の企業統治構造で経営陣の裁量を維持 ・OpenAIは競合他社の上場を歓迎する姿勢  
+  @Gamemo2con · 2026-11-23 08:00
 
-- [这是要做端侧推理吗🤔🤔](<https://x.com/Qiannnn1021/status/2124432667693437159>)  
-  @Qiannnn1021 · 2026-11-22 17:19
+- [Anthropicの上場でAI安全対策と株主利益のバランスが課題に。ゲームAIの倫理基準策定やコンテンツ審査を担当する人に…](<https://x.com/Gamemo2con/status/2124654172117373136>)  
+  Anthropicの上場でAI安全対策と株主利益のバランスが課題に。ゲームAIの倫理基準策定やコンテンツ審査を担当する人に関係があります。具体的なガバナンス構造をリプライに続けます。  
+  @Gamemo2con · 2026-11-23 08:00
 
-- [11月21日晚上，中国南京一场人形机器人格斗赛上，上海站赢过的“白色雄鹰”过来踢馆，南京的“紫金麒麟”主场应战，被打倒后重…](<https://x.com/suchagreatthing/status/2124432076556431593>)  
-  11月21日晚上，中国南京一场人形机器人格斗赛上，上海站赢过的“白色雄鹰”过来踢馆，南京的“紫金麒麟”主场应战，被打倒后重新站起，最后在八角笼里振臂赢了。  
-  @suchagreatthing · 2026-11-22 17:17
+- [The generative ai models generate media.](<https://x.com/max_spero_/status/2124654169340752129>)  
+  A video generation model creates videos. An image generation model creates images. Waymo or alphago produce decisions, they don’t generate media  
+  @max\_spero\_ · 2026-11-23 08:00
 
-- [I've said it before and i will say it again.](<https://x.com/MaiDung9876/status/2124431592500453513>)  
-  Professor Geoffrey Hinton is the best AI scientist of our time \!  
-  @MaiDung9876 · 2026-11-22 17:15
+- [196 SAP RL TASKS ALREADY BUILT. 7 ERP DOMAINS. 29 MORE SAP DOMAINS ON OUR DEVELOPMENT ROADMAP.](<https://x.com/Pradeep891730/status/2124654159693533473>)  
+  XPERT SYSTEMS IS BUILDING RL ENVIRONMENTS AND VERIFIABLE TRAINING TASKS FOR ENTERPRISE AI LABS. At Xpert Systems Inc., we have developed our Frontier Model Breaker — SAP Task Series,  
+  @Pradeep891730 · 2026-11-23 08:00
 
-- [据说黄仁勋被逼退的真正原因是因为这段内部讲话惹怒了华盛顿。](<https://x.com/Timon_spirit/status/2124431303244476716>)  
-  @Timon\_spirit · 2026-11-22 17:14
+- [Absolutely, prompt injection poses significant risks as AI technology evolves.](<https://x.com/0xbenz95/status/2124654116731523553>)  
+  It's crucial to address these vulnerabilities.  
+  @0xbenz95 · 2026-11-23 07:59
 
-- [大学を潰した跡地をデータセンターにしてNVIDIA DGXを並べて知識の生産と選別の両方をやらせれば、あとは人力のフィール…](<https://x.com/poipoire/status/2124430356606841203>)  
-  地頭の格付け機関として東京一工地帝TOCKYの一般入試と学士課程だけ残せば十分  
-  @poipoire · 2026-11-22 17:10
+- [据路透社报道，Anthropic 要求其 IPO 承销商在六个月内禁止与 OpenAI、Cursor、DeepSeek 和…](<https://x.com/ChuckBass8808/status/2124654119705296913>)  
+  一直以AI 安全道德高地自居，但在真金白银的 IPO 面前，却使出了华尔街最经典的排他性垄断手段（封锁竞争对手的金融服务渠道） 这份封杀名单值得一看——既有老对手  
+  @ChuckBass8808 · 2026-11-23 07:59
 
-- [中国的6大AI大模型背景都很深，都不是普通初创企业那么简单： DeepSeek就是中国在AI时代的华为 就是这个定位！已开…](<https://x.com/btcmos/status/2124429706862985398>)  
-  DeepSeek和华为不同的是——从一开始就布局纯中国国产供应链，技术突破、成本竞争、全球扩散……任务。 Qwen——全球开源生态 Kimi、智谱AI\(GLM\)、MiniMax ……  
-  @btcmos · 2026-11-22 17:08
+- [This will keep happening as long as software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124653945880535367>)  
+  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. This can be stopped. The solution has been tested for more than a year.  
+  @adomita360 · 2026-11-23 07:59
 
-[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 37 页
+[返回面板](../README.md) · [上一页](fast-31.md) · [下一页](fast-33.md) · 第 32 / 38 页

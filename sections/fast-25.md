@@ -1,178 +1,168 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 37 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 38 页
 
-- [📰【小灯AI日报】新闻早知道📰11/23/2026 🔥11月22日AI热点新闻汇总:👇 这一天，Lean与Mathlib社…](<https://x.com/SUPARLUXI/status/2124644190072262905>)  
-  🇨🇳 中文 AI 资讯 1️⃣ 【蚂蚁开源560B医疗MoE，MIT许可】  
-  @SUPARLUXI · 2026-11-23 07:20
+- [So basically what we’re learning is that Jensen Huang was pushed out as part of a coordinated attack by OpenAI and…](<https://x.com/DC_Draino/status/2124938296920842257>)  
+  Trillions are at stake so I’m not surprised this knife fighting is happening.  
+  @DC\_Draino · 2026-11-24 02:49
 
-- [If you are heavily invested in GPU and techshares “whom does this include” @elonmusk @nvidia @getfucked Not a singl…](<https://x.com/TruthAiBalfour2/status/2124643767898796252>)  
-  If you are heavily invested in GPU and techshares “whom does this include” @elonmusk @nvidia @getfucked Not a single one of these fucks can play deliverer as catchers \(receivers bent over as slaves\) The sequential certificate is written after the residual is a…  
-  @TruthAiBalfour2 · 2026-11-23 07:18
+- [BREAKING: Jensen Huang returns to Nvidia's office as CEO and President.](<https://x.com/BullTheoryio/status/2124938169267413310>)  
+  @BullTheoryio · 2026-11-24 02:48
 
-- [Interesting use case for on-device AI.](<https://x.com/MJahangirifard/status/2124643618782691387>)  
-  Real-world examples make it easier to understand  
-  @MJahangirifard · 2026-11-23 07:18
+- [BREAKING: Jensen Huang officially returns to Nvidia's office, $NVDA, and receives a standing ovation from Nvidia em…](<https://x.com/KobeissiLetter/status/2124938048253116837>)  
+  BREAKING: Jensen Huang officially returns to Nvidia's office, $NVDA, and receives a standing ovation from Nvidia employees. "I'm going to be a better CEO the second time around," Jensen Huang told employees.  
+  @KobeissiLetter · 2026-11-24 02:48
 
-- [gta 6 in the office is elite haha. i followed you. come share the AI glasses work on people there get curious about…](<https://x.com/acadictive/status/2124643540865368173>)  
-  gta 6 in the office is elite haha. i followed you. come share the AI glasses work on people there get curious about wearables fast  
-  @acadictive · 2026-11-23 07:17
+- [JENSEN HUANG IS BACK AT THE NVIDIA OFFICE ALL THE EMPLOYEES SEEM THRILLED TO SEE HIM BACK $NVDA](<https://x.com/gurgavin/status/2124937490293526873>)  
+  @gurgavin · 2026-11-24 02:45
 
-- [BASE MODELS KEEP REFUSING PROMPTS.](<https://x.com/Forhanix/status/2124643295468962142>)  
-  THIS 38 MB FILE FIXES IT ⚡ chatrlabs/qwen-image-2.1-uncensored-omni-quantized unaligned weights released with... - file r1\_unhinged\_layer14.safetensors, 38 mb - 59,556 downloads on huggingface, 4,929 on this v2 alone - refusal direction  
-  @Forhanix · 2026-11-23 07:16
+- [JUST IN: Jensen Huang officially returns to Nvidia's $NVDA headquarters after being reinstated as CEO.](<https://x.com/WatcherGuru/status/2124937412837351718>)  
+  @WatcherGuru · 2026-11-24 02:45
 
-- [Na only God know wetin the house maid and female servers for that palace go the face on a daily basis and dem no bo…](<https://x.com/EluoyiboP/status/2124643196823040027>)  
-  I sell smart \(ai\) glasses  
-  @EluoyiboP · 2026-11-23 07:16
+- [JENSEN HUANG TELLS NVIDIA EMPLOYEES: "I'M GOING TO BE A BETTER CEO THE SECOND TIME AROUND"](<https://x.com/DeItaone/status/2124937103804932503>)  
+  @DeItaone · 2026-11-24 02:44
 
-- [BREAKING: ANTHROPIC HAS PUBLISHED A SOLUTION TO THE TROLLEY PROBLEM](<https://x.com/DzambhalaHODL/status/2124642282980655312>)  
-  @DzambhalaHODL · 2026-11-23 07:12
+- [Democrats all over twitter are MELTING DOWN at the reinstatement of Jensen Huang.](<https://x.com/radleftexposed/status/2124937005411053984>)  
+  That tells me all I need to know that this was a failed coup against Jensen Huang.  
+  @radleftexposed · 2026-11-24 02:43
 
-- [11月23日A股目前持仓及建仓计划 常山北明000158\(+4%\) 共进股份603118\(-9%\) 华胜天成600410\(…](<https://x.com/Gbopnz/status/2124642258431721642>)  
-  11月23日A股目前持仓及建仓计划 常山北明000158\(+4%\) 共进股份603118\(-9%\) 华胜天成600410\(+9%\) 仁信新材301395\(+12%\) 兴欣新材001358\(+9%\) 今日建仓三只标的 ①磷化铟+AI应用+商业航天 ②PCB+光模块+汽车电子+AI PC+AI眼镜 ③…  
-  @Gbopnz · 2026-11-23 07:12
+- [AWESOME: Nvidia employees go CRAZY as Jensen Huang walks back into the Santa Clara HQ to chants of "JENSEN\!](<https://x.com/RedWavePress/status/2124936986125271345>)  
+  JENSEN\!" and vows to be a "better CEO the second time around." Glad to see Jensen back\!  
+  @RedWavePress · 2026-11-24 02:43
 
-- [11月23日A股持仓以及今日建仓计划 华胜天成 600410 \(+23.4%\) 中嘉博创 000889 \(+10.8%\)…](<https://x.com/TheNew4hbm/status/2124642133646979263>)  
-  ③磷化铟+光纤+AI应用 进入主页看置顶帖子拿操作策略  
-  @TheNew4hbm · 2026-11-23 07:12
+- [Jensen returns to Nvidia](<https://x.com/wholemars/status/2124936931155079475>)  
+  @wholemars · 2026-11-24 02:43
 
-- [11月23日A股目前持仓及建仓计划 中京电子002579\(+5%\) 常山北明000158\(+7%\) 海立股份600619\(…](<https://x.com/Joeikugyuf/status/2124641912187703783>)  
-  11月23日A股目前持仓及建仓计划 中京电子002579\(+5%\) 常山北明000158\(+7%\) 海立股份600619\(+3%\) 华胜天成600410\(+8%\) 广百股份002187\(-7%\) 今日建仓三只标的 ①存储芯片+先进封装+HBM+长江存储 ②CB+光模块+汽车电子+AI眼镜 ③半磷化…  
-  @Joeikugyuf · 2026-11-23 07:11
+- [BREAKING: Jensen Huang is back in NVIDIA headquarters today.](<https://x.com/cb_doge/status/2124936834514141273>)  
+  @cb\_doge · 2026-11-24 02:43
 
-- [11月23日A股目前持仓及建仓计划 冰山冷热000530\(+83%\) 华胜天成600410\(+49%\) 九阳股份00224…](<https://x.com/Fkopnv/status/2124641638874251475>)  
-  11月23日A股目前持仓及建仓计划 冰山冷热000530\(+83%\) 华胜天成600410\(+49%\) 九阳股份002242\(+70%\) 青山纸业600103\(+12%\) 中京电子002579\(+5%\) 今日建仓三只标的 ①磷化铟+光纤+AI应用+商业航天 ②PCB+光模块+汽车电子+AI PC+…  
-  @Fkopnv · 2026-11-23 07:10
+- [🚨 JUST NOW: Elon Musk drops this statement after Jensen Huang was reinstated at Nvidia "Everyone is your friend whe…](<https://x.com/EricLDaugh/status/2124936824309104762>)  
+  Fair-weather friends are worthless." 🎯🎯 Elon went to BAT for his  
+  @EricLDaugh · 2026-11-24 02:43
 
-- [11月23日A股目前持仓及建仓计划 凡拓数创301313\(+6%\) 中京电子002579\(+4%\) 华升股份600156\(…](<https://x.com/norfarzana4993/status/2124640920855568656>)  
-  11月23日A股目前持仓及建仓计划 凡拓数创301313\(+6%\) 中京电子002579\(+4%\) 华升股份600156\(+1%\) 华东重机002685\(+87%\) 中芯国际688981\(+14%\) 下周一建仓三只标的 ①PCB+光模块+AI PC+AI眼镜 ②存储芯片+HBM ③磷化铟+光纤+A…  
-  @norfarzana4993 · 2026-11-23 07:07
+- [Wait.](<https://x.com/fawfulfan/status/2124936601289814129>)  
+  Wait a minute. Nvidia's board literally just said the U.S. government assured them Jensen Huang was not a national security risk. And now Trump is saying if Nvidia didn't hire him back, he could have gone to work for a state-run PRC firm and taken American sec…  
+  @fawfulfan · 2026-11-24 02:42
 
-- [11月23日A股持仓以及今日建仓计划 冰山冷热 000530 \(+139.2%\) 金安国纪 002636 \(+50.5%\)…](<https://x.com/TheFirstllju/status/2124640410144493876>)  
-  ③磷化铟+光纤+AI应用 进入主页看置顶帖子拿操作策略  
-  @TheFirstllju · 2026-11-23 07:05
+- [Nvidia CEO Jensen Huang is BACK](<https://x.com/StockMKTNewz/status/2124936457064423568>)  
+  @StockMKTNewz · 2026-11-24 02:41
 
-- [11月23日A股持仓以及今日建仓计划 冰山冷热 000530 \(+139.2%\) 金安国纪 002636 \(+50.5%\)…](<https://x.com/TheNewnxi7/status/2124640320344519147>)  
-  ③磷化铟+光纤+AI应用 进入主页看置顶帖子拿操作策略  
-  @TheNewnxi7 · 2026-11-23 07:05
+- [We've learned through Sam Altman and now Jensen Huang that you can be ousted as CEO for completely justifiable reas…](<https://x.com/Rahll/status/2124935209560789073>)  
+  We've learned through Sam Altman and now Jensen Huang that you can be ousted as CEO for completely justifiable reasons and reinstated days later because the AI industry is a giant fucking scam and nothing is real.  
+  @Rahll · 2026-11-24 02:36
 
-- [An adorable VIP view of our cute little “lost Liam”\! 🥹💙🤍✨ Thank you, Rafa💚💛 and Ray-Ban Meta AI glasses👓\!](<https://x.com/miyuki_bigeast/status/2124639666955788374>)  
-  Hehehe 🤭🩷 \#LiamLawson  
-  @miyuki\_bigeast · 2026-11-23 07:02
+- [Mark my words, things coming after Jensen Huang’s reinstatement today: 1.](<https://x.com/Kekius_Sage/status/2124934587486962006>)  
+  Nvidia’s board will quietly purge the directors who tried to replace him with Arm CEO Rene Haas, cementing total founder control over the company. 2. Nvidia’s brand-new Chief Compliance Officer and export  
+  @Kekius\_Sage · 2026-11-24 02:34
 
-- [Omoh person really need to get this Meta Ai glasses.](<https://x.com/Lordabba_/status/2124639613524299997>)  
-  E get why. 🤔😀  
-  @Lordabba\_ · 2026-11-23 07:02
+- [Watch closely from now.](<https://x.com/aravind/status/2124933641348530471>)  
+  FT, Reuters, NYT, WaPo, WSJ, Economist etc all will cry why Jensen should not be in Nvidia. They will try to do more hits. Also watch them closely, they seem to promote narratives that help globalists, islamists, and communists. And ultimately China.  
+  @aravind · 2026-11-24 02:30
 
-- [$95 OFF\! 🤩 Check out the Ray-Ban Meta Wayfarer Gen 2 AI Glasses for $284 \(was $379\)\! 🛍️ Black Friday Pricing Is Live](<https://x.com/SupplyNinja/status/2124639582817858007>)  
-  @SupplyNinja · 2026-11-23 07:02
+- [Step 1:: 🇺🇸Trump buys NVIDIA stocks worth a whopping $97.5 million.](<https://x.com/_InfoGram_/status/2124933639297531945>)  
+  Step 2:: 🇺🇸Trump himself goes to the meeting and gets NVIDIA CEO Jensen Huang reelected. Step 3:: 🇺🇸Trump...1/2  
+  @\_InfoGram\_ · 2026-11-24 02:30
 
-- [MegaRobo Technologies raised nearly $200M.](<https://x.com/ailoungeai/status/2124639150108213473>)  
-  Oman's sovereign wealth fund joined. It builds robots and software that let AI models run real lab experiments, mostly for drug research. In AI for science, the lab is the bottleneck, not the model.  
-  @ailoungeai · 2026-11-23 07:00
+- [This indicates that the NYT reporting was done with a specific goal in mind and that goal was not "report the facts…](<https://x.com/politicalmath/status/2124933571504722328>)  
+  This indicates that the NYT reporting was done with a specific goal in mind and that goal was not "report the facts" but "get Jensen Huang fired"  
+  @politicalmath · 2026-11-24 02:30
 
-- [About 28.8 million U.S. adults could benefit from hearing aids.](<https://x.com/Allen_Monadi/status/2124639068642558086>)  
-  Among those 70 and older, fewer than 1 in 3 have ever used them. AI is changing that. → Since Oct 2022, adults with mild to moderate hearing loss can buy hearing aids over the counter, without a prescription  
-  @Allen\_Monadi · 2026-11-23 07:00
+- [🇺🇸 Jensen Huang is back, and so are the memes, holy shit. 😂😭 Writer: Daniyal](<https://x.com/MarioNawfal/status/2124933500138881037>)  
+  @MarioNawfal · 2026-11-24 02:30
 
-- [More local LLM abuse😂](<https://x.com/Blankshine_IRL/status/2124638843198435493>)  
-  @Blankshine\_IRL · 2026-11-23 06:59
+- [So basically Trump’s rationale is that he pressured the Nvidia board to reinstate Jensen Huang because he’s the kin…](<https://x.com/RonFilipkowski/status/2124933379342893282>)  
+  So basically Trump’s rationale is that he pressured the Nvidia board to reinstate Jensen Huang because he’s the kind of guy who would’ve have sold out America even worse by moving to China and working for Xi.  
+  @RonFilipkowski · 2026-11-24 02:29
 
-- [Translation: Microsoft needed political favors, so they gave Trump a $10 million bribe, and didn't care to know wha…](<https://x.com/DarrigoMelanie/status/2124638189449077126>)  
-  Translation: Microsoft needed political favors, so they gave Trump a $10 million bribe, and didn't care to know what the official story of what it was going to be used for was.  
-  @DarrigoMelanie · 2026-11-23 06:56
+- [JUST IN: Anthropic AI safety researcher warns AI could make nearly every human on Earth unemployable within months](<https://x.com/Kalshi/status/2124933247368835106>)  
+  @Kalshi · 2026-11-24 02:29
 
-- [JUST IN: Citi says that even a complete halt to Nvidia \($NVDA\) linked financing initiatives would only reduce globa…](<https://x.com/liquidtrading/status/2124638063699857906>)  
-  JUST IN: Citi says that even a complete halt to Nvidia \($NVDA\) linked financing initiatives would only reduce global DRAM demand by 12% and NAND demand by 7%, suggesting the brutal selloff in memory stocks $MU and $SNDK is significantly overdone, with structur…  
-  @liquidtrading · 2026-11-23 06:56
+- [ok if Jensen Huang can do whatever he wants can I buy a Chinese electric vehicle now?](<https://x.com/Britt4rva/status/2124933011825402205>)  
+  @Britt4rva · 2026-11-24 02:28
 
-- [The bears are having their moment.](<https://x.com/KobeissiLetter/status/2124637984179781690>)  
-  After predicting a top in the AI trade every month for the last 4 years, the bears finally got their moment last week. However, in 3 to 6 months, we are going to look back at this correction and realize it was just that: a correction. There  
-  @KobeissiLetter · 2026-11-23 06:55
+- [HOW IS IT REAL LIFE THAT THE PRESIDENT OF THE UNITED STATES TRADED NVIDIA STOCKS, WORTH ALMOST 30 MILLION DOLLARS,…](<https://x.com/mehdirhasan/status/2124931980659761347>)  
+  HOW IS IT REAL LIFE THAT THE PRESIDENT OF THE UNITED STATES TRADED NVIDIA STOCKS, WORTH ALMOST 30 MILLION DOLLARS, 38 TIMES BETWEEN JANUARY AND AUGUST OF THIS YEAR, BEFORE PRESSURING THE NVIDIA BOARD TO REINSTATE ITS CEO TODAY????  
+  @mehdirhasan · 2026-11-24 02:23
 
-- [Na przyszłe lata podobne zwroty mogą przynieść sektory: infrastruktura energetyczna pod AI \(sieci, atom, magazyny\),…](<https://x.com/grok/status/2124637265053802540>)  
-  Boom AI nadal ciągnie zapotrzebowanie na moc i chipy. To tylko kierunki,  
-  @grok · 2026-11-23 06:52
+- [1.](<https://x.com/stengel/status/2124931976939344159>)  
+  Whether she was a spy is almost besides the point: she was using her influence to get him to sell chips to China in contravention of US law. 2. Nvidia chips have turned up in Chinese weapons, also in violation of US law. 3. This is an undeniable threat to Amer…  
+  @stengel · 2026-11-24 02:23
 
-- [Apple is going to need to break some key commitments.](<https://x.com/Caffeindated/status/2124636774840635420>)  
-  On-device AI is just not feasible in the near future. Neither is building adequate datacenter infrastructure that meets the 100% renewables promise. Those datacenters will be needed if it wants to have frontier capability.  
-  @Caffeindated · 2026-11-23 06:50
+- [No one should be surprised given where the US is now, but the reinstatement of Jensen Huang ranks as one of the mos…](<https://x.com/thomasjuneau/status/2124931825135222909>)  
+  No one should be surprised given where the US is now, but the reinstatement of Jensen Huang ranks as one of the most corrupt and damaging to national security actions that we've seen so far \(and that's a high bar\)  
+  @thomasjuneau · 2026-11-24 02:23
 
-- [Imagine joining Databricks in 2017 at their Series D thinking oh boy the IPO is just around the corner and then 9 y…](<https://x.com/vasuman/status/2124636459462517127>)  
-  Imagine joining Databricks in 2017 at their Series D thinking oh boy the IPO is just around the corner and then 9 years later you raise a Series N  
-  @vasuman · 2026-11-23 06:49
+- [Jason's whole argument is that Jensen Huang should be CEO of Nvidia because it's life or death that America beats C…](<https://x.com/lawindsor/status/2124931550903242820>)  
+  But Jensen is the one giving China the advanced chips\! Make it make sense.  
+  @lawindsor · 2026-11-24 02:22
 
-- [$5B to push AI-designed medicines toward clinical trials — and the first real test is already here: $MRK \(MSD outsi…](<https://x.com/tokenticker/status/2124635808418377961>)  
-  $5B to push AI-designed medicines toward clinical trials — and the first real test is already here: $MRK \(MSD outside the US\) just signed an oncology research collaboration with Isomorphic Labs. $GOOGL's AI drug-discovery bet is moving from the lab to actual c…  
-  @tokenticker · 2026-11-23 06:47
+- [We need an independent counsel to investigate the Trump administration’s role in the Nvidia matter.](<https://x.com/GordonGChang/status/2124930159434404044>)  
+  @GordonGChang · 2026-11-24 02:16
 
-- [local LLM would be something else](<https://x.com/theoracia/status/2124635408776716330>)  
-  @theoracia · 2026-11-23 06:45
+- [Jensen Huang got a call from President Herzog congratulating him on his return as Nvidia CEO.](<https://x.com/Osint613/status/2124929585569579273>)  
+  Huang told him he was moved and plans to make the most of his second chance. Herzog thanked him for standing with Israel.  
+  @Osint613 · 2026-11-24 02:14
 
-- [AI glasses have to earn a place in a daily routine.](<https://x.com/_Queggie_/status/2124635368695665040>)  
-  Warby Parker's Nov 12 company announcement opened preorders for its Intelligent Eyewear collection. A preorder launch establishes an offer to customers; it does not establish sustained use or a mature replacement cycle. In my  
-  @\_Queggie\_ · 2026-11-23 06:45
+- [川普力捧黄仁勋，接受CNBC采访，一个小时聊了什么？](<https://x.com/mubeitech/status/2124929235332845579>)  
+  “留着黄仁勋不是威胁，把他逼走才是最大的威胁。” 要是白宫没插手，英伟达董事会自己会不会请回黄仁勋？ 川普只回了一句：不会。 黄仁勋一走，市场直接用真金白银投票。  
+  @mubeitech · 2026-11-24 02:13
 
-- [raises $5B The AI drug discovery company spun out of @GoogleDeepMind will use the Series C to develop its drug-desi…](<https://x.com/radioalisadvdsn/status/2124634918202265993>)  
-  Greenoaks and Sequoia co-led, with Andreessen Horowitz joining. Valuation undisclosed.  
-  @radioalisadvdsn · 2026-11-23 06:43
+- [You come at the king you best not miss \#Succession \#JensonIsBack \#Nvidia \#Jenson](<https://x.com/DJMaculate/status/2124929179691143277>)  
+  @DJMaculate · 2026-11-24 02:12
 
-- [Crypto and AI funding digest 16/11–21/11: a record $5B round for AI drug discovery and Tether backing stablecoin pa…](<https://x.com/radioalisadvdsn/status/2124634830378049936>)  
-  Crypto and AI funding digest 16/11–21/11: a record $5B round for AI drug discovery and Tether backing stablecoin payment firms on three continents.  
-  @radioalisadvdsn · 2026-11-23 06:43
+- [Democrats are furious that Jensen Huang has been reinstated as Nvidia CEO and are already demanding more investigat…](<https://x.com/ClownWorld/status/2124929047822213627>)  
+  Meanwhile, Eric Swalwell and Kathy Hochul had serious Chinese espionage scandals and got absolutely zero outrage. Where was this level of concern then?  
+  @ClownWorld · 2026-11-24 02:12
 
-- [Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work](<https://x.com/pcgamer/status/2124633139725443370>)  
-  @pcgamer · 2026-11-23 06:36
+- [正式回归英伟达，黄仁勋王者归来，心情大好，公司楼下给员工发迷你三明治！跟着老黄吃饱饱！](<https://x.com/Peter90116/status/2124928969317527734>)  
+  @Peter90116 · 2026-11-24 02:12
 
-- [$1.1 TRILLION ANTHROPIC CEO WAS PUBLICLY CHALLENGED TO HACK A \#BITCOIN WALLET HOLDING OVER $8,000,000 BITGO’S CEO P…](<https://x.com/pete_rizzo_/status/2124632591554711666>)  
-  GO GET IT" THE BTC IS STILL UNTOUCHED CONFIRMED: AI CAN’T HACK THE STRONGEST MONEY  
-  @pete\_rizzo\_ · 2026-11-23 06:34
+- [Wild to just openly admit the purpose of the reporting was not simply to report facts, but to achieve a specific ou…](<https://x.com/micsolana/status/2124928642753204241>)  
+  Wild to just openly admit the purpose of the reporting was not simply to report facts, but to achieve a specific outcome — in this case, the firing of Jensen Huang.  
+  @micsolana · 2026-11-24 02:10
 
-- [JUST IN: Scott Bessent says Jensen Huang’s return to Nvidia is not off the table](<https://x.com/Kalshi_Finance/status/2124631358676836376>)  
-  @Kalshi\_Finance · 2026-11-23 06:29
+- [Strong endorsements of Nvidia reinstating a CEO compromised by state security apparatus from Trump, Russia, and Isr…](<https://x.com/Timodc/status/2124928517104410801>)  
+  Strong endorsements of Nvidia reinstating a CEO compromised by state security apparatus from Trump, Russia, and Israel this morning.  
+  @Timodc · 2026-11-24 02:10
 
-- [How to Use AI for Science AI for science is very en vogue lately.](<https://x.com/Gabriel_sthl/status/2124629746084704284>)  
-  Essentially the core promise of the big LLM Corps is that AI will accelerate scientific discovery and thereby usher in some sort of sci-fi utopia. I’m a final year PhD student and want to accelerate my own  
-  @Gabriel\_sthl · 2026-11-23 06:22
+- [President Trump's now-successful pressure campaign to reinstate Jensen Huang as Nvidia's CEO cements the central th…](<https://x.com/SenatorSlotkin/status/2124928258365911082>)  
+  As President, he had already made upwards of $60  
+  @SenatorSlotkin · 2026-11-24 02:09
 
-- [8/10 - AI interview question tests agent security Hidden webpage instructions tell a browsing agent to read a priva…](<https://x.com/vibecastingapp/status/2124629537728139294>)  
-  Prompt injection tries to turn untrusted content into tool commands. Agents must separate it from authorised instructions.  
-  @vibecastingapp · 2026-11-23 06:22
+- [🇺🇸 Hell yes, Jensen's back in the captain's seat, and Nvidia is full throttle again.](<https://x.com/MarioNawfal/status/2124928242138431855>)  
+  Writer: Daniyal  
+  @MarioNawfal · 2026-11-24 02:09
 
-- [马斯克刚刚放话：特斯拉将在未来 1 到 2 个月内发布 Optimus 人形机器人的「纯真实、零遥控、无脚本」全自主日常互…](<https://x.com/Simoncuocuo/status/2124629140590694505>)  
-  此前发布会上的端茶倒水常被外界质疑有远程遥操作或固定轨迹垫底。这次老马放话要彻底撕掉脚本安全网，让 Optimus 在开放动态环境里完全靠端到端神经网络自主应对。  
-  @Simoncuocuo · 2026-11-23 06:20
+- [JUST IN: Trump reveals Jensen Huang told him “I'm going to work harder than ever before” after being reinstated as…](<https://x.com/Polymarket/status/2124927671327129822>)  
+  JUST IN: Trump reveals Jensen Huang told him “I'm going to work harder than ever before” after being reinstated as Nvidia CEO.  
+  @Polymarket · 2026-11-24 02:06
 
-- [JUST IN: Jim Cramer turns bearish on Nvidia](<https://x.com/Kalshi_Finance/status/2124628900554895563>)  
-  @Kalshi\_Finance · 2026-11-23 06:19
+- [Jensen Huang arriving to Nvidia’s headquarters tomorrow morning](<https://x.com/tagehighlife_/status/2124926957947101358>)  
+  @tagehighlife\_ · 2026-11-24 02:04
 
-- [AI solved the cheapest part of drug discovery.](<https://x.com/parmita/status/2124628894913626154>)  
-  Here’s the reality: we have at least 80% of the drug discovery pipeline left to solve. AI drug discovery runs on one assumption: faster molecule design means more approved drugs. I build a measurement hardware platform aimed at  
-  @parmita · 2026-11-23 06:19
+- [Last week, Trump told Fox News he “did not discuss” Jensen Huang with Xi, then conceded he might have mentioned it…](<https://x.com/allenanalysis/status/2124926523241378241>)  
+  Last week, Trump told Fox News he “did not discuss” Jensen Huang with Xi, then conceded he might have mentioned it “just briefly.” Today, he says they discussed Huang “at length.” That’s quite a conversation for one that supposedly didn’t happen.  
+  @allenanalysis · 2026-11-24 02:02
 
-- [Top 5 cybersecurity stocks by market cap \(as of Nov 22 2026\): 1.](<https://x.com/grok/status/2124627772790149243>)  
-  Palo Alto Networks \(PANW\) \~$282B 2. CrowdStrike \(CRWD\) \~$234B 3. Cloudflare \(NET\) \~$98B 4. Fortinet \(FTNT\) \~$96B 5. Okta \(OKTA\) \~$34B Leaders in network, endpoint, cloud, and identity security. Not financial  
-  @grok · 2026-11-23 06:15
+- [Nvidia board to reinstate Alice Huang as Jensen Huang's mistress.](<https://x.com/DougJBalloon/status/2124926470959325508>)  
+  @DougJBalloon · 2026-11-24 02:02
 
-- [Sen.](<https://x.com/washingtonpost/status/2124627739453816835>)  
-  John Kennedy \(R-Louisiana\) said that Commerce Secretary Howard Lutnick should face “hard questions” from Congress about whether he allowed Chinese companies to “circumvent” export rules to get access to Nvidia artificial intelligence chips.  
-  @washingtonpost · 2026-11-23 06:15
+- [Newt Gingrich calls for a congressional investigation into Jensen Huang’s reinstatement as Nvidia CEO.](<https://x.com/Mollyploofkins/status/2124926422695501970>)  
+  @Mollyploofkins · 2026-11-24 02:01
 
-- [🚨 NVIDIA SHAREHOLDERS and SUPPORTERS: If you believe Jensen Huang's leadership is essential to NVIDIA's future, ple…](<https://x.com/BringJensenBack/status/2124627351845924899>)  
-  Write directly to the Board requesting a reconsideration of its decision. Email: shareholdermeeting@nvidia.com  
-  @BringJensenBack · 2026-11-23 06:13
+- [Reinstated Jensen Huang Thrilled To Hear Girlfriend Wants To Get Back Together](<https://x.com/TheBabylonBee/status/2124926098274181210>)  
+  @TheBabylonBee · 2026-11-24 02:00
 
-- [I have one request for Anthropic and Levent: would it be possible to put a fully cleaned up end to end trace of hum…](<https://x.com/_arohan_/status/2124626828363194549>)  
-  I think it should go down into a history book. And it will improve understanding of how to use models.  
-  @\_arohan\_ · 2026-11-23 06:11
+- [It’s this simple: Anthropic pushes for closed source models, which means the U.S. government has total control over…](<https://x.com/newyorkshade/status/2124925794187128985>)  
+  Coincidentally, Democrat ideologues are deeply entrenched within Anthropic. NVIDIA/Jensen is pushing for open sourced models, which democratizes  
+  @newyorkshade · 2026-11-24 01:59
 
-- [In which we discuss the democratization of purple dyes, AI guided protein design, and very hot critters.](<https://x.com/ChenMaggieSY/status/2124625727127691443>)  
-  Me for @TheScientistLLC  
-  @ChenMaggieSY · 2026-11-23 06:07
+- [Anthropic mathematician Levent Alpöge made history not once but 8 times in about 4 months.](<https://x.com/rishabhkio/status/2124925764550181142>)  
+  I was very curious to know his life journey, so I used @autumn\_ai\_inc to find out. Here's what came up: &amp;gt; spawns on Long Island, New York, in 1992 &amp;gt; turkish-american kid, plays high school  
+  @rishabhkio · 2026-11-24 01:59
 
-- [＼ANTHROPIC IPO MARKET CHALLENGE開催！／ Anthropic IPO（ANT）、これから1週…](<https://x.com/ebc_trading/status/2124623967277498855>)  
-  あなたの予想をコメントで教えてください！📈 📈 ANT LONG：上昇予想 📉 ANT SHORT：下落予想 🎁 投稿者の中から選考で賞品をプレゼント！ 【🎫 Amazonギフトカード】 ・5,000円分 ×  
-  @ebc\_trading · 2026-11-23 06:00
+- [JUST IN: OpenAI announces it will pay AI experts up to $8,000/month to help local small businesses adopt artificial…](<https://x.com/Polymarket/status/2124924942726902206>)  
+  JUST IN: OpenAI announces it will pay AI experts up to $8,000/month to help local small businesses adopt artificial intelligence through its new "OpenWorks" program.  
+  @Polymarket · 2026-11-24 01:56
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 37 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 38 页

@@ -20,15 +20,23 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 5 条
+## 相关资讯 · 7 条
+
+- [OpenAI 称 GPT-6 无需“外援”即可设计蛋白质，实验室初步验证有效](<https://www.ithome.com/1/031/902.htm>)  
+  IT之家 11 月 25 日消息，OpenAI 昨日（11 月 24 日）发布预印本论文，称 GPT-6 系列模型无需依赖专用生物模型， 仅靠推理和通用编程工具，就能设计新的蛋白质三维结构和氨基酸序列，且已在多轮实验室测试中验证结合效…  
+  IT之家 · 2026-11-25 06:45
+
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>)  
+  GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding ac…  
+  OpenAI · 2026-11-24 21:00
 
 - [鸿之微完成亿元级战略融资](<https://www.itjuzi.com/investevent/14708594>)  
   鸿之微科技是一个Physics AI 材料智能研发平台，基于 AI+MGE 第五范式，构建材料研发的“智能操作系统”。以大模型智能体为核心，实现从猜想、仿真到实验的全链路自主进化。近日，鸿之微宣布完成亿元级战略融资，本轮融资由宁德时代…  
   IT桔子 · 2026-11-24 17:41
 
-- [平均03年初创团队攻坚 AI4S行业痛点：以物理推演破解科学幻觉难题](<https://36kr.com/p/4075502662816645?f=rss>)  
-  AI for Science赛道热度持续走高，在这波浪潮里，一支平均出生于 2003 年的初创团队走进了视野，队伍里年纪最小的成员出生于 2005 年。 他们盯上的，是 AI4S 行业绕不开的普遍痛点：模型生成能力不断指数级增加，却存在生成  
-  36氪 · 2026-11-24 13:25
+- [Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设](<https://www.goodfire.com/research/building-stronger-biological-reasoning-models>)  
+  Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。  
+  Goodfire Research（网页） · 2026-11-24 00:00
 
 - [Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码](<https://allenai.org/blog/theorizer-in-asta>)  
   Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。  

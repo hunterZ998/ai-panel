@@ -20,7 +20,11 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 3 条
+## 相关资讯 · 4 条
+
+- [Edge AI Daily 早报（11月25日）](<https://www.tmtpost.com/8216877.html>)  
+  OpenAI与Anthropic因安全证明暂缓前沿模型，发布转向可控性验证；Anthropic跌破发行价，AI估值进入资本纪律期。GPT-6.2 Sol、Meta Muse、Google Personal Intelligence争夺…  
+  钛媒体 · 2026-11-25 08:29
 
 - [预售秒罄引爆盘面，AI眼镜站在量产与博弈的十字路口](<https://36kr.com/p/4083576546826118?f=rss>)  
   11月24日，A股AI眼镜概念板块盘中震荡走高。截至收盘，联创电子（002036.SZ）、光洋股份（002708.SZ）、中京电子（002579.SZ）等多股涨停；明月镜片（301101.SZ）、天邑股份（300504.SZ）、申昊科技（3  
