@@ -20,15 +20,19 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 3 条
+## 相关资讯 · 4 条
+
+- [因隐私问题，荷兰多个组织要求法院叫停 Meta 智能眼镜销售](<https://www.ithome.com/1/033/126.htm>)  
+  IT之家 11 月 26 日消息，据路透社报道，荷兰多家消费者与数字权益组织于周四向法院提出申请，要求叫停 Meta 旗下 AI 智能眼镜在荷兰的销售。原告方主张，这款眼镜允许佩戴者在他人不知情的情况下进行拍摄，违反了欧洲隐私法规。…  
+  IT之家 · 2026-11-26 22:59
+
+- [Nothing 公布 AI 耳机 Ear Note 及充电盒细节，12 月 8 日发售](<https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal>)  
+  Nothing 在 12 月 8 日发售前公布 AI 耳机 Ear Note 的更多细节：耳机可录制通话，带麦克风的充电盒可录制、转写并总结对话。充电盒新增“Record”按钮用于录制和转写对话，另有“Talk”按钮录制用户自己的声音。CEO Carl Pei 称这是迈向 AI 硬件上下文层的第一步，设备将连接 App 管理录音、转写和 AI 摘要，并支持与多种 AI 智能体交互。  
+  The Verge：AI（RSS） · 2026-11-26 00:00
 
 - [韩国高考 AI 作弊事件发酵，教育部长崔教振引咎辞职](<https://www.ithome.com/1/030/558.htm>)  
   韩国教育部长官崔教振 11 月 22 日辞职，为 2027 年度高考防范 AI 作弊措施不足引发的混乱承担责任。韩国高考禁止携带 AI 眼镜、手机等电子设备，每个考点安排专人检查 AI 眼镜，仍查处 111 名违规携带智能设备的考生，其中包括 1 起使用智能眼镜作弊；李在明 20 日呼吁对高考制度进行全面改革，教育部计划 12 月 11 日成绩公布前完成处置。  
   IT之家·人工智能 · 2026-11-22 11:21
-
-- [Pete Warden 谈本地 AI、开放模型、语音界面与硬件未来](<https://thedataexchange.media/pete-warden-moonshine/>)  
-  Moonshine Voice 联合创作者 Pete Warden 在播客中讨论本地 AI 为何越来越倾向在设备端而非云端运行，并称本地模型在基准测试上仅比 Anthropic 和 OpenAI 的商业模型落后几个月。  
-  Hacker News：AI 热帖 · 2026-11-19 20:00
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59

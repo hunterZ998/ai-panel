@@ -16,9 +16,13 @@
   AI时代，不止是红果上新快，就连AI影视工具的更新频率也会让人眼花缭乱。 10月15日，可灵4.0全量上线，单次生成时长拉到30秒；10月26日，即梦上线短剧工作室，剧本、分镜、生成和后期全部串进一个项目；11月5日，Google的Gemi  
   36氪 · 2026-11-26 19:20
 
-- [谁捧的AI超创，最能赚钱？](<https://36kr.com/p/4085005316221572?f=rss>)  
-  2026年，“AI超创”元年，也是拿下大结果的一年。 下半年以来，AI超创一跃成为AI视频赛道的门面担当，各家闻风而动，哪位创作者稍有流量苗头，便迫不及待地“造神”。AI超创扎堆涌现，内卷随之而来。 这股热潮最早可以追溯至3月底，清明主题A  
-  36氪 · 2026-11-25 21:04
+- [Google 的 My Channel 个性化 AI 视频信息流专利被驳回](<https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent>)  
+  Google 去年 5 月提交、上周公开的 My Channel 专利描述了一个基于用户人口统计数据、观看历史和设备上下文（如 IP 地址、GPS 位置）生成个性化 AI 视频与广告的信息流系统，可生成整部电影，甚至用用户的照片、视频和音频创建数字头像让其成为内容主角。  
+  The Verge：AI（RSS） · 2026-11-26 05:51
+
+- [MAGI-2](<https://www.producthunt.com/products/magi-1>)  
+  Sand AI's 480B model for cinematic video generation  
+  Product Hunt · English · 2026-11-25 13:35
 
 - [Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10](<https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw>)  
   Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。  
@@ -43,10 +47,6 @@
 - [OiiOii Motion 代码动画功能上手实测：Opus 5.5 与 DeepSeek V4.1 Flash 两种跑法](<https://mp.weixin.qq.com/s/E_NP62cntXJTuFv2zfd6Hg>)  
   作者实测 OiiOii 新上线的 Motion 代码动画功能，该功能让大模型编写带排版、图形和运动曲线的动态网页代码并云端渲染成视频。用 LearnPrompt/awesome-seedance 仓库宣传片对比显示，传统视频模型遇上网页 UI、代码框和中英文排版容易糊掉，而 Motion 画面文字清晰。  
   公众号：卡尔的AI沃茨 · 2026-11-23 17:36
-
-- [Kling 4.0 支持原生 4K 直出与 10-bit HDR 输出](<https://mp.weixin.qq.com/s/GSKWsr7xFHldKR4Ha_lFzg>)  
-  可灵AI 官宣 Kling 4.0 支持原生 4K 视频直出，并可在 4K 和 1080p 分辨率下输出 10-bit HDR 视频。官方称画面细节更清晰、色彩层次更丰富，可在 klingai.com 体验。  
-  公众号：可灵AI（快手·视频） · 2026-11-19 23:00
 
 - [视频生成不再反复抽卡！清华开源，给模型装上「三维空间大脑」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741489&idx=3&sn=5112b6645bbbec5d670fb8d97636f63d>)  
   新智元 · 2026-11-09 12:56

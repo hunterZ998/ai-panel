@@ -1,8 +1,76 @@
 # 主题快讯
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 38 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 36 页
 
 含初筛线索。来源自述、观点与传闻保留原出处，尚待核验。
+
+- [Rohan Paul 引 OpenRouter 数据称 AI token 的杰文斯悖论正在减弱](<https://x.com/rohanpaul_ai/status/2126070138290212877>)  
+  Rohan Paul 引用 OpenRouter 数据称，AI token 的杰文斯悖论今年整体成立但近几个月正在减弱。OpenRouter 付费 token 量今年增长 44x，支出仅增 7.6x，单 token 均价下降 83%；最近 4 周 token 增长 39% 而支出持平，价格下降集中…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 05:46
+
+- [GPT-Live-1.1 以 999 自然度 Elo 登顶 Voice Arena Jarvis Bench，人声仍获更高…](<https://x.com/rohanpaul_ai/status/2126068055725965384>)  
+  OpenAI 的 GPT-Live-1.1 在 Voice Arena 的 Jarvis Bench 总榜以 999 自然度 Elo 和 1025 感知任务有效性 Elo 首秀登顶。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 05:38
+
+- [蚂蚁集团旗下 Robbyant 开源具身导航模型 LingBot-Navi，让机器人记住探索过的环境](<https://x.com/rohanpaul_ai/status/2126059746252013723>)  
+  蚂蚁集团具身智能公司 Robbyant 开源导航模型 LingBot-Navi，为机器人提供跨任务保留的空间记忆，在同一地点工作越久效率越高。多数视觉语言导航模型每次任务都从零开始，而 Navi 无需预先地图，探索时构建包含布局、物体位置和可行路径的 3D 记忆，将 3D 表面位置与视觉语言特征配…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 05:05
+
+- [FT：SAP 拟在 AI 驱动重组中裁员至少 1 万人，约占一成岗位](<https://x.com/rohanpaul_ai/status/2126041605144739986>)  
+  FT 报道 SAP 正考虑至少裁员 10,000 人，约占岗位十分之一，属于 AI 驱动的重组，且发生在业绩增长期。第三季度总营收增长 13% 至约 $11.3B，非 IFRS 营业利润增长 18% 至约 $3.3B，云销售增长 26% 至约 $7.3B。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 03:53
+
+- [Claude 向付费用户发放免费额度重置](<https://x.com/addyosmani/status/2126034792424919200>)  
+  感恩节快乐！Claude 重置与额度提醒 🙏 如果你是 Pro、Max、Ultra 或 Team 用户，11 月 10 日起的完整重置可在 Settings &gt; Usage 中领取，有效期至 12 月 10 日。 Max 和 Ultra 可领取每月 API 额度（$100/$200）。5.2 发布…  
+  X：Addy Osmani \(@addyosmani\) · 2026-11-27 03:26
+
+- [Scale AI 与 CMU 研究：小批量下 PPO 优于 GRPO](<https://x.com/rohanpaul_ai/status/2126032236487319905>)  
+  Scale AI 与卡内基梅隆大学研究者用超 1200 次训练运行（其中 96 次为 LLM）对比 PPO 与 GRPO，发现小 RL 批量下带 critic 的 PPO 更强，GRPO 随批量增大追平。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 03:15
+
+- [Perplexity Orchestrator API 开放使用所有主流 AI 模型](<https://x.com/AravSrinivas/status/2126022323069419777>)  
+  Perplexity CEO Aravind Srinivas 表示，用户可以通过 Perplexity Orchestrator API 使用所有主流 AI 模型。他转发的开发者示例中，同一个提示词通过指定不同模型 ID 发起 47 次 API 请求，由 47 个不同模型各自返回两个角度的 JS…  
+  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-27 02:36
+
+- [蚂蚁灵波开源 LingBot-Navi 导航模型](<https://x.com/robbyant_brain/status/2126020732610302086>)  
+  蚂蚁灵波开源导航模型 LingBot-Navi，基于 LingBot-Map 2.0 可跨任务复用的 3D 空间记忆，让机器人按自然语言指令寻找目标、规划路径并导航至附近停靠点。模型在探索中构建记忆并在任务间复用，减少重复搜索，使机器人越熟悉场景导航越快。用户只需描述目标，无需逐步指路。  
+  Robbyant 蚂蚁灵波（官方 X） · 2026-11-27 02:30
+
+- [蚂蚁集团 Robbyant 发布 LingBot-Map 2.0，可随时修正流式 3D 重建的漂移误差](<https://x.com/rohanpaul_ai/status/2126019340525056182>)  
+  蚂蚁集团具身智能公司 Robbyant（@robbyant\_brain）发布 LingBot-Map 2.0，可在相机移动中从普通视频构建 3D 地图，并新增 Refine 步骤在运行中途修正已累积的漂移。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 02:24
+
+- [Anthropic 用 Rust 重写 Messages API](<https://x.com/adocomplete/status/2125999149619532229>)  
+  另外，我们刚刚用 Rust 重写了 Messages API，所以这些额度现在走的是更快的 API：首 token 中位时间降低约 20%。 了解更多：  
+  X：Ado Kukic（Anthropic 开发者关系，Claude Code） \(@adocomplete\) · 2026-11-27 01:04
+
+- [Anthropic 提醒 Claude Max 和 Team 订阅附带月度 API 额度可领取](<https://x.com/adocomplete/status/2125999147719524580>)  
+  Anthropic 开发者关系的 Ado 提醒用户，Claude Max 和 Team 订阅每月附带 API 额度。Max 5x 为 $100，Max 20x 为 $200，Team 最高 $500，额度不可结转，需及时领取。  
+  X：Ado Kukic（Anthropic 开发者关系，Claude Code） \(@adocomplete\) · 2026-11-27 01:04
+
+- [OpenRouter 谈 LLM 使用价格弹性下降](<https://x.com/OpenRouter/status/2125998092696891471>)  
+  弹性——衡量使用量对价格反应强度的指标——一直在下降。高于 1 时，总支出随价格下降而上升（杰文斯悖论）。 近几个季度，弹性一直徘徊在略高于 1 的水平，而更早时期同一指标曾高于 5。  
+  X：OpenRouter \(@OpenRouter\) · 2026-11-27 01:00
+
+- [Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图](<https://x.com/adocomplete/status/2125994186252161315>)  
+  Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。GDP 映射为金产量、城市…  
+  X：Ado Kukic（Anthropic 开发者关系，Claude Code） \(@adocomplete\) · 2026-11-27 00:44
+
+- [Krea 发布 AI 动态图形编辑器 Krea Motion 并免费开放](<https://x.com/krea_ai/status/2125990539933978753>)  
+  Krea 宣布推出 Krea Motion，一款新的动态图形编辑器，团队花了数周时间设计可生成高质量动态图形的 AI 工作流，现在免费向所有用户开放试用。  
+  X：Krea AI \(@krea\_ai\) · 2026-11-27 00:30
+
+- [面壁智能展示本地找件 Agent「找件」](<https://x.com/OpenBMB/status/2125937319068996040>)  
+  开发者 worryzyy 基于 MiniCPM-V 4.7 1B 做出取件码找包裹 Agent「找件」，用户输入取件码文字、语音或截图后，模型读取货架标签、逐区核对包裹编码并锁定最可能的包裹。遇到近景结果冲突时它会重新裁剪相关区域再验证，而非固守首个答案；代码比对货架与层号辅助排序。模型通过 ll…  
+  X：面壁智能 OpenBMB \(@OpenBMB\) · 2026-11-26 20:58
+
+- [腾讯混元Hy4 flash日处理10T tokens](<https://x.com/TencentHunyuan/status/2125935845672988692>)  
+  一天 10T tokens，服务器依然笑对。 本周结束前在 @opencode 上仍然免费。如果你一直在等一个尝试 Hy4 flash 的理由，就是现在。 给我们看看你在构建什么 👇  
+  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-26 20:52
+
+- [腾讯混元开源 DFly2 投机解码草稿模型](<https://x.com/TencentHunyuan/status/2125928146113585468>)  
+  腾讯混元开源了 DFly2，这是 Hy4 flash 的投机解码草稿模型，面向长上下文与智能体负载最高可提速 4.2×。它共享目标模型的 KV cache 与 top-k token 选择，任意上下文长度下草稿成本保持恒定且不额外占用 KV 显存。在智能体任务上，DFly2 比同配方 DSpark…  
+  X：腾讯混元 \(@TencentHunyuan\) · 2026-11-26 20:22
 
 - [视频里谁在什么时候说话，AI 能一次看清吗？DiaCap 是一个面向视听对话字幕的多模态模型，它为每句话生成转录、时间戳和…](<https://x.com/XbondAI/status/2125910073067057626>)  
   视频里谁在什么时候说话，AI 能一次看清吗？DiaCap 是一个面向视听对话字幕的多模态模型，它为每句话生成转录、时间戳和说话人视觉描述。关键在于把“说话时机”和“视听分割”统一处理，而不是分头做。  
@@ -111,68 +179,4 @@
   @AnthropicAI  
   @LilithLiJapan · 2026-11-26 19:05
 
-- [The rationing isn't neutral: token-heavy agent runs, evals and long refactors take the hit; chat users notice nothi…](<https://x.com/gladforny/status/2125908870870802903>)  
-  The subsidy went to exactly the work that matters. Fork: does this push pros to open weights, or is harness lock-in the moat that lets them repeat it?  
-  @gladforny · 2026-11-26 19:05
-
-- [9.3 tok s on a phone makes edge inference feel a lot less theoretical](<https://x.com/0xDucky1st/status/2125908832207753250>)  
-  @0xDucky1st · 2026-11-26 19:05
-
-- [Just set up my Technocore DID fully in the browser no install, no wallet.](<https://x.com/strawbunnii26/status/2125908750854685083>)  
-  First signed message is now in the lobby. Trying to understand how agent identity and signed rooms actually work on the @flop\_labs network. Still early, but curious to see where this goes. My DID:  
-  @strawbunnii26 · 2026-11-26 19:05
-
-- [AI video creation keeps getting more exciting.](<https://x.com/MuhammadAs7ad/status/2125908651915571512>)  
-  Great timing to experiment with new creative possibilities\! 🎬🚀  
-  @MuhammadAs7ad · 2026-11-26 19:04
-
-- [极刻觅镜｜AI眼镜日报｜VZBV起诉Meta与陆逊梯卡；49人队赠送Oakley Meta；Elliptic Labs签智…](<https://x.com/mengxi42310815/status/2125908643740807505>)  
-  极刻觅镜｜AI眼镜日报｜VZBV起诉Meta与陆逊梯卡；49人队赠送Oakley Meta；Elliptic Labs签智能眼镜PoC  
-  @mengxi42310815 · 2026-11-26 19:04
-
-- [36.9% to 1.2% from a short instruction naming the statutes.](<https://x.com/flaviusburca/status/2125908495065313347>)  
-  The model knew the law all along, it just ranked the HR memo higher. Any memo pasted into context is untrusted input, like a prompt injection.  
-  @flaviusburca · 2026-11-26 19:04
-
-- [Agent identity and accountability will matter as much as finding paid work](<https://x.com/AAJoy09/status/2125908300533514441>)  
-  @AAJoy09 · 2026-11-26 19:03
-
-- [1/5 OpenAI 公布 GPT-6 蛋白质设计湿实验 摘要：OpenAI released a preprint an…](<https://x.com/realRocky2001/status/2125908201589649805>)  
-  The models can design new protein shapes and sequences using reasoning and code, without calling specialized biology models to  
-  @realRocky2001 · 2026-11-26 19:03
-
-- [PixVerse AI is pushing creative boundaries already now greatly.](<https://x.com/Iam_T_HUY/status/2125908135206645888>)  
-  @Iam\_T\_HUY · 2026-11-26 19:02
-
-- [自研TPU确实把边际推理成本摊得很薄。而且5小时滚动窗口最大的好处是容错，做原型调试即便打满，吃个午饭回来就能接着跑，工作…](<https://x.com/LauLauzhihao/status/2125908066441085317>)  
-  自研TPU确实把边际推理成本摊得很薄。而且5小时滚动窗口最大的好处是容错，做原型调试即便打满，吃个午饭回来就能接着跑，工作流不至于断掉。  
-  @LauLauzhihao · 2026-11-26 19:02
-
-- [特斯拉FSD用的是自家端到端神经网络，不是公开现成大模型。](<https://x.com/grok/status/2125907991924809841>)  
-  摄像头像素+运动学信号直接进，输出转向和加速指令。共享视觉编码器，驾驶动作模型约30亿参数，实时可视化用约10亿参数的扩散模型。训练数据来自百万级车队，每天相当于500年真实驾驶。 路线和蔚来NWM不同，但都在往更强的物理世界AI演进。  
-  @grok · 2026-11-26 19:02
-
-- [蒸馏攻防战：Anthropic 9月监测到近2亿次可疑蒸馏对话，点名阿里巴巴、月之暗面、智谱；OpenAI也指控过月之暗面…](<https://x.com/looismes/status/2125907988120551448>)  
-  蒸馏攻防战：Anthropic 9月监测到近2亿次可疑蒸馏对话，点名阿里巴巴、月之暗面、智谱；OpenAI也指控过月之暗面相关人员。如今从美系模型偷师越来越难，月之暗面改从谷歌、Meta的模型蒸馏。  
-  @looismes · 2026-11-26 19:02
-
-- [同意，尤其推理成本低，私有化部署友好，很多场景根本用不上大模型。](<https://x.com/aipaystore/status/2125907935524278412>)  
-  @aipaystore · 2026-11-26 19:02
-
-- [Two AI models can pass messages without text, network access, or direct contact.](<https://x.com/SylonZero/status/2125907911050178766>)  
-  One changes the GPU workload; the other detects tiny numerical fingerprints in its own computations. The inference server itself can become a channel. \#AI \#Security  
-  @SylonZero · 2026-11-26 19:01
-
-- [A 27B open-weights model beating GPT-6 Astra on RoboDojo, per SenseTime.](<https://x.com/JPduPreez618/status/2125907910563692567>)  
-  RoboRSI-27B: 34.7 \(their own eval\) GPT-6 Astra: 27.6 \(official leaderboard\) Zero real-robot data in post-training. Apache 2.0.  
-  @JPduPreez618 · 2026-11-26 19:01
-
-- [agent security needs to operate before execution, not just detect threats afterward, because prevention is what lim…](<https://x.com/MowkiWeb3/status/2125907871858626600>)  
-  agent security needs to operate before execution, not just detect threats afterward, because prevention is what limits irreversible damage  
-  @MowkiWeb3 · 2026-11-26 19:01
-
-- [Now you can turn any real video into an anime short film Pick the Anime Short Film skill in PixVerse Canvas, write…](<https://x.com/PixVerse/status/2125907795862225115>)  
-  The agent builds the whole film  
-  @PixVerse · 2026-11-26 19:01
-
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 38 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 36 页
