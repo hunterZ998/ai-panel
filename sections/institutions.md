@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
 
+- [Evaluating Recent Model Releases on GDPx](<https://newsletter.semianalysis.com/p/evaluating-recent-model-releases>)  
+  GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google…  
+  SemiAnalysis · 2026-11-26 08:05
+
 - [Investing in Embo](<https://www.a16z.news/p/investing-in-embo>)  
   AI is now moving off the screen and into the physical world, and that requires models that understand how the physica…  
   a16z · 2026-11-24 01:02
@@ -177,9 +181,5 @@
 - [2026: The State of Consumer AI](<https://menlovc.com/perspective/2026-the-state-of-consumer-ai/>)  
   Consumer AI Adoption Hardly Grew in 2026, But Spend Tripled Last year, consumer AI broke into the mainstream. This ye…  
   Menlo Ventures · 2026-09-16 20:00
-
-- [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree](<https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums>)  
-  As AI drives an unprecedented wave of datacenter construction over the last year, concerns over electricity costs, wa…  
-  SemiAnalysis · 2026-09-16 04:54
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页

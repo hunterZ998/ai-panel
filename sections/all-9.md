@@ -1,38 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 17 页
-
-- [微软 CEO 纳德拉坦言 Claude Code 仅半年动摇 VS Code 地位](<https://www.ithome.com/1/030/733.htm>)  
-  据 Windows Latest 报道，微软 CEO 纳德拉表示 Anthropic 推出 Claude Code 后，开发者开始接受命令行形态，传统 IDE 约六个月就失去存在感，微软并未立刻拿出应对方案。  
-  IT之家·人工智能 · 2026-11-23 08:10
-
-- [Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批](<https://claude.com/blog/introducing-claude-ship>)  
-  Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。  
-  Claude：Blog（网页） · 2026-11-23 08:00
-
-- [OpenRouter 实测用 MCP 连接器让 Claude 生成图像并对比四款模型](<https://openrouter.ai/blog/tutorials/can-claude-generate-images/>)  
-  OpenRouter 发布教程演示如何通过 OpenRouter MCP 服务器（https://mcp.openrouter.ai/mcp）作为连接器让 Claude 调用图像模型生成真实图片，覆盖截至 2026 年 11 月 19 日的 74 款图像模型。  
-  OpenRouter：Announcements（RSS） · 2026-11-23 08:00
-
-- [Conductor 0.99.0 为 Claude Code 和 Codex 加入用量限制自动恢复](<https://www.conductor.build/changelog/0.99.0-auto-resume-for-claude-code-and-codex>)  
-  Conductor 0.99.0 为 Claude Code 和 Codex 加入自动恢复功能：当对话因用量限制中断，额度重置后 Conductor 可自动续接，智能体从断点继续。该功能可在对话触发限制时或 Settings → General 中开启，同时 Conductor 为 Codex 支持 Ultrafast，Codex 子智能体也会作为后台任务显示。  
-  Conductor 官方更新 · 2026-11-23 08:00
-
-- [Anthropic 发布编码智能体企业安全指南，详解 Claude Code 分层防护](<https://claude.com/blog/enterprise-guide-to-securing-coding-agents>)  
-  Anthropic 发布面向 Team 和 Enterprise 用户的编码智能体企业安全指南，从评估问题、四类智能体风险到判断层和固定边界层给出框架。  
-  Claude：Blog（网页） · 2026-11-23 08:00
-
-- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
-  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
-  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
-
-- [Anthropic 研究用 MLP 神经元做安全检测、引导与隐藏行为审计](<https://alignment.anthropic.com/2026/neuron-basis-applications/>)  
-  Anthropic 在开放权重模型上测试用模型自身的 MLP 神经元作为零样本安全检测器和引导向量，无需标注或额外训练。神经元在多数评测中优于文本搜索和 SAE latents，引导效果与训练过的引导向量相当（21% 对 2% 无引导）；在 68 个 LoRA 的盲审计中，结合神经元读出的审计员对 58 个隐藏行为模型命名成功率达 75%，远高于仅看输出的 40%。  
-  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
-
-- [Anthropic 开放 Enterprise Frontier Safeguards 公测，零数据保留下实现自动化安全监测](<https://claude.com/blog/zero-data-retention-with-enterprise-frontier-safeguards>)  
-  Anthropic 宣布 Enterprise Frontier Safeguards（EFS）进入公开 beta。EFS 在兼容零数据保留的前提下新增自动化安全监测层，跨多个请求识别单条请求看不出危害的复杂攻击模式，发现风险时生成不含输入输出的 Safety Case。  
-  Claude：Blog（网页） · 2026-11-23 08:00
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 18 页
 
 - [Google Research 提出 DeepCrossAttention，改进 Transformer 残差连接](<https://research.google/blog/supercharging-transformer-residual-connections/>)  
   Google Research 在 ICML 2025 论文中提出 DeepCrossAttention（DCA），将 Transformer 残差连接改为按 token 动态路由历史层特征。  
@@ -90,10 +58,6 @@
   《以撒的结合：Repentance Plus》被发现某段 GTA 主题内容使用 AI 生成音乐后在 Steam 遭差评轰炸。Reddit 用户 ShweetsStuff 找到带 Suno 元数据的音频文件，作者 Edmund McMillen 在 X 上道歉，称自己不知情；发行方 Nicalis 数小时内更新游戏并移除了生成的音乐文件。  
   The Verge：AI（RSS） · 2026-11-23 01:25
 
-- [本地 AI 入门指南：用 Unsloth Desktop 和 Qwen3.8-27B 在家用 PC 搭建私有 ChatGPT](<https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth>)  
-  作者分享在 Windows PC 上用 Unsloth Desktop 搭建本地 AI 的入门教程，以 RTX 5090 运行 4-bit 量化的 Qwen3.8-27B，全程约 10-15 分钟，无需终端命令或订阅。  
-  Hacker News：AI 热帖 · 2026-11-23 00:00
-
 - [SGLang 为 ERNIE 5.5 Flash 实现 1074 tokens/s 低延迟解码](<https://www.lmsys.org/blog/2026-11-23-ernie55-flash-low-latency>)  
   SGLang 为 ERNIE 5.5 Flash 加入低延迟解码支持并完成端到端优化，在 4 块 SM100 GPU、BS=1、55K 输入与 1K 输出下达到 1074 tokens/s。  
   LMSYS Blog · 2026-11-23 00:00
@@ -117,6 +81,10 @@
 - [LlamaIndex 开源 8.1M 参数文档解析模型 OCRia-nano-1](<https://www.llamaindex.ai/blog/introducing-ocria-nano-1>)  
   LlamaIndex 发布 OCRia-nano-1 的开放权重，一个 8.1M 参数的轻量文档解析模型，可在本地 CPU 上运行，权重托管在 Hugging Face，配套开源解析器 LiteParse（Apache 2.0）。  
   LlamaIndex：产品、工程与评测 · 2026-11-23 00:00
+
+- [本地 AI 入门指南：用 Unsloth Desktop 和 Qwen3.8-27B 在家用 PC 搭建私有 ChatGPT](<https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth>)  
+  作者分享在 Windows PC 上用 Unsloth Desktop 搭建本地 AI 的入门教程，以 RTX 5090 运行 4-bit 量化的 Qwen3.8-27B，全程约 10-15 分钟，无需终端命令或订阅。  
+  Hacker News：AI 热帖 · 2026-11-23 00:00
 
 - [报道称 Dario Amodei 曾建议用游戏安抚因 AI 失业的民众](<https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness>)  
   《华尔街日报》在 Anthropic 创纪录 IPO 后刊发的 Amodei 兄妹特写提到，Dario Amodei 曾在 Slack 讨论中建议用沉浸式电子游戏缓解 AI 导致失业所引发的政治冲突。相关说法来自广泛流传的 Slack 消息，报道称他当时已承认 AI 可能破坏世界稳定。  
@@ -182,4 +150,36 @@
   Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。  
   The Decoder：AI News（RSS） · 2026-11-22 19:08
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 17 页
+- [2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比](<https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/>)  
+  MarkTechPost 整理 2026 年 7 款个人 AI 智能体的横评，从记忆、安全、成本三个维度比较 Hermes Agent、OpenClaw、Gemini Spark、OpenAI dots、Meta Muse、Perplexity Personal Computer 及 NanoClaw 等加固分支。  
+  MarkTechPost（RSS） · 2026-11-22 18:36
+
+- [研究指AI数据中心碳排放堪比中等国家，Anthropic环境信息披露引关注](<https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the>)  
+  在Anthropic完成IPO之际，有气候研究指出，美国大型数据中心的碳排放合计已相当于中等国家水平。哈佛大学团队在《自然·可持续性》发表的研究估算，2024年5月至2025年4月间403个数据中心年排放约2570万吨二氧化碳，占美国电力消耗近2%。澳大利亚气候研究员Ketan Joshi的报告进一步指出，AI行业全生命周期排放可能超过国际航空业，且Anthropic从未披露任何能源、排放或环境数据，并与OnePWR达成34亿美元、1.7吉瓦燃气发电设备采购协议。相关研究认为，数据中心自建燃气发电、制冷剂泄漏等因素…  
+  Hacker News：AI 热帖 · 2026-11-22 18:32
+
+- [Google 在 Gemini API 预览 Tool Retrieval，面向大型工具库延迟加载 schema](<https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/>)  
+  Google 在 Gemini API 的 Interactions API（v1beta）中预览上线 Tool Retrieval，延迟加载工具参数 schema，模型只看名称和短描述，需要时才检索加载完整 schema，降低大量工具定义带来的 token 开销。  
+  MarkTechPost（RSS） · 2026-11-22 18:03
+
+- [Wolters Kluwer 报告：美国会计行业 AI 采用率高，但技术整合成熟度不足](<https://www.ithome.com/1/030/679.htm>)  
+  Wolters Kluwer Tax &amp; Accounting 发布的《面向未来的会计师》报告显示，88% 的美国会计从业者在日常工作中使用生成式 AI，68% 正在使用智能体 AI，83% 的受访事务所自视为“技术创新者”或“早期采用者”。  
+  IT之家·人工智能 · 2026-11-22 17:58
+
+- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
+  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
+  The Decoder：AI News（RSS） · 2026-11-22 17:41
+
+- [菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可](<https://www.ithome.com/1/030/677.htm>)  
+  2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。  
+  IT之家·人工智能 · 2026-11-22 17:35
+
+- [蚂蚁阿福用户达 1.5 亿，每天线上问诊超 2000 万次](<https://www.ithome.com/1/030/653.htm>)  
+  蚂蚁健康事业群副总裁杨猛在 2026 蚂蚁阿福医疗健康生态大会上透露，蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超过 2000 万次，55% 来自三线及以下城市，1/4 是老人，16% 的问诊发生在凌晨 0 点到早上 6 点。  
+  IT之家·人工智能 · 2026-11-22 16:58
+
+- [马斯克预警：AI 行业明年或面临严重资金短缺，营运资金缺口或达数千亿美元](<https://www.ithome.com/1/030/628.htm>)  
+  马斯克在回复 Keras 创始人 François Chollet 时预警，AI 行业明年可能面临严重资金短缺，若从支付算力成本到设备稳定创收的时间累计推迟数月，仅营运资金就可能需额外投入数千亿美元。Chollet 此前指出 GPU 现货价格仍在上涨，HBM 和 DRAM 到 2029 年的产能基本已被订满，前沿模型训练算力约每 5 个月翻一番。  
+  IT之家·人工智能 · 2026-11-22 16:47
+
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 18 页

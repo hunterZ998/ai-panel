@@ -54,10 +54,6 @@
   Letter Visitors：在你的网站上查看访客信息；Motionflare：将您的网站在几分钟内转变为令人惊艳的启动视频。；Gauth Personal Study Agent：一个能够记住你学习困难的AI学习助手  
   Product Hunt 中文 · DecoHack · 2026-11-24 15:00
 
-- [Juncts](<https://www.producthunt.com/products/juncts>)  
-  Superhuman for your DMs, with AI that triages and drafts  
-  Product Hunt · English · 2026-11-24 11:08
-
 - [Snag by Parallel](<https://www.producthunt.com/products/snag>)  
   Find the best deals on products from your agents  
   Product Hunt · English · 2026-11-24 09:50
@@ -90,6 +86,10 @@
   AI code editor where agents build, run and test your app  
   Product Hunt · English · 2026-11-21 20:32
 
+- [K-Stra](<https://www.producthunt.com/products/k-stra>)  
+  Geomarketing for Australia, with an AI that does the maths  
+  Product Hunt · English · 2026-11-20 22:25
+
 - [Airbot](<https://www.producthunt.com/products/airbots>)  
   The AI chief of staff that texts you first  
   Product Hunt · English · 2026-11-20 00:45
@@ -97,13 +97,5 @@
 - [PH今日热榜 \| 2026-11-19](<https://decohack.com/producthunt-daily-2026-11-19/>)  
   S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
   Product Hunt 中文 · DecoHack · 2026-11-19 15:00
-
-- [Cullman](<https://www.producthunt.com/products/cullman>)  
-  Faster voice agent evals, from simulation to production  
-  Product Hunt · English · 2026-11-19 13:59
-
-- [Astor](<https://www.producthunt.com/products/astor>)  
-  AI Thesis Investing  
-  Product Hunt · English · 2026-11-19 10:44
 
 [返回面板](../README.md) · 第 1 / 1 页

@@ -1,6 +1,10 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 17 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 18 页
+
+- [Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super](<https://sakana.ai/namazu-small/>)  
+  Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
+  Sakana AI：Blog（网页） · 2026-11-24 23:00
 
 - [n8n Production AI Playbook：AI Agent 的审计与追踪实践教程](<https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/>)  
   n8n 发布 Production AI Playbook 系列的审计与追踪教程，讲解如何在 n8n Cloud 中为 AI Agent 工作流留存决策证据。教程通过 5 个可下载的练习覆盖保存的执行记录、自定义执行数据打标签、用 OpenTelemetry 和 Jaeger 追踪跨服务工作流、追踪 Agent 工具调用，以及人工审批的跨追踪关联。  
@@ -88,14 +92,6 @@
 - [For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands](<https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-24 18:30
 
-- [Supertake获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708608>)  
-  Supertake 是一家 AI 金融科技研发商，平台主打 AI 投资智能体，用户以自然语言表达市场观点，AI 自动转译为股票、加密资产投资组合并自动调仓，对接 Robinhood、Coinbase 券商，内置多层风控护栏，同时支持投…  
-  IT桔子 · 2026-11-24 18:27
-
-- [Stoa获得350万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708602>)  
-  Stoa是一家人工智能驱动操作系统平台提供商，2026 年由 Johannes Korpela 等人创立，主打面向大型基建、数据中心工程的建筑 AI 操作系统。平台依托本体图谱模型整合施工图、BIM、进度、质检、安全等全量项目文档，A…  
-  IT桔子 · 2026-11-24 18:05
-
 - [Koed](<https://www.producthunt.com/products/koed>)  
   Supercharged Agents\!  
   Product Hunt · English · 2026-11-24 17:30
@@ -107,10 +103,6 @@
 - [腾讯混元发布并开源第三代翻译模型 Hy MT3，支持语种扩至 102 种](<https://mp.weixin.qq.com/s/SB42Uuhq0m6JvqZdih3TqA>)  
   腾讯混元发布并开源第三代翻译模型 Hy MT3，相比 Hy MT2 在真实场景数据上误译样本比例降低 43%，漏译/增译比例降低 74%，指令遵循类错误降低 40%，支持语种从 38 种扩充到 102 种。  
   公众号：腾讯混元 · 2026-11-24 16:44
-
-- [Linq获得9000万美元战略投资](<https://www.itjuzi.com/investevent/14708565>)  
-  Linq定位为 “应用疲劳” 的解决方案：无需用户额外下载应用，品牌与AI代理即可触达用户常活跃的场景。其基础设施成本比传统通信接口（API）低90%，且支持群聊、图片、语音备忘录、表情反应等功能。近日，Linq获得9000万美元战略…  
-  IT桔子 · 2026-11-24 15:42
 
 - [联合国秘书长古特雷斯呼吁构建 AI 风险管理多边框架](<https://www.ithome.com/1/031/528.htm>)  
   联合国秘书长古特雷斯在巴巴多斯政府和联合国共同主办的"人工智能安全布里奇敦特别峰会"上呼吁建立由可信且独立的监督机制支持的 AI 风险管理多边框架，避免 AI 加剧全球不平等。  
@@ -160,13 +152,6 @@
   知乎 11 月 23 日发布自愿公告，宣布其参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权，知乎在基金的合伙权益低于 30%。  
   IT之家·人工智能 · 2026-11-24 11:26
 
-- [Juncts](<https://www.producthunt.com/products/juncts>)  
-  Superhuman for your DMs, with AI that triages and drafts  
-  Product Hunt · English · 2026-11-24 11:08
-
-- [Then and Now: See How Nvidia and the Administration Pivoted on Huang](<https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-24 11:08
-
 - [豆包旗下 AI 个人助理小豆开启邀请制公测](<https://www.ithome.com/1/031/329.htm>)  
   豆包官方宣布 AI 个人助理小豆正式开启邀请制公测，用户凭邀请码体验并获赠一定量免费额度。小豆采用对话式交互，在用户授权范围内协助处理日常事务，覆盖信息查询、日程待办、生活服务、购物售后、健康提醒和办公辅助六类能力，未来相关能力将逐步在豆包 App 上线。  
   IT之家·人工智能 · 2026-11-24 11:06
@@ -179,4 +164,20 @@
   MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。  
   公众号：MiniMax（稀宇科技） · 2026-11-24 10:11
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 17 页
+- [Snag by Parallel](<https://www.producthunt.com/products/snag>)  
+  Find the best deals on products from your agents  
+  Product Hunt · English · 2026-11-24 09:50
+
+- [ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单](<https://www.chinatalk.media/p/jensen-returns>)  
+  ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。  
+  ChinaTalk（RSS） · 2026-11-24 09:41
+
+- [Ainos 获日月光 900 万美元追加订单，AI Nose 电子鼻进芯片工厂检测异常](<https://www.ithome.com/1/031/290.htm>)  
+  Ainos 与日月光签署 900 万美元追加订单，追加采购 5,000 套 AI Nose 系统，此前双方已有 210 万美元订单并交付 1,400 套，两份协议合计 1,110 万美元、6,400 套系统。  
+  IT之家·人工智能 · 2026-11-24 09:40
+
+- [美国 41 州总检察长质疑 Character.AI 破产出售中的儿童数据安全](<https://www.ithome.com/1/031/288.htm>)  
+  美国 41 个州及哥伦比亚特区总检察长质疑 Character.AI 破产出售交易，要求保障儿童等用户数据安全。联盟指出拟议协议未约束买方，买方无需遵守隐私政策、可自由出售数据，唯一披露的竞标者 Smirks and Pangs 身份成疑；联盟要求法院驳回出售条款、拒绝该竞标者、禁止其收取 35 万美元分手费，并要求出售至少排除儿童聊天记录等敏感数据。  
+  IT之家·人工智能 · 2026-11-24 09:30
+
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 18 页

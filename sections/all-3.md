@@ -1,6 +1,14 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 17 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 18 页
+
+- [Vero Security获得1100万美元种子轮融资](<https://www.itjuzi.com/investevent/14708664>)  
+  Vero Security是一家人工智能安全工程平台提供商，平台核心 AI Runtime Governor 对企业 AI 智能体、大模型应用做运行时风险检测与策略强制执行，支持自然语言安全目标自动转化为管控规则，覆盖终端、云、Saa…  
+  IT桔子 · 2026-11-25 14:52
+
+- [Brace Dentistry获得Pre-A轮融资](<https://www.itjuzi.com/investevent/14708658>)  
+  Brace Dentistry是一家牙科服务提供商，出 b-align 正畸云病历管理系统与 SMILE ACCESS 诊所正畸赋能计划，依托 AI 远程牙齿监测、标准化病例方案与正畸医师会诊网络，帮助普通牙科诊所承接正畸业务，打通口…  
+  IT桔子 · 2026-11-25 14:46
 
 - [OpenVault获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708656>)  
   OpenVault是一个数字资产结构化金融平台，依托标准化 Vault 资金池架构，提供稳定币收益、量化策略、RWA 现实资产以及 BTC 挂钩固定票息结构化票据，配套 AI 资管引擎实现自动复投、风险监控与策略再平衡，支持钱包直接存…  
@@ -57,14 +65,6 @@
 - [九天创智获得近亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708613>)  
   九天创智是一家集产品设计、技术研发、生产制造与销售于一体的企业，致力于成为物理AI室外场景的全球领航者。公司以大面积室外无人驾驶清扫机器人为核心业务，在广东惠州、安徽阜阳等地拥有超万平方米智能制造中心。近日，九天创智获得近亿人民币A轮…  
   IT桔子 · 2026-11-25 10:09
-
-- [中国电子云完成9.9亿元B轮融资](<https://www.itjuzi.com/investevent/14708615>)  
-  中国电子云是中国电子旗下唯一云计算品牌，聚焦网络安全和信息化，致力于成为AI专属云。近日，中国电子云完成9.9亿元B轮融资。本轮融资由国家产业投资基金二期领投，湖北省军融创投、武创投、经开区产投省市区三级基金，以及GPU厂商沐曦股份产…  
-  IT桔子 · 2026-11-25 10:02
-
-- [天云创鸿获得近亿人民币A轮融资](<https://www.itjuzi.com/investevent/14708616>)  
-  天云创鸿定位于开源鸿蒙与人工智能人才培养平台及“\(OpenHarmony+AI\)\*X”综合应用解决方案服务商，致力于通过智能科技创新，联合生态企业能力，为各行各业提供前沿的鸿蒙+AI解决方案，并积极推动相关人才培养，为生态繁荣贡献力量…  
-  IT桔子 · 2026-11-25 09:47
 
 - [Statefold](<https://www.producthunt.com/products/statefold-2>)  
   Coding agents that keep working while you're away  
@@ -175,4 +175,4 @@
 - [OpenAI Preps ‘Athena’ Data Tool to Make its Agents More Accurate](<https://www.theinformation.com/articles/openai-preps-athena-data-tool-make-agents-accurate>)  
   The Information · 2026-11-25 05:26
 
-[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 17 页
+[返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 18 页

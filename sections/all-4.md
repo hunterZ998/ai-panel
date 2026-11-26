@@ -1,6 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 17 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 18 页
 
 - [Bluesky 的 atproto 生态迎来转折点：Spaces 12 月 1 日转入公开测试](<https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9>)  
   Bluesky 员工撰文称 atproto 生态正迎来转折点，Spaces 将于 12 月 1 日从 alpha 转入公开测试，为协议带来私有数据能力。Atmosphere Groups 提案让社区角色与权限可跨支持该协议的 app 携带，共享数据归社区而非平台所有。atproto 已在 IETF 成立 ATP 工作组，PLC 目录也迁入独立组织。  
@@ -141,6 +141,10 @@
   While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI co  
   TechCrunch · 2026-11-25 00:02
 
+- [腾讯开源模型 Hy4 Flash 上线 Fireworks serverless](<https://fireworks.ai/blog/hy4-flash-on-fireworks/>)  
+  腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。该模型为 MoE 架构，总参数约 220B、每 token 激活约 12B，1M token 上下文窗口（Fireworks 上线时为 512K），支持文本和图像输入，面向文档处理、研究、办公和 Agent 工作流。  
+  Fireworks AI（网页） · 2026-11-25 00:00
+
 - [How Gemini is changing the game for Golden State's organization and fans.](<https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/>)  
   Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries…  
   Google AI · 2026-11-25 00:00
@@ -149,9 +153,9 @@
   Baseten 与 Harvey 发布联合研究结果，对 4 个美国开放权重模型（Muse Spark Open、Inkling 2 Small、Nemotron 3.5 Super VL、Beam 1.0）做法律智能体任务后训练。  
   Baseten 工程博客（网页） · 2026-11-24 23:51
 
-- [Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia](<https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/>)  
-  Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its  
-  TechCrunch · 2026-11-24 23:51
+- [Amazon 以 75 亿美元收购 Decart 技术与团队，力图缩小与 Nvidia 的芯片差距](<https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/>)  
+  Amazon 以约 75 亿美元收购 AI 芯片优化初创公司 Decart 的技术和团队，计划通过其 Decart Optimization Stack（DOS）提升自研 Trainium 芯片性能。  
+  TechCrunch：AI（RSS） · 2026-11-24 23:51
 
 - [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
   Build an always-on AI team with shared memory  
@@ -174,8 +178,4 @@
 - [OpenAI’s Roadmap To Making Cyber Bigger Than Coding Remains Blurry](<https://www.theinformation.com/articles/openais-roadmap-making-cyber-bigger-coding-remains-blurry>)  
   The Information · 2026-11-24 23:01
 
-- [Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super](<https://sakana.ai/namazu-small/>)  
-  Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
-  Sakana AI：Blog（网页） · 2026-11-24 23:00
-
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 17 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 18 页

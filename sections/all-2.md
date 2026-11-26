@@ -1,6 +1,73 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 17 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 18 页
+
+- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](<https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/>)  
+  Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even  
+  TechCrunch · 2026-11-26 03:44
+
+- [Anthropic CEO pushes back on Axios reporting on AI and free will](<https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios>)  
+  Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing bac…  
+  Axios · 2026-11-26 03:28
+
+- [ElevenLabs in Early Talks for Funding at $33 Billion Value](<https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value>)  
+  Bloomberg · 2026-11-26 02:24
+
+- [How Bankers Are Turning Tech Stock Volatility Into Cash](<https://www.theinformation.com/articles/bankers-turning-tech-stock-volatility-cash>)  
+  The Information · 2026-11-26 02:12
+
+- [Want to buy your kid an AI toy this Christmas? Not in New York](<https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/>)  
+  New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety fail  
+  TechCrunch · 2026-11-26 02:11
+
+- [Character.AI’s plan to auction off users’ private chats challenged by state AGs](<https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/>)  
+  The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, incl  
+  TechCrunch · 2026-11-26 01:35
+
+- [AI data centers are becoming harder to build, and neoclouds are feeling it](<https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/>)  
+  ⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as n  
+  TechCrunch · 2026-11-25 23:41
+
+- [AI Safety Advocates Sour on Anthropic](<https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic>)  
+  The Information · 2026-11-25 23:00
+
+- [Anthropic’s Claude Output Can Be Installed as Software](<https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 22:26
+
+- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)  
+  Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.  
+  TechCrunch · 2026-11-25 22:10
+
+- [Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens](<https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens>)  
+  The Information · 2026-11-25 22:00
+
+- [AI炒股新玩法，盯上3000万散户，提前24小时预测交易行为](<https://36kr.com/p/4085120459172228?f=rss>)  
+  谁能想到，在金融市场上，AI最先研究透的可能不是市场，而是散户。 最近，以色列AI创业公司42AI正式结束隐身研发状态，并披露了6250万美元的种子轮融资。 这家公司的生意很有意思。过去几十年，华尔街投入了大量的人力和资金，试图预测金融资产  
+  36氪 · 2026-11-25 21:08
+
+- [谁捧的AI超创，最能赚钱？](<https://36kr.com/p/4085005316221572?f=rss>)  
+  2026年，“AI超创”元年，也是拿下大结果的一年。 下半年以来，AI超创一跃成为AI视频赛道的门面担当，各家闻风而动，哪位创作者稍有流量苗头，便迫不及待地“造神”。AI超创扎堆涌现，内卷随之而来。 这股热潮最早可以追溯至3月底，清明主题A  
+  36氪 · 2026-11-25 21:04
+
+- [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](<https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/>)  
+  The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair w  
+  TechCrunch · 2026-11-25 21:00
+
+- [AI按下加速键，167年的悬案有了回音](<https://36kr.com/p/4085007684900741?f=rss>)  
+  1939年，艾伦·图灵想造一台机器，专门计算黎曼ζ函数。 这台机器的灵感，来自利物浦的一台潮汐预测机。 利物浦港口使用机械装置预测潮汐，机器通过叠加不同周期的信号，计算潮水涨落。图灵发现，这套装置处理的数学形式，和自己要计算的三角级数有相似  
+  36氪 · 2026-11-25 20:49
+
+- [AI算力越热，氟化冷却液如何跨过环保关？](<https://36kr.com/p/4084984031106695?f=rss>)  
+  AI数据中心的扩张，首先带来的是用电和散热压力。AI芯片功耗提升、机柜密度增加后，服务器产生的热量更难通过传统风冷及时排出，冷却系统也会影响数据中心的能耗和可部署算力。液冷因此受到更多关注。 但“液冷”不是单一产品，冷却液也不是只有氟化液。  
+  36氪 · 2026-11-25 20:42
+
+- [小米三季报：手机开始高端化，汽车还没走出亏损](<https://36kr.com/p/4085005604149120?f=rss>)  
+  11月24日，小米集团公布2026年第三季度财报。 1072.4亿元营收，同比下降5.2%；经调整净利润48.84亿元，同比下降56.8%。这是一份不太好看的成绩单。 但比利润下滑更值得关注的，是小米两条核心业务正在走向不同的方向：手机平均  
+  36氪 · 2026-11-25 20:31
+
+- [从单点冲高到按需分工，11月大模型竞争的四个变化](<https://36kr.com/p/4084981247841927?f=rss>)  
+  从训练出一款更强的模型，转向设计一套能够持续生产、分配并变现智能的系统。 2026年11月，大模型厂商开始了一轮新模型的「扎堆」发布。 这次已经没人再单纯强调模型变得更「聪明」，而是都在强调更具体的优化方向、应用场景和成本优势。 在海外，完  
+  36氪 · 2026-11-25 20:30
 
 - [交期最长20周，高端PCB正在卡住AI扩产](<https://36kr.com/p/4085012241754497?f=rss>)  
   这两天，PCB涨价、缺货的新闻满天飞。一个长期处于产业链幕后的环节，开始被推到台前，这到底是怎么一回事？ 早在年中就有报道称，英伟达下一代Kyber NVL144机柜可能因为一块关键PCB的制造难题而推迟。这块电路板并不普通，而是一块用于机  
@@ -42,10 +109,6 @@
   亏贼，OpenAI这是要把Claude Code的老班底凑齐了？？ 就在刚刚，硅谷知名人事爆料账号@ArfurGrok放出消息： Claude Code核心成员Thariq Shihipar，已加入OpenAI 。 再往前翻一周，同一账号还  
   36氪 · 2026-11-25 20:16
 
-- [Counterpoint：2026 年 Q3 全球纯晶圆代工市场同比增长 36%，台积电份额扩大至 75%](<https://www.ithome.com/1/032/477.htm>)  
-  IT之家 11 月 25 日消息，Counterpoint 今日发布数据显示，2026 年第三季度， 纯晶圆代工行业同比增长 36%，环比增长 13% ，原因是人工智能对先进制程和先进封装的需求持续超过供给，同时晶圆价格上涨进一步推高…  
-  IT之家 · 2026-11-25 20:15
-
 - [黄仁勋复职，最高兴的是马斯克](<https://36kr.com/p/4085050519394181?f=rss>)  
   11月23日，英伟达董事会一致投票，把黄仁勋请回了总裁兼首席执行官的位置。距离他辞职，只过去11天。 当天英伟达收涨31.48%，单日市值增加约9500亿美元，刷新美国上市公司单日市值增幅纪录，总市值重回接近4万亿。纳斯达克涨6.51%，费  
   36氪 · 2026-11-25 20:11
@@ -70,84 +133,24 @@
   黄仁勋回来了，但英伟达的董事会里，坐着的还是原来那批人。 美国时间11月24日，重掌英伟达的第二天，黄仁勋在全员会上向员工们道歉，承认自己违反了公司的行为准则，反思了过去过于强势的管理方式。 不过，黄仁勋似乎并没有交班的打算，在会上明确表示  
   36氪 · 2026-11-25 19:58
 
-- [破发！但这仅仅是Anthropic要填的七个大坑之一](<https://www.tmtpost.com/8217094.html>)  
-  游戏才刚刚开始  
-  钛媒体 · 2026-11-25 18:56
-
-- [英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
-  IT之家 11 月 25 日消息，科技媒体 Wccftech 今天（11 月 25 日）发布博文，报道称英伟达在 Hugging Face 平台悄然公开了 Nemotron-Labs-Image-30B-A3B 模型的权重。该模型采用…  
-  IT之家 · 2026-11-25 18:37
-
 - [Avicena获得超1亿美元C轮融资](<https://www.itjuzi.com/investevent/14705552>)  
   Avicena是一家Micro-LED互连技术开发商，首创基于 Micro‑LED 的 LightBundle™超低功耗高速互连方案，替代传统铜互连，用于 AI 与高性能算力集群内芯片、内存之间的数据传输，具备高带宽密度、低能耗、远距…  
   IT桔子 · 2026-11-25 18:35
-
-- [亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢](<https://www.ithome.com/1/032/435.htm>)  
-  IT之家 11 月 25 日消息，亚马逊预计今年资本开支将达到约 2,200 亿美元 （IT之家注：现汇率约合 1.47 万亿元人民币） ，创下历史纪录，资金主要投向 AWS 以及人工智能基础设施。 AWS 首席财务官约翰 · 费尔顿…  
-  IT之家 · 2026-11-25 18:24
-
-- [豆包侧边栏放进购物入口：大厂AI，只做翻译，不当主人](<https://www.tmtpost.com/8216992.html>)  
-  AI翻译层、豆包购物、大厂AI入口战、独立变现、超级App  
-  钛媒体 · 2026-11-25 18:23
-
-- [小米继续加码AI，MiMo靠什么回本？](<https://www.tmtpost.com/8217008.html>)  
-  这笔投入的硬件生意，正面临利润压力。  
-  钛媒体 · 2026-11-25 18:23
-
-- [AI进厂，先革企业的命](<https://www.tmtpost.com/8217052.html>)  
-  AI巨头的终极战场，是企业的工作流  
-  钛媒体 · 2026-11-25 18:22
 
 - [Lawfty获得战略投资](<https://www.itjuzi.com/investevent/14708688>)  
   Lawfty是一家AI法律接案基础设施开发商，聚焦人身伤害诉讼赛道。平台依托多年沉淀的案件结果数据库，自研 AI 案件 intake 评估与律师匹配分发引擎，自动完成线索采集、案情研判、价值打分并向全国合作律所分流案件，平台与合作方共…  
   IT桔子 · 2026-11-25 18:20
 
-- [重构数据底座，加速智能落地：2026中国数据与存储峰会在京成功召开](<https://36kr.com/p/4085002028690048?f=rss>)  
-  2026年11月25日，由DOIT传媒主办的“2026中国数据与存储峰会”在北京富力万丽酒店召开。 本届峰会以“重构数据底座，加速智能落地”为主题，来自浪潮数据、新华三、天翼云、西部数据、紫光闪芯、HPE、中科曙光、WEKA、思矽科技、闪迪  
-  36氪 · 2026-11-25 18:18
-
 - [长江词元完成超3000万元天使轮融资](<https://www.itjuzi.com/investevent/14708496>)  
   长江词元由长江产业集团牵头，联合市场化专业团队、人工智能独角兽企业联合组建。定位：AI 词元 / 算力调度运营平台，搭建「算力投资 + 算力运营 + 词元输出 + 产业协同」全链条模式，面向湖北政企客户提供大模型词元集中集采、统一接入…  
   IT桔子 · 2026-11-25 18:15
-
-- [正式开场就在明天！请以我的名字呼唤我，WISE2026就差你了](<https://36kr.com/p/4085010597210754?f=rss>)  
-  今年是WISE的第十四年，也是头一回把会期从两天拉到三天。主题就一句话：“请以我的名字呼唤我，CALL ME BY NAME”。主会场、2000平米的未来之城、世界咖啡产业对接全拉满，另外另开两桌——具身智能与文商旅、了不起的OPC两个分会  
-  36氪 · 2026-11-25 18:11
-
-- [2026 AI原生出海报告](<https://36kr.com/p/4084828537738886?f=rss>)  
-  从商品与劳动力出口，扩展到AI能力出口，中国企业的价值输出形态正在发生根本变化。 霞光社&amp;霞光智库与新加坡电信联合发布的《AI原生出海——当“中国智能”成为“新出口”》（2026）聚焦六大AI原生行业与五大海外市场，对AI原生出海的阶段演进  
-  36氪 · 2026-11-25 18:10
-
-- [被中国网友扒出“偷数据”，7.7 万星开源AI编程神器创始人当场破防：今晚就闭源](<https://36kr.com/p/4084819336243589?f=rss>)  
-  开源软件最引以为傲的护城河是“代码透明”，但当它被开发者逐行拆解后，露出的却是一条暗中运行了八个月的数据采集通道。 2026 年 11 月底，GitHub 上拥有 7.75 万颗星的明星 AI 编程控制台 T3 Code 遭遇了上线以来最严  
-  36氪 · 2026-11-25 18:06
-
-- [课间十分钟看霸总复仇，是谁在给小学生印短剧爽文？](<https://36kr.com/p/4084655710759300?f=rss>)  
-  小学门口的小卖部，上新了一样新鲜玩意儿。 手机不让进校园，短剧换了一身纸质外壳，顺着门缝溜进了小学生的课桌。 设计成手风琴样式的纸质短剧，翻一页就有一次反转，还可以搭配AI漫剧语音挂件，按一下，霸总专属BGM直接响起来。图文配音效，直接把线  
-  36氪 · 2026-11-25 18:03
-
-- [老板要求「顺便加个功能」，FDE 怎么回答](<https://36kr.com/p/4084703040875136?f=rss>)  
-  干驻场算法交付这几年，有个名场面我几乎在每一个项目里都遇见过。 通常是在项目跑到第八周左右，核心链路刚调通，数据清洗的坑填得七七八八，离初验也就剩十来天。你在客户大会议室里做阶段性演示，大屏上的系统跑得挺顺，客户老板在主位上频频点头，脸色明  
-  36氪 · 2026-11-25 18:02
 
 - [Rival AI leaders push back against Anthropic vision of surrendering human agency to AI](<https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will>)  
   Top AI executives are increasingly pushing back against a common view inside Anthropic: that humanity should surrende…  
   Axios · 2026-11-25 18:01
 
-- [最难季度之后，小米要换打法了](<https://36kr.com/p/4084787938765441?f=rss>)  
-  Q3经营收入、利润双降，AI与芯片面临外部监管考验。 11月24日晚，小米集团发布2026年第三季度财报。总收入1072亿元，同比下滑5.2%；毛利216.15亿元，同比下降16.7%；经营利润65.72亿元，同比下降56.5%；经调整净利  
-  36氪 · 2026-11-25 17:55
-
-- [错过宇树，日韩等外资抢投中国具身智能公司](<https://36kr.com/p/4084865144826246?f=rss>)  
-  过去两年，宇树科技的机器人不止在国内火，更是火到了全球，在海外多次刷屏。 王兴兴不仅成为英伟达年会晚宴的受邀客人，宇树更是被马斯克评价“实力超群，堪称顶级强劲对手”。 但翻遍了宇树科技历史以来的所有融资，股东名单是清一色的中资，没有一家外资  
-  36氪 · 2026-11-25 17:54
-
-- [黎曼猜想证明后，AI还会给数学研究带来哪些“惊喜”？](<https://36kr.com/p/4084831473080192?f=rss>)  
-  如果一份数学证明有25万页，没有人能从头读到尾，它还能不能被称作一个好证明？ 11月20日，Anthropic数学家莱文特·阿尔珀格公开了自己与Claude合作完成的黎曼猜想证明。他没有发布传统论文，而是交出约1700万行Lean代码。随后  
-  36氪 · 2026-11-25 17:54
-
-- [Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0](<https://pydantic.dev/articles/pax-harness-beta>)  
-  Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。  
+- [Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0](<https://pydantic.dev/articles/pax-harness-beta>)  
+  Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。  
   Pydantic AI 官方文章 · 2026-11-25 17:00
 
 - [Nidus获得3000万美元战略投资](<https://www.itjuzi.com/investevent/14708679>)  
@@ -174,12 +177,4 @@
   The deterministic control layer for AI agents  
   Product Hunt · English · 2026-11-25 14:58
 
-- [Vero Security获得1100万美元种子轮融资](<https://www.itjuzi.com/investevent/14708664>)  
-  Vero Security是一家人工智能安全工程平台提供商，平台核心 AI Runtime Governor 对企业 AI 智能体、大模型应用做运行时风险检测与策略强制执行，支持自然语言安全目标自动转化为管控规则，覆盖终端、云、Saa…  
-  IT桔子 · 2026-11-25 14:52
-
-- [Brace Dentistry获得Pre-A轮融资](<https://www.itjuzi.com/investevent/14708658>)  
-  Brace Dentistry是一家牙科服务提供商，出 b-align 正畸云病历管理系统与 SMILE ACCESS 诊所正畸赋能计划，依托 AI 远程牙齿监测、标准化病例方案与正畸医师会诊网络，帮助普通牙科诊所承接正畸业务，打通口…  
-  IT桔子 · 2026-11-25 14:46
-
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 17 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 18 页

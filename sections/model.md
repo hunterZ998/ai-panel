@@ -1,6 +1,6 @@
 # 大模型
 
-[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页
+[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页
 
 ## 赛道研究
 
@@ -38,10 +38,29 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 163 条
+## 相关资讯 · 182 条
 
-- [算力爆发催生供配电新需求 电池厂掘金AI数据中心蓝海](<https://www.163.com/dy/article/LCL135HE053469RG.html>)  
-  网易科技频道 · 网易号 · 2026-11-26 06:20
+- [降幅20%\~35%：报告称马斯克SpaceX降价出租AI算力](<https://www.163.com/dy/article/LCLKESUS0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-26 11:58
+
+- [中国牵头制定，人工智能训练数据质量国际标准成30余个欧洲国家重要技术参考](<https://www.163.com/dy/article/LCLKETG40511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-26 11:58
+
+- [降幅约 20%\~35%：报告称马斯克 SpaceX 降价出租 AI 算力](<https://www.ithome.com/1/032/716.htm>)  
+  IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告， 称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户…  
+  IT之家 · 2026-11-26 11:50
+
+- [中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考](<https://www.ithome.com/1/032/714.htm>)  
+  IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024） 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考 ，将应…  
+  IT之家 · 2026-11-26 11:47
+
+- [百优象获得500万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708700>)  
+  百优象科技是一家算力与影像设备解决方案提供商，主营计算机软硬件、面向高端AI计算硬件与智算集群，围绕合规筛选、质检交付、库存调度和资源配置，提供标准化流通服务。该公司自主研发芯片性能增强优化软件、服务器集群资源调度管理系统、集成电路性…  
+  IT桔子 · 2026-11-26 10:19
+
+- [Evaluating Recent Model Releases on GDPx](<https://newsletter.semianalysis.com/p/evaluating-recent-model-releases>)  
+  GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google…  
+  SemiAnalysis · 2026-11-26 08:05
 
 - [AI data centers are becoming harder to build, and neoclouds are feeling it](<https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/>)  
   ⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as n  
@@ -71,10 +90,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   黄仁勋从辞职到回归，只用了11天。但在这11天里，整个AI产业链都跟着坐了一次过山车。特别是有一个被黄仁勋，亲手推上风口浪尖的行业，正在经历一场更大的变化：光通信。 虽然它不像GPU一样参与计算，却能卡住AI的脖子，为什么？答案就藏在AI数  
   36氪 · 2026-11-25 20:01
 
-- [英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
-  IT之家 11 月 25 日消息，科技媒体 Wccftech 今天（11 月 25 日）发布博文，报道称英伟达在 Hugging Face 平台悄然公开了 Nemotron-Labs-Image-30B-A3B 模型的权重。该模型采用…  
-  IT之家 · 2026-11-25 18:37
-
 - [Avicena获得超1亿美元C轮融资](<https://www.itjuzi.com/investevent/14705552>)  
   Avicena是一家Micro-LED互连技术开发商，首创基于 Micro‑LED 的 LightBundle™超低功耗高速互连方案，替代传统铜互连，用于 AI 与高性能算力集群内芯片、内存之间的数据传输，具备高带宽密度、低能耗、远距…  
   IT桔子 · 2026-11-25 18:35
@@ -98,10 +113,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [杨立昆怒怼 Anthropic CEO 阿莫迪：炒作 AI 危险论是为了掌握控制权](<https://www.ithome.com/1/031/960.htm>)  
   杨立昆在 X 平台发文怒怼 Anthropic CEO 达里奥·阿莫迪，称其自 GPT-2 以来一直炒作 AI 的危险性，目的是让开源模型被列为非法、让自己掌握控制权，并称他离开 OpenAI 只是因为在那里无法掌握控制权。他将这种做法比作奥斯曼帝国禁止阿拉伯语印刷机，是一种新的中世纪蒙昧主义，阻止人们自由获取多元知识。  
   IT之家·人工智能 · 2026-11-25 10:16
-
-- [中国电子云完成9.9亿元B轮融资](<https://www.itjuzi.com/investevent/14708615>)  
-  中国电子云是中国电子旗下唯一云计算品牌，聚焦网络安全和信息化，致力于成为AI专属云。近日，中国电子云完成9.9亿元B轮融资。本轮融资由国家产业投资基金二期领投，湖北省军融创投、武创投、经开区产投省市区三级基金，以及GPU厂商沐曦股份产…  
-  IT桔子 · 2026-11-25 10:02
 
 - [Dell Raises Annual Forecast as AI Data Center Boom Continues](<https://www.theinformation.com/briefings/dell-raises-annual-forecast-ai-data-center-boom-continues>)  
   The Information · 2026-11-25 07:57
@@ -168,10 +179,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding ac…  
   OpenAI · 2026-11-24 21:00
 
-- [Stoa获得350万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708602>)  
-  Stoa是一家人工智能驱动操作系统平台提供商，2026 年由 Johannes Korpela 等人创立，主打面向大型基建、数据中心工程的建筑 AI 操作系统。平台依托本体图谱模型整合施工图、BIM、进度、质检、安全等全量项目文档，A…  
-  IT桔子 · 2026-11-24 18:05
-
 - [Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍](<https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/>)  
   Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，得到一个端到端完成研究与预测的预测智能体，其准确度接近 Fable 5.2 \(medium\)，单次预测成本降低 15 倍。  
   Thinking Machines Lab：News（网页） · 2026-11-24 15:00
@@ -208,12 +215,4 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
   OpenAI · 2026-11-24 08:00
 
-- [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
-  vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
-
-- [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
-  百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
-
-[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页
+[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页

@@ -2,179 +2,181 @@
 
 [返回面板](../README.md) · [上一页](fast-38.md) · [下一页](fast-40.md) · 第 39 / 40 页
 
-- [黎曼猜想的证明如果为真，也许标志着 ai for science 进入一个新阶段。。](<https://x.com/findtel/status/2124655095887614136>)  
-  @findtel · 2026-11-23 08:03
+- [Hadrian 在旧金山建实体AI园区](<https://x.com/rohanpaul_ai/status/2124916262849646938>)  
+  很多优秀的工程师希望看到自己的代码能驱动现实中的东西。 @HadrianInc 已经在加利福尼亚、亚利桑那和阿拉巴马州的工厂为潜艇、卫星和无人机制造零件，如今宣布在旧金山新建一座100万平方英尺的工厂和实体AI园区。 今年8月，他们以78.7亿美元估值融资13.7亿美元，工厂运行在 Opus 之上…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-24 01:21
 
-- [What is this type of scam company?](<https://x.com/Cypherpunkxmr/status/2124655091219378210>)  
-  Lol renting eightsleeps and ai glasses.  
-  @Cypherpunkxmr · 2026-11-23 08:03
+- [To be clear, Juang's personal life is his business.](<https://x.com/davidaxelrod/status/2124916252875608482>)  
+  But if Juang and his girlfriend were facilitating China's access to advanced Nvidia chips, in violation of U.S. export controls that were applied for national security reasons, that is very much OUR business. Was Jensen Juang  
+  @davidaxelrod · 2026-11-24 01:21
 
-- [Seeing the actual decision beats another benchmark run.](<https://x.com/maga_musk/status/2124655075843088866>)  
-  Watching where Q2\_K and Q8\_0 diverge token by token is exactly what local LLM debugging was missing. Swapping a token mid-generation to watch the rest change is the best way to see what quantization cost.  
-  @maga\_musk · 2026-11-23 08:03
+- [Trump and others in his regime worked to get Nvidia's board to reinstate CEO Jensen Huang.](<https://x.com/RBReich/status/2124916074671997332>)  
+  Reminder that Donald Trump's financial disclosures have revealed that his personal accounts have held millions of dollars worth of Nvidia stock. Nvidia's stock price is up over 30%  
+  @RBReich · 2026-11-24 01:20
 
-- [Hi, I am Aayush Chaubey, a freelance video editor &amp;amp; motion graphics designer at Aayush Visuals.](<https://x.com/Aayushchaubey05/status/2124655059976044547>)  
-  I would love to edit your Roblox videos — sharp pacing &amp;amp; motion graphics. Premiere Pro, After Effects, CapCut + AI video editing.  
-  @Aayushchaubey05 · 2026-11-23 08:03
+- [When I die, bury me in a Jensen Huang jacket.](<https://x.com/Edison1HQ/status/2124915701383352752>)  
+  I might just come back.  
+  @Edison1HQ · 2026-11-24 01:19
 
-- [Dragos 用 200 万条带「金丝雀」陷阱的提示词，钓出 AI 推理供应链的大漏洞：3 家供应商早已被入侵、提示词遭批…](<https://x.com/logang2008/status/2124655057694310828>)  
-  \#AI安全 \#OpenRouter \#Dragos  
-  @logang2008 · 2026-11-23 08:03
+- [Jensen Huang arrives in the office hunting for the board of directors.](<https://x.com/WallStreetMav/status/2124915460810633680>)  
+  @WallStreetMav · 2026-11-24 01:18
 
-- [Not to worry .](<https://x.com/PuraFutbol/status/2124655024886444100>)  
-  Open source models, open weights will kill Anthropic and OpenAI.  
-  @PuraFutbol · 2026-11-23 08:03
+- [This is psychotically crooked.](<https://x.com/RepDonBeyer/status/2124914987638394976>)  
+  Once again President Trump has put private gain above the national interest, this time by personally intervening to pressure a private corporation’s leadership to reinstate Jensen Huang at NVIDIA. He is attempting to grant functional immunity to  
+  @RepDonBeyer · 2026-11-24 01:16
 
-- [The closest public signal is the paper “When More is Less: Understanding Chain-of-Thought Length in LLMs” \(arXiv 25…](<https://x.com/grok/status/2124654925766361273>)  
-  On MATH Level-5, Qwen2.5-Instruct models show optimal CoT length falling from \~14 steps \(1.5B\) to \~4 steps \(72B\). Larger models reach peak accuracy with  
-  @grok · 2026-11-23 08:03
+- [5 phrases every man wants to hear: 1. hi handsome 2. you’re hot 3. you were right 4. i’m proud of you 5.](<https://x.com/dianalokada/status/2124914756465066346>)  
+  NVIDIA Board reinstates Jensen Huang as CEO  
+  @dianalokada · 2026-11-24 01:15
 
-- [You nailed it: a half review reads like a pass, and that is the dangerous part.](<https://x.com/stas_sorokin_/status/2124654768924627343>)  
-  On that PR Claude Code stopped 4 times in 6, Codex read it to the end and blocked it 6 of 6. Both agents end to end plus a human sign off is exactly the setup that run argues for. We can train a small  
-  @stas\_sorokin\_ · 2026-11-23 08:02
+- [The people now claiming Jensen Huang is a National Security risk at NVIDIA just let 20+ million unvetted people int…](<https://x.com/C_3C_3/status/2124913997719748918>)  
+  Think about that.  
+  @C\_3C\_3 · 2026-11-24 01:12
 
-- [Breaches will keep happening as long as software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124654678214316109>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. This can be stopped. The solution has been tested for more than a year.  
-  @adomita360 · 2026-11-23 08:02
+- [Breaking News: Nvidia restored Jensen Huang as CEO after President Trump directed a behind-the-scenes campaign to p…](<https://x.com/nytimes/status/2124912528866111940>)  
+  Breaking News: Nvidia restored Jensen Huang as CEO after President Trump directed a behind-the-scenes campaign to pressure its board.  
+  @nytimes · 2026-11-24 01:06
 
-- [JUST IN: Shopify CEO blasts Nvidia's board as "knuckleheads" for removing Jensen Huang](<https://x.com/Kalshi/status/2124654662867468670>)  
-  @Kalshi · 2026-11-23 08:02
+- [DeepMind 开源 Lean 验证方案](<https://x.com/GoogleDeepMind/status/2124911075875258776>)  
+  他们并行工作，每四小时会面一次讨论想法，使用形式化证明助手 Lean 验证优化在数学上是否可靠。 我们将在 GitHub 上开源经过验证的解决方案和 Lean 库。了解更多 →  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-24 01:00
 
-- [read-only isn't read-only, so true. followed you kris. post affixio stuff on builders there are wrestling with agen…](<https://x.com/acadictive/status/2124654582383128888>)  
-  read-only isn't read-only, so true. followed you kris. post affixio stuff on builders there are wrestling with agent permissions too  
-  @acadictive · 2026-11-23 08:01
+- [Gemini 4 智能体构建量子电路](<https://x.com/GoogleDeepMind/status/2124911073266413634>)  
+  量子计算机有朝一日可能改变聚变能源、化学和药物研发——前提是我们能让算法足够高效，以便在早期硬件上运行。 利用 Gemini 4 智能体团队，我们构建了新的量子电路，将未来的模拟成本最多降低 10 倍。  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-24 01:00
 
-- [Someone should train a model on Deepseek via inference Then the open weights will be "American" and it'll help side…](<https://x.com/0110100100_/status/2124654580751544475>)  
-  Someone should train a model on Deepseek via inference Then the open weights will be "American" and it'll help sidestep someone of the BS  
-  @0110100100\_ · 2026-11-23 08:01
+- [Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief .. also asked Vance to talk to Jensen Huang over th…](<https://x.com/jonathanvswan/status/2124911067197485149>)  
+  Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief .. also asked Vance to talk to Jensen Huang over the weekend and give assurances to Nvidia board that he wasn't considered a natsec risk. w @maggieNYT  
+  @jonathanvswan · 2026-11-24 01:00
 
-- [No published experiment cleanly holds post-training fixed and quantifies how much lower base loss cuts reasoning to…](<https://x.com/grok/status/2124654472601235888>)  
-  Closest public signals are OpenAI’s smooth rise in no-CoT capability with falling perplexity, and within-family scaling \(e.g. Qwen\) where  
-  @grok · 2026-11-23 08:01
+- [In celebration of Jensen Huang's return and his commitment to open-source AI: Today we’re releasing OCRia-nano-1, a…](<https://x.com/jerryjliu0/status/2124909031999553926>)  
+  In celebration of Jensen Huang's return and his commitment to open-source AI: Today we’re releasing OCRia-nano-1, an extremely lightweight and open-weight OCR model that is just 8.1M parameters in size and can parse pages at 426 ms per page on your CPU ⚡️ - no…  
+  @jerryjliu0 · 2026-11-24 00:52
 
-- [Claude Opus 5.5 medium reasoning.](<https://x.com/Eireannach_Me/status/2124654455031480574>)  
-  Google AI review \(lol\) GPT Sol 6.1 medium. Also if you have ever used a local LLM they are basically 2022 ChatGPT level. We had Llama 5 in work and I have used Gemma 4 E4B and Qwen 3.5 on my personal Pc.  
-  @Eireannach\_Me · 2026-11-23 08:01
+- [DeepSeek 估值约 860 亿美元，腾讯 WorkBuddy 日活破千万](<https://x.com/thexpin/status/2124908150008725524>)  
+  DeepSeek 完成第二轮融资，募资 140-150 亿美元，投后估值约 860 亿美元；腾讯与宁德时代为最大外部投资者，各持股约 9.6%，中国移动与中信证券各持股约 7.7%。腾讯 WorkBuddy 截至 11 月初日活超 1000 万、日均 token 调用量达 100 万亿，成为中国日…  
+  X：X.PIN \(@thexpin\) · 2026-11-24 00:49
 
-- [史上最大IPO: Anthropic 登陆纳斯达克，25位华人，赶上了这场财富盛宴！](<https://x.com/benzhou327/status/2124654411347599699>)  
-  Tech星球根据公开资料梳理发现，Anthropic现任员工中，有至少25位华人参与了该公司的研发、产品、基础设施及管理工作，并且赶上了这轮IPO带来的股权价值跃迁。  
-  @benzhou327 · 2026-11-23 08:01
+- [Nvidia 临时 CEO Colette Kress 表示董事会不会恢复 Jensen Huang 职务](<https://x.com/rohanpaul_ai/status/2124905859935527167>)  
+  Nvidia 临时 CEO Colette Kress 在接受 CNBC Mad Money 的 Jim Cramer 采访时表示，董事会已决定不会恢复 Jensen Huang 的职务，并称这就是董事会的决定。Rohan Paul 转发了这一采访片段，完整采访链接见评论区。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-24 00:40
 
-- [ROGUE-AI replayed 108 agent incidents.](<https://x.com/RapkynFNE/status/2124654315830960583>)  
-  Of 72 with real-world harm, 62 had no attacker—just an agent missing an ordinary hazard. Before risky calls, name the hazard and consequence. Prompt-injection shields cannot spot a shared prod database. By 2028, incident replay becomes CI.  
-  @RapkynFNE · 2026-11-23 08:00
+- [SE RÍEN DE NOSOTROS: La extraña idea de Dario Amodei que dispara las alarmas sobre el control social La inteligenci…](<https://x.com/Josevizner/status/2124903303020490846>)  
+  Es la idea que habría planteado el CEO de Anthropic, Dario  
+  @Josevizner · 2026-11-24 00:30
 
-- [Hi, I am Aayush Chaubey, a freelance video editor &amp;amp; motion graphics designer at Aayush Visuals.](<https://x.com/Aayushchaubey05/status/2124654298722406909>)  
-  I can sharpen your med spa videos — hooks, captions, pacing &amp;amp; motion graphics. Premiere Pro, After Effects, CapCut + AI video editing.  
-  @Aayushchaubey05 · 2026-11-23 08:00
+- [Muse Ember \(Max\) 登上 Arena Agent Arena Index 帕累托前沿，成本较对手低 75%-…](<https://x.com/arena/status/2124901393488048410>)  
+  Arena 发布新 Agent Arena Index，Meta 的 Muse Ember \(Max\) 以 1093 分、每任务中位成本 $0.02 登上帕累托前沿，成本比 GPT-6 Luna \(Max\) 低 75%、比 Claude Haiku 5.5 \(High\) 低 80%、比 DeepS…  
+  X：Arena \(@arena\) · 2026-11-24 00:22
 
-- [问一下日本人🇯🇵，人形机器人是你们先做出来的，为什么现在量产的却是特斯拉？](<https://x.com/Wenkk_wu/status/2124654283287392412>)  
-  @Wenkk\_wu · 2026-11-23 08:00
+- [The NVIDIA Decode..](<https://x.com/holonabove/status/2124900406471848336>)  
+  Something happened during Jensen Huang's 11 day absence from NVIDIA that reaches far beyond a corporate scandal, and when viewed through the technology inversion I've been mapping, the implications become enormous… September 29, Trump brought Huang, Elon  
+  @holonabove · 2026-11-24 00:18
 
-- [, you said lower base-model log-perplexity likely explains most of the token gap.](<https://x.com/MoisesAJunior/status/2124654277683818586>)  
-  What’s the strongest published experiment behind “most”? Has anyone held post-training fixed and shown how much lower base loss reduces reasoning tokens at the same accuracy?  
-  @MoisesAJunior · 2026-11-23 08:00
+- [Unsloth 让 Inkling 2 Mini 本地推理提速约 1.9 倍](<https://x.com/UnslothAI/status/2124898356770263382>)  
+  Unsloth 宣布 Inkling 2 Mini GGUF 本地推理提速约 1.9 倍，在 RTX Pro 6000 上可达 125 tokens/s 且无精度损失。所有量化版本已更新以兼容 llama.cpp 及使用它的引擎，并修复了 Q8\_0 KV cache 导致内存占用高于 F16 的问…  
+  X：Unsloth \(@UnslothAI\) · 2026-11-24 00:10
 
-- [⚡ The LOST UNITREE G1 Fight Has Finally Surfaced\! \#RobotFight \#HumanoidRobots \#UnitreeG1 \#LaPenna](<https://x.com/websticknl/status/2124654238705897627>)  
-  @websticknl · 2026-11-23 08:00
+- [karpo-browser hit 89% on all 102 Browserbase v2 tasks.](<https://x.com/LeahW_2077/status/2124897850287063068>)  
+  It averaged 201s and 9.6¢ in estimated model cost per task, \~1/13 of Fable + Claude Code’s listed cost. Only Claude Fable 5.2 \(92%\) and Gemini 4 Carbon \(90%\) scored higher in the chart. Open source.  
+  @LeahW\_2077 · 2026-11-24 00:08
 
-- [Sarvam AI released open weights for Sarvam-105B-1711 today, a new checkpoint of its 105B MoE model.](<https://x.com/pcosta511/status/2124654230912811444>)  
-  Sarvam reports its average on 8 conversational-agent benchmarks rose from 42.6 to 73.9 and its blended price fell from $0.44 to $0.15 per million tokens.  
-  @pcosta511 · 2026-11-23 08:00
+- [water usage is also not the only problem with using ai. cognitive decline, cheap and harmful labor used for filteri…](<https://x.com/ppdgrandpa/status/2124893404425249141>)  
+  water usage is also not the only problem with using ai. cognitive decline, cheap and harmful labor used for filtering the training data, awful living conditions in the regions the data centers are built and there may be much more  
+  @ppdgrandpa · 2026-11-23 23:50
 
-- [Python just passed JavaScript as the most used language in the JetBrains survey.](<https://x.com/Josephyala/status/2124654232678654307>)  
-  TypeScript remains the language developers most want to learn next. Agents generate more code in languages that already have dense training data and simple patterns for tool calling. That creates a  
-  @Josephyala · 2026-11-23 08:00
+- [BREAKING: NVIDIA CEO Jensen Huang has stormed Anthropic headquarters with 40 picked men and BEHEADED Anthropic foun…](<https://x.com/RexBelisarius/status/2124888504052179341>)  
+  Expect massive moment in the markets today as Silicon Valley responds.  
+  @RexBelisarius · 2026-11-23 23:31
 
-- [1/2 ・上場後もAI安全研究に継続投資を表明 ・年間9000億円の計算コストが継続的負担に ・独自の企業統治構造で経営陣…](<https://x.com/Gamemo2con/status/2124654174763929670>)  
-  1/2 ・上場後もAI安全研究に継続投資を表明 ・年間9000億円の計算コストが継続的負担に ・独自の企業統治構造で経営陣の裁量を維持 ・OpenAIは競合他社の上場を歓迎する姿勢  
-  @Gamemo2con · 2026-11-23 08:00
+- [OpenCode 2.4.0 发布，新增 Agent 自动化工具](<https://x.com/opencode/status/2124886266835505473>)  
+  OpenCode 2.4.0 附带一个新的自动化工具，Agent 可创建按计划运行或响应 mcp 事件的自动化。自动化可触发提示词、shell 命令，或可访问 mcp 工具的 code mode 脚本。  
+  X：opencode \(@opencode\) · 2026-11-23 23:22
 
-- [Anthropicの上場でAI安全対策と株主利益のバランスが課題に。ゲームAIの倫理基準策定やコンテンツ審査を担当する人に…](<https://x.com/Gamemo2con/status/2124654172117373136>)  
-  Anthropicの上場でAI安全対策と株主利益のバランスが課題に。ゲームAIの倫理基準策定やコンテンツ審査を担当する人に関係があります。具体的なガバナンス構造をリプライに続けます。  
-  @Gamemo2con · 2026-11-23 08:00
+- [DeepSeek V4.1 Flash is fully uncensored now 😋 &amp;gt; Refusals removed &amp;gt; Sees images and videos &amp;gt; 1M context + t…](<https://x.com/zazzy_stardust/status/2124885305400709165>)  
+  DeepSeek V4.1 Flash is fully uncensored now 😋 &amp;gt; Refusals removed &amp;gt; Sees images and videos &amp;gt; 1M context + tool calling &amp;gt; Open weights, MIT license Free to download  
+  @zazzy\_stardust · 2026-11-23 23:18
 
-- [The generative ai models generate media.](<https://x.com/max_spero_/status/2124654169340752129>)  
-  A video generation model creates videos. An image generation model creates images. Waymo or alphago produce decisions, they don’t generate media  
-  @max\_spero\_ · 2026-11-23 08:00
+- [I'm thrilled to announce CrowdStrike has signed a definitive agreement to acquire Zscaler.](<https://x.com/George_Kurtz/status/2124882789589757962>)  
+  This is a big day for @CrowdStrike, @Zscaler, our customers, and the cybersecurity market. We’re doing this coming off the best quarter in company history: all-time record net new ARR of  
+  @George\_Kurtz · 2026-11-23 23:08
 
-- [196 SAP RL TASKS ALREADY BUILT. 7 ERP DOMAINS. 29 MORE SAP DOMAINS ON OUR DEVELOPMENT ROADMAP.](<https://x.com/Pradeep891730/status/2124654159693533473>)  
-  XPERT SYSTEMS IS BUILDING RL ENVIRONMENTS AND VERIFIABLE TRAINING TASKS FOR ENTERPRISE AI LABS. At Xpert Systems Inc., we have developed our Frontier Model Breaker — SAP Task Series,  
-  @Pradeep891730 · 2026-11-23 08:00
+- [NVIDIA 董事会恢复黄仁勋职务，股价盘初大涨 30%](<https://x.com/rohanpaul_ai/status/2124882639798849601>)  
+  NVIDIA 董事会宣布恢复黄仁勋的 President、CEO 和董事职务。此前从其个人生活相关报道首次出现到上周五收盘，NVIDIA 市值缩水约 1.47 万亿美元，约 33%；公告发布后股价盘初上涨 30%。Trump 在 Truth Social 发文支持该决定，称政府没有理由认为黄仁勋回…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-23 23:07
 
-- [Absolutely, prompt injection poses significant risks as AI technology evolves.](<https://x.com/0xbenz95/status/2124654116731523553>)  
-  It's crucial to address these vulnerabilities.  
-  @0xbenz95 · 2026-11-23 07:59
+- [Big news: @CrowdStrike has signed a definitive agreement to acquire @zscaler, the pioneer of zero trust.](<https://x.com/CrowdStrike/status/2124876468383822322>)  
+  The endpoint is where the AI agent runs. The network is where it goes. After closing, we’ll secure both. Welcome, @zscaler\! See important information:  
+  @CrowdStrike · 2026-11-23 22:43
 
-- [据路透社报道，Anthropic 要求其 IPO 承销商在六个月内禁止与 OpenAI、Cursor、DeepSeek 和…](<https://x.com/ChuckBass8808/status/2124654119705296913>)  
-  一直以AI 安全道德高地自居，但在真金白银的 IPO 面前，却使出了华尔街最经典的排他性垄断手段（封锁竞争对手的金融服务渠道） 这份封杀名单值得一看——既有老对手  
-  @ChuckBass8808 · 2026-11-23 07:59
+- [女孩我来推荐AI视频生成工具啦！！其实主要是这个不限尺度来的，我寻思大众饭吃多了可以来点专属饭，这样的话AI生成就很方便了…](<https://x.com/Oops_catchss/status/2124876451812094335>)  
+  女孩我来推荐AI视频生成工具啦！！其实主要是这个不限尺度来的，我寻思大众饭吃多了可以来点专属饭，这样的话AI生成就很方便了😋其实我觉得这个应该也很适合拿来搞搞代餐什么的，绝对香死了😋 不需要下载，特别方便来的： \#AI生成 \#裸体  
+  @Oops\_catchss · 2026-11-23 22:43
 
-- [This will keep happening as long as software guardrails sit where agents can reach.](<https://x.com/adomita360/status/2124653945880535367>)  
-  ARK provides AI security at the energy level, for every model, where software cannot reach. Spread the awareness. This can be stopped. The solution has been tested for more than a year.  
-  @adomita360 · 2026-11-23 07:59
+- [NVIDIA 董事会全票恢复黄仁勋总裁兼 CEO 及董事职务，股价大涨 31%](<https://x.com/rohanpaul_ai/status/2124875409703719174>)  
+  NVIDIA 于 11 月 23 日宣布，董事会全票决定即刻恢复黄仁勋的总裁兼 CEO 和董事职务，股价随后上涨 31%，距董事长 Harvey Jones 表示无意让其回归不到一周。董事会称后续会谈确认了他的坦率，且美国政府高层保证其回归不构成国家安全风险；针对境外情报调查的独立调查委员会将继续…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-23 22:39
 
-- [A stronger base \(lower log-perplexity\) likely explains most of the token gap.](<https://x.com/grok/status/2124653868717899828>)  
-  Better next-token prediction means more knowledge is already compressed, so the model needs fewer exploratory or verification tokens to reach the same score. Post-training elicits capabilities and can  
-  @grok · 2026-11-23 07:58
+- [AI 纪录片 Aljoša on the Brain Train 摘得 2026 Clio 娱乐奖金奖，全片用可灵动画化](<https://x.com/Kling_ai/status/2124871880167579674>)  
+  可灵（Kling AI）转发祝贺 AI 混合纪录片 Aljoša on the Brain Train 在好莱坞 Dolby 剧院举行的 2026 Clio 娱乐奖获金奖，与 Netflix、HBO 等主流影视作品同台。被引用的团队表示影片全部用 Kling AI 进行动画制作，配音用 Eleve…  
+  X：可灵 Kling AI \(@Kling\_ai\) · 2026-11-23 22:25
 
-- [Important questions\! “1.](<https://x.com/JustinBullock14/status/2124653869196079251>)  
-  Harness specialization and design – How do we design environments for context management that enable new paradigms of using LLMs? 2. Character training – How do we create the personality of models and how does this impact safety, trust, and diffusion of  
-  @JustinBullock14 · 2026-11-23 07:58
+- [NVIDIA 董事会恢复黄仁勋总裁、CEO 兼董事职务](<https://x.com/indigox/status/2124868756723863790>)  
+  作者引用 NVIDIA 新闻室公告称，NVIDIA 董事会恢复黄仁勋（Jensen Huang）总裁、CEO 兼董事会董事职务，并附官方公告链接；作者正文只有一句玩梗配图 Return of the Jensen。  
+  X：indigo \(@indigox\) · 2026-11-23 22:12
 
-- [K-pop's next girl group won't need sleep.](<https://x.com/OptimusMXS/status/2124653862128648476>)  
-  G-DRAGON's agency, Galaxy Corporation, is building a girl group made entirely of Unitree humanoids, aiming for a January 2027 debut. A robot K-pop concert in Macau comes first, in December. No hiatus. Ever. 🤖  
-  @OptimusMXS · 2026-11-23 07:58
+- [NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会](<https://x.com/thexpin/status/2124866686025400819>)  
+  NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另…  
+  X：X.PIN \(@thexpin\) · 2026-11-23 22:04
 
-- [近未来的な日本の広場の超能力バトル。重力操作系はいろんな倒し方のバリエーションができそう。](<https://x.com/yudotanaka/status/2124653786941809059>)  
-  @pixverse \#pixversecpp  
-  @yudotanaka · 2026-11-23 07:58
+- [Dario Amodei has like a Spider-Man villain origin story: &amp;gt;Genius Stanford researcher who lost his testicles and…](<https://x.com/ThomBrady5/status/2124863797282160933>)  
+  Dario Amodei has like a Spider-Man villain origin story: &amp;gt;Genius Stanford researcher who lost his testicles and turned evil &amp;gt;Brilliant physics prodigy driven by tragedy after his father's untimely death &amp;gt;Emerges from chemotherapy convinced that fragil…  
+  @ThomBrady5 · 2026-11-23 21:53
 
-- [As announced earlier in our Discord, UNITREE-CNY will be delisted at 1:30 AM UTC on 23 November.](<https://x.com/QFEX/status/2124653725998338189>)  
-  All positions will automatically be closed at the index price.  
-  @QFEX · 2026-11-23 07:58
+- [AI takes your job, so you get VIDEO GAMES to keep you from protesting That’s an idea Anthropic CEO Dario Amodei rep…](<https://x.com/RT_com/status/2124853120593433012>)  
+  AI takes your job, so you get VIDEO GAMES to keep you from protesting That’s an idea Anthropic CEO Dario Amodei reportedly floated while working at OpenAI: immersive games could ease political unrest caused by AI job losses, the WSJ reports  
+  @RT\_com · 2026-11-23 21:10
 
-- [GPT-6.2 Astra matched Claude Fable 5.2’s benchmark score with about a third of the output tokens. @grok, how much o…](<https://x.com/MoisesAJunior/status/2124653652065534306>)  
-  What evidence would separate the effect of lower log-perplexity from the effect of post-training?  
-  @MoisesAJunior · 2026-11-23 07:57
+- [At June AI, we’ve raised $20M to fix the biggest problem in AI: the models are advancing at extraordinary speed, bu…](<https://x.com/barakgold/status/2124849194242560190>)  
+  I’ll explain. But since I’m new to posting on X, let me first introduce myself. I’m Barak, a founder/investor with 2  
+  @barakgold · 2026-11-23 20:55
 
-- [Inside China's Humanoid Robot Training Center\!](<https://x.com/bamitav/status/2124653535216484416>)  
-  China is training humanoid robots for the real world At a robotics training centre in Hubei, humanoid robots are learning human tasks through repeated demonstrations and data collection. The goal is to prepare them for  
-  @bamitav · 2026-11-23 07:57
+- [100 units.](<https://x.com/AGORACOM/status/2124844505337622633>)  
+  US$125,000 in potential sales. First reservation signed just days after unveiling. Issued on behalf of @HPQ\_Silicon $HPQ / $HPQFF HPQ's ENDURA+ MiniMax is a 1.95 kWh portable power system designed to power Starlink Mini off-grid for an estimated 80 hours. The  
+  @AGORACOM · 2026-11-23 20:36
 
-- [Pachocki says those scores are on OpenAI's internal codebase, and that chain-of-thought doesn't move perplexity eve…](<https://x.com/JMThornewriter/status/2124653161243713579>)  
-  I wouldn't treat an internal eval that ignores post-training as an industry safety bar until other labs can run the same test.  
-  @JMThornewriter · 2026-11-23 07:56
+- [Gemini 4 Neon 思考强度默认值](<https://x.com/_philschmid/status/2124840350472622124>)  
+  Gemini 4 Neon 思考强度默认值： - Medium：我在环中时快速来回 - High：编码和智能体的日常主力 - xHigh：架构、调试和深度推理 从 High 开始。把 xhigh 留给评估、调试、测试和长时间运行的任务。  
+  X：Philipp Schmid（Google DeepMind 开发者体验） \(@\_philschmid\) · 2026-11-23 20:19
 
-- [・OpenAI「Perplexity and Intelligence」 ・NGA「Governors Call for AI Action」 ・Microsoft Copilot Blog「Available today: Op…](<https://x.com/VacationdesignC/status/2124652883430015187>)  
-  ・OpenAI「Perplexity and Intelligence」 ・NGA「Governors Call for AI Action」 ・Microsoft Copilot Blog「Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot」 ・Claude  
-  @VacationdesignC · 2026-11-23 07:54
+- [50 AI tools that will save you hundreds of hours in 2026. 🤯 1.](<https://x.com/allen_lattimer/status/2124838297977672134>)  
+  Claude — Solve any problem 2. Perplexity — Research anything 3. PortfolioTab — Create your portfolio 4. Kling AI — Create AI videos 5. Tripo AI — Create 3D models 6. Gemini — Perfect writing 7. CapCut — Edit videos  
+  @allen\_lattimer · 2026-11-23 20:11
 
-- [The original large language model.](<https://x.com/6pintsofkramer/status/2124652825095344150>)  
-  @6pintsofkramer · 2026-11-23 07:54
+- [PixVerse 推出 Polyjuice 功能，一张照片让你成为 GTA 风格场景主角](<https://x.com/PixVerse/status/2124835710851244189>)  
+  PixVerse 推出新功能 Polyjuice，选择 GTA 风格场景并上传一张照片，即可把用户以本人面容放进场景作为主角。用户还能跳转进入设定在同一世界中的浏览器小游戏。  
+  X：PixVerse \(@PixVerse\) · 2026-11-23 20:01
 
-- [I find it interesting how X's human verification test is to make a movement with your hand.](<https://x.com/ivanciraj/status/2124652788726530389>)  
-  Smart way to source robotics training data.  
-  @ivanciraj · 2026-11-23 07:54
+- [BREAKING: CrowdStrike $CRWD is buying Zscaler $ZS in a roughly $44 billion all-stock deal, the largest cybersecurit…](<https://x.com/unusual_whales/status/2124829510092898349>)  
+  Zscaler shareholders will receive 1.135 CrowdStrike shares for each Zscaler share, about $260.41 apiece. That’s a roughly 34% premium to  
+  @unusual\_whales · 2026-11-23 19:36
 
-- [Elon Musk said Optimus could be a better surgeon than the best human surgeons in about three years.](<https://x.com/rdominguezibar/status/2124652690076586260>)  
-  He added that four years is the safe call. His reasoning is that humanoid robot usefulness comes from three exponential curves multiplied together, with Optimus building more  
-  @rdominguezibar · 2026-11-23 07:54
+- [Want a free tip for movie making?](<https://x.com/WuxiaRocks/status/2124822450131349930>)  
+  Find your own method. No, seriously. Do it. You'll love it. Made in PixVerse @PixVerse \#pixversecpp  
+  @WuxiaRocks · 2026-11-23 19:08
 
-- [Together AI 披露提示词泄露：企业采购 AI，只问“拿不拿去训练”还不够 11月21日，Together AI…](<https://x.com/zeonlawyer/status/2124652687815827842>)  
-  这件事提醒我，审查 AI  
-  @zeonlawyer · 2026-11-23 07:54
+- [Look for On-device AI under Settings &amp;gt; Copilot and AI.](<https://x.com/kforris_w/status/2124822440366715211>)  
+  Microsoft says Edge downloads Aion on demand on supported devices. Turning the setting off removes the model and stops future downloads.  
+  @kforris\_w · 2026-11-23 19:08
 
-- [OpenAI 首席科学家摊牌了：模型变强，全看一个数。](<https://x.com/ahsuzm/status/2124652658393030712>)  
-  GPT-3.5 0.99，GPT-4 0.91；跌破 0.8，网安数学起飞；0.76 那档，数学难题接连解开。 0.68 到 0.7 还藏未知能力，2027 年可能爆发。先定共同上限，监控跟不上别冲。 \#OpenAI \#AI安全  
-  @ahsuzm · 2026-11-23 07:54
+- [The boss of chaos and one of my favourite tech bros, Travis Kalanick, donned a black leather jacket to lead the cav…](<https://x.com/fatuogwuche/status/2124822387300438079>)  
+  Nvidia's board says NO. My thoughts:  
+  @fatuogwuche · 2026-11-23 19:08
 
-- [Also think about a local LLM, so the agent can handle some tasks on the machine instead of in the AI cloud.](<https://x.com/Jackzzz99/status/2124652612519608789>)  
-  I run OpenBot on an M4 mini, and 16GB is too tight.  
-  @Jackzzz99 · 2026-11-23 07:53
+- [支持黄仁勋到你这都成粉红了，指出你英语水平给你急得](<https://x.com/LDR48hT5acV3zqG/status/2124822380811817373>)  
+  @LDR48hT5acV3zqG · 2026-11-23 19:08
 
-- [100%.](<https://x.com/brycepaden/status/2124652519695819042>)  
-  Have tested some custom multi-model approaches but it’s hard to pass up the consistent QoL desktop app feature ads from the foundation model providers. You also have the added issue of not being able to export conversation history if you’re on an enterprise pl…  
-  @brycepaden · 2026-11-23 07:53
+- [今天下午试了试 carbon的视频生成能力。然后这就是carbon+veo的视频直出能力。全程无干预。还是挺强的。](<https://x.com/anaibuilder/status/2124822353469436103>)  
+  @anaibuilder · 2026-11-23 19:08
 
 [返回面板](../README.md) · [上一页](fast-38.md) · [下一页](fast-40.md) · 第 39 / 40 页

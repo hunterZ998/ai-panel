@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/the_revolution_vs_the_renaissance_thariq_shihipar_openai>)  
+  AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel righ…  
+  Latent Space · 2026-11-26 06:28
+
 - [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](<https://sv101.fireside.fm/274>)  
   算力市场的“定心丸”，他回来了。 11月23日，黄仁勋回归英伟达重新出任CEO，英伟达股价开盘上涨30%，并带动美国AI市场短暂复苏；与英伟达关系密切的NeoCloud公司CoreWeave、Nebius、IREN股价也一度飙升超过2…  
   硅谷101 · 2026-11-25 07:30
@@ -34,7 +38,7 @@
   David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: th…  
   The a16z Show · 2026-11-20 23:48
 
-- [Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/scaling_linear_s_gtm_to_100m_arr_cristina_cordova_coo>)  
+- [Why Linear says Issue Tracking is Dead — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/why_linear_says_issue_tracking_is_dead_cristina_cordova_coo>)  
   Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
   Latent Space · 2026-11-20 07:38
 
@@ -177,9 +181,5 @@
 - [⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev](<https://www.youtube.com/watch?v=LL0YmIyBKSU>)  
   Watch the full show on YouTube: https://www.youtube.com/watch?v=LL0YmIyBKSU  
   Latent Space · 2026-11-04 04:16
-
-- [Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora>)  
-  Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How…  
-  Latent Space · 2026-11-03 04:50
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

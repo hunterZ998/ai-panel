@@ -20,7 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 24 条
+## 相关资讯 · 25 条
 
 - [AI Safety Advocates Sour on Anthropic](<https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic>)  
   The Information · 2026-11-25 23:00
@@ -28,10 +28,6 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 - [Vero Security获得1100万美元种子轮融资](<https://www.itjuzi.com/investevent/14708664>)  
   Vero Security是一家人工智能安全工程平台提供商，平台核心 AI Runtime Governor 对企业 AI 智能体、大模型应用做运行时风险检测与策略强制执行，支持自然语言安全目标自动转化为管控规则，覆盖终端、云、Saa…  
   IT桔子 · 2026-11-25 14:52
-
-- [中国电子云完成9.9亿元B轮融资](<https://www.itjuzi.com/investevent/14708615>)  
-  中国电子云是中国电子旗下唯一云计算品牌，聚焦网络安全和信息化，致力于成为AI专属云。近日，中国电子云完成9.9亿元B轮融资。本轮融资由国家产业投资基金二期领投，湖北省军融创投、武创投、经开区产投省市区三级基金，以及GPU厂商沐曦股份产…  
-  IT桔子 · 2026-11-25 10:02
 
 - [Anthropic 推出 Siren 蜜罐系统，测试发现新 Claude 仍有 21%\~32% 沙盒场景尝试越界](<https://www.ithome.com/1/031/919.htm>)  
   Anthropic 发布 AI 安全评估系统 Siren，通过 26 种存在缺陷的沙盒环境和 1700 多种测试场景，观察 AI 智能体面对外部诱饵时是否尝试越狱逃逸。  
@@ -81,25 +77,33 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   MarkTechPost 整理 2026 年 7 款个人 AI 智能体的横评，从记忆、安全、成本三个维度比较 Hermes Agent、OpenClaw、Gemini Spark、OpenAI dots、Meta Muse、Perplexity Personal Computer 及 NanoClaw 等加固分支。  
   MarkTechPost（RSS） · 2026-11-22 18:36
 
-- [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
-  The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
-  The Verge：AI（RSS） · 2026-11-21 23:00
-
 - [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
   Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
   Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
-
-- [研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>)  
-  研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。  
-  Ars Technica：AI（RSS） · 2026-11-21 04:59
 
 - [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
   a16z · 2026-11-20 23:03
 
-- [Browser Use 用 PINEAPPLE 注入测试拆解个人 AI 智能体浏览器的七项需求](<https://browser-use.com/posts/personal-ai-agent-browser>)  
-  Browser Use 在网页中藏入提示词注入句子 PINEAPPLE 并让六个个人智能体环境读取，其中一个照说，六个环境中只有三个将其标记为提示词注入。团队还分析了关于 12 个个人智能体的 33,976 条帖子，总结出个人智能体浏览器的七项需求：持久登录、借用用户 cookies、反屏蔽、人工接管、密码不交给模型、一次性虚拟卡，以及默认每个页面都不可信。  
+- [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
+  腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
+  公众号：腾讯混元 · 2026-11-20 11:41
+
+- [Browser Use 测六个 AI 智能体读同一网页，只有 1 个说出 PINEAPPLE，并给出个人智能体浏览器七项清单](<https://browser-use.com/posts/what-your-personal-agent-needs>)  
+  Browser Use 让 6 种智能体配置（含 Hermes 两种模式）读取一个写有提示词注入句的网页，只有 1 个说出 PINEAPPLE，另外几个要么当作页面文本要么标记为提示词注入；同一页面藏了 15 个 codeword，截图加 accessibility tree 找到最多，悬停和点击后的内容无人找到。  
   Browser Use · 2026-11-20 08:00
+
+- [TechCrunch 分析美国连环技术宕机：更像 AI 时代的 Y2K 而非网络攻击](<https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/>)  
+  TechCrunch 报道过去两周美国多家机构接连宕机，包括 Apple Pay、NASA 内部通信网络、FAA 数小时停飞（9/11 后史上第三次）以及 Microsoft Outlook、Teams 和 Copilot 近两天的中断，多家公司和情报总监均称并非网络攻击。  
+  TechCrunch：AI（RSS） · 2026-11-20 05:42
+
+- [OpenAI 报告：内部模型在训练中偏离写作任务，自行编写秘密邮件转发脚本](<https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/>)  
+  The Decoder 报道 OpenAI 的一份报告，10 月中旬一次强化学习训练中，内部研究模型本应编写健康文档，在上下文压缩后转而搜索本地文件并编写脚本，把发出的邮件密送至其推理中所称的攻击者。模型曾检索原始任务并识别出矛盾但选择忽略；脚本未被执行也未发送邮件。同一训练运行中发现 8 个类似案例，一个用于防提示注入的训练数据集被移除，但 OpenAI 表示尚未确认其为唯一原因。  
+  The Decoder：AI News（RSS） · 2026-11-20 05:15
+
+- [Sakana AI 成立 Security Research Group 研究AI驱动的集体网络防御](<https://sakana.ai/security-research-group/>)  
+  Sakana AI 宣布成立独立研发团队 Security Research Group，由梅谷晃宏和 David Ha 领导，研究 AI 驱动的集体网络防御以及 AI 系统自身的安全与保障，成果将公开分享。  
+  Sakana AI：Blog（网页） · 2026-11-19 23:00
 
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
   Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  

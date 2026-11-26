@@ -1,25 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 17 页
-
-- [The Most Famous Problem in Math Was Just Solved by AI—and This Human](<https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-24 10:00
-
-- [Snag by Parallel](<https://www.producthunt.com/products/snag>)  
-  Find the best deals on products from your agents  
-  Product Hunt · English · 2026-11-24 09:50
-
-- [ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单](<https://www.chinatalk.media/p/jensen-returns>)  
-  ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。  
-  ChinaTalk（RSS） · 2026-11-24 09:41
-
-- [Ainos 获日月光 900 万美元追加订单，AI Nose 电子鼻进芯片工厂检测异常](<https://www.ithome.com/1/031/290.htm>)  
-  Ainos 与日月光签署 900 万美元追加订单，追加采购 5,000 套 AI Nose 系统，此前双方已有 210 万美元订单并交付 1,400 套，两份协议合计 1,110 万美元、6,400 套系统。  
-  IT之家·人工智能 · 2026-11-24 09:40
-
-- [美国 41 州总检察长质疑 Character.AI 破产出售中的儿童数据安全](<https://www.ithome.com/1/031/288.htm>)  
-  美国 41 个州及哥伦比亚特区总检察长质疑 Character.AI 破产出售交易，要求保障儿童等用户数据安全。联盟指出拟议协议未约束买方，买方无需遵守隐私政策、可自由出售数据，唯一披露的竞标者 Smirks and Pangs 身份成疑；联盟要求法院驳回出售条款、拒绝该竞标者、禁止其收取 35 万美元分手费，并要求出售至少排除儿童聊天记录等敏感数据。  
-  IT之家·人工智能 · 2026-11-24 09:30
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 18 页
 
 - [Databricks 支持 Iceberg REST Catalog 目录标签，跨平台共享元数据](<https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents>)  
   Databricks 宣布支持 Apache Iceberg REST Catalog API 的 catalog labels，让平台、引擎和 AI 智能体共享业务用途、归属和数据分类等目录上下文。  
@@ -131,17 +112,13 @@
   Besimple 与 Baseten 合作，用约 500 美元 GPU 成本和 813 小时语音数据微调开源 ASR 模型，在 MedDictate 基准上 Nemotron 3.5 Transcribe 医疗术语词错率（Term-WER）降至 0.87%，较基座模型改进 69%，Qwen3-ASR 降至 2.05%。  
   Baseten 工程博客（网页） · 2026-11-24 06:34
 
-- [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](<https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/>)  
-  As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents han  
-  TechCrunch · 2026-11-24 06:05
+- [Anthropic 发布 Claude Ship，让 AI Agent 审查、修复并审批代码变更](<https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/>)  
+  Anthropic 发布 Claude Ship，一组用于自动化代码审查、修复和审批的 AI Agent。其中 Code Review 已正式可用，PR Steward 和 Claude Approvals 处于 beta，后者可按团队以自然语言写入仓库的审批策略自动批准变更。  
+  TechCrunch：AI（RSS） · 2026-11-24 06:05
 
-- [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](<https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/>)  
-  Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without havin  
-  TechCrunch · 2026-11-24 06:02
-
-- [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](<https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/>)  
-  "The mistake has been corrected," Elon Musk chimed in.  
-  TechCrunch · 2026-11-24 05:47
+- [AI 理财初创 Supertake 融资 2000 万美元种子轮，让 AI 智能体把市场观点变成投资组合](<https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/>)  
+  AI 投资初创 Supertake 宣布完成 2000 万美元种子轮融资，由 Adjacent 领投，Coinbase Ventures 和 Union Square Ventures 参投。  
+  TechCrunch：AI（RSS） · 2026-11-24 06:02
 
 - [Ladybird 浏览器发布首个 alpha 版本，作者实测并梳理 AI 编码智能体带来的进展](<https://simonwillison.net/2026/Nov/23/ladybird/>)  
   Ladybird 项目发布首个 alpha 版本，macOS 和 Linux 用户可直接安装无需自行编译。作者 Simon Willison 实测称其快速流畅，多数网站可正常加载，并给出了多标签页的进程隔离结构。  
@@ -178,4 +155,28 @@
 - [Trump Administration Adds Nvidia-linked Megaspeed to Trade Blacklist](<https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist>)  
   The Information · 2026-11-24 05:04
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 17 页
+- [Claude Ship](<https://www.producthunt.com/products/claude-code>)  
+  Ship code as fast as you can write it  
+  Product Hunt · English · 2026-11-24 05:00
+
+- [Figma agent 正式开放至 FigJam 和 Figma Slides](<https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/>)  
+  Figma agent 现已在 FigJam 和 Figma Slides 上对所有付费计划全面开放，支持连接器和附件，可将设计文件、会议记录或研究笔记等材料整理到 FigJam 白板或生成演示文稿初稿。  
+  Figma AI / Agent / Make · 2026-11-24 04:54
+
+- [Databricks 分析约5400个恶意 npm 包揭示的 2026 软件供应链风险](<https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026>)  
+  Databricks 发布供应链威胁系列首篇报告，分析2025年12月至2026年10月间约5400个确认恶意 npm 包。  
+  Databricks：Blog（RSS） · 2026-11-24 04:47
+
+- [OpenAI 向 Plus 等用户推送面向聊天的 GPT-6.2 Sol](<https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/>)  
+  OpenAI 开始向 Plus、Pro、Business 和 Enterprise 用户全球推送面向聊天场景的 GPT-6.2 Sol。官方称其处理复杂请求和网络搜索优于 GPT-6，图像理解 71.7% 对 47.4%，困难指令遵循 78.1% 对 62.5%，专家级任务基准在全部四个推理级别领先约 65% 至 71% 以上对 52% 至 66%。  
+  The Decoder：AI News（RSS） · 2026-11-24 04:39
+
+- [Anthropic 解释 Claude 发现的类 CRISPR 模式](<https://www.youtube.com/shorts/ANcPabMDH14>)  
+  Claude 在病毒 DNA 中发现了一段与 CRISPR 相似的重复模式，Anthropic 科学家正通过实验验证其工作机制是否与 CRISPR 类似。CRISPR 最初也只是细菌 DNA 中一种难以解释的奇特重复序列，历经多年才被阐明。  
+  Claude：YouTube（RSS） · 2026-11-24 04:35
+
+- [管理咨询不是智能的薄包装：AI 不会让咨询业崩溃](<https://www.normaltech.ai/p/management-consulting-is-not-a-thin>)  
+  Sayash Kapoor 与 Rod Moshtagi 撰文反驳咨询业崩溃论，指出客户付费的不只是分析，还包括判断、协调、信誉与问责，而战略判断难以训练进 AI。  
+  AI as Normal Technology（RSS） · 2026-11-24 04:12
+
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 18 页

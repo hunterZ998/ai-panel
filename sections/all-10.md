@@ -1,38 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 17 页
-
-- [2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比](<https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/>)  
-  MarkTechPost 整理 2026 年 7 款个人 AI 智能体的横评，从记忆、安全、成本三个维度比较 Hermes Agent、OpenClaw、Gemini Spark、OpenAI dots、Meta Muse、Perplexity Personal Computer 及 NanoClaw 等加固分支。  
-  MarkTechPost（RSS） · 2026-11-22 18:36
-
-- [研究指AI数据中心碳排放堪比中等国家，Anthropic环境信息披露引关注](<https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the>)  
-  在Anthropic完成IPO之际，有气候研究指出，美国大型数据中心的碳排放合计已相当于中等国家水平。哈佛大学团队在《自然·可持续性》发表的研究估算，2024年5月至2025年4月间403个数据中心年排放约2570万吨二氧化碳，占美国电力消耗近2%。澳大利亚气候研究员Ketan Joshi的报告进一步指出，AI行业全生命周期排放可能超过国际航空业，且Anthropic从未披露任何能源、排放或环境数据，并与OnePWR达成34亿美元、1.7吉瓦燃气发电设备采购协议。相关研究认为，数据中心自建燃气发电、制冷剂泄漏等因素…  
-  Hacker News：AI 热帖 · 2026-11-22 18:32
-
-- [Google 在 Gemini API 预览 Tool Retrieval，面向大型工具库延迟加载 schema](<https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/>)  
-  Google 在 Gemini API 的 Interactions API（v1beta）中预览上线 Tool Retrieval，延迟加载工具参数 schema，模型只看名称和短描述，需要时才检索加载完整 schema，降低大量工具定义带来的 token 开销。  
-  MarkTechPost（RSS） · 2026-11-22 18:03
-
-- [Wolters Kluwer 报告：美国会计行业 AI 采用率高，但技术整合成熟度不足](<https://www.ithome.com/1/030/679.htm>)  
-  Wolters Kluwer Tax &amp; Accounting 发布的《面向未来的会计师》报告显示，88% 的美国会计从业者在日常工作中使用生成式 AI，68% 正在使用智能体 AI，83% 的受访事务所自视为“技术创新者”或“早期采用者”。  
-  IT之家·人工智能 · 2026-11-22 17:58
-
-- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
-  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
-  The Decoder：AI News（RSS） · 2026-11-22 17:41
-
-- [菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可](<https://www.ithome.com/1/030/677.htm>)  
-  2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。  
-  IT之家·人工智能 · 2026-11-22 17:35
-
-- [蚂蚁阿福用户达 1.5 亿，每天线上问诊超 2000 万次](<https://www.ithome.com/1/030/653.htm>)  
-  蚂蚁健康事业群副总裁杨猛在 2026 蚂蚁阿福医疗健康生态大会上透露，蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超过 2000 万次，55% 来自三线及以下城市，1/4 是老人，16% 的问诊发生在凌晨 0 点到早上 6 点。  
-  IT之家·人工智能 · 2026-11-22 16:58
-
-- [马斯克预警：AI 行业明年或面临严重资金短缺，营运资金缺口或达数千亿美元](<https://www.ithome.com/1/030/628.htm>)  
-  马斯克在回复 Keras 创始人 François Chollet 时预警，AI 行业明年可能面临严重资金短缺，若从支付算力成本到设备稳定创收的时间累计推迟数月，仅营运资金就可能需额外投入数千亿美元。Chollet 此前指出 GPU 现货价格仍在上涨，HBM 和 DRAM 到 2029 年的产能基本已被订满，前沿模型训练算力约每 5 个月翻一番。  
-  IT之家·人工智能 · 2026-11-22 16:47
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 18 页
 
 - [我国首批可信数据空间创新发展试点落地 13 个城市、22 个行业、28 家企业](<https://www.ithome.com/1/030/593.htm>)  
   我国首批可信数据空间创新发展试点自 2025 年启动以来，已在 13 个城市、22 个行业、28 家企业落地。试点覆盖工业制造、交通物流、医疗健康等重点行业，带动形成 457 个高质量数据集和 136 个人工智能垂直模型，推动物流多式联运、碳足迹核算互认、新材料研发、车桩网协同调度等高价值场景应用。  
@@ -78,13 +46,13 @@
   How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evalua…  
   OpenAI · 2026-11-22 08:00
 
-- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
-  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
-  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
-
 - [Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator](<https://tomtunguz.com/what-kind-of-factory-will-you-build/>)  
   Tomasz Tunguz 结合 Notion 与 LangChain 同日发布的两篇文章，提出 AI 时代的软件与知识工厂共享同一套四步循环：context、agent、trace、curator，后两步将执行轨迹变成数据并反哺规格，使系统每周持续改进。  
   Tomasz Tunguz 博客（VC 分析） · 2026-11-22 08:00
+
+- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
+  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
+  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
 
 - [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 ASGI 和 WSGI Python 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
   mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产的 ASGI 与 WSGI Python 应用提供最佳运行工具。  
@@ -126,6 +94,14 @@
   The Decoder 基于 Sam Kriss 的 New Yorker 报道介绍佛蒙特州修道院组织 Maple（Monastic Academy），该组织约 24 名常住成员，年收入最高 100 万美元，目标是成为 AI 行业的精神权威并训练由其领袖 Soryu Forall 思维建模的 AI，前成员指控其录音监控与心理操纵，领导层几乎否认所有指控。  
   The Decoder：AI News（RSS） · 2026-11-22 00:04
 
+- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
+  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
+- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-flash>)  
+  蚂蚁百灵推出 LingSante-3.1-flash，以 560B 总参数、每 token 激活约 25B 的 Hybrid-linear MoE 架构（最长 1M 上下文）原生融合医学推理与工作流执行能力。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
 - [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
   Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
   Sarvam AI（网页） · 2026-11-22 00:00
@@ -138,48 +114,72 @@
   短剧平台 Shortical 首次通过直接协议授权以色列演员 Aki Avni 的面部，制作全 AI 剧集《Inevitable》，并计划向公众开放面部授权申请。文中提到 Rest of World 报告称行业面部授权报酬为 15 至 700 美元，且从业者担忧 AI 正在削减短剧行业给新人演员的工作机会。  
   TechCrunch：AI（RSS） · 2026-11-22 00:00
 
-- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
-  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
-  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
-
-- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-flash>)  
-  蚂蚁百灵推出 LingSante-3.1-flash，以 560B 总参数、每 token 激活约 25B 的 Hybrid-linear MoE 架构（最长 1M 上下文）原生融合医学推理与工作流执行能力。  
-  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
-
-- [The Verge 播客：Anthropic IPO 后能否继续把安全放在第一位](<https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>)  
-  The Verge 的 Nilay Patel 与资深 AI 记者 Hayden Field 对谈 Anthropic 在纳斯达克上市（发行价 $83，一度涨至 $111）后的前景，探讨其能否在公开市场压力下继续投入 AI 安全。  
-  The Verge：AI（RSS） · 2026-11-21 23:00
-
 - [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
   Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
   20VC · 2026-11-21 22:50
-
-- [Chess.com 推出 Classic Games 平台，上线麻将、数独等 10 款经典游戏](<https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai>)  
-  Chess.com 正式公测 Classic Games 平台，在网页端及 iOS、Android 新应用上线麻将、数独、围棋、象棋、跳棋等 10 款经典游戏。每款游戏均配备课程、排行榜和评分系统，多人游戏支持对战玩家或沿用 Chess.com 的机器人角色。该平台由不到公司 1% 的团队借助 AI 加速编码在数月内完成，美术与设计仍由人工完成。  
-  The Verge：AI（RSS） · 2026-11-21 22:00
-
-- [OpenAI 发布 GPT-6.2 Astra 和 Sol 的新提示词指南，修正简短回答与多余提问](<https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/>)  
-  OpenAI 为 11 月 17 日发布的 GPT-6.2 Astra 和 Sol 公布了一套可直接复制的提示词模板，覆盖写作风格、主动性和编码，并建议迁移的开发者重新审视系统提示词。  
-  The Decoder：AI News（RSS） · 2026-11-21 21:32
-
-- [欧洲央行行长拉加德呼吁欧盟用公共资金为芯片厂和数据中心承担首轮损失](<https://www.ithome.com/1/030/472.htm>)  
-  欧洲央行行长拉加德 11 月 20 日在法兰克福欧洲银行业大会发表卸任前最后一次演讲，呼吁欧盟利用包括欧盟预算在内的公共资金，在大型芯片制造厂和数据中心项目中率先承担首轮损失，通过跨区域公私合作伙伴关系吸引私人资本。  
-  IT之家·人工智能 · 2026-11-21 20:36
 
 - [VibeCode.surf](<https://www.producthunt.com/products/vibecode-surf>)  
   AI code editor where agents build, run and test your app  
   Product Hunt · English · 2026-11-21 20:32
 
-- [Thinking Machines 发布开源权重模型 Inkling 2 Mini：26.4B 循环 MoE 可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
-  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、每 token 激活 3.4B，以 Apache 2.0 协议上架 Hugging Face。  
-  MarkTechPost（RSS） · 2026-11-21 20:13
+- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
+  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
+  The a16z Show · 2026-11-21 19:00
 
-- [OpenAI 在 API 上线 GPT-Live-1.1 语音模型，闲置成本降至 $0.02/分钟](<https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/>)  
-  OpenAI 将全双工语音模型 GPT-Live-1.1 开放进 API（模型 ID gpt-live-1.1），默认 128K 上下文，仅限 OpenAI 云端通过 v1/live/sessions 部署，客户端经 WebRTC 或 WebSocket 连接。  
-  MarkTechPost（RSS） · 2026-11-21 19:46
+- [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
+  Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
+  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
 
-- [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](<https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/>)  
-  Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。  
-  The Decoder：AI News（RSS） · 2026-11-21 19:19
+- [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
+  Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
+  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
 
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 17 页
+- [Amp 为 Puck 推出车载模式，支持开车时语音对话](<https://ampcode.com/news/puck-in-the-car>)  
+  Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
+  Amp Chronicle · 2026-11-21 08:00
+
+- [Tim O'Reilly 演讲：硅谷怎么了？从集体智能到攫取租金的转变](<https://www.oreilly.com/radar/what-happened-to-silicon-valley/>)  
+  Tim O'Reilly 于2026年10月16日在约翰斯·霍普金斯大学发表第二届 Margaret Levi 政治经济学年度讲座，回顾其40余年硅谷经历，分析硅谷从创造价值转向攫取租金的原因。  
+  O'Reilly Radar（热点 RSS） · 2026-11-21 04:11
+
+- [Baseten 发布基于 Gemma 4 的决策模型 bison-1 和 groundhog-1，权重开放在 Hugging Face](<https://www.baseten.co/blog/meet-bison-1-and-groundhog-1>)  
+  Baseten 发布基于 Google Gemma 4 的决策模型 bison-1 和 groundhog-1，提供 128k 上下文（此前的 8 倍）并支持文本与图像输入。  
+  Baseten 工程博客（网页） · 2026-11-21 04:02
+
+- [Spotify 创始人 Daniel Ek 投资 AI 研究员创办的聚变能源初创公司 Europa Fusion](<https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/>)  
+  Spotify 创始人 Daniel Ek 投资了由 AI 研究员 Nantas Nardelli 创办的英国聚变能源初创公司 Europa Fusion，该公司成立于今年 2 月，采用脉冲功率路线。  
+  TechCrunch：AI（RSS） · 2026-11-21 03:53
+
+- [Signal 在 iOS 27 和 Android 上限制截图，阻止 AI 智能体读取私人聊天](<https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/>)  
+  Signal 在 iOS 27 上阻止截图，并在受支持的 Android 版本上于 AI 助手尝试访问屏幕时触发保护，以防止 OS 级 AI（如 Apple 的 Siri AI 和 Google 的 Gemini Intelligence）从显示内容中拉取已解密消息并交由外部处理。  
+  The Decoder：AI News（RSS） · 2026-11-21 03:50
+
+- [Anthropic 数学家 Levent Alpöge 公布黎曼猜想的 Lean 可编译证明，Stanford 博士后同期发布纯人工证明](<https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>)  
+  Anthropic 数学家 Levent Alpöge 宣布找到黎曼猜想的 Lean 可编译证明，该猜想提出于 1859 年，是千禧年大奖难题之一。他在文章中描述了与 Claude 协作完成论证的经历，数学界正通过 Zulip 讨论审查这一形式化结果。  
+  TechCrunch：AI（RSS） · 2026-11-21 03:32
+
+- [Google Gemini Mac 版上线 Computer Use 功能，可后台自动完成桌面多步任务](<https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/>)  
+  Google 在 Gemini Mac 应用中推出 Computer Use 功能，用户描述目标后，Gemini 可在后台窗口中点击、输入并操作本地文件、桌面应用和网站，完成多步任务。  
+  The Decoder：AI News（RSS） · 2026-11-21 02:50
+
+- [特朗普威胁对在海外建设 AI 数据中心的企业征收「巨大税收」](<https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax>)  
+  特朗普在与习近平和普京峰会后的新闻发布会上表示，不允许美国公司在海外建设数据中心，否则将对其征收「巨大税收」（tremendous tax），称否则「中国会全部拿走」。他称这一想法尚未告知自己的团队，且未给出具体细节；同时美国多州正在对数据中心新建申请设限，而数月内就职的民主党多数国会可能使该计划难以落实。  
+  The Verge：AI（RSS） · 2026-11-21 02:50
+
+- [Meta FAIR 开源科学 AI 峰会亮点：数字大脑计划扩容与 UMA Nitro 发布](<https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/>)  
+  Meta FAIR 在加州门洛帕克总部举办 Open Source AI for Science Summit，宣布将 Digital Brain Project 的脑数据目标从 15,000 小时提升至 25,000 小时。  
+  Meta：Newsroom · AI（RSS） · 2026-11-21 02:30
+
+- [RadixArk 发布纯 RL 训练的智能体编码模型 DaisyRose-27B，权重采用 Apache 2.0](<https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/>)  
+  RadixArk 本周发布首个开放权重模型 DaisyRose-27B，基于 Qwen3.8-27B 仅用强化学习做后训练，不使用 SFT 或蒸馏，权重以 Apache 2.0 开源。  
+  MarkTechPost（RSS） · 2026-11-21 01:42
+
+- [TechCrunch 分析太空数据中心芯片的融资难题](<https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/>)  
+  TechCrunch 分析了在太空建数据中心的芯片融资问题：现有数据中心生态依赖债务融资，通常以芯片作抵押，若违约贷款方可收回芯片转售，这在轨上无法实现。据 Financial Times 报道，SpaceX 400 亿美元芯片融资交易的贷款方要求所购芯片不得用于其轨道数据中心计划，尚不清楚 SpaceX 是否同意该条款。  
+  TechCrunch：AI（RSS） · 2026-11-21 01:40
+
+- [Baseten 讲解如何保障 20+ 云上 100+ 集群的安全](<https://www.baseten.co/blog/how-we-secure-100-clusters-across-20-clouds>)  
+  Baseten 工程博客讲解其多云容量管理下跨 20+ 云、100+ 集群（含十余个 neocloud）的统一安全标准。文章以基础设施层、运营伙伴、工作负载、内部访问四条信任边界组织控制措施，包括微VM 隔离构建、mTLS 跨集群流量、按集群限定凭证与每小时轮换、集中日志监控等，并附一份可复用的集群安全审计清单。  
+  Baseten 工程博客（网页） · 2026-11-21 01:10
+
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 18 页

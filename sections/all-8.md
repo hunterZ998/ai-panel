@@ -1,34 +1,6 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 17 页
-
-- [Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例](<https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks>)  
-  Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。  
-  Wiz：Research（安全研究） · 2026-11-23 22:46
-
-- [Sierra 融资 17.5 亿美元，估值半年内翻倍至 300 亿美元](<https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/>)  
-  企业客服公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值翻倍至 300 亿美元，距上轮 150 亿美元估值仅六个月。本轮由 Greenoaks 和 Lightspeed 领投。公司称已服务近 50% 的 Fortune 50 企业，五个月内 run-rate 收入翻倍至 4 亿美元，并正与 Meta、Stripe、Walmart 等合作制定智能体协议定义。  
-  TechCrunch：AI（RSS） · 2026-11-23 22:43
-
-- [黄仁勋复职英伟达 CEO，董事会投票恢复其职务](<https://mp.weixin.qq.com/s/gR_c-k_evwV-Iyg6Z7vFQg>)  
-  英伟达董事会于 23 日 21:58 一致投票恢复黄仁勋总裁、CEO 和董事职务，即时生效，理由是其态度坦诚且复职不构成安全风险。此前 11、12 号黄仁勋离职，20 万人签名支持，18 号财报会营收 1158 亿美元、同比增长 103%，董事会一度表示不打算让其复职并寻找永久 CEO；川普公开力挺后局势转折。  
-  公众号：卡尔的AI沃茨 · 2026-11-23 22:36
-
-- [Nvidia 宣布黄仁勋重返 CEO 职位](<https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/>)  
-  Nvidia 董事会周一宣布重新任命黄仁勋为 CEO 兼总裁，距其因婚外情风波辞职不到两周。董事会称在咨询美国政府高级官员后认定黄仁勋不构成国家安全风险，并一致认为他适合领导公司；股价开盘大涨 30%，美东时间 9:51 报 159.95 美元，涨 27%。Colette Kress 将继续担任 CFO。  
-  TechCrunch：AI（RSS） · 2026-11-23 22:21
-
-- [n8n 复盘“周一早晨事故”：Lead Routing 工作流为何停止分配线索](<https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/>)  
-  n8n 用一则虚构事故复盘说明：某团队 40 人都能编辑 Lead Routing 工作流，一名已离职外包人员的账号仍可登录，其密码还曾被贴在 Slack 频道里，导致周六夜间的筛选条件改动无人察觉。文章分别演示 projects 与自定义角色、SSO、2FA 强制三层访问控制如何在各自环节阻断该事故，并提醒从 IdP 停用账号后仍需在 n8n 中手动删除用户。  
-  n8n Blog · 2026-11-23 22:02
-
-- [Sierra 完成 17.5 亿美元融资，估值达 300 亿美元](<https://sierra.ai/blog/series-f-30b>)  
-  Sierra 宣布以 300 亿美元估值融资 17.5 亿美元，由 Greenoaks 和 Lightspeed Venture Partners 领投，Benchmark、Sequoia、GV、Tiger Global 等此前领投方全部跟投。  
-  Sierra：Blog（RSS） · 2026-11-23 21:45
-
-- [155 家儿童权益组织致信亚马逊、eBay，呼吁停止销售 AI 玩具](<https://www.ithome.com/1/031/203.htm>)  
-  由 155 家儿童权益保护组织组成的联盟向亚马逊和 eBay 首席执行官发公开信，呼吁两家平台停止销售 AI 玩具。  
-  IT之家·人工智能 · 2026-11-23 21:15
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 18 页
 
 - [GPT-6.2 Astra 在 Autoform-Hard 上完成 Smoktunowicz gap 定理的 Lean 形式化证明](<https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/>)  
   OpenAI 的 GPT-6.2 Astra 在 Meta FAIR 的 AutoformBench 子集 Autoform-Hard 上，无人工帮助完成 2006 年 Smoktunowicz gap 定理的 Lean 形式化证明，据 Vals AI 称这是该定理首个 Lean 证明。  
@@ -182,4 +154,32 @@
   Simon Willison 用 Claude Fable 5.2 构建的 Datasette 图表插件 datasette-charts 0.1a0 发布，可在 Datasette Lite 试用。  
   Simon Willison 博客 · 2026-11-23 08:37
 
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 17 页
+- [微软 CEO 纳德拉坦言 Claude Code 仅半年动摇 VS Code 地位](<https://www.ithome.com/1/030/733.htm>)  
+  据 Windows Latest 报道，微软 CEO 纳德拉表示 Anthropic 推出 Claude Code 后，开发者开始接受命令行形态，传统 IDE 约六个月就失去存在感，微软并未立刻拿出应对方案。  
+  IT之家·人工智能 · 2026-11-23 08:10
+
+- [Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批](<https://claude.com/blog/introducing-claude-ship>)  
+  Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。  
+  Claude：Blog（网页） · 2026-11-23 08:00
+
+- [Conductor 0.99.0 为 Claude Code 和 Codex 加入用量限制自动恢复](<https://www.conductor.build/changelog/0.99.0-auto-resume-for-claude-code-and-codex>)  
+  Conductor 0.99.0 为 Claude Code 和 Codex 加入自动恢复功能：当对话因用量限制中断，额度重置后 Conductor 可自动续接，智能体从断点继续。该功能可在对话触发限制时或 Settings → General 中开启，同时 Conductor 为 Codex 支持 Ultrafast，Codex 子智能体也会作为后台任务显示。  
+  Conductor 官方更新 · 2026-11-23 08:00
+
+- [Anthropic 发布编码智能体企业安全指南，详解 Claude Code 分层防护](<https://claude.com/blog/enterprise-guide-to-securing-coding-agents>)  
+  Anthropic 发布面向 Team 和 Enterprise 用户的编码智能体企业安全指南，从评估问题、四类智能体风险到判断层和固定边界层给出框架。  
+  Claude：Blog（网页） · 2026-11-23 08:00
+
+- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
+  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
+  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
+
+- [Anthropic 研究用 MLP 神经元做安全检测、引导与隐藏行为审计](<https://alignment.anthropic.com/2026/neuron-basis-applications/>)  
+  Anthropic 在开放权重模型上测试用模型自身的 MLP 神经元作为零样本安全检测器和引导向量，无需标注或额外训练。神经元在多数评测中优于文本搜索和 SAE latents，引导效果与训练过的引导向量相当（21% 对 2% 无引导）；在 68 个 LoRA 的盲审计中，结合神经元读出的审计员对 58 个隐藏行为模型命名成功率达 75%，远高于仅看输出的 40%。  
+  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
+
+- [Anthropic 开放 Enterprise Frontier Safeguards 公测，零数据保留下实现自动化安全监测](<https://claude.com/blog/zero-data-retention-with-enterprise-frontier-safeguards>)  
+  Anthropic 宣布 Enterprise Frontier Safeguards（EFS）进入公开 beta。EFS 在兼容零数据保留的前提下新增自动化安全监测层，跨多个请求识别单条请求看不出危害的复杂攻击模式，发现风险时生成不含输入输出的 Safety Case。  
+  Claude：Blog（网页） · 2026-11-23 08:00
+
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 18 页
