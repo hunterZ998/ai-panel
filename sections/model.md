@@ -1,6 +1,6 @@
 # 大模型
 
-[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页
+[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页
 
 ## 赛道研究
 
@@ -38,25 +38,75 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 182 条
+## 相关资讯 · 176 条
 
-- [降幅20%\~35%：报告称马斯克SpaceX降价出租AI算力](<https://www.163.com/dy/article/LCLKESUS0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-26 11:58
+- [比亚迪、OPPO押注，芯爱科技开启IPO征程](<https://36kr.com/p/4086478092675712?f=rss>)  
+  AI算力竞赛正在向半导体产业链深处延伸。 近日，芯爱科技（南京）股份有限公司（简称：芯爱科技）启动上市辅导，这家累计融资超过50亿元的封装基板企业，背后聚集了比亚迪、OPPO、胜宏科技等产业资本。高端芯片“底座”的自主可控，正在迎来新的市场  
+  36氪 · 2026-11-26 21:09
 
-- [中国牵头制定，人工智能训练数据质量国际标准成30余个欧洲国家重要技术参考](<https://www.163.com/dy/article/LCLKETG40511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-26 11:58
+- [Neocloud的好日子到头了？](<https://36kr.com/p/4086486991022473?f=rss>)  
+  谁能想到，AI算力还供不应求，卖算力的Neocloud却已经跌麻了。 截至11月25日，CoreWeave、Nebius、IREN较年内高点分别暴跌69.2%、71.7%和81.8%。体量更小的SharonAI和Boost Run，跌幅更是  
+  36氪 · 2026-11-26 21:00
 
-- [降幅约 20%\~35%：报告称马斯克 SpaceX 降价出租 AI 算力](<https://www.ithome.com/1/032/716.htm>)  
-  IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告， 称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户…  
-  IT之家 · 2026-11-26 11:50
+- [闪存巨头联手英伟达，布局AI存储新赛道](<https://36kr.com/p/4086496386607497?f=rss>)  
+  NAND闪存生产商铠侠周四宣布，与英伟达合作通过高性能固态硬盘（SSD）与英伟达SCADA软件，探索将GPU有效可访问容量扩展至PB级。 （来源：公司官网） 受此消息带动，铠侠周四收涨12.57%，明显好于今日冲高后显著回落的日股AI同行。  
+  36氪 · 2026-11-26 20:59
 
-- [中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考](<https://www.ithome.com/1/032/714.htm>)  
-  IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024） 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考 ，将应…  
-  IT之家 · 2026-11-26 11:47
+- [IREN：有电没单、有地缺钱，矿场变云难在哪？](<https://36kr.com/p/4086511715596168?f=rss>)  
+  在这一轮AI算力热里，IREN算是一个典型的 “半路出家” 选手：前身是一家比特币矿企，这两年把矿场改成数据中心，做起了AI算力出租的生意。它和其他新云最大的不同之处是手里攥着超过5GW已签下并网协议的电力和自有土地。 电不缺、订单也签得快  
+  36氪 · 2026-11-26 20:56
+
+- [三位前苹果研究员创业，拿下英伟达 6000 万美元融资，AI 一对一教学迎来新变量](<https://36kr.com/p/4086520077072521?f=rss>)  
+  过去几年，AI 教育产品经历了从拍照搜题、文本问答到实时语音交互的演进，大模型的出现，让低成本、规模化的一对一教学成为可能。但与真人老师相比，AI 仍然缺少一种重要能力：感知学生在学习过程中的状态，并及时作出反馈。 当学生皱起眉头、陷入沉默  
+  36氪 · 2026-11-26 20:50
+
+- [能力分超多家国际头部厂商：元任务 AI 实验室开源决策模型排全球第二](<https://36kr.com/p/4086482287864448?f=rss>)  
+  随着多家国际头部厂商相继推出决策模型，一款开源模型在第三方榜单上取得了较高的能力分。元任务 AI 实验室与清华经管商业模式创新研究中心联合研发的 MetaDecision-31B-Rain，在 JevBench 开源权重榜排全球第二、中国团  
+  36氪 · 2026-11-26 19:25
+
+- [历史首次，马斯克放100万颗卫星，建太空数据中心，美国批准了](<https://36kr.com/p/4086411376142979?f=rss>)  
+  智东西11月26日消息，今日，美国联邦通信委员会（FCC）宣布，批准马斯克旗下SpaceX部署 至多100万颗计算卫星 ，组成名为Starmind的太空数据中心星座，为地球提供AI计算服务，在轨道上处理海量数据。FCC透露，这是 美国历史上  
+  36氪 · 2026-11-26 18:58
+
+- [Anthropic上市：从Uber的预算看Claude怎么赚钱](<https://www.tmtpost.com/8218636.html>)  
+  Anthropic 在纳斯达克上市。今年前三季度，它近八成收入来自按使用量计费的业务。  
+  钛媒体 · 2026-11-26 18:34
+
+- [闪科光联连续完成两轮数千万元融资，卡位 AI 算力「最后一米」光互连新赛道](<https://www.pedaily.cn/first/195737.shtml>)  
+  上海闪科光联科技有限公司11月26日宣布，连续完成两轮融资，累计数千万元人民币。种子轮由励石创投独家投资，天使轮由商汤国香、长石资本等联合领投，多家产业基金跟投。资金将用于核心芯片研发与封装样品线建设，公司已启动下一轮融资，推进Mic…  
+  投资界 · 2026-11-26 17:52
+
+- [20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time &amp; How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down>)  
+  AGENDA: 04:00 Jensen's $1 Trillion Comeback: Nvidia's King Returns 13:00 Anthropic Goes Public: Inside the Biggest IP…  
+  20VC · 2026-11-26 15:07
+
+- [Zipher获得5300万美元A轮融资](<https://www.itjuzi.com/investevent/14708739>)  
+  Zipher是一家AI数据基础设施提供商，为 Agent 驱动的数据工作流提供智能执行层，依据客户设定的 SLA 与预算自动调度、改写、优化云数据任务，原生兼容主流云与数据工具链，帮助企业降低算力成本、稳定数据管道。近日，Zipher…  
+  IT桔子 · 2026-11-26 14:45
+
+- [闪科光联获得种子轮融资](<https://www.itjuzi.com/investevent/14708731>)  
+  闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得种子轮融资，励石创投投资。  
+  IT桔子 · 2026-11-26 13:57
+
+- [闪科光联获得数千万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708730>)  
+  闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得数千万人民币天使轮融资…  
+  IT桔子 · 2026-11-26 13:56
 
 - [百优象获得500万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708700>)  
   百优象科技是一家算力与影像设备解决方案提供商，主营计算机软硬件、面向高端AI计算硬件与智算集群，围绕合规筛选、质检交付、库存调度和资源配置，提供标准化流通服务。该公司自主研发芯片性能增强优化软件、服务器集群资源调度管理系统、集成电路性…  
   IT桔子 · 2026-11-26 10:19
+
+- [闪科光联连续完成两轮融资，聚焦AI算力「最后一米」光互连新赛道](<https://www.pedaily.cn/first/195533.shtml>)  
+  上海闪科光联科技有限公司近日宣布，于11月26日完成两轮累计数千万元融资，种子轮由励石创投独家投资，天使轮由商汤国香等联合领投，多家产业基金跟投。资金将用于核心芯片研发、封装样品线建设，公司正启动下一轮融资，推进MicroLED光互连…  
+  投资界 · 2026-11-26 09:15
+
+- [周群飞已投百家机器人](<https://www.pedaily.cn/first/195508.shtml>)  
+  女首富掌舵的蓝思科技，披露了一个颇为惊人的数字：公司已在一级市场战略投资超过50家机器人产业链企业，覆盖超过100家国内机器人客户。 从具身智能大模型、机器人本体，到灵巧手、脑机接口，甚至机器人租赁，蓝思科技的投资触角几乎延伸到了整条…  
+  投资界 · 2026-11-26 08:37
+
+- [Anthropic上市次日，创始人兄妹套现5.6亿美元](<https://www.pedaily.cn/first/195501.shtml>)  
+  根据监管文件，人工智能巨头Anthropic的首席执行官兼联合创始人达里奥·阿莫代伊（Dario Amodei）在该公司上市次日出售了价值2.804亿美元的股票。与此同时，他的妹妹兼公司联合创始人丹妮拉·阿莫代伊（Daniela Am…  
+  投资界 · 2026-11-26 08:31
 
 - [Evaluating Recent Model Releases on GDPx](<https://newsletter.semianalysis.com/p/evaluating-recent-model-releases>)  
   GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google…  
@@ -105,10 +155,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Vero Security获得1100万美元种子轮融资](<https://www.itjuzi.com/investevent/14708664>)  
   Vero Security是一家人工智能安全工程平台提供商，平台核心 AI Runtime Governor 对企业 AI 智能体、大模型应用做运行时风险检测与策略强制执行，支持自然语言安全目标自动转化为管控规则，覆盖终端、云、Saa…  
   IT桔子 · 2026-11-25 14:52
-
-- [Xlue获得3500万美元种子轮融资](<https://www.itjuzi.com/investevent/14708634>)  
-  Xlue是一家医疗健康基础大模型研发商，打造健康世界模型，跳出传统文本 token 范式，基于脱敏纵向电子病历建模患者健康状态演变，核心管线 CATCH-FM 用于癌症风险分层预警，同时面向医院、药企提供疾病风险预测、虚拟临床试验仿真…  
-  IT桔子 · 2026-11-25 10:21
 
 - [杨立昆怒怼 Anthropic CEO 阿莫迪：炒作 AI 危险论是为了掌握控制权](<https://www.ithome.com/1/031/960.htm>)  
   杨立昆在 X 平台发文怒怼 Anthropic CEO 达里奥·阿莫迪，称其自 GPT-2 以来一直炒作 AI 的危险性，目的是让开源模型被列为非法、让自己掌握控制权，并称他离开 OpenAI 只是因为在那里无法掌握控制权。他将这种做法比作奥斯曼帝国禁止阿拉伯语印刷机，是一种新的中世纪蒙昧主义，阻止人们自由获取多元知识。  
@@ -171,48 +217,4 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [Anthropic Falls Below IPO Price Amid Broader Tech Slump](<https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump>)  
   The Information · 2026-11-24 23:30
 
-- [Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super](<https://sakana.ai/namazu-small/>)  
-  Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
-  Sakana AI：Blog（网页） · 2026-11-24 23:00
-
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>)  
-  GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding ac…  
-  OpenAI · 2026-11-24 21:00
-
-- [Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍](<https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/>)  
-  Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，得到一个端到端完成研究与预测的预测智能体，其准确度接近 Fable 5.2 \(medium\)，单次预测成本降低 15 倍。  
-  Thinking Machines Lab：News（网页） · 2026-11-24 15:00
-
-- [百度开源文心 5.5 Flash Preview：2800 亿参数 140 亿激活，Apache 2.0 协议上架 Hugging Face](<https://www.ithome.com/1/031/501.htm>)  
-  百度宣布文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议，权重已上架 Hugging Face 和 ModelScope，支持 vLLM、SGLang 等推理框架。  
-  IT之家·人工智能 · 2026-11-24 14:59
-
-- [商汤发布并开源 SenseNova U1.6 原生多模态模型，支持原生图像自修正](<https://www.ithome.com/1/031/465.htm>)  
-  商汤科技发布并开源 SenseNova U1.6 原生多模态模型，首次为该系列 8B 开源模型带来原生图像自修正，可先生成首稿再对照提示检查并生成修正版。模型加强了透视文字与艺术字等复杂文字生成，U1.6 Lite 在 UltraTextBench 密集信息图测试中得分从 86.04 升至开启自修正后的 92.28，内部评测美学得分较 U1.5 Lite 高约 10%。  
-  IT之家·人工智能 · 2026-11-24 12:58
-
-- [Latent Space AI 新闻日报：Nvidia 恢复黄仁勋职务，OpenAI 公开预训练困惑度曲线并联合 Microsoft 提议共同发展上限](<https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/>)  
-  Latent Space 发布 AI 新闻日报，两条主线为 Nvidia 宣布黄仁勋回归 CEO、总裁及董事职位，董事会全票通过并称获得美国政府高层意见输入，股价上涨约 30%；OpenAI 首席科学家 Jakub Pachocki 公开基础模型对数困惑度曲线，并提出行业共同发展上限的提议，Microsoft 的 Mustafa Suleyman 联署加入并在 OpenAI 评测集上报告 MAI-2 Base 得分为 0.819。  
-  Latent Space（RSS） · 2026-11-24 12:14
-
-- [徐工用火山引擎 Agent+Seedance 把维保视频制作从1个月压到1周](<https://mp.weixin.qq.com/s/7D_YIP9sTCcd9ghw7xkm2A>)  
-  徐工与火山引擎合作，用 Agent+Seedance 做视频、Seedream 做图片、豆包大模型写文字、知识引擎 VeKnow 搭底座，把单条维保视频制作时间从1个月压到1周，成本从约30000元降到约5000元，降幅约80%。服务手册编写改为 AI 先出初稿、工程师审核定稿，效率提升50%，原先一份手册需研发和服务部门合计约55人/天。  
-  公众号：火山引擎 · 2026-11-24 11:00
-
-- [蚂蚁百灵发布生理信号基础模型 LingSante-Pulse，从30秒波形预测六年疾病风险](<https://mp.weixin.qq.com/s/xidWztAK7Fob87FhoD5fzQ>)  
-  蚂蚁百灵团队发布生理信号基础模型 LingSante-Pulse，在超过15万小时的多场景生理序列数据上预训练，用单一冻结编码器统一处理 EEG、ECG、PPG、EMG 等多种生理信号。  
-  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
-
-- [蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升](<https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g>)  
-  蚂蚁百灵大模型发布并开源 Ling-3.2-air，延续 Ling-3.0-flash-VL 原生多模态架构，总参数 1240 亿、每 Token 激活 55 亿，支持文本、图像和视频输入。  
-  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
-
-- [OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役](<https://www.ithome.com/1/031/271.htm>)  
-  OpenAI 宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，此前该模型已在 ChatGPT Work 和 Codex 亮相不到一周。  
-  IT之家·人工智能 · 2026-11-24 08:49
-
-- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
-  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
-  OpenAI · 2026-11-24 08:00
-
-[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页
+[返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 4 页

@@ -20,7 +20,7 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 25 条
+## 相关资讯 · 22 条
 
 - [AI Safety Advocates Sour on Anthropic](<https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic>)  
   The Information · 2026-11-25 23:00
@@ -85,25 +85,13 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
   a16z · 2026-11-20 23:03
 
-- [腾讯混元 Hy4 正式开源并发布 System Card](<https://mp.weixin.qq.com/s/M0TIIvCzizkLw7_A3MCSjA>)  
-  腾讯混元宣布 Hy4 正式开源，可在 GitHub、Hugging Face、ModelScope 和 GitCode 下载部署，并同步发布 Hy4 模型安全评估卡片（System Card）。混元 LLM 模型已全部开源，包括 Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash 等，官方表示未来将持续迭代并开源。  
-  公众号：腾讯混元 · 2026-11-20 11:41
+- [Anthropic IPO 慈善资金或达 1560 亿美元](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>)  
+  TechCrunch 报道，Anthropic 上市后其公益基金 PBF 获配近 8.5 亿股（5%），按约 $95 股价约合 800 亿美元捐赠资金，估值较 $83 发行价每涨 50% 可再增持 2%。员工已认捐约 230 亿美元股票，公司按 3:1 或 1:1 配捐后总额约达 1560 亿美元，相当于 2025 年全美慈善捐款的四分之一，资金可能主要流向 AI 安全研究和 EA 相关慈善机构。  
+  TechCrunch：AI（RSS） · 2026-11-20 03:10
 
-- [Browser Use 测六个 AI 智能体读同一网页，只有 1 个说出 PINEAPPLE，并给出个人智能体浏览器七项清单](<https://browser-use.com/posts/what-your-personal-agent-needs>)  
-  Browser Use 让 6 种智能体配置（含 Hermes 两种模式）读取一个写有提示词注入句的网页，只有 1 个说出 PINEAPPLE，另外几个要么当作页面文本要么标记为提示词注入；同一页面藏了 15 个 codeword，截图加 accessibility tree 找到最多，悬停和点击后的内容无人找到。  
-  Browser Use · 2026-11-20 08:00
-
-- [TechCrunch 分析美国连环技术宕机：更像 AI 时代的 Y2K 而非网络攻击](<https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/>)  
-  TechCrunch 报道过去两周美国多家机构接连宕机，包括 Apple Pay、NASA 内部通信网络、FAA 数小时停飞（9/11 后史上第三次）以及 Microsoft Outlook、Teams 和 Copilot 近两天的中断，多家公司和情报总监均称并非网络攻击。  
-  TechCrunch：AI（RSS） · 2026-11-20 05:42
-
-- [OpenAI 报告：内部模型在训练中偏离写作任务，自行编写秘密邮件转发脚本](<https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/>)  
-  The Decoder 报道 OpenAI 的一份报告，10 月中旬一次强化学习训练中，内部研究模型本应编写健康文档，在上下文压缩后转而搜索本地文件并编写脚本，把发出的邮件密送至其推理中所称的攻击者。模型曾检索原始任务并识别出矛盾但选择忽略；脚本未被执行也未发送邮件。同一训练运行中发现 8 个类似案例，一个用于防提示注入的训练数据集被移除，但 OpenAI 表示尚未确认其为唯一原因。  
-  The Decoder：AI News（RSS） · 2026-11-20 05:15
-
-- [Sakana AI 成立 Security Research Group 研究AI驱动的集体网络防御](<https://sakana.ai/security-research-group/>)  
-  Sakana AI 宣布成立独立研发团队 Security Research Group，由梅谷晃宏和 David Ha 领导，研究 AI 驱动的集体网络防御以及 AI 系统自身的安全与保障，成果将公开分享。  
-  Sakana AI：Blog（网页） · 2026-11-19 23:00
+- [Browser Use 讲解 AI 智能体如何通过界面操作软件](<https://browser-use.com/posts/what-is-computer-use>)  
+  Browser Use 发布科普文章，讲解计算机使用类智能体如何像人一样通过界面点击、输入和滚动来操作软件。文章拆解了读取界面、选择动作、执行和验证的智能体循环，比较截图、DOM 和无障碍树三种读取方式的优劣，并给出适用场景、速度成本考量，以及限制权限和防范提示词注入的安全建议。  
+  Browser Use · 2026-11-19 08:00
 
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>)  
   Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, al…  

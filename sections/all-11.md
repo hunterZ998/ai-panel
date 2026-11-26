@@ -2,184 +2,184 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 18 页
 
-- [本周 AI 观察：智能体商务受阻、NVIDIA 领导层变动与 AI 可靠性研究](<https://www.oreilly.com/radar/this-week-in-ai-ais-next-reality-check/>)  
-  本期 AI 观察聚焦 AI 在商业应用中暴露的新挑战：Anthropic 将 Claude 升级为更广泛的工作平台，推出 Fable 5.2 与 Mythos 5.2 模型及 Claude Meetings、Sheets、Whiteboards、Data，并扩展自托管智能体基础设施；OpenAI 将购物流程引入 ChatGPT，推出企业资料与 ChatGPT Wallet，但航空公司、银行与零售商正限制外部智能体接入。NVIDIA 方面，创始人黄仁勋辞任 CEO，董事会启动调查，长期 CFO Colette Kre…  
-  O'Reilly Radar（热点 RSS） · 2026-11-21 00:55
+- [Wolters Kluwer 报告：美国会计行业 AI 采用率高，但技术整合成熟度不足](<https://www.ithome.com/1/030/679.htm>)  
+  Wolters Kluwer Tax &amp; Accounting 发布的《面向未来的会计师》报告显示，88% 的美国会计从业者在日常工作中使用生成式 AI，68% 正在使用智能体 AI，83% 的受访事务所自视为“技术创新者”或“早期采用者”。  
+  IT之家·人工智能 · 2026-11-22 17:58
 
-- [Anthropic数学家Alpöge宣布与Claude共同证明黎曼猜想，放出1737万行Lean代码](<https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA>)  
-  Anthropic数学家Levent Alpöge在其个人网站宣布与Claude共同给出黎曼猜想证明，未发论文，只放出175187个Lean文件、共1737万行代码。  
-  公众号：数字生命卡兹克 · 2026-11-21 00:54
+- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
+  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
+  The Decoder：AI News（RSS） · 2026-11-22 17:41
 
-- [Google AI 工程师开分析智能体失败模式系列，首篇归纳三类常见错误](<https://dev.to/googleai/where-agents-fail-part-1-54hg>)  
-  Google AI 的 Patrick Kelly 开启 Where Agents Fail 系列，通过分析自己 160 次真实智能体会话找出 231 个具体错误。  
-  Google AI：DEV 作者专属（RSS） · 2026-11-21 00:50
+- [菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可](<https://www.ithome.com/1/030/677.htm>)  
+  2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。  
+  IT之家·人工智能 · 2026-11-22 17:35
 
-- [Ed Zitron 长文：AI 泡沫为何必然破裂](<https://www.wheresyoured.at/premium-bursting-bubbles/>)  
-  Ed Zitron 在长文中指出，AI 行业正重演泡沫的膨胀与破裂循环，超大规模厂商投入数百亿美元购买 GPU、银行放贷数千亿美元、AI 初创公司融资数百亿美元，却无人愿谈收入，OpenAI 2024 年将亏损 50 亿美元。他认为媒体对大公司、大数字和"经验"的轻信，以及追随共识的惯性，是泡沫得以维持的关键。  
-  Ed Zitron 长文 / Where’s Your Ed At（RSS） · 2026-11-21 00:41
+- [蚂蚁阿福用户达 1.5 亿，每天线上问诊超 2000 万次](<https://www.ithome.com/1/030/653.htm>)  
+  蚂蚁健康事业群副总裁杨猛在 2026 蚂蚁阿福医疗健康生态大会上透露，蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超过 2000 万次，55% 来自三线及以下城市，1/4 是老人，16% 的问诊发生在凌晨 0 点到早上 6 点。  
+  IT之家·人工智能 · 2026-11-22 16:58
 
-- [Anthropic 数学家 Levent Alpöge 称借助 Claude 证明了黎曼假设](<https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem>)  
-  Anthropic 数学家 Levent Alpöge 在个人网站声称与 Claude 合作证明了黎曼假设，并表示方法可推广至广义黎曼假设，证明以 Lean 形式化。  
-  The Verge：AI（RSS） · 2026-11-21 00:34
+- [马斯克预警：AI 行业明年或面临严重资金短缺，营运资金缺口或达数千亿美元](<https://www.ithome.com/1/030/628.htm>)  
+  马斯克在回复 Keras 创始人 François Chollet 时预警，AI 行业明年可能面临严重资金短缺，若从支付算力成本到设备稳定创收的时间累计推迟数月，仅营运资金就可能需额外投入数千亿美元。Chollet 此前指出 GPU 现货价格仍在上涨，HBM 和 DRAM 到 2029 年的产能基本已被订满，前沿模型训练算力约每 5 个月翻一番。  
+  IT之家·人工智能 · 2026-11-22 16:47
 
-- [数学家 Levent Alpöge 自称与 Claude 合作发现黎曼猜想证明](<https://simonwillison.net/2026/Nov/20/levent-alpoge/>)  
-  Simon Willison 转述数学家 Levent Alpöge 的自述：他称与 Claude 合作发现了黎曼猜想（Riemann Hypothesis）的证明，且方法可推广到广义与扩展黎曼猜想，并已无假设地形式化论证。他形容过程中 Claude 在最后阶段远超自己，并将这一经历视为科学领域更大变革的开端，原文链接 alpo.ge/remark.pdf。  
-  Simon Willison 博客 · 2026-11-21 00:30
+- [我国首批可信数据空间创新发展试点落地 13 个城市、22 个行业、28 家企业](<https://www.ithome.com/1/030/593.htm>)  
+  我国首批可信数据空间创新发展试点自 2025 年启动以来，已在 13 个城市、22 个行业、28 家企业落地。试点覆盖工业制造、交通物流、医疗健康等重点行业，带动形成 457 个高质量数据集和 136 个人工智能垂直模型，推动物流多式联运、碳足迹核算互认、新材料研发、车桩网协同调度等高价值场景应用。  
+  IT之家·人工智能 · 2026-11-22 15:25
 
-- [ChinaTalk 团队探访 CoRL 2026：机器人仍不行的现场观察](<https://www.chinatalk.media/p/we-went-to-austin-to-see-robots>)  
-  ChinaTalk 团队赴奥斯汀参加机器人学习大会 CoRL 后判断，虽然基准分数、硬件和强化学习较上届有实质进步，但通用机器人离实际落地仍很远。  
-  ChinaTalk（RSS） · 2026-11-21 00:21
+- [Helsing 在柏林艺术中心发布军事 AI 系统 Clarity 引发抗议，场地方致歉](<https://www.ithome.com/1/030/590.htm>)  
+  据《卫报》报道，德国军工初创企业 Helsing 于 11 月 11 日在柏林艺术文化空间 Kraftwerk Berlin 举办 AI 目标识别系统 Clarity 的发布活动，遭当地乐迷和电音社区抗议。  
+  IT之家·人工智能 · 2026-11-22 15:13
 
-- [Bloomberg 分析约 1000 万条招聘数据：中国受 AI 影响岗位招聘比其他岗位多降 10 个百分点](<https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/>)  
-  Bloomberg 对 2021 年 7 月至 2025 年 6 月约 1000 万条在线招聘的分析显示，受 AI 影响高的岗位挂牌量比较低岗位多下降约 10 个百分点，入门级和创意行业受影响明显。  
-  The Decoder：AI News（RSS） · 2026-11-20 23:56
+- [PH今日热榜 \| 2026-11-22](<https://decohack.com/producthunt-daily-2026-11-22/>)  
+  AlterContacts：智能客户关系助手，能够主动思考和行动；AI Context Flow MCP：您掌控的记忆，能够与每个代理、工具和团队保持同步。；Codemany：让GitHub Actions速度提升三倍  
+  Product Hunt 中文 · DecoHack · 2026-11-22 15:00
+
+- [TikTok 上线 AI 内容透明度检测工具与创作者肖像检测功能](<https://www.ithome.com/1/030/581.htm>)  
+  TikTok 于当地时间 11 月 19 日宣布推出两项 AI 透明度工具。用户无需账号即可上传图片或视频，检测其是否由 TikTok AI 功能生成或编辑，工具还会检测专有隐形水印 VeraDura；面向全球逐步推出的肖像检测功能需主动开启，帮助符合条件的创作者发现并标记可能未经授权使用其肖像的 AI 生成内容。  
+  IT之家·人工智能 · 2026-11-22 14:46
+
+- [腾讯 Chatterfly 输入法安卓版开启内测，支持语音转写、自动翻译等 AI 功能](<https://www.ithome.com/1/030/576.htm>)  
+  腾讯 Chatterfly 输入法安卓版开启内测，iOS 版状态为“即将发布”。该输入法支持语音输入成稿、语音自动翻译、全场景 AI 打字，并可通过表达 Skill 对工作汇报、会议纪要、AI 提示词等场景深度润色，按下快捷键说话即可下达 AI 指令执行文本创作、即时翻译、信息提炼等任务。  
+  IT之家·人工智能 · 2026-11-22 14:32
+
+- [Anthropic 数学家称与 Claude 可能证明黎曼猜想，同日人类数学家另提证明](<https://www.exponentialview.co/p/ev-611>)  
+  Anthropic 数学家 Levent Alpöge 称他与 Claude 可能证明了黎曼猜想，其证明长达 1740 万行 Lean。同日斯坦福数学家 Ravi Vakil 发布 Alessandro Masullo 的纯人类证明，该证明仍在第三方核验并被转写为 Lean。Scott Aaronson 指出，经 Lean 验证的 AI 结果从未被撤稿。  
+  Azeem Azhar：Exponential View（RSS） · 2026-11-22 12:59
+
+- [韩国高考 AI 作弊事件发酵，教育部长崔教振引咎辞职](<https://www.ithome.com/1/030/558.htm>)  
+  韩国教育部长官崔教振 11 月 22 日辞职，为 2027 年度高考防范 AI 作弊措施不足引发的混乱承担责任。韩国高考禁止携带 AI 眼镜、手机等电子设备，每个考点安排专人检查 AI 眼镜，仍查处 111 名违规携带智能设备的考生，其中包括 1 起使用智能眼镜作弊；李在明 20 日呼吁对高考制度进行全面改革，教育部计划 12 月 11 日成绩公布前完成处置。  
+  IT之家·人工智能 · 2026-11-22 11:21
+
+- [蚂蚁 inclusionAI 开源 LingSante-3.1-flash-MXFP4 医疗 MoE 模型](<https://huggingface.co/inclusionAI/LingSante-3.1-flash-MXFP4>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 LingSante-3.1-flash-MXFP4，这是基于 LingSante-3.1-flash 的混合 MXFP4 量化开源权重模型，主模型约 560B 参数、每 token 激活约 25B，配置 262,144 token 上下文窗口。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-22 11:19
+
+- [哥伦比亚大学与 CertiK 推出 TensorLean：在 PTX 层面对 GPU kernel 做形式化验证](<https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/>)  
+  哥伦比亚大学与 CertiK 提出 TensorLean，一个基于 Lean、在 PTX 层面证明 GPU kernel 与张量级数学规格一致的验证框架。  
+  MarkTechPost（RSS） · 2026-11-22 09:51
+
+- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
+  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
+  IT之家·人工智能 · 2026-11-22 08:04
+
+- [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)  
+  How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evalua…  
+  OpenAI · 2026-11-22 08:00
+
+- [Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator](<https://tomtunguz.com/what-kind-of-factory-will-you-build/>)  
+  Tomasz Tunguz 结合 Notion 与 LangChain 同日发布的两篇文章，提出 AI 时代的软件与知识工厂共享同一套四步循环：context、agent、trace、curator，后两步将执行轨迹变成数据并反哺规格，使系统每周持续改进。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-22 08:00
+
+- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
+  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
+  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
+
+- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 ASGI 和 WSGI Python 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
+  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产的 ASGI 与 WSGI Python 应用提供最佳运行工具。  
+  Simon Willison 博客 · 2026-11-22 07:56
+
+- [Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息](<https://www.ithome.com/1/030/517.htm>)  
+  Signal 推出 iOS / Android 更新，默认阻止应用内截图和录屏，以防止 Siri AI、Gemini 等 AI 智能体在用户不知情时读取私人消息。  
+  IT之家·人工智能 · 2026-11-22 07:28
+
+- [AI 的 Jevons 悖论：更便宜的 token 无法支撑巨额资本开支](<https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/>)  
+  作者检验超大规模厂商用 Jevons 悖论为巨额 capex 辩护的说法，指出 token 销量增长与价格下跌速度相当，短期价格弹性仅略高于 1，收入未必随用量增长。  
+  Hacker News：AI 热帖 · 2026-11-22 07:00
+
+- [Signal 限制移动端截图，应对操作系统级 AI 监控风险](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>)  
+  Signal 宣布在 Android 和 iOS 上默认限制应用内截图，此前 Windows 版已默认阻止截图。总裁 Meredith Whittaker 称集成 agentic AI 的操作系统会扫描屏幕数据，使敏感信息被 capture、存储并可被系统级 AI 智能体访问，损害 Signal 独立保障隐私的能力。  
+  TechCrunch：AI（RSS） · 2026-11-22 05:37
+
+- [TechCrunch 播客解读 Nvidia 财报亮眼与请愿前 CEO 黄仁勋回归并存的两种叙事](<https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/>)  
+  TechCrunch Equity 播客讨论本周 Nvidia 的两幅反差图景：财报收入大涨、管理层称无需前 CEO 黄仁勋回归，同时 Elon Musk 等人发起请愿推动黄仁勋回归，黄本人称已准备好回归。  
+  TechCrunch：AI（RSS） · 2026-11-22 05:07
+
+- [联合国未能就监管“杀人机器人”达成规则共识](<https://www.theverge.com/tech/1039554/un-regulations-killer-robots>)  
+  联合国日内瓦会议未能就自主武器监管规则达成共识，各国仅同意“开始讨论选项”。红十字国际委员会曾呼吁一年内制定有法律约束力的规则，并获联合国秘书长和教皇支持，但最终妥协为各国两年内提出监管提案，且部分规则可保留为“可选”。据 NPR 报道，俄罗斯、以色列和美国是主要阻碍方，美国曾提议用五年时间讨论非约束性指南。  
+  The Verge：AI（RSS） · 2026-11-22 04:03
+
+- [TechCrunch 盘点可直接发短信使用的 AI 智能体：从 Instinct 到 Poke 等 20 余款](<https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/>)  
+  TechCrunch 汇总了目前可通过短信、iMessage、WhatsApp 等渠道直接使用的 AI 智能体，它们可记上下文、连接已有应用并代用户完成订餐、日历、购物等任务。  
+  TechCrunch：AI（RSS） · 2026-11-22 01:00
+
+- [LangChain 讲解如何为 AI 智能体搭建知识工厂](<https://www.langchain.com/blog/knowledge-factory>)  
+  LangChain 分享其内部 GTM、内容工作室智能体和 LangSmith Engine 背后的知识工厂实践，认为让 AI 在企业落地缺的不是更好模型而是更好的知识。  
+  LangChain：Blog（RSS） · 2026-11-22 00:45
+
+- [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
+  Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
+  The Decoder：AI News（RSS） · 2026-11-22 00:23
+
+- [硅谷 AI 末世执念催生类教团组织 Maple 的调查报道](<https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/>)  
+  The Decoder 基于 Sam Kriss 的 New Yorker 报道介绍佛蒙特州修道院组织 Maple（Monastic Academy），该组织约 24 名常住成员，年收入最高 100 万美元，目标是成为 AI 行业的精神权威并训练由其领袖 Soryu Forall 思维建模的 AI，前成员指控其录音监控与心理操纵，领导层几乎否认所有指控。  
+  The Decoder：AI News（RSS） · 2026-11-22 00:04
+
+- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
+  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
+- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-flash>)  
+  蚂蚁百灵推出 LingSante-3.1-flash，以 560B 总参数、每 token 激活约 25B 的 Hybrid-linear MoE 架构（最长 1M 上下文）原生融合医学推理与工作流执行能力。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
+- [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
+  Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
+  Sarvam AI（网页） · 2026-11-22 00:00
+
+- [Every 介绍让 AI 写出你文风的技能调优方法](<https://every.to/context-window/stop-telling-ai-how-you-write-show-it>)  
+  Every 周报介绍了 Mike Taylor 让 AI 模仿自己写作风格的方法，核心是不描述风格，而是用草稿对照自己已发表的文章做测试，把写作时间从一天缩短到约一小时。  
+  Every：最新文章（网页） · 2026-11-22 00:00
+
+- [TechCrunch 起底短剧平台 Shortical 的面部授权 AI 剧集模式](<https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/>)  
+  短剧平台 Shortical 首次通过直接协议授权以色列演员 Aki Avni 的面部，制作全 AI 剧集《Inevitable》，并计划向公众开放面部授权申请。文中提到 Rest of World 报告称行业面部授权报酬为 15 至 700 美元，且从业者担忧 AI 正在削减短剧行业给新人演员的工作机会。  
+  TechCrunch：AI（RSS） · 2026-11-22 00:00
+
+- [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
+  Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
+  20VC · 2026-11-21 22:50
+
+- [VibeCode.surf](<https://www.producthunt.com/products/vibecode-surf>)  
+  AI code editor where agents build, run and test your app  
+  Product Hunt · English · 2026-11-21 20:32
+
+- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
+  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
+  The a16z Show · 2026-11-21 19:00
+
+- [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
+  Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
+  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
+
+- [Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件](<https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026>)  
+  Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。  
+  Together AI 研究与产品博客（RSS） · 2026-11-21 08:00
+
+- [Amp 为 Puck 推出车载模式，支持开车时语音对话](<https://ampcode.com/news/puck-in-the-car>)  
+  Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
+  Amp Chronicle · 2026-11-21 08:00
+
+- [Baseten 发布基于 Gemma 4 的决策模型 bison-1 和 groundhog-1，权重开放在 Hugging Face](<https://www.baseten.co/blog/meet-bison-1-and-groundhog-1>)  
+  Baseten 发布基于 Google Gemma 4 的决策模型 bison-1 和 groundhog-1，提供 128k 上下文（此前的 8 倍）并支持文本与图像输入。  
+  Baseten 工程博客（网页） · 2026-11-21 04:02
+
+- [Baseten 讲解如何保障 20+ 云上 100+ 集群的安全](<https://www.baseten.co/blog/how-we-secure-100-clusters-across-20-clouds>)  
+  Baseten 工程博客讲解其多云容量管理下跨 20+ 云、100+ 集群（含十余个 neocloud）的统一安全标准。文章以基础设施层、运营伙伴、工作负载、内部访问四条信任边界组织控制措施，包括微VM 隔离构建、mTLS 跨集群流量、按集群限定凭证与每小时轮换、集中日志监控等，并附一份可复用的集群安全审计清单。  
+  Baseten 工程博客（网页） · 2026-11-21 01:10
 
 - [Why the Agent Era Needs a New Operating System \| DHH](<https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL>)  
   David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: th…  
   The a16z Show · 2026-11-20 23:48
 
-- [Anthropic IPO 后市场降温，AMD 遭做空报告重创，Google 凭 Gemini 4 Neon 重回竞争](<https://www.newcomer.co/p/after-anthropic-euphoria-nvidia-amd>)  
-  Newcomer 周报指出，Anthropic IPO 顺利发行但市场对 AI 交易整体转冷。做空机构 Hunterbrook 发布《Bank of AMD》报告，指控 AMD 存在类似 Nvidia 的循环客户融资问题，AMD 否认相关指控，但股价仍下跌近 10%。同时，Nvidia 财报后股价回落，Google 发布 Gemini 4 Neon 模型，重新回到前沿模型竞争行列。  
-  Newcomer 新闻长文（RSS） · 2026-11-20 23:44
-
-- [Anthropic 数学家阿尔波格宣称与 Claude 合作完成黎曼猜想证明](<https://www.ithome.com/1/030/278.htm>)  
-  Anthropic 数学家莱文特·阿尔波格当地时间 20 日在个人网站宣称，与 AI 模型 Claude 合作找到黎曼猜想的证明，并编写为 Lean 代码以待逐步验证。他称证明还覆盖范围更广的广义黎曼猜想，若获确认，大量以此为前提的数学结论将随之得到证实，论文原文见 https://alpo.ge/remark.pdf。  
-  IT之家·人工智能 · 2026-11-20 23:37
-
-- [约翰斯·霍普金斯大学研究：美国最早 2027 年面临电网设备短缺](<https://www.ithome.com/1/030/275.htm>)  
-  约翰斯·霍普金斯大学在《Cell Reports Sustainability》发表研究称，美国最早可能在 2027 年面临电网设备短缺，铜最先出现供应缺口，到 2030 年变压器和变流器短缺或进一步恶化，影响新建电厂和数据中心并网。  
-  IT之家·人工智能 · 2026-11-20 23:22
-
-- [MIT 数学面板讨论 AI 冲击下的数学研究未来](<https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120>)  
-  MIT 举办“AI 与社会：数学的未来”座谈，来自 MIT、哈佛、西北大学和纽约大学的数学家讨论 AI 对数学研究的影响。  
-  MIT News（RSS） · 2026-11-20 23:20
-
 - [Charts of the Week: There is No Gen Z](<https://www.a16z.news/p/charts-of-the-week-there-is-no-gen>)  
   AI Wins FAArmageddon And Other Travel Woes; Druck Presides At TomorrowX and Uncertainty Abounds  
   a16z · 2026-11-20 23:08
-
-- [Apple 加入设备控制型 AI Agent 竞赛，macOS 27.3 却抬高第三方 Agent 接入门槛](<https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/>)  
-  据 The Decoder 援引招聘信息与 Bloomberg 报道，Apple 正在开发一款可控制设备的 AI Agent，招聘资深工程师牵头，强调权限模型和沙箱等隐私设计，最早可能于明年底推出，目前仍处早期阶段。  
-  The Decoder：AI News（RSS） · 2026-11-20 23:03
 
 - [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
   a16z · 2026-11-20 23:03
 
-- [TechCrunch Equity 播客讨论 Nvidia 罢免黄仁勋风波后续与 H200 停售中国](<https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/>)  
-  TechCrunch Equity 播客讨论 Nvidia 罢免 CEO 黄仁勋后的持续影响，公司本周发布财报显示健康增长，宣布停止在中国销售 H200 芯片，并拒绝让黄仁勋复职的呼声。  
-  TechCrunch：AI（RSS） · 2026-11-20 22:55
-
-- [Nvidia 拟至少 5 亿美元收购扩散语言模型初创 Inception](<https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/>)  
-  据 The Information 援引三位知情人士，Nvidia 接近以至少 5 亿美元收购旧金山湾区初创 Inception，交易含 30 多名员工的绩效奖金，三位联合创始人 Stefano Ermon、Aditya Grover 和 Volodymyr Kuleshov 预计全职加入。  
-  The Decoder：AI News（RSS） · 2026-11-20 22:53
-
-- [Databricks 发布覆盖 70 个行业的交互式参考架构板](<https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries>)  
-  Databricks 发布交互式参考架构板，截至 2026 年 11 月 16 日覆盖 11 个经济部门的 70 个行业。  
-  Databricks：Blog（RSS） · 2026-11-20 22:48
-
-- [NVIDIA 发布连续扩散语言模型 Nemotron-Labs-Sigma，含 3B/8B 共 14 个开放检查点](<https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/>)  
-  NVIDIA 发布 Nemotron-Labs-Sigma，一组在 16 维连续嵌入空间去噪的扩散语言模型，包含 3B 和 8B 的 base、instruct、蒸馏和自推测解码共 14 个开放检查点。  
-  MarkTechPost（RSS） · 2026-11-20 22:44
-
-- [K-Stra](<https://www.producthunt.com/products/k-stra>)  
-  Geomarketing for Australia, with an AI that does the maths  
-  Product Hunt · English · 2026-11-20 22:25
-
-- [Gary Marcus 称 Anthropic 股价破发，AI 股五个月跌超 50%](<https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing>)  
-  Gary Marcus 发文称 Anthropic 上市表现不佳：ANT 普通投资者交易首日从 111 开盘跌至 97 收盘，盘前再跌约 9% 至 88 左右。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-20 22:20
-
-- [三星电子高管：Neocloud 风险有限，AI 投资基于实际需求](<https://www.ithome.com/1/030/247.htm>)  
-  三星电子两位高管在摩根士丹利会议上表示，Neocloud 市占份额仅约 8%，对其担忧不会对 AI 整体发展轨迹构成重大威胁。三星晶圆代工销售营销主管 Kang Suk-chae 认为当前 AI 投资热潮是结构性的，源自实在需求而非投机冲动，芯片短缺在可预见的未来仍将持续。  
-  IT之家·人工智能 · 2026-11-20 22:09
-
-- [Air Street Capital 领投 LATO 470 万美元种子轮](<https://press.airstreet.com/p/lato-labs-investment-ai-expert-research>)  
-  Air Street Capital 领投 LATO 的 $4.7M 种子轮，YC 及 ElevenLabs、Vercel、Snowflake、Rogo 联合创始人等参投。  
-  Air Street Press（RSS） · 2026-11-20 22:02
-
-- [Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫](<https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off>)  
-  Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。  
-  Hacker News：AI 热帖 · 2026-11-20 21:53
-
-- [Google 桌面搜索首页全球推出可折叠侧边栏，便于访问 AI Mode](<https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/>)  
-  Google 在桌面搜索首页全球推出可折叠侧边栏，由 Google Search VP Robby Stein 在 X 上宣布，方便用户查找并重新打开近期的 AI 搜索。侧边栏位于 AI Mode 左侧，可发起新会话、搜索已有会话、创建笔记本并打开最近查询和设置；同时 AI Mode 全球推出临时会话，不使用先前上下文、不保存历史、关闭即消失。  
-  The Decoder：AI News（RSS） · 2026-11-20 21:19
-
-- [Signal 在 iOS 27 和 Android 上拦截 Siri、Gemini 等 AI 读取屏幕内容](<https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app>)  
-  Signal 宣布在 iOS 27 和 Android 上限制应用内截图，以阻止 Siri、Gemini 等系统级 AI 智能体读取用户消息。  
-  The Verge：AI（RSS） · 2026-11-20 20:30
-
-- [Google 员工联署要求公司撤销对关闭 Gemini 的学校切断搜索访问的政策](<https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/>)  
-  数百名 Google 员工通过 Alphabet Workers Union 提交 petition，要求高管撤回一项从明年起对关闭 Gemini AI 工具的学校切断 Search 访问的政策。该政策在选举日公布后，纽约、洛杉矶、芝加哥等地爆发抗议，三大校区正在讨论更换搜索引擎，公司已收到信件但未回应具体诉求。  
-  Hacker News：AI 热帖 · 2026-11-20 20:30
-
-- [5大场景实测 Kling Image 4.0：一句话直出电商长图与原生8K](<https://mp.weixin.qq.com/s/4czsAxbdPzusj4rPrtWuMw>)  
-  作者以二十多组真实案例实测可灵AI新上线的 Kling Image 4.0，重点验证电商详情页长图、连续组图、高密度中文信息图和真人模特商拍等能力，称一句话即可直出从头图到规格表的整页详情页。文章还介绍了首次支持的原生8K画质、内置70多款预置字体、110多种电影影调库、局部智能改字和草图转分镜等用法，并附完整提示语供参考。  
-  公众号：卡尔的AI沃茨 · 2026-11-20 20:26
-
 - [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
   Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
   Axios · 2026-11-20 20:10
-
-- [可灵AI与导演Stephane Benini合作推出AI影片《Redline》，用Kling 4.0挑战雨夜赛车](<https://mp.weixin.qq.com/s/bCtMYw0Z5YcUKWdD7aMtOA>)  
-  可灵AI与拥有20年拍车经验的导演Stephane Benini合作推出原创AI影片《Redline》，基于Kling 4.0生成雨夜高速竞速画面。Kling 4.0可区分赛车自身运动与摄影机跟拍运动，生成定向运动模糊，并在漂移过弯时保持车身结构与车轮部件稳定；其全能参考、关键帧、3D模型参考和更长生成时长提升了运镜与车辆动态的可控性。  
-  公众号：可灵AI（快手·视频） · 2026-11-20 19:52
-
-- [Claude 已给文本加隐藏水印：O'Reilly 作者拆解 SynthID-Text 原理并做检测实验](<https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/>)  
-  Andrew Stellman 在 O'Reilly Radar 介绍 Claude 最新模型已在所有使用场景 worldwide 嵌入基于 SynthID-Text 的隐藏水印，但目前只有 Anthropic 及其批准的机构能检测。  
-  O'Reilly Radar（热点 RSS） · 2026-11-20 19:43
-
-- [腾讯 WorkBuddy 上线电脑操控能力，支持 macOS 和 Windows 公测](<https://www.ithome.com/1/030/222.htm>)  
-  腾讯 WorkBuddy 上线电脑操控（Computer Use）能力，可识别当前页面并执行点击、输入、滚动等操作，无需目标软件开放接口。该功能处于公测阶段，支持 macOS 和 Windows，需更新客户端至 5.11.0 及以上版本并完成授权；用户可在对话框描述任务，侧边小窗查看进度，官方建议登录、支付、删除等敏感操作时保持在场监控。  
-  IT之家·人工智能 · 2026-11-20 19:25
-
-- [生数科技朱军团队获北京市自然科学奖一等奖，扩散模型成果支撑 Vidu 研发](<https://mp.weixin.qq.com/s/VBxPIZGeRcYD8XyBcL_kYw>)  
-  生数科技创始人朱军、CTO 鲍凡领衔团队的“高效可扩展的扩散模型理论与方法”成果获 2025 年度北京市自然科学奖一等奖。该成果在扩散模型基础理论、采样算法与模型架构三方面取得突破，其中免训练采样方法实现近百倍加速，并被 Diffusers 等开源工具库集成。相关研究为生数科技 Vidu 视频生成大模型及 Vidu Q、Vidu S 系列提供技术支撑。  
-  公众号：生数科技（Vidu·视频） · 2026-11-20 18:58
-
-- [超 500 名谷歌员工请愿要求中小学可继续使用不含 AI 的谷歌搜索](<https://www.ithome.com/1/030/197.htm>)  
-  据彭博社报道，11 月 19 日超过 500 名谷歌员工和合同工联名请愿，要求允许中小学继续使用不含 AI 功能的谷歌搜索，请愿书致 CEO 皮查伊等高管，活动由 Alphabet 员工工会发起。此前谷歌扩大校园 AI 覆盖让中小学生可使用 Gemini，遭教育工作者和家长质疑会削弱学生批判性思维。谷歌回应计划默认关闭面向学生的 AI 功能，但学校若想继续用谷歌搜索可能仍须接受内置 AI 的版本。  
-  IT之家·人工智能 · 2026-11-20 18:42
-
-- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
-  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
-  Axios · 2026-11-20 18:20
-
-- [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)  
-  OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement…  
-  OpenAI · 2026-11-20 18:00
-
-- [Nous Research 的 Hermes Agent 将登陆 Microsoft Teams 并推出 Collective Wisdom 技能共享功能](<https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/>)  
-  Nous Research 宣布开源 Hermes Agent 将可直接在 Microsoft Teams 内运行，员工可把财务分析、文档起草或收件箱整理等任务交给它并在同一聊天中审阅结果。该智能体运行于 Azure Container Apps 沙箱（隔离微虚拟机）中，会自动将成功的工作流转化为由描述和代码组成的可复用技能；新功能 Collective Wisdom 允许员工在审核后与团队共享这些技能，且收集的知识保留在公司内部，不会进入任何 AI 提供商的训练数据。Nous 称 Hermes Agent 是 O…  
-  The Decoder：AI News（RSS） · 2026-11-20 17:59
-
-- [AMD XDNA 2 NPU 率先适配 Unsloth Desktop，支持超百款智能体本地运行](<https://www.ithome.com/1/030/131.htm>)  
-  AMD 锐龙 AI 处理器上的 XDNA 2 NPU 成为首款获得 Unsloth Desktop 本地界面支持的神经网络处理器，OpenClaw、Hermes 等超百款智能体可通过该界面在 NPU 上本地运行。  
-  IT之家·人工智能 · 2026-11-20 17:13
-
-- [Anthropic 上市当天，前研究员考克森在其总部外抗议呼吁禁止 AI 递归自我改进](<https://www.ithome.com/1/030/127.htm>)  
-  据《商业内幕》报道，当地时间 19 日 Anthropic 股票首次上市交易，前研究员雅各布·考克森与数十名抗议者在其旧金山总部外抗议，呼吁禁止 AI 递归自我改进，即让先进 AI 参与训练下一代 AI。  
-  IT之家·人工智能 · 2026-11-20 17:06
-
-- [蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0](<https://huggingface.co/inclusionAI/LingSante-Pulse-1.0>)  
-  蚂蚁 inclusionAI 在 HuggingFace 发布生理信号编码器 LingSante-Pulse-1.0，采用 MIT 许可，需先安装独立的推理代码包。模型输入支持 \[T\]、\[C,T\]、\[B,C,T\] 或对齐的通道字典，代码包负责固定 128-Hz 预处理与存储填充掩码，输出 CLS 与观测有效的 PatchMean 为 \[B,C\*256\]。该模型仅提供信号表征，不含任务专用预测头。  
-  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-20 16:39
-
-- [中油共享与火山引擎共建知识、数据、流程三类Agent，18个智能体进驻万人后台](<https://mp.weixin.qq.com/s/j_J0eaJZvHAaRU7ik_T8Uw>)  
-  中油共享与火山引擎合作推进知识型、流程型、数据型三类智能体建设，目前已在中油共享内部运行18个智能体，覆盖财务、税务、法务、信息技术、客服、人力资源六大业务场景。  
-  公众号：火山引擎 · 2026-11-20 15:18
-
-- [Anthropic 以 83 美元定价完成史上最大 IPO，上市首日估值近 2 万亿美元](<https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/>)  
-  Anthropic 以每股 83 美元在纳斯达克上市（代码 $ANT），融资 813 亿美元超过 SpaceX 成为史上最大 IPO，首日开盘价 111.50 美元、较发行价高 34.3%，完全稀释估值约 2 万亿美元。  
-  Latent Space（RSS） · 2026-11-20 15:12
-
-- [谷歌工程师用 PostScript 让打印机跑 Gemma 3 270M，14.1MB 内存每词元约 60 秒](<https://www.ithome.com/1/029/953.htm>)  
-  谷歌 DeepMind 技术团队成员 Omar Sanseviero 在未改打印机固件、未加外部计算板的情况下，用打印机内置 PostScript 解释器运行了 2.7 亿参数的 Gemma 3 270M，峰值内存约 14.1MB。实验采用动态层加载轮流调入移出 18 个 Transformer 层，输出速度约每词元 60 秒，预填充提示“Read the fine”耗时约 184 秒。  
-  IT之家·人工智能 · 2026-11-20 15:02
-
-- [Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini](<https://thinkingmachines.ai/news/inkling-2-mini/>)  
-  Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。  
-  Thinking Machines Lab：News（网页） · 2026-11-20 15:00
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 18 页

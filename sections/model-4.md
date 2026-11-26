@@ -1,30 +1,22 @@
 # 大模型
 
-[返回面板](../README.md) · [上一页](model-3.md) · [下一页](model-5.md) · 第 4 / 5 页
+[返回面板](../README.md) · [上一页](model-3.md) · 第 4 / 4 页
 
-- [Goodfire 解析 Thinking Machines 开源模型 Inkling 2 Mini 的内部机制](<https://www.goodfire.com/research/interpreting-inkling-2-mini>)  
-  Goodfire Research 发布对 Thinking Machines 开源权重模型 Inkling 2 Mini 的可解释性研究，该模型有 24 层，采用 attention residuals 和中间块循环三次的架构。  
-  Goodfire Research（网页） · 2026-11-20 00:00
+- [Prime Intellect 回顾 2026 年 RL Residency：驻留研究员产出的评测与训练环境](<https://www.primeintellect.ai/blog/rl-residency-retrospective>)  
+  Prime Intellect 发文回顾 2026 年 RL Residency 项目，集中展示驻留研究员在评测、训练环境和其它研究上的产出。评测方面包括 Maze Bench——当前最强 LLM 无代码工具时准确率最高仅 16%，有代码工具时最高 23%；以及 Library Design Bench、Agents' Last Exam Linux CLI 等。  
+  Prime Intellect（网页） · 2026-11-19 00:00
 
-- [METR 发布 2026 年 11 月能力测量更新：AI R&amp;D 相关能力每约 3.6 个月翻倍且更难测量](<https://metr.org/blog/2026-11-20-q4-2026-capability-update/>)  
-  METR 发布截至 Opus 5.5 和 GPT-6 Astra 的能力评测更新，发现在 TH1.1 与 TH2 任务上模型时间视野约每 3.6 个月翻倍，可验证子集翻倍时间约 1.65 个月。  
-  METR：Research（网页） · 2026-11-20 00:00
+- [Google 在 MaxText 中实现跨数据中心分布式 LLM 训练：Streaming DiLoCo](<https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>)  
+  Google DeepMind 与 Google Research 团队在开源 JAX 训练框架 MaxText 中实现了 Streaming DiLoCo，用于跨数据中心、跨城域网的分布式 LLM 训练。  
+  Google Developers Blog（RSS） · 2026-11-19 00:00
 
-- [20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor &amp; Fractile: Mega-Rounds Continue](<https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue>)  
-  AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record f…  
-  20VC · 2026-11-19 15:07
+- [用 Tunix 和 Gemma 4 在 Google TPU 上做多轮智能体强化学习](<https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>)  
+  Google 介绍如何用 Tunix 的智能体强化学习流水线，在单台 Cloud TPU v6e-8 上训练多轮工具调用智能体。以 6x6 网格的 Plane Strike 游戏为例，Gemma 4 E2B 在 thinking 模式下经 100 步 agentic GRPO 训练后，胜率从 9.4% 提升到 95%，平均对局步数从 22.44 次降至约 16 次。  
+  Google Developers Blog（RSS） · 2026-11-19 00:00
 
-- [189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](<https://podcast.latepost.com/189>)  
-  「The best model is yet to come, scaling continues.（最好的模型尚未到来，规模化仍在继续。）」 今年 6 月 ，顾全全发推宣告离开字节，推文的最后一句如此写道。 这句话串起了他在字节 3…  
-  晚点聊 · 2026-11-19 08:00
-
-- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](<https://www.youtube.com/watch?v=wX8nDtGIfYA>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA  
-  Latent Space · 2026-11-19 04:00
-
-- [在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离与混部服务](<https://www.lmsys.org/blog/2026-11-19-deepseek-v41-h20>)  
-  在 H20-3e 上优化 DeepSeek-V4.1-Flash 的 PD 分离服务后，最终配置相比 TP4 基线将平均端到端延迟降低 65.5%，输出吞吐提升至 2.91 倍。  
-  LMSYS Blog · 2026-11-19 00:00
+- [Tessl 教程：用测试加 verifier 构建 CLI 文档同步检查](<https://tessl.io/blog/stop-your-docs-drifting-from-your-code-catch-it-on-every-change>)  
+  Tessl 发布三部分系列的第一篇，手把手构建一个让 CLI 文档与代码保持同步的检查：先用 Node.js 测试对比 --help 输出与 README 中的命令列表，再用 Tessl verifier 以自然语言规则让 LLM 判断命令行为变化时 README 是否同步更新。  
+  Tessl：产品与工程博客 · 2026-11-19 00:00
 
 - [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
   「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
@@ -94,22 +86,6 @@
 - [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
   量子位 · 2026-11-09 11:05
 
-- [Edge AI Daily 早报（11月9日）](<https://www.tmtpost.com/8197806.html>)  
-  中期选举后美国46项数据中心公投否决扩张，AI基建进入许可时代；纳指单日跌5.5%、费半跌12%，亚洲市场熔断。Anthropic斥34亿美元购1.7GW燃气发电机，伯恩斯坦估OpenAI至2030年算力支出或达6140亿美元。苹果推…  
-  钛媒体 · 2026-11-09 09:28
-
-- [AI会撞上的下一堵墙可能是水](<https://www.tmtpost.com/8197774.html>)  
-  世界经济论坛的报告估计，全球约45%的数据中心设施位于高水压力地区  
-  钛媒体 · 2026-11-09 09:20
-
-- [Anthropic估值砍到1万亿美元](<https://www.pedaily.cn/first/190888.shtml>)  
-  11月7日，经历了科技股遭遇大规模抛售之后，一些投资者开始下调对人工智能公司Anthropic的估值预期。而在不久前，这家人工智能公司还在为IPO冲击2万亿美元估值做准备。但据相关利益方透露，即便是1.5万亿美元的估值，如今也已经充满…  
-  投资界 · 2026-11-09 08:31
-
-- [OpenAI完成110亿美元新融资，估值1.25万亿美元](<https://www.pedaily.cn/first/190887.shtml>)  
-  据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。资金已于周五划入公司账户。本轮剩余部分——地方政府可能增至最高200亿美元——预计将在未来数周内完成。在推迟了首次公开募股（IPO）…  
-  投资界 · 2026-11-09 08:31
-
 - [GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115488&idx=1&sn=b3c18e00862e1904ea3380441aa39ba5>)  
   APPSO · 2026-11-08 15:26
 
@@ -160,4 +136,12 @@
   Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opu…  
   Latent Space · 2026-10-28 02:40
 
-[返回面板](../README.md) · [上一页](model-3.md) · [下一页](model-5.md) · 第 4 / 5 页
+- [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
+  ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  
+  十字路口 Crossing · 2026-10-26 00:00
+
+- [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](<https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign>)  
+  New Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments  
+  SemiAnalysis · 2026-09-18 22:34
+
+[返回面板](../README.md) · [上一页](model-3.md) · 第 4 / 4 页

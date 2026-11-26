@@ -2,45 +2,89 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [Claude-Mem Cloud Sync](<https://www.producthunt.com/products/claude-mem>)  
+  Switch devices. Keep your AI agents' memory.  
+  Product Hunt · English · 2026-11-26 15:58
+
+- [Superframes](<https://www.producthunt.com/products/superframes-ai-video-editor>)  
+  Brief an AI Director to edit the whole video  
+  Product Hunt · English · 2026-11-26 13:09
+
+- [Pax by Pydantic](<https://www.producthunt.com/products/pydantic>)  
+  A coding agent where even coding is a plugin  
+  Product Hunt · English · 2026-11-26 12:04
+
+- [AgentDE](<https://www.producthunt.com/products/agentde>)  
+  Put all your coding agents in one native Mac window  
+  Product Hunt · English · 2026-11-26 11:15
+
+- [Upsolve Harness 2.0](<https://www.producthunt.com/products/upsolve-ai>)  
+  A data agent that's 2x faster and learns every user  
+  Product Hunt · English · 2026-11-26 06:03
+
+- [WhipDesk](<https://www.producthunt.com/products/whipdesk>)  
+  Control AI coding agents from your phone  
+  Product Hunt · English · 2026-11-26 05:44
+
+- [MeetFolks](<https://www.producthunt.com/products/meetfolks>)  
+  AI Notetaker for In-Person Meetings  
+  Product Hunt · English · 2026-11-26 05:33
+
+- [Remora](<https://www.producthunt.com/products/remora-6>)  
+  The long-term memory layer for AI agents  
+  Product Hunt · English · 2026-11-26 02:28
+
+- [DeskFleet](<https://www.producthunt.com/products/deskfleet>)  
+  Run coding agents together across your team’s machines  
+  Product Hunt · English · 2026-11-26 01:17
+
+- [Antipode](<https://www.producthunt.com/products/antipode>)  
+  Share your unused Claude Code limits without breaking ToS  
+  Product Hunt · English · 2026-11-26 00:53
+
+- [Flurra](<https://www.producthunt.com/products/flurra>)  
+  Ask Claude or ChatGPT to edit your videos  
+  Product Hunt · English · 2026-11-26 00:34
+
+- [Transept AI](<https://www.producthunt.com/products/transept-ai>)  
+  Translate your book in your own voice and prove authorship  
+  Product Hunt · English · 2026-11-26 00:34
+
+- [Ottante](<https://www.producthunt.com/products/ottante>)  
+  Checks the work your AI agents did, right on your Mac  
+  Product Hunt · English · 2026-11-25 23:15
+
+- [Monton](<https://www.producthunt.com/products/monton>)  
+  AI agents that do your agency's busywork  
+  Product Hunt · English · 2026-11-25 21:32
+
+- [NEXUS](<https://www.producthunt.com/products/nexus-42>)  
+  Map codebase locally and AI changes only what you approved  
+  Product Hunt · English · 2026-11-25 20:41
+
 - [PH今日热榜 \| 2026-11-25](<https://decohack.com/producthunt-daily-2026-11-25/>)  
   distribution.dev：通过一个活动在多个网站上向开发者投放广告。；Granular.Build：让你的AI助手在可视化工作空间中发挥作用；Viktor Code：编码代理了解你的代码库，而维克托了解你的公司。  
   Product Hunt 中文 · DecoHack · 2026-11-25 15:00
-
-- [OpenEight](<https://www.producthunt.com/products/openeight>)  
-  The deterministic control layer for AI agents  
-  Product Hunt · English · 2026-11-25 14:58
-
-- [MAGI-2](<https://www.producthunt.com/products/magi-1>)  
-  Sand AI's 480B model for cinematic video generation  
-  Product Hunt · English · 2026-11-25 13:35
-
-- [Statefold](<https://www.producthunt.com/products/statefold-2>)  
-  Coding agents that keep working while you're away  
-  Product Hunt · English · 2026-11-25 09:45
-
-- [PeerBand](<https://www.producthunt.com/products/peerband>)  
-  Reach every coding agent you run, from anywhere  
-  Product Hunt · English · 2026-11-25 09:23
-
-- [Notely](<https://www.producthunt.com/products/notely-8>)  
-  Notion-grade power &amp; BYOK AI, stored locally in SQLite  
-  Product Hunt · English · 2026-11-25 08:50
 
 - [MemoryWorks](<https://www.producthunt.com/products/memoryworks>)  
   Company memory for people and AI agents  
   Product Hunt · English · 2026-11-25 04:30
 
-- [Qube](<https://www.producthunt.com/products/qube-6>)  
-  An AI agent for anyone  
-  Product Hunt · English · 2026-11-25 01:55
+- [Hub](<https://www.producthunt.com/products/hub-20>)  
+  Run 100 Claude Code or Codex sessions like 5  
+  Product Hunt · English · 2026-11-25 02:34
 
 - [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
   Build an always-on AI team with shared memory  
   Product Hunt · English · 2026-11-24 23:39
 
-- [Canva MCP](<https://www.producthunt.com/products/canva>)  
-  Turn any AI agent into a creative powerhouse  
-  Product Hunt · English · 2026-11-24 23:05
+- [Bifura](<https://www.producthunt.com/products/bifura>)  
+  See your website the way AI agents do  
+  Product Hunt · English · 2026-11-24 23:04
+
+- [QA.tech MCP](<https://www.producthunt.com/products/qa-tech>)  
+  Verify every change from your IDE with QA agents  
+  Product Hunt · English · 2026-11-24 22:28
 
 - [Hai](<https://www.producthunt.com/products/hai-4>)  
   Your AI assistant that actually makes the phone call  
@@ -54,29 +98,13 @@
   Letter Visitors：在你的网站上查看访客信息；Motionflare：将您的网站在几分钟内转变为令人惊艳的启动视频。；Gauth Personal Study Agent：一个能够记住你学习困难的AI学习助手  
   Product Hunt 中文 · DecoHack · 2026-11-24 15:00
 
-- [Snag by Parallel](<https://www.producthunt.com/products/snag>)  
-  Find the best deals on products from your agents  
-  Product Hunt · English · 2026-11-24 09:50
-
-- [tday.com](<https://www.producthunt.com/products/tday>)  
-  AI-recorded Screen Studio style editable demos  
-  Product Hunt · English · 2026-11-24 05:22
-
-- [Claude Ship](<https://www.producthunt.com/products/claude-code>)  
-  Ship code as fast as you can write it  
-  Product Hunt · English · 2026-11-24 05:00
-
 - [3way.Social MCP](<https://www.producthunt.com/products/3way-social>)  
   Ask your AI to find link partners. You approve the deals.  
   Product Hunt · English · 2026-11-24 02:57
 
-- [Finseo](<https://www.producthunt.com/products/finseo-ai>)  
-  Company brain + outreach to get your brand mentioned by AI  
-  Product Hunt · English · 2026-11-24 00:47
-
-- [Viktor Code](<https://www.producthunt.com/products/viktor>)  
-  Coding agents know your repo. Viktor knows your company.  
-  Product Hunt · English · 2026-11-24 00:35
+- [Chunkify](<https://www.producthunt.com/products/chunkify>)  
+  Video Streaming API for Developers &amp; AI Agents  
+  Product Hunt · English · 2026-11-23 18:45
 
 - [PH今日热榜 \| 2026-11-22](<https://decohack.com/producthunt-daily-2026-11-22/>)  
   AlterContacts：智能客户关系助手，能够主动思考和行动；AI Context Flow MCP：您掌控的记忆，能够与每个代理、工具和团队保持同步。；Codemany：让GitHub Actions速度提升三倍  
@@ -86,16 +114,8 @@
   AI code editor where agents build, run and test your app  
   Product Hunt · English · 2026-11-21 20:32
 
-- [K-Stra](<https://www.producthunt.com/products/k-stra>)  
-  Geomarketing for Australia, with an AI that does the maths  
-  Product Hunt · English · 2026-11-20 22:25
-
 - [Airbot](<https://www.producthunt.com/products/airbots>)  
   The AI chief of staff that texts you first  
   Product Hunt · English · 2026-11-20 00:45
-
-- [PH今日热榜 \| 2026-11-19](<https://decohack.com/producthunt-daily-2026-11-19/>)  
-  S.Space：你的团队和所有人的 AI 助手，在同一个工作空间里。；Bluedot Phone Calls：电话会议的AI记笔记助手；Toone：Grokbot与n8n/zapier相遇  
-  Product Hunt 中文 · DecoHack · 2026-11-19 15:00
 
 [返回面板](../README.md) · 第 1 / 1 页
