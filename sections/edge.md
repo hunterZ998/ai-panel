@@ -20,11 +20,15 @@ Tether于11月11日发布0.8B BotPsy工具调用模型，开放Apache 2.0权重�
 
 [QVAC BotPsy官方说明](<https://qvac.tether.io/blog/on-device-ai-agent-botpsy>) · [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](<https://arxiv.org/html/2605.00334v1>) · [Anthropic：Building Effective Agents](<https://www.anthropic.com/engineering/building-effective-agents>)
 
-## 相关资讯 · 4 条
+## 相关资讯 · 5 条
 
-- [因隐私问题，荷兰多个组织要求法院叫停 Meta 智能眼镜销售](<https://www.ithome.com/1/033/126.htm>)  
-  IT之家 11 月 26 日消息，据路透社报道，荷兰多家消费者与数字权益组织于周四向法院提出申请，要求叫停 Meta 旗下 AI 智能眼镜在荷兰的销售。原告方主张，这款眼镜允许佩戴者在他人不知情的情况下进行拍摄，违反了欧洲隐私法规。…  
-  IT之家 · 2026-11-26 22:59
+- [双十一散场，AI硬件挤进大众购物车为什么反而更难做了？](<https://36kr.com/p/4087405673879432?f=rss>)  
+  数万元的AI工作站、几千元的智能眼镜，还有智能水杯、随身录音卡、陪伴玩具。 这些价格、形态和用途相去甚远的商品，在刚刚过去的双11，出现在了同一张大促成绩单上。它们各自回应着不同的生活需求，却因为共享一个技术前缀，被一并归入了这场消费热潮。  
+  36氪 · 2026-11-27 10:58
+
+- [与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市](<https://www.ithome.com/1/033/203.htm>)  
+  IT之家 11 月 27 日消息，《科创板日报》今天（27 日）上午独家获悉，小米 AI 眼镜 2 代或将于 12 月中旬 与小米 18 标准版手机同步发布 ，并于当天上市开售。 据悉，小米 AI 眼镜 2 代包括 Q95 Pro、Q…  
+  IT之家 · 2026-11-27 10:21
 
 - [Nothing 公布 AI 耳机 Ear Note 及充电盒细节，12 月 8 日发售](<https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal>)  
   Nothing 在 12 月 8 日发售前公布 AI 耳机 Ear Note 的更多细节：耳机可录制通话，带麦克风的充电盒可录制、转写并总结对话。充电盒新增“Record”按钮用于录制和转写对话，另有“Talk”按钮录制用户自己的声音。CEO Carl Pei 称这是迈向 AI 硬件上下文层的第一步，设备将连接 App 管理录音、转写和 AI 摘要，并支持与多种 AI 智能体交互。  

@@ -38,32 +38,75 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 183 条
+## 相关资讯 · 193 条
 
-- [GPT-6.2额度突然不耐用了？OpenAI承认计费出错](<https://www.163.com/dy/article/LCNMHC1J0511B8LM.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 07:13
+- [国产算力芯片有望成模型推理底座，物理AI迈向动作执行层或加速商业化](<https://www.163.com/dy/article/LCO9S8EO0550WHYR.html>)  
+  网易科技频道 · 网易号 · 2026-11-27 12:51
 
-- [国产大模型集体进军AI4S：年内融资突破200亿元，大模型从“会聊天”转向“](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
+- [港股“大模型双雄”、中芯国际、华虹宏力、兆易创新、天数智芯，集体大涨](<https://www.163.com/dy/article/LCO92DB60519DDQ2.html>)  
+  网易科技频道 · 网易号 · 2026-11-27 12:37
+
+- [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](<https://36kr.com/p/4087449994181000?f=rss>)  
+  Anthropic 最近真是流年不利。 一边是顶着史上最大 IPO 的光环上市不到一周就破发，另一边是自家最能打的 Claude Code 团队，接连有核心成员转投竞争对手 OpenAI。 昨天，Claude Code 核心工程师 Thar  
+  36氪 · 2026-11-27 11:59
+
+- [大模型无法击穿的，才是具身智能真正壁垒](<https://36kr.com/p/4087456845970050?f=rss>)  
+  具身智能洗牌之下，投资人继续用脚投票。 投资界获悉，零次方机器人完成数亿元新一轮融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国正、杰克集团以及多家产业战略投资方。老股东同创伟业、力合基金、接力天使  
+  36氪 · 2026-11-27 11:56
+
+- [全新深蓝 S07/L07 AI 激光版车型行业首批开放域端到端豆包大模型](<https://www.ithome.com/1/033/283.htm>)  
+  IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上，深蓝汽车董事长邓承浩宣布，全新深蓝 S07/L07 AI 激光版车型将 行业首批开放域端到端豆包大模型 。 邓承浩介绍称，过去的车载语音是听懂听清到理解再到执行的三…  
+  IT之家 · 2026-11-27 11:47
+
+- [腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作](<https://www.ithome.com/1/033/282.htm>)  
+  IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。 腾讯混元表示，通过该模型生成的 几何表面整洁、结构…  
+  IT之家 · 2026-11-27 11:44
+
+- [时空智子完成数千万元B轮融资，加速全链路闭环世界模型落地](<https://www.pedaily.cn/first/196070.shtml>)  
+  浙江时空智子大数据有限公司11月27日宣布完成B轮数千万元融资，由光谷科创投、光谷人才基金及同创伟业联合投资。融资资金将主要用于时空基础大模型的研发、行业智能体的持续完善和落地以及顶 尖人才的引进。（投资界讯） 原文链接  
+  投资界 · 2026-11-27 10:38
+
+- [Gemini 4 Carbon点亮8颗太阳，70年几何悬案告破，只用6页神级证明](<https://36kr.com/p/4087355247540614?f=rss>)  
+  你还记得高中地理课上的晨昏线吗？ 这个寻常的物理现象，在数学家眼中却是极具挑战的几何谜题。 如果这颗星球不是完美的圆球，而是被随意捏造、棱角歪斜的「凸多面体」，甚至表面布满平滑与尖锐交错的地形，最少需要挂几颗太阳，才能把它彻底照亮？ 195  
+  36氪 · 2026-11-27 10:33
+
+- [大模型涌入药物研发：闭环、物理卡点和押注验证](<https://36kr.com/p/4087373831371141?f=rss>)  
+  范式变革、大厂落子、热钱变多，今年的AI叙事新在哪，新涌入的模型巨头会给药物研发带来什么？ AI与生物制药的结合不是新鲜事。 产业界的努力主要围绕着一个广为人知的成本法则展开：一款新药从立项到上市，通常要花10到15年，耗费超20亿美元，同  
+  36氪 · 2026-11-27 10:33
+
+- [Karpathy点燃LLM Wiki，中国公司率先做成了企业级产品](<https://36kr.com/p/4087315146963588?f=rss>)  
+  用AI处理复杂资料时，“搜不到东西”不再是问题，“搜出来的东西不可信”、“搜出来的东西Agent用不了”才是。 当前的专业场景里，资料里既有动辄成百上千页的PDF，也有视频、Excel表格、图文混排文件等五花八门的格式。不同材料之间的说法互  
+  36氪 · 2026-11-27 09:59
+
+- [“我把钱退给LP了”](<https://36kr.com/p/4087346257771140?f=rss>)  
+  承认抢不到份额很难吗？很难，谁都不想把好不容易募到的钱还回去。 今年，前沿科技投资几乎成了一个象征嗅觉与站位的共识。LP对“心仪标的”诉求明确，专项基金也得以迅速升温——脑机接口、AI大模型、商业航天、量子科技等赛道上，项目专项基金纵横在各  
+  36氪 · 2026-11-27 09:50
+
+- [相对论和量子力学统一有戏了？GPT-6 Astra参与，83页论文让物理圈炸锅](<https://36kr.com/p/4087282603932297?f=rss>)  
+  「如果这个结论最终被证实，物理学就真正迎来了大一统。」 刚暴击完数学，AI又把「屠刀」伸向物理了。 斯坦福物理学家 Venkatesa Chandrasekaran 发了篇83页的新论文，配合GPT-6 Astra给出了一套 在四维时空中统  
+  36氪 · 2026-11-27 09:44
+
+- [投资界24h\| 马云现身平头哥办公区；蜜雪冰城，间接投了DeepSeek；哈工大系，又排队IPO](<https://www.pedaily.cn/first/196018.shtml>)  
+  平头哥冲刺IPO之际，马云现身办公区与员工合影蜜雪冰城间接入股DeepSeek哈工大系工大卫星启动A股IPO湖北智数产业基金设立，规模4.8亿元宇树科技王兴兴判断5到10年中国机器人年产量或超汽车达2000万台。（投资界） 原文链接  
+  投资界 · 2026-11-27 08:30
+
+- [阿里加码北美招聘，Qwen团队今年已吸纳数百名AI人才](<https://www.pedaily.cn/first/196010.shtml>)  
+  近日，阿里正加大北美招聘力度，主要面向全球顶级AI研究员。Qwen北美团队已开放多个岗位，涉及模型研究、训练与推理、多模态、智能体（Agent）和数据等方向。今年全球已有数百人加入阿里Qwen大模型团队。（投资界）  
+  投资界 · 2026-11-27 08:26
+
+- [前苹果空间智能首席科学家权龙再创业，成立Envision AI](<https://www.pedaily.cn/first/196011.shtml>)  
+  11月26日，界面新闻记者获悉，香港科技大学首个计算机视觉实验室创始人、前苹果空间智能方向首席科学家权龙宣布二次创业，成立Envision AI（格秩科技），聚焦空间与物理基础模型研发。权龙此前创办的三维重建企业Altizure于20…  
+  投资界 · 2026-11-27 08:26
+
+- [国产大模型集体进军AI4S](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
   网易科技频道 · 网易号 · 2026-11-27 07:10
-
-- [GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%](<https://www.ithome.com/1/033/138.htm>)  
-  IT之家 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误 —— 此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Co…  
-  IT之家 · 2026-11-27 06:59
 
 - [TDK Bets on AI Data Centers and Robots to Fuel Sensor Growth](<https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth>)  
   Bloomberg · 2026-11-27 05:00
 
-- [Nvidia 暂停向东南亚四国出货服务器芯片](<https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/>)  
-  据 WSJ 报道，Nvidia 已通知 Dell、Super Micro 等制造伙伴无限期暂停向马来西亚、新加坡、泰国和印尼出货服务器，以评估区域伙伴是否符合美国出口要求。背景是中国企业此前通过这些国家的数据中心远程使用 Nvidia 芯片，美国商务部已于本月关闭该漏洞；Institute for Progress 估算这类远程数据中心约供给中国 24% 的 AI 算力。  
-  TechCrunch：AI（RSS） · 2026-11-27 04:03
-
 - [OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快](<https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/>)  
   OpenAI 修复 GPT-6.2 推出期间的计费错误，据 Codex 工程师 Thibault Sottiaux 称，用户现在触及限额的速度比上周快 40%（Astra）和 25%（Sol），但额度仍比 GPT-6 Astra 和 GPT-6.1 Sol 更耐用。  
   The Decoder：AI News（RSS） · 2026-11-27 01:28
-
-- [GTA VI 全人工开发 vs Anthropic 813亿美元IPO：TechCrunch 论效率不该是唯一信条](<https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/>)  
-  TechCrunch 作者对比同一周的两个纪录事件：Rockstar 开发的 GTA VI 成为 Metacritic 史上评分最高游戏，首发日收入 37.9 亿美元，全程未使用生成式 AI，约 5000 人耗时十余年打造，含 30000 个有独特外观和性格的 NPC；同期 Anthropic 以 813 亿美元估值完成史上最大 IPO。  
-  TechCrunch：AI（RSS） · 2026-11-27 00:00
 
 - [在 OpenAI 和 Anthropic 封禁蒸馏数据后，月之暗面转向 Google 与 Meta 模型获取训练数据](<https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/>)  
   据 Reuters 援引消息人士报道，因美国封堵云漏洞、NVIDIA 限制出货且 OpenAI 与 Anthropic 阻止数据抓取蒸馏，Z.AI 约 3 万亿参数的 GLM-5.5 可能从 11 月推迟到 2027 年第一季度，为此先发布了 7500 亿参数的 GLM-5.4 并称新设计可媲美 2 至 3 万亿参数系统。  
@@ -96,18 +139,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [能力分超多家国际头部厂商：元任务 AI 实验室开源决策模型排全球第二](<https://36kr.com/p/4086482287864448?f=rss>)  
   随着多家国际头部厂商相继推出决策模型，一款开源模型在第三方榜单上取得了较高的能力分。元任务 AI 实验室与清华经管商业模式创新研究中心联合研发的 MetaDecision-31B-Rain，在 JevBench 开源权重榜排全球第二、中国团  
   36氪 · 2026-11-26 19:25
-
-- [历史首次，马斯克放100万颗卫星，建太空数据中心，美国批准了](<https://36kr.com/p/4086411376142979?f=rss>)  
-  智东西11月26日消息，今日，美国联邦通信委员会（FCC）宣布，批准马斯克旗下SpaceX部署 至多100万颗计算卫星 ，组成名为Starmind的太空数据中心星座，为地球提供AI计算服务，在轨道上处理海量数据。FCC透露，这是 美国历史上  
-  36氪 · 2026-11-26 18:58
-
-- [Anthropic上市：从Uber的预算看Claude怎么赚钱](<https://www.tmtpost.com/8218636.html>)  
-  Anthropic 在纳斯达克上市。今年前三季度，它近八成收入来自按使用量计费的业务。  
-  钛媒体 · 2026-11-26 18:34
-
-- [闪科光联连续完成两轮数千万元融资，卡位 AI 算力「最后一米」光互连新赛道](<https://www.pedaily.cn/first/195737.shtml>)  
-  上海闪科光联科技有限公司11月26日宣布，连续完成两轮融资，累计数千万元人民币。种子轮由励石创投独家投资，天使轮由商汤国香、长石资本等联合领投，多家产业基金跟投。资金将用于核心芯片研发与封装样品线建设，公司已启动下一轮融资，推进Mic…  
-  投资界 · 2026-11-26 17:52
 
 - [Epic CEO 斯威尼公开批评 Claude 误判其集合论研究为模型蒸馏](<https://www.ithome.com/1/032/822.htm>)  
   Epic Games CEO 蒂姆·斯威尼本周在 X 上称 Claude 是垃圾，因为模型中断了他的集合论研究并指控其在做模型蒸馏，而他用公司账号每天仅输入一两个小时提示词。蒸馏指用强模型输出生成训练数据，各家实验室的服务条款均禁止。此事暴露了防蒸馏检测过于激进、开始干扰正常用户高水平工作的问题，Anthropic 后续是否调整过滤机制尚不明确。  
@@ -153,21 +184,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   百优象科技是一家算力与影像设备解决方案提供商，主营计算机软硬件、面向高端AI计算硬件与智算集群，围绕合规筛选、质检交付、库存调度和资源配置，提供标准化流通服务。该公司自主研发芯片性能增强优化软件、服务器集群资源调度管理系统、集成电路性…  
   IT桔子 · 2026-11-26 10:19
 
-- [闪科光联连续完成两轮融资，聚焦AI算力「最后一米」光互连新赛道](<https://www.pedaily.cn/first/195533.shtml>)  
-  上海闪科光联科技有限公司近日宣布，于11月26日完成两轮累计数千万元融资，种子轮由励石创投独家投资，天使轮由商汤国香等联合领投，多家产业基金跟投。资金将用于核心芯片研发、封装样品线建设，公司正启动下一轮融资，推进MicroLED光互连…  
-  投资界 · 2026-11-26 09:15
-
 - [三部委印发《新一代通信网建设实施方案》：探索大小模型协同、人机协同等网络运维新范式](<https://www.ithome.com/1/032/562.htm>)  
   工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》，提出探索大小模型协同、人机协同、机机协同等网络运维新范式。方案要求搭建网络大模型和智能体开发工具链与自动化运维平台，围绕网络建设、管理、运营场景打造特色智能体，并探索复杂场景下智能体协同技术，逐步建成高等级自智网络。  
   IT之家·人工智能 · 2026-11-26 09:03
-
-- [周群飞已投百家机器人](<https://www.pedaily.cn/first/195508.shtml>)  
-  女首富掌舵的蓝思科技，披露了一个颇为惊人的数字：公司已在一级市场战略投资超过50家机器人产业链企业，覆盖超过100家国内机器人客户。 从具身智能大模型、机器人本体，到灵巧手、脑机接口，甚至机器人租赁，蓝思科技的投资触角几乎延伸到了整条…  
-  投资界 · 2026-11-26 08:37
-
-- [Anthropic上市次日，创始人兄妹套现5.6亿美元](<https://www.pedaily.cn/first/195501.shtml>)  
-  根据监管文件，人工智能巨头Anthropic的首席执行官兼联合创始人达里奥·阿莫代伊（Dario Amodei）在该公司上市次日出售了价值2.804亿美元的股票。与此同时，他的妹妹兼公司联合创始人丹妮拉·阿莫代伊（Daniela Am…  
-  投资界 · 2026-11-26 08:31
 
 - [Evaluating Recent Model Releases on GDPx](<https://newsletter.semianalysis.com/p/evaluating-recent-model-releases>)  
   GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google…  
@@ -196,25 +215,5 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [vLLM 新加坡 Meetup 复盘：更快 Prefill、智能体写内核与 Vera Rubin 路线](<https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/>)  
   vLLM 团队复盘 11 月 13 日在新加坡 SGInnovate 举办的技术 meetup，由 Inferact 和 NVIDIA 主办。  
   PyTorch：Blog（RSS） · 2026-11-26 02:03
-
-- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
-  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
-  The Verge：AI（RSS） · 2026-11-26 01:44
-
-- [Runway 与 Meta 将 Praxis-1 引入 ExecuTorch](<https://runwayml.com/news/company-news/runway-meta-praxis-1-executorch>)  
-  Runway 的开源权重机器人世界动作模型 Praxis-1 现已通过 Meta PyTorch 团队的工作，在 ExecuTorch 与 NVIDIA TensorRT 上运行。  
-  Runway：News（网页） · 2026-11-26 01:21
-
-- [Baseten 如何为推理工作负载实现最小权限访问](<https://www.baseten.co/blog/least-privilege-access-for-inference-workloads>)  
-  Baseten 推出面向推理工作负载的最小权限访问控制，用 OIDC 短期令牌替代长期云密钥，并通过 BDN 只读卷挂载权重，使服务副本无需访问原始存储桶。运行时 OIDC 让容器按需获取临时云凭证拉取 LoRA 适配器，出站限制则把连接限定在模型实际调用的主机。  
-  Baseten 工程博客（网页） · 2026-11-26 00:49
-
-- [Newcomer：AI公开市场恐慌未传导至一级市场，推理创业公司或成风向标](<https://www.newcomer.co/p/vc-funding-keeps-flowing-as-nvidia>)  
-  Newcomer撰文分析AI公开市场情绪恶化但私募市场仍在运转，Sierra以300亿美元估值融资超10亿美元，Cognition传以750亿美元估值洽谈。文章指出，公开市场对AI的悲观情绪尚未传导至私募市场，但推理创业公司可能成为先行信号；neocloud要求推理服务商预付高达50%合同金额以锁定算力，使原本轻资产的业务模式面临资本压力。  
-  Newcomer 新闻长文（RSS） · 2026-11-26 00:48
-
-- [上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法](<https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph>)  
-  Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS.md 的严格规则。  
-  Google AI：DEV 作者专属（RSS） · 2026-11-26 00:19
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页

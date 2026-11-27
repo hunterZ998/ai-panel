@@ -20,14 +20,22 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 8 条
+## 相关资讯 · 10 条
 
-- [国产大模型集体进军AI4S：年内融资突破200亿元，大模型从“会聊天”转向“](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
+- [粒影生物完成过亿元A+轮融资，为AI4S模型量身定制私有数据库](<https://www.pedaily.cn/first/196087.shtml>)  
+  深圳粒影生物科技有限公司11月27日完成过亿元A 轮融资，皓禾资本领投，光明科学城产业发展集团、南京大健康基金及老股东跟投。募集资金投向四条线：AI 平台升级与干湿一体化设备量产、核心产品研发与关键医疗器械注册、产业化产能建设、市场与…  
+  投资界 · 2026-11-27 11:15
+
+- [素源矩阵完成天使轮融资](<https://www.itjuzi.com/investevent/14708780>)  
+  素源矩阵是面向材料工业的原生 AI Agent 决策+控制系统，以科学智能与知识驱动的新型工业 AI，深度融合材料机理与工艺经验，让制造从“经验试错”走向“结果确知”，真正实现材料在生产中价值最大化，引领智造新模式。近日，素源矩阵完成…  
+  IT桔子 · 2026-11-27 10:59
+
+- [国产大模型集体进军AI4S](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
   网易科技频道 · 网易号 · 2026-11-27 07:10
 
-- [腾讯用 AI 挑战药物研发领域前沿难题：成果登 Nature，在减重降糖、肿瘤免疫方向完成验证](<https://www.ithome.com/1/033/125.htm>)  
-  IT之家 11 月 26 日消息，腾讯今日宣布，11 月 25 日，腾讯生命科学实验室的一项 AI for Science 研究成果，正式以第一单位登上《Nature》主刊。 据介绍， 腾讯用 AI 挑战了药物研发领域的一个前沿难题：…  
-  IT之家 · 2026-11-26 22:58
+- [腾讯 AI 平台 ORIDTP 从头设计双靶点多肽，成果以第一单位登上 Nature](<https://www.ithome.com/1/033/125.htm>)  
+  腾讯宣布其生命科学实验室的 AI for Science 研究成果于 11 月 25 日以第一单位登上《Nature》主刊，挑战高活性双靶点治疗性多肽的从头设计。  
+  IT之家·人工智能 · 2026-11-26 22:58
 
 - [理论物理学家如何看待 AI 改变本行：TheoPhysEval 基准被 GPT-6 Astra 解出近九成](<https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/>)  
   Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  

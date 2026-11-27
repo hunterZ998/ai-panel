@@ -2,6 +2,26 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页
 
+- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
+  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
+  The Verge：AI（RSS） · 2026-11-26 01:44
+
+- [Runway 与 Meta 将 Praxis-1 引入 ExecuTorch](<https://runwayml.com/news/company-news/runway-meta-praxis-1-executorch>)  
+  Runway 的开源权重机器人世界动作模型 Praxis-1 现已通过 Meta PyTorch 团队的工作，在 ExecuTorch 与 NVIDIA TensorRT 上运行。  
+  Runway：News（网页） · 2026-11-26 01:21
+
+- [Baseten 如何为推理工作负载实现最小权限访问](<https://www.baseten.co/blog/least-privilege-access-for-inference-workloads>)  
+  Baseten 推出面向推理工作负载的最小权限访问控制，用 OIDC 短期令牌替代长期云密钥，并通过 BDN 只读卷挂载权重，使服务副本无需访问原始存储桶。运行时 OIDC 让容器按需获取临时云凭证拉取 LoRA 适配器，出站限制则把连接限定在模型实际调用的主机。  
+  Baseten 工程博客（网页） · 2026-11-26 00:49
+
+- [Newcomer：AI公开市场恐慌未传导至一级市场，推理创业公司或成风向标](<https://www.newcomer.co/p/vc-funding-keeps-flowing-as-nvidia>)  
+  Newcomer撰文分析AI公开市场情绪恶化但私募市场仍在运转，Sierra以300亿美元估值融资超10亿美元，Cognition传以750亿美元估值洽谈。文章指出，公开市场对AI的悲观情绪尚未传导至私募市场，但推理创业公司可能成为先行信号；neocloud要求推理服务商预付高达50%合同金额以锁定算力，使原本轻资产的业务模式面临资本压力。  
+  Newcomer 新闻长文（RSS） · 2026-11-26 00:48
+
+- [上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法](<https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph>)  
+  Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS.md 的严格规则。  
+  Google AI：DEV 作者专属（RSS） · 2026-11-26 00:19
+
 - [AI data centers are becoming harder to build, and neoclouds are feeling it](<https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/>)  
   ⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as n  
   TechCrunch · 2026-11-25 23:41
@@ -14,21 +34,49 @@
   Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  
   Ars Technica：AI（RSS） · 2026-11-25 20:00
 
-- [Avicena获得超1亿美元C轮融资](<https://www.itjuzi.com/investevent/14705552>)  
-  Avicena是一家Micro-LED互连技术开发商，首创基于 Micro‑LED 的 LightBundle™超低功耗高速互连方案，替代传统铜互连，用于 AI 与高性能算力集群内芯片、内存之间的数据传输，具备高带宽密度、低能耗、远距…  
-  IT桔子 · 2026-11-25 18:35
+- [PrismML 发布三元量化模型 Ternary Bonsai 2.5 27B，54 GB 压缩至 5.9 GB](<https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/>)  
+  PrismML 发布基于 Qwen3.8-27B 的压缩模型 Ternary Bonsai 2.5 27B，通过三元量化把每个权重压缩为 -1、0 或 +1 三种取值，内存占用仅 5.9 GB，而全精度约需 54 GB。  
+  The Decoder：AI News（RSS） · 2026-11-25 19:51
 
-- [长江词元完成超3000万元天使轮融资](<https://www.itjuzi.com/investevent/14708496>)  
-  长江词元由长江产业集团牵头，联合市场化专业团队、人工智能独角兽企业联合组建。定位：AI 词元 / 算力调度运营平台，搭建「算力投资 + 算力运营 + 词元输出 + 产业协同」全链条模式，面向湖北政企客户提供大模型词元集中集采、统一接入…  
-  IT桔子 · 2026-11-25 18:15
+- [MIT 团队发现：不真实的训练数据反而让 AI 气候预测更可靠](<https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/>)  
+  MIT 联合 ETH Zurich 和帝国理工学院提出一种用合成极端情景数据训练 AI 气候模型的方法，只需一次大规模物理模拟即可完成训练，而此前需要六到八次。该团队称，2050 年 CO2 骤升、2037 年甲烷骤降这类针对性极端变化能让 AI 更精确理解气候系统，并能可靠计算局部环境政策的影响。  
+  The Decoder：AI News（RSS） · 2026-11-25 18:47
 
-- [Nidus获得3000万美元战略投资](<https://www.itjuzi.com/investevent/14708679>)  
-  Nidus是一家具身智能科技研发商，研发机器人基础模型，为传统工业机器人提供泛化操作能力，主打国防工厂线束精密装配自动化，采用本地化主权 AI 框架，保障涉密生产环境下数据可控，商业化上线 4 个月即达成七位数营收。近日，Nidus获…  
-  IT桔子 · 2026-11-25 16:20
+- [英伟达在 Hugging Face 开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
+  英伟达在 Hugging Face 公开 Nemotron-Labs-Image-30B-A3B 模型权重。  
+  IT之家·人工智能 · 2026-11-25 18:37
 
-- [Vero Security获得1100万美元种子轮融资](<https://www.itjuzi.com/investevent/14708664>)  
-  Vero Security是一家人工智能安全工程平台提供商，平台核心 AI Runtime Governor 对企业 AI 智能体、大模型应用做运行时风险检测与策略强制执行，支持自然语言安全目标自动转化为管控规则，覆盖终端、云、Saa…  
-  IT桔子 · 2026-11-25 14:52
+- [小红书开源 3DCodeFactory：全自动合成复杂 3D 多轮代码训练数据](<https://mp.weixin.qq.com/s/uX76wMlAIA69bY1tE-I2ng>)  
+  小红书发布开源 3D 数据合成框架 3DCodeFactory，并开源数据集 3DCodeFactory-Data，含 5,045 个复杂 3D 任务多轮交互轨迹，单条轨迹平均超 100 万 tokens，总规模 5.52B tokens。  
+  公众号：小红书技术（dots.llm） · 2026-11-25 17:59
+
+- [Sand.ai 发布视频生成模型 MAGI-2，总参数量 480B](<https://www.ithome.com/1/032/124.htm>)  
+  Sand.ai 三呆科技今日发布视频生成模型 MAGI-2，总参数量从 114B 扩展至 480B，激活参数量增至 28B，训练数据规模扩大约 3 倍。模型支持单次生成 4–30 秒视频、一镜到底与多镜头切换，单次最多输入 10 张图片、5 段视频和 5 段音频共 20 份素材，支持 2 万字符提示词和对已有视频的二次编辑，并已完成海光、摩尔线程等国产芯片适配。  
+  IT之家·人工智能 · 2026-11-25 14:50
+
+- [谷歌 DeepMind 论文《AGI 之后是什么？》预估 AI 任务成本十年降百万分之一](<https://www.ithome.com/1/032/114.htm>)  
+  谷歌 DeepMind 研究所 11 月 19 日发布《AGI 之后是什么？》论文，提出"认知工业化"概念，认为 AI 正让脑力劳动规模化生产。论文指出过去十年 AI 有效算力每年至少增长 10 倍，若增速不变，今天需约 10 亿美元算力的认知任务十年后成本可能仅约 1,000 美元，降幅达百万分之一。  
+  IT之家·人工智能 · 2026-11-25 14:27
+
+- [字节跳动开源异步强化学习后训练框架 Laminar](<https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/>)  
+  香港大学与字节跳动 Seed 团队开源异步 RL 后训练框架 Laminar，将 rollout、缓冲、训练与权重传输解耦为独立循环。在 Qwen3-Coder-30B-A3B-Instruct 上，SWE-bench Verified 得分从 46.6% 提升至 52.2%，样本量减少 33%、GPU 小时减少 64%，论文中吞吐最高提升 5.48 倍。  
+  MarkTechPost（RSS） · 2026-11-25 13:42
+
+- [PrismML 发布 Ternary Bonsai 2.5 27B：约 1/9 体积保留 93.7% 编程能力，手机电脑可跑](<https://www.ithome.com/1/032/101.htm>)  
+  美国 AI 公司 PrismML 于 11 月 24 日发布 Ternary Bonsai 2.5 27B 模型，基于 Qwen3.8 27B 基座，采用权重仅取 -1、0、1 的三值量化，最紧凑格式下仅占 5.9GB 内存，约为全精度版本（约 53.8GB）的九分之一，保留约 93.7% 的 SWE-bench Verified 得分（75.6 对 80.6）。  
+  IT之家·人工智能 · 2026-11-25 13:36
+
+- [高盛：美国数据中心建设热潮有望持续至 2028 年，推高电力与天然气需求](<https://www.ithome.com/1/032/089.htm>)  
+  高盛预计，受人工智能热潮推动，美国数据中心电力容量的强劲增长将持续至 2028 年，届时有望新增 52 吉瓦。今年以来美国数据中心电力容量及需求增长近 30%，贡献了美国电力需求总增量的三分之一以上。这一扩张可能加剧电力市场供应紧张并推高天然气需求，强化高盛对 2028 至 2030 年亨利枢纽天然气价格的看涨预期。  
+  IT之家·人工智能 · 2026-11-25 12:33
+
+- [Latent Space AINews：Gemini 4 Neon 发布创 Day-1 用量纪录，Google DeepMind 被视为重回前沿实验室行列](<https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/>)  
+  Latent Space AINews（11/23-11/24）汇总称，在 Gemini 3 进展不及预期、高层离职三个月后，Gemini 4 Neon 的发布被视为 Google DeepMind 全面回归前沿实验室的标志。Neon 在 Google 付费 API 上创下 Day-1 用量纪录，Antigravity 日均 token 量较六周前 Argon 发布时增长 82%；Perplexity 的 Neon token 用量已突破 1200 亿，三天内日用量翻倍。同期汇总还涵盖多家实验室的模型发布、评测基准…  
+  Latent Space（RSS） · 2026-11-25 12:29
+
+- [Anthropic 上市不到一周跌破 83 美元发行价](<https://www.ithome.com/1/031/983.htm>)  
+  Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元，单日下跌 6.54%，盘中最低约 76 美元，较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2,000 亿美元的压力。  
+  IT之家·人工智能 · 2026-11-25 11:29
 
 - [杨立昆怒怼 Anthropic CEO 阿莫迪：炒作 AI 危险论是为了掌握控制权](<https://www.ithome.com/1/031/960.htm>)  
   杨立昆在 X 平台发文怒怼 Anthropic CEO 达里奥·阿莫迪，称其自 GPT-2 以来一直炒作 AI 的危险性，目的是让开源模型被列为非法、让自己掌握控制权，并称他离开 OpenAI 只是因为在那里无法掌握控制权。他将这种做法比作奥斯曼帝国禁止阿拉伯语印刷机，是一种新的中世纪蒙昧主义，阻止人们自由获取多元知识。  
@@ -53,8 +101,8 @@
   算力市场的“定心丸”，他回来了。 11月23日，黄仁勋回归英伟达重新出任CEO，英伟达股价开盘上涨30%，并带动美国AI市场短暂复苏；与英伟达关系密切的NeoCloud公司CoreWeave、Nebius、IREN股价也一度飙升超过2…  
   硅谷101 · 2026-11-25 07:30
 
-- [张小珺对话前xAI预训练成员沈驿康，复盘2026年大模型、RSI与硅谷创业](<https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62>)  
-  张小珺播客2026年复盘节目，嘉宾为前xAI预训练团队成员、Learning Machine创始人沈驿康。节目保留黄仁勋辞职一周内录制的硅谷情绪，讨论xAI解散多模态团队及模型未跻身T0的原因，复盘2026年大模型跳变时刻，分析RSI、持续学习与Personal Agent，并分享预训练数据配比、数值稳定等关键路径与蒸馏的长期代价。  
+- [张小珺对话前xAI预训练成员沈驿康，复盘2026年大模型、RSI与预训练关键路径](<https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62>)  
+  张小珺发布2026年度复盘播客，嘉宾为前xAI预训练团队成员、Learning Machine创始人沈驿康，录制于黄仁勋辞职后一周、其复职前一天，保留了震荡中的硅谷情绪。内容涵盖xAI模型未进T0的内部原因、近期解散多模态团队、RSI与持续学习、Personal Agent、预训练的数据配比与数值稳定等关键路径、蒸馏的长期代价，以及硅谷创业资源向头部集中、垂直模型公司减少的趋势。  
   张小珺商业访谈录（小宇宙） · 2026-11-25 07:30
 
 - [Meta 工程博客详解 Facebook Your Algorithm 如何用 LLM 把自然语言偏好接入推荐排序](<https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/>)  
@@ -96,10 +144,6 @@
   历史学教授 Mark Humphries 分享了用 GPT-6.2 Astra 做历史研究的案例：模型仅用少量提示，22 分钟内就通过公开一手和二手资料，自主确认了 Yale Beinecke Library 藏 1808 年匿名画册的作者是 vicomte de Chabot，还在纸质档案中发现一份新的日记线索并得到验证，该发现本身对加拿大和毛皮贸易史学界有重要价值。  
   Simon Willison 博客 · 2026-11-25 00:53
 
-- [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](<https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/>)  
-  Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and  
-  TechCrunch · 2026-11-25 00:10
-
 - [Artificial Analysis 发布 AA-Robotics-Sim v0.1，测试语言模型控制仿真人形机器人](<https://artificialanalysis.ai/articles/aa-robotics-sim>)  
   Artificial Analysis 推出 AA-Robotics-Sim v0.1，让前沿语言模型在编码 Agent 框架中控制仿真 Unitree G1 人形机器人（29 关节、三指手、头部相机），完成 10 项家庭与轻工业任务，每任务 5 次练习后在新场景评估 10 次。  
   Artificial Analysis 完整文章（网页） · 2026-11-25 00:00
@@ -134,49 +178,5 @@
 - [徐工用火山引擎 Agent+Seedance 把维保视频制作从1个月压到1周](<https://mp.weixin.qq.com/s/7D_YIP9sTCcd9ghw7xkm2A>)  
   徐工与火山引擎合作，用 Agent+Seedance 做视频、Seedream 做图片、豆包大模型写文字、知识引擎 VeKnow 搭底座，把单条维保视频制作时间从1个月压到1周，成本从约30000元降到约5000元，降幅约80%。服务手册编写改为 AI 先出初稿、工程师审核定稿，效率提升50%，原先一份手册需研发和服务部门合计约55人/天。  
   公众号：火山引擎 · 2026-11-24 11:00
-
-- [蚂蚁百灵发布生理信号基础模型 LingSante-Pulse，从30秒波形预测六年疾病风险](<https://mp.weixin.qq.com/s/xidWztAK7Fob87FhoD5fzQ>)  
-  蚂蚁百灵团队发布生理信号基础模型 LingSante-Pulse，在超过15万小时的多场景生理序列数据上预训练，用单一冻结编码器统一处理 EEG、ECG、PPG、EMG 等多种生理信号。  
-  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
-
-- [蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升](<https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g>)  
-  蚂蚁百灵大模型发布并开源 Ling-3.2-air，延续 Ling-3.0-flash-VL 原生多模态架构，总参数 1240 亿、每 Token 激活 55 亿，支持文本、图像和视频输入。  
-  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
-
-- [OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役](<https://www.ithome.com/1/031/271.htm>)  
-  OpenAI 宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，此前该模型已在 ChatGPT Work 和 Codex 亮相不到一周。  
-  IT之家·人工智能 · 2026-11-24 08:49
-
-- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
-  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
-  OpenAI · 2026-11-24 08:00
-
-- [AI 会像灯泡一样通缩还是像铜一样复利增长：Tomasz Tunguz 分析 token 价格弹性](<https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars/>)  
-  Tomasz Tunguz 分析 AI token 价格弹性，判断行业更接近铜而非灯泡：Ramp 上价格每降 1% 带动 token 量增 4.3%，OpenRouter 为 6.8%；Anthropic 上半年收入 13.6 倍增至 163 亿美元，Opus 4.5 降本后季度增速从 48% 跳到 132%。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-24 08:00
-
-- [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
-  vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
-
-- [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
-  百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
-
-- [谷歌 DeepMind 用 Gemini 4 智能体结合 Lean 验证优化量子算法，最高提速 290 倍](<https://www.ithome.com/1/031/232.htm>)  
-  谷歌 DeepMind 与 Google Quantum AI 团队于 11 月 23 日发布联合研究，利用多组 Gemini 4 智能体协同优化量子算法，并用形式化定理证明器 Lean 对每个结果做数学验证，相关 Lean 库和已验证方案已在 GitHub 开源。  
-  IT之家·人工智能 · 2026-11-24 06:37
-
-- [Besimple 用 Baseten Training 微调 Nemotron 3.5 Transcribe 与 Qwen3-ASR，MedDictate Term-WER 低至 0.87%](<https://www.baseten.co/blog/post-train-your-own-medical-asr-model-to-outperform-the-frontier>)  
-  Besimple 与 Baseten 合作，用约 500 美元 GPU 成本和 813 小时语音数据微调开源 ASR 模型，在 MedDictate 基准上 Nemotron 3.5 Transcribe 医疗术语词错率（Term-WER）降至 0.87%，较基座模型改进 69%，Qwen3-ASR 降至 2.05%。  
-  Baseten 工程博客（网页） · 2026-11-24 06:34
-
-- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
-  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
-  MIT News（RSS） · 2026-11-24 05:15
-
-- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
-  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
-  The Verge：AI（RSS） · 2026-11-24 05:09
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页

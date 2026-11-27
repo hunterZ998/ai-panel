@@ -70,21 +70,17 @@
   distribution.dev：通过一个活动在多个网站上向开发者投放广告。；Granular.Build：让你的AI助手在可视化工作空间中发挥作用；Viktor Code：编码代理了解你的代码库，而维克托了解你的公司。  
   Product Hunt 中文 · DecoHack · 2026-11-25 15:00
 
-- [MAGI-2](<https://www.producthunt.com/products/magi-1>)  
-  Sand AI's 480B model for cinematic video generation  
-  Product Hunt · English · 2026-11-25 13:35
-
 - [Hub](<https://www.producthunt.com/products/hub-20>)  
   Run 100 Claude Code or Codex sessions like 5  
   Product Hunt · English · 2026-11-25 02:34
 
+- [Qube](<https://www.producthunt.com/products/qube-6>)  
+  An AI agent for anyone  
+  Product Hunt · English · 2026-11-25 01:55
+
 - [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
   Build an always-on AI team with shared memory  
   Product Hunt · English · 2026-11-24 23:39
-
-- [Canva MCP](<https://www.producthunt.com/products/canva>)  
-  Turn any AI agent into a creative powerhouse  
-  Product Hunt · English · 2026-11-24 23:05
 
 - [Bifura](<https://www.producthunt.com/products/bifura>)  
   See your website the way AI agents do  

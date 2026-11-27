@@ -1,6 +1,140 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 18 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页
+
+- [Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露](<https://calif.io/research/tortilla-with-onion>)  
+  Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。  
+  Calif：Research（AI 漏洞研究） · 2026-11-26 08:00
+
+- [OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机](<https://calif.io/research/oempocalypse-part-2>)  
+  Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。  
+  Calif：Research（AI 漏洞研究） · 2026-11-26 08:00
+
+- [卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义](<https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg>)  
+  公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。他用GPT-6.2完整实测并展示了手册内容，包括意义地图、思维误区重构、罗盘价值观和可执行的意义时刻设计，全程约20到30分钟。  
+  公众号：数字生命卡兹克 · 2026-11-26 07:56
+
+- [OpenAI 开测私有推理，目标打造“零窥探 AI”](<https://www.ithome.com/1/032/543.htm>)  
+  OpenAI 已邀请部分客户测试“私有推理”（Private Inference），该服务隶属 OpenAI Private Intelligence 系列，面向企业和机构提升工作场景的数据隐私保护。声明提到“零数据留存”（ZDR）与“私有安全处理”配合可完成自动化安全审查，无需公司人员接触底层内容。测试目前仅面向少数客户，技术实现方式、客户名单、上线时间和收费模式均未披露。  
+  IT之家·人工智能 · 2026-11-26 07:45
+
+- [美国纽约州签署法案暂停 AI 聊天玩具销售 5 年，违规每日最高罚 15,000 美元](<https://www.ithome.com/1/032/540.htm>)  
+  纽约州州长霍楚尔于当地时间 11 月 24 日签署法案，暂停具备联网与 AI 对话能力的玩具在该州的制造、分销和销售，期限为 5 年。法案针对内置互联网接入、集成 AI 能力的玩具，违规制造商处罚上限为每日 15,000 美元；支持者列举的案例包括 AI 聊天玩具输出不当或性相关对话，以及"如何找到刀具"等危险建议。  
+  IT之家·人工智能 · 2026-11-26 07:07
+
+- [谷歌 DeepMind 推出 Mass Spec Skills，接入 Gemini 后分子识别准确率从不足 4% 升至约 97%](<https://www.ithome.com/1/032/535.htm>)  
+  谷歌基于社区开源工具打造 Mass Spec Skills，面向 Google Antigravity 平台开放，可辅助科研人员解析串联质谱并生成可审计证据链。  
+  IT之家·人工智能 · 2026-11-26 07:07
+
+- [S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks](<https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/>)  
+  The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.  
+  TechCrunch · 2026-11-26 06:44
+
+- [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/the_revolution_vs_the_renaissance_thariq_shihipar_openai>)  
+  AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel righ…  
+  Latent Space · 2026-11-26 06:28
+
+- [OpenAI 的 Thariq Shihipar 谈编程智能体时代的“革命与文艺复兴”](<https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/>)  
+  在 AI Engineer CODE 演讲中，Thariq Shihipar 演示了用编程智能体批量生成软件与打磨单件作品可以并存：他在 /human 文件夹里改一块石头的尺寸后立刻试投掷，也做过一个可切换模式的 Mac Dock。他谈到自己因编程智能体改变了哪些看法、决策模型如何从设计师定义的动作中选择，以及谁来决定哪些实验值得投入算力。他在录制后宣布加入 OpenAI。  
+  Latent Space（RSS） · 2026-11-26 06:28
+
+- [Latent Space AINews：AI 数学证明密集涌现，ω=9/4 与 VP≠VNP 引发关注](<https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/>)  
+  Latent Space 11 月 25 日的 AINews 期刊汇总 AI 数学成果：OpenAI 论文称矩阵乘法指数 ω 恰为 9/4，上下界吻合；OpenAI 与 Anthropic 同日先后给出 VP≠VNP 证明，Google Cogentic 未经宣布在 GitHub 发布 6 篇由智能体生成的论文。  
+  Latent Space（RSS） · 2026-11-26 06:23
+
+- [Upsolve Harness 2.0](<https://www.producthunt.com/products/upsolve-ai>)  
+  A data agent that's 2x faster and learns every user  
+  Product Hunt · English · 2026-11-26 06:03
+
+- [Google 的 My Channel 个性化 AI 视频信息流专利被驳回](<https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent>)  
+  Google 去年 5 月提交、上周公开的 My Channel 专利描述了一个基于用户人口统计数据、观看历史和设备上下文（如 IP 地址、GPS 位置）生成个性化 AI 视频与广告的信息流系统，可生成整部电影，甚至用用户的照片、视频和音频创建数字头像让其成为内容主角。  
+  The Verge：AI（RSS） · 2026-11-26 05:51
+
+- [WhipDesk](<https://www.producthunt.com/products/whipdesk>)  
+  Control AI coding agents from your phone  
+  Product Hunt · English · 2026-11-26 05:44
+
+- [MeetFolks](<https://www.producthunt.com/products/meetfolks>)  
+  AI Notetaker for In-Person Meetings  
+  Product Hunt · English · 2026-11-26 05:33
+
+- [报道称美国芯片限制和反蒸馏措施已拖慢中国 AI 实验室](<https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/>)  
+  The Information 报道称，自 9 月以来限制中国企业远程使用境外 Nvidia 芯片以及 OpenAI 和 Anthropic 的反蒸馏措施，已导致 DeepSeek、月之暗面、阿里巴巴等中国 AI 开发商多个项目延迟。  
+  The Decoder：AI News（RSS） · 2026-11-26 04:51
+
+- ["The flashing red lights couldn't be brighter": Democrats demand new restrictions on AI](<https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios>)  
+  Prominent Democrats are calling for new restrictions on AI development following Axios reporting that employees at Op…  
+  Axios · 2026-11-26 04:19
+
+- [Anthropic CEO Dario Amodei 称把社会治理交给 AI 是个坏主意](<https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/>)  
+  Anthropic CEO Dario Amodei 在 X 长文回应 Axios 报道，称认为人类应向 AI 交出自由意志的说法荒谬，AI 必须受合法民主程序治理，政治决策应留在人类手中，反对比拒绝独裁更强。  
+  The Decoder：AI News（RSS） · 2026-11-26 04:15
+
+- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](<https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/>)  
+  OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.  
+  TechCrunch · 2026-11-26 04:03
+
+- [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](<https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/>)  
+  Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.  
+  TechCrunch · 2026-11-26 03:54
+
+- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](<https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/>)  
+  Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even  
+  TechCrunch · 2026-11-26 03:44
+
+- [Anthropic CEO pushes back on Axios reporting on AI and free will](<https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios>)  
+  Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing bac…  
+  Axios · 2026-11-26 03:28
+
+- [James Shore 面向 CFO 的 AI 辅助开发影响力评估指南](<https://www.oreilly.com/radar/assessing-ai-impact-notes-for-your-cfo/>)  
+  James Shore 在 O'Reilly Radar 发布系列文章的总结篇，面向 CFO 和领导团队梳理如何评估 AI 辅助软件开发的成本与收益。他指出各方案人均月支出相差一个数量级（数百到数千美元），测量收益远难于成本，建议从建模软件项目 ROI 或测量交付速度变化入手，同时警惕 token 补贴带来的价格波动、意外后果、供应商锁定，以及用这些指标考核团队或个人的测量失灵。  
+  O'Reilly Radar（热点 RSS） · 2026-11-26 02:43
+
+- [Remora](<https://www.producthunt.com/products/remora-6>)  
+  The long-term memory layer for AI agents  
+  Product Hunt · English · 2026-11-26 02:28
+
+- [ElevenLabs in Early Talks for Funding at $33 Billion Value](<https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value>)  
+  Bloomberg · 2026-11-26 02:24
+
+- [OpenAI 试点 Private Inference，企业可在其最强模型上运行不外泄数据的查询](<https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/>)  
+  OpenAI 正面向首批企业客户试点 Private Inference，企业可在其最强模型上运行查询而 OpenAI 无法访问数据。查询在可独立验证安全性的隔离硬件上处理，Sam Altman 还提到 Private Safety Processing，可在不存储客户数据的前提下扫描滥用内容，被标记内容加密后存放在客户自己的云中。  
+  The Decoder：AI News（RSS） · 2026-11-26 02:22
+
+- [How Bankers Are Turning Tech Stock Volatility Into Cash](<https://www.theinformation.com/articles/bankers-turning-tech-stock-volatility-cash>)  
+  The Information · 2026-11-26 02:12
+
+- [Want to buy your kid an AI toy this Christmas? Not in New York](<https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/>)  
+  New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety fail  
+  TechCrunch · 2026-11-26 02:11
+
+- [vLLM 新加坡 Meetup 复盘：更快 Prefill、智能体写内核与 Vera Rubin 路线](<https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/>)  
+  vLLM 团队复盘 11 月 13 日在新加坡 SGInnovate 举办的技术 meetup，由 Inferact 和 NVIDIA 主办。  
+  PyTorch：Blog（RSS） · 2026-11-26 02:03
+
+- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
+  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
+  The Verge：AI（RSS） · 2026-11-26 01:44
+
+- [Character.AI’s plan to auction off users’ private chats challenged by state AGs](<https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/>)  
+  The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, incl  
+  TechCrunch · 2026-11-26 01:35
+
+- [Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件](<https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in>)  
+  Pragmatic Engineer 发布对 Anthropic 平台工程负责人 Katelyn Lesse 的播客访谈，她团队负责 Claude API 及 Claude Code 和 Claude Desktop 的基础设施。  
+  Pragmatic Engineer（RSS） · 2026-11-26 01:31
+
+- [Runway 与 Meta 将 Praxis-1 引入 ExecuTorch](<https://runwayml.com/news/company-news/runway-meta-praxis-1-executorch>)  
+  Runway 的开源权重机器人世界动作模型 Praxis-1 现已通过 Meta PyTorch 团队的工作，在 ExecuTorch 与 NVIDIA TensorRT 上运行。  
+  Runway：News（网页） · 2026-11-26 01:21
+
+- [DeskFleet](<https://www.producthunt.com/products/deskfleet>)  
+  Run coding agents together across your team’s machines  
+  Product Hunt · English · 2026-11-26 01:17
+
+- [Antipode](<https://www.producthunt.com/products/antipode>)  
+  Share your unused Claude Code limits without breaking ToS  
+  Product Hunt · English · 2026-11-26 00:53
 
 - [Baseten 如何为推理工作负载实现最小权限访问](<https://www.baseten.co/blog/least-privilege-access-for-inference-workloads>)  
   Baseten 推出面向推理工作负载的最小权限访问控制，用 OIDC 短期令牌替代长期云密钥，并通过 BDN 只读卷挂载权重，使服务副本无需访问原始存储桶。运行时 OIDC 让容器按需获取临时云凭证拉取 LoRA 适配器，出站限制则把连接限定在模型实际调用的主机。  
@@ -46,137 +180,4 @@
   Checks the work your AI agents did, right on your Mac  
   Product Hunt · English · 2026-11-25 23:15
 
-- [AI Safety Advocates Sour on Anthropic](<https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic>)  
-  The Information · 2026-11-25 23:00
-
-- [Sakana AI 更新 Sakana Marlin，新增 Twilight 2.0 与 Midnight 2.0 两个研究模式并重构 PowerPoint 幻灯片输出](<https://sakana.ai/marlin-update-2/>)  
-  Sakana AI 更新其战略研究智能体 Sakana Marlin，新增 Twilight 2.0 和 Midnight 2.0 两个模式，原版本以 Sunlight 模式继续提供。  
-  Sakana AI：Blog（网页） · 2026-11-25 23:00
-
-- [GitHub Copilot 教程：如何用证据优先方法选择应用现代化的下一个安全步骤](<https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/>)  
-  GitHub 博客作者 Sam Quakenbush 介绍一套证据优先的应用现代化方法：先盘点清单、记录不确定性，再按保留、升级、替换、包装、重写的顺序选择破坏性最小的方案，并用可行性检查决定是先捕获行为再升级，还是先构建小的现代化切片。  
-  GitHub Blog · 2026-11-25 23:00
-
-- [消息称亚马逊与 Meta 洽谈合作，或对 Meta 的 Muse 购物智能体开放商城](<https://www.ithome.com/1/032/515.htm>)  
-  据《财富》援引知情人士报道，亚马逊与 Meta 正洽谈让 Meta 旗下 AI 购物智能体 Muse 接入亚马逊电商平台，与两个月前屏蔽 Muse 下单形成反差。目前谈判卡在商品搜索结果展示和广告安排两个议题，亚马逊顾虑广告收入受损及第三方智能体削弱其用户关系，协议需两家公司 CEO 批准才能落地。  
-  IT之家·人工智能 · 2026-11-25 22:45
-
-- [Wiz 拆解智能体攻击框架 ARTEX 与 Cairn 的 Intent ID 泄漏机制](<https://www.wiz.io/blog/agentic-offensive-frameworks-intent-ids-artex-cairn>)  
-  Wiz Research 发布分析，解释智能体攻击框架（agentic offensive frameworks）的 Intent ID 机制：框架将攻击拆分为带递增数字 ID 的 intent，模型在创建文件、注册账号、GitHub workflow、User-Agent 等操作时会把 ID 泄漏到目标侧日志。  
-  Wiz：Research（安全研究） · 2026-11-25 22:27
-
-- [Anthropic’s Claude Output Can Be Installed as Software](<https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 22:26
-
-- [Amazon 据报与 Meta 谈判，或解除对 Muse AI 购物智能体的屏蔽](<https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions>)  
-  据 Fortune 报道，Amazon 正与 Meta 就让 Muse AI 智能体在其电商平台上购物进行谈判，可能解除目前对 Muse 的屏蔽。谈判焦点包括 Muse 推荐的产品类型，以及对其广告收入的影响，Amazon 担心允许 Muse 进入会因真人用户减少看到广告而损失收入，还担心搜索结果质量和客户关系。  
-  The Verge：AI（RSS） · 2026-11-25 22:12
-
-- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)  
-  Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.  
-  TechCrunch · 2026-11-25 22:10
-
-- [Sierra 谈医疗 AI 智能体：HLTH 2026 的四点经验](<https://sierra.ai/blog/ai-agents-healthcare-hlth-2026>)  
-  Sierra 在 HLTH 2026 分享了规模化运行医疗 AI 智能体的四点经验。Blue Cross Blue Shield Association 用 53 天上线联邦雇员项目智能体，首日接听 400 通电话，五个月解决超 105,000 通来电，满意度 4.5/5。Sierra 还推出面向个人智能体的开放标准 Poppy，已有超 100 家设计伙伴，包括 Cigna。  
-  Sierra：Blog（RSS） · 2026-11-25 22:08
-
-- [Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens](<https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens>)  
-  The Information · 2026-11-25 22:00
-
-- [Monton](<https://www.producthunt.com/products/monton>)  
-  AI agents that do your agency's busywork  
-  Product Hunt · English · 2026-11-25 21:32
-
-- [DeepMind 副总裁谈 AI 智能体自主控制部分 Gemini 实验算力，但离递归自我改进尚远](<https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/>)  
-  Google DeepMind 研究副总裁 Koray Kavukcuoglu 在公司播客中表示，AI 智能体已自主控制部分算力为下一代 Gemini 模型运行实验，但距离完全递归自我改进还很远。  
-  The Decoder：AI News（RSS） · 2026-11-25 21:23
-
-- [Anthropic 报告：企业落地 AI 最难的环节不在学工具](<https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/>)  
-  Anthropic 发布「Working with AI」定性研究报告，基于对 58 家美国公司的 66 次实地访谈，覆盖近 300 个 AI 部署案例。55% 的部署带来更高产出或质量，但 19% 没有产生业务价值。  
-  The Decoder：AI News（RSS） · 2026-11-25 21:14
-
-- [美国财政部FinCEN与情报机构接连发生网络安全事件，防御型AI工具Artex疑被改作攻击用途](<https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/>)  
-  美国财政部金融犯罪执法网络（FinCEN）在发现未授权访问后预防性下线部分系统。此前数小时，有报道称美国中央情报局、国家地理空间情报局和国家情报总监办公室的开源情报分析系统遭入侵，机密信息据称未受影响。调查人员怀疑攻击者使用了原本用于防御的AI工具Artex，该工具由一名中国工程师于7月发布以帮助机构防御网络攻击，此后被改作攻击用途。相关研究人员已将Artex与全球数十起攻击事件关联。  
-  The Decoder：AI News（RSS） · 2026-11-25 21:07
-
-- [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](<https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/>)  
-  The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair w  
-  TechCrunch · 2026-11-25 21:00
-
-- [vibe coding 浪潮下音乐器材厂商纷纷转向开源固件](<https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware>)  
-  The Verge 报道称，Claude 等工具催生的 AI 自定义固件浪潮正在重塑合成器与音乐设备行业。  
-  The Verge：AI（RSS） · 2026-11-25 21:00
-
-- [NEXUS](<https://www.producthunt.com/products/nexus-42>)  
-  Map codebase locally and AI changes only what you approved  
-  Product Hunt · English · 2026-11-25 20:41
-
-- [404 Media 报道财政部 CIO Sam Corcos 在 FinCEN 遭黑客攻击期间用 AI 开发文明克隆游戏 Legatum](<https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/>)  
-  404 Media 报道，在 FinCEN 因网络安全事件导致银行合规报告面板下线时，财政部 CIO Sam Corcos 仍在持续更新其 vibe coding 的回合制策略游戏 Legatum，包括平衡性补丁、阿兹特克阵营主题音乐和玩家提示调整。  
-  404 Media（RSS） · 2026-11-25 20:05
-
-- [理论物理学家如何看待 AI 改变本行：TheoPhysEval 基准被 GPT-6 Astra 解出近九成](<https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/>)  
-  Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  
-  Ars Technica：AI（RSS） · 2026-11-25 20:00
-
-- [Avicena获得超1亿美元C轮融资](<https://www.itjuzi.com/investevent/14705552>)  
-  Avicena是一家Micro-LED互连技术开发商，首创基于 Micro‑LED 的 LightBundle™超低功耗高速互连方案，替代传统铜互连，用于 AI 与高性能算力集群内芯片、内存之间的数据传输，具备高带宽密度、低能耗、远距…  
-  IT桔子 · 2026-11-25 18:35
-
-- [Lawfty获得战略投资](<https://www.itjuzi.com/investevent/14708688>)  
-  Lawfty是一家AI法律接案基础设施开发商，聚焦人身伤害诉讼赛道。平台依托多年沉淀的案件结果数据库，自研 AI 案件 intake 评估与律师匹配分发引擎，自动完成线索采集、案情研判、价值打分并向全国合作律所分流案件，平台与合作方共…  
-  IT桔子 · 2026-11-25 18:20
-
-- [长江词元完成超3000万元天使轮融资](<https://www.itjuzi.com/investevent/14708496>)  
-  长江词元由长江产业集团牵头，联合市场化专业团队、人工智能独角兽企业联合组建。定位：AI 词元 / 算力调度运营平台，搭建「算力投资 + 算力运营 + 词元输出 + 产业协同」全链条模式，面向湖北政企客户提供大模型词元集中集采、统一接入…  
-  IT桔子 · 2026-11-25 18:15
-
-- [Rival AI leaders push back against Anthropic vision of surrendering human agency to AI](<https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will>)  
-  Top AI executives are increasingly pushing back against a common view inside Anthropic: that humanity should surrende…  
-  Axios · 2026-11-25 18:01
-
-- [Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0](<https://pydantic.dev/articles/pax-harness-beta>)  
-  Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。  
-  Pydantic AI 官方文章 · 2026-11-25 17:00
-
-- [Nidus获得3000万美元战略投资](<https://www.itjuzi.com/investevent/14708679>)  
-  Nidus是一家具身智能科技研发商，研发机器人基础模型，为传统工业机器人提供泛化操作能力，主打国防工厂线束精密装配自动化，采用本地化主权 AI 框架，保障涉密生产环境下数据可控，商业化上线 4 个月即达成七位数营收。近日，Nidus获…  
-  IT桔子 · 2026-11-25 16:20
-
-- [Plurai获得1300万美元种子轮融资](<https://www.itjuzi.com/investevent/14708677>)  
-  Plurai是一家AI智能体仿真平台开发商，为企业 AI 智能体搭建业务环境数字孪生沙盒，批量运行真实与对抗交互场景，提前挖掘幻觉、工具调用错误、合规泄露等故障，依托仿真数据训练任务专属 SLM，兼顾智能体精度与推理成本，原生兼容主流…  
-  IT桔子 · 2026-11-25 16:05
-
-- [Ai2 访谈 17 位科学家：AI 智能体在科研中的信任边界在哪](<https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents>)  
-  Ai2 访谈 17 位自然、应用与社会科学领域科学家，探讨 AI 智能体在科研中的责任边界，提出科学信任的五个维度：验证、隐私、客观性、问责与透明。研究者认为科学家应参与决定智能体承担哪些任务、如何运行及如何评估，并建议用文献综述、编码、数据处理等基准检验智能体是否越权访问或忽略矛盾证据。受访者对 AI 推动进展与人类科学家的角色存在分歧，呼吁开展 AI 使用培训并制定执行规范。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-25 16:00
-
-- [Kardi Ai获得530万欧元A轮融资](<https://www.itjuzi.com/investevent/14708673>)  
-  Kardi Ai是一家AI 心律监测平台开发商，平台搭配 Polar ECG 胸带，实现用户居家长期动态心电采集，通过 AI 自动识别、标记可疑心律片段并生成辅助报告，供心内科医生复核，用于阵发性心律失常筛查。近日，Kardi Ai获…  
-  IT桔子 · 2026-11-25 15:31
-
-- [PH今日热榜 \| 2026-11-25](<https://decohack.com/producthunt-daily-2026-11-25/>)  
-  distribution.dev：通过一个活动在多个网站上向开发者投放广告。；Granular.Build：让你的AI助手在可视化工作空间中发挥作用；Viktor Code：编码代理了解你的代码库，而维克托了解你的公司。  
-  Product Hunt 中文 · DecoHack · 2026-11-25 15:00
-
-- [Vero Security获得1100万美元种子轮融资](<https://www.itjuzi.com/investevent/14708664>)  
-  Vero Security是一家人工智能安全工程平台提供商，平台核心 AI Runtime Governor 对企业 AI 智能体、大模型应用做运行时风险检测与策略强制执行，支持自然语言安全目标自动转化为管控规则，覆盖终端、云、Saa…  
-  IT桔子 · 2026-11-25 14:52
-
-- [Brace Dentistry获得Pre-A轮融资](<https://www.itjuzi.com/investevent/14708658>)  
-  Brace Dentistry是一家牙科服务提供商，出 b-align 正畸云病历管理系统与 SMILE ACCESS 诊所正畸赋能计划，依托 AI 远程牙齿监测、标准化病例方案与正畸医师会诊网络，帮助普通牙科诊所承接正畸业务，打通口…  
-  IT桔子 · 2026-11-25 14:46
-
-- [OpenVault获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708656>)  
-  OpenVault是一个数字资产结构化金融平台，依托标准化 Vault 资金池架构，提供稳定币收益、量化策略、RWA 现实资产以及 BTC 挂钩固定票息结构化票据，配套 AI 资管引擎实现自动复投、风险监控与策略再平衡，支持钱包直接存…  
-  IT桔子 · 2026-11-25 14:38
-
-- [MAGI-2](<https://www.producthunt.com/products/magi-1>)  
-  Sand AI's 480B model for cinematic video generation  
-  Product Hunt · English · 2026-11-25 13:35
-
-- [《纽约时报》要求自由摄影师不要更新 Photoshop，因 AI 功能可能写入 AI 生成元数据](<https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/>)  
-  《纽约时报》通知自由摄影师不得使用最新版 Photoshop，理由是某些功能可能以用户不易察觉的方式使用生成式 AI，导致元数据将照片标记为 AI 生成，引发平台争议。文章指出 Remove 工具和 Generative Fill 等功能已多年可用生成式 AI，且该技术已蔓延到 Adobe Camera Raw；禁令措辞为 at this time，暗示未来可能放宽。  
-  Hacker News：AI 热帖 · 2026-11-25 13:15
-
-[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 18 页
+[返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页

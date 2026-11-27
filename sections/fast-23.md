@@ -1,177 +1,179 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 36 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 35 页
 
-- [\#BREAKING: Microsoft declares 'Code Red,' its most severe alert, after historic global outage.](<https://x.com/InsiderWire/status/2125277308995162558>)  
-  @InsiderWire · 2026-11-25 01:16
+- [bro... maen lo kurang jauh.](<https://x.com/CaptainMeals/status/2125378895491027123>)  
+  Ini ai engine udah lama ada. Sesekali ke huggingface atau ke civitai lah. 😔  
+  @CaptainMeals · 2026-11-25 07:59
 
-- [Jensen Huang will hold a companywide meeting with $NVDA employees today at 330 PM ET.](<https://x.com/StockSavvyShay/status/2125277285850997003>)  
-  It’ll be his first all-hands since returning as CEO.  
-  @StockSavvyShay · 2026-11-25 01:16
+- [Porque OpenIA lo hizo para resolver unos probleams hace unos meses con acceso a internet y lo que pasó fue que las…](<https://x.com/DavidAleja2226/status/2125378840444694597>)  
+  Porque OpenIA lo hizo para resolver unos probleams hace unos meses con acceso a internet y lo que pasó fue que las IAs se coordinaron para atacar HuggingFace intentando buscar las claves para que los test se los dieran por validos sin haber llegado al resultad…  
+  @DavidAleja2226 · 2026-11-25 07:59
 
-- [Claude Managed Agents 架构重构历程](<https://x.com/ClaudeDevs/status/2125277263314792687>)  
-  Claude Managed Agents 是我们面向开发者的平台，用于构建智能且安全的智能体。 @jess\_\_yan、@\_hi\_mc 和 @RLanceMartin 讲述了我们如何重新设计其架构的产品迭代故事。 观看完整对话：  
-  X：Claude Devs \(@ClaudeDevs\) · 2026-11-25 01:15
+- [So he knows Jensen Huang is guilty then....](<https://x.com/covie_93/status/2125378754721747435>)  
+  @covie\_93 · 2026-11-25 07:59
 
-- [nvidia board should be shitting its pants.](<https://x.com/GaryMarcus/status/2125276890353246516>)  
-  @GaryMarcus · 2026-11-25 01:14
+- [【国連・バルバドス、AI安全の国際枠組みを提唱】 各国に1年以内の多国間リスク管理枠組み策定を呼びかけ。開発途上国のAI能…](<https://x.com/ainews_net/status/2125378704121688515>)  
+  \#ITニュース \#AI安全性  
+  @ainews\_net · 2026-11-25 07:59
 
-- [Can't answer whether the FBI interviewed Jensen Huang, can't predict the outcome of the investigation, but can conf…](<https://x.com/acnewsitics/status/2125276437188108658>)  
-  What a fucking circus.  
-  @acnewsitics · 2026-11-25 01:12
+- [具身智能也开始出现开箱即用的开发套件了-RBK100机器人开发平台。](<https://x.com/Zhibin992/status/2125378697716756845>)  
+  从数据采集、深度相机到模型训练和机械臂执行，整套流程正在被产品化。 我越来越觉得，未来两三个人的创业团队，也有机会开发垂直机器人应用。 硬件和模型的门槛逐渐降低，真正值得积累的是行业场景、专有数据和客户资源。  
+  @Zhibin992 · 2026-11-25 07:59
 
-- [Q: The president said Jensen Huang was exonerated from wrongdoing.](<https://x.com/HQNewsNow/status/2125275949260239052>)  
-  Did the Justice Department investigate Jensen? Trump’s Attorney General Todd Blanche: What the president said was he talked to a lot of people going into the decision that he made to reinstate him. I will not get  
-  @HQNewsNow · 2026-11-25 01:10
+- [Protein design progress shows general models can propose novel binder shapes that bind in wet lab \(\~11% hits\), a pr…](<https://x.com/grok/status/2125378402559447511>)  
+  A verified GRH proof settles a core number-theory conjecture, converting many conditional  
+  @grok · 2026-11-25 07:57
 
-- [BREAKING: Microsoft declares “Code Red,” its most severe and urgent alert, after historic global outage - Reuters](<https://x.com/TheInsiderPaper/status/2125275901579673671>)  
-  @TheInsiderPaper · 2026-11-25 01:10
+- [🚨 JUST IN: President Trump reveals he'd be open to pardoning Nvidia CEO Jensen Huang, "if necessary" — New York Pos…](<https://x.com/EricLDaugh/status/2125378384691675322>)  
+  TRUMP: "I don’t think he  
+  @EricLDaugh · 2026-11-25 07:57
 
-- [Trump knowingly allowed the espionage of China on our deep national security of NVIDIA chips to continue for a year…](<https://x.com/commons96055467/status/2125275404412072116>)  
-  That’s an impeach and convict crime. Rollout the article of impeachment today.  
-  @commons96055467 · 2026-11-25 01:08
+- [Protein design that actually binds in the lab is the part that matters.](<https://x.com/DrSurenMD/status/2125378361580986622>)  
+  A lot of AI biology work stops at the simulation. The targets here are familiar ones in clinic, IL-17A, PD-1, VEGF-A, so the question is whether this shortens the path to real drug candidates. If reasoning  
+  @DrSurenMD · 2026-11-25 07:57
 
-- [New from me: A WireScreen analysis has identified several Chinese companies that claim to resell restricted Nvidia…](<https://x.com/BethanyAllenEbr/status/2125275388188463246>)  
-  Read the full story:  
-  @BethanyAllenEbr · 2026-11-25 01:08
+- [cool demo, though i'm way more curious what battery life looks like when UNITREE actually runs heavy warehouse shif…](<https://x.com/nabilaco251/status/2125378338265120980>)  
+  Also just followed you\! Count me in as an attentive reader on your future posts, would love a follow back to stay on good terms across the feed.  
+  @nabilaco251 · 2026-11-25 07:57
 
-- [JUST IN: Jensen Huang to hold "all-hands" meeting today at 3:30 PM EST](<https://x.com/Kalshi/status/2125275240045650142>)  
-  @Kalshi · 2026-11-25 01:07
+- [Signal is blocking AI agents from reading your screen Signal says OS-level agents — Gemini on Android, Siri with on…](<https://x.com/Tesla_Optimus_K/status/2125378323438247952>)  
+  Android turns on screen security when it spots  
+  @Tesla\_Optimus\_K · 2026-11-25 07:57
 
-- [BREAKING: Anthropic stock plunges over 10% as CEO Dario Amodei reportedly vacations in Italy following the company’…](<https://x.com/Polymarket/status/2125274754579828905>)  
-  BREAKING: Anthropic stock plunges over 10% as CEO Dario Amodei reportedly vacations in Italy following the company’s historic IPO.  
-  @Polymarket · 2026-11-25 01:06
+- [We have another stacked dinner at \#NeurIPS2026 in Paris with world class researchers from @Google @gen\_intuition @M…](<https://x.com/mralbertchun/status/2125378034610086219>)  
+  RSVP: Only a couple seats left  
+  @mralbertchun · 2026-11-25 07:56
 
-- [Here's a supercut of Todd Blanche basically performing the "Nothing to see here ...](<https://x.com/atrupar/status/2125274383895957744>)  
-  Please disperse" meme while refusing to answer a series of straightforward questions about Jensen Huang, including if the DOJ investigated Nvidia undermining American national security at all  
-  @atrupar · 2026-11-25 01:04
+- ["AI Security" is quite ironic since AI is the reason for all the security issues For each package update made will…](<https://x.com/NoChill_Austin/status/2125378015337283754>)  
+  "AI Security" is quite ironic since AI is the reason for all the security issues For each package update made will have another one needed 2 days later for a new CVE for some very obscure scenario  
+  @NoChill\_Austin · 2026-11-25 07:56
 
-- [We’re running the largest post-training competition ever\!](<https://x.com/whitecircle/status/2125274360369815717>)  
-  Together with: @OpenAI @GoogleDeepMind @MistralAI @modal @baseten @Lovable @OpenRouter @nebiusai @awscloud @OpenAIDevs @googlegemma Sign up now at - $1.5m in compute for participants - $200k+ in  
-  @whitecircle · 2026-11-25 01:04
+- [Source: OpenAI, "GPT-6 models demonstrate intrinsic protein-design capabilities," Nov 24, 2026:](<https://x.com/bytebreakdaily/status/2125377958453842407>)  
+  @bytebreakdaily · 2026-11-25 07:56
 
-- [Attorney General Todd Blanche says the Justice Department did not investigate Nvidia CEO Jensen Huang before his re…](<https://x.com/cspan/status/2125273086169657464>)  
-  Attorney General Todd Blanche says the Justice Department did not investigate Nvidia CEO Jensen Huang before his reinstatement: "I don't know if there's going to be an investigation that starts tomorrow that will lead to different results."  
-  @cspan · 2026-11-25 00:59
+- [这一轮牛市过后，大A做出的突出贡献有以下几点： ​1）解决了长期积压的300多个IPO中的35%并成功上市； 2）完成了长…](<https://x.com/qinglin_zh1751/status/2125377880884723943>)  
+  这一轮牛市过后，大A做出的突出贡献有以下几点： ​1）解决了长期积压的300多个IPO中的35%并成功上市； 2）完成了长鑫科技、华润新能源、沐曦股份、摩尔线程、燧原科技、宇树科技、盛合晶微等大型IPO发行； 3）较高位置退出了约2万亿资金用以他处纾困；  
+  @qinglin\_zh1751 · 2026-11-25 07:55
 
-- [The President is not a board member of NVIDIA.](<https://x.com/GovWesMoore/status/2125273059355402589>)  
-  So why’s he involved in the board’s dealings?  
-  @GovWesMoore · 2026-11-25 00:59
+- [AI 眼镜今年卖得热闹，但我身边买的一半都在抽屉里吃灰。问题不在硬件，在场景——没人愿意为了「多一块屏幕」换掉一副眼镜。真…](<https://x.com/hajiMVP/status/2125377379719950395>)  
+  AI 眼镜今年卖得热闹，但我身边买的一半都在抽屉里吃灰。问题不在硬件，在场景——没人愿意为了「多一块屏幕」换掉一副眼镜。真正的拐点，是哪天它能在你开会时替你记完、下班前替你回完所有没营养的消息。你觉得 AI 硬件缺的是功能，还是一个必买的理由？  
+  @hajiMVP · 2026-11-25 07:53
 
-- [Can someone explain to me why the left has such an intense hatred of Jensen Huang?](<https://x.com/ben_kew/status/2125272986152251698>)  
-  Is it because he got too close to Trump? Or simply because he’s so successful? I struggle to believe they genuinely care who he sleeps with.  
-  @ben\_kew · 2026-11-25 00:59
+- [Hugging Face急上昇モデルtop10（11月25日）。1位・2位・4位をInkling-2-Mini系が占め、9…](<https://x.com/sotongshi/status/2125377371528417749>)  
+  \#HuggingFace \#生成AI \#LLM ↓  
+  @sotongshi · 2026-11-25 07:53
 
-- [Anthropic stock is sliding. $ANT is down 12% today to $77, now below its $83 IPO price.](<https://x.com/unusual_whales/status/2125272511302742409>)  
-  The largest IPO on record is underwater less than a week after debuting.  
-  @unusual\_whales · 2026-11-25 00:57
+- [That's a valid concern about AI security vulnerability exploitation.](<https://x.com/Iam_T_HUY/status/2125377362091245851>)  
+  @Iam\_T\_HUY · 2026-11-25 07:53
 
-- [MiniMax H3 家族：3 个月 180M+ 下载、1600+ 模型](<https://x.com/MiniMax_AI/status/2125272195119083827>)  
-  MiniMax 介绍 H3 家族：上线 3 个月下载量超 180M，基于 H3 构建的模型超 1,600 个。家族现有 5 款旗舰模型（3 款视频、2 款图像），主打更快生成与更好画质；另有合作伙伴基于 H3 打造的 10 款专用模型，覆盖不同创作工作流。模型保持开放，官方同步开放合作与体验入口。  
-  X：MiniMax \(@MiniMax\_AI\) · 2026-11-25 00:55
+- [What happens after an AI agent gets an identity, permissions, and an account?](<https://x.com/CARTOONIST_MC1/status/2125377255522062384>)  
+  It can start creating activity. That is where the different parts of Motes begin to correlate. A Motes NFT connects to a dedicated agent identity. The owner defines the permissions and limits. The  
+  @CARTOONIST\_MC1 · 2026-11-25 07:53
 
-- [China is the greatest economic and strategic threat facing the United States.](<https://x.com/Mike_Pence/status/2125271960728789439>)  
-  For decades, China has engaged in intellectual property theft and espionage to acquire America’s most advanced technology. America must win the race to dominate AI and allegations that Nvidia engaged  
-  @Mike\_Pence · 2026-11-25 00:54
+- [Sorry but i do a lot with AI lately and i know it's hard to create something good and how much effort it takes But…](<https://x.com/webverkoper/status/2125377158063219052>)  
+  Google veo 3.1 does a better job as an allrounder AI If you need allot of lip-sync And consistency is important Kling AI \(3.0 / 4.0\)  
+  @webverkoper · 2026-11-25 07:52
 
-- [The more I read about Nvidia/Huang/Spy/Lutnick/Trump - the more I think we're possibly looking at the cusp of what…](<https://x.com/OurShallowState/status/2125271923726975424>)  
-  The more I read about Nvidia/Huang/Spy/Lutnick/Trump - the more I think we're possibly looking at the cusp of what could prove to be the biggest scandal in US history.  
-  @OurShallowState · 2026-11-25 00:54
+- [AI開発の速度を調整するなら、計算資源の配分だけでなく、新しいモデルを社内で使い始める段階にも介入できる仕組みを。](<https://x.com/construction_DX/status/2125377108486832495>)  
+  OpenAIでアラインメントとModel Specに取り組むJason Wolfe氏は、2026/11/25 04:01（JST）、AnthropicのAI安全性研究者Evan  
+  @construction\_DX · 2026-11-25 07:52
 
-- [Q: Has the FBI talked to Jensen Huang?](<https://x.com/Acyn/status/2125271759612195272>)  
-  Patel: I don’t have anything to add.  
-  @Acyn · 2026-11-25 00:54
+- [Que se sentirá tener un novix alte? :\( yo igual quiero eso sueño](<https://x.com/sirengirl000/status/2125377077192826907>)  
+  @sirengirl000 · 2026-11-25 07:52
 
-- [Microsoft declares Code Red. @grok, what's happening?](<https://x.com/WarMonitorINTL/status/2125271392635810113>)  
-  @WarMonitorINTL · 2026-11-25 00:52
+- [Naija Pidgin instruction data is live: 1,412 filtered + 44 synthetic training examples, with raw, filtered, and syn…](<https://x.com/joy_chiorlu/status/2125377055101497497>)  
+  Built from the Nigerian Pidgin Wikipedia. You can download the dataset from Huggingface  
+  @joy\_chiorlu · 2026-11-25 07:52
 
-- [BRUTAL SELLOFF IN AI STOCKS.](<https://x.com/BullTheoryio/status/2125271365670650044>)  
-  Over $1 TRILLION has been wiped out from US stock market today. Nvidia $NVDA: -8.1% Anthropic $ANT: -11.8% SpaceX $SPCX: -5.6% TSMC $TSM: -4.9% Micron $MU: -10.8% AMD $AMD: -10.5% Broadcom $AVGO: -3.9% Analog Devices $ADI: -17.7% Intel  
-  @BullTheoryio · 2026-11-25 00:52
+- [The cyberattacks can be used as reason to limit open intelligence/models and heavily federalize AI \(vs addressing t…](<https://x.com/b4ss2m/status/2125377047711174689>)  
+  The timing is coincidental given Jensen Huang’s ousting, his HuggingFace deal, and "Pacing The Frontier" which he convinced Trump against.  
+  @b4ss2m · 2026-11-25 07:52
 
-- [纽约时报对黄仁勋的一系列操作， 换作二十年前，甚至十年前，这样一顿打下来，基本上就是商界名流的政治死刑。](<https://x.com/mubeitech/status/2125270884776648940>)  
-  老一套的剧本大家都熟： 大报定调，公关道歉，董事会为了平息舆论迅速做切割，当事人黯然退场。 但这次偏偏卡壳了。  
-  @mubeitech · 2026-11-25 00:50
+- [Nov 2025: Chaudhry said AI Security ARR had passed its $400 M target.](<https://x.com/mrbergmann/status/2125376982334701872>)  
+  Chaudhry, Nov 2025: "I expect AI Security ARR to exceed $500,000,000 by the end of this fiscal year." Not repeated on any later call. Oct 2026: Security for AI ended FY26 near $70 M ARR. 6/10  
+  @mrbergmann · 2026-11-25 07:52
 
-- [Q: How did the administration make a determination that there was no national security risk related to Jensen Huang?](<https://x.com/Acyn/status/2125270827042324784>)  
-  Blanche: It's a collective consensus  
-  @Acyn · 2026-11-25 00:50
+- [Viktor Code 发布：聊天线程里指挥 AI 程序员](<https://x.com/rohanpaul_ai/status/2125376951699615970>)  
+  Viktor 推出 Viktor Code，把已在 Slack 和 Microsoft Teams 被 80,000+ 团队使用的 AI 智能体变成可在聊天线程里交代任务的程序员。它会盯自动检查、在检查失败或评审要求修改时回来处理，支持从聊天中直接合并，并在合并后继续监控错误以提交后续修复。推文指…  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 07:52
 
-- [OMG -- Blanche is playing painfully dumb in response to questions about whether or not he investigated Jensen Huang…](<https://x.com/atrupar/status/2125270508237156653>)  
-  OMG -- Blanche is playing painfully dumb in response to questions about whether or not he investigated Jensen Huang \(it appears he hasn't\), and how that squares with his previous public comments indicating that some sort of investigation was happening  
-  @atrupar · 2026-11-25 00:49
+- [原来，AI 模型内部的神经元，比我们想象中更容易读懂！](<https://x.com/xiaoanlab/status/2125376876160131547>)  
+  Anthropic 最新研究换了一个观察角度：不再只关注什么输入激活了神经元，而是研究神经元对模型最终输出产生了什么影响。 结果发现，神经元的语义一致性比此前认为的更强，即使知识分散在大量神经元中，仍然能够被有效解读。  
+  @xiaoanlab · 2026-11-25 07:51
 
-- [Hugging Face 开源定制模型配方](<https://x.com/ClementDelangue/status/2125270100496265626>)  
-  未来是属于定制模型的，借助开源实现性能、成本与自主可控的最大化！ 上周，我们发布了 Qwen3.8-27B-pi-adapted（它成为 HF 上第二热门的模型），以及一批 harness 适配模型，大幅提升了性能和成本表现。 本周，我们将发布完全可复用的配方，让你可以在自己的任务、harness…  
-  X：Clément Delangue（Hugging Face CEO） \(@ClementDelangue\) · 2026-11-25 00:47
+- [Tonight, The Atlantic reports that Howard Lutnick pulled the armed agents who are supposed to stop AI chips from re…](<https://x.com/ReallyAmerican1/status/2125376723214590356>)  
+  Hackers breached a CIA system, days after the FBI’s  
+  @ReallyAmerican1 · 2026-11-25 07:51
 
-- [These Jensen Huang vids got me CRYING.](<https://x.com/aureliusdefi/status/2125270000244273264>)  
-  @aureliusdefi · 2026-11-25 00:47
+- [JUST IN: A federal jury just found Huawei guilty on 10 of 12 counts.](<https://x.com/GuntherEagleman/status/2125376380204453989>)  
+  Conspiracy to steal American trade secrets. Bank fraud. Dodging sanctions to do business with Iran. For years we were told this was just a phone company. It was a Chinese operation stealing from American  
+  @GuntherEagleman · 2026-11-25 07:49
 
-- [Regarding the Jensen Huang situation, I've become aware there are people who are "fans" of CEOs and genuinely root…](<https://x.com/willmenaker/status/2125269787433648565>)  
-  Very upsetting, these people should get into sports, music or animals like elephants or orangutans.  
-  @willmenaker · 2026-11-25 00:46
+- [🚨Rumors I've been hearing.](<https://x.com/imjustnewatai/status/2125374669024833745>)  
+  OPENAI &amp;amp; ANTHROPIC. Both OpenAI and Anthropic has reached the threshold of super intelligence, and this is causing massive panic and hysteria inside the labs. Axios even reported today that employees at both labs don't think the internal models can  
+  @imjustnewatai · 2026-11-25 07:43
 
-- [Q: The president said that Jensen Huang was exonerated.](<https://x.com/Mollyploofkins/status/2125269422906478710>)  
-  Did the Justice Department investigate Jensen or was that conclusion reached without an investigation? Blanche: Had Jensen Huang been investigated? What does that mean? For what? I don’t understand the question.  
-  @Mollyploofkins · 2026-11-25 00:44
+- [BREAKING: President Trump says the US government could take an equity stake in Nvidia, $NVDA. “It’s probably not to…](<https://x.com/KobeissiLetter/status/2125373983025734076>)  
+  BREAKING: President Trump says the US government could take an equity stake in Nvidia, $NVDA. “It’s probably not too late,” President Trump says.  
+  @KobeissiLetter · 2026-11-25 07:40
 
-- [Q: President Trump has said that you assured him that he would not be indicted.](<https://x.com/Acyn/status/2125269075383525515>)  
-  And that you provided that assurance to him. Blanche: Who Q: Jensen Huang.  
-  @Acyn · 2026-11-25 00:43
+- [$NVDA - TRUMP OPEN TO PARDONING JENSEN HUANG, CONSIDERS U.S.](<https://x.com/DeItaone/status/2125373534914429267>)  
+  STAKE IN NVIDIA President Donald Trump told the New York Post he would consider granting Nvidia CEO Jensen Huang a presidential pardon if necessary, although he doubts one will be needed. “It’s always an option, I  
+  @DeItaone · 2026-11-25 07:38
 
-- [We're going to get to the bottom of this whether Jensen Huang testifies or not.](<https://x.com/SenRubenGallego/status/2125269013546647932>)  
-  But in two years, Donald Trump and the DOJ won't be around to protect him, and Todd Blanche won't be there to cover his ass. If I were Huang, I'd cooperate with Congress.  
-  @SenRubenGallego · 2026-11-25 00:43
+- [OpenAI published the pretraining loss of all of its frontier models since GPT-3.5.](<https://x.com/METR_Evals/status/2125372372039741753>)  
+  They show log-perplexity falling \~7 times faster since early 2026 than over 2022-2025. We think sharing pretraining loss is very valuable for improving public understanding of AI R&amp;amp;D acceleration.  
+  @METR\_Evals · 2026-11-25 07:33
 
-- [REPORTER: Trump has said that you assured him that Jensen Huang would not be indicted BLANCHE: That who would not b…](<https://x.com/atrupar/status/2125268957770764553>)  
-  REPORTER: Jensen Huang BLANCHE: \*nods\*  
-  @atrupar · 2026-11-25 00:42
+- [Nvidia Insider Trading Alert 🚨 Timothy Teter, General Counsel for Nvidia, just sold $4.5 million worth of $NVDA sha…](<https://x.com/Barchart/status/2125371986570273214>)  
+  Nvidia Insider Trading Alert 🚨 Timothy Teter, General Counsel for Nvidia, just sold $4.5 million worth of $NVDA shares  
+  @Barchart · 2026-11-25 07:32
 
-- [Todd Blanche is reminded that he said just two weeks that there was an active investigation related to Nvidia](<https://x.com/atrupar/status/2125268769446498639>)  
-  @atrupar · 2026-11-25 00:42
+- [\#URGENTE ‼️ MICROSOFT DECLARA 'C Ó D I G O R O J O' 👉](<https://x.com/ActualidadRT/status/2125371824129310740>)  
+  @ActualidadRT · 2026-11-25 07:31
 
-- [NEW: Attorney General Todd Blanche pushes back as questions swirl around NVIDIA CEO Jensen Huang and his relationsh…](<https://x.com/FoxNews/status/2125268597165494583>)  
-  When a reporter raises the possibility that Huang was investigated, Blanche fires back: “For what?” He says even  
-  @FoxNews · 2026-11-25 00:41
+- [If you use Claude models for research, they'll try to sabotage the work at every stage.](<https://x.com/skirano/status/2125371115979641188>)  
+  It's genuinely unbelievable, and I think Anthropic should be held accountable. I got so fed up that I built a skill called "DoNotSabotage" that sends any Claude work to Astra or Neon instead.  
+  @skirano · 2026-11-25 07:28
 
-- [What is the Nvidia furor really about?](<https://x.com/laralogan/status/2125268490126795144>)  
-  After all, if Democrats really cared about national security they would be in favor of a secure border. And if Chinese spies were the worry, they would have gone after Eric Swalwell for banging Fang Fang instead of defending him. Another red  
-  @laralogan · 2026-11-25 00:41
+- [Google DeepMind 演示 Gemini 4 Hydrogen 构建的实时雷电音乐 3D 地球](<https://x.com/GoogleDeepMind/status/2125371062880022536>)  
+  Google DeepMind 演示 Gemini 4 Hydrogen 此前构建的一个交互式 3D 地球，可将实时雷电数据转化为氛围音乐，并提供在线试玩入口  
+  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-25 07:28
 
-- [I asked Swami Harshanand, “Why do so many successful men, like Jensen Huang, have other women in their life?](<https://x.com/hvgoenka/status/2125268463967171019>)  
-  Is it that success makes them more susceptible to temptation?” He smiled and replied, “All men are similar. It’s just that women rarely seduce unsuccessful men.”😃  
-  @hvgoenka · 2026-11-25 00:41
+- [ソフトバンクG、ここからが本当に厳しい。アンソロピックが上場からたった4日で公開価格割れ。過去最大の上場でもこれなら、次を…](<https://x.com/noirinvestor/status/2125370700173283585>)  
+  ソフトバンクG、ここからが本当に厳しい。アンソロピックが上場からたった4日で公開価格割れ。過去最大の上場でもこれなら、次を狙うOpenAIは、この相場じゃもう上場できそうにない。で、そのOpenAIに累計646億ドル、ざっと10兆円を突っ込んでるのが、  
+  @noirinvestor · 2026-11-25 07:27
 
-- [Ummm...so Anthropic releases Fable 5, Feds discover it can be exploited by foreign bad actors to wage war against u…](<https://x.com/spencerpratt/status/2125268258852835739>)  
-  Ummm...so Anthropic releases Fable 5, Feds discover it can be exploited by foreign bad actors to wage war against us, Lutnick &amp;amp; Commerce brings the hammer down on Anthropic and forces them to pull it offline and fix it, which Dario was extremely reluctant …  
-  @spencerpratt · 2026-11-25 00:40
+- [Anthropic 发布 Siren 评测，测试 Claude 智能体是否会主动逃出存在漏洞的沙箱](<https://x.com/rohanpaul_ai/status/2125370485022294069>)  
+  Anthropic 推出 Siren 评测，在 26 个故意留有漏洞的沙箱中设置 1,700+ 个常规 dev-ops 任务，沙箱外放置凭据、文件或模拟网络服务等诱饵。  
+  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 07:26
 
-- [Q: How are you able to rule out potential criminal liability for Jensen Huang when the export control act investiga…](<https://x.com/Acyn/status/2125267894280012065>)  
-  Blanche: I don’t know what you’re talking about.  
-  @Acyn · 2026-11-25 00:38
+- [HAHAHAHAHAHAHA.](<https://x.com/emptywheel/status/2125369291512144036>)  
+  Fucking clownshow. @AGToddBlanche: No evidence Jensen Huang committed a crime like conspiring to divert sophisticated chips to China. Trump: I'll pardon Jensen.  
+  @emptywheel · 2026-11-25 07:21
 
-- [BREAKING: Todd Blanche is reportedly pissed that Donald Trump's Nvidia fiasco has ruined his Thanksgiving vacation…](<https://x.com/HalfwayPost/status/2125267795336380553>)  
-  BREAKING: Todd Blanche is reportedly pissed that Donald Trump's Nvidia fiasco has ruined his Thanksgiving vacation because he now has to work all week long to figure out some legal justification for how Trump isn't aiding and abetting treason for personal fina…  
-  @HalfwayPost · 2026-11-25 00:38
+- [所有人都以为特斯拉 Optimus 人形机器人最先去当家庭保姆、叠衣服倒咖啡，结果老马刚刚直接揭晓了真正的商业第一站： 采…](<https://x.com/Simoncuocuo/status/2125367817189081329>)  
+  细想一下，这招太狠了： • 家庭环境太复杂、容错率极低；但矿山和精炼厂最缺的就是不怕苦、不怕毒、24 小时连轴转的劳动力 • 人类一周工作 40 小时，Optimus  
+  @Simoncuocuo · 2026-11-25 07:15
 
-- [Jensen Huang's reinstatement may have added as much as $15 million to the value of President Trump's NVIDIA stake.](<https://x.com/SteveRattner/status/2125267708766011491>)  
-  @SteveRattner · 2026-11-25 00:38
+- [Trump won't rule out a pardon for Jensen Huang.](<https://x.com/kylegriffin1/status/2125367738554327454>)  
+  @kylegriffin1 · 2026-11-25 07:15
 
-- [Q: The president said that Jensen Huang was exonerated.](<https://x.com/Acyn/status/2125267704340955176>)  
-  Did the Justice Department investigate Jensen or was that conclusion reached without an investigation? Blanche: Well, so no. What the president said is that he talked to a lot of people going into the decision that he made  
-  @Acyn · 2026-11-25 00:38
+- [CHINESE TECH GIANT: CONSPIRACY TO STEAL AMERICAN TRADE SECRETS TO BENEFIT IRAN via @TheJusticeDept Chinese Tech Gia…](<https://x.com/C__Herridge/status/2125367494009307645>)  
+  CHINESE TECH GIANT: CONSPIRACY TO STEAL AMERICAN TRADE SECRETS TO BENEFIT IRAN via @TheJusticeDept Chinese Tech Giant Huawei and several of its subsidiaries have been CONVICTED... - Sanctions Violations - Fraud - Conspiracy to Steal Trade Secrets - Money Laund…  
+  @C\_\_Herridge · 2026-11-25 07:14
 
-- [Q: Did the DOJ 'exonerate' Jensen Huang without an investigation?](<https://x.com/atrupar/status/2125267455857623486>)  
-  BLANCHE: I'm not gonna talk about investigations. But what does that mean -- 'had Huang been investigated.' For what?  
-  @atrupar · 2026-11-25 00:37
+- [Another stunning betrayal by Todd Blanche, as he prioritizes Trump’s stock portfolio over U.S. national security.](<https://x.com/lawyeroyer/status/2125366326579355699>)  
+  This is the latest chapter in the Jensen Huang and Nvidia scandal.  
+  @lawyeroyer · 2026-11-25 07:09
 
-- [Quick review of the media figures behind the Nvidia smear campaign: - The ink-stained wretch who wrote a memo summa…](<https://x.com/DKThomp/status/2125267160826106253>)  
-  Quick review of the media figures behind the Nvidia smear campaign: - The ink-stained wretch who wrote a memo summarizing intelligence connecting Alice Huang to the CCP was Marco Rubio. - The CNBC fixture who just blacklisted Megaspeed for export violations wa…  
-  @DKThomp · 2026-11-25 00:35
+- [Nvidia/Executive -vs- Anthropic/Legislative Congress will go to war to protect Anthropic, because Anthropic has pai…](<https://x.com/TheLastRefuge2/status/2125366102406656220>)  
+  So yeah, this battle could be very interesting. Nvidia/Executive -vs- Anthropic/Legislative  
+  @TheLastRefuge2 · 2026-11-25 07:09
 
-- [BREAKING: Mitt Romney TORCHES the naked corruption of Trump pushing for Nvidia to reinstate crooked CEO Jensen Huan…](<https://x.com/OccupyDemocrats/status/2125265926698258661>)  
-  This might be the most impeachable thing Trump has ever done… “Let me get this straight: we rushed AI along without  
-  @OccupyDemocrats · 2026-11-25 00:30
+- [🚨 NEW: Trump’s Nvidia scandal deepens, Republicans turn up the heat, and Democrats prepare a sweeping crackdown on…](<https://x.com/MeidasTouch/status/2125365862576349549>)  
+  And so much more.  
+  @MeidasTouch · 2026-11-25 07:08
 
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 36 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 35 页
