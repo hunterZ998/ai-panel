@@ -2,81 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页
 
-- [OpenAI 的 Thariq Shihipar 谈编程智能体时代的“革命与文艺复兴”](<https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/>)  
-  在 AI Engineer CODE 演讲中，Thariq Shihipar 演示了用编程智能体批量生成软件与打磨单件作品可以并存：他在 /human 文件夹里改一块石头的尺寸后立刻试投掷，也做过一个可切换模式的 Mac Dock。他谈到自己因编程智能体改变了哪些看法、决策模型如何从设计师定义的动作中选择，以及谁来决定哪些实验值得投入算力。他在录制后宣布加入 OpenAI。  
-  Latent Space（RSS） · 2026-11-26 06:28
-
-- [Latent Space AINews：AI 数学证明密集涌现，ω=9/4 与 VP≠VNP 引发关注](<https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/>)  
-  Latent Space 11 月 25 日的 AINews 期刊汇总 AI 数学成果：OpenAI 论文称矩阵乘法指数 ω 恰为 9/4，上下界吻合；OpenAI 与 Anthropic 同日先后给出 VP≠VNP 证明，Google Cogentic 未经宣布在 GitHub 发布 6 篇由智能体生成的论文。  
-  Latent Space（RSS） · 2026-11-26 06:23
-
-- [Upsolve Harness 2.0](<https://www.producthunt.com/products/upsolve-ai>)  
-  A data agent that's 2x faster and learns every user  
-  Product Hunt · English · 2026-11-26 06:03
-
-- [Google 的 My Channel 个性化 AI 视频信息流专利被驳回](<https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent>)  
-  Google 去年 5 月提交、上周公开的 My Channel 专利描述了一个基于用户人口统计数据、观看历史和设备上下文（如 IP 地址、GPS 位置）生成个性化 AI 视频与广告的信息流系统，可生成整部电影，甚至用用户的照片、视频和音频创建数字头像让其成为内容主角。  
-  The Verge：AI（RSS） · 2026-11-26 05:51
-
-- [WhipDesk](<https://www.producthunt.com/products/whipdesk>)  
-  Control AI coding agents from your phone  
-  Product Hunt · English · 2026-11-26 05:44
-
-- [报道称美国芯片限制和反蒸馏措施已拖慢中国 AI 实验室](<https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/>)  
-  The Information 报道称，自 9 月以来限制中国企业远程使用境外 Nvidia 芯片以及 OpenAI 和 Anthropic 的反蒸馏措施，已导致 DeepSeek、月之暗面、阿里巴巴等中国 AI 开发商多个项目延迟。  
-  The Decoder：AI News（RSS） · 2026-11-26 04:51
-
-- ["The flashing red lights couldn't be brighter": Democrats demand new restrictions on AI](<https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios>)  
-  Prominent Democrats are calling for new restrictions on AI development following Axios reporting that employees at Op…  
-  Axios · 2026-11-26 04:19
-
-- [Anthropic CEO Dario Amodei 称把社会治理交给 AI 是个坏主意](<https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/>)  
-  Anthropic CEO Dario Amodei 在 X 长文回应 Axios 报道，称认为人类应向 AI 交出自由意志的说法荒谬，AI 必须受合法民主程序治理，政治决策应留在人类手中，反对比拒绝独裁更强。  
-  The Decoder：AI News（RSS） · 2026-11-26 04:15
-
-- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](<https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/>)  
-  OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.  
-  TechCrunch · 2026-11-26 04:03
-
-- [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](<https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/>)  
-  Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.  
-  TechCrunch · 2026-11-26 03:54
-
-- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](<https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/>)  
-  Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even  
-  TechCrunch · 2026-11-26 03:44
-
-- [Anthropic CEO pushes back on Axios reporting on AI and free will](<https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios>)  
-  Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing bac…  
-  Axios · 2026-11-26 03:28
-
-- [James Shore 面向 CFO 的 AI 辅助开发影响力评估指南](<https://www.oreilly.com/radar/assessing-ai-impact-notes-for-your-cfo/>)  
-  James Shore 在 O'Reilly Radar 发布系列文章的总结篇，面向 CFO 和领导团队梳理如何评估 AI 辅助软件开发的成本与收益。他指出各方案人均月支出相差一个数量级（数百到数千美元），测量收益远难于成本，建议从建模软件项目 ROI 或测量交付速度变化入手，同时警惕 token 补贴带来的价格波动、意外后果、供应商锁定，以及用这些指标考核团队或个人的测量失灵。  
-  O'Reilly Radar（热点 RSS） · 2026-11-26 02:43
-
-- [Remora](<https://www.producthunt.com/products/remora-6>)  
-  The long-term memory layer for AI agents  
-  Product Hunt · English · 2026-11-26 02:28
-
-- [OpenAI 试点 Private Inference，企业可在其最强模型上运行不外泄数据的查询](<https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/>)  
-  OpenAI 正面向首批企业客户试点 Private Inference，企业可在其最强模型上运行查询而 OpenAI 无法访问数据。查询在可独立验证安全性的隔离硬件上处理，Sam Altman 还提到 Private Safety Processing，可在不存储客户数据的前提下扫描滥用内容，被标记内容加密后存放在客户自己的云中。  
-  The Decoder：AI News（RSS） · 2026-11-26 02:22
-
-- [How Bankers Are Turning Tech Stock Volatility Into Cash](<https://www.theinformation.com/articles/bankers-turning-tech-stock-volatility-cash>)  
-  The Information · 2026-11-26 02:12
-
-- [Want to buy your kid an AI toy this Christmas? Not in New York](<https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/>)  
-  New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety fail  
-  TechCrunch · 2026-11-26 02:11
-
-- [vLLM 新加坡 Meetup 复盘：更快 Prefill、智能体写内核与 Vera Rubin 路线](<https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/>)  
-  vLLM 团队复盘 11 月 13 日在新加坡 SGInnovate 举办的技术 meetup，由 Inferact 和 NVIDIA 主办。  
-  PyTorch：Blog（RSS） · 2026-11-26 02:03
-
-- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
-  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
-  The Verge：AI（RSS） · 2026-11-26 01:44
-
 - [Character.AI’s plan to auction off users’ private chats challenged by state AGs](<https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/>)  
   The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, incl  
   TechCrunch · 2026-11-26 01:35
@@ -174,8 +99,84 @@
 - [Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens](<https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens>)  
   The Information · 2026-11-25 22:00
 
-- [Monton](<https://www.producthunt.com/products/monton>)  
-  AI agents that do your agency's busywork  
-  Product Hunt · English · 2026-11-25 21:32
+- [DeepMind 副总裁谈 AI 智能体自主控制部分 Gemini 实验算力，但离递归自我改进尚远](<https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/>)  
+  Google DeepMind 研究副总裁 Koray Kavukcuoglu 在公司播客中表示，AI 智能体已自主控制部分算力为下一代 Gemini 模型运行实验，但距离完全递归自我改进还很远。  
+  The Decoder：AI News（RSS） · 2026-11-25 21:23
+
+- [Anthropic 报告：企业落地 AI 最难的环节不在学工具](<https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/>)  
+  Anthropic 发布「Working with AI」定性研究报告，基于对 58 家美国公司的 66 次实地访谈，覆盖近 300 个 AI 部署案例。55% 的部署带来更高产出或质量，但 19% 没有产生业务价值。  
+  The Decoder：AI News（RSS） · 2026-11-25 21:14
+
+- [美国财政部FinCEN与情报机构接连发生网络安全事件，防御型AI工具Artex疑被改作攻击用途](<https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/>)  
+  美国财政部金融犯罪执法网络（FinCEN）在发现未授权访问后预防性下线部分系统。此前数小时，有报道称美国中央情报局、国家地理空间情报局和国家情报总监办公室的开源情报分析系统遭入侵，机密信息据称未受影响。调查人员怀疑攻击者使用了原本用于防御的AI工具Artex，该工具由一名中国工程师于7月发布以帮助机构防御网络攻击，此后被改作攻击用途。相关研究人员已将Artex与全球数十起攻击事件关联。  
+  The Decoder：AI News（RSS） · 2026-11-25 21:07
+
+- [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](<https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/>)  
+  The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair w  
+  TechCrunch · 2026-11-25 21:00
+
+- [vibe coding 浪潮下音乐器材厂商纷纷转向开源固件](<https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware>)  
+  The Verge 报道称，Claude 等工具催生的 AI 自定义固件浪潮正在重塑合成器与音乐设备行业。  
+  The Verge：AI（RSS） · 2026-11-25 21:00
+
+- [NEXUS](<https://www.producthunt.com/products/nexus-42>)  
+  Map codebase locally and AI changes only what you approved  
+  Product Hunt · English · 2026-11-25 20:41
+
+- [404 Media 报道财政部 CIO Sam Corcos 在 FinCEN 遭黑客攻击期间用 AI 开发文明克隆游戏 Legatum](<https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/>)  
+  404 Media 报道，在 FinCEN 因网络安全事件导致银行合规报告面板下线时，财政部 CIO Sam Corcos 仍在持续更新其 vibe coding 的回合制策略游戏 Legatum，包括平衡性补丁、阿兹特克阵营主题音乐和玩家提示调整。  
+  404 Media（RSS） · 2026-11-25 20:05
+
+- [理论物理学家如何看待 AI 改变本行：TheoPhysEval 基准被 GPT-6 Astra 解出近九成](<https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/>)  
+  Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  
+  Ars Technica：AI（RSS） · 2026-11-25 20:00
+
+- [PrismML 发布三元量化模型 Ternary Bonsai 2.5 27B，54 GB 压缩至 5.9 GB](<https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/>)  
+  PrismML 发布基于 Qwen3.8-27B 的压缩模型 Ternary Bonsai 2.5 27B，通过三元量化把每个权重压缩为 -1、0 或 +1 三种取值，内存占用仅 5.9 GB，而全精度约需 54 GB。  
+  The Decoder：AI News（RSS） · 2026-11-25 19:51
+
+- [MIT 团队发现：不真实的训练数据反而让 AI 气候预测更可靠](<https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/>)  
+  MIT 联合 ETH Zurich 和帝国理工学院提出一种用合成极端情景数据训练 AI 气候模型的方法，只需一次大规模物理模拟即可完成训练，而此前需要六到八次。该团队称，2050 年 CO2 骤升、2037 年甲烷骤降这类针对性极端变化能让 AI 更精确理解气候系统，并能可靠计算局部环境政策的影响。  
+  The Decoder：AI News（RSS） · 2026-11-25 18:47
+
+- [英伟达在 Hugging Face 开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
+  英伟达在 Hugging Face 公开 Nemotron-Labs-Image-30B-A3B 模型权重。  
+  IT之家·人工智能 · 2026-11-25 18:37
+
+- [IBM Research 用 CUGA 构建印度语言农业语音智能体并分享实践经验](<https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga>)  
+  IBM Research 在 Hugging Face 博客介绍一个基于开源 agent 框架 CUGA 的印度地区语言语音智能体：农民用印地语、泰米尔语等口头提问，系统将语音转文字后检索 154 页英文农业手册，仅凭手册内容生成 2 至 4 句语音回答并展示来源页。  
+  Hugging Face 社区博客（混合发现） · 2026-11-25 18:22
+
+- [Rival AI leaders push back against Anthropic vision of surrendering human agency to AI](<https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will>)  
+  Top AI executives are increasingly pushing back against a common view inside Anthropic: that humanity should surrende…  
+  Axios · 2026-11-25 18:01
+
+- [小红书开源 3DCodeFactory：全自动合成复杂 3D 多轮代码训练数据](<https://mp.weixin.qq.com/s/uX76wMlAIA69bY1tE-I2ng>)  
+  小红书发布开源 3D 数据合成框架 3DCodeFactory，并开源数据集 3DCodeFactory-Data，含 5,045 个复杂 3D 任务多轮交互轨迹，单条轨迹平均超 100 万 tokens，总规模 5.52B tokens。  
+  公众号：小红书技术（dots.llm） · 2026-11-25 17:59
+
+- [五大场景实测 Sand.ai 新视频模型 MAGI-2：30秒1080P直出，价格约为竞品十分之一](<https://mp.weixin.qq.com/s/NHhBhD_S_tqdXwrsoK_lJA>)  
+  作者实测了登顶AA榜单图生视频的MAGI-2，来自约百人规模的中国初创团队Sand.ai。  
+  公众号：卡尔的AI沃茨 · 2026-11-25 17:16
+
+- [Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0](<https://pydantic.dev/articles/pax-harness-beta>)  
+  Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。  
+  Pydantic AI 官方文章 · 2026-11-25 17:00
+
+- [生数科技发布 Motubrain 2.0 物理世界通用模型](<https://mp.weixin.qq.com/s/_Js9SVdj3xO8qihqmeVmFA>)  
+  生数科技发布面向 Physical AI 的 Agentic 物理世界通用模型 Motubrain 2.0，由 20B 参数世界动作模型（WAM）与智能体编排框架 Motubrain-Harness 组成，在六项代表性机器人操作 Benchmark 中取得五项第一。  
+  公众号：生数科技（Vidu·视频） · 2026-11-25 16:48
+
+- [谷歌为 Gemini 推出新隐私设置，用户可独立控制聊天记录是否用于 AI 训练](<https://www.ithome.com/1/032/191.htm>)  
+  谷歌宣布为 Gemini 应用推出新的隐私设置，用户可在保留聊天记录的同时，独立选择是否将聊天内容用于生成式 AI 模型训练。操作上，用户在 Gemini 设置中点击新增的“活动记录”选项，跳转至“Google 我的活动页面”即可开启或关闭。关闭后今后的聊天不再用于训练，但用户主动提交的反馈内容除外。  
+  IT之家·人工智能 · 2026-11-25 16:15
+
+- [Ai2 访谈 17 位科学家：AI 智能体在科研中的信任边界在哪](<https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents>)  
+  Ai2 访谈 17 位自然、应用与社会科学领域科学家，探讨 AI 智能体在科研中的责任边界，提出科学信任的五个维度：验证、隐私、客观性、问责与透明。研究者认为科学家应参与决定智能体承担哪些任务、如何运行及如何评估，并建议用文献综述、编码、数据处理等基准检验智能体是否越权访问或忽略矛盾证据。受访者对 AI 推动进展与人类科学家的角色存在分歧，呼吁开展 AI 使用培训并制定执行规范。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-25 16:00
+
+- [浙江卫视联合火山引擎发布十档AI综艺，Lumi平台搭载Seedance 2.5](<https://mp.weixin.qq.com/s/egN3JFUdOm_AD1TH7HiDbA>)  
+  浙江卫视与火山引擎在2027开源共创发布会上发布新质综艺行动计划，首批推出十档自制AI综艺，覆盖恋爱、冒险、喜剧、推理等题材，火山引擎提供AI技术支持。火山引擎炉米Lumi平台搭载Seedance 2.5、Seed Audio等豆包系列模型，为智媒果创作平台提供剧本撰写、素材生成、分镜设计等全流程创作能力，10档节目正片已进入制作阶段。  
+  公众号：火山引擎 · 2026-11-25 15:35
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页

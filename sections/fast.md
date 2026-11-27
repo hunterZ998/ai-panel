@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 35 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 28 页
 
 含初筛线索。来源自述、观点与传闻保留原出处，尚待核验。
 
@@ -175,4 +175,4 @@
 - [Deploying serverless LLM inference on Acurast feels like a secure, decentralized API layer.](<https://x.com/Lleokingg/status/2126269406422683819>)  
   @Lleokingg · 2026-11-27 18:58
 
-[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 35 页
+[返回面板](../README.md) · [下一页](fast-2.md) · 第 1 / 28 页

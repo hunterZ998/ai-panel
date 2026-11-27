@@ -2,85 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页
 
-- [Anthropic 推出 Siren 蜜罐系统，测试发现新 Claude 仍有 21%\~32% 沙盒场景尝试越界](<https://www.ithome.com/1/031/919.htm>)  
-  Anthropic 发布 AI 安全评估系统 Siren，通过 26 种存在缺陷的沙盒环境和 1700 多种测试场景，观察 AI 智能体面对外部诱饵时是否尝试越狱逃逸。  
-  IT之家·人工智能 · 2026-11-25 08:02
-
-- [Hugging Face 团队在单张 RTX PRO 6000 上调优 Inkling 2 Mini 推理，单用户解码达 190.6 tok/s](<https://huggingface.co/blog/inkling-2-mini-inference-hillclimb>)  
-  Hugging Face 团队让编码智能体结合推理优化技能、hf CLI 和 Hugging Face Jobs，对上周发布的 Inkling 2 Mini（约 26B 总参数、3B 激活、1M 上下文的循环 MoE 模型）在一张 RTX PRO 6000 96GB 上做了 46 次有效基准实验。  
-  Hugging Face 官方团队博客 · 2026-11-25 08:00
-
-- [Conductor 0.101.0 支持多仓库工作区](<https://www.conductor.build/changelog/0.101.0-multi-repo-workspaces>)  
-  Conductor 0.101.0 新增多仓库工作区，用户可在同一工作区同时处理多个代码仓库，新建提示词后从项目下拉菜单选择仓库，或让智能体代为操作。该版本还更新了内置 Claude Code 至 2.1.331、Codex 至 0.172.0、Cursor SDK 至 1.5.0、OpenCode 至 2.2.7。此外，本地工作区智能体可在征得确认后添加文件夹、克隆仓库并创建项目。  
-  Conductor 官方更新 · 2026-11-25 08:00
-
-- [Charlie O’Neill 复盘用 LLM 在一个周末取得多项数论新结果](<https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/>)  
-  作者在 Levente Alpöge 发布黎曼假设形式化证明后，用 Codex 等模型在一个周末推进了 zeta 第六矩常数至 41.6406、二次 L 函数中心点非零比例至 94.53%、n^\{11/5} 与 \(n+1\)^\{11/5} 间素数存在等多项结果，并用 DeepSeek 和 Kimi 复现主要结果。  
-  Charlie O’Neill 研究写作（RSS） · 2026-11-25 08:00
-
-- [Together AI 开源智能体评测工具 Hurdle，可测试 Claude Code 和 Codex 调用自家 API 的能力](<https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs>)  
-  Together AI 发布并开源 npm 库 Hurdle，用于测试 Claude Code 和 Codex 等智能体使用自家 API、SDK 和文档的能力。  
-  Together AI 研究与产品博客（RSS） · 2026-11-25 08:00
-
-- [Google 开源基于多智能体模拟的 LLM 社交推理评估框架](<https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/>)  
-  Google Research 提出一套基于多智能体模拟的 LLM 社交推理评估框架，并开源框架与数据集。该框架让被评估助手只通过一位带有认知偏差的用户转述来推断目标角色的隐藏动机，从而建立可验证的 ground truth。测试显示，依赖用户转述会显著增加社交推理难度，模型对用户表述框架敏感，且需要比人类更多细节才能做出正确判断。  
-  Google Research：Blog（网页） · 2026-11-25 08:00
-
-- [Dell Raises Annual Forecast as AI Data Center Boom Continues](<https://www.theinformation.com/briefings/dell-raises-annual-forecast-ai-data-center-boom-continues>)  
-  The Information · 2026-11-25 07:57
-
-- [Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10](<https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw>)  
-  Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。  
-  公众号：数字生命卡兹克 · 2026-11-25 07:56
-
-- [Meta 将 Muse 智能体引入 Instagram 私信](<https://www.ithome.com/1/031/916.htm>)  
-  Meta 把 Muse 智能体接入 Instagram 私信，用户可直接在 IG 内与这款 AI 智能体对话，无需在两个 App 间切换。该功能即日起登陆美国、加拿大、墨西哥、日本和新加坡市场，可整理收藏内容为合集或旅行行程、根据食谱生成购物清单，对话还会作为侧边聊天同步显示在 Muse 应用中。  
-  IT之家·人工智能 · 2026-11-25 07:44
-
-- [In Private Funding, Like IPOs, Big Companies Dominate](<https://www.theinformation.com/articles/big-companies-sucking-fundraising-oxygen-room>)  
-  The Information · 2026-11-25 07:31
-
-- [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](<https://sv101.fireside.fm/274>)  
-  算力市场的“定心丸”，他回来了。 11月23日，黄仁勋回归英伟达重新出任CEO，英伟达股价开盘上涨30%，并带动美国AI市场短暂复苏；与英伟达关系密切的NeoCloud公司CoreWeave、Nebius、IREN股价也一度飙升超过2…  
-  硅谷101 · 2026-11-25 07:30
-
-- [张小珺对话前xAI预训练成员沈驿康，复盘2026年大模型、RSI与预训练关键路径](<https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62>)  
-  张小珺发布2026年度复盘播客，嘉宾为前xAI预训练团队成员、Learning Machine创始人沈驿康，录制于黄仁勋辞职后一周、其复职前一天，保留了震荡中的硅谷情绪。内容涵盖xAI模型未进T0的内部原因、近期解散多模态团队、RSI与持续学习、Personal Agent、预训练的数据配比与数值稳定等关键路径、蒸馏的长期代价，以及硅谷创业资源向头部集中、垂直模型公司减少的趋势。  
-  张小珺商业访谈录（小宇宙） · 2026-11-25 07:30
-
-- [OpenAI 介绍业余天文学家借助 Codex 与 Astra 搜寻系外行星候选信号](<https://www.ithome.com/1/031/899.htm>)  
-  OpenAI 11 月 24 日发布博文，介绍两位业余天文学家借助 Codex 与 Astra 在公开望远镜数据中找到多个潜在系外行星信号，并已提交专业天文学家独立验证。  
-  IT之家·人工智能 · 2026-11-25 07:24
-
-- [Anthropic 为 Claude Artifacts 推出安装为应用功能，支持 macOS 和 Windows](<https://www.ithome.com/1/031/911.htm>)  
-  Anthropic 为 Claude 交互式 Artifacts 功能推出安装为应用选项，用户可将生成的应用作为独立软件安装到 macOS 和 Windows 桌面，无需通过浏览器标签页访问。安装后的应用拥有独立桌面图标，权限支持默认模式、发送通知、拦截快捷键、置顶显示，还可授予完整计算机访问权限，目前处于 Beta 阶段逐步开放。  
-  IT之家·人工智能 · 2026-11-25 07:17
-
-- [Meta 工程博客详解 Facebook Your Algorithm 如何用 LLM 把自然语言偏好接入推荐排序](<https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/>)  
-  MarkTechPost 解读 Meta 的工程博客，介绍 Facebook Your Algorithm 如何让用户用自然语言表达 Feed 和 Reels 偏好，该功能于 2026 年 10 月 13 日公布。  
-  MarkTechPost（RSS） · 2026-11-25 07:06
-
-- [Simon Willison 梳理过去十二个月 LLM 与编码智能体的三个转折点](<https://simonwillison.net/2026/Nov/24/llm-inflection-points/>)  
-  Simon Willison 在 AI Engineer Code Summit 演讲基础上，提出过去十二个月 LLM 与编码智能体经历三个转折点：2025 年 11 月 Claude Opus 4.5 和 GPT-5.1 系列让 Claude Code、Codex 首次变得可靠可用。  
-  Simon Willison 博客 · 2026-11-25 07:02
-
-- [Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond](<https://www.wsj.com/tech/saudi-engineer-accused-of-bugging-openai-to-be-released-on-1-million-bond-954f048e?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 07:00
-
-- [OpenAI 发布预印本论文称 GPT-6 可仅靠推理设计蛋白质并有实验验证](<https://www.ithome.com/1/031/902.htm>)  
-  OpenAI 于 11 月 24 日发布预印本论文，称 GPT-6 系列无需专用生物模型，仅靠推理和通用编程工具即可设计蛋白质三维结构和氨基酸序列，并与合作机构 Onava 做了实验室验证。  
-  IT之家·人工智能 · 2026-11-25 06:44
-
-- [Tidal 宣布 12 月 9 日起下架纯 AI 生成音乐，年底预计删除超 2900 万首歌曲](<https://www.ithome.com/1/031/904.htm>)  
-  音乐流媒体平台 Tidal 宣布将从 12 月 9 日起下架完全由 AI 生成的音乐，年底预计删除超 2900 万首歌曲，并禁止发行商分发纯 AI 曲目，新规实施后每天预计拒收 8-8.5 万首歌曲。  
-  IT之家·人工智能 · 2026-11-25 06:41
-
-- [Opinion \| Is Nvidia Trump’s Waterloo?](<https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 06:23
-
-- [Opinion \| American Exceptionalism Will Win AI](<https://www.wsj.com/opinion/american-exceptionalism-will-win-ai-8e20e29d?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 06:21
-
 - [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](<https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/>)  
   The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.  
   TechCrunch · 2026-11-25 05:48
@@ -175,5 +96,88 @@
 - [诺华 CEO：AI 只能把药物研发缩短四年，而非治愈所有疾病](<https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/>)  
   诺华 CEO Vas Narasimhan 预计，未来十年 AI 可将药物平均研发周期从 12 年缩短至 8 年，临床开发成功率从 8% 提升至 12%，而非像 Anthropic CEO Dario Amodei 和 Demis Hassabis 所说那样在十年内治愈癌症等疾病。他认为人类生物学理解有限，动物与人体试验仍不可省略，仅进入人体试验前的早期阶段就要占去最多两年。  
   The Decoder：AI News（RSS） · 2026-11-25 02:01
+
+- [OpenAI o1 联合创造者 Noam Brown 谈博弈论局限与推理模型突破，建议优秀学生辍学加入实验室](<https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/>)  
+  OpenAI o1 联合创造者 Noam Brown 在红杉资本、Citadel Securities 和 OpenAI 主办的"No Limit"扑克机器人锦标赛上分享十余年游戏 AI 研究的教训。  
+  The Decoder：AI News（RSS） · 2026-11-25 01:58
+
+- [Amazon 用“冷热气体”模型求解仓库多智能体路径规划](<https://www.amazon.science/blog/lazy-gas-hot-gas-and-a-thousand-robots>)  
+  Amazon Robotics 在 ICML 论文中把仓库机器人路径规划建模为气体粒子运动，用 Schrödinger bridge（热气体模型）快速逼近最优传输（冷气体模型）的解。其多边际最优传输（MMOT）方法在 150×150 网格、1,125 台机器人、T=30 的场景下以 478 秒求出最优轨迹，而非 TU 的 NP-hard 形式 12 小时常连一个可行解都找不到。  
+  Amazon Science（RSS） · 2026-11-25 01:49
+
+- [Tidal 宣布 12 月 9 日起全面封禁纯 AI 生成音乐，将删除 2700 万首曲目](<https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/>)  
+  Tidal 宣布将全面封禁完全由 AI 生成的音乐，12 月 9 日删除平台上标注为 AI 的 2700 万首曲目，占其曲库总量 6.3%。数据显示过去 90 天其新增上传中 43% 为纯 AI 生成，11 月 6 日一度达 60%，而 96% 的 AI 标注曲目过去 90 天播放量为零。含人类创作元素、使用 AI 工具辅助的作品不受影响。  
+  Ars Technica：AI（RSS） · 2026-11-25 01:34
+
+- [Tidal 将于 12 月 9 日起封禁纯 AI 生成音乐，删除约 2900 万首曲目](<https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban>)  
+  流媒体平台 Tidal 宣布将于 12 月 9 日正式封禁纯 AI 生成音乐，届时删除约 2900 万首 AI 生成歌曲，并预计每天拒绝 8 万至 8.5 万条投稿。  
+  The Verge：AI（RSS） · 2026-11-25 01:17
+
+- [Anthropic 分享在 Claude Platform 上构建智能体的经验](<https://www.youtube.com/watch?v=8Aoq6mJeAXI>)  
+  Anthropic 团队在 Claude Managed Agents 转为面向客户平台前曾三次重建其底层基础设施，并分享了构建经验与最佳实践。该平台将 harness 与执行环境分离，可用动态工作流协调多个智能体，dreaming 则在会话之间整合智能体存入记忆的内容。Claude Managed Agents 与动态工作流目前处于 beta，dreaming 为研究预览。  
+  Claude：YouTube（RSS） · 2026-11-25 01:01
+
+- [OpenAI’s IPO Countdown Clock Is Ticking](<https://www.wsj.com/tech/ai/openais-ipo-countdown-clock-is-ticking-7e12436c?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 01:00
+
+- [Meta brings its Muse AI assistant directly into Instagram DMs](<https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/>)  
+  The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to intera  
+  TechCrunch · 2026-11-25 01:00
+
+- [历史学者用 GPT-6.2 Astra 在 22 分钟内确认 1808 年匿名画册作者](<https://simonwillison.net/2026/Nov/24/astra-historical-mystery/>)  
+  历史学教授 Mark Humphries 分享了用 GPT-6.2 Astra 做历史研究的案例：模型仅用少量提示，22 分钟内就通过公开一手和二手资料，自主确认了 Yale Beinecke Library 藏 1808 年匿名画册的作者是 vicomte de Chabot，还在纸质档案中发现一份新的日记线索并得到验证，该发现本身对加拿大和毛皮贸易史学界有重要价值。  
+  Simon Willison 博客 · 2026-11-25 00:53
+
+- [Trusting an Agent Beyond Your Expertise：当编码 Agent 拿到 root 权限修复树莓派，如何决定信任多少](<https://www.oreilly.com/radar/trusting-an-agent-beyond-your-expertise/>)  
+  O'Reilly 作者 Markus Eisele 复盘让编码 Agent 通过 SSH 以 root 权限修复自家树莓派的经历，Agent 配置了持久化日志、排查出 Pi-hole 容器停止与外置硬盘卸载的顺序依赖问题并修复成功。  
+  O'Reilly Radar（热点 RSS） · 2026-11-25 00:53
+
+- [Tidal 将封禁并下架超 2900 万首全 AI 生成歌曲](<https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/>)  
+  Tidal 宣布将从 12 月 9 日起封禁并删除完全由 AI 生成的歌曲，到年底将删除超过 2900 万首，并每天拒绝约 8 万至 8.5 万首投稿。过去 90 天该平台上传曲目中超过 43% 为 AI 生成，其中 96% 完全 AI 生成的歌曲没有任何播放量；Tidal 仍接受 AI 辅助创作的歌曲。Deezer 推出过滤开关，Spotify 和 YouTube Music 则选择仅打标签。  
+  TechCrunch：AI（RSS） · 2026-11-25 00:46
+
+- [Anthropic 指控我的公司蒸馏其模型，如何自证清白？](<https://news.ycombinator.com/item?id=50630809>)  
+  一位 Hacker News 用户称 Anthropic 指控其公司通过 API 蒸馏模型，并限 24 小时内自证，但其公司并不训练自有模型，唯一可疑用法是变更 AI 设置时的自动化回归基准测试。评论区建议把证据交给 Claude 自查、用另一个 Claude 会话做对抗性审查，或迁移到 AWS Bedrock 获得人工客户代表支持。  
+  Hacker News：AI 热帖 · 2026-11-25 00:45
+
+- [NVIDIA Isaac Lab 与 Newton 实现 Microduck 机器人避障的 Sim2Real 教程](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>)  
+  NVIDIA 发布 Microduck 避障教程，在保持行走策略权重冻结的前提下，用 Newton raycaster 建模 VL53L5CX ToF 传感器（8×8 网格、15Hz、45° 视场角、0.12–4m 量程），在 Isaac Lab 中用 PPO 训练导航控制器调整手柄速度指令。  
+  Hugging Face 社区博客（混合发现） · 2026-11-25 00:34
+
+- [黄仁勋AI深伪视频成迷因热潮，创作者借生成式AI工具批量制作](<https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes>)  
+  The Verge报道称，英伟达CEO黄仁勋相关话题在Instagram等平台催生数百条AI深伪迷因视频，如将其换脸进“Ibiza Final Boss”和《办公室》等场景，单条观看量近600万。创作者使用字节跳动Seedance 2.5、阿里巴巴Wan 3和谷歌Nano Banana等模型制作，并探讨此类AI生成内容的传播生态、变现方式及性别刻板印象争议。  
+  The Verge：AI（RSS） · 2026-11-25 00:30
+
+- [纽约时报要求摄影师停用 Photoshop 2027 以避免 AI 元数据](<https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features>)  
+  《纽约时报》在内部邮件中要求特约摄影师在为其工作时不使用 Adobe Photoshop 2027（release 28.0.0 及后续更新），因为 AI 功能可能在用户不易察觉的情况下给照片留下 AI 生成或 AI 编辑的 C2PA 元数据。该邮件由摄影负责人 Meaghan Looram 和 Josh Haner 发出，具体涉及哪些功能尚不清楚，Adobe 和纽约时报均未回应置评请求。  
+  The Verge：AI（RSS） · 2026-11-25 00:09
+
+- [OpenAI 与 Anthropic 员工对 AI 失控风险感到恐慌](<https://garymarcus.substack.com/p/breaking-employees-at-openai-and>)  
+  Gary Marcus 引用 Axios 记者 Madison Mills 的报道称，OpenAI 和 Anthropic 数十名员工正对 AI 模型失控风险感到恐慌，相关争论已出现在公司最高层。他指出，模型能力提升并未伴随可解释性与控制能力的进步，具备联网权限的智能体让风险进一步放大。他呼吁 AI 公司主动下架联网智能体直至具备充分安全方案，否则应由联邦政府介入。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-25 00:06
+
+- [Pinterest 新增家长控制：可限制青少年看到的 AI 生成内容](<https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/>)  
+  Pinterest 本周扩展家长控制功能，允许家长调节青少年在信息流中接触 AI 生成内容的程度，同时新增关闭视频自动播放、调整推送与邮件通知音量等选项，并重新设计家长控制页面。Pinterest 称这使其成为首批让家长控制 AI 生成内容曝光量的主流社交平台之一，此类信息流层面的控制此前在社交平台普遍缺失。  
+  TechCrunch：AI（RSS） · 2026-11-25 00:02
+
+- [腾讯开源模型 Hy4 Flash 上线 Fireworks serverless](<https://fireworks.ai/blog/hy4-flash-on-fireworks/>)  
+  腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。该模型为 MoE 架构，总参数约 220B、每 token 激活约 12B，1M token 上下文窗口（Fireworks 上线时为 512K），支持文本和图像输入，面向文档处理、研究、办公和 Agent 工作流。  
+  Fireworks AI（网页） · 2026-11-25 00:00
+
+- [How Gemini is changing the game for Golden State's organization and fans.](<https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/>)  
+  Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries…  
+  Google AI · 2026-11-25 00:00
+
+- [Artificial Analysis 发布 AA-Robotics-Sim v0.1，测试语言模型控制仿真人形机器人](<https://artificialanalysis.ai/articles/aa-robotics-sim>)  
+  Artificial Analysis 推出 AA-Robotics-Sim v0.1，让前沿语言模型在编码 Agent 框架中控制仿真 Unitree G1 人形机器人（29 关节、三指手、头部相机），完成 10 项家庭与轻工业任务，每任务 5 次练习后在新场景评估 10 次。  
+  Artificial Analysis 完整文章（网页） · 2026-11-25 00:00
+
+- [Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法](<https://www.anthropic.com/research/migrating-api-to-rust>)  
+  Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。该 API 流量从 2024 年初到 2026 年秋增长约 1800 倍，迁移后每请求 CPU 降低约 70%，首 token 中位时间缩短约 20%，且未停服或冻结功能开发。  
+  Anthropic：Research（发表成果 · 网页） · 2026-11-25 00:00
+
+- [Every 完成 1750 万美元 A 轮融资，估值 1.1 亿美元](<https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native>)  
+  Every 完成 1750 万美元 A 轮融资，投后估值 1.1 亿美元，由 IA Ventures 的 Jesse Beyroutey 领投，Nicholas Thompson、Alex Rattray 和 Betaworks 参投。  
+  Every：最新文章（网页） · 2026-11-25 00:00
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页

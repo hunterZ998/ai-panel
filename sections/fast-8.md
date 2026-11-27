@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 35 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 28 页
 
 - [もうOpenAIはIPOできない。いま想定している1兆ドルで買う投資家はいない。2000億ドルぐらいでMSにexitするの…](<https://x.com/ikedanob/status/2125982536979697667>)  
   もうOpenAIはIPOできない。いま想定している1兆ドルで買う投資家はいない。2000億ドルぐらいでMSにexitするのがベストシナリオだろう。その場合、SBGの持分13％は260億円で、累計投資額550億ドルを大幅に下回る。  
@@ -180,4 +180,4 @@
   The fact that you hate Trump \(I do\) must have NOTHING to do with your opinion on the reinstatement of Jensen Huang. It was the market that brought back Huang. Trump was just responding. Victory of the \(flawed\) innovator against empty suits &amp;amp; journalists lo…  
   @nntaleb · 2026-11-26 20:23
 
-[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 35 页
+[返回面板](../README.md) · [上一页](fast-7.md) · [下一页](fast-9.md) · 第 8 / 28 页

@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 35 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 28 页
 
 - [AI video creation keeps getting more exciting.](<https://x.com/MuhammadAs7ad/status/2125908651915571512>)  
   Great timing to experiment with new creative possibilities\! 🎬🚀  
@@ -175,4 +175,4 @@
 - [BREAKING: NVIDIA หยุดการจัดส่งชิปไปยังประเทศไทย มาเลเซีย สิงคโปร์และอินโดนีเซีย ตามรายงานของ Financial Times](<https://x.com/karnnikros/status/2125898814594957562>)  
   @karnnikros · 2026-11-26 18:25
 
-[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 35 页
+[返回面板](../README.md) · [上一页](fast-9.md) · [下一页](fast-11.md) · 第 10 / 28 页

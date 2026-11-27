@@ -2,81 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 19 页
 
-- [They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.](<https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-27 10:00
-
-- [Karpathy点燃LLM Wiki，中国公司率先做成了企业级产品](<https://36kr.com/p/4087315146963588?f=rss>)  
-  用AI处理复杂资料时，“搜不到东西”不再是问题，“搜出来的东西不可信”、“搜出来的东西Agent用不了”才是。 当前的专业场景里，资料里既有动辄成百上千页的PDF，也有视频、Excel表格、图文混排文件等五花八门的格式。不同材料之间的说法互  
-  36氪 · 2026-11-27 09:59
-
-- [大衍科技获得数千万人民币Pre-A轮融资，赛伯乐投资领投，浙江创新投资、浙里信、浙商创投、普华资本、松禾资本、万联天泽参投](<https://www.itjuzi.com/investevent/14708782>)  
-  大衍科技专注于4D世界重建、世界模型、可控扩散模型等前沿技术的研究与应用，旨在通过自研的世界模型技术，极致性价比的合成数据平台，为每个智能公司打造属于自己的数据闭环飞轮。应用领域覆盖自动驾驶、具身智能、数字孪生城市等关键赛道。大衍科技…  
-  IT桔子 · 2026-11-27 09:55
-
-- [“我把钱退给LP了”](<https://36kr.com/p/4087346257771140?f=rss>)  
-  承认抢不到份额很难吗？很难，谁都不想把好不容易募到的钱还回去。 今年，前沿科技投资几乎成了一个象征嗅觉与站位的共识。LP对“心仪标的”诉求明确，专项基金也得以迅速升温——脑机接口、AI大模型、商业航天、量子科技等赛道上，项目专项基金纵横在各  
-  36氪 · 2026-11-27 09:50
-
-- [陶哲轩下场验证黎曼猜想，“AI批量吐证明就像发电厂排核废料”](<https://36kr.com/p/4087282289424775?f=rss>)  
-  就在黎曼猜想证明公布前几天， 陶哲轩 在哈佛一场活动上发布了对AI数学的最新表态—— AI公司为了测模型，批量生成难以消化的数学证明，就像发电厂产生了「核废料」！ 但别误会，他不是完全反对AI用在数学研究上，只是他认为AI公司与人类数学家合  
-  36氪 · 2026-11-27 09:44
-
-- [相对论和量子力学统一有戏了？GPT-6 Astra参与，83页论文让物理圈炸锅](<https://36kr.com/p/4087282603932297?f=rss>)  
-  「如果这个结论最终被证实，物理学就真正迎来了大一统。」 刚暴击完数学，AI又把「屠刀」伸向物理了。 斯坦福物理学家 Venkatesa Chandrasekaran 发了篇83页的新论文，配合GPT-6 Astra给出了一套 在四维时空中统  
-  36氪 · 2026-11-27 09:44
-
-- [美国年轻人恋爱新观：宁可单身，也不和搞 AI 的处对象](<https://36kr.com/p/4087311436446085?f=rss>)  
-  假如你去相亲，对方自我介绍说，“我在大厂做 AI 工程师。” 你会是什么反应？ 你大概率会觉得，这人不仅收入稳了，还很上进，至少抓住了机会，踩中了时代浪潮。 结果在美国的一场相亲活动上，一位 AI 从业者满怀骄傲介绍起自己的职业时，换来了一  
-  36氪 · 2026-11-27 09:43
-
-- [美股英伟达危机真的解除了？华尔街却可能犯了一个致命错误](<https://36kr.com/p/4087278619081092?f=rss>)  
-  周一还在庆祝黄仁勋王者归来的华尔街，这两天就开始重新审视这场复职背后尚未解决的法律、监管和公司治理风险，这恰恰暴露了一个值得投资者警惕的问题，黄仁勋回来了，英伟达的危机就真的结束了吗？ 我们美股投资网在结合了美股底层的订单流数据，并仔细梳理  
-  36氪 · 2026-11-27 09:14
-
-- [2026年中国法律科技行业发展白皮书](<https://36kr.com/p/4087255061543296?f=rss>)  
-  摘要 中国法律科技正处在从工具化提效向可信流程化跃迁的阶段，预计2030年市场规模将达241.4亿元，其中企业端以156.5亿元占六成以上，批量纠纷处置成为主要增长来源。与此同时，合规要求同步收紧：数据安全、个人信息保护以及AI辅助司法的适  
-  36氪 · 2026-11-27 09:13
-
-- [当物理AI遇上6G，机器人多边协作不再遥远](<https://www.163.com/dy/article/LCNORVV70514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 07:54
-
-- [国产大模型集体进军AI4S](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 07:10
-
-- [How Clay Builds GTM Agents — Jeff Barg, Head of AI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_clay_builds_gtm_agents_jeff_barg_head_of_ai>)  
-  Clay \( https://www.clay.com/ \) wants you to get about the same results whether you use its own agent or point Claude…  
-  Latent Space · 2026-11-27 06:44
-
-- [AI 让自托管重新变有趣：一位老玩家的实操复盘](<https://janlukas.blog/posts/ai-self-hosting>)  
-  长期自托管的作者复盘过去几个月如何借助 AI 编码智能体重拾自托管热情。  
-  Hacker News：AI 热帖 · 2026-11-27 05:47
-
-- [Ploid](<https://www.producthunt.com/products/ploid>)  
-  People search for AI agents, across 2B+ profiles  
-  Product Hunt · English · 2026-11-27 05:06
-
-- [Nvidia hits pause on chip shipments to Southeast Asia](<https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/>)  
-  Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U  
-  TechCrunch · 2026-11-27 04:03
-
-- [前 OpenAI 研究员 Scott Aaronson 撰文称 AI 能产出黎曼猜想证明这件事比证明本身更重要](<https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/>)  
-  前 OpenAI 研究员、UT Austin 教授 Scott Aaronson 发博文称，黎曼猜想证明本身未必改变日常生活，真正意义重大的是 AI 系统能产出这类证明，可能对日常经济乃至生存带来深远影响。他分析 OpenAI 关于矩阵乘法和傅里叶变换的下界证明，表示首次从直觉上感到 P≠NP 的证明已经不远，并称从多个可靠来源得知 AI 实验室在密码学领域握有未公开的重大结果。  
-  The Decoder：AI News（RSS） · 2026-11-27 03:31
-
-- [Onset](<https://www.producthunt.com/products/onset>)  
-  AI reviews, titles and thumbnails for YouTube creators  
-  Product Hunt · English · 2026-11-27 03:18
-
-- [Opinion \| Searching for God in the AI Machine](<https://www.wsj.com/opinion/searching-for-god-in-the-ai-machine-4b52e760?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-27 02:06
-
-- [OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快](<https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/>)  
-  OpenAI 修复 GPT-6.2 推出期间的计费错误，据 Codex 工程师 Thibault Sottiaux 称，用户现在触及限额的速度比上周快 40%（Astra）和 25%（Sol），但额度仍比 GPT-6 Astra 和 GPT-6.1 Sol 更耐用。  
-  The Decoder：AI News（RSS） · 2026-11-27 01:28
-
-- [SAP Weighs Cutting at Least 10,000 Roles in AI Restructure](<https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring>)  
-  Bloomberg · 2026-11-27 00:15
-
 - [Grand Theft Auto VI proves why efficiency isn’t a virtue](<https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/>)  
   On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful  
   TechCrunch · 2026-11-27 00:00
@@ -175,5 +100,85 @@
 - [Claude-Mem Cloud Sync](<https://www.producthunt.com/products/claude-mem>)  
   Switch devices. Keep your AI agents' memory.  
   Product Hunt · English · 2026-11-26 15:58
+
+- [Pai Defence获得500万美元天使前轮融资](<https://www.itjuzi.com/investevent/14708753>)  
+  Pai Defence是一家战场态势感知技术研发商，研发无源射频传感器 + AI 反无人机态势系统，通过被动采集无线电信号，在不暴露自身位置的前提下实时侦测、分类无人机，依托战场飞行数据训练 AI 预判敌方无人机航线与操作员位置，为前…  
+  IT桔子 · 2026-11-26 15:57
+
+- [德国勃兰登堡消费者保护中心起诉 OpenAI，称 ChatGPT 订阅取消流程繁琐且不合规](<https://www.ithome.com/1/032/888.htm>)  
+  据 ComputerBase 报道，德国勃兰登堡消费者保护中心对 OpenAI 提起诉讼，指 ChatGPT 订阅取消流程过于繁琐，必须通过最初开通订阅的平台管理，不符合德国法律的透明度要求。该机构还质疑用户合同中单方面调整订阅价格的条款，认为 OpenAI 未说明调价的合理依据，条款不具备法律效力。  
+  IT之家·人工智能 · 2026-11-26 15:56
+
+- [夏仙创新连续完成三轮数千万元融资](<https://www.itjuzi.com/investevent/14708747>)  
+  夏仙创新专注机器人操作零样本泛化，提出以物体为中心的 ORGA 架构，让机器人从少量示教中理解物体结构、空间约束与交互关系，而非死记动作轨迹，从而在新物体、新场景、新本体中举一反三完成操作。近日获悉，夏仙创新在三个月内连续完成三轮数千…  
+  IT桔子 · 2026-11-26 15:36
+
+- [曝苹果因色情内容下架 MiniMax AI 聊天应用 Talkie](<https://www.ithome.com/1/032/835.htm>)  
+  据《南华早报》报道，苹果表示 AI 聊天应用 Talkie 已从 App Store 下架，原因是应用内存在色情内容。Talkie 是 MiniMax 开发的 AI 角色聊天与创作平台，主打虚拟角色对话、互动故事与 AIGC 创作，支持多语言，在美国、菲律宾和墨西哥等地流行，目前仍存在于 Google Play 并提供网页版。  
+  IT之家·人工智能 · 2026-11-26 15:25
+
+- [slay](<https://www.producthunt.com/products/slay-3>)  
+  AI composition guide camera app for iPhone  
+  Product Hunt · English · 2026-11-26 15:23
+
+- [Epic CEO 斯威尼公开批评 Claude 误判其集合论研究为模型蒸馏](<https://www.ithome.com/1/032/822.htm>)  
+  Epic Games CEO 蒂姆·斯威尼本周在 X 上称 Claude 是垃圾，因为模型中断了他的集合论研究并指控其在做模型蒸馏，而他用公司账号每天仅输入一两个小时提示词。蒸馏指用强模型输出生成训练数据，各家实验室的服务条款均禁止。此事暴露了防蒸馏检测过于激进、开始干扰正常用户高水平工作的问题，Anthropic 后续是否调整过滤机制尚不明确。  
+  IT之家·人工智能 · 2026-11-26 15:21
+
+- [20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time &amp; How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down>)  
+  AGENDA: 04:00 Jensen's $1 Trillion Comeback: Nvidia's King Returns 13:00 Anthropic Goes Public: Inside the Biggest IP…  
+  20VC · 2026-11-26 15:07
+
+- [腾讯被曝全公司推广混元 HY4，12 月起非技术岗外部模型额度降至 10%](<https://www.ithome.com/1/032/781.htm>)  
+  据“大厂日爆”公众号 11 月 26 日爆料，腾讯将全公司推广混元 HY4 模型。从 12 月 1 日起，产品运营等非技术岗外部模型额度调为 10%，如默认总额度 700 中外部仅可用 70；自 2027 年 1 月 1 日起全员默认使用 HY4，需用外部模型可申请。爆料称调整原因在于 HY4 发布后跻身最强开源模型梯队。  
+  IT之家·人工智能 · 2026-11-26 15:01
+
+- [PH今日热榜 \| 2026-11-26](<https://decohack.com/producthunt-daily-2026-11-26/>)  
+  MyClaw 3.0：建立一个始终在线的AI团队，采用共享记忆机制。；Airbot：首先给你发短信的AI助手；Hiring Right Now：哪些初创公司会聘用你？  
+  Product Hunt 中文 · DecoHack · 2026-11-26 15:00
+
+- [Zipher获得5300万美元A轮融资](<https://www.itjuzi.com/investevent/14708739>)  
+  Zipher是一家AI数据基础设施提供商，为 Agent 驱动的数据工作流提供智能执行层，依据客户设定的 SLA 与预算自动调度、改写、优化云数据任务，原生兼容主流云与数据工具链，帮助企业降低算力成本、稳定数据管道。近日，Zipher…  
+  IT桔子 · 2026-11-26 14:45
+
+- [ILS获得1100万美元A轮融资](<https://www.itjuzi.com/investevent/14708737>)  
+  ILS是一家法律科技研发商，旗舰产品 ProVision 面向私募资本基金法律团队，自动化 side letter 附函、MFN 条款比对与全生命周期管理，配套基金管理人共享协同门户，AI 辅助条款抽取与初稿生成，保留人工复核机制。平…  
+  IT桔子 · 2026-11-26 14:40
+
+- [腾讯混元开源草稿模型 DFly2，让 Hy4 flash 吐字提速 4.2 倍](<https://mp.weixin.qq.com/s/d1HMHrSEChCJiBRZ0tNOyg>)  
+  腾讯混元开源新一代草稿模型 DFly2，作为加速组件挂在 Hy4 flash 旁，在权重与输出不变的前提下提升吐字速度，单项最高提速 4.2×。DFly2 专为 DSA 类稀疏注意力大模型和长上下文场景设计，通过 KV Share 与 Index Share 复用目标模型的 KV cache 和 indexer 选出的至多 2,048 个位置，实现零额外 KV 显存。  
+  公众号：腾讯混元 · 2026-11-26 14:33
+
+- [Sequent获得220万美元种子轮融资](<https://www.itjuzi.com/investevent/14708735>)  
+  Sequent是一家AI辅助形式验证平台提供商，旗下 Alan 平台允许开发者以自然语言定义安全规则，依托 AI 自动生成数学证明，再交由独立 HOL4 定理证明器核验，用于智能合约的严格安全证明，Curve Finance 为首个付…  
+  IT桔子 · 2026-11-26 14:18
+
+- [Wispr Flow 发布语音转文本模型 Canto-2，14 种语言转录错误率平均降低 36%](<https://www.ithome.com/1/032/752.htm>)  
+  Wispr Flow 本周发布语音转文本模型 Canto-2，面向 Mac、Windows、iOS 和 Android 平台，14 种语言转录错误率平均降低 36%，英语错误率降低超过 15%，内部基准中 14 种语言平均错误率从 9.9% 降至 6.3%。  
+  IT之家·人工智能 · 2026-11-26 14:06
+
+- [闪科光联获得数千万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708730>)  
+  闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得数千万人民币天使轮融资…  
+  IT桔子 · 2026-11-26 13:56
+
+- [博登智能获得数亿人民币B轮融资](<https://www.itjuzi.com/investevent/14708729>)  
+  博登智能致力于构建完善的以数据为导向的人工智能系统。通过提供更精细的训练样本帮助塑造出更强大的决策模型，从而有力地加速人工智能的推广进程，使其在更广泛的领域和场景中得以高效应用。近日，博登智能获得数亿人民币B轮融资，宁波高新投资、招商…  
+  IT桔子 · 2026-11-26 13:51
+
+- [Superframes](<https://www.producthunt.com/products/superframes-ai-video-editor>)  
+  Brief an AI Director to edit the whole video  
+  Product Hunt · English · 2026-11-26 13:09
+
+- [《纽约时报》警告摄影师勿因 AI 功能更新 Photoshop](<https://simonwillison.net/2026/Nov/26/hn-50651685/>)  
+  《纽约时报》警告摄影师不要因 AI 功能更新 Photoshop。Simon Willison 分享亲身经历：为其拍照的 NYT 摄影师表示，报社照片只做裁剪和明暗平衡，不做其他编辑，以呈现拍摄原貌。他强调报纸摄影属于新闻摄影，标准严格。  
+  Simon Willison 博客 · 2026-11-26 13:08
+
+- [NVIDIA 开源 Nemotron 3.5 Parse 训练数据集与微调配方并提升推理速度](<https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin>)  
+  NVIDIA 在此前发布 Nemotron 3.5 Parse 文档解析模型的基础上，开源三个训练数据集（Synthetic Charts V1 约 998 万样本、Synthetic Tables V1 100 万样本、OCR Synthetic Multilingual v2 约 790 万样本）并发布完整微调配方。  
+  Hugging Face 社区博客（混合发现） · 2026-11-26 13:05
+
+- [Pax by Pydantic](<https://www.producthunt.com/products/pydantic>)  
+  A coding agent where even coding is a plugin  
+  Product Hunt · English · 2026-11-26 12:04
 
 [返回面板](../README.md) · [上一页](all-2.md) · [下一页](all-4.md) · 第 3 / 19 页

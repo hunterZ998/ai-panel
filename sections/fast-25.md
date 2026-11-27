@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 35 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 28 页
 
 - [Elon Musk and two of his kids paid a visit to Jensen Huang at Nvidia today.](<https://x.com/Milajoy/status/2125451199415779825>)  
   Very cool.  
@@ -175,4 +175,4 @@
   I’m reacting to it right now:  
   @keithedwards · 2026-11-25 09:28
 
-[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 35 页
+[返回面板](../README.md) · [上一页](fast-24.md) · [下一页](fast-26.md) · 第 25 / 28 页

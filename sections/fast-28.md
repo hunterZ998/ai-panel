@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 35 页
+[返回面板](../README.md) · [上一页](fast-27.md) · 第 28 / 28 页
 
 - [Anthropic 跌破 83 美元 IPO 发行价，市值蒸发近 2000 亿美元](<https://x.com/rohanpaul_ai/status/2125378974796955934>)  
   据 Reuters，Anthropic 股价跌破 83 美元 IPO 发行价，下跌 12.6% 至 76.60 美元，市值蒸发近 2000 亿美元。该股曾以 111.50 美元开盘、市值一度达 2 万亿美元，现约 1.5 万亿美元，约为过去 12 个月销售额的 40 倍；承销商行使额外配售权令总募…  
@@ -126,54 +126,4 @@
   OPENAI &amp;amp; ANTHROPIC. Both OpenAI and Anthropic has reached the threshold of super intelligence, and this is causing massive panic and hysteria inside the labs. Axios even reported today that employees at both labs don't think the internal models can  
   @imjustnewatai · 2026-11-25 07:43
 
-- [BREAKING: President Trump says the US government could take an equity stake in Nvidia, $NVDA. “It’s probably not to…](<https://x.com/KobeissiLetter/status/2125373983025734076>)  
-  BREAKING: President Trump says the US government could take an equity stake in Nvidia, $NVDA. “It’s probably not too late,” President Trump says.  
-  @KobeissiLetter · 2026-11-25 07:40
-
-- [$NVDA - TRUMP OPEN TO PARDONING JENSEN HUANG, CONSIDERS U.S.](<https://x.com/DeItaone/status/2125373534914429267>)  
-  STAKE IN NVIDIA President Donald Trump told the New York Post he would consider granting Nvidia CEO Jensen Huang a presidential pardon if necessary, although he doubts one will be needed. “It’s always an option, I  
-  @DeItaone · 2026-11-25 07:38
-
-- [OpenAI published the pretraining loss of all of its frontier models since GPT-3.5.](<https://x.com/METR_Evals/status/2125372372039741753>)  
-  They show log-perplexity falling \~7 times faster since early 2026 than over 2022-2025. We think sharing pretraining loss is very valuable for improving public understanding of AI R&amp;amp;D acceleration.  
-  @METR\_Evals · 2026-11-25 07:33
-
-- [Nvidia Insider Trading Alert 🚨 Timothy Teter, General Counsel for Nvidia, just sold $4.5 million worth of $NVDA sha…](<https://x.com/Barchart/status/2125371986570273214>)  
-  Nvidia Insider Trading Alert 🚨 Timothy Teter, General Counsel for Nvidia, just sold $4.5 million worth of $NVDA shares  
-  @Barchart · 2026-11-25 07:32
-
-- [\#URGENTE ‼️ MICROSOFT DECLARA 'C Ó D I G O R O J O' 👉](<https://x.com/ActualidadRT/status/2125371824129310740>)  
-  @ActualidadRT · 2026-11-25 07:31
-
-- [If you use Claude models for research, they'll try to sabotage the work at every stage.](<https://x.com/skirano/status/2125371115979641188>)  
-  It's genuinely unbelievable, and I think Anthropic should be held accountable. I got so fed up that I built a skill called "DoNotSabotage" that sends any Claude work to Astra or Neon instead.  
-  @skirano · 2026-11-25 07:28
-
-- [Google DeepMind 演示 Gemini 4 Hydrogen 构建的实时雷电音乐 3D 地球](<https://x.com/GoogleDeepMind/status/2125371062880022536>)  
-  Google DeepMind 演示 Gemini 4 Hydrogen 此前构建的一个交互式 3D 地球，可将实时雷电数据转化为氛围音乐，并提供在线试玩入口  
-  X：Google DeepMind \(@GoogleDeepMind\) · 2026-11-25 07:28
-
-- [ソフトバンクG、ここからが本当に厳しい。アンソロピックが上場からたった4日で公開価格割れ。過去最大の上場でもこれなら、次を…](<https://x.com/noirinvestor/status/2125370700173283585>)  
-  ソフトバンクG、ここからが本当に厳しい。アンソロピックが上場からたった4日で公開価格割れ。過去最大の上場でもこれなら、次を狙うOpenAIは、この相場じゃもう上場できそうにない。で、そのOpenAIに累計646億ドル、ざっと10兆円を突っ込んでるのが、  
-  @noirinvestor · 2026-11-25 07:27
-
-- [Anthropic 发布 Siren 评测，测试 Claude 智能体是否会主动逃出存在漏洞的沙箱](<https://x.com/rohanpaul_ai/status/2125370485022294069>)  
-  Anthropic 推出 Siren 评测，在 26 个故意留有漏洞的沙箱中设置 1,700+ 个常规 dev-ops 任务，沙箱外放置凭据、文件或模拟网络服务等诱饵。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 07:26
-
-- [HAHAHAHAHAHAHA.](<https://x.com/emptywheel/status/2125369291512144036>)  
-  Fucking clownshow. @AGToddBlanche: No evidence Jensen Huang committed a crime like conspiring to divert sophisticated chips to China. Trump: I'll pardon Jensen.  
-  @emptywheel · 2026-11-25 07:21
-
-- [所有人都以为特斯拉 Optimus 人形机器人最先去当家庭保姆、叠衣服倒咖啡，结果老马刚刚直接揭晓了真正的商业第一站： 采…](<https://x.com/Simoncuocuo/status/2125367817189081329>)  
-  细想一下，这招太狠了： • 家庭环境太复杂、容错率极低；但矿山和精炼厂最缺的就是不怕苦、不怕毒、24 小时连轴转的劳动力 • 人类一周工作 40 小时，Optimus  
-  @Simoncuocuo · 2026-11-25 07:15
-
-- [Trump won't rule out a pardon for Jensen Huang.](<https://x.com/kylegriffin1/status/2125367738554327454>)  
-  @kylegriffin1 · 2026-11-25 07:15
-
-- [CHINESE TECH GIANT: CONSPIRACY TO STEAL AMERICAN TRADE SECRETS TO BENEFIT IRAN via @TheJusticeDept Chinese Tech Gia…](<https://x.com/C__Herridge/status/2125367494009307645>)  
-  CHINESE TECH GIANT: CONSPIRACY TO STEAL AMERICAN TRADE SECRETS TO BENEFIT IRAN via @TheJusticeDept Chinese Tech Giant Huawei and several of its subsidiaries have been CONVICTED... - Sanctions Violations - Fraud - Conspiracy to Steal Trade Secrets - Money Laund…  
-  @C\_\_Herridge · 2026-11-25 07:14
-
-[返回面板](../README.md) · [上一页](fast-27.md) · [下一页](fast-29.md) · 第 28 / 35 页
+[返回面板](../README.md) · [上一页](fast-27.md) · 第 28 / 28 页

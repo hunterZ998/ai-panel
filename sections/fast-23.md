@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 35 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 28 页
 
 - [Ox Security published its "Plug and Pray" report on November 23, built on 542,207 open-source components analyzed b…](<https://x.com/Sujeet/status/2125544586852626572>)  
   The finding that matters: prompt injection and tool poisoning appeared in 22 percent of flagged  
@@ -171,4 +171,4 @@
 - [愿所有出轨的女生，都能获得跟黄仁勋一样的下场。](<https://x.com/pBftZOgtmp43068/status/2125502750016356440>)  
   @pBftZOgtmp43068 · 2026-11-25 16:12
 
-[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 35 页
+[返回面板](../README.md) · [上一页](fast-22.md) · [下一页](fast-24.md) · 第 23 / 28 页

@@ -2,34 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页
 
-- [AI 会像灯泡一样通缩还是像铜一样复利增长：Tomasz Tunguz 分析 token 价格弹性](<https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars/>)  
-  Tomasz Tunguz 分析 AI token 价格弹性，判断行业更接近铜而非灯泡：Ramp 上价格每降 1% 带动 token 量增 4.3%，OpenRouter 为 6.8%；Anthropic 上半年收入 13.6 倍增至 163 亿美元，Opus 4.5 降本后季度增速从 48% 跳到 132%。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-24 08:00
-
-- [谷歌 DeepMind 用 Gemini 4 智能体结合 Lean 验证优化量子算法，最高提速 290 倍](<https://www.ithome.com/1/031/232.htm>)  
-  谷歌 DeepMind 与 Google Quantum AI 团队于 11 月 23 日发布联合研究，利用多组 Gemini 4 智能体协同优化量子算法，并用形式化定理证明器 Lean 对每个结果做数学验证，相关 Lean 库和已验证方案已在 GitHub 开源。  
-  IT之家·人工智能 · 2026-11-24 06:37
-
-- [Besimple 用 Baseten Training 微调 Nemotron 3.5 Transcribe 与 Qwen3-ASR，MedDictate Term-WER 低至 0.87%](<https://www.baseten.co/blog/post-train-your-own-medical-asr-model-to-outperform-the-frontier>)  
-  Besimple 与 Baseten 合作，用约 500 美元 GPU 成本和 813 小时语音数据微调开源 ASR 模型，在 MedDictate 基准上 Nemotron 3.5 Transcribe 医疗术语词错率（Term-WER）降至 0.87%，较基座模型改进 69%，Qwen3-ASR 降至 2.05%。  
-  Baseten 工程博客（网页） · 2026-11-24 06:34
-
-- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
-  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
-  MIT News（RSS） · 2026-11-24 05:15
-
-- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
-  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
-  The Verge：AI（RSS） · 2026-11-24 05:09
-
-- [OpenAI 向 Plus 等用户推送面向聊天的 GPT-6.2 Sol](<https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/>)  
-  OpenAI 开始向 Plus、Pro、Business 和 Enterprise 用户全球推送面向聊天场景的 GPT-6.2 Sol。官方称其处理复杂请求和网络搜索优于 GPT-6，图像理解 71.7% 对 47.4%，困难指令遵循 78.1% 对 62.5%，专家级任务基准在全部四个推理级别领先约 65% 至 71% 以上对 52% 至 66%。  
-  The Decoder：AI News（RSS） · 2026-11-24 04:39
-
-- [Anthropic 月付约 31 亿美元租用算力，推动 xAI 转向租比建更划算的策略](<https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/>)  
-  据 New York Times 报道，Anthropic 与 xAI 签订约每月 31 亿美元的算力租用合同，成为 xAI 最大客户，Google 每月支付 8 亿美元，两份合同均可提前 90 天通知取消，Anthropic 带来的收入已超过 xAI 总收入的一半。  
-  The Decoder：AI News（RSS） · 2026-11-24 02:47
-
 - [Ai2 发布 RoboTrack 点跟踪基准、RoboTrack-15M 数据集与 RoboTracker 系列模型](<https://huggingface.co/blog/allenai/robotrack>)  
   Ai2 发布面向机器人操作的点跟踪基准与训练数据套件 RoboTrack，包含 307 段人工标注视频的 RoboTrack-Bench（2522 条轨迹，来自 DROID、Ego-Exo4D、MolmoAct 2 和 EgoVerse）和基于 MolmoSpaces 生成 1500 万条轨迹的 RoboTrack-15M。  
   Hugging Face 社区博客（混合发现） · 2026-11-24 01:20
@@ -37,10 +9,6 @@
 - [Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/>)  
   Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。  
   Google DeepMind：Blog（RSS） · 2026-11-24 00:59
-
-- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
-  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
-  Fireworks AI（网页） · 2026-11-24 00:00
 
 - [METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍](<https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/>)  
   METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。  
@@ -61,6 +29,10 @@
 - [Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设](<https://www.goodfire.com/research/building-stronger-biological-reasoning-models>)  
   Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。  
   Goodfire Research（网页） · 2026-11-24 00:00
+
+- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
+  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
+  Fireworks AI（网页） · 2026-11-24 00:00
 
 - [404 Media 调查 ARTEX 黑客工具被下架后仍在 GitHub 传播](<https://www.404media.co/im-not-going-to-remove-the-repository/>)  
   404 Media 记者报道 AI 黑客工具 ARTEX，它可接入用户选择的大语言模型并派出多个 AI 子智能体分工执行侦察、窃取数据等攻击，数小时内可完成一次完整入侵。原作者于 10 月因工具被恶意使用而将其下架，但作者采访了仍在 GitHub 上分发该工具的多名用户，询问其拒绝移除的原因。  
@@ -122,13 +94,13 @@
   Datasette 推出 datasette-charts 0.1a0，用 Claude Fable 5.2 构建的原型已发展为完整插件，可在 Datasette Lite 试用。  
   Simon Willison 博客 · 2026-11-23 08:37
 
-- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
-  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
-  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
-
 - [vLLM 上用 AMD MoRI UMBP 把 KV 缓存池直接放到 NVMe，同容量吞吐追平 DRAM](<https://vllm.ai/blog/2026-11-23-skip-the-dram-tier>)  
   AMD 与 vLLM 团队在 AgentX 和 kvlab 智能体负载上实测，1.8 TB NVMe KV 池（基于 AMD 开源 MoRI 库的 UMBP）在 Kimi-K3 上吞吐与同容量 1.8 TB DRAM 池差距保持在 1% 以内，48、70、96 并发会话下分别为 +0.3%、+0.8%、−0.2%。  
   vLLM 官方博客（RSS） · 2026-11-23 08:00
+
+- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
+  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
+  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
 
 - [卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法](<https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA>)  
   自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。  
@@ -181,5 +153,33 @@
 - [研究指AI数据中心碳排放堪比中等国家，Anthropic环境信息披露引关注](<https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the>)  
   在Anthropic完成IPO之际，有气候研究指出，美国大型数据中心的碳排放合计已相当于中等国家水平。哈佛大学团队在《自然·可持续性》发表的研究估算，2024年5月至2025年4月间403个数据中心年排放约2570万吨二氧化碳，占美国电力消耗近2%。澳大利亚气候研究员Ketan Joshi的报告进一步指出，AI行业全生命周期排放可能超过国际航空业，且Anthropic从未披露任何能源、排放或环境数据，并与OnePWR达成34亿美元、1.7吉瓦燃气发电设备采购协议。相关研究认为，数据中心自建燃气发电、制冷剂泄漏等因素…  
   Hacker News：AI 热帖 · 2026-11-22 18:32
+
+- [Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude](<https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/>)  
+  The Decoder 援引 Artificial Analysis 的 AA-PersonalityBench 评测，介绍 OpenAI GPT-6.2 Astra 和 Sol 的沟通风格变化。  
+  The Decoder：AI News（RSS） · 2026-11-22 17:41
+
+- [马斯克预警：AI 行业明年或面临严重资金短缺，营运资金缺口或达数千亿美元](<https://www.ithome.com/1/030/628.htm>)  
+  马斯克在回复 Keras 创始人 François Chollet 时预警，AI 行业明年可能面临严重资金短缺，若从支付算力成本到设备稳定创收的时间累计推迟数月，仅营运资金就可能需额外投入数千亿美元。Chollet 此前指出 GPU 现货价格仍在上涨，HBM 和 DRAM 到 2029 年的产能基本已被订满，前沿模型训练算力约每 5 个月翻一番。  
+  IT之家·人工智能 · 2026-11-22 16:47
+
+- [蚂蚁 inclusionAI 开源 LingSante-3.1-flash-MXFP4 医疗 MoE 模型](<https://huggingface.co/inclusionAI/LingSante-3.1-flash-MXFP4>)  
+  蚂蚁 inclusionAI 在 HuggingFace 发布 LingSante-3.1-flash-MXFP4，这是基于 LingSante-3.1-flash 的混合 MXFP4 量化开源权重模型，主模型约 560B 参数、每 token 激活约 25B，配置 262,144 token 上下文窗口。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-22 11:19
+
+- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
+  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
+  IT之家·人工智能 · 2026-11-22 08:04
+
+- [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
+  Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
+  The Decoder：AI News（RSS） · 2026-11-22 00:23
+
+- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
+  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
+  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+
+- [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
+  Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
+  Sarvam AI（网页） · 2026-11-22 00:00
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页

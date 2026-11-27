@@ -2,25 +2,58 @@
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 19 页
 
-完整公开资讯，共 814 条。
+完整公开资讯，共 812 条。
 
-- [爬坡、跨栏、跳台、绕桩……机器人障碍赛火热开场！](<https://www.163.com/dy/article/LCPDAF750530NLC9.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 23:11
+- [AI“香港仔”走进市民生活](<https://www.163.com/dy/article/LCQ985500514R9M0.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 07:19
 
-- [明年，机器人能有活干吗？](<https://www.163.com/dy/article/LCPCTJQ205119FMA.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 23:04
+- [法律纠纷升级！OpenAI反诉苹果\(AAPL.US\)窃取商业机密 指控其阻挠人才流动及](<https://www.163.com/dy/article/LCQ96PGJ05198UNI.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 07:18
+
+- [OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”](<https://www.ithome.com/1/033/780.htm>)  
+  IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的…  
+  IT之家 · 2026-11-28 07:12
+
+- [从被告变原告，OpenAI反诉苹果窃密，AI硬件之争白热化](<https://www.163.com/dy/article/LCQ8F5LL0519DDQ2.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 07:05
+
+- [联想为部分Win11商用电脑预装OpenAI ChatGPT，企业登录最高可领100美元优惠](<https://www.163.com/dy/article/LCQ8F2KB0511B8LM.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 07:05
+
+- [全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度](<https://www.ithome.com/1/033/777.htm>)  
+  IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，…  
+  IT之家 · 2026-11-28 07:04
+
+- [标普19个月最佳一周！美股AI交易巨震背后：黄仁勋回归、特朗普押注与监管风](<https://www.163.com/dy/article/LCQ2NJBH05198NMR.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 05:40
+
+- [OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级](<https://www.163.com/dy/article/LCQ0VO0V05198NMR.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 05:05
+
+- [独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资](<https://www.163.com/dy/article/LCQ0U7ED05118HA4.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 04:53
+
+- [Bots de compras con IA amenazan el dominio de Amazon y Google](<https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google>)  
+  Bloomberg · 2026-11-28 04:02
+
+- [问界将入局换电，知乎与DeepSeek达成合作，海康威视称取消大小周遭员工抵制](<https://www.163.com/dy/article/LCPR5P4G051196HN.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 03:13
+
+- [OpenAI Countersues Apple In Trade Secrets Battle](<https://www.theinformation.com/briefings/openai-countersues-apple-trade-secrets-battle>)  
+  The Information · 2026-11-28 03:06
+
+- [OpenAI Says Apple Pressured Suppliers to Shun Its Devices](<https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices>)  
+  Bloomberg · 2026-11-28 03:02
+
+- [Opinion \| AI Can Keep Americans Safer](<https://www.wsj.com/opinion/ai-can-keep-americans-safer-67f03bcc?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-28 00:36
+
+- [AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive](<https://newsletter.semianalysis.com/p/trainium3-inferencex>)  
+  The Nvidia GPU was originally built to shade pixels, and every Nvidia generation since 2017 has bolted on another pie…  
+  SemiAnalysis · 2026-11-27 23:54
 
 - [How AI Is Changing Black Friday](<https://www.bloomberg.com/news/videos/2026-11-27/how-ai-is-changing-black-friday-video>)  
   Bloomberg · 2026-11-27 23:00
-
-- [商汤大装置全国首家通过Token工厂智算能力评测](<https://www.163.com/tech/article/LCPCFG6V00099F4I.html>)  
-  网易科技 · 2026-11-27 22:55
-
-- [千觉机器人亮相高交会 推出微米级手持形貌测量仪Luma](<https://www.163.com/tech/article/LCPCCO5400099F4I.html>)  
-  网易科技 · 2026-11-27 22:54
-
-- [高交会观察：具身智能加速迈向工程验证与场景落地](<https://www.163.com/dy/article/LCPC4PC805198R91.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 22:50
 
 - [防考生利用 AI 作弊，韩国学校抢购金属探测器](<https://www.ithome.com/1/033/763.htm>)  
   IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家…  
@@ -82,7 +115,7 @@
   “因为打不过，所以卖算力。”这不是外界的嘲讽，而是马斯克（Elon Musk）亲自给AI部门员工群起的名字。 据美国媒体报道，马斯克近期已经在SpaceX内部向员工摊牌：公司自家的AI模型开发落后于竞争对手，与其拿GPU训练Grok，不如直  
   36氪 · 2026-11-27 20:31
 
-- [Poland Signs $300 Million Palantir Deal to Use AI for Defense](<https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense>)  
+- [Poland Signs $300 Million Palantir Deal to Use AI in Defense](<https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense>)  
   Bloomberg · 2026-11-27 20:30
 
 - [小米智能门锁 5 单摄版 / 大屏猫眼版预售，到手价 1199 / 1399 元](<https://www.ithome.com/1/033/740.htm>)  
@@ -133,43 +166,5 @@
 - [Claude开始抢苹果的生意了](<https://36kr.com/p/4087846437705350?f=rss>)  
   摘要： Anthropic推出Claude Artifact桌面应用安装功能，让AI生成的软件拥有独立图标、窗口和系统交互能力。从生成工具到应用运行平台，Claude正在尝试改变软件的生产和分发方式。它距离真正的应用市场仍有距离，但已经向苹  
   36氪 · 2026-11-27 18:39
-
-- [字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视](<https://www.ithome.com/1/033/718.htm>)  
-  IT之家 11 月 27 日消息，字节火山引擎今日宣布，目前， 豆包大模型已服务八成国内头部电视厂商， 创维、长虹、海信、TCL 等主流品牌，都推出了搭载豆包大模型的量产电视。 围绕豆包大模型版电视，火山引擎提供模型与接入支持，厂商完…  
-  IT之家 · 2026-11-27 18:36
-
-- [再次开源顶尖视频模型，这家独角兽估值突破10亿美元](<https://36kr.com/p/4087845296077442?f=rss>)  
-  AI视频生成的竞争，正在发生一个有趣的变化。 过去，行业比拼的是谁能生成更逼真的画面，谁能做出更复杂的动作，谁能让人物开口说话。如今，当头部模型的生成效果不断逼近专业视频制作需求，另一场竞争也随之展开。视频生成的成本能否继续下降？一家模型公  
-  36氪 · 2026-11-27 18:36
-
-- [MLCC头部厂商，或将加快扩产](<https://36kr.com/p/4087845926566530?f=rss>)  
-  经历了前期的大起大落之后，普通MLCC（多层片式陶瓷电容器）价格近期仍未见起色，而在AI服务器带动下，高端产品仍供不应求。在此情形下，相关企业订单及业绩表现明显分化。 华南地区一位MLCC产业链人士告诉财联社记者，普通品的出厂价格从7月中旬  
-  36氪 · 2026-11-27 18:34
-
-- [扎根国家网安基地，帕西尼武汉具身超级数据工厂打造具身智能数据生产新支点](<https://36kr.com/p/4087845245581955?f=rss>)  
-  11月27日，帕西尼武汉具身超级数据工厂在武汉市东西湖区国家网络安全人才与创新基地正式启航，华中具身智能生态联合体倡议同步发起。武汉市政府副市长、市公安局局长李新桥，武汉市数据局局长王烁，武汉市东西湖区人民政府代理区长吕鹏出席并考察工厂，市  
-  36氪 · 2026-11-27 18:31
-
-- [AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架](<https://36kr.com/p/4087817299573129?f=rss>)  
-  AI正在从科研助手走向基础科学研究的深水区。 一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。 11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Cha  
-  36氪 · 2026-11-27 18:28
-
-- [Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content](<https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content>)  
-  The Information · 2026-11-27 18:27
-
-- [都说要给AI设限，OpenAI和Anthropic限的却不是一回事](<https://36kr.com/p/4087817655138690?f=rss>)  
-  11月22日，OpenAI首席科学家Jakub Pachocki发文，首次公布自家模型的预训练进度数据，并提议各家实验室约定一个共同上限。三天后，Anthropic CEO Dario Amodei在X上发长文，提出需要限制的是AI自主研发  
-  36氪 · 2026-11-27 18:24
-
-- [Singapore in Talks With U.S. to Keep AI Chip Access](<https://www.theinformation.com/briefings/singapore-talks-u-s-keep-ai-chip-access>)  
-  The Information · 2026-11-27 18:23
-
-- [影视行业中间层，该如何自救？](<https://36kr.com/p/4087804017900160?f=rss>)  
-  过去几年，影视行业的讨论总绕不开几个关键词：头部IP、头部演员、头部平台。项目会上，大家忙着找大IP、组大阵容，仿佛只要把几张王牌凑齐，一部剧就有了成功的基本盘。另一边，短剧公司卷速度，AI团队卷产能，行业两头都很热闹。 夹在中间的制作公司  
-  36氪 · 2026-11-27 18:09
-
-- [已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族](<https://www.ithome.com/1/033/649.htm>)  
-  IT之家 11 月 27 日消息，腾讯微信视觉团队开源 WeMM-Ecom —— 兼顾前沿电商理解与领先通用能力的多模态基础模型家族，涵盖 0.8B、2B、4B、9B 四款稠密模型和 35B-A3B 混合专家模型。 全系列模型原生支持…  
-  IT之家 · 2026-11-27 18:05
 
 [返回面板](../README.md) · [下一页](all-2.md) · 第 1 / 19 页

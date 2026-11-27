@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 35 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 28 页
 
 - [太狠了。](<https://x.com/huxlab/status/2125851604285042934>)  
   一位 Anthropic 工程师刚把话撂这了： “别再盯着一个聊天框敲 prompt 了，那纯属在浪费模型。我已经不写 prompt 了。” 现在他的 Agent 全都住在三层架构里：loop、graph 和 harness。 同样的模型，差不多的 token，交出来的成品直接翻了10倍。最离谱的…  
@@ -172,4 +172,4 @@
   Jensen Huang’s employees made their support unmistakable. Video credit: Nvidia employees welcome Jensen Huang back, November 23, 2026: posted by David Sacks on X \#NVIDIA \#Media  
   @PrometheanActn · 2026-11-26 11:52
 
-[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 35 页
+[返回面板](../README.md) · [上一页](fast-11.md) · [下一页](fast-13.md) · 第 12 / 28 页

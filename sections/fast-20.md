@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 35 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 28 页
 
 - [The decision to bring Jensen Huang back to Nvidia sends a signal to women not only at Nvidia but across the tech in…](<https://x.com/amydiehl/status/2125608853756588127>)  
   It is a short sighted decision to keep men in power at the expense of women, as I told @HR\_Brew.  
@@ -175,4 +175,4 @@
   Ruben Gallego, the Democrat from Arizona, said it on MS NOW. Tuesday his OWN office sent it out as a press release, "cover your ass" included. His words: "Donald Trump will  
   @JewelsJonesLive · 2026-11-25 21:42
 
-[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 35 页
+[返回面板](../README.md) · [上一页](fast-19.md) · [下一页](fast-21.md) · 第 20 / 28 页

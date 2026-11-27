@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 35 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 28 页
 
 - [千问 Qwen-Audio-3.1 升级多语言与中文方言能力](<https://x.com/Alibaba_Qwen/status/2125798914490249411>)  
   千问为 Qwen-Audio-3.1 语音基础模型系列带来增强的多语言能力，重点覆盖中文方言。升级后 ASR 支持 59 种语言、8 种中文方言，TTS 支持 65 种语言、6 种中文方言，Realtime 支持 53 种语言、6 种中文方言。Qwen-Audio-3.1-ASR、TTS、Real…  
@@ -174,4 +174,4 @@
   CoreWeave’s 2032 bond yield hits 16.9%, up from 9.4% in June. Credit Default Swaps \(CDS\) now imply a &amp;gt;70% probability of default within 5 yrs, Bloomberg reports. Nvidia, Alphabet, Oracle &amp;amp; SpaceX default protection costs also hit records. The  
   @Schuldensuehner · 2026-11-26 09:04
 
-[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 35 页
+[返回面板](../README.md) · [上一页](fast-12.md) · [下一页](fast-14.md) · 第 13 / 28 页

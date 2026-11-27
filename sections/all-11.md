@@ -2,94 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页
 
-- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
-  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
-  Fireworks AI（网页） · 2026-11-24 00:00
-
-- [METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍](<https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/>)  
-  METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。  
-  METR：Blog（网页） · 2026-11-24 00:00
-
-- [Google Agent Retrieval 推出 managed ingestion 与 SearchDocuments：一次 API 调用完成从文件到带引用答案](<https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/>)  
-  Google 开发者博客介绍 Agent Retrieval 新增的 managed ingestion 和 SearchDocuments 功能，现处 Public Preview。  
-  Google Developers Blog（RSS） · 2026-11-24 00:00
-
-- [Google Gemini 4 Neon 实测：好用但需“牵短绳”](<https://every.to/context-window/google-s-neon-is-great-on-a-short-leash>)  
-  Every 团队实测 Google Gemini 4 Neon，认为它是 Google 最好的协作模型，但前提是用户全程保持监督。团队内部对其是否名副其实仍有分歧。同期还介绍了营销负责人 Douglas Brundage 通过指挥 Claude 制作 Every 首支 AI 广告的流程。  
-  Every：最新文章（网页） · 2026-11-24 00:00
-
-- [NVIDIA 教程：用 Hugging Face Diffusers 在 12 GB 显存 GPU 上本地运行 Cosmos 3 Nano](<https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/>)  
-  NVIDIA 技术博客发布教程，讲解如何通过权重流式存储，在仅 12 GB VRAM 的 GPU 上本地运行 NVIDIA Cosmos 3 Nano 视频生成模型，将大部分模型权重存于系统内存并按需传至 GPU 计算。  
-  NVIDIA Technical Blog：Agentic AI / Generative AI · 2026-11-24 00:00
-
-- [Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning](<https://cognition.com/blog/swe-2-1>)  
-  Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。  
-  Cognition 模型 / Devin 博客（网页） · 2026-11-24 00:00
-
-- [Transluce 推出 PosteriorBench：评测语言模型行为后验采样方法](<https://transluce.org/posteriorbench>)  
-  Transluce 发布 PosteriorBench，用于比较语言模型行为后验采样方法的计算成本与对真实后验的逼近程度。基准基于 Qwen3.5-0.8B 采样十亿条回复构建 21 个提示词-行为任务，行为概率覆盖 10⁻⁵ 至 10⁻¹。结果显示所评估方法均无法同时做到高效与忠实：免训练方法成本低但 KL 散度居高不下，训练方法需付出高昂成本才能见效。  
-  Transluce（网页） · 2026-11-24 00:00
-
-- [Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设](<https://www.goodfire.com/research/building-stronger-biological-reasoning-models>)  
-  Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。  
-  Goodfire Research（网页） · 2026-11-24 00:00
-
-- [404 Media 调查 ARTEX 黑客工具被下架后仍在 GitHub 传播](<https://www.404media.co/im-not-going-to-remove-the-repository/>)  
-  404 Media 记者报道 AI 黑客工具 ARTEX，它可接入用户选择的大语言模型并派出多个 AI 子智能体分工执行侦察、窃取数据等攻击，数小时内可完成一次完整入侵。原作者于 10 月因工具被恶意使用而将其下架，但作者采访了仍在 GitHub 上分发该工具的多名用户，询问其拒绝移除的原因。  
-  404 Media（RSS） · 2026-11-23 23:35
-
-- [Z.ai 发布 750B 循环架构旗舰模型 GLM-5.4](<https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/>)  
-  Z.ai 发布基于循环 transformer 的 750B 参数旗舰模型 GLM-5.4，让 28 层共享权重运行两次，称性能可比 2 到 3 万亿参数模型。  
-  The Decoder：AI News（RSS） · 2026-11-23 23:13
-
-- [How to Win Bots and Influence Purchases](<https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents>)  
-  What gets your product or tool found, chosen, and used by agents?  
-  a16z · 2026-11-23 23:04
-
-- [Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据](<https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/>)  
-  Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。  
-  TechCrunch：AI（RSS） · 2026-11-23 23:04
-
-- [Sakana AI 成立 Applied Research Lab，首个项目聚焦金融与经济](<https://sakana.ai/applied-research-lab/>)  
-  Sakana AI 宣布成立 Applied Research Lab，将公司研究应用于大规模复杂现实系统，首个项目为金融经济领域的 COFE 项目。  
-  Sakana AI：Blog（网页） · 2026-11-23 23:00
-
-- [Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例](<https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks>)  
-  Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。  
-  Wiz：Research（安全研究） · 2026-11-23 22:46
-
-- [Sierra 融资 17.5 亿美元，估值半年内翻倍至 300 亿美元](<https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/>)  
-  企业客服公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值翻倍至 300 亿美元，距上轮 150 亿美元估值仅六个月。本轮由 Greenoaks 和 Lightspeed 领投。公司称已服务近 50% 的 Fortune 50 企业，五个月内 run-rate 收入翻倍至 4 亿美元，并正与 Meta、Stripe、Walmart 等合作制定智能体协议定义。  
-  TechCrunch：AI（RSS） · 2026-11-23 22:43
-
-- [黄仁勋复职英伟达 CEO，董事会投票恢复其职务](<https://mp.weixin.qq.com/s/gR_c-k_evwV-Iyg6Z7vFQg>)  
-  英伟达董事会于 23 日 21:58 一致投票恢复黄仁勋总裁、CEO 和董事职务，即时生效，理由是其态度坦诚且复职不构成安全风险。此前 11、12 号黄仁勋离职，20 万人签名支持，18 号财报会营收 1158 亿美元、同比增长 103%，董事会一度表示不打算让其复职并寻找永久 CEO；川普公开力挺后局势转折。  
-  公众号：卡尔的AI沃茨 · 2026-11-23 22:36
-
-- [Nvidia 宣布黄仁勋重返 CEO 职位](<https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/>)  
-  Nvidia 董事会周一宣布重新任命黄仁勋为 CEO 兼总裁，距其因婚外情风波辞职不到两周。董事会称在咨询美国政府高级官员后认定黄仁勋不构成国家安全风险，并一致认为他适合领导公司；股价开盘大涨 30%，美东时间 9:51 报 159.95 美元，涨 27%。Colette Kress 将继续担任 CFO。  
-  TechCrunch：AI（RSS） · 2026-11-23 22:21
-
-- [n8n 复盘“周一早晨事故”：Lead Routing 工作流为何停止分配线索](<https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/>)  
-  n8n 用一则虚构事故复盘说明：某团队 40 人都能编辑 Lead Routing 工作流，一名已离职外包人员的账号仍可登录，其密码还曾被贴在 Slack 频道里，导致周六夜间的筛选条件改动无人察觉。文章分别演示 projects 与自定义角色、SSO、2FA 强制三层访问控制如何在各自环节阻断该事故，并提醒从 IdP 停用账号后仍需在 n8n 中手动删除用户。  
-  n8n Blog · 2026-11-23 22:02
-
-- [Sierra 完成 17.5 亿美元融资，估值达 300 亿美元](<https://sierra.ai/blog/series-f-30b>)  
-  Sierra 宣布以 300 亿美元估值融资 17.5 亿美元，由 Greenoaks 和 Lightspeed Venture Partners 领投，Benchmark、Sequoia、GV、Tiger Global 等此前领投方全部跟投。  
-  Sierra：Blog（RSS） · 2026-11-23 21:45
-
-- [155 家儿童权益组织致信亚马逊、eBay，呼吁停止销售 AI 玩具](<https://www.ithome.com/1/031/203.htm>)  
-  由 155 家儿童权益保护组织组成的联盟向亚马逊和 eBay 首席执行官发公开信，呼吁两家平台停止销售 AI 玩具。  
-  IT之家·人工智能 · 2026-11-23 21:15
-
-- [GPT-6.2 Astra 在 Autoform-Hard 上完成 Smoktunowicz gap 定理的 Lean 形式化证明](<https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/>)  
-  OpenAI 的 GPT-6.2 Astra 在 Meta FAIR 的 AutoformBench 子集 Autoform-Hard 上，无人工帮助完成 2006 年 Smoktunowicz gap 定理的 Lean 形式化证明，据 Vals AI 称这是该定理首个 Lean 证明。  
-  The Decoder：AI News（RSS） · 2026-11-23 20:17
-
-- [华硕 ProArt P16 评测：Nvidia RTX Spark 加持下可本地运行百亿参数级 AI 模型](<https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/>)  
-  Ars Technica 发布华硕 ProArt P16 评测，该机搭载 Nvidia RTX Spark N1X 芯片，最高配 128GB LPDDR5x 统一内存，可加载 1000 亿参数以上的本地模型，售价 4399.99 美元起至 6999.99 美元。实测 Qwen 27B 约 20 tokens/秒，重负载推理续航仅约两小时，作者认为它是面向重度本地 AI 用户的利基产品。  
-  Ars Technica：AI（RSS） · 2026-11-23 20:00
-
 - [ChinaTalk 访谈：前爱沙尼亚政府 CIO 畅谈「智能体国家」如何重塑政务服务](<https://www.chinatalk.media/p/the-agentic-state>)  
   Jordan Schneider 采访 The Agentic State 联合创始人、前爱沙尼亚政府 CIO Luukas Ilves，讨论 AI 智能体如何改造政府服务。  
   ChinaTalk（RSS） · 2026-11-23 19:58
@@ -181,5 +93,93 @@
 - [MIT 提出模拟芯片设计方法 SLIC，小模型可本地部署接近 GPT-6-Astra 性能](<https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123>)  
   MIT 研究者提出 SLIC（Small LM Iterating on Circuits）训练方法，通过带可验证奖励的多轮强化学习，把数十亿参数的小语言模型训练得能设计模拟集成电路，性能接近最新 GPT-6-Astra，但计算资源只占其很小一部分。  
   MIT News（RSS） · 2026-11-23 13:00
+
+- [智谱 GLM-5.4 上线 Coding Plan，新增视觉能力](<https://www.ithome.com/1/030/809.htm>)  
+  智谱官方运营人员宣布 GLM-5.4 模型已上线 Coding Plan，用户将模型名设置为 glm-5.4 即可使用。该模型新增视觉能力与更强的泛 Coding 能力，模型列表显示“1M”和“视觉”字样。V2、V3 及团队版用户的 GLM-5.4 使用额度提升至 1.5 倍，模型具体介绍信息暂未公布。  
+  IT之家·人工智能 · 2026-11-23 12:49
+
+- [蚂蚁 inclusionAI 发布开源权重多模态模型 Ling-3.2-air](<https://huggingface.co/inclusionAI/Ling-3.2-air>)  
+  蚂蚁 inclusionAI 在 Hugging Face 发布开源权重模型 Ling-3.2-air，采用与 Ling-3.0-flash-VL 相同的原生多模态 Hybrid-linear MoE 架构，总参数 124B、激活 5.5B。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-23 11:55
+
+- [蚂蚁 CEO 韩歆毅：阿福已有 1.5 亿用户成全球最大 AI 健康应用，呼吁医保、商保从“治病”延伸到“健康”](<https://www.ithome.com/1/030/799.htm>)  
+  蚂蚁集团 CEO 韩歆毅在 2026 蚂蚁阿福医疗健康生态大会上称，蚂蚁阿福上线一年多已有 1.5 亿用户，成为全球最大的 AI 健康应用。他表示 AI 让健康管理从“千人一方”走向“一人一方”，并呼吁医保、商保保障范围从“治病”延伸到“健康”。  
+  IT之家·人工智能 · 2026-11-23 11:40
+
+- [消息称亚马逊接近以 75 亿美元收购 AI 初创公司 Decart](<https://www.ithome.com/1/030/797.htm>)  
+  《金融时报》报道称，Amazon 已就收购 AI 初创公司 Decart 展开深入谈判，交易价值约 75 亿美元，最早可能在本周初达成协议，但仍存在破裂风险。  
+  IT之家·人工智能 · 2026-11-23 11:35
+
+- [蚂蚁阿福 App 升级：实时视频“望闻问切”，全家健康档案集中管理](<https://www.ithome.com/1/030/794.htm>)  
+  蚂蚁阿福 App 在医疗健康生态大会上宣布升级，基于蚂蚁百灵医疗健康系列模型新增实时视频看健康功能，用户可打视频电话让 AI 通过画面、声音和动作“望闻问切”，并一键连接真人医生。同时推出面向全家的“AI 健康管家”，集中管理家人健康档案及减重、控糖、育儿事项，并结合历史记录主动提醒异常变化。  
+  IT之家·人工智能 · 2026-11-23 11:25
+
+- [蚂蚁开源医疗多模态模型 LingSante-3.1-air-VL，总参数 124B、激活 5.5B](<https://mp.weixin.qq.com/s/c1qVtC3rXNK1Wqd59NxSAQ>)  
+  蚂蚁集团发布并开源首个多模态医疗大模型 LingSante-3.1-air-VL，基于 Ling-3.0-flash-VL 构建，总参数 124B、激活 5.5B，上下文窗口最高 256K token，权重已在 Hugging Face 和 ModelScope 开放。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-23 11:00
+
+- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash，融合医学推理与工作流执行](<https://mp.weixin.qq.com/s/UF7xL0pR842Jo-c7TZUWAw>)  
+  蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash，基于 Ling-3.1-flash 通用底座，总参数量 560B、每 token 激活约 25B，支持最长 1M 上下文，采用 Hybrid-linear MoE 架构（63 层 KDA 与 9 层 Gated MLA，512 个路由专家加 1 个共享专家）。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-23 11:00
+
+- [蚂蚁百灵医疗健康大模型宣布全面开源，最轻量版一台笔记本即可部署](<https://www.ithome.com/1/030/784.htm>)  
+  蚂蚁在阿福医疗健康生态大会上宣布蚂蚁百灵医疗健康大模型全面开源，家族包含大语言模型、实时音视频模型、预测模型和安全防护模型，支持疾病未来六年的发病风险预测。据现场信息，模型含医生专业个人版多模态模型（124B）和医疗机构版医疗智能体大模型（562B），最轻量版一台笔记本即可部署，官方称疾病种类、准确率超越全球多个专用模型。  
+  IT之家·人工智能 · 2026-11-23 10:56
+
+- [谷歌 AI 搜索变现乏力，苹果服务业务增长放缓](<https://www.ithome.com/1/030/783.htm>)  
+  据 Appleinsider 报道，用户搜索习惯转向 AI 软件导致谷歌与苹果的 Safari 默认搜索合作收益走弱。谷歌每年向苹果支付 200 亿美元并分成 36% 搜索广告收入，但其 AI 模式搜索广告变现能力低于传统搜索，搜索广告收入增速从上一季度的 17% 放缓至 12%，公布后股价累计下跌 18%；苹果服务业务同比增长率从 12% 放缓至 10%，高管预计下季度增长势头将进一步减弱。  
+  IT之家·人工智能 · 2026-11-23 10:44
+
+- [韩国资格考试防 AI 作弊：考生穿围裙考试、时隔 6 年重新收缴手机](<https://www.ithome.com/1/030/770.htm>)  
+  受税务师榜首考生自曝使用 AI 作弊影响，韩国 753 种国家资格考试开始加强反作弊措施。韩国产业人力公团自 11 月 21 日起时隔 6 年重新收缴考生手机，每个考场监考员从 1 人增至 2 人；第 28 届警卫指导师考试还要求考生穿一次性围裙，仍有 6 人因手机、平板开机或佩戴智能手表被查处。  
+  IT之家·人工智能 · 2026-11-23 10:02
+
+- [Anthropic IPO 前三家机构如何重注押注](<https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/>)  
+  TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。  
+  TechCrunch：AI（RSS） · 2026-11-23 09:25
+
+- [微软 AI 负责人苏莱曼支持 OpenAI 透明度倡议，公布 MAI-2 Base 评测结果](<https://www.ithome.com/1/030/745.htm>)  
+  微软 AI 负责人穆斯塔法·苏莱曼在 X 平台表示完全支持 OpenAI 提高透明度的倡议，认为这是 AI 安全协调方面朝正确方向迈出的一步。微软承诺在双方共同保留的评测集上分享预训练进展，经 OpenAI 许可公布的 MAI-2 Base 对数困惑度为 0.819，与 GPT-5.6 Sol 基础模型处于相近水平，且因使用与 OpenAI 相同的分词器，数字可直接比较。  
+  IT之家·人工智能 · 2026-11-23 09:00
+
+- [190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么](<https://podcast.latepost.com/190>)  
+  「如果世界只剩一个前台，那是悲哀的。」 今年 9 月以来，Instinct、Muse 等 Personal Agent（个人 AI 助理）产品陆续爆火，一度被生产力主流淹没的 AI to C 领域再起变化。10 月 27 日，蚂蚁灵光…  
+  晚点聊 · 2026-11-23 09:00
+
+- [Datasette 发布 datasette-charts 0.1a0 图表插件](<https://simonwillison.net/2026/Nov/23/datasette-charts/>)  
+  Datasette 推出 datasette-charts 0.1a0，用 Claude Fable 5.2 构建的原型已发展为完整插件，可在 Datasette Lite 试用。  
+  Simon Willison 博客 · 2026-11-23 08:37
+
+- [微软 CEO 纳德拉坦言 Claude Code 仅半年动摇 VS Code 地位](<https://www.ithome.com/1/030/733.htm>)  
+  据 Windows Latest 报道，微软 CEO 纳德拉表示 Anthropic 推出 Claude Code 后，开发者开始接受命令行形态，传统 IDE 约六个月就失去存在感，微软并未立刻拿出应对方案。  
+  IT之家·人工智能 · 2026-11-23 08:10
+
+- [Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批](<https://claude.com/blog/introducing-claude-ship>)  
+  Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。  
+  Claude：Blog（网页） · 2026-11-23 08:00
+
+- [Hugging Face 发布智能体评测构建与维护指南，用 raman-lab 案例走通八步流程](<https://huggingface.co/blog/agentic-evals>)  
+  Hugging Face 发布智能体评测构建指南，讲解评测从问答、智能体到多智能体团队三个阶段的演进，并以物理实验室拉曼光谱拟合任务 raman-lab 为例，演示从定义 claim 到对比六个模型的八个步骤。  
+  Hugging Face 官方团队博客 · 2026-11-23 08:00
+
+- [vLLM 上用 AMD MoRI UMBP 把 KV 缓存池直接放到 NVMe，同容量吞吐追平 DRAM](<https://vllm.ai/blog/2026-11-23-skip-the-dram-tier>)  
+  AMD 与 vLLM 团队在 AgentX 和 kvlab 智能体负载上实测，1.8 TB NVMe KV 池（基于 AMD 开源 MoRI 库的 UMBP）在 Kimi-K3 上吞吐与同容量 1.8 TB DRAM 池差距保持在 1% 以内，48、70、96 并发会话下分别为 +0.3%、+0.8%、−0.2%。  
+  vLLM 官方博客（RSS） · 2026-11-23 08:00
+
+- [OpenRouter 实测用 MCP 连接器让 Claude 生成图像并对比四款模型](<https://openrouter.ai/blog/tutorials/can-claude-generate-images/>)  
+  OpenRouter 发布教程演示如何通过 OpenRouter MCP 服务器（https://mcp.openrouter.ai/mcp）作为连接器让 Claude 调用图像模型生成真实图片，覆盖截至 2026 年 11 月 19 日的 74 款图像模型。  
+  OpenRouter：Announcements（RSS） · 2026-11-23 08:00
+
+- [Conductor 0.99.0 为 Claude Code 和 Codex 加入用量限制自动恢复](<https://www.conductor.build/changelog/0.99.0-auto-resume-for-claude-code-and-codex>)  
+  Conductor 0.99.0 为 Claude Code 和 Codex 加入自动恢复功能：当对话因用量限制中断，额度重置后 Conductor 可自动续接，智能体从断点继续。该功能可在对话触发限制时或 Settings → General 中开启，同时 Conductor 为 Codex 支持 Ultrafast，Codex 子智能体也会作为后台任务显示。  
+  Conductor 官方更新 · 2026-11-23 08:00
+
+- [Anthropic 发布编码智能体企业安全指南，详解 Claude Code 分层防护](<https://claude.com/blog/enterprise-guide-to-securing-coding-agents>)  
+  Anthropic 发布面向 Team 和 Enterprise 用户的编码智能体企业安全指南，从评估问题、四类智能体风险到判断层和固定边界层给出框架。  
+  Claude：Blog（网页） · 2026-11-23 08:00
+
+- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
+  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
+  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页

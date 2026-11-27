@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · 第 1 / 1 页
 
+- [PH今日热榜 \| 2026-11-27](<https://decohack.com/producthunt-daily-2026-11-27/>)  
+  Hub：运行100个Claude Code或Codex会话，就像进行5个会话一样。；QA.tech MCP：在你使用的集成开发环境（IDE）中，每次修改都要与质量保证（QA）团队的人员进行确认。；ExtraOrbital：✦ 开放的数…  
+  Product Hunt 中文 · DecoHack · 2026-11-27 15:00
+
 - [Woomool](<https://www.producthunt.com/products/woomool>)  
   AI Canvas where thinking becomes tangible  
   Product Hunt · English · 2026-11-27 13:09
@@ -42,6 +46,10 @@
   A coding agent where even coding is a plugin  
   Product Hunt · English · 2026-11-26 12:04
 
+- [AgentDE](<https://www.producthunt.com/products/agentde>)  
+  Put all your coding agents in one native Mac window  
+  Product Hunt · English · 2026-11-26 11:15
+
 - [Upsolve Harness 2.0](<https://www.producthunt.com/products/upsolve-ai>)  
   A data agent that's 2x faster and learns every user  
   Product Hunt · English · 2026-11-26 06:03
@@ -69,10 +77,6 @@
 - [Ottante](<https://www.producthunt.com/products/ottante>)  
   Checks the work your AI agents did, right on your Mac  
   Product Hunt · English · 2026-11-25 23:15
-
-- [Monton](<https://www.producthunt.com/products/monton>)  
-  AI agents that do your agency's busywork  
-  Product Hunt · English · 2026-11-25 21:32
 
 - [NEXUS](<https://www.producthunt.com/products/nexus-42>)  
   Map codebase locally and AI changes only what you approved  

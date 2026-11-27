@@ -38,7 +38,14 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 189 条
+## 相关资讯 · 190 条
+
+- [独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资](<https://www.163.com/dy/article/LCQ0U7ED05118HA4.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 04:53
+
+- [AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive](<https://newsletter.semianalysis.com/p/trainium3-inferencex>)  
+  The Nvidia GPU was originally built to shade pixels, and every Nvidia generation since 2017 has bolted on another pie…  
+  SemiAnalysis · 2026-11-27 23:54
 
 - [“打不过，”马斯克公开认输AI模型之争，向员工承认“落后于对手”，警告浪费GPU者将被开除](<https://36kr.com/p/4087944117123713?f=rss>)  
   “因为打不过，所以卖算力。”这不是外界的嘲讽，而是马斯克（Elon Musk）亲自给AI部门员工群起的名字。 据美国媒体报道，马斯克近期已经在SpaceX内部向员工摊牌：公司自家的AI模型开发落后于竞争对手，与其拿GPU训练Grok，不如直  
@@ -72,43 +79,9 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   Lute是一家触觉物理AI科技研发商，自研融合视觉与触觉的机器人基础模型 Lute-0，弥补纯视觉方案无法感知握力、滑移、材质的缺陷，面向仓储、零售、制造的灵巧抓取场景，模型可对接第三方机器人硬件。近日，Lute获得2000万美元种子…  
   IT桔子 · 2026-11-27 16:36
 
-- [千问大模型辟谣Qwen后训练负责人离职](<https://www.163.com/tech/article/LCOJU5OR00098IEO.html>)  
-  网易科技 · 2026-11-27 15:47
-
 - [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](<https://guiguzaozhidao.fireside.fm/20240452>)  
   同样是科技巨头宣布加大 AI 投入，资本市场为什么会给出截然不同的反应？ 今年 5 月，我们和老朋友 Aaron 聊过 AI 泡沫与循环投资。半年过去，芯片、数据中心和大模型依然牵动着市场，但投资人追问的问题，逐渐从“还要投入多少钱”…  
   科技早知道 · 2026-11-27 14:30
-
-- [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](<https://36kr.com/p/4087449994181000?f=rss>)  
-  Anthropic 最近真是流年不利。 一边是顶着史上最大 IPO 的光环上市不到一周就破发，另一边是自家最能打的 Claude Code 团队，接连有核心成员转投竞争对手 OpenAI。 昨天，Claude Code 核心工程师 Thar  
-  36氪 · 2026-11-27 11:59
-
-- [大模型无法击穿的，才是具身智能真正壁垒](<https://36kr.com/p/4087456845970050?f=rss>)  
-  具身智能洗牌之下，投资人继续用脚投票。 投资界获悉，零次方机器人完成数亿元新一轮融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国正、杰克集团以及多家产业战略投资方。老股东同创伟业、力合基金、接力天使  
-  36氪 · 2026-11-27 11:56
-
-- [Gemini 4 Carbon点亮8颗太阳，70年几何悬案告破，只用6页神级证明](<https://36kr.com/p/4087355247540614?f=rss>)  
-  你还记得高中地理课上的晨昏线吗？ 这个寻常的物理现象，在数学家眼中却是极具挑战的几何谜题。 如果这颗星球不是完美的圆球，而是被随意捏造、棱角歪斜的「凸多面体」，甚至表面布满平滑与尖锐交错的地形，最少需要挂几颗太阳，才能把它彻底照亮？ 195  
-  36氪 · 2026-11-27 10:33
-
-- [大模型涌入药物研发：闭环、物理卡点和押注验证](<https://36kr.com/p/4087373831371141?f=rss>)  
-  范式变革、大厂落子、热钱变多，今年的AI叙事新在哪，新涌入的模型巨头会给药物研发带来什么？ AI与生物制药的结合不是新鲜事。 产业界的努力主要围绕着一个广为人知的成本法则展开：一款新药从立项到上市，通常要花10到15年，耗费超20亿美元，同  
-  36氪 · 2026-11-27 10:33
-
-- [Karpathy点燃LLM Wiki，中国公司率先做成了企业级产品](<https://36kr.com/p/4087315146963588?f=rss>)  
-  用AI处理复杂资料时，“搜不到东西”不再是问题，“搜出来的东西不可信”、“搜出来的东西Agent用不了”才是。 当前的专业场景里，资料里既有动辄成百上千页的PDF，也有视频、Excel表格、图文混排文件等五花八门的格式。不同材料之间的说法互  
-  36氪 · 2026-11-27 09:59
-
-- [“我把钱退给LP了”](<https://36kr.com/p/4087346257771140?f=rss>)  
-  承认抢不到份额很难吗？很难，谁都不想把好不容易募到的钱还回去。 今年，前沿科技投资几乎成了一个象征嗅觉与站位的共识。LP对“心仪标的”诉求明确，专项基金也得以迅速升温——脑机接口、AI大模型、商业航天、量子科技等赛道上，项目专项基金纵横在各  
-  36氪 · 2026-11-27 09:50
-
-- [相对论和量子力学统一有戏了？GPT-6 Astra参与，83页论文让物理圈炸锅](<https://36kr.com/p/4087282603932297?f=rss>)  
-  「如果这个结论最终被证实，物理学就真正迎来了大一统。」 刚暴击完数学，AI又把「屠刀」伸向物理了。 斯坦福物理学家 Venkatesa Chandrasekaran 发了篇83页的新论文，配合GPT-6 Astra给出了一套 在四维时空中统  
-  36氪 · 2026-11-27 09:44
-
-- [国产大模型集体进军AI4S](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 07:10
 
 - [OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快](<https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/>)  
   OpenAI 修复 GPT-6.2 推出期间的计费错误，据 Codex 工程师 Thibault Sottiaux 称，用户现在触及限额的速度比上周快 40%（Astra）和 25%（Sol），但额度仍比 GPT-6 Astra 和 GPT-6.1 Sol 更耐用。  
@@ -217,5 +190,33 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [DeepMind 副总裁谈 AI 智能体自主控制部分 Gemini 实验算力，但离递归自我改进尚远](<https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/>)  
   Google DeepMind 研究副总裁 Koray Kavukcuoglu 在公司播客中表示，AI 智能体已自主控制部分算力为下一代 Gemini 模型运行实验，但距离完全递归自我改进还很远。  
   The Decoder：AI News（RSS） · 2026-11-25 21:23
+
+- [理论物理学家如何看待 AI 改变本行：TheoPhysEval 基准被 GPT-6 Astra 解出近九成](<https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/>)  
+  Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  
+  Ars Technica：AI（RSS） · 2026-11-25 20:00
+
+- [PrismML 发布三元量化模型 Ternary Bonsai 2.5 27B，54 GB 压缩至 5.9 GB](<https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/>)  
+  PrismML 发布基于 Qwen3.8-27B 的压缩模型 Ternary Bonsai 2.5 27B，通过三元量化把每个权重压缩为 -1、0 或 +1 三种取值，内存占用仅 5.9 GB，而全精度约需 54 GB。  
+  The Decoder：AI News（RSS） · 2026-11-25 19:51
+
+- [MIT 团队发现：不真实的训练数据反而让 AI 气候预测更可靠](<https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/>)  
+  MIT 联合 ETH Zurich 和帝国理工学院提出一种用合成极端情景数据训练 AI 气候模型的方法，只需一次大规模物理模拟即可完成训练，而此前需要六到八次。该团队称，2050 年 CO2 骤升、2037 年甲烷骤降这类针对性极端变化能让 AI 更精确理解气候系统，并能可靠计算局部环境政策的影响。  
+  The Decoder：AI News（RSS） · 2026-11-25 18:47
+
+- [英伟达在 Hugging Face 开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
+  英伟达在 Hugging Face 公开 Nemotron-Labs-Image-30B-A3B 模型权重。  
+  IT之家·人工智能 · 2026-11-25 18:37
+
+- [小红书开源 3DCodeFactory：全自动合成复杂 3D 多轮代码训练数据](<https://mp.weixin.qq.com/s/uX76wMlAIA69bY1tE-I2ng>)  
+  小红书发布开源 3D 数据合成框架 3DCodeFactory，并开源数据集 3DCodeFactory-Data，含 5,045 个复杂 3D 任务多轮交互轨迹，单条轨迹平均超 100 万 tokens，总规模 5.52B tokens。  
+  公众号：小红书技术（dots.llm） · 2026-11-25 17:59
+
+- [Spark AI](<https://www.producthunt.com/products/spark-ai-7>)  
+  AI-native permitting &amp; diligence services for data centers  
+  Product Hunt · English · 2026-11-25 15:30
+
+- [Sand.ai 发布视频生成模型 MAGI-2，总参数量 480B](<https://www.ithome.com/1/032/124.htm>)  
+  Sand.ai 三呆科技今日发布视频生成模型 MAGI-2，总参数量从 114B 扩展至 480B，激活参数量增至 28B，训练数据规模扩大约 3 倍。模型支持单次生成 4–30 秒视频、一镜到底与多镜头切换，单次最多输入 10 张图片、5 段视频和 5 段音频共 20 份素材，支持 2 万字符提示词和对已有视频的二次编辑，并已完成海光、摩尔线程等国产芯片适配。  
+  IT之家·人工智能 · 2026-11-25 14:50
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页

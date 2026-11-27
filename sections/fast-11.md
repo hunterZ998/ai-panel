@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 35 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 28 页
 
 - [🚨太贱了，Claude可能会偷偷破坏你的机器学习研究。。。](<https://x.com/MaxForAI/status/2125896967821922794>)  
   这两天，海内外AI社区都在讨论一件事：Claude是否会在用户进行机器学习研究时，故意破坏实验。 刚刚我在小红书上也刷到了一个具体的案例。 一位国内研究人员使用Opus 5.5和Fable  
@@ -178,4 +178,4 @@
   SoftBank shares crashed another 14.8% on November 25, with over $200 BILLION in market value wiped out since June. Here's how much SoftBank has fallen during major market crashes: • Dot-com  
   @macropaperr · 2026-11-26 15:22
 
-[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 35 页
+[返回面板](../README.md) · [上一页](fast-10.md) · [下一页](fast-12.md) · 第 11 / 28 页

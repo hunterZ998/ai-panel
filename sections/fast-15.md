@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 35 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 28 页
 
 - [Spent a few days attacking my own LLM security firewall and found something interesting: the judge catches direct p…](<https://x.com/salemismail_/status/2125741621543047281>)  
   Breakdown of what worked, what didn't, and why:  
@@ -177,4 +177,4 @@
 - [Rockstar’s parody of ChatGPT &amp;amp; OpenAI in ‘GTA 6’ appears to be called \(via @ElijahOutWest\)](<https://x.com/CultureCrave/status/2125727159788695670>)  
   @CultureCrave · 2026-11-26 07:03
 
-[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 35 页
+[返回面板](../README.md) · [上一页](fast-14.md) · [下一页](fast-16.md) · 第 15 / 28 页

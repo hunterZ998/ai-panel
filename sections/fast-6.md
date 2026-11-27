@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 35 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 28 页
 
 - [Lucid Computing 昨天发布了 Inference Proofs，想给“证明这次推理确实来自事先承诺的那份模型…](<https://x.com/Tutuqill/status/2126102581747613773>)  
   Lucid Computing 昨天发布了 Inference Proofs，想给“证明这次推理确实来自事先承诺的那份模型权重”做一套可对比的公开评测。按官方说明，服务方先承诺权重，模型回答后生成一份紧凑证明，验证的人在普通 CPU 上检查，不必有 GPU，也不必看到权重。进入成本对比之前，系统要…  
@@ -177,4 +177,4 @@
   Scale AI 与卡内基梅隆大学研究者用超 1200 次训练运行（其中 96 次为 LLM）对比 PPO 与 GRPO，发现小 RL 批量下带 critic 的 PPO 更强，GRPO 随批量增大追平。  
   X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 03:15
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 35 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 28 页

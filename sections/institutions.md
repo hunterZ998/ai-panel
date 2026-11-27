@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页
 
+- [AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive](<https://newsletter.semianalysis.com/p/trainium3-inferencex>)  
+  The Nvidia GPU was originally built to shade pixels, and every Nvidia generation since 2017 has bolted on another pie…  
+  SemiAnalysis · 2026-11-27 23:54
+
 - [Evaluating Recent Model Releases on GDPx](<https://newsletter.semianalysis.com/p/evaluating-recent-model-releases>)  
   GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google…  
   SemiAnalysis · 2026-11-26 08:05
@@ -177,9 +181,5 @@
 - [Robotics Tipping Point: A Citrini Field Trip](<https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini>)  
   Under its new branding of “Physical AI” , is robotics evolving from Bay Area backwaters to a true technological renai…  
   Citrini Research · 2026-09-16 22:34
-
-- [2026: The State of Consumer AI](<https://menlovc.com/perspective/2026-the-state-of-consumer-ai/>)  
-  Consumer AI Adoption Hardly Grew in 2026, But Spend Tripled Last year, consumer AI broke into the mainstream. This ye…  
-  Menlo Ventures · 2026-09-16 20:00
 
 [返回面板](../README.md) · [下一页](institutions-2.md) · 第 1 / 2 页

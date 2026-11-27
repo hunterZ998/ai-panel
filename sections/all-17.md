@@ -2,6 +2,9 @@
 
 [返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 19 页
 
+- [量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940494&idx=2&sn=9db07334ac7280256ec75aacf999ddd4>)  
+  量子位 · 2026-11-09 08:18
+
 - [马斯克曝软银燃气轮机订单违约](<https://www.pedaily.cn/first/190879.shtml>)  
   当AI基建浪潮本周深陷“中期选举焦虑”之际，一则来自马斯克的惊人指控，在周五又将孙正义与软银集团推向了风口浪尖。美东时间周五，特斯拉及SpaceX首席执行官马斯克在社交平台X上抛出重磅言论：“软银正在违约其燃气轮机订单。” 马斯克当时…  
   投资界 · 2026-11-09 08:08
@@ -160,9 +163,5 @@
 - [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
   Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
   The a16z Show · 2026-11-04 19:00
-
-- [⚡ Behind Latent Space: A Rare Look Inside the Pod \| AIEi Shanghai](<https://www.youtube.com/watch?v=QmDLDy3ZSNE>)  
-  Watch the full show on YouTube: https://www.youtube.com/watch?v=QmDLDy3ZSNE  
-  Latent Space · 2026-11-04 18:32
 
 [返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 19 页

@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 35 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 28 页
 
 - [NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開](<https://x.com/pc_watch/status/2125582802460852701>)  
   @pc\_watch · 2026-11-25 21:30
@@ -178,4 +178,4 @@
   A euforia com o retorno do fundador parece estar perdendo força.  
   @fecoxa · 2026-11-25 19:02
 
-[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 35 页
+[返回面板](../README.md) · [上一页](fast-20.md) · [下一页](fast-22.md) · 第 21 / 28 页

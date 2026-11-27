@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 35 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 28 页
 
 - [วิศวฯ หนุ่มสลด ตัดสินใจลาออกเพราะเจนเซน หวง ผ่านไปไม่กี่วันเจอ NVIDIA เช็กเกลียว ดึงพี่หวงกลับมานั่งเก้าอี้ CEO งาน…](<https://x.com/beartai/status/2125501743903691180>)  
   วิศวฯ หนุ่มสลด ตัดสินใจลาออกเพราะเจนเซน หวง ผ่านไปไม่กี่วันเจอ NVIDIA เช็กเกลียว ดึงพี่หวงกลับมานั่งเก้าอี้ CEO งานนี้มีคนเจ็บ นักลงทุนว่าช้ำแล้ว แต่พ่อหนุ่มคนนี้มีกระอักเลือด \! ในช่วงเดือนพฤศจิกายนนี้เรียกได้ว่ามหกรรมความเรือหายของจริง ต้นเดือนข่าวออก CEO NVI…  
@@ -175,4 +175,4 @@
   She ran through the checklist like she was teaching a class. National security? Corruption? Insider trading? Market manipulation? She answered yes to every one of them, then  
   @1109Patricia · 2026-11-25 13:01
 
-[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 35 页
+[返回面板](../README.md) · [上一页](fast-23.md) · [下一页](fast-25.md) · 第 24 / 28 页

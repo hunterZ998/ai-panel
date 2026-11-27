@@ -2,86 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
 
-- [Pai Defence获得500万美元天使前轮融资](<https://www.itjuzi.com/investevent/14708753>)  
-  Pai Defence是一家战场态势感知技术研发商，研发无源射频传感器 + AI 反无人机态势系统，通过被动采集无线电信号，在不暴露自身位置的前提下实时侦测、分类无人机，依托战场飞行数据训练 AI 预判敌方无人机航线与操作员位置，为前…  
-  IT桔子 · 2026-11-26 15:57
-
-- [德国勃兰登堡消费者保护中心起诉 OpenAI，称 ChatGPT 订阅取消流程繁琐且不合规](<https://www.ithome.com/1/032/888.htm>)  
-  据 ComputerBase 报道，德国勃兰登堡消费者保护中心对 OpenAI 提起诉讼，指 ChatGPT 订阅取消流程过于繁琐，必须通过最初开通订阅的平台管理，不符合德国法律的透明度要求。该机构还质疑用户合同中单方面调整订阅价格的条款，认为 OpenAI 未说明调价的合理依据，条款不具备法律效力。  
-  IT之家·人工智能 · 2026-11-26 15:56
-
-- [夏仙创新连续完成三轮数千万元融资](<https://www.itjuzi.com/investevent/14708747>)  
-  夏仙创新专注机器人操作零样本泛化，提出以物体为中心的 ORGA 架构，让机器人从少量示教中理解物体结构、空间约束与交互关系，而非死记动作轨迹，从而在新物体、新场景、新本体中举一反三完成操作。近日获悉，夏仙创新在三个月内连续完成三轮数千…  
-  IT桔子 · 2026-11-26 15:36
-
-- [曝苹果因色情内容下架 MiniMax AI 聊天应用 Talkie](<https://www.ithome.com/1/032/835.htm>)  
-  据《南华早报》报道，苹果表示 AI 聊天应用 Talkie 已从 App Store 下架，原因是应用内存在色情内容。Talkie 是 MiniMax 开发的 AI 角色聊天与创作平台，主打虚拟角色对话、互动故事与 AIGC 创作，支持多语言，在美国、菲律宾和墨西哥等地流行，目前仍存在于 Google Play 并提供网页版。  
-  IT之家·人工智能 · 2026-11-26 15:25
-
-- [slay](<https://www.producthunt.com/products/slay-3>)  
-  AI composition guide camera app for iPhone  
-  Product Hunt · English · 2026-11-26 15:23
-
-- [Epic CEO 斯威尼公开批评 Claude 误判其集合论研究为模型蒸馏](<https://www.ithome.com/1/032/822.htm>)  
-  Epic Games CEO 蒂姆·斯威尼本周在 X 上称 Claude 是垃圾，因为模型中断了他的集合论研究并指控其在做模型蒸馏，而他用公司账号每天仅输入一两个小时提示词。蒸馏指用强模型输出生成训练数据，各家实验室的服务条款均禁止。此事暴露了防蒸馏检测过于激进、开始干扰正常用户高水平工作的问题，Anthropic 后续是否调整过滤机制尚不明确。  
-  IT之家·人工智能 · 2026-11-26 15:21
-
-- [20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time &amp; How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down>)  
-  AGENDA: 04:00 Jensen's $1 Trillion Comeback: Nvidia's King Returns 13:00 Anthropic Goes Public: Inside the Biggest IP…  
-  20VC · 2026-11-26 15:07
-
-- [腾讯被曝全公司推广混元 HY4，12 月起非技术岗外部模型额度降至 10%](<https://www.ithome.com/1/032/781.htm>)  
-  据“大厂日爆”公众号 11 月 26 日爆料，腾讯将全公司推广混元 HY4 模型。从 12 月 1 日起，产品运营等非技术岗外部模型额度调为 10%，如默认总额度 700 中外部仅可用 70；自 2027 年 1 月 1 日起全员默认使用 HY4，需用外部模型可申请。爆料称调整原因在于 HY4 发布后跻身最强开源模型梯队。  
-  IT之家·人工智能 · 2026-11-26 15:01
-
-- [PH今日热榜 \| 2026-11-26](<https://decohack.com/producthunt-daily-2026-11-26/>)  
-  MyClaw 3.0：建立一个始终在线的AI团队，采用共享记忆机制。；Airbot：首先给你发短信的AI助手；Hiring Right Now：哪些初创公司会聘用你？  
-  Product Hunt 中文 · DecoHack · 2026-11-26 15:00
-
-- [Zipher获得5300万美元A轮融资](<https://www.itjuzi.com/investevent/14708739>)  
-  Zipher是一家AI数据基础设施提供商，为 Agent 驱动的数据工作流提供智能执行层，依据客户设定的 SLA 与预算自动调度、改写、优化云数据任务，原生兼容主流云与数据工具链，帮助企业降低算力成本、稳定数据管道。近日，Zipher…  
-  IT桔子 · 2026-11-26 14:45
-
-- [ILS获得1100万美元A轮融资](<https://www.itjuzi.com/investevent/14708737>)  
-  ILS是一家法律科技研发商，旗舰产品 ProVision 面向私募资本基金法律团队，自动化 side letter 附函、MFN 条款比对与全生命周期管理，配套基金管理人共享协同门户，AI 辅助条款抽取与初稿生成，保留人工复核机制。平…  
-  IT桔子 · 2026-11-26 14:40
-
-- [腾讯混元开源草稿模型 DFly2，让 Hy4 flash 吐字提速 4.2 倍](<https://mp.weixin.qq.com/s/d1HMHrSEChCJiBRZ0tNOyg>)  
-  腾讯混元开源新一代草稿模型 DFly2，作为加速组件挂在 Hy4 flash 旁，在权重与输出不变的前提下提升吐字速度，单项最高提速 4.2×。DFly2 专为 DSA 类稀疏注意力大模型和长上下文场景设计，通过 KV Share 与 Index Share 复用目标模型的 KV cache 和 indexer 选出的至多 2,048 个位置，实现零额外 KV 显存。  
-  公众号：腾讯混元 · 2026-11-26 14:33
-
-- [Sequent获得220万美元种子轮融资](<https://www.itjuzi.com/investevent/14708735>)  
-  Sequent是一家AI辅助形式验证平台提供商，旗下 Alan 平台允许开发者以自然语言定义安全规则，依托 AI 自动生成数学证明，再交由独立 HOL4 定理证明器核验，用于智能合约的严格安全证明，Curve Finance 为首个付…  
-  IT桔子 · 2026-11-26 14:18
-
-- [Wispr Flow 发布语音转文本模型 Canto-2，14 种语言转录错误率平均降低 36%](<https://www.ithome.com/1/032/752.htm>)  
-  Wispr Flow 本周发布语音转文本模型 Canto-2，面向 Mac、Windows、iOS 和 Android 平台，14 种语言转录错误率平均降低 36%，英语错误率降低超过 15%，内部基准中 14 种语言平均错误率从 9.9% 降至 6.3%。  
-  IT之家·人工智能 · 2026-11-26 14:06
-
-- [闪科光联获得数千万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708730>)  
-  闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得数千万人民币天使轮融资…  
-  IT桔子 · 2026-11-26 13:56
-
-- [博登智能获得数亿人民币B轮融资](<https://www.itjuzi.com/investevent/14708729>)  
-  博登智能致力于构建完善的以数据为导向的人工智能系统。通过提供更精细的训练样本帮助塑造出更强大的决策模型，从而有力地加速人工智能的推广进程，使其在更广泛的领域和场景中得以高效应用。近日，博登智能获得数亿人民币B轮融资，宁波高新投资、招商…  
-  IT桔子 · 2026-11-26 13:51
-
-- [Superframes](<https://www.producthunt.com/products/superframes-ai-video-editor>)  
-  Brief an AI Director to edit the whole video  
-  Product Hunt · English · 2026-11-26 13:09
-
-- [《纽约时报》警告摄影师勿因 AI 功能更新 Photoshop](<https://simonwillison.net/2026/Nov/26/hn-50651685/>)  
-  《纽约时报》警告摄影师不要因 AI 功能更新 Photoshop。Simon Willison 分享亲身经历：为其拍照的 NYT 摄影师表示，报社照片只做裁剪和明暗平衡，不做其他编辑，以呈现拍摄原貌。他强调报纸摄影属于新闻摄影，标准严格。  
-  Simon Willison 博客 · 2026-11-26 13:08
-
-- [NVIDIA 开源 Nemotron 3.5 Parse 训练数据集与微调配方并提升推理速度](<https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin>)  
-  NVIDIA 在此前发布 Nemotron 3.5 Parse 文档解析模型的基础上，开源三个训练数据集（Synthetic Charts V1 约 998 万样本、Synthetic Tables V1 100 万样本、OCR Synthetic Multilingual v2 约 790 万样本）并发布完整微调配方。  
-  Hugging Face 社区博客（混合发现） · 2026-11-26 13:05
-
-- [Pax by Pydantic](<https://www.producthunt.com/products/pydantic>)  
-  A coding agent where even coding is a plugin  
-  Product Hunt · English · 2026-11-26 12:04
-
 - [铠侠与英伟达合作，探索用 SSD 将 GPU 有效显存扩展至 PB 级](<https://www.ithome.com/1/032/722.htm>)  
   铠侠与英伟达启动面向 AI 应用的概念验证，探索借助英伟达 SCADA 软件与铠侠 SSD 将 GPU 有效显存扩展至 PB 级。验证在英伟达 GB200 NVL72 机架级系统上展开，搭载 144 块 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD，总容量约 1.106PB，将测试处理 2 万亿个向量构成的数据库，并支持以 512 字节为单位随机访问 SSD。  
   IT之家·人工智能 · 2026-11-26 12:00
@@ -109,6 +29,10 @@
 - [AidenAI获得3200万美元A轮融资](<https://www.itjuzi.com/investevent/14708722>)  
   AIDEN AI是一家企业AI科技研发商，专注为企业提供AI智能体研发与落地服务，其自研AiDAP统一智能体平台与AI Builder全栈工作台，支持智能体构建、部署及治理，并配套行业预制智能体与遗留系统现代化改造能力，主要服务保险、…  
   IT桔子 · 2026-11-26 11:26
+
+- [AgentDE](<https://www.producthunt.com/products/agentde>)  
+  Put all your coding agents in one native Mac window  
+  Product Hunt · English · 2026-11-26 11:15
 
 - [Anthropic 研究员 Luke Sernau 与 Claude 将黎曼猜想 Lean 证明从 1740 万行精简至 7.6 万行](<https://www.ithome.com/1/032/611.htm>)  
   Anthropic 研究员 Luke Sernau 与同事及 Claude 发布 grh-lean 项目，将此前 1740 万行的黎曼猜想与广义黎曼猜想 Lean 形式化证明重写为约 7.6 万行的紧凑版和约 30 万行的可读版，代码量削减 99.56%。  
@@ -181,5 +105,80 @@
 - [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/the_revolution_vs_the_renaissance_thariq_shihipar_openai>)  
   AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel righ…  
   Latent Space · 2026-11-26 06:28
+
+- [OpenAI 的 Thariq Shihipar 谈编程智能体时代的“革命与文艺复兴”](<https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/>)  
+  在 AI Engineer CODE 演讲中，Thariq Shihipar 演示了用编程智能体批量生成软件与打磨单件作品可以并存：他在 /human 文件夹里改一块石头的尺寸后立刻试投掷，也做过一个可切换模式的 Mac Dock。他谈到自己因编程智能体改变了哪些看法、决策模型如何从设计师定义的动作中选择，以及谁来决定哪些实验值得投入算力。他在录制后宣布加入 OpenAI。  
+  Latent Space（RSS） · 2026-11-26 06:28
+
+- [Latent Space AINews：AI 数学证明密集涌现，ω=9/4 与 VP≠VNP 引发关注](<https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/>)  
+  Latent Space 11 月 25 日的 AINews 期刊汇总 AI 数学成果：OpenAI 论文称矩阵乘法指数 ω 恰为 9/4，上下界吻合；OpenAI 与 Anthropic 同日先后给出 VP≠VNP 证明，Google Cogentic 未经宣布在 GitHub 发布 6 篇由智能体生成的论文。  
+  Latent Space（RSS） · 2026-11-26 06:23
+
+- [Upsolve Harness 2.0](<https://www.producthunt.com/products/upsolve-ai>)  
+  A data agent that's 2x faster and learns every user  
+  Product Hunt · English · 2026-11-26 06:03
+
+- [Google 的 My Channel 个性化 AI 视频信息流专利被驳回](<https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent>)  
+  Google 去年 5 月提交、上周公开的 My Channel 专利描述了一个基于用户人口统计数据、观看历史和设备上下文（如 IP 地址、GPS 位置）生成个性化 AI 视频与广告的信息流系统，可生成整部电影，甚至用用户的照片、视频和音频创建数字头像让其成为内容主角。  
+  The Verge：AI（RSS） · 2026-11-26 05:51
+
+- [WhipDesk](<https://www.producthunt.com/products/whipdesk>)  
+  Control AI coding agents from your phone  
+  Product Hunt · English · 2026-11-26 05:44
+
+- [报道称美国芯片限制和反蒸馏措施已拖慢中国 AI 实验室](<https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/>)  
+  The Information 报道称，自 9 月以来限制中国企业远程使用境外 Nvidia 芯片以及 OpenAI 和 Anthropic 的反蒸馏措施，已导致 DeepSeek、月之暗面、阿里巴巴等中国 AI 开发商多个项目延迟。  
+  The Decoder：AI News（RSS） · 2026-11-26 04:51
+
+- ["The flashing red lights couldn't be brighter": Democrats demand new restrictions on AI](<https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios>)  
+  Prominent Democrats are calling for new restrictions on AI development following Axios reporting that employees at Op…  
+  Axios · 2026-11-26 04:19
+
+- [Anthropic CEO Dario Amodei 称把社会治理交给 AI 是个坏主意](<https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/>)  
+  Anthropic CEO Dario Amodei 在 X 长文回应 Axios 报道，称认为人类应向 AI 交出自由意志的说法荒谬，AI 必须受合法民主程序治理，政治决策应留在人类手中，反对比拒绝独裁更强。  
+  The Decoder：AI News（RSS） · 2026-11-26 04:15
+
+- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](<https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/>)  
+  OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.  
+  TechCrunch · 2026-11-26 04:03
+
+- [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](<https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/>)  
+  Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.  
+  TechCrunch · 2026-11-26 03:54
+
+- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](<https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/>)  
+  Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even  
+  TechCrunch · 2026-11-26 03:44
+
+- [Anthropic CEO pushes back on Axios reporting on AI and free will](<https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios>)  
+  Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing bac…  
+  Axios · 2026-11-26 03:28
+
+- [James Shore 面向 CFO 的 AI 辅助开发影响力评估指南](<https://www.oreilly.com/radar/assessing-ai-impact-notes-for-your-cfo/>)  
+  James Shore 在 O'Reilly Radar 发布系列文章的总结篇，面向 CFO 和领导团队梳理如何评估 AI 辅助软件开发的成本与收益。他指出各方案人均月支出相差一个数量级（数百到数千美元），测量收益远难于成本，建议从建模软件项目 ROI 或测量交付速度变化入手，同时警惕 token 补贴带来的价格波动、意外后果、供应商锁定，以及用这些指标考核团队或个人的测量失灵。  
+  O'Reilly Radar（热点 RSS） · 2026-11-26 02:43
+
+- [Remora](<https://www.producthunt.com/products/remora-6>)  
+  The long-term memory layer for AI agents  
+  Product Hunt · English · 2026-11-26 02:28
+
+- [OpenAI 试点 Private Inference，企业可在其最强模型上运行不外泄数据的查询](<https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/>)  
+  OpenAI 正面向首批企业客户试点 Private Inference，企业可在其最强模型上运行查询而 OpenAI 无法访问数据。查询在可独立验证安全性的隔离硬件上处理，Sam Altman 还提到 Private Safety Processing，可在不存储客户数据的前提下扫描滥用内容，被标记内容加密后存放在客户自己的云中。  
+  The Decoder：AI News（RSS） · 2026-11-26 02:22
+
+- [How Bankers Are Turning Tech Stock Volatility Into Cash](<https://www.theinformation.com/articles/bankers-turning-tech-stock-volatility-cash>)  
+  The Information · 2026-11-26 02:12
+
+- [Want to buy your kid an AI toy this Christmas? Not in New York](<https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/>)  
+  New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety fail  
+  TechCrunch · 2026-11-26 02:11
+
+- [vLLM 新加坡 Meetup 复盘：更快 Prefill、智能体写内核与 Vera Rubin 路线](<https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/>)  
+  vLLM 团队复盘 11 月 13 日在新加坡 SGInnovate 举办的技术 meetup，由 Inferact 和 NVIDIA 主办。  
+  PyTorch：Blog（RSS） · 2026-11-26 02:03
+
+- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
+  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
+  The Verge：AI（RSS） · 2026-11-26 01:44
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页

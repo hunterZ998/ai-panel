@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 35 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 28 页
 
 - [Thinking Machines 展示 Inkling 2 Mini 在 Apple 硅上的端侧推理加速效果](<https://x.com/thinkymachines/status/2125691649888334056>)  
   Thinking Machines 转发 exolabs 的实测：Inkling 2 Mini 在 96GB M5 Ultra Mac Studio 上达 210 tok/sec 解码、3620 tok/sec 预填充，在 48GB M5 Max MacBook Pro 上达 125 tok/se…  
@@ -176,4 +176,4 @@
   We try people based on EVIDENCE\!' The Trump-Vance admin confirmed Huang is under ZERO investigation  
   @RyanAFournier · 2026-11-26 02:54
 
-[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 35 页
+[返回面板](../README.md) · [上一页](fast-16.md) · [下一页](fast-18.md) · 第 17 / 28 页

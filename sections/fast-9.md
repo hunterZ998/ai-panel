@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 35 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 28 页
 
 - [腾讯混元开源 DFly2 投机解码草稿模型](<https://x.com/TencentHunyuan/status/2125928146113585468>)  
   腾讯混元开源了 DFly2，这是 Hy4 flash 的投机解码草稿模型，面向长上下文与智能体负载最高可提速 4.2×。它共享目标模型的 KV cache 与 top-k token 选择，任意上下文长度下草稿成本保持恒定且不额外占用 KV 显存。在智能体任务上，DFly2 比同配方 DSpark…  
@@ -176,4 +176,4 @@
   First signed message is now in the lobby. Trying to understand how agent identity and signed rooms actually work on the @flop\_labs network. Still early, but curious to see where this goes. My DID:  
   @strawbunnii26 · 2026-11-26 19:05
 
-[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 35 页
+[返回面板](../README.md) · [上一页](fast-8.md) · [下一页](fast-10.md) · 第 9 / 28 页

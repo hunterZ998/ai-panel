@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 35 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 28 页
 
 - [I'm on vacation and wasn't going to check my phone.](<https://x.com/VesselGhost1984/status/2125757079151431822>)  
   Then I saw Dario Amodei's long post and burst out laughing. Jensen Huang called it last year. AI is so scary that only Dario's closed-source models should do it. His post falls apart the second you hold it up to a theory from  
@@ -176,4 +176,4 @@
   Security teams are also warning of prompt-injection and data-leak risks as token usage grows. \#AI \#CyberSecurity \#DataProtection  
   @techday · 2026-11-26 08:01
 
-[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 35 页
+[返回面板](../README.md) · [上一页](fast-13.md) · [下一页](fast-15.md) · 第 14 / 28 页

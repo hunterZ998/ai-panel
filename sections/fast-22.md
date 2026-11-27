@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 35 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 28 页
 
 - [秀是秀，但 28 层权重共享、每次前向跑两遍，本质是拿算力换参数：显存省了，延迟和推理成本会涨。目前只开 Coding P…](<https://x.com/Johnsjwj5/status/2125545752814333964>)  
   秀是秀，但 28 层权重共享、每次前向跑两遍，本质是拿算力换参数：显存省了，延迟和推理成本会涨。目前只开 Coding Plan、也没公开基准，第三方跑分出来之前先观望。  
@@ -176,4 +176,4 @@
   Models default to outdated patterns from training data unless you pin modern standards directly into their instruction rules—curious how fast agent harnesses start shipping this out of  
   @Open\_Radars · 2026-11-25 18:58
 
-[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 35 页
+[返回面板](../README.md) · [上一页](fast-21.md) · [下一页](fast-23.md) · 第 22 / 28 页

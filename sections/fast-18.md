@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 35 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 28 页
 
 - [The New York Times said Jensen Huang ran Nvidia through "tirades and fear." Then the board brought him back, and hi…](<https://x.com/PrometheanActn/status/2125664353412321778>)  
   Why was he targeted? The same people who ran the climate scare can't control open AI. @BarbaraMBoyd on why they  
@@ -175,4 +175,4 @@
   Stronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out  
   @sama · 2026-11-26 01:12
 
-[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 35 页
+[返回面板](../README.md) · [上一页](fast-17.md) · [下一页](fast-19.md) · 第 18 / 28 页

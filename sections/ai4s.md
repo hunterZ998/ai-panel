@@ -20,7 +20,7 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 11 条
+## 相关资讯 · 10 条
 
 - [AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架](<https://36kr.com/p/4087817299573129?f=rss>)  
   AI正在从科研助手走向基础科学研究的深水区。 一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。 11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Cha  
@@ -33,9 +33,6 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 - [素源矩阵完成天使轮融资](<https://www.itjuzi.com/investevent/14708780>)  
   素源矩阵是面向材料工业的原生 AI Agent 决策+控制系统，以科学智能与知识驱动的新型工业 AI，深度融合材料机理与工艺经验，让制造从“经验试错”走向“结果确知”，真正实现材料在生产中价值最大化，引领智造新模式。近日，素源矩阵完成…  
   IT桔子 · 2026-11-27 10:59
-
-- [国产大模型集体进军AI4S](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 07:10
 
 - [腾讯 AI 平台 ORIDTP 从头设计双靶点多肽，成果以第一单位登上 Nature](<https://www.ithome.com/1/033/125.htm>)  
   腾讯宣布其生命科学实验室的 AI for Science 研究成果于 11 月 25 日以第一单位登上《Nature》主刊，挑战高活性双靶点治疗性多肽的从头设计。  

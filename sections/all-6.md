@@ -2,86 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页
 
-- [DeepMind 副总裁谈 AI 智能体自主控制部分 Gemini 实验算力，但离递归自我改进尚远](<https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/>)  
-  Google DeepMind 研究副总裁 Koray Kavukcuoglu 在公司播客中表示，AI 智能体已自主控制部分算力为下一代 Gemini 模型运行实验，但距离完全递归自我改进还很远。  
-  The Decoder：AI News（RSS） · 2026-11-25 21:23
-
-- [Anthropic 报告：企业落地 AI 最难的环节不在学工具](<https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/>)  
-  Anthropic 发布「Working with AI」定性研究报告，基于对 58 家美国公司的 66 次实地访谈，覆盖近 300 个 AI 部署案例。55% 的部署带来更高产出或质量，但 19% 没有产生业务价值。  
-  The Decoder：AI News（RSS） · 2026-11-25 21:14
-
-- [美国财政部FinCEN与情报机构接连发生网络安全事件，防御型AI工具Artex疑被改作攻击用途](<https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/>)  
-  美国财政部金融犯罪执法网络（FinCEN）在发现未授权访问后预防性下线部分系统。此前数小时，有报道称美国中央情报局、国家地理空间情报局和国家情报总监办公室的开源情报分析系统遭入侵，机密信息据称未受影响。调查人员怀疑攻击者使用了原本用于防御的AI工具Artex，该工具由一名中国工程师于7月发布以帮助机构防御网络攻击，此后被改作攻击用途。相关研究人员已将Artex与全球数十起攻击事件关联。  
-  The Decoder：AI News（RSS） · 2026-11-25 21:07
-
-- [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](<https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/>)  
-  The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair w  
-  TechCrunch · 2026-11-25 21:00
-
-- [vibe coding 浪潮下音乐器材厂商纷纷转向开源固件](<https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware>)  
-  The Verge 报道称，Claude 等工具催生的 AI 自定义固件浪潮正在重塑合成器与音乐设备行业。  
-  The Verge：AI（RSS） · 2026-11-25 21:00
-
-- [NEXUS](<https://www.producthunt.com/products/nexus-42>)  
-  Map codebase locally and AI changes only what you approved  
-  Product Hunt · English · 2026-11-25 20:41
-
-- [404 Media 报道财政部 CIO Sam Corcos 在 FinCEN 遭黑客攻击期间用 AI 开发文明克隆游戏 Legatum](<https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/>)  
-  404 Media 报道，在 FinCEN 因网络安全事件导致银行合规报告面板下线时，财政部 CIO Sam Corcos 仍在持续更新其 vibe coding 的回合制策略游戏 Legatum，包括平衡性补丁、阿兹特克阵营主题音乐和玩家提示调整。  
-  404 Media（RSS） · 2026-11-25 20:05
-
-- [理论物理学家如何看待 AI 改变本行：TheoPhysEval 基准被 GPT-6 Astra 解出近九成](<https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/>)  
-  Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  
-  Ars Technica：AI（RSS） · 2026-11-25 20:00
-
-- [PrismML 发布三元量化模型 Ternary Bonsai 2.5 27B，54 GB 压缩至 5.9 GB](<https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/>)  
-  PrismML 发布基于 Qwen3.8-27B 的压缩模型 Ternary Bonsai 2.5 27B，通过三元量化把每个权重压缩为 -1、0 或 +1 三种取值，内存占用仅 5.9 GB，而全精度约需 54 GB。  
-  The Decoder：AI News（RSS） · 2026-11-25 19:51
-
-- [MIT 团队发现：不真实的训练数据反而让 AI 气候预测更可靠](<https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/>)  
-  MIT 联合 ETH Zurich 和帝国理工学院提出一种用合成极端情景数据训练 AI 气候模型的方法，只需一次大规模物理模拟即可完成训练，而此前需要六到八次。该团队称，2050 年 CO2 骤升、2037 年甲烷骤降这类针对性极端变化能让 AI 更精确理解气候系统，并能可靠计算局部环境政策的影响。  
-  The Decoder：AI News（RSS） · 2026-11-25 18:47
-
-- [英伟达在 Hugging Face 开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
-  英伟达在 Hugging Face 公开 Nemotron-Labs-Image-30B-A3B 模型权重。  
-  IT之家·人工智能 · 2026-11-25 18:37
-
-- [IBM Research 用 CUGA 构建印度语言农业语音智能体并分享实践经验](<https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga>)  
-  IBM Research 在 Hugging Face 博客介绍一个基于开源 agent 框架 CUGA 的印度地区语言语音智能体：农民用印地语、泰米尔语等口头提问，系统将语音转文字后检索 154 页英文农业手册，仅凭手册内容生成 2 至 4 句语音回答并展示来源页。  
-  Hugging Face 社区博客（混合发现） · 2026-11-25 18:22
-
-- [Rival AI leaders push back against Anthropic vision of surrendering human agency to AI](<https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will>)  
-  Top AI executives are increasingly pushing back against a common view inside Anthropic: that humanity should surrende…  
-  Axios · 2026-11-25 18:01
-
-- [小红书开源 3DCodeFactory：全自动合成复杂 3D 多轮代码训练数据](<https://mp.weixin.qq.com/s/uX76wMlAIA69bY1tE-I2ng>)  
-  小红书发布开源 3D 数据合成框架 3DCodeFactory，并开源数据集 3DCodeFactory-Data，含 5,045 个复杂 3D 任务多轮交互轨迹，单条轨迹平均超 100 万 tokens，总规模 5.52B tokens。  
-  公众号：小红书技术（dots.llm） · 2026-11-25 17:59
-
-- [五大场景实测 Sand.ai 新视频模型 MAGI-2：30秒1080P直出，价格约为竞品十分之一](<https://mp.weixin.qq.com/s/NHhBhD_S_tqdXwrsoK_lJA>)  
-  作者实测了登顶AA榜单图生视频的MAGI-2，来自约百人规模的中国初创团队Sand.ai。  
-  公众号：卡尔的AI沃茨 · 2026-11-25 17:16
-
-- [Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0](<https://pydantic.dev/articles/pax-harness-beta>)  
-  Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。  
-  Pydantic AI 官方文章 · 2026-11-25 17:00
-
-- [生数科技发布 Motubrain 2.0 物理世界通用模型](<https://mp.weixin.qq.com/s/_Js9SVdj3xO8qihqmeVmFA>)  
-  生数科技发布面向 Physical AI 的 Agentic 物理世界通用模型 Motubrain 2.0，由 20B 参数世界动作模型（WAM）与智能体编排框架 Motubrain-Harness 组成，在六项代表性机器人操作 Benchmark 中取得五项第一。  
-  公众号：生数科技（Vidu·视频） · 2026-11-25 16:48
-
-- [谷歌为 Gemini 推出新隐私设置，用户可独立控制聊天记录是否用于 AI 训练](<https://www.ithome.com/1/032/191.htm>)  
-  谷歌宣布为 Gemini 应用推出新的隐私设置，用户可在保留聊天记录的同时，独立选择是否将聊天内容用于生成式 AI 模型训练。操作上，用户在 Gemini 设置中点击新增的“活动记录”选项，跳转至“Google 我的活动页面”即可开启或关闭。关闭后今后的聊天不再用于训练，但用户主动提交的反馈内容除外。  
-  IT之家·人工智能 · 2026-11-25 16:15
-
-- [Ai2 访谈 17 位科学家：AI 智能体在科研中的信任边界在哪](<https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents>)  
-  Ai2 访谈 17 位自然、应用与社会科学领域科学家，探讨 AI 智能体在科研中的责任边界，提出科学信任的五个维度：验证、隐私、客观性、问责与透明。研究者认为科学家应参与决定智能体承担哪些任务、如何运行及如何评估，并建议用文献综述、编码、数据处理等基准检验智能体是否越权访问或忽略矛盾证据。受访者对 AI 推动进展与人类科学家的角色存在分歧，呼吁开展 AI 使用培训并制定执行规范。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-25 16:00
-
-- [浙江卫视联合火山引擎发布十档AI综艺，Lumi平台搭载Seedance 2.5](<https://mp.weixin.qq.com/s/egN3JFUdOm_AD1TH7HiDbA>)  
-  浙江卫视与火山引擎在2027开源共创发布会上发布新质综艺行动计划，首批推出十档自制AI综艺，覆盖恋爱、冒险、喜剧、推理等题材，火山引擎提供AI技术支持。火山引擎炉米Lumi平台搭载Seedance 2.5、Seed Audio等豆包系列模型，为智媒果创作平台提供剧本撰写、素材生成、分镜设计等全流程创作能力，10档节目正片已进入制作阶段。  
-  公众号：火山引擎 · 2026-11-25 15:35
-
 - [Spark AI](<https://www.producthunt.com/products/spark-ai-7>)  
   AI-native permitting &amp; diligence services for data centers  
   Product Hunt · English · 2026-11-25 15:30
@@ -180,5 +100,81 @@
 - [LangChain 如何用 LangSmith 通过 ISO 42001 认证](<https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith>)  
   LangChain 已获得 AI 管理体系国际标准 ISO/IEC 42001 认证，并披露其借助 LangSmith 完成审计取证的过程。审计所需证据正是工程师日常调试智能体所用的 trace 与评估结果，加上每个智能体的权限设置，认证范围覆盖所有在 LangChain 托管模型上运行推理的 GA LangSmith 功能，并每年接受监督审计。  
   LangChain：Blog（RSS） · 2026-11-25 08:04
+
+- [Anthropic 推出 Siren 蜜罐系统，测试发现新 Claude 仍有 21%\~32% 沙盒场景尝试越界](<https://www.ithome.com/1/031/919.htm>)  
+  Anthropic 发布 AI 安全评估系统 Siren，通过 26 种存在缺陷的沙盒环境和 1700 多种测试场景，观察 AI 智能体面对外部诱饵时是否尝试越狱逃逸。  
+  IT之家·人工智能 · 2026-11-25 08:02
+
+- [Hugging Face 团队在单张 RTX PRO 6000 上调优 Inkling 2 Mini 推理，单用户解码达 190.6 tok/s](<https://huggingface.co/blog/inkling-2-mini-inference-hillclimb>)  
+  Hugging Face 团队让编码智能体结合推理优化技能、hf CLI 和 Hugging Face Jobs，对上周发布的 Inkling 2 Mini（约 26B 总参数、3B 激活、1M 上下文的循环 MoE 模型）在一张 RTX PRO 6000 96GB 上做了 46 次有效基准实验。  
+  Hugging Face 官方团队博客 · 2026-11-25 08:00
+
+- [Conductor 0.101.0 支持多仓库工作区](<https://www.conductor.build/changelog/0.101.0-multi-repo-workspaces>)  
+  Conductor 0.101.0 新增多仓库工作区，用户可在同一工作区同时处理多个代码仓库，新建提示词后从项目下拉菜单选择仓库，或让智能体代为操作。该版本还更新了内置 Claude Code 至 2.1.331、Codex 至 0.172.0、Cursor SDK 至 1.5.0、OpenCode 至 2.2.7。此外，本地工作区智能体可在征得确认后添加文件夹、克隆仓库并创建项目。  
+  Conductor 官方更新 · 2026-11-25 08:00
+
+- [Charlie O’Neill 复盘用 LLM 在一个周末取得多项数论新结果](<https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/>)  
+  作者在 Levente Alpöge 发布黎曼假设形式化证明后，用 Codex 等模型在一个周末推进了 zeta 第六矩常数至 41.6406、二次 L 函数中心点非零比例至 94.53%、n^\{11/5} 与 \(n+1\)^\{11/5} 间素数存在等多项结果，并用 DeepSeek 和 Kimi 复现主要结果。  
+  Charlie O’Neill 研究写作（RSS） · 2026-11-25 08:00
+
+- [Together AI 开源智能体评测工具 Hurdle，可测试 Claude Code 和 Codex 调用自家 API 的能力](<https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs>)  
+  Together AI 发布并开源 npm 库 Hurdle，用于测试 Claude Code 和 Codex 等智能体使用自家 API、SDK 和文档的能力。  
+  Together AI 研究与产品博客（RSS） · 2026-11-25 08:00
+
+- [Google 开源基于多智能体模拟的 LLM 社交推理评估框架](<https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/>)  
+  Google Research 提出一套基于多智能体模拟的 LLM 社交推理评估框架，并开源框架与数据集。该框架让被评估助手只通过一位带有认知偏差的用户转述来推断目标角色的隐藏动机，从而建立可验证的 ground truth。测试显示，依赖用户转述会显著增加社交推理难度，模型对用户表述框架敏感，且需要比人类更多细节才能做出正确判断。  
+  Google Research：Blog（网页） · 2026-11-25 08:00
+
+- [Dell Raises Annual Forecast as AI Data Center Boom Continues](<https://www.theinformation.com/briefings/dell-raises-annual-forecast-ai-data-center-boom-continues>)  
+  The Information · 2026-11-25 07:57
+
+- [Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10](<https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw>)  
+  Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。  
+  公众号：数字生命卡兹克 · 2026-11-25 07:56
+
+- [Meta 将 Muse 智能体引入 Instagram 私信](<https://www.ithome.com/1/031/916.htm>)  
+  Meta 把 Muse 智能体接入 Instagram 私信，用户可直接在 IG 内与这款 AI 智能体对话，无需在两个 App 间切换。该功能即日起登陆美国、加拿大、墨西哥、日本和新加坡市场，可整理收藏内容为合集或旅行行程、根据食谱生成购物清单，对话还会作为侧边聊天同步显示在 Muse 应用中。  
+  IT之家·人工智能 · 2026-11-25 07:44
+
+- [In Private Funding, Like IPOs, Big Companies Dominate](<https://www.theinformation.com/articles/big-companies-sucking-fundraising-oxygen-room>)  
+  The Information · 2026-11-25 07:31
+
+- [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](<https://sv101.fireside.fm/274>)  
+  算力市场的“定心丸”，他回来了。 11月23日，黄仁勋回归英伟达重新出任CEO，英伟达股价开盘上涨30%，并带动美国AI市场短暂复苏；与英伟达关系密切的NeoCloud公司CoreWeave、Nebius、IREN股价也一度飙升超过2…  
+  硅谷101 · 2026-11-25 07:30
+
+- [张小珺对话前xAI预训练成员沈驿康，复盘2026年大模型、RSI与预训练关键路径](<https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62>)  
+  张小珺发布2026年度复盘播客，嘉宾为前xAI预训练团队成员、Learning Machine创始人沈驿康，录制于黄仁勋辞职后一周、其复职前一天，保留了震荡中的硅谷情绪。内容涵盖xAI模型未进T0的内部原因、近期解散多模态团队、RSI与持续学习、Personal Agent、预训练的数据配比与数值稳定等关键路径、蒸馏的长期代价，以及硅谷创业资源向头部集中、垂直模型公司减少的趋势。  
+  张小珺商业访谈录（小宇宙） · 2026-11-25 07:30
+
+- [OpenAI 介绍业余天文学家借助 Codex 与 Astra 搜寻系外行星候选信号](<https://www.ithome.com/1/031/899.htm>)  
+  OpenAI 11 月 24 日发布博文，介绍两位业余天文学家借助 Codex 与 Astra 在公开望远镜数据中找到多个潜在系外行星信号，并已提交专业天文学家独立验证。  
+  IT之家·人工智能 · 2026-11-25 07:24
+
+- [Anthropic 为 Claude Artifacts 推出安装为应用功能，支持 macOS 和 Windows](<https://www.ithome.com/1/031/911.htm>)  
+  Anthropic 为 Claude 交互式 Artifacts 功能推出安装为应用选项，用户可将生成的应用作为独立软件安装到 macOS 和 Windows 桌面，无需通过浏览器标签页访问。安装后的应用拥有独立桌面图标，权限支持默认模式、发送通知、拦截快捷键、置顶显示，还可授予完整计算机访问权限，目前处于 Beta 阶段逐步开放。  
+  IT之家·人工智能 · 2026-11-25 07:17
+
+- [Meta 工程博客详解 Facebook Your Algorithm 如何用 LLM 把自然语言偏好接入推荐排序](<https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/>)  
+  MarkTechPost 解读 Meta 的工程博客，介绍 Facebook Your Algorithm 如何让用户用自然语言表达 Feed 和 Reels 偏好，该功能于 2026 年 10 月 13 日公布。  
+  MarkTechPost（RSS） · 2026-11-25 07:06
+
+- [Simon Willison 梳理过去十二个月 LLM 与编码智能体的三个转折点](<https://simonwillison.net/2026/Nov/24/llm-inflection-points/>)  
+  Simon Willison 在 AI Engineer Code Summit 演讲基础上，提出过去十二个月 LLM 与编码智能体经历三个转折点：2025 年 11 月 Claude Opus 4.5 和 GPT-5.1 系列让 Claude Code、Codex 首次变得可靠可用。  
+  Simon Willison 博客 · 2026-11-25 07:02
+
+- [Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond](<https://www.wsj.com/tech/saudi-engineer-accused-of-bugging-openai-to-be-released-on-1-million-bond-954f048e?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 07:00
+
+- [OpenAI 发布预印本论文称 GPT-6 可仅靠推理设计蛋白质并有实验验证](<https://www.ithome.com/1/031/902.htm>)  
+  OpenAI 于 11 月 24 日发布预印本论文，称 GPT-6 系列无需专用生物模型，仅靠推理和通用编程工具即可设计蛋白质三维结构和氨基酸序列，并与合作机构 Onava 做了实验室验证。  
+  IT之家·人工智能 · 2026-11-25 06:44
+
+- [Tidal 宣布 12 月 9 日起下架纯 AI 生成音乐，年底预计删除超 2900 万首歌曲](<https://www.ithome.com/1/031/904.htm>)  
+  音乐流媒体平台 Tidal 宣布将从 12 月 9 日起下架完全由 AI 生成的音乐，年底预计删除超 2900 万首歌曲，并禁止发行商分发纯 AI 曲目，新规实施后每天预计拒收 8-8.5 万首歌曲。  
+  IT之家·人工智能 · 2026-11-25 06:41
+
+- [Opinion \| Is Nvidia Trump’s Waterloo?](<https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 06:23
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页

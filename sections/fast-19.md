@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 35 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 28 页
 
 - [There are rumors circulating that Barron Trump was behind the $3.4 million Nvidia options trade last Friday, just b…](<https://x.com/rushicrypto/status/2125638349130199118>)  
   Can we get an actual investigation into who made that trade?  
@@ -177,4 +177,4 @@
   Created this beautiful skincare serum UGC advertisement using PixVerse Canvas\! Turn your simple product ideas into stunning, creative, and professional-looking ads with AI. BLACK FRIDAY OFFER: Save up to 59% on  
   @AIwithkhan · 2026-11-25 23:16
 
-[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 35 页
+[返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 28 页

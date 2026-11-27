@@ -2,34 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页
 
-- [理论物理学家如何看待 AI 改变本行：TheoPhysEval 基准被 GPT-6 Astra 解出近九成](<https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/>)  
-  Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  
-  Ars Technica：AI（RSS） · 2026-11-25 20:00
-
-- [PrismML 发布三元量化模型 Ternary Bonsai 2.5 27B，54 GB 压缩至 5.9 GB](<https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/>)  
-  PrismML 发布基于 Qwen3.8-27B 的压缩模型 Ternary Bonsai 2.5 27B，通过三元量化把每个权重压缩为 -1、0 或 +1 三种取值，内存占用仅 5.9 GB，而全精度约需 54 GB。  
-  The Decoder：AI News（RSS） · 2026-11-25 19:51
-
-- [MIT 团队发现：不真实的训练数据反而让 AI 气候预测更可靠](<https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/>)  
-  MIT 联合 ETH Zurich 和帝国理工学院提出一种用合成极端情景数据训练 AI 气候模型的方法，只需一次大规模物理模拟即可完成训练，而此前需要六到八次。该团队称，2050 年 CO2 骤升、2037 年甲烷骤降这类针对性极端变化能让 AI 更精确理解气候系统，并能可靠计算局部环境政策的影响。  
-  The Decoder：AI News（RSS） · 2026-11-25 18:47
-
-- [英伟达在 Hugging Face 开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
-  英伟达在 Hugging Face 公开 Nemotron-Labs-Image-30B-A3B 模型权重。  
-  IT之家·人工智能 · 2026-11-25 18:37
-
-- [小红书开源 3DCodeFactory：全自动合成复杂 3D 多轮代码训练数据](<https://mp.weixin.qq.com/s/uX76wMlAIA69bY1tE-I2ng>)  
-  小红书发布开源 3D 数据合成框架 3DCodeFactory，并开源数据集 3DCodeFactory-Data，含 5,045 个复杂 3D 任务多轮交互轨迹，单条轨迹平均超 100 万 tokens，总规模 5.52B tokens。  
-  公众号：小红书技术（dots.llm） · 2026-11-25 17:59
-
-- [Spark AI](<https://www.producthunt.com/products/spark-ai-7>)  
-  AI-native permitting &amp; diligence services for data centers  
-  Product Hunt · English · 2026-11-25 15:30
-
-- [Sand.ai 发布视频生成模型 MAGI-2，总参数量 480B](<https://www.ithome.com/1/032/124.htm>)  
-  Sand.ai 三呆科技今日发布视频生成模型 MAGI-2，总参数量从 114B 扩展至 480B，激活参数量增至 28B，训练数据规模扩大约 3 倍。模型支持单次生成 4–30 秒视频、一镜到底与多镜头切换，单次最多输入 10 张图片、5 段视频和 5 段音频共 20 份素材，支持 2 万字符提示词和对已有视频的二次编辑，并已完成海光、摩尔线程等国产芯片适配。  
-  IT之家·人工智能 · 2026-11-25 14:50
-
 - [谷歌 DeepMind 论文《AGI 之后是什么？》预估 AI 任务成本十年降百万分之一](<https://www.ithome.com/1/032/114.htm>)  
   谷歌 DeepMind 研究所 11 月 19 日发布《AGI 之后是什么？》论文，提出"认知工业化"概念，认为 AI 正让脑力劳动规模化生产。论文指出过去十年 AI 有效算力每年至少增长 10 倍，若增速不变，今天需约 10 亿美元算力的认知任务十年后成本可能仅约 1,000 美元，降幅达百万分之一。  
   IT之家·人工智能 · 2026-11-25 14:27
@@ -171,6 +143,10 @@
   ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
   OpenAI · 2026-11-24 08:00
 
+- [AI 会像灯泡一样通缩还是像铜一样复利增长：Tomasz Tunguz 分析 token 价格弹性](<https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars/>)  
+  Tomasz Tunguz 分析 AI token 价格弹性，判断行业更接近铜而非灯泡：Ramp 上价格每降 1% 带动 token 量增 4.3%，OpenRouter 为 6.8%；Anthropic 上半年收入 13.6 倍增至 163 亿美元，Opus 4.5 降本后季度增速从 48% 跳到 132%。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-24 08:00
+
 - [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
   vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
   vLLM 官方博客（RSS） · 2026-11-24 08:00
@@ -178,5 +154,29 @@
 - [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
   百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
   vLLM 官方博客（RSS） · 2026-11-24 08:00
+
+- [谷歌 DeepMind 用 Gemini 4 智能体结合 Lean 验证优化量子算法，最高提速 290 倍](<https://www.ithome.com/1/031/232.htm>)  
+  谷歌 DeepMind 与 Google Quantum AI 团队于 11 月 23 日发布联合研究，利用多组 Gemini 4 智能体协同优化量子算法，并用形式化定理证明器 Lean 对每个结果做数学验证，相关 Lean 库和已验证方案已在 GitHub 开源。  
+  IT之家·人工智能 · 2026-11-24 06:37
+
+- [Besimple 用 Baseten Training 微调 Nemotron 3.5 Transcribe 与 Qwen3-ASR，MedDictate Term-WER 低至 0.87%](<https://www.baseten.co/blog/post-train-your-own-medical-asr-model-to-outperform-the-frontier>)  
+  Besimple 与 Baseten 合作，用约 500 美元 GPU 成本和 813 小时语音数据微调开源 ASR 模型，在 MedDictate 基准上 Nemotron 3.5 Transcribe 医疗术语词错率（Term-WER）降至 0.87%，较基座模型改进 69%，Qwen3-ASR 降至 2.05%。  
+  Baseten 工程博客（网页） · 2026-11-24 06:34
+
+- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
+  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
+  MIT News（RSS） · 2026-11-24 05:15
+
+- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
+  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
+  The Verge：AI（RSS） · 2026-11-24 05:09
+
+- [OpenAI 向 Plus 等用户推送面向聊天的 GPT-6.2 Sol](<https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/>)  
+  OpenAI 开始向 Plus、Pro、Business 和 Enterprise 用户全球推送面向聊天场景的 GPT-6.2 Sol。官方称其处理复杂请求和网络搜索优于 GPT-6，图像理解 71.7% 对 47.4%，困难指令遵循 78.1% 对 62.5%，专家级任务基准在全部四个推理级别领先约 65% 至 71% 以上对 52% 至 66%。  
+  The Decoder：AI News（RSS） · 2026-11-24 04:39
+
+- [Anthropic 月付约 31 亿美元租用算力，推动 xAI 转向租比建更划算的策略](<https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/>)  
+  据 New York Times 报道，Anthropic 与 xAI 签订约每月 31 亿美元的算力租用合同，成为 xAI 最大客户，Google 每月支付 8 亿美元，两份合同均可提前 90 天通知取消，Anthropic 带来的收入已超过 xAI 总收入的一半。  
+  The Decoder：AI News（RSS） · 2026-11-24 02:47
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页

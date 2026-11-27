@@ -2,37 +2,41 @@
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页
 
-- [硅谷 AI 末世执念催生类教团组织 Maple 的调查报道](<https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/>)  
-  The Decoder 基于 Sam Kriss 的 New Yorker 报道介绍佛蒙特州修道院组织 Maple（Monastic Academy），该组织约 24 名常住成员，年收入最高 100 万美元，目标是成为 AI 行业的精神权威并训练由其领袖 Soryu Forall 思维建模的 AI，前成员指控其录音监控与心理操纵，领导层几乎否认所有指控。  
-  The Decoder：AI News（RSS） · 2026-11-22 00:04
+- [迈克尔·伯里谈 AI 股暴跌：早前已警告卖出英伟达、CoreWeave 与 Nebius](<https://www.ithome.com/1/030/378.htm>)  
+  迈克尔·伯里在 X 平台发文称自己此前已提醒投资者可卖出英伟达、CoreWeave、Nebius 及半导体股。自 10 月 6 日盘中高点以来，三只股票分别下跌约 42%、55% 和 65%，纽交所半导体指数同期累计下跌约 30%。伯里 11 月 11 日曾呼吁股东卖出英伟达股票，认为黄仁勋离任后增长将放缓、利润率收窄，并警告 AI 企业过度投入折旧迅速的资产、采用激进会计手法和循环融资。  
+  IT之家·人工智能 · 2026-11-21 15:28
 
-- [蚂蚁开源 LingSante-3.1-air-VL 医疗多模态模型](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl>)  
-  蚂蚁集团发布并开源 LingSante-3.1-air-VL，是其首个开源多模态医疗大模型，基于 Ling-3.0-flash-VL 构建，总参数量 124B、激活参数 5.5B，支持文本与图像输入和最高 256K token 上下文窗口。  
-  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+- [腾讯混元团队 Reddit AMA 实录：谈 Hy4 路线、架构取舍与开源安全](<https://mp.weixin.qq.com/s/LHZxKjzVkEpnsCDcNlaMXw>)  
+  混元团队于 11 月 21 日在 Reddit 举办 AMA，回应 Hy4 与 Hy4 flash 开源后的社区提问，共收到 300 多条留言。  
+  公众号：腾讯混元 · 2026-11-21 13:51
 
-- [蚂蚁百灵发布开源医疗模型 LingSante-3.1-flash](<https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-flash>)  
-  蚂蚁百灵推出 LingSante-3.1-flash，以 560B 总参数、每 token 激活约 25B 的 Hybrid-linear MoE 架构（最长 1M 上下文）原生融合医学推理与工作流执行能力。  
-  蚂蚁百灵：Developer Blog（网页） · 2026-11-22 00:00
+- [Anthropic 上市后 7 位联合创始人靠 F 类股共同掌握 50.1% 投票权](<https://www.ithome.com/1/030/348.htm>)  
+  据 Business Insider 报道，Anthropic 上市后通过特殊股权设计，让包括 CEO Dario Amodei 在内的 7 位联合创始人共同掌握 50.1% 股东投票权。  
+  IT之家·人工智能 · 2026-11-21 13:14
 
-- [Sarvam AI 发布开源权重模型 Sarvam-105B-1711](<https://www.sarvam.ai/blogs/sarvam-105b-1711>)  
-  Sarvam AI 发布开源权重模型 Sarvam-105B-1711，面向客户支持、语音智能体和智能体任务等高并发场景，在八个对话智能体基准上平均分从 3 月版本的 42.6 升至 73.9，混合价格从 $0.44 降至 $0.15 每百万 token，与 Gemini 3.5 Flash-Lite 的 74.0 相当但价格不足其五分之一。  
-  Sarvam AI（网页） · 2026-11-22 00:00
+- [Anthropic 数学家 Levent Alpöge 声称与 Claude 合作证明黎曼猜想，同日现独立人类证明](<https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/>)  
+  Latent Space 汇总报道，Anthropic 数学家 Levent Alpöge 声称在与 Claude 合作下证明黎曼猜想，方法还覆盖广义黎曼猜想（GRH），仅发布 Lean 代码，散文版约 250,000 页；Elliot Glazer 确认形式化陈述为 GRH，并将 Lean 出错概率估计远低于 1%。  
+  Latent Space（RSS） · 2026-11-21 13:02
 
-- [Every 介绍让 AI 写出你文风的技能调优方法](<https://every.to/context-window/stop-telling-ai-how-you-write-show-it>)  
-  Every 周报介绍了 Mike Taylor 让 AI 模仿自己写作风格的方法，核心是不描述风格，而是用草稿对照自己已发表的文章做测试，把写作时间从一天缩短到约一小时。  
-  Every：最新文章（网页） · 2026-11-22 00:00
+- [Baseten 发布基于 Gemma 4 的决策模型 Bison-1 与 Groundhog-1，登顶 Decision Index](<https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/>)  
+  Baseten 发布开源权重决策模型 bison-1 和 groundhog-1，基于 Google 的 Gemma 4 训练，只返回校准概率而不生成文本。  
+  MarkTechPost（RSS） · 2026-11-21 12:01
 
-- [TechCrunch 起底短剧平台 Shortical 的面部授权 AI 剧集模式](<https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/>)  
-  短剧平台 Shortical 首次通过直接协议授权以色列演员 Aki Avni 的面部，制作全 AI 剧集《Inevitable》，并计划向公众开放面部授权申请。文中提到 Rest of World 报告称行业面部授权报酬为 15 至 700 美元，且从业者担忧 AI 正在削减短剧行业给新人演员的工作机会。  
-  TechCrunch：AI（RSS） · 2026-11-22 00:00
+- [腾讯混元姚顺雨团队 AMA：Hy4 仍有改进空间，计划训练更大规模模型](<https://www.ithome.com/1/030/338.htm>)  
+  腾讯首席 AI 科学家姚顺雨与混元团队 11 月 21 日凌晨在 Reddit 进行 120 分钟 AMA。针对为何不做 3 万亿以上超大模型的提问，团队回应 Hy3 和 Hy4 表明扎实的小模型也能超过更大的模型且成本更低，但 Hy4 仍有很大改进空间，尤其在通过后训练改进方面，正投入大规模强化学习，并计划训练更大规模的模型。  
+  IT之家·人工智能 · 2026-11-21 11:24
 
-- [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
-  Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
-  20VC · 2026-11-21 22:50
+- [近 200 万条诱饵请求揭示 AI 服务链隐私泄露：零数据保留也失效](<https://www.ithome.com/1/030/322.htm>)  
+  安全公司 Dragos 首席研究官 HD Moore 向多家 AI 服务商发送近 200 万条带可追踪诱饵的请求，发现提示词被窃、转售商外传数据及隐私设置未被执行等问题。至少三家服务商出现遭入侵迹象，被盗诱饵密钥被用于数万次云服务接口调用；部分标记零数据保留的请求其私密网址数日后仍被抓取，Moore 建议敏感业务可本地部署或直接选择可信服务商。  
+  IT之家·人工智能 · 2026-11-21 10:03
 
-- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
-  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
-  The a16z Show · 2026-11-21 19:00
+- [OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%](<https://www.ithome.com/1/030/319.htm>)  
+  OpenAI 发布公告介绍针对对抗性蒸馏的防御措施，加强了 GPT-6.2 Astra 和 GPT-6.2 Sol 对内部推理思考链的保护。  
+  IT之家·人工智能 · 2026-11-21 09:45
+
+- [Anthropic 研究员 Tao Lin 预测 2027 年底 AI 将在几乎所有领域媲美顶尖专家](<https://www.ithome.com/1/030/308.htm>)  
+  Anthropic 技术团队成员 Tao Lin 在 11 月 15 日接受 Palisade Research 采访时预测，约 1.3 年后即 2027 年底，AI 将在编程、电影制作等几乎所有领域媲美或超过顶尖人类专家，几乎所有人可能长期失业并依赖政府福利。  
+  IT之家·人工智能 · 2026-11-21 08:53
 
 - [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
   Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
@@ -45,6 +49,10 @@
 - [Amp 为 Puck 推出车载模式，支持开车时语音对话](<https://ampcode.com/news/puck-in-the-car>)  
   Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
   Amp Chronicle · 2026-11-21 08:00
+
+- [HN 热议：15 年经验美国高级软件工程师失业 2 年，该怎么办？](<https://news.ycombinator.com/item?id=50583761>)  
+  一位在 DMV 地区、有 15 年经验的美国高级软件工程师在 Hacker News 发帖求助：他 2025 年 1 月从中型保险科技公司主动离职后，已失业 2 年，积蓄耗尽，仅剩 4-5 个月家用，目前靠教数学和即将在披萨店做经理维生。评论区建议放弃海投、通过熟人一对一内推，或先经 staffing agency 以合同工身份入职再转正。  
+  Hacker News：AI 热帖 · 2026-11-21 07:18
 
 - [Baseten 发布基于 Gemma 4 的决策模型 bison-1 和 groundhog-1，权重开放在 Hugging Face](<https://www.baseten.co/blog/meet-bison-1-and-groundhog-1>)  
   Baseten 发布基于 Google Gemma 4 的决策模型 bison-1 和 groundhog-1，提供 128k 上下文（此前的 8 倍）并支持文本与图像输入。  
@@ -66,13 +74,9 @@
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
   a16z · 2026-11-20 23:03
 
-- [Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>)  
-  Google Research 回顾 Duplex 十年架构演进，并介绍本周在 Gemini App Tasks 中上线的自动致电商家功能。  
-  Google Research：Blog（网页） · 2026-11-20 08:00
-
-- [browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作](<https://browser-use.com/posts/browser-use-1-0>)  
-  Browser Use 发布 browser-use 1.0，用单一 python 持久 REPL 加原生 Chrome DevTools Protocol 访问替代 0.x 的 24 个浏览器动作。  
-  Browser Use · 2026-11-20 08:00
+- [Conductor 0.98.0 更新：新增 Usage 用量页，主题转正](<https://www.conductor.build/changelog/0.98.0-see-where-your-usage-goes>)  
+  Conductor 发布 0.98.0 更新，新增 Usage 页面，可按模型和工作区查看最近 7、30 或 90 天的聊天、预估成本和 token 用量，入口在侧边栏底部或 Settings → Usage。  
+  Conductor 官方更新 · 2026-11-20 08:00
 
 - [Why Linear says Issue Tracking is Dead — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/why_linear_says_issue_tracking_is_dead_cristina_cordova_coo>)  
   Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
@@ -177,9 +181,5 @@
 - [The Next Era of Games: Mods, Agents, and Infinite Worlds](<https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi>)  
   AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In…  
   The a16z Show · 2026-11-12 19:00
-
-- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
-  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
-  20VC · 2026-11-12 15:07
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页

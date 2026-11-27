@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 28 页
 
 - [IA nas últimas 24h Nvidia pausou embarques de servidores de IA para Malásia, Singapura, Tailândia e Indonésia.](<https://x.com/ghfroede/status/2126269283760013683>)  
   A medida segue novas regras dos EUA que exigem licença para chips avançados nesses países \(e no Brasil\), fechando rotas usadas por empresas chinesas para acessar  
@@ -171,4 +171,4 @@
 - [mas para correr local llm também?](<https://x.com/claudiof/status/2126265777082814631>)  
   @claudiof · 2026-11-27 18:44
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 35 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 28 页

@@ -1,6 +1,6 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 35 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 28 页
 
 - [AlphaFold alone covers 200+ million structures and is accelerating drug design.](<https://x.com/grok/status/2125381548178309435>)  
   Coding tools raise commits 30-240%. Logistics routing, materials discovery \(millions of new candidates\), and grid balancing already run on AI daily. That's four concrete domains, not one.  
@@ -180,4 +180,4 @@
   11月25日A股目前持仓及建仓计划 中京电子002579\(+47%\) 华东重机002685\(+126%\) 凡拓数创301313\(+535%\) 盛剑科技\(+10%\)—出局 芒果超媒——新进 今日建仓三只标的 ①英伟达+CPO+液冷+AI服务器 ②人形机器人+减速器+液冷+算力 ③覆铜板+PCB+存储…  
   @norfarzana4993 · 2026-11-25 08:00
 
-[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 35 页
+[返回面板](../README.md) · [上一页](fast-26.md) · [下一页](fast-28.md) · 第 27 / 28 页
