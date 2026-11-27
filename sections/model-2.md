@@ -2,34 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页
 
-- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
-  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
-  The Verge：AI（RSS） · 2026-11-26 01:44
-
-- [Runway 与 Meta 将 Praxis-1 引入 ExecuTorch](<https://runwayml.com/news/company-news/runway-meta-praxis-1-executorch>)  
-  Runway 的开源权重机器人世界动作模型 Praxis-1 现已通过 Meta PyTorch 团队的工作，在 ExecuTorch 与 NVIDIA TensorRT 上运行。  
-  Runway：News（网页） · 2026-11-26 01:21
-
-- [Baseten 如何为推理工作负载实现最小权限访问](<https://www.baseten.co/blog/least-privilege-access-for-inference-workloads>)  
-  Baseten 推出面向推理工作负载的最小权限访问控制，用 OIDC 短期令牌替代长期云密钥，并通过 BDN 只读卷挂载权重，使服务副本无需访问原始存储桶。运行时 OIDC 让容器按需获取临时云凭证拉取 LoRA 适配器，出站限制则把连接限定在模型实际调用的主机。  
-  Baseten 工程博客（网页） · 2026-11-26 00:49
-
-- [Newcomer：AI公开市场恐慌未传导至一级市场，推理创业公司或成风向标](<https://www.newcomer.co/p/vc-funding-keeps-flowing-as-nvidia>)  
-  Newcomer撰文分析AI公开市场情绪恶化但私募市场仍在运转，Sierra以300亿美元估值融资超10亿美元，Cognition传以750亿美元估值洽谈。文章指出，公开市场对AI的悲观情绪尚未传导至私募市场，但推理创业公司可能成为先行信号；neocloud要求推理服务商预付高达50%合同金额以锁定算力，使原本轻资产的业务模式面临资本压力。  
-  Newcomer 新闻长文（RSS） · 2026-11-26 00:48
-
-- [上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法](<https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph>)  
-  Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS.md 的严格规则。  
-  Google AI：DEV 作者专属（RSS） · 2026-11-26 00:19
-
-- [AI data centers are becoming harder to build, and neoclouds are feeling it](<https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/>)  
-  ⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as n  
-  TechCrunch · 2026-11-25 23:41
-
-- [DeepMind 副总裁谈 AI 智能体自主控制部分 Gemini 实验算力，但离递归自我改进尚远](<https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/>)  
-  Google DeepMind 研究副总裁 Koray Kavukcuoglu 在公司播客中表示，AI 智能体已自主控制部分算力为下一代 Gemini 模型运行实验，但距离完全递归自我改进还很远。  
-  The Decoder：AI News（RSS） · 2026-11-25 21:23
-
 - [理论物理学家如何看待 AI 改变本行：TheoPhysEval 基准被 GPT-6 Astra 解出近九成](<https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/>)  
   Ars Technica 报道理论物理界正在被 AI 改变。物理学家 Suvrat Raju 用从未公开的未发表问题构建 TheoPhysEval 基准，结果显示领先模型可独立解决约 60% 的题目，GPT-6 Astra 实际答对 50 题中的 49 题，且平均每题计算成本不足 3 美元，基准在发布前已被饱和。  
   Ars Technica：AI（RSS） · 2026-11-25 20:00
@@ -49,6 +21,10 @@
 - [小红书开源 3DCodeFactory：全自动合成复杂 3D 多轮代码训练数据](<https://mp.weixin.qq.com/s/uX76wMlAIA69bY1tE-I2ng>)  
   小红书发布开源 3D 数据合成框架 3DCodeFactory，并开源数据集 3DCodeFactory-Data，含 5,045 个复杂 3D 任务多轮交互轨迹，单条轨迹平均超 100 万 tokens，总规模 5.52B tokens。  
   公众号：小红书技术（dots.llm） · 2026-11-25 17:59
+
+- [Spark AI](<https://www.producthunt.com/products/spark-ai-7>)  
+  AI-native permitting &amp; diligence services for data centers  
+  Product Hunt · English · 2026-11-25 15:30
 
 - [Sand.ai 发布视频生成模型 MAGI-2，总参数量 480B](<https://www.ithome.com/1/032/124.htm>)  
   Sand.ai 三呆科技今日发布视频生成模型 MAGI-2，总参数量从 114B 扩展至 480B，激活参数量增至 28B，训练数据规模扩大约 3 倍。模型支持单次生成 4–30 秒视频、一镜到底与多镜头切换，单次最多输入 10 张图片、5 段视频和 5 段音频共 20 份素材，支持 2 万字符提示词和对已有视频的二次编辑，并已完成海光、摩尔线程等国产芯片适配。  
@@ -178,5 +154,29 @@
 - [徐工用火山引擎 Agent+Seedance 把维保视频制作从1个月压到1周](<https://mp.weixin.qq.com/s/7D_YIP9sTCcd9ghw7xkm2A>)  
   徐工与火山引擎合作，用 Agent+Seedance 做视频、Seedream 做图片、豆包大模型写文字、知识引擎 VeKnow 搭底座，把单条维保视频制作时间从1个月压到1周，成本从约30000元降到约5000元，降幅约80%。服务手册编写改为 AI 先出初稿、工程师审核定稿，效率提升50%，原先一份手册需研发和服务部门合计约55人/天。  
   公众号：火山引擎 · 2026-11-24 11:00
+
+- [蚂蚁百灵发布生理信号基础模型 LingSante-Pulse，从30秒波形预测六年疾病风险](<https://mp.weixin.qq.com/s/xidWztAK7Fob87FhoD5fzQ>)  
+  蚂蚁百灵团队发布生理信号基础模型 LingSante-Pulse，在超过15万小时的多场景生理序列数据上预训练，用单一冻结编码器统一处理 EEG、ECG、PPG、EMG 等多种生理信号。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
+
+- [蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升](<https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g>)  
+  蚂蚁百灵大模型发布并开源 Ling-3.2-air，延续 Ling-3.0-flash-VL 原生多模态架构，总参数 1240 亿、每 Token 激活 55 亿，支持文本、图像和视频输入。  
+  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
+
+- [OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役](<https://www.ithome.com/1/031/271.htm>)  
+  OpenAI 宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，此前该模型已在 ChatGPT Work 和 Codex 亮相不到一周。  
+  IT之家·人工智能 · 2026-11-24 08:49
+
+- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
+  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
+  OpenAI · 2026-11-24 08:00
+
+- [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
+  vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
+  vLLM 官方博客（RSS） · 2026-11-24 08:00
+
+- [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
+  百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
+  vLLM 官方博客（RSS） · 2026-11-24 08:00
 
 [返回面板](../README.md) · [上一页](model.md) · [下一页](model-3.md) · 第 2 / 5 页

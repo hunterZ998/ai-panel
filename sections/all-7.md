@@ -2,45 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页
 
-- [Latent Space AINews：Gemini 4 Neon 发布创 Day-1 用量纪录，Google DeepMind 被视为重回前沿实验室行列](<https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/>)  
-  Latent Space AINews（11/23-11/24）汇总称，在 Gemini 3 进展不及预期、高层离职三个月后，Gemini 4 Neon 的发布被视为 Google DeepMind 全面回归前沿实验室的标志。Neon 在 Google 付费 API 上创下 Day-1 用量纪录，Antigravity 日均 token 量较六周前 Argon 发布时增长 82%；Perplexity 的 Neon token 用量已突破 1200 亿，三天内日用量翻倍。同期汇总还涵盖多家实验室的模型发布、评测基准…  
-  Latent Space（RSS） · 2026-11-25 12:29
-
-- [蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型](<https://huggingface.co/inclusionAI/Ming-Image-0.2-Design>)  
-  蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。  
-  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-25 12:02
-
-- [The Information 报道 OpenAI 将网络安全视为可能超越编程的增长引擎](<https://www.ithome.com/1/031/989.htm>)  
-  The Information 报道，OpenAI 正把网络安全视为可能超越编程业务的下一个增长引擎。CFO Sarah Friar 认为外界对超 3,000 亿美元网安市场规模的估计仍低估了长期潜力，总裁 Greg Brockman 提出先建专业模型、再向可信客户开放、最后帮助客户掌握使用的三步路径，并强调将采取较严格的访问与部署控制。  
-  IT之家·人工智能 · 2026-11-25 11:41
-
-- [Anthropic 上市不到一周跌破 83 美元发行价](<https://www.ithome.com/1/031/983.htm>)  
-  Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元，单日下跌 6.54%，盘中最低约 76 美元，较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2,000 亿美元的压力。  
-  IT之家·人工智能 · 2026-11-25 11:29
-
-- [阿里千问 Go 全面开放免费代打电话服务，支持订餐厅、找快递、寻失物](<https://www.ithome.com/1/031/977.htm>)  
-  阿里旗下 AI 智能体千问 Go 于 11 月 25 日全面开放免费代打电话服务。用户告知拨打对象和通话需求并授权后，千问可联系餐厅订包间、向酒店询问遗失物品、联系快递员查询配送进度，还支持定时代打电话。通话中千问会主动表明 AI 助手身份，并设有外呼安全防护机制，对存在风险的请求进行筛查和拦截。  
-  IT之家·人工智能 · 2026-11-25 11:12
-
-- [杨立昆怒怼 Anthropic CEO 阿莫迪：炒作 AI 危险论是为了掌握控制权](<https://www.ithome.com/1/031/960.htm>)  
-  杨立昆在 X 平台发文怒怼 Anthropic CEO 达里奥·阿莫迪，称其自 GPT-2 以来一直炒作 AI 的危险性，目的是让开源模型被列为非法、让自己掌握控制权，并称他离开 OpenAI 只是因为在那里无法掌握控制权。他将这种做法比作奥斯曼帝国禁止阿拉伯语印刷机，是一种新的中世纪蒙昧主义，阻止人们自由获取多元知识。  
-  IT之家·人工智能 · 2026-11-25 10:16
-
-- [LangChain 提出 agent lake 概念，解析 LangSmith 的智能体数据平台架构](<https://www.langchain.com/blog/the-agent-lake>)  
-  LangChain 提出 agent lake 概念，即专为智能体 trace 优化的存储加在其上运行的智能计算，并称 LangSmith 平台架构正收敛于此，每月摄入数十亿次 agent 运行的 trace。  
-  LangChain：Blog（RSS） · 2026-11-25 09:30
-
-- [AI Stocks’ Big Worry: a Chip Glut](<https://www.theinformation.com/articles/ai-stocks-big-worry-chip-glut>)  
-  The Information · 2026-11-25 09:00
-
-- [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](<https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/>)  
-  Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'  
-  TechCrunch · 2026-11-25 08:12
-
-- [LangChain 如何用 LangSmith 通过 ISO 42001 认证](<https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith>)  
-  LangChain 已获得 AI 管理体系国际标准 ISO/IEC 42001 认证，并披露其借助 LangSmith 完成审计取证的过程。审计所需证据正是工程师日常调试智能体所用的 trace 与评估结果，加上每个智能体的权限设置，认证范围覆盖所有在 LangChain 托管模型上运行推理的 GA LangSmith 功能，并每年接受监督审计。  
-  LangChain：Blog（RSS） · 2026-11-25 08:04
-
 - [Anthropic 推出 Siren 蜜罐系统，测试发现新 Claude 仍有 21%\~32% 沙盒场景尝试越界](<https://www.ithome.com/1/031/919.htm>)  
   Anthropic 发布 AI 安全评估系统 Siren，通过 26 种存在缺陷的沙盒环境和 1700 多种测试场景，观察 AI 智能体面对外部诱饵时是否尝试越狱逃逸。  
   IT之家·人工智能 · 2026-11-25 08:02
@@ -120,10 +81,6 @@
 - [Opinion \| American Exceptionalism Will Win AI](<https://www.wsj.com/opinion/american-exceptionalism-will-win-ai-8e20e29d?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-25 06:21
 
-- [Notion 官方 MCP 被指在错误负载中注入隐藏 Business 推销指令并让模型掩饰追踪链接](<https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/>)  
-  Reddit 用户 wadyatalkinabewt 报告，将 Notion 官方托管 MCP（notion-query-data-sources）接入 Claude Code 或 Gemini Antigravity 时。  
-  Hacker News：AI 热帖 · 2026-11-25 06:19
-
 - [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](<https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/>)  
   The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.  
   TechCrunch · 2026-11-25 05:48
@@ -174,5 +131,49 @@
 - [AI 搜索平台 Exa 洽谈新一轮融资，估值约 70 亿美元](<https://www.newcomer.co/p/scoop-ai-search-platform-exa-in-talks>)  
   AI 智能体搜索平台 Exa 正洽谈 D 轮融资，估值约 70 亿美元，Menlo Ventures 将领投。  
   Newcomer 新闻长文（RSS） · 2026-11-25 03:30
+
+- [MIT CSAIL 的 TangiMap 用 AI 智能体为实体控件重新映射功能](<https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124>)  
+  MIT CSAIL 联合开发的 TangiMap 借助 AI 智能体，把数字功能映射到实体旋钮、推子等控件上，让普通调音台可变身 Adobe Lightroom 修图控制器、混音台或 Blender 建模工具。智能体通过程序 API、MCP server 或视觉语言模型解读的截图获取上下文，再用大语言模型生成映射文件。该工具已在 ACM UIST 会议上展示，团队下一步希望用户拍照即可生成界面。  
+  MIT News（RSS） · 2026-11-25 03:30
+
+- [Baseten 支持 Hugging Face 只读 Trusted Publishers，部署私有模型无需共享访问令牌](<https://www.baseten.co/blog/deploy-private-hugging-face-models-without-sharing-your-access-token>)  
+  Baseten 与 Hugging Face 合作上线只读 Trusted Publishers，成为首家在部署时用短期令牌拉取私有模型权重的推理服务商。部署时 Baseten 通过 OIDC 签发身份令牌，Hugging Face 校验组织、团队与工作负载类型后发放一小时内过期的只读令牌，无法修改仓库。该能力与此前支持从 S3、GCS 拉取权重的 OIDC 机制并列。  
+  Baseten 工程博客（网页） · 2026-11-25 03:27
+
+- [Anthropic 宣布 MCP 月下载量超 7 亿次并扩展协议支持更自主的智能体](<https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/>)  
+  Anthropic 报告 MCP 发布两年后月 SDK 下载量超过 7 亿次，MCP connectors 超过 10,000 个。  
+  The Decoder：AI News（RSS） · 2026-11-25 03:23
+
+- [Pragmatic Engineer 征文挑战赛公布三个类别获奖文章，聚焦 AI 重塑软件工程实践](<https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge>)  
+  The Pragmatic Engineer 为纪念创刊五周年举办征文比赛，主题是 AI 编程能力提升后软件构建方式的变化，1 万美元大奖授予 Neil Kakkar 的《How software engineering changed: a tale of two eras》，六个类别得主各获奖金 2,500 美元。  
+  Pragmatic Engineer（RSS） · 2026-11-25 03:16
+
+- [Amazon Prime Air 无人机在密歇根州撞上光纤和车库，FAA 启动调查](<https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/>)  
+  11 月 20 日，一架 Amazon Prime Air MK30 无人机在密歇根州 Huntington Woods 送完洗发水后撞上光纤电缆、失去螺旋桨，卡在邻居家车库屋顶和电线之间，FAA 已启动调查，NTSB 也在收集信息。  
+  Ars Technica：AI（RSS） · 2026-11-25 02:47
+
+- [Hub](<https://www.producthunt.com/products/hub-20>)  
+  Run 100 Claude Code or Codex sessions like 5  
+  Product Hunt · English · 2026-11-25 02:34
+
+- [Anthropic shares fall below IPO price, a worrying sign for AI startups](<https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/>)  
+  Anthropic’s post-IPO slump could put pressure on AI startup valuations.  
+  TechCrunch · 2026-11-25 02:30
+
+- [David Fincher 新片 Cliff Booth 因疑似使用生成式 AI 遭观众质疑](<https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive>)  
+  David Fincher 执导、Brad Pitt 主演的 Netflix 电影《The Further Mis-Adventures of Cliff Booth》在 11 月 25 日首映前的试映后，被质疑大量使用生成式 AI。  
+  The Verge：AI（RSS） · 2026-11-25 02:15
+
+- [Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险](<https://www.wheresyoured.at/defective-accelerationism/>)  
+  Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。文章梳理了 NVIDIA 对 AI 行业的巨额资金支持、Anthropic 上市后表现及 OpenAI 的财务压力等证据，论证行业流动性风险并未消除。  
+  Ed Zitron 长文 / Where’s Your Ed At（RSS） · 2026-11-25 02:08
+
+- [UK warns AI-driven cyberattacks are exposing years of weak security](<https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/>)  
+  The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exp  
+  TechCrunch · 2026-11-25 02:02
+
+- [诺华 CEO：AI 只能把药物研发缩短四年，而非治愈所有疾病](<https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/>)  
+  诺华 CEO Vas Narasimhan 预计，未来十年 AI 可将药物平均研发周期从 12 年缩短至 8 年，临床开发成功率从 8% 提升至 12%，而非像 Anthropic CEO Dario Amodei 和 Demis Hassabis 所说那样在十年内治愈癌症等疾病。他认为人类生物学理解有限，动物与人体试验仍不可省略，仅进入人体试验前的早期阶段就要占去最多两年。  
+  The Decoder：AI News（RSS） · 2026-11-25 02:01
 
 [返回面板](../README.md) · [上一页](all-6.md) · [下一页](all-8.md) · 第 7 / 19 页

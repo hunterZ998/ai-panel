@@ -2,66 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 19 页
 
-- [OpenAI 首席科学家 Jakub Pachocki 提议以 perplexity 作为限制 AI 发展速度的度量](<https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/>)  
-  OpenAI 首席科学家 Jakub Pachocki 发文提议以 perplexity 作为衡量 AI 进展的共同基准，用于在企业间建立发展速度的共同限制。  
-  TechCrunch：AI（RSS） · 2026-11-23 05:14
-
-- [Simon Willison 用 Claude Fable 5.2 生成 HTML select 样式展示页](<https://simonwillison.net/2026/Nov/22/select-styling/>)  
-  Simon Willison 因不满 HTML select 下拉框在各浏览器默认样式不一、在 Chrome 中尤其难看，让 Claude Fable 5.2 生成了一个展示 select 各种可样式化方式的页面，计划在每个桌面和移动浏览器中截图。他实验后给出自己最喜欢的 select CSS 写法，并展示了该样式在三个浏览器中的效果。  
-  Simon Willison 博客 · 2026-11-23 03:45
-
-- [NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor](<https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/>)  
-  NVIDIA 发布 2B 级推理视觉-语言-动作模型 Alpamayo 2 Edge，可在车内 DRIVE AGX Thor 上做轨迹规划与因果解释，采用 OpenMDW-1.1 许可开源权重。  
-  MarkTechPost（RSS） · 2026-11-23 02:37
-
-- [Gary Marcus 评 Levent Alpöge 借助 Claude 证明黎曼猜想：不是 AI 独立完成，也难以泛化](<https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann>)  
-  Gary Marcus 分析 Levent Alpöge 在 Claude 协助下疑似证明黎曼猜想一事，指出并非 AI 独立完成，而是这位数学家数月深度协作的成果。  
-  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-23 02:37
-
-- [TechCrunch 访谈《Hyperscale》作者 Paris Marx：数据中心为何成为反科技浪潮的焦点](<https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>)  
-  TechCrunch 访谈记者 Paris Marx，谈其新书《Hyperscale》调查数据中心与生成式 AI 的社会影响。  
-  TechCrunch：AI（RSS） · 2026-11-23 02:08
-
-- [《以撒的结合：Repentance Plus》因 AI 音乐被发现后遭差评轰炸，Nicalis 已移除相关文件](<https://www.theverge.com/games/1039770/binding-of-isaac-ai-music>)  
-  《以撒的结合：Repentance Plus》被发现某段 GTA 主题内容使用 AI 生成音乐后在 Steam 遭差评轰炸。Reddit 用户 ShweetsStuff 找到带 Suno 元数据的音频文件，作者 Edmund McMillen 在 X 上道歉，称自己不知情；发行方 Nicalis 数小时内更新游戏并移除了生成的音乐文件。  
-  The Verge：AI（RSS） · 2026-11-23 01:25
-
-- [SGLang 为 ERNIE 5.5 Flash 实现 1074 tokens/s 低延迟解码](<https://www.lmsys.org/blog/2026-11-23-ernie55-flash-low-latency>)  
-  SGLang 为 ERNIE 5.5 Flash 加入低延迟解码支持并完成端到端优化，在 4 块 SM100 GPU、BS=1、55K 输入与 1K 输出下达到 1074 tokens/s。  
-  LMSYS Blog · 2026-11-23 00:00
-
-- [Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组](<https://www.anthropic.com/research/working-with-ai>)  
-  Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。  
-  Anthropic：Research（发表成果 · 网页） · 2026-11-23 00:00
-
-- [AI 智能体可以多任务并行，人类跟得上吗？](<https://every.to/p/your-ai-agents-can-multitask-can-you>)  
-  Every 的九位成员分享了各自同时管理多个 AI 智能体的做法。作者本人曾独自承担公司整个运营部门的工作，靠一支 AI 智能体团队完成会议、发票、账号开通和 Slack 回复等事务；其智能体 Dot 的 Sebastian 记录到他曾在 29 分钟内切换 7 条不同的工作线。  
-  Every：最新文章（网页） · 2026-11-23 00:00
-
-- [Google 介绍 Semantic governance policies 如何防御智能体意图劫持](<https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/>)  
-  Google 介绍 Semantic governance policies 通过默认开启的用户意图匹配，在每次工具调用执行前检查该动作是否来自用户请求，以拦截间接提示词注入导致的意图劫持。  
-  Google Developers Blog（RSS） · 2026-11-23 00:00
-
-- [Sarvam AI 发布语音听写 API Sarvam Dictate，支持英语和 22 种印度语言](<https://www.sarvam.ai/blogs/sarvam-dictate>)  
-  Sarvam AI 发布 Sarvam Dictate，一个面向开发者的听写 API，将语音转为说话者想输入的文本，支持英语、22 种印度语言和 Hinglish，定价为每分钟音频 ₹0.50（约 $0.33 每小时）。  
-  Sarvam AI（网页） · 2026-11-23 00:00
-
-- [LlamaIndex 开源 8.1M 参数文档解析模型 OCRia-nano-1](<https://www.llamaindex.ai/blog/introducing-ocria-nano-1>)  
-  LlamaIndex 发布 OCRia-nano-1 的开放权重，一个 8.1M 参数的轻量文档解析模型，可在本地 CPU 上运行，权重托管在 Hugging Face，配套开源解析器 LiteParse（Apache 2.0）。  
-  LlamaIndex：产品、工程与评测 · 2026-11-23 00:00
-
-- [本地 AI 入门指南：用 Unsloth Desktop 和 Qwen3.8-27B 在家用 PC 搭建私有 ChatGPT](<https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth>)  
-  作者分享在 Windows PC 上用 Unsloth Desktop 搭建本地 AI 的入门教程，以 RTX 5090 运行 4-bit 量化的 Qwen3.8-27B，全程约 10-15 分钟，无需终端命令或订阅。  
-  Hacker News：AI 热帖 · 2026-11-23 00:00
-
-- [报道称 Dario Amodei 曾建议用游戏安抚因 AI 失业的民众](<https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness>)  
-  《华尔街日报》在 Anthropic 创纪录 IPO 后刊发的 Amodei 兄妹特写提到，Dario Amodei 曾在 Slack 讨论中建议用沉浸式电子游戏缓解 AI 导致失业所引发的政治冲突。相关说法来自广泛流传的 Slack 消息，报道称他当时已承认 AI 可能破坏世界稳定。  
-  Hacker News：AI 热帖 · 2026-11-22 23:52
-
-- [Architect Labs 公布 AI 自研 CPU 架构 Frostbite，能效为传统处理器 4.59 倍](<https://www.ithome.com/1/030/717.htm>)  
-  美国帕洛阿尔托初创公司 Architect Labs 宣布，其 AI 系统自主发现、设计并验证了采用全新指令集的通用 CPU Frostbite。在 25 项工作负载测试中，4 个计算单元组成的 Frostbite 集群每瓦性能达到尺寸相近、已完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍，单位面积性能为 8.77 倍。  
-  IT之家·人工智能 · 2026-11-22 23:15
-
 - [新实验：AI 编码智能体在模拟软件公司中完成不到十分之一的任务](<https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/>)  
   一项新实验首次让 AI 编码智能体在模拟软件公司中作为数字员工工作，环境包含同事、项目看板和聊天记录。结果显示即使 Claude Opus 5.5 和 GPT-6 Astra 也只完整完成不到十分之一的任务，而 SWE-bench 等标准基准已接近饱和。  
   The Decoder：AI News（RSS） · 2026-11-22 23:15
@@ -101,6 +41,10 @@
 - [The Verge：vibe coding 正席卷各类硬件改装](<https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera>)  
   David Pierce 在 The Stepback 专栏中梳理 vibe coding 改装硬件的趋势：只需提示 Claude Code 或 Codex，非开发者也能给电视去广告、给相机加固件功能、给游戏机加特性。印度开发者 Gathin 的 CleanYourTV 成为 GitHub 热门仓库；行业则以更强 DRM 和法律手段反制，作者建议只在可承受损失的设备上尝试并勤做备份。  
   The Verge：AI（RSS） · 2026-11-22 21:00
+
+- [snibl](<https://www.producthunt.com/products/snibl>)  
+  Save highlighted text from any app, then ask AI about it  
+  Product Hunt · English · 2026-11-22 20:50
 
 - [Dragos研究揭示低价AI推理服务商窃取密钥并窥探用户请求](<https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/>)  
   Dragos安全研究人员在2026年7月至11月期间向AI服务商发送约200万条含假凭证的请求，发现至少三家服务商遭入侵，攻击者窃取数百个AWS密钥并在数小时内试用、搜索S3存储，部分攻击者还使用了AI攻击工具ARTEX。研究还发现，部分市场转售商无需利用漏洞即可读取客户请求，仅需以最低价上架模型并开启日志记录。隐私设置如“零数据保留”（ZDR）常被忽视。OpenRouter随后从平台移除三家服务商并撤销125个端点的ZDR批准，同时邮件通知受影响用户。受影响服务商包括Novita、Phala和Together，已…  
@@ -181,5 +125,61 @@
 - [蚂蚁 inclusionAI 开源 LingSante-3.1-flash-MXFP4 医疗 MoE 模型](<https://huggingface.co/inclusionAI/LingSante-3.1-flash-MXFP4>)  
   蚂蚁 inclusionAI 在 HuggingFace 发布 LingSante-3.1-flash-MXFP4，这是基于 LingSante-3.1-flash 的混合 MXFP4 量化开源权重模型，主模型约 560B 参数、每 token 激活约 25B，配置 262,144 token 上下文窗口。  
   蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-22 11:19
+
+- [哥伦比亚大学与 CertiK 推出 TensorLean：在 PTX 层面对 GPU kernel 做形式化验证](<https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/>)  
+  哥伦比亚大学与 CertiK 提出 TensorLean，一个基于 Lean、在 PTX 层面证明 GPU kernel 与张量级数学规格一致的验证框架。  
+  MarkTechPost（RSS） · 2026-11-22 09:51
+
+- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
+  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
+  IT之家·人工智能 · 2026-11-22 08:04
+
+- [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)  
+  How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evalua…  
+  OpenAI · 2026-11-22 08:00
+
+- [Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator](<https://tomtunguz.com/what-kind-of-factory-will-you-build/>)  
+  Tomasz Tunguz 结合 Notion 与 LangChain 同日发布的两篇文章，提出 AI 时代的软件与知识工厂共享同一套四步循环：context、agent、trace、curator，后两步将执行轨迹变成数据并反哺规格，使系统每周持续改进。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-22 08:00
+
+- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
+  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
+  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
+
+- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 ASGI 和 WSGI Python 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
+  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产的 ASGI 与 WSGI Python 应用提供最佳运行工具。  
+  Simon Willison 博客 · 2026-11-22 07:56
+
+- [Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息](<https://www.ithome.com/1/030/517.htm>)  
+  Signal 推出 iOS / Android 更新，默认阻止应用内截图和录屏，以防止 Siri AI、Gemini 等 AI 智能体在用户不知情时读取私人消息。  
+  IT之家·人工智能 · 2026-11-22 07:28
+
+- [AI 的 Jevons 悖论：更便宜的 token 无法支撑巨额资本开支](<https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/>)  
+  作者检验超大规模厂商用 Jevons 悖论为巨额 capex 辩护的说法，指出 token 销量增长与价格下跌速度相当，短期价格弹性仅略高于 1，收入未必随用量增长。  
+  Hacker News：AI 热帖 · 2026-11-22 07:00
+
+- [Signal 限制移动端截图，应对操作系统级 AI 监控风险](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>)  
+  Signal 宣布在 Android 和 iOS 上默认限制应用内截图，此前 Windows 版已默认阻止截图。总裁 Meredith Whittaker 称集成 agentic AI 的操作系统会扫描屏幕数据，使敏感信息被 capture、存储并可被系统级 AI 智能体访问，损害 Signal 独立保障隐私的能力。  
+  TechCrunch：AI（RSS） · 2026-11-22 05:37
+
+- [TechCrunch 播客解读 Nvidia 财报亮眼与请愿前 CEO 黄仁勋回归并存的两种叙事](<https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/>)  
+  TechCrunch Equity 播客讨论本周 Nvidia 的两幅反差图景：财报收入大涨、管理层称无需前 CEO 黄仁勋回归，同时 Elon Musk 等人发起请愿推动黄仁勋回归，黄本人称已准备好回归。  
+  TechCrunch：AI（RSS） · 2026-11-22 05:07
+
+- [联合国未能就监管“杀人机器人”达成规则共识](<https://www.theverge.com/tech/1039554/un-regulations-killer-robots>)  
+  联合国日内瓦会议未能就自主武器监管规则达成共识，各国仅同意“开始讨论选项”。红十字国际委员会曾呼吁一年内制定有法律约束力的规则，并获联合国秘书长和教皇支持，但最终妥协为各国两年内提出监管提案，且部分规则可保留为“可选”。据 NPR 报道，俄罗斯、以色列和美国是主要阻碍方，美国曾提议用五年时间讨论非约束性指南。  
+  The Verge：AI（RSS） · 2026-11-22 04:03
+
+- [TechCrunch 盘点可直接发短信使用的 AI 智能体：从 Instinct 到 Poke 等 20 余款](<https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/>)  
+  TechCrunch 汇总了目前可通过短信、iMessage、WhatsApp 等渠道直接使用的 AI 智能体，它们可记上下文、连接已有应用并代用户完成订餐、日历、购物等任务。  
+  TechCrunch：AI（RSS） · 2026-11-22 01:00
+
+- [LangChain 讲解如何为 AI 智能体搭建知识工厂](<https://www.langchain.com/blog/knowledge-factory>)  
+  LangChain 分享其内部 GTM、内容工作室智能体和 LangSmith Engine 背后的知识工厂实践，认为让 AI 在企业落地缺的不是更好模型而是更好的知识。  
+  LangChain：Blog（RSS） · 2026-11-22 00:45
+
+- [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
+  Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
+  The Decoder：AI News（RSS） · 2026-11-22 00:23
 
 [返回面板](../README.md) · [上一页](all-12.md) · [下一页](all-14.md) · 第 13 / 19 页

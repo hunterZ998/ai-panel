@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [上一页](podcasts.md) · 第 2 / 2 页
 
+- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
+  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
+  The a16z Show · 2026-11-04 19:00
+
 - [⚡ Behind Latent Space: A Rare Look Inside the Pod \| AIEi Shanghai](<https://www.youtube.com/watch?v=QmDLDy3ZSNE>)  
   Watch the full show on YouTube: https://www.youtube.com/watch?v=QmDLDy3ZSNE  
   Latent Space · 2026-11-04 18:32
@@ -61,10 +65,6 @@
 - [Why Agents Love Supabase](<https://latent.space/p/supabase>)  
   AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplesto…  
   Latent Space · 2026-10-29 04:00
-
-- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](<https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe>)  
-  Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His…  
-  The a16z Show · 2026-10-28 18:00
 
 - [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](<https://www.xiaoyuzhoufm.com/episode/6add84e197726cd467573cf1?utm_source=rss>)  
   ➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。 这期播客，我们聊的…  

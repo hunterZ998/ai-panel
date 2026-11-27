@@ -2,57 +2,9 @@
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 19 页
 
-- [MIT CSAIL 的 TangiMap 用 AI 智能体为实体控件重新映射功能](<https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124>)  
-  MIT CSAIL 联合开发的 TangiMap 借助 AI 智能体，把数字功能映射到实体旋钮、推子等控件上，让普通调音台可变身 Adobe Lightroom 修图控制器、混音台或 Blender 建模工具。智能体通过程序 API、MCP server 或视觉语言模型解读的截图获取上下文，再用大语言模型生成映射文件。该工具已在 ACM UIST 会议上展示，团队下一步希望用户拍照即可生成界面。  
-  MIT News（RSS） · 2026-11-25 03:30
-
-- [Baseten 支持 Hugging Face 只读 Trusted Publishers，部署私有模型无需共享访问令牌](<https://www.baseten.co/blog/deploy-private-hugging-face-models-without-sharing-your-access-token>)  
-  Baseten 与 Hugging Face 合作上线只读 Trusted Publishers，成为首家在部署时用短期令牌拉取私有模型权重的推理服务商。部署时 Baseten 通过 OIDC 签发身份令牌，Hugging Face 校验组织、团队与工作负载类型后发放一小时内过期的只读令牌，无法修改仓库。该能力与此前支持从 S3、GCS 拉取权重的 OIDC 机制并列。  
-  Baseten 工程博客（网页） · 2026-11-25 03:27
-
-- [Anthropic 宣布 MCP 月下载量超 7 亿次并扩展协议支持更自主的智能体](<https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/>)  
-  Anthropic 报告 MCP 发布两年后月 SDK 下载量超过 7 亿次，MCP connectors 超过 10,000 个。  
-  The Decoder：AI News（RSS） · 2026-11-25 03:23
-
-- [Pragmatic Engineer 征文挑战赛公布三个类别获奖文章，聚焦 AI 重塑软件工程实践](<https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge>)  
-  The Pragmatic Engineer 为纪念创刊五周年举办征文比赛，主题是 AI 编程能力提升后软件构建方式的变化，1 万美元大奖授予 Neil Kakkar 的《How software engineering changed: a tale of two eras》，六个类别得主各获奖金 2,500 美元。  
-  Pragmatic Engineer（RSS） · 2026-11-25 03:16
-
-- [Amazon Prime Air 无人机在密歇根州撞上光纤和车库，FAA 启动调查](<https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/>)  
-  11 月 20 日，一架 Amazon Prime Air MK30 无人机在密歇根州 Huntington Woods 送完洗发水后撞上光纤电缆、失去螺旋桨，卡在邻居家车库屋顶和电线之间，FAA 已启动调查，NTSB 也在收集信息。  
-  Ars Technica：AI（RSS） · 2026-11-25 02:47
-
-- [Hub](<https://www.producthunt.com/products/hub-20>)  
-  Run 100 Claude Code or Codex sessions like 5  
-  Product Hunt · English · 2026-11-25 02:34
-
-- [Anthropic shares fall below IPO price, a worrying sign for AI startups](<https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/>)  
-  Anthropic’s post-IPO slump could put pressure on AI startup valuations.  
-  TechCrunch · 2026-11-25 02:30
-
-- [David Fincher 新片 Cliff Booth 因疑似使用生成式 AI 遭观众质疑](<https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive>)  
-  David Fincher 执导、Brad Pitt 主演的 Netflix 电影《The Further Mis-Adventures of Cliff Booth》在 11 月 25 日首映前的试映后，被质疑大量使用生成式 AI。  
-  The Verge：AI（RSS） · 2026-11-25 02:15
-
-- [Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险](<https://www.wheresyoured.at/defective-accelerationism/>)  
-  Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。文章梳理了 NVIDIA 对 AI 行业的巨额资金支持、Anthropic 上市后表现及 OpenAI 的财务压力等证据，论证行业流动性风险并未消除。  
-  Ed Zitron 长文 / Where’s Your Ed At（RSS） · 2026-11-25 02:08
-
-- [UK warns AI-driven cyberattacks are exposing years of weak security](<https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/>)  
-  The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exp  
-  TechCrunch · 2026-11-25 02:02
-
-- [诺华 CEO：AI 只能把药物研发缩短四年，而非治愈所有疾病](<https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/>)  
-  诺华 CEO Vas Narasimhan 预计，未来十年 AI 可将药物平均研发周期从 12 年缩短至 8 年，临床开发成功率从 8% 提升至 12%，而非像 Anthropic CEO Dario Amodei 和 Demis Hassabis 所说那样在十年内治愈癌症等疾病。他认为人类生物学理解有限，动物与人体试验仍不可省略，仅进入人体试验前的早期阶段就要占去最多两年。  
-  The Decoder：AI News（RSS） · 2026-11-25 02:01
-
 - [OpenAI o1 联合创造者 Noam Brown 谈博弈论局限与推理模型突破，建议优秀学生辍学加入实验室](<https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/>)  
   OpenAI o1 联合创造者 Noam Brown 在红杉资本、Citadel Securities 和 OpenAI 主办的"No Limit"扑克机器人锦标赛上分享十余年游戏 AI 研究的教训。  
   The Decoder：AI News（RSS） · 2026-11-25 01:58
-
-- [Qube](<https://www.producthunt.com/products/qube-6>)  
-  An AI agent for anyone  
-  Product Hunt · English · 2026-11-25 01:55
 
 - [Amazon 用“冷热气体”模型求解仓库多智能体路径规划](<https://www.amazon.science/blog/lazy-gas-hot-gas-and-a-thousand-robots>)  
   Amazon Robotics 在 ICML 论文中把仓库机器人路径规划建模为气体粒子运动，用 Schrödinger bridge（热气体模型）快速逼近最优传输（冷气体模型）的解。其多边际最优传输（MMOT）方法在 150×150 网格、1,125 台机器人、T=30 的场景下以 478 秒求出最优轨迹，而非 TU 的 NP-hard 形式 12 小时常连一个可行解都找不到。  
@@ -121,10 +73,6 @@
   Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries…  
   Google AI · 2026-11-25 00:00
 
-- [Tessl 工程师复盘如何从读 diff 转向审查意图、决策与证据](<https://tessl.io/blog/review-the-intent-decisions-and-evidence-behind-an-ai-change>)  
-  Tessl 工程师复盘团队如何将 AI 代码评审从快速读 diff 转向审查意图、决策与证据。团队把一年约 11000 条 PR 评论提炼为 212 个候选再浓缩成 64 条规则，其中 19 条已转为 ast-grep 确定性检查，运行耗时低于 0.3 秒。新流程运转三个月后，合并变更量提升 4 倍，中位变更耗时约 3.5 小时，回滚减少 40%。  
-  Tessl：产品与工程博客 · 2026-11-25 00:00
-
 - [Artificial Analysis 发布 AA-Robotics-Sim v0.1，测试语言模型控制仿真人形机器人](<https://artificialanalysis.ai/articles/aa-robotics-sim>)  
   Artificial Analysis 推出 AA-Robotics-Sim v0.1，让前沿语言模型在编码 Agent 框架中控制仿真 Unitree G1 人形机器人（29 关节、三指手、头部相机），完成 10 项家庭与轻工业任务，每任务 5 次练习后在新场景评估 10 次。  
   Artificial Analysis 完整文章（网页） · 2026-11-25 00:00
@@ -137,6 +85,10 @@
   Every 完成 1750 万美元 A 轮融资，投后估值 1.1 亿美元，由 IA Ventures 的 Jesse Beyroutey 领投，Nicholas Thompson、Alex Rattray 和 Betaworks 参投。  
   Every：最新文章（网页） · 2026-11-25 00:00
 
+- [Tessl 工程师复盘如何从读 diff 转向审查意图、决策与证据](<https://tessl.io/blog/review-the-intent-decisions-and-evidence-behind-an-ai-change>)  
+  Tessl 工程师复盘团队如何将 AI 代码评审从快速读 diff 转向审查意图、决策与证据。团队把一年约 11000 条 PR 评论提炼为 212 个候选再浓缩成 64 条规则，其中 19 条已转为 ast-grep 确定性检查，运行耗时低于 0.3 秒。新流程运转三个月后，合并变更量提升 4 倍，中位变更耗时约 3.5 小时，回滚减少 40%。  
+  Tessl：产品与工程博客 · 2026-11-25 00:00
+
 - [Baseten 与 Harvey 发布后训练结果：美国开放权重模型在法律任务上超越闭源前沿模型](<https://www.baseten.co/blog/open-weight-models-beat-the-closed-frontier-on-legal-tasks-with-harvey>)  
   Baseten 与 Harvey 发布联合研究结果，对 4 个美国开放权重模型（Muse Spark Open、Inkling 2 Small、Nemotron 3.5 Super VL、Beam 1.0）做法律智能体任务后训练。  
   Baseten 工程博客（网页） · 2026-11-24 23:51
@@ -144,10 +96,6 @@
 - [Amazon 以 75 亿美元收购 Decart 技术与团队，力图缩小与 Nvidia 的芯片差距](<https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/>)  
   Amazon 以约 75 亿美元收购 AI 芯片优化初创公司 Decart 的技术和团队，计划通过其 Decart Optimization Stack（DOS）提升自研 Trainium 芯片性能。  
   TechCrunch：AI（RSS） · 2026-11-24 23:51
-
-- [MyClaw 3.0](<https://www.producthunt.com/products/myclaw-3-0>)  
-  Build an always-on AI team with shared memory  
-  Product Hunt · English · 2026-11-24 23:39
 
 - [Anthropic Falls Below IPO Price Amid Broader Tech Slump](<https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump>)  
   The Information · 2026-11-24 23:30
@@ -170,12 +118,64 @@
   Sakana AI 发布 300 亿参数大语言模型 Sakana Namazu Small，基于 NVIDIA Nemotron 3 Nano 预训练底座自行完成继续预训练和后训练，定位为思考模型。  
   Sakana AI：Blog（网页） · 2026-11-24 23:00
 
-- [n8n Production AI Playbook：AI Agent 的审计与追踪实践教程](<https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/>)  
-  n8n 发布 Production AI Playbook 系列的审计与追踪教程，讲解如何在 n8n Cloud 中为 AI Agent 工作流留存决策证据。教程通过 5 个可下载的练习覆盖保存的执行记录、自定义执行数据打标签、用 OpenTelemetry 和 Jaeger 追踪跨服务工作流、追踪 Agent 工具调用，以及人工审批的跨追踪关联。  
+- [n8n 生产级 AI Playbook：AI 智能体的审计与追踪实践](<https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/>)  
+  n8n 发布 Production AI Playbook 系列的审计与追踪教程，讲解如何为 AI 智能体工作流留下可回溯的决策记录。教程通过 5 个练习演示保存执行记录、用 custom data 给执行打标签、用 OpenTelemetry 和 Jaeger 追踪跨服务调用，并覆盖执行保留期限、版本历史和 Cloud Enterprise 的日志流式传输等生产最佳实践。  
   n8n Blog · 2026-11-24 22:30
 
 - [Anthropic 研究员 Levent Alpöge 坚持 AI 辅助黎曼假设证明有效，但承认发布过程多处失误](<https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/>)  
   Anthropic 研究员 Levent Alpöge 发文《Stupid things I did》，坚持其 AI 辅助的广义黎曼假设证明在数学上有效，但承认发布过程犯了多个错误。他表示关于工作长度的说法只是玩笑，未清理就直接公开的 Lean 代码虽通过形式化验证，却充满冗余中间步骤和不必要引理、难以阅读；他还指出编译成功本身并不能证明代码陈述的是正确定理且没有隐藏假设。  
   The Decoder：AI News（RSS） · 2026-11-24 22:28
+
+- [QA.tech MCP](<https://www.producthunt.com/products/qa-tech>)  
+  Verify every change from your IDE with QA agents  
+  Product Hunt · English · 2026-11-24 22:28
+
+- [OpenAI 与 Cisco 开源 Shirudo：让 AI 智能体用 eBPF 为 Linux 在线系统写防护](<https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/>)  
+  OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 AI 智能体编写签名的 eBPF 防护，在不重启的情况下拦截已知漏洞利用，为修补争取时间。  
+  MarkTechPost（RSS） · 2026-11-24 22:16
+
+- [Quest 推出个人 AI 智能体 Q：在 iMessage 中记住你的目标并协调其他 AI 助手](<https://press.airstreet.com/p/introducing-quest-the-ai-that-knows>)  
+  Quest 发布个人 AI 智能体 Q，用户在 iMessage 中与它对话，它通过连接的应用构建关于兴趣、关系和目标的记忆，并可在 Quest iPhone 应用中查看和修正。Q 已能协调 Muse 和 Instinct 等其他助手，代用户转述任务、读取回复并跟进。Quest 称其 11 月 5 日的发布视频在 X 上获得超 150 万次观看。  
+  Air Street Press（RSS） · 2026-11-24 22:03
+
+- [Axos 报道：数十名内部人士称 OpenAI 和 Anthropic 未发布模型的能力已超出安全措施](<https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/>)  
+  Axos 援引二十多位内部人士的报道，OpenAI 和 Anthropic 未发布的前沿模型能力增长过快，许多员工认为其已强大到难以安全发布，公司内部正在讨论是否暂停发布。  
+  The Decoder：AI News（RSS） · 2026-11-24 22:02
+
+- [LiberAI 用 Kimi K3.1 Pro 加速机器人研究，单项仿真成功率一周从 45% 提升至 95%](<https://mp.weixin.qq.com/s/5OAo9TJogLynyv61aUanMA>)  
+  LiberAI 基于 Kimi K3.1 Pro 的 Researcher Agent 搭建 Auto Research Loop，在一项基于 Liber-0 动作模型的线上仿真任务中，一周内将成功率从 45% 提升至 95%。  
+  公众号：月之暗面（Kimi） · 2026-11-24 21:56
+
+- [Google 申请个性化 AI 电视频道专利，用户将成视频主角](<https://www.404media.co/googles-customized-ai-tv-channel-starring-you/>)  
+  404 Media 报道 Google 申请了一项名为“为用户打造定制视频体验频道”的专利，设想基于人口统计信息、观看历史等用户数据生成 24/7 的 AI 频道“我的频道”，让用户担任全部视频的主角，并通过广告服务器在内容中插入定制广告。  
+  404 Media（RSS） · 2026-11-24 21:42
+
+- [OpenAI 窃听案细节曝光：沙特工程师用 Codex 改装设备偷录会议](<https://www.ithome.com/1/031/867.htm>)  
+  据《商业内幕》11 月 24 日报道，美国检方披露，沙特籍 OpenAI 工程师阿尔福赞利用 Codex 改装录音设备偷录公司会议，并让其加入语音检测功能整理 Dropbox 中的秘密录音。他被控截取口头通信，所有指控均不认罪；辩护律师称检方未提出间谍或窃取商业秘密的证据，申请以 100 万美元保释，检方则称其一旦获释会试图逃离美国，调查仍在进行。  
+  IT之家·人工智能 · 2026-11-24 21:11
+
+- [Google DeepMind 为 Google Antigravity 推出 Mass Spec Skills，用 Gemini 推理识别分子结构](<https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/>)  
+  Google DeepMind 发布 Mass Spec Skills，让 Google Antigravity 中的 Gemini 调用质谱工具与公共化学数据库，从串联质谱推断分子结构。该技能可端到端处理未注释谱图，示例中确定分子式 C20H21ClN6O 并在 PubChem 845 个异构体中排序候选。传统谱库检索平均仅能注释约 5% 的实测谱图，人类样本约 10%。  
+  Google DeepMind：Blog（RSS） · 2026-11-24 21:07
+
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>)  
+  GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding ac…  
+  OpenAI · 2026-11-24 21:00
+
+- [达姆施塔特40位研究者呼吁计算机科学转型为「计算机与AI科学」](<https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/>)  
+  达姆施塔特工业大学40位计算机科学研究者在联合立场文件中呼吁，将学科重塑为「计算机与AI科学」，认为AI正成为构建未来计算系统的核心技术。论文提出三大转变：软件开发门槛降低并从手写代码转向验证和指导AI生成系统、AI大幅加速研究进程、以及「生成式计算」新范式挑战安全、隐私和正确性的验证认证方式。  
+  The Decoder：AI News（RSS） · 2026-11-24 20:30
+
+- [Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day](<https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/>)  
+  Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。  
+  Ars Technica：AI（RSS） · 2026-11-24 20:30
+
+- [我国牵头推动全球首个生成式 AI 治理国际标准提案](<https://www.ithome.com/1/031/838.htm>)  
+  市场监管总局在新闻发布会上介绍，我国已联合多国编制《信息技术 人工智能 生成式人工智能风险应对指南》国际标准，是全球首个针对生成式 AI 治理的国际标准提案，应对深度伪造、模型投毒等风险。目前我国牵头 29 项基础共性国际标准、统筹 49 项行业应用国际标准研制，在 ISO/IEC 人工智能领域注册专家近 400 人，预测性维护系列标准第 1 部分已正式发布。  
+  IT之家·人工智能 · 2026-11-24 20:26
+
+- [Claude Code 团队实践指南：如何用 Claude Ship 处理开 PR 后的跟进工作](<https://claude.dev/blog/the-work-after-you-open-a-pr/>)  
+  Claude Code 团队的 Addy Osmani 撰文介绍如何在新近随 Claude Ship 上线的功能基础上，搭建开 PR 后的智能体跟进流程。  
+  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-24 20:00
 
 [返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 19 页

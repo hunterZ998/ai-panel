@@ -2,62 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页
 
-- [哥伦比亚大学与 CertiK 推出 TensorLean：在 PTX 层面对 GPU kernel 做形式化验证](<https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/>)  
-  哥伦比亚大学与 CertiK 提出 TensorLean，一个基于 Lean、在 PTX 层面证明 GPU kernel 与张量级数学规格一致的验证框架。  
-  MarkTechPost（RSS） · 2026-11-22 09:51
-
-- [群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型](<https://www.ithome.com/1/030/524.htm>)  
-  群联在 SC26 大会展示两款面向 AI 场景的企业级 SSD，其中一款内置 NPU 与 64GB 内存，带宽 130GB/s，可直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等框架。  
-  IT之家·人工智能 · 2026-11-22 08:04
-
-- [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)  
-  How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evalua…  
-  OpenAI · 2026-11-22 08:00
-
-- [Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator](<https://tomtunguz.com/what-kind-of-factory-will-you-build/>)  
-  Tomasz Tunguz 结合 Notion 与 LangChain 同日发布的两篇文章，提出 AI 时代的软件与知识工厂共享同一套四步循环：context、agent、trace、curator，后两步将执行轨迹变成数据并反哺规格，使系统每周持续改进。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-22 08:00
-
-- [OpenRouter 因推理提供商数据处理事件下架三家提供商并移除 125 个 ZDR 端点](<https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/>)  
-  OpenRouter 针对安全研究人员报告的部分推理提供商数据泄露或数据政策未被执行问题发布公告，称未发现 OpenRouter 本身被入侵。  
-  OpenRouter：Announcements（RSS） · 2026-11-22 08:00
-
-- [Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 ASGI 和 WSGI Python 应用](<https://simonwillison.net/2026/Nov/21/muru/>)  
-  mod\_wsgi 作者 Graham Dumpleton 发布 AI 辅助开发的 Rust 服务器 Muru，目标是为开发和生产的 ASGI 与 WSGI Python 应用提供最佳运行工具。  
-  Simon Willison 博客 · 2026-11-22 07:56
-
-- [Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息](<https://www.ithome.com/1/030/517.htm>)  
-  Signal 推出 iOS / Android 更新，默认阻止应用内截图和录屏，以防止 Siri AI、Gemini 等 AI 智能体在用户不知情时读取私人消息。  
-  IT之家·人工智能 · 2026-11-22 07:28
-
-- [AI 的 Jevons 悖论：更便宜的 token 无法支撑巨额资本开支](<https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/>)  
-  作者检验超大规模厂商用 Jevons 悖论为巨额 capex 辩护的说法，指出 token 销量增长与价格下跌速度相当，短期价格弹性仅略高于 1，收入未必随用量增长。  
-  Hacker News：AI 热帖 · 2026-11-22 07:00
-
-- [Signal 限制移动端截图，应对操作系统级 AI 监控风险](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>)  
-  Signal 宣布在 Android 和 iOS 上默认限制应用内截图，此前 Windows 版已默认阻止截图。总裁 Meredith Whittaker 称集成 agentic AI 的操作系统会扫描屏幕数据，使敏感信息被 capture、存储并可被系统级 AI 智能体访问，损害 Signal 独立保障隐私的能力。  
-  TechCrunch：AI（RSS） · 2026-11-22 05:37
-
-- [TechCrunch 播客解读 Nvidia 财报亮眼与请愿前 CEO 黄仁勋回归并存的两种叙事](<https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/>)  
-  TechCrunch Equity 播客讨论本周 Nvidia 的两幅反差图景：财报收入大涨、管理层称无需前 CEO 黄仁勋回归，同时 Elon Musk 等人发起请愿推动黄仁勋回归，黄本人称已准备好回归。  
-  TechCrunch：AI（RSS） · 2026-11-22 05:07
-
-- [联合国未能就监管“杀人机器人”达成规则共识](<https://www.theverge.com/tech/1039554/un-regulations-killer-robots>)  
-  联合国日内瓦会议未能就自主武器监管规则达成共识，各国仅同意“开始讨论选项”。红十字国际委员会曾呼吁一年内制定有法律约束力的规则，并获联合国秘书长和教皇支持，但最终妥协为各国两年内提出监管提案，且部分规则可保留为“可选”。据 NPR 报道，俄罗斯、以色列和美国是主要阻碍方，美国曾提议用五年时间讨论非约束性指南。  
-  The Verge：AI（RSS） · 2026-11-22 04:03
-
-- [TechCrunch 盘点可直接发短信使用的 AI 智能体：从 Instinct 到 Poke 等 20 余款](<https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/>)  
-  TechCrunch 汇总了目前可通过短信、iMessage、WhatsApp 等渠道直接使用的 AI 智能体，它们可记上下文、连接已有应用并代用户完成订餐、日历、购物等任务。  
-  TechCrunch：AI（RSS） · 2026-11-22 01:00
-
-- [LangChain 讲解如何为 AI 智能体搭建知识工厂](<https://www.langchain.com/blog/knowledge-factory>)  
-  LangChain 分享其内部 GTM、内容工作室智能体和 LangSmith Engine 背后的知识工厂实践，认为让 AI 在企业落地缺的不是更好模型而是更好的知识。  
-  LangChain：Blog（RSS） · 2026-11-22 00:45
-
-- [Nvidia 研究者称超大 AI 上下文窗口是死路](<https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/>)  
-  Nvidia 研究团队认为，模型上下文窗口一味扩大往往是过度且昂贵的做法，定期摘要加定向检索在多项测试中效果相当。GPT-4 于 2023 年 3 月发布时上下文为 8,192 tokens，如今 GPT 5.6 Sol 可处理约一百万 tokens，约为前者 120 倍。  
-  The Decoder：AI News（RSS） · 2026-11-22 00:23
-
 - [硅谷 AI 末世执念催生类教团组织 Maple 的调查报道](<https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/>)  
   The Decoder 基于 Sam Kriss 的 New Yorker 报道介绍佛蒙特州修道院组织 Maple（Monastic Academy），该组织约 24 名常住成员，年收入最高 100 万美元，目标是成为 AI 行业的精神权威并训练由其领袖 Soryu Forall 思维建模的 AI，前成员指控其录音监控与心理操纵，领导层几乎否认所有指控。  
   The Decoder：AI News（RSS） · 2026-11-22 00:04
@@ -85,10 +29,6 @@
 - [20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](<https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn>)  
   Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies pr…  
   20VC · 2026-11-21 22:50
-
-- [VibeCode.surf](<https://www.producthunt.com/products/vibecode-surf>)  
-  AI code editor where agents build, run and test your app  
-  Product Hunt · English · 2026-11-21 20:32
 
 - [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
   What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
@@ -125,18 +65,6 @@
 - [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
   a16z · 2026-11-20 23:03
-
-- [Anthropic is public, now comes the hard part](<https://www.axios.com/2026/11/20/anthropic-public-shareholders>)  
-  Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its…  
-  Axios · 2026-11-20 20:10
-
-- [Phoenix mayor walks fine line on AI boom](<https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom>)  
-  Phoenix Mayor Kate Gallego wants more tech investment in her city — but on her terms, as data centers strain resource…  
-  Axios · 2026-11-20 18:20
-
-- [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)  
-  OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement…  
-  OpenAI · 2026-11-20 18:00
 
 - [Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>)  
   Google Research 回顾 Duplex 十年架构演进，并介绍本周在 Gemini App Tasks 中上线的自动致电商家功能。  
@@ -181,5 +109,77 @@
 - [当 AI 研发下一代 AI，人类研究员还剩下什么？\|S10E36](<https://guiguzaozhidao.fireside.fm/20240451>)  
   如果有一天，AI 不仅能够回答问题、编写代码，还能够参与研发下一代 AI，甚至不断改进自己，人工智能的发展速度会发生怎样的变化？最近半年, RSI（Recursive Self-Improvement，递归自进化）的研究方向受到越来越…  
   科技早知道 · 2026-11-18 20:00
+
+- [The Missing Layer for Personal AI \| First Person Labs’ Ken Liu](<https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00>)  
+  AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, prioriti…  
+  The a16z Show · 2026-11-18 19:00
+
+- [Can AI Learn to Improve Itself? \| Recursive Self-Improvement](<https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ>)  
+  For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers…  
+  The a16z Show · 2026-11-18 01:44
+
+- [Investing in First Person Labs](<https://www.a16z.news/p/investing-in-first-person-labs>)  
+  For personal agents to become useful in everyday life, they need a total understanding of the person they’re working…  
+  a16z · 2026-11-17 23:10
+
+- [Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs](<https://latent.space/p/bfl>)  
+  What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on ima…  
+  Latent Space · 2026-11-17 05:27
+
+- [The Dream of the 1990s Is Alive Again in Cybersecurity](<https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again>)  
+  Taking the experiences from the first prolific zero-day era and applying it to today, combined with recent conversati…  
+  a16z · 2026-11-16 23:02
+
+- [2026: The State of AI in Healthcare](<https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/>)  
+  Healthcare AI Moves from Back Office to Bench and Bedside In 2026, healthcare AI accelerated in life sciences and mov…  
+  Menlo Ventures · 2026-11-16 22:30
+
+- [Alex Imas &amp; Tyler Cowen \| AI Is Moving Fast. Why Isn’t the Economy?](<https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY>)  
+  AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg si…  
+  The a16z Show · 2026-11-16 19:30
+
+- [20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](<https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida>)  
+  Diogo Almeida is the Co-Founder and CEO of TypeSafe AI, the company behind Jev. Jev is an AI model that lets software…  
+  20VC · 2026-11-16 15:07
+
+- [188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](<https://podcast.latepost.com/188>)  
+  「世间万物都与性有关，除了性本身。性关乎权力。」 2026 年 11 月 12 日，英伟达宣布，创始人兼 CEO 黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。CFO Colette Kress 被任命为临时 CEO，董事会则启…  
+  晚点聊 · 2026-11-15 12:15
+
+- [20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](<https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin>)  
+  Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI mode…  
+  20VC · 2026-11-14 15:07
+
+- [Big Pharma Can Rival Big Software](<https://www.a16z.news/p/big-pharma-can-rival-big-software>)  
+  AI Will Make Pharma Even Bigger  
+  a16z · 2026-11-13 23:03
+
+- [Every Day Is Zero Day \| Wiz CTO Ami Luttwak](<https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ>)  
+  AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them f…  
+  The a16z Show · 2026-11-13 19:00
+
+- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](<https://podcast.latepost.com/187>)  
+  “清华、世界模型，00 后小天才”，2026 年上半年最火的投资主题。 LiberAI 创始人刘松铭完全符合这个组合。但是和他见面后，很多地方又出乎意料： 他们确实刚刚发布了世界模型 Liber-0。但这也是一家起步于 2025 年年…  
+  晚点聊 · 2026-11-13 09:15
+
+- [Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](<https://www.a16z.news/p/super-intelligence-era-critical-infrastructure>)  
+  A16Z’s Anne Neuberger, General Partner and Head of Global Affairs, writes today in the Wall Street Journal: AI is shr…  
+  a16z · 2026-11-13 05:21
+
+- [Nvidia and the World Without Jensen](<https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen>)  
+  Our Accelerator Model tracks every AI chip’s production and destination, and our data shows more than 1.5GW of Nvidia…  
+  SemiAnalysis · 2026-11-13 02:06
+
+- [Gaming’s Next Origin Stories](<https://www.a16z.news/p/gamings-next-origin-stories>)  
+  What AI makes possible for indie developers, toolmakers, and studios  
+  a16z · 2026-11-12 23:03
+
+- [The Next Era of Games: Mods, Agents, and Infinite Worlds](<https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi>)  
+  AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In…  
+  The a16z Show · 2026-11-12 19:00
+
+- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
+  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
+  20VC · 2026-11-12 15:07
 
 [返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页

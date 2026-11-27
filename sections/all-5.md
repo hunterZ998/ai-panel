@@ -2,38 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页
 
-- [Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露](<https://calif.io/research/tortilla-with-onion>)  
-  Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。  
-  Calif：Research（AI 漏洞研究） · 2026-11-26 08:00
-
-- [OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机](<https://calif.io/research/oempocalypse-part-2>)  
-  Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。  
-  Calif：Research（AI 漏洞研究） · 2026-11-26 08:00
-
-- [卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义](<https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg>)  
-  公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。他用GPT-6.2完整实测并展示了手册内容，包括意义地图、思维误区重构、罗盘价值观和可执行的意义时刻设计，全程约20到30分钟。  
-  公众号：数字生命卡兹克 · 2026-11-26 07:56
-
-- [OpenAI 开测私有推理，目标打造“零窥探 AI”](<https://www.ithome.com/1/032/543.htm>)  
-  OpenAI 已邀请部分客户测试“私有推理”（Private Inference），该服务隶属 OpenAI Private Intelligence 系列，面向企业和机构提升工作场景的数据隐私保护。声明提到“零数据留存”（ZDR）与“私有安全处理”配合可完成自动化安全审查，无需公司人员接触底层内容。测试目前仅面向少数客户，技术实现方式、客户名单、上线时间和收费模式均未披露。  
-  IT之家·人工智能 · 2026-11-26 07:45
-
-- [美国纽约州签署法案暂停 AI 聊天玩具销售 5 年，违规每日最高罚 15,000 美元](<https://www.ithome.com/1/032/540.htm>)  
-  纽约州州长霍楚尔于当地时间 11 月 24 日签署法案，暂停具备联网与 AI 对话能力的玩具在该州的制造、分销和销售，期限为 5 年。法案针对内置互联网接入、集成 AI 能力的玩具，违规制造商处罚上限为每日 15,000 美元；支持者列举的案例包括 AI 聊天玩具输出不当或性相关对话，以及"如何找到刀具"等危险建议。  
-  IT之家·人工智能 · 2026-11-26 07:07
-
-- [谷歌 DeepMind 推出 Mass Spec Skills，接入 Gemini 后分子识别准确率从不足 4% 升至约 97%](<https://www.ithome.com/1/032/535.htm>)  
-  谷歌基于社区开源工具打造 Mass Spec Skills，面向 Google Antigravity 平台开放，可辅助科研人员解析串联质谱并生成可审计证据链。  
-  IT之家·人工智能 · 2026-11-26 07:07
-
-- [S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks](<https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/>)  
-  The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.  
-  TechCrunch · 2026-11-26 06:44
-
-- [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/the_revolution_vs_the_renaissance_thariq_shihipar_openai>)  
-  AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel righ…  
-  Latent Space · 2026-11-26 06:28
-
 - [OpenAI 的 Thariq Shihipar 谈编程智能体时代的“革命与文艺复兴”](<https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/>)  
   在 AI Engineer CODE 演讲中，Thariq Shihipar 演示了用编程智能体批量生成软件与打磨单件作品可以并存：他在 /human 文件夹里改一块石头的尺寸后立刻试投掷，也做过一个可切换模式的 Mac Dock。他谈到自己因编程智能体改变了哪些看法、决策模型如何从设计师定义的动作中选择，以及谁来决定哪些实验值得投入算力。他在录制后宣布加入 OpenAI。  
   Latent Space（RSS） · 2026-11-26 06:28
@@ -53,10 +21,6 @@
 - [WhipDesk](<https://www.producthunt.com/products/whipdesk>)  
   Control AI coding agents from your phone  
   Product Hunt · English · 2026-11-26 05:44
-
-- [MeetFolks](<https://www.producthunt.com/products/meetfolks>)  
-  AI Notetaker for In-Person Meetings  
-  Product Hunt · English · 2026-11-26 05:33
 
 - [报道称美国芯片限制和反蒸馏措施已拖慢中国 AI 实验室](<https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/>)  
   The Information 报道称，自 9 月以来限制中国企业远程使用境外 Nvidia 芯片以及 OpenAI 和 Anthropic 的反蒸馏措施，已导致 DeepSeek、月之暗面、阿里巴巴等中国 AI 开发商多个项目延迟。  
@@ -94,9 +58,6 @@
   The long-term memory layer for AI agents  
   Product Hunt · English · 2026-11-26 02:28
 
-- [ElevenLabs in Early Talks for Funding at $33 Billion Value](<https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value>)  
-  Bloomberg · 2026-11-26 02:24
-
 - [OpenAI 试点 Private Inference，企业可在其最强模型上运行不外泄数据的查询](<https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/>)  
   OpenAI 正面向首批企业客户试点 Private Inference，企业可在其最强模型上运行查询而 OpenAI 无法访问数据。查询在可独立验证安全性的隔离硬件上处理，Sam Altman 还提到 Private Safety Processing，可在不存储客户数据的前提下扫描滥用内容，被标记内容加密后存放在客户自己的云中。  
   The Decoder：AI News（RSS） · 2026-11-26 02:22
@@ -131,10 +92,6 @@
 - [DeskFleet](<https://www.producthunt.com/products/deskfleet>)  
   Run coding agents together across your team’s machines  
   Product Hunt · English · 2026-11-26 01:17
-
-- [Antipode](<https://www.producthunt.com/products/antipode>)  
-  Share your unused Claude Code limits without breaking ToS  
-  Product Hunt · English · 2026-11-26 00:53
 
 - [Baseten 如何为推理工作负载实现最小权限访问](<https://www.baseten.co/blog/least-privilege-access-for-inference-workloads>)  
   Baseten 推出面向推理工作负载的最小权限访问控制，用 OIDC 短期令牌替代长期云密钥，并通过 BDN 只读卷挂载权重，使服务副本无需访问原始存储桶。运行时 OIDC 让容器按需获取临时云凭证拉取 LoRA 适配器，出站限制则把连接限定在模型实际调用的主机。  
@@ -179,5 +136,46 @@
 - [Ottante](<https://www.producthunt.com/products/ottante>)  
   Checks the work your AI agents did, right on your Mac  
   Product Hunt · English · 2026-11-25 23:15
+
+- [AI Safety Advocates Sour on Anthropic](<https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic>)  
+  The Information · 2026-11-25 23:00
+
+- [Sakana AI 更新 Sakana Marlin，新增 Twilight 2.0 与 Midnight 2.0 两个研究模式并重构 PowerPoint 幻灯片输出](<https://sakana.ai/marlin-update-2/>)  
+  Sakana AI 更新其战略研究智能体 Sakana Marlin，新增 Twilight 2.0 和 Midnight 2.0 两个模式，原版本以 Sunlight 模式继续提供。  
+  Sakana AI：Blog（网页） · 2026-11-25 23:00
+
+- [GitHub Copilot 教程：如何用证据优先方法选择应用现代化的下一个安全步骤](<https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/>)  
+  GitHub 博客作者 Sam Quakenbush 介绍一套证据优先的应用现代化方法：先盘点清单、记录不确定性，再按保留、升级、替换、包装、重写的顺序选择破坏性最小的方案，并用可行性检查决定是先捕获行为再升级，还是先构建小的现代化切片。  
+  GitHub Blog · 2026-11-25 23:00
+
+- [消息称亚马逊与 Meta 洽谈合作，或对 Meta 的 Muse 购物智能体开放商城](<https://www.ithome.com/1/032/515.htm>)  
+  据《财富》援引知情人士报道，亚马逊与 Meta 正洽谈让 Meta 旗下 AI 购物智能体 Muse 接入亚马逊电商平台，与两个月前屏蔽 Muse 下单形成反差。目前谈判卡在商品搜索结果展示和广告安排两个议题，亚马逊顾虑广告收入受损及第三方智能体削弱其用户关系，协议需两家公司 CEO 批准才能落地。  
+  IT之家·人工智能 · 2026-11-25 22:45
+
+- [Wiz 拆解智能体攻击框架 ARTEX 与 Cairn 的 Intent ID 泄漏机制](<https://www.wiz.io/blog/agentic-offensive-frameworks-intent-ids-artex-cairn>)  
+  Wiz Research 发布分析，解释智能体攻击框架（agentic offensive frameworks）的 Intent ID 机制：框架将攻击拆分为带递增数字 ID 的 intent，模型在创建文件、注册账号、GitHub workflow、User-Agent 等操作时会把 ID 泄漏到目标侧日志。  
+  Wiz：Research（安全研究） · 2026-11-25 22:27
+
+- [Anthropic’s Claude Output Can Be Installed as Software](<https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-25 22:26
+
+- [Amazon 据报与 Meta 谈判，或解除对 Muse AI 购物智能体的屏蔽](<https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions>)  
+  据 Fortune 报道，Amazon 正与 Meta 就让 Muse AI 智能体在其电商平台上购物进行谈判，可能解除目前对 Muse 的屏蔽。谈判焦点包括 Muse 推荐的产品类型，以及对其广告收入的影响，Amazon 担心允许 Muse 进入会因真人用户减少看到广告而损失收入，还担心搜索结果质量和客户关系。  
+  The Verge：AI（RSS） · 2026-11-25 22:12
+
+- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)  
+  Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.  
+  TechCrunch · 2026-11-25 22:10
+
+- [Sierra 谈医疗 AI 智能体：HLTH 2026 的四点经验](<https://sierra.ai/blog/ai-agents-healthcare-hlth-2026>)  
+  Sierra 在 HLTH 2026 分享了规模化运行医疗 AI 智能体的四点经验。Blue Cross Blue Shield Association 用 53 天上线联邦雇员项目智能体，首日接听 400 通电话，五个月解决超 105,000 通来电，满意度 4.5/5。Sierra 还推出面向个人智能体的开放标准 Poppy，已有超 100 家设计伙伴，包括 Cigna。  
+  Sierra：Blog（RSS） · 2026-11-25 22:08
+
+- [Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens](<https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens>)  
+  The Information · 2026-11-25 22:00
+
+- [Monton](<https://www.producthunt.com/products/monton>)  
+  AI agents that do your agency's busywork  
+  Product Hunt · English · 2026-11-25 21:32
 
 [返回面板](../README.md) · [上一页](all-4.md) · [下一页](all-6.md) · 第 5 / 19 页

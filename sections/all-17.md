@@ -2,34 +2,13 @@
 
 [返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 19 页
 
-- [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
-  量子位 · 2026-11-09 11:05
+- [马斯克曝软银燃气轮机订单违约](<https://www.pedaily.cn/first/190879.shtml>)  
+  当AI基建浪潮本周深陷“中期选举焦虑”之际，一则来自马斯克的惊人指控，在周五又将孙正义与软银集团推向了风口浪尖。美东时间周五，特斯拉及SpaceX首席执行官马斯克在社交平台X上抛出重磅言论：“软银正在违约其燃气轮机订单。” 马斯克当时…  
+  投资界 · 2026-11-09 08:08
 
-- [刚刚，马斯克评论黄仁勋出轨事件](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115550&idx=1&sn=c416c5ae77963842e1e914f466907965>)  
-  APPSO · 2026-11-09 10:46
-
-- [超1.3万人共赴出海之约：GTC2026 全球流量大会（上海）圆满收官](<https://36kr.com/p/4061893184754565?f=rss>)  
-  11月5日，为期两天的GTC2026 全球流量大会（上海）在上海世博��览馆H3馆圆满落下帷幕。 作为本年度跨境出海领域的重磅盛会，本届大会交出了一份亮眼的成绩单： 两日入场总人数突破13000人，总人次超25000。 在7500平米…  
-  36氪 · 2026-11-09 10:12
-
-- [四足机器人，又翻过了一座大山](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748609&idx=1&sn=5db19a5c4ec6cfd586c49a55b1da3ef4>)  
-  AI科技评论 · 2026-11-09 09:58
-
-- [OpenAI破译数论百年悬案，揭开P≠NP重大线索！千禧年神题逼近了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741377&idx=2&sn=01c64561413e9f77452a03418e94b34e>)  
-  新智元 · 2026-11-09 09:57
-
-- [OpenAI、Anthropic接连出手！中国黑马把实验室变成AI「进化训练场」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741377&idx=1&sn=df10cbb86d7fd7e8916d5d862a1ab925>)  
-  新智元 · 2026-11-09 09:57
-
-- [联友科技高亮：我们还在探讨设置墨西哥、泰国据点\| 最前线](<https://36kr.com/p/4061852643775360?f=rss>)  
-  “车企出海，正面临海外制造与供应链协同难、本地营销获客效率低、售后服务响应慢、财务与HR合规流程繁琐等痛点。”联友科技海外事业BU总监付司纬这样总结车企出海所面临的难题。 针对这些痛点，联友科技推出AI原生的汽车出海全链路数智化解决方…  
-  36氪 · 2026-11-09 09:49
-
-- [黄仁勋承认「婚外情」英伟达启动调查；ChatGPT 陷封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈AI公司护城河：在产品层而不是模型层](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116214&idx=1&sn=44f51a7368dc153eb96a6f011ebaf38b>)  
-  极客公园 · 2026-11-09 08:57
-
-- [量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940494&idx=2&sn=9db07334ac7280256ec75aacf999ddd4>)  
-  量子位 · 2026-11-09 08:18
+- [曝ChatGPT突现封号风波，200 美元 Pro 用户也遭殃](<https://www.pedaily.cn/first/190878.shtml>)  
+  据凤凰网科技消息，近期多名 ChatGPT 用户反映账号无预警被封，含 200 美元 / 月的 Pro 订阅用户，部分用户长期积累的聊天记录与工作资料无法访问。ChatGPT 官方尚未就此次集中封号事件给出统一解释，也未披露具体受影响…  
+  投资界 · 2026-11-09 08:06
 
 - [英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全错](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115531&idx=1&sn=087292b88852973974d8ee0b78096e24>)  
   APPSO · 2026-11-09 07:59
@@ -158,5 +137,32 @@
 - [The Iron\(wood\) Throne: Google's TPU Stakes Its Claim on Inference](<https://newsletter.semianalysis.com/p/tpu-strikes-the-king>)  
   Viable Alternative of CUDA Moat, NVIDIA scared and working nights &amp; weekends, Jensen’s Counter Submission, Kimi K3, M…  
   SemiAnalysis · 2026-11-06 03:03
+
+- [The Exploit Was the Bottleneck](<https://www.a16z.news/p/the-exploit-was-the-bottleneck>)  
+  What 23 Years of Data Say About AI and the Patch Gap  
+  a16z · 2026-11-05 23:01
+
+- [The New CFO: How AI Is Rewriting the Finance Function \| Figma CFO Praveer Melwani](<https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym>)  
+  AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Fi…  
+  The a16z Show · 2026-11-05 19:00
+
+- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
+  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
+  20VC · 2026-11-05 15:07
+
+- [深度丨当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901298&idx=1&sn=b78adf9c7c8e5497d5b7af7e92a488e6>)  
+  Z Finance · 2026-11-05 13:05
+
+- [State of the Themes](<https://www.citriniresearch.com/p/state-of-the-themes-556>)  
+  We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare… …and…  
+  Citrini Research · 2026-11-05 04:28
+
+- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
+  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
+  The a16z Show · 2026-11-04 19:00
+
+- [⚡ Behind Latent Space: A Rare Look Inside the Pod \| AIEi Shanghai](<https://www.youtube.com/watch?v=QmDLDy3ZSNE>)  
+  Watch the full show on YouTube: https://www.youtube.com/watch?v=QmDLDy3ZSNE  
+  Latent Space · 2026-11-04 18:32
 
 [返回面板](../README.md) · [上一页](all-16.md) · [下一页](all-18.md) · 第 17 / 19 页

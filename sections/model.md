@@ -38,13 +38,46 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 193 条
+## 相关资讯 · 189 条
 
-- [国产算力芯片有望成模型推理底座，物理AI迈向动作执行层或加速商业化](<https://www.163.com/dy/article/LCO9S8EO0550WHYR.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 12:51
+- [“打不过，”马斯克公开认输AI模型之争，向员工承认“落后于对手”，警告浪费GPU者将被开除](<https://36kr.com/p/4087944117123713?f=rss>)  
+  “因为打不过，所以卖算力。”这不是外界的嘲讽，而是马斯克（Elon Musk）亲自给AI部门员工群起的名字。 据美国媒体报道，马斯克近期已经在SpaceX内部向员工摊牌：公司自家的AI模型开发落后于竞争对手，与其拿GPU训练Grok，不如直  
+  36氪 · 2026-11-27 20:31
 
-- [港股“大模型双雄”、中芯国际、华虹宏力、兆易创新、天数智芯，集体大涨](<https://www.163.com/dy/article/LCO92DB60519DDQ2.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 12:37
+- [AI算力基础设施盈利分化加剧，主体与收入性质决定谁能先盈利](<https://36kr.com/p/4087846166821249?f=rss>)  
+  同样一座智算中心，由地方国资平台出资建设，与由云厂商联合芯片厂共建运营，从立项第一天起就在两本不同的账上： 前者的钱来自财政资金与固定资产投资，收入靠机架出租、政府购买与补贴政策；后者的钱来自经营性现金流，收入跟着自有业务的调用量走，按用量  
+  36氪 · 2026-11-27 19:15
+
+- [字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视](<https://www.ithome.com/1/033/718.htm>)  
+  IT之家 11 月 27 日消息，字节火山引擎今日宣布，目前， 豆包大模型已服务八成国内头部电视厂商， 创维、长虹、海信、TCL 等主流品牌，都推出了搭载豆包大模型的量产电视。 围绕豆包大模型版电视，火山引擎提供模型与接入支持，厂商完…  
+  IT之家 · 2026-11-27 18:36
+
+- [AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架](<https://36kr.com/p/4087817299573129?f=rss>)  
+  AI正在从科研助手走向基础科学研究的深水区。 一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。 11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Cha  
+  36氪 · 2026-11-27 18:28
+
+- [都说要给AI设限，OpenAI和Anthropic限的却不是一回事](<https://36kr.com/p/4087817655138690?f=rss>)  
+  11月22日，OpenAI首席科学家Jakub Pachocki发文，首次公布自家模型的预训练进度数据，并提议各家实验室约定一个共同上限。三天后，Anthropic CEO Dario Amodei在X上发长文，提出需要限制的是AI自主研发  
+  36氪 · 2026-11-27 18:24
+
+- [已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族](<https://www.ithome.com/1/033/649.htm>)  
+  IT之家 11 月 27 日消息，腾讯微信视觉团队开源 WeMM-Ecom —— 兼顾前沿电商理解与领先通用能力的多模态基础模型家族，涵盖 0.8B、2B、4B、9B 四款稠密模型和 35B-A3B 混合专家模型。 全系列模型原生支持…  
+  IT之家 · 2026-11-27 18:05
+
+- [曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存](<https://www.ithome.com/1/033/624.htm>)  
+  IT之家 11 月 27 日消息，韩媒 Economy Tribune 当地时间今日爆料称， Google（谷歌）计划为其第 10 代 TPU 芯片配备 512GB 的定制 HBM5 内存 。 谷歌 TPU 是当前最主要的 AI AS…  
+  IT之家 · 2026-11-27 17:54
+
+- [Lute获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708848>)  
+  Lute是一家触觉物理AI科技研发商，自研融合视觉与触觉的机器人基础模型 Lute-0，弥补纯视觉方案无法感知握力、滑移、材质的缺陷，面向仓储、零售、制造的灵巧抓取场景，模型可对接第三方机器人硬件。近日，Lute获得2000万美元种子…  
+  IT桔子 · 2026-11-27 16:36
+
+- [千问大模型辟谣Qwen后训练负责人离职](<https://www.163.com/tech/article/LCOJU5OR00098IEO.html>)  
+  网易科技 · 2026-11-27 15:47
+
+- [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](<https://guiguzaozhidao.fireside.fm/20240452>)  
+  同样是科技巨头宣布加大 AI 投入，资本市场为什么会给出截然不同的反应？ 今年 5 月，我们和老朋友 Aaron 聊过 AI 泡沫与循环投资。半年过去，芯片、数据中心和大模型依然牵动着市场，但投资人追问的问题，逐渐从“还要投入多少钱”…  
+  科技早知道 · 2026-11-27 14:30
 
 - [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](<https://36kr.com/p/4087449994181000?f=rss>)  
   Anthropic 最近真是流年不利。 一边是顶着史上最大 IPO 的光环上市不到一周就破发，另一边是自家最能打的 Claude Code 团队，接连有核心成员转投竞争对手 OpenAI。 昨天，Claude Code 核心工程师 Thar  
@@ -53,18 +86,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [大模型无法击穿的，才是具身智能真正壁垒](<https://36kr.com/p/4087456845970050?f=rss>)  
   具身智能洗牌之下，投资人继续用脚投票。 投资界获悉，零次方机器人完成数亿元新一轮融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国正、杰克集团以及多家产业战略投资方。老股东同创伟业、力合基金、接力天使  
   36氪 · 2026-11-27 11:56
-
-- [全新深蓝 S07/L07 AI 激光版车型行业首批开放域端到端豆包大模型](<https://www.ithome.com/1/033/283.htm>)  
-  IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上，深蓝汽车董事长邓承浩宣布，全新深蓝 S07/L07 AI 激光版车型将 行业首批开放域端到端豆包大模型 。 邓承浩介绍称，过去的车载语音是听懂听清到理解再到执行的三…  
-  IT之家 · 2026-11-27 11:47
-
-- [腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作](<https://www.ithome.com/1/033/282.htm>)  
-  IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。 腾讯混元表示，通过该模型生成的 几何表面整洁、结构…  
-  IT之家 · 2026-11-27 11:44
-
-- [时空智子完成数千万元B轮融资，加速全链路闭环世界模型落地](<https://www.pedaily.cn/first/196070.shtml>)  
-  浙江时空智子大数据有限公司11月27日宣布完成B轮数千万元融资，由光谷科创投、光谷人才基金及同创伟业联合投资。融资资金将主要用于时空基础大模型的研发、行业智能体的持续完善和落地以及顶 尖人才的引进。（投资界讯） 原文链接  
-  投资界 · 2026-11-27 10:38
 
 - [Gemini 4 Carbon点亮8颗太阳，70年几何悬案告破，只用6页神级证明](<https://36kr.com/p/4087355247540614?f=rss>)  
   你还记得高中地理课上的晨昏线吗？ 这个寻常的物理现象，在数学家眼中却是极具挑战的几何谜题。 如果这颗星球不是完美的圆球，而是被随意捏造、棱角歪斜的「凸多面体」，甚至表面布满平滑与尖锐交错的地形，最少需要挂几颗太阳，才能把它彻底照亮？ 195  
@@ -86,23 +107,8 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   「如果这个结论最终被证实，物理学就真正迎来了大一统。」 刚暴击完数学，AI又把「屠刀」伸向物理了。 斯坦福物理学家 Venkatesa Chandrasekaran 发了篇83页的新论文，配合GPT-6 Astra给出了一套 在四维时空中统  
   36氪 · 2026-11-27 09:44
 
-- [投资界24h\| 马云现身平头哥办公区；蜜雪冰城，间接投了DeepSeek；哈工大系，又排队IPO](<https://www.pedaily.cn/first/196018.shtml>)  
-  平头哥冲刺IPO之际，马云现身办公区与员工合影蜜雪冰城间接入股DeepSeek哈工大系工大卫星启动A股IPO湖北智数产业基金设立，规模4.8亿元宇树科技王兴兴判断5到10年中国机器人年产量或超汽车达2000万台。（投资界） 原文链接  
-  投资界 · 2026-11-27 08:30
-
-- [阿里加码北美招聘，Qwen团队今年已吸纳数百名AI人才](<https://www.pedaily.cn/first/196010.shtml>)  
-  近日，阿里正加大北美招聘力度，主要面向全球顶级AI研究员。Qwen北美团队已开放多个岗位，涉及模型研究、训练与推理、多模态、智能体（Agent）和数据等方向。今年全球已有数百人加入阿里Qwen大模型团队。（投资界）  
-  投资界 · 2026-11-27 08:26
-
-- [前苹果空间智能首席科学家权龙再创业，成立Envision AI](<https://www.pedaily.cn/first/196011.shtml>)  
-  11月26日，界面新闻记者获悉，香港科技大学首个计算机视觉实验室创始人、前苹果空间智能方向首席科学家权龙宣布二次创业，成立Envision AI（格秩科技），聚焦空间与物理基础模型研发。权龙此前创办的三维重建企业Altizure于20…  
-  投资界 · 2026-11-27 08:26
-
 - [国产大模型集体进军AI4S](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
   网易科技频道 · 网易号 · 2026-11-27 07:10
-
-- [TDK Bets on AI Data Centers and Robots to Fuel Sensor Growth](<https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth>)  
-  Bloomberg · 2026-11-27 05:00
 
 - [OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快](<https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/>)  
   OpenAI 修复 GPT-6.2 推出期间的计费错误，据 Codex 工程师 Thibault Sottiaux 称，用户现在触及限额的速度比上周快 40%（Astra）和 25%（Sol），但额度仍比 GPT-6 Astra 和 GPT-6.1 Sol 更耐用。  
@@ -115,30 +121,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [FCC 批准 SpaceX 至 2040 年部署最多 100 万颗 Starmind 卫星用于在轨 AI 数据中心](<https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/>)  
   据 Reuters 报道，FCC 已授权 SpaceX 部署最多 100 万颗 Starmind 在轨计算模块卫星，用于在轨道上处理 AI 数据，满足地面日益增长的 AI 算力需求。FCC 同时批准了无线电链路，在光学连接失效时可让 SpaceX 监控和控制这些卫星。  
   The Decoder：AI News（RSS） · 2026-11-26 21:41
-
-- [比亚迪、OPPO押注，芯爱科技开启IPO征程](<https://36kr.com/p/4086478092675712?f=rss>)  
-  AI算力竞赛正在向半导体产业链深处延伸。 近日，芯爱科技（南京）股份有限公司（简称：芯爱科技）启动上市辅导，这家累计融资超过50亿元的封装基板企业，背后聚集了比亚迪、OPPO、胜宏科技等产业资本。高端芯片“底座”的自主可控，正在迎来新的市场  
-  36氪 · 2026-11-26 21:09
-
-- [Neocloud的好日子到头了？](<https://36kr.com/p/4086486991022473?f=rss>)  
-  谁能想到，AI算力还供不应求，卖算力的Neocloud却已经跌麻了。 截至11月25日，CoreWeave、Nebius、IREN较年内高点分别暴跌69.2%、71.7%和81.8%。体量更小的SharonAI和Boost Run，跌幅更是  
-  36氪 · 2026-11-26 21:00
-
-- [闪存巨头联手英伟达，布局AI存储新赛道](<https://36kr.com/p/4086496386607497?f=rss>)  
-  NAND闪存生产商铠侠周四宣布，与英伟达合作通过高性能固态硬盘（SSD）与英伟达SCADA软件，探索将GPU有效可访问容量扩展至PB级。 （来源：公司官网） 受此消息带动，铠侠周四收涨12.57%，明显好于今日冲高后显著回落的日股AI同行。  
-  36氪 · 2026-11-26 20:59
-
-- [IREN：有电没单、有地缺钱，矿场变云难在哪？](<https://36kr.com/p/4086511715596168?f=rss>)  
-  在这一轮AI算力热里，IREN算是一个典型的 “半路出家” 选手：前身是一家比特币矿企，这两年把矿场改成数据中心，做起了AI算力出租的生意。它和其他新云最大的不同之处是手里攥着超过5GW已签下并网协议的电力和自有土地。 电不缺、订单也签得快  
-  36氪 · 2026-11-26 20:56
-
-- [三位前苹果研究员创业，拿下英伟达 6000 万美元融资，AI 一对一教学迎来新变量](<https://36kr.com/p/4086520077072521?f=rss>)  
-  过去几年，AI 教育产品经历了从拍照搜题、文本问答到实时语音交互的演进，大模型的出现，让低成本、规模化的一对一教学成为可能。但与真人老师相比，AI 仍然缺少一种重要能力：感知学生在学习过程中的状态，并及时作出反馈。 当学生皱起眉头、陷入沉默  
-  36氪 · 2026-11-26 20:50
-
-- [能力分超多家国际头部厂商：元任务 AI 实验室开源决策模型排全球第二](<https://36kr.com/p/4086482287864448?f=rss>)  
-  随着多家国际头部厂商相继推出决策模型，一款开源模型在第三方榜单上取得了较高的能力分。元任务 AI 实验室与清华经管商业模式创新研究中心联合研发的 MetaDecision-31B-Rain，在 JevBench 开源权重榜排全球第二、中国团  
-  36氪 · 2026-11-26 19:25
 
 - [Epic CEO 斯威尼公开批评 Claude 误判其集合论研究为模型蒸馏](<https://www.ithome.com/1/032/822.htm>)  
   Epic Games CEO 蒂姆·斯威尼本周在 X 上称 Claude 是垃圾，因为模型中断了他的集合论研究并指控其在做模型蒸馏，而他用公司账号每天仅输入一两个小时提示词。蒸馏指用强模型输出生成训练数据，各家实验室的服务条款均禁止。此事暴露了防蒸馏检测过于激进、开始干扰正常用户高水平工作的问题，Anthropic 后续是否调整过滤机制尚不明确。  
@@ -155,10 +137,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [腾讯混元开源草稿模型 DFly2，让 Hy4 flash 吐字提速 4.2 倍](<https://mp.weixin.qq.com/s/d1HMHrSEChCJiBRZ0tNOyg>)  
   腾讯混元开源新一代草稿模型 DFly2，作为加速组件挂在 Hy4 flash 旁，在权重与输出不变的前提下提升吐字速度，单项最高提速 4.2×。DFly2 专为 DSA 类稀疏注意力大模型和长上下文场景设计，通过 KV Share 与 Index Share 复用目标模型的 KV cache 和 indexer 选出的至多 2,048 个位置，实现零额外 KV 显存。  
   公众号：腾讯混元 · 2026-11-26 14:33
-
-- [闪科光联获得种子轮融资](<https://www.itjuzi.com/investevent/14708731>)  
-  闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得种子轮融资，励石创投投资。  
-  IT桔子 · 2026-11-26 13:57
 
 - [闪科光联获得数千万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708730>)  
   闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得数千万人民币天使轮融资…  
@@ -179,10 +157,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [中国牵头制定的人工智能训练数据质量国际标准 ISO/IEC 5259-4:2024 成 30 余个欧洲国家合规评估技术参考](<https://www.ithome.com/1/032/714.htm>)  
   中国专家牵头制定的 ISO/IEC 5259-4:2024 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考，应用于训练数据采集、标注与质量判断等环节。该标准明确了人工智能训练数据全生命周期的质量管理流程与技术要求。我国目前已牵头研制 29 项人工智能基础共性国际标准，并联合多国编制生成式人工智能风险应对指南国际标准提案。  
   IT之家·人工智能 · 2026-11-26 11:47
-
-- [百优象获得500万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708700>)  
-  百优象科技是一家算力与影像设备解决方案提供商，主营计算机软硬件、面向高端AI计算硬件与智算集群，围绕合规筛选、质检交付、库存调度和资源配置，提供标准化流通服务。该公司自主研发芯片性能增强优化软件、服务器集群资源调度管理系统、集成电路性…  
-  IT桔子 · 2026-11-26 10:19
 
 - [三部委印发《新一代通信网建设实施方案》：探索大小模型协同、人机协同等网络运维新范式](<https://www.ithome.com/1/032/562.htm>)  
   工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》，提出探索大小模型协同、人机协同、机机协同等网络运维新范式。方案要求搭建网络大模型和智能体开发工具链与自动化运维平台，围绕网络建设、管理、运营场景打造特色智能体，并探索复杂场景下智能体协同技术，逐步建成高等级自智网络。  
@@ -215,5 +189,33 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [vLLM 新加坡 Meetup 复盘：更快 Prefill、智能体写内核与 Vera Rubin 路线](<https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/>)  
   vLLM 团队复盘 11 月 13 日在新加坡 SGInnovate 举办的技术 meetup，由 Inferact 和 NVIDIA 主办。  
   PyTorch：Blog（RSS） · 2026-11-26 02:03
+
+- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
+  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
+  The Verge：AI（RSS） · 2026-11-26 01:44
+
+- [Runway 与 Meta 将 Praxis-1 引入 ExecuTorch](<https://runwayml.com/news/company-news/runway-meta-praxis-1-executorch>)  
+  Runway 的开源权重机器人世界动作模型 Praxis-1 现已通过 Meta PyTorch 团队的工作，在 ExecuTorch 与 NVIDIA TensorRT 上运行。  
+  Runway：News（网页） · 2026-11-26 01:21
+
+- [Baseten 如何为推理工作负载实现最小权限访问](<https://www.baseten.co/blog/least-privilege-access-for-inference-workloads>)  
+  Baseten 推出面向推理工作负载的最小权限访问控制，用 OIDC 短期令牌替代长期云密钥，并通过 BDN 只读卷挂载权重，使服务副本无需访问原始存储桶。运行时 OIDC 让容器按需获取临时云凭证拉取 LoRA 适配器，出站限制则把连接限定在模型实际调用的主机。  
+  Baseten 工程博客（网页） · 2026-11-26 00:49
+
+- [Newcomer：AI公开市场恐慌未传导至一级市场，推理创业公司或成风向标](<https://www.newcomer.co/p/vc-funding-keeps-flowing-as-nvidia>)  
+  Newcomer撰文分析AI公开市场情绪恶化但私募市场仍在运转，Sierra以300亿美元估值融资超10亿美元，Cognition传以750亿美元估值洽谈。文章指出，公开市场对AI的悲观情绪尚未传导至私募市场，但推理创业公司可能成为先行信号；neocloud要求推理服务商预付高达50%合同金额以锁定算力，使原本轻资产的业务模式面临资本压力。  
+  Newcomer 新闻长文（RSS） · 2026-11-26 00:48
+
+- [上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法](<https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph>)  
+  Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS.md 的严格规则。  
+  Google AI：DEV 作者专属（RSS） · 2026-11-26 00:19
+
+- [AI data centers are becoming harder to build, and neoclouds are feeling it](<https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/>)  
+  ⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as n  
+  TechCrunch · 2026-11-25 23:41
+
+- [DeepMind 副总裁谈 AI 智能体自主控制部分 Gemini 实验算力，但离递归自我改进尚远](<https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/>)  
+  Google DeepMind 研究副总裁 Koray Kavukcuoglu 在公司播客中表示，AI 智能体已自主控制部分算力为下一代 Gemini 模型运行实验，但距离完全递归自我改进还很远。  
+  The Decoder：AI News（RSS） · 2026-11-25 21:23
 
 [返回面板](../README.md) · [下一页](model-2.md) · 第 1 / 5 页

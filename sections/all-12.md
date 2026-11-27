@@ -2,70 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 19 页
 
-- [Architect Labs 发布 AI 设计的交互网络 CPU Frostbite](<https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/>)  
-  Architect Labs 推出 Frostbite，一款以交互网络为指令集、由 AI 智能体设计的 CPU，从交互网络理论一路设计到 7 nm 最终 GDS，GDS 收敛在 500 MHz。  
-  MarkTechPost（RSS） · 2026-11-23 18:05
-
-- [智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding](<https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ>)  
-  智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。  
-  公众号：智谱（GLM） · 2026-11-23 17:42
-
-- [OiiOii Motion 代码动画功能上手实测：Opus 5.5 与 DeepSeek V4.1 Flash 两种跑法](<https://mp.weixin.qq.com/s/E_NP62cntXJTuFv2zfd6Hg>)  
-  作者实测 OiiOii 新上线的 Motion 代码动画功能，该功能让大模型编写带排版、图形和运动曲线的动态网页代码并云端渲染成视频。用 LearnPrompt/awesome-seedance 仓库宣传片对比显示，传统视频模型遇上网页 UI、代码框和中英文排版容易糊掉，而 Motion 画面文字清晰。  
-  公众号：卡尔的AI沃茨 · 2026-11-23 17:36
-
-- [Meta 发布 TLX 报告：为 Triton 在 Hopper、Blackwell 和 AMD GPU 上带来 warp 组级控制](<https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/>)  
-  Meta 发布 TLX（Triton Low-Level Extensions）详细报告，该扩展让 Python 级 Triton 内核可直接使用 warp group、mbarrier、TMA、TMEM 和 cluster 等硬件能力。  
-  MarkTechPost（RSS） · 2026-11-23 16:24
-
-- [Arena 第 47 周大模型周榜：谷歌 Gemini 4 Neon 空降综合第 3，阿里 Qwen4-Max 智能体榜首秀第 18](<https://www.ithome.com/1/030/935.htm>)  
-  Arena 第 47 周榜单中，谷歌 Gemini 4 Neon \(High\) 以 ELO 1513 分空降综合榜第 3，Anthropic Claude Fable 5.2 \(Max\) 以 1503 分列第 7，Gemini 4 Hydrogen \(High\) 以 1490 分并列第 18。  
-  IT之家·人工智能 · 2026-11-23 16:01
-
-- [Connected intelligence for in-house legal](<https://openai.com/business/learn/connected-intelligence-for-in-house-legal>)  
-  Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can he…  
-  OpenAI · 2026-11-23 16:00
-
-- [Richpanel helps companies automate 50% of support in 30 days](<https://openai.com/business/customer-stories/richpanel-ai-customer-support>)  
-  Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna f…  
-  OpenAI · 2026-11-23 16:00
-
-- [Ai2 发布 RoboTrack 点跟踪基准与数据集，并推出 RoboTracker 模型](<https://allenai.org/blog/robotrack>)  
-  Ai2 发布 RoboTrack，一套面向机器人操作的点跟踪基准与训练数据套件，含 307 段人工标注视频、2522 条点轨迹的 RoboTrack-Bench，以及基于 MolmoSpaces 生成的 RoboTrack-15M 合成训练集。  
-  Ai2 / Allen Institute for AI（RSS） · 2026-11-23 16:00
-
-- [阿里云 AgentLoop 记忆库、经验库及优化任务功能 12 月 7 日起收费，按 AI Credits 实际消耗量计费](<https://www.ithome.com/1/030/926.htm>)  
-  阿里云宣布 AgentLoop 的记忆库、经验库及优化任务三项功能将于北京时间 2026 年 12 月 7 日 00:00:00 起正式收费，用户使用这些功能产生的模型资源消耗按 AI Credits 实际消耗量计费。  
-  IT之家·人工智能 · 2026-11-23 15:36
-
-- [20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? \| "Fire the Bankers": Why Most VCs Won't Survive AI \| Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha](<https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha>)  
-  Anjney Midha is one of Anthropic's earliest angel investors, backing the company in its founding round in 2021. Previ…  
-  20VC · 2026-11-23 15:07
-
-- [GPT-6.2 在 ChatGPT 中的系统卡](<https://deploymentsafety.openai.com/gpt-6-2-chatgpt>)  
-  OpenAI 发布 GPT-6.2 在 ChatGPT 中的系统卡，以 PDF 形式提供。该页面暂未提供解析文本，需通过公开 PDF 链接查看内容。  
-  OpenAI：部署安全与系统卡（网页） · 2026-11-23 15:00
-
-- [OpenAI 详解如何用 Codex Security 将安全审查嵌入 SDLC](<https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security>)  
-  OpenAI 发文介绍用 Codex Security 和 CLI 把智能体安全审查接入 SDLC，并给出四条原则：为智能体提供系统专属上下文、把审查嵌入开发流程、审慎设定审查范围与报告阈值、让发现可被检查。文章还说明如何用 threat model、SECURITY.md 和知识库为安全扫描预置上下文。  
-  OpenAI Developers：Blog（网页） · 2026-11-23 15:00
-
-- [Thinking Machines Lab 发布循环 Transformer 模型 Inkling 2 Mini](<https://www.ithome.com/1/030/907.htm>)  
-  Thinking Machines Lab（TML）于当地时间本月 20 日发布循环 Transformer 架构模型 Inkling 2 Mini。模型共 24 层，分四个 6 层模块，中间两个模块运行 3 次，并对专家节点从 384 个剪枝至 128 个；整体为 26.4B-A3.4B，考虑循环后每个词元激活权重 5.4B。  
-  IT之家·人工智能 · 2026-11-23 14:55
-
-- [Mistral AI 在新加坡设立亚太总部，为政府机构开发定制主权 AI 模型](<https://www.ithome.com/1/030/904.htm>)  
-  法国 AI 企业 Mistral AI 于 11 月 20 日宣布在新加坡设立亚太总部，计划 2027 年将该区域员工增至 200 人以上。新加坡办公室将作为扩展科学中心，围绕公共部门、高科技制造和机器人三大领域开发主权 AI 模型。  
-  IT之家·人工智能 · 2026-11-23 14:43
-
-- [中国气象局与上海人工智能实验室推出地球系统智能科研平台“ZHU·GE”](<https://www.ithome.com/1/030/899.htm>)  
-  地球系统智能科研平台“ZHU·GE”在2026雄安气象人工智能国际研讨会上正式推出，由中国气象局与上海人工智能实验室共同牵头研发。平台汇集约10PB公共科学数据、首批1PB中国气象局授权数据及约200万条文献记录，内置5,000余项代码工具和10多项通用科学研究技能，可由自然语言目标自主规划研究路线并开展实验。  
-  IT之家·人工智能 · 2026-11-23 14:33
-
-- [MIT 提出模拟芯片设计方法 SLIC，小模型可本地部署接近 GPT-6-Astra 性能](<https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123>)  
-  MIT 研究者提出 SLIC（Small LM Iterating on Circuits）训练方法，通过带可验证奖励的多轮强化学习，把数十亿参数的小语言模型训练得能设计模拟集成电路，性能接近最新 GPT-6-Astra，但计算资源只占其很小一部分。  
-  MIT News（RSS） · 2026-11-23 13:00
-
 - [智谱 GLM-5.4 上线 Coding Plan，新增视觉能力](<https://www.ithome.com/1/030/809.htm>)  
   智谱官方运营人员宣布 GLM-5.4 模型已上线 Coding Plan，用户将模型名设置为 glm-5.4 即可使用。该模型新增视觉能力与更强的泛 Coding 能力，模型列表显示“1M”和“视觉”字样。V2、V3 及团队版用户的 GLM-5.4 使用额度提升至 1.5 倍，模型具体介绍信息暂未公布。  
   IT之家·人工智能 · 2026-11-23 12:49
@@ -119,7 +55,7 @@
   晚点聊 · 2026-11-23 09:00
 
 - [Datasette 发布 datasette-charts 0.1a0 图表插件](<https://simonwillison.net/2026/Nov/23/datasette-charts/>)  
-  Simon Willison 用 Claude Fable 5.2 构建的 Datasette 图表插件 datasette-charts 0.1a0 发布，可在 Datasette Lite 试用。  
+  Datasette 推出 datasette-charts 0.1a0，用 Claude Fable 5.2 构建的原型已发展为完整插件，可在 Datasette Lite 试用。  
   Simon Willison 博客 · 2026-11-23 08:37
 
 - [微软 CEO 纳德拉坦言 Claude Code 仅半年动摇 VS Code 地位](<https://www.ithome.com/1/030/733.htm>)  
@@ -181,5 +117,69 @@
 - [Microsoft 与美国政府警告未来数月还会有更多重大技术故障](<https://www.theverge.com/tech/1039851/major-tech-outages>)  
   The Verge 梳理近期一连串技术故障，包括全国性 FAA 停飞令、持续多日的 Outlook 故障和 JPMorgan Chase 银行系统故障。  
   The Verge：AI（RSS） · 2026-11-23 06:48
+
+- [OpenAI 首席科学家 Jakub Pachocki 提议以 perplexity 作为限制 AI 发展速度的度量](<https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/>)  
+  OpenAI 首席科学家 Jakub Pachocki 发文提议以 perplexity 作为衡量 AI 进展的共同基准，用于在企业间建立发展速度的共同限制。  
+  TechCrunch：AI（RSS） · 2026-11-23 05:14
+
+- [Simon Willison 用 Claude Fable 5.2 生成 HTML select 样式展示页](<https://simonwillison.net/2026/Nov/22/select-styling/>)  
+  Simon Willison 因不满 HTML select 下拉框在各浏览器默认样式不一、在 Chrome 中尤其难看，让 Claude Fable 5.2 生成了一个展示 select 各种可样式化方式的页面，计划在每个桌面和移动浏览器中截图。他实验后给出自己最喜欢的 select CSS 写法，并展示了该样式在三个浏览器中的效果。  
+  Simon Willison 博客 · 2026-11-23 03:45
+
+- [NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor](<https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/>)  
+  NVIDIA 发布 2B 级推理视觉-语言-动作模型 Alpamayo 2 Edge，可在车内 DRIVE AGX Thor 上做轨迹规划与因果解释，采用 OpenMDW-1.1 许可开源权重。  
+  MarkTechPost（RSS） · 2026-11-23 02:37
+
+- [Gary Marcus 评 Levent Alpöge 借助 Claude 证明黎曼猜想：不是 AI 独立完成，也难以泛化](<https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann>)  
+  Gary Marcus 分析 Levent Alpöge 在 Claude 协助下疑似证明黎曼猜想一事，指出并非 AI 独立完成，而是这位数学家数月深度协作的成果。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-23 02:37
+
+- [TechCrunch 访谈《Hyperscale》作者 Paris Marx：数据中心为何成为反科技浪潮的焦点](<https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>)  
+  TechCrunch 访谈记者 Paris Marx，谈其新书《Hyperscale》调查数据中心与生成式 AI 的社会影响。  
+  TechCrunch：AI（RSS） · 2026-11-23 02:08
+
+- [《以撒的结合：Repentance Plus》因 AI 音乐被发现后遭差评轰炸，Nicalis 已移除相关文件](<https://www.theverge.com/games/1039770/binding-of-isaac-ai-music>)  
+  《以撒的结合：Repentance Plus》被发现某段 GTA 主题内容使用 AI 生成音乐后在 Steam 遭差评轰炸。Reddit 用户 ShweetsStuff 找到带 Suno 元数据的音频文件，作者 Edmund McMillen 在 X 上道歉，称自己不知情；发行方 Nicalis 数小时内更新游戏并移除了生成的音乐文件。  
+  The Verge：AI（RSS） · 2026-11-23 01:25
+
+- [SGLang 为 ERNIE 5.5 Flash 实现 1074 tokens/s 低延迟解码](<https://www.lmsys.org/blog/2026-11-23-ernie55-flash-low-latency>)  
+  SGLang 为 ERNIE 5.5 Flash 加入低延迟解码支持并完成端到端优化，在 4 块 SM100 GPU、BS=1、55K 输入与 1K 输出下达到 1074 tokens/s。  
+  LMSYS Blog · 2026-11-23 00:00
+
+- [Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组](<https://www.anthropic.com/research/working-with-ai>)  
+  Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。  
+  Anthropic：Research（发表成果 · 网页） · 2026-11-23 00:00
+
+- [AI 智能体可以多任务并行，人类跟得上吗？](<https://every.to/p/your-ai-agents-can-multitask-can-you>)  
+  Every 的九位成员分享了各自同时管理多个 AI 智能体的做法。作者本人曾独自承担公司整个运营部门的工作，靠一支 AI 智能体团队完成会议、发票、账号开通和 Slack 回复等事务；其智能体 Dot 的 Sebastian 记录到他曾在 29 分钟内切换 7 条不同的工作线。  
+  Every：最新文章（网页） · 2026-11-23 00:00
+
+- [Google 介绍 Semantic governance policies 如何防御智能体意图劫持](<https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/>)  
+  Google 介绍 Semantic governance policies 通过默认开启的用户意图匹配，在每次工具调用执行前检查该动作是否来自用户请求，以拦截间接提示词注入导致的意图劫持。  
+  Google Developers Blog（RSS） · 2026-11-23 00:00
+
+- [Sarvam AI 发布语音听写 API Sarvam Dictate，支持英语和 22 种印度语言](<https://www.sarvam.ai/blogs/sarvam-dictate>)  
+  Sarvam AI 发布 Sarvam Dictate，一个面向开发者的听写 API，将语音转为说话者想输入的文本，支持英语、22 种印度语言和 Hinglish，定价为每分钟音频 ₹0.50（约 $0.33 每小时）。  
+  Sarvam AI（网页） · 2026-11-23 00:00
+
+- [LlamaIndex 开源 8.1M 参数文档解析模型 OCRia-nano-1](<https://www.llamaindex.ai/blog/introducing-ocria-nano-1>)  
+  LlamaIndex 发布 OCRia-nano-1 的开放权重，一个 8.1M 参数的轻量文档解析模型，可在本地 CPU 上运行，权重托管在 Hugging Face，配套开源解析器 LiteParse（Apache 2.0）。  
+  LlamaIndex：产品、工程与评测 · 2026-11-23 00:00
+
+- [本地 AI 入门指南：用 Unsloth Desktop 和 Qwen3.8-27B 在家用 PC 搭建私有 ChatGPT](<https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth>)  
+  作者分享在 Windows PC 上用 Unsloth Desktop 搭建本地 AI 的入门教程，以 RTX 5090 运行 4-bit 量化的 Qwen3.8-27B，全程约 10-15 分钟，无需终端命令或订阅。  
+  Hacker News：AI 热帖 · 2026-11-23 00:00
+
+- [报道称 Dario Amodei 曾建议用游戏安抚因 AI 失业的民众](<https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness>)  
+  《华尔街日报》在 Anthropic 创纪录 IPO 后刊发的 Amodei 兄妹特写提到，Dario Amodei 曾在 Slack 讨论中建议用沉浸式电子游戏缓解 AI 导致失业所引发的政治冲突。相关说法来自广泛流传的 Slack 消息，报道称他当时已承认 AI 可能破坏世界稳定。  
+  Hacker News：AI 热帖 · 2026-11-22 23:52
+
+- [Pushary Calls](<https://www.producthunt.com/products/pushary>)  
+  Miss your AI agent’s ping? Pushary calls you.  
+  Product Hunt · English · 2026-11-22 23:44
+
+- [Architect Labs 公布 AI 自研 CPU 架构 Frostbite，能效为传统处理器 4.59 倍](<https://www.ithome.com/1/030/717.htm>)  
+  美国帕洛阿尔托初创公司 Architect Labs 宣布，其 AI 系统自主发现、设计并验证了采用全新指令集的通用 CPU Frostbite。在 25 项工作负载测试中，4 个计算单元组成的 Frostbite 集群每瓦性能达到尺寸相近、已完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍，单位面积性能为 8.77 倍。  
+  IT之家·人工智能 · 2026-11-22 23:15
 
 [返回面板](../README.md) · [上一页](all-11.md) · [下一页](all-13.md) · 第 12 / 19 页

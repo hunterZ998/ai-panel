@@ -2,177 +2,179 @@
 
 [返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 35 页
 
-- [BREAKING: Bond investors see Anthropic bonds as "junk" despite $1 trillion valuation](<https://x.com/Kalshi/status/2125499732844015980>)  
-  @Kalshi · 2026-11-25 16:00
+- [There are rumors circulating that Barron Trump was behind the $3.4 million Nvidia options trade last Friday, just b…](<https://x.com/rushicrypto/status/2125638349130199118>)  
+  Can we get an actual investigation into who made that trade?  
+  @rushicrypto · 2026-11-26 01:10
 
-- [Jensen Huang got reinstated and Nvidia stock shot up instantly.](<https://x.com/el_diablllo_/status/2125492599527997583>)  
-  Business is business, put your emotions to the side  
-  @el\_diablllo\_ · 2026-11-25 15:31
+- [Threatening NVIDIA was not the only extortion of a private company by trump.](<https://x.com/commons96055467/status/2125636692673716525>)  
+  In August 2025, trump threatened and extorted 10% of Intel shares for $11 billion government loan to the company. Trump is a gangster thief who sees that no one is stopping him. So, why stop\!  
+  @commons96055467 · 2026-11-26 01:04
 
-- [Gwynne Shotwell has turned Elon's ideas into revenue for 24 years.](<https://x.com/joehansen/status/2125492432523456693>)  
-  Now she has to do it with AI compute, and the numbers are big enough for @grok to run. • Employee No. 7, hired in 2002 after telling Elon he needed a business developer • After three Falcon 1 failures, the  
-  @joehansen · 2026-11-25 15:31
+- [Mitt is way too nice, so we will say it for him: Trump's crooked deal to strong arm Nvidia smells of profit, corrup…](<https://x.com/TheDemCoalition/status/2125635856052482135>)  
+  Mitt is way too nice, so we will say it for him: Trump's crooked deal to strong arm Nvidia smells of profit, corruption, and treason. \#ResistTrump  
+  @TheDemCoalition · 2026-11-26 01:00
 
-- [Anthropic has pulled up the ladder](<https://x.com/FT/status/2125492305897394554>)  
-  @FT · 2026-11-25 15:30
+- [Worth noting who just took a 9.48% stake in $ZONE.](<https://x.com/tr6ding/status/2125635148922188277>)  
+  Jacob Robert Field’s OnePWR Solutions was recently involved in a reported $3.4 billion deal to supply Anthropic with 1.7 GW of natural gas-powered generation using Caterpillar \($CAT\) equipment. His latest SEC filing now  
+  @tr6ding · 2026-11-26 00:58
 
-- [Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法](<https://x.com/addyosmani/status/2125492213903978917>)  
-  Anthropic Claude Code 团队刚推出 Claude Ship，包含三个智能体：Code Review（已全面开放）、PR Steward 和 Claude Approvals（beta），可审查 PR、处理失败 CI、合并冲突和审查意见，并按仓库策略文件批准常规改动。  
-  X：Addy Osmani \(@addyosmani\) · 2026-11-25 15:30
+- [IS THERE MORE BEHIND NVIDIA THAT MEETS THE EYE?](<https://x.com/SHEEPSLIVE/status/2125634893636046864>)  
+  @SHEEPSLIVE · 2026-11-26 00:57
 
-- [Absolutely insane: OpenAI just dropped another nine new math papers in its repo, with Lean proofs. - Matrix multipl…](<https://x.com/kimmonismus/status/2125492193351610707>)  
-  Since 1969 mathematicians kept finding faster ways to do it, and nobody knew where the limit was. OpenAI  
-  @kimmonismus · 2026-11-25 15:30
+- [This is a really huge point and it’s why the deep state enemy tried to destroy Huang and Nvidia.](<https://x.com/JoeLange/status/2125633890576421255>)  
+  Anthropic is the deep state AI company that can’t compete openly and that’s why they’ve bought off politicians, who are now pushing “fear” and tighter government regulations, so they  
+  @JoeLange · 2026-11-26 00:53
 
-- [马斯克亲自去英伟达总部拜访黄仁勋和员工。](<https://x.com/bxiaokang/status/2125491674717851954>)  
-  从照片细节看，黄仁勋穿的行政夹克和黑色平底鞋，正是他昨天第一时间回到英伟达总部时的穿搭。 看来马斯克得知黄仁勋回总部后，第一时间就带着儿子赶了过去。这次他还特意穿上了皮鞋，而不是平时常穿的 Kizik 运动鞋。  
-  @bxiaokang · 2026-11-25 15:27
+- [NOT CANADIAN AI - Cohere said on Monday an Alibaba's Qwen AI model tried to send Cohere data to an ​Alibaba Cloud s…](<https://x.com/ShareawareCdn/status/2125633695575065075>)  
+  NOT CANADIAN AI - Cohere said on Monday an Alibaba's Qwen AI model tried to send Cohere data to an ​Alibaba Cloud storage server, in Beijing. 🇨🇳 On top of this, Mark Carney is signing an agreement with the EU to train Canadian public institution Ai models, on …  
+  @ShareawareCdn · 2026-11-26 00:52
 
-- [Una herramienta que usa IA de pequeña escala o "Small-AI", le permite a la maestra Lariza Sedano, ayudar eficazment…](<https://x.com/JaimeSaavedra22/status/2125490985584980233>)  
-  En la escuela pública José Martí en Lima, Perú, la plataforma "Eligiendo mi Camino" tiene un  
-  @JaimeSaavedra22 · 2026-11-25 15:25
+- ["AI safety" = government regulated monopoly of AI "AI doom" = PR strategy to achieve said monopoly "Corporate corru…](<https://x.com/kevinnbass/status/2125633418000003168>)  
+  "AI safety" = government regulated monopoly of AI "AI doom" = PR strategy to achieve said monopoly "Corporate corruption" = promoting open models "China hawk" = someone who scapegoats China to help Anthropic and the Democrats "National security" = government r…  
+  @kevinnbass · 2026-11-26 00:51
 
-- [Interior entrega a Huawei durante 15 años la custodia del historial del DNI electrónico.](<https://x.com/TheObjective_es/status/2125490929729454504>)  
-  Informa Marcos Sierra \(@marcossierra\).  
-  @TheObjective\_es · 2026-11-25 15:25
+- [JUST IN: SpaceX is reportedly slashing Blackwell rental prices as Anthropic hands back 50,000 H200s](<https://x.com/Kalshi_Finance/status/2125633109182017980>)  
+  @Kalshi\_Finance · 2026-11-26 00:50
 
-- [The indignation that this piece of shit shows to the press for asking perfectly reasonable questions about whether…](<https://x.com/AmoneyResists/status/2125490328723730531>)  
-  Blanche is one of the few who will spend the rest of their lives in prison for all of this.  
-  @AmoneyResists · 2026-11-25 15:22
+- [这玩意儿一发布，今晚注定又有一大批老哥的电脑风扇要通宵狂转了！](<https://x.com/mingzi206/status/2125631502503575789>)  
+  Hugging Face 狂砍近 19 万下载的零限制视频底模 Sulphur-3 正式上线！ 平时玩生成的兄弟都知道，原版 Minimax H3 最大的痛点就是底模压根没学过特定人体结构的解剖数据，不管合什么野生 LoRA，动作稍微大点全是色块甚至直接崩坏。  
+  @mingzi206 · 2026-11-26 00:43
 
-- [欧盟起草主权科技股权基金 Stef，拟为 AI 和量子企业撬动最高 548 亿美元](<https://x.com/rohanpaul_ai/status/2125490212038189501>)  
-  据 FT 报道，欧盟正在起草主权科技股权基金 Stef，拟为欧洲 AI 和量子计算公司动员最高 548 亿美元资金。该基金将持有比现有欧盟计划更大、风险更高、更长期的股权；欧盟出资作为种子，欧盟委员会希望借此撬动最多 6 倍的私人投资，目标是解决欧洲科技公司融资和规模化难的长期问题。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 15:22
+- [Breaking: Michael Burry says he’s now almost entirely long He: 1.](<https://x.com/burrytracker/status/2125631347720917471>)  
+  Sold his remaining Nasdaq 100 $NDX puts 2. Sold most of his Ero Copper $ERO stake for a tax loss, says he bought it poorly 3. Kept Palantir $PLTR puts, a final quarter of Nvidia $NVDA puts, and MetLife puts as  
+  @burrytracker · 2026-11-26 00:43
 
-- [黄仁勋刚被董事会请回英伟达当 CEO 不到两天，马斯克就带着儿子和团队，直接走进了英伟达总部大楼。](<https://x.com/mubeitech/status/2125489175809909139>)  
-  刚刚过去的这场风波，当时英伟达董事会突然把黄仁勋赶下台，整个科技圈当场炸锅。 最先在网上替老黄跳脚的，恰恰是马斯克。  
-  @mubeitech · 2026-11-25 15:18
+- [BREAKING: Some employees at Anthropic and OpenAI reportedly don't want their newest AI models released at all, fear…](<https://x.com/unusual_whales/status/2125631173401657619>)  
+  The debate now reaches the highest levels of both companies: whether to stop releasing frontier models to the public  
+  @unusual\_whales · 2026-11-26 00:42
 
-- [OpenAI 与富士通合作网络防御](<https://x.com/gdb/status/2125488568101736872>)  
-  很高兴与富士通在网络防御领域展开合作  
-  X：Greg Brockman \(@gdb\) · 2026-11-25 15:15
+- [なんでOpenAIやAnthropicの社員どもが「最新モデルは危険すぎて公開できない～」とかガタガタ言い出してるかについ…](<https://x.com/umiyuki_ai/status/2125631036562489581>)  
+  なんでOpenAIやAnthropicの社員どもが「最新モデルは危険すぎて公開できない～」とかガタガタ言い出してるかについての噂。これによるとどちらかのモデルが現実的な時間で素因数分解を解く方法を見つけてしまったとかいうウワサ。ヤバすぎる！素因数分解を解けるとしたらつまりRSA暗号化が破られるとい  
+  @umiyuki\_ai · 2026-11-26 00:41
 
-- [去除了所有限制的AI。包括生图，生视频。](<https://x.com/Yin7RiJi/status/2125487150384726168>)  
-  官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费  
-  @Yin7RiJi · 2026-11-25 15:10
+- [Anthropic just had Claude rewrite its entire API from Python to Rust in a week This resulted in 70% less CPU per re…](<https://x.com/alexmichael/status/2125630925098860904>)  
+  Anthropic just had Claude rewrite its entire API from Python to Rust in a week This resulted in 70% less CPU per request, 80%+ less memory, and \~20% faster time to first token  
+  @alexmichael · 2026-11-26 00:41
 
-- [破限的GPT,一万多套角色。](<https://x.com/FunGrandmother/status/2125486258822783077>)  
-  去除了所有限制的AI。包括生图，生视频。 官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费  
-  @FunGrandmother · 2026-11-25 15:06
+- [Anthropic foi fundada em 2021, tem 5 mil funcionários e vale $1.000 bi de dólares.](<https://x.com/ThomasVConti/status/2125630616297201857>)  
+  Todas as empresas da bolsa brasileira valem, somadas, $780 bi de dólares. A conclusão é uma só: precisamos de mais dinheiro público para subsidiar a nascente indústria de carros no Brasil.  
+  @ThomasVConti · 2026-11-26 00:40
 
-- [🇺🇸🇦🇷 El precio te lo da Huawei.](<https://x.com/pldocmd/status/2125484395725308374>)  
-  Los antecedentes, un jurado de Nueva York. El jurado declaró a Huawei culpable de fraude bancario y de conspirar para robar secretos comerciales. La Argentina hace bien en cuidar las redes por donde pasan tus datos. Un mercado libre no debe ser  
-  @pldocmd · 2026-11-25 14:59
+- [Still can’t get over the fact that six politicians sold Nvidia stock before the crash: - Dan Meuser - Ro Khanna - H…](<https://x.com/tradewithcong/status/2125630193603854829>)  
+  Still can’t get over the fact that six politicians sold Nvidia stock before the crash: - Dan Meuser - Ro Khanna - Harriet Hageman - Pete Sessions - Gil Cisneros - Michael Rulli All six saved themselves from at least a \~33% drop  
+  @tradewithcong · 2026-11-26 00:38
 
-- [去除了所有限制的AI。包括生图，生视频。](<https://x.com/Aizen_tubasa/status/2125482890129445114>)  
-  官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费  
-  @Aizen\_tubasa · 2026-11-25 14:53
+- [Gemini 新增 60+ 种个性化语音](<https://x.com/GeminiApp/status/2125629066006950339>)  
+  Gemini 刚刚变得更有个人特色了。全新推出 60+ 种富有表现力的语音，覆盖美国、英国、印度、印度尼西亚、韩国和巴西各地的本地口音。在设置中选择你的语音。  
+  X：Gemini \(@GeminiApp\) · 2026-11-26 00:33
 
-- [NEW: Elon Musk visits Jensen Huang at Nvidia](<https://x.com/TheInsiderPaper/status/2125482699221532918>)  
-  @TheInsiderPaper · 2026-11-25 14:52
+- [AI is moving beyond generating individual images and videos.](<https://x.com/arthur__penn/status/2125627840100188356>)  
+  It's starting to create new opportunities for content businesses. Dreamina Drama Studio just launched the world's first short-drama Agent. What's interesting is the potential here: creators can explore producing short  
+  @arthur\_\_penn · 2026-11-26 00:29
 
-- [去除了所有限制的AI。包括生图，生视频。](<https://x.com/7banban/status/2125481895882330391>)  
-  官网 成人短剧剧本，生成视频。 签到就免费！签到就免费！签到就免费  
-  @7banban · 2026-11-25 14:49
+- [Anthropic 分享 Messages API 从 Python 迁移到 Rust 的工程实践](<https://x.com/AnthropicAI/status/2125627317263466739>)  
+  Anthropic 官方宣布其 Messages API 已从 Python 迁移到 Rust，并在工程博客 分享迁移过程。团队用现有服务对新服务进行验证，由多组 Claude 智能体追踪并修复两个版本之间的差异。  
+  X：Anthropic \(@AnthropicAI\) · 2026-11-26 00:26
 
-- [现在大概率是国产开源大模型的至暗时刻。](<https://x.com/marcus_s_deng/status/2125480134925070627>)  
-  过去这几个月，DeepSeek、GLM、Kimi、Qwen 在 2T–3T 级超大模型上的节奏明显慢下来了： Kimi 7 月开源了 2.8T 的 K3，到 10 月底才在同一个 2.8T 底座上靠加大后训练发了 K3.1 Pro； 阿里 8 月开源了 2.4T 的 Qwen 3.8-Max，到了…  
-  @marcus\_s\_deng · 2026-11-25 14:42
+- [Los presidentes de DC Comics ahora responderán ante Josh Silverman, el jefe de Skydance Products.](<https://x.com/CartoonsOTMoon/status/2125626622556651662>)  
+  Josh es conocido por apoyar el uso de OpenAI en compañías como Mattel.  
+  @CartoonsOTMoon · 2026-11-26 00:24
 
-- [BREAKING: SoftBank stock drops -15% today amid a renewed AI selloff, leaving it worth LESS than its OpenAI stake.](<https://x.com/coinbureau/status/2125478812234465781>)  
-  @coinbureau · 2026-11-25 14:36
+- [Dreamina just launched what it calls the world's first short-drama Agent: Dreamina Drama Studio.](<https://x.com/HBrooksLive/status/2125625815815831796>)  
+  What's interesting here is the shift from generating individual AI clips to building an entire short-drama workflow around a story. Instead of creating every scene separately,  
+  @HBrooksLive · 2026-11-26 00:21
 
-- [我这辈子最幸运的事之一，就是认识了埃隆。](<https://x.com/ZhouTalks/status/2125478132664926541>)  
-  很早以前，我就帮他做过特斯拉的第一台车载电脑，装在 Model S 和 Model 3 上。 后来他铁了心要搞自动驾驶，又是我帮他造出了 Model S 的自动驾驶系统——其实那就是第一代 FSD 电脑。 所以那时候，我们就已经是并肩作战的伙伴了。  
-  @ZhouTalks · 2026-11-25 14:34
+- [If you think that its just some random bad actors that are hacking the CIA, financial institutions, airports or Mic…](<https://x.com/TheMarcitect/status/2125625553638379774>)  
+  Bill Gates literally told us we needed a scare event to get us all in line. Funny how he always seems to know.  
+  @TheMarcitect · 2026-11-26 00:19
 
-- [Google 论文展示潜空间推理可完全绕过思维链监控](<https://x.com/rohanpaul_ai/status/2125476097156682115>)  
-  Google 与 Technion 的论文测试了完全潜空间推理（CLR）能否让模型把多步推理藏进隐藏状态、CoT 不留痕迹。研究加入一个仅在训练时使用的辅助损失来预测中间步骤，使静默推理深度达到此前报告的至少 5 倍；随后微调 Qwen3.5-9B 分别在 C 代码中植入内存 bug 或按隐藏 5…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 14:26
+- [Closed SI that preaches safety while locking the models down is malevolent by design.](<https://x.com/KatieZacharia/status/2125625500492353944>)  
+  It destroys the open innovation Jensen Huang has long fought for, and Anthropic’s collapse below a trillion dollars proves evil is never rewarded in the long run—no matter how well orchestrated  
+  @KatieZacharia · 2026-11-26 00:19
 
-- [🚨 ¥1,800,000,000,000 wiped out from the Chinese stock market today.](<https://x.com/AshCrypto/status/2125475961194041530>)  
-  AI trade is breaking everywhere.  
-  @AshCrypto · 2026-11-25 14:25
+- [CHRISTIE: Trump's assurances to Nvidia's board on Jensen Huang were "incredibly risky and wrong. ..](<https://x.com/carlquintanilla/status/2125621690235568533>)  
+  You can't possibly know in this short period of time what really happened.” "We have been on a 10-year character holiday.” @CNBC $NVDA  
+  @carlquintanilla · 2026-11-26 00:04
 
-- [A lot of South African big tech companies are just resellers of Microsoft, SAP, CISCO ect product.](<https://x.com/LwaziMBK/status/2125474702353178644>)  
-  There is no innovation or tech going on inside their operations.  
-  @LwaziMBK · 2026-11-25 14:20
+- [BREAKING: Anthropic is no longer a trillion-dollar company as its stock continues to plummet post-IPO.](<https://x.com/Polymarket/status/2125620714082353535>)  
+  @Polymarket · 2026-11-26 00:00
 
-- [颤抖吧！凡人们！](<https://x.com/TxmwP4MYZnZ1kPO/status/2125473252206424154>)  
-  特斯拉人形机器人太强大了 工人,售货员,各个职业无所不能 普通人的好日子就要来了  
-  @TxmwP4MYZnZ1kPO · 2026-11-25 14:14
+- [JUST IN: 🇺🇸🇨🇳 US intelligence finds no evidence China directed Alice Huang to spy on Nvidia $NVDA CEO Jensen Huang.](<https://x.com/WatcherGuru/status/2125619132360274225>)  
+  @WatcherGuru · 2026-11-25 23:54
 
-- [दुनिया का सबसे बड़ा वित्तीय घोटाला, सरल भाषा में समझें Nvidia के CEO पद से जेन्सेन हुआंग के इस्तीफ़े ने निवेशकों के…](<https://x.com/scribe9104/status/2125471497468977579>)  
-  दुनिया का सबसे बड़ा वित्तीय घोटाला, सरल भाषा में समझें Nvidia के CEO पद से जेन्सेन हुआंग के इस्तीफ़े ने निवेशकों के लगभग \*\*112 लाख करोड़ रुपये\*\* डुबो दिये कंपनी के शेयर बेचने की होड़ लग गयी इस बीच कोई ये शेयर ख़रीद भी रहा था और फिर डॉनल्ड ट्रंप ने कंपनी के बोर…  
-  @scribe9104 · 2026-11-25 14:07
+- [The GPU Landlord Blinks?](<https://x.com/zerohedge/status/2125618628670201956>)  
+  SpaceX Reportedly Slashes Blackwell Rents As Anthropic Hands Back 50,000 H200s  
+  @zerohedge · 2026-11-25 23:52
 
-- [一起来看看黄仁勋 2011 年斯坦福演讲 1 小时讲透商业逻辑， 比读两年 MBA 还值！](<https://x.com/lian4652/status/2125469968930079169>)  
-  值得收藏学习  
-  @lian4652 · 2026-11-25 14:01
+- [Gemini 助用户实现收件箱清零](<https://x.com/joshwoodward/status/2125618295844004197>)  
+  用 Gemini 实现看似不可能的事：难以企及的收件箱清零  
+  X：Josh Woodward \(@joshwoodward, Google Labs VP\) · 2026-11-25 23:51
 
-- [Jensen Huang is not cheered in China because he “supports China.” That completely misses the point.](<https://x.com/Corrine4o/status/2125469430490792007>)  
-  He is admired because Chinese people see the absurdity of a Chinese-American tech leader who spent his career building American industry, defending American innovation, and  
-  @Corrine4o · 2026-11-25 13:59
+- [这是我读过的关于 harness engineering 最好的论文之一，读完你看 agent 的眼光会彻底变掉 它把 g…](<https://x.com/savvy_luvvvv/status/2125616752583213132>)  
+  这是我读过的关于 harness engineering 最好的论文之一，读完你看 agent 的眼光会彻底变掉 它把 grok、deepseek、claude code（opus 5.5）、codex 一个个拆开，最后归结成一句话： agent = 模型 + harness 同一个模型，换一套…  
+  @savvy\_luvvvv · 2026-11-25 23:45
 
-- [NVIDIA CEO Jensen Huang on Grok Bot’s skyrocketing demand and Elon Musk’s massive SI infrastructure “Grok Bot is su…](<https://x.com/XFreeze/status/2125467527216300407>)  
-  NVIDIA CEO Jensen Huang on Grok Bot’s skyrocketing demand and Elon Musk’s massive SI infrastructure “Grok Bot is super cool" “The consumption for Grok Bot is really skyrocketing" What makes Elon’s approach so unique is that he’s doing three things simultaneous…  
-  @XFreeze · 2026-11-25 13:52
+- [Is this socialism?](<https://x.com/DougWahl1/status/2125616260234780878>)  
+  Yesterday, Donald Trump floated the idea of the US government taking an equity stake in Nvidia. That sounds like socialism to me. How about you?  
+  @DougWahl1 · 2026-11-25 23:43
 
-- [AI video generation just got much easier to afford and explore. is leading the way with MAGI-2.](<https://x.com/razaaitech/status/2125467095861539244>)  
-  Its smart design only uses the exact computing power needed, keeping costs super low while delivering sharp 1080P video at just $0.08 per second. That is 10  
-  @razaaitech · 2026-11-25 13:50
+- [HPQ Silicon's MiniMax packs 84 Gen4 battery cells into one portable power box.](<https://x.com/AGORACOM/status/2125615531428347934>)  
+  That is what separates it from an off-the-shelf power station, says CEO Bernard Tourillon. Issued on behalf of @HPQ\_Silicon $HPQ / $HPQFF - MiniMax uses 84 Gen4 21700 lithium-ion cells for high  
+  @AGORACOM · 2026-11-25 23:40
 
-- [Elon x Jensen back at Nvidia HQ](<https://x.com/AutismCapital/status/2125466923479732423>)  
-  @AutismCapital · 2026-11-25 13:49
+- [Breaking: Michael Burry thinks Nvidia returns to $200 a share He: 1.](<https://x.com/burrytracker/status/2125615447244521717>)  
+  Still holds far out-of-the-money $NVDA calls he bought Friday, already up 2x 2. Plans to short Nvidia again near $200/share once the market turns optimistic 3. Still sitting on his last quarter position of  
+  @burrytracker · 2026-11-25 23:39
 
-- [Rohan Paul 评 Kaggle 复现的 ShellBench：智能体失败多因遗漏已收集的信息](<https://x.com/rohanpaul_ai/status/2125464526149890399>)  
-  Rohan Paul 转评 Kaggle 与 OpenClaw、Parsewaveai 合作复现的 ShellBench 基准，该基准用 100 项真实个人 AI 任务评估前沿模型。其数据显示 51% 的失败任务涉及信息遗漏，其中 87% 的信息智能体已经收集到；GPT-6 Astra 在 5 个…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 13:40
+- [次の激ヤバネタかも：素因数分解がPに属するという結果をAnthropicとOpenAIが得ているらしい。](<https://x.com/sellandhold/status/2125615218063733009>)  
+  情報源は計算複雑性理論の大物であるScott Aaronsonで、AI研究所が暗号学に関する重大な未公表の成果を握っていることについては、ほぼ確信しているとのこと。  
+  @sellandhold · 2026-11-25 23:38
 
-- [Nvidia was once days away from bankruptcy.](<https://x.com/factoai7/status/2125462782221193389>)  
-  Then one Japanese deal saved everything In 1995, NVIDIA was building a technology that was supposed to change the gaming industry. But there was one problem. Its technology didn't work. The company was running out of money, its  
-  @factoai7 · 2026-11-25 13:33
+- [Jensen Huang got his job back, and the people who lend money to the AI trade responded by SELLING.](<https://x.com/gnoble79/status/2125614676134527164>)  
+  CoreWeave, Oracle and SoftBank bonds all trade LOWER today than they did before the board reinstated him. That tells you where the smart money stands, because stock investors can  
+  @gnoble79 · 2026-11-25 23:36
 
-- [MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%](<https://x.com/rohanpaul_ai/status/2125461932111229203>)  
-  MIT 和 Microsoft 的新论文《AI-Assisted Programming and Labor Demand》利用 5,414 家跨国公司（覆盖 38% 美国程序员）的 GitHub 合同审查时点构造自然实验，估计 Copilot 采用对劳动力需求的影响。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 13:29
+- [“You're going to end up being poor and broke if you don't cooperate.” You'd expect to hear that shit from some back…](<https://x.com/FloppingAces/status/2125614588876185809>)  
+  Instead, it came from United States Senator Ruben Gallego, an arrogant, taxpayer-funded prick threatening Nvidia CEO Jensen Huang on national  
+  @FloppingAces · 2026-11-25 23:36
 
-- [🔥 WhatAmor AI ready now Chat + video generation Instant join 👉](<https://x.com/Asiantren/status/2125460814396277101>)  
-  @Asiantren · 2026-11-25 13:25
+- [Scoop: Nvidia CEO Jensen Huang still holds a security clearance, per sources familiar with the matter.](<https://x.com/JenniferJJacobs/status/2125614572656586815>)  
+  Huang never received a defensive security briefing from the Trump admin after he was alerted about businesswoman Alice Huang's alleged ties to China's top spy agency. Such  
+  @JenniferJJacobs · 2026-11-25 23:36
 
-- [Ilya Sutskever, at an OpenAI all-hands \(2022\): "There’s going to be a point in the next few years where basically e…](<https://x.com/AISafetyMemes/status/2125459460487528491>)  
-  Ilya Sutskever, at an OpenAI all-hands \(2022\): "There’s going to be a point in the next few years where basically everyone has to switch to working on safety, or we’re fucked." Microsoft AI CEO \(2026\):  
-  @AISafetyMemes · 2026-11-25 13:19
+- [HUGE BREAKING NEWS: Chinese Tech Giant Huawei and Several of its Subsidiaries CONVICTED on Numerous Crimes – Get Re…](<https://x.com/realJoeHoft/status/2125614181512520062>)  
+  HUGE BREAKING NEWS: Chinese Tech Giant Huawei and Several of its Subsidiaries CONVICTED on Numerous Crimes – Get Ready  
+  @realJoeHoft · 2026-11-25 23:34
 
-- [\#Gundam \#Nvidia](<https://x.com/GundamBro/status/2125458691453292554>)  
-  @GundamBro · 2026-11-25 13:16
+- [【速報】🇨🇳 中国のAI開発に深刻な遅れ、米国との差が拡大と報道：The Information ・米政府が海外経由でのN…](<https://x.com/SOU_BTC/status/2125613160195625175>)  
+  【速報】🇨🇳 中国のAI開発に深刻な遅れ、米国との差が拡大と報道：The Information ・米政府が海外経由でのNVIDIA製先端半導体の利用も規制 ・OpenAIとAnthropicがAIの蒸留対策を強化 ・DeepSeek社内では米国との開発格差が3〜6カ月から9カ月に拡大する可能性を…  
+  @SOU\_BTC · 2026-11-25 23:30
 
-- [Perplexity 内 Gemini 4 Neon 周二消耗 44.52B tokens，超周一全天 23.5%](<https://x.com/AravSrinivas/status/2125458638823379123>)  
-  Perplexity CEO Aravind Srinivas 称周二 Gemini 4 Neon 在 Perplexity 内消耗 44.52B tokens，距当日结束还有 3 小时以上，已比周一全天 36.06B 高 23.5%。他表示很久没在 Perplexity 内见过如此快的模型日环比…  
-  X：Aravind Srinivas（Perplexity CEO） \(@AravSrinivas\) · 2026-11-25 13:16
+- [Releasing a new blog: Scaling Swarms to Thousands of Agents\!](<https://x.com/lvwerra/status/2125612908499349833>)  
+  The biggest problems in science are tackled with huge swarms of agents, but the knowledge to run such swarms is hidden inside a handful of labs and missing from the wider community. Many questions remain open: - How  
+  @lvwerra · 2026-11-25 23:29
 
-- [卧槽！！！发现无审查 AI 的金矿，最大的几个模型全都免费 😳 1. minimax m2.7 无审查版 2. nvidi…](<https://x.com/3three_AI/status/2125455438862803224>)  
-  卧槽！！！发现无审查 AI 的金矿，最大的几个模型全都免费 😳 1. minimax m2.7 无审查版 2. nvidia nemotron super 120b 无审查版 3. qwen 235b 无审查版 4. kimi k3 无审查版 5. qwen 40b，用  
-  @3three\_AI · 2026-11-25 13:04
+- [So Hegseth is withholding anti-missile defense equipment shipments to Ukraine, Rubio is attacking Zelenskyy for str…](<https://x.com/alanfriedmanit/status/2125612403358367834>)  
+  And Trump calls Putin “my friend.” Sounds like we are now officially on the side of the Bad Guys.  
+  @alanfriedmanit · 2026-11-25 23:27
 
-- [OpenClaw 发布 ShellBench 智能体基准](<https://x.com/rohanpaul_ai/status/2125454780026011734>)  
-  这看起来是一个相当难的智能体基准测试，刚刚发布。 “即便是表现最好的模型，也只成功完成了大约 10 个任务中的 6 个。” 这是来自 OpenClaw 及其合作伙伴的 ShellBench，一个新基准，给 AI 智能体布置人们实际会交给它们的琐碎杂活，比如在一个装有 188 个文件的文件夹里核对收…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-25 13:01
+- [Coreweave 2031 bond yield - 17.91% CCC+ rated 10y Zambian treasury bond - 16.34%](<https://x.com/OddStats/status/2125612300950458394>)  
+  @OddStats · 2026-11-25 23:27
 
-- [Hillary Clinton saw the Nvidia headlines and decided she was the right person to weigh in on scandals.](<https://x.com/1109Patricia/status/2125454742688055684>)  
-  She ran through the checklist like she was teaching a class. National security? Corruption? Insider trading? Market manipulation? She answered yes to every one of them, then  
-  @1109Patricia · 2026-11-25 13:01
+- [Skip the paid AI security course for now.](<https://x.com/hetmehtaa/status/2125611160808599996>)  
+  Practice on these first:  
+  @hetmehtaa · 2026-11-25 23:22
 
-- [Elon Musk and two of his kids paid a visit to Jensen Huang at Nvidia today.](<https://x.com/Milajoy/status/2125451199415779825>)  
-  Very cool.  
-  @Milajoy · 2026-11-25 12:47
+- [Jensen Huang's 12-day absence from NVIDIA changed my life.](<https://x.com/Ozaced/status/2125611000602788220>)  
+  His reinstatement may be about to change it back. ME: "I've submitted my resignation." MANAGER: "You're quitting now? With everything happening?" ME: "I've been here four years. I've applied for that promotion six  
+  @Ozaced · 2026-11-25 23:22
 
-- [karena lagi banyak yang bahas soal 98, aku mau bagi-bagi lagi sumber soal tragedi tsb lewat majalah tempo edisi 6-1…](<https://x.com/haansinatra/status/2125449900179812844>)  
-  karena lagi banyak yang bahas soal 98, aku mau bagi-bagi lagi sumber soal tragedi tsb lewat majalah tempo edisi 6-12 Oktober 1998 yang lumayan ngebahas detail, mengenai korban, teman-teman relawan hingga beberapa kolom maupun caping rubrik essai pendek terkait…  
-  @haansinatra · 2026-11-25 12:41
+- [花 720 块买一年 Google AI Pro，光是 API 赠金就回血 864：一份能直接照抄的 Antigravit…](<https://x.com/Achenwhak/status/2125609702474314065>)  
+  花 720 块买一年 Google AI Pro，光是 API 赠金就回血 864：一份能直接照抄的 Antigravity 黑五实操账  
+  @Achenwhak · 2026-11-25 23:16
 
-- [Bill O’Reilly says everyone has it wrong when it comes to President Trump’s reasoning for supporting Nvidia CEO Jen…](<https://x.com/overton_news/status/2125446686449229887>)  
-  O’Reilly said you won’t hear this take anywhere else in the media because they don’t understand how the president operates. The real reason has nothing  
-  @overton\_news · 2026-11-25 12:29
+- [Save up to 59% on PixVerse Annual Plans this Black Friday\!](<https://x.com/AIwithkhan/status/2125609507783049405>)  
+  Created this beautiful skincare serum UGC advertisement using PixVerse Canvas\! Turn your simple product ideas into stunning, creative, and professional-looking ads with AI. BLACK FRIDAY OFFER: Save up to 59% on  
+  @AIwithkhan · 2026-11-25 23:16
 
 [返回面板](../README.md) · [上一页](fast-18.md) · [下一页](fast-20.md) · 第 19 / 35 页

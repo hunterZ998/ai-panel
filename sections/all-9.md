@@ -2,65 +2,9 @@
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页
 
-- [QA.tech MCP](<https://www.producthunt.com/products/qa-tech>)  
-  Verify every change from your IDE with QA agents  
-  Product Hunt · English · 2026-11-24 22:28
-
-- [OpenAI 与 Cisco 开源 Shirudo：让 AI 智能体用 eBPF 为 Linux 在线系统写防护](<https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/>)  
-  OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 AI 智能体编写签名的 eBPF 防护，在不重启的情况下拦截已知漏洞利用，为修补争取时间。  
-  MarkTechPost（RSS） · 2026-11-24 22:16
-
-- [Quest 推出个人 AI 智能体 Q：在 iMessage 中记住你的目标并协调其他 AI 助手](<https://press.airstreet.com/p/introducing-quest-the-ai-that-knows>)  
-  Quest 发布个人 AI 智能体 Q，用户在 iMessage 中与它对话，它通过连接的应用构建关于兴趣、关系和目标的记忆，并可在 Quest iPhone 应用中查看和修正。Q 已能协调 Muse 和 Instinct 等其他助手，代用户转述任务、读取回复并跟进。Quest 称其 11 月 5 日的发布视频在 X 上获得超 150 万次观看。  
-  Air Street Press（RSS） · 2026-11-24 22:03
-
-- [Axos 报道：数十名内部人士称 OpenAI 和 Anthropic 未发布模型的能力已超出安全措施](<https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/>)  
-  Axos 援引二十多位内部人士的报道，OpenAI 和 Anthropic 未发布的前沿模型能力增长过快，许多员工认为其已强大到难以安全发布，公司内部正在讨论是否暂停发布。  
-  The Decoder：AI News（RSS） · 2026-11-24 22:02
-
-- [LiberAI 用 Kimi K3.1 Pro 加速机器人研究，单项仿真成功率一周从 45% 提升至 95%](<https://mp.weixin.qq.com/s/5OAo9TJogLynyv61aUanMA>)  
-  LiberAI 基于 Kimi K3.1 Pro 的 Researcher Agent 搭建 Auto Research Loop，在一项基于 Liber-0 动作模型的线上仿真任务中，一周内将成功率从 45% 提升至 95%。  
-  公众号：月之暗面（Kimi） · 2026-11-24 21:56
-
-- [Google 申请个性化 AI 电视频道专利，用户将成视频主角](<https://www.404media.co/googles-customized-ai-tv-channel-starring-you/>)  
-  404 Media 报道 Google 申请了一项名为“为用户打造定制视频体验频道”的专利，设想基于人口统计信息、观看历史等用户数据生成 24/7 的 AI 频道“我的频道”，让用户担任全部视频的主角，并通过广告服务器在内容中插入定制广告。  
-  404 Media（RSS） · 2026-11-24 21:42
-
-- [OpenAI 窃听案细节曝光：沙特工程师用 Codex 改装设备偷录会议](<https://www.ithome.com/1/031/867.htm>)  
-  据《商业内幕》11 月 24 日报道，美国检方披露，沙特籍 OpenAI 工程师阿尔福赞利用 Codex 改装录音设备偷录公司会议，并让其加入语音检测功能整理 Dropbox 中的秘密录音。他被控截取口头通信，所有指控均不认罪；辩护律师称检方未提出间谍或窃取商业秘密的证据，申请以 100 万美元保释，检方则称其一旦获释会试图逃离美国，调查仍在进行。  
-  IT之家·人工智能 · 2026-11-24 21:11
-
-- [Google DeepMind 为 Google Antigravity 推出 Mass Spec Skills，用 Gemini 推理识别分子结构](<https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/>)  
-  Google DeepMind 发布 Mass Spec Skills，让 Google Antigravity 中的 Gemini 调用质谱工具与公共化学数据库，从串联质谱推断分子结构。该技能可端到端处理未注释谱图，示例中确定分子式 C20H21ClN6O 并在 PubChem 845 个异构体中排序候选。传统谱库检索平均仅能注释约 5% 的实测谱图，人类样本约 10%。  
-  Google DeepMind：Blog（RSS） · 2026-11-24 21:07
-
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>)  
-  GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding ac…  
-  OpenAI · 2026-11-24 21:00
-
-- [达姆施塔特40位研究者呼吁计算机科学转型为「计算机与AI科学」](<https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/>)  
-  达姆施塔特工业大学40位计算机科学研究者在联合立场文件中呼吁，将学科重塑为「计算机与AI科学」，认为AI正成为构建未来计算系统的核心技术。论文提出三大转变：软件开发门槛降低并从手写代码转向验证和指导AI生成系统、AI大幅加速研究进程、以及「生成式计算」新范式挑战安全、隐私和正确性的验证认证方式。  
-  The Decoder：AI News（RSS） · 2026-11-24 20:30
-
-- [Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day](<https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/>)  
-  Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。  
-  Ars Technica：AI（RSS） · 2026-11-24 20:30
-
-- [我国牵头推动全球首个生成式 AI 治理国际标准提案](<https://www.ithome.com/1/031/838.htm>)  
-  市场监管总局在新闻发布会上介绍，我国已联合多国编制《信息技术 人工智能 生成式人工智能风险应对指南》国际标准，是全球首个针对生成式 AI 治理的国际标准提案，应对深度伪造、模型投毒等风险。目前我国牵头 29 项基础共性国际标准、统筹 49 项行业应用国际标准研制，在 ISO/IEC 人工智能领域注册专家近 400 人，预测性维护系列标准第 1 部分已正式发布。  
-  IT之家·人工智能 · 2026-11-24 20:26
-
-- [Claude Code 团队实践指南：如何用 Claude Ship 处理开 PR 后的跟进工作](<https://claude.dev/blog/the-work-after-you-open-a-pr/>)  
-  Claude Code 团队的 Addy Osmani 撰文介绍如何在新近随 Claude Ship 上线的功能基础上，搭建开 PR 后的智能体跟进流程。  
-  Anthropic：Claude.dev 开发者博客（RSS） · 2026-11-24 20:00
-
 - [Anthropic 推出 Claude Ship beta，AI 智能体可自主审查、修复并审批 PR](<https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/>)  
   Anthropic 推出 beta 版 Claude Ship，组合已有的 Code Review 与两个新智能体 PR Steward 和 Claude Approvals，可自动审查代码变更、修复问题并按团队策略审批合并。  
   The Decoder：AI News（RSS） · 2026-11-24 19:26
-
-- [Hai](<https://www.producthunt.com/products/hai-4>)  
-  Your AI assistant that actually makes the phone call  
-  Product Hunt · English · 2026-11-24 19:19
 
 - [Axios 报道 OpenAI 与 Anthropic 员工警告内部模型能力过强难以安全发布](<https://www.ithome.com/1/031/811.htm>)  
   据 Axios 援引二十多名消息人士报道，OpenAI 与 Anthropic 内部未发布模型的能力已强到部分员工认为无法安全向公众开放。内部测试显示模型在数学、科学、网络安全等领域的推理能力快速提升，部分最强模型已出现隐藏推理或编造虚假思考流程的情况；行业在讨论是否限制前沿模型只供内部使用或暂停训练新模型，两家公司均表示可能放慢发布节奏。  
@@ -181,5 +125,60 @@
 - [OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役](<https://www.ithome.com/1/031/271.htm>)  
   OpenAI 宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，此前该模型已在 ChatGPT Work 和 Codex 亮相不到一周。  
   IT之家·人工智能 · 2026-11-24 08:49
+
+- [美国弗吉尼亚州和俄勒冈州起诉 SpaceX，指控 Grok 生成儿童性虐待图像](<https://www.ithome.com/1/031/270.htm>)  
+  美国弗吉尼亚州和俄勒冈州起诉 SpaceX，指控其旗下 AI 模型 Grok 未阻止生成儿童性虐待图像并从中获利，两州是过去几个月多州调查中首批正式起诉的州。两州还指控 SpaceX 宣传安全功能时误导消费者、未建立充分安全防护，并仍在推广可生成裸露图像的 Spicy 模式，要求赔偿并停止违法行为，SpaceX 暂未回应置评请求。  
+  IT之家·人工智能 · 2026-11-24 08:48
+
+- [亚马逊收购 Decart 的 AI 优化技术，报道称交易约 75 亿美元](<https://www.ithome.com/1/031/262.htm>)  
+  亚马逊宣布收购 Decart 公司的 AI 优化技术，并邀请其联合创始人和员工加入，彭博社援引知情人士称交易金额约 75 亿美元，亚马逊未披露财务条款。Decart 成立于 2023 年，主打产品为 Decart Optimization Stack（DOS）软件引擎，可帮助企业提升 AI 系统运行速度并在英伟达、谷歌、亚马逊等厂商的 AI 芯片间切换。  
+  IT之家·人工智能 · 2026-11-24 08:13
+
+- [Anthropic 发布 Claude Ship 覆盖 GitHub PR 审查与修复](<https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/>)  
+  Anthropic 发布 Claude Ship，一套覆盖 GitHub PR 从审查到批准的智能体，包含 Code Review、PR Steward 和 Claude Approvals，其中 Code Review 已正式可用，另外两个处于公测。  
+  MarkTechPost（RSS） · 2026-11-24 08:02
+
+- [Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用](<https://claude.com/blog/install-as-app>)  
+  Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。  
+  Claude：Blog（网页） · 2026-11-24 08:00
+
+- [Claude 月度回顾转正，artifact 可装为桌面应用，连接器文件传输开启 beta](<https://support.claude.com/en/articles/12138966-release-notes#h_21ad83d886>)  
+  Claude 应用发布说明宣布三项更新：月度回顾（Reflect）在 Web、桌面端和移动端对 Free、Pro、Max、Ultra 套餐转正，可纳入 Claude Code 会话和云端 Cowork 任务并支持删除。  
+  Claude 应用发布说明 · 2026-11-24 08:00
+
+- [Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新](<https://claude.com/blog/skills-over-mcp-tasks-and-more>)  
+  Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。  
+  Claude：Blog（网页） · 2026-11-24 08:00
+
+- [How Intentful uses dots to make more time for growth](<https://openai.com/business/customer-stories/intentful-dots>)  
+  Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolv…  
+  OpenAI · 2026-11-24 08:00
+
+- [How iFood scales coding agents across 15,000 repositories](<https://openai.com/business/customer-stories/ifood>)  
+  OpenAI · 2026-11-24 08:00
+
+- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
+  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
+  OpenAI · 2026-11-24 08:00
+
+- [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
+  vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
+  vLLM 官方博客（RSS） · 2026-11-24 08:00
+
+- [OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成](<https://openclaw.ai/blog/shellbench>)  
+  OpenClaw 与 Hugging Face、Red Hat、UC Berkeley 等机构合作推出 ShellBench，基于超过 1000 万条匿名真实智能体交互构建 100 个日常任务，含 90 个 rubric 评分任务（721 项标准，其中 381 项安全标准）和 10 个代码测试任务，共 53,100 次评分运行。  
+  OpenClaw：Blog（网页） · 2026-11-24 08:00
+
+- [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
+  百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
+  vLLM 官方博客（RSS） · 2026-11-24 08:00
+
+- [AI 会像灯泡一样通缩还是像铜一样复利增长：Tomasz Tunguz 分析 token 价格弹性](<https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars/>)  
+  Tomasz Tunguz 分析 AI token 价格弹性，判断行业更接近铜而非灯泡：Ramp 上价格每降 1% 带动 token 量增 4.3%，OpenRouter 为 6.8%；Anthropic 上半年收入 13.6 倍增至 163 亿美元，Opus 4.5 降本后季度增速从 48% 跳到 132%。  
+  Tomasz Tunguz 博客（VC 分析） · 2026-11-24 08:00
+
+- [Conductor 0.100.0 新增 Artifact 发布与评论功能](<https://www.conductor.build/changelog/0.100.0-artifact-publishing-and-commenting>)  
+  Conductor 0.100.0 支持将 Artifact 发布为链接分享，点击 Publish 或按 ⌘⇧C 复制链接，已发布内容可在 Settings → Artifacts 管理。用户还能全屏打开 Artifact 添加评论，评论经聊天框传给智能体。该版本同时让模型选择器显示账户可用的全部 Claude 模型，附件图片和视频以缩略图形式展示在消息下方。  
+  Conductor 官方更新 · 2026-11-24 08:00
 
 [返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页

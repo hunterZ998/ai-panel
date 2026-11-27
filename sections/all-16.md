@@ -2,62 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 19 页
 
-- [Agent自演进驶入“双轨时代”！openJiuwen RSI再升级，首发TTSE经验学习框架](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=2&sn=6ad1860f6959a61a672accae3830d639>)  
-  量子位 · 2026-11-10 10:22
-
-- [100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=1&sn=18eb40f983ce6f226d5e91685b655b10>)  
-  量子位 · 2026-11-10 10:22
-
-- [一图生成不穿模的驾驶视频，物理合理性Waymo实测第一丨港科广新框架已开源](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=3&sn=daa8c5e19b4475029e89910f836ad72a>)  
-  量子位 · 2026-11-10 10:22
-
-- [倒计时一周｜量子位2026人工智能年度榜单征集即将截止！](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942445&idx=4&sn=74475428acb666bbc7a98fa9949affb2>)  
-  量子位 · 2026-11-10 10:22
-
-- [中国卷大模型，美国缺机器人：在硅谷做具身智能背后的「中国启示录」](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748707&idx=2&sn=9961a7f19de98ddc48368a8305639d3b>)  
-  AI科技评论 · 2026-11-10 09:30
-
-- [24 小时，34 项第一，这家中国 AI 交互视频公司凭什么登顶英伟达算子榜？](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748707&idx=1&sn=f1efaf6f59e101e9248dbd11e5efd40d>)  
-  AI科技评论 · 2026-11-10 09:30
-
-- [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115784&idx=1&sn=bcf79b8e25245607c5db48587044d3d1>)  
-  APPSO · 2026-11-10 08:58
-
-- [Fable 5.2狂刷72项世界纪录，23年黑洞难题告破！科学史又改写了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=1&sn=6c1a2418ed8ea73a9ddbbc31995bba23>)  
-  新智元 · 2026-11-10 08:55
-
-- [突发！特朗普自曝警告某AI巨头CEO：准备坐牢吧](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741593&idx=2&sn=44053bfb790666822d415a6d14842c24>)  
-  新智元 · 2026-11-10 08:55
-
-- [英伟达发布机器人基模GR00T 2，12月开源，Jim Fan：机器人要有自己的System 1 \| CoRL 2026](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748704&idx=1&sn=28f5e4dcb815a399be5c177f64da458f>)  
-  AI科技评论 · 2026-11-10 08:21
-
-- [ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116254&idx=1&sn=c9dc85bbf3ec50ac61961dd08592ae00>)  
-  极客公园 · 2026-11-10 08:17
-
-- [英伟达逆势大跌，一夜蒸发1.29万亿元/苹果国行AI备案新增iPad和Mac/千问办公2.0发布](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115783&idx=1&sn=76202bc3bb2487fdf9ff0fe4d3477e70>)  
-  APPSO · 2026-11-10 07:58
-
-- [E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](<https://sv101.fireside.fm/272>)  
-  HF0正在成为硅谷最难进入的“孵化器”，在旧金山的核心地带，有一栋建于1904年的大主教府邸，如今它是驻地创业加速项目HF0（Hacker Fellowship Zero）的驻扎地。HF0由Dave Fontenot创立，每年只开3期…  
-  硅谷101 · 2026-11-10 07:00
-
-- [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115757&idx=1&sn=8d4555eff32c80f7940bab5c6395d816>)  
-  APPSO · 2026-11-10 06:42
-
-- [最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741547&idx=1&sn=71d6d9fb635f0ea5b0714b04b7a68bf3>)  
-  新智元 · 2026-11-10 06:41
-
-- [Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247942444&idx=1&sn=33f7edd8c7bca1dffbcb94a11b82a34d>)  
-  量子位 · 2026-11-10 05:59
-
-- [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/what_frontier_labs_buy_a_data_deep_dive_with_handshake_ai_garrett_lord_team>)  
-  Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly…  
-  Latent Space · 2026-11-10 00:41
-
-- [中国汽车市场，不止一种赢法 \| 极客车间](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116244&idx=1&sn=953ca93be7ad1c997f1334c356d51b88>)  
-  极客公园 · 2026-11-09 22:21
-
 - [ZPedia丨实测字节 TRAE 宝：字节的 Personal agent，从编程场景开始](<https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ%3D%3D&mid=2453901335&idx=1&sn=1fca0e12c9b58714b0b1952bf28ad228>)  
   Z Finance · 2026-11-09 21:59
 
@@ -122,6 +66,14 @@
   Arthur Mensch is the Co-Founder and CEO @ Mistral, the last remaining hope for frontier intelligence in Europe. Mistr…  
   20VC · 2026-11-09 15:07
 
+- [优理奇机器人（UniX AI）完成5亿元Pre-A轮融资，推动具身智能规模化落地](<https://www.pedaily.cn/first/190983.shtml>)  
+  优理奇智能科技（苏州）有限公司完成5亿元Pre-A轮融资，老股东谢诺投资、涌铧投资超额追加投资，新进机构含绿地集团、柯力传感等。本轮融资将支持其深化具身智能研发与产品迭代，拓展物业、酒店等场景应用，推动产业化落地。（投资界讯） 原文链接  
+  投资界 · 2026-11-09 14:47
+
+- [刻行时空完成新一轮近亿元融资，向机器人部署态数据公司全面迈进](<https://www.pedaily.cn/first/190951.shtml>)  
+  上海刻行时空科技有限公司完成新一轮近亿元融资，本轮由咏归基金领投，天机TIANJI、常州智融等跟投，本轮资金将重点投入：为机器人提供多样性数据与能力评测的预部署环境高精度姿态追踪与多维度标注的数据理解专用模型加速机器人落地的“采集-训…  
+  投资界 · 2026-11-09 13:49
+
 - [前歌尔、华为团队做全彩3D拼装DIY创作平台，拿下元禾、梅花等天使系列融资｜硬氪首发](<https://36kr.com/p/4053486898418569?f=rss>)  
   作者｜黄楠 编辑｜袁斯来 硬氪获悉，全彩3D拼装DIY软硬件创作平台「睿岭智能」近日连续完成两轮数千万元融资，天使轮由元禾原点领投、天使+轮梅花创投领投，高秉强教授及旗下Brizan Venture基金、麟阁创投、某全球头部IP企业创…  
   36氪 · 2026-11-09 13:04
@@ -143,7 +95,64 @@
   New Talogy InView Leadership® helps organisations assess, select and develop leaders at every level DUBAI, UAE, Nov.…  
   PR Newswire · 2026-11-09 12:03
 
+- [原方智能完成数千万元天使轮融资，推进世界模型研发与家庭场景落地](<https://www.pedaily.cn/first/190928.shtml>)  
+  11月9日消息，原方（南京）智能科技有限公司近日完成数千万元天使轮融资，由金雨茂物领投，我乐家居、南京市创新投资集团跟投。公司专注具身智能世界模型研发，以家庭服务为核心场景，融资将用于核心技术攻关、产品开发及团队建设，加速技术落地应用…  
+  投资界 · 2026-11-09 11:17
+
 - [Qwen 4疑似偷跑！游戏开发超越Opus 5.5，成本暴降85%](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=1&sn=210b20c50f8aa2e46e67cb7ef169a42f>)  
   量子位 · 2026-11-09 11:05
+
+- [GPT-6.2 Sol上线灰测！3倍速干翻Opus 5.5，账单还砍半了](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940558&idx=2&sn=b013a259db6e8da5f8b1f236f726cd11>)  
+  量子位 · 2026-11-09 11:05
+
+- [刚刚，马斯克评论黄仁勋出轨事件](<https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651115550&idx=1&sn=c416c5ae77963842e1e914f466907965>)  
+  APPSO · 2026-11-09 10:46
+
+- [超1.3万人共赴出海之约：GTC2026 全球流量大会（上海）圆满收官](<https://36kr.com/p/4061893184754565?f=rss>)  
+  11月5日，为期两天的GTC2026 全球流量大会（上海）在上海世博��览馆H3馆圆满落下帷幕。 作为本年度跨境出海领域的重磅盛会，本届大会交出了一份亮眼的成绩单： 两日入场总人数突破13000人，总人次超25000。 在7500平米…  
+  36氪 · 2026-11-09 10:12
+
+- [四足机器人，又翻过了一座大山](<https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247748609&idx=1&sn=5db19a5c4ec6cfd586c49a55b1da3ef4>)  
+  AI科技评论 · 2026-11-09 09:58
+
+- [OpenAI破译数论百年悬案，揭开P≠NP重大线索！千禧年神题逼近了](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741377&idx=2&sn=01c64561413e9f77452a03418e94b34e>)  
+  新智元 · 2026-11-09 09:57
+
+- [OpenAI、Anthropic接连出手！中国黑马把实验室变成AI「进化训练场」](<https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652741377&idx=1&sn=df10cbb86d7fd7e8916d5d862a1ab925>)  
+  新智元 · 2026-11-09 09:57
+
+- [联友科技高亮：我们还在探讨设置墨西哥、泰国据点\| 最前线](<https://36kr.com/p/4061852643775360?f=rss>)  
+  “车企出海，正面临海外制造与供应链协同难、本地营销获客效率低、售后服务响应慢、财务与HR合规流程繁琐等痛点。”联友科技海外事业BU总监付司纬这样总结车企出海所面临的难题。 针对这些痛点，联友科技推出AI原生的汽车出海全链路数智化解决方…  
+  36氪 · 2026-11-09 09:49
+
+- [Edge AI Daily 早报（11月9日）](<https://www.tmtpost.com/8197806.html>)  
+  中期选举后美国46项数据中心公投否决扩张，AI基建进入许可时代；纳指单日跌5.5%、费半跌12%，亚洲市场熔断。Anthropic斥34亿美元购1.7GW燃气发电机，伯恩斯坦估OpenAI至2030年算力支出或达6140亿美元。苹果推…  
+  钛媒体 · 2026-11-09 09:28
+
+- [AI会撞上的下一堵墙可能是水](<https://www.tmtpost.com/8197774.html>)  
+  世界经济论坛的报告估计，全球约45%的数据中心设施位于高水压力地区  
+  钛媒体 · 2026-11-09 09:20
+
+- [三优生物完成近亿元C轮融资，累计融资近3亿元，加速构建AI驱动的创新药研发与转化新生态](<https://www.pedaily.cn/first/190896.shtml>)  
+  三优生物医药（上海）有限公司完成近亿元C轮融资，由清科产投基金独家投资。（投资界讯） 原文链接  
+  投资界 · 2026-11-09 09:00
+
+- [黄仁勋承认「婚外情」英伟达启动调查；ChatGPT 陷封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈AI公司护城河：在产品层而不是模型层](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116214&idx=1&sn=44f51a7368dc153eb96a6f011ebaf38b>)  
+  极客公园 · 2026-11-09 08:57
+
+- [价值判断：跌停板的投资机会和风险提示（11月6日）｜上市公司观察](<https://www.tmtpost.com/8197864.html>)  
+  高争民爆的溢价是矿资产注入的期权，预案还要过几道审批，跨界采矿是全新课题；大业股份的溢价是一根还没量产的腱绳，钢丝主业在价格下行里亏损扩大；襄阳轴承的溢价是机器人轴承的想象，那项收入占比几乎为零，创新高当天就被砸到跌停。  
+  钛媒体 · 2026-11-09 08:32
+
+- [Anthropic估值砍到1万亿美元](<https://www.pedaily.cn/first/190888.shtml>)  
+  11月7日，经历了科技股遭遇大规模抛售之后，一些投资者开始下调对人工智能公司Anthropic的估值预期。而在不久前，这家人工智能公司还在为IPO冲击2万亿美元估值做准备。但据相关利益方透露，即便是1.5万亿美元的估值，如今也已经充满…  
+  投资界 · 2026-11-09 08:31
+
+- [OpenAI完成110亿美元新融资，估值1.25万亿美元](<https://www.pedaily.cn/first/190887.shtml>)  
+  据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。资金已于周五划入公司账户。本轮剩余部分——地方政府可能增至最高200亿美元——预计将在未来数周内完成。在推迟了首次公开募股（IPO）…  
+  投资界 · 2026-11-09 08:31
+
+- [量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时](<https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247940494&idx=2&sn=9db07334ac7280256ec75aacf999ddd4>)  
+  量子位 · 2026-11-09 08:18
 
 [返回面板](../README.md) · [上一页](all-15.md) · [下一页](all-17.md) · 第 16 / 19 页

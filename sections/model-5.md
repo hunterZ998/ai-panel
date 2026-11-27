@@ -2,21 +2,6 @@
 
 [返回面板](../README.md) · [上一页](model-4.md) · 第 5 / 5 页
 
-- [实测 HY4：腾讯最「夯」大模型，离一线还有多远](<https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653116182&idx=1&sn=d4d45a0cd14d25065292cdc5e195ad7c>)  
-  极客公园 · 2026-11-07 18:00
-
-- [Crusoe sells troubled Wyoming data center project to Google](<https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/>)  
-  The deal highlights the challenges of developing massive AI data centers.  
-  TechCrunch · 2026-11-07 09:40
-
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>)  
-  OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expec…  
-  TechCrunch · 2026-11-07 06:53
-
-- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](<https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/>)  
-  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders co…  
-  TechCrunch · 2026-11-06 23:54
-
 - [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](<https://podcast.latepost.com/185>)  
   今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在二级市场的讨论中，我邀请了 Amont Partners 的管理合伙人 Rob Li（李…  
   晚点聊 · 2026-11-06 09:30

@@ -2,6 +2,10 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](<https://guiguzaozhidao.fireside.fm/20240452>)  
+  同样是科技巨头宣布加大 AI 投入，资本市场为什么会给出截然不同的反应？ 今年 5 月，我们和老朋友 Aaron 聊过 AI 泡沫与循环投资。半年过去，芯片、数据中心和大模型依然牵动着市场，但投资人追问的问题，逐渐从“还要投入多少钱”…  
+  科技早知道 · 2026-11-27 14:30
+
 - [How Clay Builds GTM Agents — Jeff Barg, Head of AI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_clay_builds_gtm_agents_jeff_barg_head_of_ai>)  
   Clay \( https://www.clay.com/ \) wants you to get about the same results whether you use its own agent or point Claude…  
   Latent Space · 2026-11-27 06:44
@@ -177,9 +181,5 @@
 - [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
   AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
   20VC · 2026-11-05 15:07
-
-- [The New AI Agents That Shop, Plan, and Gossip](<https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd>)  
-  Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our l…  
-  The a16z Show · 2026-11-04 19:00
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

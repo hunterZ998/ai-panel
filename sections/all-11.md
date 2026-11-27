@@ -2,65 +2,9 @@
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页
 
-- [Google Search AI Mode 接入 Drive 和 Wallet 提供更个人化回答](<https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/>)  
-  Google 宣布将 Search AI Mode 中的 Personal Intelligence 扩展到 Google Drive、Google Wallet 和 Gemini app，让回答结合用户更多个人数据。  
-  TechCrunch：AI（RSS） · 2026-11-24 03:14
-
-- [Z.ai 发布 GLM-5.4：750B Loop Transformer，28 层循环跑两次](<https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/>)  
-  Z.ai 发布 GLM-5.4，是其首个基于 Loop Transformer 架构的旗舰模型，将 GLM-5 基座的 28 层权重共享层循环运行 2 次，官方称智能水平可比 2T-3T 参数模型。  
-  MarkTechPost（RSS） · 2026-11-24 03:11
-
-- [Nothing 新款耳机 Ear Note 亮相：充电盒可录音并生成 AI 转录摘要](<https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording>)  
-  Nothing 在发布前演示了 Ear Note 耳机，其带麦克风的充电盒可录制对话，并通过配套应用管理录音、转录和 AI 生成摘要。CEO Carl Pei 称这是"为 AI 构建硬件上下文层"的首批产品之一，耳机将支持与多种 AI 智能体交互，并设有"Talk"录音按键。该产品计划于 12 月 8 日发布，价格尚未确定。  
-  The Verge：AI（RSS） · 2026-11-24 03:04
-
-- [Anthropic 月付约 31 亿美元租用算力，推动 xAI 转向租比建更划算的策略](<https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/>)  
-  据 New York Times 报道，Anthropic 与 xAI 签订约每月 31 亿美元的算力租用合同，成为 xAI 最大客户，Google 每月支付 8 亿美元，两份合同均可提前 90 天通知取消，Anthropic 带来的收入已超过 xAI 总收入的一半。  
-  The Decoder：AI News（RSS） · 2026-11-24 02:47
-
-- [OpenAI 首席科学家 Jakub Pachocki 公布 GPT 系列困惑度分数并呼吁同行约定共同安全限制](<https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/>)  
-  OpenAI 首席科学家 Jakub Pachocki 在博客公布 GPT 系列的 log-perplexity 内部分数，希望让困惑度成为行业衡量进展的共同指标。  
-  The Decoder：AI News（RSS） · 2026-11-24 02:42
-
-- [俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足](<https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit>)  
-  俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。  
-  The Verge：AI（RSS） · 2026-11-24 02:26
-
-- [Google 申请个性化 AI 电视频道专利，用户将成为主角](<https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/>)  
-  Google 已提交一项专利申请，拟利用其掌握的用户信息生成全天候 AI 电视频道，内容包括以用户为主角的个性化节目和定制广告。404 Media 认为，这反映了 AI 视频的一个趋势：基于公司和广告主收集的大量用户数据自动生成无限量、高度定制的内容。  
-  404 Media（RSS） · 2026-11-24 02:17
-
-- [黄仁勋复任英伟达CEO后定于12月3日出席参议院银行委员会听证会](<https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/>)  
-  黄仁勋定于12月3日出席美国参议院银行委员会听证会，该委员会主管AI芯片等敏感技术的出口管制政策。此前他因个人事务辞任英伟达CEO，不到两周后复任。在复任之前，黄仁勋已同意于12月1日出席美国众议院外交事务委员会及情报委员会相关听证会。  
-  TechCrunch：AI（RSS） · 2026-11-24 02:12
-
-- [Microsoft AI 详解自研 RL 框架 Rocket，用于后训练 MAI Base 2](<https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/>)  
-  Microsoft AI 发文介绍自研强化学习框架 Rocket，正用于对三万亿参数基座模型 MAI Base 2 做无第三方蒸馏的后训练。  
-  Microsoft AI：官方博客（RSS） · 2026-11-24 01:24
-
-- [Ai2 发布 RoboTrack 点跟踪基准、RoboTrack-15M 数据集与 RoboTracker 系列模型](<https://huggingface.co/blog/allenai/robotrack>)  
-  Ai2 发布面向机器人操作的点跟踪基准与训练数据套件 RoboTrack，包含 307 段人工标注视频的 RoboTrack-Bench（2522 条轨迹，来自 DROID、Ego-Exo4D、MolmoAct 2 和 EgoVerse）和基于 MolmoSpaces 生成 1500 万条轨迹的 RoboTrack-15M。  
-  Hugging Face 社区博客（混合发现） · 2026-11-24 01:20
-
-- [Amazon 以 75 亿美元收购 Decart 优化技术，筹备对外销售 Trainium 芯片](<https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/>)  
-  Amazon 已同意以 75 亿美元收购以色列初创公司 Decart 的大部分业务，包括其 Decart Optimization Stack（DOS）优化技术、创始团队及 AI 研究与工程团队。  
-  TechCrunch：AI（RSS） · 2026-11-24 01:14
-
-- [Investing in Embo](<https://www.a16z.news/p/investing-in-embo>)  
-  AI is now moving off the screen and into the physical world, and that requires models that understand how the physica…  
-  a16z · 2026-11-24 01:02
-
-- [Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用](<https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/>)  
-  Google 宣布在 Search 的 AI Mode 中扩展 Personal Intelligence，用户可选择安全连接 Google Wallet、Drive 和 Gemini 应用，Wallet 即日起开放，Drive 和 Gemini 应用将在未来数周跟进。  
-  Google Blog：AI（RSS） · 2026-11-24 01:00
-
-- [Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/>)  
-  Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。  
-  Google DeepMind：Blog（RSS） · 2026-11-24 00:59
-
-- [Databricks 宣布 Lakebase Postgres 原生 Spark Structured Streaming sink 正式可用](<https://www.databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming>)  
-  Databricks 宣布面向 Apache Spark Structured Streaming 的原生 Lakebase sink 正式可用，通过单次 writeStream 调用即可把计算结果直接写入 Lakebase，内置批处理、连接复用、自动重试与 upsert。  
-  Databricks：Blog（RSS） · 2026-11-24 00:32
+- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
+  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
+  Fireworks AI（网页） · 2026-11-24 00:00
 
 - [METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍](<https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/>)  
   METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。  
@@ -89,14 +33,6 @@
 - [Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设](<https://www.goodfire.com/research/building-stronger-biological-reasoning-models>)  
   Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。  
   Goodfire Research（网页） · 2026-11-24 00:00
-
-- [Sarvam AI 发布文档抽取 API Sarvam Extract](<https://www.sarvam.ai/blogs/extract-api>)  
-  Sarvam AI 发布结构化文档抽取 API Sarvam Extract，由 Sarvam Vision 2.1 驱动，分 Basic 和 Advanced 两种模式，支持最多 500 页文档和英语及 22 种印度语言。  
-  Sarvam AI（网页） · 2026-11-24 00:00
-
-- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
-  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
-  Fireworks AI（网页） · 2026-11-24 00:00
 
 - [404 Media 调查 ARTEX 黑客工具被下架后仍在 GitHub 传播](<https://www.404media.co/im-not-going-to-remove-the-repository/>)  
   404 Media 记者报道 AI 黑客工具 ARTEX，它可接入用户选择的大语言模型并派出多个 AI 子智能体分工执行侦察、窃取数据等攻击，数小时内可完成一次完整入侵。原作者于 10 月因工具被恶意使用而将其下架，但作者采访了仍在 GitHub 上分发该工具的多名用户，询问其拒绝移除的原因。  
@@ -181,5 +117,69 @@
 - [Doctors who disagree with AI could face legal jeopardy](<https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger>)  
   AI could put doctors who disagree with it in greater jeopardy of losing a malpractice suit, according to researchers…  
   Axios · 2026-11-23 18:25
+
+- [Architect Labs 发布 AI 设计的交互网络 CPU Frostbite](<https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/>)  
+  Architect Labs 推出 Frostbite，一款以交互网络为指令集、由 AI 智能体设计的 CPU，从交互网络理论一路设计到 7 nm 最终 GDS，GDS 收敛在 500 MHz。  
+  MarkTechPost（RSS） · 2026-11-23 18:05
+
+- [智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding](<https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ>)  
+  智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。  
+  公众号：智谱（GLM） · 2026-11-23 17:42
+
+- [OiiOii Motion 代码动画功能上手实测：Opus 5.5 与 DeepSeek V4.1 Flash 两种跑法](<https://mp.weixin.qq.com/s/E_NP62cntXJTuFv2zfd6Hg>)  
+  作者实测 OiiOii 新上线的 Motion 代码动画功能，该功能让大模型编写带排版、图形和运动曲线的动态网页代码并云端渲染成视频。用 LearnPrompt/awesome-seedance 仓库宣传片对比显示，传统视频模型遇上网页 UI、代码框和中英文排版容易糊掉，而 Motion 画面文字清晰。  
+  公众号：卡尔的AI沃茨 · 2026-11-23 17:36
+
+- [Meta 发布 TLX 报告：为 Triton 在 Hopper、Blackwell 和 AMD GPU 上带来 warp 组级控制](<https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/>)  
+  Meta 发布 TLX（Triton Low-Level Extensions）详细报告，该扩展让 Python 级 Triton 内核可直接使用 warp group、mbarrier、TMA、TMEM 和 cluster 等硬件能力。  
+  MarkTechPost（RSS） · 2026-11-23 16:24
+
+- [Arena 第 47 周大模型周榜：谷歌 Gemini 4 Neon 空降综合第 3，阿里 Qwen4-Max 智能体榜首秀第 18](<https://www.ithome.com/1/030/935.htm>)  
+  Arena 第 47 周榜单中，谷歌 Gemini 4 Neon \(High\) 以 ELO 1513 分空降综合榜第 3，Anthropic Claude Fable 5.2 \(Max\) 以 1503 分列第 7，Gemini 4 Hydrogen \(High\) 以 1490 分并列第 18。  
+  IT之家·人工智能 · 2026-11-23 16:01
+
+- [Connected intelligence for in-house legal](<https://openai.com/business/learn/connected-intelligence-for-in-house-legal>)  
+  Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can he…  
+  OpenAI · 2026-11-23 16:00
+
+- [Richpanel helps companies automate 50% of support in 30 days](<https://openai.com/business/customer-stories/richpanel-ai-customer-support>)  
+  Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna f…  
+  OpenAI · 2026-11-23 16:00
+
+- [Ai2 发布 RoboTrack 点跟踪基准与数据集，并推出 RoboTracker 模型](<https://allenai.org/blog/robotrack>)  
+  Ai2 发布 RoboTrack，一套面向机器人操作的点跟踪基准与训练数据套件，含 307 段人工标注视频、2522 条点轨迹的 RoboTrack-Bench，以及基于 MolmoSpaces 生成的 RoboTrack-15M 合成训练集。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-23 16:00
+
+- [阿里云 AgentLoop 记忆库、经验库及优化任务功能 12 月 7 日起收费，按 AI Credits 实际消耗量计费](<https://www.ithome.com/1/030/926.htm>)  
+  阿里云宣布 AgentLoop 的记忆库、经验库及优化任务三项功能将于北京时间 2026 年 12 月 7 日 00:00:00 起正式收费，用户使用这些功能产生的模型资源消耗按 AI Credits 实际消耗量计费。  
+  IT之家·人工智能 · 2026-11-23 15:36
+
+- [20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? \| "Fire the Bankers": Why Most VCs Won't Survive AI \| Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha](<https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha>)  
+  Anjney Midha is one of Anthropic's earliest angel investors, backing the company in its founding round in 2021. Previ…  
+  20VC · 2026-11-23 15:07
+
+- [GPT-6.2 在 ChatGPT 中的系统卡](<https://deploymentsafety.openai.com/gpt-6-2-chatgpt>)  
+  OpenAI 发布 GPT-6.2 在 ChatGPT 中的系统卡，以 PDF 形式提供。该页面暂未提供解析文本，需通过公开 PDF 链接查看内容。  
+  OpenAI：部署安全与系统卡（网页） · 2026-11-23 15:00
+
+- [OpenAI 详解如何用 Codex Security 将安全审查嵌入 SDLC](<https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security>)  
+  OpenAI 发文介绍用 Codex Security 和 CLI 把智能体安全审查接入 SDLC，并给出四条原则：为智能体提供系统专属上下文、把审查嵌入开发流程、审慎设定审查范围与报告阈值、让发现可被检查。文章还说明如何用 threat model、SECURITY.md 和知识库为安全扫描预置上下文。  
+  OpenAI Developers：Blog（网页） · 2026-11-23 15:00
+
+- [Thinking Machines Lab 发布循环 Transformer 模型 Inkling 2 Mini](<https://www.ithome.com/1/030/907.htm>)  
+  Thinking Machines Lab（TML）于当地时间本月 20 日发布循环 Transformer 架构模型 Inkling 2 Mini。模型共 24 层，分四个 6 层模块，中间两个模块运行 3 次，并对专家节点从 384 个剪枝至 128 个；整体为 26.4B-A3.4B，考虑循环后每个词元激活权重 5.4B。  
+  IT之家·人工智能 · 2026-11-23 14:55
+
+- [Mistral AI 在新加坡设立亚太总部，为政府机构开发定制主权 AI 模型](<https://www.ithome.com/1/030/904.htm>)  
+  法国 AI 企业 Mistral AI 于 11 月 20 日宣布在新加坡设立亚太总部，计划 2027 年将该区域员工增至 200 人以上。新加坡办公室将作为扩展科学中心，围绕公共部门、高科技制造和机器人三大领域开发主权 AI 模型。  
+  IT之家·人工智能 · 2026-11-23 14:43
+
+- [中国气象局与上海人工智能实验室推出地球系统智能科研平台“ZHU·GE”](<https://www.ithome.com/1/030/899.htm>)  
+  地球系统智能科研平台“ZHU·GE”在2026雄安气象人工智能国际研讨会上正式推出，由中国气象局与上海人工智能实验室共同牵头研发。平台汇集约10PB公共科学数据、首批1PB中国气象局授权数据及约200万条文献记录，内置5,000余项代码工具和10多项通用科学研究技能，可由自然语言目标自主规划研究路线并开展实验。  
+  IT之家·人工智能 · 2026-11-23 14:33
+
+- [MIT 提出模拟芯片设计方法 SLIC，小模型可本地部署接近 GPT-6-Astra 性能](<https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123>)  
+  MIT 研究者提出 SLIC（Small LM Iterating on Circuits）训练方法，通过带可验证奖励的多轮强化学习，把数十亿参数的小语言模型训练得能设计模拟集成电路，性能接近最新 GPT-6-Astra，但计算资源只占其很小一部分。  
+  MIT News（RSS） · 2026-11-23 13:00
 
 [返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页

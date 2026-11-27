@@ -10,10 +10,6 @@
   据 ComputerBase 报道，德国勃兰登堡消费者保护中心对 OpenAI 提起诉讼，指 ChatGPT 订阅取消流程过于繁琐，必须通过最初开通订阅的平台管理，不符合德国法律的透明度要求。该机构还质疑用户合同中单方面调整订阅价格的条款，认为 OpenAI 未说明调价的合理依据，条款不具备法律效力。  
   IT之家·人工智能 · 2026-11-26 15:56
 
-- [千曙科技获得2.08亿人民币A轮融资，千方科技、浙江盘毂投资](<https://www.itjuzi.com/investevent/14708750>)  
-  千曙科技是一家L4级自动驾驶运力服务商。公司确立了“生成式AI+车路云一体化”深度融合的技术路线，构建“运力服务 \(TaaS\) + 技术订阅 \(DaaS\)”双轮驱动商业模式。  
-  IT桔子 · 2026-11-26 15:44
-
 - [夏仙创新连续完成三轮数千万元融资](<https://www.itjuzi.com/investevent/14708747>)  
   夏仙创新专注机器人操作零样本泛化，提出以物体为中心的 ORGA 架构，让机器人从少量示教中理解物体结构、空间约束与交互关系，而非死记动作轨迹，从而在新物体、新场景、新本体中举一反三完成操作。近日获悉，夏仙创新在三个月内连续完成三轮数千…  
   IT桔子 · 2026-11-26 15:36
@@ -21,6 +17,10 @@
 - [曝苹果因色情内容下架 MiniMax AI 聊天应用 Talkie](<https://www.ithome.com/1/032/835.htm>)  
   据《南华早报》报道，苹果表示 AI 聊天应用 Talkie 已从 App Store 下架，原因是应用内存在色情内容。Talkie 是 MiniMax 开发的 AI 角色聊天与创作平台，主打虚拟角色对话、互动故事与 AIGC 创作，支持多语言，在美国、菲律宾和墨西哥等地流行，目前仍存在于 Google Play 并提供网页版。  
   IT之家·人工智能 · 2026-11-26 15:25
+
+- [slay](<https://www.producthunt.com/products/slay-3>)  
+  AI composition guide camera app for iPhone  
+  Product Hunt · English · 2026-11-26 15:23
 
 - [Epic CEO 斯威尼公开批评 Claude 误判其集合论研究为模型蒸馏](<https://www.ithome.com/1/032/822.htm>)  
   Epic Games CEO 蒂姆·斯威尼本周在 X 上称 Claude 是垃圾，因为模型中断了他的集合论研究并指控其在做模型蒸馏，而他用公司账号每天仅输入一两个小时提示词。蒸馏指用强模型输出生成训练数据，各家实验室的服务条款均禁止。此事暴露了防蒸馏检测过于激进、开始干扰正常用户高水平工作的问题，Anthropic 后续是否调整过滤机制尚不明确。  
@@ -57,10 +57,6 @@
 - [Wispr Flow 发布语音转文本模型 Canto-2，14 种语言转录错误率平均降低 36%](<https://www.ithome.com/1/032/752.htm>)  
   Wispr Flow 本周发布语音转文本模型 Canto-2，面向 Mac、Windows、iOS 和 Android 平台，14 种语言转录错误率平均降低 36%，英语错误率降低超过 15%，内部基准中 14 种语言平均错误率从 9.9% 降至 6.3%。  
   IT之家·人工智能 · 2026-11-26 14:06
-
-- [闪科光联获得种子轮融资](<https://www.itjuzi.com/investevent/14708731>)  
-  闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得种子轮融资，励石创投投资。  
-  IT桔子 · 2026-11-26 13:57
 
 - [闪科光联获得数千万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708730>)  
   闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得数千万人民币天使轮融资…  
@@ -114,10 +110,6 @@
   AIDEN AI是一家企业AI科技研发商，专注为企业提供AI智能体研发与落地服务，其自研AiDAP统一智能体平台与AI Builder全栈工作台，支持智能体构建、部署及治理，并配套行业预制智能体与遗留系统现代化改造能力，主要服务保险、…  
   IT桔子 · 2026-11-26 11:26
 
-- [AgentDE](<https://www.producthunt.com/products/agentde>)  
-  Put all your coding agents in one native Mac window  
-  Product Hunt · English · 2026-11-26 11:15
-
 - [Anthropic 研究员 Luke Sernau 与 Claude 将黎曼猜想 Lean 证明从 1740 万行精简至 7.6 万行](<https://www.ithome.com/1/032/611.htm>)  
   Anthropic 研究员 Luke Sernau 与同事及 Claude 发布 grh-lean 项目，将此前 1740 万行的黎曼猜想与广义黎曼猜想 Lean 形式化证明重写为约 7.6 万行的紧凑版和约 30 万行的可读版，代码量削减 99.56%。  
   IT之家·人工智能 · 2026-11-26 11:01
@@ -129,30 +121,6 @@
 - [OpenAI 开始合并 ChatGPT 聊天与工作模式，重度用户或更早触及限额](<https://www.ithome.com/1/032/599.htm>)  
   OpenAI 已开始向小部分 Pro 订阅用户推送 ChatGPT 聊天与工作模式合并，两种模式将共享额度系统。OpenAI 表示大多数用户不会因此更频繁遇到额度重置，但少数重度用户可能更早触及上限；使用 Instant 模型的对话不计入用量，即使额度耗尽仍可继续使用。12 月将扩大额度共享覆盖范围。  
   IT之家·人工智能 · 2026-11-26 10:30
-
-- [百优象获得500万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708700>)  
-  百优象科技是一家算力与影像设备解决方案提供商，主营计算机软硬件、面向高端AI计算硬件与智算集群，围绕合规筛选、质检交付、库存调度和资源配置，提供标准化流通服务。该公司自主研发芯片性能增强优化软件、服务器集群资源调度管理系统、集成电路性…  
-  IT桔子 · 2026-11-26 10:19
-
-- [三星显示将向艾迈斯欧司朗注资2.1亿欧元，成最大股东](<https://www.itjuzi.com/investevent/14708699>)  
-  ams OSRAM（艾迈斯欧司朗）是一家光电半导体芯片制造商，定位数字光子学龙头，自研量产 LED、VCSEL、Micro‑LED、激光光源、光学传感器与 CMOS 混合信号 ASIC，产品覆盖智能车灯、激光雷达、工业传感、医疗影像、…  
-  IT桔子 · 2026-11-26 10:16
-
-- [观格科技完成1800万元种子轮融资](<https://www.itjuzi.com/investevent/14708698>)  
-  观格科技成立于2024年，专注传感技术、AI算法，以及应用于XR装置关键技术的解决方案，核心团队横跨科技企业与高校科研两端。近日，观格科技完成1800万元种子轮融资，并取得香港理工大学相关技术许可。有渠道披露，公司新一轮融资也在推进，…  
-  IT桔子 · 2026-11-26 10:12
-
-- [晶存科技港交所递交聆讯后资料](<https://www.itjuzi.com/pre-ipo?comname=%E6%99%B6%E5%AD%98%E7%A7%91%E6%8A%80>)  
-  晶存科技是一家集设计、研发、封装、测试和销售于一体的存储芯片高新技术企业，拥有自主品牌Rayson，涵盖DDR3、DDR4、LPDDR3、LPDDR4、eMMC和eMCP等嵌入式产品，广泛应用于手机、平板、OTT盒子、车载、人工智能和…  
-  IT桔子 · 2026-11-26 10:03
-
-- [万相常数已完成数千万元天使轮融资](<https://www.itjuzi.com/investevent/14708449>)  
-  万相常数是一家光计算芯片公司，致力于用玻璃打造下一代光学AI加速器。目前，公司已完成原理阶段的验证，正在推进光电融合验证板卡的原型开发。近日，万相常数已完成数千万元天使轮融资，由英诺基金独家投资。本轮资金将主要用于光电融合验证板卡的样…  
-  IT桔子 · 2026-11-26 09:51
-
-- [华源智因获得数亿人民币天使轮融资](<https://www.itjuzi.com/investevent/14708691>)  
-  华源智因是一家AI生命科学原生企业，华源智因已在三类场景推进应用落地：一是临床患者分层，联合三甲GCP临床试验中心，面向多个治疗队列和药物管线应用；二是模型能力变现，以药物重定位、靶点筛选、模型工具服务绑定药企和MNC潜在客户；三是数…  
-  IT桔子 · 2026-11-26 09:29
 
 - [三部委印发《新一代通信网建设实施方案》：探索大小模型协同、人机协同等网络运维新范式](<https://www.ithome.com/1/032/562.htm>)  
   工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》，提出探索大小模型协同、人机协同、机机协同等网络运维新范式。方案要求搭建网络大模型和智能体开发工具链与自动化运维平台，围绕网络建设、管理、运营场景打造特色智能体，并探索复杂场景下智能体协同技术，逐步建成高等级自智网络。  
@@ -181,5 +149,37 @@
 - [Together AI 将 Kimi-K3.1-Pro 的老挝语翻译能力蒸馏进 Qwen3.8-27B](<https://www.together.ai/blog/distilling-kimi-into-qwen>)  
   Together AI 发现 Qwen3.8-27B 无法写老挝语，会以泰语作答，FLORES-200 上仅得 5.5 chrF++。团队用 Kimi-K3.1-Pro 作教师做 off-policy 蒸馏，在约 3,800 条翻译上训练 LoRA 后，学生模型达到 44.3 分、为教师分数的 93%，全部输出为老挝文，且保住了泰语能力，全部实验成本 $260。  
   Together AI 研究与产品博客（RSS） · 2026-11-26 08:00
+
+- [Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露](<https://calif.io/research/tortilla-with-onion>)  
+  Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。  
+  Calif：Research（AI 漏洞研究） · 2026-11-26 08:00
+
+- [OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机](<https://calif.io/research/oempocalypse-part-2>)  
+  Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。  
+  Calif：Research（AI 漏洞研究） · 2026-11-26 08:00
+
+- [卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义](<https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg>)  
+  公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。他用GPT-6.2完整实测并展示了手册内容，包括意义地图、思维误区重构、罗盘价值观和可执行的意义时刻设计，全程约20到30分钟。  
+  公众号：数字生命卡兹克 · 2026-11-26 07:56
+
+- [OpenAI 开测私有推理，目标打造“零窥探 AI”](<https://www.ithome.com/1/032/543.htm>)  
+  OpenAI 已邀请部分客户测试“私有推理”（Private Inference），该服务隶属 OpenAI Private Intelligence 系列，面向企业和机构提升工作场景的数据隐私保护。声明提到“零数据留存”（ZDR）与“私有安全处理”配合可完成自动化安全审查，无需公司人员接触底层内容。测试目前仅面向少数客户，技术实现方式、客户名单、上线时间和收费模式均未披露。  
+  IT之家·人工智能 · 2026-11-26 07:45
+
+- [美国纽约州签署法案暂停 AI 聊天玩具销售 5 年，违规每日最高罚 15,000 美元](<https://www.ithome.com/1/032/540.htm>)  
+  纽约州州长霍楚尔于当地时间 11 月 24 日签署法案，暂停具备联网与 AI 对话能力的玩具在该州的制造、分销和销售，期限为 5 年。法案针对内置互联网接入、集成 AI 能力的玩具，违规制造商处罚上限为每日 15,000 美元；支持者列举的案例包括 AI 聊天玩具输出不当或性相关对话，以及"如何找到刀具"等危险建议。  
+  IT之家·人工智能 · 2026-11-26 07:07
+
+- [谷歌 DeepMind 推出 Mass Spec Skills，接入 Gemini 后分子识别准确率从不足 4% 升至约 97%](<https://www.ithome.com/1/032/535.htm>)  
+  谷歌基于社区开源工具打造 Mass Spec Skills，面向 Google Antigravity 平台开放，可辅助科研人员解析串联质谱并生成可审计证据链。  
+  IT之家·人工智能 · 2026-11-26 07:07
+
+- [S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks](<https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/>)  
+  The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.  
+  TechCrunch · 2026-11-26 06:44
+
+- [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/the_revolution_vs_the_renaissance_thariq_shihipar_openai>)  
+  AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel righ…  
+  Latent Space · 2026-11-26 06:28
 
 [返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页

@@ -2,6 +2,159 @@
 
 [返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
 
+- [支付宝车载助手 3.0 与 80 多家车企达成定点合作，含比亚迪、理想、奇瑞等](<https://www.ithome.com/1/033/625.htm>)  
+  IT之家 11 月 27 日消息，支付宝今日发布“支付宝车载助手 3.0”，官方称其为 AI 原生车载智能体，让汽车座舱从“会聊天”升级到“能办事”。 IT之家从官方信息获悉，目前已有 80 多个汽车品牌与支付宝车载助手 3.0 达成…  
+  IT之家 · 2026-11-27 17:56
+
+- [曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存](<https://www.ithome.com/1/033/624.htm>)  
+  IT之家 11 月 27 日消息，韩媒 Economy Tribune 当地时间今日爆料称， Google（谷歌）计划为其第 10 代 TPU 芯片配备 512GB 的定制 HBM5 内存 。 谷歌 TPU 是当前最主要的 AI AS…  
+  IT之家 · 2026-11-27 17:54
+
+- [索塔无界完成数千万元天使轮融资](<https://www.itjuzi.com/investevent/14708851>)  
+  索塔无界是一家机器人大脑出海服务提供商，专注于具身智能领域，致力于打造“通用具身智能大脑+物理智能领域的OpenClaw”，让机器人真正理解物理世界并自主行动，推动具身智能从理论到大规模商业落地。近日，索塔无界宣布完成数千万元人民币天…  
+  IT桔子 · 2026-11-27 17:49
+
+- [消息称韩国政府要求三星电子开发 Jetson Thor 竞品，企业方反应谨慎](<https://www.ithome.com/1/033/619.htm>)  
+  IT之家 11 月 27 日消息，韩媒 MTN 近日报道称，韩国政府今年 10 月对三星电子提出要求，希望这家本土企业能 开发一款可在机器人算力芯片领域与 NVIDIA（英伟达）Jetson Thor 竞争的产品 ，但三星电子的反应谨…  
+  IT之家 · 2026-11-27 17:30
+
+- [小米汽车世界模型 2.0 发布，已在实际业务场景中落地](<https://www.ithome.com/1/033/614.htm>)  
+  IT之家 11 月 27 日消息，小米汽车今日正式发布 Xiaomi Auto World Model 2.0（小米汽车世界模型 2.0）。 官方称小米汽车世界模型 2.0 进一步将多视角视频生成、物理交互建模、三维场景重建与动作建模…  
+  IT之家 · 2026-11-27 17:13
+
+- [探索用 AI 在大银幕“复活”李小龙，其女儿李香凝称像是在走钢丝](<https://www.ithome.com/1/033/612.htm>)  
+  IT之家 11 月 27 日消息，据新浪电影今日报道，李小龙女儿李香凝在新加坡金狮大赏“人工智能时代下的华语电影”论坛上提到，近年越来越多人提出，是否可以用 AI 技术让李小龙的形象重返大银幕，她也一直在思考怎样应对是合适的。随后武贝…  
+  IT之家 · 2026-11-27 17:12
+
+- [Lute获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708848>)  
+  Lute是一家触觉物理AI科技研发商，自研融合视觉与触觉的机器人基础模型 Lute-0，弥补纯视觉方案无法感知握力、滑移、材质的缺陷，面向仓储、零售、制造的灵巧抓取场景，模型可对接第三方机器人硬件。近日，Lute获得2000万美元种子…  
+  IT桔子 · 2026-11-27 16:36
+
+- [LiblibAI完成新一轮近2亿美元融资](<https://www.itjuzi.com/investevent/14708847>)  
+  LiblibAI 是一家研发多模态生成工具的AI原生应用公司。致力于专业场景下的AI内容创作与分享，为广大创意工作者提供专业、可靠、高效的AI时代创作工具而努力，引领中国创意内容生产与消费的范式革新。近日获悉，LiblibAI完成新一…  
+  IT桔子 · 2026-11-27 16:36
+
+- [Permut获得300万欧元种子轮融资](<https://www.itjuzi.com/investevent/14708846>)  
+  Permut是一家对话式 AI Agent 平台提供商，面向 DTC 电商、零售、金融品牌，提供 Agent 操作系统，支持用自然语言配置跨渠道 AI 智能体，自动承接客服、线索筛选、订单售后等业务流程，覆盖网页、WhatsApp、I…  
+  IT桔子 · 2026-11-27 16:28
+
+- [Nvidia, AI Fears Jolt Markets: Market Snapshot](<https://www.bloomberg.com/news/videos/2026-11-27/nvidia-ai-fears-jolt-markets-market-snapshot-video>)  
+  Bloomberg · 2026-11-27 16:26
+
+- [零次方机器人完成新一轮数亿元融资](<https://www.itjuzi.com/investevent/14705292>)  
+  零次方围绕机器人与真实物理世界交互的核心问题，构建“多模态智能体 + 具身原生动作模型”双层智能架构。使机器人能够在动态、开放环境中完成泛化操作，并具备实时纠偏与失败恢复能力。依托规模化真实世界交互数据，零次方持续探索机器人 Phys…  
+  IT桔子 · 2026-11-27 16:16
+
+- [诺因智能亮高交会：25台机器人自主完成家务，计划2027年量产上市](<https://www.163.com/tech/article/LCOLKB4000098IEO.html>)  
+  网易科技 · 2026-11-27 16:16
+
+- [Finnable获得40.5亿卢比C轮融资](<https://www.itjuzi.com/investevent/14708843>)  
+  Finnable 是一家数字信贷金融科技公司，依托自研 AI 风控体系，面向薄信用档案工薪人群提供个人消费贷、房产抵押贷，同时和 Flipkart 等电商平台合作推出消费分期信贷产品，AUM 超 4600 亿卢比，已实现盈利。近日，F…  
+  IT桔子 · 2026-11-27 15:53
+
+- [千问大模型辟谣Qwen后训练负责人离职](<https://www.163.com/tech/article/LCOJU5OR00098IEO.html>)  
+  网易科技 · 2026-11-27 15:47
+
+- [LexDo.it获得Pre-A轮融资](<https://www.itjuzi.com/investevent/14708841>)  
+  LexDo.it 是一个一站式商事法律财税 SaaS 平台，面向意大利个体户、小微企业与初创企业，集成线上远程公证注册、AI 合同生成、记账报税、薪资人事、地址托管等商事合规服务，搭配持证会计师与律师团队交付，服务超 50 万用户。近…  
+  IT桔子 · 2026-11-27 15:45
+
+- [Stabilizing Forces Make Europe an AI-Storm Shelter: Taking Stock](<https://www.bloomberg.com/news/articles/2026-11-27/stabilizing-forces-make-europe-an-ai-storm-shelter-taking-stock>)  
+  Bloomberg · 2026-11-27 15:20
+
+- [Equities Extend Recovery as AI Trade Rebounds](<https://www.bloomberg.com/news/videos/2026-11-27/equities-extend-recovery-as-ai-trade-rebounds-video>)  
+  Bloomberg · 2026-11-27 14:57
+
+- [跃灵智伴获得数千万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708818>)  
+  跃灵智伴成立于 2025 年，是一家AI 陪伴机器人创业公司，聚焦国内家庭场景，打造面向银发人群的 AI 智能养老机器人。近日，跃灵智伴已完成超千万元天使轮融资。  
+  IT桔子 · 2026-11-27 14:50
+
+- [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](<https://guiguzaozhidao.fireside.fm/20240452>)  
+  同样是科技巨头宣布加大 AI 投入，资本市场为什么会给出截然不同的反应？ 今年 5 月，我们和老朋友 Aaron 聊过 AI 泡沫与循环投资。半年过去，芯片、数据中心和大模型依然牵动着市场，但投资人追问的问题，逐渐从“还要投入多少钱”…  
+  科技早知道 · 2026-11-27 14:30
+
+- [Mosaic Intelligence获得4700万美元种子轮融资](<https://www.itjuzi.com/investevent/14708819>)  
+  Mosaic Intelligence是一家医疗 AI 科技研发商，研发带机载感知的半自主导航导管与血管空间智能 AI，在血管内实时重建三维血管图谱，辅助医生完成动脉瘤、血栓等血管内介入微创手术，依托仿真合成数据训练模型。近日，Mos…  
+  IT桔子 · 2026-11-27 14:13
+
+- [Sumary获得2500万美元种子轮融资](<https://www.itjuzi.com/investevent/14708816>)  
+  Sumary是一家AI 财税自动化科技研发商，面向会计师事务所与企业财务团队打造 AI 会计操作系统，以 Agent 工作流自动完成月末结账、VAT 申报、年报、对账等财税合规任务，兼容现有财务系统，AI 生成初稿后由会计师复核。近日…  
+  IT桔子 · 2026-11-27 14:02
+
+- [Switchpoint Bio获得530万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708808>)  
+  Switchpoint Bio 是一家生物科技服务商，开发基于血液 DNA 甲基化与 AI 的表观基因组平台，通过无创抽血解析免疫细胞动态变化，用于自身免疫病等领域的生物标志物挖掘、临床试验患者分层与药效响应评估，优先在系统性红斑狼疮…  
+  IT桔子 · 2026-11-27 13:43
+
+- [Woomool](<https://www.producthunt.com/products/woomool>)  
+  AI Canvas where thinking becomes tangible  
+  Product Hunt · English · 2026-11-27 13:09
+
+- [机器人的商场生意，到底谁在挣钱？](<https://36kr.com/p/4087439024290177?f=rss>)  
+  机器人品牌和经销商陆续把门店开进商场，但要复制新能源汽车的线下零售生意，眼下并不容易。 界面新闻记者近日探访上海几处机器人线下门店发现，即便在周末，部分门店客流仍较少。在一家集合店里，十多台人形机器人、机器狗摆在店面一角，有的处于待机状态，  
+  36氪 · 2026-11-27 12:02
+
+- [智能家居盯上家庭AI这个超级入口](<https://36kr.com/p/4087432362628738?f=rss>)  
+  智能家居厂商正在争夺家电的日常调度权。空调能制冷，灯能照亮房间，家里已经有一批每天都要用的机器。过去家里人得一件件告诉它们什么时候开、什么时候停。厂商想让AI接过这份工作，把一句家常话拆成几件家电可以办的事。家里人要是用惯了一套日程，往后添  
+  36氪 · 2026-11-27 12:01
+
+- [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](<https://36kr.com/p/4087449994181000?f=rss>)  
+  Anthropic 最近真是流年不利。 一边是顶着史上最大 IPO 的光环上市不到一周就破发，另一边是自家最能打的 Claude Code 团队，接连有核心成员转投竞争对手 OpenAI。 昨天，Claude Code 核心工程师 Thar  
+  36氪 · 2026-11-27 11:59
+
+- [大模型无法击穿的，才是具身智能真正壁垒](<https://36kr.com/p/4087456845970050?f=rss>)  
+  具身智能洗牌之下，投资人继续用脚投票。 投资界获悉，零次方机器人完成数亿元新一轮融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国正、杰克集团以及多家产业战略投资方。老股东同创伟业、力合基金、接力天使  
+  36氪 · 2026-11-27 11:56
+
+- [Anthropic拆穿AI假遗忘，46万神经元动几十个，黑客知识就复活](<https://36kr.com/p/4087453646420361?f=rss>)  
+  AI考试题答不出来，就等于它不会吗？ 11月25日，Anthropic晒出两篇新研究，揭开了AI「假遗忘」的真相：有的遗忘模型，46万个神经元里只要动几十个，「删掉」的黑客知识就回来了。 第一篇发现，单个神经元极少一心二用，比想象中好懂。  
+  36氪 · 2026-11-27 11:55
+
+- [三大新品集中亮相高交会，鹿明机器人加速构建产业具身新体系](<https://36kr.com/p/4087453543119232?f=rss>)  
+  2026年11月26日至28日，第二十八届中国国际高新技术成果交易会（以下简称“高交会”）在深圳国际会展中心（宝安）举行。 鹿明机器人携自主研发的机器人技能进化引擎Lumos NexCore亮相12号馆A18展位，并同步展示新一代具身模型P  
+  36氪 · 2026-11-27 11:55
+
+- [为新型电网“绘图”：海致助力国网江苏电力打造数智底座](<https://36kr.com/p/4087442228935300?f=rss>)  
+  《人工智能 智能体互联》系列国家标准日前正式发布，这标志着智能体互联互通迈入标准化时代。然而，低空、城市、能源、制造等行业在数字化转型深水区，仍普遍面临数据孤岛、复杂关系研判滞后及跨域风控难等痛点。 在实践中，海致科技依托图数据库筑牢海量关  
+  36氪 · 2026-11-27 11:29
+
+- [Depost AI](<https://www.producthunt.com/products/depost-ai>)  
+  The LinkedIn AI agent that learns what works for your brand  
+  Product Hunt · English · 2026-11-27 11:17
+
+- [The AI Boom Looks Alive and Well in Asia](<https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_Technology>)  
+  The Wall Street Journal · 2026-11-27 11:00
+
+- [素源矩阵完成天使轮融资](<https://www.itjuzi.com/investevent/14708780>)  
+  素源矩阵是面向材料工业的原生 AI Agent 决策+控制系统，以科学智能与知识驱动的新型工业 AI，深度融合材料机理与工艺经验，让制造从“经验试错”走向“结果确知”，真正实现材料在生产中价值最大化，引领智造新模式。近日，素源矩阵完成…  
+  IT桔子 · 2026-11-27 10:59
+
+- [双十一散场，AI硬件挤进大众购物车为什么反而更难做了？](<https://36kr.com/p/4087405673879432?f=rss>)  
+  数万元的AI工作站、几千元的智能眼镜，还有智能水杯、随身录音卡、陪伴玩具。 这些价格、形态和用途相去甚远的商品，在刚刚过去的双11，出现在了同一张大促成绩单上。它们各自回应着不同的生活需求，却因为共享一个技术前缀，被一并归入了这场消费热潮。  
+  36氪 · 2026-11-27 10:58
+
+- [零次方机器人（Zerith）完成新一轮数亿元融资](<https://www.163.com/tech/article/LCO3C07E00099DKL.html>)  
+  网易科技 · 2026-11-27 10:57
+
+- [阿里需要啥，马云就在哪，这次轮到平头哥](<https://36kr.com/p/4087414203873929?f=rss>)  
+  作者｜孙芮 11月26日，马云出现在平头哥办公区。灰色毛衣，竖起大拇指，站在一群年轻芯片工程师中间笑着合了张影。有员工在社交平台上发帖感慨：“在平头哥7年，今天见到活的马老师了。” 卸任多年后，马云极少出现在阿里的具体业务团队里，但过去两年  
+  36氪 · 2026-11-27 10:54
+
+- [时空智子宣布完成B轮数千万元融资](<https://www.itjuzi.com/investevent/14707429>)  
+  时空智子是一家以时空大数据驱动的数字化空间治理服务提供商，致力于打造时空AI生态能平台\(GEOSOPHON\)，旨在为各级政府部门、企业和公众提供人居环境、自然生态、矿产能源、海洋等生态系统协同场景的时空A+脑能服务，实现时空人工智能与…  
+  IT桔子 · 2026-11-27 10:50
+
+- [钻进学者大脑：最值得借鉴的商学院案例研究系列](<https://36kr.com/p/4087390925863296?f=rss>)  
+  在“2026复旦管理案例工作坊”的“AI＋管理案例方法论坛”上，清华大学经济管理学院、苏世民书院双聘教授，中国管理研究国际学会（IACMR）副会长兼项目主席胡佳，带来了一场题为《从课堂到顶刊——教学洞察的研究转化路径》的分享。她梳理了管理学  
+  36氪 · 2026-11-27 10:48
+
+- [在看不见“真人”的红果，人怎么赚钱](<https://36kr.com/p/4087397781198468?f=rss>)  
+  字节的红果，正在大量消费用户时间，也在加速把AI短剧推入变现的快车道。 一个传导链条已经形成：人、钱、流量，都在往红果流、往AI短剧赛道流。传统影视剧公司，无论主动还是被动，都被推到了转型的十字路口。 但转型谈何容易。一位头部影视公司的AI  
+  36氪 · 2026-11-27 10:48
+
+- [去泡沫期，阿里投了第一家量子公司](<https://36kr.com/p/4087337709566345?f=rss>)  
+  投资界获悉，向量奇点已正式完成数亿元A轮融资，投资阵容豪华——由北京市人工智能产业投资基金、北京北工及旗下未来量子基金、工信部旗下中小企业发展促进基金、中关村科学城基金领衔，招商局创投、阿里集团产业加持，啟赋资本、湖南财信、北洋海棠基金等知  
+  36氪 · 2026-11-27 10:33
+
 - [Gemini 4 Carbon点亮8颗太阳，70年几何悬案告破，只用6页神级证明](<https://36kr.com/p/4087355247540614?f=rss>)  
   你还记得高中地理课上的晨昏线吗？ 这个寻常的物理现象，在数学家眼中却是极具挑战的几何谜题。 如果这颗星球不是完美的圆球，而是被随意捏造、棱角歪斜的「凸多面体」，甚至表面布满平滑与尖锐交错的地形，最少需要挂几颗太阳，才能把它彻底照亮？ 195  
   36氪 · 2026-11-27 10:33
@@ -9,17 +162,6 @@
 - [大模型涌入药物研发：闭环、物理卡点和押注验证](<https://36kr.com/p/4087373831371141?f=rss>)  
   范式变革、大厂落子、热钱变多，今年的AI叙事新在哪，新涌入的模型巨头会给药物研发带来什么？ AI与生物制药的结合不是新鲜事。 产业界的努力主要围绕着一个广为人知的成本法则展开：一款新药从立项到上市，通常要花10到15年，耗费超20亿美元，同  
   36氪 · 2026-11-27 10:33
-
-- [与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市](<https://www.ithome.com/1/033/203.htm>)  
-  IT之家 11 月 27 日消息，《科创板日报》今天（27 日）上午独家获悉，小米 AI 眼镜 2 代或将于 12 月中旬 与小米 18 标准版手机同步发布 ，并于当天上市开售。 据悉，小米 AI 眼镜 2 代包括 Q95 Pro、Q…  
-  IT之家 · 2026-11-27 10:21
-
-- [Counterpoint on China's AI Progress Under Chip Curbs](<https://www.bloomberg.com/news/videos/2026-11-27/counterpoint-on-china-s-ai-progress-under-chip-curbs-video>)  
-  Bloomberg · 2026-11-27 10:17
-
-- [零次方机器人完成新一轮数亿元融资](<https://www.itjuzi.com/investevent/14705292>)  
-  零次方围绕机器人与真实物理世界交互的核心问题，构建“多模态智能体 + 具身原生动作模型”双层智能架构。使机器人能够在动态、开放环境中完成泛化操作，并具备实时纠偏与失败恢复能力。依托规模化真实世界交互数据，零次方持续探索机器人 Phys…  
-  IT桔子 · 2026-11-27 10:12
 
 - [36氪首发丨这家触觉手套公司对标Manus拿下数千万营收，获赛智伯乐、普华等投资](<https://36kr.com/p/4087367217363589?f=rss>)  
   图源/企业 本文约 2600 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，触觉数据与具身智能基础设施公司大衍科技近期已完成数千万元Pre-A轮融资，由赛智伯乐领投，普华、浙商创投、浙里信等跟投，老股东浙江省科创母基金追投。本  
@@ -29,148 +171,8 @@
   向量奇点是一家中性原子量子计算技术研发商，致力于中性原子量子计算整机与测控系统研发，目标是打造出国内中性原子通用量子计算机。近日，向量奇点已正式完成数亿元A轮融资，由北京市人工智能产业投资基金、北京北工及旗下未来量子基金、工信部旗下中…  
   IT桔子 · 2026-11-27 10:00
 
-- [They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.](<https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-27 10:00
-
 - [36氪首发丨具身智能公司获清科产投等数亿投资，机器人已投入真实商业作业](<https://36kr.com/p/4087361074575753?f=rss>)  
   图源/企业 本文约 2100 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能公司零次方机器人（Zerith）近日完成新一轮数亿元融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国  
   36氪 · 2026-11-27 10:00
-
-- [Karpathy点燃LLM Wiki，中国公司率先做成了企业级产品](<https://36kr.com/p/4087315146963588?f=rss>)  
-  用AI处理复杂资料时，“搜不到东西”不再是问题，“搜出来的东西不可信”、“搜出来的东西Agent用不了”才是。 当前的专业场景里，资料里既有动辄成百上千页的PDF，也有视频、Excel表格、图文混排文件等五花八门的格式。不同材料之间的说法互  
-  36氪 · 2026-11-27 09:59
-
-- [微软 AI 负责人警告：我们正跨越 AI 危险门槛，安全和对齐是当前最重要任务](<https://www.ithome.com/1/033/191.htm>)  
-  IT之家 11 月 27 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）于 11 月 25 日在 X 平台发布推文， 示警称 AI 行业“正在跨越一个门槛”，安全与对齐研究必须被置于优先地位。 IT…  
-  IT之家 · 2026-11-27 09:59
-
-- [长安汽车：正在申报第二批 L3 级号牌与 L4 级测试牌照，自动驾驶渗透率力争 30% 以上](<https://www.ithome.com/1/033/190.htm>)  
-  IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上， 长安汽车宣布，旗下天枢领航智能驾驶正在申报第二批 L3 级号牌与 L4 级测试牌照 ，自动驾驶渗透率力争达到 30% 以上。 长安汽车表示，天枢智能三件套将持续渗…  
-  IT之家 · 2026-11-27 09:57
-
-- [大衍科技获得数千万人民币Pre-A轮融资，赛伯乐投资领投，浙江创新投资、浙里信、浙商创投、普华资本、松禾资本、万联天泽参投](<https://www.itjuzi.com/investevent/14708782>)  
-  大衍科技专注于4D世界重建、世界模型、可控扩散模型等前沿技术的研究与应用，旨在通过自研的世界模型技术，极致性价比的合成数据平台，为每个智能公司打造属于自己的数据闭环飞轮。应用领域覆盖自动驾驶、具身智能、数字孪生城市等关键赛道。大衍科技…  
-  IT桔子 · 2026-11-27 09:55
-
-- [“我把钱退给LP了”](<https://36kr.com/p/4087346257771140?f=rss>)  
-  承认抢不到份额很难吗？很难，谁都不想把好不容易募到的钱还回去。 今年，前沿科技投资几乎成了一个象征嗅觉与站位的共识。LP对“心仪标的”诉求明确，专项基金也得以迅速升温——脑机接口、AI大模型、商业航天、量子科技等赛道上，项目专项基金纵横在各  
-  36氪 · 2026-11-27 09:50
-
-- [陶哲轩下场验证黎曼猜想，“AI批量吐证明就像发电厂排核废料”](<https://36kr.com/p/4087282289424775?f=rss>)  
-  就在黎曼猜想证明公布前几天， 陶哲轩 在哈佛一场活动上发布了对AI数学的最新表态—— AI公司为了测模型，批量生成难以消化的数学证明，就像发电厂产生了「核废料」！ 但别误会，他不是完全反对AI用在数学研究上，只是他认为AI公司与人类数学家合  
-  36氪 · 2026-11-27 09:44
-
-- [相对论和量子力学统一有戏了？GPT-6 Astra参与，83页论文让物理圈炸锅](<https://36kr.com/p/4087282603932297?f=rss>)  
-  「如果这个结论最终被证实，物理学就真正迎来了大一统。」 刚暴击完数学，AI又把「屠刀」伸向物理了。 斯坦福物理学家 Venkatesa Chandrasekaran 发了篇83页的新论文，配合GPT-6 Astra给出了一套 在四维时空中统  
-  36氪 · 2026-11-27 09:44
-
-- [美国年轻人恋爱新观：宁可单身，也不和搞 AI 的处对象](<https://36kr.com/p/4087311436446085?f=rss>)  
-  假如你去相亲，对方自我介绍说，“我在大厂做 AI 工程师。” 你会是什么反应？ 你大概率会觉得，这人不仅收入稳了，还很上进，至少抓住了机会，踩中了时代浪潮。 结果在美国的一场相亲活动上，一位 AI 从业者满怀骄傲介绍起自己的职业时，换来了一  
-  36氪 · 2026-11-27 09:43
-
-- [China Hedge Fund Star Builds Operating System Kernel for AI](<https://www.bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai>)  
-  Bloomberg · 2026-11-27 09:29
-
-- [美股英伟达危机真的解除了？华尔街却可能犯了一个致命错误](<https://36kr.com/p/4087278619081092?f=rss>)  
-  周一还在庆祝黄仁勋王者归来的华尔街，这两天就开始重新审视这场复职背后尚未解决的法律、监管和公司治理风险，这恰恰暴露了一个值得投资者警惕的问题，黄仁勋回来了，英伟达的危机就真的结束了吗？ 我们美股投资网在结合了美股底层的订单流数据，并仔细梳理  
-  36氪 · 2026-11-27 09:14
-
-- [2026年中国法律科技行业发展白皮书](<https://36kr.com/p/4087255061543296?f=rss>)  
-  摘要 中国法律科技正处在从工具化提效向可信流程化跃迁的阶段，预计2030年市场规模将达241.4亿元，其中企业端以156.5亿元占六成以上，批量纠纷处置成为主要增长来源。与此同时，合规要求同步收紧：数据安全、个人信息保护以及AI辅助司法的适  
-  36氪 · 2026-11-27 09:13
-
-- [蜜雪冰城，间接投了DeepSeek](<https://www.pedaily.cn/first/196016.shtml>)  
-  11月23日，知乎在港交所发布公告，确认其参与出资的一只私募股权投资基金，已经间接入股DeepSeek。 这只规模高达75.2亿元的基金名叫砺思星深，蜜雪冰城认缴了其中的5亿元。 今年6月，蜜雪冰城还曾认缴15亿元，成为另一只科技创业…  
-  投资界 · 2026-11-27 08:31
-
-- [投资界24h\| 马云现身平头哥办公区；蜜雪冰城，间接投了DeepSeek；哈工大系，又排队IPO](<https://www.pedaily.cn/first/196018.shtml>)  
-  平头哥冲刺IPO之际，马云现身办公区与员工合影蜜雪冰城间接入股DeepSeek哈工大系工大卫星启动A股IPO湖北智数产业基金设立，规模4.8亿元宇树科技王兴兴判断5到10年中国机器人年产量或超汽车达2000万台。（投资界） 原文链接  
-  投资界 · 2026-11-27 08:30
-
-- [宇树科技王兴兴：5到10年内中国机器人产量有望超过汽车，年产量超2000万台](<https://www.pedaily.cn/first/196012.shtml>)  
-  11月26日，在WISE2026大会上，宇树科技创始人、CEO、CTO王兴兴判断，5到10年内，中国机器人产量有望超过汽车，全国年产量可能超过2000万台。王兴兴表示，机器人相比汽车还是小很多，未来技术突破及生产工程量跑通以后，同样一…  
-  投资界 · 2026-11-27 08:27
-
-- [阿里加码北美招聘，Qwen团队今年已吸纳数百名AI人才](<https://www.pedaily.cn/first/196010.shtml>)  
-  近日，阿里正加大北美招聘力度，主要面向全球顶级AI研究员。Qwen北美团队已开放多个岗位，涉及模型研究、训练与推理、多模态、智能体（Agent）和数据等方向。今年全球已有数百人加入阿里Qwen大模型团队。（投资界）  
-  投资界 · 2026-11-27 08:26
-
-- [前苹果空间智能首席科学家权龙再创业，成立Envision AI](<https://www.pedaily.cn/first/196011.shtml>)  
-  11月26日，界面新闻记者获悉，香港科技大学首个计算机视觉实验室创始人、前苹果空间智能方向首席科学家权龙宣布二次创业，成立Envision AI（格秩科技），聚焦空间与物理基础模型研发。权龙此前创办的三维重建企业Altizure于20…  
-  投资界 · 2026-11-27 08:26
-
-- [当物理AI遇上6G，机器人多边协作不再遥远](<https://www.163.com/dy/article/LCNORVV70514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 07:54
-
-- [2026年，AI正在改写平台经济的游戏规则](<https://36kr.com/p/4046544852931719?f=rss>)  
-  神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。 编者按：2025 年 MIT 平台战略峰会上，四位学者围绕 AI 智能体崛起、技术债务加速、AI 技术栈集中和硬件循环经济展开讨论，勾勒出  
-  36氪 · 2026-11-27 07:12
-
-- [国产大模型集体进军AI4S](<https://www.163.com/dy/article/LCNMCIR20514R9P4.html>)  
-  网易科技频道 · 网易号 · 2026-11-27 07:10
-
-- [你的未来五年，取决于你对这 7 大变革的理解](<https://36kr.com/p/4058051722138496?f=rss>)  
-  神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。 编者按：人人都在为效率狂欢，劳动者的收入占比却跌至历史最低。与其焦虑学什么新工具，不如跟着真金白银看清现实：AI 砸碎初级岗位的同时，正在  
-  36氪 · 2026-11-27 07:06
-
-- [How Clay Builds GTM Agents — Jeff Barg, Head of AI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_clay_builds_gtm_agents_jeff_barg_head_of_ai>)  
-  Clay \( https://www.clay.com/ \) wants you to get about the same results whether you use its own agent or point Claude…  
-  Latent Space · 2026-11-27 06:44
-
-- [Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI](<https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai>)  
-  Bloomberg · 2026-11-27 06:00
-
-- [AI 让自托管重新变有趣：一位老玩家的实操复盘](<https://janlukas.blog/posts/ai-self-hosting>)  
-  长期自托管的作者复盘过去几个月如何借助 AI 编码智能体重拾自托管热情。  
-  Hacker News：AI 热帖 · 2026-11-27 05:47
-
-- [TDK Bets on AI Data Centers and Robots to Fuel Sensor Growth](<https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth>)  
-  Bloomberg · 2026-11-27 05:00
-
-- [Nvidia hits pause on chip shipments to Southeast Asia](<https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/>)  
-  Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U  
-  TechCrunch · 2026-11-27 04:03
-
-- [前 OpenAI 研究员 Scott Aaronson 撰文称 AI 能产出黎曼猜想证明这件事比证明本身更重要](<https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/>)  
-  前 OpenAI 研究员、UT Austin 教授 Scott Aaronson 发博文称，黎曼猜想证明本身未必改变日常生活，真正意义重大的是 AI 系统能产出这类证明，可能对日常经济乃至生存带来深远影响。他分析 OpenAI 关于矩阵乘法和傅里叶变换的下界证明，表示首次从直觉上感到 P≠NP 的证明已经不远，并称从多个可靠来源得知 AI 实验室在密码学领域握有未公开的重大结果。  
-  The Decoder：AI News（RSS） · 2026-11-27 03:31
-
-- [Opinion \| Searching for God in the AI Machine](<https://www.wsj.com/opinion/searching-for-god-in-the-ai-machine-4b52e760?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-27 02:06
-
-- [OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快](<https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/>)  
-  OpenAI 修复 GPT-6.2 推出期间的计费错误，据 Codex 工程师 Thibault Sottiaux 称，用户现在触及限额的速度比上周快 40%（Astra）和 25%（Sol），但额度仍比 GPT-6 Astra 和 GPT-6.1 Sol 更耐用。  
-  The Decoder：AI News（RSS） · 2026-11-27 01:28
-
-- [SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring](<https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring>)  
-  Bloomberg · 2026-11-27 00:15
-
-- [Grand Theft Auto VI proves why efficiency isn’t a virtue](<https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/>)  
-  On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful  
-  TechCrunch · 2026-11-27 00:00
-
-- [在 OpenAI 和 Anthropic 封禁蒸馏数据后，月之暗面转向 Google 与 Meta 模型获取训练数据](<https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/>)  
-  据 Reuters 援引消息人士报道，因美国封堵云漏洞、NVIDIA 限制出货且 OpenAI 与 Anthropic 阻止数据抓取蒸馏，Z.AI 约 3 万亿参数的 GLM-5.5 可能从 11 月推迟到 2027 年第一季度，为此先发布了 7500 亿参数的 GLM-5.4 并称新设计可媲美 2 至 3 万亿参数系统。  
-  The Decoder：AI News（RSS） · 2026-11-26 23:45
-
-- [不止于想象，创新正在朝阳北部发生｜ACE-CON圆满落幕](<https://36kr.com/p/4086713624803717?f=rss>)  
-  11月21日，为期两天的 北京ACE科技创新大会暨ACE-CON拔尖儿 （以下简称“ACE-CON”）在北京国家会议中心落下帷幕。大会汇聚70余位行业嘉宾、65家参展企业及创作团队，20家优质初创企业登台路演，吸引近4000名观众参展参会，  
-  36氪 · 2026-11-26 23:00
-
-- [腾讯 AI 平台 ORIDTP 从头设计双靶点多肽，成果以第一单位登上 Nature](<https://www.ithome.com/1/033/125.htm>)  
-  腾讯宣布其生命科学实验室的 AI for Science 研究成果于 11 月 25 日以第一单位登上《Nature》主刊，挑战高活性双靶点治疗性多肽的从头设计。  
-  IT之家·人工智能 · 2026-11-26 22:58
-
-- [奇点光子获得2180万美元A轮投资](<https://www.itjuzi.com/investevent/14708771>)  
-  奇点光子\(PhotonicX AI\)是一家光通信技术商，主要从事光电合封芯片研发、光通信技术研发等相关业务。公司日前获得2180万美元A轮投资，其中凌云光投资620万美元，其他投资方包括长飞光纤、达晨创投等，投后估值2.66亿美元。  
-  IT桔子 · 2026-11-26 21:54
-
-- [FCC 批准 SpaceX 至 2040 年部署最多 100 万颗 Starmind 卫星用于在轨 AI 数据中心](<https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/>)  
-  据 Reuters 报道，FCC 已授权 SpaceX 部署最多 100 万颗 Starmind 在轨计算模块卫星，用于在轨道上处理 AI 数据，满足地面日益增长的 AI 算力需求。FCC 同时批准了无线电链路，在光学连接失效时可让 SpaceX 监控和控制这些卫星。  
-  The Decoder：AI News（RSS） · 2026-11-26 21:41
-
-- [金山云Q3财报：营收35亿元，增长40%，归母净亏损1.1亿元](<https://36kr.com/p/4086515462510468?f=rss>)  
-  近日，金山云交出了截至9月30日的第三季度成绩单。如果只看收入端，这是一份足以让多头振奋的财报：总营收34.78亿元，同比增长40.4%，环比增长13.2%，创下过去五年最快的单季增速；AI云账单收入16.83亿元，同比增长115%，占公有  
-  36氪 · 2026-11-26 21:27
 
 [返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页

@@ -20,11 +20,15 @@ DeepMind宣布AlphaGenome 2，支持细胞类型与状态条件化预测；非�
 
 [DeepMind AlphaGenome 2公告](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>) · [Advancing regulatory variant effect prediction with AlphaGenome](<https://www.nature.com/articles/s41586-025-10014-0>)
 
-## 相关资讯 · 10 条
+## 相关资讯 · 11 条
 
-- [粒影生物完成过亿元A+轮融资，为AI4S模型量身定制私有数据库](<https://www.pedaily.cn/first/196087.shtml>)  
-  深圳粒影生物科技有限公司11月27日完成过亿元A 轮融资，皓禾资本领投，光明科学城产业发展集团、南京大健康基金及老股东跟投。募集资金投向四条线：AI 平台升级与干湿一体化设备量产、核心产品研发与关键医疗器械注册、产业化产能建设、市场与…  
-  投资界 · 2026-11-27 11:15
+- [AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架](<https://36kr.com/p/4087817299573129?f=rss>)  
+  AI正在从科研助手走向基础科学研究的深水区。 一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。 11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Cha  
+  36氪 · 2026-11-27 18:28
+
+- [Switchpoint Bio获得530万美元Pre-种子轮融资](<https://www.itjuzi.com/investevent/14708808>)  
+  Switchpoint Bio 是一家生物科技服务商，开发基于血液 DNA 甲基化与 AI 的表观基因组平台，通过无创抽血解析免疫细胞动态变化，用于自身免疫病等领域的生物标志物挖掘、临床试验患者分层与药效响应评估，优先在系统性红斑狼疮…  
+  IT桔子 · 2026-11-27 13:43
 
 - [素源矩阵完成天使轮融资](<https://www.itjuzi.com/investevent/14708780>)  
   素源矩阵是面向材料工业的原生 AI Agent 决策+控制系统，以科学智能与知识驱动的新型工业 AI，深度融合材料机理与工艺经验，让制造从“经验试错”走向“结果确知”，真正实现材料在生产中价值最大化，引领智造新模式。近日，素源矩阵完成…  

@@ -2,45 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 19 页
 
-- [美国弗吉尼亚州和俄勒冈州起诉 SpaceX，指控 Grok 生成儿童性虐待图像](<https://www.ithome.com/1/031/270.htm>)  
-  美国弗吉尼亚州和俄勒冈州起诉 SpaceX，指控其旗下 AI 模型 Grok 未阻止生成儿童性虐待图像并从中获利，两州是过去几个月多州调查中首批正式起诉的州。两州还指控 SpaceX 宣传安全功能时误导消费者、未建立充分安全防护，并仍在推广可生成裸露图像的 Spicy 模式，要求赔偿并停止违法行为，SpaceX 暂未回应置评请求。  
-  IT之家·人工智能 · 2026-11-24 08:48
-
-- [亚马逊收购 Decart 的 AI 优化技术，报道称交易约 75 亿美元](<https://www.ithome.com/1/031/262.htm>)  
-  亚马逊宣布收购 Decart 公司的 AI 优化技术，并邀请其联合创始人和员工加入，彭博社援引知情人士称交易金额约 75 亿美元，亚马逊未披露财务条款。Decart 成立于 2023 年，主打产品为 Decart Optimization Stack（DOS）软件引擎，可帮助企业提升 AI 系统运行速度并在英伟达、谷歌、亚马逊等厂商的 AI 芯片间切换。  
-  IT之家·人工智能 · 2026-11-24 08:13
-
-- [Anthropic 发布 Claude Ship 覆盖 GitHub PR 审查与修复](<https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/>)  
-  Anthropic 发布 Claude Ship，一套覆盖 GitHub PR 从审查到批准的智能体，包含 Code Review、PR Steward 和 Claude Approvals，其中 Code Review 已正式可用，另外两个处于公测。  
-  MarkTechPost（RSS） · 2026-11-24 08:02
-
-- [Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用](<https://claude.com/blog/install-as-app>)  
-  Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。  
-  Claude：Blog（网页） · 2026-11-24 08:00
-
-- [Claude 月度回顾转正，artifact 可装为桌面应用，连接器文件传输开启 beta](<https://support.claude.com/en/articles/12138966-release-notes#h_21ad83d886>)  
-  Claude 应用发布说明宣布三项更新：月度回顾（Reflect）在 Web、桌面端和移动端对 Free、Pro、Max、Ultra 套餐转正，可纳入 Claude Code 会话和云端 Cowork 任务并支持删除。  
-  Claude 应用发布说明 · 2026-11-24 08:00
-
-- [Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新](<https://claude.com/blog/skills-over-mcp-tasks-and-more>)  
-  Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。  
-  Claude：Blog（网页） · 2026-11-24 08:00
-
-- [How Intentful uses dots to make more time for growth](<https://openai.com/business/customer-stories/intentful-dots>)  
-  Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolv…  
-  OpenAI · 2026-11-24 08:00
-
-- [How iFood scales coding agents across 15,000 repositories](<https://openai.com/business/customer-stories/ifood>)  
-  OpenAI · 2026-11-24 08:00
-
-- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
-  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
-  OpenAI · 2026-11-24 08:00
-
-- [Conductor 0.100.0 新增 Artifact 发布与评论功能](<https://www.conductor.build/changelog/0.100.0-artifact-publishing-and-commenting>)  
-  Conductor 0.100.0 支持将 Artifact 发布为链接分享，点击 Publish 或按 ⌘⇧C 复制链接，已发布内容可在 Settings → Artifacts 管理。用户还能全屏打开 Artifact 添加评论，评论经聊天框传给智能体。该版本同时让模型选择器显示账户可用的全部 Claude 模型，附件图片和视频以缩略图形式展示在消息下方。  
-  Conductor 官方更新 · 2026-11-24 08:00
-
 - [Browserbase 发布黑五代购 Agent 并开源 BELL 技术栈](<https://www.browserbase.com/blog/how-our-black-friday-agent-shops-for-you>)  
   Browserbase 联合 Stripe、Linq、Vercel 和 Parallel 推出可在 browserbase.shop 代买黑五优惠的 Agent，用户通过 iMessage 选品并确认，Agent 用远程浏览器以真人方式操作无 API 的商店结账页。  
   Browserbase / Stagehand 工程博客 · 2026-11-24 08:00
@@ -52,22 +13,6 @@
 - [Mastra Agents 在 Slack 中支持生成式 UI 卡片](<https://mastra.ai/blog/introducing-slack-generative-ui>)  
   Mastra Agents 现可在 Slack 中使用生成式 UI 卡片，开启 generativeUI 后智能体会获得 render\_card 工具，向会话线程发布原生富卡片。  
   Mastra Blog · 2026-11-24 08:00
-
-- [AI 会像灯泡一样通缩还是像铜一样复利增长：Tomasz Tunguz 分析 token 价格弹性](<https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars/>)  
-  Tomasz Tunguz 分析 AI token 价格弹性，判断行业更接近铜而非灯泡：Ramp 上价格每降 1% 带动 token 量增 4.3%，OpenRouter 为 6.8%；Anthropic 上半年收入 13.6 倍增至 163 亿美元，Opus 4.5 降本后季度增速从 48% 跳到 132%。  
-  Tomasz Tunguz 博客（VC 分析） · 2026-11-24 08:00
-
-- [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
-  vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
-
-- [OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成](<https://openclaw.ai/blog/shellbench>)  
-  OpenClaw 与 Hugging Face、Red Hat、UC Berkeley 等机构合作推出 ShellBench，基于超过 1000 万条匿名真实智能体交互构建 100 个日常任务，含 90 个 rubric 评分任务（721 项标准，其中 381 项安全标准）和 10 个代码测试任务，共 53,100 次评分运行。  
-  OpenClaw：Blog（网页） · 2026-11-24 08:00
-
-- [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
-  百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
 
 - [AI Is ‘Probably Not’ Conscious but Could Be Soon, Says Philosopher Rob Long](<https://www.theinformation.com/articles/ai-probably-not-conscious-soon-says-philosopher-rob-long>)  
   The Information · 2026-11-24 07:55
@@ -136,9 +81,6 @@
   The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
   The Verge：AI（RSS） · 2026-11-24 05:09
 
-- [Trump Administration Adds Nvidia-linked Megaspeed to Trade Blacklist](<https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist>)  
-  The Information · 2026-11-24 05:04
-
 - [Figma agent 正式开放至 FigJam 和 Figma Slides](<https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/>)  
   Figma agent 现已在 FigJam 和 Figma Slides 上对所有付费计划全面开放，支持连接器和附件，可将设计文件、会议记录或研究笔记等材料整理到 FigJam 白板或生成演示文稿初稿。  
   Figma AI / Agent / Make · 2026-11-24 04:54
@@ -159,9 +101,6 @@
   Sayash Kapoor 与 Rod Moshtagi 撰文反驳咨询业崩溃论，指出客户付费的不只是分析，还包括判断、协调、信誉与问责，而战略判断难以训练进 AI。  
   AI as Normal Technology（RSS） · 2026-11-24 04:12
 
-- [AI’s Power Crunch Is Reviving a Long-Stalled Energy Source](<https://www.theinformation.com/articles/ais-power-crunch-reviving-long-stalled-energy-source>)  
-  The Information · 2026-11-24 04:09
-
 - [Anthropic 推出 Claude Ship，可自动审查并合入 PR](<https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests>)  
   Anthropic 发布 Claude Ship，让 Claude 能审查、修复并批准 pull request。其中 PR Steward 和 Claude Approvals 两个智能体以 beta 形式上线，前者处理失败的 CI 检查、合并冲突和审查反馈并留言说明改动，后者在组织政策允许时可批准常规改动。  
   The Verge：AI（RSS） · 2026-11-24 04:00
@@ -177,5 +116,69 @@
 - [Understanding AI 剖析当下五大 AI 争议的正反方论据](<https://www.understandingai.org/p/the-five-most-important-debates-in>)  
   Timothy B. Lee 与 Derek Thompson 合作发布年度 AI 争议盘点，就五大问题各给出正反两方论证，包括美国是否应向中国出售先进芯片、2027 年是否出现递归自我改进、AI 是否是泡沫、网络末日是否会到来、AI 是否会摧毁数百万岗位。  
   Timothy B. Lee：Understanding AI（RSS） · 2026-11-24 03:31
+
+- [Google Search AI Mode 接入 Drive 和 Wallet 提供更个人化回答](<https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/>)  
+  Google 宣布将 Search AI Mode 中的 Personal Intelligence 扩展到 Google Drive、Google Wallet 和 Gemini app，让回答结合用户更多个人数据。  
+  TechCrunch：AI（RSS） · 2026-11-24 03:14
+
+- [Z.ai 发布 GLM-5.4：750B Loop Transformer，28 层循环跑两次](<https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/>)  
+  Z.ai 发布 GLM-5.4，是其首个基于 Loop Transformer 架构的旗舰模型，将 GLM-5 基座的 28 层权重共享层循环运行 2 次，官方称智能水平可比 2T-3T 参数模型。  
+  MarkTechPost（RSS） · 2026-11-24 03:11
+
+- [Nothing 新款耳机 Ear Note 亮相：充电盒可录音并生成 AI 转录摘要](<https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording>)  
+  Nothing 在发布前演示了 Ear Note 耳机，其带麦克风的充电盒可录制对话，并通过配套应用管理录音、转录和 AI 生成摘要。CEO Carl Pei 称这是"为 AI 构建硬件上下文层"的首批产品之一，耳机将支持与多种 AI 智能体交互，并设有"Talk"录音按键。该产品计划于 12 月 8 日发布，价格尚未确定。  
+  The Verge：AI（RSS） · 2026-11-24 03:04
+
+- [Anthropic 月付约 31 亿美元租用算力，推动 xAI 转向租比建更划算的策略](<https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/>)  
+  据 New York Times 报道，Anthropic 与 xAI 签订约每月 31 亿美元的算力租用合同，成为 xAI 最大客户，Google 每月支付 8 亿美元，两份合同均可提前 90 天通知取消，Anthropic 带来的收入已超过 xAI 总收入的一半。  
+  The Decoder：AI News（RSS） · 2026-11-24 02:47
+
+- [OpenAI 首席科学家 Jakub Pachocki 公布 GPT 系列困惑度分数并呼吁同行约定共同安全限制](<https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/>)  
+  OpenAI 首席科学家 Jakub Pachocki 在博客公布 GPT 系列的 log-perplexity 内部分数，希望让困惑度成为行业衡量进展的共同指标。  
+  The Decoder：AI News（RSS） · 2026-11-24 02:42
+
+- [俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足](<https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit>)  
+  俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。  
+  The Verge：AI（RSS） · 2026-11-24 02:26
+
+- [Google 申请个性化 AI 电视频道专利，用户将成为主角](<https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/>)  
+  Google 已提交一项专利申请，拟利用其掌握的用户信息生成全天候 AI 电视频道，内容包括以用户为主角的个性化节目和定制广告。404 Media 认为，这反映了 AI 视频的一个趋势：基于公司和广告主收集的大量用户数据自动生成无限量、高度定制的内容。  
+  404 Media（RSS） · 2026-11-24 02:17
+
+- [黄仁勋复任英伟达CEO后定于12月3日出席参议院银行委员会听证会](<https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/>)  
+  黄仁勋定于12月3日出席美国参议院银行委员会听证会，该委员会主管AI芯片等敏感技术的出口管制政策。此前他因个人事务辞任英伟达CEO，不到两周后复任。在复任之前，黄仁勋已同意于12月1日出席美国众议院外交事务委员会及情报委员会相关听证会。  
+  TechCrunch：AI（RSS） · 2026-11-24 02:12
+
+- [Microsoft AI 详解自研 RL 框架 Rocket，用于后训练 MAI Base 2](<https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/>)  
+  Microsoft AI 发文介绍自研强化学习框架 Rocket，正用于对三万亿参数基座模型 MAI Base 2 做无第三方蒸馏的后训练。  
+  Microsoft AI：官方博客（RSS） · 2026-11-24 01:24
+
+- [Ai2 发布 RoboTrack 点跟踪基准、RoboTrack-15M 数据集与 RoboTracker 系列模型](<https://huggingface.co/blog/allenai/robotrack>)  
+  Ai2 发布面向机器人操作的点跟踪基准与训练数据套件 RoboTrack，包含 307 段人工标注视频的 RoboTrack-Bench（2522 条轨迹，来自 DROID、Ego-Exo4D、MolmoAct 2 和 EgoVerse）和基于 MolmoSpaces 生成 1500 万条轨迹的 RoboTrack-15M。  
+  Hugging Face 社区博客（混合发现） · 2026-11-24 01:20
+
+- [Amazon 以 75 亿美元收购 Decart 优化技术，筹备对外销售 Trainium 芯片](<https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/>)  
+  Amazon 已同意以 75 亿美元收购以色列初创公司 Decart 的大部分业务，包括其 Decart Optimization Stack（DOS）优化技术、创始团队及 AI 研究与工程团队。  
+  TechCrunch：AI（RSS） · 2026-11-24 01:14
+
+- [Investing in Embo](<https://www.a16z.news/p/investing-in-embo>)  
+  AI is now moving off the screen and into the physical world, and that requires models that understand how the physica…  
+  a16z · 2026-11-24 01:02
+
+- [Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用](<https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/>)  
+  Google 宣布在 Search 的 AI Mode 中扩展 Personal Intelligence，用户可选择安全连接 Google Wallet、Drive 和 Gemini 应用，Wallet 即日起开放，Drive 和 Gemini 应用将在未来数周跟进。  
+  Google Blog：AI（RSS） · 2026-11-24 01:00
+
+- [Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/>)  
+  Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。  
+  Google DeepMind：Blog（RSS） · 2026-11-24 00:59
+
+- [Databricks 宣布 Lakebase Postgres 原生 Spark Structured Streaming sink 正式可用](<https://www.databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming>)  
+  Databricks 宣布面向 Apache Spark Structured Streaming 的原生 Lakebase sink 正式可用，通过单次 writeStream 调用即可把计算结果直接写入 Lakebase，内置批处理、连接复用、自动重试与 upsert。  
+  Databricks：Blog（RSS） · 2026-11-24 00:32
+
+- [Sarvam AI 发布文档抽取 API Sarvam Extract](<https://www.sarvam.ai/blogs/extract-api>)  
+  Sarvam AI 发布结构化文档抽取 API Sarvam Extract，由 Sarvam Vision 2.1 驱动，分 Basic 和 Advanced 两种模式，支持最多 500 页文档和英语及 22 种印度语言。  
+  Sarvam AI（网页） · 2026-11-24 00:00
 
 [返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 19 页

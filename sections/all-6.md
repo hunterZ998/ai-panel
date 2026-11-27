@@ -2,47 +2,6 @@
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页
 
-- [AI Safety Advocates Sour on Anthropic](<https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic>)  
-  The Information · 2026-11-25 23:00
-
-- [Sakana AI 更新 Sakana Marlin，新增 Twilight 2.0 与 Midnight 2.0 两个研究模式并重构 PowerPoint 幻灯片输出](<https://sakana.ai/marlin-update-2/>)  
-  Sakana AI 更新其战略研究智能体 Sakana Marlin，新增 Twilight 2.0 和 Midnight 2.0 两个模式，原版本以 Sunlight 模式继续提供。  
-  Sakana AI：Blog（网页） · 2026-11-25 23:00
-
-- [GitHub Copilot 教程：如何用证据优先方法选择应用现代化的下一个安全步骤](<https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/>)  
-  GitHub 博客作者 Sam Quakenbush 介绍一套证据优先的应用现代化方法：先盘点清单、记录不确定性，再按保留、升级、替换、包装、重写的顺序选择破坏性最小的方案，并用可行性检查决定是先捕获行为再升级，还是先构建小的现代化切片。  
-  GitHub Blog · 2026-11-25 23:00
-
-- [消息称亚马逊与 Meta 洽谈合作，或对 Meta 的 Muse 购物智能体开放商城](<https://www.ithome.com/1/032/515.htm>)  
-  据《财富》援引知情人士报道，亚马逊与 Meta 正洽谈让 Meta 旗下 AI 购物智能体 Muse 接入亚马逊电商平台，与两个月前屏蔽 Muse 下单形成反差。目前谈判卡在商品搜索结果展示和广告安排两个议题，亚马逊顾虑广告收入受损及第三方智能体削弱其用户关系，协议需两家公司 CEO 批准才能落地。  
-  IT之家·人工智能 · 2026-11-25 22:45
-
-- [Wiz 拆解智能体攻击框架 ARTEX 与 Cairn 的 Intent ID 泄漏机制](<https://www.wiz.io/blog/agentic-offensive-frameworks-intent-ids-artex-cairn>)  
-  Wiz Research 发布分析，解释智能体攻击框架（agentic offensive frameworks）的 Intent ID 机制：框架将攻击拆分为带递增数字 ID 的 intent，模型在创建文件、注册账号、GitHub workflow、User-Agent 等操作时会把 ID 泄漏到目标侧日志。  
-  Wiz：Research（安全研究） · 2026-11-25 22:27
-
-- [Anthropic’s Claude Output Can Be Installed as Software](<https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 22:26
-
-- [Amazon 据报与 Meta 谈判，或解除对 Muse AI 购物智能体的屏蔽](<https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions>)  
-  据 Fortune 报道，Amazon 正与 Meta 就让 Muse AI 智能体在其电商平台上购物进行谈判，可能解除目前对 Muse 的屏蔽。谈判焦点包括 Muse 推荐的产品类型，以及对其广告收入的影响，Amazon 担心允许 Muse 进入会因真人用户减少看到广告而损失收入，还担心搜索结果质量和客户关系。  
-  The Verge：AI（RSS） · 2026-11-25 22:12
-
-- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)  
-  Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.  
-  TechCrunch · 2026-11-25 22:10
-
-- [Sierra 谈医疗 AI 智能体：HLTH 2026 的四点经验](<https://sierra.ai/blog/ai-agents-healthcare-hlth-2026>)  
-  Sierra 在 HLTH 2026 分享了规模化运行医疗 AI 智能体的四点经验。Blue Cross Blue Shield Association 用 53 天上线联邦雇员项目智能体，首日接听 400 通电话，五个月解决超 105,000 通来电，满意度 4.5/5。Sierra 还推出面向个人智能体的开放标准 Poppy，已有超 100 家设计伙伴，包括 Cigna。  
-  Sierra：Blog（RSS） · 2026-11-25 22:08
-
-- [Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens](<https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens>)  
-  The Information · 2026-11-25 22:00
-
-- [Monton](<https://www.producthunt.com/products/monton>)  
-  AI agents that do your agency's busywork  
-  Product Hunt · English · 2026-11-25 21:32
-
 - [DeepMind 副总裁谈 AI 智能体自主控制部分 Gemini 实验算力，但离递归自我改进尚远](<https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/>)  
   Google DeepMind 研究副总裁 Koray Kavukcuoglu 在公司播客中表示，AI 智能体已自主控制部分算力为下一代 Gemini 模型运行实验，但距离完全递归自我改进还很远。  
   The Decoder：AI News（RSS） · 2026-11-25 21:23
@@ -123,6 +82,10 @@
   浙江卫视与火山引擎在2027开源共创发布会上发布新质综艺行动计划，首批推出十档自制AI综艺，覆盖恋爱、冒险、喜剧、推理等题材，火山引擎提供AI技术支持。火山引擎炉米Lumi平台搭载Seedance 2.5、Seed Audio等豆包系列模型，为智媒果创作平台提供剧本撰写、素材生成、分镜设计等全流程创作能力，10档节目正片已进入制作阶段。  
   公众号：火山引擎 · 2026-11-25 15:35
 
+- [Spark AI](<https://www.producthunt.com/products/spark-ai-7>)  
+  AI-native permitting &amp; diligence services for data centers  
+  Product Hunt · English · 2026-11-25 15:30
+
 - [PH今日热榜 \| 2026-11-25](<https://decohack.com/producthunt-daily-2026-11-25/>)  
   distribution.dev：通过一个活动在多个网站上向开发者投放广告。；Granular.Build：让你的AI助手在可视化工作空间中发挥作用；Viktor Code：编码代理了解你的代码库，而维克托了解你的公司。  
   Product Hunt 中文 · DecoHack · 2026-11-25 15:00
@@ -178,5 +141,44 @@
 - [千问App免费开放打电话服务，可代用户拨号沟通需求](<https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw>)  
   千问App宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并授权后，AI可代为拨打电话、沟通需求。文中举例称可帮用户联系酒店前台找回遗落行李并沟通寄回，还适用于订包间、催快递等场景。  
   公众号：千问APP（阿里） · 2026-11-25 12:32
+
+- [Latent Space AINews：Gemini 4 Neon 发布创 Day-1 用量纪录，Google DeepMind 被视为重回前沿实验室行列](<https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/>)  
+  Latent Space AINews（11/23-11/24）汇总称，在 Gemini 3 进展不及预期、高层离职三个月后，Gemini 4 Neon 的发布被视为 Google DeepMind 全面回归前沿实验室的标志。Neon 在 Google 付费 API 上创下 Day-1 用量纪录，Antigravity 日均 token 量较六周前 Argon 发布时增长 82%；Perplexity 的 Neon token 用量已突破 1200 亿，三天内日用量翻倍。同期汇总还涵盖多家实验室的模型发布、评测基准…  
+  Latent Space（RSS） · 2026-11-25 12:29
+
+- [蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型](<https://huggingface.co/inclusionAI/Ming-Image-0.2-Design>)  
+  蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。  
+  蚂蚁 inclusionAI：HuggingFace 新模型 · 2026-11-25 12:02
+
+- [The Information 报道 OpenAI 将网络安全视为可能超越编程的增长引擎](<https://www.ithome.com/1/031/989.htm>)  
+  The Information 报道，OpenAI 正把网络安全视为可能超越编程业务的下一个增长引擎。CFO Sarah Friar 认为外界对超 3,000 亿美元网安市场规模的估计仍低估了长期潜力，总裁 Greg Brockman 提出先建专业模型、再向可信客户开放、最后帮助客户掌握使用的三步路径，并强调将采取较严格的访问与部署控制。  
+  IT之家·人工智能 · 2026-11-25 11:41
+
+- [Anthropic 上市不到一周跌破 83 美元发行价](<https://www.ithome.com/1/031/983.htm>)  
+  Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元，单日下跌 6.54%，盘中最低约 76 美元，较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2,000 亿美元的压力。  
+  IT之家·人工智能 · 2026-11-25 11:29
+
+- [阿里千问 Go 全面开放免费代打电话服务，支持订餐厅、找快递、寻失物](<https://www.ithome.com/1/031/977.htm>)  
+  阿里旗下 AI 智能体千问 Go 于 11 月 25 日全面开放免费代打电话服务。用户告知拨打对象和通话需求并授权后，千问可联系餐厅订包间、向酒店询问遗失物品、联系快递员查询配送进度，还支持定时代打电话。通话中千问会主动表明 AI 助手身份，并设有外呼安全防护机制，对存在风险的请求进行筛查和拦截。  
+  IT之家·人工智能 · 2026-11-25 11:12
+
+- [杨立昆怒怼 Anthropic CEO 阿莫迪：炒作 AI 危险论是为了掌握控制权](<https://www.ithome.com/1/031/960.htm>)  
+  杨立昆在 X 平台发文怒怼 Anthropic CEO 达里奥·阿莫迪，称其自 GPT-2 以来一直炒作 AI 的危险性，目的是让开源模型被列为非法、让自己掌握控制权，并称他离开 OpenAI 只是因为在那里无法掌握控制权。他将这种做法比作奥斯曼帝国禁止阿拉伯语印刷机，是一种新的中世纪蒙昧主义，阻止人们自由获取多元知识。  
+  IT之家·人工智能 · 2026-11-25 10:16
+
+- [LangChain 提出 agent lake 概念，解析 LangSmith 的智能体数据平台架构](<https://www.langchain.com/blog/the-agent-lake>)  
+  LangChain 提出 agent lake 概念，即专为智能体 trace 优化的存储加在其上运行的智能计算，并称 LangSmith 平台架构正收敛于此，每月摄入数十亿次 agent 运行的 trace。  
+  LangChain：Blog（RSS） · 2026-11-25 09:30
+
+- [AI Stocks’ Big Worry: a Chip Glut](<https://www.theinformation.com/articles/ai-stocks-big-worry-chip-glut>)  
+  The Information · 2026-11-25 09:00
+
+- [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](<https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/>)  
+  Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'  
+  TechCrunch · 2026-11-25 08:12
+
+- [LangChain 如何用 LangSmith 通过 ISO 42001 认证](<https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith>)  
+  LangChain 已获得 AI 管理体系国际标准 ISO/IEC 42001 认证，并披露其借助 LangSmith 完成审计取证的过程。审计所需证据正是工程师日常调试智能体所用的 trace 与评估结果，加上每个智能体的权限设置，认证范围覆盖所有在 LangChain 托管模型上运行推理的 GA LangSmith 功能，并每年接受监督审计。  
+  LangChain：Blog（RSS） · 2026-11-25 08:04
 
 [返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页

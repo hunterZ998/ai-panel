@@ -2,33 +2,9 @@
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页
 
-- [蚂蚁百灵发布生理信号基础模型 LingSante-Pulse，从30秒波形预测六年疾病风险](<https://mp.weixin.qq.com/s/xidWztAK7Fob87FhoD5fzQ>)  
-  蚂蚁百灵团队发布生理信号基础模型 LingSante-Pulse，在超过15万小时的多场景生理序列数据上预训练，用单一冻结编码器统一处理 EEG、ECG、PPG、EMG 等多种生理信号。  
-  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
-
-- [蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升](<https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g>)  
-  蚂蚁百灵大模型发布并开源 Ling-3.2-air，延续 Ling-3.0-flash-VL 原生多模态架构，总参数 1240 亿、每 Token 激活 55 亿，支持文本、图像和视频输入。  
-  公众号：蚂蚁百灵（Ling） · 2026-11-24 09:00
-
-- [OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役](<https://www.ithome.com/1/031/271.htm>)  
-  OpenAI 宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，此前该模型已在 ChatGPT Work 和 Codex 亮相不到一周。  
-  IT之家·人工智能 · 2026-11-24 08:49
-
-- [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)  
-  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 mod…  
-  OpenAI · 2026-11-24 08:00
-
 - [AI 会像灯泡一样通缩还是像铜一样复利增长：Tomasz Tunguz 分析 token 价格弹性](<https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars/>)  
   Tomasz Tunguz 分析 AI token 价格弹性，判断行业更接近铜而非灯泡：Ramp 上价格每降 1% 带动 token 量增 4.3%，OpenRouter 为 6.8%；Anthropic 上半年收入 13.6 倍增至 163 亿美元，Opus 4.5 降本后季度增速从 48% 跳到 132%。  
   Tomasz Tunguz 博客（VC 分析） · 2026-11-24 08:00
-
-- [vLLM 推出 vLLM-GR：面向生成式推荐的高效推理框架](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>)  
-  vLLM 发布开源推理与服务框架 vLLM-GR，基于 vLLM 为生成式推荐模型提供 beam search 支持，可在单次请求中探索多个候选 ID。该框架复用 vLLM 的模型执行、调度与 paged KV cache，支持 OneRec-1.7B、HSTU、OneTrans 等模型，并可在 NVIDIA GPU 与 Ascend NPU 上从离线评估迁移到在线服务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
-
-- [vLLM Day-0 支持 ERNIE 5.5 Flash Preview，通过插件实现部署与端到端推理加速](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>)  
-  百度 ERNIE 团队与 vLLM 合作，为 ERNIE 5.5 Flash Preview 提供 Day-0 支持。该模型为稀疏 MoE 架构，总参数 280B、每 token 激活 14B，支持 1M token 上下文、思考后再回答以及工具调用的长程 Agent 任务。  
-  vLLM 官方博客（RSS） · 2026-11-24 08:00
 
 - [谷歌 DeepMind 用 Gemini 4 智能体结合 Lean 验证优化量子算法，最高提速 290 倍](<https://www.ithome.com/1/031/232.htm>)  
   谷歌 DeepMind 与 Google Quantum AI 团队于 11 月 23 日发布联合研究，利用多组 Gemini 4 智能体协同优化量子算法，并用形式化定理证明器 Lean 对每个结果做数学验证，相关 Lean 库和已验证方案已在 GitHub 开源。  
@@ -62,6 +38,10 @@
   Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。  
   Google DeepMind：Blog（RSS） · 2026-11-24 00:59
 
+- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
+  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
+  Fireworks AI（网页） · 2026-11-24 00:00
+
 - [METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍](<https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/>)  
   METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。  
   METR：Blog（网页） · 2026-11-24 00:00
@@ -81,10 +61,6 @@
 - [Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设](<https://www.goodfire.com/research/building-stronger-biological-reasoning-models>)  
   Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。  
   Goodfire Research（网页） · 2026-11-24 00:00
-
-- [Fireworks AI 分析 GPT-6 Astra 等 25 个模型在 8 项 SII 基准上的隐藏成本](<https://fireworks.ai/blog/hidden-cost-of-one-default-ai-model/>)  
-  Fireworks AI 分析 1,259 个 SII 基准任务后指出，仅用 GPT-6 Astra 一个默认模型代价很高：其他模型能补上它未完成的 255 个任务，且在它完成的任务中 93% 可由其他模型以更低单次推理成本完成。  
-  Fireworks AI（网页） · 2026-11-24 00:00
 
 - [404 Media 调查 ARTEX 黑客工具被下架后仍在 GitHub 传播](<https://www.404media.co/im-not-going-to-remove-the-repository/>)  
   404 Media 记者报道 AI 黑客工具 ARTEX，它可接入用户选择的大语言模型并派出多个 AI 子智能体分工执行侦察、窃取数据等攻击，数小时内可完成一次完整入侵。原作者于 10 月因工具被恶意使用而将其下架，但作者采访了仍在 GitHub 上分发该工具的多名用户，询问其拒绝移除的原因。  
@@ -143,7 +119,7 @@
   IT之家·人工智能 · 2026-11-23 09:00
 
 - [Datasette 发布 datasette-charts 0.1a0 图表插件](<https://simonwillison.net/2026/Nov/23/datasette-charts/>)  
-  Simon Willison 用 Claude Fable 5.2 构建的 Datasette 图表插件 datasette-charts 0.1a0 发布，可在 Datasette Lite 试用。  
+  Datasette 推出 datasette-charts 0.1a0，用 Claude Fable 5.2 构建的原型已发展为完整插件，可在 Datasette Lite 试用。  
   Simon Willison 博客 · 2026-11-23 08:37
 
 - [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
@@ -181,5 +157,29 @@
 - [本地 AI 入门指南：用 Unsloth Desktop 和 Qwen3.8-27B 在家用 PC 搭建私有 ChatGPT](<https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth>)  
   作者分享在 Windows PC 上用 Unsloth Desktop 搭建本地 AI 的入门教程，以 RTX 5090 运行 4-bit 量化的 Qwen3.8-27B，全程约 10-15 分钟，无需终端命令或订阅。  
   Hacker News：AI 热帖 · 2026-11-23 00:00
+
+- [报道称 Dario Amodei 曾建议用游戏安抚因 AI 失业的民众](<https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness>)  
+  《华尔街日报》在 Anthropic 创纪录 IPO 后刊发的 Amodei 兄妹特写提到，Dario Amodei 曾在 Slack 讨论中建议用沉浸式电子游戏缓解 AI 导致失业所引发的政治冲突。相关说法来自广泛流传的 Slack 消息，报道称他当时已承认 AI 可能破坏世界稳定。  
+  Hacker News：AI 热帖 · 2026-11-22 23:52
+
+- [新实验：AI 编码智能体在模拟软件公司中完成不到十分之一的任务](<https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/>)  
+  一项新实验首次让 AI 编码智能体在模拟软件公司中作为数字员工工作，环境包含同事、项目看板和聊天记录。结果显示即使 Claude Opus 5.5 和 GPT-6 Astra 也只完整完成不到十分之一的任务，而 SWE-bench 等标准基准已接近饱和。  
+  The Decoder：AI News（RSS） · 2026-11-22 23:15
+
+- [Oracle 称已筹集履行 OpenAI 合同全部所需资金](<https://www.ithome.com/1/030/715.htm>)  
+  Oracle 11 月 20 日表示已在本月初筹集到履行与 OpenAI 交易的全部所需租金，与供应商的进一步私下讨论仅为补充选项。其得州 Abilene 园区已用于 GPT-6 Astra 训练并接近完工，下一个 GW 级项目 Shackelford 已获全部许可，NVIDIA Vera Rubin 机架预计未来几周内交付完成。  
+  IT之家·人工智能 · 2026-11-22 22:24
+
+- [美国扩大芯片管制、DeepSeek 融资股权结构曝光、腾讯 AI 投入成本揭晓](<https://www.recodechinaai.com/p/new-chip-restrictions-deepseeks-funding>)  
+  美国将芯片出口管制扩展至海外数据中心租用算力，新规11月19日生效，并收紧对芯片制造与封装的要求。DeepSeek 本轮融资约 RMB105.5 亿、投后估值约 RMB615.5 亿，杭州辰岩成为运营公司股东。腾讯第三季度营收约 RMB207.3 亿、同比增长 8%，资本开支 RMB81.4 亿，WorkBuddy 日活超 1000 万、日均消耗超 100 万亿 tokens。  
+  Recode China AI（RSS） · 2026-11-22 21:33
+
+- [Dragos研究揭示低价AI推理服务商窃取密钥并窥探用户请求](<https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/>)  
+  Dragos安全研究人员在2026年7月至11月期间向AI服务商发送约200万条含假凭证的请求，发现至少三家服务商遭入侵，攻击者窃取数百个AWS密钥并在数小时内试用、搜索S3存储，部分攻击者还使用了AI攻击工具ARTEX。研究还发现，部分市场转售商无需利用漏洞即可读取客户请求，仅需以最低价上架模型并开启日志记录。隐私设置如“零数据保留”（ZDR）常被忽视。OpenRouter随后从平台移除三家服务商并撤销125个端点的ZDR批准，同时邮件通知受影响用户。受影响服务商包括Novita、Phala和Together，已…  
+  The Decoder：AI News（RSS） · 2026-11-22 20:07
+
+- [研究指AI数据中心碳排放堪比中等国家，Anthropic环境信息披露引关注](<https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the>)  
+  在Anthropic完成IPO之际，有气候研究指出，美国大型数据中心的碳排放合计已相当于中等国家水平。哈佛大学团队在《自然·可持续性》发表的研究估算，2024年5月至2025年4月间403个数据中心年排放约2570万吨二氧化碳，占美国电力消耗近2%。澳大利亚气候研究员Ketan Joshi的报告进一步指出，AI行业全生命周期排放可能超过国际航空业，且Anthropic从未披露任何能源、排放或环境数据，并与OnePWR达成34亿美元、1.7吉瓦燃气发电设备采购协议。相关研究认为，数据中心自建燃气发电、制冷剂泄漏等因素…  
+  Hacker News：AI 热帖 · 2026-11-22 18:32
 
 [返回面板](../README.md) · [上一页](model-2.md) · [下一页](model-4.md) · 第 3 / 5 页
