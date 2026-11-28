@@ -38,10 +38,22 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 
 [阿里云发布说明与 Work360 结果](<https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max>) · [Spring Prompt 独立商品文案等任务评测](<https://springprompt.com/blog/qwen4-max-review>)
 
-## 相关资讯 · 190 条
+## 相关资讯 · 183 条
 
-- [独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资](<https://www.163.com/dy/article/LCQ0U7ED05118HA4.html>)  
-  网易科技频道 · 网易号 · 2026-11-28 04:53
+- [老黄罕见认错！Anthropic 市值暴涨10%，万亿巨兽算力却只给英伟达 10%](<https://www.163.com/dy/article/LCR4CI1C0511ABV6.html>)  
+  网易科技频道 · 网易号 · 2026-11-28 15:13
+
+- [2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型](<https://www.ithome.com/1/033/843.htm>)  
+  IT之家 11 月 28 日消息，长城汽车 2027 款坦克 400 家族今日在 2026 广州车展上正式上市，共推出 5 款车型，售价区间为 24.98 万至 31.98 万元。 新车提供汽油、柴油、Hi4-T 和 Hi4-Z 多种…  
+  IT之家 · 2026-11-28 14:25
+
+- [奥特曼宣布：OpenAI推出隐私推理，GPT-6.2修正额度错误，开发者却怒了](<https://36kr.com/p/4088907395070594?f=rss>)  
+  就在刚刚，奥特曼宣布：OpenAI推出「隐私推理模式」！ 与此同时，Tibo在X上承认了错误，表示GPT-6.2 Astra和Sol的使用量的确被错误计算了。 而与之对应的对策是居然是：问题已修复，同样的工作会消耗更多流量，额度达上限的速度  
+  36氪 · 2026-11-28 13:30
+
+- [Inside the AI Training Data Market — Gabe Greenberg, G2i](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/inside_the_ai_training_data_market_gabe_greenberg_g2i>)  
+  A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can b…  
+  Latent Space · 2026-11-28 06:19
 
 - [AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive](<https://newsletter.semianalysis.com/p/trainium3-inferencex>)  
   The Nvidia GPU was originally built to shade pixels, and every Nvidia generation since 2017 has bolted on another pie…  
@@ -55,10 +67,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
   同样一座智算中心，由地方国资平台出资建设，与由云厂商联合芯片厂共建运营，从立项第一天起就在两本不同的账上： 前者的钱来自财政资金与固定资产投资，收入靠机架出租、政府购买与补贴政策；后者的钱来自经营性现金流，收入跟着自有业务的调用量走，按用量  
   36氪 · 2026-11-27 19:15
 
-- [字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视](<https://www.ithome.com/1/033/718.htm>)  
-  IT之家 11 月 27 日消息，字节火山引擎今日宣布，目前， 豆包大模型已服务八成国内头部电视厂商， 创维、长虹、海信、TCL 等主流品牌，都推出了搭载豆包大模型的量产电视。 围绕豆包大模型版电视，火山引擎提供模型与接入支持，厂商完…  
-  IT之家 · 2026-11-27 18:36
-
 - [AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架](<https://36kr.com/p/4087817299573129?f=rss>)  
   AI正在从科研助手走向基础科学研究的深水区。 一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。 11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Cha  
   36氪 · 2026-11-27 18:28
@@ -66,14 +74,6 @@ Runway公开Praxis-1权重及推理、微调代码，采用Apache 2.0。
 - [都说要给AI设限，OpenAI和Anthropic限的却不是一回事](<https://36kr.com/p/4087817655138690?f=rss>)  
   11月22日，OpenAI首席科学家Jakub Pachocki发文，首次公布自家模型的预训练进度数据，并提议各家实验室约定一个共同上限。三天后，Anthropic CEO Dario Amodei在X上发长文，提出需要限制的是AI自主研发  
   36氪 · 2026-11-27 18:24
-
-- [已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族](<https://www.ithome.com/1/033/649.htm>)  
-  IT之家 11 月 27 日消息，腾讯微信视觉团队开源 WeMM-Ecom —— 兼顾前沿电商理解与领先通用能力的多模态基础模型家族，涵盖 0.8B、2B、4B、9B 四款稠密模型和 35B-A3B 混合专家模型。 全系列模型原生支持…  
-  IT之家 · 2026-11-27 18:05
-
-- [曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存](<https://www.ithome.com/1/033/624.htm>)  
-  IT之家 11 月 27 日消息，韩媒 Economy Tribune 当地时间今日爆料称， Google（谷歌）计划为其第 10 代 TPU 芯片配备 512GB 的定制 HBM5 内存 。 谷歌 TPU 是当前最主要的 AI AS…  
-  IT之家 · 2026-11-27 17:54
 
 - [Lute获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708848>)  
   Lute是一家触觉物理AI科技研发商，自研融合视觉与触觉的机器人基础模型 Lute-0，弥补纯视觉方案无法感知握力、滑移、材质的缺陷，面向仓储、零售、制造的灵巧抓取场景，模型可对接第三方机器人硬件。近日，Lute获得2000万美元种子…  

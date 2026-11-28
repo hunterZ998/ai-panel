@@ -46,10 +46,6 @@
   A coding agent where even coding is a plugin  
   Product Hunt · English · 2026-11-26 12:04
 
-- [AgentDE](<https://www.producthunt.com/products/agentde>)  
-  Put all your coding agents in one native Mac window  
-  Product Hunt · English · 2026-11-26 11:15
-
 - [Upsolve Harness 2.0](<https://www.producthunt.com/products/upsolve-ai>)  
   A data agent that's 2x faster and learns every user  
   Product Hunt · English · 2026-11-26 06:03
@@ -57,6 +53,10 @@
 - [WhipDesk](<https://www.producthunt.com/products/whipdesk>)  
   Control AI coding agents from your phone  
   Product Hunt · English · 2026-11-26 05:44
+
+- [MeetFolks](<https://www.producthunt.com/products/meetfolks>)  
+  AI Notetaker for In-Person Meetings  
+  Product Hunt · English · 2026-11-26 05:33
 
 - [Remora](<https://www.producthunt.com/products/remora-6>)  
   The long-term memory layer for AI agents  
@@ -97,10 +97,6 @@
 - [Bifura](<https://www.producthunt.com/products/bifura>)  
   See your website the way AI agents do  
   Product Hunt · English · 2026-11-24 23:04
-
-- [QA.tech MCP](<https://www.producthunt.com/products/qa-tech>)  
-  Verify every change from your IDE with QA agents  
-  Product Hunt · English · 2026-11-24 22:28
 
 - [PH今日热榜 \| 2026-11-24](<https://decohack.com/producthunt-daily-2026-11-24/>)  
   Letter Visitors：在你的网站上查看访客信息；Motionflare：将您的网站在几分钟内转变为令人惊艳的启动视频。；Gauth Personal Study Agent：一个能够记住你学习困难的AI学习助手  

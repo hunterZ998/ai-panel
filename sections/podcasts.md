@@ -2,6 +2,14 @@
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页
 
+- [20VC: Why ARR Per Employee is a BS Metric \| Message-Market Fit vs. Product-Market Fit: Why Founders Should Launch Broken Products \| The Biggest Mistakes Founders Make When Scaling Sales Teams with David Paffenholz, Juicebox](<https://thetwentyminutevc.libsyn.com/20vc-why-arr-per-employee-is-a-bs-metric-message-market-fit-vs-product-market-fit-why-founders-should-launch-broken-products-the-biggest-mistakes-founders-make-when-scaling-sales-teams-with-david-paffenholz-juicebox>)  
+  David Paffenholz is the Co-Founder and CEO of Juicebox, one of Silicon Valley's fastest-growing AI startups. To date,…  
+  20VC · 2026-11-28 15:07
+
+- [Inside the AI Training Data Market — Gabe Greenberg, G2i](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/inside_the_ai_training_data_market_gabe_greenberg_g2i>)  
+  A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can b…  
+  Latent Space · 2026-11-28 06:19
+
 - [极端年代：万亿市值、AI 泡沫与资本的信仰｜2026 科技股复盘 S10E37](<https://guiguzaozhidao.fireside.fm/20240452>)  
   同样是科技巨头宣布加大 AI 投入，资本市场为什么会给出截然不同的反应？ 今年 5 月，我们和老朋友 Aaron 聊过 AI 泡沫与循环投资。半年过去，芯片、数据中心和大模型依然牵动着市场，但投资人追问的问题，逐渐从“还要投入多少钱”…  
   科技早知道 · 2026-11-27 14:30
@@ -173,13 +181,5 @@
 - [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](<https://podcast.latepost.com/186>)  
   今天我们一次发了两期节目，分别从一级市场和二级市场的角度来解读 Anthropic 在上周一（10 月 26 日）发布的 S-1 文件招股书。 在一级市场的讨论中，我邀请了《晚点聊》的老朋友，Fusion Fund 创始合伙人张璐。过…  
   晚点聊 · 2026-11-06 09:30
-
-- [The New CFO: How AI Is Rewriting the Finance Function \| Figma CFO Praveer Melwani](<https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym>)  
-  AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Fi…  
-  The a16z Show · 2026-11-05 19:00
-
-- [20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](<https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation>)  
-  AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stoc…  
-  20VC · 2026-11-05 15:07
 
 [返回面板](../README.md) · [下一页](podcasts-2.md) · 第 1 / 2 页

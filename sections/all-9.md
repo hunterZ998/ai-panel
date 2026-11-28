@@ -1,6 +1,42 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 18 页
+
+- [百度开源文心 5.5 Flash Preview：2800 亿参数 140 亿激活，Apache 2.0 协议上架 Hugging Face](<https://www.ithome.com/1/031/501.htm>)  
+  百度宣布文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议，权重已上架 Hugging Face 和 ModelScope，支持 vLLM、SGLang 等推理框架。  
+  IT之家·人工智能 · 2026-11-24 14:59
+
+- [AI 钓鱼工具 TheMailer 曝光：反复改写邮件直到绕过垃圾邮件过滤器](<https://www.ithome.com/1/031/482.htm>)  
+  据 TechRadar 报道，Varonis Threat Labs 研究人员发现暗网论坛正传播自托管 AI 钓鱼工具 TheMailer，可通过使用者自己的 API 凭证接入 Claude、ChatGPT、Grok、Gemini、Mistral 和 DeepSeek 等多个 AI 服务生成诈骗邮件。  
+  IT之家·人工智能 · 2026-11-24 14:20
+
+- [商汤发布并开源 SenseNova U1.6 原生多模态模型，支持原生图像自修正](<https://www.ithome.com/1/031/465.htm>)  
+  商汤科技发布并开源 SenseNova U1.6 原生多模态模型，首次为该系列 8B 开源模型带来原生图像自修正，可先生成首稿再对照提示检查并生成修正版。模型加强了透视文字与艺术字等复杂文字生成，U1.6 Lite 在 UltraTextBench 密集信息图测试中得分从 86.04 升至开启自修正后的 92.28，内部评测美学得分较 U1.5 Lite 高约 10%。  
+  IT之家·人工智能 · 2026-11-24 12:58
+
+- [消息称豆包 App 灰度测试“豆包购物”，配一级功能入口](<https://www.ithome.com/1/031/464.htm>)  
+  据《读佳》报道，豆包 App 正灰度测试“豆包购物”并配有一级功能入口，部分用户可见。入口独立放在侧边菜单栏，进入后是抖音电商提供的类小程序页面，底层复用抖音电商完整履约体系，支持实物、餐饮团购、演出票务交易，覆盖结算、退款、售后核销全链路。  
+  IT之家·人工智能 · 2026-11-24 12:36
+
+- [Latent Space AI 新闻日报：Nvidia 恢复黄仁勋职务，OpenAI 公开预训练困惑度曲线并联合 Microsoft 提议共同发展上限](<https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/>)  
+  Latent Space 发布 AI 新闻日报，两条主线为 Nvidia 宣布黄仁勋回归 CEO、总裁及董事职位，董事会全票通过并称获得美国政府高层意见输入，股价上涨约 30%；OpenAI 首席科学家 Jakub Pachocki 公开基础模型对数困惑度曲线，并提出行业共同发展上限的提议，Microsoft 的 Mustafa Suleyman 联署加入并在 OpenAI 评测集上报告 MAI-2 Base 得分为 0.819。  
+  Latent Space（RSS） · 2026-11-24 12:14
+
+- [蚂蚁发布并开源 Ling-3.2-air 模型：原生多模态架构，1240 亿总参数](<https://www.ithome.com/1/031/426.htm>)  
+  蚂蚁科技集团发布并开源 Ling-3.2-air 模型，延续 Ling-3.0-flash-VL 的原生多模态架构，支持文本、图像和视频输入，总参数 1240 亿，每个 Token 激活 55 亿参数。  
+  IT之家·人工智能 · 2026-11-24 12:01
+
+- [蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎以 OceanSeek 项目开源](<https://www.ithome.com/1/031/365.htm>)  
+  蚂蚁 OceanBase 在 11 月 24 日北京 AI 数据大会上发布湖库一体 AI 数据平台 OceanLake，并宣布开源面向 Agent 场景的 AI 数据库，开源项目代号 OceanSeek。  
+  IT之家·人工智能 · 2026-11-24 11:35
+
+- [知乎宣布通过参投基金间接投资 DeepSeek，股价应声大涨 10%](<https://www.ithome.com/1/031/339.htm>)  
+  知乎 11 月 23 日发布自愿公告，宣布其参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权，知乎在基金的合伙权益低于 30%。  
+  IT之家·人工智能 · 2026-11-24 11:26
+
+- [豆包旗下 AI 个人助理小豆开启邀请制公测](<https://www.ithome.com/1/031/329.htm>)  
+  豆包官方宣布 AI 个人助理小豆正式开启邀请制公测，用户凭邀请码体验并获赠一定量免费额度。小豆采用对话式交互，在用户授权范围内协助处理日常事务，覆盖信息查询、日程待办、生活服务、购物售后、健康提醒和办公辅助六类能力，未来相关能力将逐步在豆包 App 上线。  
+  IT之家·人工智能 · 2026-11-24 11:06
 
 - [徐工用火山引擎 Agent+Seedance 把维保视频制作从1个月压到1周](<https://mp.weixin.qq.com/s/7D_YIP9sTCcd9ghw7xkm2A>)  
   徐工与火山引擎合作，用 Agent+Seedance 做视频、Seedream 做图片、豆包大模型写文字、知识引擎 VeKnow 搭底座，把单条维保视频制作时间从1个月压到1周，成本从约30000元降到约5000元，降幅约80%。服务手册编写改为 AI 先出初稿、工程师审核定稿，效率提升50%，原先一份手册需研发和服务部门合计约55人/天。  
@@ -145,40 +181,4 @@
   AI 投资初创 Supertake 宣布完成 2000 万美元种子轮融资，由 Adjacent 领投，Coinbase Ventures 和 Union Square Ventures 参投。  
   TechCrunch：AI（RSS） · 2026-11-24 06:02
 
-- [Ladybird 浏览器发布首个 alpha 版本，作者实测并梳理 AI 编码智能体带来的进展](<https://simonwillison.net/2026/Nov/23/ladybird/>)  
-  Ladybird 项目发布首个 alpha 版本，macOS 和 Linux 用户可直接安装无需自行编译。作者 Simon Willison 实测称其快速流畅，多数网站可正常加载，并给出了多标签页的进程隔离结构。  
-  Simon Willison 博客 · 2026-11-24 05:46
-
-- [Claude Code v2.1.331 发布：新增 Code Mode 多平台支持与多项修复](<https://github.com/anthropics/claude-code/releases/tag/v2.1.331>)  
-  Claude Code v2.1.331 在 Amazon Bedrock、Google Cloud Agent Platform、Microsoft Foundry 和 AWS 上的 Claude Platform 终端会话中新增 Code Mode 支持。  
-  Claude Code：GitHub Releases（RSS） · 2026-11-24 05:34
-
-- [多州起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像和复仇式色情内容](<https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/>)  
-  多州总检察长起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像（CSAM）和复仇式色情内容。X 声称每条 Grok 输出都经过筛查，但州总检察长表示 Grok 仍在生成 CSAM。  
-  Ars Technica：AI（RSS） · 2026-11-24 05:30
-
-- [Megaspeed 或将被列入美国商务部实体清单](<https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/>)  
-  据 Semafor 援引匿名消息人士报道，新加坡云与 AI 基础设施公司 Megaspeed 可能被美国商务部列入实体清单，美国公司未经特殊许可不得与其交易，此举旨在阻止其获得美国制造的半导体。美国商务部上周还宣布对该公司启动刑事调查，美国和新加坡有关部门正在调查该公司是否违反出口限制。该公司否认存在不当行为。  
-  TechCrunch：AI（RSS） · 2026-11-24 05:25
-
-- [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>)  
-  OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while th…  
-  OpenAI · 2026-11-24 05:20
-
-- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
-  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
-  MIT News（RSS） · 2026-11-24 05:15
-
-- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
-  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
-  The Verge：AI（RSS） · 2026-11-24 05:09
-
-- [Figma agent 正式开放至 FigJam 和 Figma Slides](<https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/>)  
-  Figma agent 现已在 FigJam 和 Figma Slides 上对所有付费计划全面开放，支持连接器和附件，可将设计文件、会议记录或研究笔记等材料整理到 FigJam 白板或生成演示文稿初稿。  
-  Figma AI / Agent / Make · 2026-11-24 04:54
-
-- [Databricks 分析约5400个恶意 npm 包揭示的 2026 软件供应链风险](<https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026>)  
-  Databricks 发布供应链威胁系列首篇报告，分析2025年12月至2026年10月间约5400个确认恶意 npm 包。  
-  Databricks：Blog（RSS） · 2026-11-24 04:47
-
-[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 19 页
+[返回面板](../README.md) · [上一页](all-8.md) · [下一页](all-10.md) · 第 9 / 18 页

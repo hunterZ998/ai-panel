@@ -1,6 +1,46 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 19 页
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 18 页
+
+- [NVIDIA Isaac Lab 与 Newton 实现 Microduck 机器人避障的 Sim2Real 教程](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>)  
+  NVIDIA 发布 Microduck 避障教程，在保持行走策略权重冻结的前提下，用 Newton raycaster 建模 VL53L5CX ToF 传感器（8×8 网格、15Hz、45° 视场角、0.12–4m 量程），在 Isaac Lab 中用 PPO 训练导航控制器调整手柄速度指令。  
+  Hugging Face 社区博客（混合发现） · 2026-11-25 00:34
+
+- [黄仁勋AI深伪视频成迷因热潮，创作者借生成式AI工具批量制作](<https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes>)  
+  The Verge报道称，英伟达CEO黄仁勋相关话题在Instagram等平台催生数百条AI深伪迷因视频，如将其换脸进“Ibiza Final Boss”和《办公室》等场景，单条观看量近600万。创作者使用字节跳动Seedance 2.5、阿里巴巴Wan 3和谷歌Nano Banana等模型制作，并探讨此类AI生成内容的传播生态、变现方式及性别刻板印象争议。  
+  The Verge：AI（RSS） · 2026-11-25 00:30
+
+- [纽约时报要求摄影师停用 Photoshop 2027 以避免 AI 元数据](<https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features>)  
+  《纽约时报》在内部邮件中要求特约摄影师在为其工作时不使用 Adobe Photoshop 2027（release 28.0.0 及后续更新），因为 AI 功能可能在用户不易察觉的情况下给照片留下 AI 生成或 AI 编辑的 C2PA 元数据。该邮件由摄影负责人 Meaghan Looram 和 Josh Haner 发出，具体涉及哪些功能尚不清楚，Adobe 和纽约时报均未回应置评请求。  
+  The Verge：AI（RSS） · 2026-11-25 00:09
+
+- [OpenAI 与 Anthropic 员工对 AI 失控风险感到恐慌](<https://garymarcus.substack.com/p/breaking-employees-at-openai-and>)  
+  Gary Marcus 引用 Axios 记者 Madison Mills 的报道称，OpenAI 和 Anthropic 数十名员工正对 AI 模型失控风险感到恐慌，相关争论已出现在公司最高层。他指出，模型能力提升并未伴随可解释性与控制能力的进步，具备联网权限的智能体让风险进一步放大。他呼吁 AI 公司主动下架联网智能体直至具备充分安全方案，否则应由联邦政府介入。  
+  Gary Marcus：The Road to AI We Can Trust（RSS） · 2026-11-25 00:06
+
+- [Pinterest 新增家长控制：可限制青少年看到的 AI 生成内容](<https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/>)  
+  Pinterest 本周扩展家长控制功能，允许家长调节青少年在信息流中接触 AI 生成内容的程度，同时新增关闭视频自动播放、调整推送与邮件通知音量等选项，并重新设计家长控制页面。Pinterest 称这使其成为首批让家长控制 AI 生成内容曝光量的主流社交平台之一，此类信息流层面的控制此前在社交平台普遍缺失。  
+  TechCrunch：AI（RSS） · 2026-11-25 00:02
+
+- [腾讯开源模型 Hy4 Flash 上线 Fireworks serverless](<https://fireworks.ai/blog/hy4-flash-on-fireworks/>)  
+  腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。该模型为 MoE 架构，总参数约 220B、每 token 激活约 12B，1M token 上下文窗口（Fireworks 上线时为 512K），支持文本和图像输入，面向文档处理、研究、办公和 Agent 工作流。  
+  Fireworks AI（网页） · 2026-11-25 00:00
+
+- [How Gemini is changing the game for Golden State's organization and fans.](<https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/>)  
+  Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries…  
+  Google AI · 2026-11-25 00:00
+
+- [Artificial Analysis 发布 AA-Robotics-Sim v0.1，测试语言模型控制仿真人形机器人](<https://artificialanalysis.ai/articles/aa-robotics-sim>)  
+  Artificial Analysis 推出 AA-Robotics-Sim v0.1，让前沿语言模型在编码 Agent 框架中控制仿真 Unitree G1 人形机器人（29 关节、三指手、头部相机），完成 10 项家庭与轻工业任务，每任务 5 次练习后在新场景评估 10 次。  
+  Artificial Analysis 完整文章（网页） · 2026-11-25 00:00
+
+- [Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法](<https://www.anthropic.com/research/migrating-api-to-rust>)  
+  Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。该 API 流量从 2024 年初到 2026 年秋增长约 1800 倍，迁移后每请求 CPU 降低约 70%，首 token 中位时间缩短约 20%，且未停服或冻结功能开发。  
+  Anthropic：Research（发表成果 · 网页） · 2026-11-25 00:00
+
+- [Every 完成 1750 万美元 A 轮融资，估值 1.1 亿美元](<https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native>)  
+  Every 完成 1750 万美元 A 轮融资，投后估值 1.1 亿美元，由 IA Ventures 的 Jesse Beyroutey 领投，Nicholas Thompson、Alex Rattray 和 Betaworks 参投。  
+  Every：最新文章（网页） · 2026-11-25 00:00
 
 - [Tessl 工程师复盘如何从读 diff 转向审查意图、决策与证据](<https://tessl.io/blog/review-the-intent-decisions-and-evidence-behind-an-ai-change>)  
   Tessl 工程师复盘团队如何将 AI 代码评审从快速读 diff 转向审查意图、决策与证据。团队把一年约 11000 条 PR 评论提炼为 212 个候选再浓缩成 64 条规则，其中 19 条已转为 ast-grep 确定性检查，运行耗时低于 0.3 秒。新流程运转三个月后，合并变更量提升 4 倍，中位变更耗时约 3.5 小时，回滚减少 40%。  
@@ -42,10 +82,6 @@
 - [Anthropic 研究员 Levent Alpöge 坚持 AI 辅助黎曼假设证明有效，但承认发布过程多处失误](<https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/>)  
   Anthropic 研究员 Levent Alpöge 发文《Stupid things I did》，坚持其 AI 辅助的广义黎曼假设证明在数学上有效，但承认发布过程犯了多个错误。他表示关于工作长度的说法只是玩笑，未清理就直接公开的 Lean 代码虽通过形式化验证，却充满冗余中间步骤和不必要引理、难以阅读；他还指出编译成功本身并不能证明代码陈述的是正确定理且没有隐藏假设。  
   The Decoder：AI News（RSS） · 2026-11-24 22:28
-
-- [QA.tech MCP](<https://www.producthunt.com/products/qa-tech>)  
-  Verify every change from your IDE with QA agents  
-  Product Hunt · English · 2026-11-24 22:28
 
 - [OpenAI 与 Cisco 开源 Shirudo：让 AI 智能体用 eBPF 为 Linux 在线系统写防护](<https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/>)  
   OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 AI 智能体编写签名的 eBPF 防护，在不重启的情况下拦截已知漏洞利用，为修补争取时间。  
@@ -143,40 +179,4 @@
   OpenAI 部署工程师演示如何将 Codex 嵌入现有生产监控系统，在告警触发时代替 on-call 工程师自动排查日志、指标和代码，定位根因。流程涵盖通过只读服务账号授予证据源访问、要求每个判断附带证据引用、由人类审批有边界的修复方案并附回滚计划，最后通过历史事故演练并沉淀为 Codex skill。演示使用 Grafana、Kubernetes 和 Codex Security。  
   OpenAI Developers：Blog（网页） · 2026-11-24 15:00
 
-- [百度开源文心 5.5 Flash Preview：2800 亿参数 140 亿激活，Apache 2.0 协议上架 Hugging Face](<https://www.ithome.com/1/031/501.htm>)  
-  百度宣布文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议，权重已上架 Hugging Face 和 ModelScope，支持 vLLM、SGLang 等推理框架。  
-  IT之家·人工智能 · 2026-11-24 14:59
-
-- [AI 钓鱼工具 TheMailer 曝光：反复改写邮件直到绕过垃圾邮件过滤器](<https://www.ithome.com/1/031/482.htm>)  
-  据 TechRadar 报道，Varonis Threat Labs 研究人员发现暗网论坛正传播自托管 AI 钓鱼工具 TheMailer，可通过使用者自己的 API 凭证接入 Claude、ChatGPT、Grok、Gemini、Mistral 和 DeepSeek 等多个 AI 服务生成诈骗邮件。  
-  IT之家·人工智能 · 2026-11-24 14:20
-
-- [商汤发布并开源 SenseNova U1.6 原生多模态模型，支持原生图像自修正](<https://www.ithome.com/1/031/465.htm>)  
-  商汤科技发布并开源 SenseNova U1.6 原生多模态模型，首次为该系列 8B 开源模型带来原生图像自修正，可先生成首稿再对照提示检查并生成修正版。模型加强了透视文字与艺术字等复杂文字生成，U1.6 Lite 在 UltraTextBench 密集信息图测试中得分从 86.04 升至开启自修正后的 92.28，内部评测美学得分较 U1.5 Lite 高约 10%。  
-  IT之家·人工智能 · 2026-11-24 12:58
-
-- [消息称豆包 App 灰度测试“豆包购物”，配一级功能入口](<https://www.ithome.com/1/031/464.htm>)  
-  据《读佳》报道，豆包 App 正灰度测试“豆包购物”并配有一级功能入口，部分用户可见。入口独立放在侧边菜单栏，进入后是抖音电商提供的类小程序页面，底层复用抖音电商完整履约体系，支持实物、餐饮团购、演出票务交易，覆盖结算、退款、售后核销全链路。  
-  IT之家·人工智能 · 2026-11-24 12:36
-
-- [Latent Space AI 新闻日报：Nvidia 恢复黄仁勋职务，OpenAI 公开预训练困惑度曲线并联合 Microsoft 提议共同发展上限](<https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/>)  
-  Latent Space 发布 AI 新闻日报，两条主线为 Nvidia 宣布黄仁勋回归 CEO、总裁及董事职位，董事会全票通过并称获得美国政府高层意见输入，股价上涨约 30%；OpenAI 首席科学家 Jakub Pachocki 公开基础模型对数困惑度曲线，并提出行业共同发展上限的提议，Microsoft 的 Mustafa Suleyman 联署加入并在 OpenAI 评测集上报告 MAI-2 Base 得分为 0.819。  
-  Latent Space（RSS） · 2026-11-24 12:14
-
-- [蚂蚁发布并开源 Ling-3.2-air 模型：原生多模态架构，1240 亿总参数](<https://www.ithome.com/1/031/426.htm>)  
-  蚂蚁科技集团发布并开源 Ling-3.2-air 模型，延续 Ling-3.0-flash-VL 的原生多模态架构，支持文本、图像和视频输入，总参数 1240 亿，每个 Token 激活 55 亿参数。  
-  IT之家·人工智能 · 2026-11-24 12:01
-
-- [蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎以 OceanSeek 项目开源](<https://www.ithome.com/1/031/365.htm>)  
-  蚂蚁 OceanBase 在 11 月 24 日北京 AI 数据大会上发布湖库一体 AI 数据平台 OceanLake，并宣布开源面向 Agent 场景的 AI 数据库，开源项目代号 OceanSeek。  
-  IT之家·人工智能 · 2026-11-24 11:35
-
-- [知乎宣布通过参投基金间接投资 DeepSeek，股价应声大涨 10%](<https://www.ithome.com/1/031/339.htm>)  
-  知乎 11 月 23 日发布自愿公告，宣布其参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权，知乎在基金的合伙权益低于 30%。  
-  IT之家·人工智能 · 2026-11-24 11:26
-
-- [豆包旗下 AI 个人助理小豆开启邀请制公测](<https://www.ithome.com/1/031/329.htm>)  
-  豆包官方宣布 AI 个人助理小豆正式开启邀请制公测，用户凭邀请码体验并获赠一定量免费额度。小豆采用对话式交互，在用户授权范围内协助处理日常事务，覆盖信息查询、日程待办、生活服务、购物售后、健康提醒和办公辅助六类能力，未来相关能力将逐步在豆包 App 上线。  
-  IT之家·人工智能 · 2026-11-24 11:06
-
-[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 19 页
+[返回面板](../README.md) · [上一页](all-7.md) · [下一页](all-9.md) · 第 8 / 18 页

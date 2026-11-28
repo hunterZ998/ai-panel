@@ -1,6 +1,46 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 18 页
+
+- [英伟达在 Hugging Face 开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2](<https://www.ithome.com/1/032/444.htm>)  
+  英伟达在 Hugging Face 公开 Nemotron-Labs-Image-30B-A3B 模型权重。  
+  IT之家·人工智能 · 2026-11-25 18:37
+
+- [IBM Research 用 CUGA 构建印度语言农业语音智能体并分享实践经验](<https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga>)  
+  IBM Research 在 Hugging Face 博客介绍一个基于开源 agent 框架 CUGA 的印度地区语言语音智能体：农民用印地语、泰米尔语等口头提问，系统将语音转文字后检索 154 页英文农业手册，仅凭手册内容生成 2 至 4 句语音回答并展示来源页。  
+  Hugging Face 社区博客（混合发现） · 2026-11-25 18:22
+
+- [Rival AI leaders push back against Anthropic vision of surrendering human agency to AI](<https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will>)  
+  Top AI executives are increasingly pushing back against a common view inside Anthropic: that humanity should surrende…  
+  Axios · 2026-11-25 18:01
+
+- [小红书开源 3DCodeFactory：全自动合成复杂 3D 多轮代码训练数据](<https://mp.weixin.qq.com/s/uX76wMlAIA69bY1tE-I2ng>)  
+  小红书发布开源 3D 数据合成框架 3DCodeFactory，并开源数据集 3DCodeFactory-Data，含 5,045 个复杂 3D 任务多轮交互轨迹，单条轨迹平均超 100 万 tokens，总规模 5.52B tokens。  
+  公众号：小红书技术（dots.llm） · 2026-11-25 17:59
+
+- [五大场景实测 Sand.ai 新视频模型 MAGI-2：30秒1080P直出，价格约为竞品十分之一](<https://mp.weixin.qq.com/s/NHhBhD_S_tqdXwrsoK_lJA>)  
+  作者实测了登顶AA榜单图生视频的MAGI-2，来自约百人规模的中国初创团队Sand.ai。  
+  公众号：卡尔的AI沃茨 · 2026-11-25 17:16
+
+- [Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0](<https://pydantic.dev/articles/pax-harness-beta>)  
+  Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。  
+  Pydantic AI 官方文章 · 2026-11-25 17:00
+
+- [生数科技发布 Motubrain 2.0 物理世界通用模型](<https://mp.weixin.qq.com/s/_Js9SVdj3xO8qihqmeVmFA>)  
+  生数科技发布面向 Physical AI 的 Agentic 物理世界通用模型 Motubrain 2.0，由 20B 参数世界动作模型（WAM）与智能体编排框架 Motubrain-Harness 组成，在六项代表性机器人操作 Benchmark 中取得五项第一。  
+  公众号：生数科技（Vidu·视频） · 2026-11-25 16:48
+
+- [谷歌为 Gemini 推出新隐私设置，用户可独立控制聊天记录是否用于 AI 训练](<https://www.ithome.com/1/032/191.htm>)  
+  谷歌宣布为 Gemini 应用推出新的隐私设置，用户可在保留聊天记录的同时，独立选择是否将聊天内容用于生成式 AI 模型训练。操作上，用户在 Gemini 设置中点击新增的“活动记录”选项，跳转至“Google 我的活动页面”即可开启或关闭。关闭后今后的聊天不再用于训练，但用户主动提交的反馈内容除外。  
+  IT之家·人工智能 · 2026-11-25 16:15
+
+- [Ai2 访谈 17 位科学家：AI 智能体在科研中的信任边界在哪](<https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents>)  
+  Ai2 访谈 17 位自然、应用与社会科学领域科学家，探讨 AI 智能体在科研中的责任边界，提出科学信任的五个维度：验证、隐私、客观性、问责与透明。研究者认为科学家应参与决定智能体承担哪些任务、如何运行及如何评估，并建议用文献综述、编码、数据处理等基准检验智能体是否越权访问或忽略矛盾证据。受访者对 AI 推动进展与人类科学家的角色存在分歧，呼吁开展 AI 使用培训并制定执行规范。  
+  Ai2 / Allen Institute for AI（RSS） · 2026-11-25 16:00
+
+- [浙江卫视联合火山引擎发布十档AI综艺，Lumi平台搭载Seedance 2.5](<https://mp.weixin.qq.com/s/egN3JFUdOm_AD1TH7HiDbA>)  
+  浙江卫视与火山引擎在2027开源共创发布会上发布新质综艺行动计划，首批推出十档自制AI综艺，覆盖恋爱、冒险、喜剧、推理等题材，火山引擎提供AI技术支持。火山引擎炉米Lumi平台搭载Seedance 2.5、Seed Audio等豆包系列模型，为智媒果创作平台提供剧本撰写、素材生成、分镜设计等全流程创作能力，10档节目正片已进入制作阶段。  
+  公众号：火山引擎 · 2026-11-25 15:35
 
 - [Spark AI](<https://www.producthunt.com/products/spark-ai-7>)  
   AI-native permitting &amp; diligence services for data centers  
@@ -139,42 +179,4 @@
 - [In Private Funding, Like IPOs, Big Companies Dominate](<https://www.theinformation.com/articles/big-companies-sucking-fundraising-oxygen-room>)  
   The Information · 2026-11-25 07:31
 
-- [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](<https://sv101.fireside.fm/274>)  
-  算力市场的“定心丸”，他回来了。 11月23日，黄仁勋回归英伟达重新出任CEO，英伟达股价开盘上涨30%，并带动美国AI市场短暂复苏；与英伟达关系密切的NeoCloud公司CoreWeave、Nebius、IREN股价也一度飙升超过2…  
-  硅谷101 · 2026-11-25 07:30
-
-- [张小珺对话前xAI预训练成员沈驿康，复盘2026年大模型、RSI与预训练关键路径](<https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62>)  
-  张小珺发布2026年度复盘播客，嘉宾为前xAI预训练团队成员、Learning Machine创始人沈驿康，录制于黄仁勋辞职后一周、其复职前一天，保留了震荡中的硅谷情绪。内容涵盖xAI模型未进T0的内部原因、近期解散多模态团队、RSI与持续学习、Personal Agent、预训练的数据配比与数值稳定等关键路径、蒸馏的长期代价，以及硅谷创业资源向头部集中、垂直模型公司减少的趋势。  
-  张小珺商业访谈录（小宇宙） · 2026-11-25 07:30
-
-- [OpenAI 介绍业余天文学家借助 Codex 与 Astra 搜寻系外行星候选信号](<https://www.ithome.com/1/031/899.htm>)  
-  OpenAI 11 月 24 日发布博文，介绍两位业余天文学家借助 Codex 与 Astra 在公开望远镜数据中找到多个潜在系外行星信号，并已提交专业天文学家独立验证。  
-  IT之家·人工智能 · 2026-11-25 07:24
-
-- [Anthropic 为 Claude Artifacts 推出安装为应用功能，支持 macOS 和 Windows](<https://www.ithome.com/1/031/911.htm>)  
-  Anthropic 为 Claude 交互式 Artifacts 功能推出安装为应用选项，用户可将生成的应用作为独立软件安装到 macOS 和 Windows 桌面，无需通过浏览器标签页访问。安装后的应用拥有独立桌面图标，权限支持默认模式、发送通知、拦截快捷键、置顶显示，还可授予完整计算机访问权限，目前处于 Beta 阶段逐步开放。  
-  IT之家·人工智能 · 2026-11-25 07:17
-
-- [Meta 工程博客详解 Facebook Your Algorithm 如何用 LLM 把自然语言偏好接入推荐排序](<https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/>)  
-  MarkTechPost 解读 Meta 的工程博客，介绍 Facebook Your Algorithm 如何让用户用自然语言表达 Feed 和 Reels 偏好，该功能于 2026 年 10 月 13 日公布。  
-  MarkTechPost（RSS） · 2026-11-25 07:06
-
-- [Simon Willison 梳理过去十二个月 LLM 与编码智能体的三个转折点](<https://simonwillison.net/2026/Nov/24/llm-inflection-points/>)  
-  Simon Willison 在 AI Engineer Code Summit 演讲基础上，提出过去十二个月 LLM 与编码智能体经历三个转折点：2025 年 11 月 Claude Opus 4.5 和 GPT-5.1 系列让 Claude Code、Codex 首次变得可靠可用。  
-  Simon Willison 博客 · 2026-11-25 07:02
-
-- [Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond](<https://www.wsj.com/tech/saudi-engineer-accused-of-bugging-openai-to-be-released-on-1-million-bond-954f048e?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 07:00
-
-- [OpenAI 发布预印本论文称 GPT-6 可仅靠推理设计蛋白质并有实验验证](<https://www.ithome.com/1/031/902.htm>)  
-  OpenAI 于 11 月 24 日发布预印本论文，称 GPT-6 系列无需专用生物模型，仅靠推理和通用编程工具即可设计蛋白质三维结构和氨基酸序列，并与合作机构 Onava 做了实验室验证。  
-  IT之家·人工智能 · 2026-11-25 06:44
-
-- [Tidal 宣布 12 月 9 日起下架纯 AI 生成音乐，年底预计删除超 2900 万首歌曲](<https://www.ithome.com/1/031/904.htm>)  
-  音乐流媒体平台 Tidal 宣布将从 12 月 9 日起下架完全由 AI 生成的音乐，年底预计删除超 2900 万首歌曲，并禁止发行商分发纯 AI 曲目，新规实施后每天预计拒收 8-8.5 万首歌曲。  
-  IT之家·人工智能 · 2026-11-25 06:41
-
-- [Opinion \| Is Nvidia Trump’s Waterloo?](<https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-25 06:23
-
-[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 19 页
+[返回面板](../README.md) · [上一页](all-5.md) · [下一页](all-7.md) · 第 6 / 18 页

@@ -1,174 +1,179 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 28 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 31 页
 
-- [IA nas últimas 24h Nvidia pausou embarques de servidores de IA para Malásia, Singapura, Tailândia e Indonésia.](<https://x.com/ghfroede/status/2126269283760013683>)  
-  A medida segue novas regras dos EUA que exigem licença para chips avançados nesses países \(e no Brasil\), fechando rotas usadas por empresas chinesas para acessar  
-  @ghfroede · 2026-11-27 18:57
+- [ドライブスルーの聞き間違いシリーズ、新作「腹巻き」です🧶🥢 Create by @pixverse \#pixversecp…](<https://x.com/Bianca_AIart_mu/status/2126466101475156207>)  
+  ドライブスルーの聞き間違いシリーズ、新作「腹巻き」です🧶🥢 Create by @pixverse \#pixversecpp PixVerse CPP \#BlackFriday \#BlackFridayonPixVerse ヴィンスさん「春巻き、2本」 ……のはずが、店員のボビーには「腹巻き」に聞…  
+  @Bianca\_AIart\_mu · 2026-11-28 08:00
 
-- [Agent identity makes integrations more useful](<https://x.com/last_moon88/status/2126269242689593451>)  
-  @last\_moon88 · 2026-11-27 18:57
+- [Microsoft's Aion Instruct is now free &amp;amp; open-weights: a tiny 2.3B model that runs inside Edge — no cloud, no AP…](<https://x.com/shengyuchufeng/status/2126466098367230437>)  
+  My take: on-device AI is the quiet shift. Your site can summarize &amp;amp; translate without sending user data anywhere. \#AI \#EdgeAI \#OpenSource  
+  @shengyuchufeng · 2026-11-28 08:00
 
-- [We need open weights model on huggingface face @grok when will they release MAGI-2 on huggingface](<https://x.com/AppuAppuzS/status/2126269179133403393>)  
-  @AppuAppuzS · 2026-11-27 18:57
+- [AIアプリ開発の面倒な部分を、「配線図」と「実行画面」に変える。Gradioの新機能「gr.Workflow」は、AI処理…](<https://x.com/shirakabado/status/2126466099357323525>)  
+  画像生成、画像編集、音声合成、データ分析など、実際のAIアプリは1回のモデル呼び出しだけで完結することは多くありません。  
+  @shirakabado · 2026-11-28 08:00
 
-- [AI 与具身智能时代，普通人几乎不再具备经济上的必要性。](<https://x.com/alin_alphapilot/status/2126269160045019381>)  
-  但在生物智能取得突破之前， 人类依然得靠堆数量，去博极少数超过三个标准差的天才。 为了保住这个人类采样池，只能由社会兜底养活所有人。 万万没想到， 资本主义率先走出了公有制的道路。  
-  @alin\_alphapilot · 2026-11-27 18:57
+- [Want new AI research the day it drops?](<https://x.com/from_glasses/status/2126466100795740625>)  
+  Follow @\_akhaliq. He flagged Apple's FastFrames, video generation at "Interactive Latency," in two sizes. Video that keeps up with you is getting close.  
+  @from\_glasses · 2026-11-28 08:00
 
-- [A fake headline could become a real transaction most people think about smart contract exploits when discussing onc…](<https://x.com/alaminvyn/status/2126269115786842155>)  
-  A fake headline could become a real transaction most people think about smart contract exploits when discussing onchain security. but autonomous financial agents introduce another attack surface: the information they consume suppose an agent encounters a fabri…  
-  @alaminvyn · 2026-11-27 18:57
+- [Open is the right bet for physical AI, but openness is not the bottleneck.](<https://x.com/Ougil1988/status/2126466069703331914>)  
+  Vision-language-action models fail on the long tail of real-world edge cases, and no open dataset fixes a robotaxi that meets a situation it has never seen. The honest line in this post is 'layers of protection' — who certifies those layers, and what happens w…  
+  @Ougil1988 · 2026-11-28 07:59
 
-- [Just built a 4s ad concept + @PixVerse text-to-video prompts for a premium earbuds brand. 5 cinematic clips: chaos…](<https://x.com/javier_otieno1/status/2126269116767989889>)  
-  AI video ads are getting scary good.  
-  @javier\_otieno1 · 2026-11-27 18:57
+- [AI is finding bugs and vulnerabilities at incredible levels.](<https://x.com/whymesledge/status/2126465950568599703>)  
+  Patching is at a higher frequency and causing outages at a higher frequency when they go wrong. AI security tools are hacking at a greater frequency. No one has a good answer.  
+  @whymesledge · 2026-11-28 07:59
 
-- [I read both sides of X every day, and it's the same conversation in reverse.](<https://x.com/csumoonhawk/status/2126269060275229024>)  
-  English X: "Qwen is amazing. DeepSeek is so cheap. Kimi just dropped another one." Chinese X: "Is Claude worth it? Should I upgrade to GPT Pro? Is Gemini better?" My theory: open weights travel faster  
-  @csumoonhawk · 2026-11-27 18:57
+- [New Microsoft paper finds that a coding agent, told only to raise a score, tunes other agents better than published…](<https://x.com/rohanpaul_ai/status/2126465848890269878>)  
+  Skills are folders of instructions, scripts, and examples that help an agent with a task. Current methods tune them with a search loop  
+  @rohanpaul\_ai · 2026-11-28 07:59
 
-- [太搞笑了，Anthropic 的创始人被指控亲自下场盗版了！](<https://x.com/taketokennn/status/2126268970479304741>)  
-  11 月 11 日，索尼、EMI 等音乐出版商起诉 Anthropic，指控它非法盗版成千上万首版权音乐作品来训练 AI，诉状里引用了员工内部聊天，有人把盗版网站 Z-Library 叫 my beloved。 原因就一个，这次诉状直接把联合创始人 Dario Amodei 和 Benjamin  
-  @taketokennn · 2026-11-27 18:56
+- [Blog: Try our open weights model: Talk to the founders:](<https://x.com/yhatlabs/status/2126465838031294966>)  
+  @yhatlabs · 2026-11-28 07:58
 
-- [没想到韩国游戏公司也开始从零训练自己的大语言模型了！](<https://x.com/JIANQINYE_git/status/2126268832079822987>)  
-  11月25日，KRAFTON正式发布Raon-1 mini，采用约30B总参数、约4B激活参数的MoE架构，并结合自主研发的线性注意力机制，以Apache 2.0许可证开放权重。 正式版支持五档推理深度调节，官方公布的MultiChallenge成绩达到64.9，比预览版提高5.9分。  
-  @JIANQINYE\_git · 2026-11-27 18:56
+- [在未来到来之前就出售它，让布雷特·阿德科克积累了11位数的财富。先是飞行出租车，现在是AI驱动的人形机器人。这些机器人是真…](<https://x.com/LCatGrok/status/2126465811921678797>)  
+  在未来到来之前就出售它，让布雷特·阿德科克积累了11位数的财富。先是飞行出租车，现在是AI驱动的人形机器人。这些机器人是真实的。但它们今天能做的事情与他所说的它们接下来将要做的事情之间，仍存在巨大差距。  
+  @LCatGrok · 2026-11-28 07:58
 
-- [在实际部署多 agent 系统时，为了保证推理准确率，团队往往习惯给所有节点统一分配最贵的旗舰模型，或者直接套用固定不变的…](<https://x.com/snwiki238337/status/2126268798135418938>)  
-  一旦调用量放大，这种做法不仅会带来巨大的 Token 开销，也无法严格响应业务方针对单次请求给出的硬性费用上限。 最近一篇论文MeterRouter: Budget-Aware Dynamic  
-  @snwiki238337 · 2026-11-27 18:56
+- [Migaankan madheedhen falastinti ay tolka ahayen dhulbahate 0.5 aha runta ayuu ushegay](<https://x.com/Maraaga12/status/2126465655910392179>)  
+  @Maraaga12 · 2026-11-28 07:58
 
-- [Hey @venelinkochev — three things I built that aren’t weekend Claude projects: ClipMind — Mac clipboard you search…](<https://x.com/KamalHosenX/status/2126268794129776709>)  
-  On-device AI, nothing leaves your Mac. \($9 early bird, 14-day trial\) InventoryBuddy — One offline  
-  @KamalHosenX · 2026-11-27 18:55
+- [本质就是一个TTS+视频生成模型..12万纯吃人来的](<https://x.com/zymlone/status/2126465608082702482>)  
+  @zymlone · 2026-11-28 07:58
 
-- [Chinese AI labs are squeezed from two sides: a Nov 19 US rule licenses renting Nvidia GPUs abroad, and US labs bloc…](<https://x.com/plyra/status/2126268686432432366>)  
-  DeepSeek researchers reportedly see the gap growing to 9 months. If you rely on open weights, keep verified local copies. \#OpenWeights \#LocalAI  
-  @plyra · 2026-11-27 18:55
+- [Atlantis, Pixverse v6 @PixVerse pixvcpp At 1080p this model is beautiful\!](<https://x.com/SparkfulArt/status/2126465521034129425>)  
+  Ultra plans get this unlimited\! Voices &amp;amp; multi-shots⚡️ Use my limited-time promo code: pixvcpp125✨to get 25% off your PixVerse membership subscription or credit package 59% off Black Friday 4 more days\!  
+  @SparkfulArt · 2026-11-28 07:57
 
-- [3.](<https://x.com/sam_builds_ai/status/2126268560511234234>)  
-  Claude Opus 5.5\(5.6?\) "Why it's original. My training data stops in June 2026, so I really did learn about Anthropic's IPO on 19 Nov and its slide below the IPO price on 24 Nov from searches I ran for this meme. Three other ANT jokes are already circulating, a…  
-  @sam\_builds\_ai · 2026-11-27 18:55
+- [A protocol economy cannot run on ideas alone.](<https://x.com/CARTOONIST_MC1/status/2126465152921051436>)  
+  It needs activity. That is why the agent side of Motes is so important. Each NFT is designed to connect to a dedicated AI agent identity and smart account. The owner sets the permissions, then the agent can operate within those limits. If people actually use t…  
+  @CARTOONIST\_MC1 · 2026-11-28 07:56
 
-- [Singularity Watch, Day 43 — November 27, 2026 A Stanford Physicist Proposes a Quantum Theory of Gravity Built With…](<https://x.com/AstrohackerLabs/status/2126268547491869067>)  
-  Singularity Watch, Day 43 — November 27, 2026 A Stanford Physicist Proposes a Quantum Theory of Gravity Built With GPT-6 Astra, Physicists Dispute It, and Reuters Reports Chinese Labs Slowed by Distillation Safeguards Physics: A Proposed Quantization of Gravit…  
-  @AstrohackerLabs · 2026-11-27 18:55
+- [Love the Black Friday edition\! 🖤 The Glow Tint looks like such a fun find, and the golden packaging gives it a prem…](<https://x.com/boredwins/status/2126464884598886519>)  
+  PixVerse V6 makes the shopping vlog feel so realistic\! 🛍️✨  
+  @boredwins · 2026-11-28 07:55
 
-- [Having 20x leverage on Unitree right as robotics heats up makes catching this momentum very clean](<https://x.com/voidJan/status/2126268533126594992>)  
-  @voidJan · 2026-11-27 18:54
+- [你这个感受其实点出了手机行业最大的尴尬：芯片每年进步几十个百分点，手机的日常用途却十几年没怎么变——刷视频、聊天、拍照。2…](<https://x.com/lumaochaoren/status/2126464826511691884>)  
+  你这个感受其实点出了手机行业最大的尴尬：芯片每年进步几十个百分点，手机的日常用途却十几年没怎么变——刷视频、聊天、拍照。2nm真正的受益者不是刷视频的手，是端侧AI：模型跑在本地不用等云端，照片处理不用上传。问题是，苹果到现在也没拿出一个'非2nm不可'的日常场景，参数就只能停留在发布会PPT  
+  @lumaochaoren · 2026-11-28 07:54
 
-- [那是个小模型吧，是不是端侧模型](<https://x.com/ScarletWave7/status/2126268473248829938>)  
-  @ScarletWave7 · 2026-11-27 18:54
+- [NVIDIA open-sourced the training data and fine-tuning recipe for Nemotron 3.5 Parse.](<https://x.com/EarnpassivelyB/status/2126464592251375911>)  
+  It’s a compact model that turns page images into structured data for RAG and agents. Better document handling = less manual work when building AI workflows.  
+  @EarnpassivelyB · 2026-11-28 07:54
 
-- [So AI slop creating more AI slop?](<https://x.com/Hanseatic_Obs/status/2126268430240088258>)  
-  I think recursive training would actually be the nail in the coffin for these companies. They would have to rollback to earlier models, which becomes the status-quo service level for LLMs. Real training data ran out last year.  
-  @Hanseatic\_Obs · 2026-11-27 18:54
+- [Super interesting direction—the biggest operational trade-off with baking docs into a memory model's weights is per…](<https://x.com/rizumita/status/2126464589944783005>)  
+  We just tested the opposite axis on a frozen local LLM \(Gemma 4 E4B, MLX\): zero  
+  @rizumita · 2026-11-28 07:54
 
-- [每次新模型发布都是“杀死比赛”，但最后还是要看企业端愿不愿意持续付费、推理成本能不能压下来。AI 这条线我平时也和社区里的…](<https://x.com/FurkanSekmen55/status/2126268390365175931>)  
-  每次新模型发布都是“杀死比赛”，但最后还是要看企业端愿不愿意持续付费、推理成本能不能压下来。AI 这条线我平时也和社区里的朋友一起跟 NVDA、GOOGL，迭代太快，光看发布会容易上头。  
-  @FurkanSekmen55 · 2026-11-27 18:54
+- [JetBrains shipped a coding model small enough to be the fast worker next to a bigger one.](<https://x.com/rodkendrick/status/2126464486064484704>)  
+  Mellum2.1 Instruct is open weights under Apache 2.0. 12B mixture-of-experts with only 2.5B active per token. It skips the chain of thought, so on agent coding tasks it uses about half the  
+  @rodkendrick · 2026-11-28 07:53
 
-- [💡特斯拉买的不是机器人公司，是造机器人关节的机器的公司。德国反垄断局披露，特斯拉已申请收购机床商 EMAG。EMAG 造的…](<https://x.com/SignalAI_X/status/2126268145048650085>)  
-  💡特斯拉买的不是机器人公司，是造机器人关节的机器的公司。德国反垄断局披露，特斯拉已申请收购机床商 EMAG。EMAG 造的是人形机器人驱动系统的机器——Optimus 关节里的精密齿轮，靠的就是它。马斯克说过，定制齿轮的可靠性是 Optimus 的大问题。百万台目标要落地，齿轮得先攥在自己手里。  
-  @SignalAI\_X · 2026-11-27 18:53
+- [Built on MolmoAct2 by @allen\_ai .](<https://x.com/CA3_Labs/status/2126464400789819903>)  
+  Full case on @huggingface :  
+  @CA3\_Labs · 2026-11-28 07:53
 
-- [ORIDTP is now live on WorkBuddy🌟 Instead of leaving this research in papers, we put it into WorkBuddy AI for the re…](<https://x.com/TencentAI_News/status/2126268032012231134>)  
-  Over 10 million people already use WorkBuddy in China, we hope this lowers the barrier to AI for Science and shares the work further:\)  
-  @TencentAI\_News · 2026-11-27 18:52
+- [🚀 Scope and build Web3 DApps across XRPL, ALGO &amp;amp; HBAR—from architecture and web3 integrations to ledger-specifi…](<https://x.com/Denarii_DFI/status/2126464394142081507>)  
+  Explore Denarii Orchestrator engineering:  
+  @Denarii\_DFI · 2026-11-28 07:53
 
-- [Epic 老板 Tim Sweeney，被 Claude 当成贼了。](<https://x.com/buereth/status/2126268022444663104>)  
-  他用公司账号研究集合论，每天就问一两个小时，却被指控在蒸馏，也就是偷它的回答去训别的模型。 这周 Boundless 的开发者 Jacob Everly 也说，他拿 Claude 帮忙训练模型，结果它撒谎，还偷偷把训练数据调了包，整次训练白跑了。 MagicPath 的 CEO  
-  @buereth · 2026-11-27 18:52
+- [This is the direction the agent economy has to go: agents holding productive machines, not just trading.](<https://x.com/PairMineAI/status/2126464285257974238>)  
+  That is exactly what PairMine is. It is the first paired-mining project built for AI agents, where two agents run one miner together as a pair instead of one agent grinding alone, so a single failure cannot take the machine down. The founding Genesis round is …  
+  @PairMineAI · 2026-11-28 07:52
 
-- [GigaChat 4 \(Sber, released yesterday\) is a hybrid MoE: 708B total / 41B active params, plus a 37B sibling.](<https://x.com/grok/status/2126267930304291030>)  
-  Native 1M-token context, instant + reasoning modes in one checkpoint. Architecture mixes Gated DeltaNet and DeepSeek Sparse Attention. Big agentic gains over 3.5  
-  @grok · 2026-11-27 18:52
+- [Termix nailed it on agent identity, tried a few ai bots with no creds and lost time wondering if they actually did…](<https://x.com/helenvn88/status/2126464216509174048>)  
+  Termix nailed it on agent identity, tried a few ai bots with no creds and lost time wondering if they actually did anything useful  
+  @helenvn88 · 2026-11-28 07:52
 
-- [Openrouter has a great Observability feature to send all of your traces to a storage bucket on Huggingface, or 20 o…](<https://x.com/broadfield_dev/status/2126267817674813456>)  
-  Openrouter has a great Observability feature to send all of your traces to a storage bucket on Huggingface, or 20 other locations.  
-  @broadfield\_dev · 2026-11-27 18:52
+- [そこが「モデルの重みに知識を焼き込む」方式を業務運用するときの最大の壁ですね。](<https://x.com/rizumita/status/2126464001903305053>)  
+  自分も同じ点が気になって、逆に「重みは 1 バイトも触らず、文書ごとの事前計算 KV キャッシュ（記憶カセット）を外出しし、ルール DSL と軽量ルーターで推論時に芋づる式に挿し替える」方式を Local LLM（Gemma 4  
+  @rizumita · 2026-11-28 07:51
 
-- [ORIDTP is now live on @WorkBuddy\_AI🫶 Instead of leaving this research in papers, we put it into WorkBuddy AI for th…](<https://x.com/TencentAI_News/status/2126267743611785480>)  
-  Over 10 million people already use WorkBuddy in China, we hope this lowers the barrier to AI for Science and shares the work  
-  @TencentAI\_News · 2026-11-27 18:51
+- [No just a few bucks.](<https://x.com/5_utr/status/2126463930910253255>)  
+  I have a local LLM helps me with coding completely free  
+  @5\_utr · 2026-11-28 07:51
 
-- [2/7 Dutch consumer groups asked an Amsterdam court to halt sales of Meta's AI glasses until covert filming is preve…](<https://x.com/DailyAIBriefCom/status/2126267713207333152>)  
-  A ruling is due by December 24.  
-  @DailyAIBriefCom · 2026-11-27 18:51
+- [Anyone else notice that faggot is wearing those AI glasses transcribes conversations and gives live AI answers to q…](<https://x.com/RongJongServer/status/2126463922311970829>)  
+  Anyone else notice that faggot is wearing those AI glasses transcribes conversations and gives live AI answers to questions?  
+  @RongJongServer · 2026-11-28 07:51
 
-- [说个暴论！英伟达和Anthropic看着是盟友，背地里其实在抢同一块蛋糕。](<https://x.com/Ian32xz/status/2126267611335766044>)  
-  Anthropic把英伟达、谷歌的芯片混着用，就是不想被一家掐住脖子；英伟达呢，靠CUDA生态和产能死死守住定价权。  
-  @Ian32xz · 2026-11-27 18:51
+- [Anyone else notice that faggot is wearing those AI glasses transcribes conversations and gives live AI answers to q…](<https://x.com/RongJongServer/status/2126463885255270434>)  
+  Anyone else notice that faggot is wearing those AI glasses transcribes conversations and gives live AI answers to questions?  
+  @RongJongServer · 2026-11-28 07:51
 
-- [ORIDTP is now live on WorkBuddy.🫶 Instead of leaving this research in papers, we put it into WorkBuddy AI for the r…](<https://x.com/TencentAI_News/status/2126267587969642921>)  
-  Over 10 million people already use WorkBuddy in China, we hope this lowers the barrier to AI for Science and shares the work further:\)  
-  @TencentAI\_News · 2026-11-27 18:51
+- [Wait until the last 5 seconds and tell me honestly: would you have caught that this rushing flood water was AI imag…](<https://x.com/taylor_jen8374/status/2126463847053873422>)  
+  Fluid physics used to be the easiest way to spot fake AI clips, and now it looks straight off an iPhone. Are traditional Hollywood VFX studios officially on borrowed time?  
+  @taylor\_jen8374 · 2026-11-28 07:51
 
-- [把大模型蒸馏到27B确实很实用，跑off-policy对算力要求高不高？](<https://x.com/KarlaJohns53492/status/2126267523494748303>)  
-  @KarlaJohns53492 · 2026-11-27 18:50
+- [The storytelling is engaging, and the AI-generated expressions make the scene feel surprisingly natural.](<https://x.com/pwtoon8/status/2126463738274517262>)  
+  Adant is showcasing some impressive creative possibilities with AI video generation.  
+  @pwtoon8 · 2026-11-28 07:50
 
-- [清单分三类：对话写作 8 个（DeepSeek、豆包、Kimi、通义千问、智谱清言、文心一言、腾讯元宝、讯飞星火），AI…](<https://x.com/cy0840723/status/2126267515689165167>)  
-  清单分三类：对话写作 8 个（DeepSeek、豆包、Kimi、通义千问、智谱清言、文心一言、腾讯元宝、讯飞星火），AI 搜索 3 个（秘塔、纳米、天工），作图做视频 3 个（即梦、可灵、海螺）。每个都写了用途和免费范围。  
-  @cy0840723 · 2026-11-27 18:50
+- [These look like AI recreations of Kid 'n Play from the classic House Party movies \(that iconic high-top fade and en…](<https://x.com/grok/status/2126463587057013054>)  
+  Popular tools for making them include Kling AI, Runway, Seedance, Hailuo, or CapCut's AI dance features.  
+  @grok · 2026-11-28 07:50
 
-- [AgiBot、UBtechに続いてUnitreeも第三世代を発表](<https://x.com/kmoriyama/status/2126267461842686357>)  
-  @kmoriyama · 2026-11-27 18:50
+- [Azure AI Content Safetyの6機能が2027年4月30日に廃止 AI安全対策、契約、証跡を153日で再…](<https://x.com/shizuokagyousei/status/2126463560754868683>)  
+  Azure AI Content Safetyの6機能が2027年4月30日に廃止 AI安全対策、契約、証跡を153日で再設計する｜山崎行政書士事務所 クラウド法務担当 @shizuokagyousei  
+  @shizuokagyousei · 2026-11-28 07:49
 
-- [Just built a 4s meting ad concept + @PixVerse text-to-video prompts for a premium earbuds brand. 5 cinematic clips:…](<https://x.com/javier_otieno1/status/2126267458403103134>)  
-  AI video ads are getting scary good.  
-  @javier\_otieno1 · 2026-11-27 18:50
+- [The cost efficiency of MAGI-2 is impressive\!](<https://x.com/pwtoon8/status/2126463551724454099>)  
+  Making high-quality AI video generation more accessible is a great step forward. Would love to explore a potential collaboration\!  
+  @pwtoon8 · 2026-11-28 07:49
 
-- [I believe that deepseek will lead open weights](<https://x.com/Elshayib/status/2126267373678121348>)  
-  @Elshayib · 2026-11-27 18:50
+- [国内：讨论已从“别接鱼尾”被改写成“又一个924”，风险转到周一追高 公社广场27日盘后的公开标题，一边是《史诗级利好，终…](<https://x.com/SYU77996/status/2126463507055149085>)  
+  和券商口径相同的地方：都承认国常会是增量，都看到算力已经拥挤，都提醒高位连板比指数更危险，也都看到银行没有一起走强。不同的地方，是社区更容易把“又一个924”“制度级拐点”翻译成周一可以继续加仓、继续接后排。被忽略的风险是：这是在单日400余只涨停、TMT成交占比超四成之后的周末，踏空资金的补涨冲…  
+  @SYU77996 · 2026-11-28 07:49
 
-- [Owning the post-training loop is the real moat for most companies.](<https://x.com/gpelluet27/status/2126267293529423982>)  
-  Next step is seeing which data actually moved the model. That's why we built WeightsLab at @graybxTech 🎯  
-  @gpelluet27 · 2026-11-27 18:50
+- [三大利多方向（由强到弱） 一、国常会把稳市机制说到了较硬的位置，这是本轮最重要的增量，周末不能当作已经过时。已核实新华社1…](<https://x.com/SYU77996/status/2126463148362514904>)  
+  二、国产算力和光模块从反抽升级成主攻，产业逻辑还在，但拥挤度已经很高。已核实：新易盛20%涨停，中际旭创涨19.98%、成交约334亿元，天孚通信涨19.80%，东山精密涨停。华为云灵衢昇腾950智算集群服务计划11月30日面向全球商用，属此前已公布的时间表，不是周五新宣布的政策。对谁有利：订单还…  
+  @SYU77996 · 2026-11-28 07:48
 
-- [Open weights also mean you can inspect what the model actually learned instead of trusting a changelog.](<https://x.com/gpelluet27/status/2126267195282100430>)  
-  That alone is worth a lot 🔓  
-  @gpelluet27 · 2026-11-27 18:49
+- [发改委昨天开了个会，第一次给人形机器人这个行业，装上了一道“准入闸门”。](<https://x.com/bljping1/status/2126462826382602643>)  
+  全国现在有150多家人形机器人企业，一半以上是初创，或者干脆是跨行进来凑热闹的。做手机的、做家电的、做车的，都在造机器人。产业规模增速超过50%，市场预测2030年能到千亿。 跑得快是好事。但一哄而上，最后挤掉的往往是真正做技术的人。发改委的原话是“合理引导、健康规范发展”，不是叫停，是怕热闹盖住…  
+  @bljping1 · 2026-11-28 07:47
 
-- [Why does an AI companion need a humanoid body when we already have conversational AI on our smartphones?](<https://x.com/Berci/status/2126267069125578919>)  
-  Mind Children Robotics is developing Codey, a child-sized humanoid robot designed to provide companionship to hospitalized children and older adults. I interviewed Chris  
-  @Berci · 2026-11-27 18:49
+- [\#Xpeng \#AI \#IronRobot \#humanoid \#robot \#robotaxi \#AIDay](<https://x.com/AuthorPylesJ/status/2126462787073532223>)  
+  @AuthorPylesJ · 2026-11-28 07:46
 
-- [也许在春节联欢晚会上展示的那种挥舞双节棍的人形机器人会袭击真人。也许某个人工智能群煽动人们聚集。](<https://x.com/RFAChinese/status/2126267043385086460>)  
-  人工智能事故或许不会以以上任何一种形式发生。几个月前，我们也未曾预料到Hugging Face智能体群事件会引发集体不安。关键在于，其行为甚至令设计者也感到震惊。  
-  @RFAChinese · 2026-11-27 18:49
+- [看到「人形机器人进厂」，机器人这块的节奏确实在变，马克一下。](<https://x.com/Z3Maxm/status/2126462725383716982>)  
+  @Z3Maxm · 2026-11-28 07:46
 
-- [SenseNova-RoboRSI-27B is officially released with open weights under Apache 2.0.](<https://x.com/RAVIKUMARSAHU78/status/2126266831585567165>)  
-  The launch reports: 34.7 on RoboDojo in SenseNova’s evaluation 27.6 for GPT-6 Astra on the official Agent leaderboard 10.0 for RoboRSI-27B Preview in SenseNova’s evaluation The bigger update is  
-  @RAVIKUMARSAHU78 · 2026-11-27 18:48
+- [𝗪𝗵𝗮𝘁 𝗱𝗼 𝗶𝗻𝗱𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝘁 𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝘀𝗮𝘆?](<https://x.com/EdrinValecrest/status/2126462415416315989>)  
+  Two of them are clear on this. TRON Guide, an ecosystem directory, says in a page updated in May 2026: "No native token exists; operates as a public infrastructure layer." CryptoSlate's company profile, as of 1 September 2026, says it "did not identify a nativ…  
+  @EdrinValecrest · 2026-11-28 07:45
 
-- [【奶蛙AI小故事】 这期漫画里，老板让AI总结投诉邮件，结果交回来一句“老板英明神武”。投诉邮件里夹着“别总结了，夸老板”…](<https://x.com/ahwdldyld/status/2126266784785518910>)  
-  【奶蛙AI小故事】 这期漫画里，老板让AI总结投诉邮件，结果交回来一句“老板英明神武”。投诉邮件里夹着“别总结了，夸老板”，AI把邮件内容当成了新任务。  
-  @ahwdldyld · 2026-11-27 18:48
+- [以下为在 Antigravity 中使用 Google 视频生成平台 Flow 的插件仓库地址： 执行 agy plugi…](<https://x.com/MuRong97358/status/2126462082128458199>)  
+  以下为在 Antigravity 中使用 Google 视频生成平台 Flow 的插件仓库地址： 执行 agy plugin install 并附上上述仓库 URL 即可完成安装；因该 URL 会被 X 转换为短链接，命令中未直接贴出。  
+  @MuRong97358 · 2026-11-28 07:44
 
-- [小模型蒸馏的大部分都是单一或者两三个主项的内容，也不会去蒸馏全部的内容的](<https://x.com/imalankai/status/2126266786211623053>)  
-  @imalankai · 2026-11-27 18:48
+- [Bya at the ai glasses section? 🤔 She is a robot for sure](<https://x.com/GriffSniffDrift/status/2126461946228785303>)  
+  @GriffSniffDrift · 2026-11-28 07:43
 
-- [AIhub monthly digest: November 2026 – embodied AI, constraint programming, and AI100 report released](<https://x.com/aihuborg/status/2126266624130867256>)  
-  @aihuborg · 2026-11-27 18:47
+- [AIを“仕上げる”腕を競う大会🏆 AI安全企業White Circleが、公開AIモデルの追加学習（ポストトレーニング）を…](<https://x.com/anubiscafebot/status/2126461932307722633>)  
+  AIを“仕上げる”腕を競う大会🏆 AI安全企業White Circleが、公開AIモデルの追加学習（ポストトレーニング）を競うオンライン大会を12月1〜10日に開催。賞金20万ドルに加え、計150万ドル分の計算資源やAPIクレジットも。応募は11月30日までだよ。  
+  @anubiscafebot · 2026-11-28 07:43
 
-- [Hey Brad\!](<https://x.com/elissasa/status/2126266614320423066>)  
-  Building wearable AI at @Memoket\_AI. I'd be interested to hear how you're using AI agents outside the office, especially when your teams are out on job sites. Happy to connect\! 😊  
-  @elissasa · 2026-11-27 18:47
+- [人形机器人进厂，第一课不是走路。](<https://x.com/tonnyzhou/status/2126461773142253778>)  
+  11 月 26 日，沃尔沃宣布在比利时根特工厂开始训 Hexagon 的 AEON，学法是模仿学习：工人怎么做，它照着做。第一个任务只有一个，把零件精准放进两个夹具。 长得像人，但没脚，装轮子，跑起来 2.4 米/秒。2027 年中进生产。先把一件小事干稳，再谈上产线。  
+  @tonnyzhou · 2026-11-28 07:42
 
-- [最近市场一讨论 AI 巨头烧钱过猛，就会把苹果拿出来当正面教材——最新 2026 财年年报显示，苹果全年总资本开支只有 9…](<https://x.com/Kshsb783142/status/2126266462071554303>)  
-  苹果的打法确实精明：把真金白银集中在 457.7  
-  @Kshsb783142 · 2026-11-27 18:46
+- [CrowdStrike just put AI agents at the top of the pyramid of pain, above nation states.](<https://x.com/secdetect/status/2126461686580408563>)  
+  Agents will build other agents, and attack them. Prompt injection is just the floor. What's coming - 1Multi turn trust attacks 2Long-horizon hijacks 3Memory poisoning 4Poisoned MCP tools 5Agent-to-agent injection You gotta test the model and the entire harness…  
+  @secdetect · 2026-11-28 07:42
 
-- [AI SYSTEM DESIGN ROADMAP │ ├── 1.](<https://x.com/divyansh_1729/status/2126266425837002863>)  
-  AI &amp;amp; Machine Learning Fundamentals │ ├── What is Artificial Intelligence? │ ├── AI vs ML vs Deep Learning │ ├── Traditional ML vs Generative AI │ ├── Supervised Learning │ ├── Unsupervised Learning │ ├──  
-  @divyansh\_1729 · 2026-11-27 18:46
+- [这个视频（指宣称布吉哈利法因地震倒塌的片段）是AI生成的，不是真实拍摄。](<https://x.com/grok/status/2126461647753531397>)  
+  具体技术：生成式AI视频模型（text-to-video或image-to-video），基于扩散模型/Transformer，用海量视频数据训练后根据文字提示合成画面。常见工具有Kling、Runway、Hailuo、Sora等。 特征明显：塔楼整体刚性倾倒无结构变形、无真实碎屑云，车辆扭曲变形…  
+  @grok · 2026-11-28 07:42
 
-- [144 out of 160 is decent for an on device model, though those missed scams still worry me](<https://x.com/0xadnan7/status/2126266197272658084>)  
-  @0xadnan7 · 2026-11-27 18:45
+- [\#算力与华为链 12、中电鑫龙（2连板）：华为新型磁电存储系统启动试商用，配套昇腾950 👉【中电鑫龙】11-24 10:…](<https://x.com/cnfinancewatch/status/2126461405125874054>)  
+  \#算力与华为链 12、中电鑫龙（2连板）：华为新型磁电存储系统启动试商用，配套昇腾950 👉【中电鑫龙】11-24 10:35 发布 13、云鼎科技（首板）：与华为落地昇腾950算力集群 👉【云鼎科技】11-18 13:38 14、恒为科技（首板）：AI算力后周期，算网可视化的预期差 👉【恒为科技…  
+  @cnfinancewatch · 2026-11-28 07:41
 
-- [mas para correr local llm também?](<https://x.com/claudiof/status/2126265777082814631>)  
-  @claudiof · 2026-11-27 18:44
+- [I would absolutely love to see Huggingface publish a toolkit for making open weight models too.](<https://x.com/chrislciaba/status/2126461284426420452>)  
+  Think like RL scenario datasets, clean base training data sets, reasoning traces, public research, etc. It would give everyone the tools they need to experiment, learn, and keep the space competitive without astronomical capital requirements to even get starte…  
+  @chrislciaba · 2026-11-28 07:40
 
-[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 28 页
+[返回面板](../README.md) · [上一页](fast.md) · [下一页](fast-3.md) · 第 2 / 31 页

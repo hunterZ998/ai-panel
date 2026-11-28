@@ -1,6 +1,42 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 19 页
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 18 页
+
+- [Ladybird 浏览器发布首个 alpha 版本，作者实测并梳理 AI 编码智能体带来的进展](<https://simonwillison.net/2026/Nov/23/ladybird/>)  
+  Ladybird 项目发布首个 alpha 版本，macOS 和 Linux 用户可直接安装无需自行编译。作者 Simon Willison 实测称其快速流畅，多数网站可正常加载，并给出了多标签页的进程隔离结构。  
+  Simon Willison 博客 · 2026-11-24 05:46
+
+- [Claude Code v2.1.331 发布：新增 Code Mode 多平台支持与多项修复](<https://github.com/anthropics/claude-code/releases/tag/v2.1.331>)  
+  Claude Code v2.1.331 在 Amazon Bedrock、Google Cloud Agent Platform、Microsoft Foundry 和 AWS 上的 Claude Platform 终端会话中新增 Code Mode 支持。  
+  Claude Code：GitHub Releases（RSS） · 2026-11-24 05:34
+
+- [多州起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像和复仇式色情内容](<https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/>)  
+  多州总检察长起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像（CSAM）和复仇式色情内容。X 声称每条 Grok 输出都经过筛查，但州总检察长表示 Grok 仍在生成 CSAM。  
+  Ars Technica：AI（RSS） · 2026-11-24 05:30
+
+- [Megaspeed 或将被列入美国商务部实体清单](<https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/>)  
+  据 Semafor 援引匿名消息人士报道，新加坡云与 AI 基础设施公司 Megaspeed 可能被美国商务部列入实体清单，美国公司未经特殊许可不得与其交易，此举旨在阻止其获得美国制造的半导体。美国商务部上周还宣布对该公司启动刑事调查，美国和新加坡有关部门正在调查该公司是否违反出口限制。该公司否认存在不当行为。  
+  TechCrunch：AI（RSS） · 2026-11-24 05:25
+
+- [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>)  
+  OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while th…  
+  OpenAI · 2026-11-24 05:20
+
+- [MIT 研究：多语言模型揭示 21 种语言共享同一神经编码](<https://news.mit.edu/2026/many-languages-one-common-neural-code-1123>)  
+  MIT McGovern 研究所团队在 Nature Neuroscience 发表研究，用多语言大模型构建 encoding model，预测 21 种语言使用者的脑活动，发现人脑以共同方式处理不同语言。用单一语言训练的编码模型还能预测从未见过的语言的脑响应，共享成分可能与语义有关，研究有望推动更包容的脑疾病诊断工具并帮助保护濒危语言。  
+  MIT News（RSS） · 2026-11-24 05:15
+
+- [AI 数据中心用电激增给 COP31 联合国气候谈判再添难题](<https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit>)  
+  The Verge 报道，COP31 气候大会在土耳其安塔利亚混乱收场，为期两周的谈判未能通过协议，EU、英国等认为草案太弱，文本还省略了化石燃料一词，美国缺席。AI 数据中心令电力需求飙升成为议题，IEA 预计数据中心用电到 2030 年翻倍，Meta 因 AI 押注碳排放同比增 45% 并重新评估净零时间表，约 80 国签署了到 2035 年将电力占能源消费提升至 35% 的自愿承诺。  
+  The Verge：AI（RSS） · 2026-11-24 05:09
+
+- [Figma agent 正式开放至 FigJam 和 Figma Slides](<https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/>)  
+  Figma agent 现已在 FigJam 和 Figma Slides 上对所有付费计划全面开放，支持连接器和附件，可将设计文件、会议记录或研究笔记等材料整理到 FigJam 白板或生成演示文稿初稿。  
+  Figma AI / Agent / Make · 2026-11-24 04:54
+
+- [Databricks 分析约5400个恶意 npm 包揭示的 2026 软件供应链风险](<https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026>)  
+  Databricks 发布供应链威胁系列首篇报告，分析2025年12月至2026年10月间约5400个确认恶意 npm 包。  
+  Databricks：Blog（RSS） · 2026-11-24 04:47
 
 - [OpenAI 向 Plus 等用户推送面向聊天的 GPT-6.2 Sol](<https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/>)  
   OpenAI 开始向 Plus、Pro、Business 和 Enterprise 用户全球推送面向聊天场景的 GPT-6.2 Sol。官方称其处理复杂请求和网络搜索优于 GPT-6，图像理解 71.7% 对 47.4%，困难指令遵循 78.1% 对 62.5%，专家级任务基准在全部四个推理级别领先约 65% 至 71% 以上对 52% 至 66%。  
@@ -146,40 +182,4 @@
   Sakana AI 宣布成立 Applied Research Lab，将公司研究应用于大规模复杂现实系统，首个项目为金融经济领域的 COFE 项目。  
   Sakana AI：Blog（网页） · 2026-11-23 23:00
 
-- [Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例](<https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks>)  
-  Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。  
-  Wiz：Research（安全研究） · 2026-11-23 22:46
-
-- [Sierra 融资 17.5 亿美元，估值半年内翻倍至 300 亿美元](<https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/>)  
-  企业客服公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值翻倍至 300 亿美元，距上轮 150 亿美元估值仅六个月。本轮由 Greenoaks 和 Lightspeed 领投。公司称已服务近 50% 的 Fortune 50 企业，五个月内 run-rate 收入翻倍至 4 亿美元，并正与 Meta、Stripe、Walmart 等合作制定智能体协议定义。  
-  TechCrunch：AI（RSS） · 2026-11-23 22:43
-
-- [黄仁勋复职英伟达 CEO，董事会投票恢复其职务](<https://mp.weixin.qq.com/s/gR_c-k_evwV-Iyg6Z7vFQg>)  
-  英伟达董事会于 23 日 21:58 一致投票恢复黄仁勋总裁、CEO 和董事职务，即时生效，理由是其态度坦诚且复职不构成安全风险。此前 11、12 号黄仁勋离职，20 万人签名支持，18 号财报会营收 1158 亿美元、同比增长 103%，董事会一度表示不打算让其复职并寻找永久 CEO；川普公开力挺后局势转折。  
-  公众号：卡尔的AI沃茨 · 2026-11-23 22:36
-
-- [Nvidia 宣布黄仁勋重返 CEO 职位](<https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/>)  
-  Nvidia 董事会周一宣布重新任命黄仁勋为 CEO 兼总裁，距其因婚外情风波辞职不到两周。董事会称在咨询美国政府高级官员后认定黄仁勋不构成国家安全风险，并一致认为他适合领导公司；股价开盘大涨 30%，美东时间 9:51 报 159.95 美元，涨 27%。Colette Kress 将继续担任 CFO。  
-  TechCrunch：AI（RSS） · 2026-11-23 22:21
-
-- [n8n 复盘“周一早晨事故”：Lead Routing 工作流为何停止分配线索](<https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/>)  
-  n8n 用一则虚构事故复盘说明：某团队 40 人都能编辑 Lead Routing 工作流，一名已离职外包人员的账号仍可登录，其密码还曾被贴在 Slack 频道里，导致周六夜间的筛选条件改动无人察觉。文章分别演示 projects 与自定义角色、SSO、2FA 强制三层访问控制如何在各自环节阻断该事故，并提醒从 IdP 停用账号后仍需在 n8n 中手动删除用户。  
-  n8n Blog · 2026-11-23 22:02
-
-- [Sierra 完成 17.5 亿美元融资，估值达 300 亿美元](<https://sierra.ai/blog/series-f-30b>)  
-  Sierra 宣布以 300 亿美元估值融资 17.5 亿美元，由 Greenoaks 和 Lightspeed Venture Partners 领投，Benchmark、Sequoia、GV、Tiger Global 等此前领投方全部跟投。  
-  Sierra：Blog（RSS） · 2026-11-23 21:45
-
-- [155 家儿童权益组织致信亚马逊、eBay，呼吁停止销售 AI 玩具](<https://www.ithome.com/1/031/203.htm>)  
-  由 155 家儿童权益保护组织组成的联盟向亚马逊和 eBay 首席执行官发公开信，呼吁两家平台停止销售 AI 玩具。  
-  IT之家·人工智能 · 2026-11-23 21:15
-
-- [GPT-6.2 Astra 在 Autoform-Hard 上完成 Smoktunowicz gap 定理的 Lean 形式化证明](<https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/>)  
-  OpenAI 的 GPT-6.2 Astra 在 Meta FAIR 的 AutoformBench 子集 Autoform-Hard 上，无人工帮助完成 2006 年 Smoktunowicz gap 定理的 Lean 形式化证明，据 Vals AI 称这是该定理首个 Lean 证明。  
-  The Decoder：AI News（RSS） · 2026-11-23 20:17
-
-- [华硕 ProArt P16 评测：Nvidia RTX Spark 加持下可本地运行百亿参数级 AI 模型](<https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/>)  
-  Ars Technica 发布华硕 ProArt P16 评测，该机搭载 Nvidia RTX Spark N1X 芯片，最高配 128GB LPDDR5x 统一内存，可加载 1000 亿参数以上的本地模型，售价 4399.99 美元起至 6999.99 美元。实测 Qwen 27B 约 20 tokens/秒，重负载推理续航仅约两小时，作者认为它是面向重度本地 AI 用户的利基产品。  
-  Ars Technica：AI（RSS） · 2026-11-23 20:00
-
-[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 19 页
+[返回面板](../README.md) · [上一页](all-9.md) · [下一页](all-11.md) · 第 10 / 18 页

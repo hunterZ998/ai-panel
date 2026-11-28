@@ -1,10 +1,66 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 18 页
 
-- [字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视](<https://www.ithome.com/1/033/718.htm>)  
-  IT之家 11 月 27 日消息，字节火山引擎今日宣布，目前， 豆包大模型已服务八成国内头部电视厂商， 创维、长虹、海信、TCL 等主流品牌，都推出了搭载豆包大模型的量产电视。 围绕豆包大模型版电视，火山引擎提供模型与接入支持，厂商完…  
-  IT之家 · 2026-11-27 18:36
+- [湖南70后中专生：卖芯片，半年赚了40亿](<https://36kr.com/p/4087919602563716?f=rss>)  
+  AI掀起的存储芯片涨价���，又造就了一个IPO。 11月25日，深圳晶存科技通过港交所上市聆讯。招股书显示，2026年上半年，公司营收120.18亿元，同比增长483.2%；净利润40.32亿元，同比增长超34倍。 要知道，两年前，这家公  
+  36氪 · 2026-11-27 20:33
+
+- [老板花钱让员工用AI，结果自己先崩溃了：邮件、报告全靠AI生成，有人因此被直接开除](<https://36kr.com/p/4087950256568704?f=rss>)  
+  老板花钱给员工买 AI，本来是想让大家少加班、多干活。结果钱花出去了，员工的工作效率有没有提高还不好说，老板倒是先多了一份工作： 每天从成堆的 AI 垃圾里，辨认哪些话是真正有用的。 科技招聘公司 Twill 的 CEO Michelle  
+  36氪 · 2026-11-27 20:32
+
+- [AI巨头被曝藏着密码学“核弹”，量子计算大牛Scott Aaronson博客刷屏](<https://36kr.com/p/4087959362648452?f=rss>)  
+  AI可能已经找到了破解现有密码系统的方法，只是还没公布。 不er，OpenAI和A社到底还藏了多少东西？？ 前脚两家才双双宣布证明了P vs NP的代数版本VP≠VNP。 后脚，理论计算机科学界大佬Scott Aaronson就爆出了一个更  
+  36氪 · 2026-11-27 20:32
+
+- [“打不过，”马斯克公开认输AI模型之争，向员工承认“落后于对手”，警告浪费GPU者将被开除](<https://36kr.com/p/4087944117123713?f=rss>)  
+  “因为打不过，所以卖算力。”这不是外界的嘲讽，而是马斯克（Elon Musk）亲自给AI部门员工群起的名字。 据美国媒体报道，马斯克近期已经在SpaceX内部向员工摊牌：公司自家的AI模型开发落后于竞争对手，与其拿GPU训练Grok，不如直  
+  36氪 · 2026-11-27 20:31
+
+- [Poland Signs $300 Million Palantir Deal to Use AI in Defense](<https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense>)  
+  Bloomberg · 2026-11-27 20:30
+
+- [Black Friday Shoppers Turn to AI Bots to Find Deals](<https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video>)  
+  Bloomberg · 2026-11-27 20:12
+
+- [全网接他事业运，却不想看他演007](<https://36kr.com/p/4087938929015176?f=rss>)  
+  拿大结果的风还是吹到了好莱坞。 11月16日，亚马逊米高梅影业发布正式声明，确认英国演员罗伯特·帕丁森接棒丹尼尔·克雷格，成为官方系列第七位詹姆斯·邦德，将主演第26部007电影及后续作品。历时数月、牵动整个好莱坞的新007竞猜至此收官，而  
+  36氪 · 2026-11-27 20:04
+
+- [具身智能还在等突破，VC已经换赛道了](<https://36kr.com/p/4087875673356934?f=rss>)  
+  VC（风险投资）对具身智能不感冒了？ “从今年下半年开始，同事就比较少看具身的项目了。”在人民币VC工作的Cathy对《豹变》说。 有的人甚至收手更早。美元VC的Jensen告诉《豹变》：“我周围的同事从2026年年初开始就不太看具身了。”  
+  36氪 · 2026-11-27 20:03
+
+- [AI Data-Center Developer LIAN Picks London for $500 Million IPO](<https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo>)  
+  Bloomberg · 2026-11-27 19:49
+
+- [AI算力基础设施盈利分化加剧，主体与收入性质决定谁能先盈利](<https://36kr.com/p/4087846166821249?f=rss>)  
+  同样一座智算中心，由地方国资平台出资建设，与由云厂商联合芯片厂共建运营，从立项第一天起就在两本不同的账上： 前者的钱来自财政资金与固定资产投资，收入靠机架出租、政府购买与补贴政策；后者的钱来自经营性现金流，收入跟着自有业务的调用量走，按用量  
+  36氪 · 2026-11-27 19:15
+
+- [贝森特又变脸：财政部成美国AI新对手](<https://36kr.com/p/4087813617440390?f=rss>)  
+  最近美股出现剧烈波动，尤其AI概念股更是跌宕起伏。考虑到 2025 年至今，资本市场不断有分析师断定“AI泡沫已经显现”，其规模与2000 年的互联网泡沫不遑多让。 最近在各类群组以及聚会中，有关AI 泡沫的讨论永远是最热门话题，相当多朋友  
+  36氪 · 2026-11-27 19:12
+
+- [SAP Weighs 10,000 Job Cuts as AI Reshapes Tech Industry](<https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video>)  
+  Bloomberg · 2026-11-27 19:11
+
+- [从暴涨约49%到急跌超50%，大牛股商米科技跳水](<https://36kr.com/p/4087787405719937?f=rss>)  
+  一周时间内，商米科技（06810.HK）股价犹如坐上过山车。 11月26日，商米科技盘中跌超50%，股价最低触及90.00港元/股，最终收跌31.75%，报129.60港元/股，单日市值蒸发超200亿港元；全天成交86.12万股、成交额1.  
+  36氪 · 2026-11-27 19:08
+
+- [港股迎来一家存储芯片IPO，半年净利40亿](<https://36kr.com/p/4087847808760193?f=rss>)  
+  AI应用带来的存储需求爆炸，即将催生出一个港股IPO。 11月25日，嵌入式存储产品独立厂商深圳市晶存科技股份有限公司（下称：晶存科技）在港交所披露聆讯后的招股书，或很快在香港主板挂牌上市。 IPO进程显示，晶存科技于2025年9月、202  
+  36氪 · 2026-11-27 19:05
+
+- [泡面吃腻、外卖吃烦，年轻的“过日子人”爱上了1.5元的快手菜](<https://36kr.com/p/4087865867270534?f=rss>)  
+  从上世纪九十年代到今天，中国人的“快速吃饭解决方案”，已经走过了两代。 第一代是方便面。对很多 80 后、90 后来说，宿舍的开水壶、春运的绿皮火车、深夜的书桌旁，都少不了一碗红烧牛肉面的影子，是那个年代当之无愧的 “吃饭救星”。 第二代是  
+  36氪 · 2026-11-27 18:58
+
+- [Claude开始抢苹果的生意了](<https://36kr.com/p/4087846437705350?f=rss>)  
+  摘要： Anthropic推出Claude Artifact桌面应用安装功能，让AI生成的软件拥有独立图标、窗口和系统交互能力。从生成工具到应用运行平台，Claude正在尝试改变软件的生产和分发方式。它距离真正的应用市场仍有距离，但已经向苹  
+  36氪 · 2026-11-27 18:39
 
 - [再次开源顶尖视频模型，这家独角兽估值突破10亿美元](<https://36kr.com/p/4087845296077442?f=rss>)  
   AI视频生成的竞争，正在发生一个有趣的变化。 过去，行业比拼的是谁能生成更逼真的画面，谁能做出更复杂的动作，谁能让人物开口说话。如今，当头部模型的生成效果不断逼近专业视频制作需求，另一场竞争也随之展开。视频生成的成本能否继续下降？一家模型公  
@@ -36,25 +92,9 @@
   过去几年，影视行业的讨论总绕不开几个关键词：头部IP、头部演员、头部平台。项目会上，大家忙着找大IP、组大阵容，仿佛只要把几张王牌凑齐，一部剧就有了成功的基本盘。另一边，短剧公司卷速度，AI团队卷产能，行业两头都很热闹。 夹在中间的制作公司  
   36氪 · 2026-11-27 18:09
 
-- [已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族](<https://www.ithome.com/1/033/649.htm>)  
-  IT之家 11 月 27 日消息，腾讯微信视觉团队开源 WeMM-Ecom —— 兼顾前沿电商理解与领先通用能力的多模态基础模型家族，涵盖 0.8B、2B、4B、9B 四款稠密模型和 35B-A3B 混合专家模型。 全系列模型原生支持…  
-  IT之家 · 2026-11-27 18:05
-
-- [支付宝车载助手 3.0 与 80 多家车企达成定点合作，含比亚迪、理想、奇瑞等](<https://www.ithome.com/1/033/625.htm>)  
-  IT之家 11 月 27 日消息，支付宝今日发布“支付宝车载助手 3.0”，官方称其为 AI 原生车载智能体，让汽车座舱从“会聊天”升级到“能办事”。 IT之家从官方信息获悉，目前已有 80 多个汽车品牌与支付宝车载助手 3.0 达成…  
-  IT之家 · 2026-11-27 17:56
-
-- [曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存](<https://www.ithome.com/1/033/624.htm>)  
-  IT之家 11 月 27 日消息，韩媒 Economy Tribune 当地时间今日爆料称， Google（谷歌）计划为其第 10 代 TPU 芯片配备 512GB 的定制 HBM5 内存 。 谷歌 TPU 是当前最主要的 AI AS…  
-  IT之家 · 2026-11-27 17:54
-
 - [索塔无界完成数千万元天使轮融资](<https://www.itjuzi.com/investevent/14708851>)  
   索塔无界是一家机器人大脑出海服务提供商，专注于具身智能领域，致力于打造“通用具身智能大脑+物理智能领域的OpenClaw”，让机器人真正理解物理世界并自主行动，推动具身智能从理论到大规模商业落地。近日，索塔无界宣布完成数千万元人民币天…  
   IT桔子 · 2026-11-27 17:49
-
-- [消息称韩国政府要求三星电子开发 Jetson Thor 竞品，企业方反应谨慎](<https://www.ithome.com/1/033/619.htm>)  
-  IT之家 11 月 27 日消息，韩媒 MTN 近日报道称，韩国政府今年 10 月对三星电子提出要求，希望这家本土企业能 开发一款可在机器人算力芯片领域与 NVIDIA（英伟达）Jetson Thor 竞争的产品 ，但三星电子的反应谨…  
-  IT之家 · 2026-11-27 17:30
 
 - [Lute获得2000万美元种子轮融资](<https://www.itjuzi.com/investevent/14708848>)  
   Lute是一家触觉物理AI科技研发商，自研融合视觉与触觉的机器人基础模型 Lute-0，弥补纯视觉方案无法感知握力、滑移、材质的缺陷，面向仓储、零售、制造的灵巧抓取场景，模型可对接第三方机器人硬件。近日，Lute获得2000万美元种子…  
@@ -82,9 +122,6 @@
 - [LexDo.it获得Pre-A轮融资](<https://www.itjuzi.com/investevent/14708841>)  
   LexDo.it 是一个一站式商事法律财税 SaaS 平台，面向意大利个体户、小微企业与初创企业，集成线上远程公证注册、AI 合同生成、记账报税、薪资人事、地址托管等商事合规服务，搭配持证会计师与律师团队交付，服务超 50 万用户。近…  
   IT桔子 · 2026-11-27 15:45
-
-- [Stabilizing Forces Make Europe an AI-Storm Shelter: Taking Stock](<https://www.bloomberg.com/news/articles/2026-11-27/stabilizing-forces-make-europe-an-ai-storm-shelter-taking-stock>)  
-  Bloomberg · 2026-11-27 15:20
 
 - [PH今日热榜 \| 2026-11-27](<https://decohack.com/producthunt-daily-2026-11-27/>)  
   Hub：运行100个Claude Code或Codex会话，就像进行5个会话一样。；QA.tech MCP：在你使用的集成开发环境（IDE）中，每次修改都要与质量保证（QA）团队的人员进行确认。；ExtraOrbital：✦ 开放的数…  
@@ -136,42 +173,4 @@
 - [They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.](<https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=rss_Technology>)  
   The Wall Street Journal · 2026-11-27 10:00
 
-- [大衍科技获得数千万人民币Pre-A轮融资，赛伯乐投资领投，浙江创新投资、浙里信、浙商创投、普华资本、松禾资本、万联天泽参投](<https://www.itjuzi.com/investevent/14708782>)  
-  大衍科技专注于4D世界重建、世界模型、可控扩散模型等前沿技术的研究与应用，旨在通过自研的世界模型技术，极致性价比的合成数据平台，为每个智能公司打造属于自己的数据闭环飞轮。应用领域覆盖自动驾驶、具身智能、数字孪生城市等关键赛道。大衍科技…  
-  IT桔子 · 2026-11-27 09:55
-
-- [How Clay Builds GTM Agents — Jeff Barg, Head of AI](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_clay_builds_gtm_agents_jeff_barg_head_of_ai>)  
-  Clay \( https://www.clay.com/ \) wants you to get about the same results whether you use its own agent or point Claude…  
-  Latent Space · 2026-11-27 06:44
-
-- [AI 让自托管重新变有趣：一位老玩家的实操复盘](<https://janlukas.blog/posts/ai-self-hosting>)  
-  长期自托管的作者复盘过去几个月如何借助 AI 编码智能体重拾自托管热情。  
-  Hacker News：AI 热帖 · 2026-11-27 05:47
-
-- [Ploid](<https://www.producthunt.com/products/ploid>)  
-  People search for AI agents, across 2B+ profiles  
-  Product Hunt · English · 2026-11-27 05:06
-
-- [Nvidia hits pause on chip shipments to Southeast Asia](<https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/>)  
-  Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U  
-  TechCrunch · 2026-11-27 04:03
-
-- [前 OpenAI 研究员 Scott Aaronson 撰文称 AI 能产出黎曼猜想证明这件事比证明本身更重要](<https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/>)  
-  前 OpenAI 研究员、UT Austin 教授 Scott Aaronson 发博文称，黎曼猜想证明本身未必改变日常生活，真正意义重大的是 AI 系统能产出这类证明，可能对日常经济乃至生存带来深远影响。他分析 OpenAI 关于矩阵乘法和傅里叶变换的下界证明，表示首次从直觉上感到 P≠NP 的证明已经不远，并称从多个可靠来源得知 AI 实验室在密码学领域握有未公开的重大结果。  
-  The Decoder：AI News（RSS） · 2026-11-27 03:31
-
-- [Onset](<https://www.producthunt.com/products/onset>)  
-  AI reviews, titles and thumbnails for YouTube creators  
-  Product Hunt · English · 2026-11-27 03:18
-
-- [Opinion \| Searching for God in the AI Machine](<https://www.wsj.com/opinion/searching-for-god-in-the-ai-machine-4b52e760?mod=rss_Technology>)  
-  The Wall Street Journal · 2026-11-27 02:06
-
-- [OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快](<https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/>)  
-  OpenAI 修复 GPT-6.2 推出期间的计费错误，据 Codex 工程师 Thibault Sottiaux 称，用户现在触及限额的速度比上周快 40%（Astra）和 25%（Sol），但额度仍比 GPT-6 Astra 和 GPT-6.1 Sol 更耐用。  
-  The Decoder：AI News（RSS） · 2026-11-27 01:28
-
-- [SAP Weighs Cutting at Least 10,000 Roles in AI Restructure](<https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring>)  
-  Bloomberg · 2026-11-27 00:15
-
-[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 19 页
+[返回面板](../README.md) · [上一页](all.md) · [下一页](all-3.md) · 第 2 / 18 页

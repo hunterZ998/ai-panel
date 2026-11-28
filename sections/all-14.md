@@ -1,42 +1,46 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 18 页
+
+- [Thinking Machines 发布开源权重模型 Inkling 2 Mini：26.4B 循环 MoE 可在 32GB Mac 上运行](<https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/>)  
+  Thinking Machines 发布开源权重循环 Transformer 模型 Inkling 2 Mini，总参数 26.4B、每 token 激活 3.4B，以 Apache 2.0 协议上架 Hugging Face。  
+  MarkTechPost（RSS） · 2026-11-21 20:13
+
+- [OpenAI 在 API 上线 GPT-Live-1.1 语音模型，闲置成本降至 $0.02/分钟](<https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/>)  
+  OpenAI 将全双工语音模型 GPT-Live-1.1 开放进 API（模型 ID gpt-live-1.1），默认 128K 上下文，仅限 OpenAI 云端通过 v1/live/sessions 部署，客户端经 WebRTC 或 WebSocket 连接。  
+  MarkTechPost（RSS） · 2026-11-21 19:46
+
+- [Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿](<https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/>)  
+  Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。  
+  The Decoder：AI News（RSS） · 2026-11-21 19:19
+
+- [The Professional Network Built for You and Your AI Agent](<https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL>)  
+  What if your AI agent could find the people you should know before you even start looking? Cosign is building a profe…  
+  The a16z Show · 2026-11-21 19:00
+
+- [Thinking Machines 发布开源循环 Transformer 模型 Inkling 2 Mini](<https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/>)  
+  Thinking Machines 发布开源模型 Inkling 2 Mini，一种循环 Transformer：24 层中的 12 层对每个 token 连跑三次，可在不生成更多文本的情况下延长内部推理，用更少 token 找到答案。  
+  The Decoder：AI News（RSS） · 2026-11-21 18:33
+
+- [美股科技股遭遇疫情以来最差单周表现，Nasdaq 100 周跌 10.4%](<https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/>)  
+  美国科技股大跌，Nasdaq 100 周五下跌 5.6%，全周累计下跌 10.4%，为新冠疫情以来最差单周表现，较 10 月高点回落 20% 进入熊市区间。  
+  The Decoder：AI News（RSS） · 2026-11-21 18:27
+
+- [字节跳动称多数 AI 训练阶段并非必要，并以一个有竞争力的开源模型佐证](<https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/>)  
+  字节跳动联合多所美国高校发表论文，主张 AI 模型训练只需三个步骤即可，无需堆叠众多训练阶段。研究团队用一个具备竞争力的开源模型验证了这一观点。论文指出，当前训练流程层层嵌套，已难以判断哪一步真正有效，且复现成本高昂。  
+  The Decoder：AI News（RSS） · 2026-11-21 17:17
+
+- [国家数据局：将拓展词元服务应用场景，健全词元计量计费与质量测评标准](<https://www.ithome.com/1/030/418.htm>)  
+  国家数据局局长刘烈宏在 2026 世界计算大会开幕式上表示，词元打通了算力、模型、数据间的价值传导链路，成为数智经济的价值锚点。下一步国家数据局将积极拓展词元服务应用场景，健全词元计量计费、质量测评等标准规范，引导行业规范发展，坚决避免低质量重复建设。  
+  IT之家·人工智能 · 2026-11-21 16:51
+
+- [谷歌为 Gemini 上线 GIF 生成功能，由 Gemini Omni 1.2 Flash 驱动](<https://www.ithome.com/1/030/381.htm>)  
+  谷歌宣布为 Gemini 上线 GIF 生成功能，由视频模型 Gemini Omni 1.2 Flash 驱动，可生成循环动态图和表情包。功能面向所有 Google AI 订阅用户，在美国、日本、韩国、澳大利亚、加拿大、英国、德国、法国免费，可在主聊天输入提示词或在图像与视频工具中选择 GIF 生成。  
+  IT之家·人工智能 · 2026-11-21 15:41
 
 - [迈克尔·伯里谈 AI 股暴跌：早前已警告卖出英伟达、CoreWeave 与 Nebius](<https://www.ithome.com/1/030/378.htm>)  
   迈克尔·伯里在 X 平台发文称自己此前已提醒投资者可卖出英伟达、CoreWeave、Nebius 及半导体股。自 10 月 6 日盘中高点以来，三只股票分别下跌约 42%、55% 和 65%，纽交所半导体指数同期累计下跌约 30%。伯里 11 月 11 日曾呼吁股东卖出英伟达股票，认为黄仁勋离任后增长将放缓、利润率收窄，并警告 AI 企业过度投入折旧迅速的资产、采用激进会计手法和循环融资。  
   IT之家·人工智能 · 2026-11-21 15:28
-
-- [腾讯混元团队 Reddit AMA 实录：谈 Hy4 路线、架构取舍与开源安全](<https://mp.weixin.qq.com/s/LHZxKjzVkEpnsCDcNlaMXw>)  
-  混元团队于 11 月 21 日在 Reddit 举办 AMA，回应 Hy4 与 Hy4 flash 开源后的社区提问，共收到 300 多条留言。  
-  公众号：腾讯混元 · 2026-11-21 13:51
-
-- [Anthropic 上市后 7 位联合创始人靠 F 类股共同掌握 50.1% 投票权](<https://www.ithome.com/1/030/348.htm>)  
-  据 Business Insider 报道，Anthropic 上市后通过特殊股权设计，让包括 CEO Dario Amodei 在内的 7 位联合创始人共同掌握 50.1% 股东投票权。  
-  IT之家·人工智能 · 2026-11-21 13:14
-
-- [Anthropic 数学家 Levent Alpöge 声称与 Claude 合作证明黎曼猜想，同日现独立人类证明](<https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/>)  
-  Latent Space 汇总报道，Anthropic 数学家 Levent Alpöge 声称在与 Claude 合作下证明黎曼猜想，方法还覆盖广义黎曼猜想（GRH），仅发布 Lean 代码，散文版约 250,000 页；Elliot Glazer 确认形式化陈述为 GRH，并将 Lean 出错概率估计远低于 1%。  
-  Latent Space（RSS） · 2026-11-21 13:02
-
-- [Baseten 发布基于 Gemma 4 的决策模型 Bison-1 与 Groundhog-1，登顶 Decision Index](<https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/>)  
-  Baseten 发布开源权重决策模型 bison-1 和 groundhog-1，基于 Google 的 Gemma 4 训练，只返回校准概率而不生成文本。  
-  MarkTechPost（RSS） · 2026-11-21 12:01
-
-- [腾讯混元姚顺雨团队 AMA：Hy4 仍有改进空间，计划训练更大规模模型](<https://www.ithome.com/1/030/338.htm>)  
-  腾讯首席 AI 科学家姚顺雨与混元团队 11 月 21 日凌晨在 Reddit 进行 120 分钟 AMA。针对为何不做 3 万亿以上超大模型的提问，团队回应 Hy3 和 Hy4 表明扎实的小模型也能超过更大的模型且成本更低，但 Hy4 仍有很大改进空间，尤其在通过后训练改进方面，正投入大规模强化学习，并计划训练更大规模的模型。  
-  IT之家·人工智能 · 2026-11-21 11:24
-
-- [近 200 万条诱饵请求揭示 AI 服务链隐私泄露：零数据保留也失效](<https://www.ithome.com/1/030/322.htm>)  
-  安全公司 Dragos 首席研究官 HD Moore 向多家 AI 服务商发送近 200 万条带可追踪诱饵的请求，发现提示词被窃、转售商外传数据及隐私设置未被执行等问题。至少三家服务商出现遭入侵迹象，被盗诱饵密钥被用于数万次云服务接口调用；部分标记零数据保留的请求其私密网址数日后仍被抓取，Moore 建议敏感业务可本地部署或直接选择可信服务商。  
-  IT之家·人工智能 · 2026-11-21 10:03
-
-- [OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%](<https://www.ithome.com/1/030/319.htm>)  
-  OpenAI 发布公告介绍针对对抗性蒸馏的防御措施，加强了 GPT-6.2 Astra 和 GPT-6.2 Sol 对内部推理思考链的保护。  
-  IT之家·人工智能 · 2026-11-21 09:45
-
-- [Anthropic 研究员 Tao Lin 预测 2027 年底 AI 将在几乎所有领域媲美顶尖专家](<https://www.ithome.com/1/030/308.htm>)  
-  Anthropic 技术团队成员 Tao Lin 在 11 月 15 日接受 Palisade Research 采访时预测，约 1.3 年后即 2027 年底，AI 将在编程、电影制作等几乎所有领域媲美或超过顶尖人类专家，几乎所有人可能长期失业并依赖政府福利。  
-  IT之家·人工智能 · 2026-11-21 08:53
 
 - [Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug](<https://www.together.ai/blog/qwen4-max>)  
   Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。  
@@ -49,10 +53,6 @@
 - [Amp 为 Puck 推出车载模式，支持开车时语音对话](<https://ampcode.com/news/puck-in-the-car>)  
   Amp 的 Puck 现已支持在车内语音对话，让用户开车时无需看屏幕即可更安全地工作。iPhone 和 Android 版 Amp 应用在车内使用时会自动进入车载模式，必要时内容会以大字号显示，方便快速一瞥。Tesla 或其他可在车内浏览网页的设备可打开 ampcode.com/car 使用。  
   Amp Chronicle · 2026-11-21 08:00
-
-- [HN 热议：15 年经验美国高级软件工程师失业 2 年，该怎么办？](<https://news.ycombinator.com/item?id=50583761>)  
-  一位在 DMV 地区、有 15 年经验的美国高级软件工程师在 Hacker News 发帖求助：他 2025 年 1 月从中型保险科技公司主动离职后，已失业 2 年，积蓄耗尽，仅剩 4-5 个月家用，目前靠教数学和即将在披萨店做经理维生。评论区建议放弃海投、通过熟人一对一内推，或先经 staffing agency 以合同工身份入职再转正。  
-  Hacker News：AI 热帖 · 2026-11-21 07:18
 
 - [Baseten 发布基于 Gemma 4 的决策模型 bison-1 和 groundhog-1，权重开放在 Hugging Face](<https://www.baseten.co/blog/meet-bison-1-and-groundhog-1>)  
   Baseten 发布基于 Google Gemma 4 的决策模型 bison-1 和 groundhog-1，提供 128k 上下文（此前的 8 倍）并支持文本与图像输入。  
@@ -73,10 +73,6 @@
 - [Welcome Edgard Kagan](<https://www.a16z.news/p/welcome-edgard-kagan>)  
   A company building AI infrastructure, cybersecurity tools, or defense capabilities needs to understand how its techno…  
   a16z · 2026-11-20 23:03
-
-- [Conductor 0.98.0 更新：新增 Usage 用量页，主题转正](<https://www.conductor.build/changelog/0.98.0-see-where-your-usage-goes>)  
-  Conductor 发布 0.98.0 更新，新增 Usage 页面，可按模型和工作区查看最近 7、30 或 90 天的聊天、预估成本和 token 用量，入口在侧边栏底部或 Settings → Usage。  
-  Conductor 官方更新 · 2026-11-20 08:00
 
 - [Why Linear says Issue Tracking is Dead — Cristina Cordova, COO](<https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/why_linear_says_issue_tracking_is_dead_cristina_cordova_coo>)  
   Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saar…  
@@ -182,4 +178,8 @@
   AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In…  
   The a16z Show · 2026-11-12 19:00
 
-[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 19 页
+- [20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](<https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation>)  
+  AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:5…  
+  20VC · 2026-11-12 15:07
+
+[返回面板](../README.md) · [上一页](all-13.md) · [下一页](all-15.md) · 第 14 / 18 页

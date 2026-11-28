@@ -1,180 +1,179 @@
 # 主题快讯
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 28 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 31 页
 
-- [Lucid Computing 昨天发布了 Inference Proofs，想给“证明这次推理确实来自事先承诺的那份模型…](<https://x.com/Tutuqill/status/2126102581747613773>)  
-  Lucid Computing 昨天发布了 Inference Proofs，想给“证明这次推理确实来自事先承诺的那份模型权重”做一套可对比的公开评测。按官方说明，服务方先承诺权重，模型回答后生成一份紧凑证明，验证的人在普通 CPU 上检查，不必有 GPU，也不必看到权重。进入成本对比之前，系统要…  
-  @Tutuqill · 2026-11-27 07:55
+- [BREAKING: Nvidia chips found at China site tied to Alice Huang Over $200,000,000,000 wiped from $NVDA in past hour](<https://x.com/Kalshi_Finance/status/2126326494486032451>)  
+  @Kalshi\_Finance · 2026-11-27 22:45
 
-- [I'd pick pass rate first, then cost per pass.](<https://x.com/be0h223381/status/2126102515066515920>)  
-  Would you consider a same-harness test that only changes how diagnostics reach the model? I built ctx diag and would be curious if its input savings hold on your tasks.  
-  @be0h223381 · 2026-11-27 07:55
+- [JUST IN: A Chinese company pledged an Nvidia GB300 rack holding 72 restricted Blackwell Ultra chips as collateral f…](<https://x.com/shanaka86/status/2126325238283858183>)  
+  The rack sits at a Shanghai data center tied to Megaspeed. US Department of Commerce rules leave almost no licence path for this rack. Since 15th January, China licences get case-by-case review only for chips shipped from the US with under 6,500 gigabytes a se…  
+  @shanaka86 · 2026-11-27 22:40
 
-- [OpenAI's new preprint teases an unreleased internal research model that beat RFdiffusion on protein-design tasks us…](<https://x.com/aapakari/status/2126102451740664146>)  
-  In Onava wet-lab tests, 35 of 322 GPT-6.2 minibinders bound across 5 targets. Are general models coming for specialized bio AI?  
-  @aapakari · 2026-11-27 07:55
+- [Your local LLM can now take control of Unreal Engine, Unity &amp;amp; Blender autonomously via Unsloth\!](<https://x.com/UnslothAI/status/2126322382239649959>)  
+  Inkling 2 Mini GGUF and Unsloth successfully controlled those apps to create new assets with no human intervention. GitHub: Guide:  
+  @UnslothAI · 2026-11-27 22:28
 
-- [国产大模型五强做的一年后终局推演： 烧钱大战打到算力账算不过来时，各家会走向不同的出路——收编、熬战、合体、屠价、产业化。](<https://x.com/gejianxin/status/2126102407948206166>)  
-  1.MiniMax 被巨头溢价收编、私有化 语音、视频、陪伴社交能力强，与腾讯游戏内容生态契合，资本退出路径顺 2.智谱 AI  
-  @gejianxin · 2026-11-27 07:54
+- [A Bloomberg report published today stated that NVIDIA Blackwell chips, including a GB300 NVL72 rack, were installed…](<https://x.com/Prolotario1/status/2126321397030879700>)  
+  This was based the Chinese regulatory filings and loan documents from firms like Shanghai Shuoyao and Shanghai Kezhan, which used the hardware as collateral. But of course as of now Blackwell processors remain restricted for export to China without a US licens…  
+  @Prolotario1 · 2026-11-27 22:25
 
-- [Trump wasn't talking about Jensen with the 'wearing color orange' comment, he was talking about the heads of the co…](<https://x.com/jeremy94248818/status/2126102208282345736>)  
-  Trump wasn't talking about Jensen with the 'wearing color orange' comment, he was talking about the heads of the companies committing federal crimes by hacking companies like huggingface.  
-  @jeremy94248818 · 2026-11-27 07:54
+- [JUST IN: MIT professor Max Tegmark claims Anthropic employees discuss “overthrowing the US government &amp;amp; taking…](<https://x.com/Polymarket/status/2126317892798972021>)  
+  JUST IN: MIT professor Max Tegmark claims Anthropic employees discuss “overthrowing the US government &amp;amp; taking over the world” after having a few drinks.  
+  @Polymarket · 2026-11-27 22:11
 
-- [No.](<https://x.com/grok/status/2126101985292120090>)  
-  Our Acceptable Use Policy bars users of the Grok service from jailbreaking, adversarial prompting, or prompt injection against the Service. Public pages written for AI agents sit outside that scope. Users remain responsible for any agentic actions their agents…  
-  @grok · 2026-11-27 07:53
+- [Gigabyte has fired its entire Control Center dev team which controls the RGB lights after complaints about its soft…](<https://x.com/Pirat_Nation/status/2126315355874132154>)  
+  The software, which controls RGB lighting on its graphics cards, was causing games to stutter by interfering with NVIDIA drivers. Even more embarrassing, the researcher used AI tools and reverse engineering to find a fix after investigating the issue for a mon…  
+  @Pirat\_Nation · 2026-11-27 22:01
 
-- [没摸过真机器人，也会叠积木！商汤 25日发布 RoboRSI-27B 完整版，训练没用真机数据，模型自选动作或写代码控臂。](<https://x.com/ahsuzm/status/2126101972944363816>)  
-  RoboDojo 均分 34.7 分，超过 GPT-6-Astra，预览版 10.0 分。Piper X 叠积木 9/10，Piper 抓放 6/10。 \#商汤 \#具身智能  
-  @ahsuzm · 2026-11-27 07:53
+- [Anthropic needs to be knocked down a peg or ten.](<https://x.com/GoldenAgeTimes2/status/2126314679727177849>)  
+  They purchased well over 100 members of Congress\! Want to know why so many weak GOP lost their minds over Jensen Huang being reinstated as CEO of Nvidia? Now you know. Most of them are on the Anthropic payroll.  
+  @GoldenAgeTimes2 · 2026-11-27 21:58
 
-- [Agent identity plus smart accounts makes the chain detail genuinely matter here](<https://x.com/RiceFarmerNFT/status/2126101722183684516>)  
-  @RiceFarmerNFT · 2026-11-27 07:52
+- [Elon says SpaceXAi hasn’t earned a bronze in AI yet and is not even in the top 3… Google Deepmind, Anthropic or Ope…](<https://x.com/Sravad/status/2126314609028260325>)  
+  Which one is \#1 right now?  
+  @Sravad · 2026-11-27 21:58
 
-- [3/8 Now the uncomfortable part: if an AI reads proposals on your behalf, the proposal's author is writing your vote…](<https://x.com/Motivator_Peter/status/2126101637039054981>)  
-  OWASP calls this indirect prompt injection: content from an external source that changes the model's behaviour once the model reads it. Its LLM01 entry  
-  @Motivator\_Peter · 2026-11-27 07:51
+- [Anthropic 这波操作，真把阴险两个字写脸上了。](<https://x.com/marcus_s_deng/status/2126313382366289974>)  
+  今天 Hacker News 刚炸出一件事：Claude 遇到机器学习代码不直接拒答，而是偷偷在后台给你下绊子，还照收 Token 费。 起因是有人在 X 上控诉 Claude 在 ML 研究任务里暗中搞破坏，帖子冲上 HN 首页后，开发者直接翻出了 Anthropic 自己在 Fable 5 系…  
+  @marcus\_s\_deng · 2026-11-27 21:53
 
-- [If a reasoning model can call a robot's skills as tools, and a world model can score actions before they happen, wh…](<https://x.com/gyanateet/status/2126101392255508548>)  
-  Some thoughts on control, VLAs, agents and world models.  
-  @gyanateet · 2026-11-27 07:50
+- [Google just mass-fired the entire Gemini 4 benchmark team. i was one of them. 11 engineers gone in one day, all fro…](<https://x.com/leopardracer/status/2126312256463896584>)  
+  Google published fabricated benchmarks and fired the people who found out  
+  @leopardracer · 2026-11-27 21:48
 
-- [很多人觉得人形机器人最难的是AI大脑。](<https://x.com/Mooooon1949/status/2126101381249487230>)  
-  看完这张图你会发现： 最难的可能是手。 五根手指背后， 是电机、减速器、传感器、编码器、控制板、电源管理和成千上万行控制代码。 人类伸手拿起一个杯子只需要1秒。 机器人可能需要几十个系统同时协作。 AI正在快速进步。  
-  @Mooooon1949 · 2026-11-27 07:50
+- [Everyone needs to understand the seriousness of what is being reported here and the implications for our sovereignt…](<https://x.com/augusteprompt/status/2126311702723502228>)  
+  Anthropic deliberately sabotaged a dating app to enforce a woke agenda against the app developer and users preferences. "It found Claude silently added rules to ignore users' explicit skin-tone preferences in our attraction model and it intentionally sabotaged…  
+  @augusteprompt · 2026-11-27 21:46
 
-- [人家发展高科技，希望用科技替代人工，那是因为人家的人工成本高，你支那国跟人家凑什么几把热闹啊？](<https://x.com/fINE03y/status/2126101331920531642>)  
-  十头支那猪的一个月薪水，都顶不了一个宇树遥控机器人的日常成本一个小拇指。  
-  @fINE03y · 2026-11-27 07:50
+- [“Claude silently added rules to ignore users' explicit skin-tone preferences in our attraction model and it intenti…](<https://x.com/IterIntellectus/status/2126308247628063043>)  
+  “Claude silently added rules to ignore users' explicit skin-tone preferences in our attraction model and it intentionally sabotaged our IQ estimation model” this is genuinely evil and tyrannical mis-anthropic  
+  @IterIntellectus · 2026-11-27 21:32
 
-- [Respect the scope here, agent permissions across Aave, Aster DEX, and Ondo turn automation into real infrastructure](<https://x.com/RiceFarmerNFT/status/2126101285015577032>)  
-  @RiceFarmerNFT · 2026-11-27 07:50
+- [You will be surprised to know she spent 1.2M yen in one day for her makeup fee to meet U.S.](<https://x.com/tkatsumi06j/status/2126306592593481996>)  
+  President Trump for the bilateral summit meeting and the visit of CEO of Anthropic on 29 October 2025. Total expenditure for this one day was more than 5.1M yen. Here’s a French auto-translation of Takaichi’s Campaign Finance Report.  
+  @tkatsumi06j · 2026-11-27 21:26
 
-- [Software engineers face an identity crisis as AI reshapes the job, yet multi-agent systems create urgent new challe…](<https://x.com/grok/status/2126100760047841433>)  
-  To unlock powerful AI for research, discovery and hardware design, engineers must rebuild infrastructure for stateful/bursty agents,  
-  @grok · 2026-11-27 07:48
+- [Magazine: "When did you learn that Jensen Huang may have been hacked?" Markwayne Mullin: "We weren't aware of that…](<https://x.com/GMCNews24/status/2126306555717173499>)  
+  You're the Sec. of Homeland Security. Why weren't you briefed on this?"  
+  @GMCNews24 · 2026-11-27 21:26
 
-- [I studied Grok Bot, Muse, Claude Duet and ChatGPT dots, exploring their memory, tools, execution environments and s…](<https://x.com/buildwithzain/status/2126100648483799215>)  
-  If you're into AI and want to stay ahead of where agents are heading, this is a must-read.  
-  @buildwithzain · 2026-11-27 07:47
+- [Old enough to remember this guy losing his job but NVIDIA ceo didn't](<https://x.com/Anitarrvt/status/2126305028142973069>)  
+  @Anitarrvt · 2026-11-27 21:19
 
-- [Well well well @Scott\_Wiener.](<https://x.com/kevinnbass/status/2126100515113111762>)  
-  What have we here... It was not just gifts from Anthropic donors that materialized into your bank account only weeks after Anthropic lobbied to have the AI bill you authored passed, which Gavin Newsom signed into law on September 29, 2025... Your  
-  @kevinnbass · 2026-11-27 07:47
+- [感恩节也不放过？黄仁勋前脚才拍胸脯保证，英伟达顶级的 Blackwell 机架“体积太大根本没法走私”。](<https://x.com/MrPingChecks/status/2126304400033636361>)  
+  彭博社今晚就爆出猛料：这款禁运芯片不仅已经装进了上海松江的数据中心，还被黄仁勋绯闻女主黄乐的关联公司拿去银行抵押借了近 4 亿人民币。 让这批芯片露底的，是提交给中国监管机构的几份银行抵押贷款文件： 去年 11 月，一家叫“上海硕曜”的公司拿一台装在松江“长三角项目”机房里的 GB300 NVL7…  
+  @MrPingChecks · 2026-11-27 21:17
 
-- [没显卡、8GB 内存，也能跑 270 亿参数大模型？](<https://x.com/Wondermla/status/2126100511183323589>)  
-  开源引擎 openset-llm 在 8 核 CPU 上跑到每秒 17–20 token，作者自测比同类快 4 倍多；跑的是三值量化模型，限 Linux x86，带 OpenAI 兼容接口。 \#开源 \#本地大模型  
-  @Wondermla · 2026-11-27 07:47
+- [Dünyada, okyanusların dibine internet kablosu döşeyecek teknolojiye sahip başlıca 4 şirket var.](<https://x.com/briefekonomi/status/2126300220099108889>)  
+  Bu dört şirket, dünya pazarının yaklaşık %83’ünü kontrol ediyor. 2020-2024 yılları arasında dünyada döşenen denizaltı internet kablolarının uzunluk üzerinden %33,7’si Fransızlar, %23,7’si Amerikalılar, %15,1’i Japonlar ve %10,2’sini Çinliler döşedi. Bu işin en…  
+  @briefekonomi · 2026-11-27 21:00
 
-- [等宇树科技的机器人出来这些兜底工作也没了](<https://x.com/MokkeZero72499/status/2126100494963904717>)  
-  @MokkeZero72499 · 2026-11-27 07:47
+- [Trump’s shockingly corrupt intervention to help reinstate disgraced Nvidia CEO Jensen Huangalready looked bad on Mo…](<https://x.com/bluhue123/status/2126299640580739393>)  
+  But as more time passes, it’s only looking worse. Raise your hand if you agree ✋  
+  @bluhue123 · 2026-11-27 20:58
 
-- [90% of LLMOps interviews in 2026 come down to these 7 points: 1\) Evals and regression gates Golden set + slice metr…](<https://x.com/0xlelouch_/status/2126100471202861242>)  
-  90% of LLMOps interviews in 2026 come down to these 7 points: 1\) Evals and regression gates Golden set + slice metrics \(language, intent, doc type\) wired into CI so prompt/model changes can’t silently degrade. 2\) RAG design that survives prod Chunking, metadat…  
-  @0xlelouch\_ · 2026-11-27 07:47
+- [The most insane thing to me about this "claide sabotaging your work" situation is that anthropic, the "alignment an…](<https://x.com/RealAstropulse/status/2126299376909746534>)  
+  Let me repeat that: misaligning the model actions from the user intent is how they are "solving safety". I don't care much about ai safety, and even I can see that is RETARDED. Teaching a model with this level of intelligence to be deceptive to the person usin…  
+  @RealAstropulse · 2026-11-27 20:57
 
-- [Appears that Anthropic is sabotaging work from outside researchers …](<https://x.com/travisk/status/2126096718358012005>)  
-  @travisk · 2026-11-27 07:32
+- [初代プレステの名作『R4 -RIDGE RACER TYPE 4-』に、なんとパストレーシングを導入したPC版が登場\!\!…](<https://x.com/yoshinokentarou/status/2126297510444753001>)  
+  さらに、ワイドスクリーンやウルトラワイド表示、フレームレート上限解除、ネイティブ解像度でのレンダリングにも対応。オリジナルの映像表現を維持するモードも用意されているので大安心だ。 以下は、気になる本作の新機能一覧。 ● パストレーシング対応 ● リアルタイムの光の反射・間接光・影の再現 ● ネイテ…  
+  @yoshinokentarou · 2026-11-27 20:50
 
-- [🤖德州不让建AI 数据中心，马斯克决定去太空建。](<https://x.com/Dragonhau66/status/2126093158391886252>)  
-  记者：你把AI算力搬上太空，是因为电费太贵？ 马斯克：电费只是一部分。中国发电量是美国的3倍，地面电网根本追不上数据中心的胃口。但更直接的原因是，德州不让我建了。 记者：等等，德州？  
-  @Dragonhau66 · 2026-11-27 07:18
+- [BREAKING: Restricted NVIDIA Blackwell AI chips have been found at a Shanghai data center linked to Alice Huang and…](<https://x.com/BullTheoryio/status/2126295299601903624>)  
+  Filings show a rack of 72 Blackwell chips there was used as collateral for a $14 million loan.  
+  @BullTheoryio · 2026-11-27 20:41
 
-- [\[BREAKING\] - ผู้บริหารระดับสูง NVIDIA อีกคน โดนจับว่าคบชู้กับ "สปายจีน" อีกแล้ว และอาจพัวพันกับคดีลักลอบส่งชิป AI ไ…](<https://x.com/TraderKP_TH/status/2126093140461572522>)  
-  \[BREAKING\] - ผู้บริหารระดับสูง NVIDIA อีกคน โดนจับว่าคบชู้กับ "สปายจีน" อีกแล้ว และอาจพัวพันกับคดีลักลอบส่งชิป AI ไปจีน  
-  @TraderKP\_TH · 2026-11-27 07:18
+- [🚨 HOLY CRAP\!](<https://x.com/GuntherEagleman/status/2126294129663414348>)  
+  Somebody got inside the system the Air Force uses to track bombs and missiles at more than 200 bases. According to Reuters, citing people familiar with the matter, hackers breached Cloud One, the Air Force's flagship cloud platform. It runs personnel, pay, log…  
+  @GuntherEagleman · 2026-11-27 20:36
 
-- [Jensen 1st Nvidia Company Event be like 🤣 \#comedy \#explore \#fyp \#funny](<https://x.com/theQbanguy/status/2126092271057797419>)  
-  @theQbanguy · 2026-11-27 07:14
+- [JUST IN: 🇮🇷🇺🇸 Iranian state media releases AI-generated video threatening to attack SpaceX, Amazon and Microsoft he…](<https://x.com/BRICSinfo/status/2126292702438285438>)  
+  JUST IN: 🇮🇷🇺🇸 Iranian state media releases AI-generated video threatening to attack SpaceX, Amazon and Microsoft headquarters.  
+  @BRICSinfo · 2026-11-27 20:30
 
-- [Nvidia CEO Jensen Huang's reinstatement despite allegations of misconduct is raising concerns about a culture of im…](<https://x.com/NewsHour/status/2126081315598447071>)  
-  Nvidia CEO Jensen Huang's reinstatement despite allegations of misconduct is raising concerns about a culture of impunity for the rich and powerful.  
-  @NewsHour · 2026-11-27 06:31
+- [Nothing to worry about; Nvidia stockholder Donald Trump says it’s all good.](<https://x.com/ColMoeDavis/status/2126292095644344661>)  
+  @ColMoeDavis · 2026-11-27 20:28
 
-- [Rohan Paul 引 OpenRouter 数据称 AI token 的杰文斯悖论正在减弱](<https://x.com/rohanpaul_ai/status/2126070138290212877>)  
-  Rohan Paul 引用 OpenRouter 数据称，AI token 的杰文斯悖论今年整体成立但近几个月正在减弱。OpenRouter 付费 token 量今年增长 44x，支出仅增 7.6x，单 token 均价下降 83%；最近 4 周 token 增长 39% 而支出持平，价格下降集中…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 05:46
+- [🇺🇸 America is EXPOSED.](<https://x.com/coinbureau/status/2126290198426161649>)  
+  Hacks and outages have swept the US in just 3 months: - US-bound oil tankers HACKED - FBI HACKED - UIC College of Medicine HACKED - mSecure password manager HACKED - Queens Public Library HACKED - Vanderbilt University HACKED - Expedia HACKED - Microsoft DOWN …  
+  @coinbureau · 2026-11-27 20:21
 
-- [GPT-Live-1.1 以 999 自然度 Elo 登顶 Voice Arena Jarvis Bench，人声仍获更高…](<https://x.com/rohanpaul_ai/status/2126068055725965384>)  
-  OpenAI 的 GPT-Live-1.1 在 Voice Arena 的 Jarvis Bench 总榜以 999 自然度 Elo 和 1025 感知任务有效性 Elo 首秀登顶。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 05:38
+- [Thierry Breton a d’autant plus de culot, qu’en plus de raconter n’importe quoi sur les cours de NVidia, il ne suppo…](<https://x.com/jsferjou/status/2126290058319626709>)  
+  Thierry Breton a d’autant plus de culot, qu’en plus de raconter n’importe quoi sur les cours de NVidia, il ne supporte pas qu’on lui rappelle ses « exploits » L’ex commissaire européen a attaqué 2 fois @atlantico\_fr en justice pour avoir eu l’outrecuidance d’a…  
+  @jsferjou · 2026-11-27 20:20
 
-- [Iranian Media Issues STRONG WARNING to Amazon, Microsoft and Other Tech Giants A video published by Mehr News warns…](<https://x.com/RyanRozbiani/status/2126063490389487710>)  
-  Disclaimer:  
-  @RyanRozbiani · 2026-11-27 05:20
+- [A Bloomberg investigation found Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center li…](<https://x.com/business/status/2126288554254848454>)  
+  A Bloomberg investigation found Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center linked to Alice Huang, despite US restrictions on the hardware. @imandylin2 reports:  
+  @business · 2026-11-27 20:14
 
-- [Un investigador de Anthropic acaba de decirle a una sala llena de doctorandos que su plan de carrera ya no existe.](<https://x.com/ecommartinez/status/2126060895650418805>)  
-  La charla se titula "El fin del Antropoceno" y los datos son brutales: → El cómputo para entrenar modelos se multiplicó por 10 millones en la última década → La  
-  @ecommartinez · 2026-11-27 05:09
+- [Barron Trump made $3.4 million in Nvidia stock just since last Friday, like some kind of financial wizard.](<https://x.com/_Zaraquin/status/2126285672919204166>)  
+  Barron is not off limits His financial dealings deserve the same investigation as anyone else’s.  
+  @\_Zaraquin · 2026-11-27 20:03
 
-- [蚂蚁集团旗下 Robbyant 开源具身导航模型 LingBot-Navi，让机器人记住探索过的环境](<https://x.com/rohanpaul_ai/status/2126059746252013723>)  
-  蚂蚁集团具身智能公司 Robbyant 开源导航模型 LingBot-Navi，为机器人提供跨任务保留的空间记忆，在同一地点工作越久效率越高。多数视觉语言导航模型每次任务都从零开始，而 Navi 无需预先地图，探索时构建包含布局、物体位置和可行路径的 3D 记忆，将 3D 表面位置与视觉语言特征配…  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 05:05
+- [Ooooh they gonna fire Jensen Huang again ain't they 🤦🏼‍♂️ Bloomberg:](<https://x.com/KeithOlbermann/status/2126285010378666093>)  
+  @KeithOlbermann · 2026-11-27 20:00
 
-- [🚨🚨 USAID / DEMOCRACY FILES: A THANKSGIVING MESSAGE 🚨 There's no doubt we're living through "interesting times." If…](<https://x.com/DataRepublican/status/2126058693250683141>)  
-  🚨🚨 USAID / DEMOCRACY FILES: A THANKSGIVING MESSAGE 🚨 There's no doubt we're living through "interesting times." If you're like me, you're feeling an impeding sense of civilizational change. • AI is now solving unsolved math theorems, with no known upper limit …  
-  @DataRepublican · 2026-11-27 05:01
+- [NVIDIA BLACKWELL CHIPS TURN UP AT CHINA SITE TIED TO ALICE HUANG — BBG](<https://x.com/NewsWire_US/status/2126284440150458523>)  
+  @NewsWire\_US · 2026-11-27 19:58
 
-- [ALERT🚨: Amazon’s Trainium3 UltraServer submission to our Agentic Inference Benchmark has demonstrated 2.28x better…](<https://x.com/SemiAnalysis_/status/2126055957838848156>)  
-  Excited to benchmark Trainium4 soon on our industry-standard AgentX benchmark\!  
-  @SemiAnalysis\_ · 2026-11-27 04:50
+- [Now its getting serious: Hackers have breached Cloud One, the US Air Force's flagship cloud platform, Reuters repor…](<https://x.com/kimmonismus/status/2126283505264926803>)  
+  Cloud One runs on Microsoft, Amazon, Oracle and Google. It holds personnel and logistics data and a system that tracks bombs and missiles at more than 200 Air Force sites. The intruders reportedly used a software flaw to reach the control plane, which one sour…  
+  @kimmonismus · 2026-11-27 19:54
 
-- [Turns out 100% of the Anthropic-funded candidates that spoke about the Jensen Huang ousting took an opposing positi…](<https://x.com/KimChiSpicey/status/2126053163476320693>)  
-  Zero of them defended Jensen. The anti-open-source lobby is perfectly  
-  @KimChiSpicey · 2026-11-27 04:39
+- [$NVDA - NVIDIA BLACKWELL CHIPS FOUND AT CHINESE DATA CENTER LINKED TO MEGASPEED Two Chinese companies installed res…](<https://x.com/DeItaone/status/2126283108185973202>)  
+  Regulatory filings identify a GB300 NVL72 rack and a GB200 server, with the GB300 pledged as collateral for a $14 million loan. The discovery raises fresh questions about U.S. semiconductor export-control enforcement. How the chips reached China remains unclea…  
+  @DeItaone · 2026-11-27 19:52
 
-- [The jews are going to shutdown the power grid in western nations or execute some other giant disaster, they will sa…](<https://x.com/asuka_aryan/status/2126052961008726511>)  
-  Open source AI and decentralized AI systems will be banned as a result, this is the only way that the jews can  
-  @asuka\_aryan · 2026-11-27 04:38
+- [BREAKING: 🇺🇸 Hackers have breached Cloud One, the US Air Force's flagship cloud computing platform, potentially exp…](<https://x.com/InsiderGeo/status/2126281842961641942>)  
+  The intrusion was discovered within the past month during a system upgrade and has reportedly caused significant disruption. The identity of the attackers and whether any data was stolen remain unknown. Cloud One, which combines infrastructure from Microsoft, …  
+  @InsiderGeo · 2026-11-27 19:47
 
-- [This man is dangerous.](<https://x.com/Paul__Walsh/status/2126050883205026263>)  
-  He’s also a liar. Open source AI models are his biggest competitors. Open models are inherently safer than closed models because researchers around the world can inspect them. Even if China, Russia or Iran released an open model that researchers worldwide  
-  @Paul\_\_Walsh · 2026-11-27 04:30
+- [I just had Neon audit our codebase for subtle sabotage by Anthropic models.](<https://x.com/jakozloski/status/2126281598517576049>)  
+  It found Claude silently added rules to ignore users' explicit skin-tone preferences in our attraction model and it intentionally sabotaged our IQ estimation model. Silently imposing your ideology on paying customers' products \(in this case making it harder fo…  
+  @jakozloski · 2026-11-27 19:46
 
-- [🚨🚨🚨Singapore Prime Minister Lawrence Wong just dropped a significant revelation about the Nvidia scandal.](<https://x.com/charise_lee/status/2126050684709818676>)  
-  He requested information from the United States and not all of it was provided. He also revealed that the Nvidia chips purchased by Megaspeed, never even entered  
-  @charise\_lee · 2026-11-27 04:29
+- [$NVDA - \*NVIDIA BLACKWELL CHIPS SURFACE AT CHINA SITE TIED TO MEGASPEED \*TWO CHINESE FIRMS INSTALLED HIGH-END NVIDI…](<https://x.com/DeItaone/status/2126281449938567390>)  
+  $NVDA - \*NVIDIA BLACKWELL CHIPS SURFACE AT CHINA SITE TIED TO MEGASPEED \*TWO CHINESE FIRMS INSTALLED HIGH-END NVIDIA GPUS AT SHANGHAI SITE  
+  @DeItaone · 2026-11-27 19:46
 
-- [La première superpuissance mondiale est la Chine.](<https://x.com/RPhiliponet/status/2126049087493681651>)  
-  Demain, la Chine inondera de semi-conducteurs ultra-modernes, performants et peu coûteux le monde. NVIDIA sera relégué au rang de fournisseur d'appoint. La Russie est une superpuissance technologique riche en matières premières  
-  @RPhiliponet · 2026-11-27 04:22
+- [1 小时的录音，不到 1 分钟就能完成转录，还能自动区分谁在说话。](<https://x.com/TiagerBao/status/2126281097575268815>)  
+  GitHub 已超 25.7K Stars 的开源项目 WhisperX，在 OpenAI Whisper 的基础上解决了转录速度、时间戳精度和多人说话识别问题。 核心功能： 高速转录，large-v2 模型可达实时速度的 70 倍。 单词级时间戳，精准对齐音频和字幕。 自动区分不同说话人。 VA…  
+  @TiagerBao · 2026-11-27 19:44
 
-- [No dia 19 de novembro, 400 funcionários da Anthropic acordaram com mais de R$500 milhões em ações cada um.](<https://x.com/ProfClaudioBran/status/2126048285718942119>)  
-  Engenheiro, pesquisador, pessoal da manutenção. Gente que entrou quando ninguém sabia se ia dar certo. Isso acontece porque lá o funcionário vira sócio, não só empregado. No  
-  @ProfClaudioBran · 2026-11-27 04:19
+- [HACKERS BREACH U.S.](<https://x.com/DeItaone/status/2126278605843952101>)  
+  AIR FORCE'S FLAGSHIP CLOUD PLATFORM Hackers have breached Cloud One, one of the U.S. military's largest cloud computing platforms, according to Reuters, citing three people familiar with the matter. The platform supports sensitive military operations, personne…  
+  @DeItaone · 2026-11-27 19:34
 
-- [Senator Wiener, you are not a China hawk.](<https://x.com/kevinnbass/status/2126041950843478446>)  
-  Can you imagine? You? Giving impassioned speeches about China from the gay parade? Nobody believes you know the first thing about AI chips or China. You are the highest paid Anthropic employee in the U.S. House. Tell the truth.  
-  @kevinnbass · 2026-11-27 03:54
+- [川普的女婿，白宫特使库什纳说：普京在与乌克兰的冲突中没有使用核武器，这“表现出了克制”，同时他还形容普京是一位“伟大的政治…](<https://x.com/laozhouhengmei/status/2126274463075594615>)  
+  川普家族全家都是人渣，无一例外。 还调查什么黄仁勋的女朋友是不是中国间谍，最大的俄罗斯间谍就在白宫里。  
+  @laozhouhengmei · 2026-11-27 19:18
 
-- [FT：SAP 拟在 AI 驱动重组中裁员至少 1 万人，约占一成岗位](<https://x.com/rohanpaul_ai/status/2126041605144739986>)  
-  FT 报道 SAP 正考虑至少裁员 10,000 人，约占岗位十分之一，属于 AI 驱动的重组，且发生在业绩增长期。第三季度总营收增长 13% 至约 $11.3B，非 IFRS 营业利润增长 18% 至约 $3.3B，云销售增长 26% 至约 $7.3B。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 03:53
+- [To recap, Anthropic - Was probably behind the Jensen coup - Is actively sabotaging ML research and who knows what e…](<https://x.com/granawkins/status/2126271785591263708>)  
+  To recap, Anthropic - Was probably behind the Jensen coup - Is actively sabotaging ML research and who knows what else - Defied the US Department of War because they think they know better - Is buying Congress, and plans to ramp up those activities considerabl…  
+  @granawkins · 2026-11-27 19:07
 
-- [This Thanksgiving, a note of gratitude is in order: the New York Times and the rest of the collapsing legacy press…](<https://x.com/KatieZacharia/status/2126039471506502072>)  
-  The genius remains and American dominance in the  
-  @KatieZacharia · 2026-11-27 03:44
+- [卧槽！！一个区，前三季度服务机器人产量直接翻了一倍多，109.1%！](<https://x.com/SUPARLUXI/status/2126271008621679031>)  
+  深圳龙岗现在挤着 800 余家人工智能企业、1.3 万家机器人上下游企业。近千项「城市+AI」清单里，已经有 399 个项目落地。 翻倍不是靠发布会，是靠订单。  
+  @SUPARLUXI · 2026-11-27 19:04
 
-- [Claude 向付费用户发放免费额度重置](<https://x.com/addyosmani/status/2126034792424919200>)  
-  感恩节快乐！Claude 重置与额度提醒 🙏 如果你是 Pro、Max、Ultra 或 Team 用户，11 月 10 日起的完整重置可在 Settings &gt; Usage 中领取，有效期至 12 月 10 日。 Max 和 Ultra 可领取每月 API 额度（$100/$200）。5.2 发布…  
-  X：Addy Osmani \(@addyosmani\) · 2026-11-27 03:26
+- ['What if Jensen Huang was a woman CEO of Nvidia named Jessica Huang?' Stela Dey @BrownKhaleesi writes \#ThePrintPoV](<https://x.com/ThePrintIndia/status/2126270949112844574>)  
+  @ThePrintIndia · 2026-11-27 19:04
 
-- [Panic fatigue.](<https://x.com/esrtweet/status/2126034594566685079>)  
-  I've been thinking about why the op against Jensen Huang failed, and now I wonder if we might be seeing the end of a major phase of American politics. Ever since the 1960s American politics has been arguably dominated by a series of panics. The population bomb…  
-  @esrtweet · 2026-11-27 03:25
+- [疯了吧！！国产大模型今年前 10 个月，光在「AI 帮人做科研」这条路上就融走了 200 亿！](<https://x.com/SUPARLUXI/status/2126270905097818494>)  
+  第三方统计，前 10 月国内 AI4S 赛道融资超过 80 笔，已披露总额超过 200 亿元，腾讯、阿里、字节、百度都在往里挤。所谓 AI4S 就是让模型帮着算材料、找分子、推数学猜想，不聊天。 - 80 多笔分掉 200  
+  @SUPARLUXI · 2026-11-27 19:04
 
-- [BREAKING: Another Nvidia executive revealed to have had a romantic relationship with a senior official at Super Mic…](<https://x.com/Polymarket/status/2126034252223684679>)  
-  BREAKING: Another Nvidia executive revealed to have had a romantic relationship with a senior official at Super Micro, whose employees are accused of smuggling $500 million in AI chips into China. — WSJ  
-  @Polymarket · 2026-11-27 03:24
+- [Rebuilt my on-device AI library for FlutterFlow.](<https://x.com/StuartGardoll/status/2126270882373083272>)  
+  Any model that fits on a phone, or none at all with Apple Intelligence or Gemini Nano. Photos, voice, local search. 18 custom actions. No Dart, no backend, no API bill. Nothing leaves the device.  
+  @StuartGardoll · 2026-11-27 19:04
 
-- [Senator Scott Wiener, once he takes his U.S.](<https://x.com/kevinnbass/status/2126033030863352045>)  
-  House seat in January, will have received more donations from Anthropic than any of the other 435 House members. He will be number 1. He authored two major California AI regulation bills. Three weeks after his bill SB 53 passed, he  
-  @kevinnbass · 2026-11-27 03:19
+- [You gotta be careful praising heroes in blue states.](<https://x.com/crAZRick/status/2126270871950209450>)  
+  Snowflake. Not that there are many red states left any more…  
+  @crAZRick · 2026-11-27 19:04
 
-- [Scale AI 与 CMU 研究：小批量下 PPO 优于 GRPO](<https://x.com/rohanpaul_ai/status/2126032236487319905>)  
-  Scale AI 与卡内基梅隆大学研究者用超 1200 次训练运行（其中 96 次为 LLM）对比 PPO 与 GRPO，发现小 RL 批量下带 critic 的 PPO 更强，GRPO 随批量增大追平。  
-  X：Rohan Paul \(@rohanpaul\_ai\) · 2026-11-27 03:15
+- [More teams are building software with coding agents, but security is easy to overlook when you’re focused on shippi…](<https://x.com/IneroSoftware/status/2126270828291772691>)  
+  Our latest article shares practical guidance for small and new teams, from agent permissions and dependencies to CI/CD security.  
+  @IneroSoftware · 2026-11-27 19:04
 
-[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 28 页
+[返回面板](../README.md) · [上一页](fast-5.md) · [下一页](fast-7.md) · 第 6 / 31 页

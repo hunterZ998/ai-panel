@@ -1,6 +1,42 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 18 页
+
+- [Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例](<https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks>)  
+  Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。  
+  Wiz：Research（安全研究） · 2026-11-23 22:46
+
+- [Sierra 融资 17.5 亿美元，估值半年内翻倍至 300 亿美元](<https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/>)  
+  企业客服公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值翻倍至 300 亿美元，距上轮 150 亿美元估值仅六个月。本轮由 Greenoaks 和 Lightspeed 领投。公司称已服务近 50% 的 Fortune 50 企业，五个月内 run-rate 收入翻倍至 4 亿美元，并正与 Meta、Stripe、Walmart 等合作制定智能体协议定义。  
+  TechCrunch：AI（RSS） · 2026-11-23 22:43
+
+- [黄仁勋复职英伟达 CEO，董事会投票恢复其职务](<https://mp.weixin.qq.com/s/gR_c-k_evwV-Iyg6Z7vFQg>)  
+  英伟达董事会于 23 日 21:58 一致投票恢复黄仁勋总裁、CEO 和董事职务，即时生效，理由是其态度坦诚且复职不构成安全风险。此前 11、12 号黄仁勋离职，20 万人签名支持，18 号财报会营收 1158 亿美元、同比增长 103%，董事会一度表示不打算让其复职并寻找永久 CEO；川普公开力挺后局势转折。  
+  公众号：卡尔的AI沃茨 · 2026-11-23 22:36
+
+- [Nvidia 宣布黄仁勋重返 CEO 职位](<https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/>)  
+  Nvidia 董事会周一宣布重新任命黄仁勋为 CEO 兼总裁，距其因婚外情风波辞职不到两周。董事会称在咨询美国政府高级官员后认定黄仁勋不构成国家安全风险，并一致认为他适合领导公司；股价开盘大涨 30%，美东时间 9:51 报 159.95 美元，涨 27%。Colette Kress 将继续担任 CFO。  
+  TechCrunch：AI（RSS） · 2026-11-23 22:21
+
+- [n8n 复盘“周一早晨事故”：Lead Routing 工作流为何停止分配线索](<https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/>)  
+  n8n 用一则虚构事故复盘说明：某团队 40 人都能编辑 Lead Routing 工作流，一名已离职外包人员的账号仍可登录，其密码还曾被贴在 Slack 频道里，导致周六夜间的筛选条件改动无人察觉。文章分别演示 projects 与自定义角色、SSO、2FA 强制三层访问控制如何在各自环节阻断该事故，并提醒从 IdP 停用账号后仍需在 n8n 中手动删除用户。  
+  n8n Blog · 2026-11-23 22:02
+
+- [Sierra 完成 17.5 亿美元融资，估值达 300 亿美元](<https://sierra.ai/blog/series-f-30b>)  
+  Sierra 宣布以 300 亿美元估值融资 17.5 亿美元，由 Greenoaks 和 Lightspeed Venture Partners 领投，Benchmark、Sequoia、GV、Tiger Global 等此前领投方全部跟投。  
+  Sierra：Blog（RSS） · 2026-11-23 21:45
+
+- [155 家儿童权益组织致信亚马逊、eBay，呼吁停止销售 AI 玩具](<https://www.ithome.com/1/031/203.htm>)  
+  由 155 家儿童权益保护组织组成的联盟向亚马逊和 eBay 首席执行官发公开信，呼吁两家平台停止销售 AI 玩具。  
+  IT之家·人工智能 · 2026-11-23 21:15
+
+- [GPT-6.2 Astra 在 Autoform-Hard 上完成 Smoktunowicz gap 定理的 Lean 形式化证明](<https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/>)  
+  OpenAI 的 GPT-6.2 Astra 在 Meta FAIR 的 AutoformBench 子集 Autoform-Hard 上，无人工帮助完成 2006 年 Smoktunowicz gap 定理的 Lean 形式化证明，据 Vals AI 称这是该定理首个 Lean 证明。  
+  The Decoder：AI News（RSS） · 2026-11-23 20:17
+
+- [华硕 ProArt P16 评测：Nvidia RTX Spark 加持下可本地运行百亿参数级 AI 模型](<https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/>)  
+  Ars Technica 发布华硕 ProArt P16 评测，该机搭载 Nvidia RTX Spark N1X 芯片，最高配 128GB LPDDR5x 统一内存，可加载 1000 亿参数以上的本地模型，售价 4399.99 美元起至 6999.99 美元。实测 Qwen 27B 约 20 tokens/秒，重负载推理续航仅约两小时，作者认为它是面向重度本地 AI 用户的利基产品。  
+  Ars Technica：AI（RSS） · 2026-11-23 20:00
 
 - [ChinaTalk 访谈：前爱沙尼亚政府 CIO 畅谈「智能体国家」如何重塑政务服务](<https://www.chinatalk.media/p/the-agentic-state>)  
   Jordan Schneider 采访 The Agentic State 联合创始人、前爱沙尼亚政府 CIO Luukas Ilves，讨论 AI 智能体如何改造政府服务。  
@@ -146,40 +182,4 @@
   「如果世界只剩一个前台，那是悲哀的。」 今年 9 月以来，Instinct、Muse 等 Personal Agent（个人 AI 助理）产品陆续爆火，一度被生产力主流淹没的 AI to C 领域再起变化。10 月 27 日，蚂蚁灵光…  
   晚点聊 · 2026-11-23 09:00
 
-- [Datasette 发布 datasette-charts 0.1a0 图表插件](<https://simonwillison.net/2026/Nov/23/datasette-charts/>)  
-  Datasette 推出 datasette-charts 0.1a0，用 Claude Fable 5.2 构建的原型已发展为完整插件，可在 Datasette Lite 试用。  
-  Simon Willison 博客 · 2026-11-23 08:37
-
-- [微软 CEO 纳德拉坦言 Claude Code 仅半年动摇 VS Code 地位](<https://www.ithome.com/1/030/733.htm>)  
-  据 Windows Latest 报道，微软 CEO 纳德拉表示 Anthropic 推出 Claude Code 后，开发者开始接受命令行形态，传统 IDE 约六个月就失去存在感，微软并未立刻拿出应对方案。  
-  IT之家·人工智能 · 2026-11-23 08:10
-
-- [Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批](<https://claude.com/blog/introducing-claude-ship>)  
-  Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。  
-  Claude：Blog（网页） · 2026-11-23 08:00
-
-- [Hugging Face 发布智能体评测构建与维护指南，用 raman-lab 案例走通八步流程](<https://huggingface.co/blog/agentic-evals>)  
-  Hugging Face 发布智能体评测构建指南，讲解评测从问答、智能体到多智能体团队三个阶段的演进，并以物理实验室拉曼光谱拟合任务 raman-lab 为例，演示从定义 claim 到对比六个模型的八个步骤。  
-  Hugging Face 官方团队博客 · 2026-11-23 08:00
-
-- [vLLM 上用 AMD MoRI UMBP 把 KV 缓存池直接放到 NVMe，同容量吞吐追平 DRAM](<https://vllm.ai/blog/2026-11-23-skip-the-dram-tier>)  
-  AMD 与 vLLM 团队在 AgentX 和 kvlab 智能体负载上实测，1.8 TB NVMe KV 池（基于 AMD 开源 MoRI 库的 UMBP）在 Kimi-K3 上吞吐与同容量 1.8 TB DRAM 池差距保持在 1% 以内，48、70、96 并发会话下分别为 +0.3%、+0.8%、−0.2%。  
-  vLLM 官方博客（RSS） · 2026-11-23 08:00
-
-- [OpenRouter 实测用 MCP 连接器让 Claude 生成图像并对比四款模型](<https://openrouter.ai/blog/tutorials/can-claude-generate-images/>)  
-  OpenRouter 发布教程演示如何通过 OpenRouter MCP 服务器（https://mcp.openrouter.ai/mcp）作为连接器让 Claude 调用图像模型生成真实图片，覆盖截至 2026 年 11 月 19 日的 74 款图像模型。  
-  OpenRouter：Announcements（RSS） · 2026-11-23 08:00
-
-- [Conductor 0.99.0 为 Claude Code 和 Codex 加入用量限制自动恢复](<https://www.conductor.build/changelog/0.99.0-auto-resume-for-claude-code-and-codex>)  
-  Conductor 0.99.0 为 Claude Code 和 Codex 加入自动恢复功能：当对话因用量限制中断，额度重置后 Conductor 可自动续接，智能体从断点继续。该功能可在对话触发限制时或 Settings → General 中开启，同时 Conductor 为 Codex 支持 Ultrafast，Codex 子智能体也会作为后台任务显示。  
-  Conductor 官方更新 · 2026-11-23 08:00
-
-- [Anthropic 发布编码智能体企业安全指南，详解 Claude Code 分层防护](<https://claude.com/blog/enterprise-guide-to-securing-coding-agents>)  
-  Anthropic 发布面向 Team 和 Enterprise 用户的编码智能体企业安全指南，从评估问题、四类智能体风险到判断层和固定边界层给出框架。  
-  Claude：Blog（网页） · 2026-11-23 08:00
-
-- [Anthropic 重访神经元可解释性：回应三大质疑](<https://alignment.anthropic.com/2026/neuron-basis-theory/>)  
-  Anthropic 重新审视"单个神经元难以解释"的三条理由，改为考察每个神经元对模型输出的贡献，并通过关闭神经元或迁移其输出到其他层来验证假设。在 Llama-3.1-8B-Instruct 等四个模型中，一个神经元同时贡献两个无关概念的情况仅占约 1% 或更少，且神经元输出在多数层间含义大致不变。团队追踪了 18 个事实，发现事实虽分布存储但可通过可解释神经元读取。  
-  Anthropic：Alignment Science Blog（网页） · 2026-11-23 08:00
-
-[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 19 页
+[返回面板](../README.md) · [上一页](all-10.md) · [下一页](all-12.md) · 第 11 / 18 页

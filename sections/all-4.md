@@ -1,6 +1,46 @@
 # 全信源资讯
 
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 18 页
+
+- [ILS获得1100万美元A轮融资](<https://www.itjuzi.com/investevent/14708737>)  
+  ILS是一家法律科技研发商，旗舰产品 ProVision 面向私募资本基金法律团队，自动化 side letter 附函、MFN 条款比对与全生命周期管理，配套基金管理人共享协同门户，AI 辅助条款抽取与初稿生成，保留人工复核机制。平…  
+  IT桔子 · 2026-11-26 14:40
+
+- [腾讯混元开源草稿模型 DFly2，让 Hy4 flash 吐字提速 4.2 倍](<https://mp.weixin.qq.com/s/d1HMHrSEChCJiBRZ0tNOyg>)  
+  腾讯混元开源新一代草稿模型 DFly2，作为加速组件挂在 Hy4 flash 旁，在权重与输出不变的前提下提升吐字速度，单项最高提速 4.2×。DFly2 专为 DSA 类稀疏注意力大模型和长上下文场景设计，通过 KV Share 与 Index Share 复用目标模型的 KV cache 和 indexer 选出的至多 2,048 个位置，实现零额外 KV 显存。  
+  公众号：腾讯混元 · 2026-11-26 14:33
+
+- [Sequent获得220万美元种子轮融资](<https://www.itjuzi.com/investevent/14708735>)  
+  Sequent是一家AI辅助形式验证平台提供商，旗下 Alan 平台允许开发者以自然语言定义安全规则，依托 AI 自动生成数学证明，再交由独立 HOL4 定理证明器核验，用于智能合约的严格安全证明，Curve Finance 为首个付…  
+  IT桔子 · 2026-11-26 14:18
+
+- [Wispr Flow 发布语音转文本模型 Canto-2，14 种语言转录错误率平均降低 36%](<https://www.ithome.com/1/032/752.htm>)  
+  Wispr Flow 本周发布语音转文本模型 Canto-2，面向 Mac、Windows、iOS 和 Android 平台，14 种语言转录错误率平均降低 36%，英语错误率降低超过 15%，内部基准中 14 种语言平均错误率从 9.9% 降至 6.3%。  
+  IT之家·人工智能 · 2026-11-26 14:06
+
+- [闪科光联获得数千万人民币天使轮融资](<https://www.itjuzi.com/investevent/14708730>)  
+  闪科光联是一家MicroLED光互联服务提供商，专注于 MicroLED 高速光互连芯片与光引擎研发，致力于为下一代数据中心、AI 集群和超算中心提供低成本、低功耗、高带宽密度的新一代互连方案。近日，闪科光联获得数千万人民币天使轮融资…  
+  IT桔子 · 2026-11-26 13:56
+
+- [博登智能获得数亿人民币B轮融资](<https://www.itjuzi.com/investevent/14708729>)  
+  博登智能致力于构建完善的以数据为导向的人工智能系统。通过提供更精细的训练样本帮助塑造出更强大的决策模型，从而有力地加速人工智能的推广进程，使其在更广泛的领域和场景中得以高效应用。近日，博登智能获得数亿人民币B轮融资，宁波高新投资、招商…  
+  IT桔子 · 2026-11-26 13:51
+
+- [Superframes](<https://www.producthunt.com/products/superframes-ai-video-editor>)  
+  Brief an AI Director to edit the whole video  
+  Product Hunt · English · 2026-11-26 13:09
+
+- [《纽约时报》警告摄影师勿因 AI 功能更新 Photoshop](<https://simonwillison.net/2026/Nov/26/hn-50651685/>)  
+  《纽约时报》警告摄影师不要因 AI 功能更新 Photoshop。Simon Willison 分享亲身经历：为其拍照的 NYT 摄影师表示，报社照片只做裁剪和明暗平衡，不做其他编辑，以呈现拍摄原貌。他强调报纸摄影属于新闻摄影，标准严格。  
+  Simon Willison 博客 · 2026-11-26 13:08
+
+- [NVIDIA 开源 Nemotron 3.5 Parse 训练数据集与微调配方并提升推理速度](<https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin>)  
+  NVIDIA 在此前发布 Nemotron 3.5 Parse 文档解析模型的基础上，开源三个训练数据集（Synthetic Charts V1 约 998 万样本、Synthetic Tables V1 100 万样本、OCR Synthetic Multilingual v2 约 790 万样本）并发布完整微调配方。  
+  Hugging Face 社区博客（混合发现） · 2026-11-26 13:05
+
+- [Pax by Pydantic](<https://www.producthunt.com/products/pydantic>)  
+  A coding agent where even coding is a plugin  
+  Product Hunt · English · 2026-11-26 12:04
 
 - [铠侠与英伟达合作，探索用 SSD 将 GPU 有效显存扩展至 PB 级](<https://www.ithome.com/1/032/722.htm>)  
   铠侠与英伟达启动面向 AI 应用的概念验证，探索借助英伟达 SCADA 软件与铠侠 SSD 将 GPU 有效显存扩展至 PB 级。验证在英伟达 GB200 NVL72 机架级系统上展开，搭载 144 块 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD，总容量约 1.106PB，将测试处理 2 万亿个向量构成的数据库，并支持以 512 字节为单位随机访问 SSD。  
@@ -29,10 +69,6 @@
 - [AidenAI获得3200万美元A轮融资](<https://www.itjuzi.com/investevent/14708722>)  
   AIDEN AI是一家企业AI科技研发商，专注为企业提供AI智能体研发与落地服务，其自研AiDAP统一智能体平台与AI Builder全栈工作台，支持智能体构建、部署及治理，并配套行业预制智能体与遗留系统现代化改造能力，主要服务保险、…  
   IT桔子 · 2026-11-26 11:26
-
-- [AgentDE](<https://www.producthunt.com/products/agentde>)  
-  Put all your coding agents in one native Mac window  
-  Product Hunt · English · 2026-11-26 11:15
 
 - [Anthropic 研究员 Luke Sernau 与 Claude 将黎曼猜想 Lean 证明从 1740 万行精简至 7.6 万行](<https://www.ithome.com/1/032/611.htm>)  
   Anthropic 研究员 Luke Sernau 与同事及 Claude 发布 grh-lean 项目，将此前 1740 万行的黎曼猜想与广义黎曼猜想 Lean 形式化证明重写为约 7.6 万行的紧凑版和约 30 万行的可读版，代码量削减 99.56%。  
@@ -126,6 +162,10 @@
   Control AI coding agents from your phone  
   Product Hunt · English · 2026-11-26 05:44
 
+- [MeetFolks](<https://www.producthunt.com/products/meetfolks>)  
+  AI Notetaker for In-Person Meetings  
+  Product Hunt · English · 2026-11-26 05:33
+
 - [报道称美国芯片限制和反蒸馏措施已拖慢中国 AI 实验室](<https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/>)  
   The Information 报道称，自 9 月以来限制中国企业远程使用境外 Nvidia 芯片以及 OpenAI 和 Anthropic 的反蒸馏措施，已导致 DeepSeek、月之暗面、阿里巴巴等中国 AI 开发商多个项目延迟。  
   The Decoder：AI News（RSS） · 2026-11-26 04:51
@@ -142,43 +182,4 @@
   OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.  
   TechCrunch · 2026-11-26 04:03
 
-- [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](<https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/>)  
-  Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.  
-  TechCrunch · 2026-11-26 03:54
-
-- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](<https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/>)  
-  Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even  
-  TechCrunch · 2026-11-26 03:44
-
-- [Anthropic CEO pushes back on Axios reporting on AI and free will](<https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios>)  
-  Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing bac…  
-  Axios · 2026-11-26 03:28
-
-- [James Shore 面向 CFO 的 AI 辅助开发影响力评估指南](<https://www.oreilly.com/radar/assessing-ai-impact-notes-for-your-cfo/>)  
-  James Shore 在 O'Reilly Radar 发布系列文章的总结篇，面向 CFO 和领导团队梳理如何评估 AI 辅助软件开发的成本与收益。他指出各方案人均月支出相差一个数量级（数百到数千美元），测量收益远难于成本，建议从建模软件项目 ROI 或测量交付速度变化入手，同时警惕 token 补贴带来的价格波动、意外后果、供应商锁定，以及用这些指标考核团队或个人的测量失灵。  
-  O'Reilly Radar（热点 RSS） · 2026-11-26 02:43
-
-- [Remora](<https://www.producthunt.com/products/remora-6>)  
-  The long-term memory layer for AI agents  
-  Product Hunt · English · 2026-11-26 02:28
-
-- [OpenAI 试点 Private Inference，企业可在其最强模型上运行不外泄数据的查询](<https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/>)  
-  OpenAI 正面向首批企业客户试点 Private Inference，企业可在其最强模型上运行查询而 OpenAI 无法访问数据。查询在可独立验证安全性的隔离硬件上处理，Sam Altman 还提到 Private Safety Processing，可在不存储客户数据的前提下扫描滥用内容，被标记内容加密后存放在客户自己的云中。  
-  The Decoder：AI News（RSS） · 2026-11-26 02:22
-
-- [How Bankers Are Turning Tech Stock Volatility Into Cash](<https://www.theinformation.com/articles/bankers-turning-tech-stock-volatility-cash>)  
-  The Information · 2026-11-26 02:12
-
-- [Want to buy your kid an AI toy this Christmas? Not in New York](<https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/>)  
-  New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety fail  
-  TechCrunch · 2026-11-26 02:11
-
-- [vLLM 新加坡 Meetup 复盘：更快 Prefill、智能体写内核与 Vera Rubin 路线](<https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/>)  
-  vLLM 团队复盘 11 月 13 日在新加坡 SGInnovate 举办的技术 meetup，由 Inferact 和 NVIDIA 主办。  
-  PyTorch：Blog（RSS） · 2026-11-26 02:03
-
-- [FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星](<https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers>)  
-  FCC 宣布授权 SpaceX 在 Starmind 计划下部署至多 100 万颗搭载 AI 芯片的卫星，这是该机构首次批准完整的 AI 卫星星座。批准要求 SpaceX 在 2033 年前部署至少一颗卫星，2040 年达到 100 万颗里程碑；FCC 同时搁置了其在 600km 以上坟墓轨道处置卫星的请求，称处置方案信息不足。  
-  The Verge：AI（RSS） · 2026-11-26 01:44
-
-[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 19 页
+[返回面板](../README.md) · [上一页](all-3.md) · [下一页](all-5.md) · 第 4 / 18 页
